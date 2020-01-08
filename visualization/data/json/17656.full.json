@@ -1,0 +1,243 @@
+{
+  "sections": [{
+    "text": "SO2 photoexcitation mechanism links mass-independent sulfur isotopic fractionation in cryospheric sulfate to climate impacting volcanism"
+  }, {
+    "heading": "Shohei Hattoria,b,1, Johan A. Schmidtc, Matthew S. Johnsonc, Sebastian O. Danielacheb,d,e, Akinori Yamadaf, Yuichiro Uenoe,g, and Naohiro Yoshidaa,b,g,1",
+    "text": "Departments of aEnvironmental Chemistry and Engineering and bEnvironmental Science and Technology, Tokyo Institute of Technology, Yokohama 226-8502, Japan; cDepartment of Chemistry, University of Copenhagen, 2100 Copenhagen, Denmark; dFaculty of Science and Technology, Sophia University, Chiyoda-ku, Tokyo 102-8554, Japan; eDepartment of Earth and Planetary Sciences and gEarth-Life Science Institute (ELSI), Tokyo Institute of Technology, Meguro-ku, Tokyo 152-8551, Japan; and fDepartment of Earth and Planetary Science, University of Tokyo, Bunkyo-ku, Tokyo 113-0033, Japan\nEdited by Mark H. Thiemens, University of California at San Diego, La Jolla, CA, and approved December 31, 2012 (received for review September 5, 2012)\nNatural climate variation, such as that caused by volcanoes, is the basis for identifying anthropogenic climate change. However, knowledge of the history of volcanic activity is inadequate, particularly concerning the explosivity of specific events. Somematerial is deposited in ice cores, but the concentration of glacial sulfate does not distinguish between tropospheric and stratospheric eruptions. Stable sulfur isotope abundances contain additional information, and recent studies show a correlation between volcanic plumes that reach the stratosphere and mass-independent anomalies in sulfur isotopes in glacial sulfate. We describe a mechanism, photoexcitation of SO2, that links the two, yielding a useful metric of the explosivity of historic volcanic events. A plume model of S(IV) to S(VI) conversion was constructed including photochemistry, entrainment of background air, and sulfate deposition. Isotopologue-specific photoexcitation rates were calculated based on the UV absorption cross-sections of 32SO2, 33SO2, 34SO2, and\n36SO2 from 250 to 320 nm. Themodel shows that UV photoexcitation is enhancedwith altitude, whereasmass-dependent oxidation, such as SO2+OH, is suppressed by in situ plume chemistry, allowing the production andpreservation of amass-independent sulfur isotope anomaly in the sulfate product. The model accounts for the amplitude, phases, and time development of Δ33S/δ34S and Δ36S/Δ33S found in glacial samples. We are able to identify the process controlling mass-independent sulfur isotope anomalies in the modern atmosphere. This mechanism is the basis of identifying the magnitude of historic volcanic events.\nstratospheric volcanic eruption | sulfur dioxide | wavelength-dependent isotopic fractionation\nAttribution of climate change relies on our understanding ofnatural climate variation. Volcanoes affect climate, but it is not easy to use proxy records to derive the climate impact of a given historical eruption, primarily because we lack knowledge about the volcanoes themselves. Some so-called Plinian eruptions penetrate the stratosphere, resulting in multiyear climate impacts (1). Volcanic sulfur dioxide (SO2) in a plume is photooxidized in the atmosphere. In the troposphere, the sulfuric acid product is washed out as sulfate in acid rain in a matter of weeks. A Plinian eruption, in contrast, intensifies the stratospheric sulfate aerosol (SSA) layer (2), increasing the planet’s albedo (3) and enhancingmidlatitudeO3 depletion (4) for more than a year. Ice core records of sulfate provide an important record of volcanic activity (5), but the concentration of sulfate alone does not indicate the explosivity of the event and specifically, if the plume penetrated the stratosphere (6). A series of groundbreaking studies has shown that sulfur isotopes in sulfate from Plinian eruptions show mass-independent fractionation (MIF) (6–8). Carbonyl sulfide (OCS) is thought to be the main source of background SSA in volcanically quiescent periods (9), and the reactions breaking down OCS, mainly photolysis, show no evidence of sulfur MIF (10–13). MIF is not seen at the source of volcanic emissions (14) or in background\nice core sulfate (15). In a time-resolved analysis from Dome C firn covering the Mt. Agung and Mt. Pinatubo eruptions, sulfate is initially positive in both δ34S and Δ33S. The subsequent change in sign of Δ33S is associated with a significant decrease of δ34S, with a slope (Δ33S/δ34S) of ∼0.1 (8). Moreover, there is broad agreement in Δ36S/Δ33S after both Mt. Agung (−3.3) and Mt. Pinatubo with slopes of −2 to −3 (8), and this trend is different from the Δ36S/Δ33S ratio (approximately −0.9) seen in pre–2.3-Ga sedimentary rock (16, 17). Based on these observations, the sulfur MIF observed in ice core sulfate after stratospheric volcanic eruptions has been attributed to a nonspecific photooxidation process occurring in the stratosphere. Several proposed mechanisms are not able to explain the multiple sulfur isotopic composition of stratospheric oxidation of volcanic SO2. First, although the rate of SO2 photolysis based on isotopologue-specific cross-sections in the region above the dissociation threshold at 220 nm do yield MIF fragments (18), the high concentration of O2 in the modern atmosphere will rapidly reoxidize the SO to SO2, destroying any record of the process. Second, Pavlov et al. (19) proposed that SO3 photooxidation at wavelengths from 195 to 300 nm could explain sulfur MIF; however, in contrast to the highly structured SO2 absorption spectrum, the absorption spectrum of SO3 is smooth, reflecting direct photodissociation (20), and therefore, there is no physical reason why broadband solar photolysis of SO3 would produce mass-independent enrichment. In addition, SO3 photolysis is slow and does not outcompete other SO3 removal processes below 37 km altitude (21); the SO3 + H2O reaction is typically dominant. We conclude that SO3 photolysis is not the main process yielding sulfur MIF in ice cores. Third, measurements of liquid-phase oxidation of SO2 and the gas-phase SO2 + OH reaction show massdependent fractionation (MDF) (22, 23). Therefore in this paper we choose to focus on SO2 photoexcitation ( 1B1← 1A1 and 1A2← 1A1) in the 250–320 nm region (note that, in the modern atmosphere, photoexcitation from 220 to 290 nm is blocked by the ozone layer)."
+  }, {
+    "heading": "Results and Discussion",
+    "text": "Wavelength Dependence of SO2 Photoexcitation. The photolysis and photoexcitation rates of SO2 isotopologues are obtained from the convolution of the actinic flux with the absorption cross-\nAuthor contributions: S.H., J.A.S., M.S.J., S.O.D., Y.U., and N.Y. designed research; S.H., J.A.S., M.S.J., and S.O.D. performed research; S.H., M.S.J., S.O.D., Y.U., and N.Y. contributed new reagents/analytic tools; S.H., J.A.S., M.S.J., A.Y., and Y.U. analyzed data; and S.H., J.A.S., and M.S.J. wrote the paper.\nThe authors declare no conflict of interest.\nThis article is a PNAS Direct Submission. 1To whom correspondence may be addressed. E-mail: hattori.s.ab@m.titech.ac.jp or yoshida.n.aa@m.titech.ac.jp.\nThis article contains supporting information online at www.pnas.org/lookup/suppl/doi:10. 1073/pnas.1213153110/-/DCSupplemental.\n17656–17661 | PNAS | October 29, 2013 | vol. 110 | no. 44 www.pnas.org/cgi/doi/10.1073/pnas.1213153110\nsections (20), and depending on the quantities 33E and 36E (18, 24), the populations of atmospheric SO2* (excited state\n1SO2 and 3SO2), will have mass-independent distributions. We recently determined the absorption cross-sections of SO2 isotopologues in the region of 250–320 nm (24), improving the resolution relative to our earlier work (18) and extending the dataset to 36SO2. There is a significant wavelength-dependent mass-independent isotope effect caused by the red shifting of peak locations and changes in the profiles of the vibronic absorption features (Fig. 1A), and these changes cause the wavelength-dependent isotopic fractionation shown in the work by Danielache et al. (24). The broad spectral trends are the most important for determining isotopic fractionation by SO2 photoexcitation for the present atmospheric scenarios. Moreover, at altitudes below 30 km, the actinic flux at lower energies (wavelengths longer than 290 nm) is emphasized because of O3 absorption in the high-energy region (Fig. 1B).\nIsotopic Fractionation via SO2 Photoexcitation in the Modern Atmosphere. The isotopic fractionation in photoexcited SO2 was calculated from the absorption cross-sections and the stratospheric actinic flux as a function of altitude (25), and the results are shown in Fig. 2. Both 34« and 33E are positive, and 36E is negative. Self-shielding by a large overhead column of SO2 (2.69 × 1018 molecules cm−2) does not change the trends, but the amplitudes of isotopic fractionation constants are increased. The predicted isotopic fractionation constants ranged from 10‰ to 120‰, showing that the elementary mechanism of SO2 photoexcitation produces fractionations larger than the fractionations observed in firn and glacial ice (6–8). This result suggests that additional processes are necessary to explain the isotopic composition of stratospheric sulfate after a Plinian eruption, and indeed, several pathways of SO2 oxidation are known to act in parallel in the stratosphere (and troposphere). The signs of the isotopic trends are consistent with the initial trends seen in the Antarctic sulfate records fromMt. Pinatubo and Mt. Agung (8), which show positive δ34S and Δ33S and negative Δ36S. In particular, the slope of 36E/33E is ca. −2 to −3 and largely consistent with the slope of stratospheric sulfate in the ice and snow records (7, 8). The slope of 33E/34« predicted by this\ncalculation, however, is ∼0.5, whereas the slopes observed in the records of theMt. Agung andMt. Pinatubo eruptions are∼0.1 (8). This exercise shows that the mechanism of SO2 photoexcitation is able to explain the trend in sulfur isotope patterns for sulfate produced in a Plinian eruption. However, given that multiple SO2 oxidation pathways operate simultaneously, a more sophisticated model is necessary to investigate both the amplitude and the time dependence of the signal, including its initial positive and after negative phases. In the next section, we present the result of a plume model constructed to address these issues.\nAtmospheric Reaction Model. A plume model was constructed to investigate the magnitude and direction of the multiple sulfur isotope signals produced in sulfate by stratospheric photooxidation of SO2 in more detail. The model, detailed in SI Materials and Methods, includes the physical mechanisms of entrainment of background air into the plume and deposition of sulfate and a total of 138 photochemical reactions at 20, 26, and 32 km altitudes (Figs. S1 and S2). For a mass-independent distribution of sulfur isotopes in SO2* to be stored in the cryosphere, it is necessary that the products be physically separated from the precursors (at 100% conversion, compositions of the product and the reagent are identical). In addition, the signal of MIF in primary sulfate depends on the competition between oxidation of SO2 through SO2* reactions (Table S2, R35–R43) and oxidation through traditional mass-dependent mechanisms, mainly the three-body addition of OH (Table S2, R2 and R3). Our numerical simulation considers MIF in SO2 photoexcitation (SO2 + hv → 1SO2) based on absorption cross-section measurements (Table S2, R1, a–d) and MDF in SO2 + OH (Table S2, R2, a–d) and SO2 + O (Table S2, R3, a–d). The SO2 + O reaction was included, because it has been suggested that it plays a role in generating the 17O anomaly seen in polar sulfate (26). The key reactions producing sulfate after photoexcitation are 1SO2 (+M)→ 3SO2 (+M) (Table S2, R38 and R39) and\n3SO2 +O2 → SO3 + O (Table S2, R42). SO3 reacts with water vapor to yield gas-phase sulfuric acid, which grows into stratospheric sulfate aerosol. We selected an altitude of 26 km as representative for the stratosphere. Test calculations at other altitudes of the\nHattori et al. PNAS | October 29, 2013 | vol. 110 | no. 44 | 17657\nEA RT\nH ,A\nTM O SP\nH ER\nIC ,\nA N D PL\nA N ET\nA RY\nSC IE N CE\nS SP\nEC IA L FE A TU\nRE\nstratosphere between 20 and 32 km showed only minor variations (SI Materials and Methods and Table S4). Under nonvolcanic conditions, because of the reaction rate constants and concentrations of O3 andOH, sulfate will show very little MIF signal less than ca. 0.05‰ in Δ33S and Δ36S. In the plume, the concentrations of OH and O are suppressed because of catalytic destruction of O3 by volcanic halogens, and UV radiation is enhanced with altitude, allowing a significant MIF signal to develop because of SO2 photoexcitation in the stratosphere (SI Materials andMethods). Modeled SSA product concentrations were averaged into 2-wk bins, and the evolution of this signal with time is influenced by the initial suppression of OH and matches the decrease in SO2 (Fig. S3), which is in agreement with the behavior proposed by Savarino et al. (26). As SO2 is oxidized to sulfate, its isotopic composition changes from positive to negative in δ34S and Δ33S and from negative to positive in Δ36S (Fig. S4). Because of the dominant role of the SO2 + OH reaction, the observed initial isotopic compositions in sulfate (approximately + 17‰, +1.7‰, and −3.4‰ in δ34S, Δ33S, and Δ36S, respectively) are much smaller (95% or less) than the enrichments resulting from SO2 photoexcitation alone, even for a scenario with an initial SO2 mole fraction of 2.5 ppm (Table S1, scenario 1). This\nsuppression of the photoexcitation MIF indicates that the MDF processes are faster than the MIF process, even when O3 is suppressed; the extreme MIF of photoexcitation is diluted by the other reactions. The time evolution of concentrations and isotopic compositions are consistent with the pattern of δ34S reported in the work by Castleman et al. (27), which measured the δ34S value of stratospheric sulfate particles collected from 1962 to 1971, and polar records of Mt. Agung and Mt. Pinatubo reported by Baroni et al. (8). The agreement in the cross-plots of both Δ33S/δ34S and Δ36S/ Δ33S is quite consistent with previous observations, especially for Mt. Agung (8), particularly as a result of the change in concentration of volcanic halogens as background air is entrained into the plume. The slope Δ33S/δ34S is smaller than the 33E/34« value arising from SO2 photoexcitation alone (by approximately +0.5), again because of dilution by MDF processes (Fig. 3A). The relation between Δ33S and δ34S is determined by a combination of MIF and MDF processes giving the observed nonlinear relationship between Δ33S and δ34S. In contrast, the slope of Δ36S/Δ33S does not change with the initial SO2 condition (Fig. 3B), because MDF processes cannot change this slope, strongly implicating SO2 photoexcitation as the origin of MIF in today’s oxygenated atmosphere. In addition, the initial concentration of SO2 in a volcanic plume changes the magnitude of MIF, suggesting that the ice core record contains several types of information concerning the climate impact of past volcanic eruptions. It is interesting that the Δ33S and Δ36S values from Lake Tecopa reported by Martin and Bindeman (28) have the opposite sign but the same slope of Δ33S and Δ36S as the initially produced sulfate in our model. This pattern is consistent with a mechanism in which residual SO2 with the opposite isotopic pattern reenters in the region of volcano-depositing oxidized sulfate. SO2 gas diffuses over a thousand times faster than aerosols, and over the timescales of stratospheric flow, some gas-phase material will escape relative to the aerosols. In fact, the mean values of δ34S and Δ33S in polar records are +9.57‰ and +0.70‰ for Mt. Agung and +9.29‰ and +0.29‰ for Mt. Pinatubo as measured by Baroni et al. (8), although the isotopic composition of the product should be the same as the reagent at 100% conversion. Consequently, the mechanism of loss of sulfate and/or separation of residual SO2 from initially produced sulfate during plume transport will cause initially produced sulfate to deposit in polar regions and residual material to deposit closer to the source. Because of the dominant role of the MDF process SO2 + OH, the sulfur MIF observed in initial sulfate is smaller than the value for SO2 photoexcitation itself. The amount of OH determines sulfur MIF recorded in stratospheric sulfate. Most OH is formed when O3 is photolyzed to produce an excited oxygen atom, O (1D), that reacts with water to yield 2OH. The unique composition of a volcanic plume controls and suppresses OH by depleting O3 and consuming OH. Relatively high mixing ratios of inorganic chlorine (∼0.76%) and inorganic bromine (∼17 ppm) are observed in volcanic plumes, leading to catalytic O3 depletion (29). The results shown in this study are sensitive to the concentration of volcanic gas as shown in Fig. 3, mainly due to halogen levels (SI Materials and Methods and Table S4). In addition to halogens, the amount of water is also important in controlling OH. There is less water in the stratosphere because of freezing and deposition of water during transport through the tropopause, and this dehydration is a contributing factor explaining why sulfur MIF is only observed after Plinian eruptions. Moreover, a 30% decrease in water is observed in our model as well as an OH decrease as suggested by Bekki (30), contributing to sulfur MIF. Thus, sulfur MIF in the stratosphere contains information about O3 depletion in a plume. Overall, the good agreement between the model and the isotopic composition of glacial sulfate, including the magnitude and time dependence of the Δ33S/δ34S and Δ36S/Δ33S plots, shows that the formation\n17658 | www.pnas.org/cgi/doi/10.1073/pnas.1213153110 Hattori et al.\nof a mass-independent population of excited SO2 and its subsequent oxidation to sulfate is a plausible mechanism for the production of sulfur MIF. Although SO2 photoexcitation can explain sulfur MIF in stratospheric sulfate from Plinian eruptions, as described above, it is important to note the potential limitations of the model and discuss the underlying assumptions. We tested the sensitivity of the model using a series of scenarios, varying halogen concentrations, SO2* rate constants, deposition rates of sulfate, and altitudes as described in SI Materials and Methods (Table S4). We\nconclude that the most important parameter determining sulfur MIF in initial sulfate is the concentration of volcanic materials, which controls the contribution of MDF processes as described above. Note that other possible photochemical processes, such as SO2, SO, and SO3 photolysis, are not important for producing sulfur MIF as described in the Introduction and Table S3, and no significant differences were observed within altitudes between 20 and 32 km (Table S4). There are several assumptions in this study that should be investigated in greater detail. First, we ignored radiative effects in the plume and the initial history of the volcanic plume. The actinic flux used in the model does not consider any alterations to radiative conditions of stratosphere caused by the plume itself, but the actinic flux spectrum will vary due to the particular radiative conditions to a given eruption. In addition, although the concentration of SO2 of several parts per million is similar to the concentration assumed by Savarino et al. (7), it is lower than the concentration in the initial plume described in a recent plume model (31). We ignored initial plume chemistry, including heterogeneous chemistry, to focus on homogeneous chemistry in the stratosphere, which is important globally. Second, reduction of water and OH in the stratosphere (30) and the subsequent suppression of MDF processes are important for determining the magnitudes of sulfur MIF. Third, isotopic fractionation derived from self-shielding and intersystem crossing, which we do not consider in our model, should be tested in future studies. Self-shielding has been suggested to generate sulfur MIF (32), and the overhead column of SO2 (2.69 × 1018 molecules cm−2) enlarges the magnitudes of the isotopic fractionations (Fig. 2). However, note that rates of SO2 oxidation in the plume itself become slower, although the fractionation is larger. Whitehill and Ono (33) observed a ratio Δ36S/ Δ33S of +0.64 in an experiment using a Xe lamp with a 250-nm long-pass filter to photolyze SO2 and proposed that intersystem crossing (34) between 1SO2 →\n3SO2 in excited SO2 could contribute to the mass-independent anomaly. The observation by Whitehill and Ono (33) of positive Δ33S and Δ36S is unique; for example, the photochemical chamber experiment of Enghoff et al. (23), in conditions closely resembling the modern atmosphere, yields positive Δ33S and negative Δ36S in product sulfate in accordance with the cross-section measurements (24) and the 253.65 nm emission of a mercury discharge UV lamp (more discussion in SI Materials and Methods). The mechanisms of self-shielding and intersystem crossing are unproven, and future studies should test whether they could be important for the modern atmosphere.\nSummary and Future Directions. The origin of MIF in our model is the differing UV absorption cross-sections of 32SO2, 33SO2, 34SO2, and 36SO2 from 250 to 320 nm (24). Because of competition between different SO2 oxidation pathways, the amplitude and frequency of the sulfur isotope signal is sensitive to the photochemistry within the plume. The dominant oxidation pathway is the oxidative addition of OH to SO2, where OH is produced by O3 photolysis in the presence of water (35). In the model, as in the stratosphere, volcanic halogens strongly influence O3 and HOx radicals. In our model, halogen concentration decreases with time because of entrainment of background air into the plume; in the stratosphere, halogen compounds will also be taken up into particles. Sulfate product is separated from the photochemical source in the plume by deposition, providing a time-resolved record of the relative roles of MIF caused by photoexcitation and MDF by OH oxidation. Indeed, measurements show that plume SO2 is oxidized within 2–3 mo, but the glacial record shows changes over ca. 2 y, confirming that physical separation is important. These effects do not change the Δ36S/ Δ33S slope. The possible influence of self-shielding (32) and/or excited state dynamics, such as intersystem crossing (33), on MIF should be tested in future studies. The general conclusion is that SO2 photoexcitation can explain the sulfur MIF in modern sulfate\nHattori et al. PNAS | October 29, 2013 | vol. 110 | no. 44 | 17659\nEA RT\nH ,A\nTM O SP\nH ER\nIC ,\nA N D PL\nA N ET\nA RY\nSC IE N CE\nS SP\nEC IA L FE A TU\nRE\nafter highly explosive volcanic eruptions but only when O3, Ox, and HOx species are sufficiently suppressed within the plume. We have shown that photoexcitation of SO2 within the special conditions of a volcanic plume is able to explain the MIF pattern observed in glacial records of volcanic sulfate. Because the conditions of high UV radiation and separation combined with stratospheric preservation of produced sulfate can only be achieved in the stratosphere, this mechanism shows that sulfur MIF is a reliable marker for Plinian eruptions with the potential of impacting global climate through formation of sulfate aerosols in the stratosphere. We strongly suggest additional measurements of sulfur MIF in high-resolution time-resolved ice cores using methods similar to the methods used by Ono et al. (36), with the goal of better constraining the correlation between sulfur MIF and climate. In addition to sulfur MIF, it is suggested that oxygen MIF can be used to analyze the SO2 oxidation pathway to take advantage of the additional information available (26). Valuable detail may also be derived from interhemispheric comparisons to consider loss of sulfate during transport."
+  }, {
+    "heading": "Materials and Methods",
+    "text": "Definitions of Isotopic Fractionations. From the measured absorption crosssections of the different isotopologues, it is possible to compute an effective fractionation constant for solar photoexcitation in the stratosphere. The rate constants (k) of SO2 photoexcitation can be evaluated using Eq. 1,\nxk = Z320\n250\nIðλÞxσðλÞe−τðλÞdλ; [1]\nwhere the index x represents the isotopologue, I(λ) represents actinic flux at the top of the plume, σ(λ) is the absorption cross-section of each SO2 isotopolouge, and τ(λ) is the opacity term of the overhead column of absorbing species. To investigate the fractionation of each isotopologue relative to 32SO2 in the SO2 photoexcitation region, the actinic flux at altitudes ranging from 10 to 60 km was used as I from 250 to 320 nm. This actinic flux was provided by C. McLinden of Meteorological Service of Canada (Toronto) (25). For −τ(λ), we considered self-shielding of SO2 at 100 Dobson unit (2.69 × 10\n18 molecules cm−2) of plume. Fractionation constants can be calculated using Eq. 2:\nx«= xk 32k − 1ðx = 33;34; or 36Þ: [2]\nThe mass-dependent relationship describing the equilibrium distribution of sulfur isotopes between phases has been established by Hulston and Thode (37) as follows:\n33α = 34α 0:515 [3]\nand\n36α = 34α 1:90: [4]\nFinally, we approximate deviation from mass-dependent fractionation in 33S (33E) and 36S (36E) according to the work by Ueno et al. (38):\n33E = 33«− h ð34«+ 1Þ0:515 − 1 i ≈ 33«− 0:515× 34« [5]\nand\n36E = 36«− h ð34«+ 1Þ1:90 − 1 i ≈ 36«− 1:90× 34«: [6]\nAtmospheric Reaction Model. A photochemical plume model was constructed to study the effect of variables such as altitude, plume composition, sulfate deposition, photolysis, photoexcitation, and O3 depletion on the sulfur MIF signal. The model calculates concentrations within the plume as a function of time based on a set of initial conditions. Sulfur MIF in plume sulfate depends on several factors that mainly arise from the competition between massdependent oxidation reactions, mainly SO2 + OH, and MIF originating from SO2 photoexcitation (24). An important factor is that OH concentrations are suppressed in the plume because of consumption by SO2, and in addition, OH production is suppressed because of catalytic destruction of O3 by volcanic halogens (30, 39).\nOver 130 reactions were built into the plumemodel, whichwasmade using KINTECUS (v4.0; www.kintecus.com) (Table S2), to show the effect of volcanic gases on in situ chemistry. Initial conditions were chosen to match typical halogen and SO2 ratios measured for volcanic gases. The chemical reactions included photolysis, SO2 oxidation, and Ox, HOx, NOx, ClOx, and BrOx cycles. The sulfur chemistry scheme is shown in Fig. S2. Physical mechanisms included entrainment of background air, modeled as eddy diffusion mixing using constants taken from the literature (40), and settling of sulfate, where the bin time constant was chosen to correspond to physical parameters. Four stable isotopes of sulfur, 32S, 33S, 34S, and 36S, were explicitly considered in the model. Model scenarios were run at altitudes of 20, 26, and 32 km to indicate the effect of varying actinic flux, pressure, and temperature on the model output.\nThe model includes isotopic fractionation in SO2 photoexcitation, SO2 + OH, and SO2 + O, the latter two being mass-dependent. This approximation is based on the observation that the reaction of SO2 is the rate-limiting step for sulfate production in the present atmosphere; after an oxidation process is started, it goes to completion. MIF is introduced through SO2 photoexcitation rates, and self-shielding of SO2 is not considered (\n34« = +54.3‰, 33E = +35.9‰, and 36E = −74.0‰ at 26 km altitude) (Table S2, R1, a–d). In the SO2 + OH reaction, 34SO2 reacts with OH faster than\n32SO2, and we used the isotopic fractionations obtained in the experiments of Harris et al. (22). For the SO2 reaction with O, which is suggested as an important SO2 oxidizer in a Plinian eruption (26), we used the same isotopic fractionation as SO2 + OH because of similarities in the reaction coordinate.\nFinally, a δ34S value for volcanic SO2 of 4.7‰ is defined based on the volcanic sulfur average (41), but note that initial sulfur isotopic composition in 34S is also the parameter that determines δ34S values in produced sulfate as described in SI Materials and Methods.\nACKNOWLEDGMENTS. We thank K. Sudo, C. Yoshikawa, M. Nakagawa, and D. Mahler for valuable assistance. We thank C. McLinden of the Meteorological Service of Canada for sharing actinic flux data. We also thank two anonymous reviewers for valuable comments on this manuscript. This work is supported by Global Environmental Research Fund A-0904 of the Ministry of the Environment, Japan and Grant in Aid for Scientific Research (S) 23224013 of the Ministry of Education, Culture, Sports, and Technology (MEXT), Japan. The research also has received funding from the European Community’s Seventh Framework Programme (FP7/2007-2013) under Grant 237890 and the Danish Council for Independent Research—Natural Sciences. S.H. is supported by Grant in Aid for Japan Society for the Promotion of Science (JSPS) Research Fellows DC1 22-7563 and Global Centers of Excellence (COE) program “From the Earth to Earths” of MEXT, Japan. Y.U. is supported by the funding program for next-generation world-leading JSPS researchers of MEXT, Japan.\n1. Bekki S, Pyle JA (1994) A two-dimensional modeling study of the volcanic eruption of\nMount Pinatubo. J Geophys Res 99:18861–18869. 2. Junge CE (1966) The formation of the stratospheric sulfate layer. Tellus B Chem Phys\nMeteorol 18:685. 3. Myhre G, Berglen TF, Myhre CEL, Isaksen ISA (2004) The radiative effect of the an-\nthropogenic influence on the stratospheric sulfate aerosol layer. Tellus B Chem Phys\nMeterol 56:294–299. 4. WMO (World Meteorological Organization) (2011) Scientific Assessment of Ozone De-\npletion: 2010, Global Ozone Research and Monitoring Project-Report No. 52 (Geneva). 5. Hammer CU (1977) Past volcanism revealed by Greenland Ice Sheet impurities. Nature\n270:482–486. 6. Baroni M, Savarino J, Cole-Dai J, Rai VK, Thiemens MH (2008) Anomalous sulfur iso-\ntope compositions of volcanic sulfate over the last millennium in Antarctic ice cores. J\nGeophys Res 113:D20112.\n7. Savarino J, Romero A, Cole-Dai J, Bekki S, Thiemens MH (2003) UV induced mass-in-\ndependent sulfur isotope fractionation in stratospheric volcanic sulfate. Geophys Res\nLett 30:2131. 8. Baroni M, Thiemens MH, Delmas RJ, Savarino J (2007) Mass-independent sulfur\nisotopic compositions in stratospheric volcanic eruptions. Science 315(5808):84–\n87. 9. Brühl C, Lelieveld J, Crutzen PJ, Tost H (2012) The role of carbonyl sulphide as a source\nof stratospheric sulphate aerosol and its impact on climate. Atmos Chem Phys 12:\n1239–1253. 10. Lin Y, Sim MS, Ono S (2011) Multiple-sulfur isotope effects during photolysis of car-\nbonyl sulfide. Atmos Chem Phys 11:10283–10292. 11. Hattori S, et al. (2011) Ultraviolet absorption cross sections of carbonyl sulfide iso-\ntopologues OC32S, OC33S, OC34S and O13CS: Isotopic fractionation in photolysis and\natmospheric implications. Atmos Chem Phys 11:10293–10303.\n17660 | www.pnas.org/cgi/doi/10.1073/pnas.1213153110 Hattori et al.\n12. Schmidt JA, Johnson MS, McBane GC, Schinke R (2012) Communication: Multi-state analysis of the OCS ultraviolet absorption including vibrational structure. J Chem Phys 136:131101. 13. Schmidt JA, et al. (2013) OCS photolytic isotope effects from first principles: sulfur and carbon isotopes, temperature dependence and implications for the stratosphere. Atmos Chem Phys 13:1511–1520. 14. Mather TA, et al. (2006) Oxygen and sulfur isotopic composition of volcanic sulfate aerosol at the point of emission. J Geophys Res 111:D18205. 15. Alexander B, et al. (2003) East Antarctic ice core sulfur isotope measurements over a complete glacial-interglacial cycle. J Geophys Res Atmos 108(D24):4786. 16. Farquhar J, Bao HM, Thiemens M (2000) Atmospheric influence of Earth’s earliest sulfur cycle. Science 289(5480):756–759. 17. Ueno Y, Ono S, Rumble D, Maruyama S (2008) Quadruple sulfur isotope analysis of ca. 3.5Ga Dresser formation: New evidence for microbial sulfate reduction in the early Archean. Geochim Cosmochim Acta 72:5675–5691. 18. Danielache SO, Eskebjerg C, Johnson MS, Ueno Y, Yoshida N (2008) High-precision spectroscopy of 32S, 33S, and 34S sulfur dioxide: Ultraviolet absorption cross sections and isotope effects. J Geophys Res 113:D17314. 19. Pavlov AA, Mills MJ, Toon OB (2005) Mystery of the volcanic mass-independent sulfur isotope fractionation signature in the antarctic ice core. Geophys Res Lett 32:L12816. 20. Jørgensen S, Grage MML, Nyman G, Johnson MS (2008) Isotope effects in photodissociation: Chemical reaction dynamics and implications for atmospheres. Adv Quantum Chem 55:101–136. 21. Burkholder JB, McKeen S (1997) UV absorption cross sections for SO3. Geophys Res Lett 24:3201–3204. 22. Harris E, et al. (2012) Sulfur isotope fractionation during oxidation of sulfur dioxide: Gas-phase oxidation by OH radicals and aqueous oxidation by H2O2, O3 and iron catalysis. Atmos Chem Phys 12:407–423. 23. Enghoff MB, et al. (2012) An isotopic analysis of ionising radiation as a source of sulphuric acid. Atmos Chem Phys 12:5319–5327. 24. Danielache SO, et al. (2012) Photoabsorption cross-section measurements of 32S, 33S, 34S and 36S sulfur dioxide for the B1B1-X\n1A1 absorption band. J Geophys Res, 117: D24301. 25. McLinden C, McConnell J, Griffioen E, McElroy C (2002) A vector radiative-transfer model for the ODIN/OSIRIS project. Can J Phys 80:375–393. 26. Savarino J, Bekki S, Cole-Dai J, Thiemens MH (2003) Evidence from sulfate mass independent oxygen isotopic compositions of dramatic changes in atmospheric oxidation following massive volcanic eruptions. J Geophys Res 108:4671.\n27. Castleman AJ, Munkelwitz H, Manowitz B (1974) Isotopic studies of the sulfur component of the stratospheric aerosol layer. Tellus B Chem Phys Meteorol 26:222–234. 28. Martin E, Bindeman I (2009) Mass-independent isotopic signatures of volcanic sulfate from three supereruption ash deposits in Lake Tecopa, California. Earth Planet Sci Lett 282:102–114. 29. Gerlach TM (2004) Volcanic sources of tropospheric ozone-depleting trace gases. Geochem Geophys Geosyst 5:Q09007. 30. Bekki S (1995) Oxidation of volcanic SO2: A sink for stratospheric OH and H2O. Geophys Res Lett 22:913–916. 31. von Glasow R (2010) Atmospheric chemistry in volcanic plumes. Proc Natl Acad Sci USA 107(15):6594–6599. 32. Lyons JR (2007) Mass-independent fractionation of sulfur isotopes by isotope-selective photodissociation of SO2. Geophys Res Lett 34:L22811. 33. Whitehill AR, Ono S (2012) Excitation band dependence of sulfur isotope mass-independent fractionation during photochemistry of sulfur dioxide using broadband light sources. Geochim Cosmochim Acta 94:238–253. 34. Zmolek P, Xu X, Jackson T, Thiemens MH, Trogler WC (1999) Large mass independent sulfur isotope fractionations during the photopolymerization of 12CS2 and\n13CS2. J Phys Chem A 103:2477–2480. 35. Harnung SE, Johnson MS (2012) Chemistry and the Environment (Cambridge Univ Press, Cambridge, United Kingdom), pp 140–168. 36. Ono S, Wing B, Rumble D, Farquhar J (2006) High precision analysis of all four stable isotopes of sulfur (32S, 33S, 34S and 36S) at nanomole levels using a laser fluorination isotope-ratio-monitoring gas chromatography–mass spectrometry. Chem Geol 225: 30–39. 37. Hulston JR, Thode HG (1965) Variations in the S33, S34, and S36 contents of meteorites and their relation to chemical and nuclear effects. J Geophys Res 70:3475–3484. 38. Ueno Y, et al. (2009) Geological sulfur isotopes indicate elevated OCS in the Archean atmosphere, solving faint young sun paradox. Proc Natl Acad Sci USA 106(35): 14784–14789. 39. Read WG, Froidevaux L, Waters JW (1993) Microwave limb sounder measurement of stratospheric SO2 from the Mt. Pinatubo volcano. Geophys Res Lett 20:1299–1302. 40. Allen DR, Nakamura N (2001) A seasonal climatology of effective diffusivity in the stratosphere. J Geophys Res 106:7917–7935. 41. Krouse HR, Grinenko VA (1991) SCOPE 43 Stable Isotopes: Natural and Anthropogenic Sulphur in the Environment (Wiley, New York), pp 65–176. 42. Lanciki A, Cole-Dai J, Thiemens MH, Savarino J (2012) Sulfur isotope evidence of little or no stratospheric impact by the 1783 Laki volcanic eruption. Geophys Res Lett 39:L01806.\nHattori et al. PNAS | October 29, 2013 | vol. 110 | no. 44 | 17661\nEA RT\nH ,A\nTM O SP\nH ER\nIC ,\nA N D PL\nA N ET\nA RY\nSC IE N CE\nS SP\nEC IA L FE A TU\nRE"
+  }],
+  "year": 2013,
+  "references": [{
+    "title": "A two-dimensional modeling study of the volcanic eruption of Mount Pinatubo",
+    "authors": ["S Bekki", "JA Pyle"],
+    "venue": "J Geophys Res",
+    "year": 1994
+  }, {
+    "title": "The formation of the stratospheric sulfate",
+    "authors": ["CE Junge"],
+    "venue": "layer. Tellus B Chem Phys Meteorol",
+    "year": 1966
+  }, {
+    "title": "The radiative effect of the anthropogenic influence on the stratospheric sulfate aerosol layer",
+    "authors": ["G Myhre", "TF Berglen", "CEL Myhre", "ISA Isaksen"],
+    "venue": "Tellus B Chem Phys Meterol",
+    "year": 2004
+  }, {
+    "title": "Past volcanism revealed by Greenland Ice Sheet impurities",
+    "authors": ["CU Hammer"],
+    "venue": "Nature",
+    "year": 1977
+  }, {
+    "title": "Anomalous sulfur isotope compositions of volcanic sulfate over the last millennium in Antarctic ice cores",
+    "authors": ["M Baroni", "J Savarino", "J Cole-Dai", "VK Rai", "MH Thiemens"],
+    "venue": "J Geophys Res",
+    "year": 2008
+  }, {
+    "title": "UV induced mass-independent sulfur isotope fractionation in stratospheric volcanic sulfate",
+    "authors": ["J Savarino", "A Romero", "J Cole-Dai", "S Bekki", "MH Thiemens"],
+    "venue": "Geophys Res Lett 30:2131",
+    "year": 2003
+  }, {
+    "title": "Mass-independent sulfur isotopic compositions in stratospheric volcanic eruptions",
+    "authors": ["M Baroni", "MH Thiemens", "RJ Delmas", "J Savarino"],
+    "year": 2007
+  }, {
+    "title": "The role of carbonyl sulphide as a source of stratospheric sulphate aerosol and its impact on climate",
+    "authors": ["C Brühl", "J Lelieveld", "PJ Crutzen", "H Tost"],
+    "venue": "Atmos Chem Phys",
+    "year": 2012
+  }, {
+    "title": "Multiple-sulfur isotope effects during photolysis of carbonyl sulfide",
+    "authors": ["Y Lin", "MS Sim", "S Ono"],
+    "venue": "Atmos Chem Phys 11:10283–10292",
+    "year": 2011
+  }, {
+    "title": "Ultraviolet absorption cross sections of carbonyl sulfide isotopologues OC32S, OC33S, OC34S and O13CS: Isotopic fractionation in photolysis and atmospheric implications",
+    "authors": ["S Hattori"],
+    "venue": "Atmos Chem Phys 11:10293–10303",
+    "year": 2011
+  }, {
+    "title": "Communication: Multi-state analysis of the OCS ultraviolet absorption including vibrational structure",
+    "authors": ["JA Schmidt", "MS Johnson", "GC McBane", "R Schinke"],
+    "venue": "J Chem Phys 136:131101",
+    "year": 2012
+  }, {
+    "title": "OCS photolytic isotope effects from first principles: sulfur and carbon isotopes, temperature dependence and implications for the stratosphere",
+    "authors": ["JA Schmidt"],
+    "venue": "Atmos Chem Phys 13:1511–1520",
+    "year": 2013
+  }, {
+    "title": "Oxygen and sulfur isotopic composition of volcanic sulfate aerosol at the point of emission",
+    "authors": ["TA Mather"],
+    "venue": "J Geophys Res 111:D18205",
+    "year": 2006
+  }, {
+    "title": "East Antarctic ice core sulfur isotope measurements over a complete glacial-interglacial cycle",
+    "authors": ["B Alexander"],
+    "venue": "J Geophys Res Atmos 108(D24):4786",
+    "year": 2003
+  }, {
+    "title": "Atmospheric influence of Earth’s earliest sulfur cycle",
+    "authors": ["J Farquhar", "HM Bao", "M Thiemens"],
+    "venue": "Science",
+    "year": 2000
+  }, {
+    "title": "Quadruple sulfur isotope analysis of ca. 3.5Ga Dresser formation: New evidence for microbial sulfate reduction in the early Archean",
+    "authors": ["Y Ueno", "S Ono", "D Rumble", "S Maruyama"],
+    "venue": "Geochim Cosmochim Acta 72:5675–5691",
+    "year": 2008
+  }, {
+    "title": "High-precision spectroscopy of 32S, 33S, and 34S sulfur dioxide: Ultraviolet absorption cross sections and isotope effects",
+    "authors": ["SO Danielache", "C Eskebjerg", "MS Johnson", "Y Ueno", "N Yoshida"],
+    "venue": "J Geophys Res 113:D17314",
+    "year": 2008
+  }, {
+    "title": "Mystery of the volcanic mass-independent sulfur isotope fractionation signature in the antarctic ice core",
+    "authors": ["AA Pavlov", "MJ Mills", "OB Toon"],
+    "venue": "Geophys Res Lett 32:L12816",
+    "year": 2005
+  }, {
+    "title": "Isotope effects in photodissociation: Chemical reaction dynamics and implications for atmospheres",
+    "authors": ["S Jørgensen", "MML Grage", "G Nyman", "MS Johnson"],
+    "venue": "Adv Quantum Chem",
+    "year": 2008
+  }, {
+    "title": "UV absorption cross sections for SO3",
+    "authors": ["JB Burkholder", "S McKeen"],
+    "venue": "Geophys Res Lett 24:3201–3204",
+    "year": 1997
+  }, {
+    "title": "Sulfur isotope fractionation during oxidation of sulfur dioxide: Gas-phase oxidation by OH radicals and aqueous oxidation by  H2O2, O3 and iron catalysis",
+    "authors": ["E Harris"],
+    "venue": "Atmos Chem Phys 12:407–423",
+    "year": 2012
+  }, {
+    "title": "An isotopic analysis of ionising radiation as a source of sulphuric acid",
+    "authors": ["MB Enghoff"],
+    "venue": "Atmos Chem Phys 12:5319–5327",
+    "year": 2012
+  }, {
+    "title": "Photoabsorption cross-section measurements of 32S, 33S, 34S and 36S sulfur dioxide for the  B1B1-X  1A1 absorption band",
+    "authors": ["SO Danielache"],
+    "venue": "J Geophys Res,",
+    "year": 2012
+  }, {
+    "title": "A vector radiative-transfer model for the ODIN/OSIRIS project",
+    "authors": ["C McLinden", "J McConnell", "E Griffioen", "C McElroy"],
+    "venue": "Can J Phys 80:375–393",
+    "year": 2002
+  }, {
+    "title": "Evidence from sulfate mass independent oxygen isotopic compositions of dramatic changes in atmospheric oxidation following massive volcanic eruptions",
+    "authors": ["J Savarino", "S Bekki", "J Cole-Dai", "MH Thiemens"],
+    "venue": "J Geophys Res",
+    "year": 2003
+  }, {
+    "title": "Isotopic studies of the sulfur component of the stratospheric aerosol layer",
+    "authors": ["AJ Castleman", "H Munkelwitz", "B Manowitz"],
+    "venue": "Tellus B Chem Phys Meteorol",
+    "year": 1974
+  }, {
+    "title": "Mass-independent isotopic signatures of volcanic sulfate from three supereruption ash deposits in Lake Tecopa, California",
+    "authors": ["E Martin", "I Bindeman"],
+    "venue": "Earth Planet Sci Lett 282:102–114",
+    "year": 2009
+  }, {
+    "title": "Volcanic sources of tropospheric ozone-depleting trace gases",
+    "authors": ["TM Gerlach"],
+    "venue": "Geochem Geophys Geosyst 5:Q09007",
+    "year": 2004
+  }, {
+    "title": "Oxidation of volcanic  SO2: A sink for stratospheric OH and H2O",
+    "authors": ["S Bekki"],
+    "venue": "Geophys Res Lett 22:913–916",
+    "year": 1995
+  }, {
+    "title": "Atmospheric chemistry in volcanic plumes",
+    "authors": ["R von Glasow"],
+    "venue": "Proc Natl Acad Sci USA",
+    "year": 2010
+  }, {
+    "title": "Mass-independent fractionation of sulfur isotopes by isotope-selective photodissociation of  SO2",
+    "authors": ["JR Lyons"],
+    "venue": "Geophys Res Lett 34:L22811",
+    "year": 2007
+  }, {
+    "title": "Excitation band dependence of sulfur isotope mass-independent fractionation during photochemistry of sulfur dioxide using broadband light sources",
+    "authors": ["AR Whitehill", "S Ono"],
+    "venue": "Geochim Cosmochim Acta 94:238–253",
+    "year": 2012
+  }, {
+    "title": "Large mass independent sulfur isotope fractionations during the photopolymerization of  12CS2 and  13CS2",
+    "authors": ["P Zmolek", "X Xu", "T Jackson", "MH Thiemens", "WC Trogler"],
+    "venue": "J Phys Chem A 103:2477–2480",
+    "year": 1999
+  }, {
+    "title": "Chemistry and the Environment",
+    "authors": ["SE Harnung", "MS Johnson"],
+    "year": 2012
+  }, {
+    "title": "High precision analysis of all four stable isotopes of sulfur (32S, 33S, 34S and 36S) at nanomole levels using a laser fluorination isotope-ratio-monitoring gas chromatography–mass spectrometry",
+    "authors": ["S Ono", "B Wing", "D Rumble", "J Farquhar"],
+    "venue": "Chem Geol",
+    "year": 2006
+  }, {
+    "title": "Variations in the S33, S34, and S36 contents of meteorites and their relation to chemical and nuclear effects",
+    "authors": ["JR Hulston", "HG Thode"],
+    "venue": "J Geophys Res",
+    "year": 1965
+  }, {
+    "title": "Geological sulfur isotopes indicate elevated OCS in the Archean atmosphere, solving faint young sun paradox",
+    "authors": ["Y Ueno"],
+    "venue": "Proc Natl Acad Sci USA",
+    "year": 2009
+  }, {
+    "title": "Microwave limb sounder measurement of stratospheric SO2 from the Mt. Pinatubo volcano",
+    "authors": ["WG Read", "L Froidevaux", "JW Waters"],
+    "venue": "Geophys Res Lett 20:1299–1302",
+    "year": 1993
+  }, {
+    "title": "A seasonal climatology of effective diffusivity in the stratosphere",
+    "authors": ["DR Allen", "N Nakamura"],
+    "venue": "J Geophys Res",
+    "year": 2001
+  }, {
+    "title": "SCOPE 43 Stable Isotopes: Natural and Anthropogenic Sulphur in the Environment (Wiley, New York), pp 65–176",
+    "authors": ["HR Krouse", "VA Grinenko"],
+    "year": 1991
+  }, {
+    "title": "Sulfur isotope evidence of little or no stratospheric impact by the 1783 Laki volcanic eruption",
+    "authors": ["A Lanciki", "J Cole-Dai", "MH Thiemens", "J Savarino"],
+    "venue": "Geophys Res Lett 39:L01806. Hattori et al.  PNAS | October",
+    "year": 2012
+  }],
+  "id": "SP:7ed773376a6809fd255df7f77d86b48373ac0284",
+  "authors": [{
+    "name": "Shohei Hattori",
+    "affiliations": []
+  }, {
+    "name": "Johan A. Schmidt",
+    "affiliations": []
+  }, {
+    "name": "Matthew S. Johnson",
+    "affiliations": []
+  }, {
+    "name": "Sebastian O. Danielache",
+    "affiliations": []
+  }, {
+    "name": "Akinori Yamada",
+    "affiliations": []
+  }, {
+    "name": "Yuichiro Ueno",
+    "affiliations": []
+  }, {
+    "name": "Naohiro Yoshida",
+    "affiliations": []
+  }],
+  "abstractText": "Departments of Environmental Chemistry and Engineering and Environmental Science and Technology, Tokyo Institute of Technology, Yokohama 226-8502, Japan; Department of Chemistry, University of Copenhagen, 2100 Copenhagen, Denmark; Faculty of Science and Technology, Sophia University, Chiyoda-ku, Tokyo 102-8554, Japan; Department of Earth and Planetary Sciences and Earth-Life Science Institute (ELSI), Tokyo Institute of Technology, Meguro-ku, Tokyo 152-8551, Japan; and Department of Earth and Planetary Science, University of Tokyo, Bunkyo-ku, Tokyo 113-0033, Japan",
+  "title": "SO2 photoexcitation mechanism links mass-independent sulfur isotopic fractionation in cryospheric sulfate to climate impacting volcanism"
+}

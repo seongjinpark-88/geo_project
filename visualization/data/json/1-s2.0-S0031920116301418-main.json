@@ -1,0 +1,707 @@
+{
+  "sections": [{
+    "text": "Physics of the Earth and Planetary Interiors 268 (2017) 18–34\nContents lists available at ScienceDirect\nPhysics of the Earth and Planetary Interiors\njournal homepage: www.elsevier .com/locate /pepi\nHot climate inhibits volcanism on Venus: Constraints from rock deformation experiments and argon isotope geochemistry\nhttp://dx.doi.org/10.1016/j.pepi.2017.05.007 0031-9201/ 2017 Elsevier B.V. All rights reserved.\n⇑ Corresponding author. E-mail address: sm342@st-andrews.ac.uk (S. Mikhail).\nSami Mikhail a,b,⇑, Michael J. Heap c a The School of Earth and Environmental Sciences, The University of St. Andrews, St. Andrews, UK b St. Andrews Centre for Exoplanet Science, The University of St. Andrews, UK cGéophysique Expérimentale, Institut de Physique de Globe de Strasbourg (UMR 7516 CNRS, Université de Strasbourg/EOST), 5 rue René Descartes, 67084 Strasbourg Cedex, France\na r t i c l e i n f o\nArticle history: Received 20 July 2016 Received in revised form 19 December 2016 Accepted 3 May 2017 Available online 6 May 2017\na b s t r a c t\nThe disparate evolution of sibling planets Earth and Venus has left them markedly different. Venus’ hot (460 C) surface is dry and has a hypsometry with a very low standard deviation, whereas Earth’s average temperature is 4 C and the surface is wet and has a pronounced bimodal hypsometry. Counterintuitively, despite the hot Venusian climate, the rate of intraplate volcano formation is an order of magnitude lower than that of Earth. Here we compile and analyse rock deformation and atmospheric argon isotope data to offer an explanation for the relative contrast in volcanic flux between Earth and Venus. By collating hightemperature, high-pressure rock deformation data for basalt, we provide a failure mechanism map to assess the depth of the brittle–ductile transition (BDT). These data suggest that the Venusian BDT likely exists between 2 and 12 km depth (for a range of thermal gradients), in stark contrast to the BDT for Earth, which we find to be at a depth of 25–27 km using the same method. The implications for planetary evolution are twofold. First, downflexing and sagging will result in the sinking of high-relief structures, due to the low flexural rigidity of the predominantly ductile Venusian crust, offering an explanation for the curious coronae features on the Venusian surface. Second, magma delivery to the surface—the most efficient mechanism for which is flow along fractures (dykes; i.e., brittle deformation)—will be inhibited on Venus. Instead, we infer that magmas must stall and pond in the ductile Venusian crust. If true, a greater proportion of magmatism on Venus should result in intrusion rather than extrusion, relative to Earth. This predicted lower volcanic flux on Venus, relative to Earth, is supported by atmospheric argon isotope data: we argue here that the anomalously unradiogenic present-day atmospheric 40Ar/36Ar ratio for Venus (compared with Earth) must reflect major differences in 40Ar degassing, primarily driven by volcanism. Indeed, these argon data suggest that the volcanic flux on Venus has been three times lower than that on Earth over its 4.56 billion year history. We conclude that Venus’ hot climate inhibits volcanism.\n2017 Elsevier B.V. All rights reserved."
+  }, {
+    "heading": "1. Introduction",
+    "text": "The present-day differences in the expression and intensity of volcanism on the telluric planets serves as a testament to the dynamic nature of planetary evolution (Wilson, 2009). For example, Earth and Venus are colloquially referred to as sibling planets because of their similar mass and bulk composition (i.e., bulk petrology). However, their contrasting atmospheric mass and chemistry (e.g., Gaillard and Scaillet, 2014; Mikhail and Sverjensky, 2014), climate (e.g., Pollack et al., 1980), geomorphology (e.g., Head and Solomon, 1981; Donahue and Russell, 1997; Basilevsky and Head, 2003; Ghail, 2015), and volcanic character\n(e.g., Fegley and Prinn, 1989; Head et al., 1992; Wilson, 2009) is striking: Earth is a crucible of life, whereas Venus is a barren wasteland. Suffice to say, then, Earth and Venus are not identical siblings. The major differences between Venus and Earth are discussed in detail below.\nFirst, the average surface temperatures are 460 and 4 C on Venus and Earth, respectively. The Earth also has an excess in surface water of about 1.2 1021 kg compared to Venus, a difference between five and six orders of magnitude (Donahue, 1999; Lécuyer et al., 2010). The high temperature and low water content of the Venusian surface are a combined consequence of the absence of a magnetic field (Donahue and Russell, 1997), the presence of a dense atmosphere dominated by CO2 (at a pressure of 9 MPa), and its proximity to the Sun (with a solar irradiance of 2611 W/ m2, compared with 1366W/m2 on Earth).\nS. Mikhail, M.J. Heap / Physics of the Earth and Planetary Interiors 268 (2017) 18–34 19\nSecond, hypsometric data show that >80% of the surface elevation of Venus ranges from 1.0 to +2.5 km; only 2% of the surface lies >2 km above the median radius (Fig. 1) (Head and Solomon, 1981; Basilevsky and Head, 2003; Taylor and McLennan, 2009). The surface of Earth, by contrast, has a pronounced bimodal hypsometry (i.e., it has continental rises and ocean basins; Fig. 1). The fact that Venus has a hypsometry with a very low standard deviation is not easily attributable to the absence of plate tectonics on Venus, because Mars—a planet that, like Venus, operates a stagnant-lid tectonic regime (Head and Solomon, 1981; Head et al., 1992; Donahue and Russell, 1997; Basilevsky and Head, 2003)—has a surface hypsometry with a very large standard deviation (Fig. 1).\nThird, the way in which volcanism is manifest on Earth and Venus differs substantially (e.g., Wilson and Head, 1983; Wilson, 2009). For example, while the majority (ca. 90%) of Earth’s volcanism occurs along curvilinear belts and rift-margins, which collectively define tectonic plate boundaries (Cottrell, 2015), Venus operates a stagnant-lid tectonic regime and is dominated by features interpreted to be related to mantle plumes (e.g., Head et al., 1992). Although Venus hosts volcanic features commonly observed on Earth, such as lava plains, discrete lava flows, shield volcanoes, and shield fields, it is also home to enigmatic, flat landforms such as coronae (Head et al., 1992; Stofan et al., 1992; Squyres et al., 1992; McKenzie et al., 1992; Grosfils and Head, 1994; Addington, 2001; Krassilnikov and Head, 2003; Grindrod and Hoogenboom, 2006; Robin et al., 2007; Wilson, 2009; Krassilnikov et al., 2012; Ivanov and Head, 2013).\nAn important difference between volcanism on Earth and Venus is that, by comparing intraplate volcanic fluxes on both Earth and Venus, it is clear that Earth is the most volcanically\nEl ev\nat io\nn (k\nm )\n0 10 20 30 40 50\n12\n10\n8\n6\n4\n2\n0\n-2\n-4\n-6\n-8\n1\n1\n8\n6\n4\n2\n0\n-\n-\n-\n-\nVenus\nFig. 1. Hypsography of Venus, Earth, and Mars (Head and Solomon, 1981; Basilevsky and for each planet.\nactive of the two planets, possibly by at least an order of magnitude (Ivanov and Head, 2013). Indeed, while intraplate volcanic activity on Earth is evidently abundant, evidence for ongoing, present-day volcanism on Venus is comparatively sparse, although it is thought that the vast majority of the Venusian surface is volcanic in origin (Head et al., 1992; Basilevsky and Head, 2003; Wilson, 2009). However, a number of recent findings suggest that volcanic activity on Venus persists to the present: [1] infrared radiation from three volcanic regions showed some flows to be warmer than their surrounding rocks, implying that these lavas are younger than 2.5 Ma (Smrekar et al., 2010); [2] sporadic atmospheric SO2 fluctuations have been observed at Venus (Esposito, 1984; Marcq et al., 2011); and [3] thermal spikes have been reported at Ganiki Chasma, a rift valley proximal to Ozza and Maat Montes (Shalygin et al., 2015). In addition, the sulfuric clouds that envelop the entire planet would not persist beyond 1–50 Ma without the replenishment of SO2, the source of which is presumed to be magmatic (Fegley and Prinn, 1989; Bullock and Grinspoon, 2001).\nTo emphasise the difference between volcanic activity on Earth and Venus: while Earth’s oceanic crust (that covers 60% of Earth’s surface) has created >100,000 individual volcanoes (including seamounts) in <100 Ma (e.g., Wessel, 2001 and references therein), Venus’ entire surface has produced roughly 70,000 individual volcanoes in <700 Ma (Head et al., 1992). The difference in the rate of volcano production is therefore at least an order of magnitude greater on Earth than on Venus. We further note that, because >70% of all extrusive volcanism on Earth occurs beneath ocean depths >1000 m under pressures >9 MPa, the presence of coronae, a landform unique to the surface of Venus, cannot simply be explained by the high Venusian atmospheric pressure (Smith,\n0 10 20\n2\n0\n2\n4\n6\n8\n12\n10\n8\n6\n4\n2\n0\n-2\n-4\n-6\n-8\n0 10 20\nPercentage\nEarth Mars\nHead, 2003; Taylor and McLennan, 2009). Dashed lines mark the mean surface relief\n20 S. Mikhail, M.J. Heap / Physics of the Earth and Planetary Interiors 268 (2017) 18–34\n1996). To wit, Earth’s ocean basins are not littered with coronae, but with well-formed stratovolcanoes (i.e., seamounts).\nThe principal goal of this contribution is to explore the reasons as to why Earth hosts vastly more intraplate volcanoes than Venus. To do so, we formulate a conceptual model that combines data from rock deformation experiments on basalts, which inform on the mechanical behaviour of the crust and therefore the depth of the brittle-ductile transition (BDT) on both planets, with atmospheric noble gas isotope data from Earth and Venus, which inform on planetary volcanic flux. Additionally, our model also offers an explanation as to why volcanoes on Venus are morphologically distinct from those on Earth."
+  }, {
+    "heading": "2. The deformation mode of the Terran and Venusian crusts",
+    "text": "The depth of the BDT on Venus has been estimated numerous times. For example, first-order morphological differences between fold and thrust belts on Earth and Venus can be explained by a shallow BDT on Venus relative to Earth (Williams et al., 1994). Spacing between adjacent extensional structures may match the spacing between linear bands seen in the mountains of Ishtar Terra on Venus if the surficial brittle layer is no more than a few km in thickness (Solomon and Head, 1984). Preservation of substantial crater topographic relief on Venus is likely the result of a thin (<10 km) brittle crust (Grimm and Solomon, 1988). Further, surface features within tesserae (e.g., ribbons, long-wavelength folds, and grabens) offer a wealth of information as to the depth and evolution of the BDT on Venus (Phillips and Hanson, 1998). For example, ribbons within tesserae (Hansen andWillis, 1996) suggest a BDT as shallow as 1 km during their formation (Hansen andWillis, 1998; Ghent and Hansen, 1999; Ruiz, 2007). Of interest, long-wavelength folds and graben are thought to reflect a deepening of the BDT over time (Phillips and Hanson, 1998)—but the depth of the BDT during the formation of long-wavelength folds is estimated at only 6 km depth (Brown and Grimm, 1997; Ghent and Hansen, 1999). The pervasive deformation of the plateau highland tesserae, the oldest preserved terrain, requires a weak, thin lithosphere (Brown and Grimm, 1999). However, the presence of highland regions and large shield volcanoes (e.g., Crumpler et al., 1986; Smrekar and Solomon, 1992; McGovern et al., 2014) implies localised crustal domains where the BDT is deep enough to provide support for these structures. Nonetheless, these studies suggest that, on average, the BDT on Venus is shallow (and certainly much more than on Earth).\nWe use here an experimental rock deformation approach to provide an alternate assessment for the depth of the present-day BDT on Venus and Earth (see also Heap et al., 2017a), which we interpret here as a purely mechanical boundary between brittle and ductile behaviour. To do so, we compiled experimental rock deformation data on basaltic (and diabase) samples deformed over a range of confining pressures (analogous to depth) and temperatures (Table 1). We used these data to construct a failure mode map that highlights the pressures and temperatures at which basaltic (and diabase) rocks behave either in a brittle or a ductile manner in response to applied stress. We then used this map to assess the position (depth) of the BDT on Earth and Venus. We first review some important considerations for our experimental approach."
+  }, {
+    "heading": "2.1. Considerations for our experimental approach",
+    "text": ""
+  }, {
+    "heading": "2.1.1. Composition of the Venusian crust",
+    "text": "There is a dearth of in-situ quantitative geochemical data for Venusian surface rocks, and the planet’s thick CO2-dominated atmosphere makes optical geological observations from orbit or\nEarth-based telescopes impossible. The only available in-situ geochemical data from Venus are the major element composition of surface rocks, measured using gamma-ray and X-ray fluorescence spectroscopy. The three localities measured show basaltic compositions with SiO2, FeO, MnO, and MgO abundances similar to midocean ridge basalts on Earth (summarised in Bougher et al., 1997). Furthermore, the data from Venera 13 and 14 (Fe/Mg, Mg/Mn, K/U, and U/Th ratios) suggest Venus and Earth are made of the same chondritic material and have a similar internal structure, and that Venusian basalts are the product of similar degrees of partial (peridotite) mantle melting as those on Earth (Treiman, 2007; Hess and Head, 1990). Combined with the geomorphological data of Venus from radar imagery (i.e., reflectance spectra), it appears that most of the Venusian surface is volcanic in origin. This means the vast majority of the Venusian and Terran crusts are basaltic in their bulk composition (Basilevsky and Head, 2003). Therefore, we consider the deformation mode (i.e., brittle or ductile) of basaltic rocks collected on Earth to be analogous to the deformation mode of those on Venus."
+  }, {
+    "heading": "2.1.2. Hydration of the Venusian crust",
+    "text": "The Venusian atmosphere is extremely arid, with 150 times less H2O compared with Earth’s exosphere (Donahue and Russell, 1997). However, the lack of water in Venus’ atmosphere and on its surface does not necessarily imply a desiccated crust. We suggest that the degree of hydration for Venusian crust and mantle (e.g., Kaula, 1990; Nimmo and McKenzie, 1996; Mackwell et al., 1998) requires re-examination. Note that the degassing of water is extremely inefficient for one-plate planets such as Venus or Mars. For example, it has been modelled that 90–95% of Mars’ primordial water reserves should be retained in the mantle following accretion (Hunten, 1993), and recent data show the Martian mantle to be as ‘wet’ as the Terran mantle (McCubbin et al., 2012).\nCombined, these studies conclude that substantial aqueous fluids can remain within planetary interiors, irrespective of the plate tectonic regime and without correlation to the degree of surface desiccation. For instance, if one were to distribute all of the water in the Earth’s oceans into the Venusian mantle, the water abundance (distributed in nominally anhydrous minerals) would not exceed the storage capacity of a peridotitic mantle (Bell and Rossman, 1992; Kohlstedt et al., 1996; BolfanCasanova et al., 2000; Lécuyer et al., 2010; Hirschmann, 2006; Smyth et al., 2006). Furthermore, the Martian surface and atmosphere are both very water poor, but we know that the crust on Mars is hydrated (Carr and Head, 2010, 2015). A volatilerich interior on Venus (or at least a hydrated mantle) could result in explosive volcanism (Thornhill, 1993; Fagents and Wilson, 1995; Glaze et al., 2011; Airey et al., 2015), and some workers have proposed that some morphological units on the Venusian surface are pyroclastic deposits (Campbell and Rogers, 1994; McGill, 2000; Grosfils et al., 2011; Ghail and Wilson, 2013). Therefore, it is difficult to definitively conclude whether the crust and upper mantle on Venus is desiccated or hydrous, and only future missions to Venus can resolve this question. Because of this ambiguity, we contend that the consideration of all of the available experimental rock deformation data for basalt and diabase (including the ultra-dry diabase data from Mackwell et al., 1998) is an effective approach to investigate the failure mode of rock within the Venusian crust. We also note that the majority of the basalts deformed in these studies only contain a subordinate glass phase, if any. As a result, the impact of a glass phase, hydrated or otherwise, should only play a very minor role in dictating the rheological behaviour of a given sample (Smith et al., 2011; Violay et al., 2012, 2015).\nS.M ikhail,M .J.H eap /Physics of the Earth and Planetary Interiors 268 (2017) 18– 34 21\n22 S.M ikhail,M .J.H eap /Physics of the Earth and Planetary Interiors 268 (2017) 18– 34\nApuani et al. (2005) 16 0 16 25 94 Brittle Vigna Vecchia basalt (Stromboli) Apuani et al. (2005) 20 0 20 25 56 Brittle Vigna Vecchia basalt (Stromboli) Apuani et al. (2005) 20 0 20 25 109 Brittle Vigna Vecchia basalt (Stromboli) Apuani et al. (2005) 20 0 20 25 178 Brittle Vigna Vecchia basalt (Stromboli) Benson et al. (2007) 60 20 40 25 475 Brittle Etna basalt; porosity = 0.04; strain rate = 10 6 s 1 Ougier-Simonin et al. (2011) 15 0 15 25 370 Brittle Seljadur basalt; porosity = 0.05; strain rate = 10 6 s 1 Heap et al. (2011) 30 20 10 25 291 Brittle Etna basalt; porosity = 0.4; strain rate = 10 5 s 1 Heap et al. (2011) 50 20 30 25 287 Brittle Etna basalt; porosity = 0.4; strain rate = 10 5 s 1 Heap et al. (2011) 70 20 50 25 504 Brittle Etna basalt; porosity = 0.4; strain rate = 10 5 s 1 Heap et al. (2011) 50 20 30 25 375 Brittle Etna basalt; porosity = 0.4; creep test; strain rate = 10 6 s 1 Heap et al. (2011) 50 20 30 25 357 Brittle Etna basalt; porosity = 0.4; creep test; strain rate = 10 7 s 1 Heap et al. (2011) 50 20 30 25 329 Brittle Etna basalt; porosity = 0.4; creep test; strain rate = 10 8 s 1 Heap et al. (2011) 50 20 30 25 304 Brittle Etna basalt; porosity = 0.4; creep test; strain rate = 10 9 s 1 Violay et al. (2012) 100 0 100 400 1002 Brittle Aphanitic basalt; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 100 0 100 400 902 Brittle Porphyritic basalt; partially glassy; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 100 0 100 600 854 Brittle Aphanitic basalt; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 100 0 100 700 508 Brittle Aphanitic basalt; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 100 0 100 800 462 Brittle Aphanitic basalt; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 100 0 100 800 446 Brittle Aphanitic basalt; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 100 0 100 900 355 Brittle Aphanitic basalt; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 300 0 300 600 749 Brittle Aphanitic basalt; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 300 0 300 700 755 Brittle Aphanitic basalt; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 300 0 300 800 518 Brittle Aphanitic basalt; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 50 0 50 600 – Ductile Porphyritic basalt; partially glassy; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 70 0 70 600 – Ductile Porphyritic basalt; partially glassy; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 100 0 100 500 – Ductile Porphyritic basalt; partially glassy; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 100 0 100 600 – Ductile Porphyritic basalt; partially glassy; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 100 0 100 600 – Ductile Porphyritic basalt; partially glassy; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 100 0 100 700 – Ductile Porphyritic basalt; partially glassy; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 100 0 100 800 – Ductile Porphyritic basalt; partially glassy; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 100 0 100 800 – Ductile Porphyritic basalt; partially glassy; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 100 0 100 800 – Ductile Porphyritic basalt; partially glassy; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 100 0 100 900 – Ductile Porphyritic basalt; partially glassy; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 100 0 100 900 – Ductile Porphyritic basalt; partially glassy; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 100 0 100 900 – Ductile Porphyritic basalt; partially glassy; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 250 0 250 650 – Ductile Porphyritic basalt; partially glassy; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 300 0 300 600 – Ductile Porphyritic basalt; partially glassy; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 300 0 300 700 – Ductile Porphyritic basalt; partially glassy; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 300 0 300 750 – Ductile Porphyritic basalt; partially glassy; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 300 0 300 800 – Ductile Porphyritic basalt; partially glassy; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 300 0 300 800 – Ductile Aphanitic basalt; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 300 0 300 850 – Ductile Aphanitic basalt; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 300 0 300 900 – Ductile Aphanitic basalt; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 300 0 300 900 – Ductile Porphyritic basalt; partially glassy; porosity = 0.02; strain rate = 10 5 s 1 Violay et al. (2012) 300 0 300 950 – Ductile Aphanitic basalt; porosity = 0.02; strain rate = 10 5 s 1 Adelinet et al. (2013) 10 5 5 25 120 Brittle Reykjanes basalt; porosity = 0.08; strain rate = 10 6 s 1 Adelinet et al. (2013) 80 76 4 25 118 Brittle Reykjanes basalt; porosity = 0.08; strain rate = 10 6 s 1 Violay et al. (2015) 130 30 100 600 877 Brittle Aphanitic basalt; porosity = 0.03; strain rate = 10 5 s 1 Violay et al. (2015) 130 30 100 650 834 Brittle Aphanitic basalt; porosity = 0.03; strain rate = 10 5 s 1 Violay et al. (2015) 130 30 100 700 792 Brittle Aphanitic basalt; porosity = 0.03; strain rate = 10 5 s 1 Violay et al. (2015) 130 30 100 750 699 Brittle Aphanitic basalt; porosity = 0.03; strain rate = 10 5 s 1 Violay et al. (2015) 130 30 100 800 717 Brittle Aphanitic basalt; porosity = 0.03; strain rate = 10 5 s 1 Violay et al. (2015) 130 30 100 900 382 Brittle Aphanitic basalt; porosity = 0.03; strain rate = 10 5 s 1 Violay et al. (2015) 130 30 100 1050 – Ductile Aphanitic basalt; porosity = 0.03; strain rate = 10 5 s 1 Schaefer et al. (2015) 0 0 0 935 167 Brittle Pacaya (Guatemala) basalt; porosity = 0.02; strain rate = 10 1 s 1 Schaefer et al. (2015) 0 0 0 935 162 Brittle Pacaya (Guatemala) basalt; porosity = 0.05; strain rate = 10 1 s 1 Schaefer et al. (2015) 0 0 0 935 126 Brittle Pacaya (Guatemala) basalt; porosity = 0.06; strain rate = 10 5 s 1 Schaefer et al. (2015) 0 0 0 935 59 Brittle Pacaya (Guatemala) basalt; porosity = 0.19; strain rate = 10 1 s 1 Schaefer et al. (2015) 0 0 0 935 49 Brittle Pacaya (Guatemala) basalt; porosity = 0.16; strain rate = 10 5 s 1\n(continued on next page)\nS.M ikhail,M .J.H eap /Physics of the Earth and Planetary Interiors 268 (2017) 18– 34 23\n24 S.M ikhail,M .J.H eap /Physics of the Earth and Planetary Interiors 268 (2017) 18– 34\naxial strain [%]\nd iff\ner en\ntia l s\ntre ss\n[M Pa\n]\n1000\n800\n600\n400\n200\n0 0 2 4 6 8\n850 °C\n650 °C\nPc = 300 MPa Violay et al. [2012]\nσp brittle\nductile brittle ductile\nshear fracture distributed deformation\nig. 2. The mechanical behaviour of rock in compression (from Heap et al., 2017a). xamples of brittle and ductile stress–strain curves for basalt deformed at a onfining pressure of 300 MPa and a temperature of 650 C (brittle test) and 850 C uctile test) (data from Violay et al., 2012). Inset shows cartoons depicting postilure samples typical of brittle (thoroughgoing shear fracture) and ductile istributed deformation) deformation.\nS. Mikhail, M.J. Heap / Physics of the Earth and Planetary Interiors 268 (2017) 18–34 25"
+  }, {
+    "heading": "2.2. Determining the depth of the brittle–ductile transitions for Earth and Venus",
+    "text": ""
+  }, {
+    "heading": "2.2.1. Essential nomenclature: brittle and ductile",
+    "text": "Before interpreting the collated experimental rock deformation data it is important to outline some essential nomenclature. The terms ‘brittle’ and ‘ductile’ are sometimes interpreted differently across disciplines, which can cause confusion. To avoid such confusion, we define how we use these terms.\nHere, we use ‘brittle’ and ‘ductile’ to describe the failure mode of a rock sample on the lengthscale of that sample (typically between 10 and 100 mm). Brittle behaviour is characterised by localised deformation, typically manifest as axial splits or shear fractures. During a deformation experiment, it is typical to observe an increase in porosity of a sample as the peak stress is approached. This increase in porosity is the result of the growth and formation of dilatant microcracks. Following a peak stress, a brittle experiment involves a stress drop (i.e., strain softening). This stress drop marks the point at which a macroscopic (i.e., across the lengthscale of the sample) fracture is forming or has formed—the hallmark of a brittle failure mode (see Hoek and Bieniawski, 1965; Brace et al., 1966; Scholz, 1968). We note that, in the case of highly porous samples, brittle deformation can be associated with a net decrease in porosity. In these cases, inspection of the post-deformation sample is required to verify the presence of axial splits or shear fractures.\nWe use the term ductility as per the definition of Rutter (1986), who described it as simply the capacity of a material to accommodate qualitatively substantial strain without the tendency to localise the flow into faults—localisation does not occur on the sample lengthscale. The concept of ductility is not dependent on the mechanism of deformation (Rutter, 1986). Although brittle behaviour is always the result of cracking on the microscale, ductile behaviour can be the product of a number of micromechanisms. For example, the micromechanism behind low-temperature, high-pressure cataclastic flow (i.e., ductile behaviour) is microcracking (Menéndez et al., 1996; Wong et al., 1997). Ductile behaviour typically involves the loss of porosity. We note that ductile behaviour can be associated with strain localisation in certain circumstances: ductile behaviour in porous rocks can involve the formation of compaction bands (e.g., Baud et al., 2004) or bands of collapsed pores (e.g., Heap et al., 2015, Heap et al., 2017b). The formation of such features is also associated with small stress drops in the mechanical data. In ambiguous cases, inspection of the postdeformation sample is required to verify the absence of axial splits or shear fractures, features synonymous with a brittle failure mode. Mechanical behaviour for two experiments is shown in\nFig. 2, a typical brittle test and a typical ductile test (Violay et al., 2012; Heap et al., 2017a)."
+  }, {
+    "heading": "2.2.2. Data selection",
+    "text": "In the context of our study, we are interested in the transition between brittle behaviour and ductile behaviour as a result of viscous flow (i.e., the change in micromechanism from microcracking to viscous flow). We interpret viscous flow as non-recoverable viscoelastic deformation; this type of deformation is referred to as ‘plastic’ by some authors, but this term is sometimes also used to describe non-recoverable deformation in the brittle field. Since we are interested in the change in deformation micromechanism, we are not concerned here with low-temperature ductility driven by microcracking or cataclastic pore collapse, although very few studies exist on this topic for basaltic rocks (e.g., Shimada, 1986; Shimada et al., 1989; Adelinet et al., 2013; Zhu et al., 2016). We included all available experimental rock deformation data for basalt and diabase into our analysis (Table 1), with the exception of room-temperature experiments under uniaxial conditions (e.g.,\nF E c (d fa (d\nAl-Harthi et al., 1999; Heap et al., 2009; Schaefer et al., 2015), because they are of little use for determining the BDT, and those triaxial experiments that yielded non-viscous ductile behaviour such as cataclastic pore collapse (e.g., Shimada, 1986; Shimada et al., 1989; Adelinet et al., 2013; Zhu et al., 2016)."
+  }, {
+    "heading": "2.2.3. Limitations to our approach",
+    "text": "One obvious limitation of our collation approach is that typical laboratory strain rates ( 10 5 s 1) are much faster than tectonic strain rates (e.g., Grimm, 1994). However, we recognise that [1] experiments already classified as ductile at laboratory strain rates will remain ductile at lower (i.e., natural) strain rates, and [2] lowering the strain rate at low experimental pressures and temperatures will reduce rock strength—because of the increased time available for subcritical crack growth (see Brantut et al., 2013 for a review)—but may not promote ductile deformation per se. For example, the experiments of Heap et al. (2011) showed that basalt can still fail in a brittle manner at a low laboratory strain rate of 10 9 s 1. Although our approach utilises experiments conducted at high strain rates, and so should be considered with this caveat in mind, our method does not assume a representative basalt for the Venusian crust (see Section 2.1 above)."
+  }, {
+    "heading": "2.2.4. Calculating depth",
+    "text": "Each published experimental datum was assigned a failure mode: brittle or ductile, defined above. Where necessary, and when possible, our definitions supersede those outlined in the studies fromwhich these data were collated. The effective pressure under which each experiment was performed were converted to a depth with the relation P ¼ q g h, where P is lithospheric or hydrostatic pressure and g is surface gravitational acceleration taken as 9.807 and 8.87 m/s2 for Earth and Venus, respectively. This approach allowed us to determine the lithostatic pressure gradients for Earth and Venus. The bulk rock density, q, was determined with the following relation (Wilson and Head, 1994):\nqðhÞ ¼ q1½1þ fV0 ð1 V0Þg expð kq1gzÞ ð1Þ\n26 S. Mikhail, M.J. Heap / Physics of the Earth and Planetary Interiors 268 (2017) 18–34\nwhere q1 (the density of porosity-free rock) was taken as 2900 kg/ m3, V0 is the void space fraction (i.e., total porosity) at the surface (assumed here to be 0.25; see Wilson and Head, 1994), and the constant k was assumed to be 1.18 10 8 Pa 1 (Head and Wilson, 1992). Because of the very high atmospheric pressure of Venus, the lithostatic pressure at the surface was taken as 9 MPa. The hydrostatic pressure gradient for Earth was calculated using a constant water density of 1000 kg/m3 (yielding a pore pressure gradient of 9.8 MPa/km). We note that the density of water does not vary considerably at the pressures and temperatures relevant for the Earth’s crust.\nHowever, the nature of the pore fluid, and therefore the pore pressure gradient, for Venus is enigmatic. The behaviour of CO2 at the atmospheric pressure and temperature of Venus is that of a supercritical fluid and, if one assumes that supercritical CO2 is a plausible pore fluid for Venus, the density will vary with pressure and temperature. For example, the density of CO2 at the surface of Venus (at a pressure of 9 MPa and a temperature of 460 C) is 65 kg/m3. CO2 density increases to 457 kg/m3 at a pressure of 100 MPa and a temperature of 600 C. Because of the relatively broad parameter space for pore fluid behaviour (and composition) on Venus, we considered three scenarios that likely capture the range of possible pore fluid densities within the Venusian crust. In one, the pore fluid had a constant density of 1000 kg/m3 (i.e., the same as on Earth, yielding a pore pressure gradient of 8.9 MPa/km); in the second scenario, pore fluid had a density of 500 kg/m3 and so a pore pressure gradient of 4.4 MPa/km. In the third scenario, pore fluid density was 100 kg/m3, giving a pore pressure gradient of 0.89 MPa/km. In all cases, the pore pressure at the surface was taken as 9 MPa. In our analysis, we interpreted the pressure within the crust as the lithostatic pressure minus the pore fluid pressure."
+  }, {
+    "heading": "2.2.5. Thermal gradients",
+    "text": "Because we are discussing planetary-scale processes, we have opted to constrain the BDT on Earth using an average Terran geothermal gradient of 25 C/km and an average surface temperature of 4 C. Due to the lack of heat-flux measurements on Venus, all of the published thermal gradients are inferred. Importantly, as a result of the greenhouse effect imposed by an average atmospheric pressure of 9 MPa and a permanent cloud cover on Venus (Pollack et al., 1980), there is no meaningful difference in average surface temperature across the Venusian day–night cycle (where one Venusian day is equal to 116 Earth days) or with changes in latitude from the equator. In addition, since Venus has a hypsometry with a very low standard deviation (Fig. 1) there is an insignificant effect of altitude on the surface temperature when one considers a global average. Therefore, a representative surface temperature for Venus should have a small standard deviation from the assumed average value of 460 C. To account for the uncertainty in the Venusian thermal gradient, we have used a selection of values from 5 to 40 C/km (e.g., Sclater et al., 1980; Solomon and Head, 1982, 1984; Grimm and Solomon, 1988; Burt and Head, 1992; Turcotte, 1993, 1995; Solomatov and Moresi, 1996; Turcotte et al., 1999; Leitner and Firneis, 2006)."
+  }, {
+    "heading": "2.2.6. BDT estimates for Venus and Earth using experimental data",
+    "text": "Once the effective pressure of each experiment was converted to a depth, these data were plotted against the experimental temperature to examine the predicted depth of the present-day brittle–ductile transition on Earth (Fig. 3) and Venus (Fig. 4). The majority of experiments performed with basaltic rock samples were conducted under pressures equating to depths from 0 km (i.e., the surface) to 7 km (Shimada and Yukutake, 1982; Caristan, 1982; Bauer and Handin, 1983; Shimada, 1986; Duclos and Paquet, 1991; Schultz, 1993; Rocchi et al., 2004; Apuani et al.,\n2005; Benson et al., 2007; Ougier-Simonin et al., 2011; Heap et al., 2011; Violay et al., 2012, 2015; Adelinet et al., 2013; Schaefer et al., 2015; Zhu et al., 2016); few studies were performed under pressures corresponding to depths of up to 40 km (Griggs et al., 1960; Caristan, 1982; Hacker and Christie, 1991; Mackwell et al., 1998; Violay et al., 2012, 2015). In all cases, ductile behaviour was not observed below temperatures of 500 C, even under an effective pressure of 500 MPa (e.g., Griggs et al., 1960). As expected, ductile behaviour is more commonly observed under combined high pressure and high temperature. Surprisingly, ductile behaviour was observed under room pressure (i.e., 0.1 MPa) at 800 C (Figs. 3 and 4), which was likely the result of the presence of a melt phase; therefore, although these samples were of a basaltic bulk composition, they may not typify basaltic rocks. However, we prefer to retain all data for rocks of a basaltic composition in our analysis, for two reasons: first, not all of the experimental studies offer a detailed microstructural and compositional breakdown of their basaltic samples; second, we do not want to remove data based on our interpretation of what constitutes a basaltic rock typical of Venus or Earth.\nOur analysis predicts that the BDT for the oceanic crust of Earth occurs at a depth of 25–27 km (Fig. 3), consistent with the broad temperature-dependent (i.e., 10–40 km depth) brittle–ductile transition predicted for a predominantly basaltic oceanic crust on Earth (Kohlstedt et al., 1995). Assuming a pore fluid pressure gradient on Venus of 8.7 MPa/km (Fig. 4a), we find that most of the thermal gradients for Venus (i.e., 5–40 C/km) pass through a zone (from 5 to 18 km depth) characterised by both brittle and ductile deformation. The difference in failure mode over this depth interval arises from differences in rock properties such as composition, crystal size and content, and porosity, as well as in factors such as strain rate (although we note that typically laboratory strain rates rarely deviate from 10 5 s 1). We interpret this depth interval on Venus as a failure mode ‘transitional’ zone. Below a depth of 20 km, our collated experimental data predict exclusively ductile behaviour when the thermal gradient is 15 C/km or above for a pore pressure gradient of 8.7 MPa/km (Fig. 4a). However, this failure mode transitional zone is much shallower in the (arguably more plausible) scenarios under which the Venusian pore pressure gradient is lower (Fig. 4b and c). The failure mode transition zone on Venus exists at a depth of 4–14 km\nS. Mikhail, M.J. Heap / Physics of the Earth and Planetary Interiors 268 (2017) 18–34 27\n(Fig. 4b) or 2–12 km (Fig. 4c) for pore pressure gradients of 4.4 or 0.89 MPa/km, respectively. If we assume a representative rock type for the Venusian crust and account for more realistic natural strain rates, published data show that the BDT for a \"glassy\" basalt and for a \"non-glassy\" basalt is 100 C and 550 ± 100 C, respectively (Violay et al., 2012). Therefore, if one considers an average surface temperature of 460 and 4 C for Venus and Earth, respectively, then, assuming that the Terran and Venusian thermal gradients do not differ significantly, the BDT will always be shallower on Venus. Based on the data published in Violay et al. (2012), and using a thermal gradient of 25 C/km), the BDT on Venus would be at the surface (a fact we know is not true, highlighting the uncertainties that can manifest when one assumes a representative rock type) or at a depth between 3 and 4 km, respectively. Improved estimates of the average depth of the BDT on Venus requires additional in-situ geological and geochemical data from the surface of Venus.\nBased on these collated experimental data, we conclude that the BDT occurs at a substantially shallower depth on Venus than on Earth (when one considers global averages) (Figs. 3 and 4). Therefore, these data show that although much of the crust on Earth behaves in a brittle manner, the majority by volume of the Venusian crust should respond to stress in a ductile manner."
+  }, {
+    "heading": "3. Implications of a dominantly ductile crust on Venus",
+    "text": ""
+  }, {
+    "heading": "3.1. Implications for volcano morphology",
+    "text": "The tallest volcanoes on Earth, Venus, and Mars are intraplate volcanoes fed by deep-seated mantle plumes (Head and Solomon,\n1981; Donahue and Russell, 1997; Herrick et al., 2005; Wilson, 2009): Mauna Loa on Earth (17.2 km of relief), Maat Mons on Venus (9 km of relief; Mouginis-Mark, 2016), and Olympus Mons on Mars (21.9 km of relief; Plescia, 2004), respectively). However, shield volcanoes on Earth and Venus are dramatically different in terms of morphology: those on Venus are, on average, wider and of lower relief than those on Earth (700 km wide and 1.5 km relief vs. 120 km wide and 8 km relief, respectively) (Head and Solomon, 1981; Head et al., 1992; Herrick et al., 2005; Wilson, 2009). Because the loci of intraplate volcanism on Earth vary as tectonic plates move across fixed mantle plumes, the maximum relief of a volcano is therefore not only supply limited, but is also constrained by the velocity of the plate (Morgan, 1971). By contrast, Venus’ stagnant-lid tectonic regime enables a volcano to grow for as long as the magma source persists. Note, although it is debateable if plumes on Earth and Venus are geometrically similar (Schubert et al., 1990; Stofan et al., 1995; Smrekar and Stofan, 1997; Jellinek et al., 2002; Johnson and Richards, 2003; Ernst et al., 2007; Robin et al., 2007), the large shield volcanoes observed on the Venusian surface are taken as evidence for long-lived mantle plumes in the Venusian interior (Head and Solomon, 1981; Head et al., 1992; Herrick et al., 2005; Wilson, 2009). With all else being equal, the average relief of shield volcanoes on Venus should therefore be greater than their Terran counterparts (Wilson, 2009). But, other than some rare if notable exceptions (e.g., Maat and Skadi Montes), Venusian volcanoes are not higher in relief than their Terran counterparts. To explore this discrepancy we assess here three first-order variables that we consider important in controlling the relief of a volcanic construct: [1] surface gravity, [2] the viscosity of extruded lavas, and [3] the flexural response of the lithosphere to geological loads.\n28 S. Mikhail, M.J. Heap / Physics of the Earth and Planetary Interiors 268 (2017) 18–34"
+  }, {
+    "heading": "3.1.1. Surface gravity",
+    "text": "Mars is host to the largest volcanoes in the Solar System. This is, in part, because high-relief structures are easier to build and retain on Mars because of its relatively low surface gravity (i.e., 3.71 m/s2, compared with 9.81 m/s2 and 8.81 m/s2 on Earth and Venus, respectively) (Heap et al., 2017a). However, the surface gravitational acceleration on Venus is very similar to that of Earth meaning that, if all else were equal, both planets should extrude lava flows of a similar thickness and build shield volcanoes of a similar size over a given timescale. Large basaltic flows on Earth are typically <30 m thick, and—again, because of the comparable surface gravitational accelerations of Earth and Venus—the same should be true for Venus. This inference is consistent with radar imaging of Venus that shows that flows rarely exceed the vertical resolution of the Magellan topographic data (which has a height resolution of 5–50 m; e.g., Pettengill et al., 1991; Roberts et al., 1992; Wilson, 2009). We conclude therefore that the minor difference in surface gravity between Earth and Venus cannot explain the considerable contrast in volcano relief."
+  }, {
+    "heading": "3.1.2. Viscosity of extruded lava flows",
+    "text": "On Earth, high-viscosity lavas are better able to construct a tall volcanic edifice than low-viscosity lavas, which tend to travel much greater distances from the vent (e.g., Harris and Rowland, 2009). Although the bulk composition of Earth and Venus are similar (Bougher et al., 1997), the substantial influence of water content on the viscosity of melts (e.g., Dingwell et al., 1996) means that if Venusian melts are anhydrous (dry) then the lavas erupted onto its surface should have a higher viscosity than their Terran counterparts. It is possible that the Venusian mantle is about an order of magnitude more viscous than that of Earth, based on the assumption that Venusian melts are anhydrous and derived from an anhydrous mantle (Kaula, 1990; Nimmo and McKenzie, 1996; Mackwell et al., 1998). However, and as outlined above, recent data that suggest a hydrated Martian mantle (McCubbin et al., 2012) demand a reappraisal of the assumption that the Venusian mantle is anhydrous. Indeed, the vast majority of basaltic lava flows on the Venusian surface are of a similar spatial magnitude and thickness to the flows observed in basaltic large igneous provinces (LIPs) on Earth (e.g., Columbia River and Deccan Traps; Wilson, 2009); this similarity, together with the similar surface gravity of Earth and Venus, implies a similar basaltic flow viscosity. We also note that an increase in temperature results in a decrease in melt viscosity (Hess and Dingwell, 1996; Giordano et al., 2008), even for anhydrous melts (Hess et al., 2001). Therefore, if Venusian lavas are indeed anhydrous, the high temperature of the Venusian surface may decrease their nominal eruptive viscosity to a value closer to lavas extruded on Earth. We conclude, therefore, that the difference in viscosity of erupted lavas cannot explain the difference in morphology between the volcanoes on Earth and Venus.\nBDT\nAtmosphere\nMantle\nLithosphere\nMantle Melt\nMantle melting and migration into ductile lithosphere (sill-formation) Sill-expansion results in doming a fracturing of the brittle lithosphe\nSillSill Sill\nFig. 5. The formation of coronae on Venus. This cartoon depicts sill emplacement and gr (BDT). The schematic also shows how this only leads to volcanism after the magma ch Arrows indicate directions of main differential stresses."
+  }, {
+    "heading": "3.1.3. Response of the lithosphere to geological loads",
+    "text": "An additional parameter that controls the height of a volcanic structure is the mechanical rigidity of the basement upon which the volcano is situated (Watts, 2001). The flexural rigidity of the lithosphere depends on its rheology such that a strong and brittle lithosphere is better adapted to support high-relief structures than a weak and ductile lithosphere (Watts, 2001). Indeed, a thick and predominantly brittle crust has been used to explain the presence of the ultra-high-relief volcanoes on Mars (Turcotte et al., 1981; Heap et al., 2017a), with the mechanical response of the Martian crust even influencing the eruptive behaviour of these shield volcanoes (Byrne et al., 2013).\nWe contend that the experimental rock deformation data collated in Figs. 3 and 4 provide a simple explanation as to why Venus hosts volcanoes that, although perhaps as voluminous, are wider and of lower relief than those on Earth. On a global scale, highrelief structures cannot be supported on Venus to the same extent as they are on Earth due to the dominantly ductile Venusian crust. Recent analogue modelling by Byrne et al. (2013) is consistent with this conclusion. This prediction further suggests that the volcanic topographic highs on Venus (e.g., Maat Skadi Montes) may be relatively young, because our model predicts that high-relief structures on Venus will force the underlying lithosphere to yield over geological timescales (according to the models presented by Byrne et al. (2013); see also Smrekar and Solomon (1992) and Herrick et al. (2005)). Large volcanoes may even evolve into corona-like structures over time, evidenced by the number of volcano-corona ‘hybrids’ on the Venusian surface (e.g., Atai Mons; Grindrod et al., 2006). We also note that the downflexing of the lithosphere beneath a volcano imposes a constrictional strain upon the edifice, manifest as imbricate shortening structures arrayed around its flanks (Byrne et al., 2009, 2013). Unfortunately, the flanks of Venusian volcanoes are not sufficiently resolved with currently available data to test this hypothesis (full resolution Magellan topographic imagery has a resolution of about 100 m; Herrick et al., 2005)."
+  }, {
+    "heading": "3.2. Implications for volcanic character",
+    "text": "The dominant mode of magma migration through Earth’s crust (in terms of volume) is via fractures (e.g., Gudmundsson, 2006). The experimental data collated here suggest that, on Venus, faulting could be restricted to shallow depths (i.e., 2–12 km) (Fig. 4). Similar to Earth (Burov and Gerya, 2014), a rising mantle-derived melt on Venus will pond and spread laterally, underplating the crust at depths greater than that of the BDT (as shown in Fig. 5a–c for Venus). However, based on our depth estimates for the BDT on Venus (Fig. 4), the mechanism by which magmas on Venus can continue to migrate towards the BDT is through buoyancy-driven diapirism. Importantly, however, the lengthscale\nnd re\nCo-genic collapse and magma migration through dykes Short-lived magmatism (pancake dome/coronae formation)\nSill\nDykes Dykes pancake dome/coronae\nowth, followed by uplift and faulting of the crust above the brittle-ductile transition amber makes physical contact with faults (see text for more details; not to scale).\nS. Mikhail, M.J. Heap / Physics of the Earth and Planetary Interiors 268 (2017) 18–34 29\nfor magma migration by diapirism is considerably shorter than migration through dykes (Rubin, 1995; Gudmundsson, 2002, 2006, 2011; Petford, 2003) and diapirs will inevitably pond and create sills due to a stress-related equilibrium when the forces driving ascent are equal (or less than) the forces acting against ascent (i.e., crystallisation increasing viscosity) – unless more magma is added to further drive ascent via buoyancy-driven diapirism. Therefore, if magma transport through the lower to middle Venusian crust is dominated by diapirism, then a lower fraction of crust-situated melt can reach the surface and erupt, relative to Earth. Occasionally however, a sill may form that is large enough to generate enough uplift to initiate faulting in the brittle crust, creating a set of concentric vertical faults (see Galgana et al., 2013). If the magma reaches these faults (or vice versa) then melts can propagate upwards, forming ring-dikes or arachnoids (Head et al., 1992; Donahue and Russell, 1997; Basilevsky and Head, 2003; Wilson, 2009). Should it reach the surface, this melt will erupt as lava, and we conceptually show how this can result in the formation of the curious coronae features on Venus in Fig. 5.\nA combination of lateral flow and dyke-facilitated volcanism will cause the sill (magma chamber) to contract vertically, and this can cut off the magma supply to the surface as the collapsing brittle crust closes the fracture network. This may result in subsidence beneath the forming or formed coronae with either negative or positive relief (both of which are commonly observed on Venus: Head et al., 1992; Donahue and Russell, 1997; Basilevsky and Head, 2003; Herrick et al., 2005; Wilson, 2009), which we argue is the result of variable ratios of the erupted lava to the amount of subsidence. If the magma supply from the plume to the crust is large enough and is active over sufficient timescales, then a shallow-flanked shield volcano could form (e.g., Maat Mons), the vertical growth of which is likely tempered by the inability of the predominantly ductile Venusian crust to support high-relief structures (due to its low flexural rigidity). However, if the magma chamber (sill) cannot connect with the faults, because the sill has stalled below the BDT, then surface eruption will not ensue. In this eventuality, grabens (fossae and lineae), fractures, scarps (rupes), or troughs will form, tectonic landforms common to the Venusian surface (Head et al., 1992; Donahue and Russell, 1997; Basilevsky and Head, 2003; Wilson, 2009).\nMost volcanic systems on Earth show complex magmatic plumbing with several reservoirs situated at different depths. However, most primary mantle melts that reach the Earth’s crust form sill-like magma chambers at the base of the crust (defined as primary magma chambers) and are typically found at depths considerably greater than 10 km (Kelley and Barton, 2008; Stroncik et al., 2009; Becerril et al., 2013). Therefore, on Earth, most shallow magma chambers are connected to a deeper primary magma chamber at depths of >10 km (Hill et al., 2009; Michon et al., 2015). This magma system architecture suggests that magma ponds at the crust–mantle boundary on Earth. Therefore, if Venusian melts form magma chambers at similar depth, or at a similar depth with respect to the stratigraphy of the crust (i.e., the crust– mantle boundary), as predicted for shallow magma chambers (Wilson and Head, 1994), then those chambers will be hosted below the BDT (predicted to occur between 2 and 12 km on Venus: see Fig. 4a–c), restricting magma mobility to the short lengthscales typical of diapirism (Rubin, 1995; Gudmundsson, 2002, 2006, 2011; Petford, 2003).\nWe can therefore predict, albeit qualitatively, that a greater proportion of magmatism on Venus does not result in volcanism, but instead results in plutonism, than on Earth. Indeed, lava flow unit thickness estimates from Magellan topographic data suggest that coronae are probably underlain by large magma bodies that are not emptied during eruption (Grindrod et al., 2010). Any crustal thickening in areas of high magmatic activity should thus be com-\npensated by delamination back into the mantle with or without crustal uplift (Smrekar and Stofan, 1997; Ghail, 2015). To test the hypothesis that plutonism is favoured over volcanism on Venus (relative to Earth), we will now compare differences in volcanic flux on Earth and Venus with the available geochemical data."
+  }, {
+    "heading": "4. Measuring the volcanic eruptive flux of Venus and Earth",
+    "text": "Finding a suitable metric to compare the eruptive fluxes of Venus and Earth is challenging. For example, there is a large uncertainty for both the longevity and frequency of Venusian volcanism due to the lack of reliable chronostratigraphic or radiogenic isotopic data for the Venusian surface (Head et al., 1992; Basilevsky and Head, 2003; Kreslavsky et al., 2015). However, there is evidence that Venus has experienced some voluminous volcanism in the past, coined ‘global resurfacing events’. The model for catastrophic volcanic resurfacing is based on the relatively few (ca. 1000) impact craters, and is thought to have occurred between 300 Ma and 1 Ga (e.g., McKinnon et al., 1997). Assuming a frequency of resurfacing episodes that declined with the rate of heat generation (based on K–Th–U systematics of the mantle), Kaula (1991) proposed that there could have been eight resurfacing events over Venus’ 4.56 Ga history. Volcanism on Venus appears to be mostly quiescent between these resurfacing events, which are either random or occurring roughly once every 0.5 Ga (Kaula, 1991). If in fact magmatism during these largely passive periods does not result in extrusive volcanism, then by our inference it may instead be manifest as massive magmatic underplating of basaltic melts at the base of the crust and subsequent plutonism in the crust, possibly followed by delamination back into the mantle (Smrekar and Stofan, 1997).\nAn important and poorly constrained parameter is the thermal structure of the Venusian interior. Nimmo and McKenzie (1997, 1998) cite the composition (specifically the FeO abundance) of the basaltic rocks analysed by the Venera and Vega landers to argue that the potential temperature of the Venusian mantle was similar to the Earth’s during the emplacement of these rocks. Note, the FeO data used by Nimmo and McKenzie (1997, 1998) are by no means absolute or accurate (they have large uncertainties), but these are the only data presently available and future missions are required to provide an improved insight. Nevertheless, they do provide a quantitative model with which to demonstrate the point. Since these basalts are between 300 and 800 Ma one must calculate the mantle temperature for the present day; this is because resurfacing events would have cooled the Venusian upper mantle, which would have been followed by an increase in temperature due to U–Th–K decay and thermal insulation by the crust. Nimmo and McKenzie (1997, 1998) concluded that it is unlikely that the Venusian mantle increased in temperature by more than 200 C over 800 Ma. Hence, these workers proposed an upper limit of 1500 C for the potential temperature of the present-day Venusian mantle (Nimmo and McKenzie, 1998). This temperature is below the solidus for water-undersaturated peridotite (Kohlstedt et al., 1996; Hirschmann, 2006), and so melt production would be restricted to adiabatic melting of thermochemical plumes rising through the mantle (e.g., such as the Hawaiian plume on Earth; Morgan, 1971).\nA key feature of the conceptual model presented here is that, all else being equal, the volcanic eruptive flux of Venus should be lower than that of Earth. Since we cannot rely on estimates of volcanic flux from chronostratigraphic methods, we must look elsewhere. For example, the chemistry of a planet’s atmosphere is a passive recorder of surface and subsurface processes – including volcanism (e.g., Mather, 2008; Gaillard and Scaillet, 2014; Mikhail and Sverjensky, 2014). Therefore, if Venus has experienced\n30 S. Mikhail, M.J. Heap / Physics of the Earth and Planetary Interiors 268 (2017) 18–34\na lower volcanic eruptive flux, relative to Earth, over its geological history then this will have left a geochemical fingerprint in the chemistry of the Venusian atmosphere. Therefore, we focus here on the stable isotopes of argon, principally 36Ar, 38Ar, and 40Ar, as useful tools for investigating the origin of volatiles (with 38Ar/36Ar) and the degassing history (with 40Ar/36Ar) of Venus. This is because [1] there are data for the 40Ar/36Ar and 38Ar/36Ar ratios for the atmospheres of Earth, Mars, Venus, and solar wind (Porcelli and Pepin, 2003), and [2] 36Ar and 38Ar are primordial isotopes whereas 40Ar is produced from the decay of 40K, with a half-life of 1.25 Ga, meaning that 40Ar in planetary atmospheres can be used to derive information regarding the degassing of planetary interiors (e.g., Halliday, 2013)."
+  }, {
+    "heading": "5. Validating the model: argon isotope data",
+    "text": "Despite the dearth of missions into and below the Venusian atmosphere over the past 40 years, there are valuable data for the major and minor element geochemistry of the Venusian atmosphere, including argon isotope ratios. Indeed, argon isotopes have been previously used to inform on the evolution of Venus (e.g., Istomin et al., 1980; Hoffman et al., 1980a,b; Turcotte and Schubert, 1988; Kaula, 1990, 1991; Namiki and Solomon, 1998; Porcelli and Pepin, 2003; Mikhail and Sverjensky, 2014; Halliday, 2013; O’Rourke and Korenaga, 2015).\nIn December 1978, six gas analysers (four mass spectrometers and two gas chromatographers) provided in-situ measurements of the Venus atmospheric chemical and isotopic composition (summarised by Hoffman et al., 1980a). The Soviet Union’s Venera 11 and 12 landers (Istomin et al., 1979) and the United States Pioneer Venus entry probe (Hoffman et al., 1980a) determined the argon isotope composition of the lower Venusian atmosphere (below the altitude limit of isotopic homogenisation). Importantly, these two independent measurements provided a 38Ar/36Ar ratio within error of one another (summarised by Hoffman et al., 1980b). The similarity for the 38Ar/36Ar ratios for Earth and Venus is indicative of a shared source of volatile elements (Fig. 6). We consider that the most surprising result of these measurements\nwas that the ratio of radiogenic to primordial argon in the Venusian atmosphere was shown to be highly unradiogenic, with a 40Ar/36Ar ratio of only 1.03 ± 0.04. For comparison, most argon in the atmospheres of Earth and Mars is strongly radiogenic, with 40Ar/36Ar ratios of 298.56 and 1900 ± 300, respectively (Fig. 6). Below, we outline why atmospheric loss, Venus being a K-deficient planet, and diffusive degassing cannot explain the difference between the 40Ar/36Ar ratios of Earth and Venus. We then finish by proposing a solution (that leans on the notion of a shallow BDT for Venus), where we conclude that this discrepancy can be explained by a relatively low volcanic eruptive flux for Venus (compared to Earth)."
+  }, {
+    "heading": "5.1. The case against atmospheric loss to explain the unradiogenic argon",
+    "text": "One of the principle mechanisms leading to stable isotope fractionation of atmosphere-forming elements is low-temperature atmospheric loss (i.e., hydrodynamic escape). This process induces mass dependant stable isotope fractionation, and therefore preferentially removes the lighter isotopes over the heavy isotopes (e.g., 36Ar over 38Ar, and 38Ar over 40Ar). This, in turn, means that the 38Ar/36Ar ratio would reflect substantial stable isotope fractionation if atmosphere loss to space were the sole reason for the unradiogenic 40Ar/36Ar ratio in the Venusian atmosphere (as is the case for Mars, i.e. Jakosky et al., 2017). Note, this is not the case for the Venusian and Terran datasets (Fig. 6). Hydrodynamic escape of 36Ar cannot explain the low 40Ar/36Ar ratio of the Venusian atmosphere, because the 36Ar/38Ar data for the Venusian and Terran datasets are almost identical (i.e., 5.5 vs. 5.3; see Fig. 6), and Earth and Venus have very similar escape velocities for argon (ca. 12 and 13 km/s, respectively). Because Earth and Venus both show primordial 36Ar/38Ar ratios, both planets appear to share identical (isotopic) source materials (i.e., both are similar to their initial value recorded by solar wind: Porcelli and Pepin, 2003; Halliday, 2013). This in turn implies that both Earth and Venus had the same initial atmospheric 40Ar/36Ar ratio. A conundrum thus ensues: where is the missing 40Ar in the Venusian atmosphere?"
+  }, {
+    "heading": "5.2. The case against Venus being a K-deficient planet",
+    "text": "The unradiogenic 40Ar/36Ar ratio for the Venusian atmosphere also cannot be explained by proposing Venus to be a K-deficient planet, because the average observed K/U ratio in rocks on the Venusian surface is 7220 (akin to mid-ocean ridge basalts on Earth). Therefore, assuming an initial K/U and 38Ar/36Ar ratio for Earth and Venus, the present-day 40Ar/36Ar ratio of the Venusian atmosphere is not a reflection of the overall K abundance, but would therefore reflect either the flux of 40Ar diffused or degassed out of the mantle and/or crust."
+  }, {
+    "heading": "5.3. The case against efficient, diffusive degassing",
+    "text": "The efficient transport of 40Ar from the interior of a planet into its atmosphere can be, conceptually, achieved by diffusion. The entire Venusian crust is at a temperature above the closure temperature for argon in most silicate systems (Kelley and Wartho, 2000). However, efficient (or total) diffusion of 40Ar through the crust cannot be proposed, because the Venusian atmosphere is strongly unradiogenic (for argon). This indicates that the Venusian crust has retained considerable 40Ar produced continually over the age of the planet (4.56 Ga). The bulk silicate Venus (BSV) must therefore be saturated in 40Ar. The lack of 40Ar-diffusion at high Venusian surface temperatures can be explained by the lack of a chemical gradient. A buildup of 40Ar in the crust above the closure\nS. Mikhail, M.J. Heap / Physics of the Earth and Planetary Interiors 268 (2017) 18–34 31\ntemperature does not necessarily mobilise the 40Ar into the atmosphere. Buoyancy drives ascent, but pathways and mobilising agents are also required (note, gravity and physical inhibition are also acting as opposing forces). The lack of 40Ar transport can be explained by a system that rapidly reaches equilibrium with the intergranular medium, despite diffusion coefficients great enough to model efficient mobilisation, conceptually (Cassata et al., 2011). Furthermore, mass-transfer along the grain boundary of silicates and oxides is limited to a very thin layer (ca. 1 nm; Joesten, 1991), so the bulk diffusivity should be reduced by the ratio of the thickness of the grain boundary to the diameter of the grain (Farvert and Yund, 1992). For a grain diameter of 0.1–1 mm, the diffusive lengthscales of argon is <1.2 km in 1 Ga. Since the lengthscale is less than the likely thickness of the Venusian crust (which is most certainly >1.2 km), the nominal diffusive flux of 40Ar to the atmosphere is effectively zero over 1 Ga (Namiki and Solomon, 1998). Therefore, the nominal diffusive flux of 40Ar to the atmosphere will be negligible over 4.5 Ga."
+  }, {
+    "heading": "5.4. The case for a low volcanic eruptive flux on Venus relative to Earth",
+    "text": "We propose volcanism as the main liberating agent for transporting 40Ar to the Venusian atmosphere. During mantle melting on Earth and Venus, 40K and 40Ar are mobilised in melts, because they are both incompatible elements in primary mantle silicates, e.g., olivine (Chamorro et al., 2002; Brooker et al., 2003). This degassing implies that the strongly unradiogenic low 40Ar/36Ar ratio in the Venusian atmosphere is mirrored by a higher crustal excess of 40Ar than is observed for the crust on Earth (which is known to contain excess 40Ar: Allègre et al., 1996; Kelley, 2002). We argue that most of the 40Ar transported in melts from the Venusian mantle is locked in plutons and stored within the Venusian crust, implying that there is a large excess of 40Ar in the BSV. Our contention that a dominantly ductile Venusian crust (Fig. 4a– c) inhibits volcanism but results in abundant plutonism (relative to Earth; Fig. 7) forms a testable hypothesis: Venus should have degassed less 40Ar, relative to Earth. Mars, for example, has a highly fractionated 36Ar/38Ar ratio of 4.1 (Porcelli and Pepin, 2003; Halliday, 2013), which reflects a substantial low-temperature loss of its atmosphere (Porcelli and Pepin, 2003; Halliday, 2013) (Fig. 6). Consequently, the present-day atmospheric 40Ar/36Ar ratios of Earth and Venus will reflect their relative efficiencies in 40Ar degassing. The present-day Venusian atmosphere has a strongly unradiogenic 40Ar/36Ar ratio of 1.03 ± 0.04, compared with 298.56 for Earth (Kaula, 1991; Porcelli and Pepin, 2003; Halliday, 2013). However, the Venusian atmosphere also contains roughly two orders of magnitude more 36Ar relative to Earth’s atmosphere\n(Porcelli and Pepin, 2003). If we correct the 40Ar/36Ar ratio for Venus then the 40Ar/36Ar ratio of the Venusian atmosphere would be approximately 103, meaning Earth has degassed three times more 40Ar than Venus. We view this implication here as a consequence of a higher rate of volcanism on Earth than on Venus. This is because the majority of Earth’s volcanism is directly related to Earth’s mobile-lid plate tectonic regime (Cottrell, 2015), but we argue that the high surface temperature and dearth of deep crustal faults on Venus also plays an important role. Therefore plutonism, rather than volcanism, is the dominant mode of magmatic activity on Venus (Fig. 7) and this is reflected in the unusually unradiogenic 40Ar/36Ar ratio observed in the Venusian atmosphere (Fig. 6)."
+  }, {
+    "heading": "6. Concluding remarks",
+    "text": "We present here an experimentally-constrained and isotopically-supported conceptual model that predicts Venus to have been less volcanically active relative to Earth by a factor of three, in terms of eruptive flux. Since the volume of magma erupted cannot be directly quantified, we focus here on the degassing flux constrained by argon isotopes, which show that Earth has degassed three times more 40Ar than Venus. We conclude that the reduced eruptive flux on Venus, compared to Earth, is the result of the hot Venusian climate, a factor that greatly impacts the dominant failure mode of, and therefore the method by which magma can travel up through, the Venusian crust. The higher rate of intraplate volcanic activity on Earth is exemplified by the observation that Earth’s relatively young oceanic crust has seen the development of <100,000 individual volcanoes (i.e., seamounts) in <100 Ma, whereas Venus has only produced ca. 70,000 individual volcanoes over a much longer time period (700–1000 Ma) – a difference of an order of magnitude.\nAn interrogation of high pressure, high temperature experimental rock deformation data suggests that the unrelenting high temperature (460 C) of the Venusian surface modifies the rheology of the Venusian crust such that the dominant failure mode within the Venusian crust is ductile. These data highlight that the BDT on Venus could be as shallow as 2–12 km (Fig. 4), while the same method yields a realistic estimate for the BDT on Earth of 25– 27 km (Fig. 3). The implications of a dominantly ductile Venusian crust are twofold. First, the flexural rigidity of the Venusian lithosphere will be low, inhibiting the formation of high-relief volcanoes (via lithospheric flexure). We further note that the low flexural rigidity of the Venusian lithosphere may not just impact volcano morphology, but also the global hypsometric profile of Venus (Fig. 1). We therefore speculate that the low standard devi-\nthin the lithosphere on Earth and Venus. The cartoon shows that primary magma and crystallisation (on average). Conversely for Earth, primary magma chambers can\n32 S. Mikhail, M.J. Heap / Physics of the Earth and Planetary Interiors 268 (2017) 18–34\nation of the Venusian surface is also the consequence of its hot climate. Second, magma delivery to the surface through fractures (i.e., dykes)—the dominant transport mechanism of magma to shallow crustal levels on the telluric planets (e.g., Wilson and Head, 1994; Gudmundsson, 2006)—will be impeded on Venus. Our conceptual model therefore predicts that most magma on Venus will stall in the crust as sills, rather than be erupted at the surface: plutonism, rather than volcanism, is the dominant mode of magmatic activity on Venus (Fig. 7). Importantly, these implications are supported by the atmospheric argon isotope ratios for Earth and Venus, which indicate that volcanic degassing, and therefore volcanic flux, has been three times lower on Venus than on Earth over the past 4.5 Ga (Fig. 6).\nOur conceptual model falls short in describing, for example, the formation histories for the Venusian continents, Aphrodite Terra and Ishtar Terra (which, speculatively, could be the result of isostatic rebound before the global resurfacing event, or crustal delamination of the lower lithosphere back into the mantle, or a presently unknown mechanism; Smrekar and Stofan, 1997; Ghail, 2015). We also highlight that our conceptual model assumes various similarities between Earth and Venus, such as similar mantle convective regimes, which may not be strictly true (e.g., Johnson and Richards, 2003; Robin et al., 2007). Nevertheless, our model offers a viable explanation for the difference in volcano morphology between Earth and Venus (i.e., the presence of coronae) and the relative quiescence of volcanism on Venus compared to Earth (i.e., the order of magnitude difference in the rate of intraplate volcano formation between Earth and Venus). Furthermore, a Venusian BDT as shallow as predicted here also implies that faulting through the vertical lengthscale of the crust is hindered. Therefore, the hot climate of Venus may also inhibit the formation of the plate tectonic boundaries that sub-divide the crust (Foley et al., 2012; Bercovici and Ricard, 2014). Our study highlights another example of the complex interplay between climate and geodynamics."
+  }, {
+    "heading": "Acknowledgements",
+    "text": "We acknowledge stimulating discussions on argon geochemistry with Simon Kelley, Chris Ballentine, Colin Jackson, and Peter Barry, and with Richard Ghail on the tectonic history of Venus. We also acknowledge critical comments by Nicolas Le Corvec, Paul Byrne, two anonymous reviewers, and the editorial handling of Mark Jellinek that enabled us to improve this manuscript. M.J. Heap acknowledges funding from an Initiative d’Excellence (IDEX) ‘‘Attractivité” grant (VOLPERM), funded by the University of Strasbourg (France). The idea for this paper was conceived at Souk Kitchen (Bristol) the morning after the wedding of Jonathan Bruce Hanson and Jessica Shields. All of the data used in this manuscript are cited in the reference list."
+  }],
+  "year": 2017,
+  "references": [{
+    "title": "All of the data used in this manuscript are cited in the reference list",
+    "authors": ["Hanson", "Jessica Shields"],
+    "year": 2001
+  }, {
+    "title": "Deformation modes",
+    "authors": ["Icarus", "M. 16–36. Adelinet", "J. Fortin", "A. Schubnel", "Y. Guéguen"],
+    "year": 2013
+  }, {
+    "title": "degassing, and external environment",
+    "authors": ["A.A. Al-Harthi", "R.M. Al-Amri", "W.M. Shehata"],
+    "venue": "Planet. Space Sci",
+    "year": 1999
+  }, {
+    "title": "The Argon constraints on mantle",
+    "authors": ["C.J. Allègre", "A. Hofmann", "K. O’Nions"],
+    "venue": "properties of vesicular basalt in Saudi Arabia. Eng. Geol",
+    "year": 1996
+  }, {
+    "title": "Physical and mechanical",
+    "authors": ["T. Apuani", "C. Corazzato", "A. Cancelli", "A. Tibaldi"],
+    "year": 2005
+  }, {
+    "title": "Compaction localization in porous sandstones: spatial evolution of damage and acoustic emission activity",
+    "authors": ["P. Baud", "E. Klein", "Wong", "T.-F"],
+    "venue": "J. Struct. Geol",
+    "year": 2004
+  }, {
+    "title": "Effects of water-saturation on strength and ductility of three igneous rocks at effective pressures to 50 MPa and temperatures to partial melting",
+    "authors": ["S.J. Bauer", "M. Friedman", "J. Handin"],
+    "venue": "The 22nd U.S. Symposium on Rock Mechanics (USRMS),",
+    "year": 1981
+  }, {
+    "title": "Thermal expansion and cracking of three confined water-saturated igneous rocks to 800 C",
+    "authors": ["S.J. Bauer", "J. Handin"],
+    "venue": "Rock Mech. Rock Eng",
+    "year": 1983
+  }, {
+    "title": "Depth of origin of magma in eruptions",
+    "authors": ["L. Becerril", "I. Galindo", "A. Gudmundsson", "J.M. Morales"],
+    "venue": "Sci. Rep. 2762",
+    "year": 2013
+  }, {
+    "title": "Water in the Earth’s mantle: the role of nominally anhydrous minerals",
+    "authors": ["D.R. Bell", "G.R. Rossman"],
+    "venue": "Science",
+    "year": 1992
+  }, {
+    "title": "Imaging slow failure in triaxially deformed Etna basalt using 3D acousticemission location and X-ray computed tomography",
+    "authors": ["P.M. Benson", "A.B. Thompson", "P.G. Meredith", "S. Vinciguerra", "R.P. Young"],
+    "venue": "Geophys. Res. Lett. 34,",
+    "year": 2007
+  }, {
+    "title": "Water partitioning between nominally anhydrous minerals in the MgO–SiO2–H2O system up to 24 GPa: implications for the distribution of water in the Earth’s mantle",
+    "authors": ["N. Bolfan-Casanova", "H. Keppler", "D.C. Rubie"],
+    "venue": "Earth Planet. Sci",
+    "year": 2000
+  }, {
+    "title": "Venus II. University of Arizona Press, Tucson",
+    "authors": ["S.W. Bougher", "D.M. Hunten", "R.J. Phillips"],
+    "year": 1997
+  }, {
+    "title": "Dilatancy in the fracture of crystalline rocks",
+    "authors": ["W.F. Brace", "B.W. Paulding", "C.H. Scholz"],
+    "venue": "J. Geophys. Res",
+    "year": 1966
+  }, {
+    "title": "Time-dependent cracking and brittle creep in crustal rocks: a review",
+    "authors": ["N. Brantut", "M.J. Heap", "P.G. Meredith", "P. Baud"],
+    "venue": "J. Struct. Geol",
+    "year": 2013
+  }, {
+    "title": "The ’zero charge’ partitioning behaviour of noble gases during mantle melting",
+    "authors": ["R.A. Brooker", "Z. Du", "J.D. Blundy", "S.P. Kelley", "N.L. Allan", "B.J. Wood", "M. Chamorro", "Wartho", "J.-A", "J.A. Purton"],
+    "venue": "Nature 423,",
+    "year": 2003
+  }, {
+    "title": "Tessera deformation and the contemporaneous thermal state of the plateau highlands, Venus",
+    "authors": ["C.D. Brown", "R.E. Grimm"],
+    "venue": "Earth Planet. Sci",
+    "year": 1997
+  }, {
+    "title": "Recent tectonic and lithospheric thermal evolution of Venus",
+    "authors": ["C.D. Brown", "R.E. Grimm"],
+    "venue": "Icarus 139,",
+    "year": 1999
+  }, {
+    "title": "The recent evolution of climate on Venus",
+    "authors": ["M.A. Bullock", "D.H. Grinspoon"],
+    "venue": "Icarus 150,",
+    "year": 2001
+  }, {
+    "title": "Asymmetric three-dimensional topography over mantle plumes",
+    "authors": ["E. Burov", "T. Gerya"],
+    "venue": "Nature 513,",
+    "year": 2014
+  }, {
+    "title": "Thermal buoyancy on Venus: underthrusting vs. subduction",
+    "authors": ["J.D. Burt", "J.W. Head"],
+    "venue": "Geophys. Res. Lett",
+    "year": 1992
+  }, {
+    "title": "The geometry of volcano flank terraces on Mars",
+    "authors": ["P. Byrne", "B. van Wyk de Vries", "J. Murray", "V. Troll"],
+    "venue": "Earth Planet. Sci",
+    "year": 2009
+  }, {
+    "title": "A sagging-spreading continuum of large volcano",
+    "authors": ["P.K. Byrne", "E.P. Holohan", "M. Kervyn", "B. van Wyk de Vries", "V.R. Troll", "J.B. Murray"],
+    "venue": "structure. Geology",
+    "year": 2013
+  }, {
+    "title": "Bell Regio, Venus—integration of remote-sensing data and terrestrial analogs for geologic analysis",
+    "authors": ["Campbell", "B.A.P.G", "Rogers"],
+    "venue": "J. Geophys. Res. Lett.: Planets",
+    "year": 1994
+  }, {
+    "title": "The transition from high temperature creep to fracture in Maryland diabase",
+    "authors": ["Y. Caristan"],
+    "venue": "J. Geophys. Res",
+    "year": 1982
+  }, {
+    "title": "Geologic history of Mars",
+    "authors": ["M.H. Carr", "J.W. Head"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2010
+  }, {
+    "title": "Martian surface/near-surface water inventory: sources, sinks, and changes with time",
+    "authors": ["M.H. Carr", "J.W. Head"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2015
+  }, {
+    "title": "Argon diffusion in pyroxenes: implications for thermochronometry and mantle degassing",
+    "authors": ["W.S. Cassata", "P.R. Renne", "D.L. Shuster"],
+    "venue": "Earth Planet. Sci",
+    "year": 2011
+  }, {
+    "title": "Ar and K partitioning between clinopyroxene and silicate melt to 8 GPa",
+    "authors": ["E.M. Chamorro Perez", "R.A. Brooker", "J.A. Wartho", "B.J. Wood", "S.P. Kelley", "J.D. Blundy"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 2002
+  }, {
+    "title": "Global Distribution of Active Volcanoes",
+    "authors": ["E. Cottrell"],
+    "venue": "Volcanic Hazards, Risks, and Disasters, Ed. Papale, P. Elsevier, 1–14.",
+    "year": 2015
+  }, {
+    "title": "The effect of water on the viscosity of haplogranitic melt under P-T-X conditions relevant to silicic volcanism",
+    "authors": ["D.B. Dingwell", "C. Romano", "K.U. Hess"],
+    "venue": "Contrib. Miner. Petrol",
+    "year": 1996
+  }, {
+    "title": "New analysis of hydrogen and deuterium escape from Venus",
+    "authors": ["T.M. Donahue"],
+    "venue": "Icarus 141,",
+    "year": 1999
+  }, {
+    "title": "The Venus atmosphere and ionosphere and their interaction with the solar wind: an overview",
+    "authors": ["T.M. Donahue", "C.T. Russell"],
+    "year": 1997
+  }, {
+    "title": "High-temperature behaviour of basalts—role of temperature and strain rate on compressive strength and KIC toughness of partially glassy basalts at atmospheric pressure",
+    "authors": ["R. Duclos", "J. Paquet"],
+    "venue": "Int. J. Rock Mech. Mining Sci. Geomech. Abstr",
+    "year": 1991
+  }, {
+    "title": "Mafic–ultramafic large igneous provinces (LIPs): importance of the pre-Mesozoic",
+    "authors": ["R.E. Ernst"],
+    "venue": "record. Episodes",
+    "year": 2007
+  }, {
+    "title": "Sulfur dioxide: episodic injection shows evidence for active Venus volcanism",
+    "authors": ["L.W. Esposito"],
+    "venue": "Science",
+    "year": 1984
+  }, {
+    "title": "Explosive volcanism on Venus: transient volcanic explosions as a mechanism for localized pyroclast dispersal",
+    "authors": ["S.A. Fagents", "L. Wilson"],
+    "venue": "J. Geophys. Res.: Planets",
+    "year": 1995
+  }, {
+    "title": "Oxygen diffusion in a fine-grained quartz aggregate with wetted and non-wetted microstructures",
+    "authors": ["J.R. Farvert", "R.A. Yund"],
+    "venue": "J. Geophys. Res",
+    "year": 1992
+  }, {
+    "title": "Estimation of the rate of volcanism on Venus from reaction rate measurements",
+    "authors": ["B. Fegley", "R.G. Prinn"],
+    "venue": "Nature",
+    "year": 1989
+  }, {
+    "title": "The conditions for plate tectonics on super-Earths: inferences from convection models with damage",
+    "authors": ["B.J. Foley", "D. Bercovici", "W. Landuyt"],
+    "venue": "Earth Planet. Sci",
+    "year": 2012
+  }, {
+    "title": "A theoretical framework for volcanic degassing chemistry in a comparative planetology perspective and implications for planetary atmospheres",
+    "authors": ["F. Gaillard", "B. Scaillet"],
+    "venue": "Earth Planet. Sci",
+    "year": 2014
+  }, {
+    "title": "Radial dike formation on Venus: insights from models of uplift, flexure and magmatism",
+    "authors": ["G.A. Galgana", "E.B. Grosfils", "P.J. McGovern"],
+    "venue": "Icarus 225,",
+    "year": 2013
+  }, {
+    "title": "Rheological and pertrological implications for a stagnant lid regime on Venus",
+    "authors": ["R. Ghail"],
+    "venue": "Planet. Space Sci",
+    "year": 2015
+  }, {
+    "title": "A pyroclastic flow deposit on Venus",
+    "authors": ["R.C. Ghail", "L. Wilson"],
+    "venue": "Geological Society Special Publications, 401, London.",
+    "year": 2013
+  }, {
+    "title": "Structural and kinematic analysis of Eastern Ovda Regio, Venus: implications for crustal plateau formation",
+    "authors": ["R. Ghent", "V.L. Hansen"],
+    "venue": "Icarus 139,",
+    "year": 1999
+  }, {
+    "title": "Viscosity of magmatic liquids: a model",
+    "authors": ["D. Giordano", "J.R. Russell", "D.B. Dingwell"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2008
+  }, {
+    "title": "Explosive volcanic eruptions from linear vents on Earth, Venus, and Mars: comparisons with circular vent eruptions",
+    "authors": ["L.S. Glaze", "S.M. Baloga", "J. Wimert"],
+    "venue": "J. Geophys. Res.: Planets",
+    "year": 2011
+  }, {
+    "title": "Deformation of rocks at 500 to 800 C",
+    "authors": ["D.T. Griggs", "F.J. Turner", "H.C. Heard"],
+    "venue": "In: Griggs, D.T., Handin, J.W., (Eds.), Rock Deformation, Geol. Soc. Amer., Mem. 79, pp. 39–104.",
+    "year": 1960
+  }, {
+    "title": "Recent deformation rates on Venus",
+    "authors": ["R.E. Grimm"],
+    "venue": "J. Geophys. Res.: Planets",
+    "year": 1994
+  }, {
+    "title": "Viscous relaxation of impact crater relief on Venus: constraints on crustal thickness and thermal gradient",
+    "authors": ["R.E. Grimm", "S.C. Solomon"],
+    "venue": "J. Geophys. Res.: Solid Earth",
+    "year": 1988
+  }, {
+    "title": "Venus: the corona conundrum",
+    "authors": ["P.M. Grindrod", "T. Hoogenboom"],
+    "venue": "Astron. Geophys",
+    "year": 2006
+  }, {
+    "title": "The geological evolution of Atai Mons, Venus: a volcano-corona ‘hybrid",
+    "authors": ["P.M. Grindrod", "E.R. Stofan", "A.W. Brian", "J.E. Guest"],
+    "venue": "J. Geol. Soc. London",
+    "year": 2006
+  }, {
+    "title": "Volcanism and resurfacing on Venus at the full resolution of Magellan SAR data",
+    "authors": ["P.M. Grindrod", "E.R. Stofan", "J.E. Guest"],
+    "venue": "Geophys. Res. Lett. 37. http://dx.doi",
+    "year": 2010
+  }, {
+    "title": "The global distribution of giant radiating dike swarms on Venus: implications for the global stress",
+    "authors": ["E.B. Grosfils", "J.W. Head"],
+    "venue": "state. Geophys. Res",
+    "year": 1994
+  }, {
+    "title": "Geologic Map of the Ganiki Planitia Quadrangle (V14), Venus [Map] Scientific Investigations Map 3121",
+    "authors": ["E.B. Grosfils", "S.M. Long", "E.M. Venechuk", "D.M. Hurwitz", "J.W. Richards", "B. Kastl", "D.E. Drury", "J. Hardin"],
+    "venue": "U.S. Geological Survey",
+    "year": 2011
+  }, {
+    "title": "Emplacement and arrest of dykes and sheets in central volcanoes",
+    "authors": ["A. Gudmundsson"],
+    "venue": "J. Volcanol. Geoth. Res",
+    "year": 2002
+  }, {
+    "title": "How local stresses control magma-chamber ruptures, dyke injections, and eruptions in composite volcanoes",
+    "authors": ["A. Gudmundsson"],
+    "venue": "Earth Sci. Rev",
+    "year": 2006
+  }, {
+    "title": "Rock fractures in geological processes",
+    "authors": ["A. Gudmundsson"],
+    "year": 2011
+  }, {
+    "title": "Experimental deformation of a glassy basalt",
+    "authors": ["B.R. Hacker", "J.M. Christie"],
+    "venue": "Tectonophysics",
+    "year": 1991
+  }, {
+    "title": "The origins of volatiles in the terrestrial planets",
+    "authors": ["A.N. Halliday"],
+    "venue": "Geochim. Cosmochim",
+    "year": 2013
+  }, {
+    "title": "Structural analysis of a sampling of tesserae: implications for Venus geodynamics",
+    "authors": ["V.L. Hansen", "J.J. Willis"],
+    "venue": "Icarus 123,",
+    "year": 1996
+  }, {
+    "title": "Ribbon Terrain Formation, Southwestern Fortuna Tessera, Venus: implications for lithosphere evolution",
+    "authors": ["V.L. Hansen", "J.J. Willis"],
+    "venue": "Icarus",
+    "year": 1998
+  }, {
+    "title": "Effusion rate controls on lava flow length and the role of heat loss: a review",
+    "authors": ["A.J.L. Harris", "S.K. Rowland"],
+    "venue": "In: Thordarson, T., Self, S., Larsen, G., Rowland, S.K., Hoskuldsson, A. (Eds.), Studies in Volcanology: The Legacy of George Walker. Special Publications of IAVCEI, Geological Society of London, 2, 33–51.",
+    "year": 2009
+  }, {
+    "title": "Tectonic evolution of the terrestrial planets",
+    "authors": ["J.W. Head", "S.C. Solomon"],
+    "venue": "Science 213,",
+    "year": 1981
+  }, {
+    "title": "Magma reservoirs and neutral buoyancy zones on Venus: implications for the formation and evolution of volcanic landforms",
+    "authors": ["J.W. Head", "L. Wilson"],
+    "venue": "J. Geophys. Res",
+    "year": 1992
+  }, {
+    "title": "Venus volcanism: classification of volcanic features and structures, associations, and global distribution from Magellan data",
+    "authors": ["J.W. Head", "L.S. Crumpler", "J.C. Aubele", "J.E. Guest", "R.S. Saunders"],
+    "venue": "J. Geophys. Res",
+    "year": 1992
+  }, {
+    "title": "The evolution of elastic moduli with increasing damage during cyclic stressing of a basalt from Mt, Etna volcano",
+    "authors": ["M.J. Heap", "S. Vinciguerra", "P.G. Meredith"],
+    "year": 2009
+  }, {
+    "title": "Brittle creep in basalt and its application to time-dependent volcano deformation",
+    "authors": ["M.J. Heap", "P. Baud", "P.G. Meredith", "S. Vinciguerra", "A.F. Bell", "I.G. Main"],
+    "venue": "Earth Planet. Sci",
+    "year": 2011
+  }, {
+    "title": "Fracture and compaction of andesite in a volcanic edifice",
+    "authors": ["M.J. Heap", "J.I. Farquharson", "P. Baud", "Y. Lavallée", "T. Reuschlé"],
+    "venue": "Bull. Volcanol",
+    "year": 2015
+  }, {
+    "title": "2017a. Low surface gravitational acceleration of Mars results in a thick and weak lithosphere: implications for topography, volcanism, and hydrology",
+    "authors": ["M.J. Heap", "P. Byrne", "S. Mikhail"],
+    "venue": "Icarus 281,",
+    "year": 2017
+  }, {
+    "title": "2017b. From rock to magma and back again: The evolution of temperature and deformation mechanism in conduit margin zones",
+    "authors": ["M.J. Heap", "M. Violay", "F.B. Wadsworth", "J. Vasseur"],
+    "venue": "Earth Planet. Sci",
+    "year": 2017
+  }, {
+    "title": "Evolution of large shield volcanoes on Venus",
+    "authors": ["R.R. Herrick", "J. Dufek", "P.J. McGovern"],
+    "venue": "J. Geophys. Res",
+    "year": 2005
+  }, {
+    "title": "Viscosities of hydrous leucogranitic melts: a nonArrhenian model",
+    "authors": ["K.U. Hess", "D.B. Dingwell"],
+    "venue": "Am. Mineral",
+    "year": 1996
+  }, {
+    "title": "Derivation of primary magmas and melting of crustal materials on Venus: some preliminary petrogenetic considerations",
+    "authors": ["P.C. Hess", "J.W. Head"],
+    "venue": "Earth Moon Planet",
+    "year": 1990
+  }, {
+    "title": "Viscosity-temperature behavior of dry melts in the Qz-Ab-Or system",
+    "authors": ["K.U. Hess", "D.B. Dingwell", "C. Gennaro", "V. Mincione"],
+    "venue": "Chem. Geol",
+    "year": 2001
+  }, {
+    "title": "Water, melting, and the Earth deep H2O cycle",
+    "authors": ["M.M. Hirschmann"],
+    "venue": "Annu. Rev. Earth Planet. Sci",
+    "year": 2006
+  }, {
+    "title": "Brittle fracture propagation in rock under compression",
+    "authors": ["E. Hoek", "Z.T. Bieniawski"],
+    "venue": "Int. J. Fract",
+    "year": 1965
+  }, {
+    "title": "1980a. Measurements of the Venus lower atmosphere composition: a comparison of results",
+    "authors": ["J.H. Hoffman", "V.I. Oyama", "U. von Zahn"],
+    "venue": "J. Geophys. Res",
+    "year": 1980
+  }, {
+    "title": "Composition of the Venus lower atmosphere from the Pioneer Venus mass spectrometer",
+    "authors": ["Hoffman", "J.H.Hodges", "R.R. Jr.", "T.M. Donahue", "M.B. McElroy", "1980b"],
+    "venue": "J. Geophys. Res",
+    "year": 1980
+  }, {
+    "title": "Atmospheric evolution of the terrestrial planets",
+    "authors": ["D.M. Hunten"],
+    "venue": "Science",
+    "year": 1993
+  }, {
+    "title": "Pisma v Astronomicheskii Zhurnal, vol",
+    "authors": ["V.G. Istomin", "K.V. Grechnev", "V.A. Kochnev"],
+    "venue": "5, pp. 211–216 (Soviet Astronomy Letters, vol. 5, pp. 113–115, Trans.). (Original work published 1979).",
+    "year": 1979
+  }, {
+    "title": "Mass Spectrometer Measurements of the Composition of the Lower Atmosphere of Venus",
+    "authors": ["V.G. Istomin", "K.V. Grechnev", "V.A. Kochnev"],
+    "venue": "COSPAR Colloquia Series, Space Research — Proceedings of the Open Meetings of the Working Groups on Physical Sciences of the Twenty-Second Plenary Meeting of COSPAR Bangalore, India",
+    "year": 1980
+  }, {
+    "title": "The history of volcanism on Venus",
+    "authors": ["M.A. Ivanov", "J.W. Head"],
+    "venue": "Planet. Space Sci",
+    "year": 2013
+  }, {
+    "title": "Mars’ atmospheric history derived from upper-atmosphere measurements",
+    "authors": ["B.M. Jakosky", "M. Slipski", "M. Benna", "P. Mahaffy", "M. Elrod", "R. Yelle", "S. Stone", "N. Alsaeed"],
+    "year": 2017
+  }, {
+    "title": "The influence of interior mantle",
+    "authors": ["A.M. Jellinek", "A. Lenardic", "M. Manga"],
+    "venue": "38Ar/36Ar. Science",
+    "year": 2002
+  }, {
+    "title": "A conceptual model for the relationship between",
+    "authors": ["C.L. York. Johnson", "M.A. Richards"],
+    "year": 2003
+  }, {
+    "title": "Excess argon in K-Ar and Ar-Ar geochronology",
+    "authors": ["S. Kelley"],
+    "venue": "Chem. Geol",
+    "year": 2002
+  }, {
+    "title": "Pressures of crystallization of Icelandic magmas. J",
+    "authors": ["D.F. Kelley", "M. Barton"],
+    "year": 2008
+  }, {
+    "title": "Strength of the lithosphere",
+    "authors": ["D.L. Kohlstedt", "B. Evans", "S.J. Mackwell"],
+    "venue": "Ar ages in xenolith phlogopites. Science",
+    "year": 1995
+  }, {
+    "title": "Solubility of water in the a, b and c",
+    "authors": ["D.L. Kohlstedt", "H. Keppler", "D.C. Rubie"],
+    "year": 1996
+  }, {
+    "title": "The resurfacing history of Venus",
+    "authors": ["M.A. Kreslavsky", "M.A. Ivanov", "J.W. Head"],
+    "year": 2015
+  }, {
+    "title": "Comparison of carbon, nitrogen and water",
+    "authors": ["C. Lécuyer", "L. Simon", "F. Guyot"],
+    "year": 2010
+  }, {
+    "title": "A review of Venusian surface heat flow estimates",
+    "authors": ["J.J. Leitner", "M.G. Firneis"],
+    "venue": "budgets on Venus and the Earth. Earth Planet. Sci. Lett",
+    "year": 2006
+  }, {
+    "title": "An investigation of the SO2 content of the venusian mesosphere",
+    "authors": ["E. Neefs"],
+    "year": 2011
+  }, {
+    "title": "Pancakelike domes on Venus",
+    "authors": ["P.G. Ford", "F. Liu", "G.H. Pettengill"],
+    "venue": "topography-derived strain estimates. Geology",
+    "year": 1992
+  }, {
+    "title": "Micromechanics of brittle faulting",
+    "authors": ["B. Menéndez", "W. Zhu", "T-f", "Wong"],
+    "venue": "Venus II. University of Arizona Press, Tucson,",
+    "year": 1996
+  }, {
+    "title": "cataclastic flow in Berea sandstone",
+    "authors": ["L. Michon", "V. Ferrazzini", "A. Di Muro", "N. Villeneuve", "V. Famin"],
+    "venue": "J. Struct. Geol. 18,",
+    "year": 2015
+  }, {
+    "title": "Nitrogen speciation in upper mantle fluids",
+    "authors": ["S. Mikhail", "D.A. Sverjensky"],
+    "venue": "Hawaii and Etna? J. Volcanol. Geoth. Res",
+    "year": 2014
+  }, {
+    "title": "Volcanic degassing of argon and helium",
+    "authors": ["Icarus", "N. 433–441. Namiki", "S.C. Solomon"],
+    "year": 1998
+  }, {
+    "title": "crustal production on Venus",
+    "authors": ["F. Nimmo", "D. McKenzie"],
+    "venue": "J. Geophys. Res",
+    "year": 1996
+  }, {
+    "title": "Convective thermal evolution of the upper mantles",
+    "authors": ["F. Nimmo", "D. McKenzie"],
+    "venue": "Venus. Earth Planet. Sci. Lett",
+    "year": 1997
+  }, {
+    "title": "Thermal evolution of Venus with argon degassing",
+    "authors": ["J. O’Rourke", "J. Korenaga"],
+    "venue": "Planet. Sci",
+    "year": 2015
+  }, {
+    "title": "Distribution and source of the UV absorption",
+    "authors": ["L. Travis", "D. Wiedman"],
+    "year": 1980
+  }, {
+    "title": "The Origin of noble gases and major volatiles",
+    "authors": ["D. Porcelli", "R.O. Pepin"],
+    "venue": "Venus’ atmosphere. J. Geophys. Res",
+    "year": 2003
+  }, {
+    "title": "Transient mantle",
+    "authors": ["C.M.I", "M. Jellinek", "V. Thayalan", "A. Lenardic"],
+    "venue": "units. J. Geophys. Res.: Planets",
+    "year": 2007
+  }, {
+    "title": "Propagation of magma-filled cracks",
+    "authors": ["A.M. Rubin"],
+    "venue": "Annu. Rev. Earth Planet. Sci",
+    "year": 1995
+  }, {
+    "title": "Microfracturing and the inelastic deformation of rock",
+    "authors": [],
+    "year": 1968
+  }, {
+    "title": "Mantle dynamics in Mars",
+    "authors": ["D. Bercovici", "G.A. Glatzmaier"],
+    "venue": "compression. J. Geophys. Res",
+    "year": 2010
+  }, {
+    "title": "The heat flow through oceanic and",
+    "authors": ["J.G. Sclater", "C. Jaupart", "D. Galson"],
+    "venue": "Venus. J. Geophys. Res.: Planets",
+    "year": 1980
+  }, {
+    "title": "Mechanism of deformation in a dry porous basalt at high",
+    "authors": ["Lett", "M. 4762–4769. Shimada"],
+    "year": 1986
+  }, {
+    "title": "Fracture and deformation of silicate rocks",
+    "authors": ["pressures. Tectonophysics", "M. 153–173. Shimada", "H. Yukutake"],
+    "year": 1982
+  }, {
+    "title": "Ductile behavior of a fine-grained porous basalt",
+    "authors": ["M. Shimada", "K. Ito", "A. Cho"],
+    "year": 1989
+  }, {
+    "title": "Evolution of the mechanics",
+    "authors": ["P. Sammonds", "H. Tuffen", "P.G. Meredith"],
+    "venue": "‘‘pancake” domes on Venus. J. Volcanol. Geoth. Res",
+    "year": 2011
+  }, {
+    "title": "Helens lava dome with time and temperature",
+    "authors": ["Mt. St"],
+    "year": 2008
+  }, {
+    "title": "Corona formation and heat loss on Venus",
+    "authors": ["Terra", "Venus"],
+    "venue": "J. Geophys. Res.: Planets",
+    "year": 1997
+  }, {
+    "title": "Recent hotspot volcanism on Venus from VIRTIS",
+    "authors": ["G. Piccioni", "P. Drossart"],
+    "year": 2010
+  }, {
+    "title": "Olivine hydration",
+    "authors": ["J.R. Smyth", "D.J. Frost", "F. Nestola", "C.M. Holl", "G. Bromiley"],
+    "venue": "emissivity data. Science",
+    "year": 2006
+  }, {
+    "title": "Stagnant lid convection on Venus",
+    "authors": ["Lett", "V.S. L15301. Solomatov", "Moresi", "S.-N"],
+    "venue": "J. Geophys",
+    "year": 1996
+  }, {
+    "title": "The morphology and evolution of coronae on Venus. J",
+    "authors": ["E.R. Stofan"],
+    "year": 1992
+  }, {
+    "title": "Global distribution and characteristics of coronae",
+    "authors": ["S.W. Squyres"],
+    "year": 1992
+  }, {
+    "title": "The magmatic plumbing system",
+    "authors": ["A. 23317–23327. Stroncik", "A. Klügel", "T.H. Hansteen"],
+    "year": 2009
+  }, {
+    "title": "Tectonic implications of radiogenic noble gases",
+    "authors": ["D.L. 16931–16940. Turcotte", "G. Schubert"],
+    "year": 1988
+  }, {
+    "title": "Role of membrane",
+    "authors": ["D.L. Turcotte", "R.J. Willemann", "W.F. Haxby", "J. Norberry"],
+    "venue": "planetary atmospheres. Icarus",
+    "year": 1981
+  }, {
+    "title": "stresses in the support of planetary topography",
+    "authors": ["D.L. Turcotte", "G. Morein", "D. Roberts", "B.D. Malamud"],
+    "venue": "J. Geophys. Res",
+    "year": 1999
+  }, {
+    "title": "Brittle versus ductile",
+    "authors": ["M. 1029/2011JB008884. Violay", "B. Gibert", "D. Mainprice", "Burg", "J.-P"],
+    "year": 2015
+  }, {
+    "title": "ERS-1 altimetry",
+    "authors": ["C.A. Williams", "C. Connors", "F.A. Dahlen", "E.J. Price", "J. Suppe"],
+    "venue": "J. Geophys. Res",
+    "year": 1994
+  }, {
+    "title": "The transition from brittle faulting",
+    "authors": ["T.-f", "C. David", "W. Zhu"],
+    "venue": "landforms. Rev. Geophys",
+    "year": 1997
+  }, {
+    "title": "Micromechanics of brittle",
+    "authors": ["W. Zhu", "P. Baud", "S. Vinciguerra", "Wong", "T-f"],
+    "year": 2016
+  }],
+  "id": "SP:73c84ddbe9965bc1d20a687de9085f6f5a1893ef",
+  "authors": [{
+    "name": "Sami Mikhail",
+    "affiliations": []
+  }, {
+    "name": "Michael J. Heap",
+    "affiliations": []
+  }],
+  "abstractText": "The disparate evolution of sibling planets Earth and Venus has left them markedly different. Venus’ hot (460 C) surface is dry and has a hypsometry with a very low standard deviation, whereas Earth’s average temperature is 4 C and the surface is wet and has a pronounced bimodal hypsometry. Counterintuitively, despite the hot Venusian climate, the rate of intraplate volcano formation is an order of magnitude lower than that of Earth. Here we compile and analyse rock deformation and atmospheric argon isotope data to offer an explanation for the relative contrast in volcanic flux between Earth and Venus. By collating hightemperature, high-pressure rock deformation data for basalt, we provide a failure mechanism map to assess the depth of the brittle–ductile transition (BDT). These data suggest that the Venusian BDT likely exists between 2 and 12 km depth (for a range of thermal gradients), in stark contrast to the BDT for Earth, which we find to be at a depth of 25–27 km using the same method. The implications for planetary evolution are twofold. First, downflexing and sagging will result in the sinking of high-relief structures, due to the low flexural rigidity of the predominantly ductile Venusian crust, offering an explanation for the curious coronae features on the Venusian surface. Second, magma delivery to the surface—the most efficient mechanism for which is flow along fractures (dykes; i.e., brittle deformation)—will be inhibited on Venus. Instead, we infer that magmas must stall and pond in the ductile Venusian crust. If true, a greater proportion of magmatism on Venus should result in intrusion rather than extrusion, relative to Earth. This predicted lower volcanic flux on Venus, relative to Earth, is supported by atmospheric argon isotope data: we argue here that the anomalously unradiogenic present-day atmospheric Ar/Ar ratio for Venus (compared with Earth) must reflect major differences in Ar degassing, primarily driven by volcanism. Indeed, these argon data suggest that the volcanic flux on Venus has been three times lower than that on Earth over its 4.56 billion year history. We conclude that Venus’ hot climate inhibits volcanism. 2017 Elsevier B.V. All rights reserved.",
+  "title": "Hot climate inhibits volcanism on Venus: Constraints from rock deformation experiments and argon isotope geochemistry"
+}

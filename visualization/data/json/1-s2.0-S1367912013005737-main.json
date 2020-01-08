@@ -1,0 +1,297 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nJournal of Asian Earth Sciences\njournal homepage: www.elsevier .com/locate / jseaes\nPlagioclase as recorder of magma chamber processes in the Deccan Traps: Sr-isotope zoning and implications for Deccan eruptive event\n1367-9120/$ - see front matter 2013 Elsevier Ltd. All rights reserved. http://dx.doi.org/10.1016/j.jseaes.2013.10.034\n⇑ Corresponding author. Present address: Corning Incorporated, One Museum Way, HP-ME-02-02, Corning, NY 14831, USA.\nE-mail address: Melroy.Borges@gmail.com (M.R. Borges). 1 Present address: American University of Sharjah, Sharjah 26666, UAE. 2 Present address: Pacific Northwest National Laboratory, Richland, WA 99352,\nUSA.\nMelroy R. Borges a,⇑, Gautam Sen a,1, Garret L. Hart b,2, John A. Wolff b, D. Chandrasekharam c a Department of Earth & Environment, Florida International University, Miami, FL 33199, USA b School of Earth and Environmental Sciences, Washington State University, Pullman, WA 99164, USA c Department of Earth Sciences, Indian Institute of Technology, Mumbai 400076, India\na r t i c l e i n f o\nArticle history: Available online 11 November 2013\nKeywords: Deccan Traps Plagioclase residence times Flood basalts Sr isotope zoning Isotopic diffusion Crystal growth rates LA-ICPMS\na b s t r a c t\nDeccan Trap flood basalt volcanism reached its peak 65.5 (±1) million years ago, giving rise to a 2.7 km thick lava pile that formed the Western Ghats range near Mumbai. The total duration of this activity cannot be constrained better than ±1 Ma by conventional Ar-dating techniques. It is also difficult to know whether there were short bursts of tremendous volcanic activity within that period which could have significantly impacted global climate. Here we employ diffusion relaxation modeling of 87Sr/86Sr zoning in plagioclase to obtain a better resolution on the life cycle of a magma chamber in order to provide a minimum constraint on the duration of the Western Ghats volcanic episode.\nThe analyzed crystals are 2–5 cm long and occur in so-called Giant Plagioclase Basalt flows that mark the tops of the oldest formations of the Western Ghats. In the formation studied, such crystals may have recorded the life cycle of the magma chamber that fed the preceding flows. Our diffusion modeling yields 780 years for the maximum residence time for 5 cm long plagioclase crystals in the magma chamber and a mean growth rate of 2.03 10 10 cm s 1. Assuming continuous crystal growth while the underlying pile was being emplaced gives us a combined maximum rate of 0.13 m yr 1 for incubation and extrusion of the lava. Using this rate we estimate that the peak volcanic activity lasted a minimum of 21,100 years. A short duration for the Deccan would preclude AFC contamination processes during emplacement of the bulk of Deccan lavas.\n2013 Elsevier Ltd. All rights reserved."
+  }, {
+    "heading": "1. Introduction",
+    "text": "Eruptive histories of continental flood basalts are of widespread interest because of their possible link to deep mantle plume heads, separation of continents, and mass extinctions (e.g., Courtillot et al., 1999; Courtillot and Renne, 2003). The Deccan Trap flood basalt eruption (India) overlapped the K/T boundary event and is believed to have been responsible for the separation of the Seychelles microcontinent from India (Collier et al., 2004). In common with other flood basalt provinces, the Deccan consists of numerous stacked flows that are individually very large. Global environment effects from flood basalt episodes are thought to result from the associated sudden influx of S, Cl, and CO2 into the atmosphere (Self et al., 2005). The Deccan eruptions may have induced a significant change in Os-isotopic composition of the\nglobal oceans (Ravizza and Peucker-Ehrenbrink, 2003) and may have had a profound environmental effect on Earth (Caldeira and Rampino, 1990; Self et al., 2006, 2008).\nThe duration of flood basalt episodes is critical to evaluating their global environmental impact. If the repose time between successive eruptions is long enough, then Earth systems can recover between eruptions. Closely-spaced eruptions may not allow recovery, leading to environmental catastrophe. Current estimates of flood basalt episode durations vary widely. On the one hand, the bulk of the relatively small 2 105 km3 (Reidel et al., 2013) Columbia River Basalt Group is thought to have been emplaced within approximately 400,000 years (Barry et al., 2010; Jarboe et al., 2010). On the other hand, it has recently been shown that several chemical types of basalt were erupted in <100,000 years in the much larger (>3 106 km3) Central Atlantic Magmatic Province (Blackburn et al., 2013).\nAlthough paleomagnetic and 40Ar/39Ar dates are rather sparse across the Deccan province, there is a general consensus that the bulk of the eruption occurred 65 ± 1 Ma (Sen and Chandrasekharam, 2011). Deccan lavas are most voluminous at the Western Ghats, where they reach a maximum thickness of 2.7 km. 40Ar/39Ar dates on this lava sequence obtained in different laboratories fall\nwithin 65.5 ± 1 Ma, implying a rapid eruption of the lavas (Courtillot et al., 1988; Duncan and Pyle, 1988; Hofmann et al., 2000). Duncan and Pyle (1988) obtained identical ages for the topmost and bottommost lava flow in the Western Ghats. Re–Os dating of these lavas reported an uncertainty of ±0.3 Ma (Allegre et al., 1999); but in general isotopic methods cannot resolve the Western Ghats eruption to lesser than ±1 Ma. A tighter constraint on the duration of the peak Deccan volcanism would be useful in understanding petrologic processes associated with flood basalt volcanism and their impact on the Earth system. Chenet et al. (2007, 2008, 2009) undertook a more detailed paleomagnetic study where they compared paleomagnetic data, red bole (soil between lava flows) horizons, and field relationships. They concluded that emplacement of the Deccan occurred in multiple pulses, with each pulse lasting less than 10,000 years.\nA lower limit on the duration of flood basalt episodes is imposed by the time needed to generate, store and transport the magmas, and erupt and emplace the resultant lavas. Sen (2001) and Sen et al. (2006) attempted to do this by making assumptions about the growth rate of plagioclase phenocrysts and arrived at a minimum estimate of 23,000 years for the Western Ghats eruptions. However, Sen et al. (2006) assumed a growth rate estimated\nfrom the solidification of a Hawaiian lava lake (Cashman and Marsh, 1988), which may or may not be applicable to the Deccan. Thus, an independent means for evaluating the growth rate of Deccan plagioclase would seem most appropriate.\nIn this paper, we use a different and more quantitative approach to independently calculate growth rate of the Deccan plagioclase from Sr-isotope zoning in some 2–5 cm long plagioclase phenocrysts. Such zoning may develop as a plagioclase crystal grows in magma whose composition changes with time due to the addition of magma from the source volume and simultaneous loss of magma via eruption. Once formed, the adjacent zones in that crystal will try to re-equilibrate by diffusion of chemical species across the zone boundary as long as the crystal is held in the magma above the closure temperature. Knowledge of diffusion rate can then be utilized to obtain the crystal’s residence time and growth rate in the magma (Costa et al., 2003; Davidson et al., 2001; Ramos et al., 2005; Singer et al., 1995; Zellmer et al., 1999). This information can then be combined with the volume of the lava to determine minimum eruption duration and hence maximum extrusion rate (detailed discussion follows later). We use our crystal residence time data to estimate minimum total duration of the Western Ghats magmatic episode. We briefly discuss the implications of our finding.\nTraps (from Sen, 2001). (B) Field photograph of a Thalghat Giant Plagioclase Basalt from 1.5 to 3 cm. The hammer head at the bottom of the frame is 16 cm in length. s, as outlined by Beane et al. (1986). We sampled the lowermost Jawhar and Igatpuri e shown in (D). Names of individual flows are from Beane et al. (Beane et al., 1986), otopes, Mg#, and petrographic descriptions in (Beane, 1988) and (Peng et al., 1994)."
+  }, {
+    "heading": "2. Background: The Western Ghats",
+    "text": "Deccan Trap lavas of the Western Ghats section are mostly differentiated, light ion lithophile-enriched, tholeiitic basalts with Mg# (whole rock molar MgO/(MgO + FeO)) 40 (Beane et al., 1986; Cox and Hawkesworth, 1985; Mahoney et al., 1982) carrying olivine + plagioclase +/ augite phenocrysts (Sen, 1986; Sethna and Sethna, 1990). Some aphyric flows with Mg# of 55 also occur (Beane et al., 1986). The lavas are grouped into formations and subgroups based on their chemical affinities (Beane et al., 1986; Cox and Hawkesworth, 1985). These formations show spectacular diversity in Nd, Sr, and Pb isotopic composition that range from depleted to highly enriched (Peng et al., 1994; Simonetti et al., 1998). The Ambenali Formation with broadly Reunion hot spot like isotope ratios forms one end member (with Sr-isotope ratios similar to or slightly lower than a ‘‘bulk Earth’’). At the other extreme, the generally aphyric Bushe Formation lavas, with higher Mg#, have the highest Sr-isotope compositions, which are generally thought to reflect contamination by old continental crust (Peng et al., 1994).\nHere we focus on the lowermost Kalsubai Subgroup that includes several formations, each of which was perhaps fed by individual magma chambers (Sen, 2001). Each formation within the Kalsubai is capped by a ‘‘giant plagioclase basalt (GPB)’’ flow that carries 2–5 cm long plagioclase crystals (Beane et al., 1986; Hooper et al., 1988). Such large crystals give the GPB flows a visually distinctive identity that is valuable in field correlation (Fig. 1B). Within each formation, the GPB flow is also the most differentiated (richest in Na, Ti, and Fe) and appears to be the end product of a magmatic cycle that gave rise to the previous lava eruptions within the same formation (Sen, 2001). Due to their large size, these crystals potentially carry a wealth of information about the magmatic events during their growth, and are the perfect candidates for crystal isotope zoning studies. Detailed textural study of GPB crystals, along with crystal size distribution can be found in Higgins and Chandrasekharam (2007). Further details on GPB crystals and zoning systematics can be found in Borges (2008) unpublished thesis."
+  }, {
+    "heading": "3. Analytical methods",
+    "text": "We collected samples from the Thalghat GPB at 10 m scale vertical spacing and then examined polished thick and thin sections of individual rock samples by petrographic and electron microscopy, and Laser Ablation Multi-Collector Inductively Coupled Plasma Mass Spectrometry (LA-MC-ICPMS). Imaging and microanalysis of zoning in individual crystals were performed with a JEOL JSM 5900LV scanning electron microscope and a JEOL 8900R electron microprobe at the Florida Center for Analytical Electron Microscopy (FCAEM) at Florida International University. Microprobe analytical conditions were 15 kV accelerating potential, <1 lm probe diameter, 20 nA sample current. More than 10,000 counts were obtained for major elements and at least 1000 for trace elements.\nTrace element analyses and strontium isotopic analyses were carried out at the Geoanalytical Laboratory at Washington State University using LA-MC-ICPMS procedures outlined in Ramos et al. (2004a). 1–3 mm thick sections of the samples were specially prepared so as to expose a section as near the center of the plagioclase crystals as possible. The sections were polished to a 1 lm diamond finish and cleaned with alcohol before introducing into the laser sample chamber. For isotopic analyses, samples were ablated using a New Wave™ UP213 Nd-YAG laser with a beam diameter of 80 lm. The ablated material was fed into a ThermoFinnigan Neptune™ MC-ICPMS via a stream of He gas. A\n500–700 lm long trough was ablated for each data point to obtain 100 ratios measured over 100 s. The beam was scanned over the length of the trough 9–12 times resulting in a trough depth of 40 lm. Measurements from the first pass were discarded. The ratios were corrected using an in-house procedure, which discarded outliers, mostly caused by the beam rastering over cracks in the sample. The 100 ratios for each data point were visually examined to ensure that the majority had acceptable 85Rb/86Sr values of 0.03–0.04. 85Rb/86Sr outliers were generally >0.2. 85Rb/88Sr values averaged 0.004, similar to elemental Rb/Sr of 0.003, measured by High Resolution LA-ICPMS. The ratios were not age corrected, as the correction factor was less than the standard error of analysis."
+  }, {
+    "heading": "4. Results",
+    "text": ""
+  }, {
+    "heading": "4.1. Zoning in giant plagioclase crystals",
+    "text": "We analyzed elemental and 87Sr/86Sr compositions along rim– core–rim transects of five ‘‘giant’’ crystals in the Thalghat GPB flow. All but two crystals are free of zoning. 87Sr/86Sr data for the two large crystals that show zoning are presented in Table 1 and Fig. 2. The rims of the two zoned crystals, the non-zoned phenocrysts, and the groundmass plagioclase crystals all have 87Sr/86Sr = 0.7104–0.7106. The cores of the two zoned crystals are significantly less radiogenic (Table 1 and Fig. 2) hence we interpret these cores as either (i) antecrystal feldspar that represents an earlier stage in the history of the Thalgat magma or (ii) feldspar scavenged from an earlier magma batch. In the zoned crystals, cathodoluminescence (CL) imaging reveals well defined core and rim zones, separated by a continuous zone boundary, without resorption features (Fig. 2). In both crystals 1 and 2, a sharp change in 87Sr/86Sr occurs at the zone boundary, however, this change is not mirrored in the An content of the feldspar, nor in Sr and Ba trace elements (Appendix Fig. A.1). The An content shows minor spikes which likely reflect mixing events in the magma chamber. Fig. 2 also shows the range of 87Sr/86Sr ratios of the groundmass plagioclase (dashed lines) in the host lava. The outer rims of the large crystals are isotopically the same as the groundmass\nplagioclase, suggesting that the rim was in equilibrium with the host lava. The lack of strong variation in An content across the crystal suggests that melt mixing events were very efficient, causing rapid homogenization of composition and temperature of the melt, and further supports the idea that the crystals grew in a melt-dominant, near-constant temperature environment with crystallinity <25% (Marsh, 1996). Higgins and Chandrasekharam (2007) provide a model of GPB growth where existing plagioclase crystals accumulate and coarsen at the top of shallow magma chambers. New magma would be introduced into the chamber, mixing with the pre-existing magma and eventually leading to the eruption of the GPB flow. Such a scenario could potentially give rise to zoned GPB crystals with isotopic variations corresponding in some way to the original and mixed magma. We modeled the isotopic variations as diffusion profiles to obtain crystal residence and rim growth timescales."
+  }, {
+    "heading": "4.2. Diffusion modeling",
+    "text": "Diffusion in zoned crystals can be modeled using the 1-dimensional diffusion equation:\n@C @t ¼ DSr @2C @x2\nwhere C is the 87Sr/86Sr ratio, x is the distance in meters and t is the time in seconds. In this study, DSr is the self-diffusion constant for\nstrontium in plagioclase. We consider self-diffusion because the equilibration is between isotopes of Sr; elemental Sr as measured by LA-ICPMS is roughly constant across the zones, meaning that chemical diffusion is not significant (Appendix Fig. A.1). The 87Sr/86Sr profiles in Fig. 3 are more or less symmetric across the crystal and so only half the profile needs to be modeled. However, to account for a possible off-center profile, we model the entire profile using numerical methods. The 1-dimensional diffusion equation has been discretized and solved numerically, using the fully implicit finite difference method.\nIn setting up the diffusion models we started with an initial condition as a step function in which two adjacent zones (i.e., core and rim) have distinct 87Sr/86Sr ratios with a single step between the two zones at the zone boundary (dotted line in Fig. 3). Initial 87Sr/86Sr composition of the rim was chosen to be 0.7106 for two reasons: (1) measured 87Sr/86Sr values closest to the rim on both zoned and unzoned crystals are around 0.7106 and (2) it is close to the groundmass mean plagioclase composition of 0.71047 ± 0.00013. This value also serves as the boundary condition, with each edge of the crystal held at a 87Sr/86Sr ratio of 0.7106.\nInitial Sr ratio of the core is taken as the average of the measured ratios for each core: 0.70995 for crystal 1 and 0.7097 for crystal 2 (Fig. 3) Selection of the initial composition of the core is not clear-cut. As a first option, we may use the average 87Sr/86Sr ratios for each of the two cores of the two-zoned crystals, in which case the initial core 87Sr/86Sr values for the two crystals would be\n0.70995 for crystal 1 and 0.7097 for crystal 2 (Fig. 3). An alternative possibility is that the cores of both grains had the same initial ratio that was lower than the two measured average core values stated above, and subsequent diffusion acted to increase the core’s 87Sr/86Sr to the measured values. In this case, the only way one can explain the difference between the two crystal core compositions is if the two crystals had different residence times: the one with the higher 87Sr/86Sr would be older. If diffusion were to continue for an infinite amount of time, the entire crystal would have the ratio of the groundmass (or rim).\nWe investigated the second possibility by modeling the diffusive re-equilibration of 87Sr/86Sr in crystal 2 assuming a lower initial core 87Sr/86Sr ratio of 0.7095. Fig. 4 shows the initial profile (dotted line) as well as a calculated profile at t = 600 years that fits\nthe core compositions. When the modeled core ratios are raised from the initial ratio to the measured values, the modeled rim compositions fall well below the measured values; that is, a proper fit cannot be obtained using the lower initial core ratio, which rules out the latter possibility and validates the first, i.e., cores of the two crystals had different initial 87Sr/86Sr compositions.\nOne may question whether the 87Sr/86Sr variation in single represents analytical fluctuations, growth from changing mixed melt composition, and/or diffusive readjustments. The large jump between the core and rim in each crystal is well beyond the analytical uncertainty (0.00005–0.00014) and must therefore represent a sharp change in isotopic composition of the crystal, and therefore in the melt from which the crystal grew. Fig. 2 shows that this change occurs over a 500 lm band. The change of ratios between the core and rim is represented by 4–5 data points in this band, not enough to unequivocally define diffusion or mixing profiles. The actual gradient may be much smoother on a finer scale than what we see in Fig. 2 from using an 80 lm diameter laser beam. Closer spaced tracks would have either revealed a linear two-component mixing profile that is reflective of growth during melt mixing events, or a typical curved diffusion profile resulting from diffusive resetting. In the first case the time calculated for the crystal’s residence in magma would be shorter than what would be obtained by modeling the change as a time-dependent diffusion gradient (the second possibility). Because our goal is to get a reasonable constraint on the maximum possible crystal residence time, we treat the core–rim gradient as a diffusion profile. Further treatment of the diffusion modeling is provided in Appendix A.\nWe ignore the second-order minor fluctuations in 87Sr/86Sr as noise and assume that diffusion began immediately after the rim began to grow. Fig. 2 shows that the diffusive front has not affected the outer edges of the crystal, meaning that the growth front always preceded the diffusive front. Therefore, diffusive adjustment of 87Sr/86Sr can be modeled as diffusion in a semi-infinite medium. After the lava eruption, rapid cooling would essentially quench the growth process, and further Sr diffusion would also stop because Sr has a high closure temperature ( 800 C for An64 at a cooling rate of 200 C/Ma, Cherniak and Watson, 1994). Thus, the diffusion timescale and the timescale of rim growth will be the same. The coupling of growth and diffusion modeling allows us to calculate not only magmatic residence times, but also the duration of the eruptive event up to the time of closure of the system.\nFirst, we calculated the magmatic temperature range over which diffusion would occur by performing equilibrium crystallization simulations on GPB whole rock compositions (minus accumulated plagioclase crystals) with MELTS (Ghiorso et al., 2002) and COMAGMAT (Ariskin, 1999). We find that for the chosen\ncore values. Dotted line is the initial condition at t = 0 and solid line is the modeled\nbulk compositions plagioclase begins to crystallize from 1150 (liquidus) and at 1100 C, the melt contains 25% plagioclase crystals. DSr can vary between 1.5 10 17 and 6.27 10 18 m2 s 1 over this temperature range (an average of values from (Cherniak and Watson, 1994; Giletti and Casserly, 1994). We use these two extreme DSr values to calculate diffusion profiles at various timescales up to 250 years. A factor that can complicate such a calculation is if a plagioclase crystal undergoes partial dissolution during its growth, because in such a case part of its growth history would be lost and the time calculated from crystal growth would be less than the actual time the crystal would have spent in the magma chamber. Dissolution textures are absent in all the crystals we examined and thus we do not believe this is an issue in our study."
+  }, {
+    "heading": "5. Discussion",
+    "text": "Fig. 3 shows the results of the diffusion models. The two profiles give slightly different results, owing to the different initial core ratios. The combined maximum timescale of diffusion was no more than 80 years at 1150 C or 200 years at 1100 C, which would also be the time required for the rim to grow. Using this range of values, our calculated growth rates for the rim vary between 5.07 10 10 and 2.03 10 10 cm s 1. Our calculated rates are similar to estimates from various other studies of plagioclase crystal growth rate e.g., (Burkhard, 2005; Cashman and Marsh, 1988; Izbekov et al., 2002; Larsen, 2005). Using the more conservative rate of 2.03 10 10 cm s 1, we determine the time of core–rim diffusion and rim growth to be 200 years. Using this same rate, and assuming it constant over time, we calculate 100 years for the growth of the core of plagioclase crystal 2, and 25 years for the major melt mixing event that formed the transition band between the core and the rim.\nIt is important to note that most 2–5 cm crystals in the Thlaghat GPB are unzoned in terms of 87Sr/86Sr and zoned crystals in that size range are rare. 87Sr/86Sr ratios of the rims of the zoned crystals examined here are within analytical error of that of unzoned crystals (0.71053 ± 0.00011), indicating that the rims of the zoned crystals and the unzoned crystals grew from the same melt. We therefore surmise that the calculated rim growth rate is valid for the unzoned crystals as well. Thus, applying the above calculated growth rate to the 5 cm long unzoned crystals, we calculate that they took 780 years to grow. This agrees with the duration of 500–1500 years calculated by Higgins and Chandrasekharam (2007).\nThe two zoned crystals clearly had a more complex history: their cores with different 87Sr/86Sr grew in different environments and were then mixed together in a chamber where the dominant unzoned crystals and the rims of the zoned crystals grew together. The lava flow (SS22 in Table 1) immediately underlying the Thalghat GPB has a low Sr isotopic composition of 0.70891 (±0.00015), significantly lower than the zoned core (0.70977 ± 0.00007). If we assume this flow is linked to the same magma from which the core grew, then the total residence time of the zoned crystal (core + rim) would be equal to the total time of incubation (in magma chamber) plus duration of the eruption of the GPB and that of the underlying lava SS22. The total thickness of SS22 + GPB flows is 100 m, and so the calculated 781 years of residence of the crystals in the magma chamber would represent the maximum time to erupt 100 m thick lava flows, yielding a minimum lava production rate of 0.13 m yr 1. Poorly constrained data for the flow volumes precludes an accurate calculation of volumetric eruption rate. If instead we assume that the core was not in equilibrium with the SS22 magma, then the effective thickness represented by the calculated 781 year timescale would be 80 m, the combined thickness\nof the GPB flows, yielding a minimum lava production rate of 0.10 m yr 1.\nIndividual formations in the Western Ghats section may have had different production rates that can be evaluated by crystal isotope zonation studies. In absence of this data we extrapolate our calculated rate of 0.13 m yr 1 to the 2.7 km thick Western Ghats section, ignoring eruption hiatuses, and get a minimum duration of 21,100 years for the Western Ghats volcanic activity., This matches the conclusion of Chenet et al. (2009) that major pulses of the Deccan eruption could have taken <10,000 years. This minimum duration is consistent with the proposal that Deccan eruption was involved in resetting the global oceanic 187Os/188Os and transient warming of the climate (Ravizza and Peucker-Ehrenbrink, 2003). We emphasize nonetheless that this estimate is a lower limit for the duration of emplacement of the Western Ghats lava pile, because it assumes continuous eruption.\nThe short duration places no constraint on the origin of the highly evolved isotopic compositions of these lavas and many other Deccan Formations. The short duration would seem to preclude contamination via an AFC process, where magmas spend a long time in the crust, and overall Deccan geochemistry does not conform to predictions of the AFC model (Cox and Hawkesworth, 1984, 1985). Our observations are consistent with the idea that rapid melt production was due to the melting of enriched source rocks (eclogite?) in the plume that would have had low solidus temperature and allow high isentropic melt productivity (Asimow et al., 2004; A.R. Basu 2007, pers. comm.). However, as noted above, higher indices of contamination such as 87Sr/86Sr are found in lavas with higher Mg#, e.g., Bushe Formation (Beane et al., 1986; Peng et al., 1994). This correlation is predicted by models of rapid, turbulent transport of primitive magmas through continental crust and consequent efficient melting of wall rock leading to contamination (Huppert and Sparks, 1985). Further work on crystal isotope stratigraphy of plagioclase in Deccan lavas should help to resolve this issue."
+  }, {
+    "heading": "Acknowledgements",
+    "text": "John Mahoney was a close friend and a respected colleague. We thank the editors in organizing this volume in his memory and dedicate this paper to our friend John. We would like to thank Richard Conrey, Diane Johnson Cornelius, Charles Knaack and Paul Olin of WSU, Tom Beasley and Barbara Maloney of FCAEM, FIU for analytical help, Jibamitra Ganguly for discussions, and the FIU Dissertation Year Fellowship for support to MRB. This work was supported by the US National Science Foundation Grant EAR-0538254 to GS and JAW."
+  }, {
+    "heading": "Appendix A. Supplementary material",
+    "text": "Supplementary data associated with this article can be found, in the online version, at http://dx.doi.org/10.1016/ j.jseaes.2013.10.034."
+  }],
+  "year": 2014,
+  "references": [{
+    "title": "Age of the Deccan Traps using 187Re–187Os systematics",
+    "authors": ["C.J. Allegre", "J.L. Birck", "F. Capmas", "V. Courtillot"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 1999
+  }, {
+    "title": "Phase equilibria modeling in igneous petrology; use of COMAGMAT model for simulating fractionation of ferro-basaltic magmas and the genesis of high-alumina basalt",
+    "authors": ["A.A. Ariskin"],
+    "venue": "Journal of Volcanology and Geothermal Research",
+    "year": 1999
+  }, {
+    "title": "The significance of multiple saturation points in the context of polybaric near-fractional melting",
+    "authors": ["P.D. Asimow", "J. Longhi", "Y. Niu", "C. Herzberg", "M. Wilson"],
+    "venue": "Journal of Petrology",
+    "year": 2004
+  }, {
+    "title": "New 40Ar/39Ar dating of the Grande Ronde lavas, Columbia River Basalts, USA: implications for duration of flood basalt eruption episodes",
+    "authors": ["T.L. Barry", "S. Self", "S.P. Kelley", "S. Reidel", "P. Hooper", "M. Widdowson"],
+    "venue": "Lithos 118,",
+    "year": 2010
+  }, {
+    "title": "Stratigraphy, composition and form of the Deccan Basalts, Western Ghats, India",
+    "authors": ["J.E. Beane", "C.A. Turner", "P.R. Hooper", "K.V. Subbarao", "J.N. Walsh"],
+    "venue": "Bulletin of Volcanology",
+    "year": 1986
+  }, {
+    "title": "Flow stratigraphy, chemical variation and petrogenesis of Deccan Flood Basalts from the Western Ghats, India",
+    "authors": ["J.E. Beane"],
+    "venue": "[Ph.D. thesis],",
+    "year": 1988
+  }, {
+    "title": "Zircon U–Pb geochronology links the End-Triassic extinction with the central Atlantic",
+    "authors": ["T.J. Blackburn", "P.E. Olsen", "S.A. Bowring", "N.M. McLean", "D.V. Kent", "J. Puffer", "G. McHone", "E.T. Rasbury", "M. Et-Touhami"],
+    "venue": "Magmatic Province. Science",
+    "year": 2013
+  }, {
+    "title": "Life Cycle of Deccan Trap Magma Chambers: A Crystal Scale Elemental and Strontium Isotopic Investigation (unpublished Ph.D. thesis). Florida International University, FL, USA, <http://digitalcommons.fiu.edu/ dissertations/AAI3325596>",
+    "authors": ["M.R. Borges"],
+    "year": 2008
+  }, {
+    "title": "Nucleation and growth rates of pyroxene, plagioclase, and Fe–Ti oxides in basalt under atmospheric conditions",
+    "authors": ["D.J.M. Burkhard"],
+    "venue": "European Journal of Mineralogy",
+    "year": 2005
+  }, {
+    "title": "Carbon dioxide emissions from Deccan volcanism and a K/T boundary greenhouse effect",
+    "authors": ["K. Caldeira", "M.R. Rampino"],
+    "venue": "Geophysical Research Letters",
+    "year": 1990
+  }, {
+    "title": "Crystal size distribution (CSD) in rocks and the kinetics and dynamics of crystallization; 2, Makaopuhi lava lake",
+    "authors": ["K.V. Cashman", "B.D. Marsh"],
+    "venue": "Contributions to Mineralogy and Petrology",
+    "year": 1988
+  }, {
+    "title": "K-40–Ar-40 dating of the Main Deccan large igneous province: further evidence of KTB age and short duration",
+    "authors": ["A.L. Chenet", "X. Quidelleur", "F. Fluteau", "V. Courtillot", "S. Bajpai"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2007
+  }, {
+    "title": "Determination of rapid Deccan eruptions across the Cretaceous–Tertiary boundary using paleomagnetic secular variation: results from a 1200-m-thick section in the Mahabaleshwar escarpment",
+    "authors": ["A.L. Chenet", "F. Fluteau", "V. Courtillot", "M. Gérard", "K.V. Subbarao"],
+    "venue": "Journal of Geophysical Research",
+    "year": 2008
+  }, {
+    "title": "Determination of rapid Deccan eruptions across the Cretaceous–Tertiary boundary using paleomagnetic secular variation: 2. Constraints from analysis of eight new sections and synthesis for a 3500-m-thick composite section",
+    "authors": ["A.L. Chenet", "V. Courtillot", "F. Fluteau", "M. Gérard", "X. Quidelleur", "S.F.R. Khadri", "K.V. Subbarao", "T. Thordarson"],
+    "venue": "Journal of Geophysical Research 114,",
+    "year": 2009
+  }, {
+    "title": "A study of strontium diffusion in plagioclase using Rutherford backscattering spectroscopy",
+    "authors": ["D.J. Cherniak", "E.B. Watson"],
+    "venue": "Geochimica et Cosmochimica Acta",
+    "year": 1994
+  }, {
+    "title": "Rapid continental breakup and microcontinent formation in the western Indian Ocean",
+    "authors": ["J.S. Collier", "T.A. Minshull", "J.M. Kendall", "R.B. Whitmarsh", "G. Ruempker", "P. Joseph", "P. Samson", "C.I. Lane", "V. Sansom", "P.M. Vermeesch", "J. Hammond", "J. Wookey", "N. Teanby", "T.M. Ryberg", "S.M. Dean"],
+    "venue": "Eos, Transactions, American Geophysical Union",
+    "year": 2004
+  }, {
+    "title": "Diffusion coupling between trace and major elements and a model for calculation of magma residence times using plagioclase",
+    "authors": ["F. Costa", "S. Chakraborty", "R. Dohmen"],
+    "venue": "Geochimica et Cosmochimica Acta",
+    "year": 2003
+  }, {
+    "title": "Deccan flood basalts and the Cretaceous/Tertiary boundary",
+    "authors": ["V. Courtillot", "G. Feraud", "H. Maluski", "D. Vandamme", "M.G. Moreau", "J. Besse"],
+    "venue": "Nature 333,",
+    "year": 1988
+  }, {
+    "title": "On causal links between flood basalts and continental breakup",
+    "authors": ["V. Courtillot", "C. Jaupart", "I. Manighetti", "P. Tapponnier", "J. Besse"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 1999
+  }, {
+    "title": "On the ages of flood basalt events",
+    "authors": ["V.E. Courtillot", "P.R. Renne"],
+    "venue": "Comptes Rendus Geosciences",
+    "year": 2003
+  }, {
+    "title": "Relative contribution of crust and mantle to flood basalt magmatism, Mahabaleshwar area, Deccan Traps",
+    "authors": ["K.G. Cox", "C.J. Hawkesworth"],
+    "venue": "Philosophical Transactions of the Royal Society of London, Series A: Mathematical and Physical Sciences",
+    "year": 1984
+  }, {
+    "title": "Geochemical stratigraphy of the Deccan Traps at Mahabaleshwar, Western Ghats, India, with implications for open system magmatic processes",
+    "authors": ["K.G. Cox", "C.J. Hawkesworth"],
+    "venue": "Journal of Petrology",
+    "year": 1985
+  }, {
+    "title": "Magma recharge, contamination and residence times revealed by in situ laser ablation isotopic analysis of feldspar in volcanic rocks",
+    "authors": ["J. Davidson", "F. Tepley III", "Z. Palacz", "S. Meffan-Main"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2001
+  }, {
+    "title": "Rapid eruption of the Deccan flood basalts at the Cretaceous/Tertiary boundary",
+    "authors": ["R.A. Duncan", "D.G. Pyle"],
+    "venue": "Nature",
+    "year": 1988
+  }, {
+    "title": "The pMELTS: a revision of MELTS aimed at improving calculation of phase relations and major element partitioning involved in partial melting of the mantle at pressures up to 3 GPa",
+    "authors": ["M.S. Ghiorso", "M.M. Hirschmann", "P.W. Reiners", "V.C. Kress III"],
+    "venue": "Geochemistry, Geophysics,",
+    "year": 2002
+  }, {
+    "title": "Nature of sub-volcanic magma chambers, Deccan Province, India: evidence from quantitative textural",
+    "authors": ["M.D. Higgins", "D. Chandrasekharam"],
+    "year": 2007
+  }, {
+    "title": "40Ar/39Ar dating of mineral separates and whole rocks from the Western Ghats lava pile; further constraints on duration and age of the Deccan Traps",
+    "authors": ["C. Hofmann", "G. Feraud", "V. Courtillot"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2000
+  }, {
+    "title": "The giant plagioclase basalts (GPBs) of the Western Ghats, Deccan Traps",
+    "authors": ["P.R. Hooper", "K.V. Subbarao", "J.E. Beane"],
+    "venue": "Memoir – Geological Society of India",
+    "year": 1988
+  }, {
+    "title": "Cooling and contamination of mafic and ultramafic magmas during ascent through continental crust",
+    "authors": ["H.E. Huppert", "R.S.J. Sparks"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 1985
+  }, {
+    "title": "Calcic cores of plagioclase phenocrysts in andesite from Karymsky Volcano; evidence for rapid introduction by basaltic replenishment",
+    "authors": ["P.E. Izbekov", "J.C. Eichelberger", "L.C. Patino", "T.A. Vogel", "B.V. Ivanov"],
+    "venue": "Geology (Boulder)",
+    "year": 2002
+  }, {
+    "title": "Experimental study of plagioclase rim growth around anorthite seed crystals in rhyodacitic melt",
+    "authors": ["J.F. Larsen"],
+    "venue": "American Mineralogist",
+    "year": 2005
+  }, {
+    "title": "Origin of the Deccan Trap flows at Mahabaleshwar inferred from Nd and Sr isotopic and chemical evidence",
+    "authors": ["J. Mahoney", "J.D. Macdougall", "G.W. Lugmair", "A.V. Murali", "M. Sankar Das", "K. Gopalan"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 1982
+  }, {
+    "title": "Solidification fronts and magmatic evolution",
+    "authors": ["B.D. Marsh"],
+    "venue": "Mineralogical Magazine",
+    "year": 1996
+  }, {
+    "title": "A role for lower continental crust in flood basalt genesis? Isotopic and incompatible element study of the lower six formations of the western Deccan Traps",
+    "authors": ["Z.X. Peng", "J. Mahoney", "P. Hooper", "C. Harris", "J. Beane"],
+    "venue": "Geochimica et Cosmochimica Acta",
+    "year": 1994
+  }, {
+    "title": "Measuring 87Sr/86Sr variations in minerals and groundmass from basalts using LA-MC-ICPMS",
+    "authors": ["F.C. Ramos", "J.A. Wolff", "D.L. Tollstrup"],
+    "venue": "Chemical Geology",
+    "year": 2004
+  }, {
+    "title": "Measuring (super 87) Sr/ (super 86) Sr variations in minerals and groundmass from basalts using LA-MC-ICPMS",
+    "authors": ["F.C. Ramos", "J.A. Wolff", "D.L. Tollstrup"],
+    "venue": "Chemical Geology",
+    "year": 2004
+  }, {
+    "title": "Sr isotope disequilibrium in Columbia River flood basalts; evidence for rapid shallow-level open-system processes",
+    "authors": ["F.C. Ramos", "J.A. Wolff", "D.L. Tollstrup"],
+    "venue": "Geology (Boulder)",
+    "year": 2005
+  }, {
+    "title": "Chemostratigraphic evidence of Deccan volcanism from the marine osmium isotope record",
+    "authors": ["G. Ravizza", "B. Peucker-Ehrenbrink"],
+    "venue": "Science",
+    "year": 2003
+  }, {
+    "title": "The Columbia River flood basalt province: stratigraphy, areal extent, volume, and physical volcanology",
+    "authors": ["S.P. Reidel", "V.E. Camp", "T.L. Tolan", "B.S. Martin"],
+    "venue": "The Columbia River Flood Basalt Province. Geological Society of America Special Paper 497,",
+    "year": 2013
+  }, {
+    "title": "Sulfur and chlorine in Late Cretaceous Deccan magmas and eruptive gas release",
+    "authors": ["S. Self", "S. Blake", "K. Sharma", "M. Widdowson", "S. Sephton"],
+    "venue": "Science 319,",
+    "year": 2008
+  }, {
+    "title": "Gas fluxes from flood basalt eruptions",
+    "authors": ["S. Self", "T. Thordarson", "M. Widdowson"],
+    "venue": "Elements",
+    "year": 2005
+  }, {
+    "title": "Volatile fluxes during flood basalt eruptions and potential effects on the global environment: a Deccan perspective",
+    "authors": ["S. Self", "M. Widdowson", "T. Thordarson", "A.E. Jay"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2006
+  }, {
+    "title": "Mineralogy and petrogenesis of the Deccan Trap lava flows around Mahabaleshwar, India",
+    "authors": ["G. Sen"],
+    "venue": "Journal of Petrology",
+    "year": 1986
+  }, {
+    "title": "Generation of Deccan Trap magmas",
+    "authors": ["G. Sen"],
+    "venue": "Proceedings of the Indian Academy of Sciences: Earth and Planetary Sciences",
+    "year": 2001
+  }, {
+    "title": "A case for short duration of Deccan Trap eruption",
+    "authors": ["G. Sen", "M. Borges", "B.D. Marsh"],
+    "venue": "Eos, Transactions, American Geophysical Union",
+    "year": 2006
+  }, {
+    "title": "Deccan Traps flood basalt province: an evaluation of the thermochemical plume model",
+    "authors": ["G. Sen", "D. Chandrasekharam"],
+    "year": 2011
+  }, {
+    "title": "Petrology of Deccan Trap basalts of the Western Ghats around Igatpuri and their petrogenetic significance",
+    "authors": ["S.F. Sethna", "B.S. Sethna"],
+    "venue": "Journal of the Geological Society of India",
+    "year": 1990
+  }, {
+    "title": "Geochemical and Nd, Pb, and Sr isotope data from Deccan alkaline complexes; inferences for mantle sources and plume; lithosphere interaction",
+    "authors": ["A. Simonetti", "S.L. Goldstein", "S.S. Schmidberger", "S.G. Viladkar"],
+    "venue": "Journal of Petrology",
+    "year": 1998
+  }, {
+    "title": "Textures and Sr, Ba, Mg, Fe, K and Ti compositional profiles in volcanic plagioclase clues to the dynamics of calcalkaline magma chambers",
+    "authors": ["B.S. Singer", "M.A. Dungan", "G.D. Layne"],
+    "venue": "American Mineralogist",
+    "year": 1995
+  }, {
+    "title": "Plagioclase residence times at two island arc volcanoes (Kameni Islands, Santorini, and Soufriere, St. Vincent) determined by Sr diffusion systematics",
+    "authors": ["G.F. Zellmer", "S. Blake", "D. Vance", "C. Hawkesworth", "S. Turner"],
+    "venue": "Contributions to Mineralogy and Petrology",
+    "year": 1999
+  }],
+  "id": "SP:e9ec08a93ae058270c81770a1b6b2350e0fad31d",
+  "authors": [{
+    "name": "Melroy R. Borges",
+    "affiliations": []
+  }, {
+    "name": "Gautam Sen",
+    "affiliations": []
+  }, {
+    "name": "Garret L. Hart",
+    "affiliations": []
+  }, {
+    "name": "John A. Wolff",
+    "affiliations": []
+  }],
+  "abstractText": "Deccan Trap flood basalt volcanism reached its peak 65.5 (±1) million years ago, giving rise to a 2.7 km thick lava pile that formed the Western Ghats range near Mumbai. The total duration of this activity cannot be constrained better than ±1 Ma by conventional Ar-dating techniques. It is also difficult to know whether there were short bursts of tremendous volcanic activity within that period which could have significantly impacted global climate. Here we employ diffusion relaxation modeling of Sr/Sr zoning in plagioclase to obtain a better resolution on the life cycle of a magma chamber in order to provide a minimum constraint on the duration of the Western Ghats volcanic episode. The analyzed crystals are 2–5 cm long and occur in so-called Giant Plagioclase Basalt flows that mark the tops of the oldest formations of the Western Ghats. In the formation studied, such crystals may have recorded the life cycle of the magma chamber that fed the preceding flows. Our diffusion modeling yields 780 years for the maximum residence time for 5 cm long plagioclase crystals in the magma chamber and a mean growth rate of 2.03 10 10 cm s . Assuming continuous crystal growth while the underlying pile was being emplaced gives us a combined maximum rate of 0.13 m yr 1 for incubation and extrusion of the lava. Using this rate we estimate that the peak volcanic activity lasted a minimum of 21,100 years. A short duration for the Deccan would preclude AFC contamination processes during emplacement of the bulk of Deccan lavas. 2013 Elsevier Ltd. All rights reserved.",
+  "title": "Plagioclase as recorder of magma chamber processes in the Deccan Traps: Sr-isotope zoning and implications for Deccan eruptive event"
+}

@@ -1,0 +1,544 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nEarth and Planetary Science Letters\nwww.elsevier.com/locate/epsl\nGas hydrate contribution to Late Permian global warming\nJ. Majorowicz a,∗, S.E. Grasby b, J. Safanda c, B. Beauchamp d a University of Alberta, Department of Physics, 3-103 Centennial Centre for Interdisciplinary Science, Edmonton, Alberta, Canada b Geological Survey of Canada, 3303 33rd St. NW, Calgary, Alberta, Canada c Institute of Geophysics, Czech Academy, 141-31 Praha 4, Spořilov, Boční II, 1401, Czech Republic d Department of Geoscience, University of Calgary, NW, Calgary, Alberta, Canada\na r t i c l e i n f o a b s t r a c t\nArticle history: Received 26 June 2013 Received in revised form 2 March 2014 Accepted 3 March 2014 Available online 25 March 2014 Editor: G.M. Henderson\nKeywords: Latest Permian extinction gas hydrates carbon isotope shift\nRapid gas hydrate release (the “clathrate gun” hypothesis) has been invoked as a cause for the rapid global warming and associated negative carbon isotope excursion observed during the Latest Permian Extinction (LPE). We modeled the stability of gas hydrates through a warming Middle to Late Permian world, considering three settings for methane reservoirs: 1) terrestrial hydrates, 2) hydrates on exposed continental shelves during glacial sea level drop, and 3) hydrates in deep marine settings. Model results show that terrestrial hydrates would rapidly destabilize over ∼400 ky after deglaciation for moderate heatflow (40 mW/m2), and more rapidly for higher heat flow values. Exposed continental shelves would lose hydrates even more rapidly, after being flooded due to loss of ice storage on land. These two major hydrate reservoirs would thus have destabilized during the Middle to Late Permian climate warming, well prior to the LPE event. However, they may have contributed to the >2 negative C-isotopic shift during the late Middle Permian. Deep marine hydrates would have remained stable until LPE time. Rapid warming of deep marine waters during this time could have triggered destabilization of this reservoir, however given the configuration of one super continent, Pangea, hydrate bearing continental slopes would have been less extensive than modern day. This suggests that any potential gas hydrate release would have had only a minor contributing impact to the runaway greenhouse during the Latest Permian extinction.\n© 2014 Elsevier B.V. All rights reserved."
+  }, {
+    "heading": "1. Introduction",
+    "text": "The Latest Permian Extinction (LPE), around 252 Ma, was the greatest extinction event in Earth history, with loss of over 90% of marine life (Erwin et al., 2002). Numerous models have been proposed for the cause of extinction, including marine anoxia (Isozaki, 1997; Knoll et al., 1996; Wignall and Hallam, 1992; Wignall and Twitchett, 1996), ocean acidification (Beauchamp and Grasby, 2012; Bertine and Goldberg, 1971; Heydari and Hassanzadeh, 2003; Liang, 2002; Payne et al., 2007), and draw down of bio-essential elements (Grasby and Beauchamp, 2009). Recent work, however, has questioned the global impact of anoxia (Loope et al., 2013; Proemse et al., 2013). Increasingly, there is recognition of a strong correlation between onset of Siberian Trap volcanics and the extinction event (Grasby et al., 2011; Huang et al., 2011; Kamo et al., 2003; Kozur and Weems, 2011; Reichow et al., 2009; Renne et al., 1995; Sanei et al., 2012; Saunders and Reichow, 2009;\n* Corresponding author. E-mail addresses: majorowi@ualberta.ca (J. Majorowicz), sgrasby@nrcan.gc.ca\n(S.E. Grasby), jsa@ig.cas.cz (J. Safanda), bbeaucha@ucalgary.ca (B. Beauchamp).\nhttp://dx.doi.org/10.1016/j.epsl.2014.03.003 0012-821X/© 2014 Elsevier B.V. All rights reserved.\nShen et al., 2011; Wignall, 2001), supporting original suggestions of a causal relationship (Campbell et al., 1992; Renne and Basu, 1991). Numerous potential devastating impacts of volcanism have been examined, including release of deleterious gases (Black et al., 2012; Ganino and Arndt, 2009; Kontorovich et al., 1997; Svensen et al., 2009), toxic metals (Grasby et al., 2011; Sanei et al., 2012), destruction of the ozone layer (Beerling et al., 2007; Visscher et al., 1996), and combustion of coal and organic rich layers (Reichow et al., 2009; Saunders and Reichow, 2009; Korte et al., 2010; Retallack and Jahren, 2008; Svensen et al., 2009; Grasby et al., 2011; Erwin et al., 2002; Erwin, 1993). Sobolev et al. (2011) also invoke massive degassing related to crustal recycling in the plume head of the Siberian Traps before onset of major eruptions.\nThe LPE is marked by significant global warming as summarized by Kidder and Worsley (2004). Evidence for warming includes rapid expansion of desert belts (Zeigler et al., 1997), movement of low latitude flora to high latitude locations (Erwin, 1993; Rees et al., 2002; Taylor et al., 1992; Zeigler et al., 1997), and extensive evaporite deposition (Zeigler et al., 1997; Erwin, 1993). Global warming is further supported by stable isotope and other proxies (Georgiev et al., 2011; Joachimski et al., 2012; Luo et al., 2011; Romano et al., 2013; Sun et al., 2012; Yin et al., 2012).\nGlobal warming has been linked to CO2 release from Siberian Trap volcanism, however several authors have also invoked rapid greenhouse warming related to massive methane release during the extinction event (Heydari and Hassanzadeh, 2003; Kiehl and Shields, 2005; Ryskin, 2003; Vermeij and Dorritie, 1996; Wignall, 2001). There are two end-members methane sources: (1) methane related to coal combustion (coal bed methane), and (2) release of gas hydrates. In this later case, high CO2 levels from volcanic emissions (Kidder and Worsley, 2004; Wignall and Hallam, 1993) are thought to have caused global warming that induced dissociation of gas hydrates and release of trapped methane (Dorritie, 2002; Erwin, 1993; Kidder and Worsley, 2004; Racki and Wignall, 2005; Winguth and Maier-Reimer, 2005). It is generally thought that hydrate release would further amplify global warming, destabilize more hydrates, and drive even further warming. This positive feedback system is known as a ‘clathrate gun’, and is suggested to have the potential to cause a runaway greenhouse over a very short timescale (Kennett et al., 2000, 2003). Such a mechanism has been suggested to have driven warming since the last ice age (Kennett et al., 2000), the Paleocene–Eocene Thermal Maximum (Dickens, 1999; Dickens et al., 1997; Katz et al., 1999), the endTriassic mass extinction (Ruhl et al., 2011), as well as the LPE event (Krull and Retallack, 2000; Krull et al., 2000). Release of large volumes of methane hydrate have also been invoked to explain the significant negative carbon isotope shift at the LPE (Berner, 2002; de Wit et al., 2002; Erwin, 1993; Gruszcznski et al., 2003; Krull et al., 2004, 2000; Krull and Retallack, 2000; Morante et al., 1994; Sarkar et al., 2003; Twitchett et al., 2001), however, evidence for this has been questioned (Grasby and Beauchamp, 2008; Payne and Kump, 2007; Xie et al., 2007).\nGas hydrate release has been commonly discussed as either an extinction mechanism, or a contributing cause to an extinction. However, there is little knowledge about potential hydrate storage prior to the LPE, or hydrate release rates during the warming Late Permian, that can help constrain these extinction models."
+  }, {
+    "heading": "2. Background",
+    "text": "Methane is over 20 times more effective in trapping heat in the atmosphere than CO2 (Archer, 2007; Archer et al., 2008), so that massive hydrate release would cause significant global warming. Methane also has a short atmospheric residence time (Cicerone and Oremland, 1988), as it will quickly oxidize to CO2, still causing a global warming affect, albeit lessened. Hydrates form by vertical migration of either thermogenic or biogenic gases that become trapped in sediments within the hydrate stability zone (Kvenvolden, 1993). Ice age periods greatly increase the build up and storage of hydrates through vertical expansion of the stability zone (by lowering subsurface temperatures), as well as through broadening of the regions of permafrost development on the continents (shift of colder climates to lower latitudes) (Kvenvolden, 1993). In addition, during icehouse periods, high-latitude continental shelves are commonly exposed and frozen through lowering of sea level.\nRepeated cycles of Gondwana glaciation began around the MidCarboniferous (∼320 Ma) (Crowell, 1995). Evidence shows the presence of polar ice caps, and dramatically lowered sea levels during this time (Fielding et al., 2008a, 2008b) that would indicate formation of gas hydrate storehouses under frozen sea and permafrost regions. The worldwide termination of high-order/high amplitude transgressive-regressive sequences (cyclothems) suggests an end to major land ice by the Early Sakmarian (Fielding et al., 2008a; Shi and Waterhouse, 2010). Only more seasonal and/or local glaciations are reported after the Asselian (Shi and Waterhouse, 2010). The last evidence of glacial activity is recorded in Middle Permian sediments in eastern Australia. This glacial event – glacial inter-\nval P4 (Fielding et al., 2008a) – may have been linked to global cooling as it is in part contemporaneous with the Kamura cooling event (Isozaki et al., 2007). Evidence of Middle Permian cooling can also be observed in the Sverdrup Basin (Arctic Canada) along the NW margin of Pangea (Beauchamp and Baud, 2002; Beauchamp and Grasby, 2012). Permafrost soils were also documented in southern high latitudes (Retallack, 1999) in the early part of the Late Permian.\nThe Middle to Late Permian was a time of rapid change from icehouse to greenhouse which predates the latest Permian–Early Triassic shift to hothouse conditions (Kidder and Worsley, 2004). This trend is shown by disappearance of Gondwana glaciers, desertification of low to mid latitude areas, and forestation and accumulation of coal measures at high latitudes (Crowell, 1995; Erwin, 1993; Kidder and Worsley, 2004; Taylor et al., 1992; Zeigler et al., 1997). Late Permian paleosols in Australia show a change from present-day soil characteristics of 68–70◦S, to those more characteristic of latitudes ∼40–58◦S (Retallack, 1999). Furthermore, Retallack and Krull (1999) show evidence of high latitude deeply weathered Late Permian paleosols. Korte and Kozur (2010) also show the presence of ferns and other fauna that indicate the lack of permafrost soils in the Late Permian Siberian Trap area. This warming trend is supported by climate models of Kiehl and Shields (2005) and Rampino and Caldeira (2005).\nThe Late Permian warming would have primarily affected Pangea’s polar regions. Permafrost would degrade with the disappearance of glacial ice, as observed in the present-day and since the last glacial maximum (Lawrence and Slater, 2005), and initiate methane release. Warming and ice melting would have also caused changes in sea level, which along with other eustatic sea level drivers, would have affected hydrate stability. A rise in sea level would increase trapping of gas hydrates due to pressure build up, reducing the impact of warming on hydrate destabilization.\nUsing modeling techniques developed to assess the rate of dissociation of modern hydrates, we here assess the role of methane hydrate-release on global warming and isotopic shift observed in global exogenic carbon reservoirs across the stratigraphic interval that recorded the largest mass extinction in Earth history."
+  }, {
+    "heading": "3. Methods",
+    "text": "Depending on the environment of occurrence, gas hydrates will respond differently during a waning icehouse. We consider three hydrate environments: (1) onshore hydrates (terrestrial permafrost bound hydrates), (2) offshore hydrates (hydrates developed on exposed marine shelves during icehouse sea-level lowstands that are subsequently flooded by marine transgression), and (3) marine hydrates (deep water hydrates formed in the sea bed that is never exposed to the atmosphere).\nTerrestrial hydrates are the simplest case, where warming air temperatures transfer heat into the ground, progressively warming and melting permafrost. During glaciation sea levels drop due to water storage, as ice, on land. During such time gas hydrates can form on shelf areas exposed to freezing air temperatures. Although exposed to similar amplitude of surface warming, as with the terrestrial case, the post-glacial ground warming and associated permafrost and gas hydrate decay on continental shelves are complicated by sea level rise and flooding of the shelves after the end of the glacial period.\nMarine offshore hydrate deposits typically occur in the first hundreds of metres of sediment (Ruppel, 2011). During post-glacial warming, the glacial–interglacial temperature variation of deep bottom waters are supposed to be smaller than that considered for the terrestrial or flooded shelves cases. The present temperatures of deep bottom waters are in the range 2 to 5 ◦C, and during the glacial period could not be below −1 ◦C, which means a max-\nimum glacial–interglacial variation of 3–6 ◦C. Because of the low thermal conductivity of sea bottom sediments, about 1 W m−1 K−1, the temperature gradient is high, e.g. 40 mK/m for a heat flow of 40 mW/m2. A 6 ◦C difference would mean that mid-Permian marine hydrates may have been up to 150 m thicker than in postglacial periods. On the other hand, the greater hydrate thickness would have been compensated to a certain degree by lower pressure associated with sea level drop during glaciation. However, because of the generally higher temperature gradient within the sea bottom sediments, the corresponding shift of the stability zone is smaller than in the terrestrial and offshore cases.\nGiven the physical differences of the environments described above, separate modeling approaches are required. Temporal changes of subsurface temperature were simulated by solving the transient heat conduction equation: C v∂T /∂t = ∂ ( K (∂T /∂z) ) /∂z + A (1)\nwhere T is temperature, K is thermal conductivity, C v is volumetric heat capacity, A is the rate of heat generation per unit volume, z is depth, and t is time in a one-dimensional layered geothermal model of individual sites. Eq. (1) was solved numerically by an implicit scheme of the finite-difference method similar to that described by Galushkin (1997). The upper boundary condition was the surface temperature varying with time, the lower boundary condition was a constant heat flow density at 40 km depth, based on Majorowicz et al. (2012).\nThe finite-difference scheme of Eq. (1), for the depth and time grids zk−1, zk , zk+1, . . . and . . . tn , tn+1, . . . , respectively, has a form: Cnv,k ( T n+1k − T nk )/( tn+1 − tn)\n= 2K nk+1 ( T n+1k+1 − T n+1k )/[ zk+1( zk + zk+1) ] − 2K nk ( T n+1k − T n+1k−1 )/[ zk( zk + zk+1)\n] + Ak (2) where the subscript k and the superscript n denote values at the kth depth step and the nth time step, respectively;\nzk = zk − zk−1; K nk+1 = zk+1 / [ zk+1∫\nzk\ndz/kn(z) ] . (3)\nThis difference scheme, together with the upper and lower boundary conditions, lead to a system of difference equations for unknown values T n+1k−1 , T n+1 k , T n+1 k+1 , with a tridiagonal matrix, which can be solved by the forward method (Peaceman and Rachford, 1955).\nIn estimating effective values of the thermal conductivity and the volumetric heat capacity, geometric and arithmetic averaging, respectively, of values of the rock matrix, water, ice and gas hydrate according to their volumetric fractions were considered (Galushkin, 1997). A consumption/release of the latent heat L of water ice (334 kJ kg−1) and gas hydrate (430 kJ kg−1) from thawing/freezing of the interstitial ice and gas hydrate was taken into account by means of the apparent heat capacity (Carslaw and Jaeger, 1959), when the volumetric heat capacity is increased in the depth sections of the model, where the thawing/freezing occurs (i.e. where the temperature is within the thawing range between the temperature of solidus T S , and liquidus, T L , at the actual time step of the simulation). The liquidus temperatures of the water ice and the gas hydrate were depth (hydrostatic pressure) dependent (Galushkin, 1997; Nixon, 1986), and the solidus temperatures were 0.2 ◦C lower than the liquidus ones. A contribution to the heat capacity from the latent heat was considered as ρΦL/(T L − T S ), where ρ is the ice or gas hydrate density and Φ is a fraction of the total volume occupied by them."
+  }, {
+    "heading": "3.1. Model parameters",
+    "text": "Permian climate reconstructions have resolutions of millions to tens of millions of years, and do not provide information on more subtle variations. Although there is poor resolution on how fast the recovery from ice-house conditions was, studies show that glacial periods tend to end abruptly due to a number of positive feedback mechanisms (Lisiecki and Raymo, 2005; Paillard, 2001; Petit et al., 1999). For our models, we assumed the transition period from a glacial to post-glacial climate would be similar to that of the last glacial/Holocene warming, which occurred over less than ten thousand years at any one location. The rate at which ice caps melt and retreat pole-ward could lengthen the global average transition to a post-glacial climate. Still, based on recent interglacial history this would be in the same order of magnitude as the recent 10 ky deglaciation. We also assumed that the Permian Ice age lasted long enough for subsurface temperature to be in equilibrium with the long-term surface temperature at the end of the cold period (based on reconstruction of the climatic history as in Januszczak (2004).\nPrevious numerical experiments have shown (Majorowicz et al., 2008), the simultaneous occurrence of ice bearing permafrost and gas hydrate occurs only below the intersection of the gas hydrate and the water ice P –T phase curves (Fig. 1), which occur ∼250 m below the sediment surface. During a cooling climate, temperature decreases from the surface downward (Taylor et al., 2005). As interstitial water freezes at a higher temperature than gas hydrate forms, water ice occupies all the pore space in the uppermost 250 m. Below the intersection of the water and hydrate stability zones, hydrates form at a higher temperature than water ice, but pore space saturation by hydrates is not complete (typical saturation values are about 60%, Sloan, 1988). This means that ice bearing permafrost can form from the remaining interstitial water.\nFrom this starting point, the geothermal model parameters used for the on-shore and off-shore models were as follows:\nPorosity: 30% – ice bearing permafrost can occupy all this pore space above 250 m and 40% of the pore space below 250 m; gas hydrate cannot occur above 250 m and occupies 60% of the pore space below this depth. Thermal conductivity: sediment with water filled pores – 2.1 W m−1 K−1, permafrost – 3.4 W m−1 K−1, the zone with a simultaneous occurrence of permafrost and hydrate – 2.7 W m−1 K−1, sediment with gas hydrate, but without permafrost – 2.1 W m−1 K−1 (thermal conductivity of hydrate is close to that of water). Specific heat: rock with water or gas hydrate filled pores – 3.06 MJ m−3 K−1, sediment with permafrost 2.38 - MJ m−3 K−1, rock with simultaneous occurrence of permafrost and gas hydrate - 2.30 MJ m−3 K−1. Upper boundary (surface) condition: surface temperature increases linearly from the steady-state value of −15 to 0 ◦C within the first 10,000 years of the simulation. Initial temperature profile: the steady-state temperature distribution in equilibrium with a surface temperature of −15 ◦C, and heat flow values of 40 mW/m2 or 60 mW/m2, which we choose as typical onshore and offshore shelf heat flow values respectively, comparable to present day values in stable basinal and offshore shelf areas. Lower boundary (40 km depth) condition: heat flow at 40 mW/m2 or 60 mW/m2. Initial structure of the permafrost and gas hydrate: Derived from the\ninitial stead-state temperature profile, for the 40 mW/m2 model: pure ice bearing permafrost in the uppermost 250 m, underlain by the simultaneous occurrence of permafrost and gas hydrate down to 980 m and the pure\ngas hydrate down to 1960 m. For the 60 mW/m2 model: pure ice bearing permafrost in the uppermost 250 m, underlain by the simultaneous occurrence of permafrost and gas hydrate down to 670 m and pure gas hydrate down to 1160 m.\nDepth grid steps: A progressive increase of vertical grid steps with depth was used to reflect the decreasing amplitude of time-temperature changes with depth (they are largest closest to the surface and attenuate when propagating downward). Grid steps of 2, 5, 10, 50, 100, 250 and 500 m were used for the depth layers, 0 – 100 – 1500 – 2000 – 2500 – 5000 – 10,000 – 40,000 m respectively. Time steps: The shortest time steps were used during the surface warming. After that, when the subsurface temperature field approaches a new equilibrium, the time steps were made progressively longer. Time steps of 20, 50, 100 and 250 years were used for the time intervals, 0 – 10,000 – 55,000 – 100,000 – 500,000 years respectively.\nIn order to estimate the maximum magnitude of the methane released closest to the LPE event, we need to examine the case for the maximum delayed response to warming. Thus we considered Permian ice-house conditions comparable to the last Glacial Maximum, with long-term surface temperatures as low as −15 ◦C (Majorowicz et al., 2012). Such low values are not necessarily\nreached during the whole length of the Ice-house everywhere, however, these conditions result in the thickest permafrost and thickest gas hydrate accumulations.\nFor the marine model of gas hydrates, the following parameters were used:\nSea floor temperature: taken after Kidder and Worsley (2004); bottom temperature increases linearly from −2 ◦C to +15 ◦C within 10 ka. Water depth: 380–500 m or 1680–1800 m. Heat flow: 40 mW/m2. Sediment model: Lithological model after Westbrook et al. (1994)\nfor the modern Pacific West Coast offshore, with thermal conductivity 1.14 W m−1 K−1, porosity 47%–58%, hydrate saturation 20%, and specific heat capacity: rock + free gas 3.33–3.51 × 106 J m−3 K−1, rock + hydrate 3.08–3.20 × 106 J m−3 K−1.\nFree gas: hydrate equilibrium curve for sea water T = 8.9 × ln (depth below sea floor + water depth) −50.1. Steady-state initial temperature: depth profile below the sea floor in equilibrium with the sea floor temperature of −2 ◦C and deep heat flow of 40 mW/m2. Sea level rise: 120 m considered in two 60 m steps, the first one at the onset of warming (zero years), the second one 5 ka later. Depth grid steps: 2, 5, 10, 50, 100, 250 and 500 m in the intervals 0 – 400 – 1500 – 2000 – 2500 – 5000 – 10,000 – 40,000 m. Time steps: 0.5 to 20 years depending on the intensity of sea floor temperature and sea level rise changes."
+  }, {
+    "heading": "4. Results",
+    "text": ""
+  }, {
+    "heading": "4.1. Terrestrial model",
+    "text": "Results are displayed as temperature versus depth curves for both the 40 and 60 mW/m2 heat flow models in Figs. 1a, b. Here it can be seen that the sensitivity of the base of permafrost and gas hydrate to heat flow is large, 15 m and 40 m per 1 mW/m2, respectively. Given this, for a typical uncertainty of high quality heat flow data, ±5 mW/m2, the corresponding uncertainty in permafrost and hydrate depth is ±75 m and ±200 m, respectively.\nA steady-state temperature profile, representing mid-Permian end-glacial conditions, calculated for 40 mW/m2 indicates pure water ice bearing permafrost in the uppermost 250 m that is underlain by the simultaneous occurrence of permafrost and gas hydrate down to 980 m and then pure gas hydrate down to 1960 m. As per the model definition, permafrost decay starts after 10 ka of post-glacial warming, when surface temperatures reached 0 ◦C. As shown in Fig. 2a, the decay of both the permafrost and the hydrate proceeds much faster from the base than from the top. The last permafrost disappears, at a depth of 170 to 180 m at 54 ka. Gas hydrate thawing starts at 50 ka at the upper boundary and at 25 ka at its base. The last gas hydrate disappears at a depth of 670 m, 413 ka after the onset of warming.\nThe gas hydrate zone shrinks at 1.16 m/ka from the top (from 250 m to 670 m between 50 and 413 ka) and 3.3 m/ka from the base (from 1950 m to 670 m between 25 and 413 ka). It is important to note that the methane released from the upper part can escape to the surface, because the overlying permafrost melted before the gas hydrate zone did. In contrast, methane released from the lower hydrate surface would most likely be blocked by the overlying (still-frozen) hydrate, so that methane would be trapped as a free gas phase until the hydrate is fully dissociated.\nFor the 60 mW/m2 heat flow model, the areal extent of permafrost and gas hydrate is smaller, and its decay proceeds much faster (Fig. 2b), than for the 40 mW/m2 model. As before, permafrost decay at the top surface starts at the end of 10 ka of\nwarming, but the decay at its base starts 5 ka earlier. The last permafrost disappears at a depth of 135 m by 34 ka. Gas hydrate thawing initiated at 25 ka at the upper boundary and at 10 ka at the base. The last gas hydrate disappeared at 570 m depth, 94 ka after the onset of the warming. The rate of shrinkage of the gas hydrate zone in this case is 4.6 m/ka from above (from 250 m to 570 m between the times 25 ka and 94 ka) and 7.0 m/ka from below (from 1160 m to 570 m between the times 10 ka and 94 ka)."
+  }, {
+    "heading": "4.2. Flooded shelves",
+    "text": "For flooded shelves, pressure increase due to sea level rise will cause the hydrate stability curve to move upward and the temperature of the phase change will increase in depth. The situation shown in Fig. 3 corresponds to a 120 m sea level rise, a typical magnitude of glacial–interglacial sea level variation (IPCC, 2007). Before the sea level rise, the phase curve is given by:\nT (z) = 8.9 × ln(z) − 50.1 (4) where z is the depth in meters, and after the 120 m rise it is:\nT (z) = 8.9 × ln(z + 120) − 50.1 (5)\nDue to this shift, the zone of hydrate stability expands both upward and downward. From the point of view of our simulations, the upward expansion of the zone is not important, because above 250 m all pore space is occupied by ice bearing permafrost. The extent of the downward expansion depends on the slope of the temperature profile at the base of the hydrate. As shown in Fig. 3, the intersection of the phase curve with the steady-state temperature profile of our model moves downward by 36 m (from 1956 m to 1992 m) for a heat flow of 40 mW/m2, and by 40 m (from 1161 m to 1201 m) for a heat flow of 60 mW/m2.\nIf there is some gas in this zone, at the end of the icehouse period, increased pressure due to rapid sea level rise (most probably within the first 10 ka of warming) creates conditions for immediate crystallization, forming gas hydrates. However, heat released during exothermic crystallization will warm the zone to a new (shifted) hydrate stability temperature, which in this particular case is at most only 0.74 ◦C above the steady-state temperature. The potential temperature increase due to the latent heat is significant, about 27 ◦C for the depth zone where pore space is saturated by gas hydrate. It means that the temperature in this zone will reach the new hydrate stability temperature before full hydrate saturation is reached. The crystallization will then continue only at the rate at which the released latent heat will be transported upward and used for warming of the overlying “old” (glacial) hydrate. The impact of these processes – formation of the new hydrate and warming of the overlying old hydrate – on the time scale of the post-icehouse decay of the hydrate is small and local. The effects of the two processes also have a tendency to cancel each other out. This upper estimate of the gas hydrate decay prolongation is shown in Fig. 2 by dashed lines. It amounts to about 200 ka and 30 ka for the heat flow models 40 mW/m2 and 60 mW/m2, respectively."
+  }, {
+    "heading": "4.3. Marine offshore model",
+    "text": "To ensure proper consideration of the latent heat, our numerical model (Majorowicz et al., 2008) considered sea level rise in two 60 m steps, at times 0 ka and 5 ka of the simulation. The shallow and deep water depths considered have icehouse to post-icehouse water depth ranges of: (1) 380–500 m, and (2) 1680–1800 m. Due to the low heat flow of 40 mW/m2, the original steady-state thermal gradient is relatively low and consequently the hydrate\nthickness is high, 273 and 589 m for the shallow and deep models, respectively.\nFor the shallow water case, the hydrate melts completely 10.5 ka after the onset of warming (Fig. 4). For the deep water case, the hydrate base ascends to its new steady-state position 53 m below sea floor (Fig. 5), but 100 m of hydrate still remains 70 ka after the warming. The rate of methane release (in kg per square metre per year) as the base of the hydrate zone rises, and the top of the hydrate zone drops (for the shallow water case only), was calculated for the deep and shallow water cases respectively (Figs. 6 and 7). The oscillations of the methane release curves are an artifact caused by linear interpolation of temperature between the nodes of the depth grid during the numerical differentiation.\nIt is obvious from Figs. 6 and 7 that marine hydrate stability can decrease and that methane can degas within a few thousands of years after warming had started. This is an appreciably shorter time than for terrestrial hydrates (tens of thousands of years). For the deep water case of 1800 m, the equilibrium hydrate temperature is 16.6 ◦C, indicating significant warming would be required for complete melt and methane release."
+  }, {
+    "heading": "5. Discussion",
+    "text": "Our models show that the time scale of permafrost and gas hydrate decay, in all environments, are primarily determined by their initial thicknesses, which depend on the steady-state temperature gradient and therefore on the basal heat flow. For the terrestrial model the increase in heat flow from 40 mW/m2 to 60 mW/m2 narrows the hydrate zone thickness from 1700 m to 910 m (nearly by half) and shortens the duration of decay from 413 ka to 94 ka. The increase in decay rate (in terms of volume) is then more than 4 times higher. Although it would lengthen decay\nof gas hydrates, by increasing the initial thickness, heat flow values lower than 40 mW/m2 would be below any known terrestrial average values (Chapman and Pollack, 1975). Therefore 413 ka can be taken as the maximum time terrestrial hydrates could remain stable in post-icehouse conditions. For flooded continental shelves, our models forecast hydrate disappearance 200 ka later than the terrestrial model without sea level rise, for the 40 mW/m2 heat flow scenario (Fig. 2a). Including the effect of sea level rise prolongs decay by 30%–50% (Fig. 2b).\nFor marine areas that were never affected by sea level drop, hydrates would still form during glacial periods. The shallow marine environments would, however, experience rapid hydrate decay during post-glacial warming. In contrast, deep marine settings would maintain a hydrate stability zone under normal marine basal water temperatures.\nThe total decay rates calculated are partly constrained by the initial approximation of 10 ky transition from a glacial to postglacial climate. A longer transition time would only lengthen decay rates within the same order of magnitude.\nFrom these models, a few initial conclusions can be made, as summarized in Figs. 8 and 9. For terrestrial and flooded shelf environments, hydrate disassociation is not an instantaneous process as often cited (e.g. Isozaki et al., 2007), but rather would occur over a 100 to 400 ka period for any one location. Dissociation would also initiate soon after the end of icehouse conditions as terrestrial environments begin a warming trend. Hydrate would initiate melting at lower latitudes and then progressively move to higher latitudes as the climate warms, suggesting then that hydrate release could occur progressively over a longer period of time, as long as a million years as depicted in Fig. 9.\nGiven the above, the global warming event that marks the end of the Guadalupian glacial interval (Shi and Waterhouse, 2010) would have been contemporaneous with methane release from terrestrial gas hydrates. Accordingly, the end of glacial interval P4 of\nFielding et al. (2008a) (Fig. 9), which started before and ended after the Kamura cooling event of Isozaki (1997), would have been marked by rapid warming of both the terrestrial and marine environment across the Late Guadalupian–Early Lopingian transition. This transition was also marked by a rapid >2.5 negative shift in δ13C values (Isozaki et al., 2007). Bond et al. (2010) reported an even larger shift ∼5 in a mid-Capitanian interval that also coincides with a major marine extinction event. According to Bond et al. (2010) this mid-Capitanian isotopic event and extinction coincides with the onset of extensive volcanism in China (the Emeishan Trap; He et al., 2007), suggesting a causal relationship. Based on stratigraphic considerations, Bond et al. (2010) estimate that the negative isotopic drop proceeded at a rate of ∼0.01 /ka, which suggests some 500 ka would be necessary to achieve a 4–5 shift, (200–300 ka for a 2–3 shift). This may appear like a longer time scale than the maximum suggested by our model, however, as mentioned above, the onset of hydrate dissociation would be diachronous, starting earlier at lower latitude and then expanding to higher latitudes, and thus most likely lasted beyond the modeled 400 ka. This diachroneity is supported by the observation of permafrost features in early Late Permian paleosols at polar latitudes in Gondwana (Retallack, 1999).\nAccording to Dickens et al. (1997), a 2.5 negative shift in δ13C values would require the release of ∼1200 × 109 metric tons of carbon (GtC) of biogenic methane origin, and about twice as much for thermogenic methane (Zachos et al., 2005) (average δ13C values of thermogenic methane are ∼ twice as high as biogenic sources). This is considerably more carbon than the estimated 400 GtC believed to occur within and beneath permafrost in the modern interglacial environment (Maslin et al., 2010). It is impossible to accurately assess the size of the permafrost-related hydrate carbon reservoir during the Guadalupian glacial maximum. While reasonable to assume that 1200 GtC of carbon could have been released over a 400–700 ka interval early during the Late Permian, this would be an upper maximum (i.e. all terrestrial hydrates would have to be released to account for such a shift).\nGiven the above, our model results suggest that: (1) methane release from terrestrial gas hydrate dissociation would have occurred in response to end-Guadalupian global warming, and (2) the modeled rate for dissociation of terrestrial hydrates, prolonged by diachronous release from lower to higher latitudes, is within the same order of magnitude as the Late Guadualupian negative isotope excursion. Therefore, we argue that terrestrial methane release likely contributed to end-Guadalupian warming and that methane release may have contributed to the negative carbon isotope excursion.\nWidespread evidence suggests both increasing global temperatures and increasing pCO2 levels leading to the LPE event, ∼10 Ma after the onset of the end-Guadalupian global warming (Kiehl and Shields, 2005). Our model results imply that there would have been little or no terrestrial or shallow offshore hydrates left prior to the LPE (Fig. 8c). Thus dissociation of permafrost-associated hydrates cannot be involved as a cause of the large and rapid isotopic excursion associated with the Latest Permian Extinction (LPE) event. Only sub-sea floor hydrates, stored at significant depth along continental slopes, would have remained stable long enough to have played a role in the latest Permian global warming and the well-documented contemporaneous negative C-isotope excursion. Following its minimum around +2 during the earliest Wuchiapingian (Isozaki et al., 2007), carbon isotopes recovered somehow during the Late Permian to reach a maximum of about 4–5 prior to the Wuchiapingian–Changhsingian boundary and then fluctuated little until the base of the Clarkina changxingensis Zone (Late Changhsingian). Then δ13C values dropped steadily by ∼2.0–2.5 during the following 100 ka interval represented by the Clarkina yini Zone. This “slow” drop may in part reflect the progressive\nrelease of methane from deep marine hydrates. As per Dickens et al. (1997) model, this would represent the release of about 1000–1200 GtC of biogenic methane into the environment, or twice as much for thermogenic methane. There is significant evidence indicating global warming during the later part of the Late Permian, including a rapid rise in pCO2 (Birgenheier et al., 2010; Kiehl and Shields, 2005), as well as the onset of Siberian Trap eruption (Grasby et al., 2011; Huang et al., 2011; Kamo et al., 2003; Kozur and Weems, 2011; Reichow et al., 2009; Renne et al., 1995; Saunders and Reichow, 2009; Shen et al., 2011), and this warming could have easily triggered the dissociation of marine gas hydrates, which in turn would have contributed to further warming.\nThe following ∼5 negative shift (from +2 to −3 ) in Cisotopes across the LPE event is more problematic and cannot be easily explained by a release of marine methane hydrate. This drop occurred within a 20 ka (±10 ka) interval (Shen et al., 2011), which is well within the range of the rates of marine hydrate dissociation calculated here, and would therefore suggest marine hydrate release could have played a role. Our model shows that to completely eliminate marine hydrates in 20 ka requires sea floor temperatures in the 15–20 ◦C range at water depths ranging from 400 to 1200 m, at all latitudes around the world. Unlike the PETM, which can rely on benthic foraminifers (Thomas and Shackleton, 1996), there are no reliable deep water sea floor temperature estimates for the Latest Permian. However,\nrecently published estimates of shallow water temperatures using oxygen isotopes of shallow marine carbonates suggest a significant and rapid warming at low latitudes (Joachimski et al., 2012; Sun et al., 2012), while a rapid return to calcite and aragonite saturation along NW Pangea at higher latitude suggests a rapid temperature rise in both shallow and deep environments (Beauchamp and Grasby, 2012). Rapid warming of the ocean is also suggested by Kidder and Worsely (2004). But whether this temperature rise was sufficient, at depth, to lead to a complete dissociation of all hydrates in the world, even at highest latitudes, remains uncertain. This seems unlikely considering that the negative excursion occurred at a time of widespread transgression around the world (Figs. 8D and 9) which would have provided some stabilization of the marine hydrate zone.\nEven if deep water temperature rise was sufficient to trigger gas hydrate release, it is questionable that there would have been sufficient marine hydrates beneath continental slopes to account for the significant carbon isotope shift at the LPE event. A 5 shift in δ13C values requires the release of 2400 GtC of biogenic methane and as twice much of thermogenic methane (Dickens et al., 1997). In the modern environment, estimates of the size of the hydrate reservoirs vary widely from 500 to 10,000 gigatons of carbon, while the best current estimates are around 1600–2000 GtC stored in ocean sediments (Maslin et al., 2010). Shifting the world’s ocean isotopic composition by 5 , would require (depending of volume estimate) releasing all the methane contained in the marine hydrates over ∼20,000 years. It is possible that the Late Permian ocean floor may have stored more hydrate methane than the modern sea floor, but this is highly unlikely. A substantial volume of hydrates would have dissociated in response to global warming since the Middle to Late Permian icehouse to greenhouse shift. Furthermore, with all the continents assembled into a super-continent – Pangea – the length of the continental slope was reduced by a factor of 4 (C. Scotese, 2012, personal communication), thus reducing by the same factor the area where marine gas hydrates could form. For these two reasons (loss of gas hydrates in response to Late Permian warming and reduced length of continental margins) it is most likely that the latest Permian marine hydrate reservoir contained significantly less carbon than its modern counterpart (∼2000 GtC). Even though our models allow for the rapid release of carbon as methane hydrates, when seafloors were warmed significantly during the LPE event, the volumes of stored hydrates are too low to account for the 5 shift across the LPE. Furthermore, any deep water methane released would be rapidly oxidized to CO2 in the water column prior to reaching the atmosphere (Rupple, 2011), reducing its effectiveness as a greenhouse gas. However,\nthis may have contributed to development of marine anoxia during this time.\nFor the above reasons, we conclude that other factors, such as the introduction of 12C-enriched carbon due to ongoing volcanism (Payne and Kump, 2007), are more likely to be the cause of the 5 carbon isotope shift and rapid warming across the LPE event, than the release of marine hydrates in response to warming of the sea floor, although the latter may have played a minor role."
+  }, {
+    "heading": "6. Conclusions",
+    "text": "Based on modeling considerations about the rate of terrestrial and marine hydrate dissociation, and estimations of the size of Late Permian hydrate reservoirs based on comparisons with the modern environment, we conclude that:\n(1) It is likely that the dissociation of terrestrial (permafrost) hydrate played a major role in the warming and associated >2 negative C-isotopic shift that accompanied the end of the Guadalupian glacial interval across the Middle-Late Permian boundary. (2) Dissociation of marine (continental slope) hydrates likely played a role in the warming of Late Changhsingian (late Late Permian) climates and corresponding ∼2.5 shift during the 100,000 ka interval (C. yini Zone) prior to the onset of the Latest Permian Extinction event. (3) Neither the dissociation of terrestrial hydrates (likely nonexistent during the latest Permian), nor marine hydrates (too low of a volume because of prior release in (2) and a supercontinent continental margin 4× shorter than modern margin) can explain the 5 C-isotopic shift in 20 ka across the LPE. (4) The release of gas hydrates only played a minor role (if at all) in the warming associated with the LPE. A more likely cause of the warming, and isotopic shift, is massive CO2 injection through Siberian Trap volcanic eruptions and combustion of coal measures."
+  }],
+  "year": 2014,
+  "references": [{
+    "title": "Methane hydrate stability and anthropogenic climate change",
+    "authors": ["D. Archer"],
+    "venue": "Biogeosciences",
+    "year": 2007
+  }, {
+    "title": "Ocean methane hydrates as a slow tipping point in the global carbon cycle",
+    "authors": ["D. Archer", "B. Buffett", "V. Brovkin"],
+    "venue": "Proc. Natl. Acad. Sci. USA",
+    "year": 2008
+  }, {
+    "title": "Growth and demise of Permian biogenic chert along Northwest Pangea; evidence for end-Permian collapse of thermohaline circulation",
+    "authors": ["B. Beauchamp", "A. Baud"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2002
+  }, {
+    "title": "Permian lysocline shoaling and ocean acidification along NW Pangea led to carbonate eradication and chert expansion",
+    "authors": ["B. Beauchamp", "S.E. Grasby"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2012
+  }, {
+    "title": "The stability of the stratospheric ozone layer during the end-Permian eruption of the Siberian Traps",
+    "authors": ["D.J. Beerling", "M. Harfoot", "B. Lomax", "J.A. Pyle"],
+    "venue": "Philos. Trans. R. Soc. Lond",
+    "year": 2007
+  }, {
+    "title": "Examination of hypotheses for the Permo–Triassic boundary extinction by carbon cycle modeling",
+    "authors": ["R.A. Berner"],
+    "venue": "Proc. Natl. Acad. Sci. USA",
+    "year": 2002
+  }, {
+    "title": "Fossil fuel combustion and the major sedimentary cycle",
+    "authors": ["K.K. Bertine", "E.D. Goldberg"],
+    "venue": "Science",
+    "year": 1971
+  }, {
+    "title": "Coupled carbon isotopic and sedimentological records from the Permian system of eastern Australia reveal the response of atmospheric carbon dioxide to glacial growth and decay during the late Palaeozoic Ice Age",
+    "authors": ["L.P. Birgenheier", "T.D. Frank", "C.R. Fielding", "M.C. Rygel"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2010
+  }, {
+    "title": "The mid-Capitanian (Middle Permian) mass extinction and carbon isotope record of South China",
+    "authors": ["D.P.G. Bond", "P.B. Wignall", "W. Wang", "G. Izon", "Jiang", "H.-S", "Lai", "X.-L", "Sun", "Y.-D", "R.J. Newton", "Shao", "L.-Y", "S. Védrine", "H. Cope"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2010
+  }, {
+    "title": "Synchronism of the Siberian Traps and the Permian–Triassic",
+    "authors": ["I.H. Campbell", "G.K. Czamanske", "V.A. Fedorenko", "R.I. Hill", "V. Stepanov"],
+    "venue": "boundary. Science",
+    "year": 1992
+  }, {
+    "title": "Conduction of Heat in Solids",
+    "authors": ["H.S. Carslaw", "J.C. Jaeger"],
+    "year": 1959
+  }, {
+    "title": "Global heat flow: a new look",
+    "authors": ["D.S. Chapman", "H.N. Pollack"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 1975
+  }, {
+    "title": "Biogeochemical aspects of atmospheric methane",
+    "authors": ["R.J. Cicerone", "R.S. Oremland"],
+    "venue": "Glob. Biogeochem. Cycles",
+    "year": 1988
+  }, {
+    "title": "The ending of the late Paleozoic ice age during the Permian Period",
+    "authors": ["J.C. Crowell"],
+    "year": 1995
+  }, {
+    "title": "Multiple organic carbon isotope reversals across the Permo– Triassic boundary of terrestrial Gondwana sequences, clues to extinction patterns and delayed ecosystem recovery",
+    "authors": ["M.J. de Wit", "J.G. Ghosh", "S. de Villiers", "N. Rakotosolofo", "J. Alexander", "A. Tripathi", "C. Looy"],
+    "venue": "J. Geol",
+    "year": 2002
+  }, {
+    "title": "Carbon cycle: The blast in the past",
+    "authors": ["G.R. Dickens"],
+    "venue": "Nature",
+    "year": 1999
+  }, {
+    "title": "A blast of gas in the latest Paleocene: Simulating first-order effects of massive dissociation of oceanic methane",
+    "authors": ["G.R. Dickens", "M.M. Castillo", "J.C.G. Walker"],
+    "venue": "hydrate. Geology",
+    "year": 1997
+  }, {
+    "title": "Consequences of Siberian Traps volcanism",
+    "authors": ["D. Dorritie"],
+    "venue": "Science",
+    "year": 2002
+  }, {
+    "title": "The Great Paleozoic Crisis: Life and Death in the Permian",
+    "authors": ["D.W. Erwin"],
+    "year": 1993
+  }, {
+    "title": "End-Permian mass extinctions: A review",
+    "authors": ["D.H. Erwin", "S.A. Bowring", "J. Yugan"],
+    "venue": "Geological Society of America,",
+    "year": 2002
+  }, {
+    "title": "Stratigraphic imprint of the Late Palaeozoic Ice Age in eastern Australia: a record of alternating glacial and nonglacial climate regime",
+    "authors": ["C.R. Fielding", "T.D. Frank", "L.P. Birgenheier", "M.C. Rygel", "A.T. Jones", "J. Roberts"],
+    "venue": "J. Geol",
+    "year": 2008
+  }, {
+    "title": "Resolving the Late Paleozoic Ice Age in time and space",
+    "authors": ["C.R. Fielding", "T.D. Frank", "J.L. Isbell"],
+    "venue": "Spec. Pap., Geol. Soc. Am. 441",
+    "year": 2008
+  }, {
+    "title": "Numerical simulation of permafrost evolution as a part of sedimentary basin modeling: permafrost in the Pliocene–Holocene climate history of the Urengoy field in the West Siberian basin",
+    "authors": ["Y. Galushkin"],
+    "venue": "Can. J. Earth Sci",
+    "year": 1997
+  }, {
+    "title": "Climate changes caused by degassing of sediments during the emplacement of large igneous provinces",
+    "authors": ["C. Ganino", "N.T. Arndt"],
+    "venue": "Geology",
+    "year": 2009
+  }, {
+    "title": "Hot acidic Late Permian seas stifle life in record time",
+    "authors": ["S. Georgiev", "H.J. Stein", "J.L. Hannah", "B. Bingen", "H.M. Weiss", "S. Piasecki"],
+    "venue": "Earth Planet. Sci",
+    "year": 2011
+  }, {
+    "title": "Intrabasin variability of the carbon-isotope record across the Permian–Triassic transition, Sverdrup Basin, Arctic Canada",
+    "authors": ["S.E. Grasby", "B. Beauchamp"],
+    "venue": "Chem. Geol",
+    "year": 2008
+  }, {
+    "title": "Latest Permian to Early Triassic basin-to-shelf anoxia in the Sverdrup Basin, Arctic Canada",
+    "authors": ["S.E. Grasby", "B. Beauchamp"],
+    "venue": "Chem. Geol",
+    "year": 2009
+  }, {
+    "title": "Catastrophic dispersion of coal fly ash into oceans during the latest Permian extinction",
+    "authors": ["S.E. Grasby", "H. Sanei", "B. Beauchamp"],
+    "venue": "Nat. Geosci",
+    "year": 2011
+  }, {
+    "title": "The carbon biogeochemical cycle across the Permian–Triassic boundary strata and its implications: isotope record from the Changhsingian Stage at Meishan, south China",
+    "authors": ["M. Gruszcznski", "K. Malkowski", "H. Szaniawski", "W. Cheng-Yuan"],
+    "venue": "Acta Geol. Polon",
+    "year": 2003
+  }, {
+    "title": "Age and duration of the Emeishan flood volcanism, SW China: geochemistry and SHRIMP zircon U–Pb dating of silicic ignimbrites, post-volcanic Xuanwei Formation and clay tuff at the Chaotian section",
+    "authors": ["B. He", "Xu", "Y.-G", "Huang", "X.-L", "Luo", "Z.-Y", "Shi", "Y.-R", "Yang", "Q.-J", "Yu", "S.-Y"],
+    "venue": "Earth Planet. Sci",
+    "year": 2007
+  }, {
+    "title": "The Permian Period",
+    "authors": ["C.M. Henderson", "V.I. Davydov", "B.R. Wardlaw"],
+    "venue": "The Geologic Time Scale. Elsevier B.V.,",
+    "year": 2012
+  }, {
+    "title": "Deev Jahi Model of the Permian–Triassic boundary mass extinction: A case for gas hydrates as the main cause of biological crisis on Earth",
+    "authors": ["E. Heydari", "J. Hassanzadeh"],
+    "venue": "Sediment. Geol",
+    "year": 2003
+  }, {
+    "title": "Did the great dying of life take 700 k.y.? Evidence from global astronomical correlation of the Permian–Triassic boundary",
+    "authors": ["C. Huang", "J. Tong", "L. Hinnov", "Z.Q. Chen"],
+    "venue": "interval. Geology",
+    "year": 2011
+  }, {
+    "title": "Permo–Triassic boundary superanoxia and stratified superocean: records from lost deep sea",
+    "authors": ["Y. Isozaki"],
+    "venue": "Science",
+    "year": 1997
+  }, {
+    "title": "The Capitanian (Permian) Kamura cooling event: The beginning of the Paleozoic–Mesozoic",
+    "authors": ["Y. Isozaki", "H. Kawahata", "K. Minoshima"],
+    "venue": "transition. Palaeoworld",
+    "year": 2007
+  }, {
+    "title": "Zipper-rift’: a tectonic model for Neoproterozoic glaciations during the breakup of Rodinia after 750 Ma",
+    "authors": ["E.N. Januszczak"],
+    "venue": "Earth-Sci. Rev",
+    "year": 2004
+  }, {
+    "title": "Climate warming in the latest Permian and the Permian–Triassic mass extinction",
+    "authors": ["M.M. Joachimski", "X. Lai", "S. Shen", "H. Jiang", "G. Luo", "B. Chen", "J. Chen", "Y. Sun"],
+    "venue": "Geology",
+    "year": 2012
+  }, {
+    "title": "Rapid eruption of Siberian flood-volcanic rocks and evidence for coincidence with the Permian–Triassic boundary and mass extinction at",
+    "authors": ["S.L. Kamo", "G.K. Czamanske", "Y. Amelin", "V.A. Fedorenko", "D.W. Davis", "V.R. Trofimov"],
+    "venue": "Earth Planet. Sci",
+    "year": 2003
+  }, {
+    "title": "The source and fate of massive carbon input during the Latest Paleocene thermal maximum",
+    "authors": ["M.E. Katz", "D.K. Pak", "G.R. Dickens", "K.G. Miller"],
+    "year": 1999
+  }, {
+    "title": "Carbon isotopic evidence for methane hydrate instability during quaternary interstadials",
+    "authors": ["J.P. Kennett", "K.G. Cannariato", "I.L. Hendy", "R.J. Behl"],
+    "year": 2000
+  }, {
+    "title": "Methane Hydrates in Quaternary Climate Change: The Clathrate Gun Hypothesis",
+    "authors": ["J.P. Kennett", "K.G. Cannariato", "I.L. Hendy", "R.J. Behl"],
+    "year": 2003
+  }, {
+    "title": "Causes and consequences of extreme Permo– Triassic warming to globally equable climate and relation to the Permo–Triassic extinction and recovery",
+    "authors": ["D.L. Kidder", "T.R. Worsley"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2004
+  }, {
+    "title": "Climate simulation of the latest Permian: Implications for mass extinction",
+    "authors": ["J.T. Kiehl", "C.A. Shields"],
+    "venue": "Geology",
+    "year": 2005
+  }, {
+    "title": "Comparative Earth history and Late Permian mass extinction",
+    "authors": ["A.H. Knoll", "R.K. Bambach", "D.E. Canfield", "J.P. Grotzinger"],
+    "venue": "Science 273,",
+    "year": 1996
+  }, {
+    "title": "Intense basic magmatism in the Tunguska petroleum basin, eastern Siberia, Russia",
+    "authors": ["A.E. Kontorovich", "A.V. Khomenko", "L.M. Burshtein", "I.I. Likhanov", "A.L. Pavlov", "V.S. Staroseltsev", "A.A. Ten"],
+    "venue": "Pet. Geosci",
+    "year": 1997
+  }, {
+    "title": "Carbon-isotope stratigraphy across the Permian–Triassic boundary: A review",
+    "authors": ["C. Korte", "H.W. Kozur"],
+    "venue": "J. Asian Earth Sci",
+    "year": 2010
+  }, {
+    "title": "Massive volcanism at the Permian–Triassic boundary and its impact on the isotopic composition of the ocean and atmosphere",
+    "authors": ["C. Korte", "P. Pande", "P. Kalia", "H.W. Kozur", "M.M. Joachimski", "H. Oberhansli"],
+    "venue": "J. Asian Earth Sci",
+    "year": 2010
+  }, {
+    "title": "Detailed correlation and age of continental late Changhsingian and earliest Triassic beds: Implications for the role of the Siberian Trap in the Permian–Triassic biotic crisis",
+    "authors": ["H.W. Kozur", "R.E. Weems"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2011
+  }, {
+    "title": "δ13C depth profiles from paleosols across the Permian–Triassic boundary: evidence for methane release. Geol",
+    "authors": ["E.S. Krull", "G.J. Retallack", "H.J. Campbell", "G.L. Lyon"],
+    "year": 2000
+  }, {
+    "title": "Stable carbon isotope stratigraphy across the Permian–Triassic boundary in shallow marine carbonate platforms, Nanpanjiang Basin, south China",
+    "authors": ["E.S. Krull", "D.J. Lehrmann", "D. Druke", "B. Kessel", "Y. Yu", "R. Li"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2004
+  }, {
+    "title": "Gas hydrates – geological perspective and global change",
+    "authors": ["K.A. Kvenvolden"],
+    "venue": "Rev. Geophys",
+    "year": 1993
+  }, {
+    "title": "A projection of severe near-surface permafrost degradation during the 21st century",
+    "authors": ["D.M. Lawrence", "A.G. Slater"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2005
+  }, {
+    "title": "End-Permian event of marine acidification by hydrated sulfuric acid: Mineralogical evidence from Meishan Section of South China",
+    "authors": ["H. Liang"],
+    "year": 2002
+  }, {
+    "title": "A Pliocene–Pleistocene stack of 57 globally distributed benthic δ18O records",
+    "authors": ["L.E. Lisiecki", "M.E. Raymo"],
+    "venue": "Paleoceanography 20,",
+    "year": 2005
+  }, {
+    "title": "Shallow water redox conditions from the Permian–Triassic boundary microbialite: The rare earth element and iodine geochemistry of carbonates from Turkey and South China",
+    "authors": ["G.R. Loope", "L.R. Kump", "M.A. Arthur"],
+    "year": 2013
+  }, {
+    "title": "Enhanced nitrogen fixation in the immediate aftermath of the latest Permian marine mass extinction",
+    "authors": ["G. Luo", "Y. Wang", "T.J. Algeo", "L.R. Kump", "X. Bai", "H. Yang", "L. Yao", "S. Xie"],
+    "venue": "Geology",
+    "year": 2011
+  }, {
+    "title": "Onset and stability of gas hydrates under permafrost in an environment of Surface climate change, past and future",
+    "authors": ["J. Majorowicz", "K. Osadetz", "J. Safanda"],
+    "venue": "6th International Conference on Gas Hydrates. British,",
+    "year": 2008
+  }, {
+    "title": "Gas hydrate formation and dissipation histories in the northern margin of Canada: Beaufort–Mackenzie and the Sverdrup basins",
+    "authors": ["J. Majorowicz", "K. Osadetz", "J. Safanda"],
+    "venue": "J. Geol. Res",
+    "year": 2012
+  }, {
+    "title": "Gas hydrates: past and future geohazard",
+    "authors": ["M. Maslin", "M. Owen", "R. Betts", "S. Day", "T. Dunkley Jones", "A. Ridgwell"],
+    "venue": "Philos. Trans. R. Soc., Math. Phys. Eng",
+    "year": 2010
+  }, {
+    "title": "Determination of the Permian–Triassic boundary in Australia from carbon isotope stratigraphy",
+    "authors": ["R. Morante", "J.J. Veevers", "A.S. Andrew", "P.J. Hamilton"],
+    "venue": "Aust. Pet. Explor. J",
+    "year": 1994
+  }, {
+    "title": "Thermal simulation of subsea saline permafrost",
+    "authors": ["J.F. Nixon"],
+    "venue": "Can. J. Earth Sci",
+    "year": 1986
+  }, {
+    "title": "Glacial cycles: Toward a new paradigm",
+    "authors": ["D. Paillard"],
+    "venue": "Rev. Geophys",
+    "year": 2001
+  }, {
+    "title": "Evidence for recurrent Early Triassic massive volcanism from quantitative interpretation of carbon isotope fluctuations",
+    "authors": ["J.L. Payne", "L.R. Kump"],
+    "venue": "Earth Planet. Sci",
+    "year": 2007
+  }, {
+    "title": "Erosional truncation of uppermost Permian shallowmarine carbonates and implications for Permian–Triassic boundary events",
+    "authors": ["J.L. Payne", "D.J. Lehrmann", "D. Follett", "M. Seibel", "L.R. Kump", "A. Riccardi", "D. Altiner", "H. Sano", "J. Wei"],
+    "venue": "Geol. Soc. Am",
+    "year": 2007
+  }, {
+    "title": "The numerical solution of parabolic and elliptic differential equations",
+    "authors": ["D.W. Peaceman", "H.H. Rachford"],
+    "venue": "J. Soc. Ind. Appl. Math",
+    "year": 1955
+  }, {
+    "title": "Climate and atmospheric history of the past 420,000 years from the Vostok ice core Antarctica",
+    "authors": ["J.R. Petit", "J. Jouzel", "D. Raynaud", "N.I. Barkov", "J.M. Barnola", "I. Basile", "M. Bender", "J. Chappellaz", "M. Davis", "G. Delaygue", "M. Delmotte", "V.M. Kotlyakov", "M. Legrand", "V.Y. Lipenkov", "C. Lorius", "L. Pepin", "C. Ritz", "E. Saltzman", "M. Stievenard"],
+    "venue": "Nature 399,",
+    "year": 1999
+  }, {
+    "title": "Molybdenum isotopic evidence for oxic marine conditions during the Latest Permian",
+    "authors": ["B.C. Proemse", "S.E. Grasby", "M.E. Wieser", "B. Mayer", "B. Beauchamp"],
+    "venue": "extinction. Geology",
+    "year": 2013
+  }, {
+    "title": "Late Permian double-phased mass extinction and volcanism: an oceanographic perspective",
+    "authors": ["G. Racki", "P.B. Wignall"],
+    "venue": "Developments in Palaeontology and Stratigraphy. Elsevier,",
+    "year": 2005
+  }, {
+    "title": "Major perturbation of ocean chemistry and a ‘Strangelove Ocean’ after the end-Permian mass extinction",
+    "authors": ["M.R. Rampino", "K. Caldeira"],
+    "venue": "Terra Nova",
+    "year": 2005
+  }, {
+    "title": "Permian phytogeographic patterns and climate data/model comparisons",
+    "authors": ["P.M. Rees", "A.M. Ziegler", "M.T. Gibbs", "J.E. Kutzbach", "P.J. Behling", "D.B. Rowley"],
+    "venue": "J. Geol",
+    "year": 2002
+  }, {
+    "title": "The timing and extent of the eruption of the Siberian Traps large igneous province: Implications for the end-Permian environmental crisis",
+    "authors": ["M.K. Reichow", "M.S. Pringle", "A.I. Al’Mukhamedoc", "M.B. Allen", "V.L. Andreichev", "M.M. Buslov", "C.E. Davies", "G.S. Fedoseev", "J.G. Fitton", "S. Inger", "A.Y. Medvedev", "C. Mitchell", "V.N. Puchkov", "I.Y. Safonova", "R.A. Scott", "A.D. Saunders"],
+    "venue": "Earth Planet",
+    "year": 2009
+  }, {
+    "title": "Rapid eruption of the Siberian Traps flood basalts at the Permo–Triassic",
+    "authors": ["P.R. Renne", "A.R. Basu"],
+    "venue": "boundary. Science",
+    "year": 1991
+  }, {
+    "title": "Synchrony and causal relations between Permian–Triassic boundary crises and Siberian flood volcanism",
+    "authors": ["P.R. Renne", "Z. Zichao", "M.A. Richards", "M.T. Black", "A.R. Basu"],
+    "year": 1995
+  }, {
+    "title": "Methane release from igneous intrusion of coal during Late Permian extinction events",
+    "authors": ["G.J. Retallack", "A.H. Jahren"],
+    "venue": "J. Geol",
+    "year": 2008
+  }, {
+    "title": "Landscape ecological shift at the Permian–Triassic boundary in Antarctica",
+    "authors": ["G.J. Retallack", "E.S. Krull"],
+    "venue": "Aust. J. Earth Sci",
+    "year": 1999
+  }, {
+    "title": "Climatic and biotic upheavals following the end-Permian mass extinction",
+    "authors": ["C. Romano", "N. Goudemand", "T.W. Vennemann", "D. Ware", "E. Schneebeli-Hermann", "P.A. Hochuli", "T. Bruhwiler", "W. Brinkmann", "H. Bucher"],
+    "venue": "Nat. Geosci",
+    "year": 2013
+  }, {
+    "title": "Atmospheric carbon injection linked to end-Triassic mass extinction",
+    "authors": ["M. Ruhl", "N.R. Bonis", "Reichart", "G.-J", "J.S. Sinninghe Damsté", "W.M. Kürschner"],
+    "year": 2011
+  }, {
+    "title": "Methane hydrates and contemporary climate change",
+    "authors": ["C.D. Ruppel"],
+    "venue": "Nat. Educ. Knowl",
+    "year": 2011
+  }, {
+    "title": "Methane-driven oceanic eruptions and mass extinctions",
+    "authors": ["G. Ryskin"],
+    "venue": "Geology",
+    "year": 2003
+  }, {
+    "title": "Geochemical and organic carbon isotope studies across the continental Permo–Triassic boundary of Raniganj Basin, eastern India",
+    "authors": ["A. Sarkar", "H. Yoshioka", "M. Ebihara", "H. Naraoka"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2003
+  }, {
+    "title": "The Siberian Traps and the End-Permian mass extinction: a critical review",
+    "authors": ["A.D. Saunders", "M.K. Reichow"],
+    "year": 2009
+  }, {
+    "title": "Late Palaeozoic global changes affecting highlatitude environments and biotas: An introduction",
+    "authors": ["G.R. Shi", "J.B. Waterhouse"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2010
+  }, {
+    "title": "Clathrate Hydrates of Natural Gases, 2nd ed",
+    "authors": ["E.D. Sloan"],
+    "year": 1988
+  }, {
+    "title": "Linking mantle plumes, large igneous provinces and environmental catastrophes",
+    "authors": ["S.V. Sobolev", "A.V. Sobolev", "D.V. Kuzmin", "N.A. Krivolutskaya", "A.G. Petrunin", "N.T. Arndt", "V.A. Radko", "Y.R. Vasiliev"],
+    "venue": "Nature 477,",
+    "year": 2011
+  }, {
+    "title": "Lethally hot temperatures during the Early Triassic greenhouse",
+    "authors": ["Y. Sun", "M.M. Joachimski", "P.B. Wignall", "C. Yan", "Y. Chen", "H. Jiang", "L. Wang", "X. Lai"],
+    "year": 2012
+  }, {
+    "title": "Siberian gas venting and the end-Permian environmental crisis",
+    "authors": ["H. Svensen", "S. Planke", "A.G. Polozov", "N. Schmidbauer", "F. Corfu", "Y.Y. Podladchikov", "B. Jamtveit"],
+    "venue": "Earth Planet. Sci",
+    "year": 2009
+  }, {
+    "title": "The present is not the key to the past; a polar forest from the Permian of Antarctica",
+    "authors": ["E.L. Taylor", "T.N. Taylor", "N.R. Cueneo"],
+    "year": 1992
+  }, {
+    "title": "Comparing the sensitivity of permafrost and marine gas hydrate to climate change",
+    "authors": ["A.E. Taylor", "S.R. Dallimore", "R.D. Hyndman", "F. Wright"],
+    "venue": "Geological Survey of Canada,",
+    "year": 2005
+  }, {
+    "title": "Correlation of the Early Paleogene in Northwest Europe",
+    "authors": ["E. Thomas", "N.J. Shackleton"],
+    "year": 1996
+  }, {
+    "title": "Rapid and synchrous collapse of marine and terrestrial ecosystems during the end-Permian biotic crisis",
+    "authors": ["R.J. Twitchett", "C.V. Looy", "R. Morante", "H. Visscher", "P.B. Wignall"],
+    "venue": "Geology",
+    "year": 2001
+  }, {
+    "title": "Late Permian extinctions",
+    "authors": ["G.J. Vermeij", "D. Dorritie"],
+    "venue": "Science",
+    "year": 1996
+  }, {
+    "title": "The terminal Paleozoic fungal event: evidence of terrestrial ecosystem destabilization and collapse",
+    "authors": ["H. Visscher", "H. Brinkhuis", "D.L. Dilcher", "W.C. Elsik", "Y. Eshet", "C.V. Looy", "M.R. Rampino", "A. Traverse"],
+    "venue": "Proc. Natl. Acad. Sci. USA",
+    "year": 1996
+  }, {
+    "title": "Summary of Cascadia drilling results",
+    "authors": ["G.K. Westbrook", "B. Carson", "Musgrave", "R.J"],
+    "venue": "Proceedings of the Ocean Drilling Program,",
+    "year": 1994
+  }, {
+    "title": "Large igneous provinces and mass extinctions",
+    "authors": ["P.B. Wignall"],
+    "venue": "Earth-Sci. Rev",
+    "year": 2001
+  }, {
+    "title": "Anoxia as a cause of the Permian/Triassic mass extinction; facies evidence from Northern Italy and the Western United States",
+    "authors": ["P.B. Wignall", "A. Hallam"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 1992
+  }, {
+    "title": "Griesbachian (Early Triassic) paleoenviromental changes in the Salt Range, Pakistan and southeast China and their bearing on the Permo–Triassic extinction",
+    "authors": ["P.B. Wignall", "A. Hallam"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 1993
+  }, {
+    "title": "Oceanic anoxia and the end Permian mass extinction",
+    "authors": ["P.B. Wignall", "R.J. Twitchett"],
+    "venue": "Science",
+    "year": 1996
+  }, {
+    "title": "Causes of the marine productivity and oxygen changes associated with the Permian–Triassic boundary: A reevaluation with ocean general circulation models",
+    "authors": ["A.M.E. Winguth", "E. Maier-Reimer"],
+    "venue": "Mar. Geol",
+    "year": 2005
+  }, {
+    "title": "Molecular and isotopic evidence for episodic environmental change across the Permo/Triassic boundary at Meishan in south China",
+    "authors": ["Xie", "S.-C", "R.D. Pancost", "Huang", "X.-Y", "D. Jiao", "Lu", "L.-Q", "J.-H", "Yang", "F.-Q", "R.P. Evershed"],
+    "venue": "Glob. Planet. Change",
+    "year": 2007
+  }, {
+    "title": "Two episodes of environmental change at the Permian–Triassic boundary of the GSSP section Meishan",
+    "authors": ["H. Yin", "S. Xie", "G. Luo", "T.J. Algeo", "K. Zhang"],
+    "venue": "EarthSci. Rev",
+    "year": 2012
+  }, {
+    "title": "Rapid acidification of the ocean during the Paleocene–Eocene thermal maximum",
+    "authors": ["J.C. Zachos", "U. Röhl", "S.A. Schellenberg", "A. Sluijs", "D.A. Hodell", "D.C. Kelly", "E. Thomas", "M. Nicolo", "I. Raffi", "L.J. Lourens", "H. McCarren", "D. Kroon"],
+    "year": 2005
+  }, {
+    "title": "Permian world topography and climate",
+    "authors": ["A.M. Zeigler", "M.L. Hulver", "D.B. Rowley"],
+    "year": 1997
+  }],
+  "id": "SP:d14357eefe86674a6261f3dde7bab16b24e0a782",
+  "authors": [{
+    "name": "J. Majorowicz",
+    "affiliations": []
+  }, {
+    "name": "S.E. Grasby",
+    "affiliations": []
+  }, {
+    "name": "J. Safanda",
+    "affiliations": []
+  }, {
+    "name": "B. Beauchamp",
+    "affiliations": []
+  }],
+  "title": "Gas hydrate contribution to Late Permian global warming"
+}

@@ -1,0 +1,562 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nEarth and Planetary Science Letters\nj ourna l homepage: www.e lsev ie r.com/ locate /eps l\nVolcanic outgassing of CO2 and H2O on Mars\nM. Grott ⁎, A. Morschhauser, D. Breuer, E. Hauber Institute of Planetary Research, German Aerospace Center (DLR), Rutherfordstraße 2, 12489 Berlin, Germany\n⁎ Corresponding author. E-mail address: matthias.grott@dlr.de (M. Grott).\n0012-821X/$ – see front matter © 2011 Elsevier B.V. A doi:10.1016/j.epsl.2011.06.014\na b s t r a c t a r t i c l e i n f o\nArticle history: Received 3 May 2011 Received in revised form 15 June 2011 Accepted 17 June 2011 Available online 13 July 2011\nEditor: Y. Ricard\nKeywords: Mars volcanism outgassing CO2 water geophysics\nVolcanic outgassing is one of the main sources of volatiles for the martian atmosphere and degassing of the martian interior potentially influenced the early martian climate. Using a parameterized thermo-chemical evolutionmodel and considering two end-membermeltingmodels, we self-consistently calculate the amount of CO2 and H2O outgassed during themartian evolution. Outgassing rates are found to depend primarily on a factor describing the outgassing efficiency, the bulk mantle water content, the mantle oxygen fugacity, and the local melt fraction in the magma source regions. We find that significant outgassing ceased around 3.5–2 Gyr ago, depending on the adoptedmeltingmodel. A total of 0.9–1 bar CO2 is outgassed during this timeperiod if amantle oxygen fugacity corresponding to one log10 unit above the iron–wustite buffer is assumed. Additionally, a total of 17–61 mofwater is delivered to the surface. Outgassing ismost efficient in the pre-Noachian (up to 4.1 Gyr), but still significant during the Noachian, and 5–15 m of water and ∼250 mbar of CO2 are outgassed between 4.1 and 3.7 Gyr.Although this amount isprobably insufficient for anappreciable greenhouse effect, pressures are found to be sufficient to stabilize transient liquidwateron the surfacewell into theHesperianperiod. Therefore, our results support the hypothesis that rather than being warm-and-wet, the martian climate was probably cold-and-wet. Outgassing is found to strongly decline during the Hesperian, and is insignificant during the Amazonian period. A simple parameterization for the outgassing of CO2 and H2O as a function of time is presented.\nll rights reserved.\n© 2011 Elsevier B.V. All rights reserved."
+  }, {
+    "heading": "1. Introduction",
+    "text": ""
+  }, {
+    "heading": "1.1. Martian atmospheric evolution",
+    "text": "The question of if and when the martian atmosphere was dense enough to allow liquid water to be stable on the planetary surface has attracted considerable attention and atmospheric conditions sensitively influence the habitability of the planet. Following accretion and core formation, Mars was likely covered by a global magma ocean, and an appreciable H2O−CO2 atmosphere probably built up during this time period. Estimates of the density of the primordial atmosphere range from 1 to 100 bar (Elkins-Tanton, 2008; Hirschmann and Withers, 2008), and the atmosphere was probably thick enough to significantly reduce magma ocean cooling (Elkins-Tanton, 2008).\nDuring the early history of the solar system the extreme ultraviolet (EUV) flux from the young sun is believed to have been much larger than it is today and, as a consequence, atmospheric temperatures are assumed to have been significantly increased. This would have resulted in an expansion of the atmosphere, leading to efficient atmospheric loss through thermal escape of heavy, neutral particles. Models indicate that an early CO2-dominated atmosphere could not have been maintained (Tian et al., 2009), and atmospheric loss rates\ncould have been as large as 0.1–1 bar per Myr before 4.1 Gyr. In addition to thermal escape, atmosphere could have been lost through impact erosion (Melosh and Vickery, 1989; Pham et al., 2009), such that the primordial atmosphere was likely entirely eroded.\nDuring the Noachian period between 4.1 and 3.7 Gyr b.p., atmospheric pressure was determined by the interplay between volcanic outgassing, impact erosion/delivery, CO2 adsorption to the regolith, CO2 storage in the polar caps, and CO2 sequestration in carbonate rocks (e.g., Jakosky and Phillips, 2001; Manning et al., 2006). Furthermore, loss processes like sputtering, dissociative recombination, and ion escape became efficient, and although the timing of the dynamo shutdown is still controversial, it is generally assumed tohaveoccurred at around the same time, and could have potentially resulted in enhanced atmospheric loss. Atmospheric pressures and temperatures during the Noachian have been extensively modeled and it was found that atmospheric conditions allowing for liquid water to be stable on the surface are difficult to achieve. For a CO2-dominated atmosphere, climate models require surface pressures of several bar CO2 to obtain surface temperatures above freezing (Kasting, 1991), although this value can be reduced to 0.5–1 bar if scattering of infrared radiation from CO2 ice clouds is taken into account (Forget and Pierrehumbert, 1997).\nAlternative models to account for warmer surface temperatures include additional greenhouse gasses likeCH4, SO2 andH2S,which could have been released by volcanism. While the release of CH4 is probably not sufficient to account for appreciable greenhouse warming (Kasting, 1997), sulfur is highly soluble in martian basalts (Johnson et al., 2008),\nand sulfur volatiles could therefore add significantly to an earlymartian greenhouse.Due to their short lifetimes, greenhousewarmingcausedby SO2 and H2S would only be efficient as long as these species are continuously supplied to the atmosphere, but they could causewarming by up to 25 K (Johnson et al., 2008). Furthermore, aqueous solutions with lower melting points have been extensively studied (see, e.g., Fairén (2010) and references therein) and instead of being warm-andwet (Jakosky and Phillips, 2001),Marsmight have been cold-and-wet in the sense that average surface temperatureswere around 245 K (Fairén, 2010; Gaidos and Marion, 2003).\nWhen outgassing and impact delivery of volatiles waned around the beginning of the Hesperian, loss processes prevailed and the D/H ratio in the martian atmosphere indicates that 60–90% of the martian water inventory has been lost to space (Jakosky and Phillips, 2001). The amount of atmospheric CO2 lost in the last 3.5 Gyr is still under debate, but most estimates are of the order of tens to a few hundred millibars (Johnson et al., 2000; Lammer et al., 2008; Luhmann et al., 1992) rather than a substantial fraction of a bar, giving further support to the cold-and-wet Mars hypothesis. Note, however, that carbonates have been detected on the surface of Mars (Ehlmann et al., 2008; Michalski and Niles, 2010), and it has been suggested that carbonate minerals equivalent to 1 bar of CO2 could have been deposited (Griffith and Shock, 1995). This would correspond to a global carbonate layer of 20 m thickness (Warren, 1987), but the total amount of CO2 sequestered in crustal rocks remains unknown."
+  }, {
+    "heading": "1.2. Surface geological record",
+    "text": "Several lines of evidence suggest that liquid water was once a geological agent at and near the surface of Mars (Baker, 2001), but the exact timing and duration of water-related events are a matter of ongoingdebate.Nevertheless, there is a consensus that liquidwaterwas planet-wide available in the early history ofMars, although in unknown quantities. Later, the surface became more and more dry, until the environment approached the hyperarid conditions that prevail today.\nWidespread fluvial valley networks in ancient cratered terrain were carved by surface runoff, but it is not entirely clear if the water was supplied by precipitation (rain or snow) (Craddock and Howard, 2002) or by groundwater seepage (Goldspiel and Squyres, 2000).Seepage alone as valley-forming process is considered unlikely, however, because some valleys have their origins at the crest of hills, which would not be expected if they were formed by seepage induced by hydrothermal activity (e.g., Mangold et al., 2004). Moreover, terrestrial experience shows that flash floods are required to remove the debris generated by seepageweathering (Irwin et al., 2008; Lamb et al., 2008). In any case the Noachian was characterized by an active hydrological cycle, because sapping also requires precipitation to recharge the groundwater system. Overall, however, the fluvial morphology of the Noachian landscape is poorly developed and suggests an arid climate (Barnhart et al., 2009; Irwin et al., 2011; Stepinski and Coradetti, 2004; Stepinski and Stepinski, 2005). Valley network formation occurred over an extended period of time, but in varying intensity and of perhaps ephemeral nature, and might have ended with an intense period of fluvial dissection (Howard et al., 2005; Irwin et al., 2005) between the endof theNoachianand thebeginningof theHesperianat∼3.8 to 3.5 Ga (Fassett and Head, 2008a).\nThe Noachian would also have been the most likely time during which an ocean in the northern lowlands acted as a natural global sink for water (Clifford and Parker, 2001), though unambiguous morphologic or compositional evidence for such a global ocean is still lacking (review by Carr and Head, 2003). Nevertheless, deltaic intra-crater sediments (e.g., Hauber et al., 2009) and craters with fluvial inlets and outlets (Fassett and Head, 2008b) indicate smaller-than-ocean-sized (though still substantial) standing bodies of water in the Noachian, but there is no consensus on their longevity.Most of the sedimentary bodies might have formed at very short timescales (e.g., Kleinhans et al., 2010)\nand may not require an exceptionally warm and wet climate. Unambiguous evidence for liquid water comes from the orbital discovery of widespread phyllosilicates (Mustard et al., 2008; Poulet et al., 2005) in ancient cratered terrain, products of the aqueous alteration of basaltic parent materials under neutral pH conditions.\nThe transition from the Noachian to the Hesperian is marked by a sharp decline in erosion rates (Craddock andMaxwell, 1993; Golombek et al., 2006). Fluvial processes were still active (Mangold et al., 2004), but the number of newly formed valley networks decreases and their morphology suggests that sapping became the predominant agent of erosion (Harrison and Grimm, 2005). The transition to a groundwaterdominated hydrology is also indicated by the characteristics of stratified sediments in Meridiani Planum, which is best explained by episodic wetting through upwelling surface water (Grotzinger et al., 2005) controlled by a fluctuating water table (Andrews-Hanna et al., 2010). While some lakes and associateddeltaic deposits are dated asHesperian (Di Achille et al., 2007;Malin and Edgett, 2003), local factorsmight have contributed to their formation and it is questionable if their existence reflects climatic conditions that were significantly different from today.\nOther geological observations are also consistent with a thin Hesperian atmosphere, and olivine outcrops, which would weather rapidly in the presence of water (Hoefen et al., 2003) lend additional support for a generally dry Hesperian climate. A perhaps even more important mineralogical indication of a changing environment is the distribution of hydrated minerals, with more abundant outcrops found in Noachian terrains and less evidence for hydration observed in younger regions (e.g., Bibring et al., 2006; Murchie et al., 2009). While some of the observed phyllosilicates and carbonates in Noachian terrains might have formed in aqueous environments with neutral or alkaline pH (e.g., Murchie et al., 2009), sulfate-bearing Hesperian units might have experiencedmuchdrier and acidic conditions (e.g., Altheide et al., 2009; Berger et al., 2009). The abrupt beginnings of Hesperianaged outflow channels clearly indicate that they were not fed by precipitation, but by some mechanism that released water from the subsurface, perhaps by melting or cracking the thickening cryosphere (Clifford, 1993). Although the amount of surface water implied by the huge channel dimensions is large, such processes do not require a thick atmosphere.\nThe Amazonian is characterized by very cold and hyperarid conditions and evidence for liquid water is even sparser than in the Hesperian. Late Hesperian to Early Amazonian mid-latitude valleys (Dickson et al., 2009) were probably formed by meltwater from snow and/or ice deposits, and fluvial and debris flow processes carved gullies (Malin and Edgett, 2000), which are very young (∼105 to 106 years; Reiss et al., 2004). Their origin involved liquid water and might be related to recent changes in the orbital configuration of the planet.\nIn summary, the geological record displays a gradual decrease in the amount of liquidwater at or near the surface and the poor development of fluvial features indicates that most of the Noachian probably never experienced awarmandwet climate similar to that of the current Earth. Towards the Hesperian, the global hydrology became groundwaterdominated (Andrews-Hanna and Lewis, 2011), surface water became episodic and short-lived, the groundwater table sank with time (Reiss et al., 2006), andMars turned into the cold desert planet that it is today. Major uncertainties exist with respect to the total amount of water present at the surface during the different epochs, and the related evolution of atmospheric density. Nevertheless, it appears likely that water in the Hesperian and Amazonian was transient and related to local and regional factors, and consequently no dense atmosphere would be required."
+  }, {
+    "heading": "1.3. Volcanic outgassing",
+    "text": "Together with impact delivery (Pham et al., 2009) and the reactivation of subsurface reservoirs, volcanic outgassing is one of the main sources of volatiles for the martian atmosphere (Jakosky and\nPhillips, 2001; Phillips et al., 2001), and several attempts have been made to quantify the timing and amount of gasses released through volcanism. To determine the rate of magma production, most models rely on estimates based on the surface geological record (Craddock and Greeley, 2009;Hirschmann andWithers, 2008; Phillips et al., 2001), and an equivalent amount of a 5 km thick global crustal layer is assumed to have been produced since 3.8 Gyr by extrusive and intrusive volcanism (Greeley and Schneid, 1991). The timing of crustal production is also usually deduced from the surface record, but somemodels scalemagma production rates with planetary heat flow (Manning et al., 2006), assuming that some fraction of the heat is transported to the surface by volcanic heat piping.\nTo arrive at expressions for atmospheric densities, most outgassing models assume afixedmagmavolatile content,which is thenmultiplied by the crust production rate to estimate the release rate of volcanic gasses as a function of time. In analogy with the Earth, volatile contents of the order of 0.65 wt.% are usually assumed (Craddock and Greeley, 2009; O'Neill et al., 2007; Phillips et al., 2001), consistent with CO2 abundances in Hawaiian basalts. In this manner, large atmospheric pressures of the order of 1.5 bar are obtained for the outgassing associatedwith the formation of Tharsis alone (Phillips et al., 2001), and it has been argued that volcanic outgassing could have significantly influenced the late Noachian to early Hesperian climate.\nUsing a chemical model for the solubility of CO2 in martian basalt under graphite saturated conditions, Hirschmann and Withers (2008) and Stanley et al., submitted for publication have reinvestigated the CO2 content of martian magmas and found that—apart from the pressure and temperature conditions in the magma source region—CO2 content primarily depends on oxygen fugacity. For a plausible range of P–Tconditions, Hirschmann andWithers (2008) estimated that CO2 content in martian magmas is only 0.01–0.1 wt.% CO2, such that magmatic CO2 content has probably been overestimated in previous models. This significantly reduces the amount of CO2 released to the atmosphere and Hirschmann andWithers (2008) estimate that only 0.1 to at most 1 bar of CO2 were outgassed after 3.8 Gyr.\nHere we combine a parameterized thermo-chemical evolution model (Morschhauser et al., 2011) with a model for the solubility of CO2 in basaltic melt (Hirschmann and Withers, 2008) to selfconsistently calculate the dissolved amount of CO2 and H2O in martian magmas. Magma water content is calculated using a fractional melting model, while simultaneously considering the maximum water solubility. Outgassing of CO2 and H2O is then tracked as a function of time and in thisway the timingandamountofoutgassing canbecalculated taking the pressure and temperature conditions in the magma source region self-consistently into account. Finally, we will present a parameterization for volcanic outgassing which accounts for outgassing efficiency, oxygen fugacity, as well as the initial mantle water content."
+  }, {
+    "heading": "2. Modeling",
+    "text": "To calculate the amount of outgassed CO2 and H2O, the thermochemical evolution of Mars is modeled using one dimensional, parameterized convection models. Being in the stagnant lid mode of mantle convection, temperatures in the martian interior are determined by the energy balance in the core, mantle, and stagnant lid, and heat flows at the core–mantle boundary and the lithospheric base are calculated using scaling laws for stagnant lid convection (Grasset and Parmentier, 1998). Starting from an initial temperature profile corresponding to the time after core formation, temperatures are calculated using the model by (Morschhauser et al., 2011)."
+  }, {
+    "heading": "2.1. Magmatic evolution",
+    "text": "Partial mantle melting and crustal production are calculated selfconsistently by comparing the mantle temperature profile to the solidus temperature of mantle rocks and we follow an approach\nsimilar to that of Breuer and Spohn (2006), but take the solidus increase upon depletion of crustal components into account. As in the model by Morschhauser et al. (2011), extraction of heat producing elements from the mantle and accumulation of these elements in the crust is calculated self-consistently. Dehydration stiffening of the mantle viscosity is taken into account using the formulation by Fraeman and Korenaga (2010), and volcanic heat-piping is accounted for when calculating lithospheric growth and solving the energy balance equation at the lithospheric base.\nThe solidus of the martian mantle is parameterized using the phase relations for terrestrial peridotite byTakahashi (1990),which is similar to other parameterizations of the peridotite solidus (see, e.g.,Morschhauser et al., 2011) and covers the entire pressure range between 0 and 10 GPa. Although the martian mantle is probably much more iron rich than that of the Earth, melting experiments suggest that Mg# has only a minor influence on the peridotite solidus (Hirschmann, 2000), such that adopting the terrestrial parameterization seems justified.\nGiven the local temperature T, the local melt fraction F is calculated assuming a linear increase of melt fraction with temperature and the melt fraction is given by\nF = T−Tsol Tliq−Tsol\nð1Þ\nwhere Tsol and Tliq are the peridotite solidus and liquidus, respectively. The total amount ofmelt in the system is given by integrating F over the meltzone and the volumetrically averaged degree of melting is then given by\nma = 1 Va ∫Va FdV ð2Þ\nwhere Va is the volume of the meltzone, i.e., that portion of the mantle where TNTsol. Due to the higher compressibility of basaltic melt with respect to mantle rock, melt loses its buoyancy at pressures around 6 GPa (Suzuki et al., 1998) and we will only consider meltzones shallower than this depth in the following.\nOnce the available amount ofmelt has been calculated, the change of crustal thickness Dcr can be calculated if a uniform distribution of extracted melt onto the planetary surface is assumed. Assuming furthermore that the timescale for melt production is governed by the rate at which undepleted material can be supplied to the partial meltzone, the rate of crustal growth can be calculated from\ndDcr dt = fpmau Va 4πR3p ð3Þ\nwhere Rp is the planetary radius and fp is a constant describing the surface fraction covered by hot upwellings in which melting is taking place. The convective velocity u is given by\nu = u0 Ra\nRacrit\n2β ð4Þ\nwhere Ra and Racrit are the Rayleigh and critical Rayleigh number, respectively. u0 is the mantle convective speed scale, and β=1/3.\nIf mantle dynamics is dominated by large, spread-out upwellings, melting will occur over a large fraction of individual convection cells and fp will be close to unity. If, however, mantle dynamics is dominated by localized mantle plumes, melting will be restricted to relatively small areas (e.g., Li and Kiefer, 2007) and fp will be much smaller than one. Here we will consider two end-member cases corresponding to melting in a global melt channel with fp=1, and melting restricted to mantle plumes with fp=0.01. If the case of a global melt channel is considered, the local temperature T is given by the lithospheric and mantle temperature profiles, depending on depth. If, however, melting in plume heads is considered, the local\ntemperature will be elevated by the plume excess temperature and the plume temperature\nTplume = T + ΔTcm ð5Þ\nneeds to be substituted for T in Eq. (1), where ΔTcm is the temperature difference across the lower thermal boundary layer."
+  }, {
+    "heading": "2.2. Outgassing of H2O",
+    "text": "Once the amount of extracted melt has been calculated, the amount of water extracted from the mantle can be determined if the water concentration in themelt is known. Being an incompatible species, H2O will preferably partition in the liquid phase upon partialmelting andwe use a fractional melting model to calculate the concentration of H2O in the melt. Thus we assume that melt extraction is a non-equilibrium process, but it should be noted that adopting a batch melting model insteadhas only aminor influence on the obtained results. For fractional melting, the H2O concentration in the melt is then given by\nXfracH2O = XmH2O F\n1− 1−Fð Þ1=DH2O h i\nð6Þ\nwhere DH2O=0.01 is the partitioning coefficient for water (Katz et al., 2003). For the fractionalmeltingmodel, the amountofH2O in the liquid is therefore proportional to the bulk abundance XH2O\nm of H2O in the mantle. Typical concentrations of H2O in the liquid are shown as a function of the melt fraction for three different bulk mantle water contents in Fig. 1a At small melt fractions, melt concentrations can reach 0.1 wt.% even for XH2O m =10 ppm and XH2O frac is increased by one and two orders of magnitude for XH2O m =100 and 1000 ppm, respectively. At larger melt fractions around 50%, XH2O frac is reduced to 0.002 wt.% for XH2O\nm =10 ppm, but is again proportional to XH2O\nm . The maximum concentration of water in the melt is limited by the\nwater solubility, which is pressure dependent and given by\nXsatH2O = χ1P ξ + χ2P ð7Þ\nwhere χ1, χ2 and ξ are experimentally determined constants and χ1=12 wt.% GPa−ξ, χ2=1 wt.% GPa−1 and ξ=0.6 (Katz et al., 2003). The saturation concentration of water in themelt is shown as a function of pressure in Fig. 1b and large amounts of water are soluble even at moderate pressures. In the models considered here, melting occurs at depths larger than 100 km, corresponding to pressures around 1 GPa, and for this pressure range XH2O\nsat already exceeds 10 wt.%. The concentration of water in the melt is given by the smaller of\nthe two concentrations XH2O frac and XH2O sat and\nXmeltH2O = min X frac H2O ;XsatH2O n o\nð8Þ\nAs shown in Fig. 1, the saturation concentration of water in the melt XH2O sat is usually much larger than XH2O\nfrac, such that magma water content will in most cases be determined by XH2O\nfrac. To calculate the bulk outgassing of water from the mantle, the average concentration of water in the melt X melt H2O is calculated from the depth dependent concentration XH2O melt according to\nXmeltH2O = 1\nmaVa ∫Va FX melt H2OdV ð9Þ\nwhere the integral is taken over the entire meltzone. The mass of outgassed water is now proportional to the crust formation rate and can be calculated from\ndMgasH2O dt = 4πR2pρcrX melt H2O dDcr dt\nð10Þ\nUpon outgassing, water is removed from the mantle and the mantle bulk water concentration needs to be reduced for every timestep during the evolution. Given the mass of outgassed water calculated from Eq. (10) and the initial bulk water concentration XH2O\nm, 0, the bulk water concentration is given by\nXmH2O = Xm;0H2OM0−M gas H2O\nMm ð11Þ\nwhere M0 is the initial silicate mass of the planet and Mm the present mass of the mantle.\nOnly part of the water removed from the mantle will be delivered to the planetary surface via extrusive volcanism, while a larger part will be deposited in the crust. Of the intruded water, some will eventually be transported to the surface and the equivalent global layer thickness (EGL) corresponding to the outgassed mass of water must be reduced by a factor quantifying the outgassing efficiency ηH2O. EGL is then given by\nEGL = ηH2OM\ngas H2O\n4πR2pρH2O ð12Þ\nwhere ρH2O the density of water. Porosity in the Martian crust has been estimated by Hanna and Phillips (2005), who assumed that pores will close due to plastic deformation at depth. They found that significant porosities can exist\nto depths of 17–26 km for a wet diabase crustal rheology. Here we assume that for a crustal thickness of ∼50 km, water intruded to depth above 20 km will eventually reach the surface and we use ηH2O=0.4 in the following, i.e., only 40% of the H2O removed from the mantle is released to the surface."
+  }, {
+    "heading": "2.3. Outgassing of CO2",
+    "text": "The redox state of the martian mantle can be constrained from geochemical analysis of the SNCmeteorites (Herd et al., 2002; Shearer et al., 2006) and results indicate that oxygen fugacities for martian basalts span about four orders of magnitude, ranging from the iron–wustite (IW) to the quartz–fayalite–magnetite (QFM) buffers. Of these meteorites, the shergottites are the petrologically most primitive and are likely to reflect the redox state of themantle. Shergottites are on the reduced end of the above range and typically have oxygen fugacities around IW or one log10 unit above (IW+1) (Herd, 2003; Herd et al., 2002; Karner et al., 2007; Shearer et al., 2006). Furthermore, trace elementanalysis of theoldestmartianmeteorite ALH84001,whichhas a crystallization age of 4.1 Gyr (Lapen et al., 2010), indicates even more reducing conditions around IW-1 (Warren and Kallmeyen, 1996). This implies that the early martian mantle could have been more reducing than the source regions sampled by the younger martian meteorites, and an oxidation state between one log10 unit above and below the IW buffer is usually assumed for the martian mantle.\nAt these relatively reducing conditions andpressures encountered in the source regions ofmartian basalts, carbonwill be stable in the formof graphite. During partialmelting of themantle, some of this graphitewill dissolve in the form of carbonate ions and the dissolved carbonate can subsequently be outgassed in the form of CO2 at shallow depths. To calculate the amount of CO2 dissolved in the melt, we follow the approach developed by (Holloway et al., 1992) and (Holloway, 1998), who consider the solubility of CO2 in graphite-saturated magmas.\nThe abundance of carbonate in the melt is determined from a reaction of CO2 in the vapor phasewith oxygen, and is directly related to the fugacity of CO2. In turn, CO2 is produced fromgraphite andmolecular oxygen, and the CO2 abundance therefore depends on oxygen fugacity. In graphite-saturated systems, the concentration of carbonate in the melt XCO32− melt may therefore be expressed as\nXmeltCO2−3 = KIIKIfO2\n1 + KIIKIfO2 ð13Þ\nwhere KI is the equilibrium constant governing the reaction of forming CO2 from graphite, KII is the equilibrium constant for the reaction of forming CO32− from CO2, and fO2 is the oxygen fugacity (Hirschmann and Withers, 2008).\nThe equilibrium constants KI and KII are pressure and temperature dependent and KI has been determined for mid ocean ridge basalt (MORB) and Hawaiian basalts. KII was experimentally determined for MORB and a prescription for calculating KI and KII may be found in (Holloway et al., 1992). Although it would be preferable to use calibrations of KI and KII for martian basalts, this data is currently missing. Following Hirschmann andWithers (2008), wewill therefore assume that the pressure and temperature dependence of KI and KII are applicable when considering the carbonate concentration in graphite-saturated melts on Mars.\nThe concentration of CO2 in the melt can be calculated from the abundance of carbonate XCO32−\nmelt if the molar mass of the melt is known. Assuming the molar mass of Kilauea tholeiitic basalt, the CO2 concentration is given by\nXmeltCO2 = 1:202656XmeltCO2−3\n1 + 0:202656XmeltCO2−3 ð14Þ\nwhere the sign in the denominator has been corrected with respect to the formulation given in the appendix of Holloway et al. (1992).\nEqs. (13) and (14) imply an increasing solubility of CO2 for increasing oxygen fugacity and temperature, but exhibit a reciprocal behaviorwith respect to pressure (Hirschmann andWithers, 2008). The concentration of CO2 in themeltXCO2\nmelt is shown in Fig. 2 as a function ofmelt fraction for three different pressures corresponding to the range encountered in the source regions of martian basalts. An oxygen fugacity corresponding to IW has been assumed and solubility increases with increasing melt fraction, i.e., temperature. Formelt fractions smaller than20%,which are most commonly encountered in our models, CO2 solubility is of the order of 100 ppm, but would be increased by one order of magnitude if an oxygen fugacity of IW+1 had been assumed.\nIn order to calculate the amount of CO2 released to the atmosphere, the depth dependent concentration of CO2 given in Eq. (14) is averaged over the meltzone and\nXmeltCO2 = 1\nmaVa ∫Va FX melt CO2 dV ð15Þ\nThe mass of CO2 removed from the mantle is then proportional to the crust formation rate and can be calculated from\ndMgasCO2 dt = 4πR2pρcrX melt CO2 dDcr dt\nð16Þ\nIn order to outgas efficiently, CO2 bubbles need to nucleate in the magma and this process can commence as soon as CO2 becomes supersaturated in themelt. In rapidly ascendingmagma, graphitewill become undersaturated and CO2 solubility will no longer be determined by the redox state, but be governed by an equilibriumwith CO2 vapor instead. In this regime, CO2 solubility decreases with decreasing pressure (Hirschmann and Withers, 2008; Pan et al., 1991) and experimental data on tholeiitic basalts indicates that CO2 solubility becomes largely independent of temperature (Panet al., 1991). CO2 solubility is expected to be in the 10 ppm range at ambient pressures (Pan et al., 1991) and most CO2 is expected to outgas if themagma is erupted onto the surface.\nIf the undersaturatedmagma crystallizes in the form of plutons, CO2 will be enriched in the remaining liquid and eventually outgas. Herewe will assume that CO2 will reach the surface and contribute to the pressure of themartian atmosphere if somecrustal porosity is present at the depth of the intrusion, although in reality some of the CO2may react with the host rocks to formmetamorphicmineral phases. This approach is intermediate between those of Hirschmann and Withers (2008) and O'Neill et al. (2007), who assume that all and none of the intrusively\ncooling magma adds to atmospheric outgassing, respectively. The CO2 partial pressure can then to first order be calculated according to\nPCO2 = ηCO2gM\ngas CO2\n4πR2p ð17Þ\nwhere ηCO2 is a factor quantifying the outgassing efficiency of CO2. In analogy to the argument for the outgassing efficiency for water, we will assume ηCO2=0.4 in the following."
+  }, {
+    "heading": "2.4. Parameters",
+    "text": "Parameters for the applied thermal evolution models are chosen in accordance with the successful models of (Morschhauser et al., 2011) and satisfy the following observational constraints: 1) Models do not show episodes of crustal recycling, as this would be incompatible with an early separation of geochemical reservoirs. 2)Models are compatible with the inferred crust formation history, and most of the crust is produced within the first 500 Myr of the planetary evolution. 3) The formation of partial melt should be possible under present-day mantle conditions, as documented by recent volcanic activity predominantly in the Tharsis province.\nAs determined by (Morschhauser et al., 2011), initial upper mantle temperatures should be relatively cool and we choose Tm=1620 and 1650 K for fp=1 and 0.01, respectively. Furthermore, the core is chosen to be super-heated by 300 K with respect to the mantle. This choice is motivated by the fact that a super-heated core is—apart from an early episode of plate tectonics (Breuer and Spohn, 2003)—one viable mechanism to drive a thermal dynamo early in martian history. In the presented models, a thermal dynamo could potentially operate for 650 Myr, while choosing a temperature excess of only 150 K would reduce the lifetime of the dynamo to 425 Myr.\nThe adopted reference viscosity of 1019 Pa s corresponds to a wet olivine mantle rheology (Karato and Wu, 1993), which is best compatible with the low elastic thicknesses determined for Noachian terrains (Grott and Breuer, 2008, 2010). Extraction of heat producing elements is calculated self-consistently, andwe use a single partitioning coefficient for K, Th, and U of Di=0.002 (see Fraeman and Korenaga, 2010 and references therein). For the bulk abundance of heat producing elements, we use the compositional model by Wänke and Dreibus (1994), which closely matches the observed K/Th ratio on the martian surface (Taylor et al., 2006). Outgassing from the formation of the primordial crust is not considered and we start our models with an initial crustal thickness of Dcr, 0=30 km, as indicated by geochemical analysis of martian meteorites (Norman, 1999).\nIt is usually assumed that only moderate amounts of water are present in the martian mantle and the compositional model by Wänke and Dreibus (1994) estimates the bulk water content to be 36 ppm. However, geochemical analysis of the martian meteorites suggests that the water content of the parent magmas might have been as high as 1.8 wt.% (McSween et al., 2001). Depending on the melt fraction, this could imply significantly higher mantle water contents. Trace element concentrations indicate that the melt fraction in the basalt source regions was between 2 and 10% in the shergottites (Borg and Draper, 2003; Norman, 1999), such that locally mantle water contents of 500 to 2000 ppm H2O seem possible. Furthermore support for a larger mantle bulk water content is provided by an analysis of hydrous amphibole in the Chassignymeteorite, which suggests bulk mantle water contents of 140–250 ppm (McCubbin et al., 2010). As no consensus on the mantle water concentration has been reached so far, we will assume a mantle water content of 100 ppm in the following. Note, however, that as long as the water saturation concentration is not exceeded in Eq. (8), mantle water content is a linear factor in Eq. (12). Therefore, the influence of different initial bulk mantle water contents is easily calculated. Other parameters used in the modeling are summarized in Table 1."
+  }, {
+    "heading": "3. Results",
+    "text": "The two end-member cases of crustal production considered in this study represent melting in a global melt channel as well as melting restricted to a small fraction of the planetary surface corresponding to hot mantle upwellings. Initial upper mantle temperatures for these two cases have been chosen such that both models result in identical present-day crustal thicknesses, facilitating a comparison between the outgassing histories associated with these models. Both models have present-day crustal thicknesses of 54 km.\nFig. 3 shows the thickness of the crust (dashed line), the stagnant lid thickness (solid line) aswell as the extent of themeltzone for the case of a global melt channel (Fig. 3a) and melting in mantle plumes (Fig. 3b). Furthermore, the local degree of melting is indicated by shades. Both models have an initial crustal thickness of 30 km, representing crust formed during the earliest evolution, possibly from a magma ocean.\nIf melting takes place in a global layer, crustal thickness rapidly increases during thefirst 500 Myrof the evolution and90%of the crust is formed in this time period. Melting continues for another 500 Myr in this model, until major magmatic activity ceases around 1 Gyr. In this model, present-day melt production would be restricted to upwelling mantle plumes, preferably in a region underlying thickened crust like Tharsis or Elysium(Morschhauser et al., 2011).Maximummelt fractions in thismodel are around10%during thefirst few tens ofMyr, but quickly drop to 5% for the major part of the magmatically active phase. During the final phases of magmatic activity, melt fractions drop below 3%.\nIf melting in hot mantle plumes is considered the total amount of extractedmelt is considerably reduced for agiven time interval, as only a fraction fp of the melt that would be present in a global melt channel is available. The phase of crustal production extends to much larger times and low intensity magmatic activity is present up to 2.5 Gyr. A slightly smaller amount of melt is extracted before 500 Myr than in the global melt layer model, but both models result in the same present-day crustal thickness.Maximummelt fractions in the plumemodel are up to 40% during the early evolution while the core is still super-heated with respect to the mantle and the temperature difference across the lower thermal boundary layer is still large. Melt fractions then drop to 20% around 500 Myr, but are above 10% even at 1.5 Gyr until they drop below 5% at 2 Gyr.\nFor fixed crustal volumes, extraction of incompatible elements from the mantle is less efficient for larger melt fractions. Therefore, only 25% of heat producing elements (HPE) are extracted in the plume melting model. This corresponds to an enrichment comparable to mid ocean ridge basalts on the Earth, while in the global melt layer model 50% of the HPE are extracted. The longevity of major volcanic activity\nin the plume melting model is a direct consequence of this inefficient removal of HPE from the mantle, but present-day melting is not precluded in both models. Magmatic activity would be restricted to regions of a thickened, thermally isolating crust (Schumacher and Breuer, 2006), and mantle plumes could penetrate into the stagnant lid (Kiefer and Li, 2009), thereby facilitating pressure-release melting. However, melt volumes associated with this late stage volcanism are expected to be small.\nThe amountof outgassedwater andCO2 for thesemodels is shown in Fig. 4, where the equivalent global layer thickness EGL and the outgassed CO2 pressure are shown as a function of time in panels a) and b), respectively. The EGL thickness corresponds to the total amount of water transported to the planetary surface and is a function of the magma water content. Therefore, the EGL thickness is larger if temperatures in the magma source regions are moderate, as small melt fractions will lead to a more efficient enrichment of water in the melt. The global melt layermodel results in an EGL of 61 m, 17 of which are outgassed after 500 Myr. The plume model outgasses only 17.5 m, 11 of which are outgassed after 500 Myr.\nTo calculate the amount of outgassed CO2, an oxygen fugacity corresponding to one log10 unit above the IW buffer has been assumed, but results are easily convertible to other oxidation states by noting that the CO2 pressure increases by one order of magnitude per increase of fugacity by one log10 unit. At IW+1, average concentration of CO2 in the melt are 1000 and 900 ppm for fp=1 and 0.01, respectively. Present-day CO2 pressures are similar for both models and reach 1 and 0.9 bar for fp=1 and 0.01, respectively. However,\ntiming of the outgassing is different and 85% of the outgassing occurs in the first 500 Myr for fp=1, whereas only 40% are outgassed for fp=0.01 in this time period. This difference in timing is of particular importance as atmospheric loss was probably strongest during the early phases of the planet's evolution when the EUV flux from the young sun was largest (Tian et al., 2009).\nWhile most of the outgassing occurs in the first few hundred Myr, appreciable outgassing persists into the Noachian period and the integrated fluxes during the pre-Noachian (4.5–4.1 Gyr), Noachian (4.1–3.7 Gyr), Hesperian (3.7–2 Gyr), and Amazonian (2–0 Gyr) periods are given in Table 2. In the global melt layer and plume melting model 15.1 and 4.1 m of water are outgassed during the Noachian and CO2 pressures are increased by 246 and 240 mbar in this time-period. Although insufficient to generate greenhouse warming above the freezing point (Forget and Pierrehumbert, 1997), these pressures are sufficient to stabilize transient liquid water on the martian surface, which requires pressure in the range of 50 to 100 mbar (Richardson and Mischna, 2005). Alternatively, these pressures would suffice to stabilize brines (Fairén et al., 2009), which require pressures above the triple point only. Outgassing declines fast during the Hesperian in the global melt channel model, but is still significant in the plume melting model, where 364 mbar CO2 are outgassed. Outgassing in the Amazonian is found to be negligible.\nThe amount of outgassedwatermay be parameterized as a function of time using the expression\nEGL tð Þ = Xm;0H2OηH2OA tanh t a\nα 1β ð18Þ\nwhere ηH2O is the outgassing efficiency of water, t is time inMyr, and A, a, α, and β are fitting parameters. This functional dependence reflects the outgassing behavior reasonably well and fitting residuals are below 3% for tN150 Myr. Similarly, the amount of outgassed CO2 may be parameterized by\nPCO2 tð Þ = 10 IWηCO2A tanh t a\nα 1β ð19Þ\nwhere ηCO2 is the CO2 outgassing efficiency, and IW gives the number of log10 units above or below the IW buffer. Fitting parameters to be used in Eqs. (18) and (19) are summarized in Table 3."
+  }, {
+    "heading": "4. Discussion and conclusions",
+    "text": "Using a thermo-chemical evolution model which reproduces the inferredmartian crust formationhistory,wehave calculated theamount of CO2 and H2O released to the martian atmosphere by volcanic outgassing. The amount of volatiles in the melt is limited by their respective solubilities and we treat water as an incompatible element using a fractional melting model when calculating water melt concentrations. Pressure and temperature in the magma source region affect the solubility of CO2 in themelt (Hirschmann andWithers, 2008) and our model allows for the calculation of outgassing rates in a selfconsistent manner. Outgassing rates are found to depend primarily on the outgassing efficiency, the bulk mantle water content, the mantle oxygen fugacity, and the local melt fraction.\nWe consider two end-member melting models which account for melting in a global melt layer as well as melting restricted to uprising mantle plumes. Although the use of any one of these models is probably unrealistic if applied in a strict sense, mantle conditions will likely be intermediate between these two end-member cases. In the global melt layermodel, large-scale crustal production ceases in the earlyHesperian, butmelting can be extended into the late Hesperian period in the plume melting model. This is primarily due to the inefficient extraction of heat producing elements in the plumemodel, which results in higher mantle temperatures. Note that both models allow for the formation of partial melt under present-day mantle conditions (Morschhauser et al., 2011),\nprovided that melting takes place in a region of locally thickened crust (Schumacher and Breuer, 2006) or inside the heads of uprising mantle plumes impinging on the lithospheric base (Kiefer and Li, 2009). However, melt volumes are expected to be minor during these late phases of volcanic activity.\nMelt fractions in the martian mantle have been estimated from surface elemental abundances of Si, Fe, and Th, and results indicate that melt fractions associated with old volcanic provinces were larger than 10%,while late stage volcanism in Tharsis andElysium is associatedwith melt fractions below 10% (Baratoux et al., 2011). Therefore, although melt fractions up to 40% as estimated for the plume model are unrealistically large, a thermal state intermediate between global and plume melting model would be consistent with melt fractions N10% during the early evolution. Cooling of the planet would then slowly reduce melt fractions, until values b10% are achieved during the Amazonian period. Furthermore, cooling might be connected to a transition from a phase of globally distributed magmatism towards more localized activity, which could be associated with low-degree mantle convection (e.g., Roberts and Zhong, 2006).\nAt oxygen fugacities corresponding to one log10 unit above the iron– wustite buffer, average CO2 concentrations in the melt are around 0.1 wt.%, consistent with the values estimated by Hirschmann and Withers (2008), but considerably lower than concentrations in Hawaiian basalts, which have been widely used as a proxy for martian basalts (Craddock and Greeley, 2009;Manning et al., 2006; O'Neill et al., 2007; Phillips et al., 2001). Given that atmospheric pressure in the Hesperian and Amazonian is sensitive to the CO2 abundance in themelt (Manning et al., 2006), this difference is of particular importance. Assuming an initial bulk mantle water content of 100 ppm, water melt concentrations are 800 and 2500 ppm for the plume and global melt layer model, respectively.\nAssuming relatively oxidizing mantle conditions and that the early martian atmosphere was lost by thermal escape (Tian et al., 2009), upper limits on the CO2 pressure during the Noachian period are ∼250 mbar, insufficient for appreciable greenhouse warming, which would require at least one bar of CO2 (Forget and Pierrehumbert, 1997; Kasting, 1991). This indicates that rather than being warm-and-wet (Jakosky and Phillips, 2001), martian surface temperatures were probably below freezing for the better part of the Noachian and the martian climate would be more appropriately described as being coldand-wet (Fairén, 2010; Gaidos and Marion, 2003).\nFurther support for the cold-and-wet hypothesis is provided by the analysis of 40Ar in ALH84001, which suggests that martian surface temperatures cannot have exceeded 273 K for substantial periods of time (Weiss et al., 2002). This does not preclude the possibility of temporarily elevated temperatures and short-lived sulfur volatiles could add to greenhouse warming by some 25 K during phases of major volcanic activity (Johnson et al., 2008). Togetherwithpressures in the 100 mbar range, this temperature increase would be sufficient to stabilize transient liquid water on the martian surface, as seems to be required by geological and mineralogical evidence. However, even without additional greenhouse warming, brines would still be liquid under inferred Noachian/Hesperian atmospheric conditions (Fairén et al., 2009; Möhlmann and Thomsen, 2011).\nThe small amount of volcanic outgassing derived here is also compatiblewith the lowpresent-day surface pressure of only 8 mbar, as atmospheric loss of CO2 appears to be relatively inefficient (Lammer et al., 2008) and only ∼150 mbar were lost to space by non-thermal escape since 3.8 Gyr (Johnson et al., 2000; Luhmann et al., 1992). Low escape rates also argue against significant impact delivery of volatiles, although theoretically this process can be quite efficient (Pham et al., 2009).\nIn contrast to the amount of outgassed CO2, which primarily depends on oxygen fugacity, the amount of outgassed water is sensitive to the assumedmeltingmodel and a total of 17.5 and 61 m of water (equivalent global layer, EGL) are delivered to the surface in the\nplume and global melt layer model, respectively, if an initial bulk water content of 100 ppm is assumed. This difference is caused by the sensitivity of magma water content on melt fraction, which differs significantly for these two models. In total, volcanic outgassing is found to remove 10% to 50% of water from the mantle for the plume and global melt layer model, respectively.\nGeological evidence suggests that water volumes required for the formation of martian outflow channels are ∼500 m EGL (Carr, 1996) at the time of peak outflow activity (∼3 Ga). The volume of a putative ocean in the northern lowlands, which is poorly constrained with respect to its timing, is estimated to amount to 100–550 m EGL (Di Achille and Hynek, 2010; Head et al., 1999). These volumes are significantly larger than the amount of water outgassed from the interior if a bulk mantle water content of 100 ppm is assumed. In order to outgas enough water to account for a 500 m EGL, bulk mantle water content would need to be of the order of 0.1 wt.%, 25 times larger than predicted by models of the martian bulk composition (Wänke and Dreibus, 1994). It therefore seems unlikely that outgassing of H2O significantly contributed to the martian hydrological cycle.\nOne possible source for the missing water could be ice stored in the subsurface, which could have been activated by impacts (Segura et al., 2002) or intrusivemagmatic activity (see, e.g., Rodriguez et al., 2005 and references therein).Water releasedduring large impacts couldhavealso liberated enoughwater to create transientwet andwarm conditions on the surface (Segura et al., 2002; Toon et al., 2010), but the size of the subsurface water reservoir remains poorly constrained (Clifford et al., 2010)."
+  }, {
+    "heading": "Acknowledgments",
+    "text": "This research has been supported by the Helmholtz Association through the research alliance “Planetary Evolution and Life”."
+  }],
+  "year": 2011,
+  "references": [{
+    "title": "Experimental investigation of the stability and evaporation of sulfate and chloride brines on Mars",
+    "authors": ["T. Altheide", "V. Chevrier", "C. Nicholson", "J. Denson"],
+    "venue": "Earth Planet. Sci",
+    "year": 2009
+  }, {
+    "title": "Early Mars hydrology: 2. Hydrological evolution in the Noachian and Hesperian epochs",
+    "authors": ["J.C. Andrews-Hanna", "K.W. Lewis"],
+    "venue": "J. Geophys. Res",
+    "year": 2011
+  }, {
+    "title": "Early Mars hydrology: Meridiani playa deposits and the sedimentary record of Arabia Terra",
+    "authors": ["J.C. Andrews-Hanna", "M.T. Zuber", "R.E. Arvidson", "S.M. Wiseman"],
+    "venue": "J. Geophys. Res",
+    "year": 2010
+  }, {
+    "title": "Thermal history of Mars inferred from orbital geochemistry of volcanic provinces",
+    "authors": ["D. Baratoux", "M.J. Toplis", "M. Monnereau", "O. Gasnault"],
+    "venue": "Nature",
+    "year": 2011
+  }, {
+    "title": "Long-term precipitation and late-stage valley network formation: landform simulations of Parana Basin, Mars",
+    "authors": ["C.J. Barnhart", "A.D. Howard", "J.M. Moore"],
+    "venue": "J. Geophys. Res",
+    "year": 2009
+  }, {
+    "title": "Evidence in favor of small amounts of ephemeral and transient water during alteration at Meridiani Planum, Mars",
+    "authors": ["G. Berger", "M.J. Toplis", "E. Treguier", "C. d'Uston", "P. Pinet"],
+    "venue": "Am. Mineral",
+    "year": 2009
+  }, {
+    "title": "Global mineralogical and aqueous Mars history derived from OMEGA/Mars Express data",
+    "authors": ["Bibring", "J.-P"],
+    "venue": "Science 312,",
+    "year": 2006
+  }, {
+    "title": "A petrogenetic model for the origin and compositional variation of the Martian basaltic meteorites",
+    "authors": ["L.E. Borg", "D.S. Draper"],
+    "venue": "Meteorit. Planet. Sci",
+    "year": 2003
+  }, {
+    "title": "Early plate tectonics versus single-plate tectonics on Mars: evidence frommagnetic field history and crust evolution",
+    "authors": ["D. Breuer", "T. Spohn"],
+    "venue": "J. Geophys. Res",
+    "year": 2003
+  }, {
+    "title": "Viscosity of the Martian mantle and its initial temperature: constraints from crust formation history and the evolution of the magnetic field",
+    "authors": ["D. Breuer", "T. Spohn"],
+    "venue": "Planet. Space Sci",
+    "year": 2006
+  }, {
+    "title": "Oceans on Mars: an assessment of the observational evidence and possible fate",
+    "authors": ["M.H. Carr", "J.W. Head"],
+    "venue": "J. Geophys. Res",
+    "year": 2003
+  }, {
+    "title": "A model for the hydrologic and climatic behavior of water on Mars",
+    "authors": ["S.M. Clifford"],
+    "venue": "J. Geophys. Res",
+    "year": 1993
+  }, {
+    "title": "The evolution of the martian hydrosphere: implications for the fate of a primordial ocean and the current state of the northern plains",
+    "authors": ["S.M. Clifford", "T.J. Parker"],
+    "venue": "Icarus 154,",
+    "year": 2001
+  }, {
+    "title": "Depth of the Martian cryosphere: revised estimates and implications for the existence and",
+    "authors": ["S.M. Clifford", "J. Lasue", "E. Heggy", "J. Boisson", "P. McGovern", "M.D. Max"],
+    "year": 2010
+  }, {
+    "title": "Minimum estimates of the amount and timing of gases released into the martian atmosphere from volcanic eruptions",
+    "authors": ["R.A. Craddock", "R. Greeley"],
+    "venue": "Icarus",
+    "year": 2009
+  }, {
+    "title": "The case for rainfall on a warm, wet early Mars",
+    "authors": ["R.A. Craddock", "A.D. Howard"],
+    "venue": "J. Geophys. Res",
+    "year": 2002
+  }, {
+    "title": "Geomorphic evolution of the Martian highlands through ancient fluvial processes",
+    "authors": ["R.A. Craddock", "T.A. Maxwell"],
+    "venue": "J. Geophys. Res",
+    "year": 1993
+  }, {
+    "title": "Ancient ocean on Mars supported by global distribution of deltas and valleys",
+    "authors": ["G. Di Achille", "B.M. Hynek"],
+    "venue": "Nat. Geosci. 3,",
+    "year": 2010
+  }, {
+    "title": "Evidence for late Hesperian lacustrine activity in Shalbatana Vallis",
+    "authors": ["G. Di Achille", "G.G. Ori", "D. Reiss"],
+    "venue": "J. Geophys. Res",
+    "year": 2007
+  }, {
+    "title": "Amazonian-aged fluvial valley systems in a climatic microenvironment on Mars: melting of ice deposits on the interior of Lyot Crater",
+    "authors": ["J.L. Dickson", "C.I. Fassett", "J.W. Head"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2009
+  }, {
+    "title": "Linked magma ocean solidification and atmospheric growth for Earth and Mars",
+    "authors": ["L.T. Elkins-Tanton"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2008
+  }, {
+    "title": "A cold and wet Mars",
+    "authors": ["A.G. Fairén"],
+    "venue": "Icarus",
+    "year": 2010
+  }, {
+    "title": "Stability against freezing of aqueous solutions on early Mars",
+    "authors": ["A.G. Fairén", "A.F. Davila", "L. Gago-Duport", "R. Amils", "C.P. McKay"],
+    "venue": "Nature",
+    "year": 2009
+  }, {
+    "title": "The timing of martian valley network activity: constraints from buffered crater counting",
+    "authors": ["C.I. Fassett", "J.W. Head"],
+    "venue": "Icarus 195,",
+    "year": 2008
+  }, {
+    "title": "Valley network-fed, open-basin lakes on Mars: distribution and implications for Noachian surface and subsurface hydrology",
+    "authors": ["C.I. Fassett", "J.W. Head"],
+    "venue": "Icarus 198,",
+    "year": 2008
+  }, {
+    "title": "Warming early Mars with carbon dioxide clouds that scatter infrared radiation",
+    "authors": ["F. Forget", "R.T. Pierrehumbert"],
+    "venue": "Science",
+    "year": 1997
+  }, {
+    "title": "The influence of mantle melting on the evolution of Mars",
+    "authors": ["A.A. Fraeman", "J. Korenaga"],
+    "venue": "Icarus 210,",
+    "year": 2010
+  }, {
+    "title": "Geological and geochemical legacy of a cold early Mars",
+    "authors": ["E. Gaidos", "G. Marion"],
+    "venue": "J. Geophys. Res",
+    "year": 2003
+  }, {
+    "title": "Groundwater sapping and valley formation on Mars",
+    "authors": ["J.M. Goldspiel", "S.W. Squyres"],
+    "venue": "Icarus 148,",
+    "year": 2000
+  }, {
+    "title": "Erosion rates at the Mars Exploration Rover landing sites and long-term climate change on Mars",
+    "authors": ["M.P. Golombek", "J.A. Grant", "L. Crumpler", "R. Greeley", "R. Arvidson", "J.F. Bell", "C.M. Weitz", "R. Sullivan", "P.R. Christensen", "L.A. Soderblom", "S.W. Squyres"],
+    "venue": "J. Geophys. Res",
+    "year": 2006
+  }, {
+    "title": "Thermal convection in a volumetrically heated, infinite Prandtl number fluid with strongly temperature-dependent viscosity: implications for planetary evolution",
+    "authors": ["O. Grasset", "E.M. Parmentier"],
+    "venue": "J. Geophys. Res",
+    "year": 1998
+  }, {
+    "title": "Magma generation on Mars: amounts, rates, and comparisons with Earth, Moon and Venus",
+    "authors": ["R. Greeley", "B.D. Schneid"],
+    "venue": "Science",
+    "year": 1991
+  }, {
+    "title": "A geochemical model for the formation of hydrothermal carbonates on Mars",
+    "authors": ["L.L. Griffith", "E.L. Shock"],
+    "venue": "Nature 377,",
+    "year": 1995
+  }, {
+    "title": "The evolution of the martian elastic lithosphere and implications for crustal andmantle rheology",
+    "authors": ["M. Grott", "D. Breuer"],
+    "venue": "Icarus",
+    "year": 2008
+  }, {
+    "title": "On the spatial variability of the Martian elastic lithosphere thickness: evidence for mantle plumes",
+    "authors": ["M. Grott", "D. Breuer"],
+    "venue": "J. Geophys. Res",
+    "year": 2010
+  }, {
+    "title": "Stratigraphy, sedimentology and depositional environment of the Burns Formation, Meridiani Planum, Mars",
+    "authors": ["J.P. Grotzinger", "R.E. Arvidson", "J.F. Bell", "W.M. Calvin", "B.C. Clark", "D.A. Fike", "M.P. Golombek", "R. Greeley", "A.F.C. Haldemann", "K.E. Herkenhoff", "B.L. Jolliff", "A.H. Knoll", "M. Malin", "S.M. McLennan", "T.J. Parker", "L.A. Soderblom", "J.N. Sohl-Dickstein", "S.W. Squyres", "N.J. Tosca", "T.R. Watters"],
+    "venue": "Earth Planet. Sci",
+    "year": 2005
+  }, {
+    "title": "Hydrological modeling of the Martian crust with application to the pressurization of aquifers",
+    "authors": ["J.C. Hanna", "R.J. Phillips"],
+    "venue": "J. Geophys. Res. 110,",
+    "year": 2005
+  }, {
+    "title": "Groundwater-controlled valley networks and the decline of surface runoff on early Mars",
+    "authors": ["K.P. Harrison", "R.E. Grimm"],
+    "venue": "J. Geophys. Res",
+    "year": 2005
+  }, {
+    "title": "Sedimentary deposits in Xanthe Terra: implications for the ancient climate on Mars",
+    "authors": ["E. Hauber", "K. Gwinner", "M. Kleinhans", "D. Reiss", "G. di Achille", "Ori", "G.-G", "F. Scholten", "L. Marinangeli", "R. Jaumann", "G. Neukum"],
+    "venue": "Planet. Space Sci",
+    "year": 2009
+  }, {
+    "title": "Possible ancient oceans on Mars: evidence from Mars Orbiter Laser Altimeter",
+    "authors": ["J.W. Head", "H. Hiesinger", "M.A. Ivanov", "M.A. Kreslavsky", "S. Pratt", "B.J. Thomson"],
+    "venue": "data. Science",
+    "year": 1999
+  }, {
+    "title": "The oxygen fugacity of olivine-phyric Martian basalts and the components within the mantle and crust of Mars",
+    "authors": ["C.D.K. Herd"],
+    "venue": "Meteorit. Planet. Sci",
+    "year": 2003
+  }, {
+    "title": "Oxygen fugacity and geochemical variations in the Martian basalts: implications for Martian basalt petrogenesis and the oxidation state of the uppermantle ofMars",
+    "authors": ["C.D.K. Herd", "L.E. Borg", "J.J. Jones", "J.J. Papike"],
+    "venue": "Geochim. Cosmochim",
+    "year": 2002
+  }, {
+    "title": "Mantle solidus: experimental constraints and the effects of peridotite composition",
+    "authors": ["M.M. Hirschmann"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2000
+  }, {
+    "title": "Ventilation of CO2 from a reduced mantle and consequences for the early Martian greenhouse",
+    "authors": ["M. Hirschmann", "A. Withers"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2008
+  }, {
+    "title": "Discovery of olivine in the Nili Fossae region of Mars",
+    "authors": ["T.M. Hoefen", "R.N. Clark", "J.L. Bandfield", "M.D. Smith", "J.C. Pearl", "P.R. Christensen"],
+    "venue": "Science 302,",
+    "year": 2003
+  }, {
+    "title": "1998.Graphite-melt equilibriaduringmantlemelting: constraints onCO2 in MORB magmas and the carbon content of the mantle",
+    "authors": ["J.R. Holloway"],
+    "venue": "Chem. Geol",
+    "year": 1998
+  }, {
+    "title": "High-pressure fluid-absent melting experiments in the presence of graphite: oxygen fugacity, ferric/ferrous ratio and dissolved CO2",
+    "authors": ["J. Holloway", "V. Pan", "G. Gudmundsson"],
+    "venue": "Eur. J. Mineral",
+    "year": 1992
+  }, {
+    "title": "An intense terminal epoch of widespread fluvial activity on early Mars: 1. valley network incision and associated deposits",
+    "authors": ["A.D. Howard", "J.M. Moore", "R.P. Irwin"],
+    "venue": "J. Geophys. Res",
+    "year": 2005
+  }, {
+    "title": "An intense terminal epoch of widespread fluvial activity on early Mars: 2. increased runoff and paleolake development",
+    "authors": ["R.P. Irwin", "A.D. Howard", "R.A. Craddock", "J.M. Moore"],
+    "venue": "J. Geophys. Res",
+    "year": 2005
+  }, {
+    "title": "Origin of theater-headed tributaries to Escalante and Glen Canyons. Utah: Analogs to Martian valley networks",
+    "authors": ["R.P. Irwin", "C.M. Fortezzo", "S.E. Tooth", "A.D. Howard", "J.R. Zimbelman", "C.J. Barnhart", "A.J. Benthem", "C.C. Brown", "R.A. Parsons"],
+    "venue": "AGU Fall Meeting",
+    "year": 2008
+  }, {
+    "title": "Topographic influences on development",
+    "authors": ["R.P. Irwin", "R.A. Craddock", "A.D. Howard", "H.L. Flemming"],
+    "venue": "ofMartian valley networks. J. Geophys. Res",
+    "year": 2011
+  }, {
+    "title": "Mars' volatile and climate history",
+    "authors": ["B.M. Jakosky", "R.J. Phillips"],
+    "venue": "Nature",
+    "year": 2001
+  }, {
+    "title": "The sputtering of an oxygen thermosphere by energetic",
+    "authors": ["R.E. Johnson", "D. Schnellenberger", "M.C. Wong"],
+    "year": 2000
+  }, {
+    "title": "Sulfur-induced greenhouse warming on early Mars",
+    "authors": ["S.S. Johnson", "M.A. Mischna", "T.L. Grove", "M.T. Zuber"],
+    "venue": "J. Geophys. Res",
+    "year": 2008
+  }, {
+    "title": "1993.Rheologyof theuppermantle: a synthesis",
+    "authors": ["Karato", "S.-I", "P. Wu"],
+    "year": 1993
+  }, {
+    "title": "Valence state partitioning of Cr and V between pyroxene-melt: estimates of oxygen fugacity for Martian basalt QUE 94201",
+    "authors": ["J.M. Karner", "J.J. Papike", "C.K. Shearer", "G. McKay", "L. Burger"],
+    "venue": "Am. Mineral",
+    "year": 2007
+  }, {
+    "title": "CO2 condensation and the climate of early Mars",
+    "authors": ["J.F. Kasting"],
+    "venue": "Icarus 94,",
+    "year": 1991
+  }, {
+    "title": "A new parameterization of hydrous mantle melting",
+    "authors": ["R.F. Katz", "M. Spiegelman", "C.H. Langmuir"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2003
+  }, {
+    "title": "Mantle convection controls the observed lateral variations in lithospheric thickness on present-day Mars",
+    "authors": ["W.S. Kiefer", "Q. Li"],
+    "venue": "Geophys. Res. Lett. 36,",
+    "year": 2009
+  }, {
+    "title": "Paleoflow reconstruction from fan delta morphology on Mars",
+    "authors": ["M.G. Kleinhans", "H.E. van de Kasteele", "E. Hauber"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2010
+  }, {
+    "title": "Formation of Box Canyon, Idaho, by megaflood: implications for seepage erosion on Earth and Mars",
+    "authors": ["M.P. Lamb", "W.E. Dietrich", "S.M. Aciego", "D.J. DePaolo", "M. Manga"],
+    "year": 2008
+  }, {
+    "title": "Atmospheric escape and evolution of terrestrial planets and satellites",
+    "authors": ["H. Lammer", "J.F. Kasting", "E. Chassefière", "R.E. Johnson", "Y.N. Kulikov", "F. Tian"],
+    "venue": "Space Sci. Rev",
+    "year": 2008
+  }, {
+    "title": "A younger age for ALH84001 and its geochemical link to shergottite sources in Mars",
+    "authors": ["T.J. Lapen", "M. Righter", "A.D. Brandon", "V. Debaille", "B.L. Beard", "J.T. Shafer", "A.H. Peslier"],
+    "venue": "Science 328,",
+    "year": 2010
+  }, {
+    "title": "Mantle convection and magma production on present day Mars: effects of temperature-dependent rheology",
+    "authors": ["Q. Li", "W.S. Kiefer"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2007
+  }, {
+    "title": "Evolutionary impact of sputtering of the Martian atmosphere by O(+) pickup ions",
+    "authors": ["J.G. Luhmann", "R.E. Johnson", "M.H.G. Zhang"],
+    "venue": "Geophys. Res. Lett",
+    "year": 1992
+  }, {
+    "title": "Evidence for recent groundwater seepage and surface runoff on Mars",
+    "authors": ["M.C. Malin", "K.S. Edgett"],
+    "venue": "Science",
+    "year": 2000
+  }, {
+    "title": "Evidence for persistent flow and aqueous sedimentation on early Mars",
+    "authors": ["M.C. Malin", "K.S. Edgett"],
+    "venue": "Science",
+    "year": 2003
+  }, {
+    "title": "Evidence for precipitation on Mars from dendritic valleys in the Valles",
+    "authors": ["N. Mangold", "C. Quantin", "V. Ansan", "C. Delacourt", "P. Allemand"],
+    "venue": "Marineris area. Science",
+    "year": 2004
+  }, {
+    "title": "Thick and thin models of the evolution of carbon dioxide on Mars",
+    "authors": ["C. Manning", "C. McKay", "K. Zahnle"],
+    "venue": "Icarus",
+    "year": 2006
+  }, {
+    "title": "Hydrous magmatism on Mars: a source of water for the surface and subsurface during the Amazonian",
+    "authors": ["F.M. McCubbin", "A. Smirnov", "H. Nekvasil", "J. Wang", "E. Hauri", "D.H. Lindsley"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2010
+  }, {
+    "title": "Geochemical evidence for magmatic water within Mars from pyroxenes in the Shergotty meteorite",
+    "authors": ["H.Y. McSween", "T.L. Grove", "R.C.F. Lentz", "J.C. Dann", "A.H. Holzheid", "L.R. Riciputi", "J.G. Ryan"],
+    "venue": "Nature 409,",
+    "year": 2001
+  }, {
+    "title": "Impact erosion of the primordial atmosphere of Mars",
+    "authors": ["H.J. Melosh", "A.M. Vickery"],
+    "venue": "Nature 338,",
+    "year": 1989
+  }, {
+    "title": "Deep crustal carbonate rocks exposed by meteor impact on Mars",
+    "authors": ["J.R. Michalski", "P.B. Niles"],
+    "venue": "Nat. Geosci. 3,",
+    "year": 2010
+  }, {
+    "title": "Properties of cryobrines on Mars",
+    "authors": ["D. Möhlmann", "K. Thomsen"],
+    "venue": "Icarus 212,",
+    "year": 2011
+  }, {
+    "title": "Crustal recycling, mantle dehydration, and the thermal evolution of Mars",
+    "authors": ["A. Morschhauser", "M. Grott", "D. Breuer"],
+    "venue": "Icarus",
+    "year": 2011
+  }, {
+    "title": "A synthesis of Martian aqueous mineralogy after 1 Mars year of observations from the Mars Reconnaissance Orbiter",
+    "authors": ["Murchie", "S.L"],
+    "venue": "J. Geophys. Res. 114,",
+    "year": 2009
+  }, {
+    "title": "Hydrated silicate minerals on Mars observed by the Mars Reconnaissance Orbiter CRISM instrument",
+    "authors": ["Mustard", "J.F"],
+    "venue": "Nature 454,",
+    "year": 2008
+  }, {
+    "title": "The composition and thickness of the crust of Mars estimated from REE and Nd isotopic compositions of Martian meteorites",
+    "authors": ["M.D. Norman"],
+    "venue": "Meteorit. Planet. Sci",
+    "year": 1999
+  }, {
+    "title": "Melt propagation and volcanism inmantle convection simulations, with applications for Martian volcanic and atmospheric evolution",
+    "authors": ["C. O'Neill", "A. Lenardic", "A.M. Jellinek", "W.S. Kiefer"],
+    "venue": "J. Geophys. Res. 112, E07003",
+    "year": 2007
+  }, {
+    "title": "The pressure and temperature dependence of carbon dioxide solubility in tholeiitic basalt melts",
+    "authors": ["V. Pan", "J. Holloway", "R. Hervig"],
+    "venue": "Geochim. Cosmochim",
+    "year": 1991
+  }, {
+    "title": "Effects of meteorite impacts on the atmospheric evolution ofMars",
+    "authors": ["L.B.S. Pham", "Ö. Karatekin", "V. Dehant"],
+    "venue": "Astrobiology",
+    "year": 2009
+  }, {
+    "title": "Ancient geodynamics and global-scale hydrology on Mars",
+    "authors": ["R.J. Phillips", "M.T. Zuber", "S.C. Solomon", "M.P. Golombek", "B.M. Jakosky", "W.B. Banerdt", "R.M. Williams", "B. Hynek", "O. Aharonson", "S.A. Hauck"],
+    "year": 2001
+  }, {
+    "title": "Phyllosilicates onMars and implications for early Martian climate",
+    "authors": ["F. Poulet", "Bibring", "J.-P", "J.F. Mustard", "A. Gendrin", "N. Mangold", "Y. Langevin", "R. Arvidson", "B. Gondet", "C. Gomez"],
+    "venue": "theOMEGATeam,",
+    "year": 2005
+  }, {
+    "title": "Absolute dune ages and implications for the time of formation of gullies in Nirgal Vallis, Mars",
+    "authors": ["D. Reiss", "S. van Gasselt", "G. Neukum", "R. Jaumann"],
+    "venue": "J. Geophys. Res",
+    "year": 2004
+  }, {
+    "title": "Ages of rampart craters in equatorial regions onMars: implications for the past and present distribution of ground ice",
+    "authors": ["D. Reiss", "S. van Gasselt", "E. Hauber", "G. Michael", "R. Jaumann", "G. Neukum"],
+    "venue": "Meteorit. Planet. Sci",
+    "year": 2006
+  }, {
+    "title": "Long-term evolution of transient liquid water on Mars",
+    "authors": ["M.I. Richardson", "M.A. Mischna"],
+    "venue": "J. Geophys. Res. 110,",
+    "year": 2005
+  }, {
+    "title": "Degree-1 convection in the Martian mantle and the origin of the hemispheric dichotomy",
+    "authors": ["J.H. Roberts", "S. Zhong"],
+    "venue": "J. Geophys. Res. 111, E06013",
+    "year": 2006
+  }, {
+    "title": "Outflow channel sources, reactivation, and chaos formation, Xanthe Terra",
+    "authors": ["J.A.P. Rodriguez", "S. Sasaki", "R.O. Kuzmin", "J.M. Dohm", "K.L. Tanaka", "H. Miyamoto", "K. Kurita", "G. Komatsu", "A.G. Fairen", "J.C. Ferris"],
+    "venue": "Mars. Icarus",
+    "year": 2005
+  }, {
+    "title": "Influence of a variable thermal conductivity on the thermochemical evolution of Mars",
+    "authors": ["S. Schumacher", "D. Breuer"],
+    "venue": "J. Geophys. Res",
+    "year": 2006
+  }, {
+    "title": "Environmental effects of large impacts on Mars",
+    "authors": ["T.L. Segura", "O.B. Toon", "A. Colaprete", "K. Zahnle"],
+    "venue": "Science",
+    "year": 2002
+  }, {
+    "title": "Valence state partitioning of vanadium between olivine–liquid: estimates of the oxygen fugacity of Y980459 and application to other olivine–phyric Martian basalts",
+    "authors": ["C.K. Shearer", "G. McKay", "J.J. Papike", "J.M. Karner"],
+    "venue": "Am. Mineral",
+    "year": 2006
+  }, {
+    "title": "Comparing morphologies of drainage basins on Mars and Earth using integral-geometry and neural maps",
+    "authors": ["T.F. Stepinski", "S. Coradetti"],
+    "venue": "Geophys. Res. Lett. 31,",
+    "year": 2004
+  }, {
+    "title": "Morphology of drainage basins as an indicator of climate on early Mars",
+    "authors": ["T.F. Stepinski", "A.P. Stepinski"],
+    "venue": "J. Geophys. Res",
+    "year": 2005
+  }, {
+    "title": "Density and thermal expansion of a peridotite melt at high pressure",
+    "authors": ["A. Suzuki", "E. Ohtani", "T. Kato"],
+    "venue": "Phys. Earth Plan. Inter",
+    "year": 1998
+  }, {
+    "title": "Speculations on the Archean mantle: missing link between komatiite and depleted garnet peridotite",
+    "authors": ["E. Takahashi"],
+    "venue": "J. Geophys. Res",
+    "year": 1990
+  }, {
+    "title": "Bulk composition and early differentiation of Mars",
+    "authors": ["G.J. Taylor", "W. Boynton", "J. Brückner", "H. Wänke", "G. Dreibus", "K. Kerry", "J. Keller", "R. Reedy", "L. Evans", "R. Starr", "S. Squyres", "S. Karunatillake", "O. Gasnault", "S. Maurice", "C. d'Uston", "P. Englert", "J. Dohm", "V. Baker", "D. Hamara", "D. Janes", "A. Sprague", "K. Kim", "D. Drake"],
+    "venue": "J. Geophys. Res. 111 (E3),",
+    "year": 2006
+  }, {
+    "title": "Thermal escape of carbon from the early Martian atmosphere",
+    "authors": ["F. Tian", "J.F. Kasting", "S.C. Solomon"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2009
+  }, {
+    "title": "The formation of Martian river valleys by impacts",
+    "authors": ["O.B. Toon", "T. Segura", "K. Zahnle"],
+    "venue": "Annu. Rev. Earth Planet. Sci",
+    "year": 2010
+  }, {
+    "title": "Chemistry and accretion history of Mars",
+    "authors": ["H. Wänke", "G. Dreibus"],
+    "venue": "Philos. Trans. R. Soc. London",
+    "year": 1994
+  }, {
+    "title": "Mars regolith versus SNC meteorites—possible evidence for abundant crustal carbonates",
+    "authors": ["P.H. Warren"],
+    "venue": "Icarus",
+    "year": 1987
+  }, {
+    "title": "Siderophile trace elements in ALH84001, other SNC meteorites and eucrites: evidence of heterogeneity, possibly time-linked, in the mantle of Mars",
+    "authors": ["P.H. Warren", "G.W. Kallmeyen"],
+    "venue": "Meteorit. Planet. Sci",
+    "year": 1996
+  }, {
+    "title": "Temperatures on Mars",
+    "authors": ["B.P. Weiss", "D.L. Shuster", "S.T. Stewart"],
+    "year": 2002
+  }],
+  "id": "SP:248641984373aa16545057690b8bf718caf572d5",
+  "authors": [{
+    "name": "M. Grott",
+    "affiliations": []
+  }, {
+    "name": "A. Morschhauser",
+    "affiliations": []
+  }, {
+    "name": "D. Breuer",
+    "affiliations": []
+  }, {
+    "name": "E. Hauber",
+    "affiliations": []
+  }],
+  "title": "Volcanic outgassing of CO2 and H2O on Mars"
+}

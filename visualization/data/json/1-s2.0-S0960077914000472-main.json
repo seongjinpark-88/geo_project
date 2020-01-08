@@ -1,0 +1,607 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nChaos, Solitons & Fractals Nonlinear Science, and Nonequilibrium and Complex Phenomena\njournal homepage: www.elsevier .com/locate /chaos\nEvidence of synchronous, decadal to billion year cycles in geological, genetic, and astronomical events\nhttp://dx.doi.org/10.1016/j.chaos.2014.04.001 0960-0779/ 2014 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/3.0/).\n⇑ Corresponding author. Tel.: +1 80 884 00933. E-mail address: puetz.steve@gmail.com (S.J. Puetz).\nStephen J. Puetz a,⇑, Andreas Prokoph b,c, Glenn Borchardt d, Edward W. Mason d a Progressive Science Institute, 2233 Ala Wai Blvd 3C, Honolulu, HI 96815, USA b Speedstat, 19 Langstrom Crescent, Ottawa, Ontario K1G 5J5, Canada c Department of Earth Sciences, Carleton University, Ottawa, Ontario K1S 5B6, Canada d Progressive Science Institute, Box 5335, Berkeley, CA 94705, USA\na r t i c l e i n f o\nArticle history: Received 31 January 2014 Accepted 1 April 2014\na b s t r a c t\nStudies on continuously improving records of geological, biological, and astronomical events and processes led to increased awareness of common cycles in the records. Here we enhance the analytical scope of earlier discoveries by showing that most of these cycles occur in unison, as a harmonic series. Furthermore, we consider them universal because extra-terrestrial cycles involving quasar and star formation exhibit comparable periods to terrestrial cycles involving volcanism, extinction patterns, and genetic development. The cycles oscillate in multiples of three, cascading into a period-tripled set of cycles. We provide one equation combining the characteristics of 32 theoretical cycles, with periods ranging from 57.3 years to 1.64 billion years. Our statistical tests show that the astronomical and geological cycles are phase-locked synchronously, while the biological cycles lag. This synchrony suggests a common astronomical cause for geological and biological cycles. Along with the synchrony, the extensiveness of the observed period-tripling indicates that self-similar patterns develop at a universal scale. This suggests that divisible matter is distributed fractally throughout the universe, as postulated by fractal cosmologies, bifurcation theory, and chaos theory. 2014 The Authors. Published by Elsevier Ltd. This is an open access article under the CC\nBY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/3.0/)."
+  }, {
+    "heading": "1. Introduction",
+    "text": "In recent years, spectral analysis identified cycles with similar harmonics in a wide range of geological, biological, climatic, and solar records and events. The similarities in periodicity were evident from previous discoveries [1–17] as well as from new time-series analyses of existing data [18–36].\nPreviously, Krivova and Solanki [37] found a harmonic period-tripling pattern of 156 days and 468 days (3 156) in solar activity, but below the range of cycles for this study. Similarly, Scafetta [6] found harmonic solar cycles with ranges of 60–65, 110–140, 160–240, 500, and\n800–1200 years (yr). These were generally within tolerances of the fractal cycles of 57.29, 114.6, 171.9, 343.7, 515.6, and 1031-yr identified here. Only the theoretical cycle of 343.7-yr was missing from the sequence identified by Scafetta [6]. Later, Scafetta and Willson [38] revised two of the harmonic cycles in the sequence to 57.13 and 171.4- yr – nearly identical to the theoretical fractal periods of 57.29 and 171.9-yr in our work.\nAt the kyr scale, Lourens et al. [39] studied d18O records from the late Pliocene to the Pleistocene. They found climatic cycles of 28, 41, 82, and 123 thousand years (kyr), and then argued that the 28-kyr cycle reflects the sum frequency between a primary 41-kyr cycle and its multiples of 82-kyr and 123 kyr [39]. We take a similar approach by also viewing the cycles as a harmonic sequence, but we estimate the sequence with slightly\nlarger periods of 27.84, 41.76, 83.52, and 125.3 kyr. Despite these isolated examples over small scales, the harmonic patterns generally went unnoticed due to inadequate sampling, errors in age estimates, and insufficient durations in the data.\nWith the development of enhanced technologies, sampling resolution improved, age-errors decreased [40,41], and records extended further into the past. Our longstanding interest in cycles enticed us to collect the improved published records of divergent natural processes. These included volcanic [16,17,26,29,30], geomagnetic [21–23], biological [10,20], climatic [31–34,36], and solar [24,25,35] records – as well as newly available records of zircon ages [29] and astronomical ages [18,19,27,28].\nHere, we present an approach that explains these diverse cycles as a fractal sequence – a set of harmonic cycles organized in self-similar patterns, as seen from a variety of natural processes [42,43] and as observed in geological patterns [44]. Among natural cycles, previous discoveries identified harmonic periods ranging from the high-frequency 59-yr solar cycle [2] to the low-frequency 819 million years (myr) cycle found in a 3.7 billion year (gyr) long time-series of ultramafic and mafic rocks [1]. These and many other natural cycles within this range deviate less than 4% from the theoretical fractal periods in Table 1, with standard deviations being one of the statistical measures we use to quantify the fit between the periods for the natural cycles and the theoretical cycles. Collectively, the statistics support the discovery of harmonic cycles, organized as fractals, encompassing the observed regions of the universe. This finding contradicts the cosmological principle (the assumption that the distribution of matter in the universe is homogeneous and isotropic), and instead supports the ideas associated with fractal cosmology [45–47]."
+  }, {
+    "heading": "2. Definitions, abbreviations, and acronyms",
+    "text": "Theoretical fractal cycles – A harmonic set of cycles that exhibit the wave-like property of period-tripling. The prop-\nerty led us to define two distinct sets of fractal cycles – fullcycles associated with period-tripling and secondary halfcycles with periods half of those for the full-cycles. Due to their novelty, this study successively develops the concepts that describe the cycles.\nPeriod-tripling – A property of waves, in which every third wave develops a higher crest. In laboratory experiments, water waves of uniform amplitude developed into period-tripled waves as the intensity of controlled vibrations increased [48,49]. Engineers produced period-tripling in superconductor circuits [50]. In experiments with directly modulated laser diodes, period-doubling occurred at low intensities while period-tripling occurred at high intensities [51–53].\nFractal full-cycles – The primary cycles in the sequences. Our studies show that every full-cycle with a period, P, has two adjacent counterparts – a low frequency cycle with a period 3P, and a high frequency cycle with a period P/3. For example, the 60.89-myr full-cycle has a low frequency counterpart of 182.7-myr (3P) and a high frequency counterpart of 20.30-myr (3/P). Column 3 of Table 1 lists all of the theoretical fractal full-cycles. In this work, we give evidence of fractal full-cycles ranging from as small as 115-yr to as large as 1.64-gyr. However, the harmonic cycles may extend beyond this range.\nFractal half-cycles – The secondary cycles in the sequences. Half-cycles develop with periods equal to half of those for full-cycles, thus behaving as derivatives of the full-cycles. Therefore, they are of secondary nature. Here, we give evidence of fractal half-cycles ranging from 57.3-yr to 822-myr. Column 5 of Table 1 lists all of the theoretical fractal half-cycles, and Fig. 1 illustrates examples of fractal half-cycles at the myr-scale. Fig. 1A–D shows theoretical oscillations of the 822, 274, 91.3, and 30.4-myr half-cycles, while Fig. 1E shows a composite model of the 91.3 and 30.4-myr half-cycles.\nCK-1995 – A widely used geomagnetic timescale developed in 1995. GTS-2004 – The geological timescale from 2004. SDSS – The Sloan Digital Sky Survey, a major redshift survey headquartered in New Mexico.\nWMAP – Wilkinson Microwave Anisotropy Probe, a spacecraft used for full sky measurements of the cosmic microwave background radiation. KCDM – Lambda-Cold Dark Matter cosmological model associated with the Big Bang Theory."
+  }, {
+    "heading": "3. Methods",
+    "text": "Before performing the analyses, we used several methods for preparing each time-series. These methods included detrending, bandpass filters, histograms, and binning. After preparing the data, we also used histograms, periodograms, confidence levels, and the exact binomial test to analyze the data. The remainder of this section describes the techniques and the reasons for using these methods."
+  }, {
+    "heading": "3.1. Histogram",
+    "text": "A histogram provides a graphical view of the distribution of a set of records. It estimates the probability distribution of a continuous variable by tabulating frequencies as adjacent rectangles, called bins. In our work, bins are spaced evenly. The height of each bin equals the frequency density for that interval. This study uses histograms for two reasons – either as a spectral analysis preparatory step to transform an irregularly spaced sample into an evenly spaced sequence, or for analyzing the probability distribution of a continuous variable."
+  }, {
+    "heading": "3.2. Data binning",
+    "text": "Binning data is a technique similar to a histogram, with one major difference. Binned records have two relevant values (a signal and a time) whereas records placed in a histogram have only one relevant value (a time). As part of the binning process for all samples that fall within a\nspecified interval, the signal-average is used as the binvalue. Conversely, for a histogram, for all records that fall within a specified interval, the total number of occurrences is used as the bin-value. This study primarily uses data binning as a preparatory step for transforming unevenly spaced time-series records into an evenly spaced series."
+  }, {
+    "heading": "3.3. Exact binomial test",
+    "text": "The exact binomial test is a function in the R statistical package that performs an exact test of a null hypothesis (H0) about the probability of success in a Bernoulli experiment [54–57]. Here, we use the number of occurrences in pre-specified bins of a histogram to perform a one-sided exact binomial test at various confidence levels. H0 posits that the specified number of bins fill at a rate less than or equal to that of pure chance, and the alternative hypothesis (H1) posits that the specified number of bins fill at a rate above that of pure chance. Variables for the test are the number of successes (equal to the number of occurrences in the specified bins), the number of trials (equal to the total number of occurrences in all of the bins), and the rate of pure chance (equal to the number of specified bins divided by the total number of bins). After performing the test, we reject H0 and accept H1 if the exact binomial test returns a confidence interval above the probability of pure chance. In this way, the exact binomial test allows us to make statistical judgments about the possibilities of cyclical patterns developing by pure chance."
+  }, {
+    "heading": "3.4. Spectral analysis and filtering",
+    "text": "We used standard spectral analysis techniques [58,59], such as raw and smoothed spectral estimates (periodograms) to test segments of 33 natural time-series records. The records were detrended and demeaned with bandpass filters according to the Nyquist-Shannon Sampling\nTheorem [60]. This involved a (l1 – l9) bandpass filter, with l1 and l9 being 1-bin and 9-bin centered means of bins with intervals equal to P/9, where P equals the period of the cycle being tested. Then we performed spectral analysis on the filtered time-series [58]. To verify the reliability of the results, we conducted numerous tests using several methods, described in the remainder of this section.\nIn situations where the sampling frequency varied significantly, we only analyzed segments of a time-series with more than 90% of the bins filled with data, and then interpolated to fill the empty bins (when appropriate). Interpolation was used only for binning data – that is, only for records with a signal. When constructing a time-series with a histogram, we never interpolated and kept empty bins empty (giving them a value of zero). Equally important, we never performed spectral analysis for a time-series with either a large sampling-gap or with a large number of empty bins because this type of analysis can cause the spectrum to show cycles significantly different from reality. As an initial analytical step, we always took precautions to inspect each time-series to see which segments contained sufficient sampling, and then used only the well-sampled segments that complied with the requirements specified by the Nyquist–Shannon Sampling Theorem."
+  }, {
+    "heading": "3.5. Periodogram methods",
+    "text": "The work described here relied on two spectral analysis methods, Lomb-Scargle periodograms [59] and periodograms using Daniell smoothers [61–63]. We calculated the smoothed periodograms using spec.pgram from the 2.12.1 version of the R statistical package [54]. This method calculates the periodogram with a fast Fourier transform (FFT), and then smoothes the resulting spectrum with a series of modified Daniell smoothers. The FFT requires samples at evenly spaced intervals, which is one of our reasons for using histograms and binning to prepare the data for spectral analysis. Another preparatory step involves removing any trend (detrending) [62,64,7,65,66]. Detrending is required because failure to do so causes strong low frequencies, which often mask the cycle of interest."
+  }, {
+    "heading": "3.6. Confidence levels",
+    "text": "Confidence bands placed above the spectrum measure statistical significance at pre-specified frequencies [62,67]. We use a one-tailed test that places a confidence band, Ca, above the null continuum, n, with a p-value of a, from the following equation.\nCa ¼ vn=v2ð1 a;vÞ ð1Þ\nwhere v represents the degrees of freedom; n represents the null continuum; and v2(1-a,v) is the value of the chisquared distribution with v degrees of freedom and a p-value of 1 a. The pre-specified frequency, 1/P, corresponds to a fractal cycle with a period, P (given in Table 1). This contrasts with another common usage of spectral analysis – as an exploratory tool for finding cycles at any frequency. The difference between exploratory frequencies and pre-specified\nfrequencies has relevance because an exploration requires Bonferroni adjustments for calculating confidence bands [68,69]. If the periodogram exceeds the confidence band, Ca, at the pre-determined frequency, 1/P, then the test validates the fractal cycle at a confidence level of a."
+  }, {
+    "heading": "3.7. Bandpass filters",
+    "text": "Within the limits given by the Nyquist–Shannon Sampling Theorem, applying a bandpass filter to a time-series retains all periodicity that falls within the inclusion bandwidth, while eliminating cycles beyond the Nyquist limits [58,64]. We verified this by calculating raw periodograms from wide bandpass filters, then applying narrower bandpass filters to the same time-series, and re-calculating raw periodograms for each filtered time-series. For a timeseries with 15 or more repetitions of a cycle, the various bandpass filters had minimal effect on the resulting spectral peaks by generally showing cycles with deviations of less than 1%."
+  }, {
+    "heading": "3.8. Monte Carlo simulations",
+    "text": "When analyzing a time-series, every sequence has some variance in the signal, shows some periodicity in the spectrum, and demonstrates some correlation with a model. For example, every sequence of random numbers shows a certain amount of cyclical behavior and some correlation with the fractal cycles postulated here. Because of this, we assess whether the variation in each test results from randomness or from a true cycle. Monte Carlo simulations [70] help with this assessment by showing how often random number sequences conform to test criteria. We generated 18,000 sequences of random numbers, and processed them with the same methods as the real time-series records. We did this to determine if the confidence levels given by Eq. (1) were consistent with the confidence levels expected from time-series records from random numbers. For example, for any pre-specified frequency, the Monte Carlo simulations should show roughly the following: 1-of-20 simulations with a cycle at the 95% confidence level, 1-of-100 simulations with a cycle at the 99% confidence level, 1-of-1000 simulations showing a cycle at the 99.9% confidence level, and 1-of-10,000 simulations showing a cycle at the 99.99% confidence level. In this way, the Monte Carlo simulations indeed confirmed the confidence levels given by Eq. (1). The Monte Carlo simulations also gave information about the Bonferroni adjustments for an exploratory analysis. In exploratory mode, the 99.99% confidence level must be reduced to 99.9%; the 99.9% confidence level reduced to 99%; and the 99% confidence level reduced to 75%."
+  }, {
+    "heading": "3.9. Comparisons with published results",
+    "text": "The tests here involved data from published manuscripts. In many cases, the authors provided statistics, including spectral analysis results, which allowed comparisons with our results. Outside verification of the quasar cycles became the foremost challenge because previous\ntests for periodicity were nonexistent for quasar formation. Alternatively, we applied indirect comparison methods.\nSpecifically, the large area KX quasar catalogue [71] reported three redshift values (z) with significant deviations from the trend – a maximum at 1.6z and two minima at 2.7z and 3.5z [71]. Using this information to make a comparison required just a few simple steps. First, we converted the redshift extremes to gyr ages using the two cosmologies for this study, WMAP and SDSS, which are described further in Appendix A. Next, we used the bandpass filtered time-series for the test of the 822-myr cycle to make the comparisons. Regardless of the cosmology, the reported extremes [71] corresponded to the maxima and minima from our work – with all but two of the comparisons within 0.7%. The first 12 lines in Table 2 give the quasar age comparisons. Because the quasar tests involved two datasets with two cosmologies applied to each dataset, there were four comparisons for each reported redshift extreme. This comparison was not part of the test, nor was it a judgment of the validity of the extremes found in the SDSS Release 7 and 9 datasets. Instead, it served as a method for evaluating the transformations from redshift values (z) to billion-year look-back times (Ga). This comparison showed that the maxima and minima remained intact after transforming the quasar redshift values to look-back times.\nFew of the previous studies reported both periods and confidence levels. However, the genetic data [20] was an exception – reporting a cycle of 60.92-myr with a 99.02% confidence level. Using the same dataset, but with different detrending and periodogram methods, we found a genetic cycle of 61.89-myr with a 96.73% confidence level. A comparison of the marina genera data [10] yielded similar cycles from the similar methods – 62.0-myr [10] versus 61.31-myr here. The report of an orbitally tuned depth rank curve from the Newark rift basin of the Northeastern US [72] showed cycles of 962-kyr and 697-kyr compared to our findings of 920-kyr and 707-kyr, and it showed an\naverage period of 1.753-myr in their depth rank and color time-series versus a 1.720-myr cycle in our work. Likewise, our tests for time-series tuned to the Milankovitch cycles consistently agreed with the theoretical cycles. For example, our tests of d18O records [36,73] using the CK-1995 timescale [74] showed significant cycles of 41.12-kyr and 41.15-kyr, and our tests of d18O records [73] using the GTS-2004 timescale [75] showed a significant cycle of 41.13-kyr. All were within 0.4% of the 41-kyr obliquity cycle associated with the Milankovitch Theory. Collectively, these comparisons indicated that our periodogram results consistently fell within 1% of the results from other similar methods published in the literature. In summary, we used a variety of methods to assess the accuracy of the results."
+  }, {
+    "heading": "3.10. Cycle validation system",
+    "text": "We also devised a cycle validation system to semiquantify each cycle’s significance. This restrictive system facilitated a conservative approach in deciding when the tests validated a fractal cycle by measuring the fit between the results and the hypothesized periods. The system combines two important statistics, deviations and confidence levels (Table 3), into a meaningful evaluation. Specifically, the probability of a cycle’s validity increases (a) as the deviation between a spectral period and a theoretical period becomes smaller and (b) as the confidence level increases."
+  }, {
+    "heading": "4. Data",
+    "text": "All of the data are part of previously published research. The references contain links to the datasets and research. The links assist those interested in replicating the tests described here. For further details about the data, Appendix B devotes a paragraph to each of the 33 datasets used\nin the analyses. When possible, we selected high-resolution datasets, with long durations, and with small ageerrors.\nTo investigate periodicity at a universal scale, the analysis relied on quasar ages. We used the latest quasar data from the Sloan Digital Sky Survey (SDSS) [18,19] which is a major redshift survey that uses a dedicated optical telescope at Apache Point Observatory in New Mexico. Since its inception, astronomers release new SDSS data annually. We used SDSS Release 7 (SDSS-7) [18] and SDSS Release 9 (SDSS-9) [19] for the work here, and applied two cosmological models to the SDSS redshift values to calculate ages. One cosmological model was associated with SDSS while the other was developed from the Wilkinson Microwave Anisotropy Probe (WMAP) data. Astronomers use WMAP, a spacecraft launched from Florida during 2001, for full sky measurements of the cosmic microwave background radiation. Here, subscripts of SDSS and WMAP refer to the respective cosmological models used with the works. Appendix A explains the models in more detail, including why estimates of quasar ages require a Lambda-CDM (KCDM) cosmological model [76]."
+  }, {
+    "heading": "5. Equations for the fractal patterns",
+    "text": "Among the fractals, we distinguish between full-cycles and half-cycles. As implied, fractal half-cycles have periods equal to half those of full-cycles, and are considered secondary to the full-cycles. For a time-series of natural records with N samples (sample points designated with n = 1,2,3, ... ,N), the original times, tn, are calibrated to the adjusted times, an, as follows.\nan ¼ tn þ ts ð2Þ\nwhere the unadjusted ages, tn, have negative values for times in the past and positive values for times in the future, and ts is a constant adjustment to align all times to the before 2K timescale (BP2000). For data that uses the Common Era timescale (CE/BCE), we set ts to 2000 yr; for the BP1950 timescale, we set ts to 50 yr; and for the BP2000 timescale, we set ts to 0. Eq. (2) and the terms an, tn, and ts only apply to adjustments to the natural time-series records.\nNext, Eq. (3) calculates periods for the 32 theoretical fractal cycles to 15 digits. In Table 1, columns 2 and 4 show these theoretical periods with 3-digit precision, but the validity could extend beyond the cycles in Table 1. We estimated the fractal periods from the latest geological data because the reported age-errors for geological events are typically less than climatic and biological age-errors. Eq. (3) gives the theoretical period, Pk (in years), for any fractal\ncycle in the series, based on the 115-yr full-cycle, the smallest fractal full-cycle confirmed in these tests.\nPk ¼ 114:572218767559 ð3k=nÞ ð3Þ\nwhere the exponent k = 0,1,2,3, . . . ,15, and n = 1 for a fullcycle and 2 for a half-cycle.\nAnother time adjustment, tm, only applies to the fractal model, given by Eq. (4). It permits phase adjustments for situations where a time-series has a known lead or lag with the model. In addition, it might be convenient to use tm to adjust phases of the model by 180 for a time-series with an inverse correlation with the model. For example, the values for all d18O time-series correlate inversely with the fractal model. Thus, tm could be used in these situations. However, in most instances, tm should be set to zero. When used, tm must be added to every point in the model. Table 1 lists the phase parameters, hk. This completes the model for any fractal cycle with I points, where the individual points are i = 1,2,3, ... , I.\nyi ¼ sinð2pðti þ tmÞ=Pk þ hkÞ ð4Þ\nwhere yi is the amplitude of the sinusoidal effect. Note that the 15 digits assigned to Pk and hk do not represent the precision of the estimates. Likewise, note that the before-present timescale adjustment is irrelevant for studies at the myr and gyr timescales. The fractal equations contain these components for two reasons. First, they permit one general equation, Eq. (4), that fits all scenarios – rather than a more cumbersome set of 32 or more equations for each of the specific scenarios. Second, the 15 digits for Pk and hk keep high frequency theoretical cycles synchronized with low frequency theoretical cycles for composite models, regardless of the interval studied, including times in the distant past.\nAn example shows the necessity of the 15 digits for Pk and hk. Consider two sets of theoretical models from Eq. (4) by using the 115-yr and 344-yr cycles. The first set of models uses the full 15 digits for P1 (114.572218767559) and h1 (1.19565061308930) and the full 15 digits for P2 (343.716656302678) and h2 (5.63453796034608). The second set of models only uses the first 3 digits for P1 (115) and h1 (1.20) and the first 3 digits for P2 (344) and h2 (5.63). By using a spreadsheet or other software to plot the models, it becomes clear that the models with 3 digits become asynchronous after only 10 repetitions. Conversely, the models with 15 digits remain highly synchronized after thousands of repetitions. Hypothetically, the peaks and troughs of every low frequency fractal cycle align perfectly with the peaks and troughs of the high frequency fractal cycles. The model given by Eq. (4) must come reasonably close to replicating this synchronization. The only way to achieve that is with 15 digits for Pk and hk.\nFig. 1 illustrates five self-similar cycles derived from Eq. (4). Fig. 1A shows oscillations of the 822-myr half-cycle, with theoretical peaks at 1.912, 1.090, and 0.268 Ga. Fig. 1B shows the 274-myr cycle, with every third peak exactly aligned with a peak of the 822-myr cycle. The vertical gridlines mark theoretical peaks of the 274-myr cycle, given along the x-axis. All other fractal cycles, including the 91.3-myr cycles in Fig. 1C and the 30.4-myr cycles in\nFig. 1D align the same way – with every low frequency peak aligned with a high frequency peak. Fig. 1E demonstrates period-tripling by combining the equations for the 91.3-myr and 30.4-myr cycles. This combination produces a sequence of 30.4-myr cycles, with every third crest exhibiting a maximum aligned with a 91.3-myr cycle. These five graphs illustrate the basic concepts of fractal synchronization and period-tripling.\nThis fractal process remains empirical for now, with an apparent single unknown cause functioning on exactly triplicate time-scales. The process links many physical and biological processes currently considered responsible for individual cycles. Eqs. (3) and (4) allow researchers to test the patterns with physical and biological time-series data. By selecting an appropriate scale and using Eq. (4), one such test involves correlating a fractal model with a detrended time-series. Another method of testing the fractal patterns involves spectral analysis, to determine if the periodicity of a natural cycle agrees with a cycle given by Eq. (3)."
+  }, {
+    "heading": "6. Analytical uncertainties",
+    "text": "We determined the uncertainties inherent in every time-series by using standard statistical techniques and focusing on four basic types of uncertainties:\nSampling errors – It is impossible to reconstruct the true population of ancient geological events because of recycling and the impracticality of sampling every rock that still exists on Earth. Age errors – Every time-series contains errors in the estimated ages. For example, because of uncertainties in the radiogenic decay constants, researchers often interpolate non-dated geological events from the welldated units, resulting in drift of period length and phase with increasing age. Time-series brevity – All other factors being equal, a time-series with many cyclic repetitions gives a better spectral estimate than a time-series with only a few repetitions. Period variability – Many natural cycles exhibit considerable variation between repetitions. For instance, the sunspot cycle has an average period of 10.75-yr. However, over the past 300 years, individual cycles varied from 9-yr to 14-yr. Many other natural cycles (including the fractal cycles identified here) exhibit similar variation around mean periods. In this scenario, a time-series with fewer than ten repetitions occasionally gives an inaccurate estimate of the cycle’s mean period.\nWe reduced the impact from these inherent errors by selecting the newest data, with the latest dating techniques, with the greatest longevity, and with the largest number of samples. We based all statements and conclusions on the statistical results in Table 4 [77], while providing time-series plots only for visual illustration of the period-tripling concepts. Conclusions about periodicity,\ncorrelations, and lead-lag times were solely derived by evaluating the periodograms and the cross-correlation results.\nAccordingly, the time-series plots and the periodograms often show small fluctuations in the periods of the fractal cycles. We consider two scenarios to explain these irregularities. Either the fractal cycles are very precise, and the variations occur because of sampling inaccuracies and incorrect age estimates; or the fractal cycles occasionally deviate from the theoretical periods, with only the averages following the fractal pattern over extremely long intervals.\nAppendix B includes the standard deviations for the age errors. Some of the original research articles failed to state these errors. In those situations, we found the errors for the age model used in the research from another source, or we found error estimates for a similar age model. In a few situations, we increased the age errors by 2–3% when the best age model was not ideal.\nThe quasar ages were based on redshift values. Because they have an age error of only 0.3% [18,19], quasar ages are more accurate and precise than any of the other measurements in this study. The small age errors permit detection of quasar cycles with periods at least as small as 30-myr. Likewise, most of the proxies of solar activity have similar accuracy because the ages are based on direct observations of sunspot numbers and then extended beyond recent centuries by using precise dendrochronologically-based age models [24,78].\nConversely, stellar ages are based on metallicity and kinematic properties [27,28]. These technologies need further improvements to achieve the same accuracy as the other astronomical, geological, and biological data used in the study. For example, the age errors for the stars in one test were 18.5% [27]. Two other tests of stellar ages [27,28] also had large age errors (11% and 14%) and one test of geological sediments from the Newark Basin [79] had a large age error (9.8%). These relatively large errors made the results from these four tests somewhat questionable.\nHowever, these four tests were exceptions. The other 191 tests involved data with age errors ranging from 0.3% to 5.2% – within resolution-limits that permit reliable spectral analysis results. For example, Guyodo and Channell [80] state that the reliability of spectral analysis results for a paleointensity time-series depends on the stack resolution (sedimentation rates) and the age model. They state that the 800-kyr relative paleointensity time-series [13] used in our work gives reliable power-spectra for periods as short as 4-kyr [80]. We used this time-series to test for 83.5-kyr and 27.8-kyr cycles. Both of these periods reside well above the 4-kyr lower-tolerance suggested by Guyodo and Channell [80].\nIn general, the ages for quasars, solar activity, volcanism, and geomagnetic intensity were the most reliable. Climatic ages and biological ages tended to fall in a middle range of reliability, but still adequate for spectral analysis. As mentioned, stellar ages were the least reliable – falling into a borderline area for evaluating spectral analysis results."
+  }, {
+    "heading": "7. Results",
+    "text": "As determined by the tests, Table 4 [77] contains extensive statistics for the 195 cycles that exhibit the harmonic period-tripling pattern. For each test, we applied a set of wide and narrow bandpass filters. Regardless of the filter, the two methods consistently gave similar results, generally with deviations of less than 1%. The validated cycles ranged from 57.3-yr to 1.64-gyr. The tests validated 36 astronomical, 14 biological, 77 climatic, 13 geomagnetic, 21 solar, and 34 volcanic cycles that matched fractal frequencies. The tests show that the 60.9-myr fractal cycle is the most universally evident cycle, being highly significant for 14 independently collected astronomical, biological, and volcanic records. The tests also validated two other fractal cycles more than ten times: the 115-year cycle 12 times, and the 4.64-kyr cycle 11 times.\nFrom these improved spectra, the period-tripling pattern emerged (Table 1). Fig. 2A shows oscillations of the 91.3-myr half-cycle in zircon numbers [29]. Period-tripled peaks occur near the thick gridlines. These correspond to theoretical peaks of the 274-myr half-cycle at 3.008, 2.734, 2.460, 2.186, 1.912, 1.638, and 1.364 Ga. Below the zircon time-series, Fig. 2B shows the period-tripled model for the 91.3-myr cycle – calculated from Eq. (4) as a sum of the 91.3-myr and 274-myr cycles. The oscillations in Fig. 2A align closely (but not perfectly) with the model in Fig. 2B. In all likelihood, this indicates some natural variation in the cycles. Alternatively, it could suggest errors in the measurements.\nFig. 3A illustrates the period-tripling pattern of the 27.8-kyr full-cycle in geomagnetic intensity [21]. The time-series plot shows period-tripled cycles of 83.5-kyr near the thick gridlines at 910, 827, 743, 659, 576, 492, and 409 Ka. A comparison of the geomagnetic oscillations in Fig. 3A with the model in Fig. 3B shows a close fit, but again demonstrating some variation between the data and the model. Again, this probably indicates natural variation in the cycles rather than errors in the measurements. The remaining figures illustrate similar close fits, with some variation. Period-tripling is significant because it demonstrates a harmonic link among the fractal cycles, which in turn suggests a shared cause.\nThe analyses now demonstrate the relationships among astronomical, geological, and biological cycles – illustrated with full-cycles at the myr scale. Wendler [81] introduced the first evidence of the 183-myr fractal cycle by suggesting a 180–185-myr cycle in superchrons. Unfortunately,\nthe chronology contained too few repetitions to test the cycle rigorously. However, in this study, both quasar datasets showed evidence of the 183-myr cycle, with the evidence being strongest in the SDSS-9 dataset [19]. This held true regardless of the cosmology used to estimate the look-back ages. As illustrated in Fig. 4, the 183-myr cycle in quasar numbers from SDSS-9SDSS [19] (Fig. 4A) and SDSS-9WMAP [19] (Fig. 4B) produced nearly identical oscillations- from 5.474 to 2.369 Ga.\nHowever, the two cosmologies produce slightly different ages for quasars from 8.0 to 5.5 Ga, and significantly different ages for quasars older than 8 Ga. Different datasets, with different estimation methods, produce diverse versions of a time-series. Nonetheless, the tests still demonstrate fractal-like periodicities in most scenarios. Fig. 4C shows similar oscillations corresponding to the183-myr cycle, but in genetic evolution [20]. To the right, the periodograms for the quasar and genetic timeseries show the dominant cycles near the vertical dotted line, which designates the frequency corresponding to the 183-myr cycle. Because quasars reside beyond the galaxy, this further implies the universal scope of the harmonic patterns.\nThe 60.9-myr periodicity is the most widely detected fractal cycle, supporting the universality of the series. Rohde and Muller first reported it as a 62-myr cycle in fossil diversity [3]. Similar to the 183-myr cycle, comparable periods and phases for the 60.9-myr cycle occur in quasar numbers from SDSS-7WMAP [18] (Fig. 5A) and genetic evolution [20] (Fig. 5B) during an interval from 2.369 to 1.821 Ga. (The dataset SDSS-9 [19] contained too few samples to test for periodicity during most of this span, forcing us to test with SDSS-7 [7].)\nIn 2006, Ding et al. [20] reported a 60.92-myr cycle in genetic evolution which correlated inversely with the fossil diversity cycle [3]. Consequently, they [20] suggested an asynchronous cause-and-effect link between the two. Recently, the fossil diversity time-series [3] adjusted to the Geologic Timescale 2004 [75] showed a cycle of 61.3- myr [10] (Fig. 6A) that synchronously correlated with the genetic time-series [20] (Fig. 6B). In fact, the two time-series only deviated a miniscule 0.044 radians – essentially locked in-phase as calculated by cross correlation. The synchronous alignment has different theoretical implications than the original report of a possible inverse relationship.\nAt the kyr scale, Fig. 7 shows the 83.5-kyr full-cycle as highly significant in contributing to geomagnetic intensity as measured by Channell et al. [21] (Fig. 7A), Yamazaki and\nctuations in zircon numbers [29], which corresponds moderately with a ests every third repetition at 3.008, 2.734, 2.460, 2.186, 1.912, 1.638, and series of zircon numbers.\nOda [22] and Guyodo and Valet [23] (Fig. 7B). Both timeseries highlight variations in the alignments, but within statistical tolerances for confirming the cycle’s occurrence. The periodograms in Fig. 7 indicate highly significant cycles near the frequency corresponding to the 83.5-kyr cycle.\nAt the sub-kyr scale, Fig. 8A and B shows the 344-yr fractal full-cycle found in two solar activity proxies [24,25] spanning the past 8000 years. Both periodograms indicate strong cycles near the theoretical cycle of 344-yr.\nScafetta [6] recently verified the 115-yr full-cycle with solar data. The 115-yr cycle also dominates fluctuations\nin volcanic sulfate emissions [26], as illustrated with the time-series plot and the periodogram in Fig. 9.\nThe review now focuses on fractal half-cycle results. Isley and Abbott first reported an 819-myr cycle in volcanism [1] in 2002 – a cycle estimated here as 822-myr. The time-series plots in Fig. 10 illustrate the moderate correlations and phase alignments among SDSS-7SDSS quasar\nnumbers [18] (Fig. 10A), star formation [27] (Fig. 10B), preserved crust [30] (Fig. 10C), zircon numbers [29] (Fig. 10D), and genetic evolution [20] (Fig. 10E). All five periodograms show similar periodicity around the 822-myr theoretical period, marked by the dotted vertical line. Despite the diversity in the datasets, the similar periods and similar phases of geological, biological, and astronomical records\nplots. Panel A – Quasar numbers from SDSS-7SDSS [18]. Panel B – Solar r. Panel C – Earth’s preserved crust [30]. Panel D – Zircon numbers [29].\nsupport a common universal cause. Currently, established theories fail to explain these similarities, while bifurcation theory offers viable solutions to the period-tripling phenomena [48,49,51–53].\nFig. 11 illustrates the 274-myr cycle in star formation [28]. It also illustrates how a full-cycle (548-myr) develops with a half-cycle (274-myr). In this scenario, every second half-cycle generally has a greater amplitude, as indicated by the arrows. The periodogram shows both cycles at confidence levels above 99%. In addition to the tests here, the 274-myr cycle was previously found in studies of large igneous provinces [1,82]. Collectively, this again suggests a link between astronomical cycles and geological cycles.\nFractal half-cycles also appear at the kyr-scale. For example, the 376-kyr half-cycle appears in oscillations of inverted d18O data [31] (Fig. 12A) and d13C data [31] (Fig. 12B) from 28.26 to 24.13 Ma. Both periodograms show strong spectral peaks near the dotted line corresponding to 376-kyr.\nLikewise, Fig. 13 illustrates a 4.64-kyr half-cycle in a time-series of temperatures at Dome C, Antarctica [32]. The time-series plot also demonstrates how fractal halfcycles and full-cycles often propagate harmonically – with alternating half-cycles exhibiting greater amplitudes, marked by the arrows. The periodogram contains 128 cycles (versus the 14 cycles shown in Fig. 13), and it shows strong spectral peaks near the 4.64-kyr half-cycle and the 3.09-kyr full cycle.\nFig. 14 shows examples of the 1.55-kyr half-cycle. The 1.55-kyr cycle appears in a climate proxy from Turkey [33] (Fig. 14A), a climate proxy from Greenland [34] (Fig. 14B), and in a solar activity proxy [35] (Fig. 14C). This cycle of periodic warming is known as the Dansgaard– Oeschger cycle [4,5]. The periodograms give estimates for the cycle in a range between 1.50-kyr and 1.53-kyr.\nDespite the high confidence levels, the similar periodicities, and the noticeable correlations, the spectra often showed cycles outside of the ranges specified in this study.\nFig. 12. Examples of the 376-kyr half-cycle. Filtered and scaled time-series plots. B – d13C values [31] fixed to the CK-1995 timescale. Corresponding periodogram\nUntil now, the analyses ignored the cycles found outside of the ±4% tolerance for identifying the harmonic cycles. The previous tests validated individual cycles, but did not prove the fractal pattern. To validate the pattern, it is necessary to include all cycles shown in the spectra – not just those within the ±4% tolerance. After including all of the cycles, it was possible to estimate their probability distribution with a histogram. We accomplished this by first conducting an exploratory search from raw Lomb-Scargle periodogram outputs for the 33 time-series sequences and their segments. Restricting the search to cycles from raw periodograms reduced variation from smoothing and windowing techniques (often used with spectral analysis). Doing so makes replication of this study relatively easy – regardless of the type of raw periodogram used.\nThe search showed 785 cycles with confidence levels above 95%. Table 4 gives statistics about these cycles, including their periods, confidence levels, age ranges, and time-series sources. To evaluate the 785 cycles from this inclusive study, we calculated percentage deviations for all of the cycles. This was accomplished by finding the smallest fractal full-cycle (in the second column of Table 1) that was greater than the test cycle. Then, percentage deviations were calculated from the equation below."
+  }, {
+    "heading": "D ¼ 100 ðTP FPÞ=FP ð5Þ",
+    "text": "where D is the percentage deviation, TP is the test period from the raw periodogram, and FP is the theoretical period of the smallest fractal full-cycle greater than TP. The percentage deviations (D) ranged from 0% to 200% – with 0% corresponding to a low-frequency fractal full-cycle (with a period of P), 100% corresponding to a fractal half-cycle, and 200% corresponding to a high-frequency fractal fullcycle (with a period of P/3).\nNext, we placed the 785 deviations into a histogram with the bins evenly spaced at 1% intervals. Fig. 15A shows the raw histogram, and Fig. 15B–D shows three smoothed versions of the histogram. Rather than random variation,\nPanel A – d18O values (inverted) [31] fixed to the CK-1995 timescale. Panel s are to the right.\nthe histograms clearly show patterned formations closely aligned with the period-doubling and period-tripling predictions of the bifurcation branch of chaos theory. The fractal patterns were especially prominent in Fig. 15D, which weighted the occurrences by confidence level (4 for 99.99%, 3 for 99.9%, 2 for 99%, and 1 for 95%) and only included cycles with at least 100 repetitions. This is because measurements based on 100 or more repetitions ensure increased accuracy.\nAll of the panels in Fig. 15 also show pronounced peaks near the theoretical full-cycles (at 0% and 200%) and halfcycles (at 100%) – as well as smaller peaks with periods corresponding to 1/4 and 1/32 of full-cycles. This study indicates that the period-doubling pattern extends beyond the theoretical half-cycles, but weakens at the 1/4 and 1/32 phases.\nIn addition to the larger number of cycles near the harmonic frequencies, a conspicuous absence of cycles occurs in the range from 45% to 85%. This is midway between the regions surrounding the newly discovered quarter-cycles and the half- cycles. Another absence of cycles occurs from 130% to 140% (roughly midway between the full-cycles and half-cycles. Notably, there was no measurable pattern of period-doubling for cycles corresponding to 1/8, 1/16, 1/ 64, or 1/128 of full-cycles.\nAn example of well-known solar cycles highlight the full, 1/2, 1/4, 1/32 harmonic pattern illustrated in Fig. 15. Consider the theoretical 343.7-yr fractal full-cycle and its derivatives of 171.9-yr (half-cycles), 85.93-yr (quartercycle), and 10.74-yr (1/32-cycle). All of these closely correspond to well-established solar cycles as indicated by Fig. 8 (two measurements of the 343.7-yr solar cycle), the 171.9-yr solar cycle reported by Scafetta and Willson [38], the 86-yr periodicity called the Gleissberg cycle, and the 10.75-yr periodicity called the Schwabe sunspot\ncycle. Thus, the patterns in Fig. 15 indicate that the fractal harmonics include well-known solar cycles in accordance with the volcanic, climatic, and quasar formation cycles we now emphasize.\nHowever, rather than relying on visual inspection of the histograms to decide if the fractal cycles result from pure chance, we use the exact binomial test to evaluate this possibility. Conveniently, the test is particularly appropriate for analyzing distributions found in histograms. To apply the test, we initially used only the bins within 4% of the theoretical full and half cycles. This roughly equals the 4% range for the aforementioned cycle validation system. The histogram occurrences for the 18 specified bins ranging from 1 to 4, 96 to 104, and 196 to 200 counted as successes for the test. The test evaluated the contents of the 18 specified bins against the contents of all 200 bins. The probability of each bin filling by pure chance is 1/200, and the probability of the 18 specified bins filling by pure chance is 18/200 (0.09). The 18 specified bins held 144 of the 785 total occurrences.\nBased on the 144 successes for 785 trials, the null hypothesis, H0, is that the 18 bins fill at a rate less than or equal to the rate of pure chance, which is 0.09. The alternative, H1, is that the 18 bins fill at a rate greater than the rate of pure chance. Using these numbers, the exact binomial test returned a confidence interval of [0.091, 1.000] and a p-value = 2.77 10 16. Because the rate of pure chance (0.090) falls below the [0.091, 1.000] interval, we reject H0 with a certainty given by the p-value of 2.77 10 16. Thus, the alternative of the fractal-related bins filling at rates above pure chance becomes the preferred hypothesis.\nBy using the same approach, we tested several different scenarios involving 4% ranges, 7% ranges, and the restrictive histogram shown if Fig. 15D. We also included scenar-\nios for the 1/4 and 1/32 cycles. For every scenario, the exact binomial test rejected H0 with extremely high confidence levels – generally indicating far less than one chance in a trillion that random fluctuations cause the cycles. These tests serve as statistical proof that the harmonic patterns associated with the period-tripled cycles are real and not a consequence of pure chance."
+  }, {
+    "heading": "8. Discussion and conclusion",
+    "text": "By the late 1990s, evidence of correlations among astronomical, geological, climatic, and biological events began surfacing. Tiwari and Rao [12] noticed a 30-myr cycle (corresponding to the 30.44-myr half-cycle) with correlations among asteroid impacts, formation of large igneous\nprovinces (LIPs), climatic variation, and mass extinctions. From these correlations, they postulated that periodic asteroid impacts caused the geophysical and biological events [12]. Subsequent evidence discredited the theory because the LIPs sometimes occurred before the asteroid impacts – meaning that the impacts could not have caused the LIPs.\nSimilarly, Prokoph et al. [10] found a statistical link among cycles in LIPs, ocean chemistry, and biodiversity since 520 Ma (from updated versions of LIP, 87Sr/86Sr, d34S, and marine genera records). The study detected cycles ranging from 28 to 35-myr and from 60 to 65-myr, with both ranges encompassing the theoretical harmonic cycles of 30.44 and 60.89-myr. Melott and Bambach [7,83,9] and Melott et al. [8] also found evidence supportive of the 61-myr cycle.\nMoving toward even lower frequencies, evidence of the 822-myr full-cycle appears in periodic supercontinent formation (the Wilson cycle). Korenaga [84] proposes a 800- myr supercontinent cycle from the periodic opening and closing of large ocean basins. Instead of considering Gondwanaland as a supercontinent, Korenaga views it as a remnant of Rodinia. That is, Korenaga [84] considers it a building block of the more complete Pangea landmass that formed later. Viewed this way, the supercontinents of Pangea, Rodinia, Nuna, and Kenorland developed at nearly constant intervals of 822-myr, closely corresponding to theoretical fractal peaks at 268, 1090, 1912, and 2734 Ma. This correlation corresponds closely with zircon formation, crustal formation, genetic development, star formation, and quasar formation shown by the five panels in Fig. 10. Here, we offer a new step in determining why these diverse and correlated cycles occur at all observable scales. Specifically, the correlations indicate a common cyclical astronomical cause.\nBased on the tests of observed geological, genetic, and astronomical records, the fractal cycles appear as the dominant cycles at most scales. The spectra often show other significant cycles, including the Milankovitch cycles [36,85], known for their association with glaciations. Collectively, the tests demonstrate the similarities of cycles for astronomical, biological, climatic, geomagnetic, solar, and volcanic activities. The many positive correlations among the divergent proxies suggest a common cause acting at a universal scale.\nWe considered the scenario where the fractal cycles develop in a harmonic sequence by pure chance, but rejected that hypothesis at exceedingly high confidence levels. By using histograms (Fig. 15) and plotting the relative distributions of all of the cycles from all of the spectra (not just the validated period-tripled cycles), we were able to use scenarios from the exact binomial tests to confidently dismiss the possibility that the fractal cycles develop by pure chance.\nHence, we conclude that the fractal cycles must indeed share a common cause. At all scales, the fractal equations predict when formations and events are likely to occur, but the equations never imply that the individual records must exactly follow theoretical oscillations. The harmonically fractal cycles appear to have some minor natural variation in the periods between cycles – similar to variations in sunspot cycle periods [86,87].\nThe tests here suggest that universal-scale dynamics contribute to the local dynamics of planets, stars, and galaxies. This observation does not imply that the fractal cycles are the only causes of cyclical activities. Rather, the universal dynamics indicated by the fractal cycles contribute to the variety of cycles found in nature.\nThe analyses presented here call for the need to refocus research of apparently separate natural cycles toward a search for a shared cause. Ultimately, this new direction may identify the cause of the common harmonic cycles hypothesized here to pervade the observed regions of the Universe. Because the observed period-tripling pattern encompasses self-similar cycles ranging from decades to more than a billion years, we suggest exploring the possibility that the processes that govern the distribution of\nmatter in the universe organize the components in a harmonic and fractal structure. This finding elevates the importance of intensified investigation of theories associated with fractal cosmology, bifurcation, and chaos."
+  }, {
+    "heading": "Acknowledgments",
+    "text": "We thank Jens Wendler, Kent Condie, Nicola Scafetta, Bill Howell, and Rick Dutkiewicz for review and feedback of earlier versions of the manuscript."
+  }, {
+    "heading": "Appendix A. Quasar age calculations",
+    "text": "Astronomers typically measure quasars in terms of redshifted light [18]. However, this work requires converting the redshift values to ages. Accomplishing this entails choosing parameters for the Lambda-CDM (KCDM) cosmological model [76]. The three important cosmological parameters for making the calculations are the Hubble Constant (H0), the density of baryonic matter plus dark matter (Xm), and the density of dark energy (XK). Astrophysicists working with the seven-year Wilkinson Microwave Anisotropy Probe (WMAP) [76] proposed cosmological parameters of H0 = 70.4, Xm = 0.272, XK = 0.728 (WMAP cosmology). Conversely, astronomers working on the Sloan Digital Sky Survey (SDSS) [18,19] used cosmological parameters of H0 = 70.0, Xm = 0.300, XK = 0.700 (SDSS cosmology). We applied both cosmologies to the two quasar datasets to obtain a full range of ages. Heretofore, the text refers to these KCDM cosmologies by using the subscripts WMAP and SDSS.\nThe combination of datasets and cosmologies yielded four datasets of quasar ages, designated as follows:\nSDSS-7SDSS – Release 7 for SDSS cosmology {H0 = 70.0, Xm = 0.300, XK = 0.700} [18,19] SDSS-9SDSS – Release 9 for SDSS cosmology {H0 = 70.0, Xm = 0.300, XK = 0.700} [18,19] SDSS-7WMAP – Release 7 for WMAP cosmology {H0 = 70.4, Xm = 0.272, XK = 0.728} [76] SDSS-9WMAP – Release 9 for WMAP cosmology {H0 = 70.4, Xm = 0.272, XK = 0.728} [76]\nThe two quasar datasets have some notable differences. The newer SDSS-9 dataset [19] contains 87,822 quasars in total, but it only has 15 quasars between 2.3 Ga and the present. With so few samples in the recent past, we could not construct a time-series plot after 2.3 Ga. However, the SDSS-9 dataset has the advantage of estimating redshifts six ways. This allowed us to discard data with large redshift uncertainty and only use the reliable redshift values.\nThe older SDSS-7 dataset [18] has the advantage of containing 105,784 quasars, with 605 of those between 2.5 Ga and the present. Consequently, the SDSS-7 dataset was the only viable option for studying possible cycles and correlations in recent times. Notably, most of the disputed redshift values are much older than 2.5 Ga. Hence, SDSS-7 serves as a reasonable proxy for studying quasar formations during relatively recent times."
+  }, {
+    "heading": "Appendix B. Descriptions of the test data",
+    "text": "This appendix describes the data used in our tests. The tests involved 33 datasets from six disciplines: astronomical, biological, climatic, geomagnetic, solar, and volcanic. This section gives brief descriptions of each of the 33 datasets. Moreover, the references include information about obtaining the data. The majority are available to the public via online downloads, while a few are obtainable from tables or information within published articles.\nB.1. Astronomical data: B.1–B.4\nB.1 – SDSS-7 catalogue of quasars [18]. This dataset contains 105,783 quasar-like objects that have highly reliable redshifts. The researchers created SDSS-7 by inspecting all spectra either targeted as a quasar candidate or classified as a quasar by the spectroscopic pipelines [18]. The classifications in the SDSS-7 supersede those from all previous catalogue releases. This dataset is not a statistical sample of quasars because it includes quasar-like objects from all categories, not just those selected as quasar candidates [18]. Nevertheless, the selection of UV excess quasars remained reasonably uniform, and they constitute 63% of the total SDSS-7 catalogue [18]. This release improved identification of quasars with redshifts greater than 2.5. The quasars have a 1r age error of 0.3%, as described by Schneider et al. [18]\nB.2 – SDSS-9 catalogue of quasars [19]. This dataset contains 87,822 quasars with highly accurate redshifts, estimated by six methods. We eliminated quasars from the study if the range of the redshift estimates exceeded 2% of the visual redshift value. This reduced the dataset to 86,305 quasars. It includes known quasars, mostly from SDSS-I and II, that were re-observed by the Baryon Oscillation Spectroscopic Survey (BOSS) [19]. In addition, it includes 78,086 new discoveries [19]. For each object, the catalogue contains X-ray, ultraviolet, near-infrared, and radio emission properties of the quasars, when available, from other large-area surveys. The quasars have a 1r age error of 0.3%, calculated directly from the original records [19].\nB.3 – 16,682 stars from the Geneva-Copenhagen Survey (GCS) of the Solar neighborhood [28]. To study periodicity, we only had interest in the ages of the stars. In addition, the dataset contains information about the stars’ chemical composition, rotation, orbit, and kinematics. Where possible, the GCS authors strove to estimate new isochrone ages for the stars [28]. In particular, they paid attention to statistical biases and error estimates – factors they deemed as incorrectly calculated in past studies [28]. Despite these efforts, some of the stars had no age estimate. Consequently, we eliminated them from our study. Of the remaining candidates, 11,396 had age-errors less than 2.55-gyr (used with the test of the 822-myr cycle). There were 7216 stars with age-errors less than 560-myr (used with the test of the 274-myr cycle). The dataset contained many stars with unknown age errors or very large age errors (i.e., 2.5-gyr). To reduce the uncertainty, we only tested stars with age errors less than 0.55 gyr. These stars\nhave a 1r age error of 11.0%, calculated directly from the original records [28].\nB.4 – Updates to the properties of stars from the Geneva-Copenhagen Survey of the Solar neighborhood [27]. The authors aimed to improve upon the accuracy of earlier GCS data by implementing revisions from the Hipparcos parallaxes. The new parallaxes improved estimates for the distances of 12,506 stars from GCS. They [27] re-computed ages with new values of the star’s visual magnitude (Mv) from the Padova stellar evolution models used in GCS I-II, and compared them with ages from the Yale-Yonsei model and the Victoria-Regina model. With these revisions, the basic data for the GCS stars are as reliable as possible based on existing techniques [27]. They acknowledged that further improvement must await consolidation of the Teff scale from angular diameters and fluxes, and the Gaia trigonometric parallaxes. The dataset contained many stars with unknown age errors or very large age errors (i.e., 2.5-gyr). To reduce the uncertainty, we eliminated the stars with large age errors before (1) only testing stars with age errors less than 0.55 gyr and (2) and then testing stars with age errors less than 2.55 gyr. The stars from these two tests had 1r age errors of 14.0% and 18.5%, calculated directly from the original records [27].\nB.2. Biological data: B.5–B.6\nB.5 – A dataset consisting of 1651 genetic ages [20]. This study determined when specific animal transmembrane genes first developed by integrating ages from a paleontology repository with estimates from a maximum likelihood method [20]. They speculated that the evolution of new gene families may be coupled to environmental variables by showing that the density of the duplicated genes correlate positively with the estimates of maximum number of cell types of common ancestors [20]. Their study focused on the Phanerozoic eon, the eon with the most macro-evolutionary data. Using spectral analysis, they found a significant 60.92-myr cycle in the genetic data – similar to the periodicity found in our tests of the same data, and nearly identical to the 60.9-myr fractal cycle. In conclusion, they suggested using their methods as a new way to address questions about genetic evolution [20]. New gene families have a 1r age error of 4.8%, estimated from bio-stratification age errors of 1.3% [88] plus an additional 3.5% error because of uncertainties inherent with a biological time-series spanning 4.5-gyr.\nB.6 – A time-series of long-lived marine genera spanning the Phanerozoic eon [10]. The biodiversity data originally came from work by Raup and Sepkoski [89–91]. Later, Rohde and Muller converted the data [3] to the GTS-2004 timescale [75]. Recent refinements, also using the GTS2004 timescale, upgraded the time-series for genera surviving more than 45-myr [10]. The marine genera have a 1r age error of 4.9%, calculated from geological age errors of 2.9% [10] plus an additional 2% error because of uncertainties inherent with a biological time-series spanning the Phanerozoic eon.\nB.3. Climatic data: B.7–B.18\nB.7 – A 108-myr record of sea level and polar ice volume variations, derived from continental margin and deep-sea isotopic records obtained from two core-holes from the coastal plains of New Jersey and Delaware [79,92]. They scaled the oxygen isotope values to Lisiecki and Raymo [93] and used Miller’s sea level assumptions [79]. Typical to most time-series data of this extent, the interval between samples varied with age. The intervals were 100-kyr from 108 to 9 Ma, 5-kyr from 9 to 3 Ma, 2.5-kyr from 3000 to 1500 Ka, 2-kyr from 1500 to 600 Ka, and 1-kyr from 600 to 0 Ka. The sea level ages have a 1r age error of 9.8%, calculated directly from the original records [79].\nB.8 – A 591-myr reconstruction of global sea level changes based on biostratigraphy [94]. This innovative work combined geological layering (stratification) with fossil evidence to identify ages. Writers often refer to this time-series as the Exxon Sea Level Curve (after the funding corporation) or the Vail Curve (after the lead author). After its introduction, the Vail Curve became controversial for two reasons: because of the proprietary nature of the data used to construct the sea level proxy, and because of the method used to estimate sea level amplitudes [95]. Despite the amplitude deficiencies, subsequent studies validated the general number and the timing of the eustatic events [95]. For our study, the limitations of the Vail Curve are acceptable because spectral analysis requires correct ages for the maxima and minima in the time-series, with exact amplitudes of the extremes being relatively unimportant. Hence, the Vail Curve meets the criteria for evaluating periodicity in global sea levels. The sea level ages have a 1r age error of 3.3%, estimated from bio-stratification age errors of 1.3% [88] plus an additional 2% error because of uncertainties inherent with a cored time-series spanning the Phanerozoic eon.\nB.9 – A 65-myr proxy of global climate, derived from d18O data [36]. To construct this climatic time-series, the researchers converted older chronologies to the CK-1995 timescale [74]. While updating the chronologies, they discovered that the biozonation schemes for some sites were either outdated or unreliable due to low sampling resolution or a lack of detailed assemblage information [36]. In those cases, they augmented biostratigraphic interpretations with isotope stratigraphy [36]. The d18O values have a 2r age error of 5.2%, estimated from documentation about the CK-1995 timescale by Mountain et al. [96]\nB.10 – A sequence of climate proxies spanning the Oligocene from 34-23 Ma [31]. To construct the datasets, the authors used published benthic foraminiferal stable isotope data from the Ocean Drilling Program (ODP) Leg 199, Site 1218, in the equatorial Pacific, and they applied various age models to the ODP data [31]. For this study, we used three variations of the time-series: d13C data calibrated to the Laskar-2004 orbital model [85], d13C data calibrated to the CK-1995 timescale [74], and d18O data calibrated to the GTS-2004 timescale [75]. The d18O values have a 2r age error of 5.2%, estimated from documentation about the CK-1995 timescale by Mountain et al. [96]\nB.11 – A 112-myr compilation of benthic foraminiferal isotope values [73]. The researchers calibrated the d18O values [73] to two timescales – CK-1995 [74] and GTS2004 [75]. The work here examined both versions of the time-series of d18O values. The d18O values have a 2r age error of 5.2%, estimated from documentation about the CK-1995 timescale by Mountain et al. [96]\nB.12 – A time-series of water-depth in sedimentary structures [72], called a depth rank curve. A depth rank consists of a sequence of facies, related to the assumed relative depth of a lake during deposition [72]. The research provides the most direct measure of relative lake levels, and hence climate, presently available for these rocks [72]. The data ranges from 223 to 202 Ma, a time when the Newark rift basin accumulated more than 5 km of continental strata [72]. It consists of the composite record of the Nursery through Martinsville depth rank curves. The sedimentary ages have a 1r age error of 4.4%, estimated from zircon age errors [97] of 2.4% plus an additional 2% error because of uncertainties inherent with a sedimentary time-series from 223 to 202 Ma.\nB.13 – Two climate proxies of the Eastern Mediterranean region, calculated from the sea-land oxygen isotopic relationships from planktonic foraminifera and speleothems from Soreq and Peqiin caves in Israel [13]. The d18O data from Soreq Cave spans the last 250-kyr, while the data from Peqiin Cave spans the last 185-kyr. The combined d18O records from the caves span the last 250-kyr and closely correspond to the published Globigerinoides ruber marine d18O record for the Eastern Mediterranean Sea [13]. This links the land and the marine isotopic records [13]. The d18O values have a 1r age error of 1.2%, estimated from the stalagmite oxygen isotope models of Fleitmann et al. [13] and Carolin et al. [98]\nB.14 – A record of dust-flux (mg/yr and per m2) from 186 to 4 Ka, derived from an ice core extracted from Vostok, Antarctica [99]. The researchers assumed that atmospheric dust serves as a stratigraphic marker to compare with other climatic records [99]. Accordingly, they used the magnetic-susceptibility profile measured along the RC11-120 Indian Ocean core for this purpose [99]. They sampled the Vostok core every 8 m and performed micro-particle studies on ice sections 15–20 cm long [99]. Vostok dust-flux has a 2r age error of 3.5%, estimated from the GT4 Vostok glaciological timescale [16].\nB.15 – A high-resolution deuterium-based time-series of temperatures estimated from an ice core extracted at Dome C, Antarctica [32]. This climate proxy extends from 800 Ka to present. The researchers noticed the general correspondence between Dansgaard-Oeschger cycles and the smoothed Antarctic counterparts from their Dome C record [32]. They listed Antarctica temperatures as differences from the average of the last 1000 years, and calculated the record by adjusting for sea-water isotopic composition and adjusting for ice sheet elevation [32]. Antarctica temperatures have a 2r age error of 2.8%, estimated from the EDC3 age scale [100].\nB.16 – A 50-kyr time-series of d18O values estimated by a stalagmite extracted from Sofular Cave, Turkey [33]. Intervals between samples range from 2 to 65 years. Timing\nof the Sofular record consistently fluctuates within ±300 years of the Hulu Cave record for most of the Greenland interstadials, while divergences greater than 500 years occur between the Sofular and Hulu records for Greenland interstadials 4 and 7 [33]. The d18O values have a 1r age error of 1.4%, calculated directly from the original records [33].\nB.17 – A 111-kyr record of d18O values estimated from the GISP2 ice core extracted from Greenland [34]. The interval between samples ranges from as small as 4 years for the newest potions of the core to as large as 400 years for the oldest portions of the core. The GISP2 d18O values have a 2r age error of 2.7%, estimated from Alley et al. [101] and Huybers and Wunsch [102].\nB.18 – A 4000-year proxy of Greenland surface temperatures, estimated from air trapped in the GISP2 ice core [103]. To accomplish this, the research team applied a new method that uses d15N and d40Ar isotopic ratios from occluded air bubbles [103]. The time-series consists of 4000 samples at evenly spaced annual intervals. Greenland surface temperatures have a 1r age error of 1.1%, estimated form a GISP2-Hulu Cave composite model [104].\nB.4. Geomagnetic data: B.19–B.23\nB.19 – A time-series of geomagnetic intensity, constructed from six sediment cores from the equatorial Pacific, three from the West Caroline Basin, and three from the Manihiki Plateau [22]. The data spans the time from 3.0 to 0.8 Ma. The research team estimated ages by correlating variations in magnetic concentration (magnetic susceptibility and/or remanent magnetization) to target d18O curves [22]. Geomagnetic excursions corresponded to some of the paleointensity minima [22]. Geomagnetic intensity has a 2r age error of 1.8%, estimated from Huybers and Wunsch [102].\nB.20 – A composite time-series obtained by integrating 33 records of relative geomagnetic intensity into a single curve spanning the past 800-kyr [23]. Our work used a combination of this time-series [23] and the time-series from Yamazaki and Oda [22] for a continuous sequence of geomagnetic intensity measurements from 3.0 Ma to present. Geomagnetic intensity has a 2r age error of 1.8%, estimated from Huybers and Wunsch [102].\nB.21 – A 1.5-myr time-series of relative geomagnetic intensity [21], achieved by coupling relative geomagnetic paleointensity and oxygen isotope records. The researchers noticed that geomagnetic reversals and geomagnetic excursions coincided with periods of low geomagnetic intensity [21]. Geomagnetic intensity has a 2r age error of 1.8%, estimated from Huybers and Wunsch [102].\nB.22 – A 3.6-myr time-series of magnetic susceptibility, estimated from two continuous red-clay and loesspaleosol sequences on the Chinese Loess Plateau [14]. The authors used this time-series to investigate the variability of the East Asian monsoon [14]. Magnetic susceptibility is a component of geomagnetic intensity. Thus, it partially correlates with geomagnetic intensity. Magnetic susceptibility has a 1r age error of 1.7%, from documentation by the authors [14].\nB.23 – A 140-kyr time-series measuring dust aerosols and magnetic susceptibility [15]. The research team collected samples from the southern Chinese Loess Plateau [15]. They noticed dominant cycles [15] corresponding to Dansgaard-Oeschger cycles and Heinrich events. Magnetic susceptibility has a 1r age error of 1.3%, estimated from magnetic susceptibility [14] and d18O records since 100 Ka [98].\nB.5. Solar data: B.24–B.27\nB.24 – A proxy of solar activity, calculated from Beryllium concentrations in the GISP2 ice core [35]. Technicians at the Lawrence Livermore National Laboratory Centre for Accelerator Mass Spectrometry made the 10Be half-life measurements for the study [35]. The time-series ranges from 40 to 3 Ka. Solar activity has a 1r age error of 0.6%, calculated directly from the original records [35].\nB.25 – An 11.4-kyr reconstruction of sunspot numbers [24]. To accomplish this, the research team combined a dendrochronological age model with radiocarbon concentrations. In the process, they used physics-based models to connect the radiocarbon concentrations with sunspot numbers [24]. The sunspot numbers have a 1r age error of 0.8%, estimated from dendrochronological age models [105,106] and a 14C age model [107].\nB.26 – A 9.3-kyr time-series of total solar irradiance [25], measured from 10Be concentrations in ice cores extracted from Greenland (GRIP) and Antarctica (South Pole). Measurements of 10Be allow reconstruction of total solar irradiance much further into the past than existing methods based solely on sunspot numbers [25]. Total solar irradiance has a 2r age error of 3.4%, estimated from the EDC1 Dome Concordia timescale [108].\nB.27 – A 1000-year time-series of solar activity, derived from radionuclide records [78]. Excluding the era of direct solar observations, radionuclide abundances in natural archives provide the best method for reconstructing solar activity [78]. This solar proxy consists of estimates inferred from 10Be and 14C tree-ring records. The 10Be records were from Greenland ice cores (Camp Century, GRIP, Milcent, and Dye3) and Antarctic ice cores (Dome Concordia and South Pole). The 14C records were from the SHCal and IntCal04 standards for the years 1000–1510 and from annual data for the years 1511–1950. In general, the 10Be and 14C records exhibit good agreement – allowing reliable estimates of past solar magnetic modulation [78]. Our work used the output described as solar modulation function. Solar activity has a 1r age error of 0.6%, estimated from tree-ring and sunspot age errors given in documentation by the authors [78].\nB.6. Volcanic data: B.28–B.33\nB.28 – A 4.5-gyr time-series of the progressive growth of Earth’s continental crust [30]. This time-series consists of the percentage of Earth’s crust that developed, in 200- myr intervals, since Earth’s formation. In this sense, the continental crust time-series [30] represents the first\nproxy of Earth’s entire exterior evolution. As a result of their work, McCulloch and Bennett [30] noticed episodes of rapid crustal formation at 3600, 2700, and 1800 Ma – reasonably close to theoretical peaks of the 822-myr fractal cycle at 3556, 2734, and 1912 Ma. This time-series, along with the Vail Curve [94], were the first pieces of evidence to indicate that harmonic cycles occur at the myr scale. Continental crust has a 1r age error of 2.5%, estimated from 206Pb/204Pb age errors by Rasbury et al. [109].\nB.29 – A dataset of nearly 40,000 U/Pb zircon ages, representative of episodic zircon formations that correspond to supercontinent connections and continental growth [97]. They used a probabilistic kernel density analysis of the zircon ages to find times of unusually high zircon formation, and found five major peaks at 2700, 1870, 1000, 600, and 300 Ma – closely corresponding to supercontinent formation. Similar to the work from McCulloch and Bennett [30], four of the five major peaks closely aligned with theoretical peaks of the 822-myr fractal cycle at 2734, 1912, 1090, and 268 Ma. For the analysis here, we excluded the igneous zircons because of persistent rounding to the nearest million-year digits – especially those ending with 0 and 5. The rounding patterns caused false signals in the periodograms for igneous zircons. Hence, we only used the 29,405 detrital zircons from the dataset. The 30.4- myr test excluded zircons with age-errors > 10-myr; the 91.3-myr test excluded zircons with age-errors > 20-myr; the 274-myr test excluded zircons with age-errors > 30- myr; and the 822-myr test excluded zircons with ageerrors > 60-myr. The zircons have a 1r age error of 2.3%, calculated directly from the original records [97].\nB.30 – A dataset of U/Pb ages from detrital zircons [29]. This master dataset combined zircon ages from several published datasets, and removed the duplicate entries. In previous related work, Condie and Aster [97] found an uneven distribution in the ages of zircons, and suggested that peak occurrences in zircon numbers correspond closely to times of supercontinent assembly. These newer zircon records represent the latest attempt to better identify the times of supercontinent assembly and continental growth. The zircons have a 1r age error of 1.4%, calculated directly from the original records [29].\nB.31 – A 420-kyr time-series of methane concentrations (ppbv) from the Vostok, Antarctica ice core [16]. The methane concentrations have a 2r age error of 3.5%, obtained from a related document that describes the GT4 Vostok glaciological timescale [16].\nB.32 – A 1.155-myr time-series of global volcanic activity, constructed from the tephra layers along the Ring-ofFire [17]. The data came from numerous preliminary reports of the Deep Sea Drilling Project (DSDP), Ocean Drilling Program (ODP), and Integrated Ocean Drilling Program (IODP). It included samples from Nankai, Alaska, the Aleutian Arc and Basin, Kamchatka, New Zealand, the Tonga Arc, and the Philippines [17]. For the past million years, the times of volcanic events have a 2r age error of 4.7%, obtained from documentation given by the authors [17].\nB.33 – A 110-kyr time-series of volcanic sulfate concentrations, measured from the GISP2 (Greenland) ice core [26] Zielinski and Mershon [26] calibrated ages to the\nMeese/Sowers timescale, and took samples every 2 years in the newest portions of the time-series to every 30 years in the oldest portions. The sulfate values have a 1r age error of 2.7%, estimated from Alley et al. [101] and Huybers and Wunsch [102]."
+  }, {
+    "heading": "Appendix C. Supplementary data",
+    "text": "Supplementary data associated with this article can be found, in the online version, at http://dx.doi.org/10.1016/ j.chaos.2014.04.001."
+  }],
+  "year": 2014,
+  "references": [{
+    "title": "Implications of the temporal distribution of high-Mg magmas for mantle plume volcanism through time",
+    "authors": ["Isley AE", "Abbott DH"],
+    "venue": "J Geol 2002;110:141–58",
+    "year": 2002
+  }, {
+    "title": "On the solar origin of the thermoluminescence profile of the GT14",
+    "authors": ["CC Castagnoli", "G Bonino", "A Provenzale", "M. Serio"],
+    "venue": "core. In: Sun in time conference,",
+    "year": 1989
+  }, {
+    "title": "Cycles in fossil diversity",
+    "authors": ["Rohde RA", "Muller RA"],
+    "venue": "Nature",
+    "year": 2005
+  }, {
+    "title": "Evidence for general instability of past climate from a 250-kyr ice-core record",
+    "authors": ["W Dansgaard", "SJ Johnsen", "HB Clausen", "D Dahl-Jensen", "NS Gundestrup", "CU Hammer"],
+    "venue": "Nature",
+    "year": 1993
+  }, {
+    "title": "The North Atlantic’s 1–2 kyr climate rhythm: relation to Heinrich events, Dansgaard/Oeschger cycles and the little ice age",
+    "authors": ["GC Bond", "W Showers", "M Elliot", "M Evans", "R Lotti", "I Hajdas", "G Bonani", "S. Johnson"],
+    "venue": "editors. Geophys. Monogr. Ser.,",
+    "year": 1999
+  }, {
+    "title": "Multi-scale harmonic model for solar and climate cyclical variation throughout the Holocene based on Jupiter– Saturn tidal frequencies plus the 11-year solar dynamo cycle",
+    "authors": ["N. Scafetta"],
+    "venue": "J Atmos Solar Terr Phys 2012",
+    "year": 2012
+  }, {
+    "title": "A ubiquitous 62 Myr periodic fluctuation superimposed on general trends in fossil biodiversity",
+    "authors": ["Melott AL", "Bambach RK"],
+    "venue": "I. Documentation. Paleobiology",
+    "year": 2011
+  }, {
+    "title": "A 60 Myr periodicity is common to marine-87Sr/86Sr, fossil biodiversity, and large-scale sedimentation: what does the periodicity reflect",
+    "authors": ["AL Melott", "RK Bambach", "KD Petersen", "JM. McArthur"],
+    "venue": "J Geol 2012;120:217–26",
+    "year": 2012
+  }, {
+    "title": "Do periodicities in extinction – with possible astronomical connections – survive a revision of the geological timescale",
+    "authors": ["Melott AL", "Bambach RK"],
+    "venue": "Astrophys J",
+    "year": 2013
+  }, {
+    "title": "Periodicities in the emplacement of large igneous provinces through the Phanerozoic: relations to ocean chemistry and marine biodiversity evolution. Geosci Front 2013;4:263–76 (Dataset from Table 2, marine genera)",
+    "authors": ["A Prokoph", "H el Bilali", "R. Ernst"],
+    "year": 2013
+  }, {
+    "title": "Compilation and time-series analysis of marine carbonate  d18O, d13C, 87Sr/86Sr and d34S databases through Earth history",
+    "authors": ["A Prokoph", "GA Shields", "J. Veizer"],
+    "venue": "Earth Sci Rev 2008;87:113–34",
+    "year": 2008
+  }, {
+    "title": "Correlated variations and periodicity of global CO2, biological mass extinctions, and extra-terrestrial bolide impacts over the past 250 million years, and possible geodynamical implications",
+    "authors": ["Tiwari RK", "Rao KNN"],
+    "venue": "Geofizika",
+    "year": 1998
+  }, {
+    "title": "Sea-land oxygen isotopic relationships from planktonic foraminifera and speleothems in the Eastern Mediterranean region and their implication for paleorainfall during interglacial intervals. Geochim Cosmochim Acta 2003;67:3181–99",
+    "authors": ["M Bar-Matthews", "A Ayalon", "M Gilmour", "A Matthews", "CJ. Hawkesworth"],
+    "venue": "Data Contr Series",
+    "year": 2003
+  }, {
+    "title": "Astronomical timescale and palaeoclimatic implication of stacked 3.6-myr monsoon records from the Chinese Loess Plateau",
+    "authors": ["Y Sun", "SC Clemens", "Z An", "Z. Yu"],
+    "venue": "Quat Sci Rev 2006;25:33–48",
+    "year": 2006
+  }, {
+    "title": "Climate effect of dust aerosol in southern Chinese Loess Plateau over the last 140,000 years",
+    "authors": ["X Qin", "Y Mu", "B Ning", "Z. Yin"],
+    "venue": "Geophys Res Lett 2010;36:L02707. Data Contribution Series",
+    "year": 2014
+  }, {
+    "title": "Climate and atmospheric history of the past 420,000 years from the Vostok ice core, Antarctica",
+    "authors": ["JR Petit", "J Jouzel", "D Raynaud", "NI Barkov", "JM Barnola", "I Basile"],
+    "venue": "Nature",
+    "year": 1999
+  }, {
+    "title": "A detection of Milankovitch frequencies in global volcanic activity",
+    "authors": ["S Kutterolf", "M Jegen", "JX Mitrovica", "T Kwasnitschka", "A Freundt", "PJ. Huybers"],
+    "venue": "Geology 2013:G33419.1. Dataset link: <ftp:// rock.geosociety.org/pub/reposit/2013/2013055.pdf>",
+    "year": 2013
+  }, {
+    "title": "The SDSS-DR7 quasar catalogue (Schneider+",
+    "authors": ["DP Schneider", "GT Richards", "PB Hall", "MA Strauss", "SF Anderson", "TA Boroson"],
+    "venue": "VizieR On-line Data Catalogue",
+    "year": 2010
+  }, {
+    "title": "The sloan digital sky survey quasar catalogue: ninth data release, arXiv:1210.5166v1 [astro-ph.CO",
+    "authors": ["I Pâris", "P Petitjean", "E Aubourg", "S Bailey", "NP Ross", "AD Myers"],
+    "year": 2012
+  }, {
+    "title": "Insights into the coupling of duplication events and macroevolution from an age profile of animal transmembrane gene families",
+    "authors": ["G Ding", "J Kang", "Q Liu", "T Shi", "G Pei", "Y. Li"],
+    "venue": "PLoS Comput Biol 2006;2(8):e102",
+    "year": 2010
+  }, {
+    "title": "Stacking paleointensity and oxygen isotope data for the last 1.5 myr",
+    "authors": ["JET Channell", "C Xuan", "DA. Hodell"],
+    "venue": "Earth Planet Sci Lett",
+    "year": 2009
+  }, {
+    "title": "A geomagnetic paleointensity stack between 0.8 and 3.0 Ma from equatorial Pacific sediment cores. Geochem Geophys Geosyst 2005;6:Q11H20. Dataset from the supporting information of the online edition at doi: http://dx.doi.org/10.1029/ 2005GC001001",
+    "authors": ["T Yamazaki", "H. Oda"],
+    "year": 2005
+  }, {
+    "title": "Global changes in intensity of the Earth’s magnetic field during the past 800-kyr",
+    "authors": ["Guyodo Y", "Valet JP"],
+    "venue": "Nature",
+    "year": 1999
+  }, {
+    "title": "An unusually active sun during recent decades compared to the previous 11,000 years. Nature 2005;431:1084–7",
+    "authors": ["SK Solanki", "IG Usoskin", "B Kromer", "M Schüssler", "J. Beer"],
+    "venue": "Data Contribution Series",
+    "year": 2004
+  }, {
+    "title": "Total solar irradiance during the Holocene",
+    "authors": ["F Steinhilber", "J Beer", "C. Fröhlich"],
+    "venue": "Geophys Res Lett 2009;36:L19704. Data Contr. Series",
+    "year": 2009
+  }, {
+    "title": "Paleoenvironmental implications of the insoluble microparticle record in the GISP2 (Greenland) ice core during the rapidly changing climate of the Pleistocene–Holocene transition",
+    "authors": ["Zielinski GA", "Mershon GR"],
+    "venue": "Geol Soc Am Bull",
+    "year": 1997
+  }, {
+    "title": "Geneva–Copenhagen survey of solar neighborhood III (Holmberg+, 2009), VizieR on-line data catalogue V/130",
+    "authors": ["J Holmberg", "B Nordström", "J Andersen"],
+    "venue": "Dataset: http://vizier.cfa.harvard.edu/vizbin/VizieR?-source=V/130",
+    "year": 2009
+  }, {
+    "title": "Geneva–Copenhagen Survey of Solar neighbourhood (Holmberg+, 2007), VizieR on-line data catalogue V/117A",
+    "authors": ["B Nordström", "M Mayor", "J Andersen", "J Holmberg", "F Pont", "BR Jorgensen"],
+    "venue": "Originally published in: 2004A 2007A&A...475.. 519H. Dataset link: http://cdsarc.u-strasbg.fr/viz-bin/nph-Cat/",
+    "year": 2008
+  }, {
+    "title": "Preservation and recycling of crust during accretionary and collisional phases of proterozoic orogens: a bumpy road from Nuna to Rodinia",
+    "authors": ["Condie KC"],
+    "year": 2013
+  }, {
+    "title": "Progressive growth of the Earth’s continental crust and depleted mantle geochemical constraints",
+    "authors": ["McCulloch MT", "Bennett VC"],
+    "venue": "Geochim Cosmochim Acta",
+    "year": 1994
+  }, {
+    "title": "The heartbeat of the Oligocene climate system",
+    "authors": ["H Pälike", "RD Norris", "JO Herrle", "PA Wilson", "HK Coxall", "CH Lear"],
+    "venue": "Science",
+    "year": 2006
+  }, {
+    "title": "Orbital and millennial Antarctic climate variability over the past 800,000 years. Science 2007;317:793–7",
+    "authors": ["J Jouzel", "V Masson-Delmotte", "O Cattani", "G Dreyfus", "S Falourd", "G Hoffmann"],
+    "venue": "Dataset link:",
+    "year": 2007
+  }, {
+    "title": "Timing and climatic impact of Greenland interstadials recorded in stalagmites from northern Turkey",
+    "authors": ["D Fleitmann", "H Cheng", "S Badertscher", "RL Edwards", "M Mudelsee", "OM Göktürk"],
+    "venue": "Geophys Res Lett 2009;36:L19707. Data Contribution Series",
+    "year": 2009
+  }, {
+    "title": "Oxygen 18/16 variability in Greenland snow and ice with 103 to 105-year time resolution",
+    "authors": ["PM Grootes", "M. Stuiver"],
+    "venue": "J Geophys Res",
+    "year": 1997
+  }, {
+    "title": "Beryllium 10 concentrations in the Greenland ice sheet project 2 ice core from 3-40 ka",
+    "authors": ["RC Finkel", "K. Nishiizumi"],
+    "venue": "J Geophys Res",
+    "year": 1997
+  }, {
+    "title": "Trends, rhythms, and aberrations in global climate 65 Ma to present. Science 2001;292:686–93",
+    "authors": ["J Zachos", "M Pagani", "L Sloan", "E Thomas", "K. Billups"],
+    "venue": "Dataset link: http://www.es.ucsc.edu/~silab/",
+    "year": 2001
+  }, {
+    "title": "The 1.3-year and 156-day periodicities in sunspot data: Wavelet analysis suggests a common origin",
+    "authors": ["Krivova NA", "Solanki SK"],
+    "venue": "A394:701–6",
+    "year": 2002
+  }, {
+    "title": "Planetary harmonics in the historical Hungarian aurora record (1523–1960)",
+    "authors": ["Scafetta N", "Willson RC"],
+    "venue": "Planet Space Sci 2013;78:38–44",
+    "year": 2013
+  }, {
+    "title": "Linear and non-linear response of late Neogene glacial cycles to obliquity forcing and implications for the Milankovitch theory",
+    "authors": ["LJ Lourens", "J Becker", "R Bintanja", "FJ Hilgen", "E Tuenter", "RSW van de Wal"],
+    "venue": "Quat Sci Rev 2010;29:352–65",
+    "year": 2010
+  }, {
+    "title": "Joint determination of  40K decay constants and 40Ar⁄/40K for the Fish Canyon sanidine standard, and improved accuracy for  40Ar/39Ar geochronology",
+    "authors": ["PR Renne", "R Mundil", "G Balco", "K Min", "KR. Ludwig"],
+    "venue": "Geochim Cosmochim Acta 2010;74:5349–67",
+    "year": 2010
+  }, {
+    "title": "Evaluation of the astronomical time scale for the Paleocene and earliest Eocene",
+    "authors": ["FJ Hilgen", "KF Kuiper", "LJ. Lourens"],
+    "venue": "Earth Planet Sci Lett 2010;300:139–51",
+    "year": 2010
+  }, {
+    "title": "Les objets fractals",
+    "authors": ["B. Mandelbrot"],
+    "year": 1975
+  }, {
+    "title": "The fractal geometry of nature",
+    "authors": ["B. Mandelbrot"],
+    "year": 1982
+  }, {
+    "title": "Detection of nonstationarities in geological time series: wavelet transform of chaotic and cyclic sequences",
+    "authors": ["A Prokoph", "F. Barthelmes"],
+    "venue": "Geosci",
+    "year": 1996
+  }, {
+    "title": "The fractal structure of the universe: correlations of galaxies and clusters",
+    "authors": ["L. Pietronero"],
+    "venue": "Physica A 1987;144:257",
+    "year": 1987
+  }, {
+    "title": "Basic properties of galaxy clustering in the light of recent results from the sloan digital sky survey",
+    "authors": ["M Joyce", "FS Labini", "A Gabrielli", "M Montouri", "L. Pietronero"],
+    "venue": "A443:11–6",
+    "year": 2005
+  }, {
+    "title": "Is the universe a fractal? New Sci 2007;2594:30–3",
+    "authors": ["A. Gefter"],
+    "year": 2007
+  }, {
+    "title": "On steep gravity waves meeting a vertical wall: a triple instability",
+    "authors": ["Longuet-Higgins MS", "Drazen DA"],
+    "venue": "J Fluid Mech",
+    "year": 2002
+  }, {
+    "title": "Period tripling and energy dissipation of breaking standing waves",
+    "authors": ["L Jiang", "M Perlin", "WW. Schultz"],
+    "venue": "J Fluid Mech 1998;369:273–99",
+    "year": 1998
+  }, {
+    "title": "Experimental demonstration of period length switching for superconducting insertion devices. In: Proceedings of the international particle accelerator conference",
+    "authors": ["a Grau", "T Baumbach", "S Casalbuoni", "S Gerstl", "M Hagelstein", "D Saez de Jauregui"],
+    "venue": "Kyoto, Japan:",
+    "year": 2010
+  }, {
+    "title": "Nonlinear dynamics in directly modulated multiple-quantum-well laser diodes",
+    "authors": ["S Bennet", "M Snowden", "S. Iezekiel"],
+    "venue": "IEEE J Quantum Electron",
+    "year": 1997
+  }, {
+    "title": "Period tripling and chaos in the dynamic behavior of directly modulated diode lasers",
+    "authors": ["H Lamela", "G Carpintero", "FJ. Mancebo"],
+    "venue": "IEEE J Quantum Electron 1998;34:1797–801",
+    "year": 1998
+  }, {
+    "title": "Nonlinear dynamics of a directly modulated 1.55 lm InGaAsP distributed feedback semiconductor laser",
+    "authors": ["Liu HF", "Ngai WF"],
+    "venue": "IEEE J Quantum Electron 1993;29:1668–75",
+    "year": 1993
+  }, {
+    "title": "A language and environment for statistical computing. (R Foundation for Statistical Computing",
+    "authors": ["R R Development Core Team"],
+    "venue": "S.J. Puetz et al. / Chaos, Solitons & Fractals",
+    "year": 2014
+  }, {
+    "title": "The use of confidence or fiducial limits illustrated in the case of the binomial",
+    "authors": ["Clopper CJ", "Pearson ES"],
+    "year": 1934
+  }, {
+    "title": "Practical nonparametric statistics",
+    "authors": ["Conover WJ"],
+    "year": 1971
+  }, {
+    "title": "Nonparametric statistical methods",
+    "authors": ["Hollander M", "Wolfe DA"],
+    "year": 1973
+  }, {
+    "title": "Spectral analysis of signals",
+    "authors": ["P Stoica", "R. Moses"],
+    "venue": "Upper Saddle River, NJ: Prentice-Hall;",
+    "year": 2005
+  }, {
+    "title": "Studies in astronomical time series analysis. II – statistical aspects of spectral analysis of unevenly spaced data",
+    "authors": ["Scargle JD"],
+    "venue": "Astrophys J 1982;263:835–53",
+    "year": 1982
+  }, {
+    "title": "Communication in the presence of noise",
+    "authors": ["Shannon CE"],
+    "venue": "Proc Inst Radio Eng 1949;37:10–21",
+    "year": 1949
+  }, {
+    "title": "Discussion on the symposium on autocorrelation in time series",
+    "authors": ["Daniell PJ"],
+    "venue": "Suppl J R Stat Soc 1946;8:88–90",
+    "year": 1946
+  }, {
+    "title": "Fourier analysis of time series: an introduction",
+    "authors": ["P. Bloomfield"],
+    "year": 2000
+  }, {
+    "title": "Modern applied statistics with S",
+    "authors": ["Venables WN", "Ripley BD"],
+    "year": 2002
+  }, {
+    "title": "The analysis of time series: an introduction",
+    "authors": ["C. Chatfield"],
+    "venue": "6th ed. Boca Raton, FL: Chapman ",
+    "year": 2004
+  }, {
+    "title": "Chapter 3: ice ages and astronomical causes",
+    "authors": ["Muller RA", "MacDonald GJ"],
+    "year": 2002
+  }, {
+    "title": "Numerical recipes: the art of scientific computing",
+    "authors": ["W Press", "SA Teukolsky", "WT Vetterling", "BP. Flannery"],
+    "year": 2007
+  }, {
+    "title": "Spectral analysis for physical applications",
+    "authors": ["Percival DB", "Walden AT"],
+    "year": 1993
+  }, {
+    "title": "Multiple comparisons among means",
+    "authors": ["Dunn OJ"],
+    "venue": "J Am Stat Assoc 1961;56:52–64",
+    "year": 1961
+  }, {
+    "title": "Bonferroni-type inequalities with applications",
+    "authors": ["J Galambos", "I. Simonelli"],
+    "year": 1996
+  }, {
+    "title": "The beginning of the Monte Carlo method",
+    "authors": ["N. Metropolis"],
+    "venue": "Los Alamos Sci 1987;15:125–30",
+    "year": 1987
+  }, {
+    "title": "The large area KX quasar catalogue: I. Analysis of the photometric redshift selection and the complete quasar catalogue",
+    "authors": ["N Maddox", "PC Hewett", "C Péroux", "DB Nestor", "L. Wisotzki"],
+    "venue": "Mon Not R Astron Soc 2012;424:2876–95",
+    "year": 2012
+  }, {
+    "title": "Long-period Milankovitch cycles from the late Triassic and early Jurassic of eastern North America and their implications for the calibration of the early Mesozoic time-scale and the long-term behavior of the planets",
+    "authors": ["Olsen PE", "Kent DV"],
+    "venue": "Philos Trans R Soc London Ser A",
+    "year": 1999
+  }, {
+    "title": "Ocean overturning since the Late Cretaceous: Inferences from a new benthic foraminiferal isotope compilation",
+    "authors": ["BS Cramer", "JR Toggweiler", "JD Wright", "ME Katz", "KG. Miller"],
+    "venue": "Paleoceanography 2009;24:PA4216",
+    "year": 2009
+  }, {
+    "title": "Revised calibration of the geomagnetic polarity timescale for the late Cretaceous and Cenozoic",
+    "authors": ["Cande SC", "Kent DV"],
+    "venue": "J Geophys Res",
+    "year": 1995
+  }, {
+    "title": "A geologic time scale",
+    "authors": ["F Gradstein", "J Ogg", "A. Smith"],
+    "year": 2004
+  }, {
+    "title": "Seven-year Wilkinson microwave anisotropy probe (WMAP1) observations: cosmological interpretation",
+    "authors": ["E Komatsu", "KM Smith", "J Dunkley", "CL Bennett", "B Gold", "G Hinshaw"],
+    "venue": "Astrophys J Suppl Ser 2011;192:18",
+    "year": 2011
+  }, {
+    "title": "Solar activity during the last 1000 yr inferred from radionuclide records",
+    "authors": ["R Muscheler", "F Joos", "J Beer", "SA Müller", "M Vonmoos", "I. Snowball"],
+    "venue": "Quat Sci Rev 2007;26:82–97. Data Contribution Series,",
+    "year": 2008
+  }, {
+    "title": "A 180-millionyear record of sea level and ice volume variations from continental margin and deep-sea isotopic records. Oceanography 2011;24:40–53",
+    "authors": ["KG Miller", "GS Mountain", "JD Wright", "JV. Browning"],
+    "venue": "Dataset link: http://geology.rutgers.edu/people/ faculty/19-people/faculty/242-kenneth-g-miller",
+    "year": 2011
+  }, {
+    "title": "Effects of variable sedimentation rates and age errors on the resolution of sedimentary paleointensity records",
+    "authors": ["Guyodo Y", "Channell JET"],
+    "venue": "Geochem Geophys Geosyst 2002;3",
+    "year": 2001
+  }, {
+    "title": "External forcing of the geomagnetic field? Implications for the cosmic ray flux – climate variability",
+    "authors": ["J. Wendler"],
+    "venue": "J Atmos Solar Terr Phys 2004;66:1195–203",
+    "year": 2004
+  }, {
+    "title": "Time-series analysis of large igneous provinces: 3500 Ma to present",
+    "authors": ["A Prokoph", "RE Ernst", "KL. Buchan"],
+    "venue": "J Geol 2004;112:1–22",
+    "year": 2004
+  }, {
+    "title": "A ubiquitous 62 Myr periodic fluctuation superimposed on general trends in fossil biodiversity. II. Evolutionary dynamics associated with periodic fluctuation in marine diversity. Paleobiology 2011;38:383–408",
+    "authors": ["Melott AL", "Bambach RK"],
+    "year": 2011
+  }, {
+    "title": "Archean geodynamics and the thermal evolution of earth",
+    "authors": ["J. Korenaga"],
+    "year": 2006
+  }, {
+    "title": "A long-term numerical solution for the insolation quantities of the Earth",
+    "authors": ["J Laskar", "P Robutel", "F Joutel", "M Gastineau", "ACM Correia", "B. Levrard"],
+    "venue": "A428:261–85",
+    "year": 2004
+  }, {
+    "title": "Length of the solar cycle: an indicator of solar activity closely associated with climate",
+    "authors": ["E Friis-Christensen", "K. Lassen"],
+    "venue": "Science",
+    "year": 1991
+  }, {
+    "title": "Variation of cosmic ray flux and global cloud coverage–a missing link in solar-climate relationships",
+    "authors": ["H Svensmark", "E. Friis-Christensen"],
+    "venue": "J Atmos Solar Terr Phys 1997;59:1225–32",
+    "year": 1997
+  }, {
+    "title": "Quantification of the effects of eustasy, subsidence, and sediment supply on Miocene sequences, mid- Atlantic margin of the United States",
+    "authors": ["JV Browning", "KG Miller", "PP McLaughlin", "MA Kominz", "PJ Sugarman", "D Monteverde"],
+    "year": 2006
+  }, {
+    "title": "Mass extinctions in the marine fossil record",
+    "authors": ["Raup DM", "Sepkoski JJ"],
+    "venue": "Science",
+    "year": 1982
+  }, {
+    "title": "Patterns of Phanerozoic extinction: a perspective from global data bases",
+    "authors": ["Sepkoski JJ"],
+    "venue": "Wallister OH, editor. Global events and event stratigraphy. Berlin: Springer-Verlag;",
+    "year": 1996
+  }, {
+    "title": "A compendium of fossil marine animal genera",
+    "authors": ["Sepkoski JJ"],
+    "venue": "Bull Am Paleontol",
+    "year": 2002
+  }, {
+    "title": "Late Cretaceous to Miocene sea-level estimates from the New Jersey and Delaware coastal plain coreholes: an error analysis",
+    "authors": ["MA Kominz", "JV Browning", "KG Miller", "PJ Sugarman", "S Mizintseva", "CR. Scotese"],
+    "venue": "Basin Res",
+    "year": 2008
+  }, {
+    "title": "A Pliocene-Pleistocene stack of 57 globally distributed benthic d18",
+    "authors": ["Lisiecki LE", "Raymo ME"],
+    "venue": "O records. Paleoceanography",
+    "year": 2005
+  }, {
+    "title": "Seismic stratigraphy and global changes of sea level (in 11 parts)",
+    "authors": ["PR Vail", "RM Mitchum Jr.", "S Thompson III", "RG Todd", "JB. Sangree"],
+    "venue": "Am Assoc Pet Geol Memoir 1977;26:49–212",
+    "year": 1977
+  }, {
+    "title": "Sea level change, last 250 million years",
+    "authors": ["Miller KG"],
+    "venue": "Gornitz V, editor. Encyclopedia of paleoclimatology and ancient environments",
+    "year": 2009
+  }, {
+    "title": "Episodic zircon age spectra of orogenic granitoids: the super-continent connection and continental growth",
+    "authors": ["Condie KC", "Aster RC"],
+    "venue": "Precambrian Res",
+    "year": 2010
+  }, {
+    "title": "Tuen, Varied Response of Western Pacific Hydrology to Climate Forcings over the Last Glacial Period",
+    "authors": ["S.A. Carolin", "K.M. Cobb", "J.F. Adkins", "B. Clark", "J.L. Conroy", "S. Lejau", "A.A.J. Malang"],
+    "venue": "ScienceExpress June",
+    "year": 2013
+  }, {
+    "title": "Paleoclimato logical implications of the Vostok core dust",
+    "authors": ["JR Petit", "L Mounier", "J Jouzel", "Y Korotkevitch", "V Kotlyakov", "C. Lorius"],
+    "venue": "record. Lett Nat",
+    "year": 1990
+  }, {
+    "title": "The EDC3 chronology for the EPICA Dome C ice core",
+    "authors": ["F Parrenin", "JM Barnola", "J Beer", "T Blunier", "E Castellano", "J Chappellaz"],
+    "venue": "Clim Past 2007;3:485–97",
+    "year": 2007
+  }, {
+    "title": "Abrupt increase in Greenland snow accumulation at the end of the Younger Dryas event",
+    "authors": ["RB Alley", "DA Meese", "CA Shuman", "AJ Gow", "KC Taylor", "PM Grootes"],
+    "venue": "Nature",
+    "year": 1993
+  }, {
+    "title": "A depth-derived Pleistocene age model: uncertainty estimates, sedimentation variability, and nonlinear climate change",
+    "authors": ["P Huybers", "C. Wunsch"],
+    "venue": "Paleoceanography 2004;19:PA1028. http://",
+    "year": 2002
+  }, {
+    "title": "High variability of Greenland surface temperature over the past 4000 years estimated from trapped air in an ice core",
+    "authors": ["T Kobashi", "K Kawamura", "JP Severinghaus", "JM Barnola", "T Nakaegawa", "BM Vinther"],
+    "venue": "Geophys Res Lett 2011;38:L21501. Data Contribution Series",
+    "year": 2012
+  }, {
+    "title": "Marine radiocarbon evidence for the mechanism of deglacial atmospheric CO2 rise",
+    "authors": ["TM Marchitto", "SJ Lehman", "JD Ortiz", "J Flückiger", "A. van Geen"],
+    "venue": "Science",
+    "year": 2007
+  }, {
+    "title": "The continental tree-ring record – absolute chronology, 14C calibration and climatic change at 11 ka",
+    "authors": ["B Becker", "B. Kromer"],
+    "venue": "Palaeogeogr Palaeoclimatol Palaeoecol",
+    "year": 1993
+  }, {
+    "title": "The 12,460-year Hohenheim oak and pine tree-ring chronology from central Europe – a unique annual record for radiocarbon calibration and paleoenvironment reconstructions",
+    "authors": ["M Friedrich", "S Remmele", "B Kromer", "J Hofmann", "M Spurk", "KF Kaiser"],
+    "venue": "Radiocarbon",
+    "year": 2004
+  }, {
+    "title": "Response of Norwegian Sea temperature to solar forcing since 1000 A.D",
+    "authors": ["HP Sejrup", "SJ Lehman", "H Haflidason", "D Noone", "R Muscheler", "IM Berstad"],
+    "venue": "J Geophys Res 2010;115:C12034",
+    "year": 2034
+  }, {
+    "title": "A tentative chronology for the EPICA Dome Concordia ice core",
+    "authors": ["J Schwander", "J Jouzel", "CU Hammer", "JR Petit", "R Udisti", "E. Wolff"],
+    "venue": "Geophys Res Lett 2001;28:4243–6",
+    "year": 2001
+  }, {
+    "title": "U–Pb isochron age of exposure surfaces in rapidly deposited late Paleozoic cycles",
+    "authors": ["ET Rasbury", "GN Hanson", "WJ Meyers", "AH Saller", "S Hemming"],
+    "venue": "Accepted abstract for the 1996 Goldschmidt Conference of the Geochemical, Society",
+    "year": 1996
+  }],
+  "id": "SP:24697ed364fafc21ef0f7af90514e2e983a61473",
+  "authors": [{
+    "name": "Stephen J. Puetz",
+    "affiliations": []
+  }, {
+    "name": "Andreas Prokoph",
+    "affiliations": []
+  }, {
+    "name": "Glenn Borchardt",
+    "affiliations": []
+  }, {
+    "name": "Edward W. Mason",
+    "affiliations": []
+  }],
+  "abstractText": "Studies on continuously improving records of geological, biological, and astronomical events and processes led to increased awareness of common cycles in the records. Here we enhance the analytical scope of earlier discoveries by showing that most of these cycles occur in unison, as a harmonic series. Furthermore, we consider them universal because extra-terrestrial cycles involving quasar and star formation exhibit comparable periods to terrestrial cycles involving volcanism, extinction patterns, and genetic development. The cycles oscillate in multiples of three, cascading into a period-tripled set of cycles. We provide one equation combining the characteristics of 32 theoretical cycles, with periods ranging from 57.3 years to 1.64 billion years. Our statistical tests show that the astronomical and geological cycles are phase-locked synchronously, while the biological cycles lag. This synchrony suggests a common astronomical cause for geological and biological cycles. Along with the synchrony, the extensiveness of the observed period-tripling indicates that self-similar patterns develop at a universal scale. This suggests that divisible matter is distributed fractally throughout the universe, as postulated by fractal cosmologies, bifurcation theory, and chaos theory. 2014 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/3.0/).",
+  "title": "Evidence of synchronous, decadal to billion year cycles in geological, genetic, and astronomical events"
+}

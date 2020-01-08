@@ -1,0 +1,376 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nPalaeogeography, Palaeoclimatology, Palaeoecology\nj ourna l homepage: www.e lsev ie r .com/ locate /pa laeo\nInitial assessment of the carbon emission rate and climatic consequences during the end-Permian mass extinction\nYing Cui a,⁎, Lee R. Kump a, Andy Ridgwell b\na Department of Geosciences and Earth System Science Center, Pennsylvania State University, University Park, PA 16802, United States b School of Geographical Sciences, University of Bristol, University Road, Bristol BS8 1SS, UK\n⁎ Corresponding author. E-mail addresses: yzc122@psu.edu, cuiying00@gmail.c\n0031-0182/$ – see front matter © 2013 Elsevier B.V. All ri http://dx.doi.org/10.1016/j.palaeo.2013.09.001\na b s t r a c t a r t i c l e i n f o\nArticle history: Received 17 March 2013 Received in revised form 11 July 2013 Accepted 13 July 2013 Available online 14 September 2013\nKeywords: End-Permian mass extinction Carbon release CO2 cGENIE\nNumerous lines of geochemical and stable isotopic evidence indicate that the end-Permian mass extinction was accompanied by abrupt climate change induced by CO2 addition. Catastrophic end-Permian Siberian volcanism may have released a large amount of CO2 into the atmosphere and pushed the Earth's system beyond a critical threshold, causing the mass extinction. However, the injection rate, total amount and source of CO2 are largely unknown. We conducted a suite of simulations using the recently published carbon isotope records and U–Pb ages from Meishan section in Zhejiang province, China. An Earth System Model of Intermediate Complexity (cGENIE; http://www.genie.ac.uk) was used to extract the pattern of CO2 release needed to replicate the observed carbon isotope excursion across the Permian-Triassic boundary. This analysis leads us to suggest that the source of CO2 must have been significantly heavier than typical biogenic or thermogenic methane to explain the significant warming that occurred during and after the extinction event. Nevertheless, as with the PaleoceneEocene Thermal Maximum, end-Permian rates of CO2 addition were likely small compared with modern fossilfuel burning, but considerably more protracted, such that the likely total CO2 emitted significantly exceeded the modern fossil-fuel reserves. Peak emission rates corresponded to the onset of the maximum extinction interval, consistent with carbon cycle disruption, including volcanogenic CO2-induced warming (and perhaps ocean acidification), as a trigger for the end-Permian mass extinction.\n© 2013 Elsevier B.V. All rights reserved."
+  }, {
+    "heading": "1. Introduction",
+    "text": "The end-Permian mass extinction has been proposed as an important ancient analog for the twenty-first century due to the apparent rapid warming and possible ocean acidification caused by greenhouse gas emissions (Payne and Clapham, 2012). Just as increased anthropogenic atmospheric carbon dioxide (CO2) today is projected to decrease net accumulation of calcium carbonate (CaCO3) produced by corals and other calcifying organisms (Kerr, 2010), selective extinction of heavily calcified marine organisms has been reported for the end-Permian event, a likely consequence of rapidly increased atmospheric CO2 and decreased surface saturation state (Clapham and Payne, 2011). Another feature that the end-Permian extinction event shares with themodern is a negative carbon isotope excursion (CIE) observed globally in both carbonate and organic matter (3–6‰ for the absolute magnitude varies among geologic sections; see Korte and Kozur, 2010 for a review). This CIE has been interpreted as a consequence of rapid addition of a large amount of 13C-depleted carbon into the ocean/atmosphere system (reviewed in Erwin, 2006). The 13C-depleted carbon could have come from biogenic methane sequestered in methane hydrates on the seafloor (δ13C ≈ −60‰; see\nom (Y. Cui).\nghts reserved.\nErwin, 1993 and Berner, 2002), thermogenic methane associated with the intrusion of the Siberian Trap (δ13C ≈ −40‰; see Retallack and Jahren, 2008; Svensen et al., 2009), rapid oxidative weathering or burning of organic matter in the form of coal or peat burning (δ13C ≈ −23 to −27‰; see Scholle and Arthur, 1980; Ivany and Salawitch, 1993; Faure et al., 1995; Finkelstein et al., 2006; Shen et al., 2011a), or mantle degassing of CO2 from the Siberian Traps (δ13C ≈ −6 to −12‰; Svensen et al., 2009; Sobolev et al., 2011). Recent evidence of coal ash in the Sverdrup basin in Canada (Grasby et al., 2011), and the discovery of fire biomarker polycyclic aromatic hydrocarbons (PAHs) in the Permian-Triassic (P-T) sections indicate that wildfire was prevalent on land during the P-T boundary (Shen et al., 2011b). The release of thermogenic methane was the expected consequence of igneous intrusion of coal (reactive organic matter or petroleum) in the Siberian Traps (Retallack and Jahren, 2008; Aarnes et al., 2011). However, quantitative analysis of the coal area and the methane generation potential suggests that the total amount of thermogenic methane alone may not be sufficient to have caused the CIE observed globally (Svensen et al., 2009).\nPrevious Earth-system modeling of the PTB has been focused on whether CO2-induced globalwarmingwould cause anoxia in the Permian ocean (Kiehl and Shields, 2005; Meyer et al., 2008; Winguth and Winguth, 2012) and whether ocean acidification accompanied the event (Montenegro et al., 2011). These studies have demonstrated\nquantitatively that Late Permian warming, together with elevated nutrient conditions resulting from enhanced continental weathering and/or anoxia, could facilitate the development of low oxygen conditions in a vast region of the ocean, and that a rapid increase in atmospheric pCO2 would reduce the surface-ocean saturation state and cause pH to decrease. However, these studies did not explicitly deal with the carbon isotope exchanges between sedimentary, ocean and atmospheric carbon reservoirs, and thus could not directly evaluate the feasibility of proposed carbon sources. In addition, the lack of atmospheric pCO2 proxy data and the limited paleotemperature reconstruction makes modeling and comparing observed data with the Late Permian modeling results challenging.\nHere we use an Earth system model of intermediate complexity (EMIC) in a novel way to estimate carbon emission rates during the end-Permian event for the various proposed sources of 13C-depleted carbon, an approach we recently used to perform the same sort of evaluation for the Paleocene-Eocene Thermal Maximum (PETM; Cui et al., 2011). We begin by describing the model configuration including presumed boundary and initial conditions. We then use a smoothed version of the carbon isotope curve from Meishan, China, calibrated to the available geochronological constraints, to force the model, leading to estimates of rates and cumulative quantities of fossil carbon released for a range of source isotopic compositions, and an assessment of the associated consequences for climate and ocean-chemical changes. Finally, we compare our modeling results with geological data and provide our best estimate of the most likely source of the 13C-depleted carbon."
+  }, {
+    "heading": "2. Model description and experiments",
+    "text": "An Earth system model of intermediate complexity (cGENIE: carbon cycle centric version of Grid ENabled Integrated Earth system model) was used to constrain the rate and cumulative amount of carbon release necessary to generate both the magnitude and the shape of the observed end-Permian isotopic record and shallow-water reef response. GENIE is a fairly coarse resolution, frictional-geostrophic ocean model with a 36 × 36 equal area grid and 16 ocean layers, coupled to a 2-D energy and moisture balance model of the atmosphere and a dynamic–thermodynamic sea-ice model (Ridgwell, 2007). In contrast to a simple box modeling of the end-Permian like that of Berner (2002) and Payne and Kump (2007), GENIE determines the ocean circulation for specified boundary conditions and determines the transport and reaction rates for the carbon and nutrient cycles while tracking their isotopic compositions (Ridgwell and Hargreaves, 2007). As an Earth system model, cGENIE is especially useful in investigating long-timescale climatic responses to CO2 forcing because it includes all the necessary components and processes, while high computational efficiency is achieved through the application of simplified physics, low-resolution and efficient numerics (Marsh et al., 2011)."
+  }, {
+    "heading": "2.1. Shallow-water CaCO3 deposition",
+    "text": "In the absence of a significant plankton-derived deep-sea carbonate sink, the global burial of CaCO3 is likely to have been dominated by shallow water depositional environments (Ridgwell, 2005). Of particular relevance to this study is the addition of shallow water production and burial of biogenic carbonate and exclusion of pelagic carbonate production and burial, meant to reflect the pre-Mesozoic “Neritic” sea conditions prior to the advent of planktonic calcification (Zeebe and Westbroek, 2003; Sobolev et al., 2011). The burial of shallow water CaCO3 is primarily a function of the production by benthic calcifiers, the rate of which depends on local saturation state with respect to CaCO3. A scaling factor is provided to scale the CaCO3 burial flux to achieve an initial condition that balances the global weathering rate (Burton and Walter, 1987; Opdyke and Wilkinson, 1993). The value of\nthis scaling factor is not known a priori; its value also depends on the ambient saturation state. Hence, for the initial condition, the carbonate saturation properties of the ocean surface must be assumed and set. For the modern ocean, this arises naturally from a system initialized with observed concentrations of alkalinity (ALK), dissolved inorganic carbon (DIC), [Ca2+], atmospheric pCO2 and the large-scale productivity of the ocean and recycling in the interior ocean. However, during the Late Permian in the absence of an effective deep-sea pelagic CaCO3 buffer, ALK and DIC are not known, and the ocean saturation state prior to the mass extinction event is especially difficult to constrain. In this study, we chose to use a lower estimate of the ocean saturation state of 2.5 based on other Paleozoic ocean saturation reconstructions (Riding and Liang, 2005). Future work will consider higher initial saturation states in an analysis of the likelihood that ocean acidification accompanied the end-Permian mass extinction."
+  }, {
+    "heading": "2.2. Spin up the full marine carbon cycle including sediments",
+    "text": "The Rock Geochemical Model (RokGeM) in GENIE was used for terrestrial rock weathering as described in Colbourn (2011). The RokGeM is a weathering module that includes C, Ca2+, and ALK cycling with climate feedbacks. The long term (~105 yr) geological processes involve theweathering of both carbonate and silicate rocks. Fluxes of Ca2+ from carbonate and silicate weathering are prescribed in the model as global average divided evenly over the land surface based on lithological data, temperature and runoff calculated from a climatemodel during the past 250 Ma (Gibbs et al., 1999). These fluxes are modulated by simple temperature and runoff feedbacks, and are then used to calculate DIC and ALK fluxes following Colbourn (2011). A “short-circuiting” is used in RokGeM based on the assumption that the atmosphere and surface ocean are well mixed on the long-term time scale we considered here. This means that for every two moles of bicarbonate being added into the ocean during carbonate weathering, one mole of CO2 is taken from the atmosphere, leaving a net addition of onemole of bicarbonate to the ocean and nothing taken from the atmosphere (Eq. (1)). The same “short-circuiting” choice for silicate weathering results in no net addition of DIC to the ocean (Eq. (2)) but the production of two moles (equivalents) of alkalinity (Eq. (2)).\nCO2 aqð Þ þH2O lð Þ þ CaCO3 sð Þ→Ca2þ aqð Þ þ 2HCO−3 aqð Þ ð1Þ\n2CO2 aqð Þ þ H2O lð Þ þ CaSiO3 sð Þ→Ca2þ aqð Þ þ 2HCO−3 aqð Þ þ SiO2 aqð Þ:\nð2Þ\nThe fluxes of DIC and ALK using the “short-circuiting” then follow the equations below:\nFDIC ¼ FCaCO3 þ Foutgassing ð3Þ\nFALK ¼ 2FCaCO3 þ 2FCaSiO3 ð4Þ\nFoutgassing is a prescribed carbon input from volcanic outgassing that balances the prescribed flux from silicate weathering, which is the ultimate mechanism of volcanic carbon removal to the geologic reservoir (presuming a balanced organic carbon cycle of weathering and deposition), to keep the system in long-term balance. (Note that Foutgassing equals FCaSiO3 initially to ensure the balance.)\nThe weathering rates of carbonate and silicate minerals are dependent on temperature, which controls the rate of chemical reactions involved. Temperature-dependent weathering of both silicate and\ncarbonate rocks is simulated following the equations described in Berner (1994) and Brady (1991), such that:\nFCaCO3 ¼ FCaCO3 ;0 1þ KCa T T0ð Þð Þ ð5Þ\nFCaSiO3 ¼ FCaSiO3 ;0 e KT T−T0ð Þð Þ ð6Þ\nwhere T is temperature, T0 stands for the initial temperature, KCa is a constant at 0.049, and KT is 0.09 following Brady (1991).\nSeveral of the model parameters are used here to give the best fit to the Late Permian observations and consistent with published estimates of seawater chemistry (Table 1). These include the global average concentrations of Ca2+ and Mg2+ (13 and 42 mmol kg−1, respectively) similar to that estimated from fluid inclusion in marine halite for the Upper Permian (Lowenstein et al., 2001; Horita et al., 2002), the Late Permian paleobathymetry and continental configuration as in Kiehl and Shields (2005) (Fig. 1), and a solar constant reduced 2.1% relative to modern (1339.3 W m−2 vs. 1361 W m−2) (Caldeira and Kasting, 1992). We assumed a steady-state, preperturbation weathering flux of DIC to the ocean of 17 Tmol C yr−1 from carbonate rocks and 11 Tmol C yr−1 from silicate rocks (Gibbs et al., 1999). We selected a Late Permian atmospheric pCO2 initial condition of 10× the preindustrial atmospheric level (PAL ≈ 280 μatm), which gives a surface ocean temperature (21 °C) close to the conodontderived temperature (Joachimski et al., 2012) and well within the rather large range of estimates of 300 to N3000 μatm of Late Permian atmospheric pCO2 based on modeling and many proxy studies (Berner, 1994; Retallack, 2001; Royer, 2006; Payne et al., 2010; Sobolev et al., 2011). To initiate the simulations, the model was first spun up for 150,000 years as an open system, with both carbonate and silicate weathering input and sediment output, and forced to equilibrate with an atmospheric pCO2 of 2800 μatm and δ13C of−5.7‰."
+  }, {
+    "heading": "2.3. Carbon isotope inversion",
+    "text": "This experiment was designed to invert an atmospheric δ13C record, i.e. diagnose the time-history of input and removal of isotopically depleted carbon required for model atmospheric δ13C to match the specified restoring forcing. The atmospheric δ13C record cannot be directly measured in the deep geological past, and the common method to estimate the atmospheric δ13C is based on the measurement of δ13C in marine carbonate. This conversion requires an assumption of constant carbon isotope fractionation between the atmosphere and the ocean. We chose to use the carbon isotope records from Meishan recently published by Shen et al. (2011a) because it is the only published carbon isotope record during the Permian-Triassic transition with a well-calibrated absolute age (Fig. 2). In our model, the atmosphere is the only isotopically homogenous reservoir and so the inversion was performed for the atmosphere. The carbon isotope record fromMeishan, representative of surface oceanwater, was offset by −9.3‰ to represent the contemporaneous atmospheric δ13C\nNote: Fw,carb is theweathering flux of HCO3− from carbonate, Fw,sil is theweathering flux of HCO3− from silicate, Fv is the volcanic CO2 outgassing rate (same as initial Fw,sil), Fb,carb is the carbonate depositional flux.\n(Fig. 3), and smoothed using a localized regression (loess) fit and cross validation (using “smooth” and “cvpartition” function in MATLAB®) to capture only the first-order (presumably more likely global) features of the isotope record.\nThree experiments were performed with contrasting isotopic compositions for the CO2 source: biogenic CH4 (δ13C = −60‰), thermogenic CH4 (δ13C = −40‰) and organic matter (δ13C = −25‰). Isotopically heavier volcanogenic sources could not be simulated because of numerical instabilities in the inversion routine. We addressed this issue by applying a simple ocean–atmosphere box model (after Kump and Arthur, 1999, and Kurtz et al., 2003) to derive the carbon flux using initial conditions identical to those used in cGENIE but with many simplifications, including constant weathering rates, consideration only of the combined ocean and atmosphere carbon reservoirs, and constant carbon contents of the ocean–atmosphere reservoir. Under the condition of CO2 addition (Fe), the amount of inorganic carbon in the ocean/atmosphere reservoir changes as a result of imbalance between the inputs of carbon from weathering and metamorphism/volcanism (Fw′), and outputs of carbon from burial of organic matter (Fb,org) and carbonates (Fb,carb). The time-dependent equation for the flux of extra carbon to the ocean/atmosphere system is calculated using the following equation:\nFe ¼ M0·\ndδ0 dt −Fw ′ δw ′−δ0\n−Fb;orgδorg δe−δ0 : ð7Þ\nThe parameters in Eq. (7) are set to be the same as those in cGENIE, e.g. the ocean carbon reservoir size M0 (DIC + atmosphere) is 4.93 × 1018 mol; weathering flux Fw′ is 34.3 × 1012 mol yr−1; organic carbon burial flux is balanced by organic carbon weathering flux, and thus Fb,org = 0; the average weathering flux has an isotopic composition δw′ = 3.1‰ (reflecting the fact that it only represents the input from carbonate weathering; see Table 1); the carbon isotopic composition of the extra carbon δe is identical to that of the cGENIE simulations and −9‰ for the volcanic CO2 simulation (according to Sobolev et al., 2011).\nThe cGENIE simulations and the box-modeling calculation were forced by the atmospheric CO2 and ocean DIC δ13C estimates based on the Meishan isotope record (Shen et al., 2011a) (Fig. 3). All the simulations were initiated from an open system steady state. The interval we simulated was from 60 kyr prior to the onset of the extinction interval as defined by Shen et al. (2011a), to about 60 kyr after the onset (where δ13Ccarb starts to recover). Each simulation was of ~120 kyr duration and took about a month of CPU time on the University of Bristol IWAN cluster."
+  }, {
+    "heading": "3. Model results",
+    "text": ""
+  }, {
+    "heading": "3.1. Rate and total amount of C release in the atmosphere",
+    "text": "For all three simulations, themodel predicts that carbonwas emitted in three major pulses, a small one before the extinction interval, a large one at the onset of the event, and another small one during the extinction interval, punctuated by a period of negative carbon emission (i.e., extraction of low δ13C organic matter or methane) after the large addition. The peak rate of C addition during the CIE and extinction interval onset is 0.4 gigatons (Gt; 1 Gt = 109 t = 1015 g) C yr−1 for biogenic CH4, 0.7 Gt C yr−1 for thermogenic CH4 and 1.5 Gt C yr−1 for organic matter (OM) (Fig. 4a). The total amount of carbon added to drive the isotope excursion to its minimum ranges from 7,000 (biogenic CH4) to 22,400 Gt C (OM) (Fig. 4b). The cumulative amount added then drops as the extraction of 13C-depleted material proceeds during the early recovery phase of the CIE. In all our simulations, the peak carbon injection rates were similar to that during the PETM (Panchuk et al., 2008; Zeebe et al., 2009; Cui et al., 2011)\nbut significantly less than modern fossil-fuel burning rates of 9 Gt C yr−1 from Le Quéré et al. (2009)."
+  }, {
+    "heading": "3.2. Changes in atmospheric pCO2 and sea surface temperature",
+    "text": "In our simulations, the trajectory of atmospheric pCO2 is quite sensitive to the C source type. Peak pCO2 is reached in the early stages of mass extinction interval (Fig. 5a). In detail, atmospheric pCO2 increases from 2800 ppm to 4300 ppm (biogenic CH4 scenario), to 5400 ppm (thermogenic CH4 scenario) and to 8300 ppm (OM scenario) during the main phase of the extinction event (Fig. 5a). At the end of the simulation, the atmospheric pCO2 in all three\n252252.1252.2252.3252.4252.5 −4\n−3\n−2\n−1\n0\n1\n2\n3\n4\n5 Carbon isotopes from Meishan section\nTime (Myr)\nδ1 3 C\nca rb\nFig. 2.Carbon isotopes of bulk carbonate from theGSSPMeishan section in South China on U/Pb geochronology adapted from Shen et al. (2011a).\nsimulations is drawn down substantially, but is still significantly higher than the initial value. The corresponding increase in global ocean surface temperature during the peak CIE is ~1.6 °C (biogenic CH4 scenario), ~2.4 °C (thermogenic CH4 scenario) and ~4.1 °C (OM scenario) respectively (Fig. 5b)."
+  }, {
+    "heading": "3.3. Surface ocean saturation state responses",
+    "text": "In response to the increase in atmospheric pCO2 level, the ocean saturation state with respect to calcite (Ωcalcite) decreases modestly, from 2.5 to 2.2 (biogenic CH4 scenario), 2.0 (thermogenic CH4 scenario) and 1.6 (OM scenario) respectively (Fig. 6a). Correspondingly, the surface ocean pH decreases from 7.4 to 7.3 (biogenic CH4 scenario), 7.2 (thermogenic CH4 scenario) and 7.0 (OM scenario) respectively (Fig. 6b). The ocean saturation state then recovers quite rapidly, returning to (more or less) the initial saturation state by the end of the simulation (Fig. 6a). It is interesting to note that the ocean saturation state overshoots during the carbon isotope recovery phase (Fig. 6a), a phenomenon also simulated for the PETM and documented in PETM sediment cores as an interval of unusually high carbonate content in deep-sea sediments (Cui et al., 2011), although here the overshoot is small."
+  }, {
+    "heading": "4. Discussion",
+    "text": ""
+  }, {
+    "heading": "4.1. What was the magnitude of the global CIE?",
+    "text": "The CIEs during the Permian-Triassic transition have been well recorded in many marine and terrestrial sections around the world (see Korte and Kozur, 2010 for a review). However, the reliable time-dependent CIEs did not become available until the high precision U–Pb geochronology technique advanced (Bowring et al., 1998; Mundil et al., 2004; Shen et al., 2011a). We have selected this CIE for model simulations here for the simple reason that it is\nthe only one published to date with a corresponding detailed geo chronology.\nAn orbital time scale of the Permian-Triassic transition has been estimated using the gamma ray and density log from Gartnerkofel-1 (GK-1) core in Carnic Alps (Holser et al., 1989; Magaritz and Holser, 1991; Rampino et al., 2000). The absolute magnitude of the CIE in Meishan is almost twice as large as that in GK-1 core (−6‰ vs. −3‰), and the shapes of the CIE also differ: in detail, the δ13C from Meishan reaches its minimum prior to the PTB, whereas in the Gk-1 core the minimum is not reached until ~50 kyr after the PTB (based on the first occurrence of H. parvus). Future work will address these inconsistencies in an attempt to derive a more globally representative isotope chronology for modeling."
+  }, {
+    "heading": "4.2. Interpreting the carbon isotope excursion during the P-T transition",
+    "text": "The rates of carbon addition in our simulations have an essentially linear dependence on the estimate of the duration of the onset based on U–Pb geochronology of zircon from volcanic ash beds in South China (Fig. 4; Shen et al., 2011a). The estimated duration of CIE onset falls within ~65 kyr with an error of ±60–120 kyr (2σ). Nevertheless, it is possible that the onset interval could have been shorter than 65 kyr. For this reason, and because of the smoothing of the raw data we performed, our calculated carbon release rate is probably a conservative (low) estimate. The pulses of carbon addition are dictated by carbon isotope derivatives, where rapid negative changes in δ13C result in large positive fluxes and rapid positive changes in δ13C result in large negative fluxes (Figs. 3 and 4a).\nThe fundamental driver for the substantial negative flux of carbon during the recovery phase from a modeling point of view is that the carbon isotope recovery is faster than a simple relaxation from the perturbation. Thus the model requires an extra removal mechanism for light carbon from the ocean–atmosphere system, which in this case is modeled as an organic carbon burial event. It is interesting to speculate that the end-Permian burial event, coincident as it is with the extinction level at Meishan, might represent enhanced burial of (likely microbial) biomass during the establishment of intense oceanic anoxia (Wignall and Twichett, 1996; Hotinski et al., 2001; Knoll et al., 2007; Wignall, 2007; Meyer and Kump, 2008) due to the warmthinduced higher weathering input and higher productivity. We found a\nsimilarly rapid isotope recovery following the onset of the PETM and again interpreted this as an organic carbon burial event (Cui et al., 2011). Alternatively, perhaps this is a reflection of a strongerweathering feedback than we have specified, delivering more heavy carbon faster, and we explain this as follows.\nThe carbon isotope system naturally recovers (relaxes) from the rapid input of anomalously low δ13C carbon by a much slower flushing of the ocean by 13C-enriched carbon from weathering, not the extraction of 13C-depleted carbon. But both constant weathering input (Fig. 7, 1 × Fw) and weathering enhanced by the warmer temperatures and wetter climates created by elevated atmospheric pCO2, as modeled here, are insufficient in the model to drive the carbon isotope recovery; as a result, our model requires an organic carbon burial event (strictly speaking, a negative addition of carbon of the specified value). However, if weathering in nature is a stronger function of CO2 (reflecting the temperature and runoff dependence of weathering via the greenhouse effect) than that parameterized in cGENIE, at the end of the simulation, a higher rate of δ13C recovery could be achieved. We demonstrate this with the box model described above but with Fe set to zero:\ndδo=dt ¼ Fw′ δw−δoð Þð Þ=Mo ð8Þ\nwhere Mo is the total mass of dissolved inorganic carbon in the ocean/ atmosphere at the end of the period of addition (4.9 × 1018 mol), Fw is the weathering of both carbonate and silicate (initial value is 2.8 × 1013 mol yr−1), δw is the carbon isotopes of weathering input (3.6‰, recalling that this is only the carbonate-derived C; the organic cycle is presumed balanced), and δ13Co is the carbon isotopes of the burial carbonate (initial value is 3.6‰). Such simple box-modeling calculations suggest that the weathering rate needs to increase four to five times faster than the formulation in cGENIE (Berner, 1994) shortening the response time to ca. 25 kyr to explain the carbon isotope recovery without invoking an organic carbon burial event (Fig. 7). Thus, one explanation for this “apparent” organic carbon burial event is that there was in fact no organic carbon burial event at all, but rather that we have underestimated how sensitively the weathering rate would increase in response to the buildup of atmospheric pCO2."
+  }, {
+    "heading": "4.3. Source of 13C-depleted CO2",
+    "text": "Others have performed numerical calculations to explain the cause of the end-Permian CIE. Berner (2002) ascribed the cause of the CIE to a combination of mass extinction, the release of methane hydrate, change in the location of organic carbon burial and the release of volcanic CO2, because any single cause was insufficient to generate the large CIE (~8‰) shown in Meishan (Bowring et al., 1998). Such large excursions from Meishan have not been reproduced in the subsequent studies (e.g. Shen et al., 2011a), thus the conclusion of Berner (2002) warrants reconsideration. Instead of using the 8‰ CIE in Berner (2002), Grard et al. (2005) used an updated δ13C curve from Jin et al. (2000), which shows about 3‰ negative CIE. Grard et al. (2005) used energy balance/geochemical boxmodeling, and concluded that Siberian Traps volcanism andmassmortality was sufficient to explain the excursions and that nomethane hydrate needed to be invoked. This is in contrast to the box modeling study of Rampino et al. (2000), in which only collapse of the biological pump was required to generate the sharp 3‰ decline in δ13C (note that in all cases, simple decomposition of any reasonable standing biomass is insufficient to cause a significant CIE; Bowen and Zachos, 2010). In any event, the methane hypothesis (either biogenic or thermogenicmethane), has been largely disregarded in these two studies due to the small amount of carbon required, and the insufficient warming associated with the small increase in atmospheric pCO2. Using calcium isotopes, Payne et al. (2010) concluded that the observed features of this event, including the deposition of a thick sequence of microbialite, the preferential extinction of heavily\ncalcified marine animals, the apparent submarine dissolution, and the magnitude of CIE are most consistent with an ocean acidification scenario. They explain that the 3.6‰ CIE is associated with a significant contribution of CO2 released frommantle- or carbonate-derived carbon. By comparing the results from our three scenarios with the available geological and geochemical evidence we can provide some additional constraints on the source, magnitude, and rate of carbon addition.\nEstimates of the amount of CO2 from the outgassing of Siberian Traps volcanism ranges from a few tens of thousands of Gt of CO2\n(multiply by 12/44 to convert to Gt of C) based on modern basalt degassing rate (Leavitt, 1982; Gerlach and Graeber, 1985; Berner, 2002) to N100,000 Gt CO2 (N27,000 Gt C) based on the estimates from the metamorphism of organic matter and petroleum (Svensen et al., 2009). Sobolev et al. (2011) used a thermomechanical model to predict the released CO2, mostly from the recycled crust in the plumehead, is more than 170,000 Gt CO2 (46,000 Gt C), which is several times higher than previously estimated (Self et al., 2006; Svensen et al., 2009). Our estimates of C addition (7,000–22,000 Gt C) are\nulation. b) Global average sea surface temperature during the Permian/Triassic transition\nsmaller than all of these estimates, but our sources have lower δ13C values than inferred for a purely volcanogenic source.\nUnfortunately, as discussed above, we were unable to force cGENIE with isotopic sources heavier than −25‰. However, we can use the box model described above to calculate the rate of carbon added in the ocean/atmosphere system for this isotopically heavier source as well as for the other sources simulated by cGENIE. The calculated rate of carbon release tracks, but is somewhat less than that derived from cGENIE with the same isotopic forcing, as shown in Fig. 8. The volcanic CO2flux (δ13C = −9‰), as expected, exceeds the highestflux calculated in the cGENIE simulations, with a peak flux of 2.5 Gt C yr−1. Given that the box model under-predicts the fluxes from cGENIE, we expect that if cGENIE were able to simulate the volcanic CO2 flux, peak emission rates\nwould rival those of modern fossil fuel burning and significantly exceed their likely duration and total quantities of emitted C.\nAlthough there is little proxy constraint on peak atmospheric CO2 levels during the Late Permian, temperature is fairly well constrained, and the enhanced warming associated with the “OM” scenario seems to be more consistent with the observed degree of warming based on oxygen isotopes of biogenic phosphate in conodont in the GSSP sediments in Meishan, China (Joachimski et al., 2012; Sun et al., 2012) (Fig. 9). It is important to realize that “OM” here could represent a range of source types; all that is specified is its mean isotopic composition. It could be fossil organic matter (kerogen), peat/coal, living biomass; but it could also be a mixture of heavier volcanic CO2 and biogenic and/or thermogenic methane and the dissociation of methane clathrates. Indeed, it is likely that all of the sources were involved in either triggering or sustaining C emission during the Late Permian. Although we could not simulate it with cGENIE, the volcanic CO2 source would provide a potent kill mechanism, likely generating significantly greater climate change (more consistent with the available temperature proxies). Future work will be aimed at modifying cGENIE to allow for C sources with heavier isotopic compositions so that we can assess volcanic CO2 sources and their consequences more completely."
+  }, {
+    "heading": "5. Conclusion",
+    "text": "1. Based on simulations using cGENIE, our estimate of the peak rate of carbon release during the end-Permian event ranges from 0.42 to 1.52 Gt C yr−1, which is comparable to that estimated during the PETM, but significantly smaller than the fossil fuel burning rate today (9 Gt C yr−1). The total carbon being added ranges from 7,000 to 22,400 Gt C, within the estimates of gas release associated with the Siberian breccia pipe structure and from somewhat larger to significantly larger than modern fossil fuel inventories. Box model simulations of a purely volcanic source of CO2 (which we were unable to simulate using cGENIE) predict rates that are nearly double the highest estimates from cGENIE.\n2. In our simulations, atmospheric pCO2 increases by about 1,500 ppm to 5,400 ppm from a baseline of 2,800 ppm, corresponding to ocean surface temperature increase of 1.6 to 4.1 °C, given a climate sensitivity in the lower end of the current estimates frommore sophisticated climate models (Rohling et al., 2012). 3. The ocean saturation state and pH decrease modestly in response to increasing atmospheric pCO2 for the simulations performed here. 4. The temperature increase during the Late Permian in our scenario with an OM source seems most consistent with the temperature proxy data shown in S. China, but a volcanic source may generate a warming even more consistent with the proxies. 5. More detailed paleo-temperature reconstructions, higher-resolution carbon isotope time-series, and better geochronological constraints for other sections around the world will allow for better estimates of the rates of carbon emission during the event,more comprehensive model-data comparison, and more conclusive evaluation of the hypothesis of elevated atmospheric pCO2 arising from Siberian Traps eruption as the driver for end-Permian mass extinction.\nAuthor contributions\nY. C., and L.R.K. designed the research, Y.C. performed the model analysis with the help from A.J.R., Y.C. and L.R.K. wrote the paper with contributions from others."
+  }, {
+    "heading": "Acknowledgments",
+    "text": "This paper originated from a talk in the “Pre-Mesozoic Climate” session in the 34th IGC in Brisbane, which would not have been possible without the travel grant from GSA and IGCP 591. L.R.K. and Y.C. acknowledge support from the NSF and NASA Astrobiology Institute. Y.C. acknowledges scholarships from the PSU BRIE, Paul Krynine Travel Fund, Chesapeake Energy Scholarships and Hiroshi and Koya Ohmoto Graduate Fellowship in Geoscience. We thank Dr. Shuzhong Shen for kindly providing the raw carbon isotopes from Meishan section.\nn time −60 kyr and 30 kyr from onset of extinction interval."
+  }],
+  "year": 2013,
+  "references": [{
+    "title": "The impact of host-rock composition on devolatilization of sedimentary rocks during contact metamorphism around mafic sheet intrusions",
+    "authors": ["I. Aarnes", "K. Fristad", "S. Planke", "H. Svensen"],
+    "venue": "Geochemistry, Geophysics, Geosystems",
+    "year": 2011
+  }, {
+    "title": "GEOCARB II; a revised model of atmospheric CO2 over Phanerozoic time",
+    "authors": ["R.A. Berner"],
+    "venue": "American Journal of Science",
+    "year": 1994
+  }, {
+    "title": "Examination of hypotheses for the Permo-Triassic boundary extinction by carbon cycle modeling",
+    "authors": ["R.A. Berner"],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "year": 2002
+  }, {
+    "title": "Rapid carbon sequestration at the termination of the Palaeocene-Eocene Thermal Maximum",
+    "authors": ["G.J. Bowen", "J.C. Zachos"],
+    "venue": "Nature Geoscience",
+    "year": 2010
+  }, {
+    "title": "U/Pb zircon geochronology and tempo of the end-Permian mass extinction",
+    "authors": ["S. Bowring", "D. Erwin", "Y. Jin", "M. Martin", "K. Davidek", "W. Wang"],
+    "year": 1998
+  }, {
+    "title": "The effect of silicate weathering on global temperature and atmospheric CO2",
+    "authors": ["P.V. Brady"],
+    "venue": "Journal of Geophysical Research",
+    "year": 1991
+  }, {
+    "title": "Relative precipitation rates of aragonite and Mg calcite from seawater: temperature or carbonate ion control",
+    "authors": ["E.A. Burton", "L.M. Walter"],
+    "venue": "Geology 15,",
+    "year": 1987
+  }, {
+    "title": "The life span of the biosphere revisited",
+    "authors": ["K. Caldeira", "J. Kasting"],
+    "venue": "Nature 360,",
+    "year": 1992
+  }, {
+    "title": "Acidification, anoxia, and extinction: a multiple logistic regression analysis of extinction selectivity during the Middle and Late Permian",
+    "authors": ["M.E. Clapham", "J.L. Payne"],
+    "venue": "Geology",
+    "year": 2011
+  }, {
+    "title": "Weathering Effects on the Carbon Cycle in an Earth System Model, School of Environmental Sciences",
+    "authors": ["G. Colbourn"],
+    "venue": "University of East Anglia,",
+    "year": 2011
+  }, {
+    "title": "Slow Release of Fossil Carbon During the PalaeoceneEocene Thermal Maximum",
+    "authors": ["Y. Cui", "L.R. Kump", "A.J. Ridgwell", "A.J. Charles", "C.K. Junium", "A.F. Diefendorf", "K.H. Freeman", "N.M. Urban", "I.C. Harding"],
+    "venue": "Nature Geosci advance online publication",
+    "year": 2011
+  }, {
+    "title": "The Great Paleozoic Crisis: Life and Death in the Permian",
+    "authors": ["D.H. Erwin"],
+    "venue": "Columbia Univ Pr",
+    "year": 1993
+  }, {
+    "title": "Extinction: How Life on Earth Nearly Ended 250 Million Years Ago",
+    "authors": ["D.H. Erwin"],
+    "year": 2006
+  }, {
+    "title": "Late Permian global coal hiatus linked to 13C-depleted CO2 flux into the atmosphere during the final consolidation of Pangea",
+    "authors": ["K. Faure", "M.J. de Wit", "J.P. Willis"],
+    "venue": "Geology",
+    "year": 1995
+  }, {
+    "title": "Can biomass burning produce a globally significant carbon-isotope excursion in the sedimentary record",
+    "authors": ["D.B. Finkelstein", "L.M. Pratt", "S.C. Brassell"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2006
+  }, {
+    "title": "Volatile Budget of Kilauea Volcano",
+    "authors": ["T.M. Gerlach", "E.J. Graeber"],
+    "year": 1985
+  }, {
+    "title": "Global chemical erosion over the last 250 My: variationsdue to changes in paleogeography, paleoclimate, and paleogeology",
+    "authors": ["M. Gibbs", "G. Bluth", "P. Fawcett", "L. Kump"],
+    "venue": "American Journal of Science",
+    "year": 1999
+  }, {
+    "title": "Basaltic volcanism and mass extinction at the Permo-Triassic boundary: environmental impact and modeling of the global carbon cycle",
+    "authors": ["A. Grard", "L. Francois", "C. Dessert", "B. Dupré", "Y. Godderis"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2005
+  }, {
+    "title": "Catastrophic dispersion of coal fly ash into oceans during the latest Permian extinction",
+    "authors": ["S.E. Grasby", "H. Sanei", "B. Beauchamp"],
+    "venue": "Nature Geoscience",
+    "year": 2011
+  }, {
+    "title": "A unique geochemical record at the Permian/Triassic",
+    "authors": ["W.T. Holser", "H.P. Schonlaub", "M. Aetrep Jr.", "K. Boeckelmann", "P. Klein", "M. Magaritz", "C.J. Orth"],
+    "venue": "boundary. Nature",
+    "year": 1989
+  }, {
+    "title": "Chemical evolution of seawater during the Phanerozoic: implications from the record of marine evaporites",
+    "authors": ["J. Horita", "H. Zimmermann", "H.D. Holland"],
+    "venue": "Geochimica et Cosmochimica Acta",
+    "year": 2002
+  }, {
+    "title": "Ocean stagnation and end-Permian anoxia",
+    "authors": ["R. Hotinski", "K. Bice", "L. Kump", "R. Najjar", "M. Arthur"],
+    "venue": "Geology 29,",
+    "year": 2001
+  }, {
+    "title": "Carbon isotopic evidence for biomass burning at the KT",
+    "authors": ["L.C. Ivany", "R.J. Salawitch"],
+    "venue": "boundary. Geology",
+    "year": 1993
+  }, {
+    "title": "Pattern of marine mass extinction near the Permian-Triassic boundary in South China",
+    "authors": ["Y.G. Jin", "Y. Wang", "W. Wang", "Q.H. Shang", "C.Q. Cao", "D.H. Erwin"],
+    "year": 2000
+  }, {
+    "title": "Climate warming in the latest Permian and the Permian-Triassic mass extinction",
+    "authors": ["M.M. Joachimski", "X. Lai", "S. Shen", "H. Jiang", "G. Luo", "B. Chen", "J. Chen", "Y. Sun"],
+    "venue": "Geology",
+    "year": 2012
+  }, {
+    "title": "Ocean acidification unprecedented",
+    "authors": ["R.A. Kerr"],
+    "venue": "unsettling. Science",
+    "year": 2010
+  }, {
+    "title": "Climate simulation of the latest Permian: implications for mass extinction",
+    "authors": ["J. Kiehl", "C. Shields"],
+    "venue": "Geology",
+    "year": 2005
+  }, {
+    "title": "Paleophysiology and end-Permian mass extinction",
+    "authors": ["A.H. Knoll", "R.K. Bambach", "J.L. Payne", "S. Pruss", "W.W. Fischer"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2007
+  }, {
+    "title": "Carbon-isotope stratigraphy across the Permian-Triassic boundary: a review",
+    "authors": ["C. Korte", "H.W. Kozur"],
+    "venue": "Journal of Asian Earth Sciences",
+    "year": 2010
+  }, {
+    "title": "Interpreting carbon-isotope excursions: carbonates and organic matter",
+    "authors": ["L.R. Kump", "M.A. Arthur"],
+    "venue": "Chemical Geology",
+    "year": 1999
+  }, {
+    "title": "Early Cenozoic decoupling of the global carbon and sulfur cycles",
+    "authors": ["A.C. Kurtz", "L.R. Kump", "M.A. Arthur", "J.C. Zachos", "A. Paytan"],
+    "venue": "Paleoceanography",
+    "year": 2003
+  }, {
+    "title": "Trends in the sources and sinks of carbon dioxide",
+    "authors": ["C. Le Quéré", "M.R. Raupach", "J.G. Canadell", "G Marland"],
+    "venue": "Nature Geoscience",
+    "year": 2009
+  }, {
+    "title": "Annual volcanic carbon dioxide emission: an estimate from eruption chronologies",
+    "authors": ["S.W. Leavitt"],
+    "venue": "Environmental Geology",
+    "year": 1982
+  }, {
+    "title": "Oscillations in Phanerozoic seawater chemistry: evidence from fluid inclusions",
+    "authors": ["T.K. Lowenstein", "M.N. Timofeeff", "S.T. Brennan", "L.A. Hardie", "R.V. Demicco"],
+    "venue": "Science 294,",
+    "year": 2001
+  }, {
+    "title": "The Permian-Triassic of the Gartnerkofel-1 Core (Carnic Alps, Austria): carbon and oxygen isotope variation",
+    "authors": ["M. Magaritz", "W.T. Holser"],
+    "venue": "Abhandlungen Der Geologischen Bundesanstalt Band,",
+    "year": 1991
+  }, {
+    "title": "Incorporation of the C-GOLDSTEIN efficient climate model into the GENIE framework: “eb_go_gs” configurations of GENIE",
+    "authors": ["R. Marsh", "S.A. Müller", "A. Yool", "N.R. Edwards"],
+    "venue": "Geoscientific Model Development",
+    "year": 2011
+  }, {
+    "title": "Oceanic euxinia in Earth history: causes and consequences",
+    "authors": ["K.M. Meyer", "L.R. Kump"],
+    "venue": "Annual Review of Earth and Planetary Sciences",
+    "year": 2008
+  }, {
+    "title": "Biogeochemical controls on photic-zone euxinia during the end-Permian mass extinction",
+    "authors": ["K.M. Meyer", "L.R. Kump", "A. Ridgwell"],
+    "venue": "Geology",
+    "year": 2008
+  }, {
+    "title": "Climate simulations of the Permian-Triassic boundary: ocean acidification and the extinction",
+    "authors": ["A. Montenegro", "P. Spence", "K. Meissner", "M. Eby", "M. Melchin", "S. Johnston"],
+    "venue": "event. Paleoceanography",
+    "year": 2011
+  }, {
+    "title": "Age and timing of the Permian mass extinctions: U/Pb dating of closed-system zircons",
+    "authors": ["R. Mundil", "K.R. Ludwig", "I. Metcalfe", "P.R. Renne"],
+    "year": 2004
+  }, {
+    "title": "Carbonate mineral saturation state and cratonic limestone accumulation",
+    "authors": ["B. Opdyke", "B. Wilkinson"],
+    "venue": "American Journal of Science",
+    "year": 1993
+  }, {
+    "title": "Sedimentary response to Paleocene-Eocene Thermal Maximum carbon release: a model-data comparison",
+    "authors": ["K. Panchuk", "A. Ridgwell", "L.R. Kump"],
+    "venue": "Geology",
+    "year": 2008
+  }, {
+    "title": "End-Permian mass extinction in the oceans: an ancient analog for the twenty-first century",
+    "authors": ["J.L. Payne", "M.E. Clapham"],
+    "venue": "Annual Review of Earth and Planetary Sciences",
+    "year": 2012
+  }, {
+    "title": "Evidence for recurrent Early Triassic massive volcanism from quantitative interpretation of carbon isotope fluctuations",
+    "authors": ["J. Payne", "L. Kump"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2007
+  }, {
+    "title": "Calcium isotope constraints on the end-Permian mass extinction",
+    "authors": ["J.L. Payne", "A.V. Turchyn", "A. Paytan", "D.J. DePaolo", "D.J. Lehrmann", "M. Yu", "J. Wei"],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "year": 2010
+  }, {
+    "title": "Tempo of the end-Permian event: high-resolution cyclostratigraphy at the Permian-Triassic",
+    "authors": ["M.R. Rampino", "A. Prokoph", "A. Adler"],
+    "venue": "boundary. Geology",
+    "year": 2000
+  }, {
+    "title": "A 300-million-year record of atmospheric carbon dioxide from fossil plant cuticles",
+    "authors": ["G.J. Retallack"],
+    "venue": "Nature 411,",
+    "year": 2001
+  }, {
+    "title": "Methane release from igneous intrusion of coal during Late Permian extinction events",
+    "authors": ["G.J. Retallack", "A.H. Jahren"],
+    "venue": "Journal of Geology",
+    "year": 2008
+  }, {
+    "title": "A Mid Mesozoic Revolution in the regulation of ocean chemistry",
+    "authors": ["A. Ridgwell"],
+    "venue": "Marine Geology",
+    "year": 2005
+  }, {
+    "title": "Interpreting transient carbonate compensation depth changes by marine sediment core modeling",
+    "authors": ["A. Ridgwell"],
+    "venue": "Paleoceanography 22,",
+    "year": 2007
+  }, {
+    "title": "Regulation of atmospheric CO2 by deep-sea sediments in an Earth system model",
+    "authors": ["A. Ridgwell", "J.C. Hargreaves"],
+    "venue": "Global Biogeochemical Cycles",
+    "year": 2007
+  }, {
+    "title": "Geobiology of microbial carbonates: metazoan and seawater saturation state influences on secular trends during the Phanerozoic",
+    "authors": ["R. Riding", "L. Liang"],
+    "year": 2005
+  }, {
+    "title": "Making sense of palaeoclimate sensitivity",
+    "authors": ["E. Rohling", "A. Sluijs", "H. Dijkstra", "P. Köhler", "R. van deWal", "A. von der Heydt", "D. Beerling", "A. Berger", "P. Bijl", "M. Crucifix"],
+    "venue": "Nature 491,",
+    "year": 2012
+  }, {
+    "title": "Carbon isotope fluctuations in Cretaceous pelagic limestones: potential stratigraphic and petroleum exploration tool",
+    "authors": ["P. Scholle", "M. Arthur"],
+    "venue": "American Association of Petroleum Geologists Bulletin",
+    "year": 1980
+  }, {
+    "title": "Volatile fluxes during flood basalt eruptions and potential effects on the global environment: a Deccan perspective",
+    "authors": ["S. Self", "M. Widdowson", "T. Thordarson", "A.E. Jay"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2006
+  }, {
+    "title": "Calibrating the end-Permian mass extinction",
+    "authors": ["Shen", "S.-z", "J.L. Crowley", "Y. Wang", "S.A. Bowring", "D.H. Erwin", "P.M. Sadler", "Cao", "C.-q", "D.H. Rothman", "C.M. Henderson", "J. Ramezani"],
+    "year": 2011
+  }, {
+    "title": "Evidence for wildfire in the Meishan section and implications for Permian‚ ÄìTriassic events",
+    "authors": ["W. Shen", "Y. Sun", "Y. Lin", "D. Liu", "P. Chai"],
+    "venue": "Geochimica et Cosmochimica Acta",
+    "year": 2011
+  }, {
+    "title": "Linking mantle plumes, large igneous provinces and environmental catastrophes",
+    "authors": ["S.V. Sobolev", "A.V. Sobolev", "D.V. Kuzmin", "N.A. Krivolutskaya", "A.G. Petrunin", "N.T. Arndt", "V.A. Radko", "Y.R. Vasiliev"],
+    "venue": "Nature 477,",
+    "year": 2011
+  }, {
+    "title": "Lethally hot temperatures during the early Triassic greenhouse",
+    "authors": ["Y. Sun", "M.M. Joachimski", "P.B. Wignall", "C. Yan", "Y. Chen", "H. Jiang", "L. Wang", "X. Lai"],
+    "year": 2012
+  }, {
+    "title": "Siberian gas venting and the end-Permian environmental crisis",
+    "authors": ["H. Svensen", "S. Planke", "A. Polozov", "N. Schmidbauer", "F. Corfu", "Y. Podladchikov", "B. Jamtveit"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2009
+  }, {
+    "title": "The end-Permian mass extinction—how bad did it get",
+    "authors": ["P.B. Wignall"],
+    "venue": "Geobiology",
+    "year": 2007
+  }, {
+    "title": "Ocean anoxia and the end Permian mass extinction",
+    "authors": ["P.B. Wignall", "R.J. Twichett"],
+    "venue": "Science",
+    "year": 1996
+  }, {
+    "title": "A simple model for the CaCO3 saturation state of the ocean: the “Strangelove”, the “Neritan”, and the “Cretan",
+    "authors": ["R.E. Zeebe", "P. Westbroek"],
+    "venue": "Ocean. Geochemistry, Geophysics, Geosystems",
+    "year": 2003
+  }, {
+    "title": "Carbon dioxide forcing alone insufficient to explain Palaeocene-Eocene Thermal Maximum warming",
+    "authors": ["R.E. Zeebe", "J.C. Zachos", "G.R. Dickens"],
+    "venue": "Nature Geoscience",
+    "year": 2009
+  }],
+  "id": "SP:34fb20b6c1afef41e41912d9f0eff0ae7852ebb9",
+  "authors": [{
+    "name": "Ying Cui",
+    "affiliations": []
+  }, {
+    "name": "Lee R. Kump",
+    "affiliations": []
+  }, {
+    "name": "Andy Ridgwell",
+    "affiliations": []
+  }],
+  "title": "Initial assessment of the carbon emission rate and climatic consequences during the end-Permian mass extinction"
+}

@@ -1,0 +1,49 @@
+
+#
+# rules for the basic GEOSCIENCE
+#
+
+- name: time-period-1
+  priority: 1
+  label: TimeExpr
+  type: token
+  pattern: 
+    /Z?(Tertiary|Maastrichtian|Danian|Guadalupian|Triassic|Cenomanian|Cretaceous|Paleogene|Palaeocene|Pliocene|Pleistocene|Holocene|Zanclean|Cambrian|Paleozoic|Palaeozoic|Ordovician|Neogene|Phanerozoic|Silurian|Devonian|Carboniferous|Permian|Neoproterozoic|Mesozoic|Quaternary|Precambrian|Jurassic)\b/
+
+- name: time-ago-1
+  priority: 1
+  label: TimeExpr
+  type: token
+  pattern: |
+    [entity=/^NUM/]+ /\b(ma|myr|mya|ka|Ma|Myr|Mya|Ka|m\.y\.r)\b/
+
+- name: time-ago-2
+  priority: 1
+  label: TimeExpr
+  type: token
+  pattern: |
+    [entity=/^NUM/]+ /(million|thousand)s?/ /years/ /(ago)?/
+
+- name: geo-site-Site
+  priority: 1
+  label: SpatialExpr-Site
+  type: token
+  pattern: |
+    /DSDP/ /Site/ /U?[0-9]+[A-Z]?/
+    |
+    /IODP/ /Site/ /U?[0-9]+[A-Z]?/
+    |
+    /Site/ /U?[0-9]+[A-Z]?/
+
+- name: geo-site-Name
+  priority: 1
+  label: SpatialExpr-Name
+  type: token
+  pattern:
+    /(Deccan|ParanaEtendeka|Karoo|Siberian) (Traps)?/
+    |
+    /(?i)flood/ /(?i)basalts?/
+    |
+    /Stevns/ /Klint/
+    |
+    /Tethyan/

@@ -1,0 +1,311 @@
+{
+  "sections": [{
+    "text": "Paleogeography is the subdiscipline within the geosciences that studies the physical and biological geography of the geologic past, including the configuration and latitudinal distribution of continental landmasses, their topographic relief, climate and biota. In recent years, the study of paleogeography has evolved from simple continental reconstructions to more sophisticated paleocontinental maps that form the basis of paleoclimactic modeling by incorporating elements of oceanic and atmospheric circulation and their interactive relationship with landmasses. A broad range of geologic elements can be reconstructed through paleogeographic studies, such as mountain belts, climate zones, emergent land and continental configurations, many of which impact directly on understanding the driving forces behind geochemical signals contained in the rock record which are used as a proxy for biogeochemical processes in Earth history. Paleogeography is thus an essential component of an earth systems approach to interpreting the geologic past. Paleoconfigurations of continents and ocean basins are determined by a variety of techniques. Paleomagnetic studies are the most common, but additional constraints are Ž .provided by faunal provincialism biogeography and abiotic continental linkages such as pre-break-up magmatism. Recent developments within paleogeography include the use of various forms of climate models to analyze the relationships between global continental reconstructions and the rock record of past climates in order to test more directly feedback between paleogeography and paleoclimate. Development of an extended GIS database for the geological past promises new insights into quantitative analysis of Earth system evolution. q 1999 Elsevier Science B.V. All rights reserved.\nKeywords: Paleogeography; Paleomagnetism; Paleoclimate; Biogeography; Geochemistry"
+  }, {
+    "heading": "1. Introduction",
+    "text": "Paleogeography is a subdiscipline within the geosciences that examines the physical geography of the geologic past. It includes the configuration and latitudinal distribution of continental landmasses, their topographic relief and seeks to reconstruct the former positions of the continental masses and their intervening oceans through geologic time. In recent\n) Tel.: q1-403-292-7156; fax: q1-403-292-5377; e-mail: gerry@earth.geo.ucalgary.ca\nyears, the study of paleogeography has evolved from simple continental reconstruction to one that now forms the basis of paleoclimactic modeling by incorporating elements of oceanic and atmospheric circulation and their interactive relationship with landŽ .masses Crowley and North, 1991 . This important new development aims to use paleogeography to constrain interpretations of the mechanisms that contribute to the geochemical signals preserved in the sedimentary record. Constraints on the length of midocean ridges, length and elevation of active orogenic belts, volcanic arcs, continental positions with\n0009-2541r99r$ - see front matter q 1999 Elsevier Science B.V. All rights reserved. Ž .PII: S0009-2541 99 00078-9\nrespect to tradewind and climatic belts, oceanic circulation and zones of upwelling are all elements of paleogeography that impact directly on understanding the significance of geochemical records in the rocks. Paleogeography thus forms an essential component of examining and understanding the sedimentary and geochemical record of Earth system processes through geologic time. This paper reviews some of applications, problems and prospects for paleogeography and its importance in reconstructing Earth systems in the geologic past.\nPaleogeography became a branch of the geosciences essentially as an outgrowth of the recognition and acceptance of continental drift. Hints of former geographies had been recognized well back into the 19th century by paleontologists who had discovered fossil faunas and climatically sensitive sedimentary deposits that were substantially different Žthan those of the present climate Stow, 1871; Du .Toit, 1921 . Additionally, these unique sedimentary assemblages occur on continental landmasses that Žare now widely separated India, South Africa and .Antarctica, for example , leading to the idea that such landmasses must have been formerly adjacent and must have moved about the surface of the Earth, passing through different climatic-latitudinal zones and also that they must have been assembled and dispersed.\n2. Methods of establishing paleocontinental configurations"
+  }, {
+    "heading": "2.1. Paleomagnetism",
+    "text": "As the tool that led to the confirmation of the theory of continental drift, paleomagnetic studies have formed the core of paleocontinental reconstrucŽ .tions Irving, 1964 . The basic principle of this approach utilizes the paleomagnetic determination of the location of the rotational axis of the Earth with respect to a continent at the time at which the rocks acquired their magnetic fabric, the Geocentric Axial Ž .Dipole hypothesis GAD; Irving, 1956; Butler, 1992 . Such information is acquired by collecting oriented rock samples and then measuring the orientation of aligned remanent magnetic fields of mineral particles within the samples. It is accepted as a working\nhypothesis that the orientation of the remanent magnetic fields within the sample reflects the GAD at the time at which the rock formed, for example, the time at which an igneous or metamorphic rock cooled or the time at which a sediment became lithified to form a rock. The determination of the significance of a magnetization with respect to the crystallization andror depositional age of a rock is one of the sources of potential uncertainty in the paleomagnetic technique and paleomagneticists have established a host of criteria and tests that are used to evaluate the viability of a particular set of measurements and the Žsignificance of the magnetization Irving, 1964; Van .der Voo, 1989; Butler, 1992 . These tests are particularly important as overprints and alteration of the original magnetizations can result in spurious and misleading results, particularly in regions that have been affected by superposed tectonic events such as convergent plate margins. An important component of the magnetic fabric is the tilt or inclination of the magnetization relative to a horizontal datum. This is used to infer the paleolatitudinal position of the rock sample at the time of acquisition of magnetization. This too is subject to some uncertainty as a consequence of uncertainties in assignment of proper Ž .hemisphere northern or southern and in correcting for paleohorizontal, which generally is not an issue in sedimentary or layered igneous rocks such as lava flows, but becomes problematic in paleomagnetic studies of rocks from plutonic complexes. Recent approaches have attempted to use barometry of the metamorphic aureoles developed around plutons as a Žmeans of determining tilt Irving and Archibald, .1990; Brown and Burmeister, 1991 . When, well-defined, chronologically constrained magnetizations can be measured, paleomagnetic data are used to construct the paleopole positions for continents through Žtime and define apparent polar wander paths APWPs .or APWs which allow for comparison of the positions of different continents through time with respect to a common rotational axis. The latter technique places continental motions in a reference frame that allows for quick comparison of relative motions Ž .and determination of drift histories Fig. 1 . For example, continents that were separate and then collided should have different APWs prior to collision and similarly, continents that were formerly together and have rifted apart should have similar pre-rift\nŽ . Ž .Fig. 1. Comparison of the APW paths for Baltica and Laurentia in the interval of ca. 750–580 Ma Riphean to Vendian left and 580–260 Ž . Ž .Ma Vendian to Permian right . The left figure shows the pre-rift history of these continents which share a similar APW path prior to rifting and separation ca. 650–600 Ma. The right figure shows the collisional history of these continents associated with the closure of the ŽIapetus ocean. Note that that the disparate APW paths converge in the Ordovician–Silurian and are similar from Silurian onwards Torsvik .et al., 1996 .\nAPWs. Such a technique allows for the determination of the timing of paleocontinental drift through time and the generation of paleogeographic maps that are well-advanced for most of the Phanerozoic ŽMorel and Irving, 1978; Scotese and McKerrow, .1990; Scotese et al., 1979; Golonka et al., 1994 . Such maps are becoming better constrained as the Žsensitivity of laboratory techniques cryogenic mag.netometers, for example has increased such that even very weak magnetizations can be measured, making a much wider range of rock types available for magnetic analysis and study. This has lead to a much expanded and improved database from which to test plate reconstructions. The paleomagnetic determination of paleolatitude through time also offers an important framework constraint on climate and climate change. Paleomagnetic studies offer control on recognizing climactic forcing as a consequence of latitudinal drift as distinct from global coolingclimactic events that may be relatively independent of latitude.\nThere are drawbacks in the paleomagnetic determination of continental configurations that result both from inherent limitations in the resolving power of\nthe data as well as complications introduced by secondary magnetizations. For example, paleomagnetic data are incapable of determining longitude so that an iterative process that evaluates continental reconstructions from the perspective of continental overlap and the assumption of minimum movement are used to resolve the most likely plate configuraŽ .tions Irving, 1964 . Ambiguity of primary magnetic Ž .inclination paleolatitude can arise when the inclination of the original magnetization is changed by Žtectonic tilting. Consequently, such ambiguities tilt .vs. displacement in the paleomagnetic analysis of Žrocks have led to some of the most enduring and . Ževolving controversies in the geosciences see Cowan et al., 1997, for a review of controversy in .the North American Cordillera . An additional complication in paleomagnetic analysis arises from overprinting, whereby a rock acquires a secondary magnetization related to a younger magnetization event. ŽThis can be a result of metamorphism regional or .burial , proximity to an igneous intrusion, or the passage of fluids at elevated temperatures. The latter process is now widely recognized as an important agent of remagnetization, particularly in sedimentary\nstrata within or adjacent to orogenic belts. While such remagnetizations tend to obliterate or complicate the recognition of primary magnetizations, they are an important means of mapping the distribution Žand timing of regional fluid events McCabe and .Elmore, 1989; Elmore et al., 1993 . Determining reliable primary paleopoles and magnetizations in older rocks, particularly those that are Precambrian in age, is difficult due to the longer time available for secondary magnetization events and deformation, as well as the limited chronologic resolution in nonfossiliferous sedimentary rocks. Resolving the absolute age of a magnetic imprint in a rock is a problem that is not limited to the Precambrian. It also becomes an issue in regions in which the rocks may have been remagnetized due to processes that affected them after their formation."
+  }, {
+    "heading": "2.2. Biogeography and faunal links",
+    "text": "One of the data sets that first suggested former proximity of now widely separated continental terranes resulted from recognition of faunal similarities between fossil assemblages on disparate continental blocks. Such studies are classic examples that were noted well before paleomagnetic techniques had been Ždeveloped to confirm these ideas Du Toit, 1937; .Wegener, 1966 . Geographic restriction of reproductive communication leads to evolutionary isolation within a population of organisms and generates a biogeographic province. The isolation of distinct populations may be by geographic or other physical barriers to faunal dispersal and communication as well as by oceanic circulation, which controls sea water temperature and nutrient levels, and by climate Ž .see McKerrow and Cocks, 1986 . Although there is a fair bit of imprecision in the biogeographic approach, it is an essential element of determining and testing paleogeographic linkages between continental blocks. Statistical approaches that evaluate faunal similaritiesrdissimilarities offer one means of a more quantitative evaluation of the degree of faunal enŽ .demism Savage et al., 1979; Bergstrom, 1990 . Biogeographic associations can provide control not only on potentially contiguous or adjacent continental masses, but has also been used to constrain the affinities of tracts of accreted crust in mountain belts, which can be characterized by faunal assemblages\nthat are quite distinct relative to the adjacent contiŽnent Monger and Ross, 1971; Smith and Tipper, .1986 . Changes in the degree of faunal isolation Ž .endemism as a function of time are produced by changing continental configurations that bring formerly separated populations within the range of reproductive communication and colonization leading to the change from endemic to more cosmopolitan assemblages. One example is the faunal provinces of eastern Laurentia that maintained a high degree of endemism in the Early Paleozoic when Laurentia was an isolated landmass, but began to develop more cosmopolitan faunas as Iapetus collapsed and barriers between European and Laurentian faunas were Žremoved by tectonic reconfiguration Scotese and .McKerrow, 1990 . Improved understanding of the controls on the limits of dispersion and development Ž .of unique faunas endemism as well as longitudinal Ž .control Belasky, 1994 , may help resolve some of the ambiguity and uncertainty in biogeographic studies. Geochemical analysis, for example, the isotope chemistry of planktonic species such as conodonts and foraminifera, of biogeographic realms can be used as a proxy for mapping distinct water masses and reconstructing ancient circulation patterns and Žwater mass characteristics Hay, 1988; Holmden et .al., 1996 ."
+  }, {
+    "heading": "2.3. Abiotic links",
+    "text": "The distribution of climatically and tectonically sensitive rocks of the same or similar age offer a first-order framework for constraining paleomagnetic data and commonly are an excellent approximation of paleogeographic patterns. Examples of climatically sensitive sedimentary strata that are latitudinally restricted in their occurrence include deposits of saline evaporites which can, in association with terrestrial red bed deposits, be used to reconstruct Ž .arid continental climate zones Gordon, 1975 . Other Ždeposit types include glaciogenic facies Hambrey . Žand Harland, 1981 , phosphatic facies sensitive indi. Ž .cators of zones of climatic upwelling , reef coral bearing carbonates and aeolian sandstones. Recent advances in understanding the details of depositional environments have led to refinement of the paleolatitudinal significance of carbonate rocks with the de-\nvelopment of the concept of ‘‘cool-water carbonates’’ Ž .James and Clarke, 1997 .\nIncreasingly, new approaches have been employed in attempts to establish continental configurations, particularly in time intervals where the paleomagnetic data have been strongly affected by younger overprints or where the sensitivity of faunal assemblages is lacking, for example, in the unfossiliferous Precambrian. This is the case for the latest Proterozoic supercontinent Rodinia, which, like its younger analogue Pangea, broke up to form many of the Paleozoic continental landmasses and ocean basins Žof the Phanerozoic McMenamin and McMenamin, . Ž1990 . Paleomagnetic data from this time period ca. .800–540 Ma have been controversial and resulted Žin a range of different plate reconstructions Meert and van der Voo, 1994; Li et al., 1995; Park et al.,\n1995; Schmidt and Williams, 1995; Torsvik et al., .1996 . Thus reconstruction of this supercontinent has had to rely on alternative techniques, some of which are described below.\nOrogenic belts commonly have a distinct polarity, restricted range of ages of plutonic and metamorphic activity and linear strike length measured in the hundreds to thousands of kilometers. Orogenic belts, particularly those that formed during continental collisions, can be used as intracontinental piercing points. In the case of Rodinia, a series of contempoŽraneous papers Dalziel, 1991; Hoffman, 1991; .Moores, 1991 used the ca. 1.1–1.0 Ga Grenville orogenic belt of eastern and southern North America as a piercing point to stitch together many of the constituent Neoproterozoic continental fragments of Ž .Rodinia Fig. 2 . Like any technique, this one is not\nwithout certain caveats and impediments such as poor geochronologic control and the problem that the Žedges of post-Rodinia continents and hence their .basement are obscured beneath the orogenic cover of younger tectonic processes and plate margins Ž .Ross, 1991 .\nAn additional approach is to examine the rock record on different continents for evidence of contemporaneous processes and products that would have occurred at a scale beyond that of the individual continental blocks and could therefore be used to reassemble the now dispersed continental fragments. One example is magmatism associated with continental rifting and break-up. Magmatic rocks such as flood basalts and related mafic igneous rocks form above large asthenospheric plumes, with plume head diameters in excess of 2000 km, are chronologically Žrestricted and really widespread White, 1992; Ernst .et al., 1995 . A classic example from the Phanerozoic is the reconstruction of the pre break-up configuration of Gondwanaland on the basis of the distribution of Jurassic mafic rocks in southern Africa, South Ž .America, Antarctica and Australia Fig. 3 . In recent years, the improved ability to tightly constrain the age of emplacement or eruption of such igneous Ž .rocks using U–Pb geochronology Krogh et al., 1987 has opened possibilities for Precambrian continental reconstructions. The magmatic rocks that formed during the break up of the western Laurentian component of Rodinia are one possible example. At about 723 Ma and 779 Ma dykes, sills and associated Ž .flood basalts Heaman et al., 1992 of northwestern North America appear to have counterparts in Australia, the conjugate margin to western North AmerŽ .ica Park et al., 1995 . A recent reconstruction using ca. 2.45 Ga dykes and mafic magmatic provinces, suggest that this approach will help unravel the older ŽPrecambrian continental configurations Heaman, .1997; Fig. 3 .\nA different type of continental overlap offered by magmatic rocks is the presence and isotopic signature of widespread and chronologically restricted ash beds formed by the eruption of silica-rich magmatic centers. A spectacular example is the Ordovician bentonites of northwestern Europe and eastern North America which appear to link these continents in a general way prior to the closure of Iapetus and may also tie western Argentina in at this time interval\nŽ .Samson et al., 1989; Huff et al., 1992 . Such linkages are smeared somewhat by uncertainties in ash dispersal patterns and the well-known linear continuity of magmatic arcs that could conceivably produce nearly contemporaneous eruptions from a broad line source rather than point source region.\nSedimentary provenance can be used in much the same way as faunal assemblages to link now separate continental blocks. A recent example that is germane to the reconstruction of Rodinia comes for the sedimentary strata of the Mesoproterozoic Belt Ž .basin of western North America Ross et al., 1992 . This tremendous thickness of clastic sedimentary rocks was derived from a source area that presently lies to the west of the plate edge of North America. The identity of that source can be constrained by geochronologic analysis of detrital minerals contained in the sediment fill which is essentially an inventory of the crystallization ages of rocks in the sediment source area. In this case, the range of ages points to a source area in Australia, based largely on the occurrence of several belts of geochronologically Ž .unique rocks in Australia Ross et al., 1992 . This connection is consistent with suggestions made on the basis of stratigraphic similarity as well as the ŽGrenville piercing point reconstructions Hoffman, .1991 ."
+  }, {
+    "heading": "2.4. Continent–ocean configurations",
+    "text": "The configuration of continents is a common goal of paleogeographic reconstruction but as pointed out Ž .by Jewell 1995 , the impacts of plate reconstructions on the shape of the intervening ocean basins is of equal if not greater importance and yet has received far less attention. Ocean sizes and shapes relative to continental configurations control oceanic currents which in turn can control heat transport and atmospheric circulation, primary productivity, climate, the development of faunal provinciality and biogeography through time. A recent, well-constrained example is the episodic mixing of Pacific and Atlantic water masses across the Central AmeriŽcan Isthmus Mikolajewicz et al., 1993; Burton et al., .1997 . The closure of this isthmus, ca. 3–4 Ma ago, coincides with a dramatic strengthening of the North Atlantic Deep Water current which in turn is be-\nlieved to have a strong influence on thermohaline circulation, CO exchange and Quaternary climate2 cycles. The development of such changes in circula-\ntion in the past are harder to constrain, since they are a function of both paleogeography and sea level, but should be borne in mind when attempting to decon-\nŽvolve the isotope signals of the rock record cf. .Bruckschen et al., this volume ."
+  }, {
+    "heading": "3. Quantitative parameters",
+    "text": "One of the goals of paleogeography is to provide not only an overall perspective of past geographies but, if possible, quantitative constraints for geographic elements such as on the area underlain by ocean basins, line length and elevation of orogenic belts and area of continental emergence. Each of these will impact the geochemical record and therefore quantitative constraints on these paleogeographic elements has the potential to provide reliable estimates of the sizes of geochemical reservoirs and fluxes and how they have changed through time, and thus impose constraints on geochemical modeling. Such quantitative constraints are available for the Cenozoic and Mesozoic during which time, for example, the record of ocean floor growth and subduction is preserved as magnetic stripes, and can be used Žto develop quantitative models of plate motion En.gebretson et al., 1985, 1992 . The major flux of\nprimitive strontium from the mantle is via ocean floor magmatism and hydrothermal circulation of seawater through hot oceanic lithosphere along midocean ridges. This flux can be reconstructed quantitatively from plate motion studies based on the magŽ .netic stripes Taylor and Lasaga, this volume . Continental slopes, which are known to be important as areas of large scale burial of organic carbon and also areas of quantitatively significant reduction of sulfate Ž .to sulfide Canfield, 1991; Strauss, this volume , are another paleogeographic element known to influence strongly the isotopic record that is preserved in Ž .sedimentary rocks Kump and Arthur, this volume . Thus, paleogeographic information on the total length of passive margins in the geologic past can be used to assess the evolution of both the size of the reservoir and the source for organic carbon and sulfur Žaccumulated in the sedimentary rock record cf. Bond .et al., 1984 . Passive margin formation may also be a factor in climate evolution if recent suggestions of the significant role of plateau uplift along passive Ž .margins prove correct Eyles, 1996 . Recent studies also have outlined the role of orogenic belts in Ž .controlling climate Raymo and Ruddiman, 1992 ,\nŽ .Fig. 4. Modern paleogeographic map that uses present continental outlines for the Kazanian Permian time interval of Pangea showing the Ž .distribution of important paleogeographic elements such as mountain belts dark shade and semi-enclosed ocean basins. Terrestrial areas on Ž .continents are shown with light gray fill and areas of marine deposition are shown with no fill Scotese, 1994 .\nthe isotopic composition of strontium in seawater ŽEdmond, 1992; Veizer et al., this volume; Jacobsen .and Kaufman, this volume and the flux of CO2 from the lithosphere due to metamorphic deŽvolatilization and decarbonation Kerrick and .Caldeira, 1993; Bickle, 1996 . This suggests that paleogeographic reconstructions that constrain the length of orogenic belts and the depth of denudation offer an important framework for interpreting geoŽchemical records contained in sedimentary rocks Fig. .4 . Additionally, paleobotanic analysis of fossil flora has been used to estimate paleoaltitudes, a key parameter in evaluating the influence of a mountain Ž .range on climate Wolfe et al., 1998 . Plate motion studies and analysis of the record of Mesozoic and Cenozoic seafloor spreading that is preserved in the ocean floor magnetic stripes make it possible to assess the role that tectonics plays in controlling sea level variations and the degree of Ž .continental emergence Gurnis, 1990 . The effect of sea level on continental emergence is one of the more subtle components of paleogeography that nonetheless can be evaluated by examining paleoshoreline maps, as constrained by sedimentary faŽ .cies Bally and Cook, 1975 . The area of emergent land may impact on geochemical records in sedimentary rocks by controlling atmospheric CO records2 Žand the degree of terrestrial weathering Worsley et .al., 1994 . While much of this detail is difficult to discern completely in the pre-Mesozoic record, it is important to have at least an awareness of the potential role of continental flooding and emergence on geochemical records.\nPaleogeography plays an essential role in the study of earth system evolution because it offers a framework for evaluating and understanding processes responsible for the geochemical record of changes in seawater. While the geochemical databases and, in some time periods, the paleogeographic reconstructions are advanced, there is still uncertainty about how geologic elements interact to force changes in climate, etc. This is a first-order problem that still vexes workers trying to understand post-Pleistocene Earth evolution and climate, let alone those working on applications in the geologic past. Nonetheless, examples that integrate paleoŽ .geography with general circulation models GCMs Ž .or energy balance models EBMs suggest that im-\nportant insights can be derived from application of Žthese new techniques to geological problems Barron et al., 1980; Chandler et al., 1992; Crowley et al., . Ž .1993; Crowley, 1994 Fig. 5 . Improved GCMs and EBMs, which are still struggling with modern climate predictions, should help bring greater understanding of the ancient climate–geography system. One promising area of research is the use of GIS Ž .Geographic Information System software to compile the wealth of geologic information and examine relationships between different elements of paleogeography on a quantitative-spatial basis as a funcŽ .tion of time Ross and Scotese, 1997 . Improved understanding of the relationships between climate, geography, tectonics will offer essential constraints on deconvolution of the geochemical and isotopic signals contained in the sedimentary record.\nŽFig. 5. Example of ancient climatic parameter annual range of .temperatures calculated using paleogeography and an energy Ž . Ž .balance model EBM Crowley and North, 1991 . The continental outline is based on a pre-Atlantic drift Jurassic reconstruction Ž .of Parrish et al. 1982 with the northern hemisphere landmass composed of present day North America, Greenland and Eurasia Ž .from west to east and the southern hemisphere composed of South America, Africa, India, Australia and Antarctica. The temperature simulation shows large annual temperature ranges in the interiors of continents and more moderate annual temperature ranges along the coasts."
+  }, {
+    "heading": "Acknowledgements",
+    "text": "I would like to thank Godfrey Nowlan and William Hay whose reviews of this contribution substantially improved the text and clarity of presentation. Geological Survey of Canada Contribution a1998140."
+  }],
+  "year": 1999,
+  "references": [{
+    "title": "Stratigraphic Atlas of North and Central America",
+    "authors": ["A.W. Bally", "T.D. Cook"],
+    "venue": "Shell Oil,",
+    "year": 1975
+  }, {
+    "title": "Potential significance of land–sea distributions and surface-albedo variations as a climactic forcing factor: 180 million years ago to the present",
+    "authors": ["E.J. Barron", "J.L. Sloan", "Harrison"],
+    "venue": "C.G.A.,",
+    "year": 1980
+  }, {
+    "title": "Biogeography of Permian corals and the determination of longitude in tectonic reconstructions in Pangea: global environments and resources",
+    "authors": ["P. Belasky"],
+    "venue": "Canadian Society Petroleum Geologists, Memoir",
+    "year": 1994
+  }, {
+    "title": "Relations between conodont provincialism and the changing palaeogeography during the Early PalaeoŽ",
+    "authors": ["S.M. Bergstrom"],
+    "year": 1990
+  }, {
+    "title": "Metamorphic decarbonation, silicate weathering and the long-term carbon cycle",
+    "authors": ["M.J. Bickle"],
+    "venue": "Terra Nova",
+    "year": 1996
+  }, {
+    "title": "Breakup of a supercontinent between 625 Ma and 555 Ma: new evidence and implications for continental histories",
+    "authors": ["G.C. Bond", "P.A. Nickeson", "M.A. Kominz"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 1984
+  }, {
+    "title": "Metamorphic evidence for tilt of the Spuzzum pluton: diminished basis for the Baja British Columbia concept",
+    "authors": ["E.H. Brown", "R.F. Burmeister"],
+    "venue": "Tectonics",
+    "year": 1991
+  }, {
+    "title": "Closure of the Central American Isthmus and its effect on deep-water formation in the North Atlantic",
+    "authors": ["K.W. Burton", "Ling", "H.-F", "R.K. O’Nions"],
+    "venue": "Nature 386,",
+    "year": 1997
+  }, {
+    "title": "Paleomagnetism: Magnetic Domains to Geologic Terranes",
+    "authors": ["R.F. Butler"],
+    "year": 1992
+  }, {
+    "title": "Sulfate reduction in deep-sea sediments",
+    "authors": ["D.E. Canfield"],
+    "venue": "American Journal of Science",
+    "year": 1991
+  }, {
+    "title": "Pangean climate during the Early Jurassic: GCM simulations and the sedimentary record of paleoclimate",
+    "authors": ["M. Chandler", "D. Rind", "R. Ruedy"],
+    "venue": "Geological Society of America Bulletin",
+    "year": 1992
+  }, {
+    "title": "Geologic tests of hypotheses for large coastwise displacements — a critique illustrated by the Baja British Columbia controversy",
+    "authors": ["D.S. Cowan", "M.T. Brandon", "J.I. Garver"],
+    "venue": "American Journal of Science",
+    "year": 1997
+  }, {
+    "title": "Pangean climates",
+    "authors": ["T.J. Crowley"],
+    "venue": "Geological Society of America Special Paper",
+    "year": 1994
+  }, {
+    "title": "GCM sensitivity experiment with pole-centered supercontinents",
+    "authors": ["T.J. Crowley", "S.K. Baum", "K.Y. Kim"],
+    "venue": "Journal of Geophysical Research",
+    "year": 1993
+  }, {
+    "title": "Pacific margins of Laurentia and East Antarctica–Australia as a conjugate rift pair: evidence and implications for an Eocambrian",
+    "authors": ["I.D. Dalziel"],
+    "venue": "supercontinent. Geology",
+    "year": 1991
+  }, {
+    "title": "The carboniferous glaciation of South Africa",
+    "authors": ["A.L. Du Toit"],
+    "venue": "Geol. Soc. S. Afr.,",
+    "year": 1921
+  }, {
+    "title": "Our wandering continents. Oliver and Boyd, Edinburgh",
+    "authors": ["A.L. Du Toit"],
+    "year": 1937
+  }, {
+    "title": "Himalayan tectonics, weathering processes, and the strontium isotope record in marine limestones",
+    "authors": ["J.M. Edmond"],
+    "venue": "Science",
+    "year": 1992
+  }, {
+    "title": "Remagnetization by basinal fluids: testing the hypothesis in the Viola Limestone, southern Oklahoma",
+    "authors": ["R.D. Elmore", "D. London", "D. Bagley", "G. Gao"],
+    "venue": "Journal of Geophysical Research",
+    "year": 1993
+  }, {
+    "title": "Relative motions between oceanic plates and continental plates in the Pacific basin",
+    "authors": ["D.C. Engebretson", "A. Cox", "R. Gordon"],
+    "venue": "Geological Society of America, Special Paper 206,",
+    "year": 1985
+  }, {
+    "title": "Giant radiating dyke swarms on Earth and Venus",
+    "authors": ["R.E. Ernst", "J.W. Head", "E. Parfitt", "E. Grosfils", "L. Wilson"],
+    "venue": "Earth Science Reviews",
+    "year": 1995
+  }, {
+    "title": "Passive margin uplift around the North Atlantic region and its role in Northern Hemisphere late",
+    "authors": ["N. Eyles"],
+    "venue": "Cenozoic glaciation. Geology",
+    "year": 1996
+  }, {
+    "title": "Phanerozoic paleogeographic and paleoclimatic modeling maps",
+    "authors": ["J. Golonka", "M.I. Ross", "C.R. Scotese"],
+    "year": 1994
+  }, {
+    "title": "Distribution by latitude of Phanerozoic evaporite deposits",
+    "authors": ["W.A. Gordon"],
+    "venue": "Journal of Geology",
+    "year": 1975
+  }, {
+    "title": "Ridge spreading, subduction, and sea level fluctuations",
+    "authors": ["M. Gurnis"],
+    "venue": "Science 250,",
+    "year": 1990
+  }, {
+    "title": "Earth’s pre-Pleistocene Glacial Record",
+    "authors": ["M.J. Hambrey", "W.B. Harland"],
+    "year": 1981
+  }, {
+    "title": "Paleooceanography: a review for the GSA Centennial",
+    "authors": ["W.W. Hay"],
+    "venue": "Geological Society of America Bulletin",
+    "year": 1988
+  }, {
+    "title": "Global mafic magmatism at 2.45 Ga: Remnants of an ancient large igneous province",
+    "authors": ["L.M. Heaman"],
+    "venue": "Geology",
+    "year": 1997
+  }, {
+    "title": "Nature and timing of Franklin igneous events, Canada: implications for a Late Proterozoic mantle plume and the break-up of Laurentia",
+    "authors": ["L.M. Heaman", "A.N. LeCheminant", "R.H. Rainbird"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 1992
+  }, {
+    "title": "Did the breakout of Laurentia turn Gondwanaland inside-out",
+    "authors": ["P.F. Hoffman"],
+    "venue": "Science",
+    "year": 1991
+  }, {
+    "title": "Isotopic and elemental systematics of Sr and Nd in 454 Ma biogenic apatites: implication for paleoseawater studies",
+    "authors": ["C. Holmden", "R.A. Creaser", "K. Muehlenbachs", "S.M. Bergstrom", "S.A. Leslie"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 1996
+  }, {
+    "title": "Gigantic Ordovician volcanic ash fall in North America and Europe: biological, tectonomagmatic, and event-stratigraphic significance",
+    "authors": ["W.D. Huff", "S.M. Bergstrom", "D.R. Kolata"],
+    "venue": "Geology 20,",
+    "year": 1992
+  }, {
+    "title": "Paleomagnetic and paleoclimatological aspects of polar wandering",
+    "authors": ["E. Irving"],
+    "venue": "Geofis. Pura Appl",
+    "year": 1956
+  }, {
+    "title": "Paleomagnetism and its Application to Geological and Geophysical Problems",
+    "authors": ["E. Irving"],
+    "year": 1964
+  }, {
+    "title": "Bathozonal tilt corrections to paleomagnetic data from midCretaceous plutonic rocks: examples from the Omineca belt, British Columbia",
+    "authors": ["E. Irving", "D.A. Archibald"],
+    "venue": "Journal of Geophysical Research",
+    "year": 1990
+  }, {
+    "title": "Geologic consequences of globe-encircling equatorial currents",
+    "authors": ["P.W. Jewell"],
+    "venue": "Geology",
+    "year": 1995
+  }, {
+    "title": "Paleoatmospheric consequences of CO released during early Cenozoic regional meta",
+    "authors": ["D.M. Kerrick", "K. Caldeira"],
+    "year": 1993
+  }, {
+    "title": "The occurrence and origin of Late Paleozoic remagnetization in the sedimentary rocks of North America",
+    "authors": ["C. McCabe", "R.D. Elmore"],
+    "venue": "Reviews in Geophysics",
+    "year": 1989
+  }, {
+    "title": "Oceans, island arcs and olistostromes: the use of fossils in distinguishing sutures, terranes and environments around the Iapetus Ocean",
+    "authors": ["W.S. McKerrow", "L.R.M. Cocks"],
+    "venue": "Journal Ž",
+    "year": 1986
+  }, {
+    "title": "Effect of Drake and Panamanian gateways on the circulation of an ocean model",
+    "authors": ["U. Mikolajewicz", "E. Maier-Reimer", "T.J. Crowley", "Kim", "K.-Y"],
+    "venue": "Paleoceanography",
+    "year": 1993
+  }, {
+    "title": "Distribution of fusilinaceans in the western Canadian Cordillera",
+    "authors": ["J.W.H. Monger", "C.A. Ross"],
+    "venue": "Canadian Journal of Earth Sciences",
+    "year": 1971
+  }, {
+    "title": "Southwest U.S.–East Antarctic SWEAT connection: a hypothesis",
+    "authors": ["E.M. Moores"],
+    "venue": "Geology",
+    "year": 1991
+  }, {
+    "title": "Tentative paleocontinental maps for the early Phanerozoic and Proterozoic",
+    "authors": ["P. Morel", "E. Irving"],
+    "venue": "Journal of Geology",
+    "year": 1978
+  }, {
+    "title": "A proposed giant radiating dyke swarm fragmented by the separation of Lauren",
+    "authors": ["J.K. Park", "K.L. Buchan", "S. Harlan"],
+    "year": 1995
+  }, {
+    "title": "Rainfall patterns and the distributions of coals and evaporites in the Mesozoic and Cenozoic",
+    "authors": ["J.T. Parrish", "A.M. Ziegler", "C.R. Scotese"],
+    "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+    "year": 1982
+  }, {
+    "title": "Tectonic forcing of late",
+    "authors": ["M.E. Raymo", "W.F. Ruddiman"],
+    "venue": "Cenozoic climate. Nature",
+    "year": 1992
+  }, {
+    "title": "Precambrian basement in the Canadian Cordillera: an introduction",
+    "authors": ["G.M. Ross"],
+    "venue": "Canadian Journal of Earth Sciences",
+    "year": 1991
+  }, {
+    "title": "PALEOGIS: Using a modern GIS to create, display, and analyze plate tectonic and paleogeographic models",
+    "authors": ["M.I. Ross", "C.R. Scotese"],
+    "venue": "Geological Association of Canada, Annual Meeting, Abstracts w Program,",
+    "year": 1997
+  }, {
+    "title": "Provenance and U–Pb geochronology of the Mesoproterozoic Belt Supergroup",
+    "authors": ["G.M. Ross", "R.R. Parrish", "D. Winston"],
+    "year": 1992
+  }, {
+    "title": "Origin and tectonic setting of Ordovician bentonites in North America: isotopic and age constraints",
+    "authors": ["S.D. Samson", "P.J. Patchett", "J.C. Roddick", "R.R. Parrish"],
+    "venue": "Geological Society of America Bulletin",
+    "year": 1989
+  }, {
+    "title": "A quantitative analysis of Lower Devonian brachiopod distribution",
+    "authors": ["N.M. Savage", "D.G. Perry", "A.J. Boucot"],
+    "year": 1979
+  }, {
+    "title": "The Neoproterozoic climatic paradox: equatorial paleolatitude for Marinoan glaciation near sea level in Australia",
+    "authors": ["P.W. Schmidt", "G.E. Williams"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 1995
+  }, {
+    "title": "Late Permian paleogeographic map",
+    "authors": ["C.R. Scotese"],
+    "year": 1994
+  }, {
+    "title": "Revised World maps and Ž",
+    "authors": ["C.R. Scotese", "W.S. McKerrow"],
+    "year": 1990
+  }, {
+    "title": "Plate tectonics and paleobioŽ",
+    "authors": ["P.L. Smith", "H.W. Tipper"],
+    "year": 1986
+  }, {
+    "title": "Continental break-up and collision in the Neoproterozoic and Paleozoic—a tale of Baltica and Laurentia",
+    "authors": ["T.H. Torsvik", "M.A. Smethurst", "J.G. Meert", "R. Van der Voo", "W.S. McKerrow", "M.D. Brasier", "B.A. Sturt", "H.J. Walderhaug"],
+    "venue": "Earth Science Reviews",
+    "year": 1996
+  }, {
+    "title": "Paleomagnetism of North America; The craton, its margins and the Appalachian Belt",
+    "authors": ["R. Van der Voo"],
+    "venue": "In: Pakiser, L.C., Ž .",
+    "year": 1989
+  }, {
+    "title": "Phanerozoic CO levels and global temperatures",
+    "authors": ["T.R. Worsley", "T.L. Moore", "C.M. Fraticelli", "C.R. Scotese"],
+    "year": 1994
+  }],
+  "id": "SP:f86ea36b2c242da76b94e204f88df092eaee0260",
+  "authors": [{
+    "name": "Gerald M. Ross",
+    "affiliations": []
+  }],
+  "abstractText": "Paleogeography is the subdiscipline within the geosciences that studies the physical and biological geography of the geologic past, including the configuration and latitudinal distribution of continental landmasses, their topographic relief, climate and biota. In recent years, the study of paleogeography has evolved from simple continental reconstructions to more sophisticated paleocontinental maps that form the basis of paleoclimactic modeling by incorporating elements of oceanic and atmospheric circulation and their interactive relationship with landmasses. A broad range of geologic elements can be reconstructed through paleogeographic studies, such as mountain belts, climate zones, emergent land and continental configurations, many of which impact directly on understanding the driving forces behind geochemical signals contained in the rock record which are used as a proxy for biogeochemical processes in Earth history. Paleogeography is thus an essential component of an earth systems approach to interpreting the geologic past. Paleoconfigurations of continents and ocean basins are determined by a variety of techniques. Paleomagnetic studies are the most common, but additional constraints are Ž . provided by faunal provincialism biogeography and abiotic continental linkages such as pre-break-up magmatism. Recent developments within paleogeography include the use of various forms of climate models to analyze the relationships between global continental reconstructions and the rock record of past climates in order to test more directly feedback between paleogeography and paleoclimate. Development of an extended GIS database for the geological past promises new insights into quantitative analysis of Earth system evolution. q 1999 Elsevier Science B.V. All rights reserved.",
+  "title": "Paleogeography: an earth systems perspective"
+}

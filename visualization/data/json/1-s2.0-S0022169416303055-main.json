@@ -1,0 +1,393 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nJournal of Hydrology\njournal homepage: www.elsevier .com/locate / jhydrol\nGroundwater flow pattern and related environmental phenomena in complex geologic setting based on integrated model construction\nhttp://dx.doi.org/10.1016/j.jhydrol.2016.05.038 0022-1694/ 2016 Elsevier B.V. All rights reserved.\n⇑ Corresponding author. E-mail address: adam.geophysics@gmail.com (Á. Tóth).\nÁdám Tóth a,⇑, Tímea Havril a, Szilvia Simon a, Attila Galsa b, Fernando A. Monteiro Santos c, Imre Müller a, Judit Mádl-Sz}onyi a\naDepartment of Physical and Applied Geology, Eötvös Loránd University, Pázmány Péter sétány 1/C, 1117 Budapest, Hungary bDepartment of Geophysics & Space Sciences, Eötvös Loránd University, Pázmány Péter sétány 1/C, 1117 Budapest, Hungary c Institute Dom Luiz, Faculty of Sciences, University of Lisbon, Campo Grande, Ed. C8, 1749-016 Lisbon, Portugal\na r t i c l e i n f o\nArticle history: Received 23 November 2015 Received in revised form 6 May 2016 Accepted 19 May 2016 Available online 26 May 2016 This manuscript was handled by Geoff Syme, Editor-in-Chief, with the assistance of Craig T. Simmons, Associate Editor\nKeywords: 3D groundwater flow simulation Environmental agency of groundwater Groundwater-dependent ecosystem Hydrogeophysics Electromagnetic geophysical methods Tihany Peninsula, Hungary\ns u m m a r y\nGroundwater flow, driven, controlled and determined by topography, geology and climate, is responsible for several natural surface manifestations and affected by anthropogenic processes. Therefore, flowing groundwater can be regarded as an environmental agent. Numerical simulation of groundwater flow could reveal the flow pattern and explain the observed features. In complex geologic framework, where the geologic–hydrogeologic knowledge is limited, the groundwater flow model could not be constructed based solely on borehole data, but geophysical information could aid the model building. The integrated model construction was presented via the case study of the Tihany Peninsula, Hungary, with the aims of understanding the background and occurrence of groundwater-related environmental phenomena, such as wetlands, surface water–groundwater interaction, slope instability, and revealing the potential effect of anthropogenic activity and climate change. The hydrogeologic model was prepared on the basis of the compiled archive geophysical database and the results of recently performed geophysical measurements complemented with geologic–hydrogeologic data. Derivation of different electrostratigraphic units, revealing fracturing and detecting tectonic elements was achieved by systematically combined electromagnetic geophysical methods. The deduced information can be used as model input for groundwater flow simulation concerning hydrostratigraphy, geometry and boundary conditions. The results of numerical modelling were interpreted on the basis of gravity-driven regional groundwater flow concept and validated by field mapping of groundwater-related phenomena. The 3D model clarified the hydraulic behaviour of the formations, revealed the subsurface hydraulic connection between groundwater and wetlands and displayed the groundwater discharge pattern, as well. The position of wetlands, their vegetation type, discharge features and induced landslides were explained as environmental imprints of groundwater. The highly vulnerable wetlands and groundwater-dependent ecosystems have to be in the focus of water management and natural conservation policy.\n2016 Elsevier B.V. All rights reserved."
+  }, {
+    "heading": "1. Introduction and aims",
+    "text": "After the first analytical representation of the flow field in homogeneous and isotropic unit basins along a 2D cross section by Tóth (1962), a conceptual background has evolved for unravelling subsurface flow patterns and related environmental processes. In a theoretical small drainage basin, three different hydraulic regimes (recharge, through-flow and discharge) of local, intermediate and regional flow systems could develop (Tóth, 1962, 1963). The theory of regional groundwater flow – implying\ngravity-driven hierarchically nested groundwater flow in hydraulically continuous basin – (Tóth, 2009) could explain a variety of geologic processes. Since the first application of numerical flow models (Freeze and Witherspoon, 1966, 1967), many others have been constructed for understanding fluid flow in sedimentary basins (e.g. Garven, 1995), heat and solute transport (e.g. An et al., 2015), accumulation of petroleum and ore deposits (e.g. Person et al., 2012) as well as eco-hydrological conditions (e.g. Batelaan et al., 2003) and surface water–groundwater interaction (e.g. Winter et al., 1998). In recent years, significant advances and improvements can be seen in the analysis of flow systems by investigating the gravity-driven regional groundwater flow (GDRGF) in other environments such as thick confined and\nunconfined carbonates (e.g. Ben-Itzhak and Gvirtzman, 2005; Mádl-Sz}onyi and Tóth, 2015), metamorphic and igneous, volcanic rocks (e.g. Mul et al., 2007; Herrera et al., 2016) and even in more complex rock framework (e.g. Pacheco, 2015); together with the application of 3D numerical models of groundwater flow (Zhou and Li, 2011).\nHydrogeologic models require diverse and large dataset with uniform spatial coverage. In most cases these requirements are not completely fulfilled. Geophysical measurements can provide continuous information. Furthermore, coupling themwith geologic (boreholes, profiles, sections, maps) and hydrogeologic data (water levels, pumping tests, laboratory measurements), and mapping the groundwater flow-related surface phenomena, the connected numerical models could represent the geologic structure, even its complexity, and explain the observed features. Utility and effectiveness of application of geophysical methods to hydrogeologic problems have already been highlighted by many studies (e.g. Rubin and Hubbard, 2005; Kirsch, 2009).\nIt has been revealed that the undulation of topography (provides the gravitational energy), the geology (controls the amount of stored groundwater, the geometry and rate of flow, chemical composition, and temperature) and the climate (determines the water supply and its distribution) have the major effect on the evolving groundwater flow systems. These agents constitute the conceptual system of hydrogeologic environment (Tóth, 1970). Thus, groundwater flow is controlled by the interaction of hydrosphere, lithosphere and atmosphere, and due to this interaction, typical environmental manifestations occur, which are attributed to the flowing groundwater. These natural phenomena and conditions are: (1) water-level fluctuation, regionally varying moisture content, discharging springs, base-flow of streams and springs; (2) water salinity and soil salinization, diagenesis, weathering, dissolution; (3) wetlands and vegetation type; (4) positive or negative geothermal anomaly; (5) soil and rock mechanical weakness failures, i.e. liquefaction, instability, landslides, slumping; (6)\n+ TΔ\n-ΔT\nR R\nDDD\n-ΔT + TΔ\nR\nD D\nD\nLegen\nwater table\nequipotential line\nstreamline\ncold spring\nlukewarm spring\nthermal spring\nrecharge area\ncold discharge area\nlukewarm discharge area\nthermal discharge area\nnegative temperature anomaly\npositive temperature anomaly\nFig. 1. Natural conditions and phenomena due to environmental agency o\ngeomorphic features, i.e. gullying, erosion, karstification; and (7) transport and accumulation of heat, hydrocarbon, ores and contaminants (Fig. 1) (Tóth, 2009).\nAccordingly, this paper presents a methodological scheme of how geophysical methods could aid obtaining geologic information for hydrogeologic flow modelling purposes if the a priori knowledge is quite restricted and/or in geologically complex areas. The study area is the Tihany Peninsula, Hungary, which is characterised by complex volcanic, siliciclastic and carbonate geologic structure and it is a natural conservation area. The peninsula is also a main touristic destination because of its natural and cultural heritage and pleasant milieu, so artificial influences are also present. In spite of its important and protected status, fluid flow model of the area, which could support water management and natural protection policy (Singh, 2014; Kløve et al., 2011), had not been constructed previously. Therefore, the aims of the study are: (1) constructing integrated groundwater flow model for a geologically complex area; (2) depicting hierarchical flow and discharge pattern; (3) understanding the background and occurrence of environmental phenomena, such as wetlands and groundwater-dependent ecosystems, surface water–groundwater interaction, dischargerelated slope instability; (4) determining anthropogenic activityrelated issues on groundwater flow; and (5) diagnosing the potential effect of climate change."
+  }, {
+    "heading": "2. Hydrogeologic setting of the study area",
+    "text": "The Tihany Peninsula, situated in the Bakony–Balaton Highland Volcanic Field, is surrounded by the Lake Balaton, Hungary (Fig. 2a). The preservation of environment and biodiversity is an important issue in this Natura 2000 area, with special emphasis on three minor wetlands. It has been presumed that they are recharged exclusively from precipitation. However, based on field observations, historical documents (Csizmazia, 2010) and\n-ΔT\nR\nR R\nD\nD\nd\nxerophyte vegetation\nphreatophyte vegetation\nhalophyte vegetation\ngroundwater-dependent ecosystem\nsurface erosion\nlandslide\naccumulation zone\ntraces above accumulation\nsaline precipitate\nf flowing groundwater in drainage basin (modified after Tóth, 1999).\ntheoretical considerations of surface water–groundwater studies (e.g. Winter et al., 1998), hydraulic connection could be hypothesised between wetlands and the Lake Balaton via groundwater. The wetlands are located in paleo-maar structures formed during the Neogene phreatomagmatic volcanism of the region ca. 7.9 Ma ago (Németh et al., 2001; Balogh and Németh, 2005). A palustrine wetland lays at 114.5 m asl representing the deepest area of the Peninsula; a lacustrine wetland, a permanent lake can be found at 124 m asl; and an other lacustrine wetland, a seasonal lake is located at 126 m asl and has temporary water body occurring only after wet periods or snowbreak (Fig. 2a).\nThe Tihany Peninsula is characterised by a sub-Mediterranean climate with 600 mm annual precipitation and 10.7 C average annual temperature (Péczely, 1970): thus, recharge is provided and water table can be regarded as subdued smoothened replica of the topography (Bethke, 1989; Haitjema and Mitchell-Bruker, 2005), consequently, regional topographic differences are the driving forces.\nThe geologic structure is quite complex in this area (Fig. 2b). The bedrock is Silurian shale (LsU (lithostratigraphic unit) 1) functioning as an aquiclude (Gondár-S}oregi and Gondár, 1988) overlain by Permian sandstone (LsU 2) (Haas et al., 1999). Mesozoic (LsU 3) and Miocene carbonate formations (limestone and dolomite; LsU 4) are superimposed on Paleozoic sediments in several 10–100 m thickness (Haas et al., 1999). Miocene clay marl (LsU 7), silt (LsU 8) and sand sequences (LsU 9) deposited alternately over carbonate units. Mio–Pliocene volcanics (LsU 6) and maar structures (LsU 5) formations cut through the siliciclastic beddings (Sacchi et al., 1999; Horváth et al., 2010). Thin (maximum 10 m) sporadically present Pleistocene–Holocene fine-grained cover (LsU 10–11) is the youngest formation.\nRecords of 80 wells are available for this area but almost threefourth of the boreholes are very shallow with less than 25 m depth, and only 3 wells penetrate more than 200 m deep. Consequently, the geologic–hydrogeologic model could not be constructed based solely on well data. For this reason, available geophysical information was collected, and the compiled database was complemented by geophysical measurements."
+  }, {
+    "heading": "3. Overview of applied methods",
+    "text": "Geophysical methods are efficient tools for investigating the shallow geologic structure. Since electrical resistivity is sensitive to the fluid content of the geologic framework, the hydrostratigraphic units (HsU) (Maxey, 1964) can be defined on the basis of the measured electrical conductivity (or resistivity), which is in connection with the porosity and hydraulic conductivity (Tezkan, 1999). Consequently, geoelectrical and electromagnetic techniques measuring electrical resistivity are getting commonly applied in hydrogeologic research (e.g. Nobes, 1996). Geophysical results could aid 3D groundwater flow model construction for revealing the flow pattern and mapping of surface phenomena can validate the numerical simulation."
+  }, {
+    "heading": "3.1. Electromagnetic geophysical methods",
+    "text": "Shallow (down to 100 m) geological structures can be investigated quickly and effectively by frequency-domain methods. They are fast, easy-to-use, non-invasive, cheap and allow extensive geologic mapping with high density of information over large areas (Tezkan, 1999) even in populated and artificially\ninfluenced regions. Subsurface heterogeneities, lithological contrasts attributed to sharp change in lithology such as faults, filled fractures, caverns and karst channels (Bosch, 2002) and also groundwater-bearing structures and contaminant plumes could be identified with the help of these measurements (Carvalho Dill et al., 2009). Namely, their diverse application fields, the obtained complex information, quick operation during data acquisition have made electromagnetic techniques perspective tools for unexplored areas. However, equivalence problem and smoothing of data as a general limitation can occur.\nElectromagnetic survey was carried out on the Tihany Peninsula for mapping heterogeneities, setting up hydrostratigraphic distribution and also detecting tectonic structures. The employed equipments have been constructed by the Centre for Hydrogeology and Geothermics (CHYN) of Neuchâtel, Switzerland, and specified for hydrogeologic problems (Bosch, 2002; Carvalho Dill et al., 2009): radio-magnetotellurics (RMT), audio-magnetotellurics (AMT), very low frequency – resistivity (VLF–R), very low frequency – electromagnetics (VLF–EM) and very low frequency – electromagnetic – gradient (VLF–EM–Grad). The theory, principle and field application of these methods are summarised in: e.g. Bosch, 2002; Carvalho Dill et al., 2009, 2012; Monteiro Santos et al., 2006a, 2006b; Vargemezis, 2014.\nThese techniques were systematically combined and applied in a scheme (Fig. 3), which can give a background to produce appropriate groundwater flow model input via integrating geophysical results. Based on the workflow, different electrostratigraphic units (EsU; almost homogeneous layers defined by resistivity (q) contrast (Mele et al., 2012; Bersezio et al., 2012)) and their position, existence, intensity and direction of fractures as well as tectonic structural pattern could be determined. According to the developed scheme, electrostratigraphy can be obtained from RMT and AMT measurements detecting shallow (down to 200 m) and deep (down to 5000 m) electrostratigraphic units, respectively. VLF– EM and VLF–EM–Grad can be applied to detect and locate structural objects based on the out-phase curve indicating sharp lithological changes, e.g. faults (e.g. Bosch, 2002). Anisotropy of medium can be interpreted as direction-dependent variation of electrical resistivities related to fractures. Degree of anisotropy, i.e. the aperture and maturity of fractures and also the main directions can be determined by multidirectional VLF–R survey (e.g. Carvalho Dill et al., 2009).\nDetailed hydrogeologic model input could be obtained from continuous geophysical information conflating with limited geologic–hydrogeologic data: hydrogeologic sequence and hydraulic conductivity (K) (or permeability (k)) of each unit, i.e. hydrostratigraphy and geometry of the model could be determined; boundaries and boundary conditions based on hydraulic behaviour (permeable/impermeable) of units could also be assigned, or at least proposed. Hydrostratigraphic distribution can be set up from electrostratigraphy through relationship between electrical resistivity and hydraulic conductivity. As a drawback, this linkage is still empirical and site-restricted (e.g. Khalil and Monteiro Santos, 2011). If a proper q–K relationship could not be recognised at least the hydraulic behaviour (aquifer – AF, aquitard – AT) of the units could be estimated. Fracturing and tectonic elements have also effect on permeability field. Geophysical information can also aid in establishment of boundary conditions of the numerical model based on K contrast between hydrostratigraphic units."
+  }, {
+    "heading": "3.2. 3D groundwater flow modelling",
+    "text": "Numerical simulation of subsurface flow was performed in 3D applying COMSOL Multiphysics, which is a finite element numerical software package that can effectively handle multi-disciplinary groundwater problems as well (Zimmerman, 2006). Its usability and flexibility can enable researchers to build 3D models for geologically complex media and include structures (Li et al., 2009) that can act as barriers or conduits to fluid flow (e.g. Bense et al., 2013). Being aware of the existence and location of tectonic structures is essential in hydrogeological modelling since tectonic zones can act as conduits or barriers to groundwater flow and have an impact on flow pattern both on local and regional scales (e.g. Bense et al., 2013; Czauner and Mádl-Sz}onyi, 2011). Steady-state (without source or sink) gravity-driven (constant gravitational acceleration) Fluid flow/Porous Media and Subsurface Flow/Darcy’s Law module solving the equations of continuity and Darcy was applied for groundwater flow simulation in COMSOL Multiphysics assuming constant density and dynamic viscosity of fluid."
+  }, {
+    "heading": "4. Results",
+    "text": "The hydrogeological model was constructed in correspondence with the compiled archive geophysical database and the target ori-\nented electromagnetic geophysical measurements complemented with geologic–hydrogeologic data. This section will present the results of geophysical surveys and information deduced for groundwater flow modelling, the solution of the numerical model and the interpretation of the hydrogeological system of the Tihany Peninsula."
+  }, {
+    "heading": "4.1. Compilation of archive geophysical information",
+    "text": "Volcanological studies have revealed three phreatomagmatic explosion (Lorenz, 2003) centres on the Peninsula, and remnants of maar structures accommodate the wetlands (Németh et al., 2001; Németh and Martin, 2004). These volcanic formations were the objects of geomagnetic and gravity measurements (Benderné et al., 1966; Lipovics et al., 2004). Bouguer and magnetic anomalies were interpreted as basaltic formation representing root zone of the maar structures, and the craters and vents were located. Considerable strike-slip across the Peninsula and smaller normal faults with volcano-tectonic origin were also identified (Németh et al., 2001). Water seismic survey on the Lake Balaton could also support the construction of large-scale subsurface structural interpretation of the Peninsula (Sacchi et al., 1999). However, the\ndelineation of smaller scale geologic heterogeneities and tectonic structures required surface geophysical measurements."
+  }, {
+    "heading": "4.2. Electromagnetic survey",
+    "text": "RMT was applied for shallow depth ( 30 m) around the wetlands, and was complemented by AMT soundings down to 500 m. Altogether 708 RMT measurements were performed covering the inner parts and rims of paleo-craters (Fig. 4a–d). The direction of applied antennas was N 120–130 , their frequencies were 207 kHz (Aholming, Germany), 77.5 kHz (Mainflingen, Germany) and 22.1 kHz (Skelton, United Kingdom). Resistivity maps (qi) were compiled for each wetland to identify main geometric features. Resistivity is displayed on 5 maps at 5 different depth (surface [0], 5, 10, 15 and 20 m below surface; i.e. i = 0, 5, 10, 15, 20) showing resistivity distribution in quasi-3D due to the spatially dense dataset (Fig. 5a–c). Three electrostratigraphic units were determined based on the relative frequency of resistivity values (Tóth et al., 2014), and correlating borehole information and field observation with resistivities.\nGeology could be examined the most efficiently around and in the seasonal lake in dry periods; however, similar structures could\nsula as a reference for b–d. Measurement sites in the vicinity of (b) the seasonal lake,\nbe identified at temporal lake and palustrine wetland. The lowest resistivity values (<20Xm) were detected at and in the vicinity of lakebeds while gradual increase in resistivity (from 20–35Xm to 200Xm) occurs toward crater rims and also downward (increase in depth) (Fig. 5a–c). Since the wetlands are located in paleo-maar structures, the geometry and elements of maar environment (Fig. 16 of Lorenz, 2003) could be identified and interpreted as follows: lacustrine fine-grained sediments of lowresistivity (<20Xm; EsU VI) cover the surface in the vicinity of wetlands with maximum 10–15 m thickness, maar filling pyroclastics and debris with 20–35Xm (EsU III) can be detected toward the crater rims and >35Xm (EsU IV) represent tephra rings. The resolution of RMT, as generally applies for every electromagnetic methods, decreases in depth. Heterogeneities could also have influence on reliability and resolution of collected data. 1D inversion was\ncarried out for each sounding which could cause uncertainties associated with interpretation, however, artefacts during inversion did not appear and interpretation was validated by field observation, i.e. ground truth information.\nAMT technique was tentatively employed to reach greater penetration depth (even down to 2 km). Apparent resistivity and phase were measured at 10 frequencies (12.700, 7100, 3880, 1970, 990, 540, 280, 140, 70 and 35 Hz) at 10 sites (Fig. 4a–d). Shallow and thin units with limited extension cannot be detected because of lower resolution of AMT, but deeper and thicker water-saturated electrostratigraphic units could be revealed such as units with 20Xm, 60–80Xm and >100Xm (Fig. 6). Note, that due to limited datapoints, the resistivity variation between 4 and 11 sites is mainly generated by inversion. After correlating resistivities and beddings (derived from geologic profiles and boreholes) Pliocene\nE O\nV X\n(m )\nsiliciclastic (EsU V), Mesozoic–Miocene carbonate formations (EsU II) and Permian sandstone (EsU I) could be distinguished based on AMT results.\nAt dry lakebed of seasonal lake the anisotropy of formations, fractures could be studied effectively in a small area by VLF resistivity method. VLF–R measurements were carried out at 63 sites (Fig. 4b) in two perpendicular directions (N–S andW–E), one signal from Norway (Helgeland) with 16.48 kHz and one from Italy (Tavolara) with 20.8 kHz were applied. Significant phase differences (5– 10 ) were detected only at the basaltic maar rims indicating mostly N–S orientation (Fig. 7). Minor differences were obtained at the unconsolidated fine-grained covering sediments suggesting absence of anisotropy. Consequently, the lacustrine sediments are electrically and also geologically isotropic, the volcanosediments are, however, fractured – as it was also recorded in correspondence with petrological studies (Tör}o, 2009).\nStructural pattern was studied by the joint application of VLF–EM and VLF–EM–Grad methods, and data acquisition was carried out along altogether 6.5 km and 1.7-km-long profiles, respectively (Fig. 4c–d). According to the quadrature curves several ‘sharp lithologic change’ spots can be appointed (Fig. 8) relating to electrical resistivity contrast between the adjoining formations (basaltic–siliciclastic) or tectonic elements. The great majority of these points coincide with the track of strike-slip, and it could be several 10-m-wide with smaller transverse fractures."
+  }, {
+    "heading": "4.3. Numerical simulation of groundwater flow",
+    "text": "Boundary conditions, hydrostratigraphy and geometry are required for groundwater flow simulation. They were deduced from integrating geophysical and geologic–hydrogeologic data according to the scheme (Fig. 3), so the geophysical results were converted and transformed into hydrogeologic information."
+  }, {
+    "heading": "4.3.1. Model input",
+    "text": "Hydraulic behaviour, i.e. hydraulic conductivity of different hydrostratigraphic units, aquifers (AF) and aquitards (AT), has a fundamental impact on flow pattern. Therefore, stratigraphic– electrostratigraphic information should be converted to hydrostratigraphy but in the simpliest way: units with similar hydraulic behaviour but different age or lithology have to bemerged into one (Maxey, 1964).\nConversion of near-surface and shallow (<30 m) units can be executed based on detailed EM survey, moreover after Müller et al. (2008) they could be characterised with hydraulic conductivity as a preliminary estimation, however, the conversion had uncertainties regarding different type of geological materials. According to this log–log linear empirical relation, 60Xm resistivity is equal to 10 5 m/s hydraulic conductivity, and 400Xm to 10 3 m/s. EsU VI representing Holocene lacustrine deposit can be described by hydraulic conductivity in order of 10 7 m/s (HsU I AT) (Fig. 9). Volcanics generally behave as aquitards but fracturing\nand weathering can enhance their hydraulic conductivity. For this reason, volcanosediments, EsU III (HsU E AF) and basaltic tuffaceous formations, EsU IV (HsU F AF) have 10 6 m/s and 5 10 6 m/s hydraulic conductivity, respectively. These hydraulic conductivity values were validated by grain size distribution measurements (Tóth et al., 2012).\nDetermination of hydraulic conductivity of deeper units requires supplementary geologic–hydrogeologic data. Hydraulic conductivities obtained from pumping tests were available for some formations (HsU H AF, HsU D AF and HsU B AF). However,\ndue to the scarcity of the available information, the data should be complemented by K values of relevant literature (e.g. Freeze and Cherry, 1979; Domenico and Schwartz, 1997; Brassington, 2006). Based on these sources of information, the relative ranking of hydrostratigraphic units was compiled, and they could be characterised with value of K, i.e. units without direct K data (HsU A AT, HsU C AF and HsU G AT) could also be defined (Fig. 9). In groundwater flow modelling practice as a rule of thumb, the vertical hydraulic conductivity is one order lower than the horizontal one. However, recent studies revealed more complex\ndepth-dependent (linear or exponential) variations in hydraulic conductivity which could have effect on the development of groundwater flow systems (e.g. Zlotnik et al., 2011; Wang et al., 2011). The sensitivity analysis of anisotropy is beyond the scope of the current study. Effective porosity is also required as input, these values were estimated based on Freeze and Cherry (1979) and Domenico and Schwartz (1997).\nDefining boundaries of subsurface flow model of the Tihany Peninsula is effortless and unambiguous (Fig. 10). The bottom boundary condition is impervious (Neumann-type, vertical component of Darcy flux is 0) because the HsU A AT is a regional aquitard and only a small part of groundwater can flow through this unit. It can be supposed that the cardinal groundwater flow processes take place above this AT. The lateral boundaries run in the Lake Balaton;\ntherefore, constant hydraulic head (Dirichlet-) type boundary condition can be applied as water level of Lake Balaton at 105 m asl. Since there is a sufficient quantity of precipitation ( 600 mm/yr), groundwater level is the subdued smoothened replica of topography, so the upper boundary is a watertable type surface (h(x, y) = zwt(x, y)) which can be derived empirically (adjusted to the observed water levels) from topography (Winter, 1999).\nThe 3D groundwater flow model of the Tihany Peninsula covers 5 5 km2 area and its thickness is 800 m (Fig. 10). The mesh consists of 1,532,080 tetrahedral finite elements, their size and distribution depend on the homogeneity/heterogeneity of different units and the available hydrostratigraphic information: finer discretization in shallow parts (HsU E AF, HsU F AF, HsU G AT, HsU H AF, Hsu I AT); and HsU B AF, HsU C AF and HsU D AF have coarser mesh due to lack of detailed information. During the simulation direct solving method was applied, which took 15 min and 32 GB memory on Intel Server."
+  }, {
+    "heading": "4.3.2. Results of groundwater flow simulation",
+    "text": "Displaying the 3D subsurface flow in the complex geologic framework of the Tihany Peninsula could foster the understanding of the flow pattern of an inland peninsula, the effect of hydrostratigraphic units and tectonic structures on groundwater flow pattern and related manifestations. The results of the simulation are presented on 3 profiles crossing 2–2 wetlands. Base ten logarithm of Darcy flux and normalised vectors are displayed showing the 3D flow field along profiles (Fig. 11a–c).\nThe hydraulic behaviour and the impact of hydrostratigraphic units on flow pattern were revealed. HsU I AT has only local effect in the basins of wetlands due to its limited extension causing lower magnitude of Darcy flux. HsU G AT behaves similarly; however, because of its regional occurrence, water flow through this unit is restricted indicating by the lowest values of Darcy flux. The other units are aquifers but the intensity of flow is decreasing with depth, and also the flow pattern is becoming simplex. Complex hierarchical flow pattern with high magnitude of Darcy flux can be observed only near-surface, above the HsU G AT, i.e. in the upper 100 m.\nHydraulic connection between wetlands of the Peninsula has been presumed and evidenced by several authors (Cholnoky, 1918; Láng-Buczkó, 1970) but it has not been proved yet. This subsurface connection can be studied via the 3D peninsula-scale groundwater flow model. As presented by the simulation, the wetlands situated in paleo-maar structures gather groundwater from the surrounding topographic heights. Seasonal and permanent lakes transmit groundwater toward the drainage basin of palustrine wetland, which is driven by the hydraulic head (water level) difference between wetlands. Moreover, groundwater flow can reach the deeper units (HsU D AF, C AF and B AF) and discharge at or flow through below the Lake Balaton.\nThe effect of strike-slip fault zone across the Tihany Peninsula on the flow pattern was examined by numerical simulations in 3 scenarios: without fault, with a theoretical barrier and with a conduit structure. However, only slight differences were identified in flow field. This tectonic structure could facilitate the hydrodynamic connection with the Bakony–Balaton Highland area due to extensive fractured fault zone."
+  }, {
+    "heading": "4.3.3. Interpretation of flow simulation: hierarchical pattern",
+    "text": "The hydrogeological study of the Tihany Peninsula has revealed a hydraulically continuous subsurface flow field which is driven mainly by topographic gradients. However, beside the primary effect of the topography, complex geology (paleo-maar environment, variation of siliciclastic and carbonate formations) also controls the flow pattern as it could be observed by the barrier role of some formations in flow field.\nThe wetlands are in different hydraulic positions: seasonal and permanent lakes are situated in higher topographic positions, at similar elevation. As a result, hydraulic connection between them depends on the water level of seasonal lake. However, they can receive water from the surrounding local heights and lose water toward the basin of palustrine wetland which is in the lowest topographic position receiving groundwater from every direction. The 3D groundwater flow simulation shows that the wetlands are in hydraulic connection not only with each other but also with the Lake Balaton: groundwater discharge in a 50-m-wide zone along the edge of the Peninsula cannot only be found subsurface, but also above the water level of the Lake Balaton, and diffuse discharge takes place even in basaltic–tuffaceous formations.\nBeside the aforementioned flow systems which can be regarded as local ones, an intermediate flow system was also detected directed from the middle of the Tihany Peninsula flowing through under the Lake Balaton (Fig. 12). These gravity-driven hierarchically nested flow systems are characteristic for the whole succession."
+  }, {
+    "heading": "4.4. Hydrogeologic mapping of field phenomena",
+    "text": "The flowing groundwater has an influence on ground surface indicated by natural manifestations and conditions. Observation of these environmental imprints including discharge features, vegetation type and quality, soil and rock mechanical weakness, geomorphic characteristics could inform us about the subsurface flow and related effects. Therefore, field mapping of surface phenomena was carried out to validate the numerical simulation and explain the occurrence of environmental manifestations of groundwater flow.\nTihany Peninsula has imprints of some former landslides, which are frequent after rainy periods. Fábián et al. (2010) interpreted the occurrence of landslides as a result of water level oscillation of Lake Balaton. However, numerical groundwater flow simulation and field observation have revealed diffuse discharge around the peninsula. Slope instability and failures can be attributed not only to the precipitation, but also the generated more intensive diffuse discharge and consequent higher elevation of groundwater level. Helocrene, i.e. wetland-forming (Springer and Stevens, 2009), spring was also identified during field mapping. Originally, there was only one spring, but after a recent landslide an other orifice formed (Fábián et al. 2010).\nThe wetlands can be characterised by different groundwaterdependent ecosystems due to their different hydraulic positions, as it was found by Brown et al. (2007). The typical vegetation type of the palustrine wetland is Typha, Carex, Salix and Populus, reflecting high amount of nutrient and indicating eutrophication. The seasonal wetland has phreatophyte and also xerophyte vegetation signifying the large fluctuation of water level. Lacustrine emergent and submergent vegetation is characteristic for the permanent lake. These lakes are important for invertebrate and vertebrate permanent species and also for migratory birds, which have a significant part in the biodiversity of the region (Horváth and Lóczy, 2015). Phreatophyte vegetation also occur at the neck of peninsula indicating groundwater discharge (see Fig. 13)."
+  }, {
+    "heading": "5. Discussion – flowing groundwater-related environmental phenomena and issues",
+    "text": "Gravity-driven groundwater flow field has been revealed in the complex siliciclastic, carbonate and volcanic framework of Tihany Peninsula. In addition, the peninsula itself provides a special setting. Due to the regional siliciclastic aquitard only a fraction of recharge could enter the deeper formations. As a consequence, in the upper part intensive flow with complex geometry occurs,\nbelow the aquitard the pattern is simplex and the intensity is low. A similar pattern was identified previously for a region with stratified geology, with high hydraulic conductivity contrast and outcropping deep aquifer (Tóth, 1980). The peninsula-scale groundwater flow pattern and related surface phenomena identified during field mapping are summarised in a conceptual model for complex geologic framework (Fig. 14).\nThe wetlands are fed by groundwater, their hydraulic connection, i.e. surface water–groundwater interaction was evidenced by numerical simulation. Moreover, these wetlands are also communicating with the Lake Balaton. At the edge of the Peninsula groundwater discharges in a diffuse way through volcanic\nformations, and helocrene springs with multiple sources are also present. This type of discharge is often accompanied by local soil and rock weakness and hillslope instability. In the worst case, landslides can appear because of the decreased effective stress caused by high moisture content.\nThe whole Peninsula is under natural conservation and is frequently visited by tourists due to its cultural heritage. This is the reason why human impact on groundwater has to be assessed. Water demand of the area cannot be supplied from groundwater of the Tihany Peninsula, since the groundwater-dependent ecosystems are in hydraulic communication, and water abstraction would have an impact on each ecosystem by decreasing or even\nabolishing the surface water level. Moreover, there is high potential for groundwater contamination due to anthropogenic activities. The local flow systems connecting the wetlands could transport possible pollution and contaminate not only the wetlands, but also the riparian zone of the Lake Balaton.\nLocal flow systems are mostly affected by climate change (Kurylyk et al., 2014). The natural flow pattern could be altered by changing temperature and moisture conditions. Since the climate controls the water supply of groundwater, this Peninsula is highly sensitive to any future changes, natural or artificial ones as well. Consequently, the groundwater-dependent ecosystems are extremely vulnerable, water management and policy have to consider their important and sensitive status."
+  }, {
+    "heading": "6. Summary and conclusion",
+    "text": "Groundwater flow, driven, controlled and determined by topography, geology and climate, is responsible for several natural surface manifestations and affected by anthropogenic processes. Therefore, flowing groundwater can be regarded as an environmental agent. The concept of gravity-driven regional groundwater flow could aid the understanding of flow pattern in geologically complex (siliciclastic, carbonate and volcanic) area, and interpretation of environmental processes and conditions.\nUnless the required well data are available, the geological– hydrogeological numerical model of the study area cannot be constructed based only on borehole information. In this case, spatially\ncontinuous geophysical data can support groundwater flow model building: systematically combined geophysical methods can provide model input. Determining the different electrostratigraphic units and their position, revealing fractures, detecting structures can be carried out by easy-to-use, non-invasive and rapid electromagnetic geophysical methods even in complex geologic framework. Integration of lithostratigraphic, electrostratigraphic and hydrostratigraphic information could aid groundwater flow model construction: hydrostratigraphic units and their hydraulic behaviour, boundaries and geometry can be obtained. Groundwaterrelated natural manifestations can be explained with the help of the revealed flow pattern and field mapping of features.\nIntegrated groundwater flow model construction in a geologically complex area was presented via the case study of the Tihany Peninsula, Hungary. The geophysical results were indispensable to clarify the geometry and hydraulic behaviour of the near-surface formations in the paleo-maar environment and identify the structural pattern. The 3D groundwater flow model, which is based on the scarce geologic information and the electromagnetic geophysical results, could answer the subsurface hydraulic connection between wetlands and also groundwater discharge pattern. Moreover, the gravity-driven regional groundwater flow concept can help to interpret the hydraulically nested flow systems (local and intermediate) even in such a geologically complex and relatively small area (25 km2). Validation of numerical simulation by natural surface conditions and phenomena was performed. Consequently, the position of wetlands, their vegetation type, discharge features\nand induced landslides were explained as environmental imprints of groundwater. Anthropogenic activities and climate change have great impact on groundwater; the highly vulnerable wetlands have to be in focus of water management and natural conservation policy."
+  }, {
+    "heading": "Acknowledgements",
+    "text": "The cooperation between authors was funded by Campus Hungary–Balassi Institute (B1/1R/15793) for the first author. Financial and technical support by the Department of Physical and Applied Geology, Eötvös Loránd University during field work is appreciated.\nThe authors gratefully acknowledge the possibility of research for Balaton Highlands National Park, Hungary, especially for József Vers. We are grateful to Ferenc Horváth, Balázs Székely, Orsolya Gy}ori and the anonymous reviewers for their inspiring comments; Geo–Log Geophysical and Environmental Ltd., ELGOSCAR–2000 Ltd. for data; Anita Er}oss, Eszter Pulay, Ferenc Zsemle and also the collaborating students for field assistance. The access to the Comsol Multiphysics software was given by the Department of Geophysics and Space Science at Eötvös Loránd University. Technical support of Petra Kovács is highly appreciated. The fieldwork dataset of electromagnetic survey and the data and results of numerical simulation are available from the first author upon request."
+  }],
+  "year": 2016,
+  "references": [{
+    "title": "A theoretical analysis of basin-scale groundwater temperature distribution",
+    "authors": ["R. An", "Jiang", "X.-W", "Wang", "J.-Z", "L. Wan", "X.-S", "H. Li"],
+    "venue": "Hydrogeol. J. 23,",
+    "year": 2015
+  }, {
+    "title": "Evidences of the Neogene small-volume intracontinental volcanism in Western Hungary: K/Ar geochronology of the Tihany Maar Volcanic Complex",
+    "authors": ["K. Balogh", "K. Németh"],
+    "venue": "Geol. Carpath",
+    "year": 2005
+  }, {
+    "title": "Regional groundwater discharge: phreatophyte mapping, groundwater modelling and impact analysis of land-use change",
+    "authors": ["O. Batelaan", "F. De Smedt", "L. Triest"],
+    "venue": "J. Hydrol",
+    "year": 2003
+  }, {
+    "title": "Groundwater flow along and across structural folding: an example from the Judean Desert, Israel",
+    "authors": ["L.L. Ben-Itzhak", "H. Gvirtzman"],
+    "venue": "J. Hydrol",
+    "year": 2005
+  }, {
+    "title": "A tihanyi obszervatórium környékén végzett földtani, földmágneses és gravitációs vizsgálatok",
+    "authors": ["K.O. Benderné", "V.K. Böjtösné", "Reményi", "Gy"],
+    "venue": "Magyar Állami Eötvös Loránd Geofizikai Intézet, Geofizikai Közlemények",
+    "year": 1966
+  }, {
+    "title": "Fault zone hydrogeology",
+    "authors": ["V.F. Bense", "T. Gleeson", "S.E. Loveless", "O. Bour", "J. Scibek"],
+    "venue": "Earth Sci. Rev",
+    "year": 2013
+  }, {
+    "title": "Imaging of subsurface alluvial stratigraphy: an electro-stratigraphic traverse across the Po Plain in Lombardy. Rend",
+    "authors": ["R. Bersezio", "M. Mele", "M. Giudici"],
+    "venue": "Online Soc. Geol. It",
+    "year": 2012
+  }, {
+    "title": "Modeling subsurface flow in sedimentary basins",
+    "authors": ["C.M. Bethke"],
+    "venue": "Geol. Rundsch",
+    "year": 1989
+  }, {
+    "title": "Shallow Depth Karst Structure Imaging with the Very Low Frequency-Electromagnetics-GRADIENT Method (VLF-EM-GRAD): A New Geophysical Contribution to Aquifer Protection Strategies Compared with Other Near Surface Mapping Geophysics",
+    "authors": ["F.P. Bosch"],
+    "venue": "Ph.D. thesis. Center of Hydrogeology,",
+    "year": 2002
+  }, {
+    "title": "Field Hydrogeology",
+    "authors": ["R. Brassington"],
+    "year": 2006
+  }, {
+    "title": "Groundwater and biodiversity conservation: a methods guide for integrating groundwater needs of ecosystems and species into conservation plans in the Pacific Northwest TNC report, available at: http://conserveonline.org/docs/2008/01/Groundwater% 20Methods%20Guide%20TNC%20Jan08.pdf",
+    "authors": ["J. Brown", "A. Wyers", "A. Aldous", "L. Bach"],
+    "year": 2007
+  }, {
+    "title": "The combined use of radio-frequency electromagnetics (RF-EM) and radiomagnetotellurics (RMT) methods in non ideal field conditions for delineating hydrogeological boundaries and for environmental problems",
+    "authors": ["A.M.M. Carvalho Dill", "P. Turberg", "I. Müller", "A. Parriaux"],
+    "venue": "Environ. Geol",
+    "year": 2009
+  }, {
+    "title": "The combined use of radio frequency-electromagnetic surveys and chemical and biological analyses to study the role of groundwater discharge into the Guadiana estuary",
+    "authors": ["A.M.M. Carvalho Dill", "T.Y. Stigter", "R. Brito", "M.A. Chícharo", "L. Chícharo"],
+    "venue": "Ecohydrology. http://dx.doi.org/10.1002/eco.1345",
+    "year": 2012
+  }, {
+    "title": "A Balaton hidrográfiája. A Balaton Tudományos Tanulmányozásának Eredményei",
+    "authors": ["J. Cholnoky"],
+    "venue": "Magyar Földrajzi Társaság Balaton Bizottsága, Budapest (in Hungarian)",
+    "year": 1918
+  }, {
+    "title": "Volt egyszer egy falu – Tihany",
+    "authors": ["M. Csizmazia"],
+    "venue": "Tihany Fejlesztéséért Alapítvány, Tihany,",
+    "year": 2010
+  }, {
+    "title": "The role of faults in hydraulic hydrocarbon entrapment: theoretical considerations and a field study from the Trans-Tisza Region, Hungary",
+    "authors": ["J. onyi"],
+    "venue": "AAPG Bull. http://dx.doi.org/10.1306/11051010031",
+    "year": 2011
+  }, {
+    "title": "Physical and Chemical Hydrogeology",
+    "authors": ["P.A. Domenico", "F.W. Schwartz"],
+    "year": 1997
+  }, {
+    "title": "Recent landslide activity in the Tihany Peninsula (Balaton Highland, Hungary)",
+    "authors": ["S.Á. Fábián", "I.P. Kovács", "B. Radvánszky", "G. Varga"],
+    "venue": "Studia Geomorphologica Carpatho Balcanica",
+    "year": 2010
+  }, {
+    "title": "Theoretical analysis of regional groundwater flow – 1. Analytical and numerical solutions to the mathematical model",
+    "authors": ["R.A. Freeze", "P.A. Witherspoon"],
+    "venue": "Water Resour. Res",
+    "year": 1966
+  }, {
+    "title": "Theoretical analysis of regional groundwater flow – 2. Effect of water-table configuration and subsurface permeability variation",
+    "authors": ["R.A. Freeze", "P.A. Witherspoon"],
+    "venue": "Water Resour. Res",
+    "year": 1967
+  }, {
+    "title": "Continental-scale groundwater flow and geologic processes",
+    "authors": ["G. Garven"],
+    "venue": "Ann. Rev. Earth Planet. Sci",
+    "year": 1995
+  }, {
+    "title": "A Balaton-felvidék alaphegységi formációinak vízföldtani jellemz",
+    "authors": ["K. oregi", "K. Gondár"],
+    "year": 1988
+  }, {
+    "title": "Geological setting and tectonic evolution of Hungary",
+    "authors": ["J. Haas", "G. Hámor", "L. Korpás"],
+    "venue": "Geologica Hungarica Series, Geologica",
+    "year": 1999
+  }, {
+    "title": "Are water tables a subdued replica of the topography",
+    "authors": ["H.M. Haitjema", "S. Mitchell-Bruker"],
+    "venue": "Ground Water",
+    "year": 2005
+  }, {
+    "title": "Groundwater flow in a closed basin with a saline shallow lake in a volcanic area: Laguna Tuyajto, northern",
+    "authors": ["Herrera", "Ch", "E. Custodio", "G. Chong", "L.J. Lambán", "R. Riquelme", "H. Wilke", "J. Jódar", "J. Urrutia", "H. Urqueta", "A. Sarmiento", "C. Gamboa", "E. Lictevout"],
+    "venue": "Chilean Altiplano of the Andes. Sci. Total Environ",
+    "year": 2016
+  }, {
+    "title": "Geoheritage, Geoconservation, Geomorphosites in Hungary",
+    "authors": ["G. Horváth", "D. Lóczy"],
+    "venue": "Landscapes and Landforms of Hungary. Springer International Publishing,",
+    "year": 2015
+  }, {
+    "title": "Seismic stratigraphy and tectonics of Late Miocene basin fill in southern Transdanubia and below Lake Balaton",
+    "authors": ["F. Horváth", "M. Sacchi", "E. Dombrádi"],
+    "venue": "Földtani Közlöny",
+    "year": 2010
+  }, {
+    "title": "Groundwater Geophysics – A Tool for Hydrogeology",
+    "authors": ["R. Kirsch"],
+    "year": 2009
+  }, {
+    "title": "2D resistivity inversion of 1D electricalsounding measurements in deltaic complex geology: application to the delta Wadi El-Arish, Northern Sinai, Egypt",
+    "authors": ["M.A. Khalil", "F.A. Monteiro Santos"],
+    "venue": "J. Geophys. Eng",
+    "year": 2011
+  }, {
+    "title": "Groundwater dependent ecosystems, Part I: Hydroecological status and trends",
+    "authors": ["B. Kløve", "P. Ala-aho", "G. Bertrand", "Z. Boukalova", "A. Ertürk", "N. Goldscheider", "J. Ilmonen", "N. Karakaya", "H. Kupfersberger", "J. Kvœrner", "A. Lundberg", "M. Mileusnić", "A. Moszczynska", "T. Muotka", "E. Preda", "P. Rossi", "D. Siergieiev", "J. Šimek", "P. Wachniew", "V. Angheluta", "A. Widerlund"],
+    "venue": "Environ. Sci. Policy",
+    "year": 2011
+  }, {
+    "title": "Climate change impacts on the temperature and magnitude of groundwater discharge from shallow, unconfined aquifers",
+    "authors": ["B.L. Kurylyk", "K.T. MacQuarrie", "C.I. Voss"],
+    "venue": "Water Resour. Res",
+    "year": 2014
+  }, {
+    "title": "Vízföldtan és vízkémia",
+    "authors": ["E. Láng-Buczó"],
+    "venue": "Magyar Állami Földtani Intézet, Budapest,",
+    "year": 1970
+  }, {
+    "title": "COMSOL Multiphysics: a novel approach to ground water modelling",
+    "authors": ["Q. Li", "K. Ito", "Z. Wu", "C.S. Lowry", "S.P. Loheide II"],
+    "venue": "Ground Water",
+    "year": 2009
+  }, {
+    "title": "Preliminary results of geophysical studies over the Tihany Volcano at the Tihany Peninsula, Hungary",
+    "authors": ["T. Lipovics", "A. Csontos", "L. Lenkey"],
+    "venue": "Second International Maar Conference,",
+    "year": 2004
+  }, {
+    "title": "Maar-diatreme volcanoes, their formation, and their setting in hardrock or soft-rock environments",
+    "authors": ["V. Lorenz"],
+    "venue": "GeoLines",
+    "year": 2003
+  }, {
+    "title": "Basin-scale conceptual groundwater flow model for an unconfined and confined thick carbonate region",
+    "authors": ["J. onyi", "Á. Tóth"],
+    "venue": "Hydrogeol. J",
+    "year": 2015
+  }, {
+    "title": "Hydrogeophysical imaging of alluvial aquifers: electrostratigraphic unit sin the quaternary Po alluvial plain (Italy)",
+    "authors": ["M. Mele", "R. Bersezi", "M. Giudici"],
+    "venue": "Int. J. Earth Sci. (Geol. Rundsch.)",
+    "year": 2012
+  }, {
+    "title": "An audio-magnetotelluric investigation in Terceira Island (Azores)",
+    "authors": ["F.A. Monteiro Santos", "A. Trota", "A. Soares", "R. Luzio", "N. Lourenço", "L. Matos", "E. Almeida", "J.L. Gaspar", "J.M. Miranda"],
+    "venue": "J. Appl. Geophys",
+    "year": 2006
+  }, {
+    "title": "Hydrological investigation in Santiago Island (Cabo Verde) using magnetotellurics and VLF methods",
+    "authors": ["F.A. Monteiro Santos", "E. Almeida", "A. Mota Gomes", "A. Pina"],
+    "venue": "J. Afr. Earth Sci",
+    "year": 2006
+  }, {
+    "title": "Local scale EM geophysical survey to estimate hydrogeological parameters related to environmental problems",
+    "authors": ["A. oss"],
+    "venue": "Georgikon Agric",
+    "year": 2008
+  }, {
+    "title": "Phreatomagmatic volcanic fields in a Mio/Pliocene fluvio-lacustrine basin, western Pannonian Basin, Hungary: a review",
+    "authors": ["K. Németh", "U. Martin"],
+    "venue": "Geologica Hungarica, Series Geologica",
+    "year": 2004
+  }, {
+    "title": "Troubled waters: environmental application of electric and electromagnetic methods",
+    "authors": ["D.C. Nobes"],
+    "venue": "Surv. Geophys",
+    "year": 1996
+  }, {
+    "title": "Regional groundwater flow in hard rocks",
+    "authors": ["F.A.L. Pacheco"],
+    "venue": "Sci. Total Environ. 506–507,",
+    "year": 2015
+  }, {
+    "title": "A Tihanyi-félsziget éghajlata",
+    "authors": ["Péczely", "Gy"],
+    "venue": "Magyar Állami Földtani Intézet, Budapest,",
+    "year": 1970
+  }, {
+    "title": "Hydrodynamic stagnation zones: a new play concept for the Llanos Basin, Colombia",
+    "authors": ["M. Person", "D. Butler", "C.W. Gable", "T. Villamil", "D. Wavrek", "D. Schelling"],
+    "venue": "AAPG Bull",
+    "year": 2012
+  }, {
+    "title": "Role of unconformity-bounded units in the stratigraphy of the continental record: a case study from the Late Miocene of the western Pannonian basin, Hungary",
+    "authors": ["M. Sacchi", "F. Horváth", "O. Magyari"],
+    "year": 1999
+  }, {
+    "title": "Groundwater resources management through the applications of simulation modeling: a review",
+    "authors": ["A. Singh"],
+    "venue": "Sci. Total Environ",
+    "year": 2014
+  }, {
+    "title": "Spheres of discharge of springs",
+    "authors": ["A.E. Springer", "L.E. Stevens"],
+    "venue": "Hydrogeol. J",
+    "year": 2009
+  }, {
+    "title": "A review of environmental application of quasistationary electromagnetic techniques",
+    "authors": ["B. Tezkan"],
+    "venue": "Surv. Geophys",
+    "year": 1999
+  }, {
+    "title": "Hidrogeológiai célú geofizikai térképezés egy tihanyi maar-tó környezetében",
+    "authors": ["J. onyi", "I. Müller"],
+    "venue": "Magyar Geofizika",
+    "year": 2012
+  }, {
+    "title": "The importance of electromagnetic methods to build numerical groundwater flowmodel for an area with complex geology in the case of Tihany Peninsula",
+    "authors": ["J. onyi", "Simon", "Sz", "I. Müller", "A. Galsa", "F.A. Monteiro Santos"],
+    "venue": "5th International Students Geological Conference, Acta Mineralogica–Petrographica, Abstract Series,",
+    "year": 2014
+  }, {
+    "title": "A theory of groundwater motion in small basins in central Alberta, Canada",
+    "authors": ["J. Tóth"],
+    "venue": "J. Geophys. Res",
+    "year": 1962
+  }, {
+    "title": "A theoretical analysis of groundwater flow in small drainage basins",
+    "authors": ["J. Tóth"],
+    "venue": "J. Geophys. Res",
+    "year": 1963
+  }, {
+    "title": "A conceptual model of the groundwater regime and the hydogeologic environment",
+    "authors": ["J. Tóth"],
+    "venue": "J. Hydrogeol",
+    "year": 1970
+  }, {
+    "title": "Cross-formational gravity flow of groundwater: a mechanism of the transport and accumulation of petroleum (the generalized hydraulic theory of petroleum migration), problems of petroleum migration",
+    "authors": ["J. Tóth"],
+    "venue": "AAPG Stud. Geol",
+    "year": 1980
+  }, {
+    "title": "Groundwater as a geologic agent: an overview of the causes, processes, and manifestations",
+    "authors": ["J. Tóth"],
+    "venue": "Hydrogeol. J",
+    "year": 1999
+  }, {
+    "title": "Gravitational Systems of Groundwater Flow Theory, Evaluation, Utilization",
+    "authors": ["J. Tóth"],
+    "year": 2009
+  }, {
+    "title": "Piroklaszt-torlóárak üledékszerkezetei dunántúli példák alapján B.Sc. thesis. Eötvös Loránd University, Budapest (in Hungarian)",
+    "authors": ["B. o"],
+    "year": 2009
+  }, {
+    "title": "3D geoelectrical model of geothermal spring mechanism derived from VLF measurements: a case study from Aggistro (Northern Greece)",
+    "authors": ["G. Vargemezis"],
+    "venue": "Geothermics",
+    "year": 2014
+  }, {
+    "title": "A new analytical solution of topography-driven flow in a drainage basin with depth-dependent anisotropy of permeability",
+    "authors": ["Wang", "X.-S", "Jiang", "X.-W", "L. Wan", "S. Ge", "H. Li"],
+    "venue": "Water Resour. Res",
+    "year": 2011
+  }, {
+    "title": "Relation of streams, lakes, and wetlands to groundwater flow systems",
+    "authors": ["T.C. Winter"],
+    "venue": "Hydrogeol. J",
+    "year": 1999
+  }, {
+    "title": "Ground Water and Surface Water – A Single Resource",
+    "authors": ["T.C. Winter", "J.W. Harvey", "O. Lehn Franke", "W.M. Alley"],
+    "venue": "U.S.Geological Survey Circular,",
+    "year": 1998
+  }, {
+    "title": "A review of regional groundwater flow modelling",
+    "authors": ["Y. Zhou", "W. Li"],
+    "venue": "Geosci. Front",
+    "year": 2012
+  }, {
+    "title": "Multiphysics Modeling with Finite Element Methods",
+    "authors": ["W.B.J. Zimmerman"],
+    "year": 2006
+  }, {
+    "title": "Effects of multiscale anisotropy on basin and hyporheic groundwater flow",
+    "authors": ["V.A. Zlotnik", "M.B. Cardenas", "D. Toundykov"],
+    "venue": "Ground Water",
+    "year": 2011
+  }],
+  "id": "SP:2beef4e34f2dea2752661d7a929023ae713acca0",
+  "authors": [{
+    "name": "Ádám Tóth",
+    "affiliations": []
+  }, {
+    "name": "Tímea Havril",
+    "affiliations": []
+  }, {
+    "name": "Szilvia Simon",
+    "affiliations": []
+  }, {
+    "name": "Attila Galsa",
+    "affiliations": []
+  }, {
+    "name": "Fernando A. Monteiro Santos",
+    "affiliations": []
+  }, {
+    "name": "Imre Müller",
+    "affiliations": []
+  }],
+  "abstractText": "Groundwater flow, driven, controlled and determined by topography, geology and climate, is responsible for several natural surface manifestations and affected by anthropogenic processes. Therefore, flowing groundwater can be regarded as an environmental agent. Numerical simulation of groundwater flow could reveal the flow pattern and explain the observed features. In complex geologic framework, where the geologic–hydrogeologic knowledge is limited, the groundwater flow model could not be constructed based solely on borehole data, but geophysical information could aid the model building. The integrated model construction was presented via the case study of the Tihany Peninsula, Hungary, with the aims of understanding the background and occurrence of groundwater-related environmental phenomena, such as wetlands, surface water–groundwater interaction, slope instability, and revealing the potential effect of anthropogenic activity and climate change. The hydrogeologic model was prepared on the basis of the compiled archive geophysical database and the results of recently performed geophysical measurements complemented with geologic–hydrogeologic data. Derivation of different electrostratigraphic units, revealing fracturing and detecting tectonic elements was achieved by systematically combined electromagnetic geophysical methods. The deduced information can be used as model input for groundwater flow simulation concerning hydrostratigraphy, geometry and boundary conditions. The results of numerical modelling were interpreted on the basis of gravity-driven regional groundwater flow concept and validated by field mapping of groundwater-related phenomena. The 3D model clarified the hydraulic behaviour of the formations, revealed the subsurface hydraulic connection between groundwater and wetlands and displayed the groundwater discharge pattern, as well. The position of wetlands, their vegetation type, discharge features and induced landslides were explained as environmental imprints of groundwater. The highly vulnerable wetlands and groundwater-dependent ecosystems have to be in the focus of water management and natural conservation policy. 2016 Elsevier B.V. All rights reserved.",
+  "title": "Groundwater flow pattern and related environmental phenomena in complex geologic setting based on integrated model construction"
+}

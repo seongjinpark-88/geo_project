@@ -1,0 +1,419 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nEarth and Planetary Science Letters\nwww.elsevier.com/locate/epsl\nRapid late Miocene surface uplift of the Central Anatolian Plateau margin\nMaud J.M. Meijers a,b,∗, Gilles Y. Brocard c,d, Michael A. Cosca e, Tina Lüdecke a,f, Christian Teyssier b, Donna L. Whitney b, Andreas Mulch a,g\na Senckenberg Biodiversity and Climate Research Centre, 60325 Frankfurt am Main, Germany b Department of Earth Sciences, University of Minnesota, Minneapolis, MN 55455, USA c School of Geosciences, The University of Sydney, NSW 2006, Australia d Department of Earth and Environmental Sciences, University of Pennsylvania, Philadelphia, USA e U.S. Geological Survey, Denver Federal Center, Denver, CO 80225, USA f College of Dentistry, New York University, New York, NY 10010, USA g Institute of Geosciences, Goethe University Frankfurt, 60438 Frankfurt, Germany\na r t i c l e i n f o a b s t r a c t\nArticle history: Received 22 August 2017 Received in revised form 28 March 2018 Accepted 23 May 2018 Available online 15 June 2018 Editor: A. Yin\nKeywords: Anatolian plateau surface uplift continental basins stable isotope geochemistry 40Ar/39Ar dating\nThe Central Anatolian Plateau (CAP), Turkey, is bordered to its south by a steep mountain belt that emerged ∼8–7 Ma ago from the Mediterranean Sea. Knowledge of the onset, duration and rate of surface uplift and orographic barrier formation along the plateau margin is crucial for understanding the geodynamic drivers of plateau uplift. We present a new comprehensive data set that includes 12 40Ar/39Ar ages and lacustrine carbonate δ18O data (n = 637) from 13 sections in upper Oligocene to Pliocene continental basins of the CAP interior. We aim at documenting the development of a rain shadow and therefore the surface uplift history of the CAP and its southern margin (Tauride Mts.). In the rain shadow of the Tauride Mts. we observe a gradual 3.9 decrease of δ18O values of lacustrine carbonate between ∼11 and 5 Ma that we interpret to originate from a similar change in δ18O values of precipitation owing to the late Miocene development of an orographic barrier. Our stable isotope paleoaltimetry data show that by 5 Ma the southern CAP margin had reached similar-to-present elevations of ∼2 km. Surface uplift was coeval with ignimbritic magmatism, forearc shortening and distributed compression. We suggest that the removal of lithospheric mantle below Anatolia led to surface uplift of the CAP interior, which was followed by surface uplift of the southern CAP margin due to crustal thickening as a result of northward subduction of the African plate below central Anatolia.\n© 2018 Elsevier B.V. All rights reserved."
+  }, {
+    "heading": "1. Introduction",
+    "text": "The topography of continental plateaus and their margins develops in response to geodynamic and climatic processes and represents a key control on atmospheric circulation and rainfall patterns within continental interiors (e.g. Rohrmann et al., 2016). Similar to the Himalaya–Tibetan system and the Andes, the topography of the Turkish–Iranian orogenic plateau (Fig. 1a, b) affects regional climate and precipitation patterns (e.g. Schemmel et al., 2013; Zaitchik et al., 2007), including the transport of moisture to central Asia (e.g. Caves et al., 2015). Despite its importance for understanding tectonic and climatic influences on topographic evolution,\n* Corresponding author at: Senckenberg Biodiversity and Climate Research Centre, 60325 Frankfurt am Main, Germany.\nE-mail address: meijersmaud@gmail.com (M.J.M. Meijers).\nhttps://doi.org/10.1016/j.epsl.2018.05.040 0012-821X/© 2018 Elsevier B.V. All rights reserved.\nfundamental questions remain about the timing and mechanism(s) of surface uplift of the Turkish–Iranian plateau.\nPresently ongoing subduction of the African plate below Eurasia has shaped the topography of Turkey (e.g. Şengör and Yılmaz, 1981). Late Cretaceous–Paleocene accretion of the Africa-derived Anatolide–Tauride Block to Eurasia and (Eocene–)Oligocene collision of Arabia with the southern Eurasian margin (e.g. Meijers et al., 2010; Ballato et al., 2011; McQuarrie and van Hinsbergen, 2013) initiated the formation of fold-and-thrust belts across a broad region of eastern and central Anatolia. Since the late Miocene, the formation and westward escape of the Anatolian microplate along the North Anatolian (NAF) and East Anatolian (EAF) faults dominates the tectonic evolution of Turkey (Fig. 1a; e.g. McKenzie, 1976). The westernmost portion of the Turkish–Iranian plateau formed amidst this succession of events: the contiguous Central Anatolian Plateau (CAP) between the NAF and EAF, and the\nEast Anatolian Plateau (EAP) to the east of the present-day Anatolian microplate (Fig. 1a).\nOxygen isotope (δ18O) data from large continental basins indicate the absence of significant topography and associated orographic rainout in central Anatolia during the late Oligocene and early Miocene (Lüdecke et al., 2013; Meijers et al., 2016). Evidence for steep topography in the CAP interior prior to the late Miocene is mostly based on sedimentological data (Jaffey and Robertson, 2005). Thick (800–1200 m) continental middle Miocene sediments fill rugged pre-existing topography in the Dikme and Gürün Basins (Fig. 1a; Ocakoğlu, 2002; Önal et al., 2004), suggesting the presence of local relief, consistent with middle Miocene palynological assemblages that contain evidence of mountain-derived flora (Akgün et al., 2007). Surface uplift in the restraining bend of the rightlateral North Anatolian Fault has been held responsible for the rise of the northern CAP margin since the late Miocene or early Pliocene (Yıldırım et al., 2011). Tortonian and lowermost Messinian marine carbonates at high elevation (1.5–2.0 km) establish the antiformal arch of the Tauride Mts. and document that emergence of the southern CAP margin postdated ∼8 Ma (Cosentino et al., 2012) and possibly even 6.7 Ma (Schildgen et al., 2012a). Latest Miocene–\nPliocene and Pleistocene δ18O records indicate the presence of high-altitude meteoric water in southern CAP lacustrine environments, indicative of regional topographic highs (Göz et al., 2014; Leng et al., 1999). Ca. 1.6 Ma marine sedimentary rocks currently exposed at an elevation of 1.2 km in the Mut Basin (Yıldız et al., 2003) suggest that up to 50% of the present-day ∼2 km elevation in the SW Taurides (Fig. 1a) may have been established during the Quaternary (Schildgen et al., 2012b).\nCollectively, these data raise the question of when and how the geodynamics of the downgoing African–Arabian slab, sublithospheric mantle flow as well as shortening in the upper plate conspired in shaping the surface uplift history of the southern CAP margin. Stable isotope paleoaltimetry provides a robust tool in determining changes in the isotopic composition of precipitation that originate from the development of orographic barriers (e.g. Rowley and Garzione, 2007; Mulch, 2016). Here we provide an extensive δ18O and 40Ar/39Ar geochronological record (Table 1, Supplementary Tables S2–S5) encompassing a large body of new δ18O paleoaltimetry data. A total of 13 sections (comprising a total of 637 carbonate-bearing samples) were sampled in Miocene to Pliocene lacustrine rocks and specifically targeted at determining long-term\nM .J.M .M eijers et al./Earth and Planetary Science Letters 497 (2018) 29–41 31\nchanges in surface elevation along the southern CAP margin (Tauride Mts.; Fig. 1a). Additionally, we assess δ18O values from published Oligocene to Miocene and Quaternary lake records. Based on our spatially and temporally extensive data set, we show that the Tauride Mts. orographic barrier already attained similar-to-modern elevations in the late Miocene."
+  }, {
+    "heading": "2. Approach and methods",
+    "text": ""
+  }, {
+    "heading": "2.1.1. Oxygen isotope geochemistry",
+    "text": "The 13 fluvio-lacustrine sections comprise a large variety of\nrock types, including sandstones, siltstones, claystones, marls, limestones, conglomerates and travertine. A number of sections also contain soil horizons, as well as ignimbrites and tuff layers. The samples for δ18O analysis, however, were only collected from lacustrine carbonate-bearing clayey siltstones, claystones, marls and limestones. For a more detailed description of each section, we refer to Supplementary Table S2.\nPowdered whole-rock samples were digested in orthophosphoric acid and analyzed as CO2 in continuous flow mode using a Thermo MAT 253 mass spectrometer interfaced with a Thermo GasBench II at the joint Goethe University–BiK-F Stable Isotope Facility Frankfurt. Analytical procedures follow Spötl and Vennemann (2003). Raw isotopic ratios were calibrated relative to a Carrara marble in-house standard as well as against NBS18 and NBS19 carbonate reference materials. δ18O values are reported against Vienna Standard Mean Ocean Water (V-SMOW; Supplementary Table S5). Analytical uncertainties for δ18O are better than 0.07 absolute. Carbonate contents were derived from standard-sample total peak area ratios (precision to within 5% absolute)."
+  }, {
+    "heading": "2.1.2. Stable isotope paleoaltimetry",
+    "text": "Paleoelevation estimates from δ18O values in lacustrine or au-\nthigenic minerals (e.g. Rowley and Garzione, 2007) are based on the systematic decrease of δ18O in precipitation with increasing elevation (Dansgaard, 1964). Air parcels rise and cool when encountering topography, leading to orographic rainout on the windward side of mountain ranges and relatively arid conditions in the leeward rain shadow. Today, the semi-arid CAP interior contrasts the more humid conditions along the Mediterranean and Black Sea coastal lowlands. Two principal air masses currently deliver atmospheric moisture to Anatolia, with a polar or a tropical source region (Fig. 1b). Winter precipitation is dominantly derived from the Icelandic Low, the Azores High, and to a lesser extent the Siberian High. Summer precipitation is dominantly derived from continental\nNorth African air masses. Only a small portion of the total precipitation in the CAP interior falls from July through September. The Mediterranean Sea, which is the largest inland water body in the world, is a secondary cyclogenesis area and therefore affects air masses that reach Turkey indirectly (Dirican et al., 2005). Across the southern CAP margin, δ18O values of meteoric waters decrease systematically by −2.9 /km from the coast to the plateau interior (Fig. 1c; Schemmel et al., 2013), consistent with air parcel trajectory analysis documenting moisture ascending and crossing the southern plateau margin from the Eastern Mediterranean (Fig. 1b; Dirican et al., 2005). Lee side δ18O values, in contrast, increase with distance from the Tauride Mts. owing to evaporation and water vapor recycling in the plateau interior (Schemmel et al., 2013), a very common pattern in orogenic plateaus (e.g. Hren et al., 2009).\nδ18O values of lacustrine carbonate provide a proxy for the δ18O of lake water at the time of carbonate formation. However, lake hydrology, biological productivity, sediment input, and water temperature affect δ18O values of carbonate during carbonate precipitation (e.g. Leng and Marshall, 2004; Gierlowski-Kordesch, 2010). Therefore, single-site paleoaltimetry based on lacustrine proxies may be significantly biased by the hydrology of the lake basin. Here, we aim to reconstruct surface uplift and associated development of a Tauride Mts. rain shadow by tracking changes in δ18O of Oligocene to Pliocene lacustrine carbonates from 20 sections in the plateau interior (13 new and 7 published sections; see Fig. 1a, Fig. 2, Table 1, Supplementary Tables S2–S5 and Supplementary kmz file) to reduce the impacts of local hydrological biases as well as the potential effects of local changes in water routing or catchment closure on lake dynamics. All sections are located on the lee side of the southern (Tauride Mts.) plateau margin, an area where surface and spring waters are currently least affected by evaporation (∼200 km along the transect in Fig. 1c; Schemmel et al., 2013). The windward (low elevation) side of the Tauride Mts. does not provide a continental rock record of comparable age."
+  }, {
+    "heading": "2.2. Chronology of sedimentary sequences",
+    "text": "Chronologies of the sampled sections are based on existing (mammal) biostratigraphy, magnetostratigraphy, isotopic dating techniques (Supplementary Table S2), as well as 12 new biotite, amphibole, and plagioclase 40Ar/39Ar ages obtained from volcanic deposits from seven sections (Supplementary Fig. S1 and Supplementary Table S3). To estimate the timing of sediment deposition in between the obtained chronological tie points, we implemented a sedimentation rate of 7.5 cm/kyr or 75 m/Myr for fluvio-\nlacustrine sedimentation. This rate is an approximation based on a review of calculated rates for continental Miocene to Pliocene central Anatolian sedimentary sequences, including sections of Aquitanian (50 m/Myr, magnetostratigraphy, Harami (Ilgın); Krijgsman et al., 1996), Burdigalian (42 m/Myr and 68 m/Myr, between dated basalts, Gürün section; this study), Tortonian (61, 72, 75 and 81 m/Myr, magnetostratigraphy, Sinap Tepe; Kappelman et al., 2003), and Messinian age (∼80 m/Myr between two dated ignimbrite levels, Tuz Gölü Fault; Özsayin et al., 2013; 71 m/Myr, magnetostratigraphy, Meijers et al., 2018; Fig. 2; see also Supplementary Table S4). 40Ar/39Ar analyses were conducted at the U.S. Geological Survey, Denver, Colo. (Supplementary Table S3, Supplementary Fig. S1). We refer to the Supplementary Meth-\nods (Methods S1) for technical details on 40Ar/39Ar geochronology."
+  }, {
+    "heading": "3. Results",
+    "text": "The δ18O values of the 13 sampled sections vary between 19.4 and 35.3 V-SMOW (n = 637; Fig. 3a), which is comparable to the range of δ18O values of all published Oligocene to Miocene sections with n > 20 (20.0–34.3 , n = 526, seven sections; Supplementary Table S5). A similar range in δ18O values can be observed in very recent, middle Pleistocene to Holocene carbonates (19.3–35.7 , n = 1882; Fig. 3b, Supplementary Tables S1 and S5). The newly obtained 40Ar/39Ar ages, as well as the chronologies of the sampled\nsections are presented in Fig. 2, Table 1, Supplementary Fig. S1 and Supplementary Tables S2, S4."
+  }, {
+    "heading": "4. Discussion",
+    "text": ""
+  }, {
+    "heading": "4.1. Stable isotope paleoaltimetry",
+    "text": ""
+  }, {
+    "heading": "4.1.1. Evaporitic effects on stable isotope paleoaltimetry estimates",
+    "text": "Evaporation shifts δ18O of lake water, and consequentially δ18O\nof lacustrine carbonate, to higher values, which may inevitably mask any orographic rainout signal. The semi-arid and evaporitic conditions that characterized the plateau interior during the Pleistocene to Holocene are reflected in relatively high δ18O values during glacial periods (e.g. Jones et al., 2007) and lower δ18O values during the wetter interglacials (Leng et al., 1999; Supplementary Table S1). Similarly, higher δ18O values (up to 36 ) of lacustrine carbonate in the Miocene and Pliocene central Anatolian lake basins likely reflect the effects of lake water evaporation. Consequently, we further interpret lower δ18O values in each section to represent periods of positive lake water balance, i.e. δ18O values that are least affected by lake evaporation. The trend in lowest δ18O values over millions of years may therefore document changes in δ18O of precipitation and ultimately changes in elevation of the orographic barrier that air masses have crossed en route to the southern CAP.\nTo evaluate and minimize the effects of lake water evaporation on carbonate δ18O values, we calculate the average of the lowest 10%, 25%, and 50% of δ18O values (δ18O10%, δ18O25% and δ18O50%, respectively) for each of the 20 sections covering the time interval from ∼26 to 4 Ma (Table 1, Supplementary Table S4), as well as for data from published Quaternary lacustrine carbonates (Fig. 3, Supplementary Table S1). δ18O10% values typically only represent two to three individual δ18O measurements. We therefore systematically track changes in δ18O25% and δ18O50% over time to detect the onset of decreasing δ18O values as a response to surface uplift and the development of the present-day Tauride Mts. rain shadow (Fig. 4).\nThe pattern that emerges from these δ18O25% and δ18O50% data is essentially similar (Fig. 4) and shows a decrease of 3.9 between ∼11 Ma and 5 Ma (Fig. 4). As the δ18O25% values are more likely to reflect the least evaporative lake conditions they are used hereafter for all paleoaltimetric assessments.\nδ18O25% values of individual sections vary between 19.7 and 23.6 (V-SMOW), with 1σ standard deviations of 0.1 to 1.3 (Fig. 4; Table 1). δ18O25% values from upper Oligocene to middle Miocene central Anatolian lake carbonates cluster around ∼23–24 , except for two sites (∼25–26 at IL and TU; Figs. 1a, 4, Supplementary Tables S4, S5) that experienced strong evaporative conditions (Lüdecke et al., 2013; Mazzini et al., 2013). The 3.9 decrease of δ18O25% occurs between ∼11 Ma (δ18O25% = 23.6 ) and ∼5 Ma (δ18O25% = 19.7 ; Fig. 4). The lowest δ18O25% values attained around 5 Ma are within error identical to the values of middle to upper Pleistocene (∼24–45 ka) lacustrine sediments (δ18O25% = 20.0 , Lake Pınarbaşı (LP); Fig. 4) that were least affected by evaporation (Leng et al., 1999)."
+  }, {
+    "heading": "4.1.2. Potential effects of diagenesis and detrital carbonate grains",
+    "text": "Diagenesis and detrital carbonate may affect the δ18O values\nof the sampled rocks. Post-depositional diagenetic alteration of lacustrine sediments tends to shift δ18O toward lower values (e.g. Garzione et al., 2004). Besides, marine carbonates of varying metamorphic grades and δ18O are exposed in the feeding catchments of the studied paleolakes. Detrital grains of these basement carbonate rocks could contribute to the carbonate fraction of the sediment and distort our estimated δ18O precipitation values in either direction. Care was taken to extract sample powder from micritic and/or\nvery fine grained parts of the rock samples. We have, however, a number of additional reasons to assume that both diagenetic alteration and the presence of detrital carbonate grains did not affect δ18O values in the sampled continental sedimentary basins.\nIn concurrence with a study by Göz et al. (2014), thin sections show only rare occurrences of sparry calcite, mostly in postsedimentary fractures. A low degree of diagenetic alteration is expected because the studied rocks were never buried below more than a few tens of meters of sediment. The most deeply buried sections are TS and HA, which were buried under ∼100 m and ∼160 m of fluvio-lacustrine sediments, respectively. Likewise, with the exception of section KA, which is part of a broad open fold, the sampled sedimentary successions have a horizontal bedding attitude and are undeformed, such that tectonically driven recrystallization is likely weak to inexistent. If the observed decrease of δ18O25% values between 11 and 5 Ma resulted from diagenesis, this would imply that the younger sedimentary rocks were fortuitously more severely affected by diagenesis than the older sedimentary rocks, which is rather unlikely.\nThe contamination of δ18O values by detrital carbonate is harder to assess, however, field observations show no evidence for an overall increase or decrease in terrigenous sediment input across the time series that is covered by the sampled sections. We\nsampled within a large area (∼400 × 20 km, excluding section KA; Fig. 1a), in which there is no geographic trend in the age of the sampled sections, which leads us to conclude that detrital carbonate did not affect δ18O values in a consistent manner as to produce the observed decrease in δ18O25% values."
+  }, {
+    "heading": "4.1.3. Orographic barrier elevations",
+    "text": "Calculated paleoelevation estimates of the orographic barrier are based on the δ18O25% value of each section. To conduct paleoelevation calculations, assumptions have to be made regarding past low elevation δ18O prior to orographic distillation and rainout, oxygen isotope lapse rates, and conditions of carbonate formation. To evaluate the sensitivity of the calculated paleoelevations to the aforementioned variables, we contrast three low-elevation reference values with our obtained δ18O25% values to obtain (δ18O), the change in δ18O with increasing elevation.\nReference value 1: The average lacustrine δ18O25% value of 24.0 ± 1.2 derived from six sections with 26–21 Ma-old CAP interior lacustrine carbonates (Supplementary Table S4), which were deposited well before the emergence of the southern CAP margin. The 24 δ18O25% value is supported by the δ18O25% values of the ∼18.7 Ma Gürün (δ18O25% = 24.1 ) and ∼11 Ma Ibrala sections (δ18O25% = 23.6 ). The Ibrala section serves as a near-sea level reference point, given that the lacustrine sedimentary rocks conformably overlie near-shore marine rocks (Fig. 5).\nReference value 2: The average of six δ18O values (25.4 ) from modern pedogenic carbonate formed at ∼600 m above sea level on the windward side of the Tauride Mts in the Adana Basin (Supplementary Table S4).\nReference value 3: The average modern sea-level δ18O value of precipitation (δ18Op) along the Turkish Mediterranean coast (δ18Op = −4.9 , average of the Adana, Antalya, Erdemli and Izmir Global Network of Isotopes in Precipitation (GNIP) stations; IAEA/WMO, 2006). Using δ18Op requires to account for carbonate-water oxygen isotope fractionation during carbonate precipitation. Therefore, the measured lacustrine δ18O25% values were converted into corresponding δ18O values for water (δ18Ow) following Kim and O’Neil (1997). Mean annual temperatures (MATs) in the CAP interior presently average 9 to 12 ◦C (Schemmel et al., 2013). MATs within the CAP were likely higher in the Miocene prior to late Neogene global cooling, as well as owing to lower elevations prior to surface uplift. Based on a review of floral data, MAT esti-\nmates for the late Miocene CAP interior are ∼17 ◦C, whereas warm month temperatures (WMTs) average ∼25 ◦C (Kayseri-Özer, 2017). We therefore assume a temperature of T = 17 ◦C with temperature uncertainty of ±5 ◦C for carbonate-water oxygen isotope exchange.\nWe calculate paleoelevations by combining the obtained (δ18O) with a linear and a non-linear lapse rate. First, we use the linear, present-day δ18O-elevation relationship of −2.9 /km of the Tauride Mts. (Schemmel et al., 2013), which is in good agreement with the present-day global average for mountain belts of −2.8 /km (Poage and Chamberlain, 2001). Second, we use the modeled, non-linear lapse rate of the oxygen isotopic composition of precipitation (Rowley et al., 2001; Rowley and Garzione, 2007). The non-linear, modeled lapse rate assumes equilibrium fractionation during Rayleigh distillation, with low elevation temperature and relative humidity being the primary variables.\nThe combination of the three reference values for (near) sea level δ18O with the two lapse rates results in an array of six orographic barrier paleoelevation estimates for each section (Supplementary Table 4). The six paleoelevation estimates for the site with the lowest δ18O25% (19.7 , Özvatan) – and consequentially the highest predicted orographic barrier elevations – are varying between ∼1500 and ∼3200 m (Table 2). All but one of the six estimates predict that by 5 Ma, the Tauride Mts. had reached elevations similar to that of the modern Taurides Mts. (Fig. 6b, Table 2).\nWe regard the present-day linear lapse rate referenced against the present-day sea level δ18Op values, because both variables are based on measured δ18O values (from the CAP interior and the Turkish Mediterranean coast) and because this method results in one of the most conservative (i.e. lowest end-member) estimates of orographic barrier elevation (Fig. 6; Table 2). Based on this approach we deduce an orographic barrier elevation of ∼1800 m at ∼5 Ma from the lowest δ18O25% value (19.7 ; Özvatan section, OV), which is ∼300 m higher than the lowest estimate and ∼600–1500 m lower than the four highest estimates (Table 2)."
+  }, {
+    "heading": "4.1.4. Magnitude of CAP surface uplift",
+    "text": "The average present-day sea level δ18O value of precipitation of −4.9 at the Turkish Mediterranean coast Supplementary Table S4; IAEA/WMO, 2006) contrasts with the δ18O values of surface waters within the CAP immediately north of the Tauride Mts. (∼−11 to −12 ; Fig. 1c). Considering the modern oxygen isotope\nTable 2 Paleoelevation of the S CAP margin at 5 Ma.\nLapse rate Reference δ18O value\n① Average δ18O25% of 26–21 Ma lake carbonate\n② Modern Adana Basin 600 m elevation soil carbonate δ18O\n③ Modern δ18Op at sea level\nModern lapse rate = −2.9 /km (Schemmel et al., 2013)\n1483 m 2566 m 1793 m (1345 m) (1345 m) (1345 m)\nNon-linear, modeled (Rowley et al., 2001)\n2320 m 3227 m 2700 m (2065 m) (1671 m) (1901 m)\nBetween (brackets): 11–5 Ma increase in orographic barrier elevation.\nFig. 6. Predicted range elevations as a function of (δ18Ow) (a) and as a function of age (b). Assuming water-carbonate equilibrium fractionation at 17 (±5 ◦C for Fig. 6b; Kim and O’Neil, 1997) we compare δ18O25% values to present-day near sea-level precipitation along the Turkish Mediterranean coast (δ18Op = −4.9 , see Fig. 3) using the present-day −2.9 /km decrease of δ18O values in precipitation across the Tauride Mountains (Schemmel et al., 2013), as well as using the non-linear lapse rate of Rowley et al. (2001). The modern average Tauride crest elevation is 2186 ± 507 m (1σ ; see Supplementary Fig. S2). Open symbols: section KA from the northern CAP.\nlapse rate of −2.9 /km (Schemmel et al., 2013), those values imply that rain fall in the lee side of the Tauride Mts. originates from air masses that crossed an orographic barrier of ∼2100–2450 m. Given that the average elevation of the Tauride Mts. crest is ∼2186 ± 507 m (Supplementary Fig. S2), the present-day δ18Op values in the southern CAP interior accurately reflect orographic rainout across the Tauride Mts. Most of our CAP sections are located within 110 km of the crest of the Tauride Mts. (Fig. 1a) and by analogy with the above we interpret the long-term late Miocene (∼11 to 5 Ma) 3.9 decrease in δ18O25% to reflect the growth of a Tauride orographic barrier due to surface uplift of the CAP and its southern margin. Using the present-day δ18O lapse rate of −2.9 /km, a 3.9 decrease implies a ∼1350 m increase in mean elevation from ∼450 m to ∼1800 m between ∼11 and 5 Ma (Fig. 6b, Table 1). The predicted elevations (Fig. 6b) are likely on the lower end of the associated uncertainties for data from the older sections and on the higher end for their younger counterparts. The biases of the predicted elevations are the result of gradual cooling of the rising plateau (with respect to the coastal lowlands) in tandem with\ndecreasing global temperatures since the middle Miocene. Overall, we conclude that a) the large number of sampled sections and b) using δ18O25% as proxy for pre-evaporative δ18O values in precipitation provide robust and reliable stable isotope paleoaltimetry estimates for reconstructing changes in late Miocene paleoelevation of the southern plateau margin.\nOur calculated mean paleoelevations likely underestimate the magnitude (and rate) of surface uplift of the southern CAP margin for the following four reasons: a) Lake evaporation increases δ18O of lake water and hence δ18O of lacustrine carbonate. We chose to average the lowest 25% of the lacustrine δ18O carbonate data from each section to obtain a conservative estimate of δ18O of preevaporative lake water. Given that persistent lake evaporation may affect even the lowest δ18O values of lacustrine carbonate, δ18O25% values likely overestimate the δ18O values of precipitation and hence underestimate the impact of orographic rainout and thus the paleoelevation of the plateau margin. This is demonstrated by the 1690 m paleoelevation estimate for the least evaporative ‘modern’ (i.e. late Quaternary) δ18O25% value from lake sediments (Leng\net al., 1999) based on the modern value for Mediterranean precipitation (δ18Op = −4.9) and modern lapse rate (−2.9 /km). The paleoelevation estimate of 1690 m falls within the lowermost limit of the present-day orographic barrier elevation of 2186 ± 507 m (Supplementary Fig. S2); b) Phytoliths (Strömberg et al., 2007) and Anatolian faunal associations (Fortelius, 2013) document an increasing dominance of open grassland habitats from the early Miocene to the late Miocene. Grassland expansion has the potential to increase seasonal vapor recycling, which leads to higher δ18O values in precipitation e.g. in plateau interiors (e.g. Mix et al., 2013); c) overall surface uplift will likely lower mean annual lake temperatures in the plateau interior and therefore increase lacustrine δ18O carbonate values as a result of temperaturedependent changes in water-calcite oxygen isotope fractionation. This effect, however, is comparatively small to the overall change in δ18O values as it is almost balanced by the effect of decreasing temperatures on δ18O values in precipitation. Furthermore, the observed decrease in δ18O25% values between 11 and 5 Ma cannot be explained by changes in source composition of precipitation as a result of variations in marine δ18O values, which are nearly constant during this time interval (Zachos et al., 2001). Additionally, d) lapse rates are likely lower in warmer climates (Poulsen and Jeffery, 2011), which would result in higher calculated orographic barrier elevations.\nCalculating (δ18O) by using modern sea-level precipitation as a reference value (Reference 3) comes with the caveat that underestimating carbonate precipitation temperatures may bias predicted orographic barrier elevations to higher values. Presently, carbonate precipitation in one of the CAP lakes primarily occurs during the warm season (Jones et al., 2005), during which water temperatures within the lake’s epilimnion may exceed MAT (e.g. Hren and Sheldon, 2012). However, the relative increase in orographic barrier elevation remains independent of carbonate precipitation temperatures if a linear lapse rate is applied. The predicted relative increase in orographic barrier elevation results from the maximum difference between δ18O25% (23.6 ) at ∼11 Ma and δ18O25% (19.7 ) at ∼5 Ma, divided by the lapse rate, which amounts to 1345 m (Table 2)."
+  }, {
+    "heading": "4.2. Timing of surface uplift",
+    "text": "The least evaporative ‘modern’ (i.e. Quaternary) δ18O25% value from lake sediments (Leng et al., 1999) within the CAP interior is, within error, indistinguishable from our lowest δ18O25% values from ∼5 Ma old lake sediments (Fig. 4). We therefore conclude that the Taurides acted as orographic barrier establishing largely similar-to-present-day rainout patterns and mean elevations at ∼5 Ma. The predicted 5 Ma elevation of ∼1800 m (Fig. 6) is at the lower bound of the present-day average Tauride crest elevation (2186 ± 507 m), but identical to predicted Tauride Mts. average elevations based on modern lake carbonate data (1689 m; modern lake samples LP, Fig. 6 and Supplementary Fig. S2).\nOur stable isotope paleoaltimetry estimates are consistent with the emergence of the CAP interior from the Mediterranean (Supplementary Fig. S4). The youngest near-shore marine and estuarine Serravalian (13.82–11.62 Ma; Ćorić et al., 2012) deposits of the Karaman Basin are conformably overlain by lacustrine deposits (IB; Fig. 1a and 5); the youngest marine deposits in the Sivas and Dikme Basins are Langhian (15.97–13.82 Ma) in age (Fig. 1a; Ocakoğlu, 2002; Poisson et al., 2016). Starting from ∼12–11 Ma, solely continental sedimentation occurs in the Central Anatolian Volcanic Province (CAVP) and the Altınapa Basin (Fig. 1a; Koç et al., 2012; Lepetit et al., 2014). Our paleoaltimetry estimates are also in line with estimates derived from the vesicularity of basalt flows in the CAVP. The abundance and size of vacuoles in ∼8.3 Ma old basalt flows currently exposed at an elevation of ∼1400 m in-\ndicates that they erupted and solidified at an elevation of ∼400 m. The vesicularity of ∼1.9 Ma-old basalts found nearby suggests that they erupted near their current elevation at ∼900 m (Aydar et al., 2013).\nThe depositional history of the southern CAP margin points to emergence from the Mediterranean Sea in the late Miocene. This is evidenced by 8.4–8.1 Ma old marine carbonates, currently exposed at 2.0 km elevation in the southern CAP (Cosentino et al., 2012), and 7.2 Ma-old carbonates exposed in the SW CAP at an elevation of 1.5 km (Schildgen et al., 2012a). We therefore conclude that initial surface uplift, as recorded by our δ18O paleoaltimetry estimates, was concentrated on the CAP interior, and followed by ∼8–7 Ma uplift of the southern CAP margin.\nThe presence of a steep, dissected continental plateau margin by the end of the Miocene is evidenced by the deposition of large sediment volumes of upper Miocene to Pliocene age in the marine Cilicia and Adana basins (Fig. 1a; e.g. Aksu et al., 2014; Walsh-Kennedy et al., 2014; Radeff et al., 2015). The ∼8–7 Ma emergence of marine rocks at the southern CAP margin, together with stable isotope paleoaltimetry evidence for an 1800 m-high orographic barrier by 5 Ma implies surface uplift rates of 0.45–0.68 mm/yr (450–680 m/Myr) during the late Miocene.\nA fully developed rain shadow by 5 Ma contradicts the proposal that >50% of southern CAP margin uplift occurred since 1.6 Ma, which is based on the identification of marine species assemblages at an elevation of 1.2 km in the Mut Basin (Central Tauride Mts.; Supplementary Fig. S3; Yıldız et al., 2003). In the absence of formally described and mapped deposits, this interpretation is difficult to validate and reconcile with other datasets. A multi-stage uplift history based on these 1.6 Ma deposits (Schildgen et al., 2012b) is difficult to reconcile with the sedimentary architecture of the Adana-Cilicia Basin (Aksu et al., 2014; Walsh-Kennedy et al., 2014). The Adana-Cilicia Basin records uninterrupted stacking of large river deltas in the Mediterranean Sea at the outlet of the Mut Basin, indicating continuous and aggressive erosion of the basin throughout the Pliocene and a large amount of post-uplift excavation of a thick, easily erodible succession of sedimentary rocks in the Mut Basin. Besides, subsidence curves and Plio-Quaternary deformation patterns along the margin provide no evidence for large-scale post-5 Ma uplift (Walsh-Kennedy et al., 2014). Documentation of the presence of a 5 Ma Tauride Mts. rain shadow in context of the possibility for younger surface uplift phases, however, would indicate that the dynamics of Africa–Eurasia convergence resulted in a multi-stage Miocene-to-recent surface uplift history."
+  }, {
+    "heading": "4.3. Geodynamic implications of late Miocene uplift",
+    "text": "The East Anatolian Plateau (EAP), to the east of the Anatolian microplate, presently attains an average elevation of ∼2 km. Pn wave tomography and receiver functions seismology show that the EAP is underlain by attenuated lithospheric mantle and its preNeogene basement is widely considered to consist of a subduction accretion complex that lacks lithospheric mantle (Al-Lazki et al., 2004; Şengör et al., 2003; Zor et al., 2003). Emergence of the southern EAP during the Serravalian (13.82–11.62 Ma; e.g. Hüsing et al., 2009) occurred coevally with the onset of volcanism with a collisional geochemical signature in the northern EAP at 11 Ma (Keskin et al., 1998). The timing of emergence and volcanic activity, in combination with the lithospheric structure of the EAP have been interpreted as plateau formation owing to slab steepening, slab southward roll-back and slab breakoff, resulting in wholesale surface uplift of the overriding plate (e.g. Keskin, 2003). More recently, however, the identification of continental basement in the EAP led to the suggestion that the plateau was previously un-\nderlain by a lithospheric mantle that was removed as a result of lithospheric foundering (Topuz et al., 2017).\nThe emergence of the CAP interior above sea level coincides with the emergence of the EAP. The 11 to 5 Ma surface uplift of the CAP and its southern margin also coincides with an increase in volcanic activity after 13 Ma, culminating in the ignimbritic flareup of the CAVP between 9 and 5 Ma (e.g. Lepetit et al., 2014). The latest geophysical data indicate that the topography of the southern CAP margin is isostatically compensated, while a complex crustal and lithospheric structure, including areas devoid of significant crustal thickening underlies the CAP interior (e.g. Abgarmi et al., 2017). The CAP interior is underlain by a thin mantle lithosphere, whereas the southern plateau margin remains underlain by a thick mantle lithosphere (Delph et al., 2017) over a Cyprus slab that reaches the southern extent of the CAVP (Abgarmi et al., 2017). Despite dissimilar convergence styles (i.e. ongoing subduction southwest of the CAP and continent–continent collision south of the EAP), geodynamic modeling suggests a common sur-\nface uplift mechanism for the CAP and EAP, in which a single delamination event, in combination with crustal shortening, accounts for the modern topography of Anatolia (Bartol and Govers, 2014). Removal of mantle lithosphere through ‘drip tectonics’ has been proposed to explain the uplift of the CAP and age-equivalent CAVP volcanism (Göğüş et al., 2017). Göğüş et al. (2017) hypothesize that middle Eocene to Miocene oroclinal folding of the Kirşehir arc (e.g. Lefebvre et al., 2013) produced a thickened arc root that delaminated within a few million years. Collectively, geodynamical modeling results show that delamination can produce the observed magnitude of uplift over time scales compatible with our stable isotope paleoaltimetry results.\nSurface uplift of the CAP and its southern margin was contemporaneous with a period of forearc shortening in the Antalya, Cilicia, Adana, and Iskenderun basins between 13 and 5 Ma (Fig. 1a; e.g. Hall et al., 2014; Walsh-Kennedy et al., 2014). During late Miocene uplift of the CAP and its southern margin, the CAP interior experienced distributed shortening, which was followed by a\nswitch to extension around the Miocene to Pliocene transition (i.e. 5.3 Ma; e.g. Jaffey and Robertson, 2005; Rojay and Karaca, 2008; Fernández-Blanco et al., 2013; Özsayin et al., 2013).\nBased on the above, we suggest that post-11 Ma surface uplift of the plateau resulted from the removal of lithospheric mantle below the CAP interior. Between ∼8–7 and 5 Ma, northward subduction below the CAP during a phase of strong inter-plate coupling led to intense forearc shortening, and crustal thickening, resulting in surface uplift of the southern CAP margin, as proposed by Walsh-Kennedy et al. (2014; Fig. 7).\nAlthough surface uplift of the broader CAP and EAP has been variably ascribed to slab breakoff and slab delamination (e.g. Keskin, 2003; Bartol and Govers, 2014), the timing and duration of slab breakoff beneath Anatolia still remains elusive. As a result, any attempt to relate slab breakoff to the observed structure of the CAP or to its geomorphic and volcanic evolution remains speculative. Nonetheless, the late Miocene chronology of magmatism, contraction, surface uplift and Pliocene extension seems to indicate that a major Miocene slab breakoff event may have accompanied uplift of the CAP, which occurred through a spatially variable combination of crustal contraction and lithospheric thinning. The present-day segmented slab structure with slab windows and tears below Turkey (Biryol et al., 2011) can thereby serve as an example of the spatial complexities within the Earth’s mantle that may have controlled surface processes in the study area and, by extension, the Tethyan realm."
+  }, {
+    "heading": "5. Conclusions",
+    "text": "1) A long-term late Miocene (∼11–5 Ma) 3.9 decrease in δ18O25% values of 13 lacustrine sedimentary sections reflects the development of an orographic barrier as a result of surface uplift of the CAP interior, followed by surface uplift of the southern plateau margin after ∼8–7 Ma.\n2) The combination of the present-day oxygen isotope lapse rate of −2.9 /km with a sea level reference δ18O of precipitation along the present-day Turkish Mediterranean coast, yields a conservative estimate of changes in paleoelevation of the southern CAP margin. Elevations increased by 1350 m (from ∼450 to ∼1800 m) between 11 and 5 Ma. 3) The least evaporative Quaternary δ18O25% values from lakes within the CAP interior are, within error, indistinguishable from the lowest δ18O25% value from ∼5 Ma old lake sediments; the Tauride Mts. orographic barrier therefore must have reached similar-to-present elevations by the end of the Miocene. Our proposed late Miocene surface uplift of the CAP and its southern margin is in agreement with other lines of evidence for paleoaltimetry and surface uplift, including the age of marine limestones exposed at high elevation in the Tauride Mts. and the deposition of large sediment volumes in the Cilicia and Adana basins; ∼8–7 Ma emergence of marine rocks from the Mediterranean implies surface uplift rates of 0.45–0.68 mm/yr (i.e. 450–680 m/Myr) during the late Miocene for the southern CAP margin.\n4) Surface uplift during a period of distributed compression in the CAP interior and forearc shortening, leads us to suggest that the removal of lithospheric mantle below the CAP interior, followed by crustal thickening as a result of northward subduction of the African plate below central Anatolia collectively resulted in surface uplift of the CAP interior and eventually its southern margin. This model is supported by geophysical evidence for an isostatically compensated crust of the southern CAP margin.\n5) We document that surface uplift was coincident with distributed compression and an ignimbritic flare-up, and was fol-\nlowed by (latest Miocene?-)Pliocene-to-present extension in the CAP interior. This suggests that mantle processes leading to lithospheric thinning, as proposed by models of slab breakoff and lithospheric delamination, played a role alongside crustal thickening in the spatially complex domain of the Eastern Mediterranean."
+  }, {
+    "heading": "Acknowledgements",
+    "text": "We acknowledge support through the NSF CD program (EAR-1109762) ‘Central Anatolian Tectonics (CD-CAT)’ to Whitney; the College of Science and Engineering, University of Minnesota (Meijers), and the LOEWE initiative of Hesse’s Ministry of Higher Education, Research, and the Arts (Mulch). T. Mikes, C. Lefebvre, B. Rojay, M. Reid, G. Gençalioğlu Kuşcu, and J. Fiebig are thanked for field and laboratory assistance; M. Jones and F. Schemmel for providing original data files. The manuscript greatly benefited from the constructive reviews of three anonymous reviewers, as well as reviews by R. Govers, J. Saylor and an anonymous reviewer of an earlier version of the manuscript. Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government."
+  }, {
+    "heading": "Appendix A. Supplementary material",
+    "text": "Supplementary material related to this article can be found online at https://doi .org /10 .1016 /j .epsl .2018 .05 .040. These data include the Google map of the most important areas described in this article."
+  }],
+  "year": 2018,
+  "references": [{
+    "title": "Structure of the crust and African slab beneath the central Anatolian plateau from receiver functions: new insights on isostatic compensation and slab dynamics. In: Mantle to Surface Dynamics during the Transition from Subduction to Collision to Tectonic Escape: Results from the Continen",
+    "authors": ["B. Abgarmi", "J.R. Delph", "A.A. Özacar", "S.L. Beck", "G. Zandt", "E. Sandvol", "N. Türkelli", "C.B. Biryol"],
+    "year": 2017
+  }, {
+    "title": "Pn tomographic imaging of mantle lid velocity and anisotropy at the junction of the Arabian, Eurasian and African plates",
+    "authors": ["A.I. Al-Lazki", "E. Sandvol", "D. Seber", "M. Barazangi", "N. Turkelli", "R. Mohamad"],
+    "venue": "Geophys. J. Int",
+    "year": 2004
+  }, {
+    "title": "Paleoclimatic evolution and vegetational changes during the late Oligocene–Miocene period in Western and Central Anatolia (Turkey)",
+    "authors": ["F. Akgün", "M.S. Kayseri", "M.S. Akkiraz"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2007
+  }, {
+    "title": "The Pliocene–Quaternary tectonic evolution of the Cilicia and Adana basins, eastern Mediterranean: special reference to the development of the Kozan Fault zone",
+    "authors": ["A.E. Aksu", "S. Walsh-Kennedy", "J. Hall", "R.N. Hiscott", "C. Yaltırak", "S.D. Akhun", "G. Çifçi"],
+    "venue": "Tectonophysics 622,",
+    "year": 2014
+  }, {
+    "title": "Central Anatolian Plateau, Turkey: incision and paleoaltimetry recorded from volcanic rocks",
+    "authors": ["E. Aydar", "E. Çubukçu", "E. Şen", "L. Akin"],
+    "venue": "Turk. J. Earth Sci",
+    "year": 2013
+  }, {
+    "title": "Arabia–Eurasia continental collision: insights from late Tertiary foreland-basin evolution in the Alborz mountains, northern Iran",
+    "authors": ["P. Ballato", "C.E. Uba", "A. Landgraf", "M.R. Strecker", "M. Sudo", "D.F. Stockli", "A. Friedrich", "S.H. Tabatabaei"],
+    "venue": "Geol. Soc. Am",
+    "year": 2011
+  }, {
+    "title": "A single cause for uplift of the Central and Eastern Anatolian plateau? Tectonophysics",
+    "authors": ["J. Bartol", "R. Govers"],
+    "year": 2014
+  }, {
+    "title": "Segmented African lithosphere beneath the Anatolian region inferred from teleseismic P-wave tomography",
+    "authors": ["B.C. Biryol", "S.L. Beck", "G. Zandt", "A.A. Özacar"],
+    "venue": "Geophys. J. Int",
+    "year": 2011
+  }, {
+    "title": "Role of the westerlies in Central Asia climate over the Cenozoic",
+    "authors": ["J.K. x. Caves", "M.J. Winnick", "S.A. Graham", "D.J. Sjostrom", "A. Mulch", "C.P. Chamberlain"],
+    "venue": "Earth Planet. Sci",
+    "year": 2015
+  }, {
+    "title": "Biostratigraphy of some mollusc-bearing middle Miocene localities on the Karaman high plain (Turkey",
+    "authors": ["S. Ćorić", "M. Harzhauzer", "F. Rögl", "Y. Islamoğlu", "B. Landau"],
+    "venue": "Konya Province). Cainozoic Res",
+    "year": 2012
+  }, {
+    "title": "Late Miocene surface uplift of the southern margin of the Central Anatolian plateau, Central Taurides, Turkey",
+    "authors": ["D. Cosentino", "T.F. Schildgen", "P. Cipollari", "C. Faranda", "E. Gliozzi", "N. Hudáčková", "S. Lucifora", "M.R. Strecker"],
+    "venue": "Geol. Soc. Am",
+    "year": 2012
+  }, {
+    "title": "Stable isotopes in precipitation",
+    "authors": ["W. Dansgaard"],
+    "venue": "Tellus",
+    "year": 1964
+  }, {
+    "title": "The effects of subduction termination on the continental lithosphere: linking volcanism, deformation, surface uplift, and slab tearing in central Anatolia",
+    "authors": ["M.J.M. Meijers"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2017
+  }, {
+    "title": "The temporal and seasonal variation of H-2 and O-18 in atmospheric water vapour and precipitation from Ankara, Turkey in relation to air mass trajectories at Mediterranean Basin",
+    "authors": ["A. Dirican", "S. Ünal", "Y. Acar", "M. Demircan"],
+    "year": 2005
+  }, {
+    "title": "Cenozoic tectonics of the Tuz Gölü Basin (Central Anatolian Plateau, Turkey)",
+    "authors": ["D. Fernández-Blanco", "G. Bertotti", "A. Çiner"],
+    "venue": "Turk. J. Earth Sci",
+    "year": 2013
+  }, {
+    "title": "New and Old Worlds (NOW) Database of Fossil Mammals",
+    "authors": ["M. 7. Fortelius"],
+    "year": 2013
+  }, {
+    "title": "Carbonate oxygen isotope paleoaltimetry: evaluating the effect of diagenesis on paleoelevation estimates for the Tibetan plateau. Palaeogeogr",
+    "authors": ["C.N. Garzione", "D.L. Dettman", "B.K. Horton"],
+    "venue": "Palaeoclimatol. Palaeoecol",
+    "year": 2004
+  }, {
+    "title": "Lacustrine carbonates. In: Alonso-Zarza",
+    "authors": ["E.H. Gierlowski-Kordesch"],
+    "year": 2010
+  }, {
+    "title": "Drip tectonics and the enigmatic uplift of the Central Anatolian Plateau",
+    "authors": ["O.H. Göğüş", "R.N. Pysklywec", "A.M.C. Şengör", "E. Gün"],
+    "venue": "Nat. Commun",
+    "year": 2017
+  }, {
+    "title": "Geology, mineralogy, geochemistry, and depositional environment of a Late Miocene/Pliocene fluviolacustrine succession, Cappadocian Volcanic Province, central Anatolia, Turkey",
+    "authors": ["E. Göz", "S. Kadir", "A. Gürel", "M. Eren"],
+    "venue": "Turk. J. Earth Sci",
+    "year": 2014
+  }, {
+    "title": "Miocene–Recent evolution of the western Antalya Basin and its linkage with the Isparta Angle, eastern Mediterranean",
+    "authors": ["J. Hall", "A.E. Aksu", "H. King", "A. Gogacz", "G. Yaltırak Çifçi"],
+    "venue": "Mar. Geol",
+    "year": 2014
+  }, {
+    "title": "δ18O and δD of streamwaters across the Himalaya and Tibetan Plateau: implications for moisture sources and paleoelevation reconstructions",
+    "authors": ["M.T. Hren", "B. Bookhagen", "P.M. Blisniuk", "A.L. Booth", "C.P. Chamberlain"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2009
+  }, {
+    "title": "Temporal variations in lake water temperature: paleoenvironmental implications of lake carbonate δ18O and temperature records",
+    "authors": ["M.T. Hren", "N.D. Sheldon"],
+    "venue": "Earth Planet. Sci",
+    "year": 2012
+  }, {
+    "title": "Oligocene Miocene basin evolution in SE Anatolia, Turkey: constraints on the closure of the eastern Tethys gateway",
+    "authors": ["S.K. Hüsing", "Zachariasse", "W.-J", "D.J.J. van Hinsbergen", "W. Krijgsman", "M. Inceöz", "M. Harzhauser", "O. Mandic", "A. Kroh"],
+    "year": 2009
+  }, {
+    "title": "Non-marine sedimentation associated with Oligocene–Recent exhumation and uplift of the Central Taurus Mountains",
+    "authors": ["N. water. Jaffey", "A. Robertson"],
+    "venue": "S Turkey. Sediment. Geol",
+    "year": 2005
+  }, {
+    "title": "A coupled calibration and modelling approach to the understanding of dry-land lake oxygen isotope records",
+    "authors": ["M.D. Jones", "M.J. Leng", "C.N. Roberts", "M. Türkeş", "R. Moyeed"],
+    "venue": "J. Paleolimnol",
+    "year": 2005
+  }, {
+    "title": "Quantifying climatic change through the last glacial-interglacial transition based on lake isotope palaeohydrology from central Turkey",
+    "authors": ["M.D. Jones", "C.N. Roberts", "M.J. Leng"],
+    "venue": "Quat. Res",
+    "year": 2007
+  }, {
+    "title": "Geology and Paleontology of the Miocene Sinap Formation",
+    "authors": ["J. Kappelman", "A. Duncan", "M. Feseha", "Lunkka", "J.-P", "D. Ekart", "F. McDowell", "T.M. Ryan", "C.C. Swisher III"],
+    "year": 2003
+  }, {
+    "title": "Cenozoic vegetation and climate change in Anatolia— a study based on the IPR-vegetation analysis",
+    "authors": ["M.S. Kayseri-Özer"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2017
+  }, {
+    "title": "Volcano-stratigraphy and geochemistry of collision-related volcanism on the Erzurum-Kars Plateau, northeastern Turkey",
+    "authors": ["M. Keskin", "J.A. Pearce", "J.G. Mitchell"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 1998
+  }, {
+    "title": "Magma generation by slab steepening and breakoff beneath a subduction-accretion complex: an alternative model for collision-related volcanism in Eastern Anatolia, Turkey",
+    "authors": ["M. Keskin"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2003
+  }, {
+    "title": "Equilibrium and nonequilibrium oxygen isotopic effects in synthetic carbonates",
+    "authors": ["S.T. Kim", "J.R. O’Neil"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1997
+  }, {
+    "title": "Tectono-sedimentary evolution and geochronology of the Middle Miocene Altınapa Basin, and implications for the Late Cenozoic uplift history of the Taurides, southern Turkey",
+    "authors": ["A. Koç", "N. Kaymakcı", "D.J.J. van Hinsbergen", "K.F. Kuiper", "R.L.M. Vissers"],
+    "venue": "Tectonophysics 532–535,",
+    "year": 2012
+  }, {
+    "title": "Magnetic polarity stratigraphy of late Oligocene to middle Miocene mammal-bearing continental deposits in central Anatolia (Turkey)",
+    "authors": ["W. Krijgsman", "C.E. Duermeijer", "C.G. Langereis", "H. de Bruijn", "G. Saraç", "P.A. Andriessen"],
+    "venue": "Newsl. Stratigr",
+    "year": 1996
+  }, {
+    "title": "Late Quaternary palaeohydrology of the Konya Basin, Turkey, based on isotope studies of modern hydrology and lacustrine carbonates",
+    "authors": ["M.J. Leng", "N. Roberts", "J.M. Reed", "H.J. Sloane"],
+    "venue": "J. Paleolimnol",
+    "year": 1999
+  }, {
+    "title": "Paleoclimatic interpretation of stable isotope data from lake sediment archives",
+    "authors": ["M.J. Leng", "J.D. Marshall"],
+    "venue": "Quat. Sci. Rev",
+    "year": 2004
+  }, {
+    "title": "Stable isotope reconstruction of Oligo–Miocene paleoenvironment and paleohydrology of Central Anatolian lake basins (Turkey)",
+    "authors": ["T. Lüdecke", "T. Mikes", "B. Rojay", "M. Cosca", "A. Mulch"],
+    "venue": "Turk. J. Earth Sci",
+    "year": 2013
+  }, {
+    "title": "Palaeoenvironmental and chronological constraints on the Tuğlu Formation (Çankırı Basin, Central Anatolia, Turkey)",
+    "authors": ["I. Mazzini", "N. Hudackova", "P. Joniak", "M. Kovacova", "T. Mikes", "A. Mulch", "F.B. Rojay", "S. Lucifora", "D. Esu", "I. Soulie-Märsche"],
+    "venue": "Turk. J. Earth Sci",
+    "year": 2013
+  }, {
+    "title": "The East Anatolian Fault: a major structure in Eastern Turkey",
+    "authors": ["D. McKenzie"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 1976
+  }, {
+    "title": "Retrodeforming the Arabia–Eurasia collision zone: age of collision versus magnitude of continental subduction",
+    "authors": ["N. McQuarrie", "D.J. van Hinsbergen"],
+    "venue": "Geology",
+    "year": 2013
+  }, {
+    "title": "Late Cretaceous to Paleocene oroclinal bending in the central Pontides (Turkey)",
+    "authors": ["M.J.M. Meijers", "N. Kaymakçı", "D.J.J. van Hinsbergen", "C.G. Langereis", "R.A. Stephenson", "Hippolyte", "J.-C"],
+    "venue": "Tectonics 29. https://doi .org",
+    "year": 2010
+  }, {
+    "title": "Age and paleoenvironmental reconstruction of partially remagnetized lacustrine sedimentary rocks (Oligocene Aktoprak basin, central Anatolia, Turkey)",
+    "authors": ["M.J.M. Meijers", "B.E. Strauss", "M. Özkaptan", "J.M. Feinberg", "A. Mulch", "D.L. Whitney", "N. Kaymakçı"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2016
+  }, {
+    "title": "Climate stability in Central Anatolia during the Messinian Salinity Crisis",
+    "authors": ["M.J.M. Meijers", "A.A. Peynircioğlu", "M.A. Cosca", "G.Y. Brocard", "D.L. Whitney", "C.G. Langereis", "A. Mulch"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol. https://doi .org",
+    "year": 2018
+  }, {
+    "title": "Grassland expansion as an instrument of hydrologic change in Neogene western North America",
+    "authors": ["H.T. Mix", "M.J. Winnick", "A. Mulch", "C.P. Chamberlain"],
+    "venue": "Earth Planet. Sci. Lett. 377–378,",
+    "year": 2013
+  }, {
+    "title": "Stable isotope paleoaltimetry and the evolution of landscapes and life",
+    "authors": ["A. Mulch"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2016
+  }, {
+    "title": "Palaeoenvironmental analysis of a Miocene basin in the high Taurus Mountains (southern Turkey) and its palaeogeographical and structural significance",
+    "authors": ["F. Ocakoğlu"],
+    "venue": "Geol. Mag",
+    "year": 2002
+  }, {
+    "title": "Geology and trona potential of the Middle Miocene Gürün (Sivas) Basin, Central Anatolia, Turkey",
+    "authors": ["M. Önal", "C. Helvaci", "F. Ceyhan"],
+    "venue": "Carbonates Evaporites",
+    "year": 2004
+  }, {
+    "title": "Plio-Quaternary extensional tectonics of the Central Anatolian Plateau: a case study from the Tuz Gölü Basin, Turkey",
+    "authors": ["E. Özsayin", "A. Çiner", "B. Rojay", "K. Dirik", "D. Melnick", "D. Fernández-Blanco", "G. Bertotti", "T.F. Schildgen", "Y. Garcin", "M.R. Strecker", "M. Sudo"],
+    "venue": "Turk. J. Earth Sci",
+    "year": 2013
+  }, {
+    "title": "Empirical relationships between elevation and the stable isotope composition of precipitation and surface waters: considerations for studies of paleoelevation change",
+    "authors": ["M.A. Poage", "C.P. Chamberlain"],
+    "venue": "Am. J. Sci",
+    "year": 2001
+  }, {
+    "title": "Miocene transgression in the central and eastern parts of the Sivas Basin (Central Anatolia, Turkey) and the Cenozoic palaeogeographical evolution",
+    "authors": ["A Poisson"],
+    "venue": "Int. J. Earth",
+    "year": 2016
+  }, {
+    "title": "Climate change imprinting on stable isotopic compositions of high-elevation meteoric water cloaks past surface elevations of major",
+    "authors": ["C.J. Poulsen", "M.L. Jeffery"],
+    "venue": "orogens. Geology",
+    "year": 2011
+  }, {
+    "title": "Sedimentary evidence for late Messinian uplift of the SE margin of the Central Anatolian Plateau: Adana Basin, southern Turkey",
+    "authors": ["G. Radeff", "T.F. Schildgen", "D. Cosentino", "M.R. Strecker", "P. Cipollari", "G. Darbaş", "K. Gürbüz"],
+    "venue": "Basin Res",
+    "year": 2015
+  }, {
+    "title": "Post-Miocene deformation in the south of the Galatean Volcanic Province, NW of central Anatolia (Turkey)",
+    "authors": ["B. Rojay", "A. Karaca"],
+    "venue": "Turk. J. Earth Sci",
+    "year": 2008
+  }, {
+    "title": "Miocene orographic uplift forces rapid hydrological change in the southern central Andes",
+    "authors": ["A. Rohrmann", "D. Sachse", "A. Mulch", "H. Pingel", "S. Tofelde", "R.N. Alonso", "M.R. Strecker"],
+    "year": 2016
+  }, {
+    "title": "A new approach to stable isotope-based paleoaltimetry: implications for paleoaltimetry and paleohypsometry of the High Himalaya since the Late Miocene",
+    "authors": ["D.B. Rowley", "R.T. Pierrehumbert", "B.S. Currie"],
+    "venue": "Earth Planet. Sci",
+    "year": 2001
+  }, {
+    "title": "The impact of topography on isotopes in precipitation across the Central Anatolian Plateau (Turkey)",
+    "authors": ["F. Schemmel", "T. Mikes", "B. Rojay", "A. Mulch"],
+    "venue": "Am. J. Sci",
+    "year": 2013
+  }, {
+    "title": "Surface expression of eastern Mediterranean slab dynamics: Neogene topographic and structural evolution of the southwest margin of the Central Anatolian Plateau, Turkey",
+    "authors": ["T.F. Schildgen", "D. Cosentino", "A. Caruso", "R. Buchwaldt", "C. Yıldırım", "S.A. Bowring", "B. Rojay", "H. Echtler", "M.R. Strecker"],
+    "venue": "Tectonics 31,",
+    "year": 2012
+  }, {
+    "title": "Multi-phased uplift of the southern margin of the Central Anatolian Plateau, Turkey: a record of tectonic and upper mantle processes",
+    "authors": ["T.F. Schildgen", "D. Cosentino", "B. Bookhagen", "S. Niedermann", "C. Yıldırım", "H. Echtler", "H. Wittmann", "M.R. Strecker"],
+    "venue": "Earth Planet. Sci",
+    "year": 2012
+  }, {
+    "title": "Tethyan evolution of Turkey: a plate tectonic approach",
+    "authors": ["A.M.C. Şengör", "Y. Yılmaz"],
+    "venue": "Tectonophysics",
+    "year": 1981
+  }, {
+    "title": "East Anatolian high plateau as a mantle-supported, north–south shortened domal structure",
+    "authors": ["A.M.C. Şengör", "S. Özeren", "T. Genç", "E. Zor"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2003
+  }, {
+    "title": "Continuous-flow isotope ratio mass spectroscopic analysis of carbon minerals",
+    "authors": ["C. 2003GL017858. Spötl", "T.W. Vennemann"],
+    "venue": "Rapid Commun. Mass Spectrom",
+    "year": 2003
+  }, {
+    "title": "The spread of grassdominant habitats in Turkey and surrounding areas during the Cenozoic: Phytolith evidence",
+    "authors": ["C.A.E. Strömberg", "L. Werdelin", "E.M. Friis", "G. Saraç"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2007
+  }, {
+    "title": "2017. East Anatolian plateau constructed over a continental basement: no evidence for the East Anatolian accretionary complex. Geology",
+    "authors": ["G. Topuz", "O. Candan", "T. Zack", "A. Yılmaz"],
+    "year": 2017
+  }, {
+    "title": "Source to sink: the development of the latest Messinian to Pliocene–Quaternary Cilicia and Adana Basins and their linkages with the onland Mut Basin, eastern Mediterranean",
+    "authors": ["S. Walsh-Kennedy", "A.E. Aksu", "J. Hall", "R.N. Hiscott", "C. Yaltirak", "G. Çifçi"],
+    "venue": "Tectonophysics 622,",
+    "year": 2014
+  }, {
+    "title": "Late Neogene and active orogenic uplift in the Central Pontides associated with the North Anatolian Fault: implications for the northern margin of the Central Anatolian Plateau, Turkey",
+    "authors": ["C. Yıldırım", "T.F. Schildgen", "H. Echtler", "D. Melnick", "M.R. Strecker"],
+    "venue": "Tectonics 30,",
+    "year": 2011
+  }, {
+    "title": "Paleoenvironmental interpretation and findings of Pliocene–Pleistocene nannoplankton, planktic foraminifera, trace fossil in the Mut Basin",
+    "authors": ["A. Yıldız", "V. Toker", "H. Demircan", "S. Sevim"],
+    "venue": "Yerbilimleri",
+    "year": 2003
+  }, {
+    "title": "Trends, rhythms, and aberrations in global climate 65",
+    "authors": ["J. Zachos", "M. Pagani", "L. Sloan", "E. Thomas", "K. Billups"],
+    "venue": "Ma to present. Science",
+    "year": 2001
+  }, {
+    "title": "Regional impact of an elevated heat source: the Zagros Plateau of Iran",
+    "authors": ["B.F. Zaitchik", "J.P. Evans", "R.B. Smith"],
+    "venue": "J. Climate",
+    "year": 2007
+  }, {
+    "title": "The crustal structure of the East Anatolian plateau (Turkey) from receiver functions",
+    "authors": ["E. Zor", "E. Sandvol", "C. Gürbüz", "N. Türkelli", "D. Seber", "M. Barazangi"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2003
+  }],
+  "id": "SP:83e6e6f7cc39c0cb3f3fc4182606449efe3156ef",
+  "authors": [{
+    "name": "Maud J.M. Meijers",
+    "affiliations": []
+  }, {
+    "name": "Gilles Y. Brocard",
+    "affiliations": []
+  }, {
+    "name": "Michael A. Cosca",
+    "affiliations": []
+  }, {
+    "name": "Tina Lüdecke",
+    "affiliations": []
+  }, {
+    "name": "Christian Teyssier",
+    "affiliations": []
+  }, {
+    "name": "Donna L. Whitney",
+    "affiliations": []
+  }, {
+    "name": "Andreas Mulch",
+    "affiliations": []
+  }],
+  "abstractText": "a Senckenberg Biodiversity and Climate Research Centre, 60325 Frankfurt am Main, Germany b Department of Earth Sciences, University of Minnesota, Minneapolis, MN 55455, USA c School of Geosciences, The University of Sydney, NSW 2006, Australia d Department of Earth and Environmental Sciences, University of Pennsylvania, Philadelphia, USA e U.S. Geological Survey, Denver Federal Center, Denver, CO 80225, USA f College of Dentistry, New York University, New York, NY 10010, USA g Institute of Geosciences, Goethe University Frankfurt, 60438 Frankfurt, Germany",
+  "title": "Rapid late Miocene surface uplift of the Central Anatolian Plateau margin"
+}

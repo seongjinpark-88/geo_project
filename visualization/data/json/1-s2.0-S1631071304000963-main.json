@@ -1,0 +1,219 @@
+{
+  "sections": [{
+    "text": "The last 1000 years. A climate model of intermediate complexity has been used to simulate the surface air temperature evolution during the last millennium by considering both natural and anthropogenically-induced climate forcing. Our results indicate that all the investigated forcings are needed to simulate the surface air temperature evolution over this time period. While the combination of solar and volcanic forcing can explain the Little Ice Age and the Medieval warm period, only the greenhouse gas forcing associated with the anthropogenic sulphate forcing and the impact of deforestation give a climate response comparable in magnitude and time to the late 50 years temperature warming. To cite this article: C. Bertrand, C. R. Geoscience 336 (2004).  2004 Académie des sciences. Publié par Elsevier SAS. Tous droits réservés.\nMots-clés : modèle numérique du climat ; agents de forçage climatique ; simulations climatiques transitoires\nKeywords: climate model; climate forcings; transient climate simulation"
+  }, {
+    "heading": "1. Introduction",
+    "text": "La difficulté majeure rencontrée dans toute étude de détection et d’attribution des changements climatiques\nAdresse e-mail : Cedric.Bertrand@oma.be (C. Bertrand).\n1631-0713/$ – see front matter  2004 Académie des sciences. Publié par doi:10.1016/j.crte.2003.12.022\nrécents (mise en évidence d’une perturbation d’origine anthropique sur le climat ; par exemple, [2,16,35,36]) réside dans le fait que tout changement climatique dû à l’activité humaine s’inscrit dans le contexte des variations naturelles du climat. Celles-ci peuvent se produire à des échelles temporelles et spatiales fort\nElsevier SAS. Tous droits réservés.\ndiverses et résultent aussi bien de fluctuations internes que de causes externes telles que l’activité solaire et les éruptions volcaniques.\nRécemment, Stott et al. [35] ont pu mettre en évidence que la variabilité interne du système climatique ne suffit pas à expliquer les variations de température sur le dernier siècle, mais qu’un forçage externe est nécessaire. De plus, leurs résultats obtenus à partir d’un modèle 3D couplé océan–atmosphère indiquent que les composantes naturelle et anthropique du forçage externe sont toutes deux nécessaires pour expliquer les variations de température sur le dernier siècle, la composante anthropique du forçage externe expliquant l’essentiel des 30 dernières années, et probablement des 100 prochaines années. Toutefois, du fait de la couverture temporelle limitée de ces simulations, des incertitudes au sujet des valeurs estimées de la variabilité interne du climat, de la tendance à la hausse rencontrée à la fois dans les enregistrements de température ainsi que pour différents agents de forçage, de l’incertitude associée à l’amplitude des agents de forçage naturel, ainsi qu’à l’ampleur et aux mécanismes du forçage engendré par les aérosols troposphériques, il est cependant toujours difficile de pouvoir séparer les effets individuels des différents agents de forçage sur les changements climatiques récents.\nÉtendre l’étude sur une plus longue période de temps (par exemple, [3,8]) permet de surmonter une partie du problème en replaçant le réchauffement contemporain du climat dans le contexte des changements climatiques à plus long terme, qui sont intervenus tout à fait naturellement. Dans la présente étude, des expériences de sensibilité ont ainsi été conduites à l’aide d’un modèle numérique du climat de complexité intermédiaire [10], afin d’estimer la part relative de différents agents de forçage climatique tant d’origine naturelle qu’anthropique sur l’évolution de la température de l’air en surface au cours du dernier millénaire."
+  }, {
+    "heading": "2. Variation de la température de surface au cours du dernier millénaire",
+    "text": "Les relevés instrumentaux de la température n’étant disponibles que depuis environ 150 ans [22], l’estimation des variations de température pour les périodes antérieures est réalisée via l’utilisation d’archives naturelles ou indicateurs paléoclimatiques. S’appuyant\nprincipalement sur les résultats de Lamb [24–26], la conception classique de l’évolution du climat au cours des 1000 dernières années veut que le climat se soit déplacé d’une période chaude Médiévale (du XIe au XIVe siècle) à un Petit Âge Glaciaire (1430–1890), suivi dans la seconde moitié du XIXe siècle d’un réchauffement global qui tend à s’accélérer depuis les dernières décennies du XXe siècle. Les reconstructions climatiques opérées ces dernières années tendent cependant à montrer que l’évolution climatique au cours du dernier millénaire fut vraisemblablement plus contrastée spatialement et temporellement que ne le laisse à penser cette vision un peu simpliste (par exemple, [6,7,9,11,21]). En effet, alors que Lamb [25,26], s’appuyant sur des archives paléoclimatiques originaires d’Europe de l’Ouest et de la région NordAtlantique [5], définit la « Période Médiévale » (PM) comme étant une période où les températures ont été relativement/comparativement élevées (atteignant un maximum au XIIe et XIIIe siècles [25]), les indicateurs paléoclimatiques actuellement disponibles ne permettent pas de mettre en évidence l’existence d’une période chaude globalement synchrone et continue dans le temps [18], ni même d’établir que la température en moyenne globale ainsi qu’hémisphérique ait pu être plus chaude que celle qui a prévalu durant le XXe siècle [9]. À cette époque, en certains endroits du globe, les conditions de température ont pu être similaires aux conditions actuelles, alors que d’autres régions (particulièrement aux États-Unis) ont dû faire face à plusieurs épisodes de sécheresse durant la PM [34].\nDe même, alors que le terme « Petit Âge Glaciaire » (PAG) est traditionnellement utilisé pour décrire une période subséquente, longue d’environ 400 à 500 ans, où la température moyenne du globe était inférieure de 0,5 à 1 ◦C aux valeurs actuelles [14,27], des études plus récentes [6,7,20], indiquent que des anomalies climatiques tant chaudes que froides ont prévalu au PAG. Anomalies qui par ailleurs ont pu varier en importance géographiquement et temporellement. Ainsi, des données relatives à l’extension des glaciers durant cette période indiquent que la plupart des glaciers scandinaves ont atteint leur maximum d’extension pour le PAG au milieu du XVIIIe siècle [31], alors que dans les Alpes, la majorité des glaciers atteignirent leur maximum extension pour le PAG vers le milieu du XIXe siècle [14,31].\nPour la suite, l’analyse des données fournies par un réseau mondial de stations climatologiques indique [22,23] qu’il y a eu, au cours du siècle dernier, un réchauffement général moyen de l’ordre de 0,6 ◦C. La hausse de température n’a cependant pas été constante ; des périodes de réchauffement et de refroidissement se sont succédé à des intervalles de plusieurs décennies. La plus grande partie du réchauffement a été réalisée en 2 étapes, entre 1910 et 1945 et de 1976 à 2000. Depuis les années 1970, le réchauffement est trois fois plus rapide que sur l’ensemble du XXe siècle. Neuf des dix années les plus chaudes depuis le début des mesures en 1860 se situent après 1990, y compris 1999 et 2000, alors que ces années furent tempérées par le phénomène La Niña. Les températures enregistrées durant l’année 2002 indiquent que cette année est la deuxième plus chaude depuis 150 ans, avec 1998 en première place, et il est probable que 2003, encore sous l’influence de la fin de l’épisode El Niño, concourra pour une place sur le podium.\nLa reconstruction de la variation du climat de l’hémisphère nord (HN) [29,30] montre que le réchauffement du XXe siècle est aussi le plus important jamais observé en un siècle au cours du dernier millénaire. Il semble également que, dans l’HN du moins, la dernière décennie du XXe siècle et le siècle globalement furent les plus chauds des mille dernières années. (Les divers indicateurs paléoclimatiques actuellement disponibles pour l’hémisphère sud (HS) présentent toujours une couverture spatio-temporelle trop éparse pour qu’on puisse comparer de façon satisfaisante le réchauffement récent opéré dans l’HS ainsi que globalement avec les changements survenus au cours du dernier millénaire [30]). Finalement, la température moyenne globale en surface devrait connaître une augmentation variant entre 1,4 à 5,8 ◦C au cours de la période 1990–2100 [19]."
+  }, {
+    "heading": "3. Les agents de forçage climatique",
+    "text": "Outre les variations et les changements passés du climat, les observations/reconstructions ont également permis d’en apprendre plus sur les facteurs qui peuvent être à l’origine des changements climatiques. Parmi ceux-ci figurent, en premier lieu, l’augmentation de la concentration des gaz à effet de serre (GES) et des aérosols dans l’atmosphère, ainsi que la fluc-\ntuation de l’activité solaire et les changements dans la couverture des sols, susceptibles toutes trois de modifier le bilan radiatif de la Terre et donc son climat. Cependant, tout comme les relevés des changements climatiques antérieurs aux stations météorologiques, les jeux de données sur les agents de forçage couvrent des périodes de durée variable et sont d’inégale qualité.\nLe rayonnement solaire est la source fondamentale de toute l’énergie propre au système climatique de la Terre. En conséquence, toute variation de la production solaire constitue un facteur de forçage radiatif. Au cours des deux derniers cycles d’activité solaire de 11 ans, les observations satellitaires ont pu montrer des fluctuations relatives d’environ 0,1 % (par exemple, [37]), soit une variation du forçage radiatif d’environ 0,2 W m−2. Sur des périodes plus longues, les variations ont peut-être été plus importantes, mais l’on ne dispose pas de mesures directes. Dans le cadre de notre étude, les variations d’insolation sur les 1000 dernières années ont été déduites à partir d’enregistrements du carbone 14 et du béryllium 10 [1], dont la production est liée à l’insolation. La reconstruction ainsi obtenue est illustrée sur la Fig. 1(a). Elle montre une variation d’amplitude maximum de l’ordre de 5,6 W m−2 sur l’ensemble de la période. À côté de ces variations d’insolation intrinsèques au Soleil, les variations de l’orbite terrestre contribuent à modifier la répartition saisonnière et latitudinale du rayonnement solaire. Alors que ces variations jouent un rôle déterminant dans le va-et-vient des cycles glaciaires et interglaciaires, Bertrand et al. [4] ont montré que l’impact de ces variations sur l’évolution de la température moyenne annuelle globale au cours des derniers 1000 ans est négligeable.\nL’activité volcanique lors de grandes éruptions à caractère explosif peut injecter dans la stratosphère de grandes quantités de gaz soufré qui se transforment par la suite en aérosols sulfatés. Ces aérosols stratosphériques engendrent un forçage négatif important (estimé à −3,5 W m−2 en moyenne globale lors de l’éruption du Pinatubo), de courte durée, mais susceptible d’entraîner des épisodes de refroidissement significatif à l’échelle planétaire. Cependant, tout comme l’estimation du forçage solaire, la reconstruction du forçage volcanique au cours du dernier millénaire est assez aléatoire du fait de l’absence de données directes. La reconstruction considérée ici (Fig. 1(b)) est déduite de concentrations en sulfates retrouvées dans\nFig. 1. Forcing terms used in model runs. (a) Solar forcing (total solar irradiance), (b) volcanic forcing (stratospheric aerosol optical depth), (c) greenhouse gas forcing (atmospheric equivalent CO2 concentration), (d) tropospheric sulphate forcing (natural and anthropogenic sulphur emissions), (e) vegetation change (time series of deforested continental fraction in the northern and southern hemispheres).\nles glaces polaires [15,28,38]. Bien que ce forçage puisse avoir une composante zonale importante [33], les données indirectes utilisées pour son estimation ne permettent qu’une reconstruction en moyenne annuelle et globale ou au mieux hémisphérique sur la majeure partie de la période considérée.\nDurant le millénaire qui a précédé l’ère industrielle, les concentrations en GES dans l’atmosphère sont restées relativement constantes. Toutefois, depuis lors, les concentrations de nombreux GES ont augmenté sous l’effet direct ou indirect des activités humaines. Au cours des années 1990, les concentrations atmosphé-\nriques des principaux GES anthropiques (à savoir, le dioxyde de carbone (CO2), le méthane (CH4), l’oxyde nitreux (N2O) et l’ozone troposphérique) ont atteint leur niveau le plus haut jamais enregistré, principalement en raison de la combustion des combustibles fossiles, de l’agriculture et des changements d’affectation des terres. La concentration atmosphérique de CO2 est passée de 280 ppm pour la période entre 1000 et 1750 à 368 ppm en 2000, soit une augmentation de 31 ± 4 % [12]. De 700 ppb pour la période entre 1000 et 1750, la concentration atmosphérique de CH4 est passée à 1750 ppb en 2000, soit une augmentation\nde 151 ± 25 % [13]. La concentration atmosphérique de N2O est quant à elle passée de 270 ppb pour la période entre 1000 et 1750 à 316 ppb en 2000 (augmentation de 17 ± 5 %). Finalement, bien que variable selon les régions, la concentration troposphérique en O3 a connu une augmentation de l’ordre de 35 ± 15 % entre 1750 et 2000 [19]. La Fig. 1(c) illustre l’évolution de la concentration atmosphérique de ces différents gaz au cours du dernier millénaire en terme d’ équivalent CO2.\nLes aérosols troposphériques exercent une grande influence sur le bilan radiatif du système Terre-atmosphère via leurs effets directs (diffusion et absorption du rayonnement solaire et thermique infrarouge) et indirects (modifications des propriétés radiatives des nuages ainsi que de leur abondance via un impact sur leurs propriétés microphysiques). Ils sont le résultat de divers processus, tant naturels (tempêtes de sable ou de poussières, éruptions volcaniques, etc.) qu’anthropiques (combustion de combustibles fossiles et de biomasse, etc.). En raison de la brièveté de leur séjour dans l’atmosphère et de l’hétérogénéité de leurs sources, les aérosols ne sont pas répartis de façon homogène dans la troposphère, leur concentration atteignant un maximum à proximité des lieux d’émission. La Fig. 1(d) reprend l’évolution de l’émission anthropique de soufre dans l’atmosphère depuis le début\nde l’ère industrielle, comparée au niveau d’émission d’origine naturelle d’après les estimations de [32].\nPar ailleurs, les changements intervenus dans l’affectation des terres, dont le déboisement est le facteur principal, semblent également susceptibles d’avoir produit un forçage radiatif. Selon les estimations, l’effet est particulièrement marqué aux latitudes élevées où le déboisement a induit le remplacement des forêts enneigées, à l’albédo relativement faible, par des zones découvertes enneigées à plus fort albédo. La Fig. 1(e) fournit une estimation du déboisement opéré depuis le Moyen Âge en moyenne pour chacun des deux hémisphères [17]."
+  }, {
+    "heading": "4. Simulation de l’évolution du climat durant le dernier millénaire",
+    "text": "De façon à pouvoir estimer l’impact de ces différents agents de forçage sur l’évolution de la température de surface, une série d’expériences de sensibilité a été effectué à l’aide d’un modèle numérique du climat de complexité intermédiaire. Ce modèle global [10] prend en compte les différentes composantes du système climatique (à savoir l’atmosphère, l’hydrosphère, la cryosphère, les terres émergées et la biosphère) et leurs interactions dans une représentation à deux dimensions (latitude–altitude), avec un pas de\ntemps d’un jour. La surface y est représentée sur une grille de 5◦ en latitude et chaque bande de latitude est divisée en « longitude » en un maximum de 13 secteurs différents. Les continents eurasien et américain sont représentés et les fractions océaniques reprennent les trois bassins océaniques (Atlantique, Pacifique et Indien).\nPratiquement, le modèle a d’abord été initialisé pendant 15 000 ans, avec les valeurs reconstruites pour l’an 1000 des différents forçages considérés, de façon à simuler un cycle saisonnier en équilibre (run d’équilibre). Partant de cet équilibre, le modèle est alors intégré pendant 1001 ans (de 1000 à 2000 AD), en modifiant à chaque pas de temps la valeur de l’agent de forçage considéré selon sa reconstruction (run transitoire), de façon à pouvoir estimer l’effet de chacun des forçages sur la température ainsi que la combinaison de leurs effets. Bien que la Fig. 1 présente des reconstructions en moyenne annuelle et hémisphérique pour le déboisement et les émissions de soufre, ces forçages ont été introduits dans nos simulations avec une dépendance zonale et sectorielle, en plus de la dépendance temporelle (de même que pour les 25 dernières années du forçage volcanique). La Fig. 2 compare, dans sa partie droite, la reconstruction des variations de la température moyenne annuelle de l’HN au cours des 1000 dernières années avec la température simulée par le modèle en réponse à un forçage externe (a) d’origine naturelle (forçage solaire et volcanique), (b) d’origine anthropique (déboisement, aérosols sulfatés et GES), ainsi (c) qu’à la combinaison des deux, et, dans sa partie gauche, les variations de la température moyenne mondiale de l’air en surface, tirée de relevés instrumentaux, à celles simulées par le modèle en réponse aux trois mêmes types de forçage.\nLa Fig. 2(a) indique que l’effet combiné du forçage solaire et du volcanisme peut avoir contribué significativement à l’évolution de la température de surface au cours du dernier millénaire. En effet, la réponse du modèle à la combinaison de ces deux forçages fait clairement apparaître une période médiévale chaude (du XIe au XIIIe siècle) ainsi qu’un petit âge glaciaire (1430–1890) ; la tendance générale de la réponse étant donnée par les variations de l’insolation sur laquelle viennent se greffer des refroidissements ponctuels liés au volcanisme. La signature de ces épisodes volcaniques (notamment les refroidissements simulés vers le milieu du XIVe et au XVe ainsi qu’à la fin du XVIe\net au début du XVIIe) concorde bien avec les épisodes de froid repris dans la reconstruction de [29]. La température simulée par le modèle en réponse au forçage naturel permet d’expliquer 40 % de la variation de la température au cours de la période préindustrielle. Il est à noter qu’en l’absence de variabilité inter-annuelle interne dans le modèle, les corrélations entre températures simulées et reconstruites ont été calculées après avoir lissé les séries temporelles de température, afin d’en faire ressortir la composante à basses fréquences. En revanche, bien que l’irradiance solaire semble avoir montré une tendance systématique à la hausse au cours des quatre derniers siècles (voir Fig. 1(a)), les variations d’insolation apparaissent trop faibles pour expliquer le réchauffement global observé depuis la seconde moitié du XIXe siècle, comme illustré sur la Fig. 2(a), et plus particulièrement le taux de réchauffement accéléré enregistré depuis 1970. Ainsi, sur l’ensemble du dernier millénaire, les forçages d’origine naturel ne permettent plus que d’expliquer 27 % des variations de la température moyenne de l’HN telle que reconstruite par [29].\nLa Fig. 2(b) montre clairement que le forçage opéré par les GES n’est pas très significatif avant 1800. On observe bien une petite diminution dans leur concentration atmosphérique au cours des XVIIe et XVIIIe siècles (Fig. 1(c)), mais le changement de température associé simulé par le modèle est assez limité (un refroidissement net de la température annuelle moyenne de l’HN de l’ordre de 0,06 ◦C). Le principal agent de forçage anthropique apparaît, avant la révolution industrielle, plutôt lié à la déforestation qui s’est opérée aux latitudes moyennes de l’HN. Ainsi, le pourcentage de la variance expliquée pour l’HN augmente de 40 à 43 % sur la période allant de l’an 1000 à 1850, si on rajoute l’impact de la déforestation aux agents de forçage d’origine entièrement naturelle ; le déboisement ayant pour effet de renforcer le Petit Âge Glaciaire dans nos simulations. Si l’influence du forçage opéré par les GES apparaît limitée durant la période préindustrielle, ce forçage semble par contre essentiel pour générer un réchauffement au XXe siècle. Néanmoins, avec une sensibilité de 2,8 ◦C pour un doublement de la concentration atmosphérique en CO2, le modèle tend à surestimer le réchauffement enregistré. La prise en compte du forçage direct opéré par les aérosols sulfatés, ainsi que de celui associé aux changements dans la couverture des sols en plus des GES,\nFig. 2. Comparison between annual mean surface air temperature response to (a) natural climate forcing (solar and volcanism), (b) anthropogenic climate forcing (greenhouse gas forcing, tropospheric sulphate forcing, and vegetation change), and (c) to all forcings. The left side of the figure presents the comparison of the simulated and reconstructed [29] northern-hemisphere temperatures over the past millennium. The right side displays the comparison between simulated and recorded [22,23] global mean surface air temperatures. Note that temperature anomalies are calculated relative to the 1902–1980 average for the northern hemisphere and relative to the 1880–1920 average in global mean. Model responses as well as reconstructed/recorded annual mean temperature time series have been smoothed with a 11-year running procedure.\npermet de contraindre le réchauffement simulé dans les limites de celui observé. Ainsi, bien que les enregistrements de température montrent une tendance générale au réchauffement dans les 2 hémisphères depuis 1861, il y a cependant une période (de 1940 à 1970) de refroidissement dans les enregistrements de température pour l’HN, qui n’apparaît pas dans les enregistrements relatifs à l’HS. Cette période coïncide avec le moment où, dans l’HN, les rejets anthropiques de soufre dans l’atmosphère ont dépassé le niveau des émissions naturelles et ont pu continuer à augmenter, en l’absence de toute réglementation et de tout contrôle.\nCependant, si la prise en compte du forçage direct opéré par les aérosols sulfatés en plus des GES permet de stabiliser, ou tout au moins de réduire, le taux de réchauffement de la température moyenne de l’HN sur la période 1940–1970 dans nos simulations, il est toutefois nécessaire d’inclure l’impact de la déforestation dans nos simulations pour que le modèle parvienne à simuler un léger refroidissement pendant cette période. Sur l’ensemble du dernier millénaire, la prise en compte des seuls agents de forçage d’origine anthropique permet d’expliquer 28 % des variations de température de l’HN.\nAinsi, seule la prise en compte de l’ensemble des agents de forçage climatique considérés permet d’expliquer la plus grande partie (48 %) des variations\nde température reconstruite pour l’HN pour les 1000 dernières années et 67 % de la variance totale de la température globale (non lissée) pour les 150 dernières années. Cependant, bien que le modèle parvienne à capturer une partie non négligeable des variations basses fréquences de la reconstruction de température de l’HN, il reste néanmoins des zones de désaccord entre températures simulées et reconstruites. Celles-ci peuvent s’expliquer en partie par les incertitudes liées aux différentes reconstructions (températures et/ou forçages) considérées utilisées aussi qu’aux limitations propres au modèle climatique utilisé."
+  }, {
+    "heading": "5. Conclusions",
+    "text": "Les résultats des simulations effectuées à l’aide d’un modèle climatique de complexité intermédiaire montrent que les composantes naturelles (insolation, volcanisme) et anthropiques (GES, aérosols sulfatés, déforestation) du forçage climatique externe sont toutes deux nécessaires pour expliquer les variations de température sur le dernier millénaire. En accord avec la reconstruction de la température moyenne annuelle de l’HN sur les derniers 1000 ans, la réponse du modèle à la combinaison de tous ces forçages montre, pour un premier intervalle de temps (1000–1300), une période médiévale chaude, avec un maximum de tem-\npérature aux XIIe et XIIIe siècles, suivi d’une période de transition allant de 1300 à 1450, puis une période froide, souvent référencée comme Petit Âge Glaciaire, s’étalant jusqu’à la fin du XVIIe siècle et, finalement, un refroidissement au début du XIXe, avant le réchauffement du XXe siècle.\nSi, avant la révolution industrielle, la combinaison des agents de forçage d’origine naturelle permet de reproduire les caractéristiques majeures de l’évolution de la température moyenne annuelle de l’HN, nos résultats tendent à montrer, en accord avec [35], qu’il y a une composante anthropique dans le changement de température survenu au cours des 150 dernières années (bien que déjà au Moyen Âge, le déboisement opéré aux latitudes moyennes de l’HN ait pu contribuer au renforcement du Petit Âge Glaciaire). En effet, bien que la combinaison des agents de forçage naturel ait conduit à un réchauffement graduel jusqu’aux années 1960, seule une réponse au forçage anthropique permet de simuler le réchauffement important des 30 dernières années, période durant laquelle trois éruptions volcaniques importantes ont eu lieu. En revanche, la réponse au forçage anthropique seule n’explique pas la période de réchauffement observé entre 1920 et 1940, qui résulterait en bonne partie de l’action combinée de l’absence de grosses éruptions volcaniques et d’une augmentation de l’énergie reçue du Soleil.\nRéférences\n[1] E. Bard, G. Raisbeck, F. Yiou, J. Jouzel, Solar irradiance during the last 1200 yr based on cosmogenic nucleides, Tellus B 52 (2000) 985–992. [2] T.P. Barnett, K. Hasselman, M. Chelliah, T. Delworth, G. Hergerl, P. Jones, E. Rasmusson, E. Roecker, C. Ropelewski, B. Santer, S. Tett, Detection and attribution of recent climate change: a status report, Bull. Amer. Meteorol. Soc. 80 (1999) 2631–2659. [3] C. Bertrand, M.-F. Loutre, M. Crucifix, A. Berger, Climate of the last millennium: a sensitivity study, Tellus A 54 (2002) 221–244. [4] C. Bertrand, M.-F. Loutre, A. Berger, High frequency variations of the Earth’s orbital parameters and climate change, Geophys. Res. Lett. 29 (2002) 1893, doi:10.1029/ 2002GL015622. [5] R.S. Bradley, Climate paradigms for the last millennium, Pages Newslett. 8 (2000) 2–3. [6] K.R. Briffa, P.D. Jones, F.H. Schweingruber, T.J. Osborn, Influence of volcanic eruptions on northern hemisphere summer\ntemperature over the past 600 years, Nature 393 (1998) 450– 455. [7] K.R. Briffa, T.J. Osborn, F.H. Schweingruber, I.C. Harris, P.D. Jones, S.G. Shiyatov, E.A. Vaganov, Low-frequency temperature variations from a northern tree ring density network, J. Geophys. Res. 106 (2001) 2929–2941. [8] T.J. Crowley, Causes of climate change over the past 1000 years, Science 289 (2000) 270–277. [9] T.J. Crowley, T.S. Lowery, How warm was the medieval warm period ?, Ambio 29 (2000) 51–54. [10] M. Crucifix, M.-F. Loutre, P. Tulkens, T. Fichefet, A. Berger, Climate evolution during the Holocene: an approach with an Earth system model of intermediate complexity, Clim. Dyn. 19 (2002) 43–60. [11] J. Esper, E.R. Cook, F.H. Schweingruber, Low-frequency signals in long tree-ring chronologies for reconstructing past temperature variability, Science 295 (2000) 2250–2253. [12] D.M. Etheridge, R.L. Langenfelds, R.J. Francey, J.-M. Barnola, V.I. Morgan, Natural and anthropogenic changes in atmospheric CO2 over the last 1000 years from air in Antarctic ice and firn, J. Geophys. Res. 101 (1996) 4115–4128. [13] D.M. Etheridge, L.P. Steele, R.J. Francey, R.L. Langenfelds, Atmospheric methane between 1000 AD and present: evidence of anthropogenic emissions and climate variability, J. Geophys. Res. 103 (1998) 15979–15993. [14] J.M. Grove, The Little Ice Age, Methuen, London, 1988, 498 p. [15] C.U. Hammer, H.B. Clausen, W. Dansgaard, Greenland ice sheet evidence of post-glacial volcanism and its climatic impact, Nature 288 (1980) 230–235. [16] G.C. Hergerl, K. Hasselmann, U. Cubasch, J.F.B. Mitchell, E. Roeckner, R. Voss, J. Waszkewitz, Multi-fingerprint detection and attribution analysis of greenhouse gas, greenhouse gas-plus-aerosol and solar forced climate change, Clim. Dyn. 13 (1997) 613–634. [17] R.A. Houghton, J.E. Hobbie, J.M. Melillo, B. Moore, B.J. Peterson, G.R. Shaver, G.M. Woodwell, Changes in carbon content of terrestrial biota and soils between 1860 and 1980: a net release of CO2 to the atmosphere, Ecolog. Monogr. 53 (1982) 235–262. [18] J.T. Houghton, Y. Ding, D.J. Griggs, M. Noguer, P.J. Van der Linden, X. Dai, K. Maskell, C.A. Johnson (Eds.), IPCC, 2001, Climate Change 2001: The Scientific Basis, Cambridge University Press, Cambridge, 2001, 881 p. [19] M.K. Hughes, H.F. Diaz, Was there a ‘medieval warm period’ and, if so, where and when ? Clim. Change 26 (1994) 109–142. [20] P.D. Jones, R.S. Bradley, Climatic variations over the last 500 years, in: R.S. Bradley, P.D. Jones (Eds.), Climate Since AD 1500, Routledge, London, 1992, pp. 649–665. [21] P.D. Jones, K.R. Briffa, T.P. Barnett, S.F.B. Tett, Highresolution palaeoclimatic records for the last millennium: interpretation, integration and comparison with general circulation model control-run temperatures, Holocene 8 (1998) 455–471. [22] P.D. Jones, M. New, D.E. Parker, S. Martin, I.G. Rigor, Surface air temperature and its changes over the past 150 years, Rev. Geophys. 37 (1999) 173–199.\n[23] P.D. Jones, A. Moberg, Hemispheric and large-scale surface air temperature variations: An extensive revision and an update to 2001, J. Clim. 16 (2003) 206–223. [24] H.H. Lamb, On the nature of certain climatic epochs which differed from the modern (1900–1939) normal, in: Changes of Climate, Proc. WMO-UNESCO Rome 1961 Symp. on Changes of Climate, in: UNESCO Arid Zone Research Series, vol. 20, UNESCO, Paris, 1963, pp. 125–150. [25] H.H. Lamb, The early medieval warm epoch and its sequel, Palaeogeogr. Palaeoclimatol. Palaeoecol. 1 (1965) 13–37. [26] H.H. Lamb, Climate: Present, Past and Future 2, Climatic History and the Future, Methuen, London, 1977. [27] H.H. Lamb, What can historical records tell us about the breakdown of the medieval warm climate in Europe in the fourteenth and fifteenth centuries – an experiment, Beitr. Phys. Atmos. 60 (1987) 131–143. [28] C.C. Langway Jr., K. Osada, H.B. Clausen, C.U. Hammer, H. Shoji, A 10th century comparison of prominent bipolar volcanic events in ice cores, J. Geophys. Res. 100 (1995) 16241–16247. [29] M.E. Mann, R.S. Bradley, M.K. Hughes, Northern hemisphere temperature during the past millennium: inferences, uncertainties and limitations, Geophys. Res. Lett. 26 (1999) 759–762. [30] M.E. Mann, P.D. Jones, Global surface temperatures over the past two millennia, Geophys. Res. Lett. 30 (2003) 1820, doi:10.1029/2003GL017814.\n[31] Nesje, S.O. Dahl, The ‘Little Ice Age’ – only temperature? The Holocene 13 (2003) 171–177. [32] G. Örn, U. Hansson, H. Rodhe, Historical worldwide emissions of anthropogenic sulfur: 1860–1985, Report CM-91, ISSN 0280-445X, Department of Meteorology, Stockholm University, International Meteorological Institute in Stockholm, Sweden, 1996, 20 p. [33] M. Sato, J.E. Hansen, M.P. McCornick, J.B. Pollack, Stratospheric aerosol optical depth, 1850–1990, J. Geophys. Res. 98 (1993) 22987–22994. [34] S. Stine, Extreme and persistent drought in California and Patagonia during medieval time, Nature 369 (1994) 546– 549. [35] P.A. Stott, S.F.B. Tett, G.S. Jones, M.R. Allen, W.J. Ingram, J.F.B. Mitchell, Attribution of twentieth-century temperature change to natural and anthropogenic causes, Clim. Dyn. 17 (2001) 1–21. [36] S.F.B. Tett, P.A. Stott, M.R. Allen, W.J. Ingram, J.F.B. Mitchell, Causes of twentieth-century temperature change near the earth’s surface, Nature 399 (1999) 569–572. [37] R.C. Willson, H.S. Hudson, The Sun’s luminosity over a complete solar cycle, Nature 351 (1991) 42–44. [38] G.A. Zielinski, Stratospheric loading and optical depth estimates of explosive volcanism over the last 2100 years derived from the Greenland Ice Sheet Project 2 Ice core, J. Geophys. Res. 100 (1995) 20937–20955."
+  }],
+  "year": 2004,
+  "references": [{
+    "title": "Solar irradiance during the last 1200 yr based on cosmogenic nucleides",
+    "authors": ["E. Bard", "G. Raisbeck", "F. Yiou", "J. Jouzel"],
+    "venue": "Tellus B 52 ",
+    "year": 2000
+  }, {
+    "title": "Detection and attribution of recent climate change: a status report",
+    "authors": ["T.P. Barnett", "K. Hasselman", "M. Chelliah", "T. Delworth", "G. Hergerl", "P. Jones", "E. Rasmusson", "E. Roecker", "C. Ropelewski", "B. Santer", "S. Tett"],
+    "venue": "Bull. Amer. Meteorol. Soc. 80 ",
+    "year": 1999
+  }, {
+    "title": "Climate of the last millennium: a sensitivity study",
+    "authors": ["C. Bertrand", "M.-F. Loutre", "M. Crucifix", "A. Berger"],
+    "venue": "Tellus A 54 ",
+    "year": 2002
+  }, {
+    "title": "High frequency variations of the Earth’s orbital parameters and climate change",
+    "authors": ["C. Bertrand", "M.-F. Loutre", "A. Berger"],
+    "venue": "Geophys. Res. Lett. 29 ",
+    "year": 2002
+  }, {
+    "title": "Climate paradigms for the last millennium",
+    "authors": ["R.S. Bradley"],
+    "venue": "Pages Newslett. 8 ",
+    "year": 2000
+  }, {
+    "title": "Influence of volcanic eruptions on northern hemisphere summer  temperature over the past 600 years",
+    "authors": ["K.R. Briffa", "P.D. Jones", "F.H. Schweingruber", "T.J. Osborn"],
+    "venue": "Nature 393 ",
+    "year": 1998
+  }, {
+    "title": "Low-frequency temperature variations from a northern tree ring density network",
+    "authors": ["K.R. Briffa", "T.J. Osborn", "F.H. Schweingruber", "I.C. Harris", "P.D. Jones", "S.G. Shiyatov", "E.A. Vaganov"],
+    "venue": "J. Geophys. Res. 106 ",
+    "year": 2001
+  }, {
+    "title": "Causes of climate change over the past 1000 years",
+    "authors": ["T.J. Crowley"],
+    "venue": "Science 289 ",
+    "year": 2000
+  }, {
+    "title": "How warm was the medieval warm period ",
+    "authors": ["T.J. Crowley", "T.S. Lowery"],
+    "venue": "Ambio 29 ",
+    "year": 2000
+  }, {
+    "title": "Climate evolution during the Holocene: an approach with an Earth system model of intermediate complexity",
+    "authors": ["M. Crucifix", "M.-F. Loutre", "P. Tulkens", "T. Fichefet", "A. Berger"],
+    "venue": "Clim. Dyn. 19 ",
+    "year": 2002
+  }, {
+    "title": "Low-frequency signals in long tree-ring chronologies for reconstructing past temperature variability",
+    "authors": ["J. Esper", "E.R. Cook", "F.H. Schweingruber"],
+    "venue": "Science 295 ",
+    "year": 2000
+  }, {
+    "title": "Natural and anthropogenic changes in atmospheric CO2 over the last 1000 years from air in Antarctic ice and firn",
+    "authors": ["D.M. Etheridge", "R.L. Langenfelds", "R.J. Francey", "J.-M. Barnola", "V.I. Morgan"],
+    "venue": "J. Geophys. Res. 101 ",
+    "year": 1996
+  }, {
+    "title": "Atmospheric methane between 1000 AD and present: evidence of anthropogenic emissions and climate variability",
+    "authors": ["D.M. Etheridge", "L.P. Steele", "R.J. Francey", "R.L. Langenfelds"],
+    "venue": "J. Geophys. Res. 103 ",
+    "year": 1998
+  }, {
+    "title": "The Little Ice Age",
+    "authors": ["J.M. Grove"],
+    "venue": "Methuen, London",
+    "year": 1988
+  }, {
+    "title": "Greenland ice sheet evidence of post-glacial volcanism and its climatic impact",
+    "authors": ["C.U. Hammer", "H.B. Clausen", "W. Dansgaard"],
+    "venue": "Nature 288 ",
+    "year": 1980
+  }, {
+    "title": "Multi-fingerprint detection and attribution analysis of greenhouse gas",
+    "authors": ["G.C. Hergerl", "K. Hasselmann", "U. Cubasch", "J.F.B. Mitchell", "E. Roeckner", "R. Voss", "J. Waszkewitz"],
+    "venue": "greenhouse gas-plus-aerosol and solar forced climate change, Clim. Dyn. 13 ",
+    "year": 1997
+  }, {
+    "title": "Changes in carbon content of terrestrial biota and soils between 1860 and 1980: a net release of CO2 to the atmosphere",
+    "authors": ["R.A. Houghton", "J.E. Hobbie", "J.M. Melillo", "B. Moore", "B.J. Peterson", "G.R. Shaver", "G.M. Woodwell"],
+    "venue": "Ecolog. Monogr. 53 ",
+    "year": 1982
+  }, {
+    "title": "M",
+    "authors": ["J.T. Houghton", "Y. Ding", "D.J. Griggs"],
+    "venue": "Noguer, P.J. Van der Linden, X. Dai, K. Maskell, C.A. Johnson (Eds.), IPCC, 2001, Climate Change 2001: The Scientific Basis, Cambridge University Press, Cambridge",
+    "year": 2001
+  }, {
+    "title": "Was there a ‘medieval warm period’ and",
+    "authors": ["M.K. Hughes", "H.F. Diaz"],
+    "venue": "if so, where and when ? Clim. Change 26 ",
+    "year": 1994
+  }, {
+    "title": "Climatic variations over the last 500 years",
+    "authors": ["P.D. Jones", "R.S. Bradley"],
+    "venue": "in: R.S. Bradley, P.D. Jones (Eds.), Climate Since AD 1500, Routledge, London",
+    "year": 1992
+  }, {
+    "title": "Highresolution palaeoclimatic records for the last millennium: interpretation",
+    "authors": ["P.D. Jones", "K.R. Briffa", "T.P. Barnett", "S.F.B. Tett"],
+    "venue": "integration and comparison with general circulation model control-run temperatures, Holocene 8 ",
+    "year": 1998
+  }, {
+    "title": "Surface air temperature and its changes over the past 150 years",
+    "authors": ["P.D. Jones", "M. New", "D.E. Parker", "S. Martin", "I.G. Rigor"],
+    "venue": "Rev. Geophys. 37 (1999) 173–199.  750  C. Bertrand / C. R. Geoscience 336 ",
+    "year": 2004
+  }, {
+    "title": "Hemispheric and large-scale surface air temperature variations: An extensive revision and an update to 2001",
+    "authors": ["P.D. Jones", "A. Moberg"],
+    "venue": "J. Clim. 16 ",
+    "year": 2003
+  }, {
+    "title": "On the nature of certain climatic epochs which differed from the modern (1900–1939) normal",
+    "authors": ["H.H. Lamb"],
+    "venue": "in: Changes of Climate, Proc. WMO-UNESCO Rome 1961 Symp. on Changes of Climate, in: UNESCO Arid Zone Research Series, vol. 20, UNESCO, Paris",
+    "year": 1963
+  }, {
+    "title": "The early medieval warm epoch and its sequel",
+    "authors": ["H.H. Lamb"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol. 1 ",
+    "year": 1965
+  }, {
+    "title": "Climate: Present",
+    "authors": ["H.H. Lamb"],
+    "venue": "Past and Future 2, Climatic History and the Future, Methuen, London",
+    "year": 1977
+  }, {
+    "title": "What can historical records tell us about the breakdown of the medieval warm climate in Europe in the fourteenth and fifteenth centuries – an experiment",
+    "authors": ["H.H. Lamb"],
+    "venue": "Beitr. Phys. Atmos. 60 ",
+    "year": 1987
+  }, {
+    "title": "A 10th century comparison of prominent bipolar volcanic events in ice",
+    "authors": ["C.C. Langway Jr.", "K. Osada", "H.B. Clausen", "C.U. Hammer", "H. Shoji"],
+    "venue": "cores, J. Geophys. Res",
+    "year": 1995
+  }, {
+    "title": "Northern hemisphere temperature during the past millennium: inferences",
+    "authors": ["M.E. Mann", "R.S. Bradley", "M.K. Hughes"],
+    "venue": "uncertainties and limitations, Geophys. Res. Lett. 26 ",
+    "year": 1999
+  }, {
+    "title": "Global surface temperatures over the past two millennia",
+    "authors": ["M.E. Mann", "P.D. Jones"],
+    "venue": "Geophys. Res. Lett. 30 ",
+    "year": 2003
+  }, {
+    "title": "The ‘Little Ice Age",
+    "authors": ["Nesje", "S.O. Dahl"],
+    "venue": "The Holocene",
+    "year": 2003
+  }, {
+    "title": "Historical worldwide emissions of anthropogenic sulfur: 1860–1985",
+    "authors": ["G. Örn", "U. Hansson", "H. Rodhe"],
+    "venue": "Report CM-91, ISSN 0280-445X, Department of Meteorology, Stockholm University, International Meteorological Institute in Stockholm, Sweden",
+    "year": 1996
+  }, {
+    "title": "Stratospheric aerosol optical depth",
+    "authors": ["M. Sato", "J.E. Hansen", "M.P. McCornick", "J.B. Pollack"],
+    "venue": "1850–1990, J. Geophys. Res. 98 ",
+    "year": 1993
+  }, {
+    "title": "Extreme and persistent drought in California and Patagonia during medieval time",
+    "authors": ["S. Stine"],
+    "venue": "Nature 369 ",
+    "year": 1994
+  }, {
+    "title": "Attribution of twentieth-century temperature change to natural and anthropogenic causes",
+    "authors": ["P.A. Stott", "S.F.B. Tett", "G.S. Jones", "M.R. Allen", "W.J. Ingram", "J.F.B. Mitchell"],
+    "venue": "Clim. Dyn. 17 ",
+    "year": 2001
+  }, {
+    "title": "Causes of twentieth-century temperature change near the earth’s surface",
+    "authors": ["S.F.B. Tett", "P.A. Stott", "M.R. Allen", "W.J. Ingram", "J.F.B. Mitchell"],
+    "venue": "Nature 399 ",
+    "year": 1999
+  }, {
+    "title": "The Sun’s luminosity over a complete solar cycle",
+    "authors": ["R.C. Willson", "H.S. Hudson"],
+    "venue": "Nature 351 ",
+    "year": 1991
+  }, {
+    "title": "Stratospheric loading and optical depth estimates of explosive volcanism over the last 2100 years derived from the Greenland Ice Sheet Project 2 Ice core",
+    "authors": ["G.A. Zielinski"],
+    "venue": "J. Geophys. Res. 100 ",
+    "year": 1995
+  }],
+  "id": "SP:3d220e5213b32aea0a55d8b3fed3e3f96da984f1",
+  "authors": [{
+    "name": "Cédric Bertrand",
+    "affiliations": []
+  }],
+  "abstractText": "The last 1000 years. A climate model of intermediate complexity has been used to simulate the surface air temperature evolution during the last millennium by considering both natural and anthropogenically-induced climate forcing. Our results indicate that all the investigated forcings are needed to simulate the surface air temperature evolution over this time period. While the combination of solar and volcanic forcing can explain the Little Ice Age and the Medieval warm period, only the greenhouse gas forcing associated with the anthropogenic sulphate forcing and the impact of deforestation give a climate response comparable in magnitude and time to the late 50 years temperature warming. To cite this article: C. Bertrand, C. R. Geoscience 336 (2004).  2004 Académie des sciences. Publié par Elsevier SAS. Tous droits réservés. Mots-clés : modèle numérique du climat ; agents de forçage climatique ; simulations climatiques transitoires",
+  "title": "Les derniers 1000 ans"
+}

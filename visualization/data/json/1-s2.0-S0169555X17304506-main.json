@@ -1,0 +1,1419 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nGeomorphology\nj ourna l homepage: www.e lsev ie r .com/ locate /geomorph\nInvited review\nReview of erosion dynamics along the major N-S climatic gradient in Chile and perspectives\nS. Carretiera,*, V. Tolorzab, V. Regarda, G. Aguilarc, M.A. Bermúdezd, J. Martinode, J-L Guyota, G. Héraila, R. Riquelmef\na GET, IRD, University of Toulouse, UPS, CNRS, CNES, Toulouse, France b Universidad Austral, Valdivia, Chile c Advanced Mining Technology Center, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile, Santiago, Chile d Facultad de Ciencias Naturales y Matemáticas, Universidad de Ibagué, Colombia e ISTerre, Université de Savoie, CNRS-IRD, Le Bourget du Lac, France f Departamento de Ciencias Geológicas, Universidad Católica del Norte, Antofagasta, Chile\nA R T I C L E I N F O\nArticle history: Received 18 May 2017 Received in revised form 19 October 2017 Accepted 20 October 2017 Available online 29 October 2017\nKeywords: Chile Erosion Climate Slope\nA B S T R A C T\nChile is an elongated country, running in a north-south direction for more than 30◦ along a subduction zone. Its climate is progressively wetter and colder from north to south. This particular geography has been used positively by a growing number of studies to better understand the relationships between erosion processes and climate, land use, slope, tectonics, volcanism, etc. Here we review the erosion rates, factors, and dynamics over millennial to daily periods reported in the literature. In addition, 21 new catchment mean erosion rates (suspended sediment and 10Be) are provided, and previous suspended sediment-derived erosion rates are updated. A total of 485 local and catchment mean erosion rates are reported. Erosion rates vary between some of the smallest values on earth (10−5 mm/a) to moderate values ≤0.5 mm/a compared to other active ranges. This review highlights strong limitations concerning the quantification of local erosion factors because of uncertainties in sampling point location, slope and rainfall data. For the mean erosion rates E for the millennial and decennial catchments, a model of the form E ∝ S/[1 − (S/0.6)2]Ra with a = [0.3, 0.8] accounts for 40 to 70% of the erosion variance, confirming a primary role of slope S compared to precipitation rate R over this time scale. Over the long-term, this review points to the long (5 to >10 Ma) response time of rivers to surface uplift in north-central arid Chile. Over millennia, data provide evidence for the progressive contribution of extreme erosion events to millennial averages for drier climates, as well as the link between glacier erosion and glacier sliding velocity. In this period of time, a discrepancy exists between the long-term offshore sedimentological record and continental decennial or millennial erosion data, for which no single explanation appears. Still, little information is available concerning the magnitude of variation of millennial erosion rates. Over centuries, data show the variable role of groundwater in the dynamics of suspended load and document a decrease in erosion over hundreds of years, probably associated with historical harvesting.\n© 2017 Elsevier B.V. All rights reserved.\nContents\n1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46 2. Geodynamical and climatic context . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46\n2.1. Oceanic subduction beneath Chile . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47 2.1.1. Subduction and growth of the Andes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47 2.1.2. Present-day oceanic subduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49 2.2. Climate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49 2.3. Main geomorphological units of the Chilean Andes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49\n* Corresponding author. E-mail address: sebastien.carretier@get.omp.eu (S. Carretier).\nhttps://doi.org/10.1016/j.geomorph.2017.10.016 0169-555X/© 2017 Elsevier B.V. All rights reserved.\n2.3.1. Physiographic units in northern Chile . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49 2.3.2. Physiographic units south of 33◦ S . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50\n3. Data selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50 3.1. Slope, MAP, and lithology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50 3.2. Catchment erosion rates from suspended sediment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50 3.3. Catchment erosion rates from cosmogenic nuclides . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51 3.4. Thermochronological ages . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51 4. Review of literature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51 4.1. Erosion rate patterns and control . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51 4.2. Erosion dynamics through time . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53\n4.2.1. Over the Neogene and Pleistocene . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53 4.2.2. Over the Holocene . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55\n4.3. Land use in southern Chile . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57 5. Global analysis of erosion rate factors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59 6. Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60\n6.1. Comparison with other mountain ranges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60 6.2. Differences in onshore and offshore records. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61 6.3. Perspectives and opportunities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62\n6.3.1. River planform . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62 6.3.2. Aeolian erosion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62 6.3.3. Coastal erosion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62 6.3.4. Glacier erosion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62 6.3.5. Extreme erosion events . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62 6.3.6. The role of vegetation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62 6.3.7. Critical Zone . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63 6.3.8. Climate-uplift couplings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63\n7. Conclusions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63 Acknowledgments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64 References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64"
+  }, {
+    "heading": "1. Introduction",
+    "text": "Chile, a country that runs from north to south, is 4000 km long and <150 km wide (excluding Antarctica), bordering part of the western side of the Andes. To the north in the Atacama Desert, the climate is one of the driest on earth, while the southern third of the country is probably the wettest extratropical region of the world (Garreaud et al., 2009). Along this exceptional climatic gradient, drainage is roughly perpendicular to the range, resulting in a string of catchments (Fig. 1). These elementary portions of the landscape encompass a wide range of slopes, lithologies, seismicity, vegetation, glacier cover, volcanism, precipitation rates and tectonic histories. This diversity in Chilean catchments leads to the potential to study a diversity of surface processes and to become a reference natural laboratory.\nAt the heart of these surface processes, erosion may link tectonics and climate over geological time scales by redistributing masses, promoting silicate weathering and CO2 consumption or affecting the mechanical coupling between tectonic plates (Molnar and England, 1990; Raymo and Ruddiman, 1992; Lamb and Davis, 2003; Whipple, 2009). Erosion is also associated with landslide and debris flow hazards (Korup, 2002), as well as with the evolution of river patterns and the coast line. Over human time scales, erosion is closely related to land management with respect to crops, industrial forestry and mining (Hooke, 2000; Vanacker et al., 2007), and fluvial management in hydroelectric plants (Syvitski and Kettner, 2011). Therefore, quantifying erosion rates is crucial in order to determine its relationship with climate, tectonics or other environmental and anthropogenic variables.\nThe diversity of the environmental situations found in Chile has motivated a growing number of erosion rate studies in the last decade. These erosion rates are mostly based on cosmogenic nuclides or suspended sediment in rivers, and some of them are based on soil erosion models. Cosmogenic nuclides provided either local (soil) or catchment-averaged mean erosion rates. Riverine suspended sediment discharges at gauging stations were used to estimate catchment mean erosion rates over the last decades. The reconstruction\nof reference geological surfaces and thermochronology have yielded erosion rates over millions of years. The sediment budget in lakes and the sea were also used to estimate the erosion rates of the surrounding reliefs.\nThe purpose of this paper is to review the different erosion patterns and dynamics evidenced in Chile to date. Two main questions underscore this review: How much does erosion vary when erosion factors, slope, and rainfall in particular vary spatially, and how much does erosion vary through time?\nWe begin with a brief description of the geodynamical and climatic context. Then we explain the selection of the data and methods used to update catchment-scale erosion rates. In a first part, we compile and compare available local and catchment mean annual erosion rates (n = 485). From north to south, we review the interpretations of previous authors regarding the control of erosion rates. We then review the dynamics of erosion rates over time, first during the Neogene and Pleistocene and then for the Holocene. We review studies about the effect of harvesting on erosion rates over the last centuries. In addition to published data, mean annual water and suspended sediment discharges from 76 hydrological gauging stations were updated including previously unpublished data between 2010 and 2016. We provide 21 new catchment mean erosion rates (12 from suspended sediment and 9 using [10Be] from the PhD thesis of the second author). We compare four mean annual precipitation rate (MAP) data sets. We recalculate the local and catchment mean slopes using the SRTM 1 Arc-Second digital elevation model. We use these data to evaluate the relative control of different erosion factors. Finally, we discuss the difference between erosion rates in Chile and other tectonically active regions, and then we list open questions that may be addressed in the Andes of Chile, identifying missing data."
+  }, {
+    "heading": "2. Geodynamical and climatic context",
+    "text": "The Andes show remarkable latitudinal variations in their maximum mean elevation, width, and morphological features (Fig. 2). Central Andes are >1000 km wide and include a 200 km large\nendorheic high plateau (the Altiplano-Puna) separating the Western Cordillera from the Eastern Cordillera. In contrast, the average elevation of the northern Patagonian Andes between 40 and 46◦S barely exceeds 1000 m. There, the few summits whose elevation exceeds 3000 m asl generally correspond to active volcanoes that dominate that part of the range. South of 47◦S, the elevation of the Andes increases again, but the width of the Cordillera remains much smaller than in the central Andes.\nThe morphology of the earth resulting from the interaction between tectonic processes and climate, the Andean segmentation has been related either to the effects of tectonic processes driven by the dynamics of subduction (e.g., Russo and Silver, 1994; Gutscher et al., 2000; Guillaume et al., 2009; Martinod et al., 2010) or to that of climate and erosion (e.g., Lamb and Davis, 2003; Thomson et al., 2010). In several places, major modifications of the morphology of the range are correlated with latitudinal climatic changes, but also with the changing geometry of slab segments beneath South America. For instance, the decrease in the maximum altitude and width of the Cordillera south of 33◦S is correlated with a sharp increase in precipitation at the southern boundary of semiarid Chile and with a transition from a horizontal to an inclined slab segment at the same latitude (Fig. 2). Another example is the increasing elevation of the southern Patagonian Andes, south of 46◦S, that has been interpreted as resulting from either the subduction of the Chile ridge beneath that part of the range (Guillaume et al., 2009) or from the protection of the orogen from erosion by the cold Patagonian Ice Cap (Thomson et al., 2010).\nOn the one hand, continental shortening has been much larger in the central Andes than in southern Chile, which may explain why the central Andes are larger and higher than the Southern Andes. Trench-perpendicular tectonic shortening in the central Andes at the latitude of northern Chile has been estimated between 200 and 500 km (Kley and Monaldi, 1998; McQuarrie, 2002; Arriagada et al., 2008), whereas it does not exceed 50 km between 33 and 40◦S (Giambiagi et al., 2012). This difference in tectonic shortening has been proposed to result either from processes related to the dynamics of subduction or to a retroaction of climate on the tectonic regime (see Martinod et al., 2010, for review). On the other hand, Thomson et al. (2010) noted that the maximum and mean elevations of the range decreases from 35◦S to 46◦S following the modern and Late Glacial Maximum snowlines, respectively, which suggests that climatic processes may directly control the elevation of the Andes. In the following, we briefly review the geodynamical, climatic, and geological context that resulted in the present-day morphology of the Chilean Andes."
+  }, {
+    "heading": "2.1. Oceanic subduction beneath Chile",
+    "text": ""
+  }, {
+    "heading": "2.1.1. Subduction and growth of the Andes",
+    "text": "The Andean Cordillera corresponds to an active margin orogen resulting from the subduction of oceanic plates beneath South America. The growth of the Andes has been a long-term process that began in the Upper Cretaceous following the opening of the southern Atlantic Ocean and the westward migration of South America in the hot spot reference frame (Frutos, 1981; Silver et al., 1998). Hence, the knowledge of the present-day characteristics of oceanic subduction is not sufficient to understand the mechanisms responsible for the growth of this active margin orogen and that constrained its present-day morphology. Instead, information on the long-term evolution of oceanic subduction beneath South America is required. Early geologists observed (Steinmann, 1929) that the tectonic shortening responsible for crustal thickening occurred during distinct major pulses separated by periods during which shortening remained moderate or during which the Andes registered some extension (see Martinod et al., 2010, for review). Authors proposed that episodes of crustal shortening correspond either to periods of\nrapid convergence velocity between the subducting plate and South America or to periods of rapid westward motion of the continental plate. Moreover, Gutscher et al. (2000) noted that tectonic shortening of the continent is larger above flat slab segments. The appearance of horizontal subduction zones is also marked by the uplift of the Andean range, both in the fore arc area, in the main range and in the\nback-arc region (Espurt et al., 2007; Martinod et al., 2013; Flament et al., 2015). The widening of the central Andes occurred in the late Eocene-Oligocene during a major tectonic episode that resulted in the appearance of the Bolivian orocline, which resulted in response to the appearance of a major horizontal subduction zone beneath that part of the range ∼40 Ma ago (Martinod et al., 2010). Then\ntectonic episodes responsible for the growth of the Andes may be largely related to the geometry of the slab, and the shortening of the Andes may not have been everywhere contemporaneous. Moreover, tectonic processes accompanying subduction may have been largely different depending on the considered latitude simply because the dynamics of subduction was not everywhere similar, which in turn may explain part of the Andean segmentation (Charrier et al., 2007)."
+  }, {
+    "heading": "2.1.2. Present-day oceanic subduction",
+    "text": "The Nazca and Antarctic plates are currently subducting beneath the continent. They are separated by an active ridge (Chile Ridge) that is now subducting beneath the Southern Andes close to 47◦S (Fig. 2). The present-day convergence between the Nazca and South American plates is almost trench-perpendicular (N080◦ E), and its velocity is ∼68 mm/y (Argus et al., 2010). The subduction of the Antarctic plate beneath the southern part of the continent is much slower (20 mm/y). The subduction of the Chile ridge results in the opening of an asthenospheric window because of the different kinematics of the Antarctic and Nazca plates (e.g., Ramos and Kay, 1992). The locus of subduction of the Chile Ridge (Chile Triple Junction) beneath South America migrated northward since the lower Miocene (Cande and Leslie, 1986). The subduction of the Antarctic plate beneath southern Patagonia being young and slow, the Antarctic slab remains short. The topographic deflection of the continental plate by the small Antarctic slab is negligible compared to that resulting from the rapid Nazca subduction, which may explain the larger elevation of the Southern Andes south of the Chile (Aysen) Triple Junction (Ramos, 2005; Guillaume et al., 2009).\nThe dip of the Nazca slab beneath Chile is generally 30◦, except between 27◦S and 33◦S where a horizontal slab segment has been present for ∼10 Ma (Ramos et al., 2002). Slab flattening is thought to be related to the subduction of the Juan Fernandez Ridge beneath South America (Yanez et al., 2001; Espurt et al., 2008). The southern boundary of the flat-slab segment at 33◦S corresponds to the boundary between the central and southern Andes. The width and elevation of the Andes decrease suddenly south of this latitude. The forearc morphology above the horizontal subduction zone differs from the morphology that prevails north and south of this segment. In particular, the Central Depression separating the Coastal Cordillera from the main range disappears above the flat slab segment (see below). This region is also marked by an absence of active volcanism."
+  }, {
+    "heading": "2.2. Climate",
+    "text": "Chile presents a huge latitudinal climatic gradient between the hyperarid environment that prevails to the north (Atacama Desert) and the very humid conditions of Patagonia (Fig. 1) (Garreaud et al., 2009). North of 30◦S, average annual precipitations are <100 mm/y. In the hyperarid zone, north of 26◦S, average annual precipitations registered during more than one century by the Dirección Meteorológica de Chile do not exceed 3 mm/y in the main coastal cities of the country (Arica, Iquique and Antofagasta). In contrast, western Patagonia in southern Chile corresponds to a hyperhumid region in which mean annual precipitations are often in the range 5000– 10,000 mm/y (Garreaud et al., 2009).\nThe extreme aridity of the Atacama Desert results from the interaction of several factors, among which includes the persistence of the Southeast Pacific anticyclone above this area, the temperature inversion resulting from the cold surface water of the Pacific Ocean associated with the Humboldt Current, and the barrier effect of the Andes that prevents the advection of moisture from Amazonia on the western flank of the range (Insel et al., 2010; Schulz et al., 2012). In northern Chile, humidity coming from Amazonia only generates rainfall in the highest parts of the Cordillera (Bookhagen and Strecker, 2008; Jordan et al., 2014). During El Niño events however, some heavy rainfalls affect the western side of the Andes. Currently, the\nclimate of southern and central Chile is influenced by the Southern Westerlies. Precipitations are restricted to the Southern Hemisphere winter season in Central Chile, while Patagonia faces strong westerlies throughout the year.\nFrom the Cenozoic onward, the climate of Chile has been influenced by the Andes uplift. This topographic barrier changed the atmospheric circulations patterns (Insel et al., 2010), concentrating precipitations on the eastern side of the central Andes and on the western side of the Southern Andes. The Chilean climate in the Cenozoic was also affected by global changes in oceanic circulation and in atmospheric temperature (Zachos et al., 2001; Lagabrielle et al., 2009; Garreaud et al., 2010). The hyperaridity of the Atacama desert began between ∼14 and 9 Ma (Rech et al., 2006; Jordan et al., 2014), but wetter periods occurred in the Plio-Pleistocene (e.g., Reich et al., 2009).\nThe southern part of the Andes is covered by three major ice fields that are, from north to south, the north Patagonian, south Patagonian and Cordillera Darwin ice fields. The ice cap covering the Southern Andes was much more extensive during the Last Glacial Maximum. South of 40◦S, the glaciers covering the western side of the Andes reached the coast of the Pacific Ocean during the last glaciation (e.g., Rabassa, 2008). To the north, the glacial features decrease and they progressively restrict to high altitude areas in the Main Cordillera. The age of the glacial advances and its relationship with the atmospheric circulation change during the Pleistocene is still being debated (e.g., Zech et al., 2008). The earliest known glacial tills covering the Patagonian Andes are Late Miocene (Mercer and Sutter, 1982), and the thermochronological data suggest that the morphology of the Southern Andean valleys were largely modified at that time by glacial erosion (Christeleit et al., 2017)."
+  }, {
+    "heading": "2.3. Main geomorphological units of the Chilean Andes",
+    "text": "Chile dominates the deep oceanic trench that results from subduction, which is generally located ∼100 km offshore. The trench is deeper in northern Chile, partly because the subducting oceanic plate is older and denser, but mainly because that part of the trench is starved of sediment coming from the continent owing to the arid climate of the Atacama Desert. In northern and southern Chile, distinct physiographic longitudinal (parallel to the range) units compose the western side of the Andes, from the Pacific Coast to the watershed divide."
+  }, {
+    "heading": "2.3.1. Physiographic units in northern Chile",
+    "text": "The Chilean side of the central Andes is divided into three main longitudinal morphological units, which are from west to east: the Coastal Cordillera, the Central Depression, and the Main Western Andes (Fig. 2). The Coastal Cordillera culminates 3000 m asl at 24.5◦S, but most of its summits are generally comprised between 1500 and 2500 m asl Rocks outcropping in the coastal range are dominated by Palaeozoic and Mezosoic volcano-sedimentary successions (e.g., Aguirre et al., 1999), except between 27 and 32◦S where a Mesozoic batholith largely outcrops. North of 26◦S, the Coastal Cordillera is limited to the west by a high coastal cliff whose elevation locally exceeds 1500 m. The preservation of this cliff is permitted by the hyperarid climate of the Atacama Desert (Paskoff, 1979; Quezada et al., 2010; Martinod et al., 2016). Indeed, south of 26◦S, when the climate shifts from hyperarid to semiarid, the cliff disappears and Pleistocene marine terraces largely develop along the Pacific Coast (e.g., Martinod et al., 2016).\nThe Central Depression consists in an ∼50-km-wide longitudinal continental basin that developed in the piedmont of the Main Cordillera. The main elevation of this unit is generally ∼1000 m in the west and between 2000 and 3000 m in the east. North of 27◦S, Palaeogene-Neogene alluvial, fluvial, and evaporitic sediments mainly coming from the Precordillera and Western Cordillera filled\nthe Central Depression. These sedimentary successions are interbedded with thick volcanic ignimbrites, some of them reaching hundreds of m (e.g., Pinto et al., 2007). Sedimentation was partly controlled by the damming of the basin by the Coastal Cordillera (Riquelme et al., 2003), and it registers the climatic evolution of northern Chile showing that hyperarid climate essentially prevailed for 12 Ma (Jordan et al., 2014). The morphological expression of the Central Depression is attenuated between 28◦S and 33◦S, above the horizontal slab segment, and only isolated small basins preserve Cenozoic sedimentation between the Coastal and the Main Cordillera at this latitude.\nThe Main Cordillera of the Andes is the most prominent relief in the southern hemisphere (6960 m asl at 32◦S, Aconcagua). North of 32◦S, the Main Cordillera is composed of an exhumed Permo-Triassic granitic batholith and folded Palaeozoic and Mesozoic volcanic and sedimentary rocks (e.g., Maksaev et al., 2014). Shallow plutons intrude these rocks and allowed the formation of several mineral deposits that represent the largest copper reserve in the world (e.g. Chuquicama and Escondida mines). Cenozoic volcanic and sedimentary successions cover the substrate. Between 17 and 27◦S, Neogene stratovolcanoes reach 2000 m over the Altiplano-Puna, whose average elevation is 4000 m asl. The smaller amount of Neogene volcanic rocks between 27 and 32◦S results from the flattening of slab subduction since the upper Miocene. In the northern part of this segment, perched low relief surfaces show Neogene cycles of pedimentation, followed by a Plio-Pleistocene incision of the current valleys (Aguilar et al., 2011; Rodríguez et al., 2014)."
+  }, {
+    "heading": "2.3.2. Physiographic units south of 33◦ S",
+    "text": "Southern Chile is divided between 33◦S and 42◦S in the same longitudinal physiographic units as in the north. The Coastal Cordillera separates the Central Valley from the Pacific Ocean. Its maximum elevation progressively decreases southward, from 2000 m at 33◦S to <1000 m south of 38◦S. South of 36◦S, the Coastal Cordillera is composed of a metamorphic complex (e.g., Duhart and Adriasola, 2008). The Cenozoic marine transgression in the southern segment of the Coastal Cordillera and its correlation to Argentine basins and the Atlantic Ocean is debated (Encinas et al., 2014).\nThe Central Valley is filled by Neogene-Quaternary fluvial and glacial sediments. Its elevation also decreases southward, and the valley is below sea level south of Puerto Montt (41.5◦S). South of 39◦S, a large part of the valley has been covered by glaciers descending from the main cordillera resulting in the numerous lakes of glacial origin present in this region. Glaciers reached the Pacific coast south of 42◦S, and the Chilean coast southward is cut by deep fjords that isolate the numerous islands of the Patagonian Archipelago.\nThe elevation of the main Cordillera also decreases southward. Higher summits of the main Cordillera generally correspond to stratovolcanoes. Between 33◦S and 40◦S, they are generally emplaced above thick Cenozoic volcano-sedimentary series that deposited in basins that inverted in the Neogene (e.g., Charrier et al., 2007). Cenozoic volcano-sedimentary series are incised by the current valleys in central Chile (e.g., Farías et al., 2008). South of 40◦S, the Main Cordillera is constituted of the North Patagonian batholith (Jurassic, Cretaceous, and Cenozoic age) overthrusting the Mesozoic volcanic and sedimentary successions (e.g., Folguera and Ramos, 2011). Summits of the main Cordillera reach over 6000 m asl at 33◦S, but their elevation rapidly decreases to the south (<2500 m asl south of 42◦S). Thomson et al. (2010) noted that the maximum and mean elevation of that part of the Andes decrease according to the present-day and LGM glacial equilibrium line altitude respectively. The elevation of the southern Patagonian Andes suddenly increases south of the triple junction corresponding to the subduction of the Chile oceanic ridge. Large ice fields cover the Cordillera south of this latitude. Glaciers descending from these ice fields eroded deep valleys on both sides of\nthe Andes that are now occupied either by lakes or by the sea in the Patagonian fjords."
+  }, {
+    "heading": "3. Data selection",
+    "text": "In this review, we selected erosion rate data averaged over different time spans from one year to millions of years. These data are summarised in Supplementary Tables. In the following, we use the term decennial to qualify erosion rates over time spans shorter than 100 years (mostly derived from suspended sediments or short-lived isotopes), millennial for periods between 100 years and 100 ka (cosmogenic nuclides, lacustrine sediment budgets), and long-term for estimates over longer time scales (reference surfaces, thermochronological data). We ask the reader to refer to the legend of Fig. 5 and to the Supplementary tables for references."
+  }, {
+    "heading": "3.1. Slope, MAP, and lithology",
+    "text": "Slope data presented in this paper are extracted from the SRTM 1 Arc-Second digital elevation model (DEM) (pixel ∼30 m) once they have been projected into UTM 19. They are obtained by using the r.slope.aspect function of GRASS GIS. Original slopes from the cited papers or from the SRTM 3 Arc-Second DEM are also specified in Supplementary Table S1. These different slopes are used and compared in Section 5. For the BioBío catchment, slopes are also computed using the TanDEM-X DEM.\nMean annual precipitation data used in this review come from four sources. The first source is the Chilean daily precipitation database based on 773 rainfall gauges compiled by the CR2 centre at the University of Chile (http://www.cr2.cl). Daily values since 1900 (when existing) are averaged and multiplied by 365 to obtain mean annual precipitation rates. The second source comes from the total annual precipitation interpolated by Kenji Matsuura and Cort J. Willmott (Department of Geography, University of Delaware, USA) at pixels of 0.5◦ and for the period 1900–2010. We averaged the yearly values at each pixel to obtain a mean annual precipitation rate raster. The third source corresponds to an estimation of the catchment mean annual precipitation rate for catchments with gauging stations from the Dirección General de Aguas (DGA), a Chilean government agency. The mean precipitation rate corresponds to the mean annual water discharge divided by the catchment area. Finally, Zambrano-Bigiarini et al. (2017) recently analysed and evaluated different satellite-based rainfall products for Chile. The Climate Hazards Group InfraRed Precipitation (CHIRPS version 2- Funk et al., 2015) data seem to correspond to the best compromise in terms of accuracy, long record period (1981–present) and fine spatial resolution (0.05◦ instead of the 0.25◦ of most satellite-based rainfall products). We calculate MAP for each of the 36 years in the recording and then we average these rasters pixel by pixel to obtain a MAP for the whole record period. We compare these rainfall data in Section 5.\nIn order to compare erosion rates and lithology, we classify the lithology as granitoid or not. We use the 1/1,000,000 geological map from the Sernageomin (www.sernageomin.cl/) from which we select all lithologies containing the code g to generate a raster of granitoids. We then use this raster to calculate the percentage of catchment area underlain by granitoids for each catchment."
+  }, {
+    "heading": "3.2. Catchment erosion rates from suspended sediment",
+    "text": "Suspended load data are taken from the DGA. Daily water discharge and suspended sediment concentrations are available from the DGA website (http://snia.dga.cl/BNAConsultas/reportes). Daily suspended sediment concentrations correspond to one sampling per day at the river surface by a regular operator (and not using depth integrator devices as stated in Pepin et al. (2010) because of erroneous information). Monthly data are also obtained by the DGA using\ndepth integrator devices but are not included in this analysis (see Tolorza, 2015, for details regarding these data). Compared to data published in Pepin et al. (2010), we include here data between 2006 and 2016 and data from 10 other gauging stations. We selected 76 stations over 87 with more than 1000 daily sediment concentration data. The record period ranges between 5 and 52 years depending on the gauging stations. We recalculated the mean annual sediment discharges by applying the daily measurement to the full river section and to the whole day, summing these values, dividing them by the number of records, and finally multiplying the result by 365 to obtain a mean annual suspended sediment discharge (t/a). Dividing this value by 2600 (kg/m3) and by the catchment area (m2) gives an estimate of the catchment mean erosion rate (mm/a). The relative difference with the 66 previously published values is mainly comprised within ±25%. Uncertainty in the suspended sediment discharge arises from missing data and hourly variations. This is difficult to estimate and was set to 30% (Pepin et al., 2010). In order to qualitatively evaluate the uncertainty related to missing information, Supplementary Table S1 gives the percentage of missing data over the whole record period for each gauging station."
+  }, {
+    "heading": "3.3. Catchment erosion rates from cosmogenic nuclides",
+    "text": "Catchment-mean erosion rates determined from cosmogenic nuclides were recalculated following the same procedure. The GRASS-shell script used to calculate them is provided as Supplementary material. These catchment-mean erosion rates neglect the radioactive decay. The formula is\n4 = 10 q [CN] ( Pn ln + Psm lsm + Pfm lfm ) (1)\nwhere 4 is the mean erosion rate in mm/a; q = 2.6 g/cm3 is the rock density; [CN] is the cosmogenic nuclide concentration (at/g); Pn; Psm and Pfm (at/g/a) are the catchment mean cosmogenic nuclide production rates by neutrons, slow muons, and fast muons, respectively; and ln, lsm, and lfm (g/cm\n2) are the attenuations for neutrons, slow muons and fast muons, respectively. The mean 10Be production rates are calculated considering a mean sea surface level high latitude (SLHL) production of 3.954 at/g/a by neutrons, 0.0108 at/g/a by slow muons, and 0.0348 at/g/a by fast muons. The total of 4 at/g/a is from the global database compiled by Martin et al. (2017), and the relative contribution of each particle type is from Braucher et al. (2011). From this SLHL value, a 10Be production rate is calculated for each pixel (∼90 m of the SRTM 3 arc seconds DEM) of the studied catchment, scaled for latitude (neutrons only) and elevation (neutrons and muons) using the scaling models of Stone (2000). The relative contribution of neutrons and muons thus changes with elevation. Each pixel 10Be production rate is multiplied by a shielding factor ≤1 calculated using the algorithm of Codilean (2006), and by the quartz fraction using the procedure detailed in Carretier et al. (2015a). Then the pixel values are averaged within the catchment to determine Pn, Psm, and Pfm. The erosion rate uncertainty is calculated by propagating the analytical uncertainty on [CN] and ±15% of uncertainty on the CN production rates. The local soil erosion rates based on cosmogenic nuclides are those found in corresponding articles and were not recalculated, except for several maximum erosion rates when only exposure ages were given (see corresponding references in Supplementary Table S1)."
+  }, {
+    "heading": "3.4. Thermochronological ages",
+    "text": "Low temperature thermochronological ages (apatite (U-Th)/He, zircon (U-Th)/He, apatite fission-track, and zircon fission-track) are given here for completeness and to show the geographical coverage of the published data (Fig. 3). In order to derive erosion rates\nfrom these ages, assumptions on the temperature field evolution are required (e.g., Herman et al., 2013), which is beyond the scope of this paper. Consequently, most of our discussion on long-term erosion is based on the other data. Nevertheless, in order to facilitate the future spatial analysis of the thermochronology-derived denudation rate, we provide excel files containing all the reviewed data as Supplementary material."
+  }, {
+    "heading": "4. Review of literature",
+    "text": ""
+  }, {
+    "heading": "4.1. Erosion rate patterns and control",
+    "text": "Fig. 5 shows the localisation of 485 erosion rate data. Despite this large number, each type of data is not homogeneously distributed. Cosmogenic data are mostly found in the Atacama Desert, despite gaps such as between 20◦S and 22◦S. Suspended sediment with long series is mainly found south of 29◦S because of the difficulty to survey northern rivers dominated by rare and extreme floods. Only scarce data are available for a large portion of the Coastal Cordillera south of 35◦S, and the Chilean Patagonia is almost essentially covered by thermochronological data.\nNinety percent of local erosion rates are <0.01 mm/a (10 m/Ma), because they were mainly obtained in the hyperarid and arid regions, and mostly on gentle surfaces, as already emphasised in Portenga and Bierman (2011). Catchment mean values are more evenly distributed, mainly below 0.25 mm/a (250 m/Ma) (Fig. 4). As expected, local and catchment mean erosion rates are the lowest in the Atacama Desert (Dunai et al., 2005; Nishiizumi et al., 2005; Kober et al., 2007; Placzek et al., 2014), although some values obtained in canyons presenting steep knickzones exceed gentle surface erosion rates by two orders of magnitude (∼0.4 mm/a or 400 m/Ma compared to ∼1 m/Ma; Garcia and Hérail, 2005; Kober et al., 2009). Despite lower values on average, local erosion rates extend over four orders of magnitude in the Atacama Desert. Millennial catchment mean erosion rate derived from cosmogenic nuclides may be underestimated in some places dominated by landslides. In these environments, a better erosion estimate may be obtained with the cosmogenic nuclide concentration in river pebbles rather than in the river sand, which is usually sampled (e.g., Aguilar et al., 2014). Surprisingly, erosion rates from the southern and wetter half of Chile are not clustered around much higher erosion rates (Fig. 4A). Extremely small values <0.01 mm/a are also found in the south.\nThe highest catchment mean values are actually found in central Chile (∼32◦ S) where catchments are steep (Fig. 5). Along the main climatic gradient between 27◦S and 37◦S, catchment steepness is the primary control of catchment mean erosion rates (Carretier et al., 2013, 2015b), as observed in other ranges (e.g., Pinet and Souriau, 1988; DiBiase et al., 2010; Godard et al., 2014). Steepness is defined here as the catchment mean slope or as the ratio between the eroded volume below an envelope surface passing by summits and the catchment area (geophysical relief) (Carretier et al., 2015b).\nContrary to other ranges close to a dynamic equilibrium (e.g., DiBiase et al., 2010), Carretier et al. (2013) showed that catchment mean erosion rates between 27 and 37◦S do not correlate with the mean river steepness index (ks from the slope-area relationship S = ksA\n−h where h is the river concavity; Wobus et al., 2006) (supplemental material of Carretier et al., 2013). The catchment mean erosion rate is thus decoupled from the mean river steepness and is most probably related to the proportion of catchment hillslopes eroding fast in response to the ongoing dissection.\nSlope control was also highlighted by the study on the erosion of the stratovolcanos in the Altiplano (Karatson et al., 2012). Even in this arid context, erosion decreases from 0.066 to 0.112 mm/a (66–112 m/Ma) for the youngest (≤0.5 Ma) steep volcanos to ∼0.01 mm/a (10 m/Ma) for the older and more gentle edifices\n(>3 Ma) (Karatson et al., 2012). Similarly, Placzek et al. (2014) found a correlation between local erosion and slope in the Atacama Desert.\nWith regard to the role of climate, different data sets seem to contradict themselves. On the one hand, the volume of offshore Cenozoic sediment trapped in subduction trenches increases southward (Scholl et al., 1970; Bangs and Cande, 1997). Furthermore, the accumulation rate of LGM (24–12 ka) and Holocene (12–0 ka) terrigenous sediment also increases southward between 24◦S and 42◦ S ( Mohtadi and Hebbeln, 2004; Hebbeln et al., 2007). Thus, the offshore data set is consistent over all time scales and points to the precipitation rate having a primary control on continental erosion (Scholl et al., 1970; Hebbeln et al., 2007) (Fig. 5). Other data agree with this climatic control in the north-central region of Chile. For example, Kober et al. (2007) and Placzek et al. (2014) found a positive correlation between rainfall and the millennial surface erosion rate. Owen et al. (2011) argued that the dependence of erosion on climate is only expressed in hyperarid and arid regions (22◦S–30◦S). They showed that the bedrock erosion rate increases as a power law of the mean annual precipitation between three sites in the Coastal Cordillera. They found that this increase is related to the weathering process desegregating the bedrock. Weathering is abiotic and saltdriven in the case of hyperarid hillslopes (Wang et al., 2015; Ewing et al., 2006) and biologically driven in arid environments. Owen et al. (2011) concluded that hyperarid soil formation seems surprisingly better controlled by mean annual precipitation rather than by soil thickness, whereas soil production is mainly related to soil thickness under the wetter climate. By analysing a rainfall database for central Chile, Bonilla and Vidal (2011) quantified the rainfall-runoff erosivity\nfactor R of the soil RUSLE erosion model for agricultural lands. They found that R increases with elevation and southward, i.e. with the precipitation rate.\nOn the other hand, decennial suspended sediment fluxes exported from the Main Cordillera, as well as 10Be-derived millennial catchment erosion rates show a different pattern (Pepin et al., 2010; Carretier et al., 2013, 2015b; Aguilar et al., 2014; Tolorza et al., 2014). Between 27◦S and 32◦S, decennial and millennial catchment erosion rates increase with precipitation, which is consistent with the previously cited studies. However, erosion rates peak near 33◦S and then decrease between 33◦S and 39◦S, whereas precipitation rates continue to increase (Fig. 5). The decennial and millennial erosion peak near 33◦S seems to contradict the continuous southward increase in offshore accumulation rates (Hebbeln et al., 2007; Scholl et al., 1970) and led to opposite conclusions regarding the control of erosion by climate south of 33◦S. We come back to this contradiction in the Discussion Section 6.\nThe erosion-limiting effect of vegetation was discussed and might contribute to the low correlation between the catchment mean erosion and mean precipitation rate in the southern half of Chile (Pepin et al., 2010; Carretier et al., 2013; Tolorza et al., 2014). However, that vegetation plays a protective role along this climatic gradient has not been proven because the vegetation cover roughly covaries with decreasing relief and increasing precipitation (Pepin et al., 2010; Carretier et al., 2013). Nevertheless, recent changes in the vegetation cover may have affected soil erosion; we will discuss this point in the next section. The effect of vegetation may appear in the variation in erosion rates from north to south. In the Atacama Desert,\nerosion rates vary over four orders of magnitude (Fig. 5D) (Kober et al., 2007; Placzek et al., 2014), whereas the variation in erosion rates is lower to the south of the Atacama Desert. This comparison is clearly biased because the four order variation concerns local erosion rates that were mainly obtained in the Atacama region. Nevertheless, the decrease in the variation in erosion rates may result from a buffering effect by the vegetation. Additional local erosion rate data are required south of ∼30◦S, and supplementary catchment mean erosion rates are needed in the Atacama Desert to verify the southward decrease in the erosion rate variation.\nBetween 27◦S and 35◦S, the role of lithology is also ambiguous. Carretier et al. (2013) evidenced some correlation between the proportion of granitoids in catchments and the decennial and millennial erosion rates: the larger the proportion of granitoids, the smaller the rate of erosion (see supplementary material in Carretier et al., 2013). Nevertheless, the lowest proportion of granitoids are found in the steepest catchments with the highest erosion rates. Steepness is a clear regional control of catchment mean erosion, thus hampering a possible lithological control.\nAntinao and Gosse (2009) showed a good correlation between the superficial seismicity and the volume of landslides in two catchments in central Chile (Aconcagua and Maipo catchments 32◦S– 34.5◦S). From the landslide distribution, they estimated a millennial\nerosion rate of ∼0.3 mm/a (300 m/Ma), very similar to the decennial (suspended sediment) and millennial (10Be) values obtained by Pepin et al. (2010) and Carretier et al. (2013) in the Maipo catchment. This suggests that landslides are the main erosion processes in this catchment and that crustal seismicity controls the erosion pattern as demonstrated for other active orogens (e.g., Marc et al., 2016). Unfortunately, the role of crustal seismicity cannot be estimated for the rest of the Chilean Andes yet, in particular because the catalogue of shallow seismicity and landslides is incomplete (Pepin et al., 2010; Moreiras and Sepúlveda, 2014). Nevertheless, giant landslides were identified and mapped: in the north, the Latagualla landslide (∼19◦S) involved ∼5.4 km3 of ignimbritic rocks. Pinto et al. (2008) demonstrated that this mega-landslide occurred in the late Miocene and was associated with the propagation of a west-vergent thrust blind fault. As current seismic energy does not seem able to trigger such mega-landslides, Pinto et al. (2008) proposed that sliding was favoured by a higher water table than found today (also see Margirier et al., 2015, in southern Perú). Post-incision landslides are also found and correspond to the destabilisation of canyon borders of the pampa in northern Chile (e.g., Garcia and Hérail, 2005). In central Chile (31◦ S–34◦S), large volumes of material initially interpreted as moraines were reevaluated as mega-landslides (Abele, 1984) or composites of moraines and mega-landslides (Deckart et al., 2014). Moreiras and Sepúlveda (2014) reviewed the large Andean landslides of central Chile and Argentina. Landslides as old as Pliocene to Holocene were documented (e.g., Antinao and Gosse, 2009), which shows that large landslides may reside on hillslopes for a long time span. Moreiras and Sepúlveda (2014) pointed out the uncertainties on the trigger mechanisms (tectonic or climatic) on both sides of the range and advocated for a more integrated approach for landslide studies in this range. Last, Quade et al. (2012) and Matmon et al. (2015) recently found that shaking during large earthquakes was responsible for the movement of boulders in the Atacama Desert. Despite these studies, a catalogue of landslides still needs to be completed at the scale of Chile.\nAguilar et al. (2014) proposed an approach based on cosmogenic nuclides to quantify the contribution of landslides to the millennial erosion rate of catchments. They compared the 10Be concentrations of river sand and large pebbles in four catchments in the semiarid region (∼29◦S). They obtained lower 10Be concentrations for pebbles, probably explained by a higher erosion rate of their source. Assuming that pebbles come preferentially from zones dominated by landslides (see McPhillips et al., 2014), Aguilar et al. (2014) calculated that landslide-dominated hillslopes erode two times quicker than the whole catchment on average. Carretier et al. (2015c) showed the same systematic lower 10Be concentrations of large pebbles in other Chilean and Peruvian catchments. Although they did not calculate specific erosion rates for hillslopes dominated by landslides, these data suggest that the approach used by Aguilar et al. (2014) could be generalised to quantify millennial landslide erosion rates from the ratio between sand and pebble 10Be concentrations."
+  }, {
+    "heading": "4.2. Erosion dynamics through time",
+    "text": "In each of following subsections, we report findings from north (arid) to south (wet)."
+  }, {
+    "heading": "4.2.1. Over the Neogene and Pleistocene",
+    "text": "To a first order, erosion in the north has been controlled by (i) the ongoing entrenchment of main rivers after a Miocene surface uplift (e.g., Garcia and Hérail, 2005), (ii) the distribution of precipitation rates with elevation and climate changes (Kober et al., 2007; Hebbeln et al., 2007; Schlunegger et al., 2017), and (iii) the deposition of huge volumes of ignimbrites at some periods (vanZalinge et al., 2016). The Miocene surface uplift of the forearc drove a knickpoint retreat in exorheic rivers (Hoke et al., 2007). These knickpoints are still present\nand show that the river response in northern Chilean rivers may exceed 10 Ma, similarly to canyons in southern Perú (Schildgen et al., 2007; Thouret et al., 2007; Kirk-Lawlor et al., 2013).\nFrom 18◦S to 20◦S, the upper El Diablo Formation (∼12–11 Ma) represents the last fluvial deposits covering the piedmont before deep river entrenchment (e.g., Pinto et al., 2004; Garcia and Hérail, 2005; Farías et al., 2005). The widespread recognition of this transition in this region is still not entirely understood and has generated debates about what is driving river incision in the north (Schlunegger et al., 2010). End-member interpretations oscillate between synchronicity with a late Miocene surface uplift that affected the forearc (e.g., Coudurier-Curveur et al., 2015) and a change in climate associated with orographic precipitation and modification of the atmospheric circulation by the Andean uplift (e.g., Schlunegger et al., 2010, 2017; Garcia et al., 2011; Cooper et al., 2016). On the\nbasis of (U-Th)/He dating of supergene goethite along a depth profile on the border of a canyon (20◦S), Cooper et al. (2016) were able to date the onset of incision at ∼16 Ma. Their river profile modelling suggests that the driver of this incision could have been a drought subsequent to the main Andean uplift. The NS transition between exorheic and endorheic rivers near 19.6◦S could also be controlled by the latitudinal gradient of rainfall coming from Amazonia during austral summer, itself initiated by the uplift of the Altiplano (e.g., Garcia et al., 2011; Jordan et al., 2014; Schlunegger et al., 2017).\nIn addition to a regional surface uplift of the whole forearc, flexures associated with a blind thrust fault have driven more local incision between 18◦S and 20◦S. Garcia and Hérail (2005) proposed different incision periods in this region. A pre-folding period between 19 and 12 Ma with a mean incision rate of ∼37 m/Ma (0.037 mm/a), then a synfolding period between 12 and 11 Ma with a mean\nincision rate on the order of 400 m/Ma (0.4 mm/a), and finally a postfolding period with a mean incision rate on the order of 55 m/Ma (0.055 mm/a) averaged over the last 11 Ma and associated with a regional surface uplift. vanZalinge et al. (2016) disagreed with this incision timing and proposed a larger period of folding. Despite these differences, incision rate variations seem to have been controlled by local uplift and the associated slope increase.\nOver the Neogene, the regional deposition of huge volumes of ignimbrite should have influenced the erosion locus and rates. In the extreme north of Chile, the late Eocene to early Miocene Azapa Formation, early Miocene Oxaya Formation, late Miocene Huaylas Formation and the last regional 2.7 Ma Lauca ignimbrite represent 1–2 km of volcanodetritic deposits in the basins bordering the preCordillera (Muñoz and Charrier, 1996; Woerner et al., 2002; Garcia and Hérail, 2005). By reconstructing the palaeogeometry of a 21.9-Ma ignimbrite, vanZalinge et al. (2016) found that this ignimbrite overfilled ∼450-m-deep palaeo-canyons. This volcanic deposit levelled the pampas by creating a low relief west-dipping surface. Compaction above the palaeo-canyons may have determined where new canyons emplaced (vanZalinge et al., 2016). This eruption-driven fill and cut process probably generated sudden pulses of erosion over Ma periods that remain undocumented. Current analogues of such dynamics in southern Chile are reviewed in the next section.\nExtensive erosion surfaces or pediments, constitute a common geomorphic feature in the northern half of Chile (e.g., Galli-Olivier, 1967; Paskoff, 1970; Bissig et al., 2002; Farías et al., 2008; Hoke and Garzione, 2008; Bissig and Riquelme, 2009; Rodríguez et al., 2013, 2014; Rossel et al., 2016). Despite uncertainties on pediment formation, these features probably indicate a decrease in erosion rate. Some of these surfaces are mapped at high elevations, and their relative elevation or incision were used to quantify the evolution of the mean erosion rate over the Miocene and Pliocene (e.g., Riquelme et al., 2008). Aguilar et al. (2011) mapped and quantified the erosion below perched pediments in the Huasco catchment (∼29◦S). They obtained a mean erosion rate of 0.045–0.075 mm/a (45–75 m/Ma) since ∼8 Ma, and a lower value of 0.006–0.0231 mm/a (6–31 m/Ma) between the periods 16 to 13 Ma and 13 to 8 Ma respectively. They attributed this higher late Miocene erosion to the transient retreat of the river knickpoint responding to a Miocene surface uplift and to enhanced erosion by glacier erosion at the catchment head. The similar millennial erosion rate in this catchment suggests a very slow erosive response of the Andes to surface uplift at these arid latitudes (Aguilar et al., 2014). Long river response times ≥7 Ma were also determined by Farías et al. (2008) in catchments near Santiago at ∼32–33◦S.\nSouth of ∼33◦S, the subduction trench contains much more Cenozoic sediment than to the north of 33◦S (Scholl et al., 1970). This increase may be consistent with the associated elevation decrease, although the larger elevation of the range north of 33◦S may also result from horizontal subduction that favours continental shortening and uplift. Carretier et al. (2015b) proposed that the difference between millennial (peak at ∼33◦S) and longer-term erosion (continuous increase) patterns may be explained by different stages in the transient evolution of the topography to surface uplift (e.g., Val et al., 2016), controlled by climate. In the north, aridity may impose a very long and slow erosive response characterised by similar long-term and millennial erosion rates and many relicts of perched pediments (Rehak et al., 2010). The millennial erosion rate peaks in the central sector near 33◦S because river knickpoints may have recently reached the catchment head (e.g., Farías et al., 2008). To the south, between 33◦S and 40◦S, the wetter climate may have accelerated the topographic response to the Andean uplift, in particular through enhanced glacial erosion from 6 Ma (Melnick and Echtler, 2006). The erosion peak may have occurred millions of years ago, filling the subduction trench, decreasing catchment slopes, so that the millennial mean erosion rate then decreased to current values. One argument\nin favour of this interpretation is that crustal thickening occurred more recently to the south of ∼33◦S than to the north, as attested by a sharp increase in La/Yb ratios after 7 Ma (Piquer et al., 2017) and by the change in Hf and Nd isotopic signature after 5 Ma (Muñoz et al., 2013). The rapid erosion response south of 33◦S is also illustrated by the young Plio-Pleistocene exhumation ages based on apatite fission tracks ages and zircon and apatite (U-Th)/He ages (Fig. 3 and references in its caption). Nevertheless, this interpretation has not been proven and requires thermochronological and structural data in order to be tested (Carretier et al., 2015b).\nThe dynamics of glacier erosion was mostly studied south of 30◦S through the dating of moraines and paraglacial deposits to document the glacier advance and retreat and palaeoclimate (e.g., Zech et al., 2008; Riquelme et al., 2011; Cabre et al., 2017) and through using low temperature thermochronology to estimate long-term denudation (Thomson et al., 2010; Herman and Brandon, 2015). In the current arid Turbio Valley (30◦S), Riquelme et al. (2011) identified two phases in the Holocene post-glacial valley infill preserved as debris cones at the outlet of the tributaries of the main reach. Between ∼11.5 and 7.8 ka, fine-grained sediment deposited during previously identified drier climatic conditions, followed by enhanced erosion and deposition of coarser sediment at lower altitudes, indicate wetter conditions with a late Holocene transition from summertime to the winter rainfalls (Riquelme et al., 2011).\nApproximately 600 km southwards, Singer et al. (1997) analysed the interplay between volcanism and glacier erosion in the TrataraSan Pedro volcanic complex (∼36◦S) during the past 930 ka. They identified gaps in the volcanic sedimentation that they interpreted as periods of glacier erosion. In addition, Heberer et al. (2011) found that apatites present in late Miocene offshore sediment between 35◦S and 45◦S correspond to granitoids and not to volcanic rocks. They conclude that these sediments were generated by focused glacial erosion near the Andean divide rather than from volcanic input. Over a similar long time scale, the magnitude of glacier erosion was studied using low temperature thermochronology in Patagonia. Thomson et al. (2010) obtained apatite (U-Th)/He and fission-track ages to the south of 38◦S. They interpreted these ages as reflecting large post-7 Ma denudation between 38◦S and 49◦S at elevations corresponding to the glacial equilibrium line (ELA). Conversely, the region between 49◦S and 56◦S exhibits much older cooling ages and lower denudation, despite predominantly glacial conditions. In addition, Herman and Brandon (2015) proposed an acceleration of glacial denudation since 2 Ma between 42◦S and 46◦S. These data suggest a model in which glacial erosion is very efficient when the sliding velocity of the glacier is high (near the ELA) (Koppes et al., 2009; Herman et al., 2015), whereas glaciers tend to protect bedrock from erosion where the ELA is low and glaciers flow slowly. These data sets constitute a strong argument for a feedback of climate on rock uplift and mountain width."
+  }, {
+    "heading": "4.2.2. Over the Holocene",
+    "text": "Available suspended sediment data show a N-S variation in the seasonality of sediment exportation (Pepin et al., 2010). In the extreme north (17◦ –27◦S), suspended sediments are essentially exported during austral summer by rainfalls coming from Amazonia. From 27◦S to 33◦S, snowmelt generates a pronounced peak during spring. Near 35◦S, a second peak appears during winter associated with rainfall. More to the south, the spring and summer peak disappears because snowmelt is less efficient, and suspended sediments are mainly exported during winter rainfalls.\nIn the extreme north, the summer peak of suspended sediment does not give a complete picture. Extreme floods are usually not recorded because they have destroyed the gauging stations. In the following, extreme events are defined as heavy discharges or rainfalls with a return time larger than several decades. During the twentieth century, these extreme floods were associated with debris flows that\noccurred during the austral winter at the beginning of strong to moderate El Niño periods (Ortlieb, 1994; Vargas et al., 2000; Houston, 2006a). Assuming this relationship occurred in the past, Vargas et al. (2006) analysed the chronostratigraphy of debris flow deposits in the Antofagasta region (∼23◦S) to infer strong palaeo El Niño periods. They concluded that modern El Niño events began 5.3–5.5 ka BP with an increased frequency in major debris flow events over the last millennium (Ortega et al., 2012). The March 2015 heavy rainfalls in the Atacama region (∼28◦S) were the largest in the last 40 years. According to Wilcox et al. (2016), most of the erosion occurred within the valleys by lateral erosion and remobilisation of valley infill, without landslides and significant erosion on the hillslopes. Aguilar et al. (2015) came to a different conclusion by quantifying the volume of sediment deposited near the outlet of small catchments affected by the heavy rainfalls. They obtained a mean catchment erosion of ∼6 mm for the March 2015 event. Aguilar et al. (2015) estimated that if erosion proceeds by the repetition of such events, their return time must be on the order of 100 years to fit the millennial (10Be) and long-term (envelop surface) erosion rates calculated for these catchments (∼0.04–0.07 mm/a or 40–70 m/Ma) (Aguilar et al., 2011, 2014). This return time fits the return time of extreme floods in northern Chile estimated by Houston (2006b). Over a longer period, Davis et al. (2014) used pairs of cosmogenic nuclides (26Al-10Be) to show a post-10 Ma continuous low mean sedimentation rate of ∼3 m/Ma associated with debris flows in the Antofagasta region.\nIn the southernmost limit of the Atacama region (∼28◦S), millennial catchment erosion rates are up to 10 times higher than decennial erosion rates. Carretier et al. (2013) interpreted this difference as reflecting the main contribution of rare and extreme events (e.g., Sepúlveda et al., 2015) included in the denudation estimated from 10Be concentrations in river sand, but potentially under-represented over decades in suspended sediment measurements. This interpretation is supported by the southward decrease (28◦S–35◦S) in the sediment fraction exported during El Niño periods and the water and sediment discharge variability (Carretier et al., 2013). The dominant contribution of extreme events in the long-term catchment erosion of other arid landscapes was documented for Idaho mountain catchments in the USA (Kirchner et al., 2001). In Chile, the data provide the first evidence for a progressive decrease in the contribution of extreme events for wetter climates. A direct implication is that in the arid north, decennial erosion rates strongly underestimate millennial and long-term erosion rates, whereas in the humid south, both values fit better (Carretier et al., 2013) (Fig. 5D).\nIn central Chile, near the latitudes of Santiago (∼33◦S), Mao and Carrillo (2017) showed how glacier or snow melting controls the suspended sediment dynamics over two seasons (2013–2015) in a small catchment (27 km2) hosting a small glacier. A counterclockwise hysteresis emerges between the daily water discharge and suspended sediment concentration during glacier melting because sediments come from the glacier outlet and thus arrive at the gauging station after the peak of discharge. On the contrary, a clockwise hysteresis forms during snowmelt because sediments come from the lower part of the catchment and therefore precedes the peak of discharge. The hysteresis pattern may thus be used as a diagnostic tool to identify the eroded source in a catchment hosting glaciers (Mao and Carrillo, 2017).\nIn the BioBío region (∼37–38◦S), Tolorza et al. (2014) studied the hysteresis for much larger catchments (100–25,000 km2). In mountainous catchments, sediment and water discharges exhibit a clockwise hysteresis. Conversely, no hysteresis was observed for gauging stations draining the piedmont or the gentle relief of the Coastal Cordillera. Hysteresis disappears when the basal flow (water released from groundwater) is removed from the analysis, as previously observed in Nepal (Andermann et al., 2012). The remaining direct flow, a first-order estimate of runoff, correlates linearly with the direct sediment discharge; this occurs in all subcatchments\nirrespective of their steepness. These results suggest that (i) groundwater (basal flow) controls sediment hysteresis in mountainous catchments in the Main Cordillera and (ii) erosion is similarly dominated by runoff in steep and gentle areas. The distribution of daily water discharges normalised by their mean are surprisingly similar for all catchments, which also supports a similar erosion process regardless of the slope in the BioBío catchment (Tolorza et al., 2014). More than 70% of the suspended sediment is exported during days with water discharges smaller than the mean discharge, confirming a minor contribution of extreme hydrologic events (Tolorza et al., 2014). The results of Tolorza et al. (2014) highlighted a possible risk of bias in the interpretation of sediment and water discharges when groundwater storage generates hysteresis. An attempt to fit the total (basal + direct) daily sediment vs. water discharges with a power law yields a power exponent >1. This would suggest that the suspended sediment concentration roughly increases with water discharge. Such an increase may be consistent with the activation of landslides when rainfalls are abundant, which may lead to the erroneous interpretation that landslides are the main erosion process in these steep catchments. The separation of direct and basal flow leads to a completely different interpretation, regardless of the reason for the runoff-dominated erosion in these catchments (vegetation cover or land use). Tolorza et al. (2014) showed that separating basal and direct flows at gauging stations greatly helps to understand the dynamics of sediment mobilisation in large catchments (∼100–25,000 km2).\nWhile high discharge events contribute little to decennial suspended sediment discharge in large catchments in the BioBío region, they transport most of the suspended sediment in very small catchments (∼0.1 km2) within the same region (∼37◦S). Mohr et al. (2014) obtained high-frequency (3 min) water discharge and suspended sediment concentration data for several small headwater catchments located in the Coastal Cordillera. During a winter period of ∼1.5 months, 80% of the sediment was exported during <5% of the record period. This quantification was possible because of the high frequency sampling. Lower frequency measurements would have strongly underestimated the sediment discharge because it would have probably missed large erosion events (Mohr et al., 2014).\nA portion of sediment eroded from the Chilean Andes enters the Pacific Ocean. The latitudinal climatic gradient can also be used positively to analyse the dynamics of offshore erosion-transport processes. Bernhardt et al. (2016) documented the frequency of deposited Holocene turbidites in 12 cores between ∼30◦S and ∼40◦S. Almost no turbidites are found in the arid sector, whereas they are abundant in the south, even away from the main river outlets. This shows that not only the amount of sediment delivered by the rivers but also lateral currents control the frequency of Holocene high stand turbidite deposition (Bernhardt et al., 2016).\nExplosive volcanism can provide a huge volume of erodible material in several weeks or months, potentially destroying the vegetation, forcing drainage reorganisation by infill or lahar erosion and inducing massive pulses of river sediment (e.g., Major et al., 2016). In 2008–2009, the eruption of the Chaitén Volcano (∼43◦S) blanketed the region with 3 cm to more than 1 m of tephra in 10 days. Subsequent rainfalls increased runoff on this low permeability material and generated lahars that filled up the Chaitén River and forced it to avulse, strongly affecting the city of Chaitén (Pierson et al., 2013). Major et al. (2016) monitored the bedload discharge in the Chaitén River during the following years. The sediment yield released by the Chaitén River after the eruption is one of the greatest modern yields known worldwide. The sediment discharge decreased exponentially to recover a pre-eruption state within several years, not decades (Major et al., 2016). The recovery of channel planforms was also achieved within several years (Ulloa et al., 2015b, 2016). Notably, this rapid response time is of the same order of magnitude as the time needed to recover pre-earthquake mean sediment discharges after\nthe Chi-Chi earthquake in Taiwan (Hovius et al., 2011), despite different input material (coseismic landslides) and climate (typhoons) in this case.\nIn the extreme south of Chilean Patagonia, erosion probably has strongly varied between glacial and interglacial periods (Breuer et al., 2013a,b). Breuer et al. (2013a) quantified Holocene erosion rates from physical properties of lake sediment cores and from the volume of sediment trapped in the lakes. They found some of the lowest values of Chile despite precipitation rates from 0.6 to >9 m/a (600–9000 m/Ma). Extremely low erosion rates varied between 0.08 • 10−3 mm/a (0.08 m/Ma) in bare bedrock environments and 9 • 10−3 mm/a (9 m/Ma) in low and vegetated lands where chemical denudation is significant. These values are comparable with decennial catchment mean erosion rates from suspended sediment in this area (Pepin et al., 2010). In one lake, the lithogenic accumulation rate was divided by 10 after ∼12 ka. Holocene erosion rate values are also 200-fold lower than long-term estimates in the northern Patagonian Andes using thermochronology data (e.g., Thomson et al., 2010). Breuer et al. (2013a) concluded that erosion was high during paraglacial periods because of increased geomorphic activity after the glacier retreat. Then erodible material was flushed out and the erosion rate fell to the current low levels. Nevertheless, Koppes et al. (2009) found the highest erosion rates of Chile, associated with the abrasion power of the Glaciar Marinelli in the Chilean Tierra del Fuego. These authors estimated decennial values of ∼40 mm/a and up to 230 mm/a for an annual maximum. These extremely high erosion rates are correlated with the sliding velocity of the glacier, which is consistent with the finding of Thomson et al. (2010) and Herman and Brandon (2015) over a much longer time span of several Ma. A substantially different conclusion was then reached by Koppes et al. (2015) by comparing catchment mean erosion rates between 46◦S and 65◦S over the last 50–100 years. They found that it is the atmospheric temperature that controls the spatial variation of catchment-averaged glacial erosion rates, more so than the sliding velocity of glaciers. Above 0–5 ◦C, seasonal melting increases both the sliding velocity and water discharge, which thereby increase the abrasion power and sediment exportation respectively (Koppes et al., 2015)."
+  }, {
+    "heading": "4.3. Land use in southern Chile",
+    "text": "Land management may be the most significant driver of erosion under conditions of intensive soil exploitation (Hewawasam et al., 2003) and/or extensive disturbance to the distribution of surface and subsurface water (Schottler et al., 2014). The Chilean Mediterranean to Temperate segment (30–42◦S) has experienced increasing rates of wood extraction from native ecosystems since the arrival of Spanish conquerors in sixteenth century. During the Spanish colonial period (seventeenth–eighteenth centuries) the landscape was submitted to forest clearance for the construction of villages, boats, fence posts, the opening of land for agriculture and livestock grazing, as well as the supply of fuel for domestic use and mining operations. In the beginning of the Independent Republic of Chile in the nineteenth century, the main economic drivers were the exportation of wheat, and secondarily copper. Widespread logging took place in south-central Chile (35–42◦) for wheat crops and to feed hundreds of furnaces for smelting copper ore in north-central Chile (30–35◦) (Armesto et al., 2010, and references therein). In the Araucanía and Los Lagos regions (35–42◦S), the destruction of native forests became a national issue during the nineteenth century. Despite a specific ley in 1872 to limit deforestation, both soil degradation and erosion increased and the production of wheat fell. In 1974, the dictatorial government financially encouraged the forestry industry, officially to limit soil erosion, with a strong impact on native forests (Miranda et al., 2017). Nevertheless, timber harvesting, the practice of clearcutting or more generally the replacement of native vegetation, can cause profound changes in hydrology\nand soil erosion (Iroumé et al., 2006; Vanacker et al., 2007; Little et al., 2009; Huber et al., 2010; Mohr et al., 2013). The magnitude and frequency of the erosive response may depend on how logging practices (roads, frequency, and the clearcutting and replantation surface area) modify the surface roughness, the generation of runoff and the cohesion of exposed soils. The immediate erosive response of harvest areas, a worldwide issue, is thus ambiguous.\nIn south-central Chile, timber harvesting and the planting of exotic trees, mainly Radiata pines (Pinus radiata) and eucalyptus (Eucalyptus globulus and Eucalyptus nitens), has extended for the last 40 years to the south of ∼35◦S (Echeverria et al., 2006; Aguayo et al., 2009; Nahuelhual et al., 2012; Miranda et al., 2015; Zamorano-Elgueta et al., 2015). The Chilean forestry model homogenised the present management of the land by using rapid rotation cycles, lacking buffer strips, and connecting the clear-cut harvested zones between them and with the river network through logging roads. Chile exhibited one of the highest annual rates of afforestation and reforestation worldwide between 1995 and 2009 (Nahuelhual et al., 2012, and references therein). Chilean intensive forestry practices were highlighted in the High-Resolution Global Maps of 21st-Century Forest Cover Change (Hansen et al., 2013).\nNear the outlet of the BioBío River (36.5◦S), Cisternas et al. (2001) provided evidence of a sharp increase in lake sedimentation between 1943 and 1994 associated with the replacement of the native forest by pines in the surrounding hillslopes. In the same region, Mohr et al. (2013) carried out experimental rainfall simulations within a real context in three small catchments of the BioBío Basin affected by clearcutting. They showed a different hydrological and erosion response according to rainfall intensity. Clearcutting may favour infiltration during moderate rainfalls, whereas during high precipitation pounds can connect and result in runoff and intense erosion. Clearcutting areas may therefore act as a sediment source or sink, an observation which was not taken into account in predictive models (Mohr et al., 2013). In addition, the erosional response to harvesting depends on the logging season. Dry season logging dampens the contribution of extreme events by allowing moderate rainfalls to erode the uncovered soil, while rainy season logging leads to a one-order of magnitude higher increase in sediment discharge. A nonparametric quantile regression model revealed the complex inheritance of previous rainfalls on the generation of runoff by saturation excess and the associated erosion (Mohr et al., 2013, 2014). This temporal relationship would not have been evidenced by a simple correlation analysis between water and sediment discharges.\nThe erosive impact of harvesting was also addressed by Schuller et al. (2013) using radionuclides (137Cs, 226Rn, and 40K) to trace the sediment source. They sampled four small experimental catchments (∼0.1 km2) of the Coastal Cordillera at 37 and 40◦S. In unlogged catchments, sediment mainly comes from channels. Mohr et al. (2014) and Schuller et al. (2013) found that erosion occurred over a short period of time (2 weeks to 3 months) compared to the record period of two years. In both regions, clearcutting was followed by significant disturbance. The sediment load was almost quadrupled. Slope and road erosion contributed more to the total load, although the magnitude of these modifications depends on the precipitation that affected each catchment. Birkinshaw et al. (2011) analysed and modelled the suspended sediment load in the La Reina catchment (∼40◦S). This small catchment (0.35 km2) was covered by a pine forest up until October 1999, then logged over a 4 month period and replanted with Eucalyptus. Their conclusions point to a probable limiting effect of the forest on soil erosion.\nTolorza (2015) analysed how deforestation in the last centuries may have modified the mean erosion at the scale of large catchments (∼100–25,000 km2) in the BioBío basin. Following Hewawasam et al. (2003), Tolorza (2015) assumed that the mean catchment denudation rates derived from the 10Be concentration in river sediment correspond to pristine benchmark values. She observed that these\nmillennial denudation rates are approximately three times larger than decennial erosion rates derived from suspended sediment at six gauging stations (Fig. 6). Erosion derived by suspended sediment constitutes a minimum because it ignores the bedload fraction and the possible contribution of rare extreme rainfalls. Nevertheless, the bedload fraction is thought to be much lower than the suspended load for gravel-bed rivers (Turowski et al., 2010). Moreover, the probability density function of sediment discharge in these large catchments suggests a negligible contribution of extreme events (Tolorza et al., 2014). Reconstructions of past mean annual precipitation rates near ∼34◦S suggest conditions similar to the current ones since ∼3–5 ka (Lamy et al., 2010). Tolorza (2015) concluded that the higher millennial denudation rate may instead be the result of\nanthropic perturbations. Deforestation is usually thought to increase erosion rates (e.g., Hewawasam et al., 2003, Vanacker et al., 2007). Here, Tolorza (2015) observed the contrary. The decrease in erosion rate can be explained by a rapid removal of soils in the last two centuries (Tolorza, 2015). The availability of fine material transported as suspended load probably decreased abruptly, minimising decennial mean catchment erosion rates derived from suspended river sediment. This is a different situation compared to Nepal, for example, where most of the erosion is produced by landslides with no detectable effect of agricultural practices (West et al., 2015). This interpretation needs to be tested by quantifying chemical weathering (included in the total denudation derived from 10Be) and using other proxies of erosion over the last centuries, but the study of\nTolorza (2015) opens a way forward for a promising approach in Chile to quantify the anthropogenic impact on erosion."
+  }, {
+    "heading": "5. Global analysis of erosion rate factors",
+    "text": "Here, we take advantage of new, updated erosion, slope, and mean precipitation data to reanalyse the relationship between these data for the whole database. We concentrate our analysis on the slope and mean annual precipitation rate and we discuss the effect of lithology. Prior to this, we evaluate the available global slope and MAP databases. For local sampling points, the study of Owen et al. (2011) is the only one to our knowledge where local slopes were measured precisely in the field. Fig. 7A compares these slopes with the local slope calculated from the SRTM DEM (dx ∼30 m) at the sampling point of Owen et al. (2011). The poor fit results from uncertainties on the sampling point locations as well as the too low resolution of the DEM. These uncertainties prevent any attempt to compare local erosion rates with local slopes at the scale of the whole Chilean erosion database. This means that it is crucial to measure the local slope in the field in order to investigate local erosion laws. Providing sample locations with high precision is necessary in order to posteriorly determine the local slope from higher resolution DEMs.\nComparing local erosion rates with climatic data requires a global database with high spatial resolution. We test the reliability of the two global databases described in Section 3 (Matsuura-Willmott and CHIRPS) using 773 rain gauges. Fig. 7B shows that both data sets fit in a similar manner with the rain gauge data. Nevertheless, the scattering is large for arid and semiarid areas where the rainfall in the rain gauges is <500 mm/a (Zambrano-Bigiarini et al., 2017). As most of the local erosion rates are located in these areas, analysing local erosion rate variations in terms of climate variations can not be achieved. Fig. 8A and B illustrates this limitation by showing that local erosion rates do not correlate with the MAP, even for hyperarid to semiarid climates where Owen et al. (2011) evidenced a powerlaw increase in bedrock erosion with the MAP. Local erosion rates do not seem to depend on whether or not granitoids are present (Fig. 8C).\nThe previous limitations do not apply at the catchment scale. For catchments monitored by the DGA, the catchment mean MAP can be estimated by dividing the mean annual discharge by the catchment area. Similarly, this estimation fits well with the MAP determined using Matsuura and Willmott’s database and the CHIRPS database (Fig. 7C).\nFig. 9 illustrates the relationship between the catchment mean erosion rates, slope, and MAP. Erosion seems to increase nonlinearly with slope as already documented in Chile (Carretier et al., 2013), Perú (Reber et al., 2017), or on the eastern margin of the Tibetan Plateau (Ouimet et al., 2009). A significant relationship links slope and latitude (and thus mean precipitation rate) in this data set, which reflects the latitudinal variation in the Andean topography (Fig. 5C). No clear relationship appears when catchment mean erosion rates are crossed with MAP.\nGiven the significant control of slope on erosion rates, the effect of slope on erosion must be separated in order to quantify the influence of the MAP on erosion. We assume the following relationship (e.g., Roering et al., 1999):\nE = K S\n1 − (S/Sc)2 (2)\nwhere E (mm/a) is the catchment mean erosion rate, K (mm/a) is an erosion coefficient, S is the mean slope, and Sc is a critical slope. Parameters K and Sc should depend on the mechanical property of the ground and thus on lithology, weathering, and vegetation. Despite variations in these parameters within and between the\nstudied catchments, we use a constant value Sc = 0.6 based on Fig. 9A.\nWe assume that K depends on a power law of the MAP such that (e.g., Carretier et al., 2015b):\nK = C MAPa (3)\nwhere C is a coefficient. A slope-corrected erosion rate can be thus expressed as\nE/ S\n1 − (S/Sc)2 = C MAP a. (4)\nFig. 10 shows the adjustment of C and a using cosmogenicderived catchment erosion rates and suspended-sediment derived erosion rates. The MAP accounts for 39 and 69% of the variance in slope-corrected erosion rates respectively. Similar results are obtained using Matsuura and Willmott’s database (not illustrated). The MAP exponent a is between 0.3 and 0.8, which is consistent with previous estimations using a subset of the present database (e.g., Carretier et al., 2015b). This analysis confirms that decennial and millennial catchment erosion rates depend primarily on slope and <linearly on the MAP (e.g., Aalto et al., 2006; Syvitski and Milliman, 2007).\nThe uncertainty in the MAP may explain a significant part of the difference between Eq. (4) and the data. This uncertainty limits the quantification of other erosion controls, such as vegetation and lithology. As already stated, the strong correlation between green\nvegetation cover and the MAP prevents the quantification of the spatial control of vegetation on erosion. The decrease in the erosion rate south of 32◦S may be partly linked to the increase in vegetation cover, but given that the mean catchment slope strongly decreases south of 32◦S, the protective role of vegetation cannot be ascertained. Part of the residual between the erosion data and the model in Eq. (4) may be linked to lithological differences. The catchment erosion rate may decrease with an increasing proportion of granitoids in the catchments (Carretier et al., 2015b) (Fig. 11A). Nevertheless, the proportion of granitoids is anticorrelated with the catchment mean slope between 30 and 40◦S where erosion varies the most (Fig. 11B). Thus, quantifying the role of lithology on spatial variations in the catchment erosion rates is still impossible using the available data."
+  }, {
+    "heading": "6. Discussion",
+    "text": ""
+  }, {
+    "heading": "6.1. Comparison with other mountain ranges",
+    "text": "The range of erosion rates in Chile may appear low compared to other mountain ranges (Portenga and Bierman, 2011; Korup et al., 2014). The maximum erosion rates are <1 mm/a, whereas it reaches several millimetres per year (km/Ma) in Taiwan, New Zealand, Himalaya, and Japan (e.g., Hovius et al., 1997; Dadson et al., 2003; Kao and Milliman, 2008; Korup et al., 2014). This difference may be mainly explained by the transient nature of erosion in the Chilean Andes. Whether the Andes have been growing continuously or by pulses of uplift separated by periods of quiescence has been debated for the central Andes (e.g., Barnes and Ehlers, 2009). In Chile, studies have documented periods of\ntectonic activity alternating with periods of quiescence (e.g. review in Martinod et al., 2010). In the north, the pre-Miocene acquisition of the present-day topography is supported by thermochronological data (e.g., Maksaev and Zentilli, 1999; Martinez et al., 2017, Fig. 3), palaeomagnetism and structural data (e.g., Arriagada et al., 2008; Jordan et al., 2010) or palaeo-altimetry (Evenstar et al., 2015). Near 33–40◦S, geomorphological, structural and thermochronological data document a pulse of uplift in the late Miocene (e.g., Charrier et al., 2007; Farías et al., 2008; Spikings et al., 2008). The climate also varied during the Neogene (e.g., Jordan et al., 2014). In the northernmost part of Chile, the ongoing canyon incision and progressive drainage expansion in the Altiplano could have been favoured during these climate modifications (Garcia et al., 2011). To the south of 33◦S, Pliocene thermochronological ages (Fig. 3) may correspond to past high denudation rates via glacier erosion (e.g., Thomson et al., 2010). Owing to these variations in uplift and climate, the topography and erosion of the Chilean Andes are broadly transient (Rehak et al., 2010). A proof of this transience in the northern half of the Andes is the significant proportion of perched low relief areas in Andean catchments (e.g., Riquelme et al., 2007; Farías et al., 2008; Aguilar et al., 2011). In the north, the low erosion rates correspond to the delayed adaptation of the topography to surface uplift under an arid climate. In the south, the topography may be waning with low erosion rates. In conclusion, the Chilean catchment erosion is not balancing an ongoing rapid rock uplift. This may be the main difference with active ranges such as in Japan or in the Bolivian Andes (Safran et al., 2005) where the ongoing rapid rock uplift is approximately balanced by erosion due to sustained rock uplift, high seismicity, and frequent storms (Korup et al., 2014)."
+  }, {
+    "heading": "6.2. Differences in onshore and offshore records.",
+    "text": "The decennial and millennial erosion peak near 33◦S does not match the continuous southward increase in offshore sediment accumulation rates (Scholl et al., 1970; Hebbeln et al., 2007) (Fig. 5). While the decennial and millennial onshore erosion rates suggest that slope is the main erosion control, the offshore data set suggest that erosion rates are mainly collinear with the southward increase in MAP. Between 27 and 30◦S, both data sets cannot be compared because terrigenous sediment comes from aeolian erosion in the Coastal Cordillera (Lamy et al., 1998), whereas decennial and millennial erosion rates correspond to fluvial and hillslope processes in the Main Cordillera.\nTo the south of 30◦S, 10Be-derived erosion rates are averaged over the last ∼10 ka or less (Carretier et al., 2015b). Thus 10Bederivederosionratesdonot integratetheLastGlacialMaximum(LGM)\nperiod during which erosion may have been higher. Consequently, 10Be-derived erosion rate may be lower than the offshore record. Nevertheless, this explanation does not seem to hold to the south of 33◦. Indeed, offshore Holocene accumulation rates and the 10Bederived erosion rates correspond to the post-LGM period.\nAn alternative explanation may be that the studied offshore deposits have not recorded the higher erosion rate in central Chile near 32–33◦S. By analysing the suspended sediment yields in nested catchments, Pepin et al. (2010) showed that deposition of fine sediment is occurring at the foot of the Main Cordillera at different places between 28 and 33◦S. A large proportion of the fine sediment may therefore have been trapped in the continent. More to the south, however, we note that suspended load data do not show significant deposition in the Central Depression in the BioBío catchment (35–37◦S) (Tolorza et al., 2014), perhaps because the water discharge is higher here than it is more to the north.\nAnother explanation may involve the deposition of a large proportion of fine sediment in submarine canyons (e.g. Maipo canyon), which were excluded from the core analysis (Hebbeln et al., 2007). Furthermore, growing evidence support that higher erosion rates generate coarser sediment by landsliding (e.g., Brown et al., 1995; Aguilar et al., 2014; McPhillips et al., 2014). Their volume is not taken\ninto account in offshore cores. In addition, active explosive volcanism to the south of 33◦S has exported fine ash for thousands of years (e.g., Encinas et al., 2006; Melnick et al., 2006; Castruccio et al., 2016; Major et al., 2016), which might have been redistributed off southern Chile by northward lateral currents (Muñoz et al., 2004; Bernhardt et al., 2015, 2016), thus explaining part of the southward offshore accumulation rate increase. However, grain sizes of ash particles are usually larger than that of muddy sediment sampled in offshore cores (Pierson and Major, 2014), such that the contribution of ash to the muddy material deposited in offshore basins is uncertain. To sum up, the difference between the Holocene offshore and the onshore record is not clearly understood."
+  }, {
+    "heading": "6.3. Perspectives and opportunities",
+    "text": "The geography of Chile offers different natural laboratories to approach open questions in erosion processes. We review some of these questions and the potential of Chilean regions."
+  }, {
+    "heading": "6.3.1. River planform",
+    "text": "In Chilean plains, rivers are mostly braided. From north to south, they transport different amounts of sediment with variable discharge distributions. Their planform pattern, their width, the distance between bars, the contribution of bedload, and the grain size distribution varies. Existing water and sediment discharge data may be used to compare these patterns and test existing models (e.g., Davy and Lague, 2009; Lajeunesse et al., 2010; Kasprak et al., 2015). The contribution of bedload remains a difficult task to estimate and recent studies have addressed this issue in southern Chile (Mao et al., 2016) by calibrating sensors in the field and in flumes."
+  }, {
+    "heading": "6.3.2. Aeolian erosion",
+    "text": "Aeolian erosion is probably the least quantified of the erosion processes worldwide. While numerous studies have analysed the dynamics of dunes (e.g., Narteau et al., 2009), rates of bedrock abrasion by aeolian material are much less known. Millennial erosion rates as high as 1 mm/a were obtained in the arid Quidam basin in northern Tibet (e.g., Kapp et al., 2011). Thus, aeolian erosion may be important. The hyperarid and arid environments of Chile north of ∼30◦S as well as the windy areas of the extreme south are suitable for wind erosion-transport analysis. Few studies have taken advantage of this context (e.g., Flores-Aqueveque et al., 2009; Benison, 2016). Uplifted marine terraces, which have been mapped and dated in many places in the north (e.g., Martinod et al., 2016, Paskoff, 1979, and references herein), may be particularly interesting targets, although it remains a challenge to quantify wind erosion."
+  }, {
+    "heading": "6.3.3. Coastal erosion",
+    "text": "Chile has more than 4000 km of coast including Antarctica and several Pacific Islands. This makes Chile an exceptional place to understand coastal dynamics, from storm events to cliff retreats during eustatic variations (Paskoff, 1979; Saillard et al., 2009). The N-S climaticgradient, theriversfeedingtheshorewithmoreorlesssediment, the northward Humboldt Current, the variable incidence of sea waves and the variability of coastal lithology provide a way to highlight several debated questions: (i) what is the influence of daily sediment input variations by rivers and swell amplitude on the shoreline dynamics over decades and millenniums? (ii) When do cliffs retreat during the Quaternary eustatic cycle and at which rate? (iii) Which erosion factors prevail? (iv) What is the contribution of rocky coastal erosion to the worldwide budget of continental erosion? Coupling river outfluxes (e.g., Carretier et al., 2013), high resolution and frequency imagery of the shoreline (e.g., Cienfuegos et al., 2014), and millennial cliff retreat rates derived from cosmogenic nuclides (e.g., Regard et al., 2012) along the Chilean coast may bring new insights to these questions. Analysing the shoreline response to coseismic uplift\nor subsidence (Farías et al., 2010; Vargas et al., 2011) may also provide valuable information for predicting shoreline response to the rising sea level over the next decades.\nFor the same geographical reasons, the offshore domain of Chile is also a privileged place to study submarine erosion and sedimentation. High resolution topographic and seismic data have fostered research on decennial and Pleistocene erosion-deposition dynamics. Research on submarine canyon erosion and turbidites seem particularly promising (e.g., Bernhardt et al., 2015, 2016)."
+  }, {
+    "heading": "6.3.4. Glacier erosion",
+    "text": "Whether glaciers erode a lot or just marginally reshape the relief is an old debate that has divided geomorphologists of the early nineteenth century up until the present (e.g., Herman and Champagnac, 2016; Willenbring and Jerolmack, 2016). Low temperature thermochronology has considerably highlighted the role of glaciers in the last decade (e.g., Valla et al., 2011), which seems to depend on the ice sliding velocity and atmospheric temperature, as illustrated in Patagonia (Thomson et al., 2010; Koppes et al., 2015) and elsewhere (Herman et al., 2015). Given the N-S gradient of the glacial imprint on the Chilean Andes (Rehak et al., 2010; Janke et al., 2015), Chile is a judicious place to evaluate Pleistocene glacier erosion according to climate. Thermochronological data are still lacking to the north of 33◦S (Fig. 3).\nParaglacial erosion-sedimentation processes are equally interesting. Most of the Andean Chilean rivers are incising Pleistocene alluvial terraces. Yet the age and climatic significance of these terraces and associated debris cones have been poorly studied in Chile (e.g., Riquelme et al., 2011; Veit et al., 2016; Cabre et al., 2017). How glacial and interglacial sediment are produced, stored, and evacuated remains a general question. The presence of Holocene sediment stored in semiarid valleys shows that it may take thousands of years to be evacuated to the sea (Riquelme et al., 2011; Cabre et al., 2017). A key question arising from the Chilean case is how glacial-interglacial climate variations have modulated the latitudinal erosion of the mountain range and the total sediment outflux to the ocean (Lamy et al., 1998; Hebbeln et al., 2007; Breuer et al., 2013a), which remains a broad issue in Quaternary geomorphology and source-to-sink studies."
+  }, {
+    "heading": "6.3.5. Extreme erosion events",
+    "text": "Although the question of the contribution of extreme erosion events has been addressed in Chile (e.g., Carretier et al., 2013; Aguilar et al., 2015), the precise quantification of catchment erosion during a major flood event – such as that of March 2015 – must still be discussed. This type of estimation is rare worldwide because it requires high resolution imagery (LIDAR; Anderson et al., 2015), which has only recently been available. In northern Chile, large floods associated with El Niño periods allow the erosive impact of such incremental events to be quantified in steep catchments of the Main Cordillera, as well as in the more gentle landscape of the Coastal Cordillera and Central Depression (e.g., Mathieu et al., 2007). The environmental impact of the extreme flooding erosion of growing mining stockpiles in the arid and hyperarid zones will probably be a particular focus in the future.\nExtreme events also include the dynamics of landslides in relation with rainfall events and earthquakes (Marc et al., 2016). The Chilean seismicity (subduction and crustal earthquake) and climate gradient are ideal for testing and improving predictive landslide models. Nevertheless, this approach is still limited by the lack of rainfall stations at high elevations and by the incomplete shallow seismicity catalogue."
+  }, {
+    "heading": "6.3.6. The role of vegetation",
+    "text": "The role of vegetation on erosion is ambiguous and may depend on the time scale (Dietrich and Perron, 2006). Over thousands of years, trees may limit erosion and steepen the hillslopes but may\nalso favour soil development. Consequently, steep hillslopes covered with vegetation and soil might be more prone to collapse during large floods or earthquakes so that the mean millennial hillslope erosion might be larger with vegetation than without. The millennial role of vegetation can also be complex in alluvial domains (Dosseto et al., 2010; Antinao and McDonald, 2013). Yet, understanding the coupling between millennial erosion and vegetation is crucial. This topic has received increasing attention as of late, in the Andes in particular (e.g., Vanacker et al., 2007; Jeffery et al., 2014; Tolorza, 2015). The vegetation cover and type change a lot from the arid north to the humid south and according to the elevation. Despite the extreme difficulty to decorrelate vegetation and climate, this gradient provides an opportunity to analyse couplings between biota, soil formation, and erosion. This is the aim of the current German EarthShape project (www.earthshape.net). The recent high resolution and temporal mapping of land cover over Chile by Zhao et al. (2016) will surely help geologists in their attempt to identify the topographic imprint of vegetation. Furthermore, studying the dynamics of wood and vegetation exportation seems particularly promising to understand and quantify the influence of erosion-sedimentation on the carbon cycle (e.g., Ulloa et al., 2015a; Iroumé et al., 2015)."
+  }, {
+    "heading": "6.3.7. Critical Zone",
+    "text": "The Critical Zone is the weathered layer above fresh bedrock. Chemical and physical weathering interacts with the climate over long time scales (e.g., Raymo and Ruddiman, 1992; Anderson et al., 2012) with the topographic gradient and erosion (e.g., Heimsath et al., 2012) as well as with the biota. Despite determinant improvements in what is known about the Critical Zone carried out over the last three decades, central issues are still being debated, such as the role of mountain uplift on the silicate weathering outflux of mountains (e.g., Dixon and von Blanckenburg, 2012), the proper model of Critical Zone thickness evolution and its response time to long-term climatic and uplift perturbations (e.g., Braun et al., 2016) or the feedback of physical erosion on regolith production (e.g., Heimsath et al., 2012).\nIn Chile, few quantitative studies exist on the dynamics of the Critical Zone (Owen et al., 2011; Casanova et al., 2013; Vazquez et al., 2016), and they have illustrated the potential of studying the weathering dynamics along the climatic gradient. The Coastal Cordillera between 20 and 40◦S is a particularly interesting target because it provides an uncommon diversity in terms of topographic gradients, vegetation, and soil thickness. In the Mediterranean area near 33◦S, Vazquez et al. (2016) recently documented a thick (>20 m) but little depleted saprolite, probably because kaolinite coats and protects biotites and albites from further dissolution. Natural trenches along recent roads and the accessibility of terranes are advantages for studying variations in Critical Zone characteristics along topographical transects. More to the south, in Patagonia (∼43◦S), fresh outcrops of soils with an organic A horizon of several m under a cold and humid climate along the Pan American road constitute remarkable examples. In this region, palaeosoils on volcanic layers or soils developing over recent ash deposits are other targets. At the catchment scale, comparing erosion and weathering rates between 20 and 40◦S in the Main Cordillera would be fruitful to see if both vary in concert or if weathering peaks for some erosion threshold (e.g., Gabet and Mudd, 2010; Dixon and von Blanckenburg, 2012).\nAnother open problem when studying the Critical Zone deals with metal enrichment by supergene processes (e.g., Sillitoe, 2005). In the north, some of the largest copper mines of the world, including Chuquicamata, exploit copper enriched in the Critical Zone during the Oligo-Miocene. Copper enrichment requires subtle balances between uplift, denudation and precipitation rates that are not fully understood or quantified. Determining palaeodenudation rates is thus crucial. For example, these processes are studied within the framework of the Chilean Peruvian and French joint laboratory COPEDIM (https://copedim.obs-mip.fr).\nIn all these aspects, groundwater dynamics is a key process. Obviously, the string of catchments in Chile means that this country is a worldclass natural laboratory to understand groundwater dynamics in different environments, from hydrology to society points of view (e.g., Viguier, 2016)."
+  }, {
+    "heading": "6.3.8. Climate-uplift couplings",
+    "text": "The idea that a long-term climatic change may drive a change in the rate and location of rock uplift has been debated for several decades (Molnar and England, 1990; Whipple, 2009). However, proving that a climate change has predated and driven a rock uplift is still a challenge (e.g., Whipple, 2014). In Chile, the influence of climatedriven erosion on rock or surface uplift has been discussed in several places (Lamb and Davis, 2003; Melnick and Echtler, 2006; Thomson et al., 2010; Armijo et al., 2015). The Chilean climatic gradient may offer the possibility to test the cause-and-effect theories in the Main Cordillera. The transient nature of the Chilean topography and the NS mountain width variation (Fig. 2) are probably an advantage to highlight the response times controlling the possible climate-tectonics couplings. For this particular purpose, Chile is only one side of the problem. Thermochronological studies coupled with the analysis of relict landscapes and structural geology (e.g., Farías et al., 2008) must be continued on both sides of the Andes."
+  }, {
+    "heading": "7. Conclusions",
+    "text": "Erosion studies in Chile have provided benchmarks for erosion rate values in different climatic and slope environments and over different time scales. These values are mainly <0.5 mm/a or <500 m/Ma or <1300 t/km2/a, except catchment erosion rates ∼1 mm/a inferred from 10Be in riverine pebbles, and extreme glacier abrasion erosion rates in the Chilean Tierra del Fuego ∼100 mm/a. These erosion rates are moderate compared to other active ranges. In addition to the arid climate of northern Chile, these lower erosion rates may be mainly explained by the transient nature of erosion in this part of the Andes.\nOver the Neogene and in the arid part of Chile, river incision rates averaged over periods of several Ma vary between ∼0.05 and ∼0.5 mm/a, in association with a tectonic surface uplift and knickpoint retreat. In the semiarid area, long-term and millennial catchment erosion rates are similar. Nevertheless, the presence of encased Neogene low relief surfaces in Andean catchments suggest that erosion may have varied over the Neogene, but the magnitude of these variations is unknown. To the south of 33◦S, the southward increase in sediment volume trapped in the subduction trench suggests larger erosion rates than the decennial and millennial erosion rates. Nevertheless, the magnitude of erosion variations over Ma has not been quantified. Available data suggest that the response time of catchment erosion is >10 Ma for arid catchments in the north and 5–10 Ma for the catchment in central Chile near 33◦S. Lower response times are expected more to the south under wetter climates; however, quantitative estimates are needed. A global analysis of thermochronological data in terms of denudation history would most likely provide quantitative information.\nMillennial catchment erosion rates are progressively higher than decennial erosion rates toward a more arid climate between 35 and 27◦S. This difference is linked to the increased variability in erosion toward the arid north, where millennial erosion is increasingly dominated by rare and heavy storms, in particular during El Niño periods. In arid areas, the difference between decennial and millennial catchment erosion rates can reach one order of magnitude. In Patagonia, the removal of volcanic ashes and glacier erosion may have generated extreme variations in erosion rates over periods of years to millennia. Where the sliding velocity of glaciers is high, the catchment mean erosion during glacial periods may have been 200 times larger than during the Holocene.\nThe impact of harvesting and land use in southern Chile is complex and depends on the time scales. Over centuries, intense deforestation in the seventeenth-eighteenth centuries in the temperate to humid region of BioBío (36–37◦S) seems to have stripped erodible soils, leading to the decrease in the catchment mean erosion rate. This decrease in erosion over hundreds of years is consistent with studies showing an increase in soil erosion during high precipitation events in the weeks and months after clearcutting. Nevertheless, high frequency erosion monitoring reveals that clearcutting may increase infiltration and decrease erosion for moderate rainfall.\nA reanalysis of the decennial and millennial catchment mean erosion rates confirms that erosion depends less-than-linearly on the mean annual precipitation and that slope exerts the main control. The variability in a large number of available local erosion rates (n = 330) is much larger than that of the catchment mean erosion. This variability seems to decrease toward wetter climates. As a result, this variability may be a rich source of information for improving local erosion models. Nevertheless, the lack of a precise local slope measurement except in rare cases and rainfall as well as uncertainties in the sampling point coordinates limit the analysis of local erosion factors from the global database. Paradoxically, no decennial or millennial erosion rate data are available in the wettest places of Chile (41–50◦S).\nQuantifying the role of other erosion factors remains difficult. The incomplete seismological and landslide catalogues prevent the quantification of the contribution of seismicity to erosion rates along the Chilean climatic gradient. The strong correlation between green vegetation and rainfall limits our ability to independently study these two erosion factors. Similarly, the correlation between catchment mean slope and proportion of granitoids makes the lithological control difficult to quantify.\nSupplementary data to this article can be found online at https:// doi.org/10.1016/j.geomorph.2017.10.016."
+  }, {
+    "heading": "Acknowledgments",
+    "text": "We thank the Editors of Geomorphology for having invited us to review the erosion rates in Chile. We thank the DGA for providing the water and suspended sediment discharge measurements. This paper is dedicated to the memory of Luc Ortlieb. This is a contribution to the LMI COPEDIM, the TanDEM-X DEM GEOL08450 project and the FONDECYT 3160843 project. We thank Maria Pia Rodriguez and Caroline Sanchez for pointing us to thermochronological data. We are very grateful to Mauricio Zambrano-Bigiarini and Mauricio Galleguillos (Univ. de Chile) for having compiled and provided us the CHIRPS V2 database. In addition to the Supplementary material, we can also provide on request the whole GRASS project containing all the rasters and vectors used in this study. We thank three reviewers for their help in improving this paper."
+  }],
+  "year": 2017,
+  "references": [{
+    "title": "Geomorphic controls on Andean denudation rates",
+    "authors": ["R. Aalto", "T. Dunne", "J. Guyot"],
+    "venue": "J. Geol",
+    "year": 2006
+  }, {
+    "title": "Derrumbes de montaña y morrenas en los Andes chilenos",
+    "authors": ["G. Abele"],
+    "venue": "Rev. Geogr. Norte Grande",
+    "year": 1984
+  }, {
+    "title": "Postmagmatic cooling and late Cenozoic denudation of the North Patagonian Batholith in the Los Lagos region of Chile, 41–42◦",
+    "authors": ["A. Adriasola", "S. Thomson", "M. Brix", "F. Hervé"],
+    "venue": "15′S. Int. J. Earth Sci",
+    "year": 2006
+  }, {
+    "title": "Low Temperature Thermal History and Denudation Along the Liquiñe-Ofqui Fault Zone in the Southern Chilean Andes, 41-42S",
+    "authors": ["A. Adriasola-Muñoz"],
+    "venue": "Ph.D. thesis. Ruhr-Universitat Bochum",
+    "year": 2003
+  }, {
+    "title": "Cambio del uso del suelo en el centro sur de Chile a fines del siglo XX",
+    "authors": ["M. Aguayo", "A. Pauchard", "G. Azócar", "O. Parra"],
+    "venue": "Entendiendo la dinámica espacial y temporal del paisaje. Rev. Chil. Hist. Nat",
+    "year": 2009
+  }, {
+    "title": "Variability in erosion rates related to the state of landscape transience in the semi-arid Chilean Andes",
+    "authors": ["G. Aguilar", "R. Riquelme", "J. Martinod", "J. Darrozes", "E. Maire"],
+    "venue": "Earth Surf. Process. Landf",
+    "year": 2011
+  }, {
+    "title": "Denudación por flujos de detritos durante las lluvias torrenciales de marzo de 2015 en atacama",
+    "authors": ["G. Aguilar", "A. Cabré", "C. Guaita", "F. González", "F. Ortega", "S. Carretier", "R. Riquelme", "D. Compte"],
+    "year": 2015
+  }, {
+    "title": "Time interval between volcanism and burial metamorphism and rate of basin subsidence in a Cretaceous",
+    "authors": ["L. Aguirre", "G. Féraud", "D. Morata", "M. Vergara", "D. Robinson"],
+    "venue": "Andean extensional setting. Tectonophysics",
+    "year": 1999
+  }, {
+    "title": "Tectonics, Climate, and Landscape Evolution of the Southern Central Andes: The Argentine Puna Plateau and Adjacent Regions between 22 and 30S",
+    "authors": ["R.N. Alonso", "B. Bookhagen", "B. Carrapa", "I. Coutand", "M. Haschke", "G.E. Hilley", "L. Schoenbohm", "E.R. Sobel", "M.R. Strecker", "M.H. Trauth", "A. Villanueva"],
+    "year": 2006
+  }, {
+    "title": "Connecting source and transport: suspended sediments in the Nepal Himalayas",
+    "authors": ["C. Andermann", "A. Crave", "R. Gloaguen", "P. Davy", "S. Bonnet"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2012
+  }, {
+    "title": "Landscape scale linkages in critical zone evolution",
+    "authors": ["S. Anderson", "R. Anderson", "G. Tucker"],
+    "venue": "Compt. Rendus Geosci",
+    "year": 2012
+  }, {
+    "title": "Exhumation by debris flows in the 2013",
+    "authors": ["S.W. Anderson", "S.P. Anderson", "R.S. Anderson"],
+    "venue": "Colorado Front Range storm. Geology",
+    "year": 2015
+  }, {
+    "title": "K-Ar and Fission Track Mineral Age Determination of Igneous Rocks Related to Multiple Magmatic Arc Systems Along the 23S Latitude of Chile and NW Argentina",
+    "authors": ["P.A.M. Andriessen", "K.J. Reutter"],
+    "year": 1994
+  }, {
+    "title": "Large rockslides in the Southern Central Andes of Chile (32–34.5 degrees S): tectonic control and significance for Quaternary landscape evolution",
+    "authors": ["J. Antinao", "J. Gosse"],
+    "venue": "Geomorphology",
+    "year": 2009
+  }, {
+    "title": "A reduced relevance of vegetation change for alluvial aggradation in arid",
+    "authors": ["J.L. Antinao", "E. McDonald"],
+    "venue": "zones. Geology",
+    "year": 2013
+  }, {
+    "title": "The angular velocities of the plates and the velocity of Earth’s centre from space geodesy",
+    "authors": ["D.F. Argus", "R.G. Gordon", "M.B. Heflin", "C. Ma", "R.J. Eanes", "P. Willis", "W.R. Peltier", "S.E. Owen"],
+    "venue": "Geophys. J. Int",
+    "year": 2010
+  }, {
+    "title": "From the Holocene to the Anthropocene: a historical framework for land cover change in southwestern South America in the past 15,000 years",
+    "authors": ["J.J. Armesto", "D. Manuschevich", "A. Mora", "C. Smith-Ramirez", "R. Rozzi", "A.M. Abarzua", "P.A. Marquet"],
+    "venue": "Land Use Policy",
+    "year": 2010
+  }, {
+    "title": "Coupled tectonic evolution of Andean orogeny and global climate",
+    "authors": ["R. Armijo", "R. Lacassin", "A. Coudurier-Curveur", "D. Carrizo"],
+    "venue": "Earth Sci",
+    "year": 2015
+  }, {
+    "title": "Paleogene building of the bolivian orocline: tectonic restoration of the central andes in 2-d map view",
+    "authors": ["C. Arriagada", "P. Roperch", "C. Mpodozis", "P.R. Cobbold"],
+    "venue": "Tectonics 27,",
+    "year": 2008
+  }, {
+    "title": "Episodic development of a convergent margin inferred from structures and processes along the southern Chile",
+    "authors": ["J. Bangs", "S. Cande"],
+    "venue": "margin. Tectonics",
+    "year": 1997
+  }, {
+    "title": "End member models for Andean Plateau uplift",
+    "authors": ["J. Barnes", "T. Ehlers"],
+    "venue": "Earth Planet. Sci",
+    "year": 2009
+  }, {
+    "title": "Gypsum gravel devils in Chile: movement of largest natural grains by wind",
+    "authors": ["K. Benison"],
+    "venue": "Geology",
+    "year": 2016
+  }, {
+    "title": "Controls on submarine canyon activity during sea-level highstands: the Biobio canyon system offshore Chile",
+    "authors": ["A. Bernhardt", "D. Melnick", "J. Jara-Munoz", "B. Argandona", "J. Gonzalez", "M.R. Strecker"],
+    "venue": "Geosphere",
+    "year": 2015
+  }, {
+    "title": "Shelfal sediment transport by an undercurrent forces turbidity current activity during high sea level along the Chile continental",
+    "authors": ["A. Bernhardt", "D. Hebbeln", "M. Regenberg", "A. Lückge", "M.R. Strecker"],
+    "venue": "margin. Geology",
+    "year": 2016
+  }, {
+    "title": "The effect of forest cover on peak flow and sediment discharge — an integrated field and modelling study in central-southern Chile",
+    "authors": ["S.J. Birkinshaw", "J.C. Bathurst", "A. Iroume", "H. Palacios"],
+    "venue": "Hydrol. Process",
+    "year": 2011
+  }, {
+    "title": "Contrasting landscape evolution and development of supergene enrichment in the El Salvador porphyry Cu and Potrerillos-El Hueso Cu-Au districts, Northern Chile",
+    "authors": ["T. Bissig", "R. Riquelme"],
+    "venue": "Soc. Econ. Geol. Spec. Pub. No. 14 Supergene Environments, Processes and Products,",
+    "year": 2009
+  }, {
+    "title": "Miocene landscape evolution and geomorphologic controls on epithermal processes in the El Indio-Pascua Au-Ag-Cu belt, Chile and Argentina",
+    "authors": ["T. Bissig", "A. Clark", "J. Lee", "C. Hodgson"],
+    "venue": "Econ. Geol. Bull. Soc. Econ. Geol",
+    "year": 2002
+  }, {
+    "title": "Rainfall erosivity in Central Chile",
+    "authors": ["C.A. Bonilla", "K.L. Vidal"],
+    "venue": "J. Hydrol",
+    "year": 2011
+  }, {
+    "title": "Orographic barriers, high-resolution TRMM rainfall, and relief variations along the eastern Andes",
+    "authors": ["B. Bookhagen", "M.R. Strecker"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2008
+  }, {
+    "title": "Production of cosmogenic radionuclides at great depth: a multi element approach",
+    "authors": ["R. Braucher", "S. Merchel", "J. Borgomano", "D. Bourlés"],
+    "venue": "Earth Planet. Sci",
+    "year": 2011
+  }, {
+    "title": "A simple model for regolith formation by chemical weathering",
+    "authors": ["J. Braun", "J. Mercier", "F. Guillocheau", "C. Robin"],
+    "venue": "J. Geophys. Res. Earth Surf",
+    "year": 2016
+  }, {
+    "title": "Holocene denudation rates from the superhumid southernmost Chilean Patagonian Andes (53 degrees S) deduced from lake sediment",
+    "authors": ["S. Breuer", "R. Kilian", "O. Baeza", "F. Lamy", "H. Arz"],
+    "venue": "budgets. Geomorphology",
+    "year": 2013
+  }, {
+    "title": "Glacial and tectonic control on fjord morphology and sediment deposition in the Magellan region (53 degrees S), Chile",
+    "authors": ["S. Breuer", "R. Kilian", "D. Schoerner", "W. Weinrebe", "J. Behrmann", "O. Baeza"],
+    "year": 2013
+  }, {
+    "title": "Denudation rates determined from the accumulation of in situ-produced",
+    "authors": ["E.T. Brown", "R.F. Stallard", "M.C. Larsen", "G.M. Raisebeck", "F. Yiou"],
+    "year": 1995
+  }, {
+    "title": "Holocene evolution and geochronology of a semiarid fluvial system in the western slope of the Central Andes: AMS",
+    "authors": ["A. Cabre", "G. Aguilar", "R. Riquelme"],
+    "year": 2017
+  }, {
+    "title": "New thermochronologic constraints on the evolution of the Zaldívar porphyry copper deposit, Northern Chile",
+    "authors": ["E. Campos", "J. Wijbrans", "P.A.M. Andriessen"],
+    "venue": "Mineral. Deposita",
+    "year": 2008
+  }, {
+    "title": "Late Cenozoic tectonics of the southern Chile trench",
+    "authors": ["S. Cande", "R. Leslie"],
+    "venue": "J. Geophys. Res",
+    "year": 1986
+  }, {
+    "title": "Slope and climate variability control of erosion",
+    "authors": ["S. Carretier", "V. Regard", "R. Vassallo", "G. Aguilar", "J. Martinod", "R. Riquelme", "E. Pepin", "R. Charrier", "G. Hérail", "M. Farías", "J.L. Guyot", "G. Vargas", "C. Lagane"],
+    "venue": "in the Andes of central Chile. Geology",
+    "year": 2013
+  }, {
+    "title": "2015a. A note on Be-10-derived mean erosion rates in catchments with heterogeneous lithology: examples from the western Central Andes",
+    "authors": ["S. Carretier", "V. Regard", "R. Vassallo", "J. Martinod", "F. Christophoul", "E. Gayer", "L. Audin", "C. Lagane"],
+    "venue": "Earth Surf. Process. Landf",
+    "year": 2015
+  }, {
+    "title": "Erosion in the Chilean Andes between",
+    "authors": ["S. Carretier", "V. Tolorza", "M. Rodríguez", "E. Pepin", "G. Aguilar", "V. Regard", "J. Martinod", "R. Riquelme", "S. Bonnet", "S. Brichau", "G. Hérail", "L. Pinto", "M. Farías", "R. Charrier", "J. Guyot"],
+    "year": 2015
+  }, {
+    "title": "27S and 39S: tectonic, climatic and geomorphic control",
+    "authors": ["S. Carretier", "V. Regard", "R. Vassallo", "G. Aguilar", "J. Martinod", "R. Riquelme", "F. Christophoul", "R. Charrier", "E. Gayer"],
+    "venue": "Geol. Soc. Lond. Spec. Publ",
+    "year": 2015
+  }, {
+    "title": "The Soils of Chile",
+    "authors": ["M. Casanova", "O. Salazar", "O. Seguel", "W. Luzio"],
+    "year": 2013
+  }, {
+    "title": "Eruptive parameters and dynamics of the April 2015 sub-Plinian eruptions of Calbuco Volcano (southern Chile)",
+    "authors": ["A. Castruccio", "J. Clavero", "A. Segura", "P. Samaniego", "O. Roche", "J.L. Le Pennec", "B. Droguett"],
+    "venue": "Bull. Volcanol",
+    "year": 2016
+  }, {
+    "title": "Tectono-stratigraphic evolution of the Andean orogen in Chile",
+    "authors": ["R. Charrier", "L. Pinto", "M. Rodríguez"],
+    "venue": "Geology of Chile. The Geological Society London Special Publication.,",
+    "year": 2007
+  }, {
+    "title": "Miocene development of alpine glacial relief in the Patagonian Andes, as revealed by low-temperature thermochronometry",
+    "authors": ["E.C. Christeleit", "M.T. Brandon", "D.L. Shuster"],
+    "venue": "Earth Planet. Sci",
+    "year": 2017
+  }, {
+    "title": "Video monitoring and field measurements of a rapidly evolving coastal system: the river mouth and sand spit of the Mataquito River in Chile",
+    "authors": ["R. Cienfuegos", "M. Villagran", "J.C. Aguilera", "P.A. Catalan", "B. Castelle", "R. Almar"],
+    "venue": "J. Coast. Res",
+    "year": 2014
+  }, {
+    "title": "Effects of historical land use on sediment yield from a lacustrine watershed in central Chile",
+    "authors": ["M. Cisternas", "A. Araneda", "P. Martinez", "S. Perez"],
+    "venue": "Earth Surf. Process. Landf",
+    "year": 2001
+  }, {
+    "title": "Calculation of the cosmogenic nuclide production topographic shielding scaling factor for large areas using DEMs",
+    "authors": ["A. Codilean"],
+    "venue": "Earth Surf. Process. Landf",
+    "year": 2006
+  }, {
+    "title": "Aridity-induced Miocene canyon incision",
+    "authors": ["F.J. Cooper", "B.A. Adams", "J.D. Blundy", "K.A. Farley", "R.E. McKeon", "A. Ruggiero"],
+    "venue": "in the Central Andes. Geology",
+    "year": 2016
+  }, {
+    "title": "Paleoseismology of the Mejillones Fault, northern Chile: insights from cosmogenic Be-10 and optically stimulated luminescence determinations",
+    "authors": ["A. Cortes", "L.G. Gonzalez", "S. Binnie", "R. Robinson", "Freeman", "S.P.H.T", "E.G. Vargas"],
+    "venue": "Tectonics 31,",
+    "year": 2012
+  }, {
+    "title": "Andean growth and monsoon winds drive landscape evolution at SW margin of South America",
+    "authors": ["A. Coudurier-Curveur", "R. Lacassin", "R. Armijo"],
+    "venue": "Earth Planet. Sci",
+    "year": 2015
+  }, {
+    "title": "Links between erosion, runoff, variability and seismicity in the Taiwan orogen",
+    "authors": ["S.J. Dadson", "N. Hovius", "H. Chen", "W. Dade", "M.L. Hsieh", "S. Willet", "J.C. Hu", "M.J. Horn", "M.C. Chen", "C. Stark", "D. Lague", "J.C. Lin"],
+    "venue": "Nature 426,",
+    "year": 2003
+  }, {
+    "title": "Cosmogenic nuclides in buried sediments from the hyperarid Atacama Desert, Chile",
+    "authors": ["M. Davis", "A. Matmon", "C.J. Placzek", "W. McIntosh", "D.H. Rood", "J. Quade"],
+    "venue": "Quat. Geochronol",
+    "year": 2014
+  }, {
+    "title": "The erosion/transport equation of landscape evolution models revisited",
+    "authors": ["P. Davy", "D. Lague"],
+    "venue": "J. Geophys. Res",
+    "year": 2009
+  }, {
+    "title": "New insights on the origin of the Mesón Alto deposit, Yeso Valley, central Chile: a composite deposit of glacial and landslide processes? Andean Geol",
+    "authors": ["K. Deckart", "K. Pinochet", "S.A. Sepúlveda", "L. Pinto", "S.M. Moreiras"],
+    "year": 2014
+  }, {
+    "title": "Landscape form and millennial erosion rates in the San Gabriel Mountains, CA",
+    "authors": ["R. DiBiase", "K. Whipple", "A. Heimsath", "W. Ouimet"],
+    "venue": "Earth Planet. Sci",
+    "year": 2010
+  }, {
+    "title": "The search for a topographic signature of life",
+    "authors": ["W.E. Dietrich", "J.T. Perron"],
+    "venue": "Nature",
+    "year": 2006
+  }, {
+    "title": "Soils as pacemakers and limiters of global silicate weathering",
+    "authors": ["J. Dixon", "F. von Blanckenburg"],
+    "venue": "Compt. Rendus Geosci",
+    "year": 2012
+  }, {
+    "title": "Climatic and vegetation control on sediment dynamics during the last glacial",
+    "authors": ["A. Dosseto", "P.P. Hesse", "K. Maher", "K. Fryirs", "S. Turner"],
+    "venue": "cycle. Geology",
+    "year": 2010
+  }, {
+    "title": "New time-constraints on provenance, metamorphism and exhumation of the Bahí Mansa Metamorphic Complex on the Main Chiloé Island, south-central Chile",
+    "authors": ["P. Duhart", "A. Adriasola"],
+    "venue": "Revista Geológica de Chile",
+    "year": 2008
+  }, {
+    "title": "Oligocene-Miocene age of aridity in the Atacama Desert revealed by exposure dating of erosion-sensitive",
+    "authors": ["T. Dunai", "G. Lopez", "J. Juez-Larre"],
+    "venue": "landforms. Geology",
+    "year": 2005
+  }, {
+    "title": "Rapid deforestation and fragmentation of Chilean Temperate Forests",
+    "authors": ["C. Echeverria", "D. Coomes", "J. Salas", "J.M. Rey-Benayas", "A. Lara", "A. Newton"],
+    "venue": "Biol. Conserv",
+    "year": 2006
+  }, {
+    "title": "Pliocene lahar deposits in the Coastal Cordillera of central Chile: implications for uplift, avalanche deposits, and porphyry copper systems in the Main Andean Cordillera",
+    "authors": ["A. Encinas", "V. Maksaev", "L. Pinto", "J. Le Roux", "F. Munizaga", "M. Zentilli"],
+    "venue": "J. S. Am. Earth Sci",
+    "year": 2006
+  }, {
+    "title": "Geochronologic and paleontologic evidence for a Pacific-Atlantic connection during the late Oligocene-early Miocene in the Patagonian Andes (43-44S)",
+    "authors": ["A. Encinas", "F. Pérez", "S. Nielsen", "K. Finger", "V. Valencia", "P. Duhart"],
+    "venue": "J. S. Am. Earth Sci",
+    "year": 2014
+  }, {
+    "title": "How does the Nazca Ridge subduction influence the modern Amazonian foreland",
+    "authors": ["N. Espurt", "P. Baby", "S. Brusset", "M. Roddaz", "W. Hermoza", "V. Regard", "P.O. Antoine", "R. Salas-Gismondi", "R. Bolanos"],
+    "venue": "basin? Geology",
+    "year": 2007
+  }, {
+    "title": "Flat subduction dynamics and deformation of the South American plate: insights from analog modeling",
+    "authors": ["N. Espurt", "F. Funiciello", "J. Martinod", "B. Guillaume", "V. Regard", "C. Faccenna", "S. Brusset"],
+    "venue": "Tectonics 27,",
+    "year": 2008
+  }, {
+    "title": "Multiphase development of the Atacama Planation Surface recorded by cosmogenic He-3 exposure ages: implications for uplift and Cenozoic climate change in western South America",
+    "authors": ["L.A. Evenstar", "A.J. Hartley", "F.M. Stuart", "A.E. Mather", "C.M. Rice", "G. Chong"],
+    "venue": "Geology 37,",
+    "year": 2009
+  }, {
+    "title": "Slow Cenozoic uplift of the western Andean Cordillera indicated by cosmogenic He-3 in alluvial boulders from the Pacific",
+    "authors": ["L.A. Evenstar", "F.M. Stuart", "A.J. Hartley", "B. Tattitch"],
+    "venue": "Planation Surface. Geophys. Res",
+    "year": 2015
+  }, {
+    "title": "Geomorphology on geologic timescales: evolution of the late Cenozoic Pacific paleosurface in Northern Chile and Southern Peru",
+    "authors": ["L. Evenstar", "A. Mather", "A. Hartley", "F. Stuart", "R. Sparks", "F. Cooper"],
+    "venue": "Earth Sci",
+    "year": 2017
+  }, {
+    "title": "A threshold in soil formation at Earth’s arid-hyperarid transition",
+    "authors": ["S.A. Ewing", "B. Sutter", "J. Owen", "K. Nishiizumi", "W. Sharp", "S.S. Cliff", "K. Perry", "W. Dietrich", "C.P. McKay", "R. Amundson"],
+    "venue": "Geochim. Cosmochim",
+    "year": 2006
+  }, {
+    "title": "Late Cenozoic deformation and uplift of the western flank of the Altiplano: evidence from the depositional, tectonic, and geomorphologic evolution and shallow seismic activity (northern Chile at 19◦ 30S)",
+    "authors": ["M. Farías", "Charrier", "D. Comte", "J. Martinod", "G. Hérail"],
+    "venue": "Tectonics 24,",
+    "year": 2005
+  }, {
+    "title": "Late Miocene high and rapid surface uplift and its erosional response in the Andes of Central Chile (33-35S)",
+    "authors": ["M. Farías", "Charrier", "S. Carretier", "J. Martinod", "A. Fock", "D. Campbell", "J. Caceres", "D. Comte"],
+    "venue": "Tectonics 27,",
+    "year": 2008
+  }, {
+    "title": "Land-level changes produced by the M-W",
+    "authors": ["M. Farías", "G. Vargas", "A. Tassara", "S. Carretier", "S. Baize", "D. Melnick", "K. Bataille"],
+    "venue": "Chilean earthquake. Science",
+    "year": 2010
+  }, {
+    "title": "Influence of subduction history on South American topography",
+    "authors": ["N. Flament", "M. Gurnis", "R.D. Mueller", "D.J. Bower", "L. Husson"],
+    "venue": "Earth Planet. Sci",
+    "year": 2015
+  }, {
+    "title": "Seasonality of erosion and eolian particle transport in the coastal Atacama Desert, Chile (23 degrees S)",
+    "authors": ["V. Flores-Aqueveque", "G. Vargas", "J. Rutllant", "J.P. Le Roux"],
+    "venue": "Andean Geol",
+    "year": 2009
+  }, {
+    "title": "Repeated eastward shifts of arc magmatism in the Southern Andes: a revision to the long-term pattern of Andean uplift and magmatism",
+    "authors": ["A. Folguera", "V. Ramos"],
+    "venue": "J. S. Am. Earth Sci",
+    "year": 2011
+  }, {
+    "title": "Retroarc deformation and exhumation near the end of the Andes, Southern Patagonia",
+    "authors": ["J.C. Fosdick", "M. Grove", "J.K. Hourigan", "M. Calderón"],
+    "venue": "Earth Planet. Sci",
+    "year": 2013
+  }, {
+    "title": "Andean tectonics as a consequence of see-floor spreading",
+    "authors": ["J. Frutos"],
+    "venue": "Tectoniphysics 72,",
+    "year": 1981
+  }, {
+    "title": "The climate hazards infrared precipitation with stations — a new environmental record for monitoring",
+    "authors": ["C. Funk", "P. Peterson", "M. Landsfeld", "D. Pedreros", "J. Verdin", "S. Shukla", "G. Husak", "J. Rowland", "L. Harrison", "A. Hoell", "J. Michaelsen"],
+    "venue": "extremes. Sci. Data",
+    "year": 2015
+  }, {
+    "title": "Bedrock erosion by root fracture and tree throw: a coupled biogeomorphic model to explore the humped soil production function and the persistence of hillslope soils",
+    "authors": ["E. Gabet", "S. Mudd"],
+    "venue": "J. Geophys. Res",
+    "year": 2010
+  }, {
+    "title": "Historia termal y exhumación de intrusivos de la Cordillera de la Costa de Chile Central",
+    "authors": ["P. Gana", "M. Zentilli"],
+    "venue": "IX Congreso Geológico Chileno",
+    "year": 2000
+  }, {
+    "title": "Fault-related folding, drainage network evolution and valley incision during the Neogene in the Andean",
+    "authors": ["M. Garcia", "G. Hérail"],
+    "venue": "Precordillera of Northern Chile. Geomorphology",
+    "year": 2005
+  }, {
+    "title": "Late Miocene-Holocene canyon incision in the western Altiplano, northern Chile: tectonic or climatic forcing",
+    "authors": ["M. Garcia", "R. Riquelme", "M. Farías", "G. Hérail", "R. Charrier"],
+    "venue": "J. Geol",
+    "year": 2011
+  }, {
+    "title": "Andean uplift, ocean cooling and Atacama hyperaridity: a climate modeling perspective",
+    "authors": ["R.D. Garreaud", "A. Molina", "M. Farías"],
+    "venue": "Earth Planet. Sci",
+    "year": 2010
+  }, {
+    "title": "The densest meteorite collection area in hot deserts: the San Juan meteorite field (Atacama Desert, Chile)",
+    "authors": ["J. Gattacceca", "M. Valenzuela", "M. Uehara", "A. Jull", "M. Giscard", "P. Rochette", "R. Braucher", "C. Suavet", "M. Gounelle", "D. Morata", "P. Bourot-denise", "Munayco", "D. Bourlés", "F. Demory"],
+    "venue": "Meteorit. Planet. Sci",
+    "year": 2011
+  }, {
+    "title": "Tectonic control on rock uplift, exhumation, and topography above an oceanic ridge collision: southern Patagonian Andes",
+    "authors": ["V. Georgieva", "D. Melnick", "T.F. Schildgen", "T.A. Ehlers", "Y. Lagabrielle", "E. Enkelmann", "M.R. Strecker"],
+    "venue": "Chile. Tectonics",
+    "year": 2016
+  }, {
+    "title": "Thrust belts of the southern Central Andes: along-strike variations in shortening, topography, crustal geometry, and denudation",
+    "authors": ["L. Giambiagi", "J. Mescua", "F. Bechis", "A. Tassara", "G. Hoke"],
+    "venue": "Geol. Soc. Am",
+    "year": 2012
+  }, {
+    "title": "Mesozoic to Quaternary continental margin dynamics in South-Central Chile (36–42◦ S): the apatite and zircon fission track perspective",
+    "authors": ["J. Glodny", "K. Gräfe", "H. Echtler", "M. Rosenau"],
+    "venue": "Int. J. Earth Sci",
+    "year": 2007
+  }, {
+    "title": "Dominance of tectonics over climate in Himalayan denudation",
+    "authors": ["V. Godard", "D.L. Bourlés", "F. Spinabella", "D.W. Burbank", "B. Bookhagen", "G.B. Fisher", "A. Moulin", "L. Leanni"],
+    "venue": "Geology",
+    "year": 2014
+  }, {
+    "title": "Neogene uplift of central eastern Patagonia: dynamic response to active spreading ridge subduction? Tectonics",
+    "authors": ["B. Guillaume", "J. Martinod", "L. Husson", "M. Roddaz", "R. Riquelme"],
+    "year": 2009
+  }, {
+    "title": "Dynamic topography control on Patagonian relief evolution as inferred from low temperature thermochronology",
+    "authors": ["B. Guillaume", "C. Gautheron", "T. Simon-Labric", "J. Martinod", "M. Roddaz", "E. Douville"],
+    "venue": "Earth Planet. Sci",
+    "year": 2013
+  }, {
+    "title": "Geodynamics of flat subduction: seismicity and tomographic constraints from the Andean",
+    "authors": ["M. Gutscher", "W. Spakman", "H. Bijwaard", "E. Engdahl"],
+    "venue": "margin. Tectonics",
+    "year": 2000
+  }, {
+    "title": "Tracing the impact of glacialinterglacial climate variability on erosion of the southern",
+    "authors": ["D. Hebbeln", "F. Lamy", "M. Mohtadi", "H. Echtler"],
+    "venue": "Andes. Geology",
+    "year": 2007
+  }, {
+    "title": "Source-to-sink relationships along the South-Central Chilean margin: evidence from detrital apatite fission-track analysis",
+    "authors": ["B. Heberer", "J.H. Behrmann", "M.K. Rahn"],
+    "venue": "Basin Res",
+    "year": 2011
+  }, {
+    "title": "Soil production limits and the transition to bedrock-dominated landscapes",
+    "authors": ["A.M. Heimsath", "R. DiBiase", "K. Whipple"],
+    "venue": "Nat. Geosci",
+    "year": 2012
+  }, {
+    "title": "Mid-latitude glacial erosion hotspot related to equatorial shifts in southern Westerlies",
+    "authors": ["F. Herman", "M. Brandon"],
+    "venue": "Geology",
+    "year": 2015
+  }, {
+    "title": "Plio-Pleistocene increase of erosion rates in mountain belts in response to climate change",
+    "authors": ["F. Herman", "J.D. Champagnac"],
+    "venue": "Terra Nova",
+    "year": 2016
+  }, {
+    "title": "Worldwide acceleration of mountain erosion under a cooling climate",
+    "authors": ["F. Herman", "D. Seward", "P.G. Valla", "A. Carter", "B. Kohn", "S.D. Willett", "T.A. Ehlers"],
+    "venue": "Nature 504,",
+    "year": 2013
+  }, {
+    "title": "Increase of human over natural erosion rates in tropical highlands constrained by cosmogenic",
+    "authors": ["T. Hewawasam", "F. von Blanckenburg", "M. Schaller", "P. Kubik"],
+    "venue": "nuclides. Geology",
+    "year": 2003
+  }, {
+    "title": "On the history of humans as geomorphic agents",
+    "authors": ["R. Hooke"],
+    "venue": "Geology",
+    "year": 2000
+  }, {
+    "title": "Geomorphic evidence for the post-10 Ma uplift of the western flank of the central Andes",
+    "authors": ["G. Hoke", "B. Isacks", "T. Jordan", "N. Blanco", "A. Tomlinson", "J. Ramezani"],
+    "venue": "Tectonics 26,",
+    "year": 2007
+  }, {
+    "title": "Paleosurfaces, paleoelevation, and the mechanisms for the late Miocene topographic development of the Altiplano Plateau",
+    "authors": ["G.D. Hoke", "C.N. Garzione"],
+    "venue": "Earth Planet. Sci",
+    "year": 2008
+  }, {
+    "title": "The great Atacama flood of 2001 and its implications for Andean hydrology",
+    "authors": ["J. Houston"],
+    "venue": "Hydrol. Process",
+    "year": 2006
+  }, {
+    "title": "Variability of precipitation in the Atacama Desert: its causes and hydrological impact",
+    "authors": ["J. Houston"],
+    "venue": "Int. J. Climatol",
+    "year": 2006
+  }, {
+    "title": "Sediment flux from a mountain belt derived by landslide",
+    "authors": ["N. Hovius", "C.P. Stark", "P.A. Allen"],
+    "venue": "mapping. Geology",
+    "year": 1997
+  }, {
+    "title": "Prolonged seismically induced erosion and the mass balance of a large earthquake",
+    "authors": ["N. Hovius", "P. Meunier", "C.W. Lin", "H. Chen", "Y.G. Chen", "S. Dadson", "M.J. Horng", "M. Lines"],
+    "venue": "Earth Planet. Sci",
+    "year": 2011
+  }, {
+    "title": "Effect of Pinus radiata and Eucalyptus globulus plantations on water resource in the Coastal Range of Biobio region, Chile",
+    "authors": ["A. Huber", "A. Iroume", "C. Mohr", "C. Frene"],
+    "year": 2010
+  }, {
+    "title": "Spatial and temporal variability in denudation across the Bolivian Andes from multiple geochronometers",
+    "authors": ["N. Insel", "T.A. Ehlers", "M. Schaller", "J.B. Barnes", "S. Tawackoli", "C.J. Poulsen"],
+    "venue": "Geomorphology",
+    "year": 2010
+  }, {
+    "title": "Runoff and peak flow responses to timber harvest and forest age in southern Chile",
+    "authors": ["A. Iroumé", "O. Mayen", "A. Huber"],
+    "venue": "Hydrol. Process",
+    "year": 2006
+  }, {
+    "title": "Large wood mobility processes in low-order Chilean river",
+    "authors": ["A. Iroumé", "L. Mao", "A. Andreoli", "H. Ulloa", "M. Paz Ardiles"],
+    "venue": "channels. Geomorphology",
+    "year": 2015
+  }, {
+    "title": "Classification of debris-covered glaciers and rock glaciers in the Andes of central Chile",
+    "authors": ["J.R. Janke", "A.C. Bellisario", "F.A. Ferrando"],
+    "venue": "Geomorphology",
+    "year": 2015
+  }, {
+    "title": "Vegetation-precipitation controls on Central Andean topography",
+    "authors": ["M. Jeffery", "B. Yanites", "C. Poulsen", "T. Ehlers"],
+    "venue": "J. Geophys. Res. Earth Surf",
+    "year": 2014
+  }, {
+    "title": "Uplift of the Altiplano Puna plateau: a view from the west",
+    "authors": ["T. Jordan", "P. Nester", "N. Blanco", "G. Hoke", "F. Dávila", "A. Tomlinson"],
+    "venue": "Tectonics 29,",
+    "year": 2010
+  }, {
+    "title": "Landscape modification in response to repeated onset of hyperarid paleoclimate states since 14 Ma, Atacama Desert, Chile",
+    "authors": ["T.E. Jordan", "N.E. Kirk-Lawlor", "N.P. Blanco", "J.A. Rech", "N.J. Cosentino"],
+    "venue": "Geol. Soc. Am",
+    "year": 2014
+  }, {
+    "title": "Thermal and exhumation history of the coastal cordillera arc of northern Chile revealed by thermochronological dating",
+    "authors": ["J. Juez-Larré", "N. Kukowski", "T.J. Dunai", "A.J. Hartley", "P.A. Andriessen"],
+    "venue": "Tectonophysics 495,",
+    "year": 2010
+  }, {
+    "title": "Water and sediment discharge from small mountainous rivers, Taiwan: the roles of lithology, episodic events, and human activities",
+    "authors": ["S. Kao", "J. Milliman"],
+    "venue": "J. Geol",
+    "year": 2008
+  }, {
+    "title": "Wind erosion in the Qaidam basin, central Asia: implications for tectonics, paleoclimate, and the source of the Loess Plateau",
+    "authors": ["P. Kapp", "J. Pelletier", "A. Rohrmann", "R. Heermance", "J. Russell", "L. Ding"],
+    "venue": "GSA Today",
+    "year": 2011
+  }, {
+    "title": "Erosion rates and erosion patterns of Neogene to Quaternary stratovolcanoes in the Western Cordillera of the Central Andes: an SRTM DEM based analysis",
+    "authors": ["D. Karatson", "T. Telbisz", "G. Woerner"],
+    "venue": "Geomorphology",
+    "year": 2012
+  }, {
+    "title": "The relationship between particle travel distance and channel morphology: results from physical models of braided rivers",
+    "authors": ["A. Kasprak", "J.M. Wheaton", "P.E. Ashmore", "J.W. Hensleigh", "S. Peirce"],
+    "venue": "J. Geophys. Res. Earth Surf",
+    "year": 2015
+  }, {
+    "title": "Late Miocene to Early Pliocene paleohydrology and landscape evolution of Northern Chile, 19 degrees to 20 degrees S",
+    "authors": ["N.E. Kirk-Lawlor", "T.E. Jordan", "J.A. Rech", "S.B. Lehmann"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2013
+  }, {
+    "title": "Tectonic shortening and crustal thickness in the Central Andes: how good is the correlation? Geology",
+    "authors": ["J. Kley", "C. Monaldi"],
+    "year": 1998
+  }, {
+    "title": "Denudation rates and a topography-driven rainfall threshold in northern Chile: multiple cosmogenic nuclide data and sediment yield budgets",
+    "authors": ["F. Kober", "S. Ivy-Ochs", "F. Schlunegger", "H. Baur", "P. Kubik", "R. Wieleb"],
+    "venue": "Geomorphology",
+    "year": 2007
+  }, {
+    "title": "Complex multiple cosmogenic nuclide concentration and histories in the arid Rio Lluta catchment, northern Chile",
+    "authors": ["F. Kober", "S. Ivy-Ochs", "G. Zeilinger", "F. Schlunegger", "P. Kubik", "H. Baur", "R. Wieler"],
+    "venue": "Earth Surf. Proc. Land",
+    "year": 2009
+  }, {
+    "title": "Synchronous acceleration of ice loss and glacial erosion, Glaciar Marinelli, Chilean Tierra del Fuego",
+    "authors": ["M. Koppes", "B. Hallet", "J. Anderson"],
+    "venue": "J. Glaciol",
+    "year": 2009
+  }, {
+    "title": "Observed latitudinal variations in erosion as a function of glacier dynamics",
+    "authors": ["M. Koppes", "B. Hallet", "E. Rignot", "J. Mouginot", "J.S. Wellner", "K. Boldt"],
+    "venue": "Nature 526,",
+    "year": 2015
+  }, {
+    "title": "Recent research on landslide dams — a literature review with special attention to New Zealand",
+    "authors": ["O. Korup"],
+    "venue": "Prog. Phys. Geogr",
+    "year": 2002
+  }, {
+    "title": "Japan’s sediment flux to the Pacific Ocean revisited",
+    "authors": ["O. Korup", "Y. Hayakawa", "A.T. Codilean", "Y. Matsushi", "H. Saito", "T. Oguchi", "H. Matsuzaki"],
+    "venue": "Earth-Sc. Rev",
+    "year": 2014
+  }, {
+    "title": "The tectonic history of Drake Passage and its possible impacts on global climate",
+    "authors": ["Y. Lagabrielle", "Y. Godderis", "Y. Donnadieu", "J. Malavieille", "M. Suarez"],
+    "venue": "Earth Planet. Sci",
+    "year": 2009
+  }, {
+    "title": "Bed load transport in turbulent flow at the grain scale: experiments and modeling",
+    "authors": ["E. Lajeunesse", "L. Malverti", "F. Charru"],
+    "venue": "J. Geophys. Res. Earth Surf",
+    "year": 2010
+  }, {
+    "title": "Cenozoic climate change as a possible cause for the rise of the Andes",
+    "authors": ["S. Lamb", "P. Davis"],
+    "venue": "Nature 425,",
+    "year": 2003
+  }, {
+    "title": "Terrigenous sediment supply along the Chilean continental margin: modern regional patterns of texture and composition",
+    "authors": ["F. Lamy", "D. Hebbeln", "G. Wefer"],
+    "venue": "Geol. Rundsch",
+    "year": 1998
+  }, {
+    "title": "Holocene changes in the position and intensity of the southern westerly wind belt",
+    "authors": ["F. Lamy", "R. Kilian", "H.W. Arz", "J.P. Francois", "J. Kaiser", "M. Prange", "T. Steinke"],
+    "venue": "Nat. GeoSci",
+    "year": 2010
+  }, {
+    "title": "Revealing the impact of forest exotic plantations on water yield in large scale watersheds in South-Central Chile",
+    "authors": ["C. Little", "A. Lara", "J. McPhee", "R. Urrutia"],
+    "venue": "J. Hydrol",
+    "year": 2009
+  }, {
+    "title": "Extraordinary sediment delivery and rapid geomorphic response following the 2008–2009 eruption of Chaiten Volcano, Chile",
+    "authors": ["J.J. Major", "D. Bertin", "T.C. Pierson", "A. Amigo", "A. Iroume", "H. Ulloa", "J. Castro"],
+    "venue": "Wat. Resour. Res",
+    "year": 2016
+  }, {
+    "title": "Fission track thermochronology of the Domeyko Cordillera, northern Chile; implications for andean tectonics and porphyry copper metallogenesis",
+    "authors": ["V. Maksaev", "M. Zentilli"],
+    "venue": "Explor. Min. Geol",
+    "year": 1999
+  }, {
+    "title": "Fission track thermochronology of Neogene plutons in the Principal Andean Cordillera of central Chile",
+    "authors": ["V. Maksaev", "F. Munizaga", "M. Zentilli", "R. Charrier"],
+    "year": 2009
+  }, {
+    "title": "Timing of the magmatism of the paleo-Pacific border of Gondwana: U-Pb geochronology of Late Paleozoic to Early Mesozoic igneous rocks of the north Chilean Andes between 20 and 31S",
+    "authors": ["V. Maksaev", "F. Munizaga", "C. Tassinari"],
+    "venue": "Andean Geol",
+    "year": 2014
+  }, {
+    "title": "Temporal dynamics of suspended sediment transport in a glacierized",
+    "authors": ["L. Mao", "Carrillo"],
+    "venue": "Andean basin. Geomorphology",
+    "year": 2017
+  }, {
+    "title": "Flume and field-based calibration of surrogate sensors for monitoring bedload transport",
+    "authors": ["L. Mao", "R. Carrillo", "C. Escauriaza", "A. Iroume"],
+    "venue": "Geomorphology",
+    "year": 2016
+  }, {
+    "title": "A seismologically consistent expression for the total area and volume of earthquake-triggered landsliding",
+    "authors": ["O. Marc", "N. Hovius", "P. Meunier", "T. Gorum", "T. Uchida"],
+    "venue": "J. Geophys. Res. Earth Surf",
+    "year": 2016
+  }, {
+    "title": "Tectonic and climatic controls on the Chuquibamba landslide (western Andes, southern Perú)",
+    "authors": ["A. Margirier", "L. Audin", "J. Carcaillet", "S. Schwartz", "C. Benavente"],
+    "venue": "Earth Surf",
+    "year": 2015
+  }, {
+    "title": "Déformations néogènes le long de la côte nord du Chili (23-27◦ S), avant-arc des Andes centrales.Ph.D",
+    "authors": ["C. Marquardt"],
+    "year": 2005
+  }, {
+    "title": "The CREp program and the ICE-D production rate calibration database: a fully parameterizable and updated online tool to compute cosmic-ray exposure",
+    "authors": ["L. Martin", "P. Blard", "G. Balco", "J. Lave", "R. Delunel", "N. Lifton", "V. Laurent"],
+    "venue": "ages. Quat. Geochronol",
+    "year": 2017
+  }, {
+    "title": "Late Cretaceous to Cenozoic deformation and exhumation of the Chilean Frontal Cordillera (28◦–29◦S)",
+    "authors": ["F. Martinez", "M. Parra", "C. Arriagada", "A. Mora", "S. Bascuñan", "M. Peña"],
+    "venue": "Central Andes. J. Geodyn",
+    "year": 2017
+  }, {
+    "title": "Horizontal subduction zones, convergence velocity and the building of the Andes",
+    "authors": ["J. Martinod", "L. Husson", "P. Roperch", "B. Guillaume", "N. Espurt"],
+    "venue": "Earth Planet. Sci",
+    "year": 2010
+  }, {
+    "title": "Effect of aseismic ridge subduction on slab geometry and overriding plate deformation: insights from analogue modeling",
+    "authors": ["J. Martinod", "B. Guillaume", "N. Espurt", "C. Faccenna", "F. Funiciello", "V. Regard"],
+    "year": 2013
+  }, {
+    "title": "Pleistocene uplift, climate and morphological segmentation of the Northern Chile coasts",
+    "authors": ["J. Martinod", "V. Regard", "R. Riquelme", "G. Aguilar", "B. Guillaume", "S. Carretier", "J. Cortes-Aranda", "L. Leanni", "G. Herail"],
+    "year": 2016
+  }, {
+    "title": "Field-based and spectral indicators for soil erosion mapping in semi-arid Mediterranean environments (Coastal Cordillera of central Chile)",
+    "authors": ["R. Mathieu", "B. Cervelle", "D. Remy", "M. Pouget"],
+    "venue": "Earth Surf. Proc. Land",
+    "year": 2007
+  }, {
+    "title": "Seismic origin of the Atacama",
+    "authors": ["A. Matmon", "J. Quade", "C. Placzek", "D. Fink", "M. Arnold", "G. Aumaitre", "D. Bourlés", "K. Keddadouche", "A. Copeland", "J.W. Neilson", "A. Team"],
+    "venue": "Desert boulder fields. Geomorphology",
+    "year": 2015
+  }, {
+    "title": "Application of apatite (U-Th)/He thermochronometry to the determination of the sense and amount of vertical fault displacement at the Chuquicamata porphyry copper deposit, Chile",
+    "authors": ["B.I.A. McInnes", "K.A. Farley", "R.H. Sillitoe", "B.P. Kohn"],
+    "venue": "Econ. Geol",
+    "year": 1999
+  }, {
+    "title": "Millennial-scale record of landslides in the Andes consistent with earthquake trigger",
+    "authors": ["D. McPhillips", "P.R. Bierman", "D.H. Rood"],
+    "venue": "Nat. GeoSci",
+    "year": 2014
+  }, {
+    "title": "The kinematic history of the central Andean fold-thrust belt, Bolivia: implications for building a high plateau",
+    "authors": ["N. McQuarrie"],
+    "venue": "Geol. Soc. Am",
+    "year": 2002
+  }, {
+    "title": "Inversion of forearc basins in south-central Chile caused by rapid glacial age trench",
+    "authors": ["D. Melnick", "M. Echtler"],
+    "venue": "fill. Geology",
+    "year": 2006
+  }, {
+    "title": "Incipient axial collapse of the Main Cordillera and strain partitioning gradient between the central and Patagonian",
+    "authors": ["D. Melnick", "F. Charlet", "H.P. Echtler", "M. De Batist"],
+    "year": 2006
+  }, {
+    "title": "Late Miocene earliest Pliocene glaciation in southern Argentina — implications for global icesheet history",
+    "authors": ["J. Mercer", "J. Sutter"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 1982
+  }, {
+    "title": "Different times, same story: native forest loss and landscape homogenization in three physiographical areas of south-central of Chile",
+    "authors": ["A. Miranda", "A. Altamirano", "L. Cayuela", "F. Pincheira", "A. Lara"],
+    "venue": "Appl. Geogr",
+    "year": 2015
+  }, {
+    "title": "Native forest loss in the Chilean biodiversity hotspot: revealing the evidence",
+    "authors": ["A. Miranda", "A. Altamirano", "L. Cayuela", "A. Lara", "M. Gonzalez"],
+    "venue": "Reg. Environ. Chang",
+    "year": 2017
+  }, {
+    "title": "Runoff generation and soil erosion processes after clear cutting",
+    "authors": ["C.H. Mohr", "R. Coppus", "A. Iroumé", "A. Huber", "A. Bronstert"],
+    "venue": "J. Geophys. Res. Earth Surf",
+    "year": 2013
+  }, {
+    "title": "Seasonal logging, process response, and geomorphic work",
+    "authors": ["C.H. Mohr", "A. Zimmermann", "O. Korup", "A. Iroume", "T. Francke", "A. Bronstert"],
+    "venue": "Earth Surf",
+    "year": 2014
+  }, {
+    "title": "Mechanisms and variations of the paleoproductivity off northern Chile (24–33◦ S) during the last 40,000 years",
+    "authors": ["M. Mohtadi", "D. Hebbeln"],
+    "venue": "Paleooceanography 19,",
+    "year": 2004
+  }, {
+    "title": "Late Cenozoic uplift of mountain ranges and global climate change: chicken or egg",
+    "authors": ["P. Molnar", "P. England"],
+    "venue": "Nature 346,",
+    "year": 1990
+  }, {
+    "title": "Megalandslides in the Andes of central Chile and Argentina",
+    "authors": ["S.M. Moreiras", "S.A. Sepúlveda"],
+    "year": 2014
+  }, {
+    "title": "Uplift of the western border of the Altiplano on a west-vergent thrust system, Northern Chile",
+    "authors": ["N. Muñoz", "R. Charrier"],
+    "venue": "J. S. Am. Earth Sci",
+    "year": 1996
+  }, {
+    "title": "Isotopic shifts in the Cenozoic Andean arc of central Chile: records of an evolving basement throughout cordilleran arc mountain",
+    "authors": ["M. Muñoz", "M. Farias", "R. Charrier", "C.M. Fanning", "M. Polve", "K. Deckart"],
+    "venue": "building. Geology",
+    "year": 2013
+  }, {
+    "title": "Recent sedimentation and mass accumulation rates based on Pb-210 along the Peru-Chile continental margin",
+    "authors": ["P. Muñoz", "C. Lange", "D. Gutierrez", "D. Hebbeln", "M. Salamanca", "L. Dezileau", "J. Reyss", "L. Benninger"],
+    "venue": "Deep-Sea Res. Part II Top. Stud. Oceanogr",
+    "year": 2004
+  }, {
+    "title": "Land-cover change to forest plantations: proximate causes and implications for the landscape in south-central Chile",
+    "authors": ["L. Nahuelhual", "A. Carmona", "A. Lara", "C. Echeverría", "M.E. González"],
+    "venue": "Landsc. Urban Plan",
+    "year": 2012
+  }, {
+    "title": "Setting the length and time scales of a cellular automaton dune model from the analysis of superimposed bed forms",
+    "authors": ["C. Narteau", "D. Zhang", "O. Rozier", "P. Claudin"],
+    "venue": "J. Geophys. Res. Earth Surf",
+    "year": 2009
+  }, {
+    "title": "Remnants of a fossil alluvial fan landscape of Miocene age in the Atacama Desert of northern Chile using cosmogenic nuclide exposure age dating",
+    "authors": ["K. Nishiizumi", "M. Caffee", "R. Finkel", "G. Brimhall", "T. Motel"],
+    "venue": "Earth Surf",
+    "year": 2005
+  }, {
+    "title": "Major hydrological regime change along the semiarid western coast of South America during the early Holocene",
+    "authors": ["C. Ortega", "G. Vargas", "J. Rutlant", "D. Jackson", "C. Méndez"],
+    "venue": "Quat. Res",
+    "year": 2012
+  }, {
+    "title": "Major historical rainfalls in central chile and the chronology of ENSO events during the 16th–19th-centuries",
+    "authors": ["L. Ortlieb"],
+    "venue": "Rev. Chil. Hist. Nat",
+    "year": 1994
+  }, {
+    "title": "Beyond threshold hillslopes: channel adjustment to base-level fall in tectonically active mountain",
+    "authors": ["W.B. Ouimet", "K.X. Whipple", "D.E. Granger"],
+    "venue": "ranges. Geology",
+    "year": 2009
+  }, {
+    "title": "The sensitivity of hillslope bedrock erosion to precipitation",
+    "authors": ["J.J. Owen", "R. Amundson", "W.E. Dietrich", "K. Nishiizumi", "B. Sutter", "G. Chong"],
+    "venue": "Earth Surf. Proc. Land",
+    "year": 2011
+  }, {
+    "title": "Le chili semi-aride. recherches géomorphologiques",
+    "authors": ["R. Paskoff"],
+    "venue": "Biscaye Fréres, Bordeaux,",
+    "year": 1970
+  }, {
+    "title": "Sobre la evolucion geomorfologica del gran acantilado costero del norte de chile, norte grande",
+    "authors": ["R. Paskoff"],
+    "venue": "Inst. Geogr. Univ. Catol. Chile",
+    "year": 1979
+  }, {
+    "title": "Specific suspended sediment yields of the Andean rivers of Chile and their relationship to climate, slope and vegetation",
+    "authors": ["E. Pepin", "S. Carretier", "J. Guyot", "F. Escobar"],
+    "venue": "Hydrol. Sci. J",
+    "year": 2010
+  }, {
+    "title": "Hydrogeomorphic Effects of Explosive Volcanic Eruptions on Drainage Basins",
+    "authors": ["T.C. Pierson", "J.J. Major"],
+    "venue": "Annual Review of Earth and Planetary Sciences",
+    "year": 2014
+  }, {
+    "title": "Acute sedimentation response to rainfall following the explosive phase of the 2008–2009 eruption of Chaiten Volcano, Chile",
+    "authors": ["T.C. Pierson", "J.J. Major", "A. Amigo", "H. Moreno"],
+    "venue": "Bul. Volcanol",
+    "year": 2013
+  }, {
+    "title": "Continental erosion and large scale relief",
+    "authors": ["P. Pinet", "M. Souriau"],
+    "venue": "Tectonics",
+    "year": 1988
+  }, {
+    "title": "Syntectonic sedimentation associated with Neogene structures in the Precordillera of Moquella Zone, Tarapaci (19 degrees 15′S, Northern Chile)",
+    "authors": ["L. Pinto", "G. Herail", "R. Charrier"],
+    "venue": "Rev. Geol. Chile",
+    "year": 2004
+  }, {
+    "title": "Neogene erosion and. uplift of the western edge of the Andean Plateau as determined by detrital heavy mineral analysis",
+    "authors": ["L. Pinto", "G. Herail", "F. Fontan", "P. de Parseval"],
+    "venue": "Sediment. Geol",
+    "year": 2007
+  }, {
+    "title": "A Neogene giant landslide in Tarapaca, northern Chile: a signal of instability of the westernmost Altiplano and palaeoseismicity effects",
+    "authors": ["L. Pinto", "G. Herail", "S.A. Sepulveda", "P. Krop"],
+    "venue": "Geomorphology",
+    "year": 2008
+  }, {
+    "title": "Along-strike segmentation of the Abanico basin, central Chile: new chronological, geochemical and structural constraints",
+    "authors": ["J. Piquer", "P. Hollings", "O. Rivera", "D.R. Cooke", "M. Baker", "F. Testa"],
+    "venue": "Lithos 26-271,",
+    "year": 2017
+  }, {
+    "title": "Geomorphic process rates in the central Atacama Desert, Chile: insights from cosmogenic nuclides and implications for the onset of Hyperaridity",
+    "authors": ["C. Placzek", "D.E. Granger", "A. Matmon", "J. Quade", "U. Ryb"],
+    "venue": "Am. J. Sci",
+    "year": 2014
+  }, {
+    "title": "Understanding Earths eroding surface with",
+    "authors": ["E. Portenga", "P. Bierman"],
+    "year": 2011
+  }, {
+    "title": "Seismicity and the strange rubbing boulders of the Atacama Desert, northern Chile",
+    "authors": ["J. Quade", "P. Reiners", "C. Placzek", "A. Matmon", "M. Pepper", "L. Ojha", "K. Murray"],
+    "venue": "Geology",
+    "year": 2012
+  }, {
+    "title": "Tectonic and climatic effects in the morphologic configuration of the coastal relief of northern Chile",
+    "authors": ["J. Quezada", "J.L. Cerda", "A. Jensen"],
+    "venue": "Andean Geol",
+    "year": 2010
+  }, {
+    "title": "Late Cenozoic glaciations in Patagonia and Tierra del Fuego",
+    "authors": ["J. Rabassa"],
+    "venue": "Dev. Quat. Sci",
+    "year": 2008
+  }, {
+    "title": "Seismic ridge subduction and topography: foreland deformation in the Patagonian Andes",
+    "authors": ["V. Ramos"],
+    "venue": "Tectonophysics",
+    "year": 2005
+  }, {
+    "title": "Southern Patagonian Plateau basalts and deformation — backarc testimony of ridge collisions",
+    "authors": ["V. Ramos", "S. Kay"],
+    "venue": "Tectonophysics",
+    "year": 1992
+  }, {
+    "title": "The Pampean flat-slab of the Central Andes",
+    "authors": ["V. Ramos", "E. Cristallini", "D. Perez"],
+    "venue": "J. S. Am. Earth Sci",
+    "year": 2002
+  }, {
+    "title": "Tectonic forcing of late",
+    "authors": ["M. Raymo", "W. Ruddiman"],
+    "venue": "Cenozoic climate. Nature",
+    "year": 1992
+  }, {
+    "title": "Environmental controls on",
+    "authors": ["R. Reber", "R. Delunel", "F. Schlunegger", "C. Litty", "A. Madella", "N. Akçar", "M. Christl"],
+    "year": 2017
+  }, {
+    "title": "Neogene climate change and uplift in the Atacama Desert",
+    "authors": ["J. Rech", "B. Currie", "G. Michalski", "A. Cowan"],
+    "venue": "Chile. Geology",
+    "year": 2006
+  }, {
+    "title": "Late Holocene seacliff retreat recorded by Be-10 profiles across a coastal platform: theory and example from the English Channel",
+    "authors": ["V. Regard", "T. Dewez", "D.L. Bourlés", "R.S. Anderson", "A. Duperret", "S. Costa", "L. Leanni", "E. Lasseur", "K. Pedoja", "G.M. Maillet"],
+    "venue": "Quat. Geochronol",
+    "year": 2012
+  }, {
+    "title": "The topographic imprint of a transient climate episode: the western Andean flank between 15.5 and 41.5◦",
+    "authors": ["K. Rehak", "B. Bookhagen", "M. Strecker", "H.P. Echtler"],
+    "venue": "S. Earth Surf. Proc. Land",
+    "year": 2010
+  }, {
+    "title": "Supergene enrichment of copper deposits since the onset of modern hyperaridity in the Atacama Desert, Chile",
+    "authors": ["M. Reich", "C. Palacios", "G. Vargas", "S. Luo", "E. Cameron", "M. Parada", "A. Zuniga", "C. You"],
+    "venue": "Mineral. Deposita",
+    "year": 2009
+  }, {
+    "title": "Low-temperature thermochronologic trends across the central Andes, 21–28◦",
+    "authors": ["P. Reiners", "S. Thomson", "A. Vernon", "S. Willett", "M. Zattin", "J. Einhorn", "G. Gehrels", "J. Quade", "D. Pearson", "K. Murray", "W. Cavazza"],
+    "venue": "S. Memoir of the Geological Society of America",
+    "year": 2015
+  }, {
+    "title": "A geomorphological approach to determining the Neogene to Recent tectonic deformation in the Coastal Cordillera of northern Chile (Atacama)",
+    "authors": ["R. Riquelme", "J. Martinod", "G. Hérail", "J. Darrozes", "R. Charrier"],
+    "year": 2003
+  }, {
+    "title": "Late Cenozoic geomorphologic signal of Andean forearc deformation and tilting associated with the uplift and climate changes of the Southern Atacama Desert (26S-28S)",
+    "authors": ["R. Riquelme", "G. Hérail", "J. Martinod", "R. Charrier", "J. Darrozes"],
+    "venue": "Geomorphology",
+    "year": 2007
+  }, {
+    "title": "Long-term denudation rates from the Central Andes (Chile) estimated from a digital elevation model using the black top hat function and inverse distance weighting: implications for the Neogene climate of the Atacama Desert",
+    "authors": ["R. Riquelme", "J. Darrozes", "E. Maire", "G. Hérail", "J.C. Soula"],
+    "venue": "Rev. Geol. Chile",
+    "year": 2008
+  }, {
+    "title": "Late Pleistocene-early Holocene paraglacial and fluvial sediment history in the Turbio Valley, semiarid Chilean Andes",
+    "authors": ["R. Riquelme", "C. Rojas", "G. Aguilar", "P. Flores"],
+    "venue": "Quat. Res",
+    "year": 2011
+  }, {
+    "title": "Geochronology of pediments and marine terraces in north-central Chile and their implications for Quaternary uplift in the Western Andes",
+    "authors": ["M. Rodríguez", "S. Carretier", "R. Charrier", "M. Saillard", "V. Regard", "G. Hérail", "S. Hall", "D. Farber", "L. Audin"],
+    "year": 2013
+  }, {
+    "title": "Alzamiento y ehumación cenozoicos sobre la zona sur del semento de subducción plana de Chile (28.5–32◦ S).Ph.D",
+    "authors": ["M. Rodríguez"],
+    "year": 2014
+  }, {
+    "title": "Neogene landscape evolution in the Andes of north-central Chile between 28 and 32◦ S: interplay between tectonic and erosional processes",
+    "authors": ["M. Rodríguez", "G. Aguilar", "C. Urresty", "R. Charrier"],
+    "venue": "Geol. Soc. Lond. Spec. Publ. 399,",
+    "year": 2014
+  }, {
+    "title": "Evidence for nonlinear, diffusive sediment transport on hillslopes and implications for landscape morphology",
+    "authors": ["J.J. Roering", "J.W. Kirchner", "W.E. Dietrich"],
+    "venue": "Wat. Resour. Res",
+    "year": 1999
+  }, {
+    "title": "Chronology of Chilean Frontal Cordillera building from geochronological, stratigraphic and geomorphological data insights from Miocene intramontane-basin deposits",
+    "authors": ["K. Rossel", "G. Aguilar", "E. Salazar", "J. Martinod", "S. Carretier", "L. Pinto", "A. Cabré"],
+    "venue": "Basin Res. online,",
+    "year": 2016
+  }, {
+    "title": "Trench-parallel flow beneath the Nazca plate from seismic anisotropy",
+    "authors": ["R. Russo", "P. Silver"],
+    "venue": "Science",
+    "year": 1994
+  }, {
+    "title": "Erosion rates driven by channel network incision in the Bolivian Andes",
+    "authors": ["E. Safran", "P. Bierman", "R. Aalto", "T. Dunne", "K. Whipple", "M. Caffee"],
+    "venue": "Earth Surf. Proc. Land",
+    "year": 2005
+  }, {
+    "title": "Non-steady long-term uplift rates and Pleistocene marine terrace development along the Andean margin of Chile (31◦ S) inferred from 10Be dating",
+    "authors": ["M. Saillard", "S.R. Hall", "L. Audin", "D.L. Farber", "G. Hérail", "J. Martinod", "V. Regard", "R.C. Finkel", "F. Bondoux"],
+    "venue": "Earth Planet. Sci",
+    "year": 2009
+  }, {
+    "title": "Uplift of the western margin of the Andean plateau revealed from canyon incision",
+    "authors": ["T. Schildgen", "K. Hodges", "K. Whipple", "P. Reiners", "M. Pringle"],
+    "venue": "history, southern Peru. Geology",
+    "year": 2007
+  }, {
+    "title": "Sedimentology-based reconstructions of paleoclimate changes in the Central Andes in response to the uplift of the Andes, Arica region between 19 and 21◦ S latitude, northern Chile",
+    "authors": ["F. Schlunegger", "F. Kober", "G. Zeilinger", "R. von Rotz"],
+    "venue": "Int. J. Earth Sci",
+    "year": 2010
+  }, {
+    "title": "Late Miocene increase in precipitation in the Western Cordillera of the Andes",
+    "authors": ["F. Schlunegger", "K. Norton", "R. Delunel", "T. Ehlers", "A. Madella"],
+    "year": 2017
+  }, {
+    "title": "Peru-Chile trench sediment and sea-floor spreading",
+    "authors": ["D. Scholl", "M. Christensen", "R. Huene", "M. Marlow"],
+    "venue": "Geol. Soc. Am. Bull",
+    "year": 1970
+  }, {
+    "title": "Twentieth century agricultural drainage creates more erosive rivers",
+    "authors": ["S.P. Schottler", "J. Ulrich", "P. Belmont", "R. Moore", "J.W. Lauer", "D.R. Engstrom", "J.E. Almendinger"],
+    "venue": "Hydrol. Process",
+    "year": 2014
+  }, {
+    "title": "Using Cs-137 and Pb-210(ex) and other sediment source fingerprints to document suspended sediment sources in small forested catchments in south-central Chile",
+    "authors": ["P. Schuller", "D.E. Walling", "A. Iroume", "C. Quilodran", "A. Castillo", "A. Navas"],
+    "venue": "J. Environ. Radioact",
+    "year": 2013
+  }, {
+    "title": "First air-sea flux mooring measurements in the Southern Ocean",
+    "authors": ["E.W. Schulz", "S.A. Josey", "R. Verein"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2012
+  }, {
+    "title": "Debris flows in the Andean ranges of central Chile and Argentina triggered by 2013 summer storms: characteristics and consequences",
+    "authors": ["S. Sepúlveda", "S. Moreiras", "M. Lara", "A. Alfaro"],
+    "venue": "Landslides",
+    "year": 2015
+  }, {
+    "title": "Supergene oxidized and enriched porphyry copper and related deposits",
+    "authors": ["R. Sillitoe"],
+    "year": 2005
+  }, {
+    "title": "Coupling of South American and African Plate motion and plate deformation",
+    "authors": ["P. Silver", "R. Russo", "C. Lithgow-Bertelloni"],
+    "venue": "Science",
+    "year": 1998
+  }, {
+    "title": "Volcanism and erosion during the past 930 ky at the Tatara San Pedro complex, Chilean Andes",
+    "authors": ["B. Singer", "R. Thompson", "M. Dungan", "T. Feeley", "S. Nelson", "J. Pickens", "L. Brown", "A. Wulff", "J. Davidson", "J. Metzger"],
+    "venue": "Geol. Soc. Am",
+    "year": 1997
+  }, {
+    "title": "Solevantamiento andino, erosion y emplazamiento de brechas mineralizadas en el depósito de cobre porfídico Los Bronces, Chile central (33◦",
+    "authors": ["M. Skewes", "C. Holmgren"],
+    "venue": "S), aplicación de geotermometría de inclusiones fluidas. Rev. Geol. Chile",
+    "year": 1993
+  }, {
+    "title": "Tectonic response of the central Chilean margin (35–38◦ S) to the collision and subduction of heterogeneous oceanic crust: a thermochronological study",
+    "authors": ["R. Spikings", "M. Dungan", "J. Foeken", "A. Carter", "L. Page", "F. Stuart"],
+    "venue": "J. Geol",
+    "year": 2008
+  }, {
+    "title": "Geologie von Peru. Heidelberg, Carl Winters Universitäts Buchhandlung",
+    "authors": ["G. Steinmann"],
+    "year": 1929
+  }, {
+    "title": "Air pressure and cosmogenic isotope production",
+    "authors": ["J. Stone"],
+    "venue": "J. Geophys. Res",
+    "year": 2000
+  }, {
+    "title": "Sediment flux and the Anthropocene",
+    "authors": ["J.P.M. Syvitski", "A. Kettner"],
+    "venue": "Philos. Trans. R. Soc. A Math. Phys. Eng. Sci",
+    "year": 2011
+  }, {
+    "title": "Geology, geography, and humans battle for dominance over the delivery of fluvial sediment to the coastal ocean",
+    "authors": ["J. Syvitski", "J. Milliman"],
+    "venue": "J. Geol",
+    "year": 2007
+  }, {
+    "title": "Mesozoic-Cenozoic denudation history of the Patagonian Andes (southern Chile) and its correlation to different subduction",
+    "authors": ["S.N. Thomson", "F. Hervé", "B. Stockhert"],
+    "venue": "processes. Tectonics",
+    "year": 2001
+  }, {
+    "title": "Glaciation as a destructive and constructive control on mountain building",
+    "authors": ["S. Thomson", "M. Brandon", "J. Tomkin", "P. Reiners", "C. Vásquez", "N. Wilson"],
+    "venue": "Nature 467,",
+    "year": 2010
+  }, {
+    "title": "Geochronologic and stratigraphic constraints on canyon incision and Miocene uplift of the Central Andes in Peru",
+    "authors": ["J.C. Thouret", "G. Worner", "Y. Gunnell", "B. Singer", "X. Zhang", "T. Souriot"],
+    "venue": "Earth Planet. Sci",
+    "year": 2007
+  }, {
+    "title": "Magnitude y dinámica de la erosión integrada de la cuenca en el río Biobío.Ph.D",
+    "authors": ["V. Tolorza"],
+    "venue": "thesis. Universidad de Chile",
+    "year": 2015
+  }, {
+    "title": "Contrasting mountain and piedmont dynamics of sediment fluxes associated with groundwater storage variation in the Biobío River",
+    "authors": ["V. Tolorza", "S. Carretier", "C. Andermann", "L. Pinto", "M. Mardones"],
+    "venue": "J. Geophys. Res. Earth Surf",
+    "year": 2014
+  }, {
+    "title": "The partitioning of the total sediment load of a river into suspended load and bedload: a review of empirical data",
+    "authors": ["J.M. Turowski", "D. Rickenmann", "S.J. Dadson"],
+    "venue": "Sedimentology",
+    "year": 2010
+  }, {
+    "title": "2015b. Analysis of Channel Morphology and Large Wood Characteristics Through Remote Images in the Blanco River",
+    "authors": ["H. Ulloa", "L. Picco", "A. Iroume", "L. Mao", "C. Gallo"],
+    "year": 2015
+  }, {
+    "title": "Eruption of the Chaiten Volcano (Southern Chile)",
+    "authors": ["G. Lollino", "M. Arattano", "M. Rinaldi", "O. Giustolisi", "J.C. Marechal", "G.E. Grant"],
+    "venue": "12th International IAEG Congress,",
+    "year": 2014
+  }, {
+    "title": "Spatial analysis of the impacts of the Chaiten Volcano eruption (Chile) in three fluvial systems",
+    "authors": ["H. Ulloa", "A. Iroume", "L. Picco", "C.H. Mohr", "B. Mazzorana", "M.A. Lenzi", "L. Mao"],
+    "venue": "J. S. Am. Earth Sci",
+    "year": 2016
+  }, {
+    "title": "Reconciling tectonic shortening, sedimentation and spatial patterns of erosion from Be-10 paleo-erosion rates in the Argentine Precordillera",
+    "authors": ["P. Val", "G.D. Hoke", "J.C. Fosdick", "H. Wittmann"],
+    "venue": "Earth Planet. Sci",
+    "year": 2016
+  }, {
+    "title": "Significant increase in relief of the European Alps during mid-Pleistocene glaciations",
+    "authors": ["P.G. Valla", "D.L. Shuster", "P.A. van der Beek"],
+    "venue": "Nat. GeoSci",
+    "year": 2011
+  }, {
+    "title": "Spatial variation of suspended sediment concentrations in a tropical Andean river system: the Paute River, southern Ecuador",
+    "authors": ["V. Vanacker", "A. Molina", "G. Govers", "J. Poesen", "J. Deckers"],
+    "venue": "Geomorphology",
+    "year": 2007
+  }, {
+    "title": "Using ignimbrites to quantify structural relief growth and understand deformation processes: implications for the development of the Western Andean Slope, northernmost Chile",
+    "authors": ["M. vanZalinge", "R. Sparks", "L. Evenstar", "F. Cooper", "J. Aslin", "D. Condon"],
+    "venue": "Lithosphere",
+    "year": 2016
+  }, {
+    "title": "Historic mudflows in Antofagasta, Chile, and their relationship to the El Nino/Southern",
+    "authors": ["G. Vargas", "L. Ortlieb", "J. Rutllant"],
+    "venue": "Oscillation events. Rev. Geol. Chile",
+    "year": 2000
+  }, {
+    "title": "ENSO tropical-extratropical climate teleconnections and mechanisms for Holocene debris flows along the hyperarid coast of western South America (17 degrees–24 degrees S)",
+    "authors": ["G. Vargas", "J. Rutllant", "L. Ortlieb"],
+    "venue": "Earth Planet. Sci",
+    "year": 2006
+  }, {
+    "title": "Coastal uplift and tsunami effects associated to the 2010 M(w)8.8 Maule earthquake in Central Chile",
+    "authors": ["G. Vargas", "M. Farias", "S. Carretier", "A. Tassara", "S. Baize", "D. Melnick"],
+    "venue": "Andean Geol",
+    "year": 2011
+  }, {
+    "title": "Regolith production and chemical weathering of granitic rocks in central Chile",
+    "authors": ["M. Vazquez", "S. Ramirez", "D. Morata", "M. Reich", "J.J. Braun", "S. Carretier"],
+    "venue": "Chem. Geol",
+    "year": 2016
+  }, {
+    "title": "Palaeo-geoecological significance of Pleistocene trees in the Lluta Valley, Atacama Desert",
+    "authors": ["H. Veit", "J.H. May", "A. Madella", "R. Delunel", "F. Schlunegger", "S. Szidat", "J.M. Capriles"],
+    "venue": "J. Quat. Sci",
+    "year": 2016
+  }, {
+    "title": "Caractérisation des facteurs de contrôle de la recharge et des écoulements souterrains à différentes échelles de temps en zone de piedmont aride et hyper-aride",
+    "authors": ["B. Viguier"],
+    "venue": "Exemple de l’Aquifère de la Pampa del Tamarugal (Nord Chili)..Ph.D. thesis. Université Montpellier",
+    "year": 2016
+  }, {
+    "title": "Low-grade Metamorphism and Fission Track Analysis in the Main Cordillera of the Andes — Central Chile 35◦ South.Ph.D",
+    "authors": ["K. Waite"],
+    "year": 2005
+  }, {
+    "title": "Beryllium-10 concentrations in the hyper-arid soils in the Atacama Desert, Chile: implications for arid soil formation rates and El Nino driven changes in Pliocene precipitation",
+    "authors": ["F. Wang", "G. Michalski", "J.H. Seo", "D.E. Granger", "N. Lifton", "M. Caffee"],
+    "venue": "Geochim. Cosmochim",
+    "year": 2015
+  }, {
+    "title": "High natural erosion rates are the backdrop for present-day soil erosion in the agricultural Middle Hills of Nepal",
+    "authors": ["A.J. West", "M. Arnold", "G. Aumaitre", "D.L. Bourlés", "K. Keddadouche", "M. Bickle", "T. Ojha"],
+    "venue": "Earth Surf",
+    "year": 2015
+  }, {
+    "title": "The influence of climate on the tectonic evolution of mountain belts",
+    "authors": ["K.X. Whipple"],
+    "venue": "Nat. GeoSci",
+    "year": 2009
+  }, {
+    "title": "GEOGRAPHY Can erosion drive",
+    "authors": ["K.X. Whipple"],
+    "venue": "tectonics? Science",
+    "year": 2014
+  }, {
+    "title": "An integrated analysis of the March 2015",
+    "authors": ["A.C. Wilcox", "C. Escauriaza", "R. Agredano", "E. Mignot", "V. Zuazo", "S. Otarola", "L. Castro", "J. Gironas", "R. Cienfuegos", "L. Mao"],
+    "venue": "Atacama floods. Geophys. Res",
+    "year": 2016
+  }, {
+    "title": "The null hypothesis: globally steady rates of erosion, weathering fluxes and shelf sediment accumulation during Late Cenozoic mountain uplift and glaciation",
+    "authors": ["J.K. Willenbring", "D.J. Jerolmack"],
+    "venue": "Terra Nova",
+    "year": 2016
+  }, {
+    "title": "Age of mineralization by basinal fluids at the El Soldado Manto-type copper deposit, chile",
+    "authors": ["N. Wilson", "M. Zentilli", "P. Reynolds", "R. Boric"],
+    "year": 2003
+  }, {
+    "title": "Self-formed bedrock channels",
+    "authors": ["C.W. Wobus", "G.E. Tucker", "R.S. Anderson"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2006
+  }, {
+    "title": "Evolution of the West Andean Escarpment at 18 degrees S (N. Chile) during the last 25 Ma: uplift, erosion and collapse through time",
+    "authors": ["G. Woerner", "D. Uhlig", "I. Kohler", "H. Seyfried"],
+    "venue": "Tectonophysics 345,",
+    "year": 2002
+  }, {
+    "title": "Magnetic anomaly interpretation across the southern central Andes (32 degrees–34 degrees S): the role of the Juan Fernandez Ridge in the late Tertiary evolution of the margin",
+    "authors": ["G. Yanez", "C. Ranero", "R. von Huene", "J. Diaz"],
+    "venue": "J. Geophys. Res",
+    "year": 2001
+  }, {
+    "title": "Trends, rhythms, and aberrations in global climate 65",
+    "authors": ["J. Zachos", "M. Pagani", "L. Sloan", "E. Thomas", "K. Billups"],
+    "venue": "Ma to present. Science",
+    "year": 2001
+  }, {
+    "title": "Temporal and spatial evaluation of satellite-based rainfall estimates across the complex topographical and climatic gradients of Chile",
+    "authors": ["M. Zambrano-Bigiarini", "A. Nauditt", "C. Birkel", "K. Verbist", "L. Ribbe"],
+    "venue": "Hydrol. Earth Syst. Sci",
+    "year": 2017
+  }, {
+    "title": "Native forest replacement by exotic plantations in southern Chile (1985–2011) and partial compensation by natural regeneration",
+    "authors": ["C. Zamorano-Elgueta", "J.M. Rey Benayas", "L. Cayuela", "S. Hantson", "D. Armenteras"],
+    "venue": "For. Ecol. Manag",
+    "year": 2015
+  }, {
+    "title": "Timing of the late Quaternary glaciation in the Andes from similar to 15 to 40 degrees S",
+    "authors": ["R. Zech", "J.H. Mayand", "C. Kull", "J. Ilgner", "P. Kubik", "H. Veit"],
+    "venue": "J. Quat. Sci",
+    "year": 2008
+  }, {
+    "title": "Detailed dynamic land cover mapping of Chile: accuracy improvement by integrating multi-temporal data",
+    "authors": ["Y. Zhao", "D. Feng", "L. Yu", "X. Wang", "Y. Chen", "Y. Bai", "H.J. Hernández", "M. Galleguillos", "C. Estades", "G.S. Biging", "J.D. Radke", "P. Gong"],
+    "venue": "Remote Sens. Environ",
+    "year": 2016
+  }],
+  "id": "SP:d29074eff298e71e58759e599c2924f6780184a4",
+  "authors": [{
+    "name": "S. Carretier",
+    "affiliations": []
+  }, {
+    "name": "V. Tolorzab",
+    "affiliations": []
+  }, {
+    "name": "V. Regarda",
+    "affiliations": []
+  }, {
+    "name": "G. Aguilarc",
+    "affiliations": []
+  }, {
+    "name": "M.A. Bermúdezd",
+    "affiliations": []
+  }, {
+    "name": "J. Martinode",
+    "affiliations": []
+  }, {
+    "name": "J-L Guyota",
+    "affiliations": []
+  }, {
+    "name": "G. Héraila",
+    "affiliations": []
+  }, {
+    "name": "R. Riquelmef",
+    "affiliations": []
+  }],
+  "abstractText": "Chile is an elongated country, running in a north-south direction for more than 30◦ along a subduction zone. Its climate is progressively wetter and colder from north to south. This particular geography has been used positively by a growing number of studies to better understand the relationships between erosion processes and climate, land use, slope, tectonics, volcanism, etc. Here we review the erosion rates, factors, and dynamics over millennial to daily periods reported in the literature. In addition, 21 new catchment mean erosion rates (suspended sediment and 10Be) are provided, and previous suspended sediment-derived erosion rates are updated. A total of 485 local and catchment mean erosion rates are reported. Erosion rates vary between some of the smallest values on earth (10−5 mm/a) to moderate values ≤0.5 mm/a compared to other active ranges. This review highlights strong limitations concerning the quantification of local erosion factors because of uncertainties in sampling point location, slope and rainfall data. For the mean erosion rates E for the millennial and decennial catchments, a model of the form E ∝ S/[1 − (S/0.6)2]R with a = [0.3, 0.8] accounts for 40 to 70% of the erosion variance, confirming a primary role of slope S compared to precipitation rate R over this time scale. Over the long-term, this review points to the long (5 to >10 Ma) response time of rivers to surface uplift in north-central arid Chile. Over millennia, data provide evidence for the progressive contribution of extreme erosion events to millennial averages for drier climates, as well as the link between glacier erosion and glacier sliding velocity. In this period of time, a discrepancy exists between the long-term offshore sedimentological record and continental decennial or millennial erosion data, for which no single explanation appears. Still, little information is available concerning the magnitude of variation of millennial erosion rates. Over centuries, data show the variable role of groundwater in the dynamics of suspended load and document a decrease in erosion over hundreds of years, probably associated with historical harvesting. © 2017 Elsevier B.V. All rights reserved.",
+  "title": "Review of erosion dynamics along the major N-S climatic gradient in Chile and perspectives"
+}

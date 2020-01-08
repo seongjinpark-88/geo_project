@@ -1,0 +1,243 @@
+{
+  "sections": [{
+    "text": "role in the reduction of N,N-dimethyl-p-phenylenediamene (DPD) to a semiquinonic form (DPDQ) and subsequent absorption spectroscopy at 514 nm. Aluminium was determined by spectroscopic analysis of an aluminium–lumogallion complex that exhibits fluorescence at 560 nm. These techniques have been applied to a section of Greenland ice dated to 1729–1733AD and indicate that volcanism is a source of highly soluble aluminium and iron.\nKeywords Continuous flow analysis . Solubility . Dust . Greenland . Ice core . Volcano"
+  }, {
+    "heading": "Introduction",
+    "text": "Ice cores are a sensitive and continuous archive of past atmospheric variability over the most recent glacial–interglacial climate cycles. Isotopic compositions of hydrogen and oxygen in ice allow paleotemperature reconstructions; air enclosed in the firn/ice matrix offers the only means available to investigate Quaternary evolution of greenhouse gases [1] and soluble and insoluble impurities in the ice allow monitoring of many environmental paleoproxies, including terrestrial aridity, atmospheric hydrology, sea ice extension, solar activity, meteor fallout, pollution and atmospheric transport provenance [2, 3]. Successful deep ice drilling projects in Greenland (e.g. NorthGRIP [4]) and Antarctica (e.g. EPICA [5]) allow comparisons of climatic variability, phasing and energy exchange between northern and southern hemispheres, while ice cores from continental mountain glaciers allow for regional climate reconstructions.\nTechniques for the analysis of ice core impurities—as well as water isotopes and trapped gases—have evolved over the last few decades from labour-intensive discrete measurements to continuous techniques offering higher throughput, greater\nPublished in the special issue Analytical Science in Italy with guest editor Aldo Roda.\nA. Spolaor Department of Earth Science, University of Siena, Via del Laterino 8, 53100 Siena, Italy\nA. Spolaor : C. Barbante Department of Environmental Sciences, Informatics and Statistics (DAIS), University of Venice, Dorsoduro 2137, 30123 Venice, Italy\nP. Vallelonga Centre for Ice and Climate, Niels Bohr Institute, Juliane Maries Vej 30, 2100 Copenhagen, Denmark\nJ. Gabrieli :M. Roman :C. Barbante (*) Institute for the Dynamics of Environmental Processes—CNR, University of Venice, Dorsoduro 2137, 30123 Venice, Italy e-mail: barbante@unive.it\ntemporal/spatial resolution and better sensitivity[6]. This is particularly important for minor and trace elements, which are often contaminated by drilling, cutting and handling and hence require rigorous preparation techniques for accurate analysis. The decontamination techniques previously required were discrete in nature: ice was prepared for analysis by manual removal of sequential layers using an acid-cleaned stainless steel or ceramic chisel [7] or by immersion and surface melting of the ice in a sequence of baths of purified water [8]. These techniques have been proven reliable for producing contamination-free samples, but have the drawbacks of being extremely labour-intensive, slow, expensive, demanding in terms of skills and equipment and offering a maximum resolution of 2–4 cm per sample. Starting in the early 1990s, techniques for the continuous melting of ice—coupled to the continuous analysis of the meltwater produced—have rapidly developed to the extent that it is now possible to have continuous determination of soluble and insoluble impurities, insoluble gases and water isotopes all measured continuously from the same ice core section. A broad range of techniques, collectively known as continuous flow analysis (CFA), has been optimised for different types of analysis. The University of Bern has produced a field-deployable CFA optimised for the analysis of several major and minor soluble ions, as well as dust particles and total air content [6]. Desert Research Institute [9] has optimised CFA for analysis of trace elements. The University of Copenhagen has optimised CFA for the analysis of select impurities in ice core strata just 2–4-mm thick [10]. Contamination control in the CFA technique is achieved through the use of high-purity melthead materials and/or coatings, as well as melthead designs and differential pump rates that ensure that contamination on the external surface of the ice is not able to mix with the pristine meltwater at the centre of the melter.\nCFA is ideally coupled with analytical techniques that allow continuous sample introduction, such as flow injection analysis, or inductively coupled plasma–mass spectrometry (ICP-MS). Consequently, much effort has gone into finding flow injection analysis (FIA)-based techniques, such as absorption or emission (fluorescence) spectroscopy, for the determination of many major and minor ions that have been traditionally measured using ion chromatography (IC)—a discrete analytical method. Continuous techniques have been applied successfully for most ions, while there have also been efforts to operate IC in a semicontinuous manner [11]. FIA techniques do not usually have the sensitivity required to determine analyte concentrations at the sub-nanogram per gram level, although techniques such as extremely long absorption cells or extremely sensitive light detectors have been successfully applied to achieve nanogram per gram detection limits for iron (Fe) in seawater, which are routinely determined by ICP–sector field MS. A\nfurther benefit of FIA techniques is that they are usually simpler, more modular and compact compared to large instruments such as ICP-MS or IC, thus allowing them to be more easily transported and operated under field conditions.\nFe is a major element composing approximately 4 % of the continental crust [12] and playing an important role in several biogeochemical processes. In particular, the soluble fraction [13] of Fe has been studied for its role as a limiting micronutrient in surface ocean bioproductivity [14] and consequent potential for controlling past and future exchanges of CO2 between the atmosphere and high nutrient low chlorophyll oceanic zones [15]. Iron is present in Antarctic ice at concentrations from 0.1 to 16 ng g−1 in Antarctica [16] and from 1 to 185 ng g−1 in Greenland [11]. Iron is usually determined in Antarctic ice by ICPMS [17, 18], which allows sufficient sensitivity for the subnanogram per gram concentrations routinely determined. Various FIA techniques have been adopted for Fe determination during oceanographic cruises, of which the most common involve the use of ferrozine [19, 20], luminol [21] and N,N-dimethyl-p-phenylenediamine (DPD) [22, 23]. Traversi et al. 2004 applied the DPD technique to the analysis of discrete ice core samples although until now the technique has never been replicated [23]. Ferrozine is selective for Fe(II), whereas Fe(III) catalyses the oxidation of DPD to DPDQ. For total Fe determinations, either a reducing or an oxidising agent is used to convert Fe to the species to which the technique is specific. Published DPD techniques are able to produce detection limits (DL) in the subnanogram per gram (in parts per billion) range, whereas ferrozine and luminol techniques normally present DLs at least an order of magnitude greater [19–21].\nAluminium is the most abundant metal on the Earth's crust, making up about 8 % by weight of continental crust [12, 24, 25]. On account of its low toxicity, relatively little study of aluminium (Al) has been undertaken in comparison to other metals, and in fact, the ubiquitous nature of Al has led to it often being used as the crustal indicator used for calculating atmospheric dust fluxes [26] or enrichments of other elements in geological compartments [27]. Aluminium is a refractory element and demonstrates enrichment in volcanic plumes [28]. Aluminium is present in Antarctic ice at concentrations from 0.2 to 186 ng g−1 in Antarctica [29, 30] and from 5 to 650 ng g−1 in Greenland [31]. It is routinely determined in ice by ICP-MS, but has also been determined in seawater by FIA techniques involving fluorescence spectrometry of the Al–lumogallion complex [32, 33]. The lumogallion technique was also applied to discrete samples of EPICA Dome C ice [23], with a detection limit of 0.01 ng g−1.\nHere, we present the first continuous analysis technique for determination of soluble aluminium and iron in a Greenland\nshallow core using lumogallion titrant (fluorescence spectroscopy) for Al and DPD oxidation (absorption spectroscopy) for Fe. These continuous techniques present detection limits for Al and Fe respectively of 0.13 and 0.05 ng g−1 which are suitable for accurate determination of these elements in polar ice. Continuous analysis of these elements at high temporal resolution allows the determination of abrupt climate events such as volcanoes, dust storms and seasonal variability. The methods presented here focus on the soluble fractions of the two elements and are therefore oriented specifically toward the investigation of solubility of Fe and Al in aeolian dust, which has been shown to vary based on atmospheric residence time and deflation source [34]."
+  }, {
+    "heading": "Experimental",
+    "text": "Chemicals and reagents\nAll reagents and solutions were prepared in glass bottles carefully cleaned with HCl and ultrapure water (UPW) (from MilliQ, Millipore Corp., 18.2 MΩ cm−1), except for HCl which was prepared and stored in high-density polyethylene bottles (Nalgene Corp., Rochester, NY, USA). The almost neutral pH of the solutions was too weak for rapid dissolution of metals, therefore glass was sufficiently contamination-free for the samples analysed here. Both DPD and lumogallion buffers were prepared using a 2-M solution of American Chemical Society (specifications) grade acetic acid and ammonium hydroxide (Sigma-Aldrich, MO, USA) adjusted to pH 6. This was prepared by diluting 150 mL of acetic acid and 210 mL of ammonium hydroxide in 1 L of UPW, with small additions of either reagent to adjust the pH to 6.\nReagents for the determination of iron were prepared following the procedures reported by Measures et al. [35] with only a few modifications detailed below.\nIron sample buffer The Fe sample stream was buffered by a 0.1-M solution of HCl prepared by dilution of Suprapur HCl (Merck, Darmstadt, Germany) in UPW.\nDPD solution DPD (0.05 M) was prepared by dissolving 2.5 g of DPD (N,N-dimethyl-p-phenylenediamine (4-aminoN,N-dimethylaniline) dihydrochloride, Sigma-Aldrich, MO, USA) in 250 mL of UPW. DPD is rapidly oxidised in air [22] and was therefore prepared daily.\nDPD buffer DPD buffer was produced from 1 L of the pH 6 acetic acid/ammonium hydroxide solution described above and 0.02 mL of triethylenetetramine and 5 mL of Brij L23\n(both from Sigma-Aldrich, MO, USA) were added, following the procedure of Measures et al. [35].\nHydrogen peroxide Hydrogen peroxide (10 %) solution was prepared by diluting 70 ml of 30 % H2O2 (SigmaAldrich, MO, USA) in 210 mL UPW. While Measures et al. [35] used an H2O2 concentration of 5 %, we found that increasing the concentration resulted in greater measurement sensitivity. Reagents for the determination of Al were essentially prepared following the procedure of Resing et al. [36] with only slight modifications detailed below.\nAluminium sample buffer The Al sample stream was buffered by a 0.01-M solution of HCl prepared by dilution of Suprapur HCl (Merck, Darmstadt, Germany) in UPW.\nLumogallion stock solution Fifty milligrams of lumogallion powder (TCI, Tokyo, Japan) was dissolved in 30 mL of UPW water. The solution was found to be stable for at least several weeks [36].\nLumogallion buffer Lumogallion buffer was produced by adding 10 mL of lumogallion stock solution to 1 L of the pH 6 acetic acid/ammonium hydroxide solution described above. The lumogallion buffer solution was prepared daily.\nBrij solution A 5 % solution of Brij L23 (Sigma-Aldrich, MO, USA) was prepared by dilution of the initial 30 % stock solution in UPW.\nIron and Al standard solutions were prepared from 1 g L−1 stock solutions (Merck, Darmstadt, Germany) by dilution in UPW. The standards were prepared fresh before each calibration and were not acidified in order to match the acidity of melted ice samples.\nSample preparation\nSamples were collected from a 70-m shallow ice core drilled in 2007 during a traverse from NorthGRIP to NEEM ice core drilling sites, both located in northwest Greenland. The drill site was located at 76.45° N, 44.77° W, altitude 2,771 m a.s.l. and an annual accumulation rate of approximately 18 cm ice equivalent. A 1.1-m long section was analysed, covering a 4-year period from 1729 to 1732AD, based on the GICC05 Greenland ice core chronology [37]. Using a commercial bandsaw, the cores were cut to a 35×35-mm cross section suitable for the CFA melthead. No further decontamination procedures were necessary as the CFA melthead design ensures effective separation of the uncontaminated inner part of the core from the contaminated external layers.\nContinuous flow analysis system\nThe CFA system used here has been described in detail by Bigler et al. [10]. Briefly, it is optimised for the determination of thin strata in ice cores, thus achieving high temporal resolution. The CFA system consists of an aluminium melthead heated by thermostated cartridge heaters, located in an upright freezer kept at −15 °C. High-purity PFA tubing (1/16 in. OD, 0.02 in. ID) and standard 1/4–28 lowpressure fittings (both from Upchurch, USA) were used throughout the system. Peristaltic pumps with Tygon tubing (Ismatech, Switzerland) draw the sample from the melthead, remove external contaminated surface meltwater and control the mixing of samples and reagents in several analytical channels. An enclosed debubbler (c. 90 μL internal volume) was used to remove air bubbles from the liquid sample stream. The CFA system routinely determines insoluble particle counts (Abakus Klotz, Germany), electrolytic conductivity (AmberScience, USA) and sodium (Na+) and NH4\n+ concentrations. Ice was melted at a constant rate of 1.5 cm min−1, controlled by adjusting the temperature of the melthead as required.\nThe CFA system was controlled by a homemade Labview (National Instruments, Austin, TX, USA) operating on a 1-s data collection loop. The individual delay between sampling and measurement for each analytical line (dust, Na, NH4, Fe and Al) is corrected by measuring the response time when switching from MQ water to a multi-standard solution. Despite the fact that the melthead itself was composed of Al, we did not find any evidence of memory effects or sample contamination. It has been observed that Al oxidises readily to a stable chemical form, hence we believe that there is no chemical exchange between the unacidified meltwater sample and the oxidised melthead surface for the very brief contact time (<1 s)."
+  }, {
+    "heading": "Results and discussion",
+    "text": "Iron determination by DPDQ absorption\nThe Fe determination method described here takes advantage of the catalytic oxidation of DPD by Fe into DPDQ producing a red–violet colour [35]. In detail, Fe(III) expedites the oxidation of DPD such that DPDQ formation is driven by the presence of Fe(III). Increasing the Fe concentration in the solution enhances the formation of DPDQ and hence produces a more intense colouration of the sample. H2O2 is added to re-oxidise the Fe(II) produced by the oxidation of DPD [22] and thereby continue the production of DPDQ.\nA schematic view of the Fe analytical system is shown in Fig. 1. The sample (0.65 mL min−1) was mixed with 0.1 M HCl solution to adjust the pH to 2 which was necessary to avoid the complexation of Fe(III) and the formation of insoluble Fe(OH)n [38]. The acidified sample was then mixed with the buffered DPD solution, which had already passed through a 1-m knitted reaction coil. The DPD quickly reacts with Fe (III) to produce Fe(II), so H2O2 was added immediately after in order to continue its catalytic effect on the production of DPDQ. The sample was passed through a 30-cm knitted reaction coil to ensure the DPD–Fe(III) reaction was completed prior to entering the debubbler. The debubbler served to ensure that bubbles formed from the addition of H2O2 did not interfere with the absorption measurement. The well-mixed sample was pumped from the debubbler at a rate of 0.9 mL min−1 using PharMed tubing (Ismatec, CH) which is more chemically inert than Tygon pump tubing. Absorption was monitored at 514 nm in a 10-mm path length microvolume flow cell (SMA-Z-microV-10, FIAlab instruments, USA) illuminated by a 525-nm LED light source (Roithner Lasertechnik GmbH, Austria). The optical detector was an Ocean Optics USB4000 spectrometer with an integration time\nof 0.2 s, controlled by Labview (National Instruments, USA) software. The reaction time for the Fe system from the sampling valve to the detector was approximately 90 s.\nIron was calibrated linearly by evaluating the logarithm of light absorption (A), which decreases exponentially with optical depth [39] according to the equation A0 log10(S0/S)0εlC, where S0 is the reference light intensity, S is the measured light intensity, ε is the extinction coefficient in (nanograms per gram per centimetre), l is the optical path length (1 cm) and C is the Fe concentration. This absorption–concentration relation was optimised to be linear from 0 to 1 ng g−1, with a correlation coefficient of 0.997 and a limit of detection (LOD) of ∼0.05 ng g−1. The baseline was calculated by averaging the UPW ‘blank’ values before the standard run, between each standard and after the standard run and was determined to be 3.400±240 counts (3σ uncertainty). The LOD for Fe was in agreement with those obtained by Traversi et al. [23] and Hirayama et al. [22].\nNote that the Fe technique was optimised to ensure greatest sensitivity between 0.1 and 5 ng g−1, the range of Fe concentrations present in Antarctic and Greenland interglacial ice. For the determination of greater Fe concentrations such as those found in Greenland glacial ice, the sensitivity can be decreased by reducing the optical signal integration time, the length of the reaction coil or alternatively by reducing the concentration of H2O2 solution. Reducing the H2O2 concentration will result in a proportional reduction in the amount of DPDQ produced. Although no memory effect was observed for Fe in the range 0.1 to 15 ng g−1, it was found that the system was sensitive to memory effects for Fe concentrations above 20 ng g−1.\nAluminium determination by lumogallion fluorescence\nThe determination of Al was achieved using a fluorimetric method based on the formation of a fluorescent compound of Al and lumogallion [32]. The lumogallion–Al complex features a lower reaction kinetic [32], and for this reason, a long reaction coil (10 m in total) and heating become necessary to speed up the reaction [36]. A schematic of the analytical system is shown in Fig. 1. The sample (0.65 mL min−1) was mixed with 0.01 M HCl solution to maintain Al in the free form [40] and subsequently combined with lumogallion buffer. The mixture was passed through an 8-m knitted reaction coil heated at 70 °C to allow sufficient time for the lumogallion–Al complex to form. A 5 % solution of Brij L23 surfactant was then added and the mixture was stabilised in an additional 2 m of knitted reaction coil before entering the 8-μL volume fluorescence flow cell (Hellma Analytics). A 20-cm length of backpressure tubing (0.01 in. ID) was added immediately after the flow cell. The excitation light source was a 490-nm LED (Roithner Lasertechnik GmbH, Austria) and the\nemitted light was filtered using a 550-nm bandpass filter (NT65-098 Edmund Optics) to lower the baseline signal. Emitted light was measured by a photomultiplier (P25232, Electron Tubes Inc., UK) with 0.1 s integration time, controlled by Labview software. The reaction time for the Al system from the sampling valve to the detector was approximately 300 s.\nAluminium data can be calibrated directly by using a linear calibration function because the intensity of emission is directly proportional to the quantity of Al present in the sample [32]. The correlation coefficient obtain is 0.999. For Al, the baseline was 109.600±750 counts (3σ uncertainty) with a sensitivity of 5,726 counts (in nanograms per gram of aluminium), with an LOD of ∼0.13 ng g−1. Although this LOD is an order of magnitude greater than the technique it is based upon, it is adequate for the detection of seasonal variations of Al in polar ice and well suited to the range of Al concentrations present in Greenland ice. No memory effect was observed for the Al system in the range 0.1 to 50 ng g−1.\nIron and Al in Greenland ice\nIn order to test the capability of simultaneous Fe and Al determination, continuous measurements of electrolytic conductivity, Al, Fe, Na and insoluble dust particles were conducted on a 1.1-m long section of the NEEM S1 2007 core covering the depth between 68.2 and 69.4 m (Fig. 2). The seasonality of various impurities has been well studied in Greenland, with Na deposition occurring in winter and dust deposition spikes often occurring in boreal spring and summer. On this basis, the four major dust and Na peaks in the profile confirm the GICC05 chronology which indicates 5 years of snow deposition are archived in the ice. Soluble Al and Fe present a similar trend to dust variations thus highlighting a clear seasonality. Iron concentrations vary from around an LOD of 0.05 to 0.4 ng g−1, most likely following the dust load in the Greenland ice cap. Aluminium presents the same seasonality as Fe, with concentrations ranging from 0.8 to 6 ng g−1.\nWhile two large Al peaks can be observed in the Greenland ice samples, only one of them has been attributed to a volcanic eruption. Aluminium concentrations twice increase to approximately 12 ng g−1, at depths 68.41 and 69.27 m, although the Al/dust and Fe/dust ratios (Fig. 2) only show enrichment at a depth of 68.41 m. This depth corresponds to 1732AD, the age at which a prominent volcanic sulphate (SO4\n2−) signal was observed in the NGRIP ice core (Fig. 2). A number of studies suggest enrichment of soluble Fe and Al in volcanic ash [41] and also volcanic enrichment of Al in Greenland snow has also been observed [42].\nIt is also interesting that two cases of Fe enrichment coincide with the highest conductivity values, which might be a result of increased acidity. The presence of acidic anions such as SO4\n2−, Cl− and F− could play an important role in the chemistry of Fe, for example reducing iron from Fe(III) to the more soluble Fe(II) species [43] or altering the mineral structure of the dust particles to which the elements are bound [16]."
+  }, {
+    "heading": "Conclusions",
+    "text": "Based on FIA methods for the determination of Fe (DPD) and Al (lumogallion), we present the first simultaneous and continuous determinations of soluble Fe and Al in an ice core. The methods presented here have been optimised from earlier techniques, to have a faster response and better sensitivity for the range of concentrations expected in polar ice. LODs of 0.13 ng Al g−1 and 0.05 ng Fe g−1 were\nobtained with baseline reproducibility around 1 % for both methods. While this is identical to the discrete technique previously reported for Fe, it is an order of magnitude greater for Al but still applicable to polar ice. Analysis of Greenland ice dated to 1729–1732AD demonstrates clear seasonal cycles in Fe and Al which follow the seasonal deposition of dust. An enrichment of Fe and Al relative to dust was observed at 68.41 m depth and has been attributed to a volcanic event. These data confirm earlier indications that volcanism is a source of highly soluble Fe and Al. Further, we observe greater Fe solubility when the electrolytic conductivity of the melted ice is greater, perhaps due to the presence of acidic ions.\nAcknowledgments We thank Anders Svensson, Henrik Clausen and Bo Vinther for helpful discussion and assistance with NorthGRIP SO4 2 − data and the sample chronology. This work is a contribution to the NGRIP ice core project, which is directed and organised by the Ice and Climate Research Group at the Niels Bohr Institute, University of Copenhagen. It is being supported by funding agencies in Denmark\n(SNF), Belgium (FNRS-CFB), France (IFRTP and INSU/CNRS), Germany (AWI), Iceland (RannIs), Japan (MEXT), Sweden (SPRS), Switzerland (SNF) and the USA (NSF). The research leading to these results has received funding from the European Union's Seventh Framework programme (FP7/2007–2013) under grant agreement no. 243908, ‘Past4Future: Climate change—Learning from the past climate’. This is Past4Future contribution no. XX."
+  }],
+  "year": 2013,
+  "references": [{
+    "title": "Climate and atmospheric history of the past 420,000 years from the Vostok ice core, Antarctica",
+    "authors": ["JR Petit", "J Jouzel", "D Raynaud", "NI Barkov", "JM Barnola", "I Basile", "M Bender", "J Chappellaz", "M Davis", "G Delaygue", "M Delmotte", "VM Kotlyakov", "M Legrand", "VY Lipenkov", "C Lorius", "L Pepin", "C Ritz", "E Saltzman", "M Stievenard"],
+    "year": 1999
+  }, {
+    "title": "Two distinct seasonal Asian source regions for mineral dust deposited in Greenland (NorthGRIP)",
+    "authors": ["AJM Bory", "PE Biscaye", "FE Grousset"],
+    "venue": "Geophys Res Lett 30(4):1167",
+    "year": 2003
+  }, {
+    "title": "Aeolian dust in the Talos Dome ice core (East Antarctica, Pacific/Ross Sea sector): Victoria Land versus remote sources over the last two climate cycles",
+    "authors": ["B Delmonte", "C Baroni", "PS Andersson", "H Schoberg", "M Hansson", "S Aciego", "J-R Petit", "S Albani", "C Mazzola", "V Maggi", "M Frezzotti"],
+    "venue": "J Quat Sci",
+    "year": 2010
+  }, {
+    "title": "Changes in environment over the last 800,000 years from chemical analysis of the EPICA Dome C ice core",
+    "authors": ["E Wolff", "C Barbante", "S Becagli", "M Bigler", "C Boutron", "E Castellano", "M De Angelis", "U Federer", "H Fischer", "F Fundel"],
+    "venue": "Quat Sci Rev",
+    "year": 2010
+  }, {
+    "title": "An improved continuous flow analysis system for high-resolution field measurements on ice cores",
+    "authors": ["PR Kaufmann", "U Federer", "MA Hutterli", "M Bigler", "S Schupbach", "U Ruth", "J Schmitt", "TF Stocker"],
+    "venue": "Environ Sci Technol",
+    "year": 2008
+  }, {
+    "title": "An improved method for decontaminating polar snow or ice cores for heavy metal analysis",
+    "authors": ["J-P Candelone", "S Hong", "CF Boutron"],
+    "venue": "Anal Chim Acta",
+    "year": 1994
+  }, {
+    "title": "Proxies and measurement techniques for mineral dust in Antarctic ice cores",
+    "authors": ["U Ruth", "C Barbante", "M Bigler", "B Delmonte", "H Fischer", "P Gabrielli", "V Gaspari", "P Kaufmann", "F Lambert", "V Maggi"],
+    "venue": "Environ Sci Technol",
+    "year": 2008
+  }, {
+    "title": "Continuous ice-core chemical analyses using inductively coupled plasma mass spectrometry",
+    "authors": ["JR McConnell", "GW Lamorey", "SW Lambert", "KC Taylor"],
+    "venue": "Environ Sci Technol 36(1):7–11",
+    "year": 2002
+  }, {
+    "title": "Optimization of high-resolution continuous flow analysis for transient climate signals in ice cores",
+    "authors": ["M Bigler", "A Svensson", "E Kettner", "P Vallelonga", "ME Nielsen", "J Steffensen"],
+    "venue": "Environ Sci Technol",
+    "year": 2011
+  }, {
+    "title": "Continuous ice core melter system with discrete sampling for major ion, trace element, and stable isotope analyses",
+    "authors": ["EC Osterberg", "MJ Handley", "SB Sneed", "PA Mayewski", "KJ Kreutz"],
+    "venue": "Environ Sci Technol 40(10):3355–3361",
+    "year": 2006
+  }, {
+    "title": "The composition of the continental crust",
+    "authors": ["KH Wedepohl"],
+    "venue": "Geochim Cosmochim Acta",
+    "year": 1995
+  }, {
+    "title": "Determination of Fe and Fe species by FIA-CRCICP-MS in Antarctic ice samples",
+    "authors": ["A Spolaor", "P Vallelonga", "J Gabrieli", "G Cozzi", "C Boutron", "C Barbante"],
+    "venue": "J Anal Atom Spectrom",
+    "year": 2012
+  }, {
+    "title": "Glacial-interglacial CO2 change: the iron hypothesis",
+    "authors": ["JH Martin"],
+    "venue": "PalOc 5(1):1–13",
+    "year": 1990
+  }, {
+    "title": "Testing the iron hypothesis in ecosystems of the equatorial Pacific Ocean",
+    "authors": ["JH Martin", "KH Coale", "KS Johnson", "SE Fitzwater", "RM Gordon", "SJ Tanner", "CN Hunter", "VA Elrod", "JL Nowicki", "TL Coley", "RT Barber", "S Lindley", "AJ Watson", "K Van Scoy", "CS Law", "MI Liddicoat", "R Ling", "T Stanton", "J Stockel", "C Collins", "A Anderson", "R Bidigare", "M Ondrusek", "M Latasa", "FJ Millero", "K Lee", "W Yao", "JZ Zhang", "G Friederich", "C Sakamoto", "F Chavez", "K Buck", "Z Kolber", "R Greene", "P Falkowski", "SW Chisholm", "F Hoge", "R Swift", "J Yungel", "S Turner", "P Nightingale", "A Hatton", "P Liss", "NW Tindale"],
+    "year": 1994
+  }, {
+    "title": "Atmospheric iron fluxes over the last deglaciation: climatic implications",
+    "authors": ["V Gaspari", "C Barbante", "G Cozzi", "P Cescon", "CF Boutron", "P Gabrielli", "G Capodaglio", "C Ferrari", "JR Petit", "B Delmonte"],
+    "venue": "Geophys Res Lett 33(3):L03704",
+    "year": 2006
+  }, {
+    "title": "Trace elements in Vostok Antarctic ice during the last four climatic cycles",
+    "authors": ["P Gabrielli", "FAM Planchon", "S Hong", "KH Lee", "SD Hur", "C Barbante", "CP Ferrari", "JR Petit", "VY Lipenkov", "P Cescon", "CF Boutron"],
+    "venue": "Earth Planet Sci Lett 234(1–2):249–259",
+    "year": 2005
+  }, {
+    "title": "Evaluation of an ICP-collision/reaction cell-MS system for the sensitive determination of spectrally interfered and non-interfered elements using the same gas conditions",
+    "authors": ["M Iglesias", "N Gilon", "E Poussel", "J-M Mermet"],
+    "venue": "J Anal Atom Spectrom",
+    "year": 2002
+  }, {
+    "title": "Colorimetric flow-injection analysis of dissolved iron in high DOC waters",
+    "authors": ["MJ Pullin", "SE Cabaniss"],
+    "venue": "Water Res",
+    "year": 2001
+  }, {
+    "title": "New method for simultaneous determination of Fe(II) and Fe(III) in water using flow injection technique",
+    "authors": ["J Kozak", "J Gutowski", "M Kozak", "M Wieczorek", "P Kościelniak"],
+    "venue": "Anal Chim Acta",
+    "year": 2010
+  }, {
+    "title": "Development of a sampling and flow injection analysis technique for iron determination in the sea ice environment",
+    "authors": ["D Lannuzel", "J de Jong", "S Vr", "A Trevena", "J-L Tison", "L Chou"],
+    "venue": "Anal Chim Acta",
+    "year": 2006
+  }, {
+    "title": "Spectrophotometric catalytic determination of an ultratrace amount of iron(III) in water based on the oxidation of N,N-dimethyl-p-phenylenediamine by hydrogen peroxide",
+    "authors": ["K Hirayama", "N Unohara"],
+    "venue": "Anal Chem 60(23):2573–2577",
+    "year": 1988
+  }, {
+    "title": "Aluminium and iron record for the last 28 kyr derived from the Antarctic EDC96 ice core using new CFA methods",
+    "authors": ["R Traversi", "C Barbante", "V Gaspari", "I Fattori", "O Largiuni", "L Magaldi", "R Udisti"],
+    "venue": "Ann Glaciol",
+    "year": 2004
+  }, {
+    "title": "Aerosol iron and aluminum solubility in the northwest Pacific Ocean: results from the 2002 IOC cruise",
+    "authors": ["CS Buck", "WM Landing", "JA Resing", "GT Lebon"],
+    "venue": "Geochem Geophys Geosyst",
+    "year": 2006
+  }, {
+    "title": "Earth’s global Ag, Al, Cr, Cu, Fe, Ni, Pb, and Zn cycles",
+    "authors": ["JN Rauch", "JM Pacyna"],
+    "venue": "Global Biogeochem Cycles 23(2):GB2001",
+    "year": 2009
+  }, {
+    "title": "On the use of dissolved aluminum in surface waters to estimate dust deposition to the ocean",
+    "authors": ["CI Measures", "S Vink"],
+    "venue": "Global Biogeochem Cycles",
+    "year": 2000
+  }, {
+    "title": "A two hundred years record of atmospheric cadmium, copper and zinc concentrations in high altitude snow and ice from the French and Italian Alps",
+    "authors": ["K Van de Velde", "CF Boutron", "CP Ferrari", "A Moreau", "DRJ Laure", "C Barbante", "T Bellomi", "G Capodaglio", "P Cescon"],
+    "venue": "Geophys Res Lett 27(2):249–252",
+    "year": 2000
+  }, {
+    "title": "Volcanically influenced iron and aluminum cloud water deposition to Hawaii",
+    "authors": ["CR Benitez-Nelson", "SM Vink", "JH Carrillo", "BJ Huebert"],
+    "venue": "Atmos Environ",
+    "year": 2003
+  }, {
+    "title": "Heavy metals in Antarctic ice from Law Dome: initial results",
+    "authors": ["S Hong", "CF Boutron", "R Edwards", "VI Morgan"],
+    "venue": "Environ Res",
+    "year": 1998
+  }, {
+    "title": "Lipenkov VY (2005) Glacial-interglacial changes in the occurrence of Pb, Cd, Cu and Zn in Vostok Antarctic ice",
+    "authors": ["S Hong", "CF Boutron", "C Barbante", "S Do Hur", "K Lee", "P Gabrielli", "G Capodaglio", "CP Ferrari", "C Turetta", "JR Petit"],
+    "venue": "BP. J Environ Monitor",
+    "year": 2005
+  }, {
+    "title": "Deposition of atmospheric heavy metals to the Greenland ice sheet from the 17831784 volcanic eruption of Laki, Iceland",
+    "authors": ["S Hong", "J-P Candelone", "CF Boutron"],
+    "venue": "Earth Planet Sci Lett 144:605–610",
+    "year": 1996
+  }, {
+    "title": "Fluorimetric method for the determination of low concentrations of dissolved aluminium in natural waters",
+    "authors": ["DJ Hydes", "PS Liss"],
+    "year": 1976
+  }, {
+    "title": "Flow-through analysis of Al in seawater by fluorometric detection with the use of lumogallion",
+    "authors": ["H Obata", "Y Nozaki", "K Okamura", "M Maruo", "E Nakayama"],
+    "venue": "Field Anal Chem Tech",
+    "year": 2000
+  }, {
+    "title": "Mineral particle size as a control on aerosol iron solubility",
+    "authors": ["AR Baker", "TD Jickells"],
+    "venue": "Geophys Res Lett 33(17):L17608",
+    "year": 2006
+  }, {
+    "title": "Determination of iron in seawater by flow injection analysis using in-line preconcentration and spectrophotometric detection",
+    "authors": ["CI Measures", "J Yuan", "JA Resing"],
+    "year": 1995
+  }, {
+    "title": "Fluorometric determination of Al in seawater by flow injection analysis with in-line preconcentration",
+    "authors": ["JA Resing"],
+    "venue": "CI",
+    "year": 1994
+  }, {
+    "title": "Retrieving a common accumulation record from Greenland ice cores for the past 1800 years",
+    "authors": ["KK Andersen", "PD Ditlevsen", "SO Rasmussen", "HB Clausen", "BM Vinther", "SJ Johnsen", "JP Steffensen"],
+    "venue": "J Geophys Res 111(D15):D15106",
+    "year": 2006
+  }, {
+    "title": "The speciation of Fe(II) and Fe(III) in natural-waters",
+    "authors": ["FJ Millero", "WS Yao", "J Aicher"],
+    "year": 1995
+  }, {
+    "title": "A new continuous high-resolution detection system for sulphate in ice cores",
+    "authors": ["M Bigler", "A Svensson", "J Steffensen", "P Rgen", "P Kaufmann"],
+    "venue": "Ann Glaciol",
+    "year": 2007
+  }, {
+    "title": "The impact of atmospheric aerosols on trace metal chemistry in open ocean surface seawater, 1. Aluminum",
+    "authors": ["HB Maring", "RA Duce"],
+    "venue": "Earth Planet Sci Lett 84(4):381–392",
+    "year": 1987
+  }, {
+    "title": "The role of airborne volcanic ash for the surface ocean biogeochemical iron-cycle: a review",
+    "authors": ["S Duggen", "N Olgun", "P Croot", "L Hoffmann", "H Dietze", "C Teschner"],
+    "venue": "Biogeosci Discuss",
+    "year": 2009
+  }, {
+    "title": "Siderophile metal fallout to Greenland from the 1991 winter eruption of Hekla (Iceland) and during the global atmospheric perturbation of Pinatubo",
+    "authors": ["P Gabrielli", "C Barbante", "JMC Plane", "CF Boutron", "JL Jaffrezo", "TA Mather", "B Stenni", "V Gaspari", "G Cozzi", "C Ferrari", "P Cescon"],
+    "venue": "Chem Geol",
+    "year": 2008
+  }, {
+    "title": "Link between iron and sulphur cycles suggested by detection of Fe(n) in remote marine aerosols",
+    "authors": ["G Zhuang", "Z Yi", "RA Duce", "PR Brown"],
+    "venue": "Nature",
+    "year": 1992
+  }],
+  "id": "SP:1822a5cdd7b6baf95c1b18115c76caaf84169f79",
+  "authors": [{
+    "name": "A. Spolaor",
+    "affiliations": []
+  }, {
+    "name": "P. Vallelonga",
+    "affiliations": []
+  }, {
+    "name": "J. Gabrieli",
+    "affiliations": []
+  }, {
+    "name": "M. Roman",
+    "affiliations": []
+  }, {
+    "name": "C. Barbante",
+    "affiliations": []
+  }],
+  "abstractText": "Iron and aluminium are the two most abundant metals on the Earth's crust, but they display quite different biogeochemical properties. While iron is essential to many biological processes, aluminium has not been found to have any biological function at all. In environmental studies, iron has been studied in detail for its limiting role in the bioproductivity of high nutrient, low carbon oceanic zones, while aluminium is routinely used as a reference of crustal contributions to atmospheric deposition archives including peat bogs, lacustrine and marine sediments and ice sheets and glaciers. We report here the development of a flow injection analysis technique, which has been optimised for the simultaneous determination of soluble iron and aluminium in polar ice cores. Iron was determined by its catalytic role in the reduction of N,N-dimethyl-p-phenylenediamene (DPD) to a semiquinonic form (DPDQ) and subsequent absorption spectroscopy at 514 nm. Aluminium was determined by spectroscopic analysis of an aluminium–lumogallion complex that exhibits fluorescence at 560 nm. These techniques have been applied to a section of Greenland ice dated to 1729–1733AD and indicate that volcanism is a source of highly soluble aluminium and iron.",
+  "title": "Continuous flow analysis method for determination of soluble iron and aluminium in ice cores"
+}

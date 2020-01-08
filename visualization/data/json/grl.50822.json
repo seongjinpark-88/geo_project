@@ -1,0 +1,263 @@
+{
+  "sections": [{
+    "text": "Impact of known local and tropical volcanic eruptions of the past millennium on the WAIS Divide microparticle record\nBess G. Koffman,1 Karl J. Kreutz,1 Andrei V. Kurbatov,1 and Nelia W. Dunbar2\nReceived 3 July 2013; revised 31 July 2013; accepted 1 August 2013; published 5 September 2013.\n[1] We present a new method for inferring the relative location (low- versus high-southern latitude), and therefore the potential climatic impact, of past eruptions based on the particle size distribution (PSD) of micrometer-sized ash measured continuously in the West Antarctic Ice Sheet (WAIS) Divide ice core. We find that particles from a high-southern latitude eruption (Buckle Island, Antarctica (1839 Common Era, C.E.)) have a PSD with mode diameter ≥5 μm coarser than the background dust (mode 5.1 μm), while ash particles originating from stratospheric tropical eruptions, including Tambora (1815 C.E.), Kuwae (1458 C.E.), and Unknown (1258 C.E.), have PSDs with mode diameters ~0.6–1.5 μm finer than the background. In addition, volcanic ash particles from globalscale eruptions are deposited ~3–6 months earlier and over a shorter time interval than sulfate aerosols. We hypothesize that this phasing is driven by differences in atmospheric processing and aerosol/particle transport and deposition. Citation: Koffman, B. G., K. J. Kreutz, A. V. Kurbatov, and N. W. Dunbar (2013), Impact of known local and tropical volcanic eruptions of the past millennium on the WAIS Divide microparticle record, Geophys. Res. Lett., 40, 4712–4716, doi:10.1002/grl.50822."
+  }, {
+    "heading": "1. Introduction",
+    "text": "[2] Explosive volcanic eruptions are a recognized natural forcing of global climate [Lamb, 1970; Cadle et al., 1976; Hammer, 1980; Mass and Portman, 1989]. By emitting fine ash particles and sulfur dioxide gas (SO2) to the stratosphere, which rapidly oxidizes to sulfate aerosol (SO4\n2-), large eruptions decrease the amount of shortwave radiation reaching Earth’s surface, cooling the troposphere while warming the stratosphere [e.g., Cadle et al., 1976; Robock, 2000]. Tropical eruptions that inject ash and sulfate above the tropopause have the greatest potential to impact global climate, as the atmospheric circulation allows dispersion of sulfate aerosols to both polar hemispheres. Volcanic plumes that are erupted below the tropopause have smaller climatic impacts; however, deep atmospheric convection and proximity to the stratosphere are capable of lofting aerosols even from relatively modest volcanic eruptions into the\nstratosphere, thereby increasing their potential impact on climate [Zielinski, 2000; Bourassa et al., 2012]. In contrast, eruptions that occur at higher latitudes tend to have only local or regional effects on climate or biogeochemistry [e.g., Oman et al., 2005, 2006; Langmann et al., 2010]. [3] Good estimates of volcanic radiative forcing are necessary in order to understand and model the past climate system [e.g., Gao et al., 2008; Ammann and Naveau, 2010]. Ice cores from Greenland and Antarctica provide direct evidence, in the form of acidity peaks and tephra layers, of past volcanic events at high temporal resolution and over long time spans (101–105 years) [Hammer, 1980; Zielinski et al., 1994, 1996; Langway et al., 1995; Stuiver et al., 1995; Palmer et al., 2001; Castellano et al., 2005; Kurbatov et al., 2006; Ferris et al., 2011]. These records of past volcanism serve as chronostratigraphic markers that are used to correlate different ice cores [Dunbar et al., 2003; Dunbar and Kurbatov, 2011] and to estimate the climatic impacts of past eruptions [e.g., Zielinski et al., 2000; Oppenheimer, 2003a]. Because local- and global-scale eruptions have very different climate impacts, it is important to distinguish them in the ice core record; however, differentiating them can be complicated. There are a number of eruptions of unknown origin that were first observed in polar ice core records two decades ago [e.g., Zielinski et al., 1994]. Determining the approximate magnitude and latitude of these eruptions is an important step toward estimating their potential impact on past climate. Geochemical fingerprinting of tephra layers in ice cores can allow the positive identification of the source volcano, provided that a geochemical and temporal match is found [Dunbar et al., 2003; Kurbatov et al., 2006; Narcisi, et al., 2010]. However, ash particles of sufficient size and quantity for geochemical fingerprinting from low-latitude eruptions rarely occur in polar ice cores. Without sufficient tephra volume for robust geochemical analysis, linking an ice core tephra layer to a source eruption can be challenging; thus, past radiative forcing estimates include this large uncertainty. [4] Here we use subannually resolved microparticle and electrolytic conductivity records developed from the West Antarctic Ice Sheet (WAIS) Divide deep ice core to characterize four well-known high- and low-latitude eruptions of the past millennium. We show that the particle size distributions (PSDs) of volcanic ash layers are significantly different for local (high-latitude) versus tropical eruptions and that in both cases, the volcanic PSD differs significantly from that of the background atmospheric dust. Our results support earlier studies that found evidence of interhemispheric transport of volcanic particulates [Palais et al., 1990; 1992] and are consistent with other methods of identifying stratospheric eruptions [Baroni et al., 2007; 2008]. Our microparticle and conductivity records are further used to characterize depositional phasing between chemical aerosol and particulate Additional supporting information may be found in the online version of this article. 1School of Earth and Climate Sciences and the Climate Change Institute, University of Maine, Orono, Maine, USA. 2Earth and Environmental Science Department, New Mexico Institute of Mining and Technology, Socorro, New Mexico, USA. Corresponding author: B. G. Koffman, School of Earth and Climate Sciences, University of Maine, 5790 BGSC, Orono, ME 04469, USA. (bess.koffman@maine.edu) ©2013. American Geophysical Union. All Rights Reserved. 0094-8276/13/10.1002/grl.50822\nGEOPHYSICAL RESEARCH LETTERS, VOL. 40, 4712–4716, doi:10.1002/grl.50822, 2013\ncomponents of stratospheric eruptions. Finally, we apply our interpretations to the unknown eruption of 1258 Common Era (C.E.) [Palais et al., 1992; Zielinski et al., 1994; Stothers, 2000], one of several late thirteenth century eruptions implicated in initiating (or intensifying [Lowell et al., 2013]) the Little Ice Age climate interval through changes in radiative forcing and sea ice feedbacks [Miller et al., 2012]. We suggest that our results may be used in the future to characterize additional eruptions of unknown origin, thereby estimating their potential contribution to climate forcing."
+  }, {
+    "heading": "2. Methods",
+    "text": "[5] The West Antarctic Ice Sheet (WAIS) Divide ice core was drilled to a depth of 3405 m in West Antarctica (79.468°S, 112.086°W, 1766 m above sea level; Figure S1 in the supporting information) at a site with an average accumulation rate of 0.207 mweq a\n-1 [Banta et al., 2008], sufficient for detection of well-preserved annual layers. We melted the upper 577 m of the deep ice core, WDC06A, using a continuous ice core melter system [Breton et al., 2012]. Prior to melting, core ends and breaks were mechanically scraped using a clean ceramic blade to reduce potential contamination from drilling fluid and other sources. The ice core meltwater was analyzed continuously for microparticles using a flow-through Klotz Abakus laser particle detector, and for electrolytic conductivity using a flow-through conductivity cell (Amber Science). Because volcanic sulfate deposition is accompanied by increased H+, we record volcanic signals as increased total conductivity of the meltwater [Hammer, 1980; Delmas et al., 1985; Zielinski et al., 1994]. Depth coregistration for both data sets was achieved using a weight and rotary encoder and our sample-tracking algorithm, giving a depth uncertainty of\n±1 mm. The depth resolution achieved by our system is 1.0 cm in glacial ice and ~2 cm in low-density firn, which equates to ~10–20 samples/yr for the late Holocene core analyzed here [Breton et al., 2012]. [6] Using the Abakus, we analyzed insoluble dust/ash particles in 31 size channels, spanning 1.0 to 15.0 μm in diameter, and calculated particle concentrations using directly measured flow rates. The Abakus was calibrated with Antarctic snow samples using a Coulter Counter, as described by Ruth et al. [2003]. Particle size distributions were determined by calculating the total volume of insoluble dust contained within each size bin, assuming spherical dimensions and then taking the derivative of the particle volume with respect to the natural logarithm of the particle diameter for each bin (dV/dlnD inμm3mL-1).We use the mode particle diameter (most commonly occurring value) as a descriptive statistic for the center of the volume distribution [Ruth et al., 2003]. Because the background atmospheric dust PSDs surrounding each eruption interval were nearly identical, we use the average background PSD, which has a mode diameter of 5.1 μm (Figures 1 and 2c). In addition, we characterized the PSDs of individual, stratigraphically relevant particle concentration peaks in order to determine how the inferred volcanic PSDs differed from the PSDs associated with atmospheric dust peaks (supporting information). [7] We applied theWDC06A-7 time scale developed by annual layer counting of chemical signals in the ice core, which has an estimated age uncertainty of ±1 year for the intervals reported here [WAIS Divide Project Members, 2013]. Years are defined by high-resolution (<1 cm per sample) measurements of seasonally varying sulfur, sodium, black carbon, and electrical conductivity; the beginning of each year is defined as 1 January [WAIS Divide Project Members, 2013]. Calendar ages assigned to our data may be subject to minor\nchanges, as the time scale for the ice core continues to be developed; however, relative sample duration or delay timing will be the same between individual annual layers. [8] We used the Buckle Island, Antarctica, eruption of 1839 C.E. as a test case for a high southern latitude (i.e., local to the WAIS Divide site) eruption. As far as we know, it is the only eruption observed by humans in Antarctica that occurs in our microparticle data set. We selected the Tambora, Indonesia (1815 C.E.); Kuwae, Vanuatu (~1458 C.E.); and Unknown (1258 C.E.) eruptions to represent stratospheric, tropical\neruptions, as these are the three largest-magnitude events of the past millennium [Oppenheimer, 2003a, 2003b; Gao et al., 2006]. Although the volcanic source of the 1258 event has not yet been published (though speculation exists that it was Mt. Rinjani, Indonesia [Witze, 2012]), there is ample evidence of the stratospheric nature and climate-altering impact of this eruption [e.g., Stothers, 2000; Baroni et al., 2008]. Therefore, we use these four eruptions as exemplars of the patterns we see for local/tropospheric and tropical/stratospheric eruptions in the WAIS Divide ice core."
+  }, {
+    "heading": "3. Results and Discussion",
+    "text": ""
+  }, {
+    "heading": "3.1. Buckle Island, Antarctica (1839)",
+    "text": "[9] An eruption originating on Buckle Island, part of the Balleny Islands off the Oates Coast in East Antarctica (Figure S1 in the supporting information), was observed in 1839 [LeMasurier and Thomson, 1990]. The possible signal from this eruption is identified in the WAIS Divide ice core as two discrete pulses of elevated particle concentrations, reaching levels of 2500 and 5300 mL-1, respectively (Figure 1a; note that the discrepancy in date is within the uncertainty of the time scale). A core break slightly shallower in the core prevents us from assessing whether there may have been additional tephra pulses associated with this eruption. There was no apparent effect on conductivity, which may be due to the separation of sulfate aerosols and ash particles during transport and deposition. The PSD of ash from this eruption is coarser than the background dust (Figure 2a). Because the upper detection limit of the Abakus particle sizing instrument is 15 μm in diameter, we did not capture the full PSD range. However, the mode particle diameter is likely to be >10 μm, significantly larger than the background mode diameter (5.1 μm)."
+  }, {
+    "heading": "3.2. Tambora, Indonesia (1815)",
+    "text": "[10] The Tambora eruption, the largest known historic eruption [Oppenheimer, 2003a], typifies the patterns we observe for deposition of material from tropical eruptions transported via the stratosphere. A discrete pulse of particles was deposited during an interval of 1 year or less, followed several months later by a large conductivity peak, which spans several years (Figure 1b; see also Cole-Dai et al. [2009]). The particle concentration peak associated with Tambora reaches 1700 particles mL-1, only a factor of ~3 above the background dust concentration, and yet the mode diameter (4.0 μm) is distinctly finer than the background atmospheric dust (5.1 μm; Figure 2b). Conductivity rises in two peaks to 0.31 and 0.32 μS cm-1, respectively, and remains elevated for about 2 years."
+  }, {
+    "heading": "3.3. Kuwae, Vanuatu (~1458)",
+    "text": "[11] The presumed Kuwae eruption occurs in our record as the highest-magnitude particle and conductivity signal of the past 2400 years. Particles increase to 13,000 mL-1 (a factor of 20 over the background), deposited over 1 year (Figure 1c); this eruption resulted in similarly high concentrations of particles measured in a South Pole ice core [Mosley-Thompson and Thompson, 1982]. The mode diameter is 3.6 μm, substantially finer than the background (5.1 μm; Figure 2b). Conductivity begins to increase about 6months after the beginning of particle deposition. It rises from a background of ~0.12 μS cm-1 in two peaks, reaching 0.37 and 0.48 μS cm-1, respectively, and remains elevated for over 2 years."
+  }, {
+    "heading": "3.4. Unknown Eruption of 1258",
+    "text": "[12] Our results suggest that two eruptions occurred within approximately 3 years of each other in the tropics and high southern latitudes, respectively, around the year 1259 (Figure 2d). A global-scale eruption, which occurred in 1257 or 1258 [Stothers, 2000; Oppenheimer, 2003b], resulted in similar depositional patterns to those observed for Tambora and Kuwae. Enhanced microparticle deposition in the WAIS Divide ice core occurred in two pulses during the year 1258, reaching 3200 and 2400 particles mL-1, respectively (Figure 1d). The modal particle diameter was 4.5 μm, which was finer than the background (5.1 μm; Figure 2b). Approximately 6months after the onset of ash deposition, conductivity began to increase. The first conductivity peak reached 0.31 μS cm-1, with a second peak of 0.26 μS cm-1 occurring within 1 year of the first chemical aerosol deposition; conductivity remained elevated for over 2 years. A second large particle concentration peak occurred in 1261, reaching 5000 particles mL-1. The relative coarseness of particles in this peak suggests a local eruption (Figure 2a)."
+  }, {
+    "heading": "3.5. Phasing of Stratospheric Volcanic Deposition",
+    "text": "[13] Our results from the analysis of known stratospheric eruptions show that for each eruption, ash particles were deposited earlier and over a shorter interval of time (generally less than 1 year) than sulfate aerosols (measured as conductivity of the ice), which were deposited over a period of several years.We estimate the delay between the arrival of particulates and the later arrival of sulfate at about ~3–6 months, a timeframe comparable to that observed in the polar regions for several other stratospheric eruptions [Delmas et al.,1985; Fiacco et al., 1993; Palmer et al., 2001; Delmonte et al., 2004; Barbante et al., 2013]. Given the range of factors that could influence this lag time, including season of eruption and postdepositional effects on the ice sheet surface, we do not attempt to explain the minor differences in observed phasing offsets. Rather, we interpret the consistent occurrence of a lag of sulfate deposition behind particulates as a function of two things: (1) the timeframe of chemical oxidation of volcanic sulfur dioxide to sulfate aerosol [Bekki et al., 1996] and (2) aerosol size and therefore terminal settling velocity and atmospheric lifetime [Rose and Durant, 2009]. Sulfate aerosol droplets range in diameter from about 0.1 to 1.0 μm [Hofmann and Rosen, 1983], while the ash particles we found associated with stratospheric eruptions had a mode diameter of around 4 μm. Thus, differences in atmospheric transport, residence time, and deposition likely drive the observed phasing. [14] In summary, we observed particle and sulfate aerosol phasing offsets, as well as the finer-than-background PSDs of volcanic ash associated withwell-known stratospheric eruptions. The observed change in mode particle diameter relative to the background atmospheric dust was 1.5 μm for Kuwae, 1.1 μm for Tambora, and 0.6 μm for Unknown (1258). We speculate that the magnitude of change in the modal particle diameter is primarily a function of the mass of fine particulate material injected into the stratosphere, which in turn depends on eruptive style and composition [Rose and Durant, 2009; Genareau et al., 2012]. Therefore, we believe that our observations reflect the combined effects of volcanic latitude and eruption magnitude. Given the presence of >1500 volcanic layers in the WAIS Divide ice core identified through optical logging and visual stratigraphic analysis (N. W. Dunbar,\npersonal communication, 2012; R. C. Bay, personal communication, 2012)—very few of which have been identified to source [Sigl et al., 2013]—our findings represent an important step forward in determining the possible contribution of these eruptions to global climate forcing."
+  }, {
+    "heading": "4. Conclusions",
+    "text": "[15] While acidity peaks in polar ice cores have long been used as indicators of global-scale eruptions, ash particles sourced from these eruptions have not consistently been identified. Observations have been limited by a general lack of subannually resolved ice core microparticle records from Greenland and Antarctica. Using the high-resolution WAIS Divide ice core, we are able to measure elevated microparticle concentrations associated with acidity peaks for well-known stratospheric eruptions of the past millennium, as well as a high southern latitude eruption. The accuracy and precision of the WAIS Divide time scale gives us confidence in our attribution of these events; however, quantitative geochemical analysis of ash particles from these four eruptions will be needed to confirm their origin. For the first time, we demonstrate that ash particles from explosive tropical eruptions have finer size distributions than the background atmospheric dust at this site. In addition, we observe that ash particles are deposited roughly 3–6 months prior to the beginning of chemical aerosol (i.e., sulfate) deposition. We find that a smaller, high southern latitude eruption produced a coarser-than-background PSD, implying the tropospheric transport of its ash cloud. We suggest that these observations can be used to infer the relative latitude and/or magnitude of unknown eruptions as measured in polar ice cores and therefore their potential impact on global climate. Our results illustrate the value of microparticle size distribution measurements and underscore the need for more such records from spatially distributed high-accumulation ice core sites.\n[16] Acknowledgments. This work was supported by NSF grants 0636740 and 0636767 and by the Correll Graduate Student Research Fellowship, Chase Distinguished Research Assistantship, and University of Maine Dissertation Research Fellowship to B.G.K. We gratefully acknowledge the assistance of D. Breton, E. Kane, S. Norton, U. Ruth, A. Wegner, and D. Winski. We appreciate the support of the WAIS Divide Science Coordination Office, the Ice Drilling Program Office, Ice Drilling Design and Operations, and the National Ice Core Laboratory. We also thank Raytheon Polar Services for logistics support and the 109th New York Air National Guard for airlift in Antarctica. In addition, we thank A.J. Durant and two anonymous reviewers for constructive comments that improved the quality of this paper. [17] The Editor thanks two anonymous reviewers for their assistance in evaluating this paper."
+  }],
+  "year": 2013,
+  "references": [{
+    "title": "A statistical volcanic forcing scenario generator for climate simulations",
+    "authors": ["C. Ammann", "P. Naveau"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2010
+  }, {
+    "title": "Greenland ice core evidence of the 79 AD",
+    "authors": ["C. Barbante", "N.M. Kehrwald", "P. Marianelli", "B.M. Vinther", "J. Steffensen", "G. Cozzi", "C.U. Hammer", "H.B. Clausen", "M.-L"],
+    "venue": "Siggaard-Andersen",
+    "year": 2013
+  }, {
+    "title": "Massindependent sulfur isotopic compositions in stratospheric volcanic eruptions",
+    "authors": ["M. Baroni", "M.H. Thiemens", "R.J. Delmas", "J. Savarino"],
+    "venue": "Science, 315,",
+    "year": 2007
+  }, {
+    "title": "Anomalous sulfur isotope compositions of volcanic sulfate",
+    "authors": ["M. Baroni", "J. Savarino", "J. Cole-Dai", "V.K. Rai", "M. H"],
+    "venue": "Thiemens",
+    "year": 2008
+  }, {
+    "title": "The role of microphysical and chemical processes in prolonging the climate forcing of the Toba eruption",
+    "authors": ["S. Bekki", "J.A. Pyle", "W. Zhong", "R. Toumi", "J.D. Haigh", "D.M"],
+    "venue": "Pyle",
+    "year": 1996
+  }, {
+    "title": "The global scale dispersion of the eruption clouds from major volcanic eruptions",
+    "authors": ["R.D. Cadle", "C.S. Kiang", "J.-F"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1976
+  }, {
+    "title": "Holocene volcanic history as recorded in the sulfate stratigraphy of the European Project for Ice Coring in Antarctica Dome C (EDC96) ice core",
+    "authors": ["E. Castellano", "S. Becagli", "M. Hansson", "M.A. Hutterli", "J.R. Petit", "M.R. Rampino", "M. Severi", "J.P. Steffensen", "R. Traversi"],
+    "venue": "Udisti",
+    "year": 2005
+  }, {
+    "title": "Cold decade (AD 1810–1819) caused by Tambora (1815) and another (1809) stratospheric volcanic eruption",
+    "authors": ["J. Cole-Dai", "D. Ferris", "A. Lanciki", "J. Savarino", "M. Baroni"],
+    "venue": "Thiemens",
+    "year": 2009
+  }, {
+    "title": "Volcanic deposits in Antarctic snow and ice",
+    "authors": ["R.J. Delmas", "M. Legrand", "A.J. Aristarain"],
+    "venue": "Zanolini",
+    "year": 1985
+  }, {
+    "title": "Dust size evidence for opposite regional atmospheric circulation changes over east Antarctica during the last climatic transition",
+    "authors": ["B. Delmonte", "J.R. Petit", "K.K. Andersen", "I. Basile-Doelsch", "V. Maggi", "V. Y"],
+    "venue": "Lipenkov",
+    "year": 2004
+  }, {
+    "title": "Tephra layers in the Siple Dome and Taylor Dome ice cores, Antarctica: Sources and correlations",
+    "authors": ["N.W. Dunbar", "G.A. Zielinski", "D. T"],
+    "venue": "Voisins",
+    "year": 2003
+  }, {
+    "title": "South Pole ice core record of explosive volcanic eruptions in the first and second millennia A.D. and evidence of a large eruption in the tropics around 535 A.D",
+    "authors": ["D.G. Ferris", "J. Cole-Dai", "A.R. Reyes", "D. M"],
+    "venue": "Budner",
+    "year": 2011
+  }, {
+    "title": "The 1452 or 1453 A.D. Kuwae eruption signal derived from multiple ice core records: Greatest volcanic sulfate event of the past",
+    "authors": ["C. Gao", "A. Robock", "S. Self", "J.B. Witter", "J.P. Steffenson", "H.B. Clausen", "M.-L. Siggaard-Andersen", "S.J. Johnsen", "P.A. Mayewski", "C.M. Ammann"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2006
+  }, {
+    "title": "Volcanic forcing of climate over the past 1500 years: an improved ice-core-based index for climate models",
+    "authors": ["C. Gao", "A. Robock", "C. Ammann"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2008
+  }, {
+    "title": "Sizing up the bubbles that produce very fine ash during explosive volcanic eruptions",
+    "authors": ["K. Genareau", "A.A. Proussevitch", "A.J. Durant", "G. Mulukutla", "D.L. Sahagian"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2012
+  }, {
+    "title": "Acidity of polar ice cores in relation to absolute dating, past volcanism, and radio-echoes",
+    "authors": ["C.U. Hammer"],
+    "venue": "J. Glaciol.,",
+    "year": 1980
+  }, {
+    "title": "Stratospheric sulfuric acid fraction and mass estimate for the 1982 volcanic eruption of El Chichon,Geophys",
+    "authors": ["D.J. Hofmann", "J.M. Rosen"],
+    "year": 1983
+  }, {
+    "title": "A 12,000 year record of explosive volcanism in the Siple Dome Ice Core, West Antarctica",
+    "authors": ["A.V. Kurbatov", "G.A. Zielinski", "N.W. Dunbar", "P.A. Mayewski", "E.A.Meyerson", "S.B. Sneed", "K.C. Taylor"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2006
+  }, {
+    "title": "Volcanic dust in the atmosphere; with a chronology and assessment of its meteorological significance",
+    "authors": ["H.H. Lamb"],
+    "venue": "Philos. Trans. R. Soc. London Ser. A, Math. Phys. Sci.,",
+    "year": 1970
+  }, {
+    "title": "Volcanic ash as fertiliser for the surface ocean",
+    "authors": ["B. Langmann", "K. Zaksek", "M. Hort"],
+    "venue": "Duggen",
+    "year": 2010
+  }, {
+    "title": "A 10-Century comparison of prominent bipolar volcanic events in ice",
+    "authors": ["C.C. Langway", "Jr.", "K. Osada", "H.B. Clausen", "C.U. Hammer", "H. Shoji"],
+    "venue": "cores, J. Geophys. Res.,",
+    "year": 1995
+  }, {
+    "title": "Volcanoes of the Antarctic plate and southern oceans, American Geophysical Union, Washington D.C",
+    "authors": ["W.E. LeMasurier", "J.W. Thomson"],
+    "year": 1990
+  }, {
+    "title": "Late Holocene expansion of Istorvet ice cap Liverpool Land, east Greenland, Quat",
+    "authors": ["T.V. Lowell", "B.L. Hall", "M.A. Kelly", "O. Bennike", "A.R. Lusas", "W. Honsaker", "C.A. Smith", "L.B. Levy", "S. Travis", "G.H. Denton"],
+    "venue": "Sci. Rev.,",
+    "year": 2013
+  }, {
+    "title": "Major volcanic eruptions and climate: a critical evalution",
+    "authors": ["C.F. Mass", "D.A. Portman"],
+    "venue": "J. Clim.,",
+    "year": 1989
+  }, {
+    "title": "Abrupt onset of the Little Ice Age triggered by volcanism and sustained by sea-ice/ocean feedbacks",
+    "authors": ["Miller", "G. H"],
+    "venue": "Geophys. Res. Lett., 39,",
+    "year": 2012
+  }, {
+    "title": "Nine Centuries of Microparticle Deposition at the South Pole",
+    "authors": ["E. Mosley-Thompson", "L.G. Thompson"],
+    "venue": "Quat. Res.,",
+    "year": 1982
+  }, {
+    "title": "A 70 ka record of explosive eruptions from the TALDICE ice core (Talos Dome, East Antarctic plateau)",
+    "authors": ["B. Narcisi", "J.R. Petit"],
+    "venue": "Chappellaz",
+    "year": 2010
+  }, {
+    "title": "Climatic response to high-latitude volcanic eruptions",
+    "authors": ["L. Oman", "A. Robock", "G.L. Stenchikov", "G.A. Schmidt", "R. Ruedy"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2005
+  }, {
+    "title": "Modeling the distribution of the volcanic aerosol cloud from the 1783–1784",
+    "authors": ["L. Oman", "A. Robock", "G.L. Stenchikov", "T. Thordarson", "D. Koch", "D.T. Shindell", "C. Gao"],
+    "venue": "Laki eruption, J. Geophys. Res.,",
+    "year": 2006
+  }, {
+    "title": "Climatic, environmental and human consequences of the largest known historic eruption: Tambora volcano (Indonesia) 1815",
+    "authors": ["C. Oppenheimer"],
+    "venue": "Prog. Phys. Geogr.,",
+    "year": 2003
+  }, {
+    "title": "2003b), Ice core and palaeoclimatic evidence for the timing and nature of the great mid-13th century volcanic eruption",
+    "authors": ["C. Oppenheimer"],
+    "venue": "Int. J. Climatol.,",
+    "year": 2003
+  }, {
+    "title": "Identification of some global volcanic horizons by major element analysis of fine ash in Antarctic ice",
+    "authors": ["J.M. Palais", "S. Kirchner", "R.J. Delmas"],
+    "venue": "Ann. Glaciol.,",
+    "year": 1990
+  }, {
+    "title": "Inter-hemispheric transport of volcanic ash from a 1259 A.D. volcanic eruption to the Greenland and Antarctic ice",
+    "authors": ["J.M. Palais", "M.S. Germani", "G.A. Zielinski"],
+    "venue": "sheets, Geophys. Res. Lett.,",
+    "year": 1992
+  }, {
+    "title": "High-precision dating of volcanic events (A. D. 1301–1995) using ice cores from Law Dome, Antarctica",
+    "authors": ["A.S. Palmer", "T.D. van Ommen", "M.A.J. Curran", "V. Morgan", "J.M. Souney", "P. A"],
+    "venue": "Mayewski",
+    "year": 2001
+  }, {
+    "title": "Volcanic eruptions and climate",
+    "authors": ["A. Robock"],
+    "venue": "Rev. Geophys.,",
+    "year": 2000
+  }, {
+    "title": "Fine ash content of explosive eruptions",
+    "authors": ["W.I. Rose", "A.J. Durant"],
+    "venue": "J. Volcanol. Geotherm. Res.,",
+    "year": 2009
+  }, {
+    "title": "Continuous record of microparticle concentration and size distribution in the central Greenland NGRIP ice core during the last glacial period",
+    "authors": ["U. Ruth", "D. Wagenbach", "J.P. Steffensen", "M. Bigler"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2003
+  }, {
+    "title": "A new bipolar ice core record of volcanism from WAIS Divide andNEEM and implications for climate forcing of the last",
+    "authors": ["M Sigl"],
+    "venue": "years, J. Geophys. Res. Atmos.,",
+    "year": 2013
+  }, {
+    "title": "Climatic and demographic consequences of the massive volcanic eruption of 1258",
+    "authors": ["R.B. Stothers"],
+    "venue": "Clim. Change,",
+    "year": 2000
+  }, {
+    "title": "The GISP2 δ18O climate record of the past 16,500 years and the role of the Sun, oceans, and volcanoes",
+    "authors": ["M. Stuiver", "P.M. Grootes", "T.F. Braziunas"],
+    "venue": "Quat. Res.,",
+    "year": 1995
+  }, {
+    "title": "Mystery volcano site pinned down: Indonesian crater implicated in mid-13th century eruption",
+    "authors": ["A. Witze"],
+    "venue": "Sci. News,",
+    "year": 2012
+  }, {
+    "title": "Use of paleo-records in determining variability within the volcanism-climate system, Quat",
+    "authors": ["G.A. Zielinski"],
+    "venue": "Sci. Rev.,",
+    "year": 2000
+  }, {
+    "title": "A 110,000-yr record of explosive volcanism from the GISP2 (Greenland) ice",
+    "authors": ["G.A. Zielinski", "P.A. Mayewski", "L.D. Meeker", "S.I. Whitlow", "M.S. Twickler"],
+    "venue": "core, Quat. Res.,",
+    "year": 1996
+  }],
+  "id": "SP:3b6cc2df6376ece78841cfc3284119e063375e1a",
+  "authors": [{
+    "name": "Bess G. Koffman",
+    "affiliations": []
+  }, {
+    "name": "Karl J. Kreutz",
+    "affiliations": []
+  }, {
+    "name": "Andrei V. Kurbatov",
+    "affiliations": []
+  }, {
+    "name": "Nelia W. Dunbar",
+    "affiliations": []
+  }],
+  "abstractText": "[1] We present a new method for inferring the relative location (lowversus high-southern latitude), and therefore the potential climatic impact, of past eruptions based on the particle size distribution (PSD) of micrometer-sized ash measured continuously in the West Antarctic Ice Sheet (WAIS) Divide ice core. We find that particles from a high-southern latitude eruption (Buckle Island, Antarctica (1839 Common Era, C.E.)) have a PSD with mode diameter ≥5 μm coarser than the background dust (mode 5.1 μm), while ash particles originating from stratospheric tropical eruptions, including Tambora (1815 C.E.), Kuwae (1458 C.E.), and Unknown (1258 C.E.), have PSDs with mode diameters ~0.6–1.5 μm finer than the background. In addition, volcanic ash particles from globalscale eruptions are deposited ~3–6 months earlier and over a shorter time interval than sulfate aerosols. We hypothesize that this phasing is driven by differences in atmospheric processing and aerosol/particle transport and deposition. Citation: Koffman, B. G., K. J. Kreutz, A. V. Kurbatov, and N. W. Dunbar (2013), Impact of known local and tropical volcanic eruptions of the past millennium on the WAIS Divide microparticle record, Geophys. Res. Lett., 40, 4712–4716, doi:10.1002/grl.50822.",
+  "title": "Impact of known local and tropical volcanic eruptions of the past millennium on the WAIS Divide microparticle record"
+}

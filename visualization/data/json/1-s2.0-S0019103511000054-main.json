@@ -1,0 +1,823 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nIcarus\njournal homepage: www.elsevier .com/locate / icarus\nEvidence of volcanic and glacial activity in Chryse and Acidalia Planitiae, Mars\nSara Martínez-Alonso a,⇑, Michael T. Mellon b, Maria E. Banks c, Laszlo P. Keszthelyi d, Alfred S. McEwen e, The HiRISE Team a Department of Geological Sciences, University of Colorado, Boulder, CO 80309-0399, USA b Laboratory for Atmospheric and Space Physics, University of Colorado, Boulder, CO 80309-0392, USA c Center for Earth and Planetary Studies, Smithsonian Institution, Washington, DC 20560, USA d US Geological Survey, Flagstaff, AZ 86001, USA e Lunar and Planetary Lab, University of Arizona, Tucson, AZ 85721, USA\na r t i c l e i n f o\nArticle history: Received 10 November 2008 Revised 30 November 2010 Accepted 5 January 2011 Available online 13 January 2011\nKeywords: Geological processes Mars Mars, Surface\n0019-1035/$ - see front matter 2011 Elsevier Inc. A doi:10.1016/j.icarus.2011.01.004\n⇑ Corresponding author. E-mail address: martinas@colorado.edu (S. Martín\na b s t r a c t\nChryse and Acidalia Planitiae show numerous examples of enigmatic landforms previously interpreted to have been influenced by a water/ice-rich geologic history. These landforms include giant polygons bounded by kilometer-scale arcuate troughs, bright pitted mounds, and mesa-like features. To investigate the significance of the last we have analyzed in detail the region between 60 N, 290 E and 10 N, 360 E utilizing HiRISE (High Resolution Imaging Science Experiment) images as well as regional-scale data for context. The mesas may be analogous to terrestrial tuyas (emergent sub-ice volcanoes), although definitive proof has not been identified. We also report on a blocky unit and associated landforms (drumlins, eskers, inverted valleys, kettle holes) consistent with ice-emplaced volcanic or volcano-sedimentary flows. The spatial association between tuya-like mesas, ice-emplaced flows, and further possible evidence of volcanism (deflated flow fronts, volcanic vents, columnar jointing, rootless cones), and an extensive fluid-rich substratum (giant polygons, bright mounds, rampart craters), allows for the possibility of glaciovolcanic activity in the region.\nLandforms indicative of glacial activity on Chryse/Acidalia suggest a paleoclimatic environment remarkably different from today’s. Climate changes on Mars (driven by orbital/obliquity changes) or giant outflow channel activity could have resulted in ice-sheet-related landforms far from the current polar caps.\n2011 Elsevier Inc. All rights reserved."
+  }, {
+    "heading": "1. Introduction",
+    "text": "The uniqueness of the northern lowlands of Mars has been evident ever since they were first imaged by Mariner 9 and Viking (Masursky, 1973; Carr et al., 1976). Those data revealed a complex and intriguing landscape populated by giant polygon-forming troughs (Mutch et al., 1976), bright-colored mounds (Allen, 1979, 1980; Frey et al., 1979), and flat-topped mountains (Guest et al., 1977; Hodges and Moore, 1978). Because observations were limited, hypotheses explaining these features were diverse.\nHigher resolution and signal-to-noise data have since added to our understanding of these landforms. However, a pervasive midlatitude mantle (ice-cemented aeolian deposits, as proposed by Squyres and Carr (1986), Mustard et al. (2001), Milliken et al. (2003), and Morgenstern et al. (2007); among others) covering most of the lowlands has impeded the identification of features diagnostic of their origin. Newly available data from the High Resolution Imaging Science Experiment (HiRISE) give us an excellent\nll rights reserved.\nez-Alonso).\nopportunity to revisit some of these landforms and further investigate their significance.\nTo evaluate possible origins, we have analyzed the mesas1 that are ubiquitous in southern Acidalia and northeastern Chryse, as well as their spatial relationship to other deposits and landforms in the region. The results of this analysis are consistent with volcanic and glacial activity in Chryse/Acidalia; definitive evidence of interaction between the two is still elusive."
+  }, {
+    "heading": "1.1. Background",
+    "text": "Acidalia Planitia (centered at 47 N, 338 E) is an extensive, relatively flat region located in the northern lowlands between Tempe and Arabia Terrae (Fig. 1). Chryse Planitia (centered at 27 N, 320 E), an extension of the northern lowlands to the south-west, is considered by some workers to be a large impact basin (Schultz et al., 1982). It hosts the debouchment areas of catastrophic outflow channels (e.g., Kasei Valles, Ares Vallis, and others) originating\n1 The term ‘‘mesa’’ is utilized as purely descriptive (i.e., a flat-topped, steep-sided landform) and thus does not necessarily imply an erosional origin.\nin the southern highlands (Masursky, 1973). The Mars global dichotomy boundary (Scott and Tanaka, 1986) separates Chryse and Acidalia from the highlands. Chryse/Acidalia contain the largest low albedo and high thermal inertia region in the lowlands (Mellon et al., 2000; Putzig et al., 2005). These properties are indicative of exposed rocks (i.e., cobble- and boulder-sized fragments of consolidated materials) and bedrock, among other materials.\nEarly regional studies (Scott and Tanaka, 1986; Rotto and Tanaka, 1995; Tanaka, 1997) were based on Viking Orbiter images of moderate spatial resolution (tens of meters per pixel) and focused on the analysis of geomorphologic and albedo features. Scott and Tanaka (1986) mapped central Acidalia as late Hesperian lava flows or alluvial/aeolian deposits (units Hvm, Hvg, Hvr) and late Amazonian lava flows (Aa5), with early Amazonian lava flows (Aa1) to the south. Subsequent studies assigned a sedimentary origin to these Chryse/Acidalia deposits: Rotto and Tanaka (1995) interpreted them as mostly lacustrine; Tanaka (1997) proposed they originated by flood outwash and mass flow activity. According to Scott and Tanaka (1986) the floor of Kasei Valles and the other outflow channels, as well as Chryse’s periphery, are covered by late Hesperian alluvial deposits (Hch, Hchp, Hcht). Rotto and Tanaka (1995) and Tanaka (1997) dated those late Hesperian to early Amazonian. Kasei Valles west of 293 E appears draped by early Amazonian lava flows (At4) (Scott and Tanaka, 1986; Rotto and Tanaka, 1995; Tanaka, 1997).\nMore recent studies (Tanaka et al., 2003, 2005) based on topographic and imaging data of higher spatial resolution (few meters\nper pixel) coincide in general with some of the earlier interpretations (Rotto and Tanaka, 1995; Tanaka, 1997) and emphasize the role of permafrost-related processes in the deformation of nearsurface deposits.\nWe have analyzed in detail the region between 10–60 N, 290– 360 E. Landforms previously identified in this region that could indicate past volcanism and/or water activity (frozen or liquid) include: tuya-like mesas, giant polygons, bright mounds, lava-like flows, and rampart craters with layered ejecta. New landforms identified in this study include possible glacial (drumlins, eskers, kettles) and volcanic features (vents, columnar jointing, deflated flows; rootless cones are also indicative of water interaction). Background information on some of these relevant landforms is summarized next."
+  }, {
+    "heading": "1.1.1. Glaciovolcanic landforms and deposits",
+    "text": "Terrestrial tuyas, flat-topped volcanic edifices of intraglacial origin, range between 1 and 10 km across and may reach up to 1000 m in height. They are characterized by pillow lavas and hyaloclastite deposits extruded under an ice-sheet, overlain by flat subaerial lava flows; the elevation of the base of the lava cap is indicative of ice thickness at the time of formation. The slopes of most tuyas are covered by talus typically consisting of decameter-scale lava blocks and hyaloclastite fragments. Some tuyas exhibit central edifices, conical or irregular in shape, resulting from continued subaerial eruptions. Subglacial mounds indicate lack of subaerial activity (Fig. 2). Examples of glaciovolcanism have been\ndescribed in Iceland (Pjetursson, 1900; Van Bemmelen and Rutten, 1955; Kjartansson, 1966; Jones, 1966, 1968, 1970; Werner et al., 1996; Jakobsson and Gudmundsson, 2008), Canada (Mathews, 1947, 1951; Moore et al., 1995; Hickson, 2000), the United States (Hoare and Conrad, 1978, 1980), Antarctica (Wörner and Vierek, 1987; Smellie and Skilling, 1994; Smellie, 2006), and the Russian Federation (Komatsu et al., 2007a,b).\nHyaloclastite deposits are the essential constituent of intraglacial volcanics in Iceland, covering about 15,000 km2 in tuyas, mounds, ridges, and extensive flows combined with columnar basalt. Intra- and interglacial lavas, as well as moraines and fluvioglacial deposits are other important components (Jakobsson, 2000). Large deposits of hyaloclastites have also been described\nin intraglacial volcanic deposits in Antarctica (Smellie and Skilling, 1994; Le Masurier, 2002) and Canada (Hickson, 2000). Most terrestrial hyaloclastites are basaltic in composition and are a mixture of crystalline fragments and sideromelane (basaltic glass), an unstable material that in a low-temperature, aqueous environment undergoes palagonitic alteration. Palagonitization produces smectites (Hay and Iijima, 1968; Singer, 1974; Jakobsson, 1978; Eggleton and Keller, 1982; Jakobsson and Moore, 1986; Zhou et al., 1992; Bishop et al., 2002) ranging in composition between Mg-rich and Fe-rich endmembers (Drief and Schiffman, 2004). Since glass has very subtle spectral features, the spectroscopic signature of hyaloclastic deposits is dominated by that of Mg- and Fe-rich smectites. Palagonitization products often act as a cement, thus\nenhancing the preservation of hyaloclastite deposits (Hickson, 2000; Jakobsson and Gudmundsson, 2008).\nLandforms suggestive of volcanoglacial activity on Mars have been previously identified. Narrow ridges and mesas, some topped by conical or irregular edifices, were first observed in Viking imagery of the Cydonia region of Mars. They were initially interpreted as remnants of a unit overlying the northern plains (Guest et al., 1977). Hodges and Moore (1978 and reference therein to a private communication by R.B. Hargraves) and Allen (1979, 1980) recognized the similarity between these and terrestrial tuyas. A tuya origin has been proposed for features observed elsewhere in the northern plains (Allen, 1979, 1980), in the south circumpolar region (Ghatan and Head, 2002), and in Valles Marineris (Chapman and Tanaka, 2001; Chapman, 2003)."
+  }, {
+    "heading": "1.1.2. Glacial landforms",
+    "text": "Terrestrial ice sheets extended well into mid-latitude regions during the last glacial period in the Pleistocene. Once the ice masses receded, swarms of characteristic erosional and depositional glacial landforms (e.g., moraines, drumlins, eskers, kettles; Fig. 3) were unveiled. Brief descriptions of these follow; a full discussion of glacial landforms can be found in Benn and Evans (1998) and Bennett and Glasser (2009), among others.\nIce sheets transport loose debris (till) that are deposited as moraines, either on the ground or at the ice margins. The overriding ice may sculpt its substrate into drumlins (Close, 1867), elongated tear-shaped hills tens of meters high and hundreds of meters long. Hundreds-to-thousands of drumlins may occur in close proximity forming drumlin fields; their long axes indicate the direction of ice movement with their sharper tips pointing downflow (Benn and Evans, 1998).\nMeltwater may produce streams that carve tunnels into the ice and eventually deposit their bedload along those tunnels. Once the ice disappears the filled tunnels remain as eskers, long (often kilometric), sinuous hills with broad-to-sharp crests (Warren and Ashley, 1994; Benn and Evans, 1998).\nA retreating ice mass may leave isolated blocks behind; if active deposition occurs simultaneously, the ice blocks may be surrounded by till. After ice melting and/or ablation, depressed areas (kettles) will remain in their place (Flint, 1957; Clark, 1969; Benn and Evans, 1998); kettle diameters may range from tens of meters to more than 10 km. Conversely, kames are hills resulting from deposition of till in depressions on a retreating ice sheet (Holmes, 1947; Clayton, 1964; Benn and Evans, 1998).\nIndividual samples of each of these ancient landforms may be too degraded and inconclusive by themselves to support interpretations of past glacial processes acting on a landscape. The occurrence of swarms of several of these landforms in close spatial association strengthens the interpretation of past ice-sheet activity.\nIn Section 2.2 of this study we describe possible drumlins, eskers, and kettles in Chryse/Acidalia. Sinuous, shallow depressions with medial ridges in Chryse had been previously interpreted as related to convergent ice streams or to eskers (Rotto and Tanaka, 1995 and references therein). Kargel et al. (1995) described features reminiscent of terrestrial moraines and eskers elsewhere in the lowlands (e.g., in Arcadia, Elysium, Isidis, and Utopia Planitiae). Fishbaugh and Head (2000, 2001) identified possible kames, kettles, and eskers in the circumpolar regions. Head and Pratt (2001) and Ghatan and Head (2004) described putative meltwater drainage valleys and eskers in the southern circumpolar regions. Esker-like features have also been described in the Argyre basin (Carr and Evans, 1980; Howard, 1981; Kargel and Strom, 1992; Hiesinger and Head, 2002); Banks et al. (2009) analyzed these landforms with higher spatial resolution data, confirming that they are most consistent with glacial eskers."
+  }, {
+    "heading": "1.1.3. Martian landforms indicative of a fluid-rich substratum",
+    "text": "Giant polygons. These features were first observed on Mariner 9 images (Mutch et al., 1976) and have since been identified in extensive regions of Acidalia, Elysium, and Utopia Planitiae as well as in Vastitas Borealis (Pechmann, 1980). These landforms are delineated by flat-floored troughs 200–800 m wide and average trough spacing on the order of 5–10 km (Pechmann, 1980). They are several orders of magnitude larger than terrestrial desiccation cracks, cooling cracks, or periglacial polygons. Networks of sea floor extensional fractures such as those described by Cartwright (1994) may be their closest terrestrial equivalent. Several models have been proposed to account for the origin of martian giant polygons; all of them require fluid-rich materials and/or volcanism. The two most widely accepted models are: contraction and compaction of sediments or volcanic deposits over subjacent topography (McGill, 1985a,b; Lucchitta et al., 1986; McGill and Hills, 1992), and tectonic uplift and deformation following either the removal of standing bodies of water and/or the freezing and expansion of residual water buried by sediments (Hiesinger and Head, 2000).\nBright mounds. These domical landforms are ubiquitous throughout Acidalia. They may reach 1 km in diameter, 36–65 m in height (Farrand et al., 2005), and commonly exhibit one or more\ncentral pits. Unlike rootless cones, discussed later, bright mounds commonly differ in albedo from their surroundings. Acidalia mounds were initially discussed by Allen (1979) and Frey et al. (1979); similar landforms are found elsewhere in the northern plains (e.g., Isidis and Utopia Planitiae). Their origin is still the subject of much controversy. Farrand et al. (2005) discussed possible terrestrial analogues for the bright mounds at Acidalia: cinder cones, rootless cones, hydrothermal mud volcanoes, geyser-like or spring-like constructs, and pingos. They found that mud volcanism and deposition around geysers and springs were most consistent with their observations. Komatsu et al. (2007c) proposed that at least some of the bright mounds found at Acidalia and elsewhere on Mars may have been produced by liquefaction due to impact-induced shockwaves. According to McGowan (2009), mounds at Cydonia Mensae could be mud volcanoes produced by the release of underground methane and/or CO2 gas.\nRampart craters. These features are impact craters with massive, fluid-like, layered ejecta blankets, in cases many tens of kilometers across. Rampart craters are commonly interpreted as indicators of ground ice (Carr et al., 1977), although atmospheric effects have also been invoked to explain their origin (Schultz and Gault, 1979; Schultz, 1986). The minimum size and distribution of rampart craters is believed to reflect the latitude-dependent depth of an ice-rich zone at the time of impact (Kuzmin, 1988). Rampart craters are ubiquitous throughout the northern lowlands, particularly in Acidalia and Utopia (Costard and Kargel, 1995).\nRootless cones. Terrestrial rootless cones (also called pseudocraters) are constructional landforms produced by violent vaporization of water as lava advances over wet materials, causing the expulsion of lava from the explosion site (Thorarinsson, 1953; Fagents and Thordarson, 2007). Examples of martian rootless cones have been documented in Elysium and Amazonis Planitiae and perhaps also in Isidis and Utopia Planitia (Greeley and Fagents, 2001; Lanagan et al., 2001 and references therein; Fagents et al., 2002; Bruno et al., 2004; Fagents and Thordarson, 2007; Jaeger et al., 2007; Keszthelyi et al., 2010). The diameters of both terrestrial and martian rootless cones range between several meters and several tens of meters. Previous workers referred to rootless cones in Acidalia (Allen, 1979; Frey et al., 1979). Subsequent studies (Farrand et al., 2005) based on higher-resolution data classified those landforms as bright pitted mounds because of their morphology and reflectance relative to the surroundings. McGill (2005) mapped rootless cones in the Cydonia Mensae and adjacent Acidalia regions."
+  }, {
+    "heading": "1.2. Data description",
+    "text": "We have investigated the morphology, color, and brightness properties of relevant Chryse/Acidalia landforms and deposits analyzing close to 190 HiRISE images. The HiRISE camera (McEwen et al., 2007), onboard the Mars Reconnaissance Orbiter (MRO), typically acquires images of variable length and 6 km swath-width in the visible and near-infrared portions of the spectrum at a scale of 25–32 cm per pixel (full resolution mode). Topography and crosscutting relationships have been studied utilizing HiRISE stereo anaglyphs (McEwen et al., 2010).\nOther datasets providing broader regional coverage have also been utilized to gain insight into the spatial distribution and relationships of landforms and deposits. MOLA, the Mars Orbiter Laser Altimeter onboard Mars Global Surveyor (MGS), acquired elevation data with along-track and vertical resolutions near 300 and 1 m, respectively (Zuber et al., 1992). We utilized MOLA data for regional context as well as to estimate elevations, slopes, and heights of various features. MOC (the Mars Orbiter Camera onboard MGS) narrow-angle images have a spatial scale down to 1.5 m per pixel (Malin et al., 1998). THEMIS (the Thermal Emissivity Imaging System onboard Mars Odyssey) collects 10-band thermal infrared\nimages at 100 m per pixel (Christensen et al., 2004) as well as five visible bands at 19 m per pixel. HRSC (the High Resolution Stereo Camera onboard Mars Express; Neukum and Jaumann, 2004) visible and near infrared images have a spatial scale down to 10 m per pixel and allow for wide regional coverage. CTX (the Context Camera onboard MRO; Malin et al., 2007) acquires broadband visible images at 5–6 m per pixel.\nData acquired by CRISM (the Compact Reconnaissance Imaging Spectrometer for Mars onboard MRO; Murchie et al., 2007) have been utilized to constrain surface composition. CRISM operates in the 0.36–3.92 lm range, where many relevant minerals have diagnostic absorption bands. In its Full Resolution Targeted mode it acquires 545 bands at 18–20 m per pixel."
+  }, {
+    "heading": "2. Observations",
+    "text": ""
+  }, {
+    "heading": "2.1. Chryse/Acidalia mesas",
+    "text": "Mesas occur along a narrow zone in southern Acidalia–northeastern Chryse (Fig. 4). The thermophysical properties (albedo, thermal inertia) of both mesas and surrounding plains are, at kilometer-scales, those of a surface dominated by sand-size materials, with rocks and bedrock, and perhaps some duricrust (Mellon et al., 2000; Putzig et al., 2005). Higher resolution MOC narrow-angle and THEMIS visible and infrared data show that the albedo and diurnal surface temperature variations of the mesas are indistinguishable from those of the surrounding plains. The imaging data indicate this is due to homogeneous mantling materials blanketing most of the region, including the mesas. However, some mantle-free outcrops are apparent at HiRISE resolution.\nMost mesas have one or more summit hills (central edifices) between 100 and 300 m in height, based on MOLA data. The total elevation of the mesas (including central edifices, if present) with respect to the surrounding plains is between approximately 100 and 500 m. Mesas have fairly consistent horizontal dimensions between 1.5 and 8 km (Fig. 5, Table 1).\nAs implied by their name, the mesas have remarkably flat tops and steep sides. Their flanks appear mostly blanketed by talus and/ or mid-latitude mantle materials. Where the blanketing materials are thin or non-existent, rocky outcrops are evident (Fig. 6). Cliffs and horizontal or close-to-horizontal benches can be followed for hundreds of meters along the flanks of some mesas, especially near their summit (Fig. 6E). The morphology and continuity of these cliffs and benches are suggestive of differential erosion of layered materials. Large (up to 10 m across), angular (i.e., autochthonous) boulders on the summit and flanks of the mesas (Fig. 6E) further attest to their competent nature. Some summits are disrupted by shallow craters devoid of apparent ejecta.\nCentral edifices are conical to irregular in shape (Fig. 5). The best (i.e., mantle-free) outcrops show that the edifices consist of layered bedrock (Fig. 7). Some of these edifices display central craters and radial lobate landforms that may extend beyond the summit of the mesa and down its flanks (Fig. 5G).\nThe surrounding plains are mostly blanketed by younger deposits and/or regolith, as shown by superposition relationships. Some plains areas that appear to lack such a mantle have been identified in HiRISE scene PSP_008337_2160, adjacent to clustered mesas and ridges (Fig. 5C). The surface exposed is mostly free of aeolian materials and resolvable (i.e., >90 cm across) boulders. It appears divided into tightly packed, bright tracts 3–9 m across (Fig. 8). Some tracts show concentric zonation (bright periphery, dark core).\nThe only CRISM data of mesas and central edifices available at the time of writing is centered on a cluster of hills and mesas near Cydonia Mensae. These data show several distinct, spatially coherent areas with the spectral signature of Mg-rich smectites (B.\nEhlmann, private communication). HiRISE images PSP_009708_ 2205 and PSP_009985_2205 show that these regions coincide with mantle-free outcrops of rocky layers protruding from the slopes of hills between mesas. Some of the latter have central edifices.\nMesas occur mostly within a narrow belt, approximately 2500 km long and 300 km wide. This belt sits at a nearly constant elevation, between 4000 and 4400 m (Fig. 4). These landforms appear to be superimposed on the degraded impact basin that produced Chryse Planitia (Frey, 2006); the landscape is, thus, younger than the impact and the highlands affected by it. The belt of mesas is roughly parallel to but mostly hundreds of kilometers away from the current highlands–lowlands boundary.\nMesas with and without central edifices are commonly grouped and the groups are aligned in the downslope direction (Fig. 4). In some instances features are associated with and parallel to either a trough, a ridge, or a set of closely aligned cones or mounds (Fig. 9). In one instance, mesas are roughly arranged in a circular pattern around a 100-km-diameter quasi-circular depression near 34 N, 323 E, possibly the location of a buried impact crater (Fig. 4).\nOur survey shows that mesas are more abundant east of 315 E. Smaller ridges and hills are observed west of that longitude. Mesas, ridges, and hills are the main positive relief features in this portion of Chryse/Acidalia."
+  }, {
+    "heading": "2.2. Blocky unit and associated landforms",
+    "text": "CTX and HiRISE images show a complex landscape near the western margin of Chryse/Acidalia. Several outcrops of a blocky unit with pristine-looking buttes, hollows, and large sinuous ridges have been identified in a 1500 km long area. This unit overlaps an older ridge-and-furrow surface which is in places criss-crossed by a network of thin ridges."
+  }, {
+    "heading": "2.2.1. Ridge-and-furrow surface",
+    "text": "The HiRISE images reveal – underneath an overlying blocky unit described below – an older surface with parallel ridges and furrows (Figs. 10 and 11). The elongated ridges are approximately 30– 130 m wide and can be followed without interruption for up to\n1.2 km (Table 2). The wider ones are flat-topped and show rounded boulders up to 3 m across on their tops; because of mantling materials it is unclear if the boulders are in the ridge material or superimposed on the ridges. Their trend is consistently near N20 W, i.e., sub-parallel to the current regional slopes, which dip southeast/ east. CTX shows additional outcrops of this older ridge-and-furrow surface with the same orientation, spread tens of kilometers apart (Fig. 11).\nThe CTX image also shows a N75 E-trending graben-like rectilinear trough more than 9 km long and 150 m wide (Fig. 11). Cross-cutting relationships indicate that the trough is younger than the ridge-and-furrow surface (Fig. 11E)."
+  }, {
+    "heading": "2.2.2. Thin ridges",
+    "text": "A network of relatively thin ridges is superimposed on, and thus is younger than, the ridge-and-furrow surface (Figs. 11 and 12). The thin ridges, reminiscent of small inverted channels, are on the order of 5–30 m across; individual segments are 180–960 m long (Table 2). They are crested, linear to sinuous, and bouldery. Unlike most fluvial networks they branch out at high angles. Thin ridges appear to overlap both highs and lows of the ridge-and-furrow surface. Some of these thin ridges are directly connected to and seem to emanate from cliffs and steep slopes of the blocky unit. We have identified this same association between the ridge-and-furrow surface, thin ridges, and the blocky unit elsewhere in the regional CTX image (Fig. 11)."
+  }, {
+    "heading": "2.2.3. Blocky unit",
+    "text": "We use the term ‘‘blocky unit’’ to refer to mostly mantle-free materials identified in several HiRISE scenes.2 These materials are cliff-forming (i.e., competent) and have the appearance of tightlypacked blocks up to 10 m across; in places the blocks show a jig-\n2 PSP_001482_2065, PSP_005715_2065, PSP_006532_2190, PSP_006743_2135, PSP_007442_2085, PSP_007679_2250, PSP_008391_2190, PSP_008523_2060, PSP_008642_2065, PSP_008826_2240, PSP_008958_2100, PSP_008971_2225, PSP_009037_2160, PSP_009116_2240, PSP_009182_2215, PSP_009472_2215, PSP_009538_2220.\nsaw-like arrangement (Fig. 13). Overall, the blocks appear homogeneous in brightness and texture; a few show concentric zonation (Fig. 13B) that could indicate differences in composition (e.g., alteration), texture, and/or relief. Blocky materials outcrop in a 700 60 Km2 area on the western margin of Chryse/Acidalia as well as on the floor of Kasei Valles (Fig. 4). This range of outcrop locations implies the blocky materials occur over a distance of more than 1500 km. The blocky unit outcrops coincide with zones of high-thermal inertia and low-albedo, characteristic of abundant rocks and/or bedrock exposed at the surface (Mellon et al., 2000; Putzig et al., 2005). Fig. 4 includes an outline of parts of this thermal inertia unit coinciding with outcrops of the blocky unit; the outline might approximate the extent of the blocky materials. Other regions dominated by rocks/bedrock were mapped by Putzig et al. (2005) along the outflow channels in southeastern Chryse and over a large area of the lowlands above latitude 45 N, surrounding Tempe Terra; a preliminary examination of the data currently available has not shown outcrops of the blocky unit in these regions.\nSeveral outcrops of the blocky unit were targeted for CRISM data acquisition to determine their composition. The data available to-date indicate that the blocky unit contains widespread Mgsmectites and mixtures of Mg- and Fe-smectites (B. Ehlmann, private communication) (Figs. 4 and 14).\nThe blocky unit crops out in extensive sheet-like deposits, buttes,3 hollows (i.e., steep-sided crater-like depressions), annular hollows (i.e., steep-sided annular depressions), and large sinuous ridges suggestive of inverted valleys (Fig. 10). These landforms appear rather pristine.\n2.2.3.1. Buttes. These landforms are approximately 200–1200 m across (Table 2). Some are lobate in planform, may be stepped, and have ribbed surfaces reminiscent of the thin ridges described above (Figs. 10 and 15).\n3 The term ‘‘butte’’ is utilized as purely descriptive (i.e., a flat- or round-topped, steep-sided landform, smaller in extent than a mesa) and thus does not imply an erosional origin.\n2.2.3.2. Hollows and annular hollows. Hollows are 260–1900 m across (Table 2) and – unlike most impact or volcanic craters – lack elevated rims and ejecta. They have steep walls and flat floors (Figs. 10 and 16). Some of the hollows are annular and have a central flat-topped butte formed also by blocky materials; the elevation of the central butte is similar to that of the plains surrounding the hollow. The slopes of the buttes and hollows reveal cross-sections of the blocky unit, showing some blocks that appear to be almond-shaped and have contrasting dark cores.\n2.2.3.3. Large sinuous ridges. The blocky unit also outcrops along large sinuous ridges (Figs. 10 and 17) 50–600 m wide; some of them can be followed for more than 17 km (Table 2). The tops of these ridges are flat, level, and have large (up to 6 m across) angular blocks on their edges attesting to their rocky nature. The steep flanks of the ridges are locally covered by what looks like frozen-\nin-place, outflowing blocky unit deposits, which appear stepped and ribbed (Fig. 17). HiRISE shows similar large sinuous ridges elsewhere in western Chryse/Acidalia (PSP_009538_2220; 41.80 N, 309.75 E) and Kasei Valles (PSP_001482_2065; 26.02 N, 297.29 E) (Fig. 13C)."
+  }, {
+    "heading": "2.3. Other Chryse/Acidalia landforms",
+    "text": "Other landforms previously identified throughout Chryse/Acidalia include giant polygons, bright-colored mounds, and rampart craters. We have analyzed the spatial relationship between these landforms, the mesas, and the blocky unit. We have also contrasted those with newly identified flow-like deposits, columnar jointing and aligned cone-like craters."
+  }, {
+    "heading": "2.3.1. Giant polygons",
+    "text": "We estimate that giant polygons occupy over 9.0 105 km2 in Acidalia and northeastern Chryse (Fig. 4). Lower-quality imagery, due to winter hazes common at higher latitudes, and superimposed periglacial landforms make their northern limit unclear. Gaps in the giant polygons region apparent at lower latitudes coincide with younger impact crater ejecta. Giant polygons are mostly constrained to elevations below 4400 m. They do occur above 4400 m where Ares Vallis, one of the outflow channels, continues into Acidalia. Features similar to giant polygon troughs appear on the floor of a topographically depressed circular structure (probably a buried impact crater), and in other small areas. Our observations of mesas adjacent to giant-polygons indicate that the mesas appear to be superposed on the troughs, and are not cut by them (Fig. 18A)."
+  }, {
+    "heading": "2.3.2. Bright-colored mounds",
+    "text": "Bright mounds with one or more pits are ubiquitous in Acidalia; we have identified examples as far north as 49 N and as far west as 317 E (Fig. 1). As discussed above, winter hazes and periglacial landforms may conceal similar mounds occurring farther north. Mounds appear at all elevations in Acidalia Planitia, in areas with and without giant polygons. Mounds can be found inside giantpolygon-forming troughs as well as in the inter-trough areas (Fig. 18B). We also observe that mounds are not confined to the immediate vicinity of impact craters."
+  }, {
+    "heading": "2.3.3. Rampart craters",
+    "text": "Acidalia contains numerous examples of rampart craters. In all the examples observed in this study, rampart craters overlap mesas with central edifices (Fig. 18C) as well as outcrops of the blocky unit. Fig. 11A shows two rampart craters approximately 6 km in diameter and relatively shallow for their size (150–200 m deep); their fluidized ejecta and rays appear mostly unmodified by erosive processes. Both craters contain concentric crater fill: roughly concentric ridges and troughs in the crater’s floor."
+  }, {
+    "heading": "2.3.4. Flow-like deposits",
+    "text": "We have identified numerous examples of extensive sheet-like deposits with lobate fronts in southern Acidalia and Chryse Planitia. Bright-colored mounds overlapping these flow-like deposits have been documented (Fig. 19.A). Instances illustrating the opposite cross-cutting relationship (that is, flow-like deposits partly overlapping bright-colored mounds) have also been observed (Fig. 19.B).\nSimilarly to terrestrial kipukas, flow-like deposits surrounding and even partly burying mesa-like features have been identified. Figure 19.A shows an example of a mesa more than 180 m tall (according to MOLA data) partially draped by flow-like deposits."
+  }, {
+    "heading": "2.3.5. Columnar deposits",
+    "text": "We have identified a rocky, competent unit similar to those described by Milazzo et al. (2009) (Fig. 19D and E). The columnar unit crops out on the walls of a fresh-looking, 6-km diameter impact crater. Individual columns are at least 3–14 m long and their resolvable width ranges between 1 and 2 m. The stack of columns arranged in tiers appears to be at least 300 m thick. This unit is in close proximity ( 10 km) to a more-than-15-km-long trough with aligned clusters of pits inside (Fig. 9C). A tuya-like mesa with a central edifice is found near the exposure of columnar jointing (Fig. 19D)."
+  }, {
+    "heading": "2.3.6. Aligned cone-like craters",
+    "text": "Fig. 19C shows several examples of constructional, cratered edifices up to 100 m across with about the same reflectance as the\nsurrounding terrain. They are clearly arranged in rows, seemingly the continuation of long, thin ridges. Cones and ridges are developed on flow-like materials; flow front-like features are evident in images adjacent to that shown in Fig. 19C."
+  }, {
+    "heading": "3. Discussion",
+    "text": ""
+  }, {
+    "heading": "3.1. Origin of mesas",
+    "text": "Mesas and central edifices could be the erosional remnants of two resistant units. Alternatively, they could be primary constructs. We consider the erosional remnants scenario first.\nMesas and central edifices occur along a narrow belt located deep in the lowlands, mostly hundreds of kilometers away from the highlands–lowlands boundary. The belt overlaps the locus of\nthe large impact basin of Chryse Planitia (Fig. 4). This fact is hard to reconcile with a pre-Chryse origin for either the mesas or the central edifices. However, according to this scenario, the central edifices in the belt could be erosional remnants of the ejecta or rim of the Chryse-forming impact; the mesa materials would be embaying (and, thus, be younger than) the central edifices. The mesas themselves would be the erosional remnants of a once extensive sub-horizontal infilling deposit, perhaps supplied by the outflow channels. Such a scenario would be a plausible response to multiple catastrophic floods passing from Chryse Planitia to Acidalia Planitia. This model, though, does not account for mesas and central edifices being often connected by troughs, ridges, or linear clusters of small cones (Fig. 9).\nAlternatively, mesas and central edifices could be primary volcanic constructs. The size of the mesas analyzed (1.5–8 km across, 100–500 m tall) is in the same order of magnitude as that of terrestrial tuyas, which may reach horizontal dimensions up to 10 km (Komatsu et al., 2007a) and are 200–1000 m in height (Table 2).\nWe have documented in mesas and central edifices both materials and landforms that are similar to those characteristic of terrestrial tuyas. The mesas appear to be formed by rocky, competent materials with evidence of horizontal layering near\nand at the summit. The scarce compositional data available to-date for the mesas show abundant Mg-rich smectites in rocky layers of hills interspersed with mesas. Smectites are common hydrous alteration products of volcanic deposits and dominate the shortwave infrared spectral signature (i.e., from approximately 1– 3 lm) of terrestrial volcanoglacial materials (see examples in Bishop et al. (2002)).\nThe summit of mesas often display shallow craters of unclear origin. If these craters were volcanic vents (similar to the example in Fig. 2D), they could represent explosive phases of the eruption. Alternatively, they could have resulted from impact activity. Conical to irregular edifices on the mesas at Acidalia are similar in shape to terrestrial tuya-topping volcanic constructs (Van Bemmelen and Rutten, 1955). Where free of mantle, the central edifices at Acidalia appear rocky, competent, and show clear evidence of close-to-horizontal layering (Fig. 7). Similarly, terrestrial constructs on top of tuyas (Fig. 2) are scoria/spatter cones composed of glassy lapilli-to-bomb-size fragments; they often exhibit distinct layering. The heights of both terrestrial and martian edifices are on the order of few hundreds of meters. Arcuate ridges on mantled mesa summits and central edifices (Fig. 7) resemble surface structures observed on terrestrial lava flows. This interpretation would be consistent with a volcanic origin for mesas and central edifices. However, similar arcuate ridges are ubiquitous throughout the northern lowlands and could have been produced by reworking of surface materials by periglacial processes (e.g., patterned ground; Mellon et al., 2008).\nThe spatial distribution of mesas and central edifices is also consistent with a primary volcanic origin. Mesas often appear grouped in a linear fashion, connected by troughs, ridges, and/or chains of cones (Fig. 9) similar to terrestrial graben and volcanic fissures, dikes/lava tubes, and volcanic vents, respectively. If these landforms are indeed volcanic, they could have been produced by extensional and effusive episodes related to the tuya-forming activity.\nThe concentration of mesas along a belt of near-constant elevation may have been conditioned by the availability of both active vents and a continuous mass of ice thick enough to host the tuyas. A more modest layer of ice would have resulted in thinner hyaloclastic deposits and lavas (Edwards and Russell, 2002). The preferential alignment of mesas in the downslope direction may indicate the location of volcanic fissures.\nThe significance of a few apparently mantle-free outcrops of plains surrounding the mesas that appear divided in tracts (Fig. 8) is unclear. The scale, shape, and zonation of the tracts are similar to those of the blocky unit identified elsewhere (Figs. 4 and 13); large-scale landforms similar to those in the blocky unit have not been observed in these plains outcrops. Due to the scarcity of suitable data (imaging, spectral), it is not possible at this stage to determine with certainty if this surface divided in tracts is analogous to the blocky unit or how it originated. Possible interpretations include: pillow lavas produced by subaqueous/subglacial volcanism; columnar jointing in lava flows; tectonic or unloading joints; periglacial sand- or ice-wedge polygons; and polygonal cracks produced by desiccation of wet materials.\nIn summary, a volcanoglacial origin for mesas and central edifices is most consistent with the available evidence. However, definitive proof (such as conclusive identification of pillow lava deposits) has not been identified."
+  }, {
+    "heading": "3.2. Origin of the blocky unit and associated landforms",
+    "text": "The morphology, scale, and uniform orientation of ridges and furrows on an older surface underlying the blocky unit (Fig. 11) show strong resemblance to terrestrial drumlins (Table 2, Fig. 20A). According to this scenario, the ice that produced the martian ridges and furrows would have flowed parallel to them (i.e.,\nnear N20 W). From the images and topographic data available it is unclear whether the flow would have been to the southeast (consistent with the current regional slope) or to the northwest. Alternatively, the ridges and furrows could be yardangs or radial rays in an ejecta blanket. The presence of abundant rounded boulders on the ridges would be consistent with a glacial scenario, but not with an aeolian origin. The uniform orientation and morphology of ridges and furrows, preserved over a distance of almost 50 km, argue against an impact origin.\nThe blocky unit has been identified over hundreds of kilometers along the western margin of Chryse/Acidalia as well as on the floor of Kasei Valles. It forms large sinuous ridges and sheet-like deposits with overflow-like features and lobate margins, indicative of emplacement as a fluid flow. The spectral signature of the blocky materials is indicative of abundant Mg-smectite and some Fesmectite (Figs. 4 and 14). Both are commonly produced by hydrothermal alteration or weathering of terrestrial mafic volcanic rocks (Anthony et al., 1995) and are particularly abundant in low-temperature hydrovolcanic materials. Thus, the spectral data suggests a volcanic (lava flows) or volcanic-sedimentary (lahars) origin for the blocky unit. The close spatial relationship between blocky\nmaterials and lava flows on the floor of Kasei Valles (Scott and Tanaka, 1986; Rotto and Tanaka, 1995; Tanaka, 1997) further suggests a volcanic component in their origin. A sedimentary (sensu stricto) origin cannot, however, be ruled out completely.\nAs we explain below, we interpret certain landforms in the blocky unit (large sinuous ridges, branching lateral deposits, lobate flow fronts, buttes, and hollows) as suggestive of damming. The pristine appearance of some of these landforms and lack of large associated debris deposits indicate, though, that there has not been substantial erosion in the region. We infer, thus, that the material responsible for damming the blocky materials was an ice or icerich deposit; nearby drumlin-like landforms reinforce this interpretation. Numerous examples of terrestrial lava flows ponded against ice have been described in the literature: cliffs up to 200 m tall produced by damming of lava flows by ice have been observed in Canada (Edwards and Russell, 2002) and Iceland (Chapman, 2002; Stevenson et al., 2006). Landforms suggestive of ponding of flow deposits (lavas or lahars) against ice-rich lobate debris aprons have been described in lower Kasei Valles (Hauber et al., 2008), in close proximity to the blocky unit outcrops described here (Figs. 4 and 13).\nAccording to this interpretation, the large sinuous ridges are inverted valleys formed by ice-confined flow. The upper surfaces of the inverted valleys appear flat and even, perhaps indicating that they were not vertically confined; thus, their height may be indicative of the locally modest thickness of the ice. (Alternatively, the height of the flows may have been less than that of tunnels in the ice.) The flow apparently further eroded through the ice along its margins, producing overflowing blocky deposits such as those shown in Fig. 17.\nThe hollows in the blocky unit are consistent with isolated masses of ice being engulfed by the flow. Fig. 17 shows what we interpret as a snapshot of one of these hollows in the making. Their size and morphology is reminiscent of those of terrestrial kettles (Table 2, Fig. 20B). The annular hollows (Fig. 16) could have formed by blocky unit infill as the isolated ice masses degraded, first along\nweak zones on the outside, then towards the center. The spatial association of hollows, ridge-and-furrow outcrops, and large inverted valleys may indicate a waning ice deposit.\nWe interpret the thin ridges (Fig. 12) as esker-like features produced by a flow carving its way through the ice (Table 2, Fig. 20C). Their crested tops, very high tributary junction angles, and branching patterns are most consistent with eskers (Kargel and Strom, 1992). Locally, the thin ridges seem to overlap both highs and lows in the ridge-and-furrow surface, thus defying local slopes; this is considered diagnostic of eskers (Shreve, 1985; Kargel and Strom, 1992; Pain et al., 2007).\nTightly-packed blocks of homogeneous brightness and texture, arranged in a jigsaw-like manner (Fig. 13), suggest in situ fragmentation of a unit of homogeneous composition. On the other hand, steep outcrops in the blocky unit (Fig. 16B) show blocks whose\nshape, scale, and concentric zonation are comparable to terrestrial pillow lavas (Table 2, Fig. 20D). Pillow lavas would be considered diagnostic of subaqueous or subglacial volcanism (Snyder and Fraser, 1963). Further high-resolution coverage of similar outcrops would be needed to confidently interpret their nature.\nTo sum up, morphological and compositional evidence from the blocky unit is most consistent with lava flows that interacted with\na waning mass of ice. However, we still lack observations that are clearly diagnostic of lava–ice interaction. For example, well-resolved pillows would be proof of these materials being lava flows rather than mudflows resulting from mixing volcano-sedimentary or sedimentary materials and water."
+  }, {
+    "heading": "3.3. Further evidence of fluid and volcanic activity",
+    "text": "We interpret the giant polygons, bright mounds, and rampart craters identified throughout Chryse/Acidalia as indicative of fluid activity. Newly identified evidence most consistent with volcanism at Chryse/Acidalia include: flow-like deposits with signs of deflation, columnar deposits, and vent-like landforms. Aligned cone-like craters similar to terrestrial rootless cones may be indicative of volcanism–fluid interaction in the region.\nThe origin of both martian giant polygons and bright-colored mounds is unclear; however, all current models require fluid-rich materials and/or volcanism for their formation. Given the size of the area in Acidalia and northeastern Chryse displaying these morphologies and deposits (giant polygons have been identified over 9.0 105 km2, bright mounds over a similarly extensive area), such processes were active extensively. Cross-cutting relationships indicate that the giant polygons predate the formation of mesas and bright-colored mounds. Mounds do not seem to be confined to the immediate vicinity of impact craters; therefore, an origin other than shock-induced liquefaction (Komatsu et al., 2007c) has to be invoked for some, if not all of these mounds.\nRampart craters are considered further indicators of an ice-rich substratum (Costard and Kargel, 1995). Concentric crater fill is believed to result from compression caused by viscous flow of a thick mixture of rocks, soils, and ice inward from the crater’s walls (Squyres, 1979), similar to what is observed in rock glaciers on Earth (Lucchitta, 1984; Squyres and Carr, 1986).\nSheet-like deposits with lobate fronts are interpreted as signs of flow activity, either volcanic (most consistent with nearby landforms and deposits discussed next), volcano-sedimentary, or sedimentary. Flow-like fronts partly covering bright-colored mounds (Fig. 19.B) and mounds piercing through flow-like deposits (Fig. 19.A) suggest several successive episodes of flow activity and mound formation. Deflation of a thick flow must have occurred to partially drape the summit of a 180-m tall mesa (Fig. 19A). Lobate flow front-like margins both surrounding the base of the mesa and on top of it are consistent with several successive episodes of flow activity. A large turbulent flow could have surrounded and partially covered the mesa; deflation ensued. Another flow of more modest volume followed, reaching the base of the mesa and thus producing lobate margins surrounding its base. Deflation of turbulently emplaced thick lava flows has been proposed to explain deposits found elsewhere on Mars (Athabasca Valles; Jaeger et al., 2010).\nBecause of the prominent columns and their arrangement in multiple tiers we consider the columnar deposits described earlier (Fig. 19E) a ‘‘definite’’ example (Milazzo et al., 2009) of columnar jointing in volcanic deposits. Entablature (highly fractured zones sometimes presenting thin, fanning columns) which would be\nindicative of lava–water interaction has not been identified in the available data.\nClusters of pits aligned inside a trough in the vicinity of these columnar deposits (Fig. 9C) are similar in scale and morphology to terrestrial spatter cones in volcanic fissures. Aligned coneshaped edifices similar to terrestrial rootless cones may be further indication of a volcanic origin for these flows (Fig. 19C) and of a fluid-rich substratum. It has been proposed that terrestrial rootless cones develop along lava tubes (Bruno et al., 2004; Fagents and Thordarson, 2007) as lava advances over wet materials."
+  }, {
+    "heading": "3.4. Paleoclimatic implications",
+    "text": "Because of dramatic variations in obliquity (between 14 and 48 ; Ward, 1992), Mars experiences periods of contrasting solar incidence and thus climate. Numerical models show that, in fact, the most probable obliquity values over the last 4 Gyr are very far from the present value (25.19 ) and rather close to 41.80 (Laskar et al., 2004). The latest period of high mean obliquity may have ended as recently as 5 Myr ago (Laskar, 1988; Laskar et al., 2004).\nClimate models indicate that during periods of high obliquity (>40 ), water ice would become unstable at the poles, subliming\n5 The basal shear stress in ice sheets and glaciers (s) is given by s = q g h S (Nye, 1951), where q is the density of ice, g is the gravitational acceleration, h is the ice thickness, and S is the ice surface slope using a small angle approximation in which sin(S) = S. Ice sheet flow occurs when a threshold shear stress at the base of the ice is exceeded. Using 0.6 bar for s (Banks and Pelletier, 2008), 3.71 m/s2 for g, and 920 kg/ m3 for q [based on the assumption that the ice is primarily H2O ice as it is in the south and north polar layered deposits (e.g., Pathare et al., 2005; Koutnik et al., 2005; Kieffer, 1990; Langevin et al., 2005; Picardi et al., 2005; Plaut et al., 2007; Phillips et al., 2008)], the resulting minimum ice thickness required for flow would be approximately 500–1000 m for slopes up to 2 . Such slopes are in the range presently observed in the drumlin-rich areas. It should be noted that this is only an estimate as\nand accumulating at lower latitudes (Toon et al., 1980; Jakosky and Carr, 1985; Jakosky et al., 1995). Water ice deposits would be much more extensive than at present, resulting in year-round stability of surface water ice in the northern tropics (Richardson and Wilson, 2002). Jakosky and Carr (1985) calculated that, at 45 obliquity, 2 km of ice could be removed from the poles; we estimate that this would result in a 40 m thick layer of ice if it were uniformly deposited between ±45 latitude.4 However, because local ice thickness\n4 Twenty centimeters of ice removed annually from the summer cap and deposited uniformly between ±45 latitude would result in a 0.4 cm thick layer of ice (Jakosky and Carr, 1985).\nwould vary according to atmospheric circulation patterns (Richardson and Wilson, 2002), thermal inertia, and topography (Mischna et al., 2003) it is possible that a few hundred-meters thick ice-sheet accumulated in parts of Chryse/Acidalia. Modeling results show that, indeed, ice accumulation at Acidalia would amply surpass the average values in the northern hemisphere (Mischna et al., 2003) (Fig. 21).\nThus, the observations we have presented here could plausibly be explained by an ice sheet stable at Chryse/Acidalia during a high-obliquity period. Such an ice sheet would only need to be of modest dimensions, covering a surface on the order of 2 106 km2 (similar to Greenland’s ice sheet), with thicknesses of a few hundreds of meters. Those thicknesses would be sufficient for ice flow,5 required for drumlin formation.\nLandforms indicative of fluid (water/ice) activity have been described in some other regions where thick ice would accumulate under high-obliquity conditions (Fig. 21). Giant polygons have been identified on Elysium and Utopia Planitiae (Pechmann, 1980). Skinner and Tanaka (2007) interpreted mounds and cones in Utopia as resulting from mud volcanism. Volcanic/fluid interaction has also been described in some of these regions. Rootless cones have been identified at Elysium, Amazonis, and perhaps Isidis and Utopia (Keszthelyi et al., 2010). Columnar jointing exhibiting entablature has been described at Amazonis Planitia (Milazzo et al., 2009).\nAlternatively, the glacial landforms identified at Chryse/Acidalia could be explained by in-place freezing of water provided by the large outflow channels debouching in Chryse/Acidalia. This scenario would not necessitate an obliquity-related climatic change, but it would require a large influx of liquid water and its preservation as a frozen body to allow the development of drumlins, eskers, kettles, and perhaps tuyas."
+  }, {
+    "heading": "3.5. Geological history",
+    "text": "Three models integrating the landforms and deposits described above are proposed (Fig. 22). Ice deposits in all three models could have originated either due to accumulation during a high-obliquity period or from in-place freezing of water provided by the outflow channels, as explained above.\nAccording to model I, glacial and volcanic activity took place separately in Chryse/Acidalia. The outflow channels would have worked as both erosive and depositional agents. The initial high discharge would have eroded the remnants of the highlands and earlier flood deposits. The later waning stage would have deposited a sub-horizontal layer of new sediment, which was later eroded. The central edifices would be erosional remnants of the ejecta or rim of the Chryse-forming impact; the mesas would be part of a younger infilling unit deposited around the remnants, and later eroded back.\nthe actual values for s and S are not known. A temporary heat source under the ice, such as a volcanic eruption, would produce meltwater at the base of the ice increasing the water pressure, reducing the resistive drag at the bed (Hooke, 2005), and thus reducing h. Some impurities or CO2 ice mixed in with the H2O ice could cause softening of the ice, influencing the yield strength, and further decreasing h.\nIt is plausible that the outflow channels would have debouched into an ice-filled basin, depositing the blocky materials with large inverted valleys, eskers, and kettle holes. Volcanic landforms identified throughout Chryse/Acidalia would be largely unrelated to either mesas or blocky deposits. This model fails to explain the spatial relationship between mesas and possible volcanic landforms (e.g., fissures, dikes/lava tubes, and cones) (Fig. 9).\nAccording to model II the mesas originated by volcanic activity nearby and the flows that deposited the blocky materials were either volcanic or volcano-sedimentary. The source of these flows would have been outside Chryse/Acidalia, either in Tempe Fossae or in/around the circum-Chryse outflow channels.\nGraben-like structures that could have acted as volcanic conduits have been identified adjacent to the blocky unit (Fig. 11). According to their orientation and location, they could be related\nto Tempe Fossae, a volcanic extensional system analogous to a terrestrial continental rift (Hauber and Kronberg, 2001). The outflow channels debouching into Chryse/Acidalia from the south could also have been conduits for volcanic or volcano-sedimentary flows that originated upstream. [Carving of the outflow channels by volcanic flows has also been proposed (Leverington, 2004).] As noted earlier, volcanic flows have been identified on the floor of Kasei Valles (Scott and Tanaka, 1986; Rotto and Tanaka, 1995; Tanaka, 1997) barely 300 km west of blocky unit outcrops.\nIn either case the distances covered by the flows would have been on the order of hundreds of kilometers; similar volcanic flow distances have been observed elsewhere. Martian lava flows 1400 km in length have been identified in Elysium Planitia (Jaeger et al., 2010). Terrestrial lava flows hundreds of kilometers long have also been documented in the Deccan Trap (Self et al., 2008)\nand Columbia River flood basalts (Tolan et al., 1989; Thordarson and Self, 1998). Volcano-sedimentary flows could have extended even longer distances.\nOnce in Chryse/Acidalia, the flows encountered ice deposits; inverted valleys, esker-like features, and kettle holes resulted from the flow-ice interaction. Volcanic flows could potentially have continued moving downslope towards the center of Chryse/Acidalia as invasive flows, burrowing their way under an increasingly thick ice-sheet. Tuya formation would have required the invasive flows to advance along tens or perhaps even hundreds of kilometers. Although not without controversy, it has been proposed that those distances could have been viable in some terrestrial invasive lava flows and sills (Byerly and Swanson, 1978; Beeson et al., 1979; Rawlings et al., 1999; Liss et al., 2004; Sheth et al., 2009). However, the pressure required for an invasive volcanic flow to extrude through a layer of ice sufficiently thick to host a tuya ( 100 m) greatly exceeds current models and observations of flow. Hence, tuyas could not have been produced by volcanic flows extruded elsewhere; local volcanism is required.\nAccording to model III the blocky unit, mesas, and other volcanic landforms observed in Chryse/Acidalia would have originated from volcanic sources spread throughout the region nearby; fissures and other vents would be mostly concealed by the flows themselves. The tuya concentration along a narrow belt of constant\nelevation would reflect the presence of volcanic vents underneath an ice-sheet of sufficient thickness; the latter would be largely a function of elevation.\nVolcanics extruding under an ice-covered Chryse/Acidalia basin would result in an ice-thickness dependent (and, thus, topographydependent, at the regional scale) sequence of glaciovolcanic deposits consistent with our observations. Tuyas would be relegated to a belt defined by an ice-sheet thick enough to serve as scaffolding for these landforms. Near the edge of the basin, where the ice would have been thinner, only sheet-like hyaloclastic deposits and low subglacial mounds would have formed (the sheet-like deposits and buttes in the blocky unit). Between these and the fully-developed tuyas there would be ridges and subglacial mounds similar to landforms observed west of 315 E. As the ice receded, volcanism continued producing rootless cones, indicative of interaction with a fluid-rich substratum. Vent-like fissures and pits, columnar jointing, and deflation of flows add to the evidence for volcanism in the area. Both bright mounds and rampart craters are additional indicators of a fluid-rich substratum; the former may also indicate volcanic activity.\nDating central edifices and mesas would be key to evaluating the validity of the models proposed above. However, age determination by crater counting techniques is not applicable due to the insufficient surface area of these landforms, and crater retention\nages provide only a minimum estimate of the emplacement ages of geological units. Mantling, pervasive in the region, and resurfacing events would erase craters. Superposition and cross-cutting relationships may be utilized to constrain the relative age of the events proposed. The lower age limit of volcanism may be that of the lava deposits that cover large areas of Chryse and Acidalia, dated as early Amazonian (Scott and Tanaka, 1986). To constrain an upper age limit we consider the age of the possible sources of the flows contemplated by each model.\nAccording to model I, the blocky unit would have originated from sedimentary flows supplied by the outflow channels; therefore, their age could be late Hesperian (Scott and Tanaka, 1986) to early Amazonian (Rotto and Tanaka, 1995; Tanaka, 1997). The\nmaterials exposed in the mesas could be Noachian to late Hesperian (Scott and Tanaka, 1986); central edifices would be cores of even older rocks (Fig. 1C).\nThe volcanic/volcano-sedimentary flows proposed in model II could be Tharsis-related lava flows (Scott and Tanaka, 1986; Rotto and Tanaka, 1995) or lahars (Hauber et al., 2008) early Amazonian in age. Alternatively, they could be late Hesperian if their origin was in Tempe Fossae (Hauber and Kronberg, 2001). Such flows could not have produced the putative tuyas. The pristine aspect of many landforms in the blocky unit would argue against an older age, although it is possible that early mantling and recent exposure contributed to their preservation.\nIn model III both the blocky unit and the mesas would have originated from volcanic flows extruded through vents nearby in the lowlands. The flows could be coeval with large volcanic deposits mapped by Scott and Tanaka (1986) in Acidalia, that is, early Amazonian in age.\nIn sum, the lower age limit of volcanism and glacial activity is early Amazonian. The upper age limit, depending on the model, could potentially be late Hesperian."
+  }, {
+    "heading": "4. Summary and conclusions",
+    "text": "We have documented many lines of evidence suggesting volcanic and glacial activity in Chryse/Acidalia. Definitive proof of their possible interaction has not been identified.\nLandforms similar to terrestrial tuyas have been identified along a 2500-by-300 km belt in Chryse/Acidalia. Their morphology, location, and distribution pattern suggest that they are constructive rather than erosional remnants of older units, although the latter hypothesis cannot be discarded. Limited spectral data available to-date are consistent with hydrous alteration of volcanic materials.\nA blocky unit that may extend over more than 1500 km along the western margin of Chryse/Acidalia and into Kasei Valles has also been identified. The properties of this unit are consistent with a fluid flow emplaced under and against ice; its spectral signature is also indicative of volcanic materials altered in the presence of water. The blocky unit may be volcanic (lava flows), volcano-sedimentary (lahars), or sedimentary (fluvial).\nPositive identification of evidence diagnostic of a volcanic origin for the mesas and the blocky unit (such as pillow lavas or columnar jointing in these formations) is lacking. However, landforms characteristic of volcanism, volcano–fluid interaction, and a widespread fluid-rich substratum have been recognized throughout\nChryse/Acidalia. Although other scenarios are possible, these intriguing spatial associations are suggestive of glaciovolcanic activity.\nPolar ice, which would have been unstable during past highobliquity periods, could have been re-deposited in the region form-\ning an extensive ice deposit. Alternatively, ice deposits could have originated from in-place freezing of water provided by the outflow channels. Remote detection of characteristic glacial landforms may be hindered by mantling deposits masking most of the region.\nPutative tuyas in Acidalia would have required a local volcanic source. The source of the flows that produced the blocky unit may have been local, in Tempe Fossae, and/or the circum-Chryse outflow channels. The last is consistent with early Amazonian lava flows (Scott and Tanaka, 1986; Rotto and Tanaka, 1995; Tanaka, 1997) draping Kasei Valles as close as 300 km west of blocky material outcrops. The source of the lava flows that produced columnar deposits and deflation features such as those shown in Fig. 19 may have been nearby (possible vents have been identified in this study) and/or have been sourced in the outflow channels. The possibility of volcanism originating in this region of the lowlands and its relationship to global events should be further studied.\nOther relevant questions that remain open include the detailed chronology of the volcanic and glacial events documented here, as well as the extent and nature of possible glaciovolcanism elsewhere on Mars. Ice sheets may have been stable at other low-latitude regions during a high-obliquity period (Mischna et al., 2003); given the prevalence of volcanism on Mars, evidence of volcano– glacial interaction may be expected in such regions."
+  }, {
+    "heading": "Acknowledgments",
+    "text": "We express our appreciation to the science and operations teams responsible for the success of the MRO mission and in particular to the HiRISE team. We thank Tammy Becker for making available her ISIS script for building HiRISE anaglyphs and Bethany Ehlmann for spectral processing of the CRISM data. Thanks to Moses Milazzo for sharing his expertise on Martian columnar jointing and to Larry Crumpler, Ginny Gulick, and Bruce Kindel for their comments early in the project. This paper benefited greatly from comments by the reviewers (Anonymous, Ernst Hauber, and Thor Thordarson) and the editor (Ken Herkenhoff). SMA recognizes support from NASA’s Mars Data Analysis and MRO programs."
+  }],
+  "year": 2011,
+  "references": [{
+    "title": "Volcano–ice interaction on Mars",
+    "authors": ["C.C. Allen"],
+    "venue": "J. Geophys. Res",
+    "year": 1979
+  }, {
+    "title": "Volcano–ice interactions on the Earth and Mars. In: Alex Woronow (Ed.), Advances in Planetary Geology",
+    "authors": ["C.C. Allen"],
+    "venue": "NASA Report TM-81979,",
+    "year": 1980
+  }, {
+    "title": "Handbook of Mineralogy. Silica, Silicates, vol. II. Mineral Data Publishing, Tucson",
+    "authors": ["J.W. Anthony", "R.A. Bideaux", "K.W. Bladh", "M.C. Nichols"],
+    "year": 1995
+  }, {
+    "title": "Forward modeling of ice topography on Mars to infer basal shear stress conditions",
+    "authors": ["M.E. Banks", "J.D. Pelletier"],
+    "venue": "J. Geophys. Res. 113, E01001",
+    "year": 2008
+  }, {
+    "title": "An analysis of sinuous ridges in the southern Argyre Planitia, Mars using HiRISE and CTX images and MOLA data",
+    "authors": ["M.E. Banks", "N.P. Lang", "J.S. Kargel", "A.S. McEwen", "V.R. Baker", "J.A. Grant", "J.D. Pelletier", "R.G. Strom"],
+    "venue": "J. Geophys. Res. 114,",
+    "year": 2009
+  }, {
+    "title": "The origin of the Miocene basalts of coastal Oregon and Washington: An alternative hypothesis",
+    "authors": ["M.H. Beeson", "R. Perttu", "J. Perttu"],
+    "venue": "Oregon Geol",
+    "year": 1979
+  }, {
+    "title": "Glaciers and Glaciation",
+    "authors": ["D.I. Benn", "D.J.A. Evans"],
+    "year": 1998
+  }, {
+    "title": "Glacial Geology, second ed",
+    "authors": ["M.R. Bennett", "N.F. Glasser"],
+    "venue": "Ice Sheets and Landforms Wiley-Blackwell,",
+    "year": 2009
+  }, {
+    "title": "Geochemical and mineralogical analyses of palagonitic tuffs and altered rinds of pillow basalts in Iceland and applications to Mars",
+    "authors": ["J.L. Bishop", "P. Schiffman", "R. Southard"],
+    "venue": "Volcano–Ice Interaction on Earth and Mars. Geol. Soc. London Spec",
+    "year": 2002
+  }, {
+    "title": "Clustering within rootless cone groups on Iceland and Mars: Effect of nonrandom processes",
+    "authors": ["B.C. Bruno", "S.A. Fagents", "T. Thordarson", "S.M. Baloga", "E. Pilger"],
+    "venue": "J. Geophys. Res. 109,",
+    "year": 2004
+  }, {
+    "title": "Invasive Columbia River Basalt flows along the northwest margin of the Columbia Plateau, North-Central Washington",
+    "authors": ["G.R. Byerly", "D.A. Swanson"],
+    "venue": "Geol. Soc. Am. Abs. Prog",
+    "year": 1978
+  }, {
+    "title": "Images of Mars: The Viking Extended Mission",
+    "authors": ["M.H. Carr", "N. Evans"],
+    "venue": "US Govt. Print. Off,",
+    "year": 1980
+  }, {
+    "title": "Preliminary results from the Viking Orbiter imaging",
+    "authors": ["Carr", "M.H"],
+    "venue": "experiment. Science,",
+    "year": 1976
+  }, {
+    "title": "Martian impact craters and emplacement of ejecta by surface flow",
+    "authors": ["M.H. Carr", "L.S. Crumpler", "J.A. Cutts", "R. Greeley", "J.E. Guest", "H. Masursky"],
+    "venue": "J. Geophys. Res",
+    "year": 1977
+  }, {
+    "title": "Episodic basin-wide fluid expulsion from geopressured shale sequences in the North Sea",
+    "authors": ["J.A. Cartwright"],
+    "venue": "basin. Geology",
+    "year": 1994
+  }, {
+    "title": "Layered, massive and thin sediments on Mars: Possible Late Noachian to Late Amazonian tephra",
+    "authors": ["M.G. Chapman"],
+    "venue": "Volcano–Ice Interaction on Earth and Mars. Geol. Soc. London Spec",
+    "year": 2002
+  }, {
+    "title": "Sub-ice volcanoes and ancient oceans/lakes: A martian challenge",
+    "authors": ["M.G. Chapman"],
+    "venue": "Global Planet. Change",
+    "year": 2003
+  }, {
+    "title": "The interior deposits on Mars: Sub-ice volcanoes",
+    "authors": ["M.G. Chapman", "K.L. Tanaka"],
+    "venue": "J. Geophys. Res",
+    "year": 2001
+  }, {
+    "title": "Volcanism and ice interactions on Earth and Mars",
+    "authors": ["M.G. Chapman", "C.A. Allen", "M.T. Gudmundsson", "V.C. Gulick", "S.P. Jakobsson", "B.K. Lucchitta", "I.P. Skilling", "R.B. Waitt"],
+    "year": 2000
+  }, {
+    "title": "The Thermal Emission Imaging System (THEMIS) for the Mars",
+    "authors": ["Christensen", "P.R"],
+    "venue": "Odyssey Mission. Space Sci",
+    "year": 2004
+  }, {
+    "title": "Karst topography on stagnant glaciers",
+    "authors": ["L. Clayton"],
+    "venue": "J. Glaciol",
+    "year": 1964
+  }, {
+    "title": "Very low-temperature alteration of sideromelane in hyaloclastites and hyalotuffs from Kilauea and Mauna Kea Volcanoes: Implications for the mechanism of palagonite formation",
+    "authors": ["A. Drief", "P. Schiffman"],
+    "venue": "Clay Clay Minerals",
+    "year": 2004
+  }, {
+    "title": "Glacial influences on morphology and eruption products of Hoodoo Mountain volcano, Canada",
+    "authors": ["B.R. Edwards", "J.K. Russell"],
+    "venue": "Volcano–Ice Interaction on Earth and Mars. Geol. Soc. London Spec",
+    "year": 2002
+  }, {
+    "title": "The palagonitization of limburgite glass – A TEM study",
+    "authors": ["R.A. Eggleton", "J. Keller"],
+    "venue": "Neues Jb. Mineral. Monat",
+    "year": 1982
+  }, {
+    "title": "Rootless volcanic cones in Iceland and on Mars",
+    "authors": ["S.A. Fagents", "T. Thordarson"],
+    "year": 2007
+  }, {
+    "title": "Rootless cones on Mars: A consequence of lava–ground ice interaction",
+    "authors": ["S.A. Fagents", "P. Lanagan", "R. Greeley"],
+    "venue": "Volcano– Ice Interaction on Earth and Mars. Geol. Soc. London Spec",
+    "year": 2002
+  }, {
+    "title": "Pitted cones and domes on Mars: Observations in Acidalia Planitia and Cydonia Mensae using MOC, THEMIS, and TES data",
+    "authors": ["W.H. Farrand", "L.R. Gaddis", "L. Keszthelyi"],
+    "venue": "J. Geophys. Res. 110,",
+    "year": 2005
+  }, {
+    "title": "North polar region of Mars: Topography of circumpolar deposits from Mars Orbiter Laser Altimeter (MOLA) data and evidence for asymmetric retreat of the polar cap",
+    "authors": ["K.E. Fishbaugh", "J.W. Head III"],
+    "venue": "J. Geophys. Res",
+    "year": 2000
+  }, {
+    "title": "Comparison of the north and south polar caps of Mars—New observations from MOLA data and discussion of some outstanding questions",
+    "authors": ["K.E. Fishbaugh", "J.W. Head III"],
+    "venue": "Icarus 154,",
+    "year": 2001
+  }, {
+    "title": "Glacial and Pleistocene Geology",
+    "authors": ["R.F. Flint"],
+    "year": 1957
+  }, {
+    "title": "Impact constraints on, and a chronology for, major events in early Mars history",
+    "authors": ["H.V. Frey"],
+    "venue": "J. Geophys. Res. 111,",
+    "year": 2006
+  }, {
+    "title": "Candidate subglacial volcanoes in the south polar region of Mars: Morphology, morphometry, and eruption conditions",
+    "authors": ["G.J. Ghatan", "J.W. Head III"],
+    "venue": "J. Geophys. Res",
+    "year": 2002
+  }, {
+    "title": "Regional drainage of meltwater beneath a Hesperianaged south circumpolar ice sheet on Mars",
+    "authors": ["G.J. Ghatan", "J.W. Head"],
+    "venue": "J. Geol. Res. 109,",
+    "year": 2004
+  }, {
+    "title": "Morphology and propagation styles of Miocene submarine basanite lavas at Stanley, northwestern Tasmania, Australia",
+    "authors": ["Y. Goto", "J. McPhie"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2004
+  }, {
+    "title": "Icelandic pseudocraters as analogs to some volcanic cones on Mars",
+    "authors": ["R. Greeley", "S.A. Fagents"],
+    "venue": "J. Geophys. Res",
+    "year": 2001
+  }, {
+    "title": "Geological observations in the Cydonia region of Mars from Viking",
+    "authors": ["J.E. Guest", "P.S. Butterworth", "R. Greeley"],
+    "venue": "J. Geophys. Res",
+    "year": 1977
+  }, {
+    "title": "Tempe Fossae, Mars: A planetary analogon to a terrestrial continental rift",
+    "authors": ["E. Hauber", "P. Kronberg"],
+    "venue": "J. Geophys. Res",
+    "year": 2001
+  }, {
+    "title": "Geomorphic evidence for former lobate debris aprons at low latitudes on Mars: Indicators of the martian paleoclimate",
+    "authors": ["E. Hauber", "S. van Gasselt", "M. Chapman", "G. Neukum"],
+    "venue": "J. Geophys. Res",
+    "year": 2008
+  }, {
+    "title": "Nature and origin of palagonitic tuffs of the Honolulu Group on Oahu, Hawaii",
+    "authors": ["R.L. Hay", "A. Iijima"],
+    "venue": "Geol. Soc. Am. Memoir",
+    "year": 1968
+  }, {
+    "title": "Extensive Hesperian-aged south polar ice sheet on Mars: Evidence for massive melting and retreat, and lateral flow and ponding of meltwater",
+    "authors": ["J.W. Head", "S. Pratt"],
+    "venue": "J. Geophys. Res",
+    "year": 2001
+  }, {
+    "title": "Physical controls and resulting morphological forms of Quaternary ice-contact volcanoes in western Canada",
+    "authors": ["C.J. Hickson"],
+    "venue": "Geomorphology",
+    "year": 2000
+  }, {
+    "title": "Characteristics and origin of polygonal terrain in southern Utopia Planitia, Mars: Results from Mars Orbiter Laser Altimeter and Mars Orbiter Camera data",
+    "authors": ["H. Hiesinger", "J.W. Head III"],
+    "venue": "J. Geophys. Res",
+    "year": 2000
+  }, {
+    "title": "Topography and morphology of the Argyre Basin, Mars: Implications for its geologic and hydrologic history",
+    "authors": ["H. Hiesinger", "J.W. Head III"],
+    "venue": "Planet. Space Sci",
+    "year": 2002
+  }, {
+    "title": "A tuya in Togiak Valley, southwest Alaska",
+    "authors": ["J.M. Hoare", "W.L. Conrad"],
+    "venue": "J. Res. US Geol. Surv",
+    "year": 1978
+  }, {
+    "title": "The Togiak Basalt, a new formation in Southwestern Alaska. Contributions to Stratigraphy",
+    "authors": ["J.M. Hoare", "W.L. Conrad"],
+    "venue": "US Geol. Surv. Bull. 1482-C",
+    "year": 1980
+  }, {
+    "title": "Tablemountains of Mars",
+    "authors": ["C.A. Hodges", "H.J. Moore"],
+    "venue": "Lunar Planet. Sci. IX,",
+    "year": 1978
+  }, {
+    "title": "Principles of Glacier Mechanics",
+    "authors": ["R.L. Hooke"],
+    "year": 2005
+  }, {
+    "title": "Etched plains and braided ridges of the south polar region of Mars: Features produced by melting of ground ice? Reports of Planetary Geology Program-1981",
+    "authors": ["A.D. Howard"],
+    "venue": "NASA TM 84211,",
+    "year": 1981
+  }, {
+    "title": "HiRISE observations of Athabasca Valles, Mars: A lava-draped channel system",
+    "authors": ["W.L. Jaeger", "L.P. Keszthelyi", "A.S. McEwen", "C.M. Dundas", "P.S. Russel"],
+    "year": 2007
+  }, {
+    "title": "Emplacement of the youngest flood lava on Mars: A short, turbulent story",
+    "authors": ["Jaeger", "W.L"],
+    "venue": "HiRISE Team,",
+    "year": 2010
+  }, {
+    "title": "Environmental factors controlling the palagonitization of the Surtsey tephra, Iceland",
+    "authors": ["S.P. Jakobsson"],
+    "venue": "Geol. Soc. Denmark",
+    "year": 1978
+  }, {
+    "title": "Hydrothermal mineral and alteration rates at the Surtsey volcano, Iceland",
+    "authors": ["S.P. Jakobsson", "J.G. Moore"],
+    "venue": "Geol. Soc. Am. Bull",
+    "year": 1986
+  }, {
+    "title": "Subglacial and submarine volcanism in Iceland",
+    "authors": ["S.P. Jakobsson"],
+    "venue": "International Conference on Mars Polar Science and Exploration,",
+    "year": 2000
+  }, {
+    "title": "Subglacial and intraglacial volcanic formations in Iceland",
+    "authors": ["S.P. Jakobsson", "M.T. Gudmundsson"],
+    "venue": "Jökull",
+    "year": 2008
+  }, {
+    "title": "Possible precipitation of ice at low latitudes of Mars during periods of high obliquity",
+    "authors": ["B.M. Jakosky", "M.A. Carr"],
+    "venue": "Nature 315,",
+    "year": 1985
+  }, {
+    "title": "Chaotic obliquity and the nature of the martian climate",
+    "authors": ["B.M. Jakosky", "B.G. Henderson", "M.T. Mellon"],
+    "venue": "J. Geophys. Res",
+    "year": 1995
+  }, {
+    "title": "Intraglacial volcanoes of south-west Iceland and their significance in the interpretation of the form of the marine basaltic volcanoes",
+    "authors": ["J.G. Jones"],
+    "venue": "Nature",
+    "year": 1966
+  }, {
+    "title": "Intraglacial volcanoes of the Laugarvatn region, south-west Iceland, I",
+    "authors": ["J.G. Jones"],
+    "venue": "Q. J. Geol",
+    "year": 1968
+  }, {
+    "title": "Intraglacial volcanoes of the Laugarvatn region, southwest Iceland, II",
+    "authors": ["J.G. Jones"],
+    "venue": "J. Geol",
+    "year": 1970
+  }, {
+    "title": "Evidence of ancient continental glaciation in the martian northern plains",
+    "authors": ["J.S. Kargel", "V.R. Baker", "J.E. Begét", "J.F. Lockwood", "T.L. Péwé", "J.S. Shaw", "R.G. Strom"],
+    "venue": "J. Geophys. Res",
+    "year": 1995
+  }, {
+    "title": "Hydrovolcanic features on Mars: Preliminary observations from the first Mars year of HiRISE imaging",
+    "authors": ["L.P. Keszthelyi", "W.L. Jaeger", "C.M. Dundas", "S. Martínez-Alonso", "A.S. McEwen", "M.P. Milazzo"],
+    "year": 2010
+  }, {
+    "title": "H2O grain-size and the amount of dust in Mars residual north polar-cap",
+    "authors": ["H.H. Kieffer"],
+    "venue": "J. Geophys. Res",
+    "year": 1990
+  }, {
+    "title": "Sur la récession glaciaire et les types volcaniques dans la région du Kjölur sur le plateau central de l’Islande",
+    "authors": ["G. Kjartansson"],
+    "venue": "Rev. Géomorphol. Dynam",
+    "year": 1966
+  }, {
+    "title": "Geomorphology of subglacial volcanoes in the Azas Plateau, the Tuva Republic, Russia",
+    "authors": ["G. Komatsu", "S.G. Arzhannikov", "A.V. Arzhannikova", "K. Ershov"],
+    "year": 2007
+  }, {
+    "title": "Origin of glacial–fluvial landforms in the Azas Plateau volcanic field, the Tuva Republic, Russia: Role of ice–magma interaction",
+    "authors": ["G. Komatsu", "S.G. Arzhannikov", "A.V. Arzhannikova", "G.G. Ori"],
+    "venue": "Geomorphology 88,",
+    "year": 2007
+  }, {
+    "title": "Combinations of processes responsible for martian impact crater ‘layered ejecta structures",
+    "authors": ["G. Komatsu", "G.G. Ori", "S. Di Lorenzo", "A. Pio Rossi", "G. Neukum"],
+    "venue": "emplacement. J. Geophys. Res. 112,",
+    "year": 2007
+  }, {
+    "title": "Eolian controlled modification of the martian south polar layered deposits",
+    "authors": ["M.R. Koutnik", "S. Byrne", "B.C. Murray", "A.D. Toigo", "Z.A. Crawford"],
+    "venue": "Icarus 174,",
+    "year": 2005
+  }, {
+    "title": "Structure inhomogeneities of the martian cryosphere",
+    "authors": ["R.O. Kuzmin"],
+    "venue": "Solar System Res",
+    "year": 1988
+  }, {
+    "title": "Rootless cones on Mars indicating the presence of shallow equatorial ground ice in recent times",
+    "authors": ["P.D. Lanagan", "A.S. McEwen", "L.P. Keszthelyi"],
+    "venue": "Geophys. Res",
+    "year": 2001
+  }, {
+    "title": "Summer evolution of the north polar cap of Mars as observed by OMEGA/Mars express",
+    "authors": ["Y. Langevin", "F. Poulet", "J.P. Bibring", "B. Schmitt", "S. Doute", "B. Gondet"],
+    "year": 2005
+  }, {
+    "title": "Secular evolution of the Solar System over 10 million years",
+    "authors": ["J. Laskar"],
+    "venue": "Astron. Astrophys",
+    "year": 1988
+  }, {
+    "title": "Long term evolution and chaotic diffusion of the insolation quantities of Mars",
+    "authors": ["J. Laskar", "A.C.M. Correia", "M. Gastineau", "F. Joutel", "B. Levrard", "P. Robutel"],
+    "venue": "Icarus 170,",
+    "year": 2004
+  }, {
+    "title": "Architecture and evolution of hydrovolcanic deltas in Marie Byrd Land, Antarctica",
+    "authors": ["W.E. Le Masurier"],
+    "venue": "Volcano–Ice Interaction on Earth and Mars. Geol. Soc. London Spec",
+    "year": 2002
+  }, {
+    "title": "Lava and ice interaction at stratovolcanoes: Use of characteristic features to determine past glacial extents and future volcanic hazards",
+    "authors": ["D.T. Lescinsky", "J.H. Fink"],
+    "venue": "J. Geophys. Res",
+    "year": 2000
+  }, {
+    "title": "New palaeomagnetic results from the Whin Sill complex: Evidence for a multiple intrusion event and revised virtual geomagnetic poles for the late Carboniferous for the British Isles",
+    "authors": ["D. Liss", "W.H. Owens", "D.H.W. Hutton"],
+    "venue": "J. Geol. Soc. London",
+    "year": 2004
+  }, {
+    "title": "Ice and debris in the fretted terrains, Mars",
+    "authors": ["B.K. Lucchitta"],
+    "venue": "J. Geophys. Res",
+    "year": 1984
+  }, {
+    "title": "Sedimentary deposits in the northern lowland plains, Mars",
+    "authors": ["B.K. Lucchitta", "H.M. Ferguson", "C. Summers"],
+    "venue": "J. Geophys. Res",
+    "year": 1986
+  }, {
+    "title": "Volcanic rilles, streamlined islands, and the origin of outflow channels on Mars",
+    "authors": ["D.W. Leverington"],
+    "venue": "J. Geophys. Res. 109,",
+    "year": 2004
+  }, {
+    "title": "Geomorphic effectiveness, sandur development, and the pattern of landscape response during jökulhlaups: Skeiðarársandur, southeastern Iceland",
+    "authors": ["F.J. Magilligan", "B. Gomez", "L.A.K. Mertes", "L.C. Smith", "N.D. Smith", "D. Finnegan", "J.B. Garvin"],
+    "venue": "Geomorphology",
+    "year": 2001
+  }, {
+    "title": "Early views of the martian surface from the Mars Orbiter Camera of Mars Global Surveyor",
+    "authors": ["M.C. Malin"],
+    "year": 1998
+  }, {
+    "title": "Context camera investigation on board the Mars Reconnaissance Orbiter",
+    "authors": ["Malin", "M.C"],
+    "venue": "J. Geophys. Res. 112,",
+    "year": 2007
+  }, {
+    "title": "An overview of geological results from Mariner 9",
+    "authors": ["H. Masursky"],
+    "venue": "J. Geophys. Res",
+    "year": 1973
+  }, {
+    "title": "Tuyas’’, flat-topped volcanoes in Northern British Columbia",
+    "authors": ["W.H. Mathews"],
+    "venue": "Am. J. Sci",
+    "year": 1947
+  }, {
+    "title": "The Table, a flat-topped volcano in Southern British Columbia",
+    "authors": ["W.H. Mathews"],
+    "venue": "Am. J. Sci",
+    "year": 1951
+  }, {
+    "title": "Mars Reconnaissance Orbiter’s High Resolution Imaging Science Experiment (HiRISE)",
+    "authors": ["McEwen", "A.S"],
+    "venue": "J. Geophys. Res. 112, E05S02",
+    "year": 2007
+  }, {
+    "title": "The High Resolution Imaging Science Experiment (HiRISE) during MRO’s Primary Science Phase (PSP)",
+    "authors": ["A.S. McEwen"],
+    "venue": "Icarus 205,",
+    "year": 2010
+  }, {
+    "title": "Rhyolitic volcano–ice interactions in Iceland",
+    "authors": ["D. McGarvie"],
+    "venue": "J. Volcanol. Geotherm. Res.",
+    "year": 2009
+  }, {
+    "title": "1985a. Age and origin of large martian polygons",
+    "authors": ["G.E. McGill"],
+    "venue": "Lunar Planet. Sci. XVI,",
+    "year": 1985
+  }, {
+    "title": "1985b. Age of deposition and fracturing, Elysium/Utopia Region, Northern Martian Plains",
+    "authors": ["G.E. McGill"],
+    "venue": "Geol. Soc. Am. Abs. Prog",
+    "year": 1985
+  }, {
+    "title": "Geologic map of Cydonia Mensae-Southern Acidalia Planitia, Mars",
+    "authors": ["G.E. McGill"],
+    "venue": "US Geol. Surv. Geol. Inv. Ser. I-2811",
+    "year": 2005
+  }, {
+    "title": "Origin of giant martian polygons",
+    "authors": ["G.E. McGill", "L.S. Hills"],
+    "venue": "J. Geophys. Res",
+    "year": 1992
+  }, {
+    "title": "Spatial distribution of putative water released features in Southern Acidalia/Cydonia Mensae, Mars",
+    "authors": ["E. McGowan"],
+    "venue": "Icarus 202,",
+    "year": 2009
+  }, {
+    "title": "High-resolution thermal inertia mapping from the Mars Global Surveyor thermal emission spectrometer",
+    "authors": ["M.T. Mellon", "B.M. Jakosky", "H.H. Kieffer", "P.R. Christensen"],
+    "venue": "Icarus 148,",
+    "year": 2000
+  }, {
+    "title": "Periglacial landforms at the Phoenix landing site and the northern plains of Mars",
+    "authors": ["M.T. Mellon", "R.E. Arvidson", "J.J. Marlow", "R.J. Phillips", "E. Asphaug"],
+    "venue": "J. Geophys. Res. 113,",
+    "year": 2008
+  }, {
+    "title": "Viscous flow features on the surface of Mars: Observations from high-resolution Mars Orbiter Camera (MOC) images",
+    "authors": ["R.E. Milliken", "J.F. Mustard", "D.L. Goldsby"],
+    "venue": "J. Geophys. Res",
+    "year": 2003
+  }, {
+    "title": "On the orbital forcing of martian water and CO2 cycles: A general circulation model study with simplified volatile schemes",
+    "authors": ["M.A. Mischna", "M.I. Richardson", "R.J. Wilson", "D.J. McCleese"],
+    "venue": "J. Geophys. Res",
+    "year": 2003
+  }, {
+    "title": "Tholeiitic–alkalic transition at subglacial volcanoes, Tuya region, British Columbia, Canada",
+    "authors": ["J.G. Moore", "C.J. Hickson", "L.C. Calk"],
+    "venue": "J. Geophys. Res",
+    "year": 1995
+  }, {
+    "title": "Deposition and degradation of a volatile-rich layer in Utopia Planitia and implications for climate history on Mars",
+    "authors": ["A. Morgenstern", "E. Hauber", "D. Reiss", "S. van Gasselt", "G. Grosse", "L. Schirrmeister"],
+    "venue": "J. Geophys. Res. 112,",
+    "year": 2007
+  }, {
+    "title": "Compact Reconnaissance Imaging Spectrometer for Mars (CRISM) on Mars Reconnaissance Orbiter (MRO)",
+    "authors": ["S Murchie"],
+    "venue": "J. Geophys. Res. 112,",
+    "year": 2007
+  }, {
+    "title": "Evidence for recent climate change on Mars from the identification of youthful near-surface ground ice",
+    "authors": ["J.F. Mustard", "C.D. Cooper", "M.K. Rifkin"],
+    "venue": "Nature 412,",
+    "year": 2001
+  }, {
+    "title": "Hydrated silicate minerals on Mars observed by the Mars Reconnaissance Orbiter CRISM instrument",
+    "authors": ["J.F. Mustard"],
+    "venue": "Nature 454,",
+    "year": 2008
+  }, {
+    "title": "The Geology of Mars",
+    "authors": ["T.A. Mutch", "R.E. Arvidson", "J.W. Head III", "K.L. Jones", "R.S. Saunders"],
+    "year": 1976
+  }, {
+    "title": "HRSC: the High Resolution Stereo Camera of Mars Express",
+    "authors": ["G. Neukum", "R. Jaumann"],
+    "venue": "HRSC Co-Investigator and Experiment Team,",
+    "year": 2004
+  }, {
+    "title": "Environmental changes within kettle holes at Borras Bog triggered by construction of the A5156",
+    "authors": ["D. Nichol"],
+    "venue": "Llanypwll Link Road, North Wales. Eng. Geol",
+    "year": 2001
+  }, {
+    "title": "The flow of glaciers and ice-sheets as a problem in plasticity",
+    "authors": ["J.F. Nye"],
+    "venue": "Proc. Roy. Soc. London, Ser. A",
+    "year": 1951
+  }, {
+    "title": "Viscous relaxation of craters within the martian south polar layered deposits",
+    "authors": ["A.V. Pathare", "D.A. Paige", "E. Turtle"],
+    "venue": "Icarus 174,",
+    "year": 2005
+  }, {
+    "title": "The origin of polygonal troughs on the northern plains of Mars",
+    "authors": ["J.C. Pechmann"],
+    "venue": "Icarus",
+    "year": 1980
+  }, {
+    "title": "Mars north polar deposits: Stratigraphy, age, and geodynamical response",
+    "authors": ["Phillips", "R.J"],
+    "venue": "Science 320,",
+    "year": 2008
+  }, {
+    "title": "Radar soundings of the subsurface of Mars",
+    "authors": ["G Picardi"],
+    "venue": "Science 310,",
+    "year": 2005
+  }, {
+    "title": "The glacial palagonite-formation of Iceland",
+    "authors": ["H. Pjetursson"],
+    "venue": "Scot. Geogr. Mag",
+    "year": 1900
+  }, {
+    "title": "Subsurface radar sounding of the south polar layered deposits of Mars",
+    "authors": ["Plaut", "J.J"],
+    "venue": "Science 316,",
+    "year": 2007
+  }, {
+    "title": "Global thermal inertia and surface properties of Mars from the MGS mapping mission",
+    "authors": ["N.E. Putzig", "M.T. Mellon", "K.A. Kretke", "R.E. Arvidson"],
+    "venue": "Icarus 173,",
+    "year": 2005
+  }, {
+    "title": "Peperitic upper margin of an invasive flow, Karoo flood basalt province, northern Lebombo",
+    "authors": ["D.J. Rawlings", "M.K. Watkeys", "R.J. Sweeney"],
+    "venue": "S. Afr. J. Geol",
+    "year": 1999
+  }, {
+    "title": "Investigation of the nature and stability of the martian seasonal water cycle with a general circulation model",
+    "authors": ["M.I. Richardson", "R.J. Wilson"],
+    "venue": "J. Geophys. Res",
+    "year": 2002
+  }, {
+    "title": "Geologic/geomorphologic map of the Chryse Planitia region of Mars",
+    "authors": ["S. Rotto", "K.L. Tanaka"],
+    "venue": "US Geol. Surv. Misc. Inv. Ser. Map,",
+    "year": 1995
+  }, {
+    "title": "Crater ejecta morphology and the presence of water on Mars. In: Symposium on Mars: Evolution of its Climate and Atmosphere",
+    "authors": ["P.H. Schultz"],
+    "venue": "LPI Contribution",
+    "year": 1986
+  }, {
+    "title": "Atmospheric effects on martian ejecta emplacement",
+    "authors": ["P.H. Schultz", "D.E. Gault"],
+    "venue": "J. Geophys. Res",
+    "year": 1979
+  }, {
+    "title": "The structure and evolution of ancient impact basins on Mars",
+    "authors": ["P.H. Schultz", "R.A. Schultz", "J. Rogers"],
+    "venue": "J. Geophys. Res",
+    "year": 1982
+  }, {
+    "title": "Geologic map of the western equatorial region of Mars",
+    "authors": ["D.H. Scott", "K.L. Tanaka"],
+    "venue": "US Geol. Surv. Geol. Inv. Ser. Map,",
+    "year": 1986
+  }, {
+    "title": "Correlation of the Deccan and Rajahmundry Trap lavas: Are these the longest and largest lava flows on Earth",
+    "authors": ["S. Self", "A.E. Jay", "M. Widdowson", "L.P. Keszthelyi"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2008
+  }, {
+    "title": "Geology and geochemistry of Pachmarhi dykes and sills, Satpura Gondwana Basin, central India: Problems of dyke-sill-flow correlations in the Deccan Traps",
+    "authors": ["H.C. Sheth"],
+    "venue": "Contrib. Mineral. Petrol.. doi:10.1007/s00410-009-0387-4",
+    "year": 2009
+  }, {
+    "title": "Esker characteristics in terms of glacier physics, Katahdin esker system, Maine",
+    "authors": ["R.L. Shreve"],
+    "venue": "Geol. Soc. Am. Bull",
+    "year": 1985
+  }, {
+    "title": "Mineralogy of palagonitic material from the Golan Heights, Israel",
+    "authors": ["A. Singer"],
+    "venue": "Clay Clay Minerals",
+    "year": 1974
+  }, {
+    "title": "Evidence for and implications of sedimentary diapirism and mud volcanism in the southern Utopia highland-lowland boundary plain, Mars",
+    "authors": ["J.A. Skinner", "K.L. Tanaka"],
+    "venue": "Icarus 186,",
+    "year": 2007
+  }, {
+    "title": "The relative importance of supraglacial versus subglacial meltwater escape in basaltic subglacial tuya eruptions: An important unresolved conundrum",
+    "authors": ["J.L. Smellie"],
+    "venue": "Earth Sci. Rev",
+    "year": 2006
+  }, {
+    "title": "Products of subglacial volcanic eruptions under different ice thicknesses: Two examples from Antarctica",
+    "authors": ["J.L. Smellie", "I.P. Skilling"],
+    "venue": "Sed. Geol",
+    "year": 1994
+  }, {
+    "title": "Pillowed lavas II: A review of selected recent literature",
+    "authors": ["G.L. Snyder", "G.D. Fraser"],
+    "venue": "US Geol. Surv. Prof. Paper 454-C",
+    "year": 1963
+  }, {
+    "title": "The distribution of lobate debris aprons and similar flows on Mars",
+    "authors": ["S.W. Squyres"],
+    "venue": "J. Geophys. Res",
+    "year": 1979
+  }, {
+    "title": "Geomorphic evidence for the distribution of ground ice on Mars",
+    "authors": ["S.W. Squyres", "M.H. Carr"],
+    "venue": "Science",
+    "year": 1986
+  }, {
+    "title": "Subglacial and icecontact volcanism at the Öræfajökull stratovolcano, Iceland",
+    "authors": ["J.A. Stevenson", "D.W. McGarvie", "J.L. Smellie", "J.S. Gilbert"],
+    "venue": "Bull. Volcanol",
+    "year": 2006
+  }, {
+    "title": "Sedimentary history and mass flow structures of Chryse and Acidalia Planitia, Mars",
+    "authors": ["K.L. Tanaka"],
+    "venue": "J. Geophys. Res",
+    "year": 1997
+  }, {
+    "title": "Resurfacing history of the northern plains of Mars based on geologic mapping of Mars Global Surveyor data",
+    "authors": ["K.L. Tanaka", "J.A. Skinner", "T.M. Hare", "T. Joyal", "A. Wenker"],
+    "venue": "J. Geophys. Res",
+    "year": 2003
+  }, {
+    "title": "Geologic map of the northern plains of Mars",
+    "authors": ["K.L. Tanaka", "J.A. Skinner", "T.M. Hare"],
+    "venue": "US Geol. Surv. Sci. Inv. Map",
+    "year": 2005
+  }, {
+    "title": "The crater groups in Iceland",
+    "authors": ["S. Thorarinsson"],
+    "venue": "Bull. Volcanol",
+    "year": 1953
+  }, {
+    "title": "The Roza Member, Columbia River Basalt Group: A gigantic pahoehoe lava flow field formed by endogenous processes",
+    "authors": ["T. Thordarson", "S. Self"],
+    "venue": "J. Geophys. Res",
+    "year": 1998
+  }, {
+    "title": "Revisions to the estimates of the areal extent and volume of the Columbia River",
+    "authors": ["T.L. Tolan", "S.P. Reidel", "M.H. Beeson", "J.L. Anderson", "K.R. Fecht", "D. Swanson"],
+    "venue": "Flood Basalt Province. In: Reidel,",
+    "year": 1989
+  }, {
+    "title": "The astronomical theory of climatic change on Mars",
+    "authors": ["O.B. Toon", "J.B. Pollack", "W. Ward", "J.A. Burns", "K. Bilski"],
+    "venue": "Icarus",
+    "year": 1980
+  }, {
+    "title": "Sun-illuminated sea floor topographic maps and perspective-view imagery of quadrangles 1–18, Stellwagen Bank National Marine Sanctuary off Boston, Massachusetts, United States Geological Survey, Open-File Report 99-63",
+    "authors": ["P.C. Valentine", "T.S. Unger", "J.L. Baker", "C. Polloni"],
+    "year": 2000
+  }, {
+    "title": "Table mountains of Northern Iceland",
+    "authors": ["R.W. Van Bemmelen", "M.G. Rutten"],
+    "venue": "EJ Brill, Leiden, Netherlands",
+    "year": 1955
+  }, {
+    "title": "Morphometric study of pillow-size spectrum among pillow lavas",
+    "authors": ["G.P.L. Walker"],
+    "venue": "Bull. Volcanol",
+    "year": 1992
+  }, {
+    "title": "Long-term orbital and spin dynamics of Mars",
+    "authors": ["W.R. Ward"],
+    "year": 1992
+  }, {
+    "title": "Origins of the ice-contact stratified ridges (eskers) of Ireland",
+    "authors": ["W.P. Warren", "G.M. Ashley"],
+    "venue": "J. Sed. Res",
+    "year": 1994
+  }, {
+    "title": "A new model for the evolution of table mountains: Volcanological and petrological evidence from Herdubreid and Herdubreidaftögl volcanoes (Iceland)",
+    "authors": ["R. Werner", "Schmincke", "H.-U", "G. Sigvaldason"],
+    "venue": "Geol. Rundsch",
+    "year": 1996
+  }, {
+    "title": "Subglacial to emergent volcanism at Shield Nunatak",
+    "authors": ["G. Wörner", "L. Vierek"],
+    "venue": "Mt. Melbourne volcanic field, Antarctica. Polarforschung",
+    "year": 1987
+  }, {
+    "title": "The structural characteristics of palagonite from DSDP Site-335",
+    "authors": ["Z.H. Zhou", "W.S. Fyfe", "K. Tazaki", "S.J. Vandergaast"],
+    "venue": "The Can. Mineral",
+    "year": 1992
+  }, {
+    "title": "The Mars Observer Laser Altimeter investigation",
+    "authors": ["M.T. Zuber", "D.E. Smith", "S.C. Solomon", "D.O. Muhleman", "J.W. Head", "J.B. Garvin", "J.B. Abshire", "J.L. Bufton"],
+    "venue": "J. Geophys. Res",
+    "year": 1992
+  }],
+  "id": "SP:36b9ddb152ed37ad24f505ef4e6d6307ba25c04d",
+  "authors": [{
+    "name": "Sara Martínez-Alonso",
+    "affiliations": []
+  }, {
+    "name": "Michael T. Mellon",
+    "affiliations": []
+  }, {
+    "name": "Maria E. Banks",
+    "affiliations": []
+  }, {
+    "name": "Laszlo P. Keszthelyi",
+    "affiliations": []
+  }, {
+    "name": "Alfred S. McEwen",
+    "affiliations": []
+  }],
+  "abstractText": "Chryse and Acidalia Planitiae show numerous examples of enigmatic landforms previously interpreted to have been influenced by a water/ice-rich geologic history. These landforms include giant polygons bounded by kilometer-scale arcuate troughs, bright pitted mounds, and mesa-like features. To investigate the significance of the last we have analyzed in detail the region between 60 N, 290 E and 10 N, 360 E utilizing HiRISE (High Resolution Imaging Science Experiment) images as well as regional-scale data for context. The mesas may be analogous to terrestrial tuyas (emergent sub-ice volcanoes), although definitive proof has not been identified. We also report on a blocky unit and associated landforms (drumlins, eskers, inverted valleys, kettle holes) consistent with ice-emplaced volcanic or volcano-sedimentary flows. The spatial association between tuya-like mesas, ice-emplaced flows, and further possible evidence of volcanism (deflated flow fronts, volcanic vents, columnar jointing, rootless cones), and an extensive fluid-rich substratum (giant polygons, bright mounds, rampart craters), allows for the possibility of glaciovolcanic activity in the region. Landforms indicative of glacial activity on Chryse/Acidalia suggest a paleoclimatic environment remarkably different from today’s. Climate changes on Mars (driven by orbital/obliquity changes) or giant outflow channel activity could have resulted in ice-sheet-related landforms far from the current polar",
+  "title": "Evidence of volcanic and glacial activity in Chryse and Acidalia Planitiae, Mars"
+}

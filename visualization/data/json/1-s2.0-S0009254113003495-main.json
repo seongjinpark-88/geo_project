@@ -1,0 +1,1075 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nChemical Geology\nj ourna l homepage: www.e lsev ie r .com/ locate /chemgeo\nNeoproterozoic iron formation: An evaluation of its temporal, environmental and tectonic significance\na, aGrant M. Cox ⁎, Galen P. Halverson , William G. Minarik a, Daniel P. Le Heron b, Francis A. Macdonald c, Eric J. Bellefroid a, Justin V. Strauss c\na McGill University, Montreal, Quebec, Canada b Royal Holloway, University of London, United Kingdom c Harvard University, MA, USA\n⁎ Corresponding author. E-mail address: grant.cox@mail.mcgill.ca (G.M. Cox).\n0009-2541/$ – see front matter © 2013 Published by Else http://dx.doi.org/10.1016/j.chemgeo.2013.08.002\na b s t r a c t a r t i c l e i n f o\nArticle history: Accepted 5 August 2013 Available online 16 August 2013\nKeywords: Iron formation Cryogenian Sturtian glaciation Anoxia Hydrothermal Mafic volcanism\nNeoproterozoic iron formation (NIF) provides evidence for the widespread return of anoxic and ferruginous basins during a time period associatedwith major changes in climate, tectonics and biogeochemistry of the oceans. Herewe summarize the stratigraphic context of Neoproterozoic iron formation and its geographic and temporal distribution. It is evident that most NIF is associated with the earlier Cryogenian (Sturtian) glacial epoch. Although it is possible that some NIF may be Ediacaran, there is no incontrovertible evidence to support this age assignment. The paleogeographic distribution of NIF is consistent with anoxic and ferruginous conditions occurring in basins within Rodinia or in rift-basins developed on its margins. Consequently NIF does not require whole ocean anoxia. Simple calculations using modern day iron fluxes suggest that only models that invoke hydrothermal and/or detrital sources of iron are capable of supplying sufficient iron to account for themass of the largerNIF occurrences. This conclusion is reinforced by the available geochemical data that imply NIF record is a mixture of hydrothermal and detrital components. A common thread that appears to link most if not all NIF is an association with mafic volcanics.\n© 2013 Published by Elsevier B.V.\nContents\n1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 233 1.1. Iron in the modern ocean . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 235 1.2. Broad depositional constraints . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 235\n1.2.1. Anoxic basin waters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 235 1.2.2. Hydrogen sulfide to ferrous iron ratio less than 2 (H2S/Fe2+ b2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 235 1.2.3. Oxidative mechanism . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 236\n2. Geological context of Neoproterozoic iron formations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 237 2.1. South Australia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 237 2.2. Northwestern North America . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 237 2.3. Chuos–Damara–Numees iron formation, Namibia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 237 2.4. Jacadigo Group, Brazil and Bolivia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 238 2.5. Yerbal iron formation, Uruguay . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 238 2.6. Chestnut Hill iron formation, United States . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 238 2.7. Arabian-Nubian Shield . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 238 2.8. Fulu Formation, South China . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 238 2.9. Other Neoproterozoic iron formations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 239 3. Age and geographic distribution of Neoproterozoic iron formation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 239 3.1. Age constraints . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 239 3.2. Geographic distribution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 239 4. Geochemistry of Neoproterozoic iron formations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 239 4.1. Major element characteristics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 239\n4.1.1. Major element correlation coefficients . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 240 4.1.2. Major element principal component analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 241\nvier B.V.\n5. Models for the formation of Neoproterozoic iron formation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 243 5.1. Sedimentary exhalative-rifting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 243 5.2. Snowball Earth . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 244 5.3. Anoxic sub-glacial outwash . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 244 5.4. Sulfur limitation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 244 5.5. Continental resurfacing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 244 5.6. Silled basins . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 244 6. Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 245 6.1. Depositional time constraints . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 245 6.2. Major element constraints . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 245 6.3. Iron isotopes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 245 6.4. Synchronicity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 245 6.5. Role of mafic magmatism and hydrothermal activity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 245 7. Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 246 Acknowledgments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 246 References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 246"
+  }, {
+    "heading": "1. Introduction",
+    "text": "The apparent sudden reappearance of iron formation after a ~1 billion year hiatus in the sedimentary record (Isley and Abbott, 1999; Klein, 2005) has been considered a geologically unique feature of the Neoproterozoic (~1000 Ma to 635 Ma). This last gasp of significant Precambrian iron formation (James et al., 1983; Klein, 2005) contrasts with the relativelyminor abundance of Phanerozoic sedimentary iron formations, such as Clinton-type oolitic ironstones (Van Houten and Arthur, 1989; Young, 1989).\nUnlike their Archean and Paleoproterozoic counterparts, which formed at a time of low atmospheric O2 and pervasively anoxic deep oceans (Bekker et al., 2004; Canfield, 2005; Frei et al., 2009; Lyons and Reinhard, 2009), Neoproterozoic iron formation (NIF) developed at a time when pO2 should have been significantly higher (Canfield and Teske, 1996; Canfield, 2005; Frei et al., 2009). The most significant NIFs are all associated with widespread glaciation. Thus the reappearance of iron formation during the Neoproterozoic presents a prima facie case for the apparent widespread return of anoxic and ferruginous basins or sub-basins, which is presumably linked to the extreme climate changes that dominate the middle Neoproterozoic stratigraphic record.\n0\n5\n10\n15\n0 100 0 100 0 100 0 100 0 1\nFe2O\nDamara IF Namibia Snake River IF Canada Rapitan IF Canada Urucum IF Brazil Braemar IF Australia\nMedian 37.5%\nMedian 59.5%\nMedian 35.3% Median 58.0%\nMedian 37.2%\nN o.\no f s\nam pl\nes\nFig. 1.Histogram of published (n = 172) Fe2O3 concentrations for NIF. For comparison, typical s Freitas et al. (2011), Piacentini et al. (2007), Klein and Beukes (1993), Klein and Ladeira (2004\nFor the purposes of this paper we define iron formation to be a sedimentary rock containing greater than 15 wt.% Fe2O3 (James, 1954); however, within any given section of NIF Fe concentration can vary significantly (Fig. 1). Neoproterozoic iron formation is distinct from the extensively documented Archean and Paleoproterozoic Banded Iron Formation (BIF). For example, with some exceptions, banding is generally poorly developed (Fig. 2b) or entirely absent in most NIFs. When banding is present, it consists of layers of hematite (Fe2O3) and jaspilite (iron-rich chert) (Fig. 2d). Neoproterozoic iron formation more commonly occurs as ferruginous laminated siltstone (Fig. 2f) or within the matrix of diamictite (Fig. 2e). An important distinction between NIF and Archean and Paleoproterozoic BIFs is in the mineralogy: in unmetamorphosed NIF, iron resides almost exclusively in hematite (Fe3+2O3) (Klein and Beukes, 1993). Magnetite (Fe2+2Fe3+O4) has also been reported, but it is never the principal iron-bearing phase (Volkert et al., 2010; Freitas et al., 2011), except in metamorphosed occurrences. Accessoryminerals include chlorite, smectite, quartz and carbonate. In a few instances, most notably in the Jacadigo Group in Brazil and its equivalent in Bolivia, manganese is a significant component of NIF, typically occurring in discrete Mn-rich beds (Klein and Ladeira, 2004).\n00 0 100 0 100 0 100 0 100 0 100\n3(%)\nTatonduk IF USA Holowilena IF Australia Oraparina IF Australia Numees IF Namibia Chestnut Hill IF USA\nMedian 78.5% Median 17.2% Median 22.85% Median 10.35% Median 46.6%\nedimentary rocks have Fe2O3well below10%. Data is from Lottermoser and Ashley (2000), ), Volkert et al. (2010), Gross (2009) and this study.\nWhereas NIF is volumetrically less significant compared to its more ancient BIF counterparts, it is an important element of the Proterozoic stratigraphic record for multiple reasons. First, its close association with glacial deposits implies that its origin is closely linked to glaciation, hence the central role of NIF in the snowball Earth hypothesis (Klein and Beukes, 1993; Hoffman et al., 1998). Second, it occurred shortly before the first appearance of animals and broadly at a timewhen atmospheric oxygen levels are thought to have increased towards modern levels, ultimately high enough to ventilate the deep ocean (Canfield and Teske, 1996; Catling and Claire, 2005; Scott et al., 2008; Och and ShieldsZhou, 2012; Sahoo et al., 2012). Consequently, any model that purports to explain Neoproterozoic global glaciation and redox evolution must reconcile the occurrence of NIF. Within this context, several specific questions regarding NIF arise. What is the ultimate source of the iron\nand bywhat processwas it oxidized from Fe2+ to Fe3+? How are the individual NIF occurrences related temporally and genetically? Do they represent global or isolated phenomena? Answering these questions will ultimately permit us to determine whether NIF owes its origin to the unique tectonic, biogeochemical or climatic conditions that prevailed during the middle Neoproterozoic.\nWith the goal of progressing towards an answer to these questions, we begin this paper with a review of the behavior of iron in themodern ocean, after whichwe present the stratigraphic and chronostratigraphic framework for NIF. From this foundation, we discuss current models that have been proposed for individual occurrences and present a compilation of new and previously published geochemical data on NIF from six separate basins. An analysis of these data allow us to elucidate the geochemical and geological characteristics that these disparate NIF\noccurrences share, evaluate the proposed models for their deposition, and offer new constraints on the mechanisms responsible for their origin."
+  }, {
+    "heading": "1.1. Iron in the modern ocean",
+    "text": "Any discussion of iron formation deserves to be grounded in an understanding of the contemporary distribution and cycling of ironwithin and between the Earth's geochemical reservoirs. Iron accounts for approximately ~3.5% (as Fe2O3) of the upper continental crust (Taylor and McLennan, 1995), typical mid-ocean ridge basalt (N-MORB) contains ~9–10% iron (Viereck et al., 1989), whereas ocean island basalts (OIB) and continental flood basalts (CFB) have iron concentrations in the vicinity of 12–13% (Marsh, 1987; Gladney and Roelandts, 1988; Wilson, 1997a, 1997b). While iron has oxidation states that range from −2 to +6, it occurs almost exclusively in the +2 (ferrous) and +3 (ferric) states in the surface and near surface environment.\nThe high crustal abundances of iron contrast sharply with its sparing concentration in seawater, which at ~0.7 nM, is eleven orders of magnitude lower than average crustal abundances (QuinbyHunt and Turehian, 1983; Nozaki, 1997; Achterberg et al., 2001). This exceedingly low concentration is a simple function of the low solubility of Fe3+; the concentration would be even lower if not supported by iron complexation with organic ligands (Chen et al., 2004).\nThe principal sources of iron to the ocean today include rivers, wind blown dust, margin sediments, ice and hydrothermal input. Iron occurs dominantly in the +3 state in both seawater and rivers (Poulton and Raiswell, 2002; Buck et al., 2007) due to their oxygenated state. However, significant ferrous (Fe2+) iron is supplied to the oceans, principally from hydrothermal input (via alteration of Fe2+ bearing igneous rocks, mainly seafloor basalt) and leaching of continental margin sediments. Iron from continental margins is derived from bacterial dissimilatory iron reduction (DIR) of detrital iron oxides (Lovley, 1991) and subsequent diffusion from pore waters (Elrod et al., 2004).\nThe only other significant source of Fe2+ to the oceans is from glacial meltwater. Ferrous iron is released from glacial meltwater in one of two ways. Kim et al. (2010) showed experimentally that ferrous iron trapped in ice in phases such as magnetite, maghemite and goethite can be reduced and released to seawater through photo-reduction. Second, and discussed in more detail later in this paper, Mikucki et al. (2009) demonstrated that DIR occurs in sub-glacial brines producing ferrous (Fe2+) iron in the glacial outwash. In both of these cases, the ferrous (Fe2+) iron is rapidly oxidized, which means that neither of these processes results in significant delivery of chemically available iron to the ocean.\nWhereas the various sources of iron to the modern ocean are reasonably well known, their respective fluxes are poorly constrained and presumably highly variable in both time and space. A revealing example of the poor control on the iron cycle can be seen in estimates of the global hydrothermal flux, which vary by 3 orders of magnitude, from ~5.0 × 1010 g Fe/year (Bennett et al., 2008; Boyle and Jenkins, 2008) to ~1 × 1013 g Fe/year (Elderfield and Schultz, 1996). In a recent study that attempted to quantify all the respective Fe fluxes, Tagliabue et al. (2010) calculated the respective contributions of the principal iron sources for the Southern Ocean (Table 1) and concluded that the dominant Fe source was from continental margin sediments.\nThe SouthernOcean,which receives relatively little riverine anddust input, is obviously not representative of the whole ocean. Nevertheless, given its long coastline with Antarctica, the Southern Ocean is a useful and possibly our best reference frame for considering the relative magnitude of iron fluxes in a glaciated Neoproterozoic ocean.\nDespite the vanishingly low iron concentrations in the modern ocean, iron-rich chemical sediments do occur in the modern ocean. Metalliferous sediments are found in close association with midocean ridges and seamounts and their distribution is widespread with known occurrences in the Red Sea (Pierret et al., 2010), along the East Pacific Rise (Sayles and Bischoff, 1973; Barrett et al., 1987; German et al., 1999; Bodei et al., 2008), along the Mid-Atlantic Ridge (German et al., 1993; Dias and Barriga, 2006; Dias et al., 2008), in the Indian Ocean (Bostrom, 1973), in the Gulf of California (Lonsdale et al., 1980) and on many seamounts (MascarenhasPereira and Nath, 2010). Modern metalliferous sediments however, occur in locations with low preservation potential, that said, their older counterparts do occur as volumetrically minor iron-rich sediments on obducted ophiolites (Robertson and Fleet, 1976; Karpoff et al., 1988)."
+  }, {
+    "heading": "1.2. Broad depositional constraints",
+    "text": "While much debate surrounds the exact environmental conditions necessary for the deposition of iron formation, the basic constraints were outlined by Holland (1973) and Drever (1974) and are summarized below."
+  }, {
+    "heading": "1.2.1. Anoxic basin waters",
+    "text": "The occurrence of NIF, like earlier Precambrian BIF, requires the build-up and transport of a significant iron reservoir. Because Fe3+ is essentially insoluble in seawater, this iron reservoir must have existed as Fe2+. The half-life of Fe2+ in ~pHneutral oxygenatedwater ismeasured in minutes to hours (Millero et al., 1987). Hence, the accumulation of ferrous (Fe2+) iron in the ocean implies anoxic conditions.\n1.2.2. Hydrogen sulfide to ferrous iron ratio less than 2 (H2S/Fe 2+ b2)\nIn the presence of H2S, Fe2+ is efficiently converted to pyrite. The exact pathway for this reaction was investigated by Wilkin and Barnes (1996) and Benning et al. (2000). The overall reaction is complex but appears to involve an iron monosulfide precursor. The end result is that if the ratio of Fe2+ to H2S b2, then all of the Fe2+ will be effectively titrated as pyrite and iron concentrations will be very low. This condition delineates two anoxic environments: ferruginous where the ratio of H2S/Fe2+ b2, and euxinic where the ratio of H2S/Fe2+ N2.\nIt is instructive to consider the above constraints in Eh/pH space. Many thermodynamic diagrams have been calculated for iron with respect to water, and Glasby and Schulz (1999) constructed an appropriate formulation for seawater (Fig. 3). In the typical range of seawater temperature and salinity, dissolved Fe2+ is only stable at Eh and pH values well below what is found in most of the modern ocean. This Eh/pH diagram highlights that the prerequisite of anoxic waters is not strictly true because Fe2+ is the dominant stable dissolved phase at lower pH. Based on the current mean Eh/pH values for seawater (Eh = +0.4 V and pH = 8.0); (Becking et al., 1960; Glasby and Schulz, 1999) the change in pH required for Fe2+ to be stable is quite large (~2 pH units), especially when compared with the small range in pH over recent time periods (Pearson and Palmer, 1999; Hönisch and Hemming, 2005; Foster, 2008). However, significant variations (from+0.5 V to−0.2 V) both above and below the average Eh of seawater are observed in the modern ocean over a comparatively small range in pH and these changes are not just a simple functionof dissolved oxygen concentration (Becking et al., 1960). Consequently, under certain conditions, seawater could be delicately poised at an Eh where a very small decrease in pH can result in Fe2+ becoming the stable aqueous phase."
+  }, {
+    "heading": "1.2.3. Oxidative mechanism",
+    "text": "While it is obvious that an oxidativemechanism is required to transformdissolved Fe2+ to Fe3+ and ultimately to precipitate it from seawater to form iron formation, the exact mechanism that results in this transformation is not well constrained for NIF, with both abiotic and\nbiotic pathways possible. We summarize the main reaction pathways generally considered for the formation of sedimentary iron formation below.\n1.2.3.1. Abiotic pathways. The two principal abiotic pathways are simple reactions with (1) free oxygen and (2) photo-oxidation (Hush et al., 1998):\nFe 2þ þ 0:5O2 þ 5H2O→2FeðOHÞ3 þ 4Hþ ð1Þ\n2Fe 2þ þ 2Hþ þ hv→2Fe3þ þ H2 ð2Þ Although reaction (1) is strictly abiotic, it requires a source of O2, which in the Precambrian, presumably would have been derived from cyanobacterial photosynthesis. Hence, this pathway would have been coupled to biology, either tightly in microenvironments rich in cyanobacterially generated O2, or more loosely under broadly oxic conditions. Cairns-Smith (1978) proposed that reaction (2) could account for iron oxidation prior to the development of a protective ozone layer, but Konhauser et al. (2007a) argued that under postulated Archean conditions, this process would have been outcompeted by the precipitation of iron carbonates and silicates. However, this result rests upon conditions thatmay ormay not reflect the range of likely Archean conditions.\n1.2.3.2. Biological pathways. Compared with abiotic pathways, microbial pathways are more varied and ecosystem specific, but can be separated into aerobic and anaerobic processes. Aerobic Fe oxidizing pathways include low pH iron oxidation (3), which is effectively the bacterially mediated process that occurs in acid mine drainage sites (Templeton, 2011) and circum-neutral pH aerobic oxidation (4), which occurs at modern hydrothermal vents (Emerson and Moyer, 2002). The rates of microbial iron oxidation can exceed abiotic oxidation by a factor of up to 50 under low oxygen conditions (Emerson and Moyer, 2002).\n2Fe 2þ þ 0:5O2 þ 2Hþ→2Fe3þ þ H2O ð3Þ\n6Fe 2þ þ 0:5O2 þ CO2 þ 16H2O→CH2O þ 6FeðOHÞ3 þ 12Hþ ð4Þ Biological iron oxidation in anaerobic settings proceeds through a variety of pathways utilizing different terminal electron acceptors. For example, denitrifying bacteria oxidize iron through the following reaction (5) (Straub et al., 1996):\n10Fe 2þ þ 2NO 3 þ 24H2O→10FeðOHÞ3 þ N2 þ 18Hþ ð5Þ Ferrous iron may also be used as the electron donor by anoxygenic photosynthesizes (6) (Hartman, 1984; Widdel et al., 1993).\n4Fe 2þ þ 11H2O þ CO2 þ hv→CH2O þ 4FeðOHÞ3 þ 8Hþ ð6Þ The end result of all of these abiotic and biotic reaction pathways is the formation of an insoluble iron (oxy)hydroxide. In the case of NIF, this iron (oxy)hydroxide precursor was likely converted to hematite and water during early diagenesis (Klein and Beukes, 1993). In the case of Archean and Paleoproterozoic BIF, a significant component of the initial iron (oxy)hydroxide precursor appears to have been reduced by dissimilatory iron reduction, and the resulting ferrous iron incorporated into magnetite or siderite (see Walker (1984) Beard et al. (2003), Beard and Johnson (2004), Bekker et al. (2010) Konhauser et al. (2005) and Johnson et al. (2004) for more detailed discussions of oxidative and diagenetic pathways in BIF genesis). However, the virtual absence of reduced iron phases in unmetamorphosed NIF implies that no organic carbon was delivered to the sediment column along with the precursor iron (oxy)hydroxides. Halverson et al. (2011) suggested\nthat this observation possibly eliminates any oxidative pathway which involved production of appreciable biomass."
+  }, {
+    "heading": "2. Geological context of Neoproterozoic iron formations",
+    "text": "In this section we briefly review the regional geological and sedimentological contexts of the NIF, with an emphasis on the wellstudied occurrences in Australia, northwest Canada, South America andNamibia. Radiometric age constraints and the paleogeographic context of NIFs are presented separately in the subsequent section."
+  }, {
+    "heading": "2.1. South Australia",
+    "text": "The three iron formation occurrences of the Flinders Ranges, South Australia are contained within the well documented Adelaide Rift Complex (Preiss and Forbes, 1981; Preiss, 2000). Initial rifting of the Gawler Craton occurred at ~827 Ma (Wingate et al., 1998) with another younger but pre-Sturtian rifting event represented by the Boucaut Volcanics (Forbes, 1978). Iron formation occurswithin the glacigenic Umberatana Group, which is separated by an erosional unconformity from older Adeladian sediments or basement rocks. The basal formation within theUmberatanaGroup is the Sturtian-aged Pualco Tillite and correlative units (i.e. Bolla Bollana, Appila and Sturt tillites). Both the Holowilena (Fig. 2a) and Oraparinna IF occurrences were described recently by Le Heron et al. (2011a,b). The iron formation sits conformably on top of the Pualco Tillite, interpreted to represent a gravity re-sedimented glacial deposit. The iron formation itself is a laminated IF interpreted as a glacially influenced turbidite. It occurs over an interval of N100 m. Striated clasts are found within the iron formation (Le Heron et al., 2011a). TheWilyerpa Formation overlies the IF; it contains glacial diamictite and lonestonehorizons and is interpreted to represent the waning stages of the Sturtian glaciation (Preiss, 2000).\nLottermoser and Ashley (2000) studied the correlative Braemar iron formation, which occurs to the east of Holowilena and Oraparinna and wasmetamorphosed to upper greenschist to amphibolite facies. Consequently, the IF assemblage is more complex, comprising mainly hematite, magnetite and quartz with minor chlorite, muscovite, biotite, carbonate, plagioclase, apatite and tourmaline. Like the Holowilena and Oraparinna IF, the Braemar IF sit comformably above the Pualco Tillite and occurs as laminated IF interbedded with calcareous siltstone and as thematrix component of glaciogenic diamictite containing striated boulders (Whitten, 1970). Unlike the correlative Holowilena and Oraparinna, the Braemar IF occurs asmeter-scale discrete beds. Recently, significant sub-surface occurrences of NIF (~4.2 billion tonnes) have also been found south-west of Broken Hill (Minotaur Exploration Limited, 2012) and ~150 km north of the Braemar occurrence."
+  }, {
+    "heading": "2.2. Northwestern North America",
+    "text": "The Rapitan Group of northwest Canada is the older of two discrete glaciogenic units in the thick andwell preserved upper Proterozoic sedimentary succession of northwestern Canada. It hosts the preeminent occurrence of Neoproterozoic syn-glacial iron formation, with an estimated regional reserve of some 18 billion tonnes (Dept. Energy, Mines & Resources et al. 2008). Due also to its excellent exposure and position within a thick and well preserved late Proterozoic sedimentary succession, the Rapitan Group is the best studied of the Neoproterozoic iron formations (Young, 1976; Eisbacher, 1981; Yeo, 1981). It is exposed in a Laramide fold and thrust belt along a 400 km arc from the Snake River area of the Wernecke Mountains in eastern Yukon to the Nahani River in the Mackenzie Mountains, Northwest Territories. Rapitan Group deposition was controlled by a series of N–NE trending faults that were active throughout the glaciation, resulting in significant across strike facies and thickness changes and the development of multiple syndepositional unconformities (Eisbacher, 1981). Glacial influence in\nsedimentation is demonstrated by the presence of striated and exotic clasts, dropstones and till pellets (Young, 1976; Yeo, 1981; Eisbacher, 1985).\nIn the Mackenzie Mountains in the southern part of the belt, the Rapitan Group is subdivided into the basal Mt. Berg Formation, Sayunei Formation, and Shezal Formation. The Mt. Berg Formation comprises glaciomarine diamictites and interfingers with the Sayunei Formation (Yeo, 1981). The Sayunei Formation consists mainly of ferruginous siltstone, with lesser sandstone, conglomerate, and debris flowdiamictites, and contains sporadic dropstones. Iron formation occurs in a typically b20 m thick zone (but exceptionally N100 m) at the top of the formation, inferred to record a sudden deepening event (Klein and Beukes, 1993). The overlying Shezal Formation is a thick (b600 m) succession of glaciomarine diamictites with clasts of iron formation at the base. In the Snake River/Crest region to the northwest, inferred to be a more proximal setting (Eisbacher, 1985), the Rapitan Group comprises almost entirely glaciomarine diamictites dominated by basalt clasts. Interbedded iron formation occurs as discrete intervals 0.5–20 m thick towards the base and adding up to ~100 m in total thickness. Clasts of iron formation are found within diamictites up to several hundred meters above the uppermost IF beds. The upper contact of the Rapitan Group is an angular unconformity with lower Paleozoic carbonates.\nInterlaminated hematite and jaspilite with minimal detrital component is the dominant iron formation facies in the Rapitan Group (Yeo, 1986; Klein and Beukes, 1993). The jaspilite occurs variably as coherent layers, lenses, and nodules (Fig. 2d). Other iron-rich facies include hematitic mudstone (ferrolutite) and iron-rich sandstone and diamictite. Secondary iron-rich carbonates, occur rarely, either as intact beds or replaced jaspilite nodules.\nThe Tatonduk iron formation (Fig. 2c) is exposedwithin the Tatonduk inlier that straddles the Yukon–Alaskan border. This iron formation consists of laminated iron formation and as amatrix component of diamictite. It rests atop ~300 m of basaltic lavas and volcanoclastic rocks. This unit is commonly correlated with the Rapitan Formation in the Wernecke and Mackenzie Mountains and was described by Macdonald et al. (2011) and Young (1982).\nBoth the Rapitan and Tatonduk occurrences form part of the developingmargin of Laurentia following the initial stages of rifting associatedwith the breakupof Rodinia (Young et al., 1979). Both are also closely associated with mafic lithologies Tatonduk IF sits atop basalt flows while Rapitan diamictites often contain abundant basaltic clasts. Furthermore, they are both temporally associated with volcanics (Mount Harper Volcanic Complex and Pleasant Creek Volcanics) with the same age as the Franklin large igneous province (Heaman et al., 1992; Macdonald et al., 2010a)."
+  }, {
+    "heading": "2.3. Chuos–Damara–Numees iron formation, Namibia",
+    "text": "The glacigenic Chuos Formation is the older of two distinct glacial units in the equivalent Otavi and Swakop groups of northern and central Namibia, respectively (Hoffmann and Prave, 1996), whichwere deposited during and following rifting on the southwesternmargin of the Congo craton. The Chuos Formation is highly heterogeneous, both in lithology and thickness, consisting mainly of glacial diamictite, shallow and deep water sandstone, and minor iron formation. Lava flows, mainly basaltic, are locally abundant near eruptive centers (Hoffmann and Prave, 1996). The high degree of lithological heterogeneity is due both to glacial influence and its deposition during active rifting on the southernmargin of the Congo craton (Henry et al., 1986). This extensional episode was long lived, lasting from ~760 to ~650 Ma (Hoffman and Halverson, 2008; McGee et al., 2012) and was most extreme to the south, where it gave way to opening of the Khomas seaway (Henry et al., 1990).\nThe Chuos Formation has been most heavily studied in the Damara belt of central Namibia, but also occurs widely in and peripheral to the Kaoko belt to the northwest (Hoffman and Halverson, 2008) and in the Otavi Mountainland, near Tsumeb (Hoffmann and Prave, 1996).\nThe glacial origin of the Chuos Formation is substantiated by abundant (but not ubiquitous) striated clasts, dropstones and diamictites containing diverse clasts. Iron formation occurs widely in northern Namibia. In the northwest, it is found bothwithin the core of the Kaoko belt, west of the Sessfontein Thrust and rarely in the Otavi fold and thrust belt to the east. It also occurs throughout the southern Damara belt, where it has been most extensively studied (Bühn et al., 1982; Breitkopf, 1988). However, IF occurrence is also highly variable and it is often absent, even in thick, well-developed Chuos sections (Miller, 2008). In rocks that have not been heavily metamorphosed, iron formation commonly occurs as beds of magnetite or hematite-rich siliceous rocks, in places with well-developed layering, but most often as massive, thin (b1.5 m) bands. In one region in the southernmost Damara belt, iron formation is interbedded with manganese formation in a series of cycles in which the latter was generally deposited in more proximal settings than the iron formation (Bühn et al., 1982).\nNeoproterozoic iron formation (Numees) also occurs in the Port Nolloth Group in the Gariep belt of southwestern Namibia (Kalahari craton). The basin evolution of the Port Nolloth Group is similar to that of the Damara orogen, with a middle Neoproterozoic (c. 750 Ma); (Frimmel et al., 1996) extensional basin, evolving into a passivemargin, then ultimately deformed during late Neoproterozoic assembly of west Gondwana. Iron formation in the Gariep basin occurs in the Jakkalsberg Member of the Numees Formation (Frimmel and Von Veh, 2003). The Numees Formation (apart from the Jakkalsberg Member) is up to 600 m thick and dominated by poorly stratified, thick-bedded diamictites. The Jakkalsberg Member comprises hematite jaspilite, ferruginous feldspathic sandstone, and chlorite schist (Frimmel, 2011), and contains dropstones unambiguously demonstrating a glacial influence. The age and correlation of the Numees Formation, complicated by structurewithin the Gariep belt, has been a subject ofmuch debate, with some authors arguing in favor of a Marinoan or younger age (e.g. Frimmel, 2011). However, recentmapping, assisted by chemostratigraphic correlation, indicates that the Numees Formation is most likely the older of two distinct glacial units in the Gariep belt (Macdonald et al., 2010b) and presumably correlative with the Chuos Formation in the Damara belt."
+  }, {
+    "heading": "2.4. Jacadigo Group, Brazil and Bolivia",
+    "text": "The best known NIF in South America occurs within the Jacadigo Group in the Corumbá region of southwestern Brazil and the correlative Boquí Formation in southeastern Bolivia. The Jacadigo and Boquí groups (hereafter referred to simply as the Jacadigo Group) were deposited in an extensional graben system developed on the boundary between the southeastern margin (present coordinates) of the Amazon craton and the Rio Apa block (Trompette et al., 1998). The Jacadigo Group rests on Archean basement and is overlain by Ediacaran-aged carbonates of the Corumbá Group (Gaucher et al., 2003). It is subdivided into the lower Urucum Formation and upper Santa Cruz Formation. The former comprises a variety of mostly carbonate-cemented siliciclastic facies, including black shale, siltstones, sandstones, and diverse coarse clastics, including diamictites (Urban et al., 1992; Trompette et al., 1998; Klein and Ladeira, 2004; Freitas et al., 2011). The Santa Cruz Formation consists dominantly of iron formation, as well as ferruginous sandstone and manganese formation. Whereas the Jacadigo Group is commonly interpreted as having been deposited in a dominantly marine environment with at least episodic glacial influence (Trompette et al., 1998), best demonstrated by dropstones within the manganese formation (Klein and Ladeira, 2004), Freitas et al. (2011) recently argued against a glacial influence during Jacadigo deposition. Although the Jacadigo Group is regarded by many authors as Marinoan in age (Gaucher et al., 2003), to the extent that it is associated with glaciation, available age constraints allow that it could equally be Sturtian in age.\nIron formation in the Santa Cruz Formation occurs mainly as wellstratified hematite jaspilite, with individual IF units up to 100 m thick (Freitas et al., 2011) and a maximum composite thickness of 270 m\n(Klein and Ladeira, 2004). Freitas et al. (2011) also described ooidal granular iron formation and IF-derived breccia. Manganese formation occurs variably as continuous, meter-scale tabular to anastomosing beds to nodules within coarse siliciclastic rocks and consists mainly of the mineral cryptomelane (K[Mn4+, Mn2+]8O16) (Freitas et al., 2011)."
+  }, {
+    "heading": "2.5. Yerbal iron formation, Uruguay",
+    "text": "The ~1500 m thick IF bearing Yerbal Formation is the basal formation of theArroyoDel SoldadoGroup and is composed of basal conglomerates, sandstones, pelites and carbonates (Pecoits et al., 2008). The IF is predominantly laminated and reaches a maximum thickness of ~50 m. The Yerbal Formation is separated from the underlying bimodal volcanics of the Las Ventanas Formation by an erosional unconformity (Pecoits, 2002). The Las Ventanas Formation has been interpreted to be glacially influenced due to the presence of outsized clasts within rhythmite facies (Pecoits et al., 2005). Whereas the Yerbal Formation had previously been considered middle Ediacaran in age (Pecoits et al., 2005), new age constraints suggest that it is instead considerably older, although still Neoproterozoic (Aubet et al., 2012, 2013)."
+  }, {
+    "heading": "2.6. Chestnut Hill iron formation, United States",
+    "text": "The Chestnut Hill Formation outcrops in the western New Jersey Highlands. The lower part of the formation consists of pebble to boulder conglomerate grading to interbedded metapelites, arkosic sandstone, volcanic and volcanoclastics and finally into diamictite (Gates and Volkert, 2004). Like themajority of IF of this age, theminerology is comparatively simple, being composed of hematite and minor magnetite. Gates and Volkert (2004) suggested the upper Chestnut Hill Formation might have been glacially influenced, but Volkert et al. (2010) revised this interpretation arguing instead that the IFwas hydrothermal and related to extension associated with the formation of continental basins where the source of Fe was interpreted to be deep Mesoproterozoic basement rocks."
+  }, {
+    "heading": "2.7. Arabian-Nubian Shield",
+    "text": "Widespread but discontinuous occurrences of IF stretch for ~300 km along the Red Sea coast of Egypt, but the only significantly documented IF occurrences of the Arabian-Nubian Shield (ANS) are in Wadi Karim and Um Anab, Egypt (Ali et al., 2009; Basta et al., 2011). The ANS IFs occur as m-scale (up to 12 m thick) laminated IF conformably interbedded with arc-related pyroclastics and lava flows. The IF itself is composed principally of hematite, magnetite and quartz with minor ankerite in some layers. The magnetite is euhedral to subhedral and is possiblymetamorphic rather than primary in origin. Unlikemagnetite, hematite is present as a very fine crystal phase. Metamorphic grade varies, but at UmAnab garnet and actinolite are present providing evidence for amphibolite facies metamorphism."
+  }, {
+    "heading": "2.8. Fulu Formation, South China",
+    "text": "Cryogenian iron formation occurs widely across south China, where it is the main source of iron ore. The iron formation is stratigraphically restricted to the lower Fulu Formation, which occurs above diamictites of the Chang'an within the Jiangkou Group the lower of two glaciogenic intervals in South China (Zhang et al., 2011).\nThe Fulu iron formation occurs between massive diamictites of the upper Chang'an Formation and arkosic arenite and greywacke with lonestones of the Liangjiehe Member of the Fulu Formation (Zhang et al., 2011). The Fulu IF has not been well described, but was evidently deposited in an evolving rift basin in intimate association with mafic volcanics, which comprise the main clast type within the IF (Tang et al., 1987). The Fulu IF appears to occur as altered basalt in some\nlocations, and as iron-rich beds within tuffs and tuffaceous arkoses and carbonates in proximal settings (Tang et al., 1987)."
+  }, {
+    "heading": "2.9. Other Neoproterozoic iron formations",
+    "text": "The above list of NIF is not exhaustive but does represent the most thoroughly documented occurrences. Other poorly documented or preserved occurrences have been reported in the Kingston Peak Formation of the United States, the Malyo Khingan and Lake Khanka formations of Russia, the Yara group of Togo and the Erzin Basin of Mongolia (Ilyin, 2009)."
+  }, {
+    "heading": "3. Age and geographic distribution of Neoproterozoic iron formation",
+    "text": ""
+  }, {
+    "heading": "3.1. Age constraints",
+    "text": "One of themore problematic components of NIF has been that there are no directly dated occurrences. Currently the best age constraint comes from northwest Canada, where an age of 716 ± 0.54 Ma (Macdonald et al., 2010a) was obtained from a felsic tuff within glacial diamictite of the Upper Mount Harper Group in the Ogilvie Mountains, Yukon. This unit is correlated (Macdonald et al., 2010a)with the Rapitan Group of the Wernecke and Mackenzie mountains, straddling the Yukon-Northwest Territories boundary, where the most extensive and best studied NIF occurs.\nThe Rapitan age is consistent with the reasonably constrained ages for NIF in Namibia and South China. The Chuos–Damara IF of centralnorthern Namibia is constrained to be younger than 746 ± 2 Ma (Hoffmann and Prave, 1996) and older than 635.5 ± 1.2 Ma (Hoffmann et al., 2004), which dates the younger of the Cryogenian glaciations. The possibly correlative Numees IF of southern Namibia is only directly constrained to be younger than 751.9 ± 5.5 Ma based on a U–Pb SHRIMP age on metarhyolites in the underlying Hilda Subgroup (Borg et al., 2003). However, (Macdonald et al., 2010b) argued for correlation with the Chuos Formation based on correlations supported by lithology and chemostratigraphy.\nThe Fulu IF of South China is radiometrically constrained by a U–Pb SHRIMP age of 725 ± 10 Ma on the upper Banxi Group (Zhang et al., 2008), just below the Jiangkou Group, and a U–Pb zircon discordia age of 663 ± 4 Ma on the lower Datangpo Formation, which occurs immediately above the Jiangkou Group and equivalent strata (Zhou et al., 2004). Hence, the Fulu Formation is of Sturtian age.\nRadiometric age constraints on other NIFs are looser. The Holowilena and equivalent NIF in South Australia is constrained by U–Pb zircon data to be younger than 792 ± 6 (Preiss et al., 2009) and by a Re–Os isochron to be older than 643 ± 2.4 (Kendall et al., 2006). TheUrucum iron formation of Brazil (Piacentini et al., 2007; Freitas et al., 2011) is younger than basement rocks that date to 889 ± 44 Ma (Hasui and Almeida, 1970) and older than 543 ± 3 Ma (Babinski et al., 2008). However, in the latest study on these Brazilian occurrences, Freitas et al. (2011) favored an Ediacaran age based on the appearance of Cloudina fossils in the overlying Tamengo Formation, which occurs three formations stratigraphically above the Urucum Formation. Recent 40Ar/40Ar dating of cryptomelane in the Urucum Mn-formation establishes a minimum depositional age for the Urucum sequence of 587 ± 7 Ma (Piacentini et al., 2013). If regional correlations between the Urucum and Puga Formations hold, then detrital zircon ages from the diamictites of the Puga Formation place a maximum deposition age of 706 ± 7 Ma (Babinski et al., 2013) on the IF. Previous studies of the possibly correlative Yerbal Formation in Uruguay suggested the presence of Cloudinia (Gaucher and Sprechmann, 1999; Pecoits et al., 2008), implying a late Ediacaran age. However, subsequent investigations have demonstrated that the Yerbal Formation is instead likely to be Cryogenian or Tonian in age (Aubet et al., 2012, 2013).\nThe Chestnut Hill IF, while considered to be ~600 Ma, is only constrained to be younger than the Mesoproterozoic and older than\nCambrian (Volkert et al., 2010). NIF has also been documented within the Arabian-Nubian Shield, both in Egypt and Saudi Arabia (Mukherjee, 2008; Basta et al., 2011). The Egyptian occurrences are Cryogenian in age, with the associated arc volcanics yielding ages of ~730 Ma (Ali et al., 2009).\nGlobal chemo- and lithostratigraphic correlations also help to refine the ages of the NIF. Specifically, the Chuos (Halverson et al., 2005), Numees (Macdonald et al., 2010b) and Rapitan (Macdonald et al., 2010a, 2011) iron formations all occur in glacial diamictites that overlie what is regarded to be the global, pre-glacial Islay negative δ13C anomaly (Halverson and Shields-Zhou, 2011). The Holowilena and Oraparinna IFs in South Australia (LeHeron et al., 2011a), Tatonduk IF (Macdonald et al., 2011) in Yukon, Fulu IF of South China (Tang et al., 1987) also occur in glacigenic sequences widely thought to correlate with the Sturtian glaciation. The Chestnut Hill IF and Urucum IF, which both contain a diamictite component originally interpreted to be glacial in origin (Klein and Ladeira, 2004), have been re-interpreted as gravity debris flows (Volkert et al., 2010; Freitas et al., 2011).\nIn summary, precise age constraints on NIFs are few but sufficient to establish that the South Australian, Namibian, Chinese, and northwestern Canada IFs at least were deposited during the earlier (Sturtian) glaciation. Arabian-Nubian Shield occurrences are also Cryogenian, but are not ostensibly associated with glaciation. The age constraints on the South American and Chestnut Hill Formation (USA) are insufficient to support or refute a Cryogenian age."
+  }, {
+    "heading": "3.2. Geographic distribution",
+    "text": "Neoproterozoic IF has been reported from every continent but Antarctica (Fig. 4) (Young, 2002; Ilyin, 2009), which is testament to the widespread development of ferruginous basins during this time period. Indeed, the global distribution of NIF (Fig. 4) and its close association with low latitude glaciations has been used as evidence in support of the Snowball Earth model (Kirschivink, 1992; Hoffman et al., 1998; Hoffman and Schrag, 2002). However, no NIF is known to occur in open marine basins on the margins of Rodinia (Torsvik, 2003; Li et al., 2013) (Fig. 4). Instead, the iron formations appear to occur in basins within Rodinia or in rift-basins developed on its margins. Hence, whole ocean anoxia, and a global, deep ocean ferrous iron reservoir, while consistentwith the distribution of NIFs, is not required to account for them."
+  }, {
+    "heading": "4. Geochemistry of Neoproterozoic iron formations",
+    "text": ""
+  }, {
+    "heading": "4.1. Major element characteristics",
+    "text": "Major element data is relatively abundant in studies of NIF but has generally been applied specifically to distinguish between hydrothermal and hydrogenous deposits. We have combined the available data from twelve separate sections of NIF (Rapitan, Tatonduk, Tindir, Numees, Holowilena, Oraparinna, Braemar, Damara, Snake River, Urucum and Chestnut Hill) and calculated inter-elemental Pearson correlation coefficients (Table 2) (Rodgers and Nicewander, 1988) and performed principal component analysis (Fig. 6 & Supplementary Table 4) (Wold et al., 1987), which demonstrates apparent positive and negative dependences between the major chemical components of these IFs. Such dependences allow us to interpret the data in terms of the likely components (e.g. hydrothermal fluids, detrital material, alteration, seawater) that deliver these elements to the site of deposition. Along with this statistical approach,we presentmajor element ratiosmeasuredwith respect to aluminum (Fig. 5) and compare these with typical shale values. Since aluminum in chemical sediments is predominantly supplied by detrital material, this normalization allows us to discriminate between detrital and chemical components in the elemental distribution within NIFs. If constraints can be placed on the likely elemental components,\ngeochemistry then becomes a powerful tool to interrogate models for NIF deposition.\n4.1.1. Major element correlation coefficients\n4.1.1.1. Iron, aluminum and titanium. Al and Ti show a strong positive correlation and both also correlate negatively with iron. This relationship points to an overwhelming component of orthochemical iron. Considering that typical detrital material has low Fe concentrations, a likely source for the Fe is hydrothermal fluids. Hydrothermal fluids have high Fe/Ti and Fe/Al ratios (Bostrom et al., 1969; Bostrom, 1970; Gurvich, 2006) due to Al being a 3+ and Ti a 4+ cation, which are both highly insoluble in seawater and resistant to hydrothermal alteration (Ti even more so because it resides in robust phases such as rutile). In contrast, Fe, which occursmainly in the 2+ state inmost igneous rocks, is more labile during alteration. The strong positive correlation between Al and Ti\nimplies that much of the Al and Ti may be derived from a detrital component.\n4.1.1.2. Iron, manganese and silica. Manganese, while generally found at concentrations of less than 1 wt.% (average = 0.81% MnO), is enriched by up to ~40% compared to average shale (Fig. 5). SometimesMn occurs within distinct manganiferous beds (Klein and Ladeira, 2004) while at others it is only apparent in the geochemistrywith no physical manifestation recognizable in the field. Manganese in its 2+ state is stable to higher oxidizing potentials than Fe (Glasby and Schulz, 1999), thus this enrichmentmay occur either during late stages of IF deposition during the progression of an iron-rich plume across a redoxcline or during deposition in shallower, more oxidizing environments. Alternatively, it may represent diagenetic mobilization of Mn, which has been documented inmodernmetalliferous sediments (Gurvich, 2006). Regardless of themechanism, and even ignoring those samples that show extreme Mnenrichments,Mn is uniformly enriched in comparison to typicalmarine sediments (Fig. 5). Silica is also uniformly enriched in these sediments (Fig. 5); SiO2/Al2O3 ratios, with few exceptions, are all high (N4.0). Such enrichments are typical of sediments with a significant hydrothermal component (Gurvich, 2006).\n4.1.1.3. Calcium and magnesium. Magnesium shows a strong positive correlation with Ca, but shows no correlation with any other element. This pattern suggests thatmost Ca andMg inNIFs is hosted by carbonate minerals. The lack of correlationwith either Fe or Al implies that the carbonate component is entirely unrelated to the processes involved in supplying Fe or Al to these rocks.\n4.1.1.4. Potassium and sodium. Strong positive correlations between K and both Al and Ti suggest that their mechanism of delivery within NIF is tightly coupled and inversely correlated to iron. These same correlations exist for sodium but are weaker and statistically less robust. Once again, because the main delivery mechanism for Al is most likely detrital material, it is reasonable to suggest that both K and Na are\n,\ns r -\nwhich may record a diagenetic overprint.\nalso sourced from detrital material. This is further supported by the shale-like enrichments of both K and Na with respect to Al (Fig. 5).\n4.1.1.5. Phosphorus. Phosphorous shows little correlation with other elements but is enriched when compared to typical marine shale. Given the lack of correlation with Al, detrital P should only account for a minimal fraction of the total P concentration. Furthermore, P does not correlate with other enriched elements (Fe, Si, andMn), implying that it may not be delivered with them. The only correlation that exists for phosphorus is a weak inverse correlation with respect to silica, possibly owing to the competitive absorption between phosphorus and silica onto iron oxyhydroxides (Konhauser et al., 2007b). Planavsky et al. (2010b) documented a high degree of P enrichment in NIFs and proposed that it was the result of high dissolved phosphate in seawater, possibly related to an enhanced post-glacial snowball Earth phosphate flux, a likely consequence of glacial resurfacing of continental surfaces (Swanson-Hysell et al., 2010)."
+  }, {
+    "heading": "4.1.2. Major element principal component analysis",
+    "text": "The interpretative value of principal component analysis (PCA) over correlation coefficients is that relationships between the principal components and the variables can be ascertained (i.e. the relative contribution of the variables to the principal components). Utilizing the major element variables of SiO2, TiO2, Al2O3, Fe2O3, MgO, CaO, K2O and P2O5, it can be seen that 80.2% of the major element variability can be explained by three principal components (Fig. 6). Principal component 1 (PC1), which accounts for ~43% of the variability in the data set, is dominantly a function of Al2O3, K2O and TiO2, and most likely reflects the detrital component of these rocks. Principal component 2 (PC2) is dominantly controlled by CaO andMgO, and hence likely reflects a carbonate component. Principal component 3 (PC3) is primarily a function of SiO2. Considering that SiO2 in NIF is present as nodules/concretions and deformed lenses that in some cases ultimately form layers, PC3 may reflect an authigenic component.\nFig. 6 shows that the correlations discussed previously are present in the principal component (PC) analysis. Strong relationships exist between Al2O3, K2O and TiO2 and likewise between CaO andMgO. However, the strong negative relationship between Fe2O3 and SiO2 apparent from correlation coefficients breaks down under PCA, indicating that\nthe two are not strongly related. The variability of P2O5 is not accounted for by the first three principal components.\n4.1.2.1. Rare earth elements. Rare earth element (REE) chemistry is often commonly applied to IFs as a proxy to trace the source of iron, but can also be used to understand depositional pathways. Specifically, REE profiles and anomalies offer indications of hydrothermal involvement, basin water redox conditions and the extent of seawater interaction. Full REE datasets are less abundant for NIFs and somewhat hindered by historic analytical difficulties in measuring certain elements. We review data from five NIF occurrences (Rapitan, Tatonduk, Numees, Holowilena and Oraparinna).\n4.1.2.2. LREE depletion. All reported REE data for NIF share a small characteristic depletion in light rare earth elements (LREE) when normalized to the PAAS shale composite (Fig. 7). Seawater also exhibits a strong LREE depletion (Fig. 7k) (Elderfield and Greaves, 1982; Piepgras and Jacobsen, 1992; Zhang and Nozaki, 1996), which is believed to result from the preferential scavenging of the LREEs (with respect to themiddle and heavy REEs). Such LREE depletion could be due to interaction with seawater, reflect the REE characteristics of the detrital load or record some combination of these two effects. Fig. 7 demonstrates that themagnitude of the LREEdepletion is variablewithin individual sections and between NIF occurrences, whichmost likely reflects differing detrital loads. That said, the combination of LREE depletion alongwith superchrondritic Y/Ho ratios (see next section) would suggest that NIF record seawater signatures that are variably but significantly masked by their detrital components.\nWhile broad rare earth element patterns are somewhat useful for understanding processes effecting the transport and sequestration of the REEs, specific REE anomalies can be more diagnostic. Because the REEs share similar chemical properties (i.e. ionic radius, 3+ oxidation state), they commonly plot as smooth lines when normalized to some reservoir, such as average shale (i.e. PAAS orNASC) or bulk earth. Exceptions to this pattern can occur for both Ce and Eu,which unlike the other REEs, have an additional oxidation state: 4+ for Cerium and 2+ for Europium. Where a change from the 3+ state occurs, Ce and Eu can be fractionated relative to the neighboring REEs, resulting in anomalies\nin normalized plots. While not strictly a REE, Y generally behaves in a similarmanner toHo, but interactionwith seawater can produce anomalous Y/Ho ratios.\n4.1.2.3. Y/Ho ratios. Superchrondritic Y/Ho ratios (Y/Ho ≥27.7) are common in NIF (Fig. 7), the mean Y/Ho ratio of all samples being 29.2 (n = 77). Such superchrondritic ratios are not present in the common geochemical reservoirs such as clastic sedimentary rocks (i.e. PAAS Nance and Taylor, 1976), upper continental crust (Taylor and McLennan, 1995) or oceanic crust (Sun and McDonough, 1989) because Y and Ho share similar ionic radii, charge density and oxidation state. Hydrothermal fluids also do not have superchrondritic Y/Ho ratios (Bau and Dulski, 1999; Douville et al., 1999), but seawater does (Fig. 7l), due to the higher particle reactivity of Ho, which results in it being preferentially scavenged from seawater (Bau et al., 1996; Bau and Dulski, 1999). Therefore, the elevated Y/Ho ratios are consistentwith the interpretation of the LREE depletion.\n4.1.2.4. Ce anomalies (Ce*CHUR). In themodern ocean, seawater contains a prominent negative cerium anomaly with respect to CHUR (Elderfield and Greaves, 1982; Zhang and Nozaki, 1996). This relative depletion in Ce results from the oxidation of Ce3+ to Ce4+ and incorporation into ferromanganese nodules and crusts (Elderfield et al., 1981; Nagender Nath et al., 1994), which conversely preserve positive cerium anomalies. Thus Ce*CHUR is sensitive to the redox state of the water column, because under oxic conditions, it is preferentially converted to Ce4+ and removed from seawater, whereas under anoxic conditions, it should behave like its neighboring REEs. Data on NIFs consistently show little to no Ce*CHUR, although in some sections a subtle trend towards positive Ce*CHUR is evident (Fig. 8). This trend is similar to that observed in Archean and early Paleoproterozoic iron formations (Planavsky et al., 2010a). The fact that there is variation in Ce* points to active Ce redox cycling which is possibly complicated by a detrital load.\nPlanavsky et al. (2010a) argued that variability in LREE/MREE, Y/Ho and evidence for Ce redox cycling are common characteristics of a modern-like, redox stratified ocean rather than a pervasively anoxic water column. Despite the complication of detrital material, the significant variability of LREE/MREE, Y/Ho ratios, andmore subtle variations in Ce*CHUR similarly imply NIF deposition within redox stratified rather than entirely anoxic basins.\n4.1.2.5. Eu anomalies (Eu*CHUR). Positive Eu anomalies are diagnostic of a hydrothermal component in chemical sediments. Hydrothermal fluids commonly display prominent positive Eu anomalies due to\nthe albitization of plagioclase (Klinkhammer et al., 1994), which has a positive Eu anomaly due to its incorporation of substantial amounts of Eu2+ (Weill and Drake, 1973; Ching-oh et al., 1974; Drake and Weill, 1975). Indeed, the REE patterns of high temperature hydrothermal fluids suggest that the REE characteristics of these fluids are almost entirely controlled by the alteration of igneous plagioclase (Klinkhammer et al., 1994; Douville et al., 1999). Eu anomalies in NIF range from 0.47 to 0.86, which is inconsistent with a significant hydrothermal component. However, this interpretation may be overly simplistic. The absence of a positive Eu anomaly may not diagnose the absence of a hydrothermal component, because hydrothermal plumes interact with numerous rare earth element reservoirs such as seawater (negative Eu*CHUR), basalt (no Eu*CHUR) and terriginous sediments (negative Eu*CHUR) that may dilute the primary hydrothermal signature. For example, the Eu*CHUR of many near-ridge metalliferous deposits which were clearly sourced from a hydrothermal plume are commonly much smaller than those observed in the corresponding hydrothermal fluid (Klinkhammer et al., 1994; Douville et al., 1999), or in some cases negative (Barrett and Jarvis, 1988; Gamo et al., 2001; Bodei et al., 2008). Further complicating the use of Eu anomalies is the fact that low temperature hydrothermal fluids do not display positive Eu anomalies (Sverjensky, 1984; Danielson et al., 1992; Wheat et al., 2002; Alexander et al., 2008).\nHydrothermal fluids containing no positive Eu anomaly have been interpreted to be the result of extensive seawater interaction or mixing with continental material (Douville et al., 1999). Such extensive mixing of NIF with both sediments and seawater (both with negative Eu*CHUR) is strongly supported. Shale-like Al, K and Na enrichments (Fig. 5) point towards a non-trivial detrital component, whereas the variability in Eu*CHUR itself is most readily explained by a variable detrital contribution. This argument is strengthened by the variable LREE depletion and Y/Ho ratios, which imply varying seawater contributions. Hence, while positive Eu anomalies in NIF likely point to a hydrothermal source, their absence is not sufficient to rule out such a source.\n4.1.2.6. Iron isotopes. Iron isotope data on NIF is currently limited to two data sets from Halverson et al. (2011) and Planavsky et al. (2012). The more comprehensive and stratigraphically integrated data set of from Halverson et al. (2011) for the Rapitan IF show a systematic upsection trend in δ57Fe from ~−0.7 to 1.2‰. This trend cannot be not readily explained by a residual ferrous iron pool modified by the isotopic fractionation entailed in iron oxidation, because iron oxidation produces 57Fe-enriched iron oxyhydroxides (Bullen et al., 2001; Skulan et al., 2002). However, the Rapitan δ57Fe trend is coupled to an increase inwater depth, andHalverson et al. (2011) interpreted it as the result of the dynamic nature of this oxidative process in which upward diffusion of iron results in an isotopic gradient in which isotopically heavy iron (57Fe enriched) is enriched in the lower parts of the chemocline, as seen in modern Lake Nyos, Cameroon (Teutsch et al., 2009). A more thorough model to account for the iron isotope composition of NIF will require additional data from other basins."
+  }, {
+    "heading": "5. Models for the formation of Neoproterozoic iron formation",
+    "text": ""
+  }, {
+    "heading": "5.1. Sedimentary exhalative-rifting",
+    "text": "Several authors (Breitkopf, 1988; Eyles and Januszczak, 2004; Volkert et al., 2010; Freitas et al., 2011) have noted the close association between NIF and rifting and suggested a genetic link. These models invoke the likely restricted nature of these basins and a dominant hydrothermal component to explain iron formation occurrences. In all cases these models invoke hydrothermal fluids migrating along major basin-forming faults. Subsequent mixing with oxygenated waters results in the precipitation of iron oxyhydroxides and the deposition of the iron formation as a part of the sedimentary sequence. Mid-ocean ridge type hydrothermal circulation is not proposed in these models,\nhence iron formation is essentially regarded as a stratiform-type exhalative deposit.\nIn his study of the Chuos–Damaran IF, Breitkopf (1988) expanded upon the sedimentary exhalative model to include mafic volcanism as the principal driver of hydrothermal activity resulting in iron formation deposition. However, not all NIFs are spatially closely related to basalts. For example, the Holowilena, Oraparinna, and Braemar IF (South Australia) and the Rapitan (Canada) do not occur in sequences that contain or ostensibly rest atop basalt flows. However, as noted previously, these units do contain a significant if not dominant percentage of basalt clasts, indicating that large basalt flows did occur within the catchment area and inferentially, significant mafic detritus was delivered to the corresponding basins."
+  }, {
+    "heading": "5.2. Snowball Earth",
+    "text": "In the snowball Earth model, anoxia is the consequence of severely curtailed primary productivity and sealing the oceans off from the atmosphere (Kirschivink, 1992; Klein and Beukes, 1993; Hoffman et al., 1998). Global glaciationwould have significantly reduced riverine sulfate delivery to the oceans, possibly causing a shift from the anhydrite– magnetite redox buffer of hydrothermalfluids, resulting in hydrothermal fluids having higher Fe/S ratios (Kump and Seyfried, 2005). Lower global sea level could also have depressurized mid-ocean ridges, which would also induce higher Fe/S ratios in hydrothermal fluids (Kump and Seyfried, 2005). Furthermore, widespread glaciation would have scoured the interior of the continents, delivering sediment with a relatively high ratio or iron to sulfur (Swanson-Hysell et al., 2010). All of these effects would have favored ferruginous (Fe2+/H2S N2) over euxinic (Fe2+/H2S b2) oceans, consistent with Canfield et al.'s (2008) proposed Neoproterozoic switch from euxinic to ferruginous deep oceans.\nAn implicit prediction of the snowball Earth model is that IF was deposited during glacial meltback, when reinvigorated ocean circulation mixed deep, anoxic waters into oxic surface waters (Kirschivink, 1992; Klein and Beukes, 1993). Alternatively, iron formation could have been deposited during peak snowball conditions near photosynthetic oases (Hoffman and Schrag, 2002) orwhere oxygenatedmeltwater flowed into the ocean (Halverson et al., 2011). In any event, the implicit source of iron in the snowball model is hydrothermal, which is able to accumulate throughout the global deep ocean during the snowball event."
+  }, {
+    "heading": "5.3. Anoxic sub-glacial outwash",
+    "text": "Blood Falls is a sub-glacial outwash of Taylor Glacier, Antarctica, that is enriched in ferrous Fe (Mikucki et al., 2009). Studies on this hypersaline, sulfate-rich brine have revealed that it is reducing (Eh = 0.09 V), with a circum-neutral pH and a diverse microbial community. The brine contains Fe at concentrations of ~200 ppm, which precipitates goethite uponmixingwith oxygenated waters. The iron is derived fromglacial scouring and dissolution of bedrock under relatively lowpH conditions (pH = 6.2), and stable isotopic data indicate a prominent role for dissimilatory iron reduction in the cycling of iron in this system. Mikucki et al. (2009) argued that Blood Falls may be an analog for NIF, and Hoffman et al. (2011) raised the possibility that like the waters flowing to Blood Falls, snowball seawater could have been anoxic and sulfate-rich. However, because Blood Falls is the only documented ferrous glacial outwash system, it seems unlikely that it can account for the voluminous IF found, for example, in the Rapitan Group."
+  }, {
+    "heading": "5.4. Sulfur limitation",
+    "text": "As discussed earlier, one depositional constraint on the formation of ferruginous oceans and ultimately the deposition of iron formation is\nthe requirement for the ratio of H2S to Fe2+ to be less than 2. Inmodern anoxic waters (i.e. Black Sea), this condition does not occur and iron is removed instead through pyrite precipitation (Berner, 1984; Boesen and Postma, 1988; Poulton and Raiswell, 2002). This prevalence of euxinic or semi euxinic conditions rather than ferruginous conditions is also a characteristic of the Cretaceous ocean anoxic events in which the sedimentary record preserves black and bituminous shales rather than iron formation (Jenkyns, 1980).\nUnlike modern anoxic basins where sulfidic conditions prevail, Canfield et al. (2008) argued based on iron speciation data from Cryogenian and Ediacaran sediments that anoxic and ferruginous conditions prevailed throughout this time period and suggested this could only be achieved through either limited S delivery to the oceans or increased Fe delivery (or a combination of both). These conditions could have been accomplished through decreased sulfate delivery to oceans, possibly due to glacially induced lower riverine input of sulfate or a decreased continental sulfur reservoir. An implication of this reduced sulfate delivery would also be an increase in the Fe/S ratio of hydrothermal fluids due to sulfate-controlled changes in redox conditions at midocean ridges (Kump and Seyfried, 2005). Kump and Seyfried (2005) showed that lower sulfate levels have a considerable affect on the Fe concentration of hydrothermal fluids which become fayalite–pyrrohotite– magnetite buffered rather than anhydrite–magnetite buffered, with a resulting increase in the concentration of Fe in fayalite–pyrrohotite– magnetite buffered hydrothermal fluids. Consequently in this model, NIF iron accumulation results from a combination of low S delivery and increased Fe delivery at a timewhen the deep oceanswere already anoxic. The main difference between this model and the “Snowball Earth” model is that the latter relies on glaciation to produce anoxic waters in the first place."
+  }, {
+    "heading": "5.5. Continental resurfacing",
+    "text": "Swanson-Hysell et al. (2010) argued that scouring of the continents by Sturtian-aged ice sheets could have triggered a shift to ferruginous oceans. Following prolonged weathering and regolith development, the interior of the Rodinian supercontinent would have been largely inert to chemical weathering. Scouring by continental ice sheets would have removed the veneer of regolith, hence exposing fresh bedrock to physical and chemicalweathering. Due to relatively high Fe:S ratios in the bulk upper continental crust, global glaciation could have triggered the switch from euxinic to ferruginous oceans. Insofar as this model might be applied to explaining NIF, two key predictions are that NIF should strictly postdate the onset of the first global glaciation and that the source of iron should be continental."
+  }, {
+    "heading": "5.6. Silled basins",
+    "text": "The restricted nature of many of the NIF basins raises the possibility that basin architecture plays a role in their occurrence. Baldwin et al. (2012) proposed that NIF are the result of partially restricted ice covered basins inwhich local anoxia is able to develop due to ice cover. Glacially derived Fe from continental material, as opposed to hydrothermal iron, is invoked as the dominant Fe source due to the lack of positive Eu anomalies. Baldwin et al. (2012) suggest the reactive iron is delivered as nanoparticulate iron oxyhydroxides (cf. Poulton and Raiswell, 2002), which is then reduced in an anoxic basin by iron-reducing bacteria. In their model, subsequent oxidation occurred during glacial retreat and oxygenation of basinwaters. In substance, if not scale, thismodel is similar to the snowball Earth model in that iron formation was deposited during meltback in a basin that was anoxic due to ice cover. It differs, however, in that it requires only local basin anoxia, which develops due to restriction of these basins (or sub-basins) by lowering of sea level below basin-bounding sills."
+  }, {
+    "heading": "6. Discussion",
+    "text": ""
+  }, {
+    "heading": "6.1. Depositional time constraints",
+    "text": "The best characterized NIF in terms of total iron comes from the Crest deposit of the Rapitan iron formation in Yukon, Canada. This occurrence has been investigated for resource potential and is estimated to contain 7.7 × 1012 kg of Fe (18 billion tons at 43% Fe) hosted principally by hematite (Dept. of Energy Mines et al., 2008). Based on the fluxes estimated for the SouthernOcean (Table 1), it is possible to establish some broad time constraints required to build up the dissolved Fe reservoir necessary to deposit an iron formation of the magnitude of the Crest deposit. The calculation (Table 3) assumes that the dissolved Fe reservoir firsts builds up prior to being oxidized geologically instantaneously (i.e. in a single upwelling event).\nAdmittedly, the Southern Ocean is not a realistic analog, given that the Rapitan iron formation was deposited in individual fault-bound basins, either as rift grabens or small transtensional basins (Baldwin et al., 2012;Macdonald et al., 2012) However, even reducing these fluxes by a conservative factor of 10 to account for the significant difference in scale results in unrealistic time spans for the ice (N70 Myr) and dust (N17 Myr) sources. Of the currently recognized major iron sources, it follows that only the hydrothermal or sediment pore water fluxes could possibly account for the mass of iron in the Rapitan IF."
+  }, {
+    "heading": "6.2. Major element constraints",
+    "text": "Geochemical models to explain NIF must explain the major element geochemical patterns, namely enrichments of Fe, Si, Mn and P that are distinct from shales, along with shale-like enrichments of Ti, Mg, Na and K. It is well known that Fe, Si and Mn are enriched components of both high and low temperature hydrothermal fluids (Gurvich, 2006) and this has been shown experimentally to be the result of interaction of seawater with basalt or basaltic detritus (Bischoff and Dickson, 1975). Consequently, while not the only possibility, it is a parsimonious explanation for these enrichments. These major element enrichments make models that do not involve a significant hydrothermal component, whether from a low temperature (i.e. leaching from margin sediments) or a high temperature hydrothermal component (i.e. mid ocean ridge style circulation), somewhat problematic. Consequently, hydrothermally sourced Fe, Si and Mn coupled with clay like enrichments of Ti, Na and K strongly suggest that NIF are a binary mixture of hydrothermal and detrital components.\nBostrom et al. (1969) and Bostrom (1970) found that near-ridge metalliferous sediments are binary mixtures and used the major element ratios of Fe/Ti and Al/[Al + Mn + Fe] to show that such deposits were a mixture of a hydrothermal end-member and detrital material. Based on the major element relationships discussed above, we have plotted Fe/Ti vs. Al/[Al + K + Na + Fe + Mn + Ti] along with binary mixing curves between a pure hydrothermal precipitate and differing sources of detrital matter (Fig. 9), which demonstrate a similar binary relationship However, the detrital component does not seem to be typical clays as represented by the PAAS shale composite (Nance and\nTaylor, 1976; Taylor and McLennan, 1985), but rather more closely resembles basalt and/or volcanogenic sediments."
+  }, {
+    "heading": "6.3. Iron isotopes",
+    "text": "Whereas the iron isotope dataset for NIF is small, three important points can be made at this point in the application of iron isotopes to NIF. First, iron isotopes cannot yet be used to distinguishing between oxidative pathways due to the similar fractionation involved in all of these processes (Anbar, 2004; Icopini et al., 2004; Crosby et al., 2007). Second, the single NIF study highlights the fact that in the case of the Rapitan IF, the un-interrupted trend to heavier δ57Fe would seem to require a single non-replenished Fe source, at least for this particular iron formation occurrence. Third, this study highlights the necessity to have stratigraphic context to thesemeasurements, as sedimentary processes, in particular relative sea level fluctuations, need to be considered in the interpretation of δ57Fe patterns."
+  }, {
+    "heading": "6.4. Synchronicity",
+    "text": "The oldest robust age constraints for NIF are the dates on the Rapitan Group of ~711–716 Ma. Whereas there are no age data to confirm a younger age,many researchers have argued for a late Cryogenian or Ediacaran age for some of the NIFs. Given the available age constraints, NIFs could span up to 150 Myr. On the other hand, as has been previously discussed, many IFs appear to be Cryogenian, specifically Sturtian in age. Synchronicity is therefore conceivable for at least a subset of the NIFs. Given that these NIFs tend to occur within a specific interval of complex glacial sequences, it is likely that iron formation deposition was short-lived relative to the glaciation (Halverson et al., 2011). Were they synchronous, then the NIFs should have formed at the end of glaciation, as predicted by the snowball Earth model. However, given the apparent longevity of the Sturtian glaciation and lack of firm geochronological or stratigraphic evidence to place IF at the very end of this glacial epoch, models that allow for the NIFs to form synglacially, but at different times in different basins, need to be considered.\n6.5. Role of mafic magmatism and hydrothermal activity\nMany tectonic, sedimentary and geochemical similarities exist between NIF occurrences. In particular, the sedimentary similarities between definitively glacially influenced basins are striking (i.e. Rapitan, Chuos, Numees, Braemar, Oraparinna and Holowilena). However, the\nEgyptian occurrences, which are associated with volcanics and volcaniclastic mélange, demonstrate that NIF need not be exclusively associated with glaciation. On the other hand, all known NIFs occur either in rift-basins (Chuos, Yerbal, Oraparinna, Holowilena, Braemar, Rapitan) or are otherwise intimately associated with mafic volcanism (i.e. Tatonduk, Chestnut Hill, Damara, Wadi Karim, Urucum). This motif suggests that some combination of hydrothermal activity, mafic volcanism and/or a preponderance of mafic crust to weather may be key pre-conditions for NIF deposition. Similarly, modern metalliferous deposits are also intimately associatedwith rifting andmafic volcanism. The combination of volcanism and associated hydrothermal flux with a preponderance of mafic substrates exposed to sub-aerial, sub-glacial and sub-aqueous weathering could drive substantially higher iron fluxes. In principle, the weathering of mafic rocks could result in a significantly enhanced potential for iron delivery as iron is more readily scavenged from mafic minerals, which are more reactive and have significantly higher Fe contents than felsic minerals. Hence basalts may be a key to iron's dominance over sulfur and the development of ferruginous conditions in the middle Neoproterozoic."
+  }, {
+    "heading": "7. Conclusion",
+    "text": "Although most NIFs are Cryogenian in age and were likely deposited during the same glacial epoch, current age constraints allow that the ensemble of Neoproterozoic iron formationwas deposited over as much as 150 Myr. Although it is possible that the Urucum IF is late Cryogenian (Marinoan) in age, there is no incontrovertible evidence to support this age assignment. Geochemical data indicate that NIFs are the result of mixing between a hydrothermal and detrital component, while rare earth element data indicate extensive interactionwith seawater.Whereas ice cover may have promoted local if not global deep water anoxia, to the extent that the deep oceans were previously euxinic, then the accumulation of NIFs may have required only a shift to higher Fe:S ratios, rather than the development of anoxic deep waters. Whereas anoxia is still required, it seems as if the partnership between rifting, mafic volcanism, and likely glaciation tipped the balance towards ferruginous conditions and the Neoproterozoic reprise of iron formation.\nSupplementary data to this article can be found online at http://dx. doi.org/10.1016/j.chemgeo.2013.08.002."
+  }, {
+    "heading": "Acknowledgments",
+    "text": "This work was supported by NSERC Discovery and Northern Research Supplement grants to GPH, the Yukon Geological Survey and a Vanier of Canada Scholarship to GMC. The authors thank the four anonymous reviewers for improvements suggested to the original manuscript."
+  }],
+  "year": 2013,
+  "references": [{
+    "title": "Determination of iron in seawater",
+    "authors": ["E.P. Achterberg", "T.W. Holland", "A.R. Bowie", "R.F.C. Mantoura", "P.J. Worsfold"],
+    "venue": "Anal. Chim. Acta",
+    "year": 2001
+  }, {
+    "title": "Continentally-derived solutes in shallow Archean seawater: rare earth element and Nd isotope evidence in iron formation from the 2.9 Ga Pongola Supergroup, South Africa",
+    "authors": ["B.W. Alexander", "M. Bau", "P. Andersson", "P. Dulski"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 2008
+  }, {
+    "title": "Geochemistry, Nd isotopes and U/Pb SHRIMP zircon dating of Neoproterozoic volcanic rocks from the Central Eastern Desert of Egypt: new insights into the 750 Ma crust-forming event",
+    "authors": ["K.A. Ali", "R.J. Stern", "W.I. Manton", "Kimura", "J.-I", "H.A. Khamees"],
+    "venue": "Precambrian Res",
+    "year": 2009
+  }, {
+    "title": "Iron stable isotopes: beyond biosignatures",
+    "authors": ["A.D. Anbar"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2004
+  }, {
+    "title": "Chemostratigraphic constraints on early Ediacaran carbonate ramp dynamics, Río de la Plata craton, Uruguay",
+    "authors": ["Aubet", "N.R"],
+    "venue": "Gondwana Res",
+    "year": 2012
+  }, {
+    "title": "Reply to Comment by C. Gaucher et al. on “Chemostratigraphic constraints on early Ediacaran carbonate ramp dynamics, Río de la Plata craton, Uruguay",
+    "authors": ["Aubet", "N.R"],
+    "venue": "byAubet et al. GondwanaResearch",
+    "year": 2013
+  }, {
+    "title": "U–PB SHRIMP geochronology and isotope chemostratigraphy (C, O, Sr) of the Tamengo Formation, Southern Paraguay Belt, Brazil, VI South American Symposium on Isotope Geology",
+    "authors": ["M Babinski"],
+    "venue": "Book of Abstracts.San Carlos de Bariloche",
+    "year": 2008
+  }, {
+    "title": "Detrital zircon ages and geochronological constraints on the Neoproterozoic Puga diamictites and associated BIFs in the southern Paraguay Belt, Brazil",
+    "authors": ["M. Babinski", "P.C. Boggiani", "R.I.F. Trindade", "C.M. Fanning"],
+    "venue": "Gondwana Res",
+    "year": 2013
+  }, {
+    "title": "A new depositional model for glaciogenic Neoproterozoic iron formation: insights from the chemostratigraphy and basin configuration of the Rapitan iron formation",
+    "authors": ["G.J. Baldwin", "E.C. Turner", "B.S. Kamber"],
+    "venue": "Can. J. Earth Sci",
+    "year": 2012
+  }, {
+    "title": "Rare-earth element geochemistry of metalliferous sediments from DSDP Leg 92: the East Pacific Rise transect",
+    "authors": ["T.J. Barrett", "I. Jarvis"],
+    "venue": "Chem. Geol",
+    "year": 1988
+  }, {
+    "title": "Metalliferous sediments from DSDP Leg 92: the East Pacific Rise transect",
+    "authors": ["T.J. Barrett", "P.N. Taylor", "J. Lugoqski"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1987
+  }, {
+    "title": "Petrology and geochemistry of the banded iron formation (BIF) of Wadi Karim and Um Anab, Eastern Desert, Egypt: implications for the origin of Neoproterozoic BIF",
+    "authors": ["F.F. Basta", "A.E. Maurice", "L. Fontbote", "Favarger", "P.-Y"],
+    "venue": "Precambrian Res",
+    "year": 2011
+  }, {
+    "title": "Comparing yttrium and rare earths in hydrothermal fluids from the Mid-Atlantic Ridge: implications for Y and REE behaviour during near-vent mixing and for the Y/Ho ratio of Proterozoic seawater",
+    "authors": ["M. Bau", "P. Dulski"],
+    "venue": "Chem. Geol",
+    "year": 1999
+  }, {
+    "title": "Comparison of the partitioning behaviours of yttrium, rare earth elements, and titanium between hydrogenetic marine ferromanganese crusts and seawater",
+    "authors": ["M. Bau", "A. Koschinsky", "P. Dulski", "J.R. Hein"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1996
+  }, {
+    "title": "Fe isotope variations in themodern and ancient Earth and other planetary bodies",
+    "authors": ["B.L. Beard", "C.M. Johnson"],
+    "venue": "Rev. Mineral. Geochem",
+    "year": 2004
+  }, {
+    "title": "Application of Fe isotopes to tracing the geochemical and biological cycling of Fe",
+    "authors": ["Beard", "B.L"],
+    "venue": "Chem. Geol",
+    "year": 2003
+  }, {
+    "title": "Limits of the natural environment in terms of pH and oxidation–reduction potentials",
+    "authors": ["Becking", "L.G.M.B", "I.R. Kaplan", "D. Moore"],
+    "venue": "J. Geol",
+    "year": 1960
+  }, {
+    "title": "Dating the rise of atmospheric oxygen",
+    "authors": ["A Bekker"],
+    "venue": "Nature",
+    "year": 2004
+  }, {
+    "title": "Iron formation: the sedimentary product of a complex interplay among mantle, tectonic, oceanic, and biospheric processes",
+    "authors": ["A Bekker"],
+    "venue": "Econ. Geol",
+    "year": 2010
+  }, {
+    "title": "The distribution and stabilisation of dissolved Fe in deep-sea hydrothermal plumes",
+    "authors": ["Bennett", "S.A"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2008
+  }, {
+    "title": "Reaction pathways in the Fe–S system below 100 C",
+    "authors": ["L.G. Benning", "R.T. Wilkin", "H.L. Barnes"],
+    "venue": "Chem. Geol",
+    "year": 2000
+  }, {
+    "title": "Sedimentary pyrite formation: an update",
+    "authors": ["R.A. Berner"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1984
+  }, {
+    "title": "Seawater–basalt interaction at 200 C and 500 bars: implications for origin of sea-floor heavy-metal deposits and regulation of seawater chemistry",
+    "authors": ["J.L. Bischoff", "F.W. Dickson"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 1975
+  }, {
+    "title": "Characterization of metalliferous sediment from a low-temperature hydrothermal environment on the Eastern Flank of the East Pacific Rise",
+    "authors": ["S. Bodei", "M. Buatier", "M. Steinmann", "T. Adatte", "C.G. Wheat"],
+    "venue": "Mar. Geol",
+    "year": 2008
+  }, {
+    "title": "Pyrite formation in anoxic environments of the Baltic",
+    "authors": ["C. Boesen", "D. Postma"],
+    "venue": "Am. J. Sci",
+    "year": 1988
+  }, {
+    "title": "Geology of the Skorpion Supergene zinc deposit, Southern Namibia",
+    "authors": ["G. Borg", "K. Kärner", "M. Buxton", "R. Armstrong", "S.W. Van der Merwe"],
+    "venue": "Econ. Geol",
+    "year": 2003
+  }, {
+    "title": "Submarine volcanism as a source for iron",
+    "authors": ["K. Bostrom"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 1970
+  }, {
+    "title": "The origin and fate of ferromanganoan active ridge sediments",
+    "authors": ["K. Bostrom"],
+    "venue": "Stockh. Contrib. Geol",
+    "year": 1973
+  }, {
+    "title": "Aluminum-poor ferromanganoan sediments on active oceanic ridges",
+    "authors": ["K. Bostrom", "M.N.A. Peterson", "O. Joensuu", "D.E. Fisher"],
+    "venue": "J. Geophys. Res",
+    "year": 1969
+  }, {
+    "title": "Hydrothermal iron in the deep western South Pacific. Geochim. Cosmochim",
+    "authors": ["E. Boyle", "W.J. Jenkins"],
+    "venue": "Acta A107",
+    "year": 2008
+  }, {
+    "title": "Iron formations related to mafic volcanism and ensialic rifting in the southern margin zone of the Damara Orogen, Namibia",
+    "authors": ["J.H. Breitkopf"],
+    "venue": "Precambrian Res",
+    "year": 1988
+  }, {
+    "title": "Dissolved iron speciation in two distinct river plumes and an estuary: implications for riverine iron supply",
+    "authors": ["K.N. Buck", "L.C. Maeve", "C.J.M. Berger", "K.W. Bruland"],
+    "venue": "Limnol. Oceanogr",
+    "year": 2007
+  }, {
+    "title": "Late Proterozoic outer shelf manganese and iron deposits at Otjosondu (Namibia) related to the Damaran oceanic opening",
+    "authors": ["B. Bühn", "I.G. Stanistreet", "M. Okrusch"],
+    "venue": "Econ. Geol",
+    "year": 1982
+  }, {
+    "title": "Demonstration of significant abiotic iron isotope fractionation",
+    "authors": ["T.D. Bullen", "A.F. White", "C.W. Childs", "D.V. Vivit", "M.S. Schulz"],
+    "venue": "in nature. Geology",
+    "year": 2001
+  }, {
+    "title": "Precambrian solution photochemistry, inverse segregation, and banded iron",
+    "authors": ["A.G. Cairns-Smith"],
+    "venue": "formations. Nature",
+    "year": 1978
+  }, {
+    "title": "The Early history of atmospheric oxygen: homage to Robert M",
+    "authors": ["D.E. Canfield"],
+    "venue": "Garrels. Annu. Rev. Earth Planet. Sci",
+    "year": 2005
+  }, {
+    "title": "Late Proterozoic rise in atmospheric oxygen concentration inferred fromphylogenetic and sulphur-isotope studies",
+    "authors": ["D.E. Canfield", "A. Teske"],
+    "venue": "Nature",
+    "year": 1996
+  }, {
+    "title": "Ferruginous conditions dominated later Neoproterozoic deepwater chemistry",
+    "authors": ["Canfield", "D.E"],
+    "venue": "Science",
+    "year": 2008
+  }, {
+    "title": "How Earth's atmosphere evolved to an oxic state: a status report",
+    "authors": ["D.C. Catling", "M.W. Claire"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2005
+  }, {
+    "title": "Phase partitioning and solubility of iron in natural seawater controlled by dissolved organic matter",
+    "authors": ["M. Chen", "Wang", "W.-X", "L. Guo"],
+    "venue": "Global Biogeochem. Cycles",
+    "year": 2004
+  }, {
+    "title": "Distribution coefficients of Eu and Sr for plagioclase-liquid and clinopyroxene-liquid equilibria in oceanic ridge basalt: an experimental study",
+    "authors": ["S. Ching-oh", "R.J. Williams", "S. Shine-soon"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1974
+  }, {
+    "title": "Geochemical effects of decoupled fractional crystallization and crustal assimilation",
+    "authors": ["J.W. Cribb", "M. Barton"],
+    "venue": "Lithos",
+    "year": 1996
+  }, {
+    "title": "The mechanisms of iron isotope fractionation produced during dissimilatory Fe(III) reduction by Shewanella putrefaciens and Geobacter sulfurreducens",
+    "authors": ["H.A. Crosby", "E.E. Roden", "C.M. Johnson", "B.L. Beard"],
+    "venue": "Geobiology",
+    "year": 2007
+  }, {
+    "title": "The europium anomalies in banded iron formations and the thermal history of the oceanic crust",
+    "authors": ["A. Danielson", "P. Möller", "P. Dulski"],
+    "venue": "Chem. Geol",
+    "year": 1992
+  }, {
+    "title": "Yttrium and rare earth elements in fluids from various deep-sea hydrothermal systems",
+    "authors": ["E Douville"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1999
+  }, {
+    "title": "Partition of Sr, Ba, Ca, Y, Eu2+, Eu3+, and other REE between plagioclase feldspar and magmatic liquid: an experimental study",
+    "authors": ["M.J. Drake", "D.F. Weill"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1975
+  }, {
+    "title": "Geochemical Model for the origin of Precambrian banded iron formations",
+    "authors": ["J.I. Drever"],
+    "venue": "Geol. Soc. Am. Bull",
+    "year": 1974
+  }, {
+    "title": "Sedimentary tectonics and glacial record in theWindermere Supergroup, Mackenzie Mountains, northwestern Canada. Geological Survey of Canada Paper 80–27",
+    "authors": ["G.H. Eisbacher"],
+    "year": 1981
+  }, {
+    "title": "Late Proterozoic rifting, glacial sedimentation, and sedimentary cycles in the light of Windermere deposition, Western Canada",
+    "authors": ["G.H. Eisbacher"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 1985
+  }, {
+    "title": "The rare earth elements in seawater",
+    "authors": ["H. Elderfield", "M.J. Greaves"],
+    "venue": "Nature",
+    "year": 1982
+  }, {
+    "title": "Mid ocean ridge hydrothermal fluxes and chemical composition of the ocean",
+    "authors": ["H. Elderfield", "A. Schultz"],
+    "venue": "Annu. Rev. Earth Planet. Sci",
+    "year": 1996
+  }, {
+    "title": "Rare earth element geochemistry of oceanic ferromanganese nodules and associated sediments",
+    "authors": ["H. Elderfield", "C.J. Hawkesworth", "M.J. Greaves", "S.E. Calvert"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1981
+  }, {
+    "title": "The flux of iron from continental shelf sediments: a missing source for global budgets",
+    "authors": ["V.A. Elrod", "W.M. Berelson", "K.H. Coale", "K.S. Johnson"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2004
+  }, {
+    "title": "Neutrophilic Fe-oxidizing bacteria are abundant at the Loihi Seamount hydrothermal vents and play a major role in Fe oxide deposition",
+    "authors": ["D. Emerson", "C.L. Moyer"],
+    "venue": "Appl. Environ. Microbiol",
+    "year": 2002
+  }, {
+    "title": "Zipper-rift’: a tectonic model for Neoproterozoic glaciations during the breakup of Rodinia after 750 Ma",
+    "authors": ["N. Eyles", "N. Januszczak"],
+    "venue": "Earth Sci. Rev",
+    "year": 2004
+  }, {
+    "title": "Descriptions and Analyses of Eight New USGS Rock Standards",
+    "authors": ["F.J. Flanagan"],
+    "venue": "USGS Professional Paper",
+    "year": 1976
+  }, {
+    "title": "USGS Rock Standards, III: Manganese-Nodule Reference Samples USGS-NOD-A-1 and USGS-NOD-P-1",
+    "authors": ["F.J. Flanagan", "D. Gottfried"],
+    "venue": "USGS Professional Paper 1155,",
+    "year": 1980
+  }, {
+    "title": "The Boucaut Volcanics",
+    "authors": ["B.G. Forbes"],
+    "venue": "S. Aust. Geol. Surv. Q. Geol. Notes",
+    "year": 1978
+  }, {
+    "title": "Seawater pH, pCO2 and variations in the Caribbean Sea over the last 130 kyr: a boron isotope and B/Ca study of planktic foraminifera",
+    "authors": ["G.L. Foster"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2008
+  }, {
+    "title": "Fluctuations in Precambrian atmospheric oxygenation recorded by chromium isotopes",
+    "authors": ["R. Frei", "C. Gaucher", "S.W. Poulton", "D.E. Canfield"],
+    "venue": "Nature",
+    "year": 2009
+  }, {
+    "title": "Tectono-sedimentary evolution of the Neoproterozoic BIF-bearing Jacadigo Group, SW-Brazil",
+    "authors": ["B.T. Freitas", "L.V. Warren", "P.C. Boggiani", "R.P. De Almeida", "T. Piacentini"],
+    "venue": "Sediment. Geol",
+    "year": 2011
+  }, {
+    "title": "The Kaigas and Numees formations, Port Nolloth Group, in South Africa and Namibia",
+    "authors": ["H.E. Frimmel"],
+    "venue": "The Geological Record of Neoproterozoic Glaciations,",
+    "year": 2011
+  }, {
+    "title": "Numees Formation (including the Jakkalsberg member)",
+    "authors": ["H.E. Frimmel", "M.W. Von Veh"],
+    "venue": "Catalogue of South African Lithostratigraphic Units: SA Committee for Stratigraphy,",
+    "year": 2003
+  }, {
+    "title": "New Pb–Pb single zircon age constraints on the timing of Neoproterozoic glaciation and continental break-up in Namibia",
+    "authors": ["H.W. Frimmel", "U.S. Klötzi", "P.R. Siegfried"],
+    "venue": "J. Geol",
+    "year": 1996
+  }, {
+    "title": "Chemical characteristics of newly discovered black smoker fluids and associated hydrothermal plumes at the Rodriguez Triple Junction, Central Indian Ridge",
+    "authors": ["T Gamo"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2001
+  }, {
+    "title": "Vestiges of an Iapetan rift basin in the New Jersey Highlands: implications for the Neoproterozoic Laurentian margin",
+    "authors": ["A.E. Gates", "R.A. Volkert"],
+    "venue": "J. Geodyn",
+    "year": 2004
+  }, {
+    "title": "Upper Vendian skeletal fauna of the Arroyo del Soldado Group, Uruguay",
+    "authors": ["C. Gaucher", "P. Sprechmann"],
+    "venue": "Beringeria",
+    "year": 1999
+  }, {
+    "title": "Integrated correlation of the Vendian to Cambrian Arroyo del Soldado and Corumbá Groups (Uruguay and Brazil): palaeogeographic, palaeoclimatic and palaeobiologic implications",
+    "authors": ["C. Gaucher", "P. Boggiani", "P. Sprechman", "A. Sial", "T. Fairchild"],
+    "venue": "Precambrian Res",
+    "year": 2003
+  }, {
+    "title": "A geochemical study of metalliferous sediment from the TAG hydrothermal mound, Mid-Atlantic Ridge",
+    "authors": ["German", "C.R"],
+    "venue": "J. Geophys. Res",
+    "year": 1993
+  }, {
+    "title": "Geochemistry of a hydrothermal sediment core from the OBS vent-field",
+    "authors": ["C.R. German", "J. Hergt", "M.R. Palmer", "J.M. Edmond"],
+    "venue": "East Pacific Rise. Chem. Geol",
+    "year": 1999
+  }, {
+    "title": "Compilation of Elemental Concentration Data for USGS BHVO-1, MAG-1, QLO-1, RGM-1, SCo-1, SDC-1, SGR-1, and STM-1",
+    "authors": ["E.S. Gladney", "I. Roelandts"],
+    "venue": "Geostandards Newsletter",
+    "year": 1987
+  }, {
+    "title": "Compilation of elemental concentration data for USGS BIR-1, DNC-1, and W-2",
+    "authors": ["E.S. Gladney", "I. Roelandts"],
+    "venue": "GEOSTAND Newsl",
+    "year": 1988
+  }, {
+    "title": "Eh Ph diagrams for Mn, Fe, Co, Ni, Cu and as under seawater conditions: application of two new types of eh ph diagrams to the study of specific problems in marine geochemistry",
+    "authors": ["G.P. Glasby", "H.D. Schulz"],
+    "venue": "Aquat. Geochem",
+    "year": 1999
+  }, {
+    "title": "Iron formation in Canada, genesis and geochemistry. Geological Survey of Canada open file 5987",
+    "authors": ["G.A. Gross"],
+    "year": 2009
+  }, {
+    "title": "Metalliferous Sediments of the World Ocean: Fundamental Theory of Deep-Sea Hydrothermal Sedimentation",
+    "authors": ["E. Gurvich"],
+    "year": 2006
+  }, {
+    "title": "Chapter 4 Chemostratigraphy and the Neoproterozoic glaciations",
+    "authors": ["G.P. Halverson", "G. Shields-Zhou"],
+    "venue": "Geol. Soc., Lond., Mem",
+    "year": 2011
+  }, {
+    "title": "Fe isotope and trace element geochemistry of the Neoproterozoic syn-glacial Rapitan iron formation",
+    "authors": ["Halverson", "G.P"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2011
+  }, {
+    "title": "The evolution of photosynthesis and microbial mats: a speculation on the band iron formations",
+    "authors": ["H. Hartman"],
+    "venue": "Alan Liss Inc,",
+    "year": 1984
+  }, {
+    "title": "Geocronologia do Centro-Oeste brasileiro",
+    "authors": ["Y. Hasui", "F. Almeida"],
+    "venue": "Boletim da Sociedade Brasileira de Geologia, Sao Paulo",
+    "year": 1970
+  }, {
+    "title": "Nature and timing of Franklin igneous events, Canada: implications for a Late Proterozoic mantle plume and the break-up of Laurentia",
+    "authors": ["L.M. Heaman", "A.N. LeCheminant", "R.H. Rainbird"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 1992
+  }, {
+    "title": "Preliminary results of a sedimentological study of the Chuos Formation in the central zone of the Damara Orogen: evidence for mass flow processes and glacial activity",
+    "authors": ["G. Henry", "I.G. Stanistreet", "K.J. Maiden"],
+    "venue": "Commun. Geol. Surv. Southwest Afr. (Namibia)",
+    "year": 1986
+  }, {
+    "title": "Multiple detachment model for the early rifting stage of the Late Proterozoic",
+    "authors": ["G. Henry", "C.W. Clendenin", "I.G. Stanistreet", "K.J. Maiden"],
+    "venue": "Damara orogen in Namibia. Geology",
+    "year": 1990
+  }, {
+    "title": "The Otavi Group of the Northern Platform and the NorthernMargin Zone",
+    "authors": ["P.F. Hoffman", "G.P. Halverson"],
+    "year": 2008
+  }, {
+    "title": "The snowball Earth hypothesis: testing the limits of global change",
+    "authors": ["P.F. Hoffman", "D.P. Schrag"],
+    "venue": "Terra Nova",
+    "year": 2002
+  }, {
+    "title": "Chapter 5 Chemical sediments associated with Neoproterozoic glaciation: iron formation, cap carbonate, barite and phosphorite",
+    "authors": ["P.F. Hoffman", "F.A. Macdonald", "G.P. Halverson"],
+    "venue": "Geol. Soc., Lond., Mem",
+    "year": 2011
+  }, {
+    "title": "A preliminary note on a revised subdivision and regional correlation of the Otavi Group based on glaciogenic diamictites and associated cap dolostones",
+    "authors": ["K.H. Hoffmann", "A.R. Prave"],
+    "venue": "Commun. Geol. Surv. Namibia",
+    "year": 1996
+  }, {
+    "title": "U–Pb zircon date from the Neoproterozoic Ghaub Formation, Namibia: constraints on",
+    "authors": ["K.H. Hoffmann", "D.J. Condon", "S.A. Bowring", "J.L. Crowley"],
+    "venue": "Marinoan glaciation. Geology",
+    "year": 2004
+  }, {
+    "title": "The oceans: a possible source of iron in iron-formations",
+    "authors": ["H.D. Holland"],
+    "venue": "Econ. Geol",
+    "year": 1973
+  }, {
+    "title": "Surface ocean pH response to variations in pCO2 through two full glacial cycles",
+    "authors": ["B. Hönisch", "N.G. Hemming"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2005
+  }, {
+    "title": "The primary process in photooxidation of Fe2 + (H2O)6 in water, photochemistry and radiation chemistry",
+    "authors": ["N.S. Hush", "J. Zeng", "J.R. Reimers", "J.S. Craw"],
+    "venue": "Advances in Chemistry.American Chemical Society",
+    "year": 1998
+  }, {
+    "title": "Iron isotope fractionation during microbial reduction of iron: the importance of adsorption",
+    "authors": ["G.A. Icopini", "A.D. Anbar", "S.S. Ruebush", "M. Tien", "S.L. Brantley"],
+    "venue": "Geology",
+    "year": 2004
+  }, {
+    "title": "Neoproterozoic banded iron formations",
+    "authors": ["A. Ilyin"],
+    "venue": "Lithol. Miner. Resour",
+    "year": 2009
+  }, {
+    "title": "Plume-related mafic volcanism and the deposition of banded iron formation",
+    "authors": ["A.E. Isley", "D.H. Abbott"],
+    "venue": "J. Geophys. Res",
+    "year": 1999
+  }, {
+    "title": "Sedimentary facies of iron-formation",
+    "authors": ["H.R. James"],
+    "venue": "Econ. Geol",
+    "year": 1954
+  }, {
+    "title": "Chapter 12 Distribution of banded ironformation in space and time",
+    "authors": ["H.L. James", "A.F. Trendall", "R.C. Morris"],
+    "venue": "Dev. Precambrian Geol",
+    "year": 1983
+  }, {
+    "title": "Cretaceous anoxic events: from continents to oceans",
+    "authors": ["H.C. Jenkyns"],
+    "venue": "J. Geol. Soc",
+    "year": 1980
+  }, {
+    "title": "Isotopic constraints on biogeochemical cycling of Fe",
+    "authors": ["C.M. Johnson", "B.L. Beard", "E.E. Roden", "D.K. Newman", "K.H. Nealson"],
+    "venue": "Rev. Mineral. Geochem",
+    "year": 2004
+  }, {
+    "title": "Metalliferous sediments within lava sequences of the Sumail ophiolite (Oman): mineralogical and geochemical characterization, origin and evolution",
+    "authors": ["A.M. Karpoff", "A.V. Walter", "C. Pflumio"],
+    "venue": "Tectonophysics",
+    "year": 1988
+  }, {
+    "title": "Re–Os geochronology of postglacial black shales in Australia: constraints on the timing of “Sturtian",
+    "authors": ["B. Kendall", "R.A. Creaser", "D. Selby"],
+    "venue": "glaciation. Geology",
+    "year": 2006
+  }, {
+    "title": "Late Proterozoic Low-Latitude Global Glaciation: the Snowball Earth. The Proterozoic Biosphere: a Multidisciplinary Study",
+    "authors": ["J.L. Kirschivink"],
+    "year": 1992
+  }, {
+    "title": "Some Precambrian banded iron-formations (BIFs) from around the world: Their age, geologic setting, mineralogy, metamorphism, geochemistry, and origins",
+    "authors": ["C. Klein"],
+    "venue": "Am. Mineral",
+    "year": 2005
+  }, {
+    "title": "Sedimentology and geochemistry of the glaciogenic late Proterozoic Rapitan iron-formation in Canada",
+    "authors": ["C. Klein", "N.J. Beukes"],
+    "venue": "Econ. Geol",
+    "year": 1993
+  }, {
+    "title": "Geochemistry and mineralogy of neoproterozoic banded iron-formations and some selected, siliceous manganese formations from the Urucum District, Mato Grosso Do Sul, Brazil",
+    "authors": ["C. Klein", "E.A. Ladeira"],
+    "venue": "Econ. Geol",
+    "year": 2004
+  }, {
+    "title": "Geochemical implications of rare earth element patterns in hydrothermal fluids from mid-ocean ridges",
+    "authors": ["G.P. Klinkhammer", "H. Elderfield", "J.M. Edmond", "A. Mitra"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1994
+  }, {
+    "title": "The potential significance of microbial Fe(III) reduction during deposition of Precambrian banded iron",
+    "authors": ["K.O. Konhauser", "D.K. Newman", "A. Kappler"],
+    "venue": "formations. Geobiology",
+    "year": 2005
+  }, {
+    "title": "Decoupling photochemical Fe(II) oxidation from shallowwater BIF deposition",
+    "authors": ["Konhauser", "K.O"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2007
+  }, {
+    "title": "Was there really an Archean phosphate crisis",
+    "authors": ["K.O. Konhauser", "S.V. Lalonde", "L. Amskold", "H.D. Holland"],
+    "venue": "Science",
+    "year": 2007
+  }, {
+    "title": "Hydrothermal Fe fluxes during the Precambrian: effect of low oceanic sulfate concentrations and low hydrostatic pressure on the composition of black smokers",
+    "authors": ["L.R. Kump", "W.E. Seyfried Jr."],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2005
+  }, {
+    "title": "Sea ice free conditions during the Sturtian glaciation (early Cryogenian)",
+    "authors": ["D.P. Le Heron", "G. Cox", "A. Trundley", "A. Collins"],
+    "venue": "South Australia. Geology",
+    "year": 2011
+  }, {
+    "title": "Two Cryogenian glacial successions compared: Aspects of the Sturt and Elatina sediment records of South Australia",
+    "authors": ["D.P. Le Heron", "G. Cox", "A. Trundley", "A.S. Collins"],
+    "venue": "Precambrian Research",
+    "year": 2011
+  }, {
+    "title": "Neoproterozoic glaciations in a revised global palaeogeography from the breakup of Rodinia to the assembly of Gondwanaland",
+    "authors": ["Li", "Z.-X", "D.A.D. Evans", "G.P. Halverson"],
+    "venue": "Sediment. Geol",
+    "year": 2013
+  }, {
+    "title": "A hightemperature hydrothermal deposit on the seabed at a gulf of California spreading center",
+    "authors": ["P.F. Lonsdale", "J.L. Bischoff", "V.M. Burns", "M. Kastner", "R.E. Sweeney"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 1980
+  }, {
+    "title": "Geochemistry, petrology and origin of Neoproterozoic ironstones in the eastern part of the Adelaide Geosyncline, South Australia",
+    "authors": ["B.G. Lottermoser", "P.M. Ashley"],
+    "venue": "Precambrian Res",
+    "year": 2000
+  }, {
+    "title": "Dissimilatory Fe(III) and Mn(IV) reduction",
+    "authors": ["D.R. Lovley"],
+    "venue": "Microbiol. Rev",
+    "year": 1991
+  }, {
+    "title": "Early Earth: oxygen for heavy-metal",
+    "authors": ["T.W. Lyons", "C.T. Reinhard"],
+    "venue": "fans. Nature",
+    "year": 2009
+  }, {
+    "title": "Calibrating the Cryogenian",
+    "authors": ["Macdonald", "F.A"],
+    "venue": "Science",
+    "year": 2010
+  }, {
+    "title": "Stratigraphy of the Port Nolloth Group of Namibia and South Africa and implications for the age of Neoproterozoic iron formations",
+    "authors": ["F.A. Macdonald", "J.V. Strauss", "C.V. Rose", "F.O. Dudas", "D.P. Schrag"],
+    "venue": "Am. J. Sci",
+    "year": 2010
+  }, {
+    "title": "Neoproterozoic and early Paleozoic correlations in the western Ogilvie Mountains. Yukon Exploration and Geology",
+    "authors": ["Macdonald", "F.A"],
+    "year": 2011
+  }, {
+    "title": "Early Neoproterozoic Basin Formation in Yukon, Canada: implications for the make-up and break-up of Rodinia",
+    "authors": ["Macdonald", "F.A"],
+    "venue": "Geosci. Can",
+    "year": 2012
+  }, {
+    "title": "Iron-richmetalliferous sediments on the East Pacific Rise: prototype of undifferentiated metalliferous sediments on divergent plate boundaries",
+    "authors": ["V. Marchig", "H. Gundlach"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 1982
+  }, {
+    "title": "Basalt geochemistry and tectonic discrimination within continental flood basalt provinces",
+    "authors": ["J.S. Marsh"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 1987
+  }, {
+    "title": "Selective leaching studies of sediments from a seamount flank in the Central Indian Basin: resolving hydrothermal, volcanogenic and terrigenous sources using major, trace and rare-earth elements",
+    "authors": ["M.B.L. Mascarenhas-Pereira", "B.N. Nath"],
+    "venue": "Mar. Chem",
+    "year": 2010
+  }, {
+    "title": "Cryogenian rift-relatedmagmatism and sedimentation: South-western Congo Craton, Namibia",
+    "authors": ["B. McGee", "G.P. Halverson", "A.S. Collins"],
+    "venue": "J. Afr. Earth Sci",
+    "year": 2012
+  }, {
+    "title": "A contemporary microbially maintained subglacial ferrous “ocean",
+    "authors": ["Mikucki", "J.A"],
+    "venue": "Science",
+    "year": 2009
+  }, {
+    "title": "Neoproterozoic and Early Palaeozoic Rocks of the Damara Orogen, The Geology of Namibia. Geological Survey of Namibia, Windhoek",
+    "authors": ["R.M. Miller"],
+    "year": 2008
+  }, {
+    "title": "The oxidation kinetics of Fe(II) in seawater",
+    "authors": ["F.J. Millero", "S. Sotolongo", "M. Izaguirre"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1987
+  }, {
+    "title": "Petrography, Age (U–Pb zircon), Geochemical and Isotopic Studies of the Sawawin Banded Iron-formation (BIF), Northwestern Saudi Arabia: Implications for Understanding Neoproterozoic Climate Change",
+    "authors": ["S.K. Mukherjee"],
+    "venue": "University of Texas",
+    "year": 2008
+  }, {
+    "title": "Cerium anomaly variations in ferromanganese nodules and crusts from the Indian Ocean",
+    "authors": ["B. Nagender Nath", "I. Roelandts", "M. Sudhakar", "W.L. Plger", "V. Balaram"],
+    "venue": "Mar. Geol",
+    "year": 1994
+  }, {
+    "title": "Rare earth element patterns and crustal evolution-I. Australian post-Archean sedimentary rocks",
+    "authors": ["W.B. Nance", "S.R. Taylor"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1976
+  }, {
+    "title": "A fresh look at element distribution in the North Pacific Ocean",
+    "authors": ["Y. Nozaki"],
+    "venue": "(EOS). Eos, Trans. Amer. Geophys.Union",
+    "year": 1997
+  }, {
+    "title": "The Neoproterozoic oxygenation event: environmental perturbations and biogeochemical cycling",
+    "authors": ["L.M. Och", "G.A. Shields-Zhou"],
+    "venue": "Earth Sci. Rev",
+    "year": 2012
+  }, {
+    "title": "Middle Eocene seawater pH and atmospheric carbon dioxide concentrations",
+    "authors": ["P.N. Pearson", "M.R. Palmer"],
+    "venue": "Science",
+    "year": 1999
+  }, {
+    "title": "Ana ́ lisis faciolo ́ gico y aspectos geolo ́ gicos de la Formacio ń Las Ventanas; un nuevo enfoque",
+    "authors": ["E. Pecoits"],
+    "venue": "Sobre la Estratigrafı á del Preca ḿbrico del Uruguay. Facultad de Ciencias, Montevideo,",
+    "year": 2002
+  }, {
+    "title": "Estratigrafı á de sucesiones sedimentariasy volcanosedimentarias",
+    "authors": ["E. Pecoits", "N. Aubet", "P. Oyhantcabal", "L. Sanchez Bettucci"],
+    "venue": "Neoproterozoicas del Uruguay. Rev. Soc. Urug. Geol",
+    "year": 2005
+  }, {
+    "title": "Ediacaran in Uruguay: palaeoclimatic and palaeobiological implications",
+    "authors": ["E. Pecoits", "M. Gingras", "N. Aubet", "K. Konhauser"],
+    "venue": "Sedimentology",
+    "year": 2008
+  }, {
+    "title": "Formação ferrífera associada à sedimentação glaciogênica da Formação",
+    "authors": ["T. Piacentini", "P.C. Boggiani", "J.K. Yamamoto", "G. Ademar da Cruz Campanha", "B.T. Freitas"],
+    "year": 2007
+  }, {
+    "title": "40Ar/39Ar constraints on the age and thermal history of the Urucum Neoproterozoic banded iron-formation, Brazil",
+    "authors": ["T. Piacentini", "P.M. Vasconcelos", "K.A. Farley"],
+    "venue": "Precambrian Res",
+    "year": 2013
+  }, {
+    "title": "The behavior of rare earth elements in seawater: precise determination of variations in the North Pacific water column",
+    "authors": ["D.J. Piepgras", "S.B. Jacobsen"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1992
+  }, {
+    "title": "Formation of Thetis Deep metal-rich sediments in the absence of brines, Red Sea",
+    "authors": ["M.C. Pierret", "N. Clauer", "D. Bosch", "G. Blanc"],
+    "venue": "J. Geochem. Explor",
+    "year": 2010
+  }, {
+    "title": "Rare Earth Element and yttrium compositions of Archean and Paleoproterozoic Fe formations revisited: new perspectives on the significance and mechanisms of deposition",
+    "authors": ["N Planavsky"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 2010
+  }, {
+    "title": "The evolution of the marine phosphate",
+    "authors": ["Planavsky", "N.J"],
+    "venue": "reservoir. Nature",
+    "year": 2010
+  }, {
+    "title": "Iron isotope composition of some Archean and Proterozoic iron formations",
+    "authors": ["N Planavsky"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 2012
+  }, {
+    "title": "The low-temperature geochemical cycle of iron: from continental fluxes to marine sediment deposition",
+    "authors": ["S.W. Poulton", "R. Raiswell"],
+    "venue": "Am. J. Sci",
+    "year": 2002
+  }, {
+    "title": "The Adelaide Geosyncline of South Australia and its significance in Neoproterozoic continental reconstruction",
+    "authors": ["W.V. Preiss"],
+    "venue": "Precambrian Res",
+    "year": 2000
+  }, {
+    "title": "Stratigraphy, correlation and sedimentary history of Adelaidean (late Proterozoic) basins in Australia",
+    "authors": ["W.V. Preiss", "B.G. Forbes"],
+    "venue": "Precambrian Res",
+    "year": 1981
+  }, {
+    "title": "Definition and age of the Kooringa Member of the Skillogalee Dolomite: host for Neoproterozoic (c.790 Ma) porphyry related copper mineralisation at Burra",
+    "authors": ["W.V. Preiss", "J.F. Drexel", "A.J. Reid"],
+    "venue": "MESA",
+    "year": 2009
+  }, {
+    "title": "Distribution of elements in sea water",
+    "authors": ["M.S. Quinby-Hunt", "K.K. Turehian"],
+    "venue": "Eos Trans. AGU",
+    "year": 1983
+  }, {
+    "title": "The origins of rare earths in metalliferous sediments of the Troodos Massif",
+    "authors": ["A.H.F. Robertson", "A.J. Fleet"],
+    "venue": "Cyprus Earth Planet. Sci. Lett",
+    "year": 1976
+  }, {
+    "title": "Thirteen ways to look at the correlation coefficient",
+    "authors": ["J.L. Rodgers", "W.A. Nicewander"],
+    "venue": "Am. Stat",
+    "year": 1988
+  }, {
+    "title": "Ocean oxygenation in the wake of theMarinoan glaciation",
+    "authors": ["Sahoo", "S.K"],
+    "venue": "Nature",
+    "year": 2012
+  }, {
+    "title": "Ferromanganoan sediments in the equatorial East Pacific",
+    "authors": ["F.L. Sayles", "J.L. Bischoff"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 1973
+  }, {
+    "title": "Tracing the stepwise oxygenation of the Proterozoic ocean",
+    "authors": ["C Scott"],
+    "venue": "Nature",
+    "year": 2008
+  }, {
+    "title": "Kinetic and equilibrium Fe isotope fractionation between aqueous Fe(III) and hematite",
+    "authors": ["J.L. Skulan", "B.L. Beard", "C.M. Johnson"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 2002
+  }, {
+    "title": "Anaerobic, nitrate-dependent microbial oxidation of ferrous iron",
+    "authors": ["K.L. Straub", "M. Benz", "B. Schink", "F. Widdel"],
+    "venue": "Appl. Environ. Microbiol",
+    "year": 1996
+  }, {
+    "title": "Chemical and isotopic systematics of oceanic basalts: implications for mantle composition and processes",
+    "authors": ["Sun", "S.-s", "W.F. McDonough"],
+    "venue": "Geol. Soc., Lond., Spec. Publ",
+    "year": 1989
+  }, {
+    "title": "Europium redox equilibria in aqueous solution",
+    "authors": ["D.A. Sverjensky"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 1984
+  }, {
+    "title": "Cryogenian glaciation and the onset of carbon-isotope decoupling",
+    "authors": ["Swanson-Hysell", "N.L"],
+    "venue": "Science",
+    "year": 2010
+  }, {
+    "title": "Hydrothermal contribution to the oceanic dissolved iron",
+    "authors": ["A Tagliabue"],
+    "venue": "inventory. Nat. Geosci",
+    "year": 2010
+  }, {
+    "title": "Stratigraphy, type and formation conditions of the late precambrian banded iron ores in south China",
+    "authors": ["J. Tang", "H. Fu", "Z. Yu"],
+    "venue": "Chin. J. Geochem",
+    "year": 1987
+  }, {
+    "title": "The Continental Crust: Its Composition and Evolution",
+    "authors": ["S.R. Taylor", "S.M. McLennan"],
+    "year": 1985
+  }, {
+    "title": "The geochemical evolution of the continental crust",
+    "authors": ["S.R. Taylor", "S.M. McLennan"],
+    "venue": "Rev. Geophys",
+    "year": 1995
+  }, {
+    "title": "Geochemistry of loess, continental crustal composition and crustal model ages",
+    "authors": ["S.R. Taylor", "S.M. McLennan", "M.T. McCulloch"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1983
+  }, {
+    "title": "Geomicrobiology of iron in extreme environments",
+    "authors": ["A.S. Templeton"],
+    "venue": "Elements 7",
+    "year": 2011
+  }, {
+    "title": "Large iron isotope fractionation at the oxic–anoxic boundary in Lake Nyos",
+    "authors": ["N Teutsch"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2009
+  }, {
+    "title": "Geological evolution of the Neoproterozoic Corumbá graben system (Brazil): depositional context of the stratified Fe and Mn ores of Jacidgo Group",
+    "authors": ["R. Trompette", "C. De Alvarenga", "D. Walde"],
+    "venue": "J. S. Am. Earth Sci",
+    "year": 1998
+  }, {
+    "title": "Iron andmanganese deposits of the UrucumDistrict Mato Gross do Sul, Brazil",
+    "authors": ["H. Urban", "B. Stribrny", "H.J. Lippolt"],
+    "venue": "Econ. Geol",
+    "year": 1992
+  }, {
+    "title": "Temporal patterns among Phanerozoic oolitic ironstones and oceanic anoxia",
+    "authors": ["F.B. Van Houten", "M.A. Arthur"],
+    "venue": "Geol. Soc., Lond., Spec. Publ",
+    "year": 1989
+  }, {
+    "title": "The genesis and significance of N-MORB sub-types",
+    "authors": ["L.G. Viereck", "M.F.J. Flower", "J. Hertogen", "H.U. Schmincke", "G.A. Jenner"],
+    "venue": "Contrib. Mineral. Petrol",
+    "year": 1989
+  }, {
+    "title": "Geochemistry and origin of Neoproterozoic ironstone deposits in the New Jersey Highlands and implications for the eastern Laurentian rifted margin in the north-central Appalachians, USA",
+    "authors": ["Volkert", "R.A"],
+    "venue": "Geol. Soc. Am. Mem",
+    "year": 2010
+  }, {
+    "title": "Suboxic diagenesis in banded iron",
+    "authors": ["J.C.G. Walker"],
+    "venue": "formations. Nature",
+    "year": 1984
+  }, {
+    "title": "Europium anomaly in plagioclase feldspar: experimental results and semiquantitative model",
+    "authors": ["D.F. Weill", "M.J. Drake"],
+    "venue": "Science 180",
+    "year": 1973
+  }, {
+    "title": "Trace element and REE composition of a lowtemperature ridge-flank hydrothermal spring",
+    "authors": ["C.G. Wheat", "M.J. Mottl", "M. Rudnicki"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 2002
+  }, {
+    "title": "The investigation and exploitation of the Razorback Ridge iron",
+    "authors": ["G.F. Whitten"],
+    "venue": "deposit. S. Aust. Surv. Rep",
+    "year": 1970
+  }, {
+    "title": "Ferrous iron oxidation by anoxygenic phototrophic bacteria",
+    "authors": ["F Widdel"],
+    "venue": "Nature",
+    "year": 1993
+  }, {
+    "title": "Pyrite formation by reactions of iron monosulfides with dissolved inorganic and organic sulfur species",
+    "authors": ["R.T. Wilkin", "H.L. Barnes"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1996
+  }, {
+    "title": "Data compilation for USGS reference material BHVO-2. Hawaiian Basalt. U.S, Geological Survey Open-File Report",
+    "authors": ["S.A. Wilson"],
+    "year": 1997
+  }, {
+    "title": "The collection, preparation, and testing of USGS reference material BCR-2. Geological Survey Open-File Report",
+    "authors": ["S.A. Wilson"],
+    "year": 1997
+  }, {
+    "title": "Ion microprobe U–Pb ages for Neoproterozoic basaltic magmatism in south-central Australia and implications for the breakup of Rodinia",
+    "authors": ["M.T.D. Wingate", "I.H. Campbell", "W. Compston", "G.M. Gibson"],
+    "venue": "Precambrian Res",
+    "year": 1998
+  }, {
+    "title": "Principal component analysis",
+    "authors": ["S. Wold", "K. Esbensen", "P. Geladi"],
+    "venue": "Chemom. Intell. Lab. Syst",
+    "year": 1987
+  }, {
+    "title": "The Late Proterozoic Rapitan glaciation in the Northern Cordillera",
+    "authors": ["G.M. Yeo"],
+    "venue": "Proterozoic Basins of Canada: Geological Survey of Canada Paper",
+    "year": 1981
+  }, {
+    "title": "Iron-formation in the late Proterozoic Rapitan Group, Yukon and Northwest territories",
+    "authors": ["G.M. Yeo"],
+    "venue": "Can. Inst. Min. Metall",
+    "year": 1986
+  }, {
+    "title": "Iron-formation and glaciogenic rocks of the Rapitan Group, Northwest Territories, Canada",
+    "authors": ["G.M. Young"],
+    "venue": "Precambrian Res",
+    "year": 1976
+  }, {
+    "title": "The Late Proterozoic Tindir Group, east-central Alaska: evolution of a continental margin",
+    "authors": ["G.M. Young"],
+    "venue": "Geol. Soc. Am. Bull",
+    "year": 1982
+  }, {
+    "title": "Phanerozoic ironstones: an introduction and review",
+    "authors": ["T.P. Young"],
+    "venue": "Geol. Soc., London, Special Publications",
+    "year": 1989
+  }, {
+    "title": "Stratigraphic and tectonic settings of Proterozoic glaciogenic rocks and banded iron-formations: relevance to the snowball Earth debate",
+    "authors": ["G.M. Young"],
+    "venue": "J. Afr. Earth Sci",
+    "year": 2002
+  }, {
+    "title": "Middle and late Proterozoic evolution of the northern",
+    "authors": ["G.M. Young", "C.W. Jefferson", "G.D. Delaney", "G.M. Yeo"],
+    "venue": "Canadian Cordillera and Shield. Geology",
+    "year": 1979
+  }, {
+    "title": "Rare earth elements and yttrium in seawater: ICP-MS determinations in the East Caroline, Coral Sea, and South Fiji basins of the western South Pacific Ocean",
+    "authors": ["J. Zhang", "Y. Nozaki"],
+    "venue": "Geochimica et Cosmochimica Acta",
+    "year": 1996
+  }, {
+    "title": "A new age constraint on the onset of the Neoproterozoic glaciations in the Yangtze Platform, South China",
+    "authors": ["Zhang", "Q.-R", "Li", "X.-H", "Feng", "L.-J", "J. Huang", "B. Song"],
+    "venue": "J. Geol",
+    "year": 2008
+  }, {
+    "title": "Chapter 32 Neoproterozoic glacial records in the Yangtze Region, China",
+    "authors": ["Zhang", "Q.-R", "Chu", "X.-L", "Feng", "L.-J"],
+    "venue": "Geol. Soc., Lond., Mem",
+    "year": 2011
+  }, {
+    "title": "New constraints on the ages of Neoproterozoic glaciations in south China",
+    "authors": ["C Zhou"],
+    "venue": "Geology 32",
+    "year": 2004
+  }],
+  "id": "SP:4e3a777d9c2b42e292286c3c093520bd60f89c4f",
+  "authors": [{
+    "name": "Grant M. Cox",
+    "affiliations": []
+  }, {
+    "name": "Galen P. Halverson",
+    "affiliations": []
+  }, {
+    "name": "William G. Minarik",
+    "affiliations": []
+  }, {
+    "name": "Daniel P. Le Heron",
+    "affiliations": []
+  }, {
+    "name": "Francis A. Macdonald",
+    "affiliations": []
+  }, {
+    "name": "Eric J. Bellefroid",
+    "affiliations": []
+  }, {
+    "name": "Justin V. Strauss",
+    "affiliations": []
+  }],
+  "title": "Neoproterozoic iron formation: An evaluation of its temporal, environmental and tectonic significance"
+}

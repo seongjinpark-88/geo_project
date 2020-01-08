@@ -1,0 +1,381 @@
+{
+  "sections": [{
+    "text": "Contents lists available at SciVerse ScienceDirect\nEarth and Planetary Science Letters\n0012-82 http://d\nn Corr Tel.: þ3 E-m\njournal homepage: www.elsevier.com/locate/epsl\nGas emissions due to magma–sediment interactions during flood magmatism at the Siberian Traps: Gas dispersion and environmental consequences\nGiada Iacono-Marziano a,n, Virginie Marecal b, Michel Pirre c, Fabrice Gaillard a, Joaquim Arteta b, Bruno Scaillet a, Nicholas T. Arndt d\na ISTO, UMR 7327, CNRS-Université d’Orléans, Orléans, France b CNRM-GAME, URA 1357, Météo-France and CNRS, Toulouse, France c LPC2E, UMR 6115, CNRS-Université d’Orléans, Orléans, France d ISTerre, Université de Grenoble, Grenoble, France\na r t i c l e i n f o\nArticle history: Received 2 April 2012 Received in revised form 26 September 2012 Accepted 28 September 2012 Editor: B. Marty matter (Svensen et al., 2009), we calculate CO–CH4-dominated gas emission rates of 7 1015 2\n16\nAvailable online 25 October 2012\nKeywords: Siberian Traps magma–organic matter interaction gas emissions carbon monoxide methane atmospheric modelling\n1X/$ - see front matter & 2012 Elsevier B.V. x.doi.org/10.1016/j.epsl.2012.09.051\nespondence to: 1A rue de la Férollerie, 450 3 238257868; fax: þ33 238636488. ail address: Giada.Iacono@cnrs-orleans.fr (G.\na b s t r a c t\nWe estimate the fluxes of extremely reduced gas emissions produced during the emplacement of the Siberian Traps large igneous province, due to magma intrusion in the coaliferous sediments of the Tunguska Basin. Using the results of a companion paper (Iacono-Marziano et al., accepted for publication), and a recent work about low temperature interaction between magma and organic\n10 g/yr for a single magmatic/volcanic event. These fluxes are 7–20 times higher than those calculated for purely magmatic gas emissions, in the absence of interaction with organic matter-rich sediments. We investigate, by means of atmospheric modelling employing present geography of Siberia, the short and mid-term dispersion of these gas emissions into the atmosphere. The lateral propagation of CO and CH4 leads to an important perturbation of the atmosphere chemistry, consisting in a strong reduction of the radical OH concentration. As a consequence, both CO and CH4 lifetimes in the lower atmosphere are enhanced by a factor of at least 3, at the continental scale, as a consequence of 30 days of magmatic activity. The short-term effect of the injection of carbon monoxide and methane into the atmosphere is therefore to increase the residence times of these two species and, in turn, their capacity of geographic expansion. The estimated CO and CH4 volume mixing ratios (i.e. the number of molecules of CO or CH4 per cm 3, divided by the total number of molecules per cm3) in the low atmosphere are 2–5 ppmv at the continental scale and locally higher than 50 ppmv. The dimension of the area affected by these high volume mixing ratios decreases in the presence of a lava flow accompanying magma intrusion at depth. Complementary calculations for a 10-yr duration of the magmatic activity suggest (i) an increase in the mean CH4 volume mixing ratio of the whole atmosphere up to values 3–15 times higher than the current one, and (ii) recovery times of 100 yr to bring back the atmospheric volume mixing ratio of CH4 to the pre-magmatic value. Thermogenic methane emissions from the Siberian Traps have already been proposed to crucially contribute to end Permian–Early Triassic global warming and to the negative carbon isotopic shift observed globally in both marine and terrestrial sediments. Our results corroborate these hypotheses and suggest that concurrent high temperature CO emissions also played a key role by contributing to increase (i) the radiative forcing of methane and therefore in its global warming potential, and (ii) the input of isotopically light carbon into the atmosphere that generated the isotopic excursion. We also speculate a poisoning effect of high carbon monoxide concentrations on end-Permian fauna, at a local scale.\n& 2012 Elsevier B.V. All rights reserved."
+  }, {
+    "heading": "1. Introduction",
+    "text": "Large Igneous Provinces (LIPs) are enormous crustal emplacements (millions of km3) of predominantly mafic extrusive and\nAll rights reserved.\n71 Orléans Cedex 2, France.\nIacono-Marziano).\nintrusive rocks originating via processes other than ‘‘normal’’ seafloor spreading, e.g. continental flood basalts (or traps), volcanic passive margins, oceanic plateaus, and seamount groups (Coffin and Eldholm, 1994). Vogt (1972) noted that the end-Cretaceous mass extinction was synchronous with the eruption of the Deccan Traps. Since then the idea that LIP eruption times coincide with major mass extinctions has been broadened and several other cases have been documented (Courtillot and Renne, 2003).\nThe extinctions have been ascribed to both short and long term effects of magmatic gas emissions (e.g. Vogt, 1972; Axelrod, 1981; Cockell, 1999; Retallack, 1999). As noted by Wignall (2001) and Ganino and Arndt (2009) among others, the main problem with such a hypothesis is that the volume of erupted magma is not correlated with the magnitude of the extinction, as measured by the number of taxa that became extinct. In addition, the erupted magmas are dominantly tholeiitic basalts, a category of magma believed to be volatile-poor (Saal et al., 2001). Sobolev et al. (2011) advocate an important contribution of CO2–HCl-dominated volatiles deriving from recycled oceanic crust in the magma source. A possible role of silicic magmas has also been invoked for sulphur emissions from LIPs, also in this case the volume of explosive products being not directly related to the importance of the environmental crisis (Scaillet and Macdonald, 2006).\nTo explain the lack of correlation with the volume of the magmatic products, the importance of extinctions has been linked to both the nature and the amount of thermogenic gases produced during the LIP emplacement, which are controlled by the type of rocks encountered by basaltic magmas during their ascent (Svensen et al., 2004, 2007, 2009; Erwin, 2006; Retallack and Jahren, 2008; Ganino and Arndt, 2009). A growing body of evidence indicates that interactions between country rocks and magmatic sills and dikes can be particularly important due to the long exposure to high temperatures: heating of carbonates, sulphates, salts, or organic-compounds (such as bituminous shales or coals) can inject into the atmosphere a quantity of volatiles that greatly exceeds the amount delivered by purely magmatic degassing (Svensen et al., 2004, 2007, 2009; Ganino et al., 2008; IaconoMarziano et al., 2007, 2009). This may help explain why some traps coincide with major extinction events, while others leave almost no trace in the fossil record (Ganino and Arndt, 2009)."
+  }, {
+    "heading": "1.1. Siberian Traps",
+    "text": "The Siberian Traps are the most voluminous subaerial large igneous province (LIP), which covers more than 60% of the Siberian Platform (1.5 million km2) (Reichow et al., 2002); the distribution of lavas suggests that they do not constitute a single continuous province but rather the amalgamation of several sub-provinces (Mitchell et al., 1994). The emplacement of the Siberian Traps has occurred contemporaneously to the end-Permian crisis, the most severe extinction affecting marine and continental biota (Wignall, 2001; Erwin et al., 2002), and to a strong perturbation of the Earth’s carbon cycle, globally marked by a negative carbon isotope excursion recorded in marine and terrestrial carbonates and organic matter (Korte et al., 2010 and references therein). The relative timing of these events is not fully resolved, the beginning of the volcanic activity preceding the strongest isotopic excursion and the main extinction event, both, however, occurring before the main emplacement phase of the Siberian Traps (Korte et al., 2010). Siberian basaltic flows are underlain almost everywhere by terrigenous, coal-bearing sedimentary rocks of the Tunguska Basin (Fig. 1), which are absent only in a few, local-scale, tectonic structures (Czamanske et al., 1998). The 300-m-thick Late Carboniferous– Permian Tunguska coal basin is one of the largest in the world and contains numerous thick coal seams (Czamanske et al., 1998). The underlying Neoproterozoic to Carboniferous sedimentary sequence, through which basaltic magmas ascended, comprises carbonates, shales, sandstones and, concentrated in central and southern Tunguska, evaporites. Numerous petroleum levels with regional distribution and variable thicknesses (from a few metres to 80 m) are present in the Silurian, Ordovician, Cambrian, and Neoproterozoic strata (Svensen et al., 2009; Kuznetsov, 1997). The average organic matter content of the sedimentary rocks is 1–3 wt% and can locally reach 8–22 wt% (Kuznetsov, 1997).\nImportant interactions between magmas and carbonaceous sediments have already been proposed by several authors to have been the major cause of the environmental impact of the Siberian Trap emplacement (Visscher et al., 2004; Retallack and Krull, 2006; Payne and Kump, 2007; Retallack and Jahren, 2008; Svensen et al., 2009; Retallack, in press). Recent analyses of terrestrial carbon in marine sediments from the Canadian High Arctic have brought further evidence for high temperature magma–coal interactions at the Siberian Traps (Grasby et al., 2011). This terrestrial carbon is in the form of char and is very similar to modern fly ash produced from coal-fired power plants (combustion temperatures between 1300 and 1600 1C), it has been found more than 20,000 km far from Siberia, suggesting a global dispersion of the ashes derived from the combustion of coaliferous sediments (Grasby et al., 2011). In a companion paper (Iacono-Marziano et al., accepted for publication) we show how the occurrence of graphite and native iron in several large intrusions belonging to the Siberian Traps indicates intense high temperature interactions between magma and coaliferous sediments, and implies extremely reduced gas emissions. The fate of these gases upon reaching the atmosphere is a crucial point to elucidate, in order to estimate their potential environmental impact.\nIn this paper we estimate the fluxes of unusually reduced gases that could have been produced during a single magmatic event of the Siberian Traps. To investigate the short and long term\ndispersion of these gases into the atmosphere we use atmospheric modelling coupling gas transport and chemistry, a methodology applied for the first time to volcanic gas emissions."
+  }, {
+    "heading": "2. Methods",
+    "text": ""
+  }, {
+    "heading": "2.1. Quantification of gas emissions due to magma–sediment interactions",
+    "text": "We use the gas compositions estimated by Iacono-Marziano et al. (accepted for publication) to characterize the degassing that may have occurred at the Siberian Traps during the emplacement of native iron-bearing intrusions. The quantification of these emissions requires the knowledge of the amount of magma involved in organic matter assimilation. Field evidence in the Northern Tunguska Basin (Ryabov and Lapkovsky, 2010) suggests that magma–coal interaction persisted for an entire intrusive event, which led to multiple 40–110 m thick intrusions containing native iron. Native iron ores have been generally observed in the shallower part of the intrusions, in agreement with our calculations predicting native iron saturation at pressures lower than 10 MPa.\nCurrent estimations of magma production rates for the Siberian Traps, as for all other traps, are very imprecise, owing to the uncertainties related to event size, and the small number of precise ages available for most events (Ernst et al., 2005). Chenet et al. (2008) estimated a magma eruption rate for single effusive events of the Deccan Traps of 100 km3/yr. The only large basaltic eruption occurred in historical times that could be regarded as a proxy for LIPs’ events is the 1783-4 Laki eruption: it lasted 8 months and produced 15 km3 of basalts (Thordarson and Self, 2003). The mean magma eruption rate was equivalent to 22 km3/yr, with peak magma discharges equivalent to 157– 208 km3/yr (Thordarson and Self, 2003). Although the relation between magma intrusion and extrusion rates is still barely constrained, we can reasonably use a magma production rate of 100 km3/yr to estimate gas emissions resulting from high temperature coal assimilation during the emplacement of Siberian intrusions.\nTwo scenarios are simulated: magma intrusion without lava production at surface, and magma intrusion associated with lava flows. The occurrence of effusive activity concurrent to the formation of native iron-bearing intrusions has not been clearly demonstrated, effusive products being generally absent in these areas (Ryabov and Lapkovsky, 2010). However, the discovery of substantial amounts of coal combustion derived char 20,000 km away from the Siberian Traps (Grasby et al., 2011) indicates that, at least in a certain period of the Siberian Trap emplacement, magma–coal interactions have been associated to magma extrusion at the surface.\nWhen the emplacement of a lava flow accompanies magma intrusion at depth, an additional process is most likely significant in the Siberian Trap context, i.e. atmospheric nitrogen fixation at the lava surface. Hot lava flows have been observed to fix atmospheric nitrogen at their surface following (Huebert et al., 1999):\nN2þO2-2NO\nThe production of NO is proportional to the temperature at which the nitrogen oxidation occurs (Mather et al., 2004). At 1200 and 1400 K (a good approximation of the surface temperature of an advancing lava flow; Huebert et al., 1999), the molar fraction of NO generated by this mechanism in volcanic gases has been calculated to be 2 10 4 and 6 10 4, respectively (Mather et al., 2004).\nA further complication in the case of Siberian intrusions is represented by the presence of a thick sequence of sedimentary carbonates and possibly evaporites beneath the coal measures (Svensen et al., 2009; Czamanske et al., 1995, 1998). Interaction of the basaltic magma with carbonate rocks may have produced large quantities of CO2 by high-temperature assimilation or breakdown of carbonates (Svensen et al., 2009; Iacono-Marziano et al., 2007, 2009). Heating of evaporitic rock most likely generates SO2 and halocarbons (Svensen et al., 2009); however the stratigraphy of the northern part of the Tunguska Basin (where native iron bearing intrusions occur) generally does not include evaporites (Fig. 1) (Matukhin, 1991; Petrychenko et al., 2005). It is difficult to discriminate the fraction of these gases that is driven off from the metamorphic aureoles ascending in pipe-like structures (Svensen et al., 2009), from that coexisting with the magma. Gases vented by the pipes are directly released in the atmosphere, our approach not allowing any estimates of the gas quantity released. On the contrary, gases that ascend in equilibrium with the magma are reduced upon interaction with coal forming the CO-dominated gas mixtures described above (sulphur remaining soluble in the magma). In this case, interactions with sedimentary carbonates and evaporites prior to reaction with coal would increase the amount of oxygen available in the magma (Omagma in reactions 1 and 2 in Iacono-Marziano et al., accepted for publication) and therefore increase its potential to assimilate organic matter and increase in the amount of CO produced, the presence of CO2 and SO2 being precluded in gas phases in equilibrium with native Fe."
+  }, {
+    "heading": "2.2. Atmospheric modelling",
+    "text": "Atmospheric modelling was used to evaluate (i) whether the extremely reduced gases, produced during intrusive (possibly accompanied by extrusive) activity, persist in the lower atmosphere without being oxidised or conveyed to the stratosphere, and (ii) which concentration and lifetime they can attain close to the Earth’s surface. Our approach is similar to the one employed for 1783 Laki eruption (Chenet et al., 2005): we use a regional 3D atmospheric model, which includes the transport of trace gases (Freitas et al., 2009), to simulate the atmospheric dispersion of the emitted gases at a continental scale, after 30 days of magmatic activity. Differently from Chenet et al. (2005), who investigate the dispersion of sulphates and tephra, our model is coupled to a tropospheric chemistry model to study the chemical modifications of the emitted reactive volcanic gases as they mix with the surrounding atmosphere. The chemical scheme includes photochemical reactions to describe the chemistry of CH4, CO, H2, O3, NOx (NOþNO2) and HOx (OHþHO2).\nThe CATT-BRAMS model (Freitas et al., 2009) used for atmospheric simulations is a state-of-the-art regional 3D model including all major atmospheric processes such as radiation (radiative code of the Community Aerosol and Radiation Model for Atmospheres, Toon et al., 1989), turbulence (Mellor and Yamada, 1982), surface–atmosphere interaction (Walko and Tremback, 2005), convection (Grell, 1993; Grell and Dévényi, 2002) and microphysical processes (Walko et al., 1995) leading to cloud and precipitation formation.\nFor the present study an atmospheric chemistry module is coupled to the CATT-BRAMS model. This chemistry module includes a comprehensive set of 12 photolysis reactions and 43 gaseous chemistry reactions of 19 species (CO, CH4, H2, O3, O\n(3P), O(1D), NO, NO2, NO3, HNO3, HNO4, N2O5, HONO, OH, HO2, H2O2, HCHO, CH3O2 and CH3OOH), describing the photochemistry of CO, CH4, O3, NOx (NOþNO2) and HOx (OHþHO2).\nIn this study we focus on CO and CH4 concentrations, expressed as volume mixing ratios (i.e. the number of molecules\nof CO or CH4 per cm 3, divided by the total number of molecules per cm3), and lifetimes. CO and CH4 concentrations and lifetimes both depend on the OH concentration, mainly resulting from the following reactions:\nO3 photolysis-O (1D)þO2 (1)\nO(1D)þH2O-2OH (2)\nCOþOHþ(O2)-CO2þHO2 (3)\nCH4þOHþ(O2)-CH3O2þH2O (4)\nwhere O(1D) is the excited state of the oxygen atom.\na Fluxes resulting at 10 MPa from high temperature assimilation of 0.5 wt% organic matter (ensuring coexistence of graphite and native iron). Given ranges account for the variations in initial conditions (initial fO2 and gas fraction of the magma) and type of organic matter assimilated, i.e. CH or CH2 (Iacono-Marziano et al., accepted for publication). b Fluxes resulting at 0.1 MPa from high temperature assimilation of 0.6 wt% organic matter (ensuring coexistence of graphite and native iron). Given ranges account for the variations in initial conditions (initial fO2 and gas fraction of the magma) and type of organic matter assimilated, i.e. CH or CH2 (Iacono-Marziano et al., accepted for publication). c Fluxes resulting at 10 MPa from the degassing of a basaltic magma (initial H2O, CO2 and S contents of 0.50, 0.08 and 0.10 wt%, respectively) without assimilation. n CO fluxes include the contribution of volatilization of graphite and native iron formation according to reaction (3) in Iacono-Marziano et al. (accepted for publication). nn NO fluxes resulting from nitrogen fixation at the lava surface. nnn Fluxes resulting from contact metamorphism of carbonaceous rocks, calculated following Svensen et al. (2009)."
+  }, {
+    "heading": "2.2.1. Application to the Siberian Traps",
+    "text": "The simulations were run on a domain covering current Siberia (the studied area is limited by Urals to the West and by Tienschan, Altay, Sayan Mountains and Stanovoy range to the South and South-East) and used the present geography and topography. The climate prior to the Permian–Triassic boundary was significantly warmer than today, and there is no evidence for polar climates (Chumakov and Zharkov, 2003; Roscher et al., 2011). Atmospheric temperature plays both a direct and indirect role in Eqs. (1)–(4), and in particular affect CH4 lifetime. However, given the uncertainty in existing estimates of pre-crisis atmospheric temperatures in the concerned area (e.g. Rees et al., 2002; Roscher et al., 2011), we preferred to use current temperature distribution in our modelling, and to run our simulations during the whole month of July. July is the time of the year when photolysis chemistry is most active because of intense solar radiation. Therefore it is in summer that OH production is most important leading to the expected significant modifications of CO and CH4 lifetimes.\nSeveral global climatic models employed end-Permian palaeogeography to estimate the effect of increased concentrations of greenhouse gases in the atmosphere (e.g. Kiehl and Shields, 2005; Roscher et al., 2011). Differently from these models that consider inert greenhouse gases, we deal with the chemical reactions of the main reactive species of the atmosphere. In this sense, the originality of our modelling is that it can estimate the impact at the regional scale of ‘‘modified’’ magmatic gas emissions on the reactivity of the atmosphere and therefore on the lifetime of its constituents, like methane and carbon monoxide.\nThe polar stereographic projection used leads to a horizontal grid spacing of 14 km 14 km. The model domain extends vertically from surface up to 21 km with a vertical grid-spacing increasing with altitude: the thickness of the lowest layer (close to the surface) is 30 m, while that of the upper layer (in the lower stratosphere) is 1 km.\nFor the meteorological variables, the model initialisation and the boundary conditions are prescribed from the European Centre for Medium-range Weather Forecasts (ECMWF) operational analysis for 2008. This year was chosen randomly since the climatologic conditions prevailing at the end of the Permian are not precisely known, but they may have been similar to the actual ones (Rees et al., 2002). Note that the choice of a different year would not change the main conclusions of this study.\nTo initialize the photochemistry module, the volume mixing ratio of CH4 is assumed to be 500 ppbv, the mean value that was prevailing before the industrial period (Fischer et al., 2008). In the troposphere, the CO volume mixing ratio is set initially to 50 ppbv, the NOy (HNO3þNOþNO2þNO3þHNO4þN2O5þHONO) volume mixing ratio is set to 0.5 ppbv and the ozone volume mixing ratio to 10 ppbv corresponding to present-day not polluted area. Water vapour is a prognostic variable computed by the atmospheric model.\nThe parameters that are injected in the model are the emitted volatile species, and the geometry and geographical location of the emission zone. The magmatic/volcanic volatile species considered are CH4, CO, H2, H2O, NO with the annual fluxes estimated in Table 1. We do not include CO2 emissions in our atmospheric simulations because (i) we have no constraints to precisely quantify CO2 produced by magma–carbonate interactions (see Section 3.1), and (ii) they do not influence the lifetimes of CO and CH4 and therefore their dispersion into the atmosphere. CO2 lifetime in the atmosphere is extremely long, therefore an increase in CO2 concentration would not change our results for CO and CH4. The photochemical loss reaction of CO2:\nCO2þphoton4COþO (5)\nis only significant in the upper atmosphere, and negligible in the lower atmosphere.\nThe emission zone was considered 210 km long and 14 km wide, in agreement with the total area of native iron-bearing intrusions currently outcropping (Ryabov and Lapkovsky, 2010); this choice has a negligible influence on gas dispersion in the absence of a lava flow, but an important role (discussed below) in the presence of it. The emission zone has been centred at 641N, 961E, in agreement with the current location of the Siberian Traps, as the latitude of the Siberian platform at the end of the Permian was likely similar to the actual one (Rees et al., 2002). Apart from volcanic emissions, present natural emissions of CO and NO are also taken into account. They come from monthly mean data from the GEIA (Global Emissions Inventory Activity) database (/http:// www.geiacenter.org/S) and represent present-day natural emissions since we do not have information on natural emissions at the end of the Permian.\nTwo scenarios are simulated: magma intrusion without lava production at surface, and magma intrusion associated with lava flows. In the case of magma intrusion without lava production at surface, we assume that there is no heat flux from the surface to the atmosphere. Two simulations of 30 days were run for minimum and maximum gas fluxes (first and second column in Table 1, respectively). The occurrence of a lava flow heats the atmosphere, inducing a temperature perturbation expected to favour convective vertical transport of gas emissions and thus to have significant effects on gas dispersion. Moreover convection leads to the formation of clouds, which affect photolysis rates due to their filtering effect on solar radiation. We run an additional simulation of 30 days for minimum gas fluxes (third column in Table 1). We used a heat flux of 5.5 103 W m 2 proposed by Kaminski et al. (2010), from which we derived a temperature perturbation applied to the first atmospheric model layer above surface at each model time step. The intensity of the temperature perturbation strictly depends on the geometry of the emission zone, i.e. the area of the lava flow: the larger the emission zone, the more significant the temperature perturbation. Due to the lack of information about the size of a possible lava flow associated to the emplacement of native iron-bearing intrusions, we only explored the case of a lava flow having the extension of the intrusions (i.e. 210 km 14 km)."
+  }, {
+    "heading": "2.3. Mid-term estimations of methane concentration in the atmosphere",
+    "text": "Complementary calculations were performed for methane to estimate the effect of 10 yr lasting magmatic activity on the mean CH4 volume mixing ratio of the whole atmosphere. Magma production rate (100 km3/yr) and consequent gas emissions (Table 1) were assumed constant during a time T and the lifetime of CH4 constant in the atmosphere. Calculations were performed for CH4 lifetimes of 8, 10, 15, 20 yr. The initial CH4 volume mixing ratio is assumed to be 500 ppbv, the mean value that was prevailing before the industrial period (Fischer et al., 2008). The total mass of CH4, M(t), present in the atmosphere at time t was therefore calculated as\nM tð Þ ¼m0t 1 exp t\nt\nat time toT ð6Þ\nM tð Þ ¼m0t exp t\nt\nexp\nT t 1 at time t4T ð7Þ\nwhere t is the lifetime of CH4, and m0 is the mass of CH4 emitted by magmatic activity per second. Assuming that emitted CH4 molecules fill the whole atmosphere with a uniform volume mixing ratio, the following expression can be derived:\nm tð Þ ¼ MðtÞmairg P0mCH4 4pR 2 ð8Þ\nwhere m(t) is CH4 volume mixing ratio, mair and mCH4 are the mean molar mass of air and CH4, respectively, g is the gravitational acceleration, P0 is the ground pressure, and R is the earth radius. The evolution of m(t) was investigated over 100 yr, including 10 yr of magmatic activity."
+  }, {
+    "heading": "3. Results",
+    "text": ""
+  }, {
+    "heading": "3.1. Gas production potential of a single intrusive event at the Siberian Traps",
+    "text": "As Fig. 2 schematically illustrates, basaltic magmas of the Siberian Traps ascended through a thick Neoproterozoic–Permian sedimentary\npile comprising carbonates, shales, sandstones, evaporites (concentrated in central and southern Tunguska), and coaliferous sediments (Svensen et al., 2009; Czamanske et al., 1998).\nThe composition of the gas phase is dictated by the presence of native iron that constrains the fO2 of the magma and coexisting gases to be oFMQ-6: these conditions preclude the presence of ‘‘classical’’ volcanic gases dominated by H2O, CO2 and SO2 (Iacono-Marziano et al., accepted for publication). In particular, sulphur emissions are extremely low in proportion (SO2, but also H2S and S2). For the emplacement of Siberian native iron-bearing intrusions, we estimate that the amount of CO produced varied between 3 and 12 Gt/yr (Table 1). These fluxes are exceptional when compared to current CO emissions of anthropogenic origin that have been estimated to be 1 Gt for the year 2000 (EDGAR database, /http://edgar.jrc.ec.europa.euS). The corresponding annual consumption of coal is 1–2 km3, which is a negligible amount in front of the coal resources of the Tunguska basin (4106 km2, 1850 Gt; Akulov, 2006).\nWhen magma intrusion is not associated with lava flows, high temperature gases could be affected by cooling after separation from the magma, therefore modifying their composition CO to H2O–CH4–CO2 dominated (Iacono-Marziano et al., accepted for publication). Assessing the amount of cooling is extremely\ndifficult, as several parameters are not precisely known, such as the actual depth of formation of native iron bearing intrusions, the volumes of involved magma, and the thermal conditions of host rocks. On the contrary, gas cooling is unlikely to occur when gas ascent is accompanied by magma rising to form lava flows at surface. We will not take into account the effect of gas cooling either in the case of magma intrusion without or with associated lava flow.\nIn the case of magma intrusion accompanied by lava flows, gas emissions are slightly richer in carbon monoxide and depleted in the other species (Table 1). This is due to the difference in the degassing pressure, which is 10 MPa in the case of shallow intrusions (Iacono-Marziano et al., accepted for publication), and 0.1 MPa when the magma reaches the surface to feed a lava flow. The amount of NO calculated to be produced by atmospheric nitrogen fixation at the lava surface varies between 1 and 5 1012 g/yr NO, depending on the surface temperature of the lava flow (Mather et al., 2004).\nA likely additional contribution to CO-dominated gas emissions is represented by CO2-dominated gases produced by the assimilation of carbonate rocks occurring at higher depths than that of coal sediments (Fig. 2). SO2 and halocarbon emissions by assimilation of evaporitic rocks are less probable in the area of native iron-bearing intrusions (see Section 2.1 and Fig. 2). When CO2 produced by carbonate assimilation coexists with the ascending magma, it increases magma potential to assimilate organic matter and produce CO. For instance, an initial CO2 content of 2 wt% (instead of 0.24 wt%) prior to organic matter incorporation, implies that 1.2 wt% organic matter (instead of 0.5 wt%) is necessary to reach saturation in both graphite and native iron at 10 MPa, yielding 3.4 wt% CO in the magma (instead of 1.0 wt%). We cannot precisely estimate this additional contribution to CO emissions, given the extreme difficulty to quantify the amount of CO2 produced by magma–carbonate interactions and the portion of this CO2 that coexist with the magma upon its ascent. More generally, interactions with carbonates and evaporites and their gas production potential will be neglected here, due to the lack of constraints to precisely quantify them.\nOn the contrary, the contribution of contact metamorphism of organic matter-rich sedimentary rocks to gas emissions has\nbeen estimated for the Siberian Traps (Svensen et al., 2009). Low-temperature destabilization of hydrocarbons in the contact aureoles leads to methane emissions between 12,300 and 37,000 Gt at the basin scale (Svensen et al., 2009). From these emissions (tot CH4), considering a magma production rate (MPR) of 100 km3/yr (Chenet et al., 2008), and a total magma volume (TMV) of 4 105 km3 (Svensen et al. 2009), we calculate an annual CH4 production rate during a single intrusive/eruptive event (e.g. the emplacement of native iron-bearing intrusions) as\nCH4 (g/yr)¼tot CH4 (g) MPR (km3/yr)/TMV (km3) (9)\nwhich is 3.1–9.3 1015 g/yr, therefore comparable to CO emissions on a yearly basis (Table 1).\nCalculated gas emissions for the degassing of purely magmatic volatiles from a basaltic melt saturated in H2O, CO2 and S at 100 MPa is also shown in Table 1, to compare with emissions due to organic matter assimilation. Volatile contents calculated by this approach are within the range of those typically measured in basaltic melts (Jambon, 1994 and references therein; Wallace, 2005 and references therein). Table 1 clearly illustrates how coal assimilation substantially increases gas emissions and strongly modifies their composition. The total volatile yield of a single magmatic event is increased by factor of 7–20, due to magma– sediment interactions and produced total fluxes reach 7 1015– 2 1016 g/yr (Table 1). Carbon monoxide becomes the dominant degassed species, overwhelming CO2 and H2O, while H2 and CH4 abundances strongly increase. We recall that a possible contribution from carbonate (and less probably evaporite) assimilation is neglected here."
+  }, {
+    "heading": "3.2. CO and CH4 dispersion",
+    "text": "Fig. 3(a–c) shows the volume mixing ratio of CO in the lower layers of the atmosphere (0–30 m), 30 days after the gases produced by magma intrusion arrive at surface (the results for 10 and 20 days are shown in Fig. 1 of the Appendix). Three different simulations are presented: the first two have been run using maximum (Fig. 3a) and minimum (Fig. 3b) gas emissions calculated for magma intrusion at 350–500 m depth, while the\nthird one (Fig. 3c) employed minimum gas fluxes estimated for magmatic intrusions associated to lava flows (third column in Table 1). In this last case, a temperature perturbation accounts for the heating effect of the lava flow (see Section 2.2.1). In all cases both the magma production rate (100 km3/yr) and the consequent gas emissions (in Table 1) have been assumed constant during time.\nIn the three simulations, the lateral propagation of CO is significant at the continent scale within 20 days (Fig. SM1 b, e, h). After 30 days, CO volume mixing ratios ranging between 2 and 5 ppmv (typical values measured in urban areas; WHO, 2004) are observed over a zone of 301 in longitude and 121 in latitude ( 2 106 km2) for minimum gas fluxes (Fig. 3b and c) and over most of the continent, for maximum gas fluxes (Fig. 3a). Close to the gas production zone CO volume mixing ratios higher than 50 ppmv are locally reached. This value represents the current Permissible Exposure Limit (PEL) for 8 h established by the World Health Organization (WHO, 2004). In the case of lava flows, the associated temperature perturbation significantly reduces the area affected by CO volume mixing ratios higher than 50 ppmv, whilst only slightly influencing the extension of the zone showing 2–5 ppmv volume mixing ratios. The impact of the lava flow on CO dispersion would increase with the area of the emission zone. Owing to the lack of evidence for lava flow accompanying magma intrusion at depth, hence on their potential extension, we did not investigate further the thermal effect on gas dispersion.\nFig. 3(d–f) shows CH4 volume mixing ratio in the lower layers of the atmosphere (0–30 m) accompanying CO volume mixing ratios in Fig. 3(a–c). CH4 dispersion is greater than that of CO: after 30 days that gas emissions reached the surface, the area concerned by volume mixing ratios between 2 and 5 ppmv covers most of the continent, for the three simulations (Fig. 3d–f). Similarly to CO, the effect of the lava flow is to reduce CH4 volume mixing ratios close to the emission zone (Fig. 3f)."
+  }, {
+    "heading": "3.3. CO and CH4 lifetimes",
+    "text": "The horizontal propagation of CO and CH4 far from the degassing area leads to a significant perturbation of the atmosphere chemistry at the continental scale, consisting in a strong reduction of the radical OH concentration and therefore a decrease in the oxidizing potential of the atmosphere. Both CO and CH4 lifetimes are functions of the radical OH concentration (reactions (3) and (4)). The effect of extremely reduced gas emissions (CO, CH4, H2-dominated), resulting from magmatic intrusions into coaliferous sediments, is therefore to considerably increases both CO and CH4 lifetimes. In the present lower atmosphere CO, and CH4 lifetimes are 1.6 months and 5 yr, respectively, for a mean OH concentration of 1 106 cm 3 (Wang et al., 2001). Fig. 4a (and Fig. SM3 a, b, c) shows how, after 30 days of gas emissions, CO lifetime increases to 5–20 months at a continental scale and locally close to the emission centre up to 100– 1000 months. CH4 lifetime increases to 20–100 yr at a continental scale and locally close to the emission centre up to 100–10,000 yr (Fig. 4b, and Fig. SM3 d, e, f). The effect of clouds, which strongly decreases OH concentration, can be observed in Fig. 4 at longitudes of 120–160E. The occurrence of clouds reduces photochemical activity (reactions (1) and (2)) and therefore increases CO and CH4 lifetimes.\nWhen a lava flow is associated with magma intrusion, CO and CH4 lifetimes also depend on NO produced by atmospheric nitrogen oxidation at the lava surface. NO increases ground level ozone production, therefore increasing OH generation (reactions (1) and (2)) and decreasing CH4 and CO lifetimes."
+  }, {
+    "heading": "3.4. CH4 contents in the whole atmosphere",
+    "text": "The complementary calculations performed on 100-yr duration allow to evaluate the mid-term impact of trap emplacement\nin terms of methane emissions. Magma production rate (100 km3/yr) and consequent gas emissions (in Table 1) were assumed constant during time and the lifetime of CH4 constant in the atmosphere. Fig. 5 shows the evolution of the mean CH4 volume mixing ratio over the whole atmosphere, during and after 10 yr of magmatic activity. Calculations using the current mean CH4 lifetime in the whole atmosphere of 8 yr (Fischer et al., 2008) show that a 10 yr-lasting magmatic activity would increase CH4 volume mixing ratio up to 7–19 ppmv (for minimum and maximum gas emissions in Table 1), 14–38 times higher than initial CH4 concentration, and 3–10 times higher than the present one (1.77 ppmv; IPCC, 2007). The amount of time necessary to return initial conditions would be 50–60 yr.\nWe have seen in Section 3.3 that large CO and CH4 emissions substantially increase CH4 lifetime, by reducing OH concentration in the atmosphere. For the lower atmosphere, we calculate CH4 lifetimes between 20 and 100 yr at the continental scale (Fig. 4b). Only a global model would realistically estimate the mean increase in CH4 lifetime in the whole atmosphere as a consequence of 10 yr of magmatic activity. Fig. 5 gives however an estimation of the effect of increasing CH4 lifetime on the mean CH4 volume mixing ratios of the atmosphere and on the time necessary to restore initial conditions (blue, orange and green curves in Fig. 5). In the case of maximum gas emissions, CH4 lifetime increasing to 10, 15 and 20 yr would yield mean CH4 volume mixing ratios in the whole atmosphere of 21, 24 and 26 ppmv, respectively. These values are 42–52 times higher than initial methane concentration, and 12–15 times higher than the current one (IPCC, 2007). Moreover, the time required to bring back the atmospheric CH4 volume mixing ratio to the initial value would increase to 75–100 yr (Fig. 5)."
+  }, {
+    "heading": "4. Impact on the environment and life",
+    "text": "Although volatile emissions during the emplacement of Siberian volcanism/magmatism are still not univocally identified as the cause of the end-Permian crisis (e.g. Knoll et al., 2007; Brand et al., 2012), several hypotheses exist regarding the related kill mechanisms that impacted both marine and terrestrial environments in apparently distinct ways. Poisoning due to trace metals was suggested by Vogt (1972). Rapid and severe climatic changes and major modifications in marine and terrestrial biota were proposed to result from rapid global cooling caused by the injection of volcanic ash and sulphate aerosols into the atmosphere (e.g. Axelrod, 1981; Roscher et al., 2011). Elevated global atmospheric CO2 levels were proposed to have led during the end-Permian crisis to climatic conditions inhospitable to both\nmarine and terrestrial life and to hypercapnia (Kiehl and Shields, 2005; Knoll et al., 2007; Retallack and Jahren, 2008; Retallack, in press; Brand et al., 2012). Strong constraints for these high CO2 levels come from the stomatal index of fossil leaves (Retallack, 2001, in press), and the physiological adaptations experienced by marine organisms (Knoll et al., 2007 and references therein). Global warming due to the emission of thermogenic and/or magmatic greenhouse gases was also repeatedly evoked to have affected marine and terrestrial biota (Retallack, 1999, 2001, in press; Wignall, 2001; Courtillot and Renne, 2003; Kiehl and Shields, 2005; Knoll et al., 2007; Retallack and Jahren, 2008; Brand et al., 2012). Thermogenic emissions of greenhouse gases and halocarbons from the Siberian Traps were also suggested to have caused ozone depletion: the collapse of the ozone layer would have led to high levels of surface radiation causing various biological damages to terrestrial organisms (Svensen et al., 2009). As shown by Knoll et al. (2007), the killer mechanism was probably not unique, but rather a synergy of different perturbations interacting to increase the vulnerability of organisms to environmental changes.\nSome assumptions have been necessary to estimate gas fluxes produced during magma–sediment interactions and several simplifications have been used to carry out the atmospheric modelling of these gas emissions in conditions relevant to the emplacement of the Siberian intrusions. Nevertheless, our results clearly point out that after only one month of magmatic intrusion in coaliferous sediments (i) exceptional concentrations of CO and CH4 in the lower atmosphere are locally reached, (ii) the lifetimes of these two species in the atmosphere are strongly enhanced relative to pre-magmatic conditions. The effect of 10 yr lasting magmatic activity is to increase by a factor of 14–38 methane concentration in the whole atmosphere. This effect is even more pronounced if the increase in methane lifetime is taken into account. Hereafter we discuss the most likely environmental implications of these phenomena."
+  }, {
+    "heading": "4.1. Local and short term implications",
+    "text": "The extremely high volume mixing ratios of carbon monoxide produced by one month of magmatic activity are likely to have had a poisoning effect on end-Permian fauna at a local scale and in the very short term. Unfortunately, we cannot directly estimate the importance of this effect using the present knowledge because all current studies have been conducted on mammals (Penney, 1990; WHO, 2004). Without this crucial information all discussions about the lethal effect of CO are too speculative and the atmospheric modelling of CO dispersion over longer durations than 30 days is worthless. Moreover, detailed studies of Siberian\nfauna through the end-Permian extinction are currently missing to compare with surveys in other continents (e.g. Ward et al., 2005) to gain information about the ‘‘local’’ effect of CO emissions.\nWe however stress that the effect of CO on animal health has been observed to strongly depend on the concentration, but also on the time of exposure (WHO, 2004). In our case, exposure times to high concentrations are particularly large, as diurnal variations are very limited due to the lifetime of CO considerably larger than one month."
+  }, {
+    "heading": "4.2. Global and long term effects",
+    "text": "The important increase in both methane lifetime (Fig. 4b), and methane concentration in the whole atmosphere (Fig. 5) due to magmatic (7volcanic) activity at the Siberian Traps has an obvious implication in the enhancement of the global warming potential of the end Permian–early Triassic. Though a precise quantification of this effect for the end-Permian atmosphere is beyond the scopes of this paper, we can nevertheless estimate the radiative forcing (DF) in W/m2 for methane, which expresses the change in the net irradiance of the atmosphere due to the increase in methane concentration. To this aim, we use the empirical equation of Hansen et al. (1988):\nDF¼0.036 (OM OMo) [f(M,No) f(Mo,No)] (10)\nwhere M is the CH4 volume mixing ratio in ppbv, Mo and No are the initial volume mixing ratios of CH4 and N2O in ppbv (500 and 250 ppbv, respectively as explained in Section 2.2.1). f(M,N) are the methane–nitrous oxide overlap terms that account for the significant overlap between some of the infrared absorption bands of these two species:\nf(M,N)¼0.47 ln [1þ2.01 10 5(MN)0.75þ5.31 10 15 M (MN)1.52] (11)\nThe equation was obtained for Mo5000 ppbv. The volume mixing ratios of CH4 that we calculate for 10 yr of magmatic– volcanic activity vary from 7000 to 26000 ppbv, depending on methane lifetime and on whether minimum or maximum methane production fluxes are considered. Though these values are only speculative because the duration of a single magmatic/volcanic event of the Siberian Traps is not precisely known, we can nevertheless extrapolate Eq. (10) to estimate the radiative forcing resulting from magmatic activity lasting 10 yr, which represent a minimum duration for a single event of large igneous provinces (Chenet et al., 2008). For M¼7000 and 26000 ppbv, we obtain a radiative forcing of 1.9 and 4.2 W/m2, respectively. The lower value (1.9 W/m2) is comparable to the radiative forcing due to the increase of both CO2 and CH4 concentration between 1765 and 1990 (IPCC, 1990), the total radiative forcing of long-life greenhouse gases for year 2005 being 2.63 W/m2 (IPCC, 2007). Although very approximated, these calculated values of radiative forcing therefore suggest that methane emissions from magma–organic matter interaction at the Siberian Traps had a high climate perturbation potential. We recall that CO2 emissions due the interaction of the magma with carbonate rocks during magma rising (and less likely SO2 and halocarbon emissions due to magma–evaporite interactions) are expected to have accompanied CO and CH4 emissions (Svensen et al., 2009), and to have therefore increased the total radiative forcing due to greenhouse gases.\nThe estimation of the Global Warming Potential of methane is particularly complex for the studied context (methane enhances its own lifetime through changes in OH concentration and carbon monoxide also contributes to reduce OH concentration), and will not be attempted.\nMethane emissions at the Siberian Traps have been also considered responsible for the marked negative carbon isotope shift observed in both marine and terrestrial sediments at the end of the Permian (Retallack and Jahren, 2008). Recently the occurrence of terrestrial carbon, in the form of char, in marine sediments from the Canadian High Arctic has been considered as a direct testimony of coal combustion at the Siberian Traps (Grasby et al., 2011). This char therefore provides a temporal link between magma–coal interactions at the Siberian Traps and the end-Permian extinction event. Three coal fly ash loading events have been recognized in the Permian sediments deposited immediately before the mass extinction, the first event being synchronous with the beginning of a significant negative d13Corg shift (Grasby et al., 2011), consistent with inorganic and organic records observed globally in both marine and terrestrial sediments (e.g. Payne and Kump, 2007; Retallack and Jahren, 2008; Grasby and Beauchamp, 2008).\nAs far as we know, the C isotopic signature of CO produced by high temperature interaction between magma and organic matter is currently unconstrained. However, isotopic analyses of graphite from native iron-bearing intrusions indicate very limited fractionation of C between organic matter and graphite (Ryabov and Lapkovsky, 2010), suggesting a C isotopic signature of CO also similar to that of the organic matter [d13CPDB from 22.6 to 30%; Ryabov and Lapkovsky, 2010]. On this basis, we suggest that large amounts of organic matter-derived CO are therefore likely to have contributed to the negative carbon isotopic excursion of the end-Permian. Berner (2002) calculated that 4200 Gt of C released into the atmosphere as methane with a carbon isotopic composition d13C¼ 65% could have accounted for the maximum measured isotopic shift of 8% in d13C of the oceans at the Permian–Triassic boundary. If released carbon had a heavier isotopic composition, similar to that of the organic matter, the amount of carbon required to explain the isotopic shift would have been more than double (by classical isotopic mass balance). Considering a d13C comprised between 23% and 30% for both CO and CH4 Svensen et al. (2009) estimated d13C between 25% and 30% for thermogenic methane), we calculate that 800–3000 yr of emissions of carbon monoxide and methane with the fluxes indicated in Table 1 would supply the necessary amount of carbon."
+  }, {
+    "heading": "5. Conclusions",
+    "text": "LIP eruptions coincide with major mass extinctions (Vogt, 1972; Courtillot and Renne, 2003). The possible causal link has been ascribed to both short and long term effects of volcanic gas emissions (Wignall, 2001; Scaillet, 2008). Here we show that the environmental consequences of magmatic activity are, inter alia, strongly dependent on magma–host rock interactions, in particular when the host rocks are composed of carbonates, sulphates, salts, or organic compounds (as already proposed by Svensen et al., 2004, 2007, 2009; Ganino and Arndt, 2009). Such a mechanism leads to atmospheric injection of volatiles in amounts greatly exceeding the original magmatic content and possibly departing significantly from the redox state of the magma source. The atmospheric modelling of CO–CH4 dominated gas emissions resulting from magma–organic matter interactions at the Siberian Traps shows that (i) carbon monoxide levels attained in the low atmosphere at the continental scale were comparable to those currently measured in polluted urban areas (2–5 ppmv), and significantly higher close to the degassing zone (450 ppmv); (ii) important perturbations of atmosphere chemistry were attained leading to substantial decrease in the radical OH concentration; (iii) CO and CH4 lifetimes were consequently enhanced (3–20 times at the continental scale),\ntherefore increasing the residence time of these two species in the atmosphere. Ten years of magmatic/volcanic activity are calculated to increase by factor of 10–50 the mean concentration of methane in the whole atmosphere, yielding a radiative forcing comparable or superior to that due to the increase of both CO2 and CH4 concentration between 1765 and 1990. Short-term poisoning of local fauna by carbon monoxide and long-term global warming by methane are therefore the most likely implications of gas emissions due to magma–organic matter interactions at the Siberian Traps."
+  }, {
+    "heading": "Acknowledgements",
+    "text": "G.I.M. was funded by the European Community’s Seventh Framework Programme (Grant agreement no. PIEF-GA-2008220926). F.G. is supported by the ERC contract no. 279790. The numerical simulations were performed on the cluster of the Centre de Calcul Scientifique en Région Centre. CATT-BRAMS is free software provided by CPTEC/INPE and distributed under the CC-GNU-GPL licence. We thank Roberto Salzano for his useful advice. We thank B. Marty for the careful handling of the manuscript, H. Svensen and an anonymous reviewer for their constructive comments that greatly improved the paper."
+  }, {
+    "heading": "Appendix A. Supporting information",
+    "text": "Supplementary data associated with this article can be found in the online version at http://dx.doi.org/10.1016/j.epsl.2012.09.051."
+  }],
+  "year": 2012,
+  "references": [{
+    "title": "Nodules in carbonaceous sediments of the Southern Tunguska Basin",
+    "authors": ["N.I. Akulov"],
+    "venue": "Lithol. Min. Res",
+    "year": 2006
+  }, {
+    "title": "Role of volcanism in climate and evolution",
+    "authors": ["D.I. Axelrod"],
+    "venue": "Geol. Soc. Am",
+    "year": 1981
+  }, {
+    "title": "Examination of hypotheses for the Permo–Triassic boundary extinction by carbon cycle modeling",
+    "authors": ["R.A. Berner"],
+    "venue": "Proc. Natl. Acad. Sci",
+    "year": 2002
+  }, {
+    "title": "The end-Permian mass extinction: a rapid volcanic CO2 and CH4climatic catastrophe",
+    "authors": ["U. Brand", "R. Posenato", "R. Came", "H. Affek", "L. Angiolini", "K. Azmy", "E. Farabegoli"],
+    "year": 2012
+  }, {
+    "title": "Modelling massive sulphate aerosol pollution, following the large 1783 Laki basaltic eruption",
+    "authors": ["A.L. Chenet", "F. Fluteau", "V. Courtillot"],
+    "venue": "Earth Planet. Sci",
+    "year": 2005
+  }, {
+    "title": "Determination of rapid Deccan eruptions across the Cretaceous-Tertiary boundary using paleomagnetic secular variation: results from a 1200-m-thick section in the Mahabaleshwar escarpment",
+    "authors": ["A.L. Chenet", "F. Fluteau", "V. Courtillot", "M. Gérard", "K.V. Subbarao"],
+    "venue": "J. Geophys. Res",
+    "year": 2008
+  }, {
+    "title": "Climate during the Permian–Triassic biosphere reorganizations. Article 2. Climate of the Late Permian and Early Triassic: general inferences",
+    "authors": ["N.M. Chumakov", "M.A. Zharkov"],
+    "venue": "Strat. Geol. Correl",
+    "year": 2003
+  }, {
+    "title": "Crises and extinction in the fossil record—a role for ultraviolet radiation",
+    "authors": ["C.S. Cockell"],
+    "venue": "Paleobiology",
+    "year": 1999
+  }, {
+    "title": "Large igneous provinces: crustal structure, dimensions, and external consequences",
+    "authors": ["M.F. Coffin", "O. Eldholm"],
+    "venue": "Rev. Geophys",
+    "year": 1994
+  }, {
+    "title": "On the ages of flood basalt events",
+    "authors": ["V. Courtillot", "P. Renne"],
+    "venue": "C. R. Geosci",
+    "year": 2003
+  }, {
+    "title": "Petrographic and geochemical characterization of orebearing intrusions of the Noril’sk type, Siberia, with discussion of their origin: Tokyo",
+    "authors": ["G.K. Czamanske", "T.E. Zen’ko", "V.A. Fedorenko", "L.C. Calk", "J.R. Budahn", "B.S.W. King", "D.F. Siems"],
+    "venue": "Resour. Geol. (Special",
+    "year": 1995
+  }, {
+    "title": "Demise of the Siberian Plume: paleogeographic and paleotectonic reconstruction from the prevolcanic and volcanic record, North-Central Siberia",
+    "authors": ["G.K. Czamanske", "A.B. Gurevitch", "V. Fedorenko", "O. Simonov"],
+    "venue": "Int. Geol. Rev",
+    "year": 1998
+  }, {
+    "title": "Frontiers in Large Igneous Province research",
+    "authors": ["R.E. Ernst", "K.L. Buchan", "I.H. Campbell"],
+    "venue": "Lithos",
+    "year": 2005
+  }, {
+    "title": "End-Permian mass extinction: a review",
+    "authors": ["D.H. Erwin", "S.A. Bowring", "J. Yugan"],
+    "year": 2002
+  }, {
+    "title": "Extinction: How Life on Earth Nearly Ended 250 Million Years Ago",
+    "authors": ["D.H. Erwin"],
+    "year": 2006
+  }, {
+    "title": "Changing boreal methane sources and constant biomass burning during the last termination",
+    "authors": ["H. Fischer", "M. Behrens", "M. Bock", "U. Richter", "J. Schmitt", "L. Loulergue", "J. Chappellaz", "R. Spahni", "T. Blunier", "M. Leuenberger", "T.F. Stocker"],
+    "venue": "Nature 452,",
+    "year": 2008
+  }, {
+    "title": "The Coupled Aerosol and Tracer Transport model to the Brazilian developments on the Regional Atmospheric Modeling System (CATT-BRAMS)—Part 1: model description and evaluation",
+    "authors": ["S.R. Freitas", "K.M. Longo", "Dias", "M.A.F.S", "R. Chatfield", "P.S. Dias", "P. Artaxo", "M.O. Andreae", "G. Grell", "L.F. Rodrigues", "A. Fazenda", "J. Panetta"],
+    "venue": "Atmos. Chem. Phys",
+    "year": 2009
+  }, {
+    "title": "Interaction of magma with sedimentary wall rock and magnetite ore genesis in the Panzhihua mafic intrusion",
+    "authors": ["C. Ganino", "N.T. Arndt", "Zhou", "M.-F", "F. Gaillard", "C. Chauvel"],
+    "venue": "SW China. Miner. Deposita",
+    "year": 2008
+  }, {
+    "title": "Climate changes caused by degassing of sediments during the emplacement of large igneous",
+    "authors": ["C. Ganino", "N.T. Arndt"],
+    "venue": "province. Geology",
+    "year": 2009
+  }, {
+    "title": "Intrabasin variability of the carbon-isotope record across the Permian_Triassic transition, Sverdrup Basin, Arctic Canada",
+    "authors": ["S.E. Grasby", "B. Beauchamp"],
+    "venue": "Chem. Geol",
+    "year": 2008
+  }, {
+    "title": "Catastrophic dispersion of coal fly ash into oceans during the latest Permian extinction",
+    "authors": ["S.E. Grasby", "H. Sanei", "B. Beauchamp"],
+    "venue": "Nat. Geosci",
+    "year": 2011
+  }, {
+    "title": "Prognostic evaluation of assumptions used by cumulus parameterizations",
+    "authors": ["G.A. Grell"],
+    "venue": "Mon. Weather Rev",
+    "year": 1993
+  }, {
+    "title": "A generalized approach to parameterizing convection combining ensemble and data assimilation",
+    "authors": ["G.A. Grell", "D. Dévényi"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2002
+  }, {
+    "title": "Global climate changes as forecast by Goddard Institute for Space Studies",
+    "authors": ["J. Hansen", "I. Fung", "A. Lacis", "D. Rind", "S. Lebedeff", "R. Ruedy", "G. Russell"],
+    "venue": "Three Dimensional Model. J. Geophys. Res",
+    "year": 1988
+  }, {
+    "title": "Volcano fixes nitrogen into plant available",
+    "authors": ["B. Huebert", "P. Vitousek", "J. Sutton", "T. Elias", "J. Heath", "S. Coeppicus", "S. Howell", "B Blomquist"],
+    "venue": "forms. Biogeochemistry",
+    "year": 1999
+  }, {
+    "title": "Limestone assimilation and the origin of CO2 emissions from the Alban Hills (Central Italy): constraints from experimental petrology",
+    "authors": ["G. Iacono-Marziano", "F. Gaillard", "M. Pichavant"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2007
+  }, {
+    "title": "Role of non-mantle CO2 in the dynamics of volcano degassing: the Mount Vesuvius",
+    "authors": ["G. Iacono-Marziano", "F. Gaillard", "B. Scaillet", "M. Pichavant", "G. Chiodini"],
+    "venue": "example. Geology",
+    "year": 2009
+  }, {
+    "title": "Extremely reducing conditions reached during basaltic intrusion in organic matter-bearing sediments",
+    "authors": ["G. Iacono-Marziano", "F. Gaillard", "B. Scaillet", "A.G. Polozov", "V. Marecal", "M. Pirre", "N. Arndt"],
+    "venue": "Earth Planet. Sci. Lett.,",
+    "year": 2012
+  }, {
+    "title": "Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change",
+    "authors": ["S. Solomon", "D. Qin", "M. Manning", "Z. Chen", "M. Marquis", "K.B. Averyt", "M. Tignor", "H.L. Miller"],
+    "venue": "Intergovernmental Panel on Climate Change (IPCC),",
+    "year": 2007
+  }, {
+    "title": "Earth degassing and large-scale geochemical cycling of volatile elements",
+    "authors": ["A. Jambon"],
+    "venue": "Rev. Mineral",
+    "year": 1994
+  }, {
+    "title": "Rise of volcanic plumes to the stratosphere aided by penetrative convection above large lava flows",
+    "authors": ["E. Kaminski", "Chenet", "A.-L", "C. Jaupart", "V. Courtillot"],
+    "venue": "Earth Planet. Sci",
+    "year": 2010
+  }, {
+    "title": "Climate simulation of the latest Permian: implications for mass extinction",
+    "authors": ["J.T. Kiehl", "C.A. Shields"],
+    "venue": "Geology",
+    "year": 2005
+  }, {
+    "title": "Paleophysiology and end-Permian mass extinction",
+    "authors": ["A.H. Knoll", "R.K. Bambach", "J.L. Payne", "S. Pruss", "W.W. Fischer"],
+    "venue": "Earth Planet. Sci",
+    "year": 2007
+  }, {
+    "title": "Massive volcanism at the Permian–Triassic boundary and its impact on the isotopic composition of the ocean and atmosphere",
+    "authors": ["C. Korte", "P. Pande", "P. Kalia", "H.W. Kozur", "M.M. Joachimski", "H. Oberhänsli"],
+    "venue": "J. Asian Earth Sci",
+    "year": 2010
+  }, {
+    "title": "Riphean hydrocarbon reservoirs of the Yurubchen–Tokhom Zone, Lena-Tunguska Province, NE Russia",
+    "authors": ["V.G. Kuznetsov"],
+    "venue": "J. Pet. Geol",
+    "year": 1997
+  }, {
+    "title": "Map of geological formations of the Siberian platform cover",
+    "authors": ["A.L. Stavtsev", "A.T. Stulov", "L.I. Shahotko", "L.F. Schtein", "A.M. Tsekhomskyi", "E.N. Yanova"],
+    "year": 1974
+  }, {
+    "title": "Devonian and Lower Carboniferous [Sediments] of the Siberian Craton (Composition, Sedimentation Conditions and Ore Potential)",
+    "authors": ["R.G. Matukhin"],
+    "venue": "Nauka Publisher, Siberian Branch, Novosibirsk. (in Russian,",
+    "year": 1991
+  }, {
+    "title": "Development of a turbulence closure model for geophysical fluid problems",
+    "authors": ["G. Mellor", "T. Yamada"],
+    "venue": "Rev. Geophys",
+    "year": 1982
+  }, {
+    "title": "The age and duration of flood basalt magmatism: geochemical and palaeomagnetic constraints from the Siberian Province",
+    "authors": ["C. Mitchell", "J.G. Fitton", "A.I. Al’Mukhamedov", "A.I. Medvedev"],
+    "venue": "Mineral. Mag",
+    "year": 1994
+  }, {
+    "title": "Evidence for recurrent Early Triassic massive volcanism from quantitative interpretation of carbon isotope fluctuations",
+    "authors": ["J.L. Payne", "L.R. Kump"],
+    "venue": "Earth Planet. Sci",
+    "year": 2007
+  }, {
+    "title": "Acute carbon monoxide poisoning: animal models: a review",
+    "authors": ["D.G. Penney"],
+    "venue": "Toxicology",
+    "year": 1990
+  }, {
+    "title": "Early Cambrian seawater chemistry from fluid inclusions in halite from Siberian evaporites",
+    "authors": ["O.Y. Petrychenko", "T.M. Peryt", "E.I. Chechel"],
+    "venue": "Chem. Geol",
+    "year": 2005
+  }, {
+    "title": "Permian phytogeographic patterns and climate data/model comparison",
+    "authors": ["P.M. Rees", "A.M. Ziegler", "M.T. Gibbs", "J.E. Kutzbach", "P.J. Behling", "D.B. Rowley"],
+    "venue": "J. Geol",
+    "year": 2002
+  }, {
+    "title": "New 40Ar–39Ar data on basalts from the West Siberian Basin: extent of the Siberian flood basalt province",
+    "authors": ["M.K. Reichow", "A.D. Saunders", "R.V. White", "M.S. Pringle", "A.I. Al’Mukhamedov", "A. Medvedev", "N. Korda"],
+    "venue": "doubled. Science",
+    "year": 2002
+  }, {
+    "title": "Post-apocalyptic greenhouse paleoclimate revealed by earliest Triassic paleosols in the Sydney Basin, Australia",
+    "authors": ["G.J. Retallack"],
+    "venue": "Geol. Soc. Am",
+    "year": 1999
+  }, {
+    "title": "A 300-million-year record of atmospheric carbon dioxide from fossil plant cuticles",
+    "authors": ["G.J. Retallack"],
+    "venue": "Nature 411,",
+    "year": 2001
+  }, {
+    "title": "Permian and Triassic greenhouse crises",
+    "authors": ["G.J. Retallack"],
+    "venue": "Gondwana Research, http:// dx.doi.org/10.1016/j.gr.2012.03.003,",
+    "year": 2012
+  }, {
+    "title": "Carbon isotopic evidence for terminal-Permian methane outbursts and their role in extinctions of animals, plants, coral reefs, and peat swamps",
+    "authors": ["G.J. Retallack", "E.S. Krull"],
+    "venue": "Wetlands Through Time. Geological Society of America. (Special Paper 399),",
+    "year": 2006
+  }, {
+    "title": "Methane release from igneous intrusion of coal during Late Permian extinction events",
+    "authors": ["G. Retallack", "A.H. Jahren"],
+    "venue": "J. Geol",
+    "year": 2008
+  }, {
+    "title": "The effect of global warming and global cooling on the distribution of the latest Permian climate zones",
+    "authors": ["M. Roscher", "F. Stordal", "H. Svensen"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2011
+  }, {
+    "title": "Native iron (-platinum) ores from the Siberian Platform trap intrusions",
+    "authors": ["V.V. Ryabov", "A.A. Lapkovsky"],
+    "venue": "Aust. J. Earth Sci",
+    "year": 2010
+  }, {
+    "title": "Vapour undersaturation in primitive mid-ocean-ridge basalt and the volatile content of Earths upper mantle",
+    "authors": ["A.E. Saal", "E.H. Hauri", "C.H. Langmuir", "M.R. Perfit"],
+    "venue": "Nature 419,",
+    "year": 2001
+  }, {
+    "title": "Experimental and thermodynamic constraints on the sulphur yeld of peralkaline and metaluminous silicic flood eruptions",
+    "authors": ["B. Scaillet", "R. Macdonald"],
+    "venue": "J. Petrol",
+    "year": 2006
+  }, {
+    "title": "Geochemistry—are volcanic gases serial killers",
+    "authors": ["B. Scaillet"],
+    "venue": "Science",
+    "year": 2008
+  }, {
+    "title": "Linking mantle plumes, large igneous provinces and environmental catastrophes",
+    "authors": ["S.V. Sobolev", "A.V. Sobolev", "D.V. Kuzmin", "N.A. Krivolutskaya", "A.G. Petrunin", "N.T. Arndt", "V.A. Radko", "Y.R. Vasiliev"],
+    "venue": "Nature 477,",
+    "year": 2011
+  }, {
+    "title": "Release of methane from a volcanic basin as a mechanism",
+    "authors": ["S.S. Rey"],
+    "year": 2004
+  }, {
+    "title": "Siberian gas venting and the end-Permian environmental",
+    "authors": ["B. Jamtveit"],
+    "year": 2009
+  }, {
+    "title": "Rapid calculation",
+    "authors": ["C.P. McKay", "T.P. Ackerman", "K.L. Santhanam"],
+    "year": 1989
+  }, {
+    "title": "Environmental mutagenesis during the end-Permian",
+    "authors": ["M.A. Sephton"],
+    "year": 2004
+  }, {
+    "title": "Formulation and evaluation",
+    "authors": ["J.A. Pyle", "D.E. Shallcross", "D.J. Larry"],
+    "year": 2001
+  }, {
+    "title": "Abrupt and gradual extinction among late Permian land",
+    "authors": ["J.L", "R. Smith"],
+    "year": 2005
+  }],
+  "id": "SP:2dcfd322e71a9f0b3027fd93e5a089fb331bca8c",
+  "authors": [{
+    "name": "Giada Iacono-Marziano",
+    "affiliations": []
+  }, {
+    "name": "Virginie Marecal",
+    "affiliations": []
+  }, {
+    "name": "Michel Pirre",
+    "affiliations": []
+  }, {
+    "name": "Fabrice Gaillard",
+    "affiliations": []
+  }, {
+    "name": "Joaquim Arteta",
+    "affiliations": []
+  }, {
+    "name": "Bruno Scaillet",
+    "affiliations": []
+  }, {
+    "name": "Nicholas T. Arndt",
+    "affiliations": []
+  }],
+  "abstractText": "We estimate the fluxes of extremely reduced gas emissions produced during the emplacement of the Siberian Traps large igneous province, due to magma intrusion in the coaliferous sediments of the Tunguska Basin. Using the results of a companion paper (Iacono-Marziano et al., accepted for publication), and a recent work about low temperature interaction between magma and organic 10 g/yr for a single magmatic/volcanic event. These fluxes are 7–20 times higher than those calculated for purely magmatic gas emissions, in the absence of interaction with organic matter-rich sediments. We investigate, by means of atmospheric modelling employing present geography of Siberia, the short and mid-term dispersion of these gas emissions into the atmosphere. The lateral propagation of CO and CH4 leads to an important perturbation of the atmosphere chemistry, consisting in a strong reduction of the radical OH concentration. As a consequence, both CO and CH4 lifetimes in the lower atmosphere are enhanced by a factor of at least 3, at the continental scale, as a consequence of 30 days of magmatic activity. The short-term effect of the injection of carbon monoxide and methane into the atmosphere is therefore to increase the residence times of these two species and, in turn, their capacity of geographic expansion. The estimated CO and CH4 volume mixing ratios (i.e. the number of molecules of CO or CH4 per cm , divided by the total number of molecules per cm) in the low atmosphere are 2–5 ppmv at the continental scale and locally higher than 50 ppmv. The dimension of the area affected by these high volume mixing ratios decreases in the presence of a lava flow accompanying magma intrusion at depth. Complementary calculations for a 10-yr duration of the magmatic activity suggest (i) an increase in the mean CH4 volume mixing ratio of the whole atmosphere up to values 3–15 times higher than the current one, and (ii) recovery times of 100 yr to bring back the atmospheric volume mixing ratio of CH4 to the pre-magmatic value. Thermogenic methane emissions from the Siberian Traps have already been proposed to crucially contribute to end Permian–Early Triassic global warming and to the negative carbon isotopic shift observed globally in both marine and terrestrial sediments. Our results corroborate these hypotheses and suggest that concurrent high temperature CO emissions also played a key role by contributing to increase (i) the radiative forcing of methane and therefore in its global warming potential, and (ii) the input of isotopically light carbon into the atmosphere that generated the isotopic excursion. We also speculate a poisoning effect of high carbon monoxide concentrations on end-Permian fauna, at a local scale. & 2012 Elsevier B.V. All rights reserved.",
+  "title": "Gas emissions due to magma–sediment interactions during flood magmatism at the Siberian Traps Gas dispersion and environmental consequences"
+}

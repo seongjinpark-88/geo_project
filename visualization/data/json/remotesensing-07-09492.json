@@ -1,0 +1,247 @@
+{
+  "sections": [{
+    "text": "Remote Sens. 2015, 7 9493\neffectiveness of MODIS NDVI for identifying the causes of changes in land cover, and confirms the reduction in NDVI in the last decade using both the AVHRR and MODIS satellite data.\nKeywords: AHVRR; MODIS; land cover; land use; NDVI"
+  }, {
+    "heading": "1. Introduction",
+    "text": "Increases in vegetation throughout northern latitudes since the 1980s have been documented using satellite data [1–3]. Increases in the Normalized Difference Vegetation Index (NDVI) were found to correlate with increases in summer surface temperature in most parts of the Arctic [3]. Ground studies have also linked increases in sampled vegetation to summer warming at many locations across the tundra biome in the 1980–2010 period [4]. Recent trends in NDVI have slowed or even shown decreases in some areas, matching reduced warming [5]. In parts of Scandinavia, recent decreases in NDVI have been linked to winter warming events that reduced the protective snow layer [6] and also to unfavorable summer conditions and insect outbreaks [7].\nA circumpolar analysis of trends in annual maximum NDVI, conducted as part of other studies [8,9], revealed that Iceland had anomalously high increases of NDVI during the 1982–2010 time period (Figure 1).\nRemote Sens. 2015, 7 9494\nIceland’s land-cover is very dynamic compared to most of the Arctic. Periodic volcanic eruptions produce lava flows and ash deposits that dramatically transform landscapes. Human influence has also affected most of the country, despite a very low population density (3.1 inhabitants/km2 in 2010) [10]. At the time of settlement, around 870 CE, approximately 60% of Iceland was vegetated and some 15%–20% covered by birch forest [11]. Currently, only about 27% of the country is vegetated and natural forest only covers about 1% of the total area [12]. Erosion due to past human activities such as cutting trees and shrubs and grazing domestic animals still affects most areas: two-thirds of the country has slight, considerable or severe erosion; only 11% has little or no erosion; and 23% is covered by mountains, glaciers, rivers and lakes [11]. Though the erosion is largely due to deforestation and livestock grazing, it has also been influenced by changes in climate such as a long-term cooling trend that began about 3000 BP and continual volcanic activity [11]. Icelandic soils are especially vulnerable to erosion because the most common soil types, volcanic Andosols and Vitrisols, weather to non-silicate clays that lack cohesion [13].\nIceland has a tradition of detailed local natural observation, including weather observations since 1845 [14], which provide ground information for specific areas. However, the larger perspective provided by satellite data is relatively new, and has proved to be very effective for galvanizing action on country-wide issues such as erosion control [11]. Satellite data are particularly relevant for monitoring carbon sequestration according to the Framework Convention on Climate Change ratified by Iceland in 1993 [12]. NDVI and other vegetation indices can be directly related to plant biomass in Iceland [15]. Moderate-resolution satellites such as MODIS that have frequent polar overpasses are especially useful in areas with frequent cloud cover, such as Iceland.\nOur goal with this study was to contribute to information available from the satellite perspective by using the finer-resolution MODIS satellite data (250-m pixels) to investigate the causes of the NDVI trends seen in the coarser GIMMS data (12.4-km pixels). We focused on two questions: Do the GIMMS and MODIS records show a decrease in the NDVI in recent years matching the Scandinavian data? Which of the possible drivers of change are most important in Iceland—climate change; natural disturbance, recovery, and vegetation succession; or changes in human land use practices?"
+  }, {
+    "heading": "2. Methods",
+    "text": "The most common dataset used for evaluating trends in northern vegetation is the Normalized Difference Vegetation Index (NDVI) from the Advanced Very High Resolution Radiometers (AVHRR) onboard a series of NOAA satellites. The GIMMS group (Global Inventory Modeling and Mapping Studies) produced NDVI time series products from AVHRR sensor data, with NDVI3g being the third generation of this product [16]. The GIMMS NDVI3g data have been used to calculate arctic biomass [8], trends in biomass [9], trends in vegetation productivity [17], and the relationship with climate trends [3,5]. Maximum annual NDVI has been found to correlate best to vegetation biomass, while integrated measures of the NDVI, such as growing season NDVI, correlate better to vegetation productivity [18–20]. We analyzed the maximum NDVI, to focus on long-term changes in the structure of vegetation, rather than integrated measures of NDVI and productivity which are more influenced by annual variations in the length of the growing season.\nRemote Sens. 2015, 7 9495\nWe used the AVHRR data from the GIMMS NDVI3g dataset for 1982–2010 [16]. NDVI was calculated as NDVI = (NIR – R)/(NIR + R), where the band widths were R = channel 1, red (0.5 to 0.68 µm) and NIR = channel 2, near-infrared (0.725–1.1 µm) [18]. The GIMMS NDVI3g data were corrected for sensor and orbital calibration, view geometry, volcanic aerosols, and other effects not related to vegetation. They were calibrated using Sea-Viewing Wide-Field-of-View Sensor (SeaWiFS) sensor data to correct a discontinuity in the original GIMMS data at 72°N. The spatial resolution of this dataset is 12.4 × 12.4 km pixels. The NDVI values were composited into two values for each month, retaining the maximum value for each 15–16 day period [16]. This maximum-value compositing is especially effective for high latitudes, where the polar-orbiting NOAA satellites make frequent overpasses, increasing the likelihood of collecting cloud-free data. Annual maximum NDVI for each pixel was calculated by selecting the highest value for the ten 15-day composites between 1 May and 30 September of each year.\nWe downloaded the MODIS Aqua Vegetation Indices product MYD13Q1 Version 5 from the USGS Earth Explorer web site for the last half of June through the first half of September for all available years (2002–2013). We selected the Aqua data rather than the Terra data, because the Aqua satellite has been less affected by sensor degradation to Band 3 [21,22]. Band 3 is not used directly for calculating NDVI, but affects NDVI values through its use in calculating top of atmosphere (TOA) reflectance. Degradation in Band 3 can lead to spurious declines in NDVI. Version 6 of the MODIS Vegetation Indices products will correct this problem, but is not yet available.\nThe MODIS Vegetation Indices product is a 16-day composite, with 250 m pixel resolution. Tile h17v02 covers most of Iceland, cutting off a small area from the western tips of two peninsulas (total of 544 km2). MODIS bands used to calculate NDVI are R = band 1, red (0.62 to 0.67 µm) and NIR = band 2, near-infrared (0.841–0.876 µm). Pixel reliability values were used to keep only pixels with “good or marginal” data (0 or 1), excluding −1, 2, 3, and 4 values. We trimmed the spatial extent to the Iceland coastline and calculated maximum NDVI for each pixel for each year.\nTrends in NDVI were calculated for both the AVHRR and the MODIS data on a per-pixel basis, using non-parametric Thiel-Sen robust regression within Lukasz Komsta’s “mblm” R statistical package [23,24]. Results were reported for all pixels with a significant trend (p < 0.05). Trends for pixels that were mapped as glaciers in the first year of the MODIS record (2002) were masked to remove trends due to transitions from ice to glacial moraine.\nAnnual temperature and precipitation data were downloaded from the Iceland Meteorological Office [25]. The mean of 4 stations (Reykjavík, Stykkishólmur, Akureyri, Teigarhorn) correlated well with 1982–2001 ERA-40 reanalysis data (r2 = 0.91) [26]. The reanalysis data, which include the central ice caps, show a mean temperature for the whole country 2.6 °C cooler than the average of the coastal stations. Analysis of the temperature with the NDVI of the following year (1-year lag) did not improve the correlations with the station data. Analysis of the relationship between NDVI and annual precipitation showed no correlation.\nAncillary data used to evaluate NDVI trends included vegetation [27], Iceland Soil Conservation Service project areas, and ashfall maps for recent Eyjafjallajökull [28] and Grímsvötn [29] eruptions.\nRemote Sens. 2015, 7 9496"
+  }, {
+    "heading": "3. Results",
+    "text": ""
+  }, {
+    "heading": "3.1. AVHRR Trends",
+    "text": "Iceland stands out as the northern country with the highest Normalized Difference Vegetation Index (NDVI) trends for the AVHRR satellite record (Table 1, 0.008 NDVI units/year for 1982–2010, [9]). Over this time period, Greenland had an increase of 0.005 NDVI units/year, and all other northern countries had increases of 0.003/year or less.\nBoth mean annual temperature and NDVI in Iceland increased over the last three decades, with a highly significant (p < 0.001) but noisy relationship (R2 = 0.64) (Figure 2). During the recent MODIS time period (2002 to 2013), mean annual temperatures decreased slightly (0.24 °C), but remained well above temperatures in the 1980s and 1990s.\nRemote Sens. 2015, 7 9497\nGIMMS NDVI3g increased for most areas of Iceland during the last three decades (Figure 3a). Few of the 12.4-km pixels had negative trends. The western side of Iceland showed stronger increases than the eastern side. Trends were strongly positive in the 1980s (Figure 3b), with more negative trends becoming evident in the 1990s (Figure 3c) and negative trends more common than positive trends in the final decade, 2000–2010 (Figure 3d)."
+  }, {
+    "heading": "3.2. MODIS Trends",
+    "text": "The GIMMS trends were intriguing, but did not provide enough detail to be able to relate NDVI trends to processes on the ground. We used MODIS data to get a higher spatial resolution of NDVI trends, though this satellite record covers a much shorter time span than the GIMMS data (MODIS Aqua launched in 2002). Trend analysis of the maximum annual NDVI calculated from the MODIS NDVI product showed a slightly negative average trend for all of Iceland from 2002 to 2013 (−0.00317 NDVI units/year), with a much greater area with significant decreases (29,809 km2) than increases (9419 km2) (Figure 4). The only area with a generally positive trend was the northeastern part of Iceland.\nA generalized 1998 vegetation map for Iceland at 1:500,000 was used to examine trends within cover types [27]. NDVI trends were most positive for areas mapped as glaciers in 1998 (0.006 NDVI units/yr, Figure 5). NDVI trends were positive for forests (0.001 NDVI units/yr), but negative for the other\nRemote Sens. 2015, 7 9498 4 broad vegetation types. Trends were most negative for areas mapped as moss-lava (−0.005 NDVI unit/year). When analyzed by elevation, NDVI trends were only positive for elevations over 900 m.\nStrong negative trends in NDVI resulted from decreases in vegetation caused by both natural events and human activities during the MODIS years of record. Two recent volcanic eruptions caused enough ash deposition to significantly reduce NDVI, including the 2010 eruption of Eyjafjallajökull in the southern part of the country (Figure 6a). About 50% of the volcanic ash ejected during that 39-day eruption fell in Iceland, mostly to the east and south of the volcano [28]. The area mapped as having\nRemote Sens. 2015, 7 9499 the most ash deposition (3–5 cm) matches the pattern of decreased NDVI. The 2011 Grímsvötn eruption deposited most of its ash on the Vatnajökull glacier, but the land south of the glacier and crater received 5–20 cm of ash [29]. Again, this area matches the area with the greatest decrease in NDVI (Figure 6b). The Kárahnjúkar hydropower project was constructed between 2002 and 2009, on two rivers flowing from the northeastern side of Vatnajökull, Iceland’s largest glacier. This project created the 57 km2 Hálslón Reservoir, whose outline exactly matches the area of decreased NDVI (Figure 6c).\nAreas with strong positive trends can also be seen on the MODIS NDVI trend map. Retreating glaciers are causing increases in NDVI, as the surface transitions from ice to exposed glacial moraine deposits, to pioneer vegetation (Figure 7a, also visible in Figure 6a–c). These areas are generally gently sloping gravel fan deposits downslope of the current edge of the glacier [31], which were mapped as glaciers in 1998 and shown in light-blue in Figures 4, 6 and 7. Natural plant colonization after disturbance is seen as an increase in NDVI on the large Skeiðará River outwash plain (sandur) to the southwest of Vatnajökull that fills most of the detailed map (Figure 7b). This area has been subject to frequent glacial floods in shifting gravel channels, disrupting plant colonization. Due to the retreat of the glacier, the outlet of the Skeiðará River moved several km west in 2009 along the glacier\nRemote Sens. 2015, 7 9500 margin, and the river merged into the Gígjukvísl River [32]. This has left the old Skeiðará riverbed and flood channels mostly dry, allowing natural plant colonization to occur (Figure 7b). Revegetation projects in the Hólasandur area of northeastern Iceland show up as increased NDVI within the fenced Soil Conservation Service project boundary (Figure 7c). Revegetation of this 140 km2 area started in 1993. Extensive seeding of lupine has been carried out, and to a lesser extent seeding of grasses and planting of trees with fertilizer applications. Sheep were excluded from the area [33]."
+  }, {
+    "heading": "4. Discussion",
+    "text": "The increase in NDVI in the northern part of the Northern Hemisphere over the satellite record is well recorded in many studies (e.g., [34]). Our study confirms that trend in Iceland, with particularly significant increases in the 1980s. The increase in arctic NDVI has been linked with recorded increases in summer temperature [3], which is the case in Iceland as well. This is not surprising, as plant growth in the far north is generally limited by cold temperatures [35], with the number of vascular plant species and the size of plants decreasing with latitude [30].\nAlthough summer growing season temperatures correlate best to vegetation production in the Arctic [36], in Iceland’s maritime climate, winter temperatures are also very important. Hay production in the lowland areas correlates better to winter temperatures than summer temperatures [37]. In cold\nRemote Sens. 2015, 7 9501 winters, plants can be killed by ice-encasement with associated oxygen-deprivation and by cryoturbation caused by successive freeze-thaw cycles. All parts of Iceland showed similar increases in mean annual temperature over the last century, and during the satellite era, with warming since 1985 [38]. Precipitation has only increased slightly through the last century, though it is positively correlated with mean annual temperature [38]. More recent decades have seen a reduction in warming. The 1990s was definitely not the warmest decade of the 20th century in Iceland, in contrast to the Northern Hemisphere land average [38]. Mean annual temperature for the MODIS period (2002–2013) decreased from 4.31 to 4.07 °C, still above the average mean annual temperature of 3.72 °C in the 1980s, and 4.05 °C in the 1990s. These reductions in temperature trends match the general country-wide reduced increases in GIMMS NDVI3g trends seen in the 1990s and negative NDVI trends in the 2000s in both the GIMMS and MODIS data.\nThe reason for the greater increases in NDVI in Iceland since the 1980s compared to other northern countries is likely due to changes in land use patterns adding to greening caused by warmer temperatures. Recognition of Iceland’s erosion problem, combined with detailed mapping enabled by remote sensing [11], resulted in conservation efforts by the national government, district managers, and farmers. In 1985 a quota system was introduced for sheep [10]. These efforts resulted in almost halving the number of sheep between 1980 and 1995 (a reduction from 828,000 to 458,000 overwintering ewes) [12]. In 2000, sheep production subsidies were tied to management standards which encouraged a reduction of grazing pressure on marginal highland [39]. Since then there has been a slight increase in the number of sheep, with about 480,000 overwintering ewes in 2013 [40]. The decrease in the number of sheep was followed by smaller increases in the horse and cattle population. However, while summer sheep pastures are mainly in upland areas, much of which have thin, fragile vegetation cover, horses are mainly grazed in lowland pastures and cattle are mostly grazed on cultivated land. Since 1995 livestock numbers in Iceland have been relatively stable (Figure 8).\nThe decrease in grazing pressure likely increased the standing crop of vegetation over the study period, and thus increased NDVI values. The sharpest increases occurred in the 1982–1989 period (Figure 3b), concomitant with the abrupt reduction of the sheep stock (Figure 8). A study of vegetation in permanent plots at over 60 locations in lowland and highland pastures in Iceland during 1997–2005\nRemote Sens. 2015, 7 9502 indicated a considerable increase in vegetation cover and density and improvement in pasture conditions in most locations during the period [41].\nIn addition to reduced grazing pressure, reclamation efforts are widespread in Iceland, encouraged by the Soil Conservation Service since 1907. Successful reclamation increases vegetation cover and thus NDVI values. By 2010, the Iceland Soil Conservation Service had improved 571,000 ha of eroded land [12]. These efforts have included constructing barriers to drifting sand, erecting grazing exclusion fences, seeding of grasses (e.g., Leymus arenarius, Festuca rubra) and lupine (Lupinus nootkatensis) and planting of shrubs and trees (Salix spp. and Betula pubescens). The Iceland Forest Service also dates back to the early 1900s. Early forestry efforts focused mainly on the protection of remaining birch forest but in the last few decades regional government-funded afforestation projects have also been started. These projects have included extensive planting of native Betula pubescens and introduced Larix sibirica, Picea sitchensis, Pinus contorta and other species. In 2012 native birch cover in the country was approximately 1150 km2 and cultivated forest cover 350 km2. That year about 2.5 million trees (~10 km2) were planted in the country [42]. These restoration efforts cause a localized increase in the NDVI, such as that seen in Figure 7c.\nThe longer GIMMS record is useful for recording long-term press events, while the MODIS record is useful for identifying shorter-term, pulse events. The MODIS time series (2002–2013) showed a recent average decrease in NDVI in Iceland. This is similar to recent decreases seen in Scandinavia. The Scandinavian NDVI declined in the 2000s due to winter warming episodes [6]. Comparison with experimental winter warming showed the detrimental effects of mid-winter loss of snow cover to common evergreen heath shrubs [6]. Changes in snow patterns have been documented by the Snow, Water, Ice, Permafrost in the Arctic Assessment (SWIPA), including winter thaw events, rain-on-snow events, increases in net precipitation, increases in snow sublimation, and earlier snowmelt [43].\nNDVI values in Scandinavia were especially low in 2012, linked to a series of anomalous weather events: warm autumn temperatures, fluctuating winter temperatures, cold summer (including frosts), deep persistent snow, and summer floods, as well as insect and fungal outbreaks [7]. NDVI values were lowest in areas where multiple anomalous events had occurred. These types of events were recorded in every year since the MODIS record began in 2002, and could be the cause of the decreasing trend in NDVI in these northern maritime areas [7]. Field studies in Iceland to verify this are, however, lacking. The map of MODIS trends provides a basis for focusing research of evidence of such events in remote areas."
+  }, {
+    "heading": "5. Conclusions",
+    "text": "The continuous AVHRR (Advanced Very High Resolution Radiometer) record since 1982 shows increases in the NDVI (Normalized Difference Vegetation Index) in Iceland, based on the GIMMS group (Global Inventory Modeling and Mapping Studies) NDVI3g series (0.0072 NDVI units/year, 1982–2010). Increases are correlated mainly with increased mean annual temperature and also amplified by a reduction in sheep numbers and grazing pressures in the 1980s and early 1990s. This study is unique in that it examines the trends in MODIS (Moderate Resolution Imaging Spectroradiometer/Aqua) NDVI in Iceland and compares them with the longer AVHRR record, and with land surface changes known to have occurred over the MODIS time period (2002–2013). The\nRemote Sens. 2015, 7 9503 MODIS data confirm the decreases in NDVI seen in the last decade of the GIMMS NDVI3g record (a decrease of 0.003 NDVI units/year, Theil-Sen robust regression, p < 0.05). This decline in NDVI in the 2000s matches trends seen in nearby areas of Scandinavia with similar maritime climate [6,7], and also matches mean annual temperature trends in Iceland. Extreme weather events or insect outbreaks leading to plant die-off have not been noted in Iceland, but may have occurred in remote areas. Finer spatial-resolution satellite data could be used to investigate this possibility. The MODIS NDVI trend data demonstrate the usefulness of this satellite product for documenting episodic events like volcanic activity and large industrial projects, and on-going efforts to improve land use, such as revegetation and grazing regulation. Future work using models to relate MODIS NDVI trends to trends in biomass, such as that carried out by Eckert and Engesser for SPOT data [15], would be valuable for monitoring trends in carbon stocks in Iceland."
+  }, {
+    "heading": "Acknowledgments",
+    "text": "Martha Raynolds would like to thank the Fulbright Program for funding her time in Iceland, the Iceland Institute of Natural History for hosting her in Iceland, and Ólafur Arnalds for a very helpful conversation that contributed to this paper. The authors would also like to thank three anonymous reviewers whose comments helped to improve the paper.\nAuthor Contributions\nMartha Raynolds and Borgþór Magnússon conceived the project. Martha Raynolds performed the satellite imagery analysis. Sigmar Metúsalemsson and Sigurður H. Magnússon provided vegetation maps of Iceland. Martha Raynolds wrote the paper with input from all other authors.\nConflicts of Interest\nThe authors declare no conflict of interest."
+  }],
+  "year": 2015,
+  "references": [{
+    "title": "Increased plant growth in the northern high latitudes",
+    "authors": ["R.B. Myneni", "C.D. Keeling", "C.J. Tucker", "G. Asrar", "R.R. Nemani"],
+    "venue": "Nature",
+    "year": 1981
+  }, {
+    "title": "Northern hemisphere photosynthetic trends 1982–99",
+    "authors": ["D.A. Slayback", "J.E. Pinzon", "S.O. Los", "C.J. Tucker"],
+    "venue": "Glob. Chang. Biol. 2003,",
+    "year": 2003
+  }, {
+    "title": "Circumpolar arctic tundra vegetation change is linked to sea ice decline",
+    "authors": ["U.S. Bhatt", "D.A. Walker", "M.K. Raynolds", "J.C. Comiso", "H.E. Epstein", "G.J. Jia", "R. Gens", "J.E. Pinzon", "C.J. Tucker", "C.E Tweedie"],
+    "venue": "Earth Interact",
+    "year": 2010
+  }, {
+    "title": "Plot-scale evidence of tundra vegetation change and links to recent summer warming",
+    "authors": ["S. Elmendorf", "G.H.R. Henry", "R.D. Hollister", "R.G. Bjork", "N. Boulanger-Lapointe", "E.J. Cooper", "J.H.C. Cornelissen", "T.A. Day", "E. Dorrepaal", "T.G Elumeeva"],
+    "venue": "Nature Clim. Chang",
+    "year": 2012
+  }, {
+    "title": "Recent declines in warming and vegetation greening trends over pan-Arctic tundra",
+    "authors": ["U.S. Bhatt", "D.A. Walker", "M.K. Raynolds", "P.A. Bieniek", "H.E. Epstein", "J.C. Comiso", "J.E. Pinzon", "C.J. Tucker", "I.V. Polyakov"],
+    "venue": "Remote Sens. 2013,",
+    "year": 2015
+  }, {
+    "title": "Winter warming events damage sub-Arctic vegetation: Consistent evidence from an experimental manipulation and a natural event",
+    "authors": ["S.F. Bokhorst", "J.W. Bjerke", "H. Tømmervik", "T.V. Callaghan", "G.K. Phoenix"],
+    "venue": "J. Ecol",
+    "year": 2009
+  }, {
+    "title": "Record-low primary productivity and high plant damage in the Nordic Arctic Region in 2012 caused by multiple weather events and pest outbreaks",
+    "authors": ["J.W. Bjerke", "S.R. Karlsen", "K.A. Hogda", "E. Malnes", "J.U. Jepsen", "S. Lovibond", "D. Vikhamar-Schuler", "H. Tommervik"],
+    "venue": "Environ. Res. Lett. 2014,",
+    "year": 2014
+  }, {
+    "title": "A new estimate of tundra-biome phytomass from trans-Arctic field data and AVHRR NDVI",
+    "authors": ["M.K. Raynolds", "D.A. Walker", "H.E. Epstein", "J.E. Pinzon", "C.J. Tucker"],
+    "venue": "Remote Sens. Lett. 2012,",
+    "year": 2012
+  }, {
+    "title": "Dynamics of aboveground phytomass of the circumpolar arctic tundra during the past three decades",
+    "authors": ["H.E. Epstein", "M.K. Raynolds", "D.A. Walker", "U.S. Bhatt", "C.J. Tucker", "J.E. Pinzon"],
+    "venue": "Environ. Res. Lett. 2012,",
+    "year": 2012
+  }, {
+    "title": "Agriculture in Iceland: Conditions and Characteristics; Agricultural University of Iceland: Borgarnes",
+    "authors": ["T. Johannesson"],
+    "year": 2010
+  }, {
+    "title": "Soil Erosion in Iceland; Soil Conservation Service and Agricultural Research Institute",
+    "authors": ["O. Arnalds", "E.F. Thorarinsdottir", "S. Metusalemsson", "A. Jonsson", "E. Gretarsson", "A. Arnason"],
+    "venue": "Reykjavik, Iceland,",
+    "year": 2001
+  }, {
+    "title": "Healing the Land: The Story of Land Reclamation and Soil Conservation in Iceland; Soil Conservation Service of Iceland",
+    "authors": ["R. Crofts"],
+    "venue": "Reykjavik, Iceland,",
+    "year": 2011
+  }, {
+    "title": "Soils of Iceland",
+    "authors": ["O. Arnalds"],
+    "venue": "Jökull 2008,",
+    "year": 2008
+  }, {
+    "title": "Climate of Iceland",
+    "authors": ["M.Á. Einarsson"],
+    "venue": "In World Survey of Climatology;",
+    "year": 1984
+  }, {
+    "title": "Assessing vegetation cover and biomass in restored erosion areas in Iceland using SPOT satellite data",
+    "authors": ["S. Eckert", "M. Engesser"],
+    "venue": "Appl. Geogr. 2013,",
+    "year": 2013
+  }, {
+    "title": "A non-stationary 1981–2012 AVHRR NDVI3g time series",
+    "authors": ["J.E. Pinzon", "C.J. Tucker"],
+    "venue": "Remote Sens. 2014,",
+    "year": 2014
+  }, {
+    "title": "Vegetation productivity patterns at high northern latitudes: A multi-sensor satellite data assessment",
+    "authors": ["K.C. Guay", "P.S.A. Beck", "L.T. Berner", "S.J. Goetz", "A. Baccini", "W. Buermann"],
+    "venue": "doi 10.1111/gcb.12647",
+    "year": 2014
+  }, {
+    "title": "Red and near-infrared linear combinations for monitoring vegetation",
+    "authors": ["C.J. Tucker"],
+    "venue": "Remote Sens. Environ. 1979,",
+    "year": 1979
+  }, {
+    "title": "North American vegetation patterns observed with the NOAA-7 advanced very high resolution radiometer",
+    "authors": ["S.N. Goward", "C.T. Tucker", "D.G. Dye"],
+    "venue": "Vegetatio",
+    "year": 1985
+  }, {
+    "title": "Phytomass, LAI, and NDVI in northern Alaska: Relationships to summer warmth, soil pH, plant functional types, and extrapolation to the circumpolar Arctic",
+    "authors": ["D.A. Walker", "H.E. Epstein", "G.J. Jia", "A. Balser", "C. Copass", "E.J. Edwards", "W.A. Gould", "J. Hollingsworth", "J.A. Knudson", "H.A Maier"],
+    "venue": "J. Geophys. Res.: Atmos. 2003,",
+    "year": 2001
+  }, {
+    "title": "Impact of sensor degradation on the MODIS NDVI time series",
+    "authors": ["D. Wang", "D. Morton", "J. Masek", "A. Wu", "J. Nagol", "X. Xiong", "R. Levy", "E. Vermote", "R. Wolfe"],
+    "venue": "Remote Sens. Environ",
+    "year": 2012
+  }, {
+    "title": "Scientific impact of MODIS C5 calibration degradation and C6+",
+    "authors": ["A. Lyapustin", "Y. Wang", "X. Xiong", "G. Meister", "S. Platnick", "R. Levy", "B. Franz", "S. Korkin", "T. Hilker", "C.J Tucker"],
+    "venue": "improvements. Atmos. Meas. Tech. 2014,",
+    "year": 2014
+  }, {
+    "title": "A statistical framework for the analysis of long image time series",
+    "authors": ["K.M. De Beurs", "G.M. Henebry"],
+    "venue": "Int. J. Remote Sens. 2005,",
+    "year": 2005
+  }, {
+    "title": "Team",
+    "authors": ["R Development Cor"],
+    "venue": "R: A Language and Environment for Statistical Computing; R Foundation for Statistical Computing: Vienna, Austria,",
+    "year": 2010
+  }, {
+    "title": "Surface Air Temperature and Precipitation Trends for Iceland in the 21st Century; Iceland",
+    "authors": ["N. Nawri", "H. Bjornsson"],
+    "venue": "Meteorological Office: Reykjavik,",
+    "year": 2010
+  }, {
+    "title": "Vegetation Map of Iceland, 1:500.000",
+    "authors": ["G. Guðjónsson", "E. Gíslason"],
+    "venue": "Icelandic Institute of Natural History: Reykjavik,",
+    "year": 1998
+  }, {
+    "title": "Ash generation and distribution from the April–May 2010 Eruption of Eyjafjallajökull, Iceland",
+    "authors": ["M.T. Gudmundsson", "T. Thordarson", "Á. Höskuldsson", "G. Larsen", "H. Björnsson", "F.J. Prata", "B. Oddsson", "E. Magnússon", "T. Högnadóttir", "G.N Petersen"],
+    "venue": "Iceland Sci. Rep. 2012,",
+    "year": 2012
+  }, {
+    "title": "Circumpolar Arctic Vegetation Map, Scale 1:7 500 000; Conservation of Arctic Flora and Fauna (CAFF) Map No",
+    "authors": ["CAVM Team"],
+    "venue": "1; U.S. Fish and Wildlife Service: Anchorage, AK, USA,",
+    "year": 2003
+  }, {
+    "title": "Soil carbon accretaion along an age chronosequence formed by the retreat of the Skaftafellsjökull glacier, SE-Iceland",
+    "authors": ["O.K. Vilmundardóttir", "G. Gísladóttir", "R. Lal"],
+    "venue": "Geomorphology",
+    "year": 2015
+  }, {
+    "title": "Recent climate change, projected impacts, and adaptation capacity in Iceland",
+    "authors": ["H. Björnsson", "T. Jóhannesson", "Á. Snorrason"],
+    "year": 2011
+  }, {
+    "title": "Uppgræðsla Hólasands (Reclamation of Hólasandur)",
+    "authors": ["S. Skaftason", "A. Arnalds"],
+    "venue": "Fræðaþing Landbúnaðarins",
+    "year": 2004
+  }, {
+    "title": "Recent changes in arctic vegetation: Satellite observations and simulation model predictions. In Eurasian Arctic Land Cover and Land Use in a Changing Climate",
+    "authors": ["S.J. Goetz", "H.E. Epstein", "U.S. Bhatt", "G.J. Jia", "J.O. Kaplan", "H. Lischke", "Q. Yu", "A.G. Bunn", "A.H. Lloyd", "D Alcaraz-Segura"],
+    "year": 2011
+  }, {
+    "title": "Life cycles, population dynamics and the growth of tundra plants",
+    "authors": ["T.V. Callaghan", "N.J. Collins"],
+    "year": 1981
+  }, {
+    "title": "Relationship between satellite-derived land surface temperatures, arctic vegetation types, and NDVI",
+    "authors": ["M.K. Raynolds", "J.C. Comiso", "D.A. Walker", "D. Verbyla"],
+    "venue": "Remote Sens. Environ",
+    "year": 2008
+  }, {
+    "title": "Ice tolerance and metabolite accumulation of herbage crops in Iceland and impact of climate change",
+    "authors": ["B. Gudleifsson"],
+    "venue": "Icel. Agric. Sci",
+    "year": 2010
+  }, {
+    "title": "An analysis of Icelandic climate since the nineteenth century",
+    "authors": ["E. Hanna", "T. Jónsson", "J.E. Box"],
+    "venue": "Int. J. Climatol. 2004,",
+    "year": 2004
+  }, {
+    "title": "Soil erosion and land use policy in Iceland in relation to sheep grazing and government subsidies",
+    "authors": ["O. Arnalds", "B.H. Barkarson"],
+    "venue": "Environ. Sci. Policy 2003,",
+    "year": 2003
+  }, {
+    "title": "Vöktun á ástandi og líffræðilegri fjölbreytni úthaga 2005 (Monitoring of rangeland condition and biodiversity of pastures in Iceland",
+    "authors": ["B.H. Magnússon", "B.E. Barkarson", "B.P. Maronsson", "S. Heiðmarsson", "G.A. Guðmundsson", "S.H. Magnússon", "S. Jónsdóttir"],
+    "year": 2005
+  }, {
+    "title": "Forestry in a Treeless Land, 4th ed.; Iceland Forest Service: Egilsstaðir",
+    "authors": ["T. Eysteinsson"],
+    "year": 2013
+  }, {
+    "title": "The changing face of arctic snow cover: A synthesis of observed and projected changes",
+    "authors": ["T.V. Callaghan", "M. Johansson", "R.D. Brown", "P.Y. Groisman", "N. Labba", "V.F. Radionov", "R.G. Barry", "O.N. Bulygina", "R.L.H. Essery", "D.M Frolov"],
+    "venue": "Ambio 2011,",
+    "year": 2015
+  }],
+  "id": "SP:e38ca9693a423dd7bc8d7f2e737e15dc23cf389b",
+  "authors": [{
+    "name": "Martha Raynolds",
+    "affiliations": []
+  }, {
+    "name": "Santonu Goswami",
+    "affiliations": []
+  }, {
+    "name": "Daniel J. Hayes",
+    "affiliations": []
+  }, {
+    "name": "Guido Grosse",
+    "affiliations": []
+  }, {
+    "name": "Benjamin Jones",
+    "affiliations": []
+  }, {
+    "name": "Alfredo R. Huete",
+    "affiliations": []
+  }],
+  "abstractText": "In a greening Arctic, Iceland stands out as an area with very high increases in the AVHRR Normalized Difference Vegetation Index (NDVI, 1982–2010). We investigated the possible sources of this anomalous greening in Iceland’s dynamic landscape, analyzing changes due to volcanism and warming temperatures, and the effects of agricultural and industrial land use changes. The analysis showed the increases were likely due to reductions in grazing in erosion-prone rangelands, extensive reclamation and afforestation efforts, as well as a response to warming climate, including glacial retreat. Like Scandinavia and much of the rest of the Arctic, Iceland has shown a recent reduction in NDVI since 2002, but still above pre-2000 levels. Theil-Sen robust regression analysis of MODIS NDVI trends from 2002 to 2013 showed Iceland had a slightly negative NDVI trend of 0.003 NDVI units/year (p < 0.05), with significant decreases in an area three times greater (29,809 km2) than that with increases (9419 km2). Specific areas with large decreases in NDVI during the last decade were due to the formation of a large reservoir as a part of a hydroelectric power project (Kárahnjúkar, 2002–2009), and due to ashfall from two volcanic eruptions (Eyjafjallajökull, 2010; Grímsvötn, 2011). Increases in NDVI in the last decade were found in erosion control areas, around retreating glaciers, and in other areas of plant colonization following natural disturbance. Our analysis demonstrates the OPEN ACCESS Remote Sens. 2015, 7 9493 effectiveness of MODIS NDVI for identifying the causes of changes in land cover, and confirms the reduction in NDVI in the last decade using both the AVHRR and MODIS satellite data.",
+  "title": "Warming, Sheep and Volcanoes: Land Cover Changes in Iceland Evident in Satellite NDVI Trends"
+}

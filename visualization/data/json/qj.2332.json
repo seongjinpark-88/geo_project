@@ -1,0 +1,322 @@
+{
+  "sections": [{
+    "text": "Quarterly Journal of the Royal Meteorological Society Q. J. R. Meteorol. Soc. 140: 2650–2657, October 2014 B DOI:10.1002/qj.2332\nSeasonality in the biplot of Northern Hemisphere temperature anomalies\nMartin A. Ivanova* and Stilian N. Evtimovb aInstitute for Atmospheric and Climate Science, ETH Zürich, Switzerland\nbDepartment of Meteorology and Geophysics, University of Sofia ‘St Kliment Ohridski’, Sofia, Bulgaria\n*Correspondence to: M. A. Ivanov, Institute for Atmospheric and Climate Science, Universitätstrasse 16, ETH Zürich, CHN, CH-8092 Zürich, Switzerland. E-mail: martin.ivanov@env.ethz.ch\nNorthern Hemisphere mean monthly temperature anomalies for the 1890–2010 period are examined for seasonality. The statistical method of biplotting visually synthesizes the major features of the time series for the 12 calendar months into a single plot. The common upward trend in all months and the winter–summer temperature contrast capture more than 80% of the total data variance. A temperature seasonalization is established: winter (January–March), summer (May–October) and transitional months (November, December and April). Two uncorrelated factors underlie this seasonality. The first is the North Atlantic thermohaline circulation, which is indicated by the Atlantic Multidecadal Oscillation and which statistically determines the summer temperature anomalies. The second is the cold ocean–warm land pattern, which is indicated by the hemispheric land– ocean temperature contrast and which statistically determines the winter anomalies. The interannual effect of the El Niño–Southern Oscillation, volcanism and also the Arctic Oscillation/North Atlantic Oscillation mode compete with the background trend to produce a few extreme and outlier years.\nKey Words: temperature anomalies; Northern Hemisphere; biplot; seasonality; Atlantic Multidecadal Oscillation; land–ocean contrast; extreme years\nReceived 24 June 2013; Revised 8 December 2013; Accepted 15 January 2014; Published online in Wiley Online Library 21 March 2014"
+  }, {
+    "heading": "1. Introduction",
+    "text": "Global or hemispheric surface temperatures are often given as monthly anomalies against some basic climatology. The removal of the annual cycle should have deseasonalized temperature records, but there are a number of indications for a residual seasonality. The power spectrum of area-averaged scalar monthly series peaks at the 12th month and there are seasonal distinctions in trends, variability, persistence and correlation patterns (Gordon, 1999; Jones and Moberg, 2003; Scafetta et al., 2004; Evtimov and Ivanov, 2007). Treating global monthly surface temperatures as a harmonizable cyclostationary process with a nested period of 12 months, Kim and North (1997) extract the corresponding Bloch functions that represent the pattern of intraannual variation. They document significant differences between the structure of the space–time cyclostationary empirical orthogonal functions in summer and in winter. Wallace et al. (1995, 1996) show that, being dynamically induced, the richer spectrum of variability in the cool season is associated with the so called cold ocean–warm land pattern, whereas the interdecadal to century-scale variability stands out more clearly in the warm season.\nIn the present article, we deal with Northern Hemisphere areaaveraged monthly surface temperatures for the 1890–2010 period. Our objective is diagnosis and attribution of the seasonality in this temperature anomaly data set. Such knowledge would improve our understanding of the global climate system, which\nis a prerequisite for its adequate modelling. The tools we use are statistical, namely the method of the biplot. Geophysical applications of biplotting originate from the meteorological article of Gabriel (1972). An employment of the biplot technique to a time series, as in this case, is not trivial and should be argued for. Inspecting the monthly temperature series, one realizes that it can be divided into consecutive non-overlapping segments of equal length, each of 12 months. Within each one of them, the time series behaves likewise. A segment begins with warm-season months of low variability, followed by cool-season months of higher variability. The high terminating variability weakens the intersegment correlations compared with intrasegment ones. This prompts us to think of a segment, in fact a year, as a particular sampling unit and of the calendar months as 12 variables measured on each year. It is this particular close-up of the data that implies exploitation of a multivariate statistical technique for studying the seasonal pattern in the temperature time series. Considering the same issue, Craddock (1965) applies principal component analysis (PCA) to study seasonality in time series of monthly mean temperatures for Central England for the period 1680–1963. Apparently, the same approach underlies the periodically extended empirical orthogonal function analysis in Kim and Wu (1999), where the spatial dimension is also taken into account.\nEmploying the multivariate technique of the biplot, here we synthesize the major features of the temperature time series for the 12 calendar months visually into a single plot and analyze,\nc© 2014 Royal Meteorological Society\nSeasonality of Northern Hemisphere Temperature 2651\n2010\n2000\n1990\n1980\n1970\n1960\n1950\n1940\n1930\n1920\n1910\n1900\n1890\nY ea\nr\nMay Jun Jul Aug Sep Oct Nov\nAnomaly (°C)\nDec Jan Feb Mar Apr AMO\n−1 0 1 −1 0 1 −1 0 1 −1 0 1 −1 0 1 −1 0 1 −1 0 1 −1 0 1 −1 0 1 −1 0 1 −1 0 1 −1 0 1 −1 0 1 −1 0 1\nLOC\nFigure 1. Monthly series of Northern Hemisphere surface temperature anomalies (left) and summer Atlantic Multidecadal Oscillation (AMO) and winter anomalies of the land–ocean surface temperature contrast (LOC) (right) for the period 1890–2010.\ninterpret and attribute the obtained seasonality pattern. Section 2 presents the data and sketches the method of biplotting. In section 3, we reveal the inherent statistical structure of the temperature data and identify the formal factors accounting for the observed seasonality. In section 4, we attribute these factors physically and point to the dynamical sources of ‘singular’ years. Section 5 summarizes the results."
+  }, {
+    "heading": "2. Data and methods",
+    "text": ""
+  }, {
+    "heading": "2.1. Data",
+    "text": "All the data we process are summarized in Figure 1. Our primary temperature data are from the data base of the Climatic Research Unit of the University of East Anglia, CRU (http://www.cru. uea.ac.uk/cru/data/temperature). They are anomalies against the 1961–1990 climatology. As we investigate global-scale time series, we process the variance-unadjusted versions of the data (Brohan et al., 2006). Originally they span the 1850–2011 period, but to avoid deficiencies associated with sparse coverage we select only the post-1890 period.\nThe left panel of Figure 1 shows the Northern Hemisphere monthly mean temperature anomalies for the May 1890–April 2011 period. The anomalies are area-weighted hemispheric averages of combined land and marine surface data. The monthly values are extracted directly from the scalar version of the combined land and marine temperature data set from CRU, HadCRUT3 (Brohan et al., 2006), without any preprocessing. As seen, the columns of the temperature data matrix start with May. In this regard, we note that, when one deals with statistics of anomalies, the concepts of beginning of the year and seasons become non-trivial. For example, Hansen et al. (1999) work with a calendar year, meteorological year and ‘cool season plus warm season’ year. The warm season is defined to include the months May–October and the cool season includes November–April. In accordance with Evtimov and Ivanov (2007), here we work with a May–April year. This choice not only avoids putting months belonging to the same season into different years but also leads to the most clearly interpretable results. For all data sets, we date years by the calendar year of May.\nThe column AMO in the right panel of Figure 1 shows the time series of the warm season Atlantic Multidecadal Oscillation (AMO) index. It is the linearly detrended North Atlantic sea-surface temperature anomaly, area-weight-averaged\nover the 0–70◦N belt (Enfield et al., 2001). We download monthly unsmoothed values of this index from http://www.cdc.noaa.gov/ data/correlation/amon.us.long.data and, without any other preprocessing, average over May–October.\nThe second column in the right panel of Figure 1 shows the January–March anomalies of the so-called land–ocean surface temperature contrast (LOC). It is the zonal difference between monthly land and ocean temperature anomalies, averaged both hemispherically and temporally over January–March. The initial data are from the 5◦×5◦ full-grid versions of the third CRU land surface air temperature data set, CRUTEM3 (Brohan et al., 2006) and the second Hadley Centre sea surface temperature dataset, HadSST2 (Rayner et al., 2006). The computation follows Jain et al. (1998). For each calendar month and each 5◦ latitudinal zone, we compute the difference between the mean land and mean ocean temperatures, area-weight-average them over the 15–70◦N latitudinal band and finally average over January–March. We choose this latitudinal band because the coverage for the rest of the hemisphere is minimal (Brohan et al., 2006; Rayner et al., 2006)."
+  }, {
+    "heading": "2.2. Methods",
+    "text": "As mentioned above, we employ the statistical technique of biplotting. Apart from in the original article of Gabriel (1971), the foundations of the method can be found, for example, in the book of Jolliffe (2002). As, in our opinion, this technique is not widely popular in statistical climatology, we sketch it with emphasis on its relationship to standard PCA.\nA biplot is a joint display of the rows and columns of a data matrix as points on a plane, such that the scalar product between the position vectors of a row point and a column point approximates the respective matrix entry in a least-squares optimal way. Here we use the so-called covariance biplot, which is specially designed for the case of covariance-based PCA (Aitchison and Greenacre, 2002). For convenience, we call the columns of the data matrix variables and the rows cases. First, the procedure centres the variables. By means of singular value decomposition, the centred data matrix is next factorized into a product of two matrices. In terms of PCA, the columns of the left multiplier are in fact the principal components, standardized to unit variance, and the columns of the transposed right multiplier are the empirical orthogonal vectors, scaled by the square roots of their respective eigenvalues. Further, the square root of the number of cases minus one is used as a factor to scale up the left multiplier and to scale\nc© 2014 Royal Meteorological Society Q. J. R. Meteorol. Soc. 140: 2650–2657 (2014)"
+  }, {
+    "heading": "2652 M. A. Ivanov and S. N. Evtimov",
+    "text": "down the right multiplier. Comparatively simple matrix algebra shows that the left matrix multiplied by its transpose equals the covariance matrix of the variables; the right matrix multiplied from the left by its transpose, in turn, equals the ‘Mahalanobis scalar products’ between the cases.\nSo far the results are algebraic, but if one interprets the rows of the left factorization multiplier as points and those of the transposed right multiplier as radius vector arrows in a Euclidean space, things become geometric. It turns out that the axes in the biplot space are actually the PCA components normalized to unit length, so a covariance biplot is a form of descriptive PCA and biplot axes are also principal axes. Further, the scalar product between a variable arrow and the position vector of a case point is equal to the corresponding entry of the centred data matrix. The scalar product of two arrows is equal to the covariance of their variables. Thus, the length of an arrow is the standard deviation of its variable and the cosine of the angle between two arrows is the correlation coefficient between their variables. The Euclidean distance between two points is equivalent to the Mahalanobis distance between the corresponding cases. Note that variables and cases, supplementary to the original analysis, can also be represented in the biplot space in a least-squares optimal way (Graffelman, 2003).\nGenerally, singular value decomposition opens up a chance for low-rank approximation of the data matrix in a leastsquares sense. Two-dimensional biplotting retains only the first two columns of the left and the transposed right factorization multiplier. These columns correspond to the two largest eigenvalues of the covariance matrix in PCA. Geometrically, this implies that projecting the original biplot configuration on to the optimal coordinate plane should make things simple and visually appraisable. The price to pay for this intuitive appeal of the data is that the representation is only approximate. Some numerical diagnostics are used to measure the quality of a biplot solution in a least-squares sense. The overall goodness of fit indicates how well a biplot approximates the centred data matrix, variable covariance matrix and Mahalanobis distances between cases globally. These measures are simply expressed through the eigenvalues of the data covariance matrix (Gabriel, 1971; Jolliffe, 2002). The specific quality of representation of an active or supplementary variable is the proportion of variance of the variable accounted for by the biplot display (Graffelman, 2003). Note that only variables with good specific quality of representation should in principle be used for interpretation.\nIn our case, the biplot optimally displays the column-centred version of the temperature data matrix in the left panel of Figure 1. Variables are the calendar months and cases are the years. Thus, the biplot simultaneously represents the 12 monthly time series and the 121 individual years as points on a plane. This is the most compressed geometrical depiction of the information in the data matrix in a two-dimensional space. Hence, the biplot allows visual appraisal of the inherent structure of the data: temperature entries, variance–covariance structure of the monthly series, clustering of the years, extremes and multivariate outliers. It also affords opportunities to identify some new variables that condense most of the statistical information contained in the data matrix. These variables are subject to interpretation. For this purpose, we project the two time series in the right panel of Figure 1 on to the biplot space as supplementary variables. To facilitate the interpretation further, we rotate the biplot axes orthogonally. The objective is to find a simple correlation structure between the new axes and the 12 monthly samples. We obtain the rotation matrix by the varimax criterion of Kaiser (1958), maximizing the summed variances of the squared correlations between the new axes and the 12 monthly time series."
+  }, {
+    "heading": "3. Results",
+    "text": ""
+  }, {
+    "heading": "3.1. Biplot",
+    "text": "Two-dimensional biplotting captures 86% of the total variance of the temperature data, which implies quite a good fit to the entries of the centred version of the data matrix in the left panel of Figure 1. Nevertheless, it is still an open question whether only a planar display can actually separate signal from noise in the data. However, the scree graph of the eigenvalues of the temperature covariance matrix (not shown) indicates the domination of the first two eigenvalues and their separation from the rest. So a planar display is adequate in this case.\nFigure 2 displays the biplot of the centred data matrix. The thick arrows correspond to months and the points to years. The lighter arrows ‘An’ and ‘WSC’ are vector linear combinations of monthly arrows. The abbreviation An is for the average over all thick arrows, i.e. the annual mean temperature anomaly. The abbreviation WSC is for the difference between the averages over January–March and May–October, i.e. the anomalies of the winter–summer temperature contrast. The arrow ‘LT’ represents an artificial linear trend at a rate of 0.01 ◦C per year. It is projected as a supplementary variable. Time is mapped linearly on the grey-scale filling of the year markers. Some years are labelled explicitly. In parentheses are the percentages of the total variance accounted for by each principal axis. The overall goodness of fit to the variance–covariance structure of the temperature data set is 99.5%. The specific qualities of projection of the months are also quite good. They range from 94% for August to 75% for December. The supplementary variable An projects almost fully, WSC to 96% and LT to 68%.\nThe length of an arrow approximates the standard deviation of the respective monthly series. The longer the arrow, the higher the variability. As seen, the arrows of November–April are longer than those of May–October. The variability of February is the largest and that of September the smallest.\nThe cosine of the angle between two arrows approximates the correlation coefficient between the corresponding monthly samples. Acute angles, right angles and obtuse angles indicate positive correlations, lack of correlation and negative correlations, respectively. We see that the thick arrows fan out at an acute angle, so all monthly pairwise cross-correlations are positive. As seen, the angular separation of the arrows is not uniform. While May–October are tightly gathered, November–April are more widely spread. January–March form a triad that is well apart from the group of May–October. November, December and April are close to the horizontal axis but away from the other two groups.\nThe scalar product between two arrows reflects the respective covariance. Thus, the length of the orthogonal projection of a monthly arrow on to the arrow LT is proportional to the linear trend slope of the respective time series. As seen, the projections of January–March on to LT are farther from the origin than the projections of May–October. Therefore, January–March have faster rates of linear warming than May–October.\nSumming up, the observed variance–covariance pattern justifies the following seasonalization of a temperature anomaly year. May–October constitute a season, henceforth called ‘summer’, of lower variability, higher monthly intercorrelations (nearly up to multicollinearity) and slower linear warming. January–March form a second season, henceforth called ‘winter’, of higher variability, weaker intercorrelations and faster linear warming. November, December and April remain as transitional months.\nThe scalar product between an arrow and a position vector of a year approximates the value of the respective centred anomaly. Geometrically, this is the arrow length times the length of the orthogonal projection of a year on to this arrow. As all the data are centred, henceforth the comparative degrees ‘warmer’ and ‘colder’ are meant relative to the respective average over all 121 years. The projections of the extreme right –2006, 2003, 2001 and\nc© 2014 Royal Meteorological Society Q. J. R. Meteorol. Soc. 140: 2650–2657 (2014)\nSeasonality of Northern Hemisphere Temperature 2653\n1903\n1912\n1916\n2005\n2006\n1902\n1913\n1892\n1928\n1939\n2010\n2001\n2003\n1982 1992\n1910\nWS C\nAn\nLT\nMay Nov\nJan Feb\nMa r\nDec\nJun\nJul\nAug SepOct\nApr\n−0.2 −0.1 0.1 0.2 0.3\n−2.2 −1.1 0.0 1.1 2.2 3.3\n0.00.00.00.00.00.00.00.00.0\n0.00.00.00.00.00.00.00.00.0\n−0.2\n−0.1\n0.1\n0.2\n−2.2\n−1.1\n0.0\n1.1\n2.2\nFirst principal axis (80.3 %)\nSe co\nnd p\nri nc\nip al\na xi\ns (5\n.7 %\n)\nMonth−scales (°C)\nYear−scales (Dimensionless)\n1890 1950 2010\nFigure 2. Biplot of the monthly temperature anomalies, with anomalies of mean annual temperature, winter–summer temperature contrast and an artificial linear trend as supplementary variables.\n2005 –are in the direction of the monthly arrows and An. These years have large positive monthly and annual mean anomalies. Conversely, the extreme left –1892, 1903, 1912 and 1916 –are opposed in direction to the monthly arrows and An, and they all are colder not only annually but also monthly. The years 1913, 1902, 1992 and 1982 are at the top of the display. They are in the direction of the winter arrows and WSC but oppose the summer arrows. These years have relatively warm winters, cool summers and large positive anomalies of the winter–summer contrast. Conversely, at the bottom, 1892, 2010, 1928 and 1939 are opposed in direction to the winter arrows and are in the direction of the summer arrows. They all have relatively cool winters and warm summers and thus some of the largest negative anomalies of the winter–summer contrast.\nThe Euclidean distance between two points should approximate the Mahalanobis distance between their years in the full biplot space. Generally, as well as in this case, the goodness of fit is low. Gabriel (1971) recommends that the Euclidean distances be considered as standardized distances on the biplot plane. Therefore, the distance between two points reflects the statistical similarity between the respective years. The closer the points, the more statistically similar the years. As seen, the years scatter without any marked clustering. The years 1892, 1902, 1913, and 2010 are ‘singled out’ on the biplot and are multivariate outliers.\nWe turn to interpretation of the biplot. As mentioned, all monthly series are positively cross-correlated in pairs. This is the pattern of the so-called size effect (Jolliffe, 2002). Generally, a warm year is also warm each month. The arrow of the annual mean anomaly An is very close to the horizontal axis; the correlation coefficient is nearly 1. The correlation coefficients between the monthly series and this axis are also positive and strong, strongest with the summer months. They range from 0.83 for January to 0.94 for August, 0.90 on average. All years with positive annual anomaly fall on to the right half-plane and those with negative values are to the left. So the first principal axis constitutes the\nannual mean temperature anomaly. It accumulates 80.3% of the total variance.\nWhat is at the root of the observed size effect? As a rule, the years with negative anomalies for all months are in the left of the biplot and are dark-shaded. They fall at the beginning of the century. Those with positive anomalies are in the right and are light-shaded. They fall at the end of the century. Thus, the first axis also orders the years almost chronologically in time. Approximating the fading of the year markers, the artificial trend variable LT is close to the first principal axis. The correlation coefficient is 0.83. Hence, the common upward trend of the monthly series is largely responsible for the size effect. Thus, regardless of fluctuations, the 12 monthly series generally move together. Since the largest correlations of the first axis are with the summer months, the trend is best manifested in summer. Obviously the larger interannual variability more effectively obscures the trend in winter, rendering it more visible in summer.\nThe second axis accounts for 5.7% of the total variance. The grey shades of the year markers do not change monotonically with their coordinates along the axis. This axis therefore represents some non-trending residual variability on the interannual timescale. As seen in Figure 2, it opposes the summer to the winter months. While the transitional months December and April, as well as An and LT, are nearly orthogonal to the vertical, the arrow WSC is close to it. The correlation coefficient between the second principal axis and the winter–summer contrast is 0.91. The years on top near the vertical have warmer winters, cooler summers and thus large positive anomalies of the winter–summer contrast. At the bottom near the vertical are years with cooler winters, warmer summers and large seasonal contrast. A check shows that, for 65% of the years in the upper half-plane, the winter–summer anomaly contrast has positive values and for 97% of those in the lower half-plane it has negative values. Therefore, the second principal axis constitutes the anomaly of the winter–summer temperature contrast.\nc© 2014 Royal Meteorological Society Q. J. R. Meteorol. Soc. 140: 2650–2657 (2014)"
+  }, {
+    "heading": "2654 M. A. Ivanov and S. N. Evtimov",
+    "text": "To assess the robustness of the biplot, we run the factorization for different starting months of the year and different record lengths. Generally, the biplot demonstrates structural stability under change of the starting month. The main summer–winter opposition is preserved and only the transitional months April, November and December alter their positions against the winter and summer months. The factorization is even more robust against small changes of the record length.\nIn brief, two synthetic variables summarize most of the information contained in the 12 monthly series. These are the size effect, largely due to the common long-term trend and represented by the mean annual temperature anomaly, and a superimposed non-trending residual variability on the interannual time-scale, represented by the winter–summer anomaly contrast. The longterm trend accounts for an overwhelming part of the total variance and is best manifested in summer."
+  }, {
+    "heading": "3.2. Rotation of axes",
+    "text": "The straightforward interpretation of the biplot pattern in the previous section is reasonable but does not account for the observed seasonal grouping of the monthly temperature series and, in this sense, is not meaningful. The impediment ensues from the large amount of total variance captured by the first principal axis and, more specifically, from the strong size effect owing to the common trend. To surmount this stumbling block, we rotate the biplot axes using the varimax criterion. In this case, the varimax rotation contrasts the pattern of axes–monthly correlations. This should facilitate a seasonal interpretation of the biplot.\nFigure 3 displays the rotated biplot. The thick arrows are again the months. The lighter arrows AMO and LOC correspond to the summer Atlantic Multidecadal Oscillation and the winter anomalies of the land–ocean temperature contrast in the right panel of Figure 1. They are projected on to the biplot as supplementary variables and thus do not affect the basic configuration in Figure 3. In order not to clutter the display, we do not plot the arrows for An, LT and WSC. The lighter markers represent the years. Their shape is defined by the signs of the mean summer and the mean winter anomalies. A square means two positive, a circle two negative signs. A right-pointing triangle\ncorresponds to a positive summer and a negative winter anomaly and the opposite case is tagged by a left-pointing triangle. As seen, the rotation redistributes the total variance almost equally between the axes, the horizontal accumulating 49.0% and the vertical 37.1%. The qualities of projection of AMO and LOC are 47 and 71%, respectively.\nThe summer months correlate substantially only with the first axis, the coefficients reaching 0.88 for July, 0.85 on average. A check shows that 75% of the years with warmer summers fall on to the right half-plane and 84% of the those with colder summers are in the left half-plane of the biplot. Roughly, the warmer summers are to the right and the colder to the left. The second axis correlates highly only with the winter months, the coefficients reaching 0.84 for January, 0.79 on average. The upper half-plane catches 86% of the warmer winters and the lower 88% of the colder winters. Roughly, the warmer winters are up and the colder are down. Thus, we are justified to label the horizontal axis as a ‘summer axis’ and the vertical as a ‘winter axis’. Regarding the transitional months, November and December formally belong to the cold half-year but only correlate with the summer axis, while April correlates with both axes. This dual behaviour additionally supports their classification as transitional. The distribution of the years over the quadrants in Figure 3 lends further credence to our interpretation of the rotated axes. As seen, the first quadrant contains only years with both summer and winter warmer and the third quadrant only years with both colder. All years with colder summers and warmer winters fall into the second quadrant and those with warmer summers and colder winters are in the fourth. Albeit not perfect, the classification is statistically acceptable.\nThe supplementary variable AMO is close to both the horizontal axis and the summer arrows and further from the winter arrows. It correlates substantially only with the first axis, the coefficient being 0.68. Controversially, the variable LOC is further from the summer arrows and closer to the vertical axis and the winter arrows. It correlates substantially only with the second axis, the coefficient being 0.84. So, while AMO is in association with the first rotated axis and the summer months, LOC is associated with the second axis and the winter months.\nIn short, the horizontal and vertical axes of the rotated biplot classify the summer and winter months as well as the years according to the signs of their mean summer and winter season anomalies. Hence, they can be looked upon as summer and winter axes. The summer axis is related to AMO and the winter to LOC."
+  }, {
+    "heading": "4. Discussion",
+    "text": ""
+  }, {
+    "heading": "4.1. Dynamical sources of seasonality",
+    "text": "Rotating the biplot axes, in section 3.2 we identified two uncorrelated physical variables condensing the seasonal information of the temperature data set. Are there real dynamical processes in the climate system behind them and which are they?\nThe horizontal axis is a summer axis and related to AMO. AMO is physically linked to fluctuations of the thermohaline circulation in the North Atlantic. Its variability is quasi-periodic, with significant power between 70 and 120 years, and is detectable in the long-term variability of the monthly temperature anomalies of the Northern Hemisphere. It accounts for up to 0.2 ◦C peak–trough difference in hemispheric decadal temperatures (Delworth and Mann, 2000; Knight et al., 2005). Sutton and Hodson (2005) have documented its modulating effect on boreal summer climate on multidecadal time-scales. In the beginning of the century the AMO phase is negative, in the 1930s positive, in the 1960s negative again and finally in the 1990s it again becomes positive (Enfield et al., 2001). These fluctuations in the intensity of the thermohaline circulation appear to be related to the evolution of the great salinity anomalies in the North Atlantic. Such anomalies have been observed in the early twentieth century and from the 1960s to the 1980s and have accompanied the two periods of severe sea ice in the Northern North Atlantic during the\nc© 2014 Royal Meteorological Society Q. J. R. Meteorol. Soc. 140: 2650–2657 (2014)\nSeasonality of Northern Hemisphere Temperature 2655\ntwentieth century. They might have contributed to weakening of the thermohaline circulation and hence to the cool AMO phases (Dickson et al., 1988; Manabe and Stouffer, 1999; Zhang and Vallis, 2006).\nA check of the data shows that 75% of the positive AMO summers are warmer and 74% of the negative AMO ones are colder. Exceptions are either owing to the overwhelming warming trend or are ENSO-forced (see section 4.2). Indeed, the summers that are colder, contrary to the positive AMO phase, occur before the 1930s, with the exception of the La Niña years 1949, 1954 and 1955. Warmer summers, despite negative AMO phase, occur after the 1960s and half of them are affected by El Niño (Bradley et al., 1987; NOAA Climate Prediction Center Internet Team, 2012). Positive AMO indicates intensification of the thermohaline circulation and is related to warmer summers, whereas negative AMO indicates weakening circulation, conducive to colder summers. In view of the lowfrequency variability of the thermohaline circulation, the fact that its hemispheric effect is only detectable in the warm months is easily accountable. Indeed, winter variability is higher and over a richer spectrum, obscuring the low-frequency oceanic signal. The result is consistent with the finding of Sutton and Hodson (2005) that the North Atlantic thermohaline circulation is an important driver of multidecadal variations in summertime climate of large parts of the Northern Hemisphere. We conclude that the thermohaline circulation in the North Atlantic underlies the rotated horizontal axis.\nThe vertical is a winter axis and related to LOC. Representing the contrast in thermal inertia between land and ocean, the land–ocean temperature contrast is a measure of the principal zonally asymmetric thermal forcing of the atmosphere. It is a determinant of the strength of the eddies coupled to the large-scale zonal flow and plays a role in their amplification at the expense of that flow (Lorenz, 1984; Jain et al., 1998). Broccoli et al. (1998) have shown that it is the primary physical factor for the existence of the cold ocean–warm land pattern (Wallace et al., 1995). The latter has a distinctive signature in surface and midtropospheric winter circulation and is responsible for 65% of the variance of the hemispheric lower tropospheric temperature and for the richer spectrum of its variability in the cool season (Wallace et al., 1996). Winter values of the land–ocean temperature contrast are negative. As seen in Figure 1, it shows no trend until about the late 1960s, when its anomalies (LOC) start to increase monotonically, hence it decreases in absolute value.\nA check of the data shows that 85% of the negative LOC winters are colder and 76% of the positive LOC winters are warmer. Exceptions are owing to the overwhelming warming trend. In fact, all of the few winters that are colder despite positive LOC occur before 1927, i.e. they are at the beginning of the warming trend. Respectively, the few that are warmer despite negative LOC occur either after 1950 or in the midtwentieth century global warmth (Parker et al., 1994). A positive LOC implies a positive cold ocean–warm land pattern and is statistically associated with warmer winters; the opposite is true for a negative LOC. What conditions this relationship? The mean temperature anomaly of the Northern Hemisphere in winter is dominated by the more northerly land latitudes. This is owing to the fact that here the anomalies are of the largest magnitude and fail to cancel completely by hemispheric averaging (Barnett, 1978; Hurrell, 1995; Wallace et al., 1996). We conclude that the cold ocean–warm land pattern underlies the rotated vertical axis.\nIn summary, the first rotated biplot axis is the thermohaline circulation in the North Atlantic. It operates on a multidecadal time-scale and its effect on hemispheric temperatures is manifested in summer. In fact, it statistically determines the anomality of summers. The second rotated axis is the cold ocean–warm land pattern, which has a rich spectrum of variability. It is physically linked to the land–ocean temperature contrast and its effect is manifested in winter. In fact, it statistically determines the anomality of winters."
+  }, {
+    "heading": "4.2. Dynamical sources of ‘singular’ years",
+    "text": "On the biplot in Figure 2, we identified a number of markers that stand out statistically as extreme or outlier years. Are there dynamical sources of this localization and which are they? The plausible candidates should operate on both interannual and hemispheric scales and have a marked impact on Northern Hemisphere surface temperatures, competing with the background trend. Folland et al. (2013) documented that the largest such factors, in decreasing importance globally, are the El Niño–Southern Oscillation (ENSO) (Trenberth, 1997), volcanism and AMO. The e-folding time response of global mean temperature to each of them is not greater than a year. In the Northern Hemisphere, the Arctic Oscillation (AO)/North Atlantic Oscillation (NAO) is also a relevant mode of internal climate variability (Thompson and Wallace, 1998; Wallace, 2000; Castanheira et al., 2007).\nEl Niño, the warm ENSO event, leads its maximal hemispheric surface warming effect with a season, and the cool event, La Niña, leads the hemispheric cooling also with a season (Jones and Kelly, 1988). Volcanic eruptions cool the first two summers and warm the first one or two post-eruption winters (Robock, 2000). A positive AO phase is associated with positive hemispheric winter anomalies and the opposite is true for a negative phase (Thompson and Wallace, 2000a,b).\nAs the years in the extreme right of the biplot, 2006, 2003, 2001 and 2005, are at the end of the trending period, they are warm all year round. The joint contribution from an El Niño event (NOAA Climate Prediction Center Internet Team, 2012) and a positive winter NAO (Våge et al., 2009) makes 2006 the warmest year on record.\nAs the years in the extreme left of the biplot, 1892, 1903, 1912 and 1916, are at the beginning of the general warming trend, they are cool all year round. Except for 1912, the extremity of that coolness is in conjunction with La Niña events (Bradley et al., 1987). A superimposed volcanic cooling due to the eruptions of Pelée (5/1902, 15◦N), Soufrière (5/1902, 13◦N) and Santa Marı́a (10/1902, 15◦N) is observable in 1903. The 1912 cooling bears the fingerprint of the Katmai (6/1912, 58◦N) eruption (Robock and Mao, 1995).\nThe years at the top of the biplot, 1913, 1902, 1992 and 1982, which stand out with their extremely large positive winter–summer anomaly contrasts, bear the fingerprint of volcanism. The summer hemispheric cooling of 1913, the strongest on record, as well as the strong winter warming of the extratropics (Robock and Mao, 1995), is readily attributable to the Katmai eruption. The summer cooling in 1902, despite the moderate El Niño event, and the winter warming of the northern extratropics are the signature of the 1902 eruptions (Robock and Mao, 1995). The summer of 1992 bears a strong signal of the Pinatubo (6/1991, 15◦ N) volcanic cooling, overwhelming the concurrent El Niño warming (Kirchner et al., 1999), while the winter is warmer in conjunction with the volcanically forced positive AO event (Stenchikov et al., 2004). The summer of 1982 is affected by a general cooling tendency that started in the spring well before the eruption of El Chichón (4/1982, 17◦N) (Angell and Korshover, 1983) and there is evidence for a competing volcanic cooling (Robock and Mao, 1995); the winter warmth is due to concurrent ‘super El Niño’ and volcanic effects (Mao and Robock, 1998).\nThe years at the bottom of the biplot, 1892, 2010, 1928 and 1939, are conspicuous with their extremely large negative winter–summer anomaly contrasts. Most of them are multivariate outliers. The summers of 1892 and 2010 should be warmed by El Niño events a season in advance and that of 1939 is concurrent with an El Niño. Except for 1939, the winters are cooled by La Niña events (Bradley et al., 1987; NOAA Climate Prediction Center Internet Team, 2012). Documented superimposed winter NAO cooling (Hurrell et al., 2003) makes\nc© 2014 Royal Meteorological Society Q. J. R. Meteorol. Soc. 140: 2650–2657 (2014)"
+  }, {
+    "heading": "2656 M. A. Ivanov and S. N. Evtimov",
+    "text": "1892 the coldest year on record and negative AO events cool the other three winters (Budikova, 2005; Hansen et al., 2012).\nIn section 3.1, we observed that as a rule the years in the left half-plane of the biplot in Figure 2 are dark shaded, whereas those in the right half-plane are light shaded. Nevertheless, there are a number of conspicuous exceptions. These are years darker than average (i.e. than 1950) on the right side and years lighter than average (1950) on the left. Their singularity consists in their deviation from the main feature of the temperature series: the general warming trend. As 1950 approximately separates the period of mid-twentieth century global warmth from the subsequent period of hemispheric cooling (Parker et al., 1994; Jones and Moberg, 2003), it can be anticipated that these years belong to these two periods. A check shows that this is exactly the case. It is noteworthy that they bear the AMO fingerprint. Indeed, the 13 darker years on the right occur in the positive AMO phase, without exception. From the 17 lighter years on the left, only three, 1954, 1955 and 1959, are not associated with negative AMO, the first two being cooled by La Niña events (Bradley et al., 1987). The observation reinforces the growing body of evidence that the irregular oscillations of the thermohaline circulation in the North Atlantic are a forcing factor of the decadal-scale deviations from a monotonic hemispheric temperature path during the twentieth century (Delworth and Mann, 2000; Zhang et al., 2007)."
+  }, {
+    "heading": "5. Conclusions",
+    "text": "The purpose of this study was to reveal the seasonality of Northern Hemisphere temperature anomalies for the 1890–2010 period. More specifically, the goal was to describe this seasonality and uncover the physical mechanisms behind it. Due to its simplicity and intuitive appeal, the multivariate statistical method of the biplot display was applied.\nTo the best of our knowledge, the biplot has provided for the first time a visual synthesis of the major features of the 12-variate monthly time series. The larger amplitudes and trends, greater interannual and intermonthly variability and lower intermonthly correlations of cool-season temperature anomalies become apparent in a single plot. On the basis of the observed data covariance structure, summer in the Northern Hemisphere temperature anomaly climatology is identified with the May–October season and winter with the January–March season. The remaining months are transitional. Two synthetic variables summarize most of the information contained in the 12 monthly series. These are the size effect, mainly owing to the common long-term trend and represented by the mean annual temperature anomaly, and a superimposed non-trending residual variability on the interannual time-scale, represented by the winter–summer anomaly contrast. The long-term trend accounts for the overwhelming part of the total variance and is best manifested in summer.\nTwo uncorrelated factors underlie the temperature anomaly seasonality. The first is the thermohaline circulation in the North Atlantic, indicated by the Atlantic Multidecadal Oscillation. It operates on a multidecadal time-scale and its effect on hemispheric temperatures is detectable in summer. In fact, it statistically determines the anomality of summers. The second factor is the cold ocean–warm land pattern, physically linked to the hemispheric land–ocean temperature contrast. It has a broader spectrum of variability and its effect is manifested in winter. In fact, it statistically determines the anomality of winters.\nThe interannual effects of the El Niño–Southern Oscillation, volcanism and also the Arctic Oscillation/North Atlantic Oscillation mode compete with the background trend to produce a few extreme and outlier years. Additional evidence is provided in favour of the hypothesis that decadal-scale temperature excursions around the underlying monotonic warming of the Northern Hemisphere are forced by fluctuations of the North Atlantic thermohaline circulation.\nAs a directive for future research, it would be instructive to apply the biplot technique to model simulations and juxtapose the results to this observation-based study. Any discrepancies of either qualitative or quantitative nature would point to potential model flaws. Their physical attribution would provide much needed signposts towards alternatives for future improvement of global climate models."
+  }, {
+    "heading": "Acknowledgement",
+    "text": "The authors thank the R Development Core Team (2011) for providing the language and environment for the statistical computing and graphics. They also thank two anonymous reviewers for valuable comments."
+  }],
+  "year": 2014,
+  "references": [{
+    "title": "Biplots of compositional data",
+    "authors": ["J Aitchison", "M. Greenacre"],
+    "venue": "J. R. Stat. Soc. C 51: 375–392, doi: 10.1111/1467-9876.00275.",
+    "year": 2002
+  }, {
+    "title": "Global temperature variations in the troposphere and stratosphere, 1958–1982",
+    "authors": ["JK Angell", "J. Korshover"],
+    "venue": "Mon. Weather Rev. 111: 901–921, doi:",
+    "year": 1983
+  }, {
+    "title": "Estimating variability of surface air temperature in the Northern Hemisphere",
+    "authors": ["Barnett TP."],
+    "venue": "Mon. Weather Rev. 106: 1353–1367, doi:",
+    "year": 1978
+  }, {
+    "title": "ENSO signal in continental temperature and precipitation records",
+    "authors": ["RS Bradley", "HF Diaz", "GN Kiladis", "JK. Eischeid"],
+    "venue": "Nature 327: 497–501, doi: 10.1038/327497a0.",
+    "year": 1987
+  }, {
+    "title": "The cold ocean–warm land pattern: Model simulation and relevance to climate change detection",
+    "authors": ["AJ Broccoli", "NC Lau", "MJ. Nath"],
+    "venue": "J. Clim. 11: 2743–2763, doi: 10.1175/1520-0442 (1998)011<2743:tcowlp>",
+    "year": 1998
+  }, {
+    "title": "Uncertainty estimates in regional and global observed temperature changes: A new dataset from 1850",
+    "authors": ["P Brohan", "JJ Kennedy", "I Harris", "SFB Tett", "PD. Jones"],
+    "venue": "J. Geophys. Res.: Atmos. 111: D12 106.1–D12 106.21, doi:",
+    "year": 2006
+  }, {
+    "title": "Impact of the Pacific Decadal Oscillation on relationships between temperature and the Arctic Oscillation in the USA in winter",
+    "authors": ["D. Budikova"],
+    "venue": "Clim. Res. 29: 199–208, doi: 10.3354/cr029199.",
+    "year": 2005
+  }, {
+    "title": "Bridging the Annular mode and North Atlantic Oscillation paradigms",
+    "authors": ["JM Castanheira", "MLR Liberato", "CAF Marques", "HF. Graf"],
+    "venue": "J. Geophys. Res.: Atmos. 112: D19 103, doi: 10.1029/2007JD008477.",
+    "year": 2007
+  }, {
+    "title": "A meteorological application of principal component analysis",
+    "authors": ["Craddock JM."],
+    "venue": "Statistician 15: 143–156, doi: 10.2307/2987388.",
+    "year": 1965
+  }, {
+    "title": "Observed and simulated multidecadal variability in the Northern Hemisphere",
+    "authors": ["Delworth TL", "Mann ME."],
+    "venue": "Clim. Dyn. 16: 661–676, doi:",
+    "year": 2000
+  }, {
+    "title": "The ‘great salinity anomaly’ in the Northern North Atlantic 1968–1982",
+    "authors": ["RR Dickson", "J Meincke", "SA Malmberg", "AJ. Lee"],
+    "venue": "Prog. Oceanogr. 20: 103–151, doi: 10.1016/0079-6611(88)90049-3.",
+    "year": 1988
+  }, {
+    "title": "The Atlantic Multidecadal Oscillation and its relation to rainfall and river flows in the continental U.S",
+    "authors": ["DB Enfield", "AM Mestaz-Nuñez", "PJ. Trimble"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2001
+  }, {
+    "title": "Intraannual dissimilarities between monthly mean Northern Hemisphere temperature anomalies during the twentieth century",
+    "authors": ["Evtimov SN", "Ivanov MA."],
+    "venue": "Theor. Appl. Climatol. 90: 161–168, doi: 10.1007/s00704-0070307-3.",
+    "year": 2007
+  }, {
+    "title": "High predictive skill of global surface temperature a year ahead",
+    "authors": ["CK Folland", "AW Colman", "DM Smith", "O Boucher", "DE Parker", "JP. Vernier"],
+    "venue": "Geophys. Res. Lett. 40: 761–767, doi: 10.1002/grl.50169.",
+    "year": 2013
+  }, {
+    "title": "The biplot graphic display of matrices with application to principal component analysis",
+    "authors": ["Gabriel KR."],
+    "venue": "Biometrika 58: 453–467, doi: 10.1093/ biomet/58.3.453.",
+    "year": 1971
+  }, {
+    "title": "Analysis of meteorological data by means of canonical decomposition and biplots",
+    "authors": ["Gabriel KR."],
+    "venue": "J. Appl. Meteorol. 11: 1071–1077, doi:",
+    "year": 1972
+  }, {
+    "title": "The persistence of hemispheric averages of mean monthly temperature anomalies",
+    "authors": ["Gordon AH."],
+    "venue": "Atmósfera 12: 135–143.",
+    "year": 1999
+  }, {
+    "title": "Optimal representation of supplementary variables in biplots from principal component analysis and correspondence analysis",
+    "authors": ["J. Graffelman"],
+    "venue": "Biom. J. 45: 491–509, doi: 10.1002/bimj.200390027.",
+    "year": 2003
+  }, {
+    "title": "GISS analysis of surface temperature change",
+    "authors": ["JE Hansen", "R Ruedy", "J Glascoe", "M. Sato"],
+    "venue": "J. Geophys. Res.: Atmos. 104: 997 022 30–31, doi:",
+    "year": 1999
+  }, {
+    "title": "Global temperature in 2011, trends, and prospects",
+    "authors": ["J Hansen", "R Ruedy", "M Sato", "K. Lo"],
+    "venue": "http://www. gci.org.uk/Documents/Hansen 20120119 Temperature.pdf (accessed 20 February 2014).",
+    "year": 2012
+  }, {
+    "title": "Decadal trends in the North Atlantic Oscillation: Regional temperatures and precipitation",
+    "authors": ["Hurrell JW."],
+    "venue": "Science 269: 676–679, doi:",
+    "year": 1995
+  }, {
+    "title": "An overview of the North Atlantic Oscillation",
+    "authors": ["JW Hurrell", "Y Kushnir", "G. Ottersen"],
+    "venue": "The North Atlantic Oscillation: Climatic Significance and Environmental Impact, Hurrel JW, Kushnir Y, Ottersen G, Visbeck M, Visbeck MH. (eds.) Geophysical Monogr. Series 134: 1–35. AGU: Washington, DC, doi: 10.1029/134GM01.",
+    "year": 2003
+  }, {
+    "title": "Seasonality and interannual variations of Northern Hemisphere temperature: Equator-to-pole gradient and ocean–land contrast",
+    "authors": ["S Jain", "U Lall", "ME. Mann"],
+    "venue": "J. Clim. 12: 1086–1100, doi: 10.1175/15200442(1999)012<1086:saivon>2.0.CO;2.",
+    "year": 1998
+  }, {
+    "title": "Principal Component Analysis, Springer Series in Statistics (2nd edn), Bickel P, Diggle P, Fienberg S, Krickeberg K, Olkin I, Wermuth N, Zeger S",
+    "authors": ["Jolliffe IT."],
+    "venue": "(eds.) Springer-Verlag: New York, NY.",
+    "year": 2002
+  }, {
+    "title": "Causes of interannual global temperature variations over the period since 1861",
+    "authors": ["Jones PD", "Kelly PM."],
+    "venue": "Long and Short Term Variability of Climate, Wanner H, Siegenthaler U. (eds.) Lecture Notes in Earth Sciences 16: 18–34. Springer-Verlag: Berlin, doi: 10.1007/BFb0046588.",
+    "year": 1988
+  }, {
+    "title": "Hemispheric and large-scale surface air temperature variations: An extensive revision and update to 2001",
+    "authors": ["PD Jones", "A. Moberg"],
+    "venue": "J. Clim. 16: 206–223, doi: 10.1175/1520-0442(2003)016<0206:halssa>2.0.CO;2.",
+    "year": 2003
+  }, {
+    "title": "The varimax criterion for analytic rotation in factor analysis",
+    "authors": ["H. Kaiser"],
+    "venue": "Psychometrika 23: 187–200, doi: 10.1007/BF02289233.",
+    "year": 1958
+  }, {
+    "title": "EOFs of harmonizable cyclostationary processes",
+    "authors": ["Kim KY", "North GR."],
+    "venue": "J. Atmos. Sci. 54: 2416–2427, doi: 10.1175/1520-0469(1997)054<2416: eohcp>2.0.CO;2.",
+    "year": 1997
+  }, {
+    "title": "A comparison study of EOF techniques: Analysis of nonstationary data with periodic statistics",
+    "authors": ["KY Kim", "Q. Wu"],
+    "venue": "J. Clim. 12: 185–199, doi:",
+    "year": 1999
+  }, {
+    "title": "Climate model simulation of winter warming and summer cooling following the 1991 Mount Pinatubo volcanic eruption",
+    "authors": ["I Kirchner", "GL Stenchikov", "HF Graf", "A Robock", "JC. Antuña"],
+    "venue": "J. Geophys. Res.: Atmos. 104: 19 039–19 055, doi: 10.1029/1999JD900213.",
+    "year": 1999
+  }, {
+    "title": "A signature of persistent natural thermohaline circulation cycles in observed climate",
+    "authors": ["JR Knight", "RJ Allan", "CK Folland", "M Vellinga", "ME. Mann"],
+    "venue": "Geophys. Res. Lett. 32: L20 708.1–L20 708.4, doi: 10.1029/2005GL024233.",
+    "year": 2005
+  }, {
+    "title": "Irregularity: A fundamental property of the atmosphere",
+    "authors": ["Lorenz EN."],
+    "venue": "Tellus Ser. A 36A: 98–110, doi: 10.1111/j1600-08701984.tb00230.x.",
+    "year": 1984
+  }, {
+    "title": "The rôle of thermohaline circulation in climate",
+    "authors": ["Manabe S", "Stouffer RJ."],
+    "venue": "Tellus Ser. B 51: 91–109, doi: 10.1034/j1600-08891999.00008.x.",
+    "year": 1999
+  }, {
+    "title": "Surface air temperature simulations by AMIP general circulation models: Volcanic and ENSO signals and systematic errors",
+    "authors": ["J Mao", "A. Robock"],
+    "venue": "J. Clim. 11: 1538–1552, doi: 10.1175/1520-0442(1998)011<1538: satsba>2.0.CO;2.",
+    "year": 1998
+  }, {
+    "title": "Cold and Warm Episodes by Season",
+    "authors": ["NOAA Climate Prediction Center Internet Team."],
+    "venue": "NOAA/National Weather Service, National Centers for Environmental Prediction, Climate Prediction Center: College Park, MD. http://www.cpc.ncep.noaa.gov/products/analysis monitoring/ensostuff/ ensoyears.shtml (accessed 20 February 2014).",
+    "year": 2012
+  }, {
+    "title": "Interdecadal changes of surface temperature since the late nineteenth century",
+    "authors": ["DE Parker", "PD Jones", "CK Folland", "A. Bevan"],
+    "venue": "J. Geophys. Res.: Atmos. 99: 14 373–14 399, doi: 10.1029/94JD00548.",
+    "year": 1994
+  }, {
+    "title": "R: A language and environment for statistical computing",
+    "authors": ["R Development Core Team."],
+    "venue": "http://www.R-project.org (accessed 20 February 2014).",
+    "year": 2011
+  }, {
+    "title": "Volcanic eruptions and climate",
+    "authors": ["A. Robock"],
+    "venue": "Rev. Geophys. 38: 191–219, doi: 10.1029/1998RG000054.",
+    "year": 2000
+  }, {
+    "title": "The volcanic signal in surface temperature observations",
+    "authors": ["A Robock", "J. Mao"],
+    "venue": "J. Clim. 8: 1086–1103, doi: 10.1175/1520-0442(1995)008<1086: tvsist>2.0.CO;2.",
+    "year": 1995
+  }, {
+    "title": "Solar turbulence in Earth’s global and regional temperature anomalies",
+    "authors": ["N Scafetta", "P Grigolini", "T Imholt", "J Roberts", "BJ. West"],
+    "venue": "Phys. Rev. E: Stat. Nonlinear Soft Matter Phys. 69: 026 303–1–026 303–13, doi:",
+    "year": 2004
+  }, {
+    "title": "Arctic Oscillation response to the 1991 Pinatubo eruption in the SKYHI general circulation model with a realistic Quasi-Biennial Oscillation",
+    "authors": ["GL Stenchikov", "K Hamilton", "A Robock", "V Ramaswamy", "MD. Schwarzkopf"],
+    "venue": "J. Geophys. Res.: Atmos. 109: 2156–2202, doi: 10.1029/2003JD003699.",
+    "year": 2004
+  }, {
+    "title": "Atlantic Ocean forcing of North American and European summer climate",
+    "authors": ["Sutton RT", "Hodson DLR."],
+    "venue": "Science 309: 115–118, doi: 10.1126/ science.1109496.",
+    "year": 2005
+  }, {
+    "title": "The Arctic Oscillation signature in the wintertime geopotential height and temperature fields",
+    "authors": ["Thompson DWJ", "Wallace JM."],
+    "venue": "Geophys. Res. Lett. 25: 1297–1300, doi: 10.1029/98GL00950.",
+    "year": 1998
+  }, {
+    "title": "Annular modes in the extratropical circulation",
+    "authors": ["Thompson DWJ", "Wallace JM."],
+    "venue": "Part I: Month-to-month variability. J. Clim. 13: 1000–1016, doi: 10.1175/1520-0442(2000)013<1000:amitec>",
+    "year": 2000
+  }, {
+    "title": "Annular modes in the extratropical circulation",
+    "authors": ["Thompson DWJ", "Wallace JM."],
+    "venue": "Part II: Trends. J. Clim. 13: 1018–1036, doi: 10.1175/15200442(2000)013<1018:amitec>2.0.CO;2.",
+    "year": 2000
+  }, {
+    "title": "The definition of El Niño",
+    "authors": ["Trenberth KE."],
+    "venue": "Bull. Am. Meteorol. Soc. 78: 2771–2777, doi: 10.1175/1520-0477(1997)078<2771:tdoeno>",
+    "year": 1997
+  }, {
+    "title": "Surprising return of deep convection to the subpolar North Atlantic Ocean in winter 2007–2008",
+    "authors": ["K Våge", "RS Pickart", "V Thierry", "G Reverdin", "CM Lee", "B Petrie", "TA Agnew", "A Wong", "MH. Ribergaard"],
+    "venue": "Nat. Geosci. 2: 67–72, doi: 10.1038/ngeo382.",
+    "year": 2009
+  }, {
+    "title": "North Atlantic Oscillation/Annular mode: Two paradigms –one phenomenon",
+    "authors": ["Wallace JM."],
+    "venue": "Q. J. R. Meteorol. Soc. 126: 791–805, doi:",
+    "year": 2000
+  }, {
+    "title": "Interpretation of interdecadal trends in Northern Hemisphere surface air temperature",
+    "authors": ["JM Wallace", "Y Zhang", "L. Bajuk"],
+    "venue": "J. Clim. 9: 249–259, doi:",
+    "year": 1996
+  }, {
+    "title": "Dynamic contribution to hemispheric mean temperature trends",
+    "authors": ["JM Wallace", "Y Zhang", "JA. Renwick"],
+    "venue": "Science 270: 780–783, doi:",
+    "year": 1995
+  }, {
+    "title": "Impact of Great Salinity Anomalies on the lowfrequency variability of the North Atlantic climate",
+    "authors": ["Zhang R", "Vallis GK."],
+    "venue": "J. Clim. 19: 470–482, doi: 10.1175/JCLI3623.1.",
+    "year": 2006
+  }, {
+    "title": "Can the Atlantic Ocean drive the observed multidecadal variability in Northern Hemisphere mean temperature? Geophys",
+    "authors": ["R Zhang", "TLD Lau", "IM. Held"],
+    "venue": "Res. Lett. 34: L02 709, doi: 10.1029/2006GL028683.",
+    "year": 2007
+  }],
+  "id": "SP:c43b2654f7e88602588ed9aa013ea76674828c5b",
+  "authors": [{
+    "name": "Martin A. Ivanova",
+    "affiliations": []
+  }, {
+    "name": "Stilian N. Evtimovb",
+    "affiliations": []
+  }],
+  "abstractText": "Northern Hemisphere mean monthly temperature anomalies for the 1890–2010 period are examined for seasonality. The statistical method of biplotting visually synthesizes the major features of the time series for the 12 calendar months into a single plot. The common upward trend in all months and the winter–summer temperature contrast capture more than 80% of the total data variance. A temperature seasonalization is established: winter (January–March), summer (May–October) and transitional months (November, December and April). Two uncorrelated factors underlie this seasonality. The first is the North Atlantic thermohaline circulation, which is indicated by the Atlantic Multidecadal Oscillation and which statistically determines the summer temperature anomalies. The second is the cold ocean–warm land pattern, which is indicated by the hemispheric land– ocean temperature contrast and which statistically determines the winter anomalies. The interannual effect of the El Niño–Southern Oscillation, volcanism and also the Arctic Oscillation/North Atlantic Oscillation mode compete with the background trend to produce a few extreme and outlier years.",
+  "title": "Seasonality in the biplot of Northern Hemisphere temperature anomalies"
+}

@@ -1,0 +1,778 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nPalaeogeography, Palaeoclimatology, Palaeoecology\nj ourna l homepage: www.e lsev ie r .com/ locate /pa laeo\nHigh-resolution Hg chemostratigraphy: A contribution to the distinction of chemical fingerprints of the Deccan volcanism and Cretaceous–Paleogene Boundary impact event\nA.N. Sial a,⁎, Jiubin Chen b, L.D. Lacerda c, S. Peralta d, C. Gaucher e, R. Frei f,g, S. Cirilli h, V.P. Ferreira a, R.A. Marquillas i, J.A. Barbosa j, N.S. Pereira a, I.K.C. Belmino c\na NEG-LABISE, Department of Geology, Federal Univ. of Pernambuco, Recife, PE 50740-530, Brazil b State Key Laboratory of Environmental Geochemistry, Institute of Geochemistry, Chinese Academy of Sciences, 46 Guanshui Road, Guiyang 550002, China c LABOMAR, Institute of Marine Sciences, Federal University of Ceará, Fortaleza 60165-081, Brazil d Instituto de Geología, Universidad Nacional de San Juan-CONICET, 5400, Argentina e Facultad de Ciencias, Universidad de La Republica, Montevideo, Uruguay f Department of Geoscience and Natural Resource Management, Univ. of Copenhagen, Oster Volgade 10, Copenhagen 1350, Denmark g Nordic Center for Earth Evolution (NordCEE), Denmark h Department of Physics and Geology, University of Perugia, 06123 Perugia, Italy i CONICET, Universidad Nacional de Salta, Buenos Aires 177, 4400 Salta, Argentina j LAGESE, Department of Geology, Federal University of Pernambuco, Recife 50740-530, Brazil\n⁎ Corresponding author. Tel.: +55 81 2126 8243; fax: E-mail address: sial@ufpe.br (A.N. Sial).\nhttp://dx.doi.org/10.1016/j.palaeo.2014.08.013 0031-0182/© 2014 Elsevier B.V. All rights reserved.\na b s t r a c t a r t i c l e i n f o\nArticle history: Received 19 May 2014 Received in revised form 23 July 2014 Accepted 18 August 2014 Available online 27 August 2014\nKeywords: Cretaceous–Paleogene transition Volcanism C-isotope stratigraphy Hg stratigraphy Hg isotopes\nThere is a renewed interest in volcanism as the major trigger for dramatic climatic changes at the Cretaceous– Paleogene transition (KTB), which were accompanied by a decrease in biodiversity and mass extinction. We have used Hg contents as proxy for volcanic activity at the classical localities of Gubbio (Italy) and Stevns Klint (Denmark) where the KTB layer is easily recognizable, and at a near-complete succession exposed at the Bajada del Jagüel locality in the Neuquén Basin, Argentina. These three localities display similar δ13Ccarb trends with markedly negative excursion at the KTB layer. Bulk-rock oxygen isotopes yielded similar pathways across the KTB layers in these localities and, if considered near-primary, the negative δ18O excursion at the KTB in Gubbio and Bajada del Jagüel suggest warming temperatures during this transition, whereas the negative excursion immediately followed by positive one at Stevns Klint points to a cycle of warm followed by colder climate. At Stevns Klint, Hg contents reach 250 ng g−1 within the KTB layer (Fiskeler Member) and 45 ng.g−1 at 1.5 m above that, while within the Scaglia Rossa Formation at Gubbio, three Hg peaks across the KTB are observed, one of them within the KTB layer (5.3 ng g−1). Hg shows several peaks across the KTB in the Neuquén Basin, with up to 400 ng g−1 in the Jagüel Formation. The phenomena that caused dramatic changes at the KTB probably expelled huge amounts of Hg into the atmosphere as recorded by these high Hg levels. A co-variation between Hg and Al2O3 in the studied sections suggest that Hg is adsorbed onto clays. Hg concentrations and also Hg isotopes are perhaps a powerful tool in the assessment of the role of volcanic activity during extreme climatic and biotic events, and in assessing the role of meteorite impact versus volcanism as the predominant cause of past global catastrophes and mass extinction.\n© 2014 Elsevier B.V. All rights reserved."
+  }, {
+    "heading": "1. Introduction",
+    "text": "It is well known that major geologic time boundaries in the Phanerozoic are marked by dramatic changes in the geological record, including biological extinction, fluctuations of sea-level and atmospheric composition. These changes are reflected in sharp change in biotic activity and included major mass extinction at the Permian–Triassic and\n+55 81 2126 8242.\nCretaceous–Paleogene transitions, and also by the chemical composition of sediments.\nIt iswell known thatmajor catastrophic events concurrent tomassive mass extinction occurred in the Phanerozoic. Magaritz (1989) observed that δ13C values drop from a high level, reaching a minimum after the Ediacaran–Cambrian, Permian–Triassic and Cretaceous–Paleogene transitions, and then increase to a new level. He proposed that these changes reflect variations in the exogenic carbon cycle that may correlate with variations in the total biomass. Recently, it was proposed that the variation in Hg abundances may correlate with somemajor geologic time boundaries such as the Permian–Triassic (PTB) (Sanei et al.,\n2012) and the Cretaceous–Paleogene (KTB) transitions (Sial et al., 2013).\nSince the early 1980s, after thework by Alvarez et al. (1980), the KTB mass extinction has been often ascribed to an impact of a huge meteorite that generated the large Chicxulub multi-ring crater in the Yucatán Peninsula, Mexico. Some studies, however, have raised the possibility that such a colossal impact may have predated the Cretaceous– Paleogene transition (e.g. Keller et al., 2004, 2009). However, Renne et al. (2013) proposed on the basis of 40Ar–39Ar dating of tektites and bentonite beds that the KTB mass extinction and the Chicxulub impact were synchronous to within 32,000 years. Alternatively, the Deccan volcanism whose second phase, the world's longest lava flows (Self et al., 2008), has been correlated with the KTB at 65.5 Ma, spanning the magnetochrons 29r and 29n of the geomagnetic polarity time scale (Chenet et al., 2007; Hooper et al., 2010), has been regarded as responsible for this mass extinction (Keller et al., 2008). Rapid climate changes, sea-level fluctuations and volcanism during 100,000 years preceding the Cretaceous–Paleogene transition have also questioned the bolide impact theory as being solely responsible for themass extinction (e.g. Keller, 2010, 2011; Gertsch et al., 2011 and references therein). The renewed interest in volcanism as the major trigger of the KTB crisis has stimulated Nascimento-Silva et al. (2011, 2013) and Sial et al. (2013) to initiate a preliminary investigation using Hg as a proxy of volcanism in the sedimentary record across this chronological time boundary. Major tools for this is the geochemical behavior of some elements and their isotopic ratios such as C, O and Sr isotopes, well-established tools in reconstructing past climate and sea water compositions.\nOcean acidification has been claimed as an additional factor contributing to the decline in biodiversity just before and during the KTB. Deccan eruptions likely caused acid rains in an extensive are of the globe, resulting in weathering and dissolution effect on the continental surface. Dissolution of foraminifera (Gertsch et al., 2011) and iron oxide minerals (bio- and detrital magnetite) dissolution are, perhaps, important evidence of the acidification of the oceans during this critical period (Font et al., 2014).\nThis report aims at extending and better understanding the use of Hg as a volcanogenic trace-element in identifyingwhether or not volcanism has played significant role in climatic reorganization during the KTB and on themost famous and persistent paleontological murder riddle. Hg concentrations and C-isotope chemostratigraphy, in parallel, are traced along the two classical KTB localities of Gubbio and Stevns Klint where the KTB clay layer is well preserved, and substantial evidence for a meteorite impact has been put forward by Alvarez et al. (1980). In addition, this study also focuses on the sedimentary transitionwithin the Neuquén Basin, Argentina, a locality with a near-complete KTB stratigraphic record in SouthAmerica, thus expanding the results of previous Hg investigations on the Yacoraite Formation (Salta Basin, Argentina) and Paraíba Basin, Brazil (Nascimento-Silva et al., 2011; Sial et al., 2013). Previous studies have not found the influence of meteoritic impact ejecta on the sedimentary sequences bracketing the KTB in South America (e.g. Barrio, 1990; Marquillas et al., 2003, 2007, 2011; Aberhan et al., 2007; Keller et al., 2007; Nascimento-Silva et al., 2013; Sial et al., 2013 and references therein). However, Scasso et al. (2005) have referred to the presence of tsunami deposits at the KTB in the Neuquén Basin.\nWe add new Hg analyses to the preliminary data for the KTB layer (Fiskeler Member) at Stevns Klint, previously reported (Sial et al., 2013). We also report preliminary Hg-isotope data for this KTB site, as a further approach to assessing the role of meteorite impact versus volcanism as the major cause of the catastrophe and concurrent mass extinction during the KTB."
+  }, {
+    "heading": "2. The Cretaceous–Paleogene transition",
+    "text": "Substantial evidence for a giant bolide impact on the Earth's surface coincident with the best-studied global biotic event, the Cretaceous–\nPaleogene mass extinction event (~65.5 Ma), has been built up for over the last three decades (Schultze et al., 2010 and references therein). The importance of this impact (or impacts) as the sole extinction mechanism, however, is still a matter of debate.\nAnomalously high iridium and platinum-group element concentrations in almost one hundred KTB sites worldwide (e.g. Alvarez et al., 1980; Claeys et al., 2002), presence of glass microspherules (Smit and Klaver, 1981; Smit, 1999) and shocked quartz (Bohor et al. 1984; Bohor, 1990; Morgan et al., 2006, Kamo et al., 2011) have been used to argue in favor of the bolide impact hypothesis as the mechanism responsible for the KTB mass extinction. Presence of high temperature/ high pressure (HTP) phase of fullerenes (complexes Cmolecules) in deposits supposedly associated with events involving an impact of a large bolide (e.g., Chicxulub and Bedout craters; Becker et al., 2000a) provides further evidence for a crucial role of bolide impacts in the mass extinction. Parthasarathy et al. (2008) reported the presence of the natural toluene-soluble fullerene and the toluene-insoluble high-pressure/ temperature phase of fullerene C60 in carbonaceous matter extracted from iridium-rich intertrappean sediments of the Anjar KTB site, India. The conditions of high-pressure/temperature regimes required for the formation of HTP fullerene phases can be created by an energetic impact event (Parthasarathy et al., 2008). This has led these authors to suggest that the occurrences of such phases in the KTB layer at Anjar could be linked to a contemporaneous bolide impact. The cage structure of fullerene has the unique ability to encapsulate and retain noble gases and this has allowed one to determine that Allende and Murchison meteorites and KTB fullerenes contain trapped noble gases (He, Ar, Xe), the isotopic composition of which can only be described as typical of extraterrestrial origin (e.g. Stevns Klint; Becker et al., 2000a, 2000b; Anjar, Parthasarathy et al., 2008). Denne et al. (2013) have reported a KTB massive deposit in deep waters of the Gulf of Mexico that substantiates widespread slope failure induced by the Chicxulub impact and that provides further evidence of a single impact coincident with the KTB mass extinction.\nHowever, some Maastrichtian–Danian deposits in several basins around the globe show prominent geochemical and isotopic anomalies preceding the KTB. Analyses of stratigraphic variations of wholerock elemental concentrations and stable isotopic compositions in some of these basins have led to detection of Ba anomalies far below the KTB in the Cauvery Basin (India), in Israel, in northeastern Mexico and in Guatemala (Ramkumar et al., 2004, 2005), and Hg anomalies across the KTB in the Yacoraite Basin, Argentina, and in the Paraíba Basin, Brazil (Sial et al., 2013). Stüben et al. (2005) reported the presence of bentonite layers and Pt and Pd-dominated PGE anomalies below and above the KTB in Mexico as an indication of volcanic activity. A complete shallow-marine succession with preserved KTB clay layer reported by Racki et al. (2011) at Lechówka near Chełm, southeastern Poland, shows anomalous amounts of iridium (9.8 ng g−1), gold, nickel, and elevated Ir/Au ratios. These signals are consistent with a chondrite meteoritic origin, but a major positive iridium spike in Maastrichtian marls has been found 10 cm below the thin KTB clay layer at this location. Keller et al. (2004) also reported iridium enrichment in Maastrichtian sediments at about 20 cm below the KTB in the Yaxcopoil-1 core drilled within the Chicxulub crater, leading these authors to assume that the Chicxulub bolide impact predated the KTB mass extinction.\nMultiple iridium-enriched layers have been observed at some KTB sections (e.g. McLean, 1985; Donovan et al., 1988; Graup and Spettel, 1989) in contrast to most reported KTB sites. Such a distribution of iridium anomalies implies episodic, iridium-delivering events over an extended period of time. In KTB sites where there is no evidence for a bolide impact (e.g. Lattengebirge, Bavarian Alps), the multiple iridiumenriched layers probably had a common volcano source, according to Graup and Spettel (1989). The iridium enrichment observed in airborne particles from the Kilauea volcano (Zoller et al., 1983) consubstantiates the hypothesis that volcanism could be the iridium source.\nInvestigating the vertical extent of the iridium anomaly at the Bottacione Gorge, Gubbio, over 2 m below the KTB and 2 m above, Rocchia et al. (1990) observed that iridium concentrations stand above background over almost 3m of section (~500,000 years) indicating a protracted duration of the source of iridium on top of which the main KTB anomaly proper stands.\nMultidisciplinary investigations of sediments pertaining to the KTB exposed at the Brazos River in Falls County, Texas, discovered the existence of an impact spherule-rich sandstone layer (Adatte et al., 2011). Based on biostratigraphy and the δ13C shift, the KTB at this site is located up to 1m (50–100 ky) above this sandstone horizon and is inconsistent with a single catastrophic bolide impact on Yucatán and concurrent megatsunami deposits. The primary Chicxulub ejecta layer, according to these authors, lies about 40–65 cm below the sandstone horizon in a 3-cm-thick yellow clay layer that consists of altered impact glass interbedded in claystones.\nOccurrences of pre-KTB geochemical anomalies have raised questions on the relative timing of biotic and isotopic events near this boundary and their relevance to the impact scenario (e.g., Kaminski and Malmgren, 1989; Keller, 2010), supporting the view of multicausal stepwise extinction of biota across the KTB. Ramkumar et al. (2005, 2010) have interpreted Ba anomalies as well as two 87Sr/86Sr anomalies preceding the KTB exposed in the Cauvery Basin as the result of increased detrital influx caused by sea-level and climatic changes, and Deccan volcanism. Sial et al. (2013) suggested a possible link between the Hg anomalies across the KTB from their study areas in South America, and the Deccan volcanism. It seems that these geochemical records are in conformity with gradually increasing environmental stress and deterioration during theMaastrichtian, rather than to a sudden singular asteroid impact on a global scale. Carbonate clumped isotope paleothermometry reported by Tobin et al. (2014) demonstrated a changing environment over the last 300 ky of the Cretaceous, with ecosystems becomingmore susceptible to an abrupt event like a bolide impact. Stinnesbeck et al. (2012) revisited several Maastrichtian sections in Latin America and verified that in all of them the disappearance of ammonites was completed prior to the end of theMaastrichtian, therefore seemingly independent of an asteroid impact at, or near, the end of the Cretaceous. This finding is in consonance with previous investigations on mass extinction across the KTB in Western European Tethys where the extinction of ammonite species and inoceramid bivalves could have resulted from a gradual event that predated the KTB (Marshall and Ward, 1996).\nThe López de Bertodano Formation, Seymour Island, Antarctic Peninsula, exhibits one of the most expanded known KTB sections (Tobin et al., 2012). Using magnetostratigraphy and isotopic data from carbonate-secreting macrofauna, these authors have presented a high-resolution, high-latitude paleotemperature record spanning the KTB interval. They have found two prominent warming events synchronous with the three main phases of Deccan Trap flood basalt volcanism. The onset of the second one is contemporaneous with a local extinction that predates the bolide impact. These findings have led Tobin et al. (2012) to interpret the KTB extinction as the sum of multiple, independent events, at least at high latitudes.\nClimatewarming in Antarctica, prior to the KTB, has been also recognized by Bowman et al. (2013), based on the I. clavus dramatically decrease in abundance, on the pollen and spore record and available δ18O values frommacrofossils. According to these authors, these records support the presence of ephemeral ice sheets on Antarctica during the Maastrichtian, highlighting the extreme sensitivity of this region to global climate change.\nThe importance of Deccan-related environmental changes leading to the end-Cretaceousmass extinction has been also explored by Font et al. (2011) who have applied a high-resolution environmental magnetic study to the Bidart (France) and Gubbio (Italy) KTB sections. Their results have shown that the KTB in these sections is identified by an abrupt positive shift of the magnetic susceptibility with an anomalous\ninterval of very low MS, containing an unknown Cl-bearing iron oxide similar to specular hematite, depicted just below the iridium-rich layer of the KTB. The grain-size and morphology of this Cl–iron oxide are typically in the range of hematitic dust currently transported by winds from the Sahara desert to Europe. Based on SEM-EDS analyses, Font et al. (2014) suggested that this Cl-rich iron hydroxide (aeolian akaganeite) generated by a heterogeneous reaction between HCl-rich volcanic gas and liquid–solid aerosols within buoyant atmospheric plumes formed above the newly emitted Deccan flood basalts and further transported to Bidart and Gubbio through the stratosphere.\nThe low MS interval observed corresponds to loss in biomagnetite and detrital magnetite, interpreted to result from reductive dissolution linked to ocean acidification (Font et al., 2014). These independent markers (aeolian akaganeite deposition and iron oxide dissolution) argue for important paleoenvironmental changes linked to Deccan phase 2 at the dawn of the KTB in the Atlantic and Tethysian realm. Their discovery suggests a global-scale phenomenon and may be regarded as a new benchmark for widespread effects of the Deccan volcanism and witnesses the nature and importance of the related atmospheric change.\nThe onset of a large igneous province (LIP) eruption often postdated a mass extinction event, except for the eruption of the Deccan Traps which coincided precisely with a mass extinction according to Courtillot and Renne (2003) and Wignall (2001). However, based on planktic foraminifera, the Deccan phase 2 may have started around 200,000 years before the KTB (in the CF1 and CF2 biozones) and ended at the KTB (Keller et al., 2012). An enormous amount of metals, including Hg, has been potentially transferred to the atmosphere by the Deccan eruptions, worsening the environmental conditions and leading to the huge KTB mass extinction, in a similar way to that proposed for the Siberian Traps that emitted 3.8 × 109 ton Hg (Sanei et al., 2012) at the Permian–Triassic boundary."
+  }, {
+    "heading": "2.1. The studied sections",
+    "text": "Investigations in the present report have used well-known sequences of Stevns Klint (Højerup and Fiskeler members at the Højerup section), Gubbio (Scaglia Rossa Formation at the Bottacione Gorge section) and Neuquén Basin (Jagüel Formation at the Bajada del Jagüel section), in which previous studies had applied high-resolution biostratigraphy and environmental multi-proxies such as: (1) carbonisotope stratigraphy; (2) sedimentology, microfacies analysis and bulk rock mineralogy; (3) clay mineralogy to infer paleoclimatic conditions; (4) platinum group elements (PGE), trace and major elements geochemistry; and (5) major and trace element geochemistry."
+  }, {
+    "heading": "2.1.1. The Neuquén Basin, Patagonia, Argentina",
+    "text": "The Neuquén Basin in the Patagonia of western Argentina, is located on the eastern side of the Andes in Argentina and central Chile, between 32° and 40°S latitude, and has a sedimentary record with a 6000 m of Mesozoic infill, ranging from the Upper Triassic to Miocene (Vergani et al., 1995; Legarreta and Uliana, 1999; Howell et al., 2005; Fig. 1). In this basin, the Cretaceous–Paleogene transition was recorded in the Upper Cretaceous–Lower Paleocene Malargüe Group that rests discordantly on the Late Cretaceous Neuquén Group and comprises the Allen, Jagüel, Roca and El Carrizo formations in the eastern part of the basin (Legarreta et al., 1989; Casadío, 1998; Heredía and Salgado, 1999).\nDetailed investigations on this basin have usedmultiple environmental proxies to understand major geological events at the Cretaceous– Paleogene transition, including biostratigraphy, microfacies analysis, bulk rock/clay mineralogy, isotope stratigraphy, trace (including PGE) and major element chemistry (e.g. Barrio, 1990; Howell et al., 2005; Scasso et al., 2005; Aberhan et al., 2007; Keller et al., 2007; Musso et al., 2012).\nWhereas theMaastrichtian succession in this foreland basin is transgressive, a regressive trendwas recorded in the Paleocene (Scasso et al.,\n2005; Aguirre-Urreta et al., 2011). The Jagüel Formation, a 90-m thick succession, encompasses the KTB (Uliana and Dellapié, 1981; Uliana and Biddle, 1988) and consists of monotonous marine mudstones deposited in a mid- to outer-shelf environment, and is covered by bioclastic limestones of the Danian Roca Formation (Fig. 2a,b). An interval bracketing the KTB has been recognized on the basis of foraminifers and calcareous nannofossils (Bertels, 1970; Nañez and Concheyro, 1997), ostracods (Bertels, 1975), and palynomorphs (Papú et al., 1999). The position of the KTB is constrained to a single, thin coarse-\nFig. 2. Some field aspects of the Neuquén Basin: (a) Baja\ngrained sandstone bed (Palamarczuk and Habib, 2001; Palamarczuk et al., 2002; Scasso et al., 2005) in the upper half of the Jagüel Formation.\nScasso et al. (2005) have described in detail this sandstone bed in which calcareous nannofossils have confirmed its Danian age. This 15– 25 cm thick unconsolidated to slightly consolidated muddy sandstone (Fig. 2b) occurs within the homogeneous shelf mudstone sequence of the Jagüel Formation and contains abundant volcanogenic plagioclase (dated at 66± 0.5 Ma by the 40Ar/39Armethod) volcanic lithics, broken shells and shark teeth (Palamarczuk and Habib, 2001; Palamarczuk\nda del Jagüel section; (b) Cañadon Cholino section.\net al., 2002). Although this sandstone displaysmarkedly pinch and swell structure, it can be traced laterally for 5 km in the area. According to Scasso et al. (2005), it shows abundant rip-up clasts, erosional base, coarse-grain size, normal grading and hummocky cross-bedding, and has been assumed to represent a tsunami deposit in a shelf environment, related to the Chicxulub bolide impact in Mexico. However, no spherule, shocked quartz or enrichment of meteoritic component have been found by these authors in this layer, or in the mudstones immediately above. Besides, PGE concentrations in this boundary bed aremostly below the detection limit and below the values for the average continental crust (Scasso et al., 2005).\nKeller et al. (2007), however, contended that the KTB in this basin is marked by an erosional surface that marks a hiatus at the base of the 15–25 cm thick volcaniclastic sandstone described by Scasso et al. (2005). According toKeller et al. (2007), this sandstone contains diverse planktic foraminiferal zone P1c assemblages and nannofossils of zone NP1b immediately above it and, therefore, its deposition occurred at about 500 ky after the KTB hiatus. No evidence of the Chicxulub impact or related tsunami deposition was reported by these authors. Aberhan et al. (2007) found no sign of the Danian planktic foraminiferal zone P0 neither impact tracer in the KTB sandstone layer at the Bajada del Jagüel section, deducing that this section is slightly incomplete (missing about 100 ky).\nIn this study,we have examined and sampled the same section studied by Keller et al. (2007) and Aberhan et al. (2007) at Bajada del Jagüel (38° 06′11″ S, 68° 23′ 24″W; Fig. 2a), for which a large amount of paleontological, sedimentological and geochemical data with precise biostratigrahic control have been reported. We have also examined and sampled two other sections in this basin, one at the Cerro Azul (38° 50′51″S, 67° 52′ 07″W) and another at the Cañadon Cholino (38o 53′16″ S, 67° 41′25″ W; Fig. 2b), along a river canyon, both located to the east of Cipoletti town. The KTB is within a 90 m-thick succession of monotonous, bioturbated, middle to outer shelf mudstones of the Jagüel Formation (Fig. 2a). At the Bajada del Jagüel and Cañadon Cholino sections, the KTB tuffaceous, coarse-grained sandstone layer described above, is easily recognized (Fig. 2a, b). The Jagüel Formation is overlain by shallow-marine bioclastic limestones of the Danian Roca Formation."
+  }, {
+    "heading": "2.1.2. The Danish Basin, Stevns Klint, Denmark",
+    "text": "The Danish Basin exposes at the Stevns Klint coastal cliffs, Denmark, the most famous and best exposed KTB section in the world, with an exceptional KTB layer immediately beneath a pronounced topographic overhang separating the lowermost Danian Cerithium LimestoneMember from the overling lower Danian bryozoan limestone of the Stevns Klint Formation (Fig. 3).\nThe Stevns Klint coastal cliffs (Fig. 4a), located ca 45 km south of Copenhagen, on the east coast of the island of Sjælland, represent the longest, best preserved, largest lateral extensive (except for Hell Creek, Eastern Montana, United States; see Johnson et al., 2002) and complete KTB site in the world (~14.5 km long). The exposed 45 m-thick succession displays the stratigraphic evolution from the latest Cretaceous, across the KTB and into the early Paleogene (Surlyk, 1997; and references therein). This classical KTB site is one of the three discovery localities of the famous iridium anomaly (the other two localities are Gubbio, Italy, and Woodside Creek, New Zealand), of about 160 times the background (Alvarez et al., 1980; Hansen et al., 1988; Schmitz et al., 1988), taken as evidence of extraterrestrial origin and basis for the asteroid impact hypothesis of Alvarez et al. (1980). Therefore, this is a key locality in the ongoing debate about mass extinction in general and, in particular, for the KTB, besides being the type locality of the Danian Stage together with the succession exposed in the nearby Faxe quarry.\nThe most detailed stratigraphic studies of this area are those accomplished by Surlyk (1997), Surlyk et al. (2006) and Lauridsen et al. (2012).At the Højerup coastal cliff section, one can see outcrops of the Maastrichtian Møns Klint Formation (Sigerslev and Højerup members; Surlyk et al., 2013; Hansen and Surlyk, 2014), overlain by the Lower Danian Rødvig Formation (Fiskeler, Cerithium members) which in turn is covered by the lower to middle Danian Korsnaeb Member of the Stevns Klint Formation (Surlyk et al., 2006). The Danian is represented by bryozoan limestone mounds outlined by thick black flint bands which illustrate the geometry, dimensions and architecture of one of the finest, ancient cool-water carbonate mound complexes in the world, formed shortly after the KTB mass extinction (Surlyk, 1997; Hart et al., 2004; Machalski and\nsen et al., 2012; modified from Sial et al., 2013) showing location of sampled site at Stevns (grey shading) in the area (modified from Hansen and Surlyk, 2014).\nHeinberg, 2005; Surlyk et al., 2006; Lauridsen et al., 2012 and references therein). In summary, Stevns Klint is a world-class KTB site to achieve description of the mass extinction and recovery of the fauna and one of the best localities to document changes in sea level, surface and bottom sea-water temperature, ecological and\nevolutionary conditions and changes in the last phases of the Late Cretaceous greenhouse world.\nRelatively high concentrations of metals such as Ni, Co, and Zn, besides Ir, are found in the KTB layer at Stevns Klint (Christensen et al., 1973; Schmitz, 1985; Elliott, 1993). Studies conducted by Frei and Frei\nistribution of Jurassic toMiddle Cretaceous rocks, Scaglia Group rocks, and location in plant\n(2002) included Os, Sr, Nd and Pb isotope data obtained from a profile across the KTB layer (Fiskeler Member, informally known as Fish Clay, about 5 to 10 cm thick, separating the underlying Maastrichtian chalk from the overlying Danian limestone sequence; Fig. 4). The behavior of these isotopes in the Fish Clay layer, according to Frei and Frei (2002), supports that PGEs originated from global input of cosmogenic material into the ocean derived from a likely chondritic impactor."
+  }, {
+    "heading": "2.1.3. The Umbria–Marchean succession, Central Apennines, Italy",
+    "text": "The Gubbio Mountains form a NW–SE chain, about 13 km long and 3 km wide. Structurally this chain displays a NNE–SSW-trending anticlinorium of Mesozoic–Cenozoic rocks whose core is Jurassic in age. It shows the same orientation as the Central Apennines and is crosscut lengthwise by a fault system whose major fault is known as Gubbio Fault that has dropped the southwestern limb of the anticlinorium, which has been filled with Quaternary fluvio-lacustrine sediments (Boncio et al., 2000; Mirabella et al., 2004).\nThe two better known KTB sections in this basin are those in the Bottacione Gorge (Figs. 5, 6a, b) and in the Contessa Highway, running through a parallel valley. The Bottacione Gorge begins just outside the Gubbio town and cuts through pelagic sedimentary rocks, spanning from Middle Jurassic to Upper Eocene, including the Calcari Diasprigni, Maiolica, Marne a Fucoidi formations and the Scaglia Group (Scaglia Bianca, Scaglia Rossa, Scaglia Variegata and Scaglia Cinerea formations), all belonging to the Umbria–Marche Basin.\nThe Cretaceous to upper Eocene marine sedimentary rocks have been subject of numerous biostratigraphical studies (e.g. Luterbacher and Premoli Silva, 1964; Premoli Silva and Sliter, 1994, and references therein) that represented the basis for magnetostratigraphical (e.g. Pialli, 1976; Alvarez et al., 1977; Napoleone et al., 1983) stratigraphical–sedimentological (Arthur and Fisher, 1977; Premoli Silva et al., 1977, 1988; Wonders, 1979, 1980; Monechi and Thierstein, 1985; Cresta et al., 1989; Coccioni et al., 1992; Cecca et al., 1994; Galeotti et al., 2000), and geochemical investigations (O, C and Sr isotopes; e.g. Jenkyns et al., 1994).\nThe Bottacione section has been proposed as the magnetostratigraphic standard for the Upper Cretaceous–Eocene interval. It became famous since the discovery of a 1 cm-thick clay layer at the KTB within the Scaglia Rossa Formation, enriched in iridium and interpreted by Alvarez et al. (1980) as evidence of an extraterrestrial impact. On the contrary of what is observed at Stevns Klint, the KTB layer at Gubbio has a very short lateral extent as the succession is tilted.\nThe Cenomanian–Turonian Bonarelli level, a regional stratigraphic marker which represents the second major oceanic anoxic event in the Cretaceous (OAE 2), occurs near the top of the Scaglia Bianca Formation (Fig. 5) and consists of a 1 m-thick cherty black shale, very rich in radiolarians, along with some fish remains and more than 23% organic\nFig. 6. (a) Gubbio town and location of the Bottacione Gorge; (b) KTB layer (1–2 cm thick) withi scale.\ncarbon (Arthur and Premoli Silva, 1982). The contact between the Scaglia Bianca and the overlying Scaglia Rossa formations is characterized by alternating gray and pink colored beds. The Scaglia Rossa Formation is about 320m thick in this section, brackets the KTB and consists of predominantly pink to red pelagic limestones with cherty nodules and calcareous marls, with bedding thickness ranging from 10 to 20 cm. The formation contains an apparently continuous record across the Mesozoic–Tertiary transition. Based on abundant planktonic and benthic foraminifera and calcareous nannofossils, this formation has been dated as Upper Cretaceous to lower middle Eocene (Premoli Silva and Sliter, 1994; Alvarez, 2009 and references therein).\nThe KTB crops out on the eastern side of the main road and lies around 240 m above the base of the formation. The topmost of the Cretaceous in this section is represented by a 30 cm-thick whitish limestone bed (bleached, Fig. 6b, c), overlain by the 2 cm-thick dark clay KTB layer which correlates to the well-known KTB mass-extinction event (Sepkoski, l996; Keller, 2011). The base of the Paleocene is defined on the occurrence of Globigerina eugubina foraminiferal Zone (=Parvorugoglobigerina eugubina: Luterbacher and Premoli Silva, 1964).\nThe KTB layer is iridium enriched but devoid of calcium carbonate (Alvarez et al., 1980) and falls in the reversal interval equated to Chron 29r (Alvarez et al., 1977). In this report, we have studied and sampled this section bracketing the KTB."
+  }, {
+    "heading": "3. Analytical methods",
+    "text": "Analyses of C and O isotopes of carbonates were performed at the Stable Isotope Laboratory (LABISE) of the Department of Geology, Federal University of Pernambuco, Brazil. Extraction of CO2 gas from micro-drilled powder (1 mm drill bit was used, avoiding fractures, recrystallized portions and weathered surfaces) was performed in a conventional high vacuum extraction line after reaction with 100% orthophosphoric acid at 25 °C for one day (three days allowed, when dolomite was present). Released CO2 was analyzed after cryogenic cleaning in an Isotech double inlet, triple-collector SIRA II or Thermofinnigan Delta V Advantage mass spectrometers and results are reported in δ notation in permil (‰) relative to the VPDB standard. The uncertainties of the isotope measurements were better than 0.1‰ for carbon and 0.2‰ for oxygen, based onmultiple analyses of an internal laboratory standard (BSC). Alumina oxide analyses were performed on bulk samples by X-ray fluorescence at the LABISE, using a Rigaku RIX 3000 XRF unit equipped with a Rh tube and six analyser crystals.\nOrganic carbon isotopic values were obtained from the total organic carbon of insoluble residues of some samples from the Neuquén Basin only. After removing the outer layer of surface oxidation and any large veins, whole rock samples were crushed into powder. Insoluble\nn the Scaglia Rossa Formation at the BottaccioneGorge; A. Sial (father) andA. Sial (son) for\nresidues for organic carbon isotope analysis were obtained by acidifying these whole rock powders in increasing concentrations (0.4, 0.6 and 0.8 mol l−1) of H3PO4 for 30 days to dissolve all carbonate minerals. Care was taken to ensure that acid was added and acidification continued until there was absolutely no visible carbonate dissolution so that the analyseswould not be affected by contamination from residual inorganic carbon. The insoluble residues were then rinsed with DI water, dried and loaded into tin capsules for isotopic analysis. δ13Corg values were obtained using a COSTECH elemental combustion system linked to a Delta V Advantage at the LABISE.\nMercury concentrations were determined at the LABOMAR, Federal University of Ceará, Brazil. Homogenized 0.5 to 1.0 g samples of sediments, dried at 60 °C to constant weight, were digested with an acid mixture (50% aqua regia solution), and heated at 70 °C for 1 h, in a thermal-kinectic reactor (“cold finger”). Glass and plastic ware were decontaminated by immersion for 1 day in (10% v/v) Extran solution (MERCK), followed by immersion for 2 days in diluted HCl (5% v/v) and final rinsing with Milli-Q water. All chemical reagents used were of the least analytical grade. Cold Vapor Atomic Fluorescence Spectrophotometry, using a Millenium Merlin PSA spectrophotometer, was used for Hg determination, after Hg2+ reductionwith SnCl2. All samples were analyzed in duplicates, showing reproducibilitywithin 9.5%. A certified reference material (NIST 2702, Canada) was simultaneously analyzed to evaluate Hg determination accuracy. Such analysis showed a precision of 4%, as indicated by the relative standard deviation of three replicates, and presented Hg recovery of 98.8 ± 6.2%. The Hg detection limit estimated as 3 times the standard deviation of reagent blanks, was 1.26 ng g−1. In all cases, blank signals were lower than 0.5% of sample analysis. Concentration values were not corrected for the recoveries found in the certified material."
+  }, {
+    "heading": "4. C and O isotopes composition of the studied sections",
+    "text": "Chemostratigraphic correlation based on bulk sediment carbon isotopes is increasingly used to facilitate high-resolution correlation over large distances aswe know that at times of rapid environmental change, chemostratigraphy backed by biostratigraphy can enable correlation at much higher resolution than biostratigraphy alone (Brenchley et al., 2003). However, complications arise from amultitude of possible influences from local differences in biological, diagenetic and physical– chemical factors on individual δ13C records that mask the global signal (Wendler, 2013). In the present study, it is possible to assess global versus local contribution in the δ13C record by comparing C and O-isotope pathways across the KTB from sections far apart from each other, such as in the Neuquén Basin, Stevns Klint and Gubbio.\nPrior to the interpretation of the C- and O-isotope data generated in this study, we reviewed the more frequent criteria for screening samples that have not undergone post-depositional alteration, as discussed below. The most effective parameter to screen primary values is the Mn/Sr ratio, because Sr is preferentially removed during recrystallization of meta-stable carbonate phases, while Mn becomes enriched during formation of late-stage ferroan calcite cement (Ripperdan et al., 1992; Kaufman et al., 1993; Jacobsen and Kaufman, 1999). Limestones are considered to be unaltered only when Mn/Sr b1.5 and δ18O N−10‰ VPDB according to Fölling and Frimmel (2002). TheMn/Sr ratios for all samples in this study are b1.5 and δ18O values for all samples are N−10‰ VPDB.\nIt is known that correlation between C and O isotopes is observed in material that has been altered by burial diagenesis, but it is also known that covariance between these two isotopes cannot be used for unequivocal identification of meteoric late diagenesis. The reason is that covariance is also observed in modern calcareous skeletons and in pristine fossils where it reflects simultaneous depletion in δ13C and δ18O due to kinetic fractionation effects related to growth rate (McConnaughey, 1989; Wendler et al., 2013) or to vital effects related\nto pH (Spero et al., 1997; Bijma et al., 1999; Zeebe, 1999, Adkins et al., 2003; Zeebe, 2007).\nIn the Neuquén Basin, we have collected fourteen closely-spaced samples perpendicular to the strike of the strata in a section at the Bajada del Jagüel, thirteen samples in a section at Cerro Azul, and eight samples in a section along the river canyon at Cañadón Cholino, not far from the Cipoletti town (Fig. 1). C and O isotopes were analyzed in these samples and results are shown in Table 1 and plotted in Figs. 7, 8 and 9.\nHigh resolution δ13Ccarb and δ18O pathways for Maastrichtian samples from the Bajada del Jagüel section (Fig. 7) show little fluctuation and are followed by a strong negative excursion at the KTB layer that, if primary in nature, records a warming event around the KTB. δ13Ccarb and δ18O shift to lower values in the Danian samples but also show limited fluctuation. In a δ13Ccarb–δ18O plot (Fig. 7), Maastrichtian and Danian samples show a certain degree of co-variation. Fossil shells and bioclastic material are prominent in the analyzed marl to pelitic rocks at the Bajada del Jagüel section, likely with substantial influence on the bulk-rock isotope analyses and, therefore, the explanation for covariation given above may be applicable.\nThe δ13Corg curve for organic matter extracted from samples of this section (Fig. 7) exhibits a pathway with a minimum (~−26‰) in marl about 0.5 m below the KTB layer, a negative excursion at the KTB, a well-defined positive excursion to −23‰ immediately above the KTB, and a gradual and strong decrease to −26‰ upsection. The behavior\nof δ13Corg in this section somehow opposes that of δ13Ccarb as expected and is interpreted as a response to a gradual deterioration of the environment in the topmost Maastrichtian with gradual decrease of the organic productivity, followed by its gradual recovery early in the Danian. In the Cerro Azul section, δ13Ccarb and δ18O stratigraphic curves (Fig. 8) show similar behavior to that of Bajada del Jaguel section but with less apparent co-variation. The behavior of δ13Ccarb versus δ13Corg is similar to that observed in the Bajada del Jagüel section, the curves displaying opposite behavior around the KTB (Fig. 8). At the Cañadón Cholino section, the amount of inorganic carbon in the rocks analyzed is very low and only a δ13Corg curve is displayed in Fig. 9 where it essentially replicates the behavior of the δ13Corg curve observed in Fig. 8.\nKaminski and Malmgren (1989) have made C- and O-isotope measurements on KTB samples from two Danish localities—Stevns Klint\nand Kjølby Gaard. Results indicated a large positive δ18O excursion coincident with the Ir anomaly in the Fiskeler Member, followed by large fluctuations in δ18O values in the lowermost Danian while C isotopes have shown a negative δ13C excursion across the KTB. Kaminski and Malmgren (1989) have observed that a shift toward more negative δ13C values begins at 0.75 m (b10,000 years) below the KTB layer at Kjølby Gaard while at Stevns Klint, the lowest δ13C values are observed at an interval of low dinoflagellate abundance in the Danian. These δ13C patterns have been ascribed to decrease of surface-water productivity that started several thousand years before the KTB event.\nHigh resolution C- and O-isotope investigations at the Stevns Klint succession across the KTB have been also performed by Hart et al. (2004), Machalski and Heinberg (2005). In both studies, a δ13C negative shift was found at the KTB (values drop from around +2‰ in the\nl section across the KTB. No co-variation is apparent in a δ13Ccarb–δ18O plot.\nuppermost Højerup Member to +1‰ at the Fiskeler Member; Table 2), while the δ18O chemostratigraphic curve shows a negative anomaly (~−1.5‰ VPDB). In addition,Thibault et al. (2012) have shown very detailed C-isotope profiles in Stevns Klint and Rørdal localities, correlating them with nannofossil bio-events. Their study, as well as the one performed by Surlyk et al. (2013) have confirmed the δ13C negative shift described above. In the present study, δ13C and δ18O for a high resolution section across the KTB at Højerup (Fig. 10) show the same behavior described in Hart et al. (2004). In a δ13C–δ18O plot, there is no clear co-variation.\nO- andC-isotopemeasurements on topmostMaastrichtian andPaleocene limestone samples from the BottaccioneGorge section and from the adjacent Contessa Highway section have been reported by Corfield et al. (1991). Their C-isotope data from the Bottaccione Gorge show δ13Cmaxima at the Cenomanian/Turonian boundary and during the Paleocene, as well as a pronounced δ13Cminimum7m above the clay layer at the KTB. Their data from the Contessa Highway show a δ13C minimum 9m above the KTB clay and they have interpreted these minima as probable diagenetic artifacts. According to these authors, the Paleocene of the Bottaccione Gorge was affected by slumping or faulting and diagenetic overprinting, giving a spurious δ13C carb recovery after the KTB. Their O-isotope data indicated an increase in δ18O (possible cooling) in the Danian in both, the Bottaccione and Contessa Highway sections.\nIn the present study, twenty-eight samples have been collected, perpendicular to the strike of the strata, at the Bottacione Gorge section, bracketing the KTB. These samples have been analyzed for C and O isotopes and results are shown in Table 3 and the C andO-isotope pathways are displayed in Fig. 11. Samples from the topmostMaastrichtian rocks in\nthis section show a high resolution δ13C pathway with limited variation (from 2.32 to around 2‰) with a marked drop at the KTB, followed upsection by substantial gradual decrease of δ13C valueswith aminimum at about 7m above the KTB. The δ18O stratigraphic profile, in turn, shows lessfluctuation but displays amarked negative anomaly at the KTB indicative of warming conditions.\nIn a δ13C–δ18Oplot (Fig. 11),Maastrichtian andDanian values group in twodistinct areas in this diagram; as there is no clear correlation between C and O-isotope values we assume that these are near-primary isotope signals and that the negative δ18O anomaly suggests warming in the KTB, followed by immediate cooling."
+  }, {
+    "heading": "5. Mercury behavior across the Cretaceous–Paleogene boundary",
+    "text": "Cataclysmic volcanoes have the potential of injecting enough Hg to the atmosphere to change global and regional Hg cycles. Volcanic emissions are a significant natural source of Hg to the atmosphere, with average annual emissions of about 90 tons, 60% of which from eruptions and 40% from degassing activities (Nriagu and Becker, 2003).\nThe association of higher contents of Hg withmodern carbonates finely inter-layered with terrigenous sediments may have ultimately resulted from increased atmospheric Hg deposition related to\nvolcanism (Roos-Barraclough et al., 2002). Gaseous Hg from volcanic activity is transported far from their source reaching a regional and even global scale, contrary to most elements present in ash. As a result, many studies have reported synchronous Hg spikes in the sedimentary record associated with recent (e.g. Martínez-Cortizas et al., 1999; Roos-Barraclough et al., 2002; Roos-Barraclough and Shotyk, 2003) and prehistoric volcanic activities (e.g. Sial et al., 2010; NascimentoSilva et al., 2011, 2013; Sanei et al., 2012).\nWhen reaching a surface environment that is depleted of organic scavenging capacity due to climate changes at the KTB, Hg+2 would be kept mostly in solution, readily adsorbed onto clays and transported to sedimentary basins. In summary, high levels of Hg associated to claybearing carbonates is in agreement with an increased flux of volcanicderived Hg from the landmass into the marine realm.\nLeaching of this Hg from the land surface, and subsequent transport into the oceans, could eventually have led to the known accumulation of Hg in argillaceous carbonates. For example, higher Hg accumulation rates were found to be much larger in sediments deposited after glacial maxima, when runoff is increased, than in sediment layers deposited before that, and it seems to represent a global phenomenon, as suggested by similar results obtained by the analysis of sediments in the Amazon region (Santos et al., 2001); Antarctica (Vandal et al., 1993) and Europe (Martínez-Cortizas et al., 1999).\nSanei et al. (2012) associated increasing atmospheric Hg deposition with catastrophic Siberian Traps volcanic eruptions, followed by the disruptionof the organicfixationofHgandconsequently increasingdissolved mercury fluxes. Anomalous Hg contents have been observed across the KTB in Dolenja Vas, Slovenia, regarded as a probable result of sub-aerial volcanic activity (Palinkaš et al., 1996). High Hg contents were recorded across the KTB in the Paraíba Basin, Brazil, similar to peaks observed in Dolenja Vas, andmuch higher Hg values (~250ng g−1)were encountered across theKTB in theYacoraite Formation, Salta Basin, Argentina (Sial et al., 2013) andhavebeenascribed tovolcanism.AnomalousHgcontents across the KTB have been reported by Hildebrand and Boynton (1989)who have claimed this as an evidence for acidic rain they have deemed responsible for the associated mass extinction.\nBesides a direct volcanic origin of Hg, higher Hg concentrations in the atmosphere could result fromwidespread reduction of biological activity that decreases or even shuts down the scavenging and biological fixation of Hg from the atmosphere, increasing the dissolved Hg fluxes. Under reduced bioproductivity, Hg is less likely captured by organic matter, one of the major Hg sinks (Sanei et al., 2012)."
+  }, {
+    "heading": "5.1. Mercury chemostratigraphy",
+    "text": "Mercury concentrations were measured across the KTB in the Neuquén Basin in the same three sections analyzed for C and O isotopes. At the Bajada del Jagüel section, thirteen samples were analyzed (Table 1) and three mercury spikes are present (Fig. 7), one of them of about 17 ng g−1 Hg (labeled I) at about 65 cm below the KTB, a second one at the KTB (about 16 ng g−1, labeled II) and a third one, less pronounced, of about 13 ng g−1, around 15 cm above the KTB (labeled III).\nAt the Cerro Azul section mercury concentration was measured in thirteen samples, and also three mercury spikes with much higher concentrations than those at the Bajada del Jagüel section are evident. One of them (340 ng g−1, labeled I) is about 1.5 m below the KTB, a second one of about 333 ng g−1 (labeled II) is situated about 1 m above the KTB and a third one of about 415 ng g−1 (labeled III) is about 3.5 m above the KTB . At the Cañadon Cholino section, the three highest values encountered in eight of the analyzed samples were of about 21, 17 and 18 ng g−1, respectively at 8 m below KTB (labeled I), at the KTB (labeled II) and about 2 m above that (labeled III).\nResults of Hg concentrations in eight samples from across the KTB at Stevns Klint, that were analyzed for Sr, Nd, Pb and Os isotopes by Frei and Frei (2002) are listed in Table 2. In Fig. 10, the Hg stratigraphic variation curve is compared with Al2O3 curve (data are from Schmitz et al., 1992) and with δ13C and δ18O stratigraphic variation curves. A peak of Hg of about 260 ng g−1 coincides with the δ18O maximum value and δ13Cminimum value in the Fish Clay layer at the KTB that records an increase of continental weathering, subsequent clay generation and Hg fixation.\n110 A .N .Sialetal./Palaeogeography,Palaeoclim atology,Palaeoecology 414 (2014) 98 –115\nMercury concentrations were analyzed in twenty-eight samples from the Bottacione Gorge, Italy (Table 3) and shown in Fig. 11. Three mercury peaks are observed, a small one (around 2 ng g−1, labeled I) at about 6 m below the KTB, the largest one at the KTB (around 6 ng g−1, labeled II) which that coincides with a minimum of δ13 and δ18O, and a third one at about 7 m above the KTB (around 4 ng g−1, labeled III).\nHg contents analyzed in bulk samples across the KTB in the Yacoraite Formation, Salta Basin, Argentina, and in the Paraíba Basin, northeastern Brazil (Sial et al., 2013) are listed in Table 4 for comparison with Hg results in the present report."
+  }, {
+    "heading": "5.2. Mercury isotopes",
+    "text": "There is a growing interest in using Hg stable isotope signatures as source tracers for Hg of natural and anthropogenic origins. The success of such an approach strongly depends on two factors, according to Sonke and Blum (2013): (a) different natural and anthropogenic Hg sources must have analytically discernable Hg isotope signatures and (b) processes responsible for transportation/transformation of emitted or discharged Hg into the environment must not obscure the original Hg source isotope signatures. Therefore, fractionation of Hg isotopes after release has to be either small relative to source differences or is predictable enough to be corrected for, allowing estimation of the source isotopic composition (Sonke and Blum, 2013).\nAccording to previous studies, post-emission or post-discharge Hg transformations may not significantly modify the isotopic composition of particulate Hg (Foucher et al., 2009; Sonke et al., 2010; Estrade et al., 2011; Gehrke et al., 2011; Chen et al., 2012; Sun et al., 2013). If Hg transformations do shift original source isotope signatures, then under certain conditions the shift may prove to be constant (Laffont et al., 2009, 2011 Gehrke et al., 2011). However, if multiple Hg transformations modify the Hg isotope signatures in unpredictable ways, then source tracing will become very difficult (Sonke and Blum, 2013).\nIsotopic composition of Hg is potentially one way to differentiate volcanogenic frommeteoritic Hg. Characterization of the isotope composition of mantle-derived Hg is difficult because samples usually contain Hg that is either not entirely mantle-derived and/or because Hg has already undergone fractionation during chemical and phase transformations (Bergquist and Blum, 2009). Sherman et al. (2010)) suggested that mantle-derived Hg might be isotopically heavier than crustal Hg, with δ202Hg and Δ201Hg values closer to 0‰. However, Zambardi et al. (2009) have found that δ202Hg values from an active volcano in Italy range from−1.74‰ to−0.11‰ for gas and particulates, respectively.\nMost natural samples that obtained Hg after it had been through cycling in the environment have δ202Hg values significantly different from crust and mantle values (Bergquist and Blum, 2009). These authors observed that, under the light of the data available at that time, δ202Hg varies in chondrites fromaround−1.0‰ to 0.0‰while in volcanic rocks, awider fluctuation could be observed, with values between−2.0 and 0.0‰.\nIt is known that volcanism followed major Neoproterozoic glaciations supplying CO2 to the atmosphere that led to greenhouse effect and further cap carbonate deposition in the aftermath of glaciations. Hg concentration linked to such volcanism can potentially be used as a test of investigation on how volcanism could influenceHg background values, especially for the mass-independent fractionation of, for example, the odd Hg isotopes (199Hg and 201Hg). The photo-reduction processes may occur in the atmosphere during the transport of Hg and thus induce odd Hg isotope anomaly (Sherman et al., 2010; Gratz et al., 2010; Chen et al., 2012), which would be ultimately deposited and recorded in surface. Sial et al. (2010) reported Hg concentration levels in the Neoproterozoic cap carbonate in the Jacoca Formation, Sergipean Belt, northeastern Brazil (~280 ng g−1) which are equivalent to levels reported for the KTB in the Yacoraite Formation (~250 ng g−1; Sial et al., 2013) and for the KTB layer at Stevns Klint. This is important information to this discussion since volcanism, in absence of known\nmeteorite impact, was the main Hg supplier to the Earth's surface during Neoproterozoic cap carbonate formation.\nSial et al. (2014) reported preliminary Hg isotope analyses of samples from the KTB layer (Fiskeler Member) at Stevns Klint, Denmark with results reported in delta notation in permil (‰) relative to NIST SRM3133 Hg standard. Three among four δ202Hg values measured yielded δ202Hg values between −2.0 and −1.0‰. Two samples from the Jacoca cap carbonate also yielded values in this range. Interestingly, most of these samples showed small (but significantly higher than analytical precision of 0.04‰) positive Δ201Hg, in favor of long-term atmosphere transport prior to deposition. This points to a promising start of Hg isotopes in the identification of Hg source."
+  }, {
+    "heading": "6. Discussion and conclusions",
+    "text": "A complication for determining the origin of Hg in KTB sections arises from that meteorites may carry large amounts of Hg, and concurrently a much larger contribution from volcanic activity at the Deccan traps could have increased worldwide Hg contents across the KTB. Ozerova et al. (1973) reported an average of 6 ng g−1 Hg in stone meteorites (abundance from 0 to 33 ng g−1), about 500 ng g−1 in carbonaceous chondrites, iron meteorites displaying the lowest Hg concentrations (generally 0.1 ng g−1). Lauretta et al. (2001) reported bulk abundances of Hg of 294 ± 15 and 30 ± 1.5 ng g−1 for the Murchison and Allende carbonaceous chondrites, respectively. Shima et al. (1974) have reported a bulk Hg analysis of 1330 ng g−1 for the Parambu chondrite (state of Ceará, Brazil). The nature of the main meteorite impactor is under debate but short-lived Cr isotopic compositions of sedimentary rocks from the KTB point to a Hg-poor carbonaceous chondrite type bolide (e.g. Shukolyukov and Lugmair, 1998). However, most studies on this matter,with the exception of that of Lauretta et al. (2001), have used analytical methodologies which are not advised for Hg analysis (see for example Randa et al., 2003). Analysis of samples from theAllende chondrite reviewed by Lauretta et al. (2001), for example, gave values ranging from 16.4 to 10,020 ng g−1, whereas the same meteorite analyzed by Kumar et al. (2001) gave smaller concentrations from 16.4 to 17.8 ng g−1. One reason for the large variability of Hg content reported for meteorites is the erroneous determination of Hg, mostly by radiochemical neutron activation, that ignored the presence of 75Se in the released Hg fraction, resulting in an overestimation of the Hg content (Kumar et al., 2001). Bulk Hg analysis may also blur the actual Hg content due to contamination. For example, in a sequential thermodesorption analysis of a sample of the Antarctica meteorite Y 82050, up to 62% of the Hg present was only released at temperature higher than 300 °C, suggesting strong contamination by Hg-like halogens, and this may be the case for all Antarctica meteorites (Kumar et al., 2001). Therefore, high Hg concentrations reported for meteorites should be taken with care.\nThermal analysis of Hg-bearing chondrites have shown that the major proportion of Hg is released at relatively high temperature (N340 °C) and it is synchronous with S releasing temperature. This strongly suggests that HgS is the major Hg compound in these meteorites. The same thermal behavior has been shown for some other meteorites (e.g. Jovanovic and Reed, 1976; Kumar and Goel, 1992) and, recently, reported by Komorowski et al. (2012) who first characterized the presence of Hg–Cu-bearing metal-sulfide in an unshocked H-3 chondrite, Tieschitz meteorite.\nIn this report, it is evident that in the two studied sections in Europe (Stevns Klint and Gubbio) a prominent Hg peak coincides with the KTB layer, being the peak at the Stevns Klint section almost 50 times larger than that at Gubbio. Both sections are within a similar dispersion radius in relation to the Chicxulub impact site inMexico or to the Deccan traps in India, therefore similar Hg peaks would be expected.\nAmong possible explanations for this discrepancy, two may be invoked: (a) divergence in time lengths and/or factors governing Hg\ndeposition, and (b) preservation of Hg deposit fromweathering and diagenesis. It is difficult to evaluate the time length involved in Hg transport and deposition, as the nature and extension of all variables controlling it are not known (e.g. mountain chains, air andmarine currents, dispersion corridors along latitudinal zones).When reaching an environment which is depletedof organic scavenging capacity due to climate changes as at the KTB, Hg+2 would be likely kept mostly in solution, readily adsorbed onto clays and transported to sedimentary basins.\nThehigh levels ofHgassociated to the FiskelerMember at StevnsKlint may have resulted from increased flux of volcanic-derived Hg from the landmass into themarine realm. At theGubbioKTB site, Hg accumulation mayhave resulted froma similarmechanism, but amore distal, deepmarine (pelagic) setting probably determined a lower Hg concentration if compared to the more proximal Stevns Klint section. However, as the KTB layer is tilted at Gubbio, this could have also facilitated a gradual Hg washing out, resulting in a more modest remaining Hg peak.\nOne of the three Hg peaks observed at the Bajada del Jagüel section, Neuquén Basin, coincides with the KTB sandstone layer and is much smaller than the peak at the Fiskeler Member in Stevns Klint, but three times larger than that at the KTB in Gubbio. At the Cerro Azul section, Neuquén Basin, three large Hg peaks are evident, the one few cm above the KTB reaches about 330 ng g−1, much larger than that at Bajada del Jagüel and Cañadon Cholino KTB sites that exhibit peaks around 16 ng g−1. The Hg peak about 3 m above the KTB in the Cerro Azul section is the largest observed in this study (415 ng g−1).\nLikewise the studied sections in the Neuquén Basin, two sections in the Salta Basin, Argentina, bracketing the KTB also display contrasting sizes of Hg peaks. In one section, a Hg peak reaches 250 ng g−1, a bit below the KTB, twenty times larger than the corresponding Hg peak in the other section (Sial et al., 2013).\nTherefore, the contrast in Hg peak size between Gubbio and Stevns Klint sites, two far distant localities, is also observed within one single basin, as observed in the Neuquén and Salta basins. To find a plausible explanation for the Hg distribution pattern, it would be necessary to know the paleogeography of these basins in the Maastrichtinian– Danian time interval, precise factors governing Hg accumulation/ deposition before installation of any expressive diagenetic process, and to determine Hg dispersion factors.\nPreliminary Hg isotope data for clays from the KTB layer in Stevns Klint (−2.0 to −1.0‰) reported by Sial et al. (2014) lie within the range for volcanogenic Hg as reported in previous studies (e.g. Bergquist and Blum, 2009), and the odd Hg isotope anomaly also sheds light on the long-range atmosphere transport of volcanic emission. However, one cannot assure, solely based on this isotopic similarity, that Hg is volcanogenic for two reasons: (a) limited Hg isotope data available and (b) processes involved as eruption, transportation and even deposition may have induced to Hg isotope fractionation and modification of the original Hg isotope signature. A more detailed study of the behavior of Hg isotopes in the KTB localities in this study is under way to confirm the volcanogenic origin suggested in the preliminary report of Sial et al. (2014).Conclusions stemming from this study attest to the influence of endogenous mechanisms in the KTB scenario, in superposition with the asteroid impact (or impacts) and assure that volcanism played a longterm influence in the concurrent mass extinction event."
+  }, {
+    "heading": "Acknowledgments",
+    "text": "We thank Gilsa M. Santana and Vilma S. Bezerra for assistance with stable isotope analyses in the LABISE and to Talita M. Soares for help with the Hg analysis at the LABOMAR. We also thank Giampiero Poli from the University of Perugia, for the help with the logistics in the field trip to Gubbio, Italy, and to the University of San Juan, Argentina, for a vehicle to the field trip at Neuquén.Maria Lídia Sánchez, Río Cuarto National University (Córdoba, Argentina) provided us with valuable information on the Cretaceous–Paleogene transition in the Neuquén Basin. We are thankful to Eric Font and to an anonymous reviewer for\ncomments and suggestions that helped improving this manuscript. This study was partially supported by grants to ANS (CNPq, grants n. 470399/2008 and 472842/2010-2 and FACEPE APQ 0727-1.07/08; APQ-1059-9.05/12) to LDL and to RAM (CIUNSa 2043). Financial support through theDanish Agency for Science, Technology and Innovation grant nr. 11-103378 to RF and through the Danish National Research Foundation's center of excellence NordCEE (DNRF grant number DNRF53) is highly appreciated. This is the NEG-LABISE contribution n. 268."
+  }],
+  "year": 2014,
+  "references": [{
+    "title": "Faunal evidence for reduced productivity and uncoordinated recovery in Southern Hemisphere Cretaceous–Paleogene boundary",
+    "authors": ["M. Aberhan", "S. Weidemeyer", "W. Kiessling", "R.A. Scasso", "F.A. Medina"],
+    "venue": "sections. Geology",
+    "year": 2007
+  }, {
+    "title": "Age and origin of the Chicxulub impact and sandstone complex, Brazos River. Texas: evidence from lithostratigraphy and sedimentology",
+    "authors": ["T. Adatte", "G. Keller", "G.R. Baum"],
+    "venue": "SEPM special publication",
+    "year": 2011
+  }, {
+    "title": "Stable isotopes in deep-sea corals and a new mechanism for “vital effects",
+    "authors": ["J.F. Adkins", "E.A. Boyle", "W.B. Curry", "A. Lutringer"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 2003
+  }, {
+    "title": "Malargüe Group (Maastrichtian–Danian) deposits in the Neuquén Andes, Argentina: implications for the onset of the first Atlantic transgression related to Western Gondwana break-up",
+    "authors": ["B. Aguirre-Urreta", "M. Tunik", "M. Naipauer", "P. Pazos", "E. Ottone", "M. Fanning", "V.A. Ramos"],
+    "venue": "Gondwana Res",
+    "year": 2011
+  }, {
+    "title": "The historical record in the Scaglia limestone at Gubbio: magnetic reversals and the Cretaceous–Tertiary mass extinction",
+    "authors": ["W. Alvarez"],
+    "venue": "Sedimentology",
+    "year": 2009
+  }, {
+    "title": "Upper Cretaceous–Paleocene magnetic stratigraphy at Gubbio Italy. V. Type sections for the Cretaceous–Paleocene geomagnetic reversal time scale",
+    "authors": ["L.W. Alvarez", "M.A. Arthur", "A.G. Fischer", "W. Lowrie", "G. Napoleone", "I. Premoli Silva", "W.M. Roggenthen"],
+    "venue": "Geol. Soc. Am. Bull",
+    "year": 1977
+  }, {
+    "title": "Extraterrestrial cause for the Cretaceous–Tertiary extinction",
+    "authors": ["L.W. Alvarez", "W. Alvarez", "F. Asaro", "H.V. Michel"],
+    "venue": "Science",
+    "year": 1980
+  }, {
+    "title": "Upper Cretaceous–Paleocene magnetic stratigraphy at Gubbio, Italy",
+    "authors": ["M.A. Arthur", "A.G. Fisher"],
+    "venue": "I. Lithostratigraphy and sedimentology. Geol. Soc. Am. Bull",
+    "year": 1977
+  }, {
+    "title": "Development of widespread organic carbon-rich strata inMediterranean Tethys",
+    "authors": ["M.N.A. Arthur", "I. Premoli Silva"],
+    "year": 1982
+  }, {
+    "title": "Late Cretaceous–early Tertiary sedimentation in a semi-arid foreland basin (Neuquén Basin, western Argentina)",
+    "authors": ["C.A. Barrio"],
+    "venue": "Sediment. Geol",
+    "year": 1990
+  }, {
+    "title": "Fullerenes: an extraterrestrial carbon crrier phase for noble gases",
+    "authors": ["L. Becker", "R.J. Poreda", "T.E. Bunch"],
+    "venue": "Proc. Natl. Acad. Sci. U.S.A",
+    "year": 2000
+  }, {
+    "title": "The origin of fullerenes in the 65 Myr old Cretaceous/Tertiary K/T boundary. Abstr",
+    "authors": ["L. Becker", "R.J. Poreda", "T.E. Bunch"],
+    "venue": "Lunar Planet. Sci",
+    "year": 2000
+  }, {
+    "title": "The odds and evens of mercury isotopes: applications of mass-dependent and mass-independent isotope fractionation",
+    "authors": ["B.A. Bergquist", "J.D. Blum"],
+    "venue": "Elements",
+    "year": 2009
+  }, {
+    "title": "Los foraminiferos planctónicos de la cuenca Cretácica–Terciaria en Patagonia Septentrional (Argentina), con consideraciones sobre la estratigrafia del Fortín",
+    "authors": ["A. Bertels"],
+    "venue": "General Roca (Provincia de Río Negro). Ameghiniana",
+    "year": 1970
+  }, {
+    "title": "Bioestratigrafía del Paleogeno en la República Argentina",
+    "authors": ["A. Bertels"],
+    "venue": "Rev. Esp. Micropaleontol",
+    "year": 1975
+  }, {
+    "title": "Reassessing foraminiferal stable isotope geochemistry: impact of the carbonate system (experimental results)",
+    "authors": ["J. Bijma", "H.J. Spero", "D.W. Lea"],
+    "year": 1999
+  }, {
+    "title": "Shocked quartz and more: impact signatures in Cretaceous/Tertiary boundary clays",
+    "authors": ["B.F. Bohor"],
+    "venue": "Geol. Soc. Am. Spec. Pap",
+    "year": 1990
+  }, {
+    "title": "Shocked quartz in the Cretaceous–Tertiary boundary clays: evidence for a global distribution",
+    "authors": ["B.F. Bohor", "P.J. Modreski", "E.E. Foord"],
+    "year": 1984
+  }, {
+    "title": "Architecture and seismotectonics of a regional low-angle normal fault zone in Central Italy",
+    "authors": ["P. Boncio", "F. Brozzetti", "G. Lavecchia"],
+    "venue": "Tectonics",
+    "year": 2000
+  }, {
+    "title": "Late Cretaceous winter sea ice in Antarctica? Geology",
+    "authors": ["V.C. Bowman", "J.E. Francis", "J.B. Riding"],
+    "year": 2013
+  }, {
+    "title": "High-resolution stable isotope stratigraphy of Upper Ordovician sequences: constraints on the timing of bioevents and environmental changes associated with mass extinction and glaciations",
+    "authors": ["P.J. Brenchley", "G.A. Garden", "L. Hints", "D. Kaljo", "J.D. Marshall", "T. Martma", "T. Meidla", "J. Nõlvak"],
+    "venue": "Geol. Soc. Am",
+    "year": 2003
+  }, {
+    "title": "Hauterivian–Barremian chronostratigraphy based on ammonites, nannofossils, planktonic foraminifera and magnetic chrons from the Mediterranean Domain",
+    "authors": ["F. Cecca", "G. Pallini", "E. Erba", "I. Premoli Silva", "R. Coccioni"],
+    "venue": "Cretac. Res",
+    "year": 1994
+  }, {
+    "title": "Unusual fractionation of both odd and even mercury isotopes in precipitation from Peterborough, ON, Canada",
+    "authors": ["Chen", "J.-B", "H. Hintelmann", "Feng", "X.-B", "B. Dimock"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 2012
+  }, {
+    "title": "K-40–Ar-40 dating of the Main Deccan large igneous province: further evidence of KTB age and short duration",
+    "authors": ["A.L. Chenet", "X. Quidelleur", "F. Fluteau", "V. Courtillot", "S. Bajpai"],
+    "venue": "Earth Planet. Sci",
+    "year": 2007
+  }, {
+    "title": "Sedimentology and depositional environment of Lower Danian Fish clay from Stevns Klint, Denmark",
+    "authors": ["L. Christensen", "S. Fregerslev", "A. Simonsen", "J. Thiede"],
+    "venue": "Bull. Geol. Soc. Den",
+    "year": 1973
+  }, {
+    "title": "Distribution of Chicxulub ejecta at the Cretaceous–Tertiary boundary",
+    "authors": ["P. Claeys", "W. Kiessling", "W. Alvarez"],
+    "year": 2002
+  }, {
+    "title": "98–115 and Mass Extinctions: Impacts and Beyond. Boulder, Colorado, Geological Society of America",
+    "authors": ["A.N. Sial"],
+    "venue": "Special Paper",
+    "year": 2014
+  }, {
+    "title": "Barremian–Aptian calcareous plankton biostratigraphy from the Gorgo Cerbara section (Marche, central Italy) and implications for plankton evolution",
+    "authors": ["R. Coccioni", "E. Erba", "I. Premoli Silva"],
+    "venue": "Cretaceous Research",
+    "year": 1992
+  }, {
+    "title": "Oxygen and carbon isotope stratigraphy of the Paleogene and Cretaceous limestones in the Bottaccione Gorge and the Contessa Highway sections, Umbria, Italy",
+    "authors": ["R.M. Corfield", "J.E. Cartlidge", "I. Premoli Silva", "R.A. Housley"],
+    "venue": "Terra Nova",
+    "year": 1991
+  }, {
+    "title": "On the ages of flood basalt events",
+    "authors": ["V.E. Courtillot", "P.R. Renne"],
+    "venue": "Compt. Rendus Geosci",
+    "year": 2003
+  }, {
+    "title": "Stratigrafia del Mesozoico e Cenozoico nell'area Umbro-Marchigiana/Mesozoic-Cenozoic stratigraphy in the Umbria-Marche area [in Italian and English",
+    "authors": ["S. Cresta", "S. Monechi", "G. Parisi", "A. Baldanza", "V. Reale"],
+    "venue": "Mem. Descr. Carta Geolog. Ital",
+    "year": 1989
+  }, {
+    "title": "New evidence for widespread Chicxulub-induced slope failure Massive Cretaceous–Paleogene boundary deposit, deep-water Gulf of Mexico: new evidence for widespread Chicxulub-induced slope failure. Geology http://dx.doi.org/10.1130/G34503.1",
+    "authors": ["R.A. Denne", "E.D. Scott", "D.P. Eickhoff", "J.S. Kaiser", "R.J. Hill", "J.M. Spaw"],
+    "year": 2013
+  }, {
+    "title": "Sequence stratigraphic setting of the Cretaceous–Tertiary Boundary in Central Alabama",
+    "authors": ["A.D. Donovan", "G.R. Baum", "G.L. Blechschmidt", "T.S. Loutit", "C.E. Pflum", "P.R. Vail"],
+    "venue": "SEPM Special Publication",
+    "year": 1988
+  }, {
+    "title": "Origin of theMg-smectite at the Cretaceous/Tertiary (K/T) boundary at Stevns Klint, Denmark",
+    "authors": ["W.C. Elliott"],
+    "venue": "Clay Mineral",
+    "year": 1993
+  }, {
+    "title": "Chemostratigraphic correlation of carbonate succesions in the Gariep and Saldania Belts, Namibia and South Africa",
+    "authors": ["P.G. Fölling", "H.E. Frimmel"],
+    "venue": "Basin Res",
+    "year": 2002
+  }, {
+    "title": "A new sedimentary benchmark for the Deccan",
+    "authors": ["E. Font", "A. Nédélec", "B.B. Ellwood", "M. Mirão", "P.F. Silva"],
+    "venue": "Traps volcanism? Geophys. Res. Lett",
+    "year": 2011
+  }, {
+    "title": "Atmospheric halogen and acid rains during the main phase of Deccan eruptions: magnetic and mineral evidence",
+    "authors": ["E. Font", "F. Fabre", "A. Nédélec", "T. Adatte", "G. Keller", "C. Veiga-Pires", "J. Ponte", "Mirão", "José", "H. Khozyem", "J. Spangenberg"],
+    "venue": "Geol. Soc. Am. Spec",
+    "year": 2014
+  }, {
+    "title": "Tracing mercury contamination from the Idrija mining region (Slovenia) to the gulf of Trieste using Hg isotope ratio measurements",
+    "authors": ["D. Foucher", "N. Ogrinc", "H. Hintelmann"],
+    "venue": "Environ. Sci. Technol",
+    "year": 2009
+  }, {
+    "title": "A multi-isotopic and trace element investigation of the Cretaceous–Tertiary boundary layer at Stevns Klint, Denmark: inferences for the origin and nature of siderophile and lithophile element geochemical anomalies",
+    "authors": ["R. Frei", "K.M. Frei"],
+    "venue": "Earth Planet. Sci",
+    "year": 2002
+  }, {
+    "title": "Integrated stratigraphy across the Paleocene/Eocene Boundary in the Contessa Road section, Gubbio (central Italy)",
+    "authors": ["S. Galeotti", "E. Angori", "R. Coccioni", "G. Ferrari", "B. Galbrun", "S. Monechi", "I. Premoli Silva", "R. Speijer", "B. Turi"],
+    "venue": "Bull. Soc. Geol. Fr",
+    "year": 2000
+  }, {
+    "title": "Sources of mercury to San Francisco Bay surface sediment as revealed by mercury stable isotopes",
+    "authors": ["G.E. Gehrke", "J.D. Blum", "M. Marvin-DiPasquale"],
+    "venue": "Geochim. Cosmochim",
+    "year": 2011
+  }, {
+    "title": "Environmental effects of Deccan volcanism across the Cretaceous–Tertiary transition in Meghalaya, India",
+    "authors": ["B. Gertsch", "G. Keller", "T. Adatte", "R. Garg", "V. Prasad", "Z. Berner", "D.S. Fleitmann"],
+    "venue": "Earth Planet. Sci",
+    "year": 2011
+  }, {
+    "title": "Isotopic composition and fractionation of mercury in great lakes precipitation and ambient air",
+    "authors": ["L.E. Gratz", "G.J. Keeler", "J.D. Blum", "L.S. Sherman"],
+    "venue": "Environ. Sci. Technol",
+    "year": 2010
+  }, {
+    "title": "Mineralogy and phase-chemistry of an Ir-enriched pre-K/T layer from the Lattengebirge, Bavarian Alps, and significance for the KTB problem",
+    "authors": ["G. Graup", "B. Spettel"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 1989
+  }, {
+    "title": "Marine macrofossil communities in the uppermost Maastrichtian chalk of Stevns Klint, Denmark",
+    "authors": ["T. Hansen", "F. Surlyk"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2014
+  }, {
+    "title": "High-resolution trace element chemistry across the Cretaceous–Tertiary boundary in Denmark",
+    "authors": ["H.J. Hansen", "R. Gwozdz", "K.L. Rasmussen"],
+    "venue": "Rev. Esp. Paleontol",
+    "year": 1988
+  }, {
+    "title": "Reappraisal of the K–T boundary succession at Stevns Klint, Denmark",
+    "authors": ["M.B. Hart", "S.E. Feist", "G.D. Price", "M.J. Leng"],
+    "venue": "J. Geol. Soc. Lond",
+    "year": 2004
+  }, {
+    "title": "Posición estratigráfica de los estratos supracretácicos portadores de dinosaurios en Lago Pellegrini, Patagonia Septentrional, Argentina",
+    "authors": ["S. Heredía", "L. Salgado"],
+    "venue": "Ameghiniana",
+    "year": 1999
+  }, {
+    "title": "Hg anomalies at the K/T boundary: evidence for acid",
+    "authors": ["A.R. Hildebrand", "W.V. Boynton"],
+    "venue": "rain? Meteoritics",
+    "year": 1989
+  }, {
+    "title": "Tectonic settling and timing of the final Deccan flood basalt eruptions",
+    "authors": ["P. Hooper", "M. Widdowson", "S. Kelley"],
+    "venue": "Geology",
+    "year": 2010
+  }, {
+    "title": "The Neuquén Basin: an overview",
+    "authors": ["J.A. Howell", "E. Schwarz", "L.A. Spalletti", "G.D. Veiga"],
+    "venue": "Geological Society,",
+    "year": 2005
+  }, {
+    "title": "The Sr, C and O isotopic evolution of Neoproterozoic seawater",
+    "authors": ["S.B. Jacobsen", "A.J. Kaufman"],
+    "venue": "Chem. Geol",
+    "year": 1999
+  }, {
+    "title": "Carbon- and oxygen-isotope stratigraphy of the English Chalk and Italian Scaglia and its palaeoclimatic significance",
+    "authors": ["H.C. Jenkyns", "A.S. Gale", "R.M. Corfield"],
+    "venue": "Geol. Mag",
+    "year": 1994
+  }, {
+    "title": "Hell Creek Formation: A 2001 synthesis. The Hell Creek Formation and the Cretaceous–Tertiary Boundary in the northern Great Plains",
+    "authors": ["K.R. Johnson", "D.J. Nichols", "J.H. Hartman"],
+    "venue": "Geol. Soc. Am. Spec",
+    "year": 2002
+  }, {
+    "title": "Stable isotope and trace element stratigraphy across the Cretaceous/Tertiary boundary in Denmark",
+    "authors": ["M.A. Kaminski", "B.A. Malmgren"],
+    "venue": "Geol. Fören. Stockh. Förh",
+    "year": 1989
+  }, {
+    "title": "U–Pb ages of shocked zircon grains link distal K–Pg boundary sites in Spain and Italy with the Chicxulub impact",
+    "authors": ["S. Kamo", "C. Lana", "J. Morgan"],
+    "venue": "Earth Planet. Sci",
+    "year": 2011
+  }, {
+    "title": "The Vendian record of Sr and isotopic variation in seawater: implications for tectonics and paleoclimatic",
+    "authors": ["A.J. Kaufman", "S.B. Jacobsen", "A.H. Knoll"],
+    "venue": "Earth Planet. Sci",
+    "year": 1993
+  }, {
+    "title": "The Cretaceous–Tertiary mass extinction: theories and controversies",
+    "authors": ["G. Keller"],
+    "venue": "SEPM Spec. Publ",
+    "year": 2011
+  }, {
+    "title": "More evidence that the Chicxulub impact predates the K/T mass extinction",
+    "authors": ["G. Keller", "T. Adatte", "W. Stinnesbeck", "D. Stüben", "Z. Berner", "U. Kramar", "M. Harting"],
+    "venue": "Meteorit. Planet. Sci",
+    "year": 2004
+  }, {
+    "title": "High stress late Maastrichtian–early Danian palaeoenvironment in the Neuquén Basin, Argentina",
+    "authors": ["G. Keller", "T. Adatte", "A.A. Tantawy", "Z. Berner", "W. Stinnesbeck", "D. Stüben", "H.A. Leanza"],
+    "venue": "Cretac. Res",
+    "year": 2007
+  }, {
+    "title": "Main Deccan volcanism phase ends near the K–T boundary: evidence from the Krishna–Godavari Basin, SE India",
+    "authors": ["G. Keller", "T. Adatte", "S. Gardin", "A. Bartolini", "S. Bajpai"],
+    "venue": "Earth Planet. Sci",
+    "year": 2008
+  }, {
+    "title": "New evidence concerning the age and biotic effects of the Chicxulub impact in NE Mexico",
+    "authors": ["G. Keller", "T. Adatte", "A. Pardo Juez", "J. Lopez–Oliva"],
+    "venue": "J. Geol",
+    "year": 2009
+  }, {
+    "title": "Nature and timing of extinctions in Cretaceous–Tertiary planktic foraminifera preserved in Deccan intertrappean sediments of the Krishna–Godavari Basin, India",
+    "authors": ["G. Keller", "T. Adatte", "P.K. Bhowmick", "H. Upadhyay", "A. Dave", "A.N. Reddy", "B.C. Jaiprakash"],
+    "venue": "Earth Planet. Sci",
+    "year": 2012
+  }, {
+    "title": "Discovery of Hg–Cu-bearing metal–sulfide assemblages in a primitive H-3 chondirte: towards a new insight in early solar system processes",
+    "authors": ["C.C. Komorowski", "A. El Goresy", "M. Miyahara", "O. Boudouma", "C. Ma"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2012
+  }, {
+    "title": "Anomalous mercury isotopic compositions of fish and human hair in the Bolivian Amazon",
+    "authors": ["L. Laffont", "J.E. Sonke", "L. Maurice", "H. Hintelmann", "Y. Sanchez-Baccarez", "T. Perez", "P. Behra"],
+    "venue": "Environ. Sci. Technol",
+    "year": 2009
+  }, {
+    "title": "Hg speciation and stable isotope signatures in human hair as a tracer for dietary and occupational exposure to mercury",
+    "authors": ["L. Laffont", "J.E. Sonke", "L. Maurice", "S.L. Monroy", "J. Chincheros", "D. Amouroux", "P. Behra"],
+    "venue": "Environ. Sci. Technol",
+    "year": 2011
+  }, {
+    "title": "Mercury abundances and isotopic compositions in the Murchison (CM) and Allende (CV) carbonaceous chondrites",
+    "authors": ["D.S. Lauretta", "B. Klaue", "J.D. Blum", "P.R. Buzek"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 2001
+  }, {
+    "title": "The middle Danian Faxe Formation—new lithostratigraphic unit and a rare taphonomic window into the Danian of Denmark",
+    "authors": ["B.W. Lauridsen", "M. Bjerager", "F. Surlyk"],
+    "venue": "Bull. Geol. Soc. Den",
+    "year": 2012
+  }, {
+    "title": "El Jurásico y Cretácico de la Cordillera Principal y la Cuenca Neuquina",
+    "authors": ["L. Legarreta", "M.A. Uliana"],
+    "venue": "Minero Argentino, Anales",
+    "year": 1999
+  }, {
+    "title": "Depositional sequences of the Malargüe Group (Upper Cretaceous–Lower Tertiary), Neuquén Basin, Argentina",
+    "authors": ["L. Legarreta", "D.A. Kokogián", "D.A. Boggetti"],
+    "venue": "Cretac. Res",
+    "year": 1989
+  }, {
+    "title": "Biostratigrafia del limite Cretaceo-Terziario nell'Appennino centrale",
+    "authors": ["H.P. Luterbacher", "I. Premoli Silva"],
+    "venue": "Riv. Ital. Paleontol. Stratigr",
+    "year": 1964
+  }, {
+    "title": "Evidence for ammonite survival into the Danian (Paleogene) from the Cerithium Limestone at Stevns Klint, Denmark",
+    "authors": ["M. Machalski", "C. Heinberg"],
+    "venue": "Bull. Geol. Soc. Den",
+    "year": 2005
+  }, {
+    "title": "Prospección del límite K/T en la cuenca del Noroeste, Argentina",
+    "authors": ["R.A. Marquillas", "C.E. del Papa", "I.F. Sabino", "J. Heredia"],
+    "venue": "Rev. Asoc. Geol. Argent",
+    "year": 2003
+  }, {
+    "title": "Carbon and oxygen isotopes of Maastrichtian–Danian shallow marine carbonates: Yacoraite Formation, northwestern Argentina",
+    "authors": ["R.A. Marquillas", "I. Sabino", "A. Nobrega Sial", "C. del Papa", "V. Ferreira", "S. Matthews"],
+    "venue": "J. S. Am. Earth Sci",
+    "year": 2007
+  }, {
+    "title": "U–Pb zircon age of the Yacoraite Formation and its significance to the Cretaceous–Tertiary boundary in the Salta Basin, Argentina",
+    "authors": ["R.A. Marquillas", "J.A. Salfity", "S.J. Matthews", "M. Matteini", "E. Dantas"],
+    "venue": "Cenozoic Geology of the Central Andes of Argentina. SCS Publisher,",
+    "year": 2011
+  }, {
+    "title": "Sudden and gradual molluscan extinctions in the Latest Cretaceous of Western European Tethys",
+    "authors": ["C.R. Marshall", "P.D. Ward"],
+    "venue": "Science",
+    "year": 1996
+  }, {
+    "title": "Mercury in a Spanish Peat Bog: archive of climate change and atmospheric metal deposition",
+    "authors": ["A. Martínez-Cortizas", "X. Pontevedra-Pombal", "E. García-Rodeja", "J.C. Nóvoa-Muñoz", "W. Shotyk"],
+    "year": 1999
+  }, {
+    "title": "13C and 18O isotopic disequilibrium in biological carbonates: I",
+    "authors": ["T. McConnaughey"],
+    "venue": "Patterns. Geochim. Cosmochim. Acta",
+    "year": 1989
+  }, {
+    "title": "Mantle degassing induced dead ocean in the Cretaceous–Tertiary transition",
+    "authors": ["D.M. McLean"],
+    "venue": "Geophys. Monogr. Ser",
+    "year": 1985
+  }, {
+    "title": "The Gubbio normal fault (Central Italy): geometry, displacement distribution and tectonic evolution",
+    "authors": ["F. Mirabella", "M.G. Ciaccio", "M.R. Barchi", "S. Merlini"],
+    "venue": "J. Struct. Geol",
+    "year": 2004
+  }, {
+    "title": "Late Cretaceous–Eocene nannofossil and magnetostratigraphic correlations near Gubbio, Italy",
+    "authors": ["S. Monechi", "H.R. Thierstein"],
+    "venue": "Mar. Micropalaeontol",
+    "year": 1985
+  }, {
+    "title": "Analyses of shocked quartz at the global K–P boundary indicate an origin from a single, high-angle, oblique impact at Chicxulub",
+    "authors": ["J.V. Morgan", "C. Lana", "A. Kearsley", "B. Coles", "C. Belcher", "S. Montanari", "E. Díaz-Martínez", "J.A. Barbosa", "V. Neumann"],
+    "venue": "Earth Planet. Sci",
+    "year": 2006
+  }, {
+    "title": "Clay mineralogy and calcareous nannofossils from Jagüel and Roca formations in the eastern sector of Pellegrini Lake, Neuquen Basin, República Argentina",
+    "authors": ["T. Musso", "A. Concheyro", "G. Pettinari"],
+    "venue": "Andean Geol",
+    "year": 2012
+  }, {
+    "title": "Límite Cretácico-Paleogeno. Geología y RecursosMinerales del Departamento Anelo, Provincia de Neuquén, República Argentina",
+    "authors": ["C. Nañez", "A. Concheyro"],
+    "venue": "Dirección Nacional del Servicio Geológico, Anales 25 y Dirección Provincial de Minerıía Boletín",
+    "year": 1997
+  }, {
+    "title": "Eocene magnetic stratigraphy at Gubbio, Italy, and its implications for Paleogene geochronology",
+    "authors": ["G. Napoleone", "I. Premoli Silva", "F. Heller", "P. Cheli", "S. Corezzi", "A.G. Fischer"],
+    "venue": "Geol. Soc. Am. Bull",
+    "year": 1983
+  }, {
+    "title": "Cretaceous–Paleogene transition at the Paraíba Basin, northeastern, Brazil: carbon-Isotope and mercury subsurface stratigraphies",
+    "authors": ["V.M. Nascimento-Silva", "A.N. Sial", "V.P. Ferreira", "V.H. Neumann", "J.A. Barbosa", "M.M. Pimentel", "L.D. Lacerda"],
+    "venue": "J. S. Am. Earth Sci",
+    "year": 2011
+  }, {
+    "title": "Carbon Isotopes, rare-earth elements andmercury behavior of Maastrichtian–Danian carbonate succession of the Paraíba Basin, northeastern Brazil",
+    "authors": ["M.V. Nascimento-Silva", "A.N. Sial", "V.P. Ferreira", "J.A. Barbosa", "V.H. Neumann", "M.M. Pimentel", "L.D. Lacerda"],
+    "year": 2013
+  }, {
+    "title": "Volcanic emissions of mercury to the atmosphere: global and regional inventories",
+    "authors": ["J.O. Nriagu", "C. Becker"],
+    "venue": "Sci. Total Environ",
+    "year": 2003
+  }, {
+    "title": "Dinoflagellate evidence of the Cretaceous - Paleogene boundary in Argentina",
+    "authors": ["S. Palamarczuk", "D. Habib"],
+    "venue": "Geol. Soc. Am. Annual Meeting, Abstract with Program,",
+    "year": 2001
+  }, {
+    "title": "Cretaceous- Paleogene boundary in Argentina: new evidence from dinoflagellate foraminiferal and radiometric dating",
+    "authors": ["S. Palamarczuk", "D. Habib", "R. Olsson", "S. Hemming"],
+    "venue": "Geol. Soc. Am. Annual Meeting Abstract with Program,",
+    "year": 2002
+  }, {
+    "title": "Mercury anomaly at the Cretaceous– Tertiary boundary: Dolenja Vas, Slovenia",
+    "authors": ["A.L. Palinkaš", "K. Drobne", "G. Durn", "S. Miko"],
+    "venue": "Int. Workshop Postojna '96. The Role of Impact Processes in the Geological and Biological Evolution of, Planet Earth,",
+    "year": 1996
+  }, {
+    "title": "Palinología y micropaleontología de la Formacıón Jagüel (Maastrichtiano–Daniano), perfil Opazo, cuenca Neuquina, Argentina",
+    "authors": ["O.H. Papú", "M.B. Prámparo", "C. Nañez", "A. Concheyro"],
+    "venue": "Simposio Paleógeno de América del Sur. Actas Serv. Geol. Min. Argent. An",
+    "year": 1999
+  }, {
+    "title": "High-pressure phase of natural fullerene C60 in iridium-rich Cretaceous–Tertiary boundary layers of Deccan intertrappean deposits, Anjar, Kutch, India",
+    "authors": ["G. Parthasarathy", "N. Bhandari", "M. Vairamani", "A.C. Kunwar"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 2008
+  }, {
+    "title": "Paleomagnetic Stratigraphy of Pelagic Carbonate Sediments",
+    "authors": ["G. Pialli"],
+    "venue": "Memorie della Società Geologica Italiana",
+    "year": 1976
+  }, {
+    "title": "Cretaceous planktonic foraminiferal biostratrigraphy and evolutionary trends from the Bottacioine section, Gubbio, Italy",
+    "authors": ["Premoli Silva", "W.V. Sliter"],
+    "venue": "Palaeontogr. Ital",
+    "year": 1994
+  }, {
+    "title": "Cretaceous through Paleocene biostratigraphy of the pelagic sequence at Gubbio, Italy",
+    "authors": ["I. Premoli Silva", "L. Paggi", "S. Monechi"],
+    "venue": "Mem. Soc. Geol. Ital",
+    "year": 1977
+  }, {
+    "title": "Calcareous plankton biostratigraphy and magnetostratigraphy at the Eocene– Oligocene transition in the Gubbio area",
+    "authors": ["I. Premoli Silva", "M. Orlando", "S. Monechi", "M. Madile", "G. Napoleone", "M. Ripepe"],
+    "venue": "Subcommision on Paleogene Stratigraphy of the International",
+    "year": 1988
+  }, {
+    "title": "The weathering-modified iridium record of a new Cretaceous–Palaeogene site at Lechówka near Chełm, SE Poland, and its palaeobiologic implications",
+    "authors": ["G. Racki", "M. Machalski", "C. Koeberl", "M. Harasimiuk"],
+    "venue": "Acta Palaeontol. Pol",
+    "year": 2011
+  }, {
+    "title": "Geochemical and isotopic anomalies preceding K/T boundary in the Cauvery basin, South India: implications for end Cretaceous",
+    "authors": ["M. Ramkumar", "D. Stüben", "Z. Berner", "J. Schneider"],
+    "venue": "events. Curr. Sci",
+    "year": 2004
+  }, {
+    "title": "Barium anomaly preceding K/T boundary: possible causes and implications on end Cretaceous events of K/T sections in Cauvery basin (India), Israel, NE-Mexico and Guatemala",
+    "authors": ["M. Ramkumar", "M. Harting", "D. Stüben"],
+    "venue": "Int. J. Earth Sci",
+    "year": 2005
+  }, {
+    "title": "Elemental Characterization of the new Czech Meteorite Morávka by neutron and photon activation analysis",
+    "authors": ["Z. Randa", "L. Kucera", "L. Soukal"],
+    "venue": "J. Radional. Nucl. Chem",
+    "year": 2003
+  }, {
+    "title": "Time scales of critical events around the Cretaceous",
+    "authors": ["P. Renne", "A.L. Deino", "F.J. Hilgen", "K.F. Kuiper", "D.F. Mark", "W.S. Mitchell III", "L.E. Morgan", "R. Mundil", "J. Smit"],
+    "venue": "Paleogene boundary. Science",
+    "year": 2013
+  }, {
+    "title": "Simultaneous changes in carbon, sea level, and conodont biozones within Cambrian–Ordovician boundary interval at Black Mountain, Australia",
+    "authors": ["R.L. Ripperdan", "M. Magaritz", "R.S. Nicoll", "J.H. Shergold"],
+    "venue": "Geology 20,",
+    "year": 1992
+  }, {
+    "title": "The Cretaceous–Tertiary boundary at Gubbio revisited: vertical extent of the Ir anomaly",
+    "authors": ["R. Rocchia", "B. Boclet", "C. Bonté", "C. Jehanno", "Y. Chen", "V. Courtillot", "C. Mary", "F. Wezel"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 1990
+  }, {
+    "title": "Millennial-scale records of atmospheric mercury deposition obtained from ombrotrophic and minerotrophic peatlands in the Swiss Jura Mountains",
+    "authors": ["F. Roos-Barraclough", "W. Shotyk"],
+    "venue": "Environ. Sci. Technol",
+    "year": 2003
+  }, {
+    "title": "A 14 500 year record of the accumulation of atmospheric mercury in peat: volcanic signals",
+    "authors": ["F. Roos-Barraclough", "A. Martinez-Cortizas", "E. García-Rodeja", "W. Shotyk"],
+    "year": 2002
+  }, {
+    "title": "Chronology of the atmospheric mercury",
+    "authors": ["G.M. Santos", "R.C. Cordeiro", "E.V. Silva Filho", "B. Turcq", "L.D. Lacerda", "L.K. Fifield", "P.R.S. Gomes", "P.A. Hauscaden", "A. Sifeddine", "A.L.S. Albuquerque"],
+    "venue": "Lagoa da Pata Basin, Upper Rio Negro of Brazilian Amazon. Radiocarbon",
+    "year": 2001
+  }, {
+    "title": "A tsunami deposit at the Cretaceous/Paleogene boundary in the Neuquén Basin of Argentina",
+    "authors": ["R. Scasso", "A. Concheyro", "W. Kiessling", "M. Aberhan", "L. Hecht", "F. Medina", "R. Tagle"],
+    "venue": "Cretac. Res",
+    "year": 2005
+  }, {
+    "title": "Metal precipitation in the Cretaceous–Tertiary boundary clay at Stevns Klint, Denmark",
+    "authors": ["B. Schmitz"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1985
+  }, {
+    "title": "Iridium, sulfur isotopes and rare earth elements in the Cretaceous–Tertiary boundary clay at Stevns Klint, Denmark",
+    "authors": ["B. Schmitz", "P. Andersson", "J. Dahl"],
+    "venue": "Geochim. Cosmochim",
+    "year": 1988
+  }, {
+    "title": "Stable isotope and foraminiferal changes across the Cretaceous–Tertiary boundary at Stevns Klint, Denmark: arguments for longterm oceanic instability before and after bolide-impact event",
+    "authors": ["B. Schmitz", "G. Keller", "O. Stenvall"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 1992
+  }, {
+    "title": "The Chicxulub asteroid impact and mass extinction at the Cretaceous–Paleogene Boundary",
+    "authors": ["P Schultze"],
+    "venue": "Science",
+    "year": 2010
+  }, {
+    "title": "Correlation of the Deccan and Rajahmundry Trap lavas: are these the longest and largest lava flows on Earth",
+    "authors": ["S. Self", "A.E. Jay", "M. Widdowson", "L.P. Keszthelyi"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2008
+  }, {
+    "title": "Patterns of Phanerozoic extinction: a perspective from global databases. In: Walliser, O.H. (Ed.), Global Events and Event Stratigraphy",
+    "authors": ["J.J. Sepkoski Jr."],
+    "year": 1996
+  }, {
+    "title": "Massindependent fractionation of mercury isotopes in Arctic snow driven by sunlight",
+    "authors": ["L.S. Sherman", "J.D. Blum", "K.P. Johnson", "G.J. Keeler", "J.A. Barres", "T.A. Douglas"],
+    "venue": "Nat. Geosci",
+    "year": 2010
+  }, {
+    "title": "The chemical composition of major elements and heavy trace metals in chondrites Parambu and Marilia",
+    "authors": ["M. Shima", "K.P. Jochum", "G.P. Sighnolfi", "H.H. Hinteberger"],
+    "venue": "Meteoritics",
+    "year": 1974
+  }, {
+    "title": "Isotopic evidence for the Cretaceous–Tertiary impactor and its type",
+    "authors": ["A. Shukolyukov", "G.W. Lugmair"],
+    "venue": "Science",
+    "year": 1998
+  }, {
+    "title": "Mercury as a proxy for volcanic activity during extreme environmental turnover: the Cretaceous–Paleogene transition",
+    "authors": ["A.N. Sial", "L.D. Lacerda", "V.P. Ferreira", "R. Frei", "R.A. Marquillas", "J.A. Barbosa", "C. Gaucher", "C.C. Windmöller", "N.S. Pereira"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2013
+  }, {
+    "title": "The global stratigraphy of the Cretaceous–Tertiary boundary impact ejecta",
+    "authors": ["J. Smit"],
+    "venue": "Ann. Rev. Earth Planet. Sci",
+    "year": 1999
+  }, {
+    "title": "Sanidine spherules at the Cretaceous–Tertiary boundary indicate a large impact event",
+    "authors": ["J. Smit", "G. Klaver"],
+    "venue": "Nature",
+    "year": 1981
+  }, {
+    "title": "Advances in mercury stable isotope biogeochemistry",
+    "authors": ["J.E. Sonke", "J.D. Blum"],
+    "venue": "Chem. Geol",
+    "year": 2013
+  }, {
+    "title": "Sedimentary mercury stable isotope records of atmospheric and riverine pollution from two major European heavy metal refineries",
+    "authors": ["J.E. Sonke", "J. Schaefer", "J. Chmeleff", "S. Audry", "G. Blanc", "B. Dupré"],
+    "venue": "Chem. Geol",
+    "year": 2010
+  }, {
+    "title": "Effect of seawater carbonate concentration on foraminiferal carbon and oxygen isotopes",
+    "authors": ["H.J. Spero", "J. Bijma", "D.W. Lea", "B.E. Bernis"],
+    "venue": "Nature 390,",
+    "year": 1997
+  }, {
+    "title": "The last Cretaceous ammonites in Latin America",
+    "authors": ["W. Stinnesbeck", "C. Ifrim", "C. Salazar"],
+    "venue": "Acta Palaeontol. Pol",
+    "year": 2012
+  }, {
+    "title": "High-resolution geochemical record of Cretaceous–Tertiary boundary sections in Mexico: new constraints on the K/T and Chicxulub events",
+    "authors": ["D. Stüben", "U. Kramar", "M. Harting", "W. Stinnesbeck", "G. Keller"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 2005
+  }, {
+    "title": "Mercury stable isotope fractionation in six utility boilers of two large coal-fired power plants",
+    "authors": ["R. Sun", "L.E. Heimbürger", "J.E. Sonke", "G. Liu", "D. Amouroux", "S. Berail"],
+    "venue": "Chem. Geol",
+    "year": 2013
+  }, {
+    "title": "A cool-water carbonate ramp with bryozoans mounds: Late Cretaceous– Danian of the Danish Basin",
+    "authors": ["F. Surlyk"],
+    "venue": "Cool Water Carbonates. S.E.P.M. Special,",
+    "year": 1997
+  }, {
+    "title": "Stevns Klint, Denmark: Uppermost Maastrichtian chalk, Cretaceous–Tertiary boundary, and lower Danian bryozoans mound complex",
+    "authors": ["F. Surlyk", "T. Damholt", "M. Bjerager"],
+    "venue": "Bull. Geol. Soc. Den",
+    "year": 2006
+  }, {
+    "title": "Upper Campanian–Maastrichtian holostratigraphy of the eastern Danish Basin",
+    "authors": ["F. Surlyk", "S.L. Rasmussen", "M. Boussaha", "P. Schiøler", "N.H. Schovsbo", "E. Sheldon", "L. Stemmerik", "N. Thibault"],
+    "venue": "Cretac. Res",
+    "year": 2013
+  }, {
+    "title": "Upper Campanian–Maastrichtian nannofossil biostratigraphy and high-resolution carbon-isotope stratigraphy of the Danish Basin: towards a standard",
+    "authors": ["N. Thibault", "R. Harlou", "N. Schovsbo", "P. Schiøler", "B. Galbrun", "B.W. Lauridsen", "E. Sheldon", "L. Stemmerik", "F. Surlyk"],
+    "year": 2012
+  }, {
+    "title": "Environmental change across a terrestrial Cretaceous–Paleogene boundary section in eastern Montana, USA, constrained by carbonate clumped isotope thermometry",
+    "authors": ["T.S. Tobin", "G.P. Wilson", "J.M. Eiler", "J.H. Hartman"],
+    "venue": "Geology",
+    "year": 2014
+  }, {
+    "title": "Mesozoic–Cenozoic paleogeographic and geodynamic evolution of southern South America",
+    "authors": ["M.A. Uliana", "K.T. Biddle"],
+    "venue": "Rev. Bras. Geosci",
+    "year": 1988
+  }, {
+    "title": "Estratigrafía y evolución paleoambiental de la sucesión Maastrichtiana–Eoterciaria del engolfamiento Neuquino (Patagonia septentrional)",
+    "authors": ["M.A. Uliana", "D.A. Dellapié"],
+    "venue": "Actas 8 Congreso Geológico Argentino",
+    "year": 1981
+  }, {
+    "title": "Variations inmercury deposition to Antarctica over the past 34,000 years",
+    "authors": ["G.M. Vandal", "W.F. Fitzgerald", "C.F. Boutron", "J.P. Candelon"],
+    "venue": "Nature 362,",
+    "year": 1993
+  }, {
+    "title": "Tectonic evolution and paleogeography of the Neuquén Basin, Argentina",
+    "authors": ["G.D. Vergani", "A.J. Tankard", "H.J. Belotti", "H.J. Welsink"],
+    "venue": "Petroleum Basins of South America. American Association of Petroleum Geologists Memoirs",
+    "year": 1995
+  }, {
+    "title": "A critical evaluation of carbon isotope stratigraphy and biostratigraphy implications for Late Cretaceous global correlation",
+    "authors": ["I. Wendler"],
+    "venue": "Earth Sci",
+    "year": 2013
+  }, {
+    "title": "Stable oxygen and carbon isotope systematics of exquisitely preserved Turonian foraminifera from Tanzaniaunderstanding isotopic signatures in fossils",
+    "authors": ["I. Wendler", "B.T. Huber", "K.G. MacLeod", "J.E. Wendler"],
+    "venue": "Mar. Micropaleontol",
+    "year": 2013
+  }, {
+    "title": "Large igneous province and mass extinctions",
+    "authors": ["P.B. Wignall"],
+    "venue": "Earth Sci. Rev",
+    "year": 2001
+  }, {
+    "title": "Mercury emissions and stable isotopic compositions at Vulcano Island (Italy)",
+    "authors": ["T. Zambardi", "J.E. Sonke", "J.P. Toutain", "F. Sortinob", "H. Shinoharac"],
+    "venue": "Earth Planet. Sci",
+    "year": 2009
+  }, {
+    "title": "An explanation of the effect of seawater carbonate concentration on foraminiferal oxygen isotopes",
+    "authors": ["R.E. Zeebe"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1999
+  }, {
+    "title": "An expression for the overall oxygen isotope fractionation between the sum of dissolved inorganic carbon and water",
+    "authors": ["R.E. Zeebe"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2007
+  }, {
+    "title": "Iridium enrichment in airborne particles from Kilauea volcano January",
+    "authors": ["W.H. Zoller", "J.R. Parrington", "J.M. Kotta"],
+    "year": 1983
+  }],
+  "id": "SP:2e1a97876ac9a62d32067429325e9b604cee3359",
+  "authors": [{
+    "name": "A.N. Sial",
+    "affiliations": []
+  }, {
+    "name": "Jiubin Chen",
+    "affiliations": []
+  }, {
+    "name": "L.D. Lacerda",
+    "affiliations": []
+  }, {
+    "name": "S. Peralta",
+    "affiliations": []
+  }, {
+    "name": "C. Gaucher",
+    "affiliations": []
+  }, {
+    "name": "R. Frei",
+    "affiliations": []
+  }, {
+    "name": "S. Cirilli",
+    "affiliations": []
+  }, {
+    "name": "V.P. Ferreira",
+    "affiliations": []
+  }, {
+    "name": "J.A. Barbosa",
+    "affiliations": []
+  }, {
+    "name": "N.S. Pereira",
+    "affiliations": []
+  }],
+  "abstractText": "a NEG-LABISE, Department of Geology, Federal Univ. of Pernambuco, Recife, PE 50740-530, Brazil b State Key Laboratory of Environmental Geochemistry, Institute of Geochemistry, Chinese Academy of Sciences, 46 Guanshui Road, Guiyang 550002, China c LABOMAR, Institute of Marine Sciences, Federal University of Ceará, Fortaleza 60165-081, Brazil d Instituto de Geología, Universidad Nacional de San Juan-CONICET, 5400, Argentina e Facultad de Ciencias, Universidad de La Republica, Montevideo, Uruguay f Department of Geoscience and Natural Resource Management, Univ. of Copenhagen, Oster Volgade 10, Copenhagen 1350, Denmark g Nordic Center for Earth Evolution (NordCEE), Denmark h Department of Physics and Geology, University of Perugia, 06123 Perugia, Italy i CONICET, Universidad Nacional de Salta, Buenos Aires 177, 4400 Salta, Argentina j LAGESE, Department of Geology, Federal University of Pernambuco, Recife 50740-530, Brazil",
+  "title": "High-resolution Hg chemostratigraphy: A contribution to the distinction of chemical fingerprints of the Deccan volcanism and Cretaceous–Paleogene Boundary impact event"
+}

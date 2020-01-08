@@ -1,0 +1,285 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nIcarus\njournal homepage: www.elsevier .com/locate / icarus\nAtmospheric control of the cooling rate of impact melts and cryolavas on Titan’s surface\nAshley Gerard Davies *, Christophe Sotin, Dennis L. Matson, Julie Castillo-Rogez, Torrence V. Johnson, Mathieu Choukroun, Kevin H. Baines Jet Propulsion Laboratory, 4800 Oak Grove Drive, Pasadena, CA 91109, United States\na r t i c l e i n f o a b s t r a c t\nArticle history: Received 12 August 2009 Revised 19 February 2010 Accepted 21 February 2010 Available online 12 March 2010\nKeywords: Titan Enceladus Volcanism Saturn, satellites Impact processes\n0019-1035/$ - see front matter 2010 Elsevier Inc. A doi:10.1016/j.icarus.2010.02.025\n* Corresponding author. E-mail addresses: ashley.g.davies@jpl.nasa.gov, Ash\nDavies).\nAs on Earth, Titan’s atmosphere plays a major role in the cooling of heated surfaces. We have assessed the mechanisms by which Titan’s atmosphere, dominantly N2 at a surface pressure of 1.5 105 Pa, cools a warm or heated surface. These heated areas can be caused by impacts generating melt sheets and (possibly) by endogenic processes emplacing cryolavas (a low-temperature liquid that freezes on the surface). We find that for a cooling cryolava flow, lava lake, or impact melt body, heat loss is mainly driven by atmospheric convection. Radiative heat loss, a dominant heat loss mechanism with terrestrial silicate lava flows, plays only a minor role on Titan. Long-term cooling and solidification are dependent on melt sheet or flow thickness, and also local climate, because persistent winds will speed cooling. Relatively rapid cooling caused by winds reduces the detectability of these thermal events by instruments measuring surface thermal emission. Because surface temperature drops by 50% within 1 day of emplacement, fresh flows or impact melt may be difficult to detect via thermal emission unless an active eruption is directly observed. Cooling of flow or impact melt surfaces are orders of magnitude faster on Titan than on airless moons (e.g., Enceladus or Europa).\nAlthough upper surfaces cool fast, the internal cooling and solidification process is relatively slow. Cryolava flow lengths are, therefore, more likely to be volume (effusion) limited, rather than cooling-limited. More detailed modeling awaits constraints on the thermophysical properties of the likely cryomagmas and surface materials.\n2010 Elsevier Inc. All rights reserved.\n1. Introduction gaseous products” (Francis, 1993). On Titan, internal heating (e.g.,\nHow do warm or hot surfaces cool under different environmental conditions, on different bodies across the Solar System? Venus, Earth, Mars, Europa, Io, Miranda, Enceladus and Titan have geologically young surfaces, indicating current or recent resurfacing. In Titan’s case, the surface has an average age on the order of 500 Ma (Artemieva and Lunine, 2005; Lorenz et al., 2007), not too different from the average ages of the Earth and Venus. Resurfacing may involve reworking of the surface through erosion associated with wind action or other weather phenomena (e.g., rain), deposition in hydrocarbon lakes and channels, erosion of channels, and impact cratering. Also, resurfacing may occur endogenically via some manifestation of Titan’s hydrocarbon-based hygrology, tectonics, and/or cryovolcanism, where a low-temperature lava is erupted. Here, we use as our definition of volcanism, ‘‘the manifestation at the surface of a planet or satellite of internal thermal processes through the emission at the surface of solid, liquid or\nll rights reserved.\nley.Davies@jpl.nasa.gov (A.G.\nradiogenic and tidal) may succeed in generating a ‘‘cryomagma” which erupts on the surface as a ‘‘cryolava” at temperatures that are much lower than those of mafic silicate lavas that commonly erupt on Earth and Io (Titan: 250 K for water with 16% ammonia and 176 K for water with 32% ammonia; Earth and Io: 1300– 1500+ K). Note that we use ammonia as a surrogate for its physical properties, while not suggesting that it necessarily must be a component of any cryolava on Titan. While cryovolcanism has been suspected to be responsible for the young surfaces and some geological features on (for example) Europa, Ganymede, Miranda and Enceladus, some of these features are best explained by tectonic resurfacing. The emplacement of an active ‘‘cryolava” has not been directly observed, and is therefore poorly understood. Direct identification of such a process would provide key constraints on the amount of heat available in Titan’s icy shell, which in turn applies constraints to the origin and habitability of bodies like Titan.\nIf cryovolcanic activity has indeed taken place on Titan, then it has occurred under conditions unique in the Solar System: ice volcanism taking place underneath a substantial and cold atmosphere (a pressure of 1.5 105 Pa and temperature of 93 K at the surface). Impact cratering, on the other hand, is ubiquitous\nthroughout the Solar System, with impact craters found on the surfaces of all solid bodies except Io. Determining the evolution of the thermal signature of a recent impact crater may provide constraints on the nature of the impacted material.\nBoth exogenic and endogenic resurfacing processes such as cratering and volcanism can produce layers of liquid on the surface that cool and solidify over time. The rate of cooling, and therefore the rate of solidification, depends on the physical and thermal properties of the melt and the surface material, and the density, temperature, and composition of the atmosphere.\nRecent hints of cryovolcanism on Titan in Cassini data (discussed below) highlight the need to understand how such activity manifests and evolves. Under what conditions, and for how long, would it be detectable? This paper therefore focuses on how hot and warm surfaces cool on Titan. We examine how the atmosphere interacts with cryolavas and impact melts and controls the cooling process.\nThese results can be used, ultimately, to synthesize how these processes, on different scales, would appear to spacecraft instruments. If not easily detectable with Cassini instruments, such analyses can be used to determine which instruments could detect them on future missions."
+  }, {
+    "heading": "2. Observations",
+    "text": "The case for ongoing volcanic activity on Titan is best made by citing tentative identifications of possible cryovolcanic features in Cassini Radar data (such as a circular structure named Ganesa Macula that was interpreted as a possible cryovolcanic dome (Lopes et al., 2007); diffuse, flow-like features in the same region that may be cryovolcanic; and flows with discrete margins that emanate from structures that are caldera-like) and the occurrence of some photometric variability seen in data from the Cassini Visible-Infrared Mapping Spectrometer (VIMS) (Nelson et al., 2009a,b). These features and previous analyses are described and summarized in detail by Jaumann et al. (2009). Other data obtained by VIMS (Barnes et al., 2006, 2007) and, more recently, by the Cassini Radar (Wall et al., 2009) indicate that sites at Hotei Arcus and in western Xanadu are distinctively different from other landforms and areas on Titan. Cryovolcanic activity is one possible explanation. A joint analysis of both VIMS and Radar data suggests that Hotei Regio is a basin filled with cryovolcanic flows, and some features have been tentatively identified as calderas (Soderblom et al., 2009). Apparent albedo changes have been reported by VIMS in these two locations. It has been suggested that these brightenings may be due to the deposition of surface frosts, or similar coatings, or possibly low-lying fog (Nelson et al., 2009a,b), but Soderblom et al. (2009) showed that the brightening effect at Hotei Regio was a factor of emission angle and not necessarily a surface or near-surface brightness change.\nThere is not yet any conclusive evidence of active volcanism on Titan. It is even possible that Titan may no longer be endogenically active (Moore et al., 2010). In contrast, Voyager images of plumes and flows on Io, Galileo observations of flow emplacement on Io, and Cassini observations of the plumes of Enceladus are all examples of conclusive evidence of ongoing endogenic volcanic activity in the outer Solar System. However, without any observations of an active eruption, direct characterization of ‘‘cryovolcanism” on Titan has so far not been possible, although hopes are high that such activity will one day be observed. Furthermore, a general agreement about the characteristics to be expected for the eruption and emplacement processes has not yet been reached. In the meanwhile, one relies upon analyses supported by models and geological analogs on other Solar System bodies. These analog models are then adjusted to a Titan setting. We have adopted the\napproach of modeling how these structures would appear and how they would evolve, in order to determine whether the processes of formation are indeed detectable, and by what instruments."
+  }, {
+    "heading": "3. Surface modification processes",
+    "text": "Titan is an immensely dynamic satellite, with a surface modified by many processes. Exogenically, comets and asteroids form impact craters (Artemieva and Lunine, 2003, 2005; Le Mouelic et al., 2008; Lorenz et al., 2007), bodies of impact melt (O’Brien et al., 2005) and hydrocarbon lakes (Stofan et al., 2007; Turtle et al., 2009). Endogenic geological and geophysical processes have created mountains (Barnes et al., 2007; Radebaugh et al., 2007). Meteorologically, mass transport by winds causes erosion and has created extensive dune fields (Lancaster, 2006; Lorenz and Radebaugh, 2009; Lorenz et al., 2006; Radebaugh et al., 2008; Tokano, 2008). There is a complex global circulation system (e.g., Mingalev et al., 2006), and seasonal climate variability. Methane rains (Karkoschka and Tomasko, 2009; Lorenz et al., 2008b; Toon et al., 1988) carve channels and fill lakes (Lorenz et al., 2008a; Stofan et al., 2007).\nBy considering the effect of wind on the atmospheric transport of heat, in this paper we go beyond previous models of cooling and solidification of water and water–ammonia cryolava (Fortes et al., 2007; Neish et al., 2006) and impact melt (Artemieva and Lunine, 2003, 2005), which fixed flow or impact melt surface temperature. This paper is primarily concerned with the role played by the atmosphere in removing heat, ultimately as part of a model to determine how cryovolcanism would appear to spacecraft instruments. While fixing surface temperature provides useful estimates of the time taken for bodies to solidify, it does not help in determining how active flows appear thermally in remote sensing data. A single temperature only approximates actual cooling behavior for a brief time. We quantify the main atmospheric heat removal processes and use a model of cooling that does not rely on fixing the flow or melt surface/atmosphere interface temperature. This latter point is important because the distribution of surface temperatures is often diagnostic of the mode and speed of emplacement (e.g., see Davies, 2007) and may prove valuable for detecting and identifying such activity."
+  }, {
+    "heading": "4. Model of upper-surface heat removal",
+    "text": "Before describing the model applied to the Titan setting, it is worth reviewing our objectives, discussing the necessary model limitations, and examining what is not covered by the model. We examine a simplified geological scenario to demonstrate the magnitude of the atmospheric heat transfer processes taking place, and how atmospheric physical properties, such as density and specific heat capacity, change with temperature. Detailed modeling of the eruption and emplacement of cryolava is not covered in this paper. As this paper is primarily concerned with examining atmospheric behavior, a number of lava flow physical parameters are not modeled. This therefore frustrates a direct comparison of the model output with other analyses that may include, for example, the effect of temperature-dependent thermal diffusion and heat capacity. Other factors that would increase the cooling of a cryolava surface include: rain; increased porosity of the crust (e.g., Keszthelyi, 1994, 1995, 2003; Keszthelyi and Denlinger, 1996); and the presence of a crack fraction in the crust that exposes the flow interior, increasing heat loss (Crisp and Baloga, 1990). We have no knowledge of the bubble content of Titan’s cryolavas, although laboratory experimentation may yield clues as to the behavior and structure of cryolavas under Titan conditions. Cooling may be\nslowed if the erupted lava or impact melt is superheated (likely with an impact melt, or if the cryomagma has originated at great depth), in which case additional sensible heat has to be lost before solidus temperature is reached. If a cryolava consisting of a mix of substances (such as H2O–NH3) is not exactly at its eutectic, there will be a range of temperatures between the liquidus and solidus, so solidification will not be at a single temperature (e.g., see Hogenboom et al., 2001). Compositionally, the makeup and behavior of cryolava may be more complex than presented here. For example, it may be possible for a crust of amorphous ice to form on a Titan cryolava (Fortes et al., 2009). Devitrification in this layer would cause recalescence, affecting cooling. The involvement of other hydrocarbons might also affect cooling and eruption dynamics. Movement of a lava flow may lead to internal heating due to viscous dissipation. The outcome of these and other possible influences is that there is additional uncertainty in the results of the model. The safest treatment of such analysis is to take the results as rough estimates, rather than significant to more than the first numerical digit.\nOur current model starts as heat is removed from the upper surface of a freezing liquid on the surface of Titan by radiation and atmospheric convection. A crust forms and thickens with time. The crust is important because it insulates the interior of the flow and impedes heat loss. Heat has to be conducted through the crust from the liquid interior of the flow or body of impact melt and removed from the surface, although if cracks form in the crust, additional heat loss from the interior takes place, hastening solidification of the body as a whole. While part of the body re-\nFrad\nFcond\nsubstrate\nIsothermal flow c\nFig. 1. Mechanisms of heat loss from a lava flow or impact melt upper surface. Heat loss f (Fnat), and by radiation (Frad). On Titan, even with a flow surface at 250 K, the radiative te conduction (Fcond) and thermal erosion. As time progresses, the top crust cools and thick great length of some proposed flows on Titan is due to the inability of the liquid, under paper only the heat loss from the upper surface is modeled.\nmains liquid, heat loss is buffered by the release of latent heat of solidification, as is the case with silicate lavas (Settle, 1979).\nThe mechanisms of heat loss from a cryolava flow or impactformed melt are shown in Fig. 1. A lava body loses heat via conduction into the ground over which the flow passes (Fcond), by radiation from all exposed surfaces (Frad) and, on planetary bodies with a tangible atmosphere, by convective heat transport (Fconv), which may be natural (Fnat) or, in the presence of a wind, forced (Fforce). Heat loss from an impact melt is via the same processes. After formation, an impact melt remains static. A moving lava flow loses more heat through continual contact with cold surface, and possibly through thermal and mechanical erosion of the substrate.\nTotal heat loss Ftot (W m 2) at any given time for a body with a significant atmosphere is therefore\nFtot ¼ Frad þ Fcond þ Fconv ð1Þ\nwhere the greater of Fnat (W m 2) and Fforce (W m 2) is used for Fconv (W m 2), a convention that is discussed in detail below. We assume that any wind is steady."
+  }, {
+    "heading": "4.1. Heat loss by radiation (Frad)",
+    "text": "Radiative heat loss Frad (W m 2) from a warm surface is controlled primarily by the absolute surface temperature Tsurf (K) and the emissivity e of the lava (or melt). The heat loss by radiation Frad (W m 2) from exposed surfaces at temperature Tsurf (K) is given by the Stefan–Boltzmann equation for blackbody radiation\nBase crust\nTop crust (thickens with time)\nFconv\nFnat\nFforce\nenter (thickens with time)\nrom the upper surface is by convection (Fconv), which may be forced (Fforce) or natural rm will always be less than the convective term. Heat is also lost at the flow base by ens, although cracks may form in the crust as the flow proceeds. It may be that the an insulating crust, to lose heat rapidly, thus maintaining fluidity. Note that in this\nFrad ¼ er T4surf T 4 env\nð2Þ\nwhere r is the Stefan–Boltzmann constant (5.67 10 8 W m 2 K 4) and Tenv is the effective temperature (K) of the environment into which heat is being lost. Emissivity e is assumed to be 1. For Titan, Tenv 93 K (Jennings et al., 2009). For a relatively recently-erupted cryomagma with Tsurf at 170 K, heat loss by radiation is only\n40 W m 2, using Eq. (2) (see Fig. 2). The amount of heat transfer by radiation, already very low, only decreases as cooling proceeds."
+  }, {
+    "heading": "4.2. Heat loss by conduction (Fcond)",
+    "text": "Heat is conducted through a solid upper crust to the surface and then to the atmosphere. This heat is then removed through movement of the atmosphere as it convects. If the atmosphere is moving, warmed air is replaced with cooler air which maintains a steeper thermal gradient, speeding heat loss. Conductive heat loss, Fcond (W m 2), is taken to be the only heat loss mechanism through the base of the flow (see Fig. 1). Although this is important when considering the entire heat loss process, heat loss through the base of the flow is not directly detectable from spacecraft while at least part of the interior remains at the eruption temperature. In terms of our model, latent heat of solidification is still being liberated is while at least one grid point is at the initial temperature. We treat heat loss through the upper and lower surfaces as separate processes. The crust thickens as latent heat of solidification is removed from the liquid and conducted away. Only when the crusts growing down from the upper surface and up from the lower surfaces meet (this is mostly a function of flow thickness or melt depth) does the downward heat flow by conduction affect the temperature and heat flow at the surface (see Davies et al., 2005). In this paper we confine our analysis only to the mechanisms of heat loss at the upper surface, which is directly observable. Charting the change in surface temperature ultimately yields flow thickness (Davies et al., 2005) as surface cooling increases after solidification, because heat loss is no longer buffered by the release of latent heat. We note that base heat loss may lead to erosion of the substrate and to lateral heat flow. Any resulting warming of the surface adjacent to the flow or outflow of mobilised material may be detectable remotely."
+  }, {
+    "heading": "4.3. Heat loss by convection (Fnat and Fforce)",
+    "text": "Natural, also called free, convection results from atmospheric density differences caused by temperature gradients. With forced convection, movement of the air is caused by outside means, such as wind, which is an important factor on Titan. The heat lost by convection varies as a function of surface temperature, decreasing toward the temperature of the environment.\nFforce, forced convective heat loss per unit surface area of the flow (W m 2), cryolava lake or pond, or impact melt, is a difficult quantity to determine and is one that requires much investigation (see detailed discussion in Keszthelyi and Denlinger (1996) and Keszthelyi et al. (2003)). For terrestrial lava flows, Harris and Rowland (2001) derived the forced convection heat transfer expression\nFforce ¼ Uf ðTsurf TenvÞqatmos cp; atmos ð3Þ\nwhere U is wind speed (m s 1), f is a friction factor, where f = 0.0036 produces reasonable results for moderately rough silicate lava surfaces (Greeley and Iverson, 1987), Tsurf is the temperature of the surface, Tenv is the temperature of the atmosphere, qatmos is the atmospheric density and cp, atmos is the atmospheric specific heat capacity at a constant pressure of 1.5 105 Pa for Titan. The parameters qatmos and cp, atmos are calculated below.\nIt is not certain whether the Harris and Rowland expression, derived for terrestrial silicate flows, is applicable to Titan. Keszthelyi et al. (2003) measured the cooling rate of pahoehoe (silicate) lava flows and found that there was enormous uncertainty in how to characterize forced convection above cooling pahoehoe lava flows. Under certain combinations of flow geometry, surface temperature and wind velocity, cooling even appeared to be reduced by the wind. Generally, however, Keszthelyi et al. (2003) showed that for silicate flows cooling from 1100 C (1373 K) to less than\n300 C (573 K), with winds varying from 20 m s 1 to 2 m s 1, there was a strong correlation between wind speed and cooling rate. Below 400 C (673 K) some unexpected cooling rates were encountered at low wind velocities, probably due to switching between forced and natural convection. Such a transition at low wind velocities was predicted by Head and Wilson (1986) for lava flows with a horizontal length scale of order 1 km. Keszthelyi et al. concluded that atmospheric convective cooling processes (i.e., the wind) dominated heat loss over the life of pahoehoe flows. They also noted that further field and theoretical studies were needed to investigate atmospheric heat transport under a broader range of surface temperatures and wind speeds. The range of surface temperatures and wind speeds on Titan are outside of the ranges encountered in the field by Keszthelyi et al. (2003) and other workers. Application of the Harris and Rowland expression in Eq. (3) to Titan is therefore used under an advisory, in light of the fact that there is no better expression. As will be shown below, given the expected range of winds on Titan and other model uncertainties, this is not necessarily a problem.\nIn the absence of any significant wind, natural convection dominates forced convection. Head and Wilson (1986) showed that heat loss due to natural convection (Fnat) is given by\nFnat ¼ A cp;atmos gb\ngatmos\n1=3 ðqatmoskatmosÞ 2=3ðTsurf TenvÞ4=3 ð4Þ\nwhere katmos is the thermal conductivity of the atmosphere, gatmos is the viscosity of the atmosphere, g is the acceleration due to gravity, b is the volume expansion coefficient of the atmosphere (i.e., air for Earth, and nitrogen (N2) + methane (CH4) for Titan); and A is a dimensionless factor reflecting the physical geometry of the system. For a heated plate facing upward, and for turbulent atmospheric movement, A = 0.14 (McAdams, 1954). Eq. (4) also shows that heat loss due to natural convection is independent of any length or scale factors.\nThe terms gatmos, katmos, qatmos and cp, atmos are evaluated at the mean temperature of the hot-surface–atmosphere interface Teff such that\nTeff ¼ ðTsurf þ TenvÞ=2 ð5Þ"
+  }, {
+    "heading": "4.4. Other heat transfer processes",
+    "text": "Heat loss will also take place by sublimation of ice. Allison and Clifford (1987) quantified this process for water volcanism on Gan-\nymede, an atmosphere-less body, and determined it was insignificant compared with radiative heat loss (smaller by two orders of magnitude over a relevant time frame). Sublimation is an even less significant process on Titan than on airless satellites. We exclude sublimation of water and ammonia-rich ice as a significant heat transfer mechanism in our model.\nSolar heating of the Titan surface is only 0.5 W m 2 (Tomasko et al., 2008), and is not included in this model."
+  }, {
+    "heading": "4.5. Atmospheric composition and physical parameters",
+    "text": "Titan’s atmosphere is approximately 95% nitrogen and 5% methane at the surface. We use physical values for nitrogen in subsequent calculations. Table 1 shows model input parameters. Atmospheric density, specific heat capacity, volumetric coefficient of expansion, viscosity and thermal conductivity are calculated at the effective atmospheric temperature Teff (K) (Eq. (5)).\nTenv is taken to be 93 K. Tsurf starts at the eruption temperature, which could be as high as 273 for pure water (a useful upper bound) and 250–176 K for a water–ammonia mix.\n4.5.1. Viscosity, gatmos Following the study of Lemmon and Jacobsen (2004), the dynamic viscosity of N2 is calculated as the sum of the dilute gas viscosity and a residual fluid viscosity. Under Titan’s environmental conditions (surface pressure = 1.5 105 Pa, neglecting the small methane component; Tenv = 93 K), the residual fluid viscosity is less than 1.5% and decreases with increasing temperature. The temperature dependence of viscosity of the Titan atmosphere is described by the equation:\ngatmos ¼ 0:0749Teff 0:00005T 2 eff\nð6Þ\nwhere gatmos is the viscosity in lPa s and Teff is the temperature in Kelvin. At 94 K, the viscosity of nitrogen is equal to 6.6 lPa s. At 200 K, the viscosity is as high as 12.9 lPa s. Note that the viscosity increases with temperature, which is a major difference between gases and solids."
+  }, {
+    "heading": "4.5.2. Other thermophysical properties",
+    "text": "We now present the relationships we use to determine atmospheric specific heat capacity, density, coefficient of expansion, and thermal conductivity.\nes in brackets are a function of temperature.\nAfter Lemmon and Jacobsen (2004), the specific heat capacity of nitrogen, cp, atmos (J kg 1 K 1), for Teff from 93.5 K to 172 K is given by\ncp;atmos ¼ 1:9327 10 10T4eff\n7:9999 10 7T3eff\nþ 0:0011407T2eff\nð0:4489Teff Þ þ 1087:5 ð7Þ\nAtmospheric density qatmos (kg m 3) is also calculated using the method of Lemmon and Jacobsen (2004). The density of nitrogen over the desired temperature range and Titan’s surface environmental conditions as a function of temperature is found using:\nqatmos ¼ 4202:022=ð8:3145Teff Þ ð8Þ\nThe volumetric coefficient of atmospheric expansion b at constant pressure is found from the relationship\nb ¼ 1=mðdm=dTeff ÞP ð9Þ\nwhere m = specific volume = 1/qatmos, determined using Eq. (8). Atmospheric thermal conductivity katmos (W m 1 K 1) is calculated using the methodology of Lemmon and Jacobsen (2004), such that\nkatmos ¼ 1:5207 10 11T3eff\n4:8574 10 8T2eff\nþ ð1:0184 10 4Teff Þ 0:00039333 ð10Þ"
+  }, {
+    "heading": "5. Results",
+    "text": "Table 2 shows the values of temperature-dependent input parameters for a range of surface temperatures from 250 K to 94 K. These values are used to calculate heat removal as a function of wind speed and surface temperature."
+  }, {
+    "heading": "5.1. Effect of wind speed on cooling",
+    "text": "As seen in Eq. (3), forced convection is linearly dependent on wind speed. Compared to Earth, where winds of 5–10 m s 1 are common, with occasional much higher wind velocities (the minimum sustained wind velocity of a Saffir–Simpson scale category 1 hurricane is 33 m s 1), winds in the Titan atmosphere appear to be low. The wind velocity at the Huygens landing site was 0.3 m s 1 (Lorenz, 2006). Titan’s winds have formed long sand\ndunes whose orientation and scale suggest sustained wind, and which have been used to infer wind velocities of 0.5–1 m s 1 (Lorenz and Radebaugh, 2009; Radebaugh et al., 2008).\nFig. 2 compares heat removal mechanisms as a function of wind velocity. Because active flow surface temperatures are relatively low, especially compared with those of new silicate lava flows and lava lakes on Earth and Io, heat loss is dominated by atmospheric convection. Frad is inefficient by comparison. With no wind, Fnat exceeds Frad by a factor of 6 for a surface temperature of 250 K, a factor of 15 at 170 K, and a factor of 24 at 110 K. Frad and Fnat are independent of wind speed. As wind speed increases, heat loss by Fforce (forced convection) increases.\nAt a wind speed of 0.5 m s 1, Fforce (about 450 W m 2) exceeds Fnat for Tsurf < 150 K. At a wind speed of 0.75 m s 1, Fforce exceeds Fnat for Tsurf < 230 K. Ftot at this temperature is 1370 W m 2. At U = 1 m s 1, Fforce is the dominant heat removal process at all surface temperatures."
+  }, {
+    "heading": "5.2. Cooling of cryolava or impact melt",
+    "text": "Having determined how heat is removed from the upper surface of the cooling body, we use a modified version of a finite element code (Davies et al., 2005, in preparation; Matson et al., 2006) to model the rate at which the fluid cools and freezes on Titan’s surface. Latent heat that is released from the solidifying liquid buffers cooling and is conducted through the solidifying crust to the surface. In short, another element of the finite element grid is added to the base of the newly formed crust when sufficient heat is removed from the melt, such that\nFcond t ¼ L q Dx ð11Þ\nwhere Fcond is conducted heat flux over some time interval t (s) so the total energy removed is expressed in (J m 2), L is latent heat of solidification (J kg 1), q is crust density (kg m 3), and Dx is the thickness of the element (m). The finite-element model described in Davies et al. (2005) is used to model heat transfer as a new element grows on the base of the crust. Adaptations for a moving boundary are outlined below and in more detail in Davies et al. (in preparation). In brief, the removal of heat by convection and radiation from the surface of the liquid is initially converted into a solidified thickness (x, m). This thickness is then divided into a grid 1000 elements deep, each element of thickness Dx (m). Having chosen Dx, the timestep Dt (s) is calculated using\njðDx=Dt2Þ ¼ 0:5 ð12Þ\nwhere j = thermal diffusivity of the crust material (m2 s 1). Initially, when the crust is very thin (e.g., 0.001 m), Dx = 1 10 6 m and so Dt = 1.59 10 6 s if j (of water) = 1.26 10 6 m2 s 1. When the crust is 10 m thick, Dx = 0.01 m and Dt = 1.59 10 4 s.\nWhen the crust thickens by Dx, a new element is added to the base of the crust. When the crust has doubled in thickness (1000 elements of thickness Dx have been added), the grid size is reset to 1000 elements, now each of thickness 2Dx. A new temperature profile is interpolated from the original temperature profile, and the time step Dt is reset using Eq. (12). Atmospheric properties, and convection and radiation heat loss, and new surface temperature are calculated at every timestep.\nFig. 3 shows the cooling rate for water ice with no wind, and for a wind of 1 m s 1; the cooling rates for two water–ammonia mixes (see Table 3); and also for water on the surface on Enceladus (see Tables 1 and 3), where cryovolcanic processes are resurfacing a satellite (e.g., Hansen et al., 2006; Porco et al., 2006) with no significant atmosphere and so all heat loss is by thermal emisson (Frad). The Enceladus model is one of a number of Enceladus resur-\nfacing models and assumes that water is erupted onto the surface as the result of cryovolcanism, or cryovolcanic activity causes melt-through to the surface, and assumes that a crust forms that insulates the still liquid interior. Similar exercises have been performed for water volcanism on the icy Galilean satellites Europa and Ganymede (e.g., Abramov and Spencer, 2008; Allison and Clifford, 1987; Fagents, 2003; O’Brien et al., 2002). The model input values for water on Enceladus are the same as for pure water on Titan. No cooling by sublimation is included, which would initially speed surface cooling on Enceladus until a crust forms on the exposed liquid.\nCrust thickness as a function of time is shown in Fig. 4. For the Titan case of water composition and U = 1 m s 1, a 1-m-thick crust (assuming a thermal diffusivity of water ice of 1.26 10 6 m2 s 1) forms in 11 days, with a surface temperature of 119 K. At lower values of W, e.g., 0.3 m s 1, a 1-m-thick crust forms in 12.4 days, with a corresponding surface temperature of 137 K. With no wind, a 1-m crust forms in 13.5 days with a surface temperature of 131 K. Reaching a thickness of 5 m takes 236 days at U = 1 m s 1 (surface temp. = 98 K), and 247 days at U = 0.3 m s 1 (flow surface temp. = 107 K). This suggests that wind speed does not affect the cooling time by more than 10%, as long as wind is no more than 1 m s 1.\nNote that the calculations in Fig. 4 are for a semi-infinite solid. At the same time as the upper surface crust is forming, a crust is building from the base of the flow or impact melt sheet (see Fig. 1). After the upper and base crusts meet, surface temperature reduction occurs faster than in the heat-buffered (semi-infinite space) case."
+  }, {
+    "heading": "6. Discussion",
+    "text": "Compared with the rapid cooling of silicate flows on Earth and Io, where, initially, high-temperature surfaces lose hundreds of Kelvin in a few seconds (Head and Wilson, 1986; Hon et al., 1994), the rate of freezing of water on Titan appears relatively slow. Still, due to the greater effectiveness of atmospheric versus radiative cooling, the freezing of a water-rich body of liquid on Titan is orders of magnitude faster than on an airless moon, such as Enceladus or Europa. Fig. 3 compares surface cooling rates for semi-infinite bodies on\nTitan and Enceladus. To reach 170 K (starting from 273 K, for water) takes 0.8 years on Enceladus, but only 2 days on Titan (for U = 0.3 m s 1), and is even faster for water–ammonia mixes (using values for latent heat capacity, specific heat capacity, thermal conductivity and solid density from Kargel et al. (1991) and Fortes et al. (2007); see Table 3). The difference in water cooling rates from Titan to Enceladus is due to the higher efficiency of atmospheric convective heat transfer over that of radiative heat loss at low surface temperatures. On Titan, with a wind velocity of 1 m s 1 and a surface temperature of 250 K (the eruption temperature of water containing 16% ammonia), heat removal at these optimum conditions is 2000 W m 2. Heat removal drops to 1200 W m 2 at 170 K, and is a mere 170 W m 2 at 100 K. Solidification is correspondingly slow. The latent heat of solidification of H2O is 334 kJ kg 1, and another 193 kJ kg 1 has to be removed from the ice crust for each subsequent 100 K drop in temperature. Our current model does not include variability of thermal and physical properties in the ice, using a value of 1930 J kg 1 K 1 for all temperatures. In reality, the specific heat capacity of water ice drops from 1930 J kg 1 K 1 at 250 K to 1340 J kg 1 K 1 at 173 K (Hobbs, 1974), and a linear extrapolation suggests a value slightly lower than 800 J kg 1 K 1 at 100 K. This decrease of a factor of two in heat capacity does not, however, offset the decrease in heat removal, which varies by one order of magnitude, so the cooling process can only become slower as temperature drops.\nThe rate of cooling, and the rate of crust growth, decreases with time. As surface temperature drops to below 100 K, the effect of wind velocity becomes less and less apparent because heat removal is then limited by the ability of the ice crust to conduct heat from the liquid interior to the surface.\nThe low rate of heat removal has consequences for the length of cryolava flows. Lava flow length is influenced by many factors, such as the rheology of the lava, underlying topography, rate of heat loss and the volumetric eruption (effusion) rate (e.g., Pinkerton and Norton, 1995; Pinkerton and Wilson, 1994). A flow is cooling-limited if heat loss, leading to increased internal yield strength and viscosity, is the principal reason why flow movement stops (e.g., Wilson and Parfitt, 2008). Alternatively, if the flow stops in response to the supply of lava’s being cut off, then the flow is volume-limited. The relatively low viscosity and yield strength ( 10–15 Pa) of H2O–ammonia and H2O–methanol slurries above 176 K (Kargel et al., 1991; Zhong et al., 2009) suggests that such flows would be thin, favouring faster solidification (cooling-limited flows). A more viscous H2O–ammonia–methanol mixture (with viscosities up to 104 Pa s: Kargel et al., 1991) has a rheology similar to a fluid Hawaiian basalt (e.g., Fink and Zimbelman, 1986; Harris and Allen, 2008). This mixture would generate a thicker flow than water–ammonia or water–methanol, one which is more likely to be volume-limited. In the water-ammonai-methanol case, given the slow release of internal heat, such flows on Titan may cover great distances with little heat loss, especially if a stable ice crust develops that further insulates the fluid interior. The problem now becomes one of identifying whether long flows on Titan are of cryovolcanic origin (Lopes et al., 2007; Wall et al., 2009) or are formed by exogenic processes. On Enceladus, the interiors of flows remain liquid longer because heat removal is not as efficient as on Titan, and so are even more likely to be volume-limited in their areal extent.\nAnother factor that has yet to be quantified is the rate of heat loss through the base of the flow or melt sheet, and the solidification times of units of different thicknesses. In order to do this, the physical properties of the substrate need to be known.\nThe temperature/time and time/crust thickness relationships (Figs. 3 and 4) mean that if the thickness of a flow on Titan is measured, and a surface temperature derived, the age of the unit can be constrained. Likewise, if a thermal anomaly is measured, this immediately places constraints on the thickness and age of the\nunit. Integrating over the surface of a flow unit, deriving the temperature and area distribution and flux density, also provides constraints on the rate of areal coverage (see Chapter 7 in Davies (2007)). The cooling process as described in this paper should be applied to physical process models in order to understand remote sensing of detections of anomalous thermal emission from the surface of Titan, be it by Cassini VIMS, Radar, or Composite Infrared Spectrometer (CIRS).\nAdditional work, in the field, in laboratories and theoretically, is needed to better understand heat transfer by a moving atmosphere, especially under Titan-like conditions. Laboratory work on likely cryolava compositions (e.g., Zhong et al., 2009) will provide better model inputs."
+  }, {
+    "heading": "7. Conclusions",
+    "text": "On Titan, the cooling of a ‘‘cryolava” flow or impact melt, if consisting of a low-temperature liquid, is dominated by atmospheric convection. Given the low temperature of any erupted materials, radiation is the least efficient heat transfer mechanism. Although in our model convective heat loss in turn is dominated by forced convection if wind velocities exceed 0.75 m s 1, this has little effect on overall cooling rates for a given composition of cryolava. Should an identification of active cryolavas or new impact melts be made, subsequent cooling behavior might constrain composition. These are first order results. Additional modeling is needed, taking into account a range of factors that affect cooling, including exogenic effects such as methane rain; the temperature dependence of ice physical properties; crust structure (e.g., pore space, cracks in crust, and rheology); and flow geometry and surface roughness.\nClimate and local weather conditions will affect cooling rates. If wind speed systematically varies as function of latitude, longitude and/or season, this will have a small but measurable effect on the cooling behavior of cryolavas.\nThe removal of heat by atmospheric convection is the reason for the more rapid cooling of lavas and impact melts on Titan, compared with airless moons such as Enceladus or Europa. On Titan, the speed at which surfaces cool (for example, a water flow cooling from 273 K to 170 K in 2 days) means that detection from spacecraft of such events by their thermal emission may be difficult unless the activity is observed close to or at its onset."
+  }, {
+    "heading": "Acknowledgments",
+    "text": "This work was performed at the Jet Propulsion Laboratory, California Institute of Technology, under contract to NASA. The authors thank Laszlo Keszthelyi and Ellen Stofan for their reviews, which were of great help in improving this paper. A.G.D. thanks the JPL Research and Technology Development Program for seed money to carry out this study, and the NASA Outer Planets Research Program for support. C.S. and J.C.-R. also acknowledge support from the JPL Research and Technology Development Program. M.C. acknowledges support from a NASA Postdoctoral Program Fellowship, administered by Oak Ridge Associated Universities."
+  }],
+  "year": 2010,
+  "references": [{
+    "title": "Numerical modeling of endogenic thermal",
+    "authors": ["O. Abramov", "J.R. Spencer"],
+    "year": 2008
+  }, {
+    "title": "Ice-covered water volcanism on Ganymede. J",
+    "authors": ["M.L. Allison", "S.M. Clifford"],
+    "venue": "anomalies on Europa. Icarus",
+    "year": 1987
+  }, {
+    "title": "Cassini observations of flow-like features in western Tui Regio, Titan",
+    "authors": ["J.W. Barnes"],
+    "venue": "Geophys. Res. Lett. 33, L16204",
+    "year": 2006
+  }, {
+    "title": "Near-infrared spectral mapping of Titan’s mountains and channels",
+    "authors": ["J.W. Barnes"],
+    "venue": "J. Geophys. Res. – Planets 112, E11006,",
+    "year": 2007
+  }, {
+    "title": "A model for lava flows with two thermal components",
+    "authors": ["J. Crisp", "S. Baloga"],
+    "venue": "J. Geophys. Res. – Atmos",
+    "year": 1990
+  }, {
+    "title": "Volcanism on Io: A Comparison with Earth",
+    "authors": ["A.G. Davies"],
+    "year": 2007
+  }, {
+    "title": "Postsolidification cooling and the age of Io’s lava flows",
+    "authors": ["A.G. Davies", "D.L. Matson", "G.J. Veeder", "T.V. Johnson", "D.L. Blaney"],
+    "venue": "Icarus 176,",
+    "year": 2005
+  }, {
+    "title": "Considerations for effusive cryovolcanism on Europa: The postGalileo perspective",
+    "authors": ["S.A. Fagents"],
+    "venue": "J. Geophys. Res. – Planets",
+    "year": 2003
+  }, {
+    "title": "Rheology of the 1983 Royal Gardens basalt flows, Kilauea volcano, Hawaii",
+    "authors": ["J.H. Fink", "J.R. Zimbelman"],
+    "venue": "Bull. Volcanol",
+    "year": 1986
+  }, {
+    "title": "Ammonium sulfate on Titan: Possible origin and role in cryovolcanism",
+    "authors": ["A.D. Fortes", "P.M. Grindrod", "S.K. Trickett", "L. Vocadlo"],
+    "venue": "Icarus 188,",
+    "year": 2007
+  }, {
+    "title": "Phase behaviour and thermoelastic properties of perdeuterated ammonia hydrate and ice polymorphs from 0 to 2 GPa",
+    "authors": ["A.D. Fortes", "I.G. Wood", "L. Vocadlo", "K.S. Knight", "W.G. Marshall", "M.G. Tucker", "F. Fernandez-Alonso"],
+    "venue": "J. Appl. Crystallogr",
+    "year": 2009
+  }, {
+    "title": "Volcanoes – A Planetary Perspective",
+    "authors": ["P.W. Francis"],
+    "year": 1993
+  }, {
+    "title": "Measurements of wind friction speeds over lava surfaces and assessment of sediment transport",
+    "authors": ["R. Greeley", "J.D. Iverson"],
+    "venue": "Geophys. Res. Lett. 14,",
+    "year": 1987
+  }, {
+    "title": "Enceladus’ water vapor plume",
+    "authors": ["C.J. Hansen", "L. Esposito", "A.I.F. Stewart", "J. Colwell", "A. Hendrix", "W. Pryor", "D. Shemansky", "R. West"],
+    "year": 2006
+  }, {
+    "title": "One-, two- and three-phase viscosity treatments for basaltic lava flows",
+    "authors": ["A.J.L. Harris", "J.S. Allen"],
+    "venue": "J. Geophys. Res. 113,",
+    "year": 2008
+  }, {
+    "title": "FLOWGO: A kinematic thermo-rheological model for lava flowing in a channel",
+    "authors": ["A.J.L. Harris", "S.K. Rowland"],
+    "venue": "Bull. Volcanol",
+    "year": 2001
+  }, {
+    "title": "Volcanic processes and landforms on Venus – Theory, predictions, and observations",
+    "authors": ["J.W. Head III", "L. Wilson"],
+    "venue": "J. Geophys. Res",
+    "year": 1986
+  }, {
+    "title": "Stable and metastable high pressure phases of the sulfuric acid – magnesium sulfate – water system: Applications to Europa",
+    "authors": ["D.L. Hogenboom", "J.S. Kargel", "M.E. Daly"],
+    "venue": "Lunar and Planetary Institute Conference Abstracts,",
+    "year": 2001
+  }, {
+    "title": "Emplacement and inflation of pahoehoe sheet flows: Observations and measurements of active lava flows on Kilauea volcano, Hawai’i",
+    "authors": ["K. Hon", "J. Kauahikaua", "R. Denlinger", "K. Mackay"],
+    "venue": "Geol. Soc. Am",
+    "year": 1994
+  }, {
+    "title": "Geology and surface processes on Titan",
+    "authors": ["R. Jaumann"],
+    "year": 2009
+  }, {
+    "title": "Titan’s surface brightness temperatures",
+    "authors": ["D.E. Jennings"],
+    "venue": "Astrophys. J. Lett. 691,",
+    "year": 2009
+  }, {
+    "title": "Rheological properties of ammonia–water liquids and crystal–liquid slurries",
+    "authors": ["J. Kargel", "S.K. Croft", "J.I. Lunine", "J.S. Lewis"],
+    "venue": "Planetological applications. Icarus",
+    "year": 1991
+  }, {
+    "title": "Rain and dewdrops on Titan based on in situ imaging",
+    "authors": ["E. Karkoschka", "M.G. Tomasko"],
+    "venue": "Icarus 199,",
+    "year": 2009
+  }, {
+    "title": "Calculated effect of vesicles on the thermal properties of basaltic lava",
+    "authors": ["L. Keszthelyi"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 1994
+  }, {
+    "title": "A preliminary thermal budget for lava tubes on the Earth and planets",
+    "authors": ["L. Keszthelyi"],
+    "venue": "J. Geophys. Res",
+    "year": 1995
+  }, {
+    "title": "The initial cooling of pahoehoe flow lobes",
+    "authors": ["L. Keszthelyi", "R. Denlinger"],
+    "venue": "Bull. Volcanol",
+    "year": 1996
+  }, {
+    "title": "Observations of the effect of wind on the cooling of active lava flows",
+    "authors": ["L.P. Keszthelyi", "A.J.L. Harris", "J. Dehn"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2003
+  }, {
+    "title": "Mapping and interpretation of Sinlap crater on Titan using Cassini VIMS and RADAR data",
+    "authors": ["S. Le Mouelic"],
+    "venue": "J. Geophys. Res. Planets 113,",
+    "year": 2008
+  }, {
+    "title": "Viscosity and thermal conductivity equations for nitrogen, oxygen, argon and air",
+    "authors": ["E.W. Lemmon", "R.T. Jacobsen"],
+    "venue": "Int. J. Thermophys",
+    "year": 2004
+  }, {
+    "title": "Cryovolcanic features on Titan’s surface as revealed by the Cassini Titan Radar Mapper",
+    "authors": ["R.M.C. Lopes"],
+    "venue": "Icarus 186,",
+    "year": 2007
+  }, {
+    "title": "Thermal interactions of the Huygens probe with the Titan environment: Constraint on near-surface wind",
+    "authors": ["R.D. Lorenz"],
+    "venue": "Icarus 182,",
+    "year": 2006
+  }, {
+    "title": "Global pattern of Titan’s dunes: Radar survey from the Cassini prime mission",
+    "authors": ["R.D. Lorenz", "J. Radebaugh"],
+    "venue": "Geophys. Res. Lett. 36, L03202",
+    "year": 2009
+  }, {
+    "title": "Physical properties of ammonia-rich ice: Application to Titan",
+    "authors": ["R. Lorenz", "S.E. Shandera"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2001
+  }, {
+    "title": "The sand seas of Titan: Cassini Radar observations of longitudinal dunes",
+    "authors": ["R.D. Lorenz"],
+    "venue": "Science",
+    "year": 2006
+  }, {
+    "title": "Titan’s young surface: Initial impact crater survey by Cassini",
+    "authors": ["R.D. Lorenz"],
+    "year": 2007
+  }, {
+    "title": "Fluvial channels on Titan: Initial Cassini",
+    "authors": [],
+    "year": 2008
+  }, {
+    "title": "Heat Transmission. McGraw-Hill, New York",
+    "authors": ["W.H. 2006JE002703. McAdams"],
+    "year": 1954
+  }, {
+    "title": "hydrostatic circulation model",
+    "authors": ["J.M. Moore", "A.D. Howard", "P.M. Schenk", "R.T. Pappalardo"],
+    "year": 2010
+  }, {
+    "title": "Photometric changes on Saturn’s Titan",
+    "authors": ["R.M. Nelson"],
+    "year": 2009
+  }, {
+    "title": "Saturn’s Titan: Surface change, ammonia",
+    "authors": ["R.M. 2008GL036206. Nelson"],
+    "year": 2009
+  }, {
+    "title": "and implications for atmospheric and tectonic activity",
+    "authors": ["D.P. O’Brien", "P. Geissler", "R. Greenberg"],
+    "venue": "Icarus 199,",
+    "year": 2002
+  }, {
+    "title": "Numerical calculations of the longevity",
+    "authors": ["D.P. O’Brien", "R.D. Lorenz", "J.I. Lunine"],
+    "venue": "Europa. Icarus",
+    "year": 2005
+  }, {
+    "title": "Rheological properties of basaltic lavas",
+    "authors": ["H. Pinkerton", "G. Norton"],
+    "venue": "oases on Titan. Icarus",
+    "year": 1995
+  }, {
+    "title": "Cassini imaging of Titan’s high-latitude lakes",
+    "authors": ["D.D", "C.C. Porco"],
+    "year": 2009
+  }],
+  "id": "SP:ffa7c73517dbaa869152db04f80628d2c87e5e5b",
+  "authors": [{
+    "name": "Ashley Gerard Davies",
+    "affiliations": []
+  }, {
+    "name": "Christophe Sotin",
+    "affiliations": []
+  }, {
+    "name": "Dennis L. Matson",
+    "affiliations": []
+  }, {
+    "name": "Julie Castillo-Rogez",
+    "affiliations": []
+  }, {
+    "name": "Torrence V. Johnson",
+    "affiliations": []
+  }, {
+    "name": "Mathieu Choukroun",
+    "affiliations": []
+  }, {
+    "name": "Kevin H. Baines",
+    "affiliations": []
+  }],
+  "abstractText": "0019-1035/$ see front matter 2010 Elsevier Inc. A doi:10.1016/j.icarus.2010.02.025 * Corresponding author. E-mail addresses: ashley.g.davies@jpl.nasa.gov, Ash Davies). As on Earth, Titan’s atmosphere plays a major role in the cooling of heated surfaces. We have assessed the mechanisms by which Titan’s atmosphere, dominantly N2 at a surface pressure of 1.5 10 Pa, cools a warm or heated surface. These heated areas can be caused by impacts generating melt sheets and (possibly) by endogenic processes emplacing cryolavas (a low-temperature liquid that freezes on the surface). We find that for a cooling cryolava flow, lava lake, or impact melt body, heat loss is mainly driven by atmospheric convection. Radiative heat loss, a dominant heat loss mechanism with terrestrial silicate lava flows, plays only a minor role on Titan. Long-term cooling and solidification are dependent on melt sheet or flow thickness, and also local climate, because persistent winds will speed cooling. Relatively rapid cooling caused by winds reduces the detectability of these thermal events by instruments measuring surface thermal emission. Because surface temperature drops by 50% within 1 day of emplacement, fresh flows or impact melt may be difficult to detect via thermal emission unless an active eruption is directly observed. Cooling of flow or impact melt surfaces are orders of magnitude faster on Titan than on airless moons (e.g., Enceladus or Europa). Although upper surfaces cool fast, the internal cooling and solidification process is relatively slow. Cryolava flow lengths are, therefore, more likely to be volume (effusion) limited, rather than cooling-limited. More detailed modeling awaits constraints on the thermophysical properties of the likely cryomagmas and surface materials. 2010 Elsevier Inc. All rights reserved.",
+  "title": "Atmospheric control of the cooling rate of impact melts and cryolavas on Titan’s surface"
+}

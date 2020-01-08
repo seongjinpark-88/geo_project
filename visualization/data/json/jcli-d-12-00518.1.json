@@ -1,0 +1,286 @@
+{
+  "sections": [{
+    "text": "Meteorological station records, ice cores, and regional climate model output are combined to develop a continuous 171-yr (1840–2010) reconstruction of Greenland ice sheet climatic surface mass balance (Bclim) and its subcomponents including near-surface air temperature (SAT) since the end of the Little Ice Age. Independent observations are used to assess and compensate errors.Melt water production is computed using separate degree-day factors for snow and bare ice surfaces. A simple meltwater retention scheme yields the time variation of internal accumulation, runoff, and bare ice area.\nAt decadal time scales over the 1840–2010 time span, summer (June–August) SAT increased by 1.68C, driving a 59% surface meltwater production increase. Winter warming was12.08C. Substantial interdecadal variability linked with episodic volcanism and atmospheric circulation anomalies is also evident. Increasing accumulation and melt rates, bare ice area, and meltwater retention are driven by increasing SAT. As a consequence of increasing accumulation and melt rates, calculated meltwater retention by firn increased 51%over the period, nearly compensating a 63% runoff increase. Calculated ice sheet end ofmelt season bare ice area increased more than 5%.\nMultiple regression of interannual SAT and precipitation anomalies suggests a dominance of melting on\nBclim and a positive SAT precipitation sensitivity (132Gt yr 21K21 or 6.8% K21).\nThe Bclim component magnitudes from this study are compared with results from Hanna et al. Periods of\nshared interannual variability are evident. However, the long-term trend in accumulation differs in sign."
+  }, {
+    "heading": "1. Introduction",
+    "text": "Ice sheet mass balance (B) exerts a significant influence on global mean sea level (e.g., Church andWhite 2011), thermohaline circulation (e.g., Fichefet et al. 2003; Rahmstorf et al. 2005), and ocean sediment nutrient influx (Rysgaard et al. 2003; Hasholt et al. 2006). The B is often decomposed among 1) mass fluxes originating at the surface–atmosphere interface (the climatic surface mass balance including internal accumulation), hereafter Bclim (Cogley et al. 2011), and 2) mass fluxes from basal melting and ice flow dynamics that lead tomarine ice loss\nfrom some combination of calving and underwater melting. In addition to marine ice loss, basal melting from grounded ice may exit the ice sheet system to the terrestrial or marine environments.\nTheBclim is between mass inputs from solid and liquid precipitation (P) minus net surface water vapor exchange (E) and meltwater exiting the ice sheet as runoff (R):\nBclim5Psolid2 (E1R) . (1)\nHere, the relatively small surfacemass balance term from rainfall (Pliquid) is neglected. The retention of meltwater in the ice sheet accumulation area remains a large source of uncertainty for runoff in Bclim assessments (Vernon et al. 2012).\nGreenland surface mass balance\nSeveral studies have examined Greenland ice sheet Bclim for at least the past century. Wake et al. (2009) incorporated snow accumulation and surface air temperature reconstructions after Box et al. (2009) to estimate\n*Byrd Polar Research Center Contribution Number C-1425. 1Current affiliation: Geological Society of Denmark and Green-\nland, Copenhagen, Denmark.\nCorresponding author address: Jason E. Box, Geological Survey of Denmark and Greenland, Øster Voldgade 10, DK-1350 Copenhagen, Denmark. E-mail: jeb@geus.dk\nDOI: 10.1175/JCLI-D-12-00518.1\n2013 American Meteorological Society\nthe time dependence ofBclim over the 1866–2005 period, finding an increasing accumulation and cumulative ice loss from the ablation area over much of the southern and western ice sheet. Fettweis et al. (2008) apply an empirical relation between summer temperature and precipitation anomalies to reconstruct Bclim beginning in 1900, finding lower Bclim in the 1930s than in the warming period between 1990 and 2006. Hanna et al. (2011) report decreasing accumulation over the 1870– 2008 period using an observationally constrained downscaling of twentieth-century reanalysis data, the trend differing in sign from Box et al. (2013).\nOn subcentury time scales, several studies yield insight into past Greenland ice sheet Bclim. Hanna et al. (2005) and Box et al. (2006) find increasing runoff and accumulation rate with an overall Bclim decline in the 1958–2003 and 1988–2004 periods, respectively. Using a high-resolution (;11 km) regional climate data assimilation model, Ettema et al. (2009) find total precipitation and surfacemass balance tobeof greatermagnitudes than in previous studies. Extremely high southeastern ice sheet accumulation rates are confirmed by Burgess et al. (2010). Mernild et al. (2010) produce a Greenland surface mass balance simulation spanning 1950–2080, finding increasing future ice sheet surface mass loss. The Bclim parameter sensitivity studies by Fitzgerald et al. (2012) yield further insight into climate sensitivity and model limitations.\nThe Box et al. (2009) surface air temperature (SAT) reconstruction methodology is reapplied here to a larger set of in situ temperature records to reproduce monthly Greenland ice sheet surface air temperatures and surface melting using positive degree-days spanning\n1840–2010. Reconstructed net snow accumulation rates from Box et al. (2013, Part I of this series) are combined with the melt rates and a simple model for meltwater retention to produce runoff andBclim for a 171-yr period (1840–2010). The time variation of Bclim components is examined to further develop century-plus climate insight."
+  }, {
+    "heading": "2. Data",
+    "text": "a. Surface air temperatures\nBox et al. (2009) created a monthly Greenland ice sheet SAT reconstruction based on data from 12 meteorological station records. The SAT data originated from three sources: Vinther et al. (2006); Cappelen et al. (2001, 2006); and data from Eureka, Nunavut, Canada, downloaded from the National Aeronautics and Space Administration (NASA) Goddard Institute for Space Studies (GISS) SurfaceTemperatureAnalysis (GISTEMP) website (http://data.giss.nasa.gov/gistemp/; Peterson and Vose 1997; Hansen et al. 1999, 2010). Additional Danish Meteorological Institute (DMI) data are incorporated from Cappelen et al. (2011). The total number of non-inland ice stations in the updated collection (Table 1) is 13. The Kangerlussuaq and Eureka station data were not used by Box et al. (2009). Here, the Thule Air Force Base data (see Box et al. 2009) are not used because of gaps and unresolved homogeneity problems.\nMonthly SAT data from 39 inland ice stations are compiled from Ohmura (1987), Stearns and Weidner (1991), Steffen et al. (1996), andVaarby-Laursen (2010). The inland ice station locations are listed in Table 2 of Box et al. (2009). The bulk of these data originate in the\nSteffen et al. (1996) Greenland Climate Network that begins in 1995. Secondary data clusters are in the 1987– 94, 1949–65, and 1930–35 periods.\nb. Snow accumulation\nIce core observations and Regional Atmospheric Climate Model version 2 (RACMO2; van Meijgaard et al. 2008; Ettema et al. 2009; van den Broeke et al. 2009; van Angelen et al. 2011) solid precipitation output were combined to develop a time-varying spatial reconstruction of the Greenland ice sheet net snow accumulation rate spanning 410 years (1600–2009; Box et al. 2013). RACMO2 separates precipitation into liquid and solid parts based on a physical model. RACMO2 data were chosen over data from a polar version of the fifthgeneration Pennsylvania State University–National Center forAtmosphericResearchMesoscaleModel (PolarMM5) because they are of higher spatial resolution, which is important in capturing orographic effects. Year 2010 accumulation rates in this study are taken from RACMO2 output. Rates of water vapor transfer between the surface and atmosphere are implicit from the ice core datadriven reconstructed accumulation rates.\nc. Equilibrium line altitude\nThe 150-km-long K transect is located east of Kangerlussuaq near 678N latitude between 340 and 1500m above sea level on the western slope of the ice sheet and provides the annualBclim observations used in this study (van de Wal et al. 2005, 2012). The elevation where the end of the melt season accumulation balances with surface meltwater runoff (i.e.,Bclim5 0; the equilibrium line of latitude) is calculated in the 1990/91–2009/10 hydrological year time span (R. S. W. van de Wal 2011, personal communication) along with the elevation gradient of Bclim to evaluate reconstructed Bclim elevation profiles. In this study, Pliquid that may partly be refrozen internally is neglected in the definition of the equilibrium line.\nd. Ice sheet mask\nClassification of the grid cells as permanent ice, land, ocean, and mixed grid cells is made using 1.25-km resolution June–August NASA Moderate Resolution Imaging Spectroradiometer (MODIS) bands 1 and 6 cloud-free imagery from year 2006. The surface is considered permanent ice if surface reflectance exceeds 0.3 and if the normalized difference vegetation index (NDVI) is less than 0.1. When the 1.25-km grid is interpolated to 5 km using a ‘‘nearest neighbor,’’ it is possible to quantify the 5-km subpixel area, including the mixing of land and ice using a value between 0 and 1. Based on this classification, a best estimate of the permanent ice-covered area\nthat matches permanently glaciated areas reported by Kargel et al. (2011) corresponds with an average mask value greater than or equal to 0.587, resulting in an ice area of 1.824 3 106 km2. Non–ice sheet grid cells are excluded from the reconstruction. There are 72974 5-km grid cells counted as glaciated. Approximately 2496 of these grid cells are isolated from the inland ice sheet, totaling 62 393 km2.\ne. Hanna et al. (2011) reconstruction\nThe Hanna et al. (2011) Bclim reconstruction is based on the Twentieth Century Reanalysis meteorological reanalysis dataset (20CR; Compo et al. 2006, 2011) for the 1871–1957 period, appended by Bclim based on the 40-yr European Centre for Medium-Range Weather Forecasts (ECMWF) Re-Analysis (ERA-40) for 1958– 2010. ECMWF operational analyses are used for the 2002–10 period. In both reanalyses, 20CR and ECMWF, SAT and precipitation fields were resampled to a 5-km grid. Modeled SAT was corrected for terrain elevation errors arising in the reanalyses from the coarse (28 longitude–latitude) horizontal resolution using in situ– derived ice sheet surface lapse rates based on ice sheet surface observations. Reanalysis (20CR and ECMWF) precipitation was calibrated spatially using a weather station precipitation and ice core accumulation compilation after Bales et al. (2009). Hanna et al. (2011) find a statistically significant correlation of reconstructed accumulation with that observed from most of a sample of 30 widely distributed ice cores."
+  }, {
+    "heading": "3. Methods",
+    "text": "a. Interpolation\nA higher-resolution grid than the 24-km Polar MM5 grid is needed to resolve the narrow (less than 150 km) ablation area where large (.5myr21) ablation rates are observed (van deWal et al. 2005, 2012). The 24-km Polar MM5 SAT data are thus resampled to a 5-km equal area grid using bilinear interpolation. Elevational gradients in SAT, also known as slope lapse rates (Steffen and Box 2001), are accounted for implicitly by this resampling that uses the four surrounding 24-km grid points (a ‘‘trend surface’’) to estimate the values at intervening 5-km grid points. The finer grid also facilitates collocating grid area and point data for intercomparison and calibration. The Box et al. (2013) accumulation reconstruction is developed on the same 5-km grid.\nb. Surface air temperature reconstruction\nThe spatial–temporal reconstruction methodology of this study employs least squares fit parameters between\nmodel and in situ time series as in Box et al. (2009). An in situ record of SAT forms time series A. SAT from Polar MM5 output spanning 1958–2008 forms time series B. The higher-resolution RACMO2 SAT data are not used in this study because the Polar MM5–based SAT reconstruction was already developed when this study was submitted in time for the July 2012 Intergovernmental Panel on Climate Change Fifth Assessment Report (IPCC AR5) deadline. Linear regression is made between A and B. The 301 3 561 (5 km) grid containing the regression parameters (slope, constant, and correlation) between A and B is stored for use by the reconstruction. The in situ sites are ranked in order of explaining the Polar MM5 temporal variability using the regression correlation coefficient. The in situ sites with the highest correlation on a grid cell basis for which data are available in a given year are used in the reconstruction. The reconstruction thus maximizes reproductive skill, yet remains flexible to account for variable in situ SAT data availability. Five (three) Greenland SAT records exceed 100 (170) yr in length (Table 1). The pre1950s part of the SAT reconstruction is driven by data from the Ilulissat, Nuuk, and Qaqortoq sites located from southern to western Greenland.\nc. Temperature error assessment and minimization\nBox et al. (2009) found spatial patterns of Polar MM5 temperature bias that were compensated by subtracting error surfaces derived from kriging interpolation. In the present study, the spatial bias patterns are compensated using simpler linear fits between temperature bias and elevation.\nComparison of SAT data between inland ice in situ and uncorrected Polar MM5 data indicates a warm bias\n(Fig. 1, red lines) that is largely the result of the Polar MM5 output having a low terrain elevation (hereafter ET) bias (see Box et al. 2009). The 5-km ET data are differenced with the Scambos and Haran (2002) ET data interpolated to the 5-km grid. The ET bias values are converted to monthly average SAT bias grids using slope lapse rate values from Table 4 of Fausto et al. (2009). The SAT bias grids are then subtracted from the Polar MM5 output SAT grids, yielding an overall monthly bias reduction to under 28C and an RMS error under 38C (Fig. 1, green lines). This first calibration step is prior to computing and applying the coefficients that drive the SAT reconstruction.\nIn a second calibration step, bias is recomputed between monthly reconstructed SAT grids and SAT from 40 inland ice stations that are completely independent of Polar MM5 and the reconstruction. Comparison with the inland ice data in this calibration second step reveals a residual error that is again compensated using elevationbased functions. A nearly zero bias with monthly RMS error under 18C is evident during themelt season (Fig. 1, blue lines). After this calibration second step, monthly residuals have no correlation with latitude or longitude, suggesting no spatial dependence.\nTo examine the possibility that reconstructed SAT drifts temporally, pre-1958 reconstructed values are compared with inland ice data (Fig. 2). While the calculated average 0.68C cold bias is 4.7 times smaller than the 2.88C RMS error, it suggests the possibility of drift. Therefore, the time series of pre-1958 reconstructed values in 50-km radii of available in situ observations are also compared to test the assumption that the regression coefficients between in situ station records and the PolarMM5 output are stationary in time. Interdecadal\nfluctuations in the differences between reconstructed and observed SAT suggest an oscillation of drift that is less than 1.08C at all sites. Long-term linear trend magnitudes are in all cases of equivalent sign. Correlations between the in situ records and the reconstruction for these samples are all above 0.845. These findings suggest that the SAT reconstruction is accurate within 1.38C at 80% confidence.\nd. Surface melting\nSAT above 08C provides an index for melting over snow- and ice-covered surfaces (Braithwaite 1981, 1994; Ohmura 2001). Key advantages of this positive degreeday (PDD) approach include 1) higher computed melt correlation with observations than with any single surface energy budget term; and 2) surface air temperature data are available, unlike long-term surface energy budget data. Disadvantages include unknown temporal and spatial changes in complex melt factors assumed to be represented by a simple degree-day factor (DDF). Differing DDF values are evident for snow versus ice surfaces largely due to their distinctly differing albedo or the relative contribution of turbulent fluxes to melting (Hock 2003). PDDs are here applied as in Braithwaite (1985), Reeh (1991), and Fausto et al. (2009) to calculate melt volume from mean monthly near-surface air temperatures with a monthly standard deviation of temperatures computed from 3-hourly Polar MM5 output spanning 1958–2008. These distributions enable accounting for melt in months with average SAT below 08C. The 1958–2008 period is assumed to have equivalent\nvariance as earlier and later periods in the reconstruction. Here, DDFIce 5 9.5mmday 21 8C21 and DDFSnow 5 6.6mmday21 8C21 are chosen after an iterative procedure comparing the reconstructed Bclim elevation profile with that from 1991 to 2010 observations along the K transect. The terms DDFIce and DDFSnow are assumed to be constant in time.\ne. Meltwater retention\nSome meltwater is prevented from escaping as runoff from the ice sheet by refreezing or remaining liquid in the porous firn. There are two areas of the ice sheet where this is possible: the ‘‘wet snow’’ area and the percolation area. The ‘‘runoff limit’’ is the boundary between the two areas (Pfeffer et al. 1991). Above the runoff limit, all meltwater is retained.\nAs a necessary condition for runoff, models have required melt energy to overcome the cold content of only the previous year of accumulation (Pfeffer et al. 1991; Janssens andHuybrechts 2000). Yet, it has become clear that meltwater can infiltrate below the previous year’s accumulation horizon (Humphrey et al. 2012; Harper et al. 2012) and even that it may remain in liquid form in areas where there is insufficient firn ‘‘cold content’’ or heat loss to the atmosphere to dispose of firn aquifer heat or latent heat of fusion (Forster et al. 2011). Models that require the melting equivalent to just one year of accumulation (e.g., Box et al. 2004, 2006) thus may underestimate meltwater retention. More, if not the entiremultiyear firn pore space, need be filled before runoff can occur (Harper et al. 2012). Impermeable\nhorizons perched above earlier porous firn can accelerate the pore filling process.\nBox et al. (2004, 2006) used the Pfeffer et al. (1991) retention scheme to compute a whole ice sheet internal accumulation rate (hereafter retention) that was 60% or 50Gt smaller than Ettema et al. (2009) and van den Broeke et al. (2009); the latter studies afford more retention in their snow model (after Greuell and Konzelmann 1994). The approach taken in this study is simple, requiring only that some fraction of the annual accumulation must melt before runoff occurs. In comparison with K-transect equilibrium line altitude (ELA) variations, that ratio (melt/accumulation) is here found to be 1.45, suggesting that for the south western ice sheet on average, 45% more melting than accumulation must occur for meltwater to exit the ice sheet. The ratio 1.45 reconciles much of the difference between Box et al. (2004, 2006) and Ettema et al. (2009) and is otherwise a convenient tuning parameter representing an unknown combination of errors. Lacking a wellvalidated physically based snow model, this model tuning is assumed to accurately represent the whole ice sheet.\nf. Time series analysis\nTo identify and illustrate interdecadal fluctuations, and because individual years have greater uncertainty,\na two standard deviation (2s) Gaussian weighted runningmean filter is used to smooth various time series presented here. For the time series beginning or end, the tail of the Gaussian filter is truncated by 1 yr for each year approaching the end of the series until the sample ultimately represents a trailing (leading) mean at the end (beginning) of the time series. In addition to a 3-point triangular filter with [0.25, 0.5, 0.25] weighting kernel, Gaussian weighted running-mean filters with envelope widths between 9 and 13yr are used in this study to represent interdecadal time scales."
+  }, {
+    "heading": "4. Results and discussion",
+    "text": "a. Surface air temperature\nOver the full 171-yr period (1840–2010) of the reconstruction, warming has prevailed (Fig. 3; Table 2). According to linear regression, annual warming of 1.88C is evident. On seasonal time scales, the largest increases are in winter (December–January;12.98C), followed by autumn (September–November; 12.18C). The spring (March–May) increase (10.98C) is least well approximated by a linear fit, with the mid-twentieth-century warmth greater than the more recent warming in spring (Table 3). The summer (June–August) season SAT increases are best approximated by a linear fit with\na corresponding11.18C change with obvious increasing melt implications. Themost recent 3-yr average summer SAT are 0.48C or roughly 1s above early 1920s values that peak in 1929 (Table 3). This summer trend exceeds 2 times RMS uncertainty (see months 6–8 in Fig. 1) and is thus considered highly significant.\nInterdecadal variability of 18C annually, 38C in winter, and under 0.58C in summer (Fig. 3) is primarily the result of episodic volcanic cooling (Box et al. 2009) and regional atmospheric circulation anomalies, the latter well represented for west Greenland by the North Atlantic Oscillation index (e.g., Box 2002; Hanna and Cappelen 2003).\nTable 3 summarizes a comparison of twentieth- and twenty-first-century maximum near-surface air temperatures to distinguish twentieth- and twenty-first-century Greenland ice sheet warming episodes. The time series are averaged using 13-yrGaussian smoothing. The twentyfirst-century temperatures are higher in all seasons except the spring when the twentieth century was warmer. The largest overall difference is the twenty-first century being warmer in autumn, important in producing higher twenty-first-century annual melt totals because of an expansion of the melt season.\nApart from overall dominant warming since 1840, an intervening 63-yr period (1932–92) of cooling prevailed that is attributed to increases in atmospheric aerosols (Booth et al. 2012) that reduce surface insolation. Between 1961 and 1990, Liepert et al. (2002) estimated a global reduction of about 4% in solar radiation\nreaching the ground. Amplifying the aerosol sensitivity, west Greenland is a focus of sulfate-induced cooling arising from perturbed atmospheric dynamics (Rozanov et al. 2002). Box (2002) and Box et al. (2009) find that cold episodes in 1983/84 and 1991/92 caused by major volcanic eruptions are linked with the 1932–92 cooling trend. The post-1994 warming is attributable to 1) decreasing sulfate cooling with no major volcanic eruptions since 1991, 2) a reversal of the global dimming trend from decreasing anthropogenic sulfur emissions (Wild et al. 2009), and 3) ongoing and intensifying anthropogenic global warming owing to a dominance of enhanced greenhouse effect despite various anthropogenic cooling factors such as the aerosol indirect effect and aircraft condensation trails (Solomon et al. 2007).\nb. Accumulation\nAccording to the Box et al. (2013) reconstruction (at decadal time scales), from 1840 to 2010, decadally averaged ice sheet accumulation rates increased 20% or by 122Gt yr21, equivalent to 66 kg more snow per square meter per year averaged over Greenland ice areas (Table 4; Fig. 4a). Over the same period linear regression provides a smaller estimate of trend magnitude: 86Gt yr21 (12%) or 47 kgm22 yr21 for the area average. Correlation analysis links the increase with Northern Hemispheric SAT, North Atlantic SST, the North Atlantic Oscillation, and local Greenland ice sheet SAT variability (Box et al. 2013). Close agreement is evident with the RACMO2 accumulation data upon which the accumulation reconstruction is based (Fig. 4a).\nc. Surface meltwater production\nOver the full 171-yr period (1840–2010) of the reconstruction, according to linear regression, Greenland ice sheet meltwater production increased by 43%, 136Gtyr21, or 75kgm22 yr21 for the area average (Fig. 4b; Table 4). The melt increase is 2.8 times the standard deviation of the annual data, the largest among theBclim\ncomponents. Yet, the linear fit does not very well approximate the interdecadal variations, which as an alternative 13-yr Gaussian smoothing suggests from beginning to end (1840–2010) a 59%, 186Gt yr21, or 102kgm22 yr21 increase. Despite the fact that the warming rate was larger in the 1920s than since after the Mt. Pinatubo cooling, that trend has been measured (Chylek et al. 2006) from the bottom of an unexplained interdecadal low (see Fig. 3). The higher 2000s melt rate is attributable to the higher magnitude of summer and autumn temperatures of the recent era (Table 3).\nd. Meltwater retention\nThe long-term increase in surface meltwater production and accumulation rate over the 1840–2010 period have increased the retention of meltwater, according to linear regression, by 51%, 50Gt yr21, or 27kgm22 yr21 for the area average (Fig. 4c; Table 4). The meltwater production increase is 52% greater than the accumulation increase. The retention increase is not quite equivalent with the difference in the melt and accumulation increases because of the increased end of melt season bare ice area. The larger increase in meltwater production than accumulation results in a 5% bare ice area increase from 1840–2010 (Fig. 4d; Table 4).\ne. Runoff\nAccording to this reconstruction, over the 1840–2010 period at decadal time scales, meltwater runoff increased 63%, 135Gt yr21, or 66 kgm22 yr21 for the area average (Fig. 4e; Table 4). The correspondence between runoff and mean summer [June–August (JJA)] temperature is characterized via linear regression by high correlation [0.922, (12 p). 0.999] and the function runoff (Gt yr21)5284.23 SATJJA1 928, implying that in the extreme case that June–August average temperature were 08C (SATJJA was28.08C in the period 1840– 2010) in the present ice sheet configuration, the runoff rate would exceed 1000Gt yr21 or 548 kgm22 yr21. In the 2000–10 period, the SAT was26.98C averaged over the ice sheet.\nf. Surface mass balance\nOver the 1840–2010 period, according to this reconstruction, the ice sheet Bclim has an insignificant decreasing trend (Fig. 4f; Table 4). The lack of trend is a consequence of the nearly equivalent increases in accumulation and runoff rates. Yet, on shorter time scales, Bclim exhibits large (100Gt yr 21) negative anomalies, for example, during periods of low accumulation in the 1960s or during periods of high surfacemelting such as in the 2000s. Large positiveBclim anomalies are evident, for example, in the 1890s when accumulation was abnormally high and runoff was average. Low runoff is promoted by high accumulation because of enhanced retention capacity.\nThe climate sensitivity indicated by these data suggest an empirical relationship according to the multiple regression function: Bclim (Gt) 5 DSAT 1 DP, where P is precipitation assumed equal to the accumulation rate multiplied by 1.17, given an approximate 17% combined loss from surface and blowing snow water vapor net losses [after Box and Steffen (2001) and Table 3 of Box et al. (2004)]. The regressions are evaluated using temporally detrended SAT and P data to minimize spurious correlation. Coefficients and multiple regression correlation values are listed in Table 5 for various seasons. The highest Bclim correlation with temperature is for the summer (June–August) case (R5 20.392). The result implies that for each degree of summer warming, Bclim is reduced by 81Gtyr 21 or 44kgm22 yr21. The precipitation correlations are positive and above 0.89 in all seasons, suggesting an increasing precipitation (or accumulation rate) with increasing temperature by roughly 6.8% K21, 31Gt yr21, or 51 kgm22 yr21 for the area average.\ng. Comparison with Hanna et al. (2011)\nComparisons are made between reconstructions of this study (hereafter Box) and that of Hanna et al. (2011, hereafter Hanna) for their common 138-yr period (1871–2008).\n1) AIR TEMPERATURE\nAt the annual time scale, the Hanna and Box SAT reconstructions are more consistent after about 1952, suggesting that the Twentieth Century Reanalysis is\nmuch more accurate after the 1950s when more data become available for assimilation. In the 73 yr prior to 1952, Hanna is warmer on average than Box by 1.78C, peaking at roughly 12.58C in the 1890s and decreasing to agreement in the 1940s (Fig. 5). Prior to 1952, the\ncorrelation betweenBox andHanna is lower on average.A magnitude-varying difference is evident in the post-1952 period, where the difference is greater for warmer temperatures (not shown). A clear magnitude-varying difference is not evident prior to 1952. The summer SAT differences are more uniformly different without a clear break at 1952 (Fig. 6). The cause of the relatively large negative departures in the Hanna data in 2009 and ;1943 remain unknown.\n2) SNOW ACCUMULATION\nThe Box net snow accumulation reconstruction is compared with the Hanna et al. (2011) P 2 E from the 20CR1ECMWFhybrid (Fig. 7). After 1935, theHanna accumulation rates are increasingly lower than Box by 250Gt yr21 throughout the 1980s and 1990s. Over the\nfull period, Hanna averages 17% or 122Gt yr21 lower (Table 6). The absolute difference probably included the influence of Box including isolated ice cap and glacier areas and the effect of RACMO2 capturing higher accumulation rates as a result of its higher horizontal resolution (11 km; Ettema et al. 2009).\nWhile the Box versus Hanna correlation is consistently above 0.5 for a running 13-yr sample after 1895, the multidecadal trend patterns are different among the datasets. The Hanna data exhibit a decreasing accumulation trend while Box exhibits an increasing trend. The accumulation increase registered by the Box reconstruction is driven by increasing trends in southern ice sheet core data (and is linked to Northern Hemispheric warming). The Hanna decrease is in contrast to increases in the core data (also used by\nBox et al. 2013) illustrated in Fig. 6b of Hanna et al. (2011).\n3) RUNOFF\nThe Box runoff reconstruction is compared with the Hanna et al. (2011) 20CR 1 ECMWF hybrid (Fig. 8).\nThe runoff magnitude among the datasets is in effective agreement 46% of the time, from 1968 to 2008 and 1871 to 1895. Over the full period, Hanna averages 19% or 53Gt yr21 lower (Table 1). For 1900–35 and 1948– 2008, the two data series exhibit a running 13-yr temporal correlation above 0.5. The Box runoff is higher\nbetween 1900 and 1960 on average by more than 100Gt yr21. Both datasets exhibit an increasing trend. The Hanna data trend is larger. However, the differences are temporally nonuniform at decadal scales.\n4) SURFACE MASS BALANCE\nThe Box and Hanna Bclim reconstructions agree within 50Gt yr21 roughly 40% of the time (Fig. 9). The running Box versus Hanna Bclim correlation is above 0.5 roughly 67%of the full 1871–2008 common period of the datasets. The correlation between Box and Hanna peaks above 0.8 for 11 years (1958–68) when both reconstructions capture a large accumulation increase. The Box time series has no long-term trend. The Hanna Bclim reconstructions include a decreasing trend beginning in about 1925. The primary explanation in the trend difference, given that both datasets have an increasing runoff trend, is that Box has an increasing accumulation trend while Hanna has a decreasing accumulation trend. Over the full period, the Hanna data average 12% or 52Gt yr21 lower than Box (Table 6).\nh. Comparison with other models\nVernon et al. (2012) compareBclim components among four models. A key source of disagreement in magnitude among the models is differing the assignment of the land surface classification (or land use) masks of ice, land, or water. For example, this reconstruction model has a 7% larger accumulation (747Gt yr21) than Ettema et al. (2009) who computes 697Gt yr21. The discrepancy stems from differing land use masks. Only after various Bclim reconstructions use common land–sea–ice masks will more precise Bclim model intercomparisons be possible."
+  }, {
+    "heading": "5. Conclusions",
+    "text": "A 171-yr Greenland ice sheet surface melt, runoff, accumulation rate, and climatic surface mass balance reconstruction capturing the end of the Little Ice Age is enabled by combining available station records and independent regional climate model output in ways that exploit their respective strengths of temporal duration\nand spatial coverage. With the exception of a single year, 1851, Greenland instrumental surface air temperature records span 1840–2010 continuously.\nObservational records, independent in space and time of the regional climate model output used by this reconstruction, facilitate uncertainty assessment and spatial interpolation to assess and compensate systematic biases. Residual nonsystematic near-surface air temperature reconstruction biases evident from comparisons with independent data suggest absolute annual whole ice sheet biases small enough to enable long-term trend assessments. However, local comparisons between the temperature reconstruction andmeteorological station records reveal biases that vary interdecadally between 08C and up to 28C, reminding that the reconstruction has higher fidelity at the whole ice sheet scale.\nThe June–August near-surface air temperature increase is very well approximated by a linear fit with a corresponding 1.18C warming that is of high statistical confidence. Winter seasonal warming was more than twice this magnitude and is also found to exceed a two standard error significance threshold.\nStudies that ascribe significance to the 1920s having higher temperature increase rates than those since the early 1990s do not acknowledge that 1) the earlier trend was measured from the depth of an unexplained multiyear cool period while the recent trend is measured beginning in 1994, after the 1991–93Mt. Pinatubo volcanic cooling, and 2) the recent twenty-first-century summer temperatures are 0.48C higher in absolute\nmagnitude than those at any time in the twentieth century. Contemporary warming has expanded later in the melt season, more so into autumn than the twentiethcentury warm episode that was driven by premelt spring warming.\nOver the 1840–2010 time span, increases in all surface mass balance components reflect increasing accumulation and melt rates linked with the increasing temperature at local and Northern Hemispheric scales. The highest surface mass balance sensitivity to near-surface air temperature is, not surprisingly, in summer when melt variability is responsible for an average additional mass loss of 81Gt yr21 for each degree Celsius of warming. The surface mass balance sensitivity to precipitation is strong, with correlations above 0.89 in all seasons, suggesting an increasing precipitation (or accumulation rate) with increasing ice sheet average nearsurface air temperature by 6.8% K21.\nThe largest surface mass budget component increase (59%) was from surface meltwater production. As a consequence of increasing accumulation rate, calculated meltwater retention by firn increased 51% over the period. The impact of increasing accumulation rate and meltwater retention is to dampen any acceleration in ice sheet mass loss and global sea level contribution.\nThe ice sheet surface mass balance change over this period is characterized by nearly equivalent increases in accumulation and runoff rates, producing a trendless surface mass balance at the century time scale. Yet, the competition between accumulation and runoff produces\nlarge anomalies at decadal time scales. Surface mass balance exhibits 100Gt yr21 negative anomalies during periods of low accumulation in the 1960s or high surface melting in the 2000s. Large (100Gtyr21) positive anomalies on decadal time scales result from high accumulation and normal runoff, as in the 1890s, or various combinations of extremes, such as the low runoff in the 1970s combined with high accumulation.\nThe meltwater retention increase is not quite equivalent with the difference in the melt and accumulation increases because of the increased end of melt season bare ice area. The larger increase in meltwater production than accumulation results in a 5% bare ice area increase from 1840 to 2010.\nClear differences are evident among the independent surface air temperature and quasi-independent surface mass balance reconstructions from this study versus that of Hanna et al. (2011). Regarding the accuracy of the Twentieth Century Reanalysis, larger differences and lower correlations are found prior to about 1952 in comparison with a refined version of the Box et al. (2009) surface air temperature reconstruction presented in this study.\nThe Hanna accumulation rates are lower than this study on average by 17%. The difference increases after 1935. The overall absolute difference may include the influence of Box including isolated ice cap and glacier areas and the effect of the high (11km) RACMO2 simulations capturing higher accumulation rates. The two accumulation reconstructions correlate consistently above 0.5 between 1895 and 2000. Yet, these datasets disagree in the sign of the long-term (1871–2008 common period) accumulation trends. The Hanna data exhibit a long-term decreasing trend while this study finds an increasing trend. Increasing accumulation is consistent with the long-term patterns evident in a handful of firn–ice cores from the southern ice sheet and with hemispheric warming (see Box et al. 2013).\nFor meltwater runoff, over the full period, the Hanna data average 19% lower than this study. For a majority of the time, the two reconstructions exhibit modest temporal correlation. Both datasets exhibit an increasing trend. The Hanna data trend is somewhat larger. However, the differences are temporally nonuniform at decadal time scales.\nFor climatic surface mass balance, this study and the Hanna data correlate above 0.5 in most years after 1930. This study finds no long-term linear trend in surface mass balance. The Hanna data suggest a decreasing trend beginning in about 1925. The primary explanation in the trend difference, given that both datasets have an increasing runoff trend, is this study includes an increasing accumulation trendwhileHannafinds a decreasing\naccumulation trend. More comparison of each reconstruction with long-term in situ data will be illuminating, especially when using a common ice–land–sea mask.\nAcknowledgments. This work was supported by the Cryospheric Sciences Program of NASA’s Earth Science Enterprise Grant NNG04GH70G and The Ohio State University’s Climate Water Carbon initiative managed by D. Alsdorf. The 1871–2005 Hanna et al. (2011) reconstruction was obtained from E. Hanna (2012, personal communication). D. H. Bromwich, M. Pelto, and J. Cook provided comments on early versions of this manuscript. Two anonymous reviewers and R. Braithwaite are thanked for constructive critique."
+  }],
+  "year": 2013,
+  "references": [{
+    "title": "Annual accumulation for Greenland updated using ice core data developed during 2000–2006 and analysis of daily coastal meteorological data",
+    "authors": ["R.C. Bales"],
+    "venue": "Coauthors,",
+    "year": 2009
+  }, {
+    "title": "Bellouin, 2012: Aerosols implicated as a prime driver of twentieth-century North Atlantic climate variability",
+    "authors": ["B.B. Booth", "N.J. Dunstone", "P.R. Halloran", "T. Andrews"],
+    "venue": "Nature, 484,",
+    "year": 2012
+  }, {
+    "title": "Survey of Greenland instrumental temperature records: 1873–2001",
+    "authors": ["J.E. Box"],
+    "venue": "Int. J. Climatol.,",
+    "year": 2002
+  }, {
+    "title": "Sublimation estimates for the Greenland Ice Sheet using automated weather station observations",
+    "authors": ["K. Steffen"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2001
+  }, {
+    "title": "Greenland ice sheet surface mass balance for 1991–2000: Application of Polar MM5mesoscale model and in-situ data",
+    "authors": ["D.H. Bromwich", "L.-S. Bai"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2004
+  }, {
+    "title": "Greenland Ice Sheet surface air temperature variability: 1840–2007",
+    "authors": ["L. Yang", "D.H. Bromwich", "L.-S. Bai"],
+    "venue": "J. Climate,",
+    "year": 2009
+  }, {
+    "title": "On glacier energy balance, ablation and air temperature",
+    "authors": ["R.J. Braithwaite"],
+    "venue": "J. Glaciol.,",
+    "year": 1981
+  }, {
+    "title": "Variations of nearsurface firn density in the lower accumulation area of the Greenland ice sheet, Pakitsoq",
+    "authors": ["M. Laternser", "W.T. Pfeffer"],
+    "venue": "West Greenland. J. Glaciol.,",
+    "year": 1994
+  }, {
+    "title": "A spatially calibrated model of annual accumulation rate on the Greenland Ice Sheet (1958–2007)",
+    "authors": ["E.W. Burgess", "R.R. Forster", "J.E. Box", "E. Mosley-Thompson", "D.H. Bromwich", "R.C. Bales", "L.C. Smith"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2010
+  }, {
+    "title": "DMI monthly climate data collection 1768– 2010, Denmark, the Faroe Islands and Greenland",
+    "authors": ["J. Cappelen"],
+    "venue": "Danish Meteorological Institute Tech. Rep. 11-05,",
+    "year": 2011
+  }, {
+    "title": "The observed climate of Greenland, 1958–99 with climatological standard normals, 1961–90",
+    "authors": ["B.V. Jørgensen", "E.V. Laursen", "L.S. Stannius", "R.S. Thomsen"],
+    "venue": "Danish Meteorological Institute Tech. Rep. 00-18,",
+    "year": 2001
+  }, {
+    "title": "Kern-Hansen, 2006: DMI monthly climate data collection 1768–2005, Denmark, the Faroe Islands and Greenland",
+    "authors": ["E.V. Laursen", "P.V. Jørgensen"],
+    "venue": "Danish Meteorological Institute Tech. Rep. 06-09,",
+    "year": 2005
+  }, {
+    "title": "Sea-level rise from the late 19th to the early 21st century",
+    "authors": ["J.A. Church", "N.J. White"],
+    "venue": "Surv. Geophys.,",
+    "year": 2011
+  }, {
+    "title": "Lesins, 2006: Greenland warming of 1920–1930 and 1995–2005.Geophys",
+    "authors": ["P. Chylek", "M.K. Dubey"],
+    "venue": "Res. Lett., 33,",
+    "year": 2006
+  }, {
+    "title": "Glossary of glacier mass balance and related terms",
+    "authors": ["J.G. Cogley"],
+    "venue": "Coauthors,",
+    "year": 2011
+  }, {
+    "title": "Feasibility of a 100-year reanalysis using only surface pressure data",
+    "authors": ["G.P. Compo", "J.S. Whitaker", "P.D. Sardeshmukh"],
+    "venue": "Bull. Amer. Meteor. Soc.,",
+    "year": 2006
+  }, {
+    "title": "Higher surface mass balance of the Greenland Ice Sheet revealed by high-resolution climate modeling",
+    "authors": ["J. Ettema", "M.R. van den Broeke", "E. van Meijgaard", "W.J. van de Berg", "J.L. Bamber", "J.E. Box", "R.C. Bales"],
+    "venue": "Geophys. Res. Lett., 36,",
+    "year": 2009
+  }, {
+    "title": "A new present day temperature parameterization for Greenland",
+    "authors": ["R.S. Fausto", "A.P. Ahlstrøm", "D. van As", "C.E. Bøggild", "S.J. Johnsen"],
+    "venue": "J. Glaciol.,",
+    "year": 2009
+  }, {
+    "title": "Estimation of the Greenland ice sheet surface mass balance for the 20th and 21st centuries",
+    "authors": ["X. Fettweis", "E. Hanna", "H. Gallee", "P. Huybrechts", "andM"],
+    "venue": "Erpicum,",
+    "year": 2008
+  }, {
+    "title": "Implications of changes in freshwater flux from the Greenland ice sheet for the climate of the 21st century",
+    "authors": ["T. Fichefet", "C. Poncin", "H. Goosse", "P. Huybrechts", "I. Janssens", "H. Le Treut"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2003
+  }, {
+    "title": "Exploration of parametric uncertainty in a surface mass balance model applied to the Greenland Ice Sheet",
+    "authors": ["P.W. Fitzgerald", "J.L. Bamber", "J.K. Ridley", "J.C. Rougier"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2012
+  }, {
+    "title": "Near surface water layer discovered within the Greenland ice sheet during winter conditions from firn cores, ground based radar, and Operation IceBridge radars",
+    "authors": ["R.R. Forster", "J.E. Box", "C. Miege", "E.W. Burgess", "L. Koenig", "J.D. Paden", "P.S. Gogineni"],
+    "year": 2011
+  }, {
+    "title": "Numerical modeling of the energy balance and the englacial temperature of the Greenland ice sheet. Calculations for the ETH-Camp location (West Greenland, 1155m a.s.l.)",
+    "authors": ["W. Greuell", "T. Konzelmann"],
+    "venue": "Global Planet. Change,",
+    "year": 1994
+  }, {
+    "title": "Recent cooling in coastal southern Greenland and relation with the North Atlantic Oscillation",
+    "authors": ["E. Hanna", "J. Cappelen"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2003
+  }, {
+    "title": "Runoff and mass balance of the Greenland Ice Sheet: 1958–2003",
+    "authors": ["P. Huybrechts", "I. Janssens", "J. Cappelen", "K. Steffen", "A. Stephens"],
+    "venue": "J.Geophys. Res., 110,D13108,",
+    "year": 2005
+  }, {
+    "title": "GISS analysis of surface temperature change",
+    "authors": ["J. Hansen", "R. Ruedy", "J. Glascoe", "M. Sato"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1999
+  }, {
+    "title": "Global surface temperature change",
+    "authors": ["M. Sato", "K. Lo"],
+    "venue": "Rev. Geophys., 48, RG4004,",
+    "year": 2010
+  }, {
+    "title": "Greenland ice-sheet contribution to sea-level rise buffered by meltwater storage in firn.Nature",
+    "authors": ["J. Harper", "N. Humphrey", "W.T. Pfeffer", "J. Brown", "X. Fettweis"],
+    "year": 2012
+  }, {
+    "title": "Sediment transport to the Arctic Ocean and adjoining cold oceans",
+    "authors": ["B. Hasholt", "N. Bobrovitskaya", "J. Bogen", "J. McNamara", "S.H. Mernild", "D. Milbourn", "D.E. Walling"],
+    "venue": "Nord. Hydrol.,",
+    "year": 2006
+  }, {
+    "title": "Temperature index melt modelling in mountain regions",
+    "authors": ["R. Hock"],
+    "venue": "J. Hydrol.,",
+    "year": 2003
+  }, {
+    "title": "Thermal tracking of meltwater retention in Greenland’s accumulation area",
+    "authors": ["N.F. Humphrey", "J.T. Harper", "W.T. Pfeffer"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2012
+  }, {
+    "title": "The treatment of meltwater retention in mass-balance parameterizations of the Greenland ice sheet",
+    "authors": ["I. Janssens", "P. Huybrechts"],
+    "venue": "Ann. Glaciol.,",
+    "year": 2000
+  }, {
+    "title": "Observed reductions of surface solar radiation at sites in the United States and worldwide",
+    "authors": ["B.G. Liepert"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2002
+  }, {
+    "title": "Greenland ice sheet surface mass-balance modeling in a 131-yr perspective, 1950–2080",
+    "authors": ["S.H. Mernild", "G.E. Liston", "C.A. Hiemstra", "J.H. Christensen"],
+    "venue": "J. Hydrometeor.,",
+    "year": 2010
+  }, {
+    "title": "New temperature distribution maps for Greenland",
+    "authors": ["A. Ohmura"],
+    "venue": "Z. Gletscherkd. Glazialgeol.,",
+    "year": 1987
+  }, {
+    "title": "An overview of the global historical climatology network temperature database",
+    "authors": ["T.C. Peterson", "R.S. Vose"],
+    "venue": "Bull. Amer. Meteor. Soc.,",
+    "year": 1997
+  }, {
+    "title": "Retention of Greenland runoff by refreezing: Implications for projected future sea level change",
+    "authors": ["W.T. Pfeffer", "M.F. Meier", "T. H"],
+    "venue": "Illangasekare,",
+    "year": 1991
+  }, {
+    "title": "Thermohaline circulation hysteresis: A model intercomparison",
+    "authors": ["S. Rahmstorf"],
+    "venue": "Coauthors,",
+    "year": 2005
+  }, {
+    "title": "Parameterization of melt rate and surface temperature on Greenland ice sheet.Polarforschung",
+    "authors": ["N. Reeh"],
+    "year": 1991
+  }, {
+    "title": "Climate/chemistry effects of the Pinatubo volcanic eruption simulated by the UIUC stratosphere/troposphere GCM with interactive photochemistry",
+    "authors": ["E.V. Rozanov", "M.E. Schlesinger", "N.G. Andronova", "F. Yang", "S.L. Malyshev", "V.A. Zubov", "T.A. Egorova", "B. Li"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2002
+  }, {
+    "title": "Physical conditions, carbon transport, and climate change impacts in a northeast Greenland fjord",
+    "authors": ["S. Rysgaard", "T. Vang", "M. Stjernholm", "B. Rasmussen", "A. Windelin"],
+    "venue": "Kiilsholm,",
+    "year": 2003
+  }, {
+    "title": "An image-enhanced DEM of the Greenland ice sheet",
+    "authors": ["T.A. Scambos", "T. Haran"],
+    "venue": "Ann. Glaciol.,",
+    "year": 2002
+  }, {
+    "title": "The polar automatic weather station project of the University of Wisconsin",
+    "authors": ["C.R. Stearns", "G.A. Weidner"],
+    "venue": "Proc. Int. Conf. on the Role of the Polar Regions in Global Change,",
+    "year": 1991
+  }, {
+    "title": "Surface climatology of the Greenland Ice Sheet: Greenland Climate Network 1995–1999",
+    "authors": ["K. Steffen", "J.E. Box"],
+    "venue": "J. Geophys. Res., 106,",
+    "year": 2001
+  }, {
+    "title": "Abdalati, 1996: Greenland Climate Network: GC-Net",
+    "authors": [],
+    "venue": "Special report on glaciers, ice sheets, and volcanoes, Research and Engineering Laboratory",
+    "year": 1996
+  }, {
+    "title": "DMI SYNOP AWS 04416 summit data status",
+    "authors": ["E. Vaarby-Laursen"],
+    "venue": "March 2010. Danish Meteorological Institute Tech. Rep. 10-09,",
+    "year": 2010
+  }, {
+    "title": "Momentum budget of the atmospheric boundary layer over the Greenland Ice Sheet and its surrounding seas",
+    "authors": ["J.H. van Angelen", "M.R. van den Broeke", "W.J. van de Berg"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2011
+  }, {
+    "title": "Twenty-one years of mass balance observations along the K-transect, West Greenland",
+    "authors": ["W.Boot", "C.J.P.P. Smeets", "H. Snellen", "M.R. van denBroeke", "J. Oerlemans"],
+    "venue": "Earth Syst. Sci. Data,",
+    "year": 2012
+  }, {
+    "title": "Surface mass balance model intercomparison for the Greenland ice sheet",
+    "authors": ["C. Vernon", "J.L. Bamber", "J.E. Box", "M.R. van den Broeke", "X. Fettweis", "E. Hanna", "P. Huybrechts"],
+    "venue": "Cryosphere Discuss.,",
+    "year": 2012
+  }, {
+    "title": "Extending Greenland temperature records into the late eighteenth century",
+    "authors": ["B.M. Vinther", "K.K. Andersen", "P.D. Jones", "K.R. Briffa", "J. Cappelen"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2006
+  }, {
+    "title": "Surface mass-balance changes of the Greenland ice sheet since 1866",
+    "authors": ["L.M. Wake", "P. Huybrechts", "J.E. Box", "E. Hanna", "I. Janssens", "G.A. Milne"],
+    "venue": "Ann. Glaciol.,",
+    "year": 2009
+  }, {
+    "title": "Global dimming and brightening: An update beyond",
+    "authors": ["onig-Langlo", "E.G. Dutton", "A. Tsvetkov"],
+    "venue": "J. Geophys. Res., 114,",
+    "year": 2009
+  }],
+  "id": "SP:31e54fcde9a82f85cc0d7e0c4bc964cb952d69bd",
+  "authors": [{
+    "name": "JASON E. BOX",
+    "affiliations": []
+  }],
+  "abstractText": "Meteorological station records, ice cores, and regional climate model output are combined to develop a continuous 171-yr (1840–2010) reconstruction of Greenland ice sheet climatic surface mass balance (Bclim) and its subcomponents including near-surface air temperature (SAT) since the end of the Little Ice Age. Independent observations are used to assess and compensate errors.Melt water production is computed using separate degree-day factors for snow and bare ice surfaces. A simple meltwater retention scheme yields the time variation of internal accumulation, runoff, and bare ice area. At decadal time scales over the 1840–2010 time span, summer (June–August) SAT increased by 1.68C, driving a 59% surface meltwater production increase. Winter warming was12.08C. Substantial interdecadal variability linked with episodic volcanism and atmospheric circulation anomalies is also evident. Increasing accumulation and melt rates, bare ice area, and meltwater retention are driven by increasing SAT. As a consequence of increasing accumulation and melt rates, calculated meltwater retention by firn increased 51%over the period, nearly compensating a 63% runoff increase. Calculated ice sheet end ofmelt season bare ice area increased more than 5%. Multiple regression of interannual SAT and precipitation anomalies suggests a dominance of melting on Bclim and a positive SAT precipitation sensitivity (132Gt yr K or 6.8% K). The Bclim component magnitudes from this study are compared with results from Hanna et al. Periods of shared interannual variability are evident. However, the long-term trend in accumulation differs in sign.",
+  "title": "Greenland Ice Sheet Mass Balance Reconstruction. Part II: Surface Mass Balance (1840–2010)*"
+}

@@ -1,0 +1,481 @@
+{
+  "sections": [{
+    "text": "of sulfur dioxide (SO2), plays a major role in the overall impact of volcanism on the atmosphere and climate. The accurate assessment of this impact is currently hampered by the poor knowledge of volcanic SO2 emissions. Here, using an inversion procedure, we show how assimilating snapshots of the volcanic SO2 load derived from the Infrared Atmospheric Sounding Interferometer (IASI) allows for reconstructing both the flux and altitude of the SO2 emissions with an hourly resolution. For this purpose, the regional chemistry-transport model CHIMERE is used to describe the dispersion of SO2 when released in the atmosphere. As proof of concept, we study the 10 April 2011 eruption of the Etna volcano (Italy), which represents one of the few volcanoes instrumented on the ground for the continuous monitoring of SO2 degassing.\nWe find that the SO2 flux time-series retrieved from satellite imagery using the inverse scheme is in agreement with ground observations during ash-poor phases of the eruption. However, large discrepancies are observed during the ashrich paroxysmal phase as a result of enhanced plume opacity affecting ground-based ultraviolet (UV) spectroscopic retrievals. As a consequence, the SO2 emission rate derived from the ground is underestimated by almost one order of magnitude.\nAltitudes of the SO2 emissions predicted by the inverse scheme are validated against an RGB image of the Moderate Resolution Imaging Spectroradiometer (MODIS) capturing the near-source atmospheric pathways followed by\nEtna plumes, in combination with forward trajectories from the Hybrid Single Particle Lagrangian Integrated Trajectory (HYSPLIT) model. At a large distance from the source, modelled SO2 altitudes are compared with independent information on the volcanic cloud height. We find that the altitude predicted by the inverse scheme is in agreement with snapshots of the SO2 height retrieved from recent algorithms exploiting the high spectral resolution of IASI. The validity of the modelled SO2 altitude is further confirmed by the detection of a layer of particles at the same altitude by the spaceborne Cloud-Aerosol Lidar with Orthogonal Polarization (CALIOP). Analysis of CALIOP colour and depolarization ratios suggests that these particles consist of sulfate aerosols formed from precursory volcanic SO2.\nThe reconstruction of emission altitude, through inversion procedures which assimilate volcanic SO2 column amounts, requires specific meteorological conditions, especially sufficient wind shear so that gas parcels emitted at different altitudes follow distinct trajectories. We consequently explore the possibility and limits of assimilating in inverse schemes infrared (IR) imagery of the volcanic SO2 cloud altitude which will render the inversion procedure independent of the wind shear prerequisite.\nPublished by Copernicus Publications on behalf of the European Geosciences Union."
+  }, {
+    "heading": "1 Introduction",
+    "text": "Among the various gaseous compounds released by volcanoes, sulfur emissions are of major concern as they exert a fundamental role on the atmosphere and climate (Oppenheimer et al., 2011). The impact on climate of major eruptions, which emit sulfur-rich gases (and mainly sulfur dioxide; SO2) directly into the stratosphere, has long been recognized (McCormick et al., 1995). In addition to major eruptions, more frequent intermediate-size eruptions impacting the lower stratosphere have also been pointed out as a possible cause of the recent pause in the global warming trend (Vernier et al., 2011; Solomon et al., 2011; Neely et al., 2013; Santer et al., 2013, 2014). Secondary sulfate aerosols, which result from the oxidation of sulfur gases in the atmosphere, are the main protagonists of this volcanic forcing. Micronsize sulfate aerosols, whose lifetime may reach a few years in the stratosphere, are capable of scattering solar radiation and cause transient cooling of the atmosphere from regional to global scales (Robock, 2000). They may also catalyze the destruction of the stratospheric ozone (Solomon, 1999).\nIn contrast, less powerful tropospheric eruptions are generally considered harmless in terms of climatic impact. Indeed, in the troposphere, aerosols are rapidly washed out by precipitations and have a short lifetime (Stevenson et al., 2003). However, sulfate aerosols may reduce ice crystal nucleation rate and impact the properties of high altitude cirrus clouds which play a crucial role in the climate system (Kuebbeler et al., 2012). Furthermore, even the degassing processes of lowest intensity, such as persistent passive degassing outside of eruptive episodes, may provide a large natural background of aerosols which may substantially affect the properties of low altitude meteorological clouds and the radiative state of the atmosphere (Yuan et al., 2011; Schmidt et al., 2012; Ebmeier et al., 2014).\nApart from their climatic impact, volcanic sulfur-rich emissions may also fuel episodes of considerable air pollution. Such pollution is recorded both locally near the volcanic source as well as at a far distance, as exemplified by two long-lasting icelandic eruptions, the historical 1783– 1784 Laki eruption (Thordarson and Self, 2003) and the 2014–2015 eruption of Bardarbunga volcano (Boichu, 2015; Boichu et al., 2015). Enhanced air pollution by sulfate particles was also recorded at a large distance for eruptions with much lower sulfur budgets (e.g. in Germany on 19 April 2010 by the Eyjafjallajökull icelandic eruption Ansmann et al., 2011). Acid precipitations triggered by sulphur-rich emissions also have detrimental effects on the environment and ecosystems (Delmelle, 2003).\nThe altitude of injection of volcanic sulfur in the atmosphere strongly impacts the trajectory and long-range dispersal of sulfur gases, but also their lifetime. Indeed, the amount of oxidizing agents required for the oxidation of SO2 to sulfate aerosols as well as the amount of precipitation depend on altitude at a first order (Graf et al., 1997; Stevenson et al.,\n2003). For its part, the release rate of sulfur dioxide integrated over the duration of the eruption determines the total mass of SO2 gaseous precursor emitted into the atmosphere.\nVolcanic emission flux and altitude are prone to significant variations with time, even during the course of a single volcanic event, as the type and intensity of eruptive activity are subject to dramatic changes in response to complex magmatic and hydrothermal processes taking place in the interior of the volcanic system (Petersen et al., 2012; Stohl et al., 2011; Boichu et al., 2013). Therefore, a specific strategy for determining the flux and altitude of volcanic sulfur-rich gas emissions has to be developed in order to improve the characterization of the effects of volcanism on the atmosphere. In order to be applicable to both (1) remote volcanoes lacking any monitoring facility on the ground, which is the rule rather than the exception, and (2) volcanic events that might be so intense that ground measurements become dysfunctional, such a strategy has to rely on satellite observations.\nVolcanic flux can be reconstructed using satellite imagery according to different methods involving various degrees of sophistication (Carn and Bluth, 2003; Merucci et al., 2011; Surono et al., 2012; Lopez et al., 2013; Theys et al., 2013). Among these, inverse modelling approaches are currently capable of retrieving the volcanic flux with an hourly temporal resolution using a chemistry-transport model in combination with SO2 hyperspectral imagery (Boichu et al., 2013, 2014). These methods usually rely on independent information on the altitude of SO2 emissions at the source in order to initialize the chemistry-transport model.\nOn the other hand, reconstruction of altitude, independently of flux, can be achieved from back trajectory studies by looking at the location of a particular gas parcel at a particular time (Hughes et al., 2012). First attempts at reconstructing flux and altitude simultaneously have focused on the retrieval of the emission profile with altitude, assuming a constant volcanic flux emitted on a short time span (Eckhardt et al., 2008; Kristiansen et al., 2010). More recently, strategies for inverting both flux and altitude in a single pass based on SO2 column amount (CA) maps have been proposed and implemented on specific cases (Moxnes et al., 2014). However, the success of such strategies strongly depends on the existence of sufficient wind shear, either transverse to the plume or along the plume, in order to distinguish different trajectories and/or advection velocities for gas parcels emitted at different altitudes. Such favourable conditions are not always met, depending on the meteorological conditions that prevail at the time of the eruption, as well as the range of emission altitudes during the eruption. For instance, the recent May 2010 Eyjafjallajökull eruption has provided an example where the volcanic cloud transport has been shown to be less dependent on the assumed altitude of injection (Flemming and Inness, 2013; Boichu et al., 2013).\nIn order to improve the robustness of inverse modelling schemes, it is now becoming possible to assimilate independent observations of volcanic cloud altitude derived directly\nAtmos. Chem. Phys., 15, 8381–8400, 2015 www.atmos-chem-phys.net/15/8381/2015/\nfrom space imagery. These recently developed algorithms allow for mapping the SO2 cloud altitude using the same hyperspectral images as the ones used for SO2 load estimation, which makes them particularly suitable for a simultaneous inversion of flux and altitude. Such algorithms have been developed for various sensors working in the infrared (IR), such as IASI, or in the ultraviolet (UV)-visible, such as OMI and GOME-2 (Carboni et al., 2012; Clarisse et al., 2014; Yang et al., 2010; Nowlan et al., 2011; Rix et al., 2012). These advanced products yield complementary detection levels in terms of concentration and altitude.\nIn this paper, we explore the possibility and limits of assimilating volcanic SO2 altitudes from spaceborne imagery in inverse schemes. We focus on the case of the 10–11 April 2011 lava fountain eruption of Etna volcano (Italy), which was captured by multiple hyperspectral IR IASI satellite images. We combine SO2 column amount observations derived from IASI with the Eulerian chemistry-transport model CHIMERE, through an inverse modelling procedure, so as to quantify the flux and altitude of emissions as a function of time during the course of the eruption.\nWe start with a comparison of the SO2 flux determined by the inversion against continuous SO2 emission rates measured from a ground-based UV spectroscopic monitoring network installed on the flanks of Etna. Such a comparison between space-derived emission rates and ground observations is only possible under rare circumstances, as few volcanoes are instrumented on the ground with such facilities (Edmonds et al., 2003; Arellano et al., 2008; Galle et al., 2010). This opportunity allows us to discuss the possibility of combining both monitoring strategies (ground-based versus space-based) in order to capture the full range of emission rates that characterize the successive stages of an eruption.\nFurthermore, the consistency of the predicted altitudes is tested against several independent sources of information. First, a high-spatial resolution RGB MODIS image capturing the volcanic cloud at short range from the volcano is used to validate the estimations of emission altitudes derived from our inversion. To do so, we use the MODIS image in combination with forward trajectories from the Lagrangian HYSPLIT model. Second, semi-direct observations of the volcanic cloud altitude at large distance from the source are compared with our predictions. SO2 altitudes derived directly from IASI images allow for assessing the potential bias between our inversion results on one hand and the IASI advanced algorithm on the other. Detection of the volcanic cloud captured by a track of the spaceborne CALIOP lidar is also compared to our estimated altitude. The potential implications in terms of a simultaneous retrieval of SO2 gas and sulfate aerosol components in volcanic clouds are discussed in light of the latter comparison."
+  }, {
+    "heading": "2 Methodology",
+    "text": ""
+  }, {
+    "heading": "2.1 Inversion procedure",
+    "text": ""
+  }, {
+    "heading": "2.1.1 Chemistry-transport model",
+    "text": "The atmospheric dispersal of the volcanic cloud is described using the CHIMERE Eulerian chemistry-transport model (CTM; Boichu et al., 2013, 2014). The model accounts for various physico-chemical processes affecting the SO2 released in the atmosphere, including transport, turbulent mixing, diffusion, dry deposition, wet scavenging and gas/aqueous-phase chemistry. However, the conversion of SO2 to sulfate aerosols is not implemented in this study due to uncertainty on the numerous factors controlling this process in a volcanic context. CHIMERE CTM is driven by meteorological fields from the Weather Research and Forecasting (WRF) model (Skamarock et al., 2008), which is forced by NCEP (National Centers for Environmental Prediction) reanalysis data on a 6-h basis (Kalnay et al., 1996). WRF meteorological fields have a 20 km × 20 km horizontal grid and 30 hybrid sigma-pressure vertical layers extending up to ∼ 19 km. CHIMERE CTM has the same horizontal resolution (20km×20km) but a finer vertical resolution with 29 hybrid sigma-pressure vertical layers extending up to 150 hPa (∼ 13 kma.s.l.). SO2 emissions are released along a Gaussian profile centered at a specific height with a full width at half maximum of 100 m."
+  }, {
+    "heading": "2.1.2 Observations",
+    "text": "SO2 column amount maps were retrieved from measurements of the Infrared Atmospheric Sounding Interferometer (IASI) carried on board the polar-orbiting MetOp-A satellite (Clerbaux et al., 2009). Since 2007, global coverage has been provided twice a day (mean overpass times at ∼ 09:30 and 21:30 local time at the Equator) with a pixel footprint of 12 km diameter (at nadir) and full swath width of 2200 km. The Fourier transform spectrometer spans a spectral range from 645 to 2760 cm−1 with no gaps, an apodized resolution of 0.5 cm−1 and a sampling of 0.25 cm−1. It covers three bands of SO2 absorption in the mid-infrared (Clarisse et al., 2012). Here, a series of four SO2 column amount maps (10 April 2011 a.m. and p.m., 11 April a.m. and p.m.) was calculated using the algorithm of Clarisse et al. (2014). After the retrieval of the SO2 altitude, which is described in Sect. 2.2.2, an optimal estimation scheme with generalized noise covariance, similar to the one of Carboni et al. (2012), is used for SO2 column retrieval."
+  }, {
+    "heading": "2.1.3 Inversion settings",
+    "text": "The inversion procedure aims at reconstructing the temporal variations of both the flux and the altitude of volcanic SO2 emissions with an hourly resolution. The inverse scheme uses satellite observations of SO2 column amounts in combi-\nwww.atmos-chem-phys.net/15/8381/2015/ Atmos. Chem. Phys., 15, 8381–8400, 2015\nnation with a chemistry-transport model as a forward model (Boichu et al., 2013, 2014). The inverse problem is solved by determining the time history of SO2 emissions, in terms of flux and altitude, that minimizes (in the least squares sense) the misfit between observed and modelled spatial and temporal distributions of SO2 for the series of four IASI images of the SO2 cloud (10 April a.m. and p.m., 11 April a.m. and p.m.).\nThe inversion procedure developed by Boichu et al. (2013, 2014) assumed a coexistence of SO2 and aerosols above the volcanic source, which is generally verified. The altitude of aerosol emissions, estimated from independent radar ground observations, was hence used as a proxy of the altitude of SO2 emissions to reconstruct SO2 flux emissions. Here, the algorithm extends this procedure by considering the altitude of SO2 emissions as an additional source parameter to reconstruct. Except for a nonnegative constraint on flux values, no a priori knowledge on SO2 flux and emission altitude is required in this inversion procedure. However, in order to retain a reasonable number of parameters, we conducted preliminary tests with nine candidate emission altitudes, ranging from 4 km to 12 km a.s.l., with a spacing of 1 km. The lowest altitude is just above the altitude of Etna, which culminates at 3.4 kma.s.l. Results showed that the best fit to observations is reached with only two emission altitudes at 4 and 7 kma.s.l. Considering more than two altitudes marginally improves the fit.\nA smoothing scheme is applied on the variations of flux with time only (i.e. no smoothing is applied across different altitude bins). The amount of smoothing is adjusted by a single meta-parameter in the inversion, namely roughness (higher roughness values correspond to less smoothing). Figure 1 shows how the misfit to observations increases significantly for roughness values< 0.56 th−3. However, as underlined by the logarithmic scale for roughness axis in Fig. 1, the misfit remains almost constant for roughness exceeding 0.56 th−3, which is consequently chosen as the optimal roughness in our inversion scheme. The set of pixels corresponding to a mass load below the detection threshold (null detection) is decimated by a factor 3 to both tackle numerical diffusion biases and attribute less weight to null detection in the inverse scheme, as null detection may correspond to low SO2 concentrations in reality (Boichu et al., 2013)."
+  }, {
+    "heading": "2.2 Products used for validation",
+    "text": ""
+  }, {
+    "heading": "2.2.1 Ground observations",
+    "text": "A network of nine ultraviolet (UV) spectrometers has been scanning continuously the sky of Mt. Etna since 2005 (Salerno et al., 2009). On 10 April 2011, three out of the nine spectrometers of the network intersected Etna’s plume at a distance of ∼ 14 km from the summit craters (Bonaccorso et al., 2011). If UV radiation received by these instruments is sufficient (i.e. during daylight hours, under favourable me-\nteorological conditions and during eruptive periods emitting an optically thin volcanic plume), such a network allows for monitoring the SO2 flux emitted by the volcano with a temporal resolution of ∼ 6 min. Hence, on 10 April 2011, Etna SO2 emission rates could be measured from 7 a.m. to 3 p.m. (Bonaccorso et al., 2011) allowing for the capture of the 10 April eruptive episode which, fortunately, occurred mostly during daylight hours.\nA permanent network of 32 broadband seismic stations is installed on Mt. Etna. The network is designed to monitor the temporal evolution of the seismic tremor, which is continuous at Etna, and is closely related to variations of the volcanic activity. Of interest here is to explore the root mean square (RMS) amplitude of the seismic tremor (smoothed on a 5 min-long sliding window in the frequency band 0.5–5 Hz) recorded at the EBEL station, which is the closest station to the south-east Crater (SEC) where the lava fountain activity took place on 10 April."
+  }, {
+    "heading": "2.2.2 Satellite observations",
+    "text": "The altitude of the SO2 cloud is retrieved from IASI observations using the algorithm outlined in Clarisse et al. (2014), which estimates the altitude independently from the column. Here we summarize the main features of the algorithm and refer to the aforementioned study for full details. Central is the use of a response function f (z, S), which is a weighted vector projection of the observed IASI spectrum S onto different Jacobians representative of perturbations of SO2 at different altitudes z. These Jacobians are derived by perturbing a representative background atmosphere with small amounts of SO2 at different altitudes. The retrieved altitude corresponds to that altitude for which the response function reaches its maximum. The Jacobians at a given altitude were calculated numerically with the finite difference method, i.e. from the difference of two forward modelled spectra with and\nAtmos. Chem. Phys., 15, 8381–8400, 2015 www.atmos-chem-phys.net/15/8381/2015/\nwithout SO2 at that given altitude, and with the rest of the atmospheric parameters representative of the geographical area we wish to study. For this study 30 Jacobians were calculated representing SO2 perturbations from 1 up to 30 km.\nFor the Nabro eruption, Clarisse et al. (2014) found from coincident CALIPSO and MLS observations that the retrieved altitudes from this algorithm are typically accurate up to 1–2 km for all but the weakest concentrations (e.g. uncertainty is greater at the edges of the plume). This algorithm does not rely on any a priori information on the altitude. This is an appealing feature, as all of the extracted information comes directly from the observed spectrum, and is not being weighted with a priori information. However, for very small SO2 spectral signatures, this also means that the algorithm can return unrealistic altitudes (typically, either very high or very low altitude values). These outlier values are usually found at the plume edges. The second peculiarity of this algorithm is that it does not rely on an inverse model, nor on iterative fitting. Calculation of the response function is almost instantaneous, and this makes the algorithm highly suitable for Near Real Time (NRT) applications. However, the use of a constant background atmosphere can introduce a bias on the retrieved altitudes. This is especially the case if the background water vapour atmospheric profile differs significantly from the real one.\nTwo Etna plumes leaving Sicily could be RGB-imaged on 10 April 2011 (12:30 UT) using Level 1B radiances at three spectral bands (459–479, 545–565 and 620–670 nm) of the MODerate Resolution Imaging Spectroradiometer (MODIS) carried on-board the polar orbiting AQUA satellite. Radiances are provided with a resolution of 250 m at nadir. Visible channels are rarely used for volcanic applications due to the difficulty of unambiguously discriminating volcanic clouds from other types of aerosols (Zakšek et al., 2013), compared to the IR channels widely exploited for ash remote sensing (Watson et al., 2004; Prata, 2009; Dubuisson et al., 2014). Here, the histogram of the number of pixels at each radiance level for the blue channel of the RGB MODIS image was stretched in order to outline the presence of a thinner plume which would otherwise remain invisible.\nA vertically resolved profile of the distant volcanic cloud of Etna was acquired with the Cloud-Aerosol lidar with Orthogonal Polarization (CALIOP), carried onboard the CALIPSO satellite, which is an elastic backscatter lidar operating at 532 and 1064 nm. CALIOP lidar observations have been used to provide snapshots of the vertical distribution of volcanic aerosols along the satellite track from stratospheric (Haywood et al., 2010) but also tropospheric (Winker et al., 2012; Vernier et al., 2011) eruptions of moderate intensity. The Etna eruption studied here is of lower magnitude than eruptions previously studied using CALIOP observations. Given the age of the volcanic cloud at the time of intersection with the CALIOP track (already 12 h-old according to the dispersal model), we consequently expect to detect a relatively thin layer of aerosols. However, we take advantage\nof a night track (00:26 UT on 11 April 2011) which favours a higher signal to noise ratio for the Level 1 total attenuated backscatter signal (i.e combined signal from molecular and aerosol backscattering) at 532 nm. This allows for detecting the tenuous aged Etna cloud. Information on the altitude, the total colour ratio (the integrated attenuated total colour ratio, defined as the ratio formed by dividing the layer-integrated attenuated backscatter at 1064 nm by the layer-integrated attenuated backscatter at 532 nm) and the depolarization ratios (volume and particulate) of both aerosol and cloud layers from CALIOP Level 2 products are used to discriminate volcanic aerosols from surrounding upper-tropospheric meteorological clouds. Unfortunately, Etna plume drifted toward the South East for this eruption. It consequently travelled over the Mediterranean Sea and did not overpass any groundbased lidar station which could have delivered less noisy lidar signals.\nThe fraction of meteorological clouds present at a given IASI pixel is estimated using the Cloud Cover Factor (CCF) from EUMETSAT IASI Level 2 products (August et al., 2012)."
+  }, {
+    "heading": "2.2.3 Trajectory model",
+    "text": "The Hybrid Single Particle Lagrangian Integrated Trajectory (HYSPLIT) model of the Air Resources Laboratory of the National Oceanic and Atmospheric Administration (NOAA) is used to compute air parcel trajectories (Draxler and Rolph, 2014). For our application to Etna, both forward and backward trajectories are calculated with HYSPLIT which is driven by NCEP/GDAS (Global Data Assimilation System) 3-hourly meteorological reanalysis with a latitude/longitude resolution of 1 ◦ × 1 ◦ and 23 vertical layers up to 20 hPa."
+  }, {
+    "heading": "3 Results and validation",
+    "text": ""
+  }, {
+    "heading": "3.1 SO2 flux emissions: ground versus satellite",
+    "text": "A series of four IASI SO2 column amount maps (Fig. 2 left) are used for constraining the reconstruction of both flux and altitude of Etna’s emissions by inverse modelling (histograms in Top of Fig. 3). On the first map (Fig. 2a left), a few pixels indicate the presence of SO2 close to Etna on 10 April at around 08:00 UT1, which supports an eruption start before this time. The assimilation of these acquisitions in the inverse scheme dates the first release of SO2 between 05:00 and 07:00 UT, with a low flux of ∼ 50 th−1. So early, UV radiation is insufficient for ground UV-spectrometers to operate (top of Fig. 3, green line).\nAcquisition of the second image around 20:00 on 10 April highlights a large SO2 cloud with a complex horseshoe shape, which could suggest the existence of significant wind shear (Fig. 2b left). The location and mass load of the part\n1All times are UT (Universal Time), unless otherwise specified.\nwww.atmos-chem-phys.net/15/8381/2015/ Atmos. Chem. Phys., 15, 8381–8400, 2015\n10˚ 20˚ 30˚ 40˚\n30˚\n40˚ Etna\n1 2 3 4\nDU\n10˚ 20˚ 30˚ 40˚\n30˚\n40˚\n30˚\n40˚\n30˚\n40˚\n30˚\n40˚\n30˚\n40˚\n10˚ 20˚ 30˚ 40˚\n30˚\n40˚\n10˚ 20˚ 30˚ 40˚\n30˚\n40˚\n2011/04/10, 08:00 UT\n2011/04/10, 20:00 UT\n2011/04/11, 08:00 UT\n2011/04/11, 18:30 UT\nIASI Model\n(a)\n(b)\n(c)\n(d)\nFigure 2. Maps of SO2 column amounts (DU) in the Etna volcanic cloud on 10 and 11 April 2011 (left) retrieved from IASI observations acquired over a time window centered at the date indicated, and (right) simulated with the CHIMERE chemistry-transport model initialized with emissions reconstructed by the inversion procedure. Regions in grey indicate column amounts < 0.1 DU.\nof the volcanic cloud with the highest SO2 column amount is well reproduced (Fig. 2b right). However, the observed SO2 cloud appears thinner than in the model which does not manage to fully reproduce its complex shape. This discrepancy may be due to the overestimation of plume dispersion resulting from numerical diffusion inherent to Eulerian models (Freitas et al., 2012; Boichu et al., 2013).\nSO2 cloud detections at distance from Sicily at 20:00 indicate that a large batch of SO2 has been released from Etna between the previous IASI detection at 8:00 and well before 20:00. Although IASI observations at 20:00 were acquired hours after the end of the eruption, the assimilation in the inverse procedure of these data as well as observations acquired later on 11 April, allows us to reconstruct in details the chronology of the gas emissions in the hours preceding the eruption, throughout the paroxysmal phase and until the end of this episode of unrest (top of Fig. 3). After weak emissions characterized by low flux values of ∼ 50 th−1 early morning on 10 April, a significant increase of the SO2 flux is\nobserved from ∼ 8:00. This increase is simultaneously measured with the ground network of UV-spectrometers which records similar flux values (up to 600 th−1; (top of Fig. 3 – green line), well in excess of background values of ∼ 62 th−1 recorded between 8 and 9 April 2011 and early morning on 10 April (Bonaccorso et al., 2011). Tremor amplitude, which is commonly used to track changes of the volcanic activity at Etna (Alparone et al., 2003), also indicates a simultaneous increase of the seismicity (bottom of Fig. 3).\nWhereas most emissions were released before 10:00 at an altitude of 4 kma.s.l. according to the model, the jump of emissions to a higher altitude (7 km) seems to occur concurrently with the intensification of degassing from 11:00. This escalation of the flux, reaching values up to ∼ 1600 th−1 between 12:00 and 13:00, coincides with a sharp increase of the tremor seismic activity (bottom of Fig. 3). Yet, although the paroxysmal phase is observed through flux values reconstructed from spaceborne observations and seismic activity, ground UV observations instead record simultaneously\nAtmos. Chem. Phys., 15, 8381–8400, 2015 www.atmos-chem-phys.net/15/8381/2015/\na sharp decrease of the SO2 flux around 11:00. In the same period of time, ash emissions start to be released (Bonaccorso et al., 2011; grey area in Fig. 3), which reveals the increasing degree of explosivity of the eruption and the occurrence of magma fragmentation triggering ash discharge. The comparison between ground and satellite-derived fluxes therefore indicates a good agreement during ash-poor periods of the Etna eruption. In contrast, the increasing plume opacity associated with the abundance of ash likely leads to an underestimation of SO2 emission rates derived from ground measurements, reaching almost an order of magnitude (a factor 8 here), during the ash-rich paroxysmal phase of the eruption.\nThe existence of significant wind shear is confirmed by IASI acquisitions on 11 April at ∼ 08:00 and 18:30, which indicate a large elongation and dispersion of the SO2 cloud\n(Fig. 2c and d left). The SO2 cloud covers now more than 1200 km, only 12 h after the previous observations that indicated a much more spatially concentrated SO2 cloud (Fig. 2b left). The model is able to reproduce the SO2 cloud elongation as well as the gradients of SO2 load within the plume (Fig. 2c and d right). Nevertheless, we find a discrepancy between observations and model on these days. The observed SO2 cloud appears extremely narrow which is in disagreement with the model. Numerical diffusion may induce more spreading of the modelled volcanic cloud than observed. Also, in case of a lower SO2 load, the presence of thick meteorological clouds close to the core of the plume on 11 April a.m. and p.m. maps, illustrated by the cloud cover fraction from Eumetsat IASI Level 2 products, can hamper the detection of SO2, leading to artifactual gaps in observations (Fig. 4c and d)."
+  }, {
+    "heading": "3.2 Altitude of emissions and near-source SO2 cloud",
+    "text": "Modelling and IASI acquisitions show a relatively compact SO2 cloud composed of two linked pieces on 10 April p.m. (Fig. 2b). In contrast, subsequent maps indicate a torn apart, elongated plume (Fig. 2c and d). This behaviour demonstrates the existence of an intense wind shear in the meteorological fields leading to very different trajectories followed\nwww.atmos-chem-phys.net/15/8381/2015/ Atmos. Chem. Phys., 15, 8381–8400, 2015\nby parts of the SO2 cloud initially originating from a single location. Such an example illustrates the necessity and importance of rigorously accounting for the varying altitude of emissions in order to accurately describe the long-range dispersal of volcanic clouds.\nThe temporal evolution of the emission altitude reconstructed with the inversion procedure indicates emissions mainly at 4 kma.s.l., i.e. 500 m above the summit of Etna, until 10:00 on 10 April (top of Fig. 3). Afterwards, a rapid increase of the altitude, from 4 to 7 kma.s.l., is recorded little ahead of the paroxysmal phase of the eruption, the latter being characterized by a substantial increase of the SO2 flux and intense ash emissions. This result is consistent with the common observation on volcanoes of an increase of the altitude of emission coincident with increasing ash release rate (Sparks et al., 1997; Mastin et al., 2009).\nThese modelled emissions, with contrasting altitudes in a meteorological field prone to intense wind shear, are expected to fuel plumes that subsequently follow different trajectories. Such variations in the altitude of the emissions are confirmed by the MODIS observations acquired at 12:30, shortly after the paroxysm (Fig. 5 left). Thanks to favourable meteorological conditions around Sicily, MODIS radiances at three channels in the visible spectrum (RGB) can be used to track volcanic plumes. The histogram which represents the distribution of the number of pixels at each radiance level, for the blue channel of the RGB MODIS image here, has been stretched to enhance fainter parts of the image and provide a higher contrast. Thanks to this image processing, we are\nable to visualize two Etna plumes travelling out from Sicily, including the weakest one associated to low radiances. These two plumes, showing different opacities, follow different directions.\nTo validate the modelled altitude of emissions, we run the HYSPLIT trajectory model in forward mode. HYSPLIT test is initialized with a first emission at an altitude of 4 kma.s.l. at 09:00 a.m. and a second emission at 7 kma.s.l. at 11:00 a.m. which coincides with the start of the paroxysmal phase. The trajectory is computed until 13:00, the closest time to the MODIS acquisition at 12:30 given the hourly resolution of HYSPLIT. Computed trajectories are in perfect agreement with the direction of the two plumes visible on the RGB MODIS image (Fig. 5 right). Uncertainties on modelled trajectories have been evaluated by varying the altitude of emissions initializing HYSPLIT runs by ±1 km (Fig. 5 right). Whereas the HYSPLIT trajectory for a 4 kmhigh emission at 09:00 a.m. is in agreement with the direction of the Etna plume described by the RGB MODIS image, emissions injected at the same time at an altitude of 3 or 5 km follow very different paths. Concerning emissions at 11:00 a.m., they follow a similar direction whatever their altitude of injection (at 6, 7 or 8 km). However, the velocity of the volcanic plume is drastically different depending on the altitude of emission. Precisely, the velocity increases with the altitude of emissions. Hence, only the HYSPLIT trajectory computed with a 7 km-high emission as input is able to reproduce the length of the volcanic plume observed with the RGB MODIS image. These results consequently attest to the\nAtmos. Chem. Phys., 15, 8381–8400, 2015 www.atmos-chem-phys.net/15/8381/2015/\nweak uncertainty on the altitude of emissions deduced from HYSPLIT runs. They also validate the altitudes and the good timing of the modelled emission retrieved from the inversion procedure."
+  }, {
+    "heading": "3.3 Far-range altitude of the SO2 cloud",
+    "text": ""
+  }, {
+    "heading": "3.3.1 IASI SO2 altitude",
+    "text": "IASI column amounts were used in the inversion procedure to reconstruct the rate and altitude of SO2 emissions. We compare here the altitude of the dispersed Etna SO2 cloud predicted by the model (Fig. 6 right) against the SO2 height retrieved independently using recently developed algorithms exploiting the high spectral resolution of IASI observations (Clarisse et al., 2014; Fig. 6 left). At a given pixel, the modelled altitude corresponds to the altitude at the middle of the layer with a maximal SO2 concentration.\nOverall, we observe an agreement between modelled and observed altitudes which follow the same trend within the volcanic cloud. Whereas the Etna SO2 cloud on 10 April p.m. presents a relatively compact shape, we observe that it covers a broad range of altitudes (Fig. 6b). These variations likely result from the rapid variations of the altitude of emission with time (Fig. 3). The Western part of the horseshoe shape lies at an altitude between 4 and 6 kma.s.l. according to model and observations. The Eastern part reaches an altitude of up to 9 km with the model while IASI indicates altitudes up to 12 km. The two parcels undergo an intense wind shear over this range of altitudes, explaining their very different trajectories. This fuels a substantial elongation of the SO2 cloud, with ending parts lying at drastically different altitudes. This feature is well described by model and observations (Fig. 6c and d). Nevertheless, apart from isolated points with a very high altitude above 11 km, IASI always detects the Eastern part of the SO2 cloud a few kilometres higher than the model. These outlier values likely correspond to noisy spectra, often at the edge of the volcanic cloud, with a too weak SO2 signature to extract any information from them."
+  }, {
+    "heading": "3.3.2 HYSPLIT backward trajectories",
+    "text": "The modelled altitude of the far-range SO2 cloud is also compared with the results obtained from HYSPLIT backward trajectories (Fig. 7). On 11 April at 08:00 UT, the modelled SO2 cloud (colocated in time and space with IASI observations, Fig. 6c) is significantly elongated (top of Fig. 7). This date is chosen for comparison with HYSPLIT as it allows us to select parts of the volcanic cloud that are geographically distant from each other, which reduces the uncertainty in HYSPLIT outputs.\nHYSPLIT indicates that the trajectories initiated at the front of the SO2 cloud, which has almost reached the southeast corner of the Mediterranean Sea, have to start at an al-\ntitude between 7 and 8 kma.s.l. to reach Etna in backward mode (bottom right of Fig. 7). This range of altitudes for the SO2 front is in agreement with the modelled altitude between 7 and 8.5 km. HYSPLIT trajectories initiated at the tail of the SO2 cloud, above Libya, have to start at an altitude between 4 and 5 kma.s.l. to reach back the Etna (bottom left of Fig. 7). This is also in agreement with modelled altitudes between 4 and 5.5 km."
+  }, {
+    "heading": "3.3.3 CALIOP spaceborne lidar observations",
+    "text": "A single track of the CALIOP lidar encountered the Etna volcanic cloud, on 11 April at about 00:26 UT. Spaceborne lidar observations do not directly measure gaseous SO2 but can detect aerosols of various type within the volcanic cloud, either sulfate aerosols or ash (Winker et al., 2012; Vernier et al., 2011). Nevertheless, sulfate aerosols, which are produced by conversion of the SO2 gaseous precursor during its transit in the atmosphere, may co-exist with SO2 within the volcanic cloud. This co-existence is confirmed here by the exploration of the Level 1 and Level 2 CALIOP products and allows us to validate the modelled SO2 cloud altitude by independent observations.\nOur model, based on the assimilation of IASI SO2 column amounts, predicts an SO2 cloud at an altitude between 6.4 and 7.5 kma.s.l. at the location and time of the CALIOP track (Fig. 8). According to the simulated SO2 maps, the CALIOP track has crossed parts of the plume that would have already travelled, at that time, over 1300 km, being 12–15 h old. We consequently expect CALIOP to detect a diluted volcanic cloud, although modelled SO2 maps predict that this track would cross the densest part of the volcanic cloud (bottom of Fig. 8). Indeed, the CALIOP total attenuated backscatter signal at 532 nm detects a weak signal, yet above the noise level, at the location of the SO2 cloud predicted by the model (top of Fig. 8). For latitudes between 34.3 and 35.3◦ N, algorithms delivering CALIOP Level 2 products analyze this signal as the result of an aerosol layer between 7 and 7.5 km of altitude (bottom of Fig. 9). The detection of this thin layer of aerosols benefited from the higher signal-to-noise ratio characterizing night tracks and from its high altitude placing this layer as the first one encountered by the laser beam. The rest of the aerosol layer predicted by the model at latitudes below 34.3◦ N may produce too weak of a signal to exceed the level of noise.\nThis aerosol layer is characterized by a small total colour ratio of 0.16 in average (up to a maximum of ∼ 0.32 if we take into account the large uncertainty on colour ratios due to backscatter signals of low intensity), which is far lower than the colour ratio of neighbour meteorological clouds in 0.5–0.8 (top of Fig. 9). Such a low total colour ratio indicates aerosols of small size and represents a value among the lowest that can be detected from spaceborne lidar observations (Vaughan et al., 2004).\nwww.atmos-chem-phys.net/15/8381/2015/ Atmos. Chem. Phys., 15, 8381–8400, 2015\nParticle depolarization depends on the aerosol shape and has been used to discriminate spherical particles, such as sulfate aerosols or liquid water droplets, from non-spherical particles (ash, ice crystals) in volcanic clouds (Ansmann et al., 2011; Winker et al., 2012; O’Neill et al., 2012). Whereas the particle depolarization ratio at 532 nm falls in the range 0.17– 0.6 for volcanic ash according to ground- and space-based lidar observations (Ansmann et al., 2011; Wiegner et al., 2012; Groß et al., 2012; Derimian et al., 2012; Winker et al., 2012; Pappalardo et al., 2013) and 0.3–0.5 for cirrus ice crystals (Sassen and Benson, 2001; Sassen, 2005; Seifert et al., 2011) (Fig. 10), particles with a near-spherical shape are expected to present a ratio close to zero. Here, the detected layer of Etna aerosols presents a low particulate depolarization ratio of 0.08 on average (up to a maximum of 0.16 if we take into account uncertainties), far lower than the ratios characterizing neighbour meteorological clouds which evolve at the same altitude, in the range 0.29–0.41 (middle of Fig. 9) and lower than the range of ratios characterizing volcanic ash recorded in the literature (Fig. 10). Aerosols characterized by such a small particulate depolarization ratio tend to be spherical. However, we note a particle depolarization ratio (0.08)\nslightly larger than the very low volume depolarization ratio (0.025) for these aerosols, which may indicate a small component of non-sphericity (CALIPSO Science Team and Lidar Science Working Group, 2010).\nIn conclusion, according to colour and depolarization lidar ratios, Etna aerosols observed in this study are fine and rather spherical in shape. As a consequence, they likely correspond to sulfate aerosols with lidar characteristics similar to those observed for sulfate aerosols in stratospheric volcanic clouds (O’Neill et al., 2012; Krotkov et al., 2010). The slight component of non-sphericity might suggest that these aerosols, which travel at the same altitude as neighbour cirrus clouds, could play the role of ice nuclei and represent partially crystallized sulfuric acid droplets (Sassen et al., 1989). As ash particles were emitted during this eruption of Etna (Bonaccorso et al., 2011), we cannot entirely exclude the existence of very fine ash particles, which have not yet settled down, and may present a more spherical shape than expected due to their coating by sulfate aerosols.\nAtmos. Chem. Phys., 15, 8381–8400, 2015 www.atmos-chem-phys.net/15/8381/2015/"
+  }, {
+    "heading": "4 Discussion",
+    "text": ""
+  }, {
+    "heading": "4.1 Complementarity with ground- and space-based ultraviolet observations",
+    "text": "Results presented in Sect. 3.1 demonstrate that methods based on satellite imagery are capable of constraining the temporal evolution of large SO2 fluxes emitted by volcanoes during paroxysmal eruptive phases. On the other hand, ground UV measurements are less likely to succeed in such conditions, as previously illustrated by the 2010 eruption of Mt. Merapi (Indonesia; Surono et al., 2012).\nIndeed, large gas emissions are generally concomitant with abundant ash discharge. When a gas-rich magma rises in the crust toward the surface, magma pressure decreases, favouring volatile exsolution and gas bubble nucleation (Oppenheimer, 2003). Further decompression fuels the growth\nof these gas bubbles. When bubbles are expected to occupy a large volume of the erupting mixture exceeding the threshold of 70–80 %, magma fragmentation takes place (Cashman et al., 2000). Violently expanding bubbles tear the magma apart into fragments which are ejected into the atmosphere, where they solidify into ash particles.\nThe significant plume opacity associated with the abundance of ash may explain the underestimation of the SO2 flux (by a factor of up to 8 here at Etna) by ground UV-DOAS observations during ash-rich phases of the eruption relative to flux values reconstructed from satellite IR observations. Kern et al. (2012) pointed out the significant underestimation (up to 90 %) of SO2 emission rates for high SO2 column density plumes with conventional DOAS (Differential Optical Absorption Spectroscopy) retrieval of ground UV observations which do not take into account a realistic radiative transfer.\nwww.atmos-chem-phys.net/15/8381/2015/ Atmos. Chem. Phys., 15, 8381–8400, 2015\nPlume opacity associated with abundant ash load is expected to be greater than the opacity of high-SO2 density plumes.\nAccordingly, infrared IASI spaceborne observations are also sensitive to the presence of ash. However, the influence of ash presented here is minimized by the use of the ν3 band of SO2 for its retrievals. This band around 7.4 µm, lies well outside the 8–12 µm spectral window where ash has its largest impact. Despite this, it is known that very heavy ash loadings can affect also the ν3 band (Clarisse et al., 2012). While the IASI retrieval algorithm which has been employed here has not been investigated yet for the effects of such thick ash clouds, an inspection of the spectra on 10 April revealed almost no detectable ash. Ash emissions may likely consist of mainly coarse particles which had already settled down at the time of IASI overpass. Possible impact of ash on the SO2 IR retrievals can therefore be excluded for this event. This property of IR observations is fundamental to counterbalance the weaknesses of UV sensors. In addition, thermal IR channels also allow for delivering images of the SO2 cloud at night, which brings more information on the volcanic cloud dispersal compared to UV observations acquired only during daylight hours.\nNevertheless, the complementarity of IR and UV spaceborne sensors should not be overlooked. Although UV satellite acquisitions from sensors like the Ozone Monitoring Instrument (OMI) are less frequent, they have the advantage of imaging SO2 clouds in very humid conditions and at low altitude (i.e. below 5 km: Carn et al., 2008; Surono et al., 2012; McCormick et al., 2013). For its part, IR IASI sensor requires relatively dry conditions and a large thermal contrast between the ground and the air (as in Siberia), to gain sufficient sensitivity for the monitoring of SO2 emissions in the boundary layer (Bauduin et al., 2014). In the near future, the assimilation in our inversion procedure of both IR and UV observations in synergy should allow us to benefit from the complementary advantages of these various sensors. Unfortunately, such a synergy could not be achieved in this study. OMI observations of the volcanic SO2 on 10 April 2011 could not be exploited here as they were largely hampered by the row anomaly, which has affected the quality of the Level 1B radiance data for a particular viewing direction since 2007. A more detailed description of the OMI row anomaly is available at www.knmi.nl/omi/research/product/rowanomalybackground. Furthermore, the Ozone Mapping and Profiler Suite (OMPS) sensor was not launched at the time of the eruption of Etna (Yang et al., 2013).\nThis study has shown that ground-based UV observations miss a large part of the SO2 emitted by volcanoes during ash-rich eruptions. SO2 flux is widely used in volcanology for tracking changes in the volcanic activity and providing crucial indications for eruption forecasting and hazard assessment (Sparks, 2003; Oppenheimer et al., 2011; Surono et al., 2012). At Etna, ground-based derived SO2 emission rate was observed to drastically decrease, whereas the degassing and tremor seismicity were in reality escalating during the paroxysmal period of the activity (Fig. 3). Therefore, temporal variations of SO2 flux delivered by ground UVobservations have to be treated with caution when degassing and volcanic activity intensify. We note that thermal observations, which are commonly used to monitor the volcanic activity as well, were also hampered by the abundance of ash within the plume (Bonaccorso et al., 2011).\nThese discrepancies between ground and spaceborne evaluations of SO2 fluxes challenge our present estimates of the global degassing of sulfur compounds by volcanoes (Andres and Kasgnoc, 1998; Halmer et al., 2002), which may have been significantly under-estimated. Furthermore, the techniques for estimating the abundance of other major chemical compounds degassed by volcanoes (e.g. water, carbon dioxide (CO2), hydrogen sulfide (H2S), halogen halides (including HCl, HF, HBr, etc.) do not directly measure the flux of a specific species. These methods, either Fourier Transform Infrared Spectroscopy or in situ sensing, measure the ratio of concentrations of the specific compound relative to SO2. The flux of these gas species is then calculated by multiplying the SO2 flux, generally estimated using UV-spectroscopy,\nAtmos. Chem. Phys., 15, 8381–8400, 2015 www.atmos-chem-phys.net/15/8381/2015/\nby this ratio (Pyle and Mather, 2009). A revised inventory of volcanic SO2 release should provide a deeper understanding of the broad impact on atmosphere and climate of the large panel of volcanic emissions.\nNotwithstanding, today, only ground-based methods based on UV-DOAS spectroscopy are sensitive enough to detect the low SO2 fluxes that characterize pre-eruptive phases or\npersistent passive volcanic degassing (Burton et al., 2007; Arellano et al., 2008; Boichu et al., 2010; Tamburello et al., 2012). At Etna, we were able to detect by assimilation of IASI satellite imagery low pre-eruptive fluxes of ∼ 50 th−1 early morning between 5:00 and 7:00. These emissions occurred just a few hours before IASI overpass at 08:00, so that they were less affected by dispersion. As a consequence,\nwww.atmos-chem-phys.net/15/8381/2015/ Atmos. Chem. Phys., 15, 8381–8400, 2015\nthey can be used to provide an estimation of the minimum level of satellite detection in terms of flux. However, this detection level is variable with time due to plume dispersion. Indeed, for a given flux value, the possibility to maintain a sufficient column amount in the volcanic cloud decreases as the time interval between the date of emissions and the satellite overpass time increases. The increasing spatial and spectral resolution of forthcoming infrared sensors, such as IASI-NG (Clerbaux and Crevoisier, 2013), should provide a better monitoring of volcanic degassing of low intensity.\nFor now, gathering ground-based and spaceborne SO2 measurements is therefore crucial in order to achieve reliable estimates of the release rate of SO2, both during quiescent and eruptive periods. So far, few attempts have been made at comparing observations of volcanic SO2 acquired by satellite and by ground measurements (Spinei et al., 2010; Campion et al., 2012; Merucci et al., 2011). The main reason for this is that spaceborne or ground-based instruments generally do not measure the same physical quantity in SO2 clouds, but rather measure the integrated SO2 column amount in a line of sight that is specific to the instrument. Most of the time, a rigorous comparison of results obtained by the two methods (ground- vs. satellite-based) can only be achieved by an estimation of a common parameter, such as the SO2 flux emitted at the source. Our method of assimilation of SO2 satellite observations using inversion schemes paves the way for the hybridization of ground- and spaceborne-SO2 observations from various UV and IR sensors in an automatic manner."
+  }, {
+    "heading": "4.2 Strategy towards the assimilation of SO2 cloud height imagery",
+    "text": "By comparing the SO2 cloud altitudes predicted by the inversion against altitudes derived from the analysis of IASI observations, we find a general agreement. This agreement is highlighted by the linear regression (applied on data without outlier values, as detailed below) with a slope near to unity in Fig. 11 (correlation coefficient R2 ∼ 0.6). Nevertheless, we may observe a scatter of the IASI altitudes that increases with model altitude. A systematic bias toward IASI altitudes most often larger than modelled ones may also be noticed. This bias is nevertheless small, as illustrated by the low value of the Y -intercept of the linear regression model (equal to ∼ 1.3 km) given the vertical resolution of the CHIMERE CTM with layer thickness up to ∼ 2 km for altitudes > 7 km and uncertainties of 1–2 km on IASI altitudes.\nThese discrepancies stem from a combination of factors related to (1) SO2 column amount (CA) and (2) background atmosphere:\n1. Altitude information in the ν3 band of SO2 is derived\nmainly from the interference with water vapour absorp-\nAtmos. Chem. Phys., 15, 8381–8400, 2015 www.atmos-chem-phys.net/15/8381/2015/\ntion, which impacts the relative intensity of the different SO2 lines in the observed spectrum. Uncertainty in altitude increases with decreasing spectral signature (and therefore decreasing SO2 CA or decreasing altitude). This explains in large part the scatter of IASI altitude values for low SO2 CA. These are mostly found on the edges and in the tail of the volcanic cloud, as the column amount comes close to the detection threshold (assumed equal to 0.3 DU here). A few isolated IASI pixels with abnormally low IASI altitudes, also very likely correspond to small SO2 CA values (but inherent to the IR, assuming a too low altitude, artificially results in larger column estimates). These points correspond to an altitude of ∼ 2 km according to the IASI retrieval, against 7–8 km in the model. They match the forefront of the volcanic SO2 cloud in the 11 April p.m. image (Fig. 6d left), where the plume features a conspicuous discontinuity. These inconsistent values might also be related to the presence of relatively thick meteorological clouds leading to an underestimation of the retrieved altitude (Fig. 4).\n2. IASI retrievals were performed here using atmospheric\nparameters for the month of August 2011, over quite a large area around Etna, following a near-real-time processing strategy. Biases in this standard atmosphere, as compared to the actual atmosphere on 10–11 April, are likely to affect the retrieved altitude of a few kilometres and explain a large part of the positive bias toward larger IASI altitudes.\nDue to the existence of the different sources of uncertainties listed above, the IASI-derived altitudes should be selected prior to the assimilation process aiming at the reconstruction of the altitude of emissions. Indeed, biases affecting the retrieved altitudes would tend to map into biases in the inverted source history due to the trade-off between emission time and emission height resulting from wind shear. To circumvent these pitfalls, a selection of data characterized by an SO2 load exceeding a certain threshold could be performed before their assimilation in the inversion procedure. Isolated IASI data co-located with a high value of the cloud cover factor could be also discarded for further analysis (Fig. 4).\nThis case study demonstrates the robustness of the altitude retrieval by both the model and IASI NRT products for monitoring SO2 clouds of relatively weak intensity and altitude. Algorithms which exploit spaceborne hyperspectral UV observations generally require higher SO2 loads for delivering information on altitude (Yang et al., 2010; Nowlan et al., 2011; Rix et al., 2012).\nUnder favourable meteorological conditions, volcanic SO2 clouds can be detected as well with spaceborne infrared sensors such as MODIS or SEVIRI (onboard the geostationary Meteosat Second Generation satellite). These instruments cannot provide quantitative estimates on the SO2 abundance in the plume. However, as discussed in Sect. 3.2,\nthe higher spatial (1km × 1km for MODIS IR channels and 250m×250 m for visible channels) or temporal (acquisitions at a specific location every ∼ 15 min for SEVIRI) resolution of these observations in the near-source region provide crucial indications on the trajectory followed by the SO2 plume in the vicinity of the source, as illustrated by the animation using SEVIRI SO2 acquisitions and MODIS SO2 images for the Etna eruption on 10–11 April 2011 (Prata and Corradini, 2014). Consequently, such information could also be exploited and assimilated in an inversion procedure to better constrain the altitude of SO2 emissions."
+  }, {
+    "heading": "4.3 Strategy toward the assimilation of lidar observations",
+    "text": "As shown in Sect. 4.2, reconstructing the altitude of SO2 emissions by inverse modelling could rely on information of the altitude of the dispersed SO2 cloud at distance from the volcanic source. However, images of SO2 cloud height provided by infrared IASI satellite observations are generally not sensitive to SO2 below 5 km. Similarly, the altitude of low-altitude volcanic aerosols, which are often co-existing with SO2 within the volcanic cloud, may be hardly estimated from CALIOP spaceborne lidar observations, as the intensity of backscatter signals may be below the detection limit. In a complementary manner, ground-based lidar measurements can deliver continuous temporal information on the altitude of any aerosol-rich volcanic cloud passing over the station, if not obscured by thick underlying meteorological clouds. Unfortunately, Etna cloud mainly travelled above the Mediterranean Sea during the 2011 April eruption and did not overpass any ground-based lidar station. Notwithstanding, networks of ground-based lidar are growing, especially in Europe and already proved successful in capturing volcanic particles from icelandic eruptions (Ansmann et al., 2011; Pappalardo et al., 2013; Mortier et al., 2013; Derimian et al., 2012; Haeffelin et al., 2012).\nMore broadly, lidar colour and depolarization ratios allow for characterizing the microphysical properties of volcanic aerosols and for identifying the presence of sulfate particles (Ansmann et al., 2011; O’Neill et al., 2012) and [this study]. Therefore, they provide the opportunity to gain a deeper understanding of the conversion of SO2 to sulfate aerosols within volcanic clouds.\nIf available, SO2 differential absorption lidar (SO2 DIAL) observations could provide simultaneously both SO2 flux and altitude profile at the volcanic source. To our knowledge, a single experiment of this kind has been developed and proved successful to estimate volcanic SO2 release rates down to 10 t.d−1 (Edner et al., 1994; Weibring et al., 1998). Indeed, such an experiment requires a costly, heavy and bulky instrumentation with a high power requirement. Passive remotesensing instruments, such as SO2 UV-cameras which are increasingly used in volcanic environments (Burton et al., 2014), are less constraining techniques much more easily de-\nwww.atmos-chem-phys.net/15/8381/2015/ Atmos. Chem. Phys., 15, 8381–8400, 2015\nployable in the field. These imaging systems deliver the 2- D-distribution of SO2 with a high frame rate allowing for the retrieval of SO2 emission rate at high temporal resolution. However, the main disadvantage of such techniques, with limited spectral information, relies on the difficulty for correcting UV spectra so as to account for a realistic radiative transfer between the sun and the instrument, especially during ash-rich phases of eruptions (Kern et al., 2010). In the presence of dense ash-rich plumes, active SO2 DIAL observations require less complex radiative transfer corrections compared to passive remote-sensing techniques and could prove useful."
+  }, {
+    "heading": "5 Conclusions and perspectives",
+    "text": "This study demonstrates our capability to describe accurately the rapidly varying dynamics of volcanic SO2 release with time, in terms of both emission rate and altitude, using inverse modelling procedures combining spaceborne imagery and chemistry-transport modelling.\nRetrieved SO2 flux time series are validated against measurements performed by a network of ground-based ultraviolet (UV) scanning spectrometers during the 10 April 2011 eruption of Etna. While the two methods are found to be in remarkable agreement during ash-poor phases of the eruption, large discrepancies between ground and space-derived fluxes are observed when the eruption shifts toward an ashrich explosive activity. Plume opacity, associated with abundant ash load, leads to a sharp decrease of the apparent SO2 emission rate retrieved from the ground. As a consequence, the SO2 flux is underestimated by nearly one order of magnitude as the eruption reaches its paroxysmal stage. As tracking changes in the SO2 flux is critical for monitoring volcanic activity, this bias suggests that the interpretation of ground-based UV observations in the context of hazard assessment and crisis management should be treated with caution as the activity intensifies. Moreover, the substantial underestimation of SO2 emission rate calls for the necessity to revisit currently available inventories of the global budget of sulfur released by volcanoes. More broadly, since the emission rates of other volcanic gases are generally derived from SO2 flux estimations, their respective budgets should also be reassessed. Nevertheless, ground observations represent the most sensitive technique for detecting the low SO2 fluxes that characterize passive degassing or pre-eruptive phases. Hence, a rigorous description of the whole range of volcanic degassing activity, spanning from persistent degassing up to major explosive eruptions, can only be achieved through a synergy between ground- and space-derived SO2 flux time series.\nAltitudes of SO2 emissions retrieved by the inversion procedure are used as inputs to forward trajectories of the HYSPLIT Lagrangian model. The near-source atmospheric pathways followed by Etna plumes, which are RGB-imaged from\nMODIS satellite observations, coincide with the modelled trajectories, which confirms the validity of the modelled emission characteristics.\nMoreover, the far-range altitude of the volcanic SO2 cloud predicted by our model is validated against various independent sources of information. First, the CHIMERE chemistrytransport model initialized with modelled emissions predicts altitudes of the SO2 cloud, at large distance from the source, which are in agreement with recently developed products of SO2 height retrieved from IASI observations, as well as with backward HYSPLIT trajectories. Second, spaceborne CALIOP lidar observations support the concomitant presence of sulfate aerosols alongside with the modelled volcanic SO2 cloud at thousands of kilometres from the source.\nThese results confirm that both flux and altitude of SO2 emissions are highly variable in time during an eruption. The characterization of these two emission parameters is consequently required to consistently describe the far-range dispersal of volcanic clouds. We have shown that specific wind shear conditions are required to derive the altitude of emissions simultaneously with the SO2 flux if only SO2 column amount maps are assimilated. Alternatively, the assimilation of the volcanic cloud altitude derived directly from hyperspectral imagery (e.g. IASI) should be considered as a promising strategy if these atmospheric conditions are not met. Nevertheless, as these observations would strongly constrain the altitude of emissions retrieved in the inversion procedure, care should be taken in accounting for the various factors affecting observed altitude values. In the specific case of IASI, such factors include the increasing uncertainty on the retrieved altitudes for low SO2 column amounts, the sensitivity to the background atmospheric conditions used in the analysis, and the presence of thick meteorological clouds.\nThis study paves the way for a 4-D characterization of SO2 cloud dispersal using hyperspectral spaceborne imagery through a combination of chemistry-transport modelling and radiative transfer modelling. As these spatial and temporal features of SO2 clouds become accessible, verticallyresolved lidar observations should provide their full potential in bringing insights into the mechanisms of formation and degradation of volcanic sulfate aerosols.\nAcknowledgements. M. Boichu gratefully acknowledges support from the Nord-Pas de Calais Regional Council for her junior research scientist fellowship and from the CaPPA (Chemical and Physical Properties of the Atmosphere) excellence laboratory. L. Clarisse is a Research Associate (Chercheur Qualifié) with F.R.S.-FNRS. He also gratefully acknowledges financial support of ESA within the SACS2-SMASH project which allowed for performing the retrieval of the IASI data set used in this study. The L1 and L2 CALIOP data, as well as the L1B radiances from MODIS/Aqua were obtained through the online archive of the ICARE (Cloud-Aerosol-Water-Radiation Interactions) Data and Services center (CNES, CNRS, Nord-Pas-De-Calais Regional Council, University of Lille, (http://www.icare.univ-lille1.fr/).\nAtmos. Chem. Phys., 15, 8381–8400, 2015 www.atmos-chem-phys.net/15/8381/2015/\nM. Boichu warmly thanks N. Pascal (ICARE) for discussions and advices on CALIOP products and N. Ferlay (LOA) for providing a script for CALIOP data postprocessing. We gratefully acknowledge the NOAA Air Resources Laboratory for the provision of the HYSPLIT trajectory model and for their READY website used in this publication (http://ready.arl.noaa.gov/HYSPLIT.php).\nEdited by: J. Ma"
+  }],
+  "year": 2015,
+  "references": [{
+    "title": "Relationship between tremor and volcanic activity during the Southeast Crater eruption on Mount Etna in early",
+    "authors": ["S. Alparone", "D. Andronico", "L. Lodato", "T. Sgroi"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2000
+  }, {
+    "title": "A time-averaged inventory of subaerial volcanic sulfur emissions",
+    "authors": ["R. Andres", "A. Kasgnoc"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1998
+  }, {
+    "title": "Degassing patterns of Tungurahua volcano (Ecuador) during the 1999–2006 eruptive period, inferred from remote spectroscopic measurements of SO2 emissions",
+    "authors": ["S.R. Arellano", "M. Hall", "P. Samaniego", "Le Pennec", "J.-L", "A. Ruiz", "I. Molina", "H. Yepes"],
+    "venue": "J. Volcanol. Geoth. Res.,",
+    "year": 2006
+  }, {
+    "title": "IASI on Metop-A: operational Level 2 retrievals after five years in orbit",
+    "authors": ["T. August", "D. Klaes", "P. Schlüssel", "T. Hultberg", "M. Crapeau", "A. Arriaga", "A. O’Carroll", "D. Coppens", "R. Munro", "X. Calbet"],
+    "venue": "J. Quant. Spectrosc. Ra.,",
+    "year": 2012
+  }, {
+    "title": "IASI observations of sulfur dioxide (SO2) in the boundary layer of Norilsk",
+    "authors": ["S. Bauduin", "L. Clarisse", "C. Clerbaux", "D. Hurtmans", "Coheur", "P.-F"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2013
+  }, {
+    "title": "High temporal resolution SO2 flux measurements at Erebus volcano, Antarctica",
+    "authors": ["M. Boichu", "C. Oppenheimer", "V. Tsanev", "P. Kyle"],
+    "venue": "J. Volcanol. Geoth. Res.,",
+    "year": 2009
+  }, {
+    "title": "Inverting for volcanic SO2 flux at high temporal resolution using spaceborne plume imagery and chemistry-transport modelling: the 2010 Eyjafjallajökull eruption case study, Atmos",
+    "authors": ["M. Boichu", "L. Menut", "D. Khvorostyanov", "L. Clarisse", "C. Clerbaux", "S. Turquety", "Coheur", "P.-F"],
+    "venue": "Chem. Phys.,",
+    "year": 2010
+  }, {
+    "title": "Improving volcanic sulfur dioxide cloud dispersal forecasts by progressive assimilation of satellite observations",
+    "authors": ["M. Boichu", "L. Clarisse", "D. Khvorostyanov", "C. Clerbaux"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2014
+  }, {
+    "title": "Pollution de l’air en France: le volcan Bárdarbunga en cause",
+    "authors": ["M. Boichu"],
+    "venue": "La Météorologie,",
+    "year": 2015
+  }, {
+    "title": "Volcanological applications of SO2 cameras",
+    "authors": ["M.R. Burton", "F. Prata", "U Platt"],
+    "venue": "J. Volcanol. Geoth. Res.,",
+    "year": 2014
+  }, {
+    "title": "The role of gas percolation in quiescent degassing of persistently active basaltic volcanoes, Earth Planet",
+    "authors": ["M. Burton", "H. Mader", "M. Polacci"],
+    "venue": "Sc. Lett., 264,",
+    "year": 2007
+  }, {
+    "title": "Space-and ground-based measurements of sulphur dioxide emissions from Turrialba Volcano (Costa Rica)",
+    "authors": ["R. Campion", "M. Martinez-Cruz", "T. Lecocq", "C. Caudron", "J. Pacheco", "G. Pinardi", "C. Hermans", "S. Carn", "A. Bernard"],
+    "venue": "B. Volcanol.,",
+    "year": 2012
+  }, {
+    "title": "A new scheme for sulphur dioxide retrieval from IASI measurements: application to the Eyjafjallajökull eruption of April and May 2010",
+    "authors": ["E. Carboni", "R. Grainger", "J. Walker", "A. Dudhia", "R. Siddans"],
+    "venue": "Atmos. Chem. Phys.,",
+    "year": 2012
+  }, {
+    "title": "Daily monitoring of Ecuadorian volcanic degassing from space",
+    "authors": ["S. Carn", "A. Krueger", "S. Arellano", "N. Krotkov", "K. Yang"],
+    "venue": "J. Volcanol. Geoth. Res.,",
+    "year": 2008
+  }, {
+    "title": "Prodigious sulfur dioxide emissions from Nyamuragira volcano",
+    "authors": ["S.A. Carn", "G.J.S. Bluth"],
+    "year": 2003
+  }, {
+    "title": "Magmatic fragmentation, in: Encyclopedia of Volcanoes",
+    "authors": ["K. Cashman", "B. Sturtevant", "P. Papale", "O. Navon"],
+    "year": 2000
+  }, {
+    "title": "Retrieval of sulphur dioxide from the infrared atmospheric sounding interferometer (IASI)",
+    "authors": ["L. Clarisse", "D. Hurtmans", "C. Clerbaux", "J. Hadji-Lazaro", "Y. Ngadi", "Coheur", "P.-F"],
+    "venue": "Atmos. Meas. Tech.,",
+    "year": 2012
+  }, {
+    "title": "The 2011 Nabro eruption, a SO2 plume height analysis using IASI measurements, Atmos",
+    "authors": ["L. Clarisse", "Coheur", "P.-F", "N. Theys", "D. Hurtmans", "C. Clerbaux"],
+    "venue": "Chem. Phys.,",
+    "year": 2014
+  }, {
+    "title": "New Directions: infrared remote sensing of the troposphere from satellite: less, but better",
+    "authors": ["C. Clerbaux", "C. Crevoisier"],
+    "venue": "Atmos. Environ.,",
+    "year": 2013
+  }, {
+    "title": "Environmental impacts of tropospheric volcanic gas plumes, Geol",
+    "authors": ["P. Delmelle"],
+    "venue": "Soc. Sp.,",
+    "year": 2003
+  }, {
+    "title": "Optical properties and radiative forcing of the Eyjafjallajökull volcanic ash layer observed over Lille, France",
+    "authors": ["Y. Derimian", "O. Dubovik", "D. Tanré", "P. Goloub", "T. Lapyonok", "A. Mortier"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2010
+  }, {
+    "title": "HYSPLIT (HYbrid Single-Particle Lagrangian Integrated Trajectory) Model, Tech. Report, NOAA Air Resources Laboratory, Silver Spring, MD, available at: http://ready.arl.noaa.gov/HYSPLIT.php",
+    "authors": ["R. Draxler", "G. Rolph"],
+    "venue": "(last access:",
+    "year": 2015
+  }, {
+    "title": "Remote sensing of volcanic ash plumes from thermal infrared: a case study analysis from SEVIRI, MODIS and IASI instruments",
+    "authors": ["P. Dubuisson", "H. Herbin", "F. Minvielle", "M. Compiègne", "F. Thieuleux", "F. Parol", "J. Pelon"],
+    "venue": "Atmos. Meas. Tech.,",
+    "year": 2014
+  }, {
+    "title": "Systematic satellite observations of the impact of aerosols from passive volcanic degassing on local cloud properties",
+    "authors": ["S.K. Ebmeier", "A.M. Sayer", "R.G. Grainger", "T.A. Mather", "E. Carboni"],
+    "venue": "Atmos. Chem. Phys.,",
+    "year": 2014
+  }, {
+    "title": "Estimation of the vertical profile of sulfur dioxide injection into the atmosphere by a volcanic eruption using satellite column measurements and inverse transport modeling, Atmos",
+    "authors": ["S. Eckhardt", "A.J. Prata", "P. Seibert", "K. Stebel", "A. Stohl"],
+    "venue": "Chem. Phys.,",
+    "year": 2008
+  }, {
+    "title": "Automated, high time-resolution measurements of SO2 flux at Soufrière Hills Volcano, Montserrat",
+    "authors": ["M. Edmonds", "R. Herd", "B. Galle", "C. Oppenheimer"],
+    "venue": "B. Volcanol.,",
+    "year": 2003
+  }, {
+    "title": "Volcanic sulfur dioxide plume forecasts based on UV satellite retrievals for the 2011 Grimsvötn and the 2010 Eyjafjallajökull eruption",
+    "authors": ["J. Flemming", "A. Inness"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2013
+  }, {
+    "title": "Impact of a monotonic advection scheme with low numerical diffusion on transport modeling of emissions from biomass burning",
+    "authors": ["S. Freitas", "L.F. Rodrigues", "K.M. Longo", "J. Panetta"],
+    "venue": "J. Adv. Model. Earth Syst.,",
+    "year": 2011
+  }, {
+    "title": "Volcanic sulfur emissions: estimates of source strength and its contribution to the global sulfate",
+    "authors": ["Graf", "H.-F", "J. Feichter", "B. Langmann"],
+    "venue": "distribution, J. Geophys. Res.,",
+    "year": 1997
+  }, {
+    "title": "H.-F.: The annual volcanic gas input into the atmosphere, in particular into the stratosphere: a global data set for the past 100 years",
+    "authors": ["M. Halmer", "Schminke", "H.-U", "Graf"],
+    "venue": "J. Volcanol. Geoth. Res.,",
+    "year": 2002
+  }, {
+    "title": "Using horizontal transport characteristics to infer an emission height time series of volcanic SO2",
+    "authors": ["E. Hughes", "L. Sparling", "S. Carn", "A. Krueger"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2012
+  }, {
+    "title": "Theoretical description of functionality, applications, and limitations of SO2 cameras for the remote sensing of volcanic plumes",
+    "authors": ["C. Kern", "F. Kick", "P. Lübcke", "L. Vogel", "M. Wöhrbach", "U. Platt"],
+    "venue": "Atmos. Meas. Tech.,",
+    "year": 2010
+  }, {
+    "title": "Remote sensing and inverse transport modeling of the Kasatochi eruption sulfur dioxide",
+    "authors": ["N. Kristiansen", "A. Stohl", "A. Prata", "A. Richter", "S. Eckhardt", "P. Seibert", "A. Hoffmann", "C. Ritter", "L. Bitar", "T. Duck", "K. Stebel"],
+    "venue": "cloud, J. Geophys. Res.,",
+    "year": 2009
+  }, {
+    "title": "Dispersion and lifetime of the SO2 cloud from the August 2008 Kasatochi eruption",
+    "authors": ["N.A. Krotkov", "M.R. Schoeberl", "G.A. Morris", "S. Carn", "K. Yang"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2010
+  }, {
+    "title": "Effects of stratospheric sulfate aerosol geo-engineering on cirrus clouds",
+    "authors": ["M. Kuebbeler", "U. Lohmann", "J. Feichter"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2012
+  }, {
+    "title": "Evaluation of Redoubt Volcano’s sulfur dioxide emissions by the Ozone Monitoring Instrument",
+    "authors": ["T. Lopez", "S. Carn", "C. Werner", "D. Fee", "P. Kelly", "M. Doukas", "M. Pfeffer", "P. Webley", "C. Cahill", "D. Schneider"],
+    "venue": "J. Volcanol. Geoth. Res.,",
+    "year": 2012
+  }, {
+    "title": "A multidisciplinary effort to assign realistic source parameters to models of volcanic ash-cloud transport and dispersion during eruptions",
+    "authors": ["A. tik", "C.F. Waythomas"],
+    "venue": "J. Volcanol. Geoth. Res.,",
+    "year": 2009
+  }, {
+    "title": "Volcano monitoring applications of the Ozone Monitoring Instrument",
+    "authors": ["B.T. McCormick", "M. Edmonds", "T.A. Mather", "R. Campion", "C.S. Hayer", "H.E. Thomas", "S.A. Carn"],
+    "venue": "Geol. Soc. Sp.,",
+    "year": 2013
+  }, {
+    "title": "Atmospheric effects of the Mt Pinatubo",
+    "authors": ["M.P. McCormick", "L.W. Thomason", "C.R. Trepte"],
+    "venue": "eruption, Nature,",
+    "year": 1995
+  }, {
+    "title": "Reconstruction of SO2 flux emission chronology from spacebased measurements",
+    "authors": ["L. Merucci", "M. Burton", "S. Corradini", "G.G. Salerno"],
+    "venue": "J. Volcanol. Geoth. Res.,",
+    "year": 2011
+  }, {
+    "title": "Detection and characterization of volcanic ash plumes over Lille during the Eyjafjallajökull eruption",
+    "authors": ["A. Mortier", "P. Goloub", "T. Podvin", "C. Deroo", "A. Chaikovsky", "N. Ajtai", "L. Blarel", "D. Tanre", "Y. Derimian"],
+    "venue": "Atmos. Chem. Phys.,",
+    "year": 2013
+  }, {
+    "title": "Separation of ash and sulfur dioxide during the 2011 Grímsvötn eruption",
+    "authors": ["E. Moxnes", "N. Kristiansen", "A. Stohl", "L. Clarisse", "A. Durant", "K. Weber", "A. Vogel"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2013
+  }, {
+    "title": "Recent anthropogenic increases in SO2 from Asia have minimal impact on stratospheric aerosol",
+    "authors": ["R. Neely", "O. Toon", "S. Solomon", "Vernier", "J.-P", "C. Alvarez", "J. English", "K. Rosenlof", "M. Mills", "C. Bardeen", "J. Daniel", "J.P. Thayer"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2013
+  }, {
+    "title": "Retrievals of sulfur dioxide from the Global Ozone Monitoring Experiment 2 (GOME-2) using an optimal estimation approach: algorithm and initial validation",
+    "authors": ["C. Nowlan", "X. Liu", "K. Chance", "Z. Cai", "T. Kurosu", "C. Lee", "R. Martin"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2011
+  }, {
+    "title": "Properties of Sarychev sulphate aerosols over the Arctic",
+    "authors": ["N.T. O’Neill", "C. Perro", "A. Saha", "G. Lesins", "T.J. Duck", "E.W. Eloranta", "G.J. Nott", "A. Hoffman", "M.L. Karumudi", "C Ritter", "A. Bourassa", "I. Abboud", "S.A. Carn", "V. Savastiouk"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2011
+  }, {
+    "title": "Volcanic degassing",
+    "authors": ["C. Oppenheimer"],
+    "venue": "in: Treatise on Geochemistry,",
+    "year": 2003
+  }, {
+    "title": "Sulfur degassing from volcanoes: source conditions, surveillance, plume chemistry and earth system impacts",
+    "authors": ["C. Oppenheimer", "B. Scaillet", "R.S. Martin"],
+    "venue": "Rev. Mineral. Geochem.,",
+    "year": 2011
+  }, {
+    "title": "Four-dimensional distribution of the 2010 Eyjafjallajökull volcanic cloud over Europe observed by EARLINET",
+    "authors": ["F. ner", "M. Wiegner", "K.M. Wilson"],
+    "venue": "Atmos. Chem. Phys.,",
+    "year": 2013
+  }, {
+    "title": "The impact of the atmosphere on the Eyjafjallajökull 2010 eruption plume",
+    "authors": ["G.N. Petersen", "H. Bjornsson", "P. Arason"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2011
+  }, {
+    "title": "Satellite detection of hazardous volcanic clouds and the risk to global air",
+    "authors": ["A. Prata"],
+    "venue": "traffic, Nat. Hazards,",
+    "year": 2009
+  }, {
+    "title": "SEVIRI SO2 animation and MODIS SO2 images for the eruption of Etna on 10–11",
+    "authors": ["F. Prata", "S. Corradini"],
+    "venue": "http://savaa.nilu.no/Etna.aspx (last access:",
+    "year": 2011
+  }, {
+    "title": "Halogens in igneous processes and their fluxes to the atmosphere and oceans from volcanic activity: a review",
+    "authors": ["D. Pyle", "T. Mather"],
+    "venue": "Chem. Geol.,",
+    "year": 2008
+  }, {
+    "title": "Volcanic SO2, BrO and plume height estimations using GOME2 satellite measurements during the eruption of Eyjafjallajökull",
+    "authors": ["M. Rix", "P. Valks", "N. Hao", "D. Loyola", "H. Schlager", "H. Huntrieser", "J. Flemming", "U. Koehler", "U. Schumann", "A. Inness"],
+    "venue": "J. Geophys. Res.-Atmos.,",
+    "year": 2010
+  }, {
+    "title": "Volcanic eruptions and climate",
+    "authors": ["A. Robock"],
+    "venue": "Rev. Geophys.,",
+    "year": 1998
+  }, {
+    "title": "Volcanic contribution to decadal changes in tropospheric temperature",
+    "authors": ["B.D. Santer", "C. Bonfils", "J.F. Painter", "M.D. Zelinka", "C. Mears", "S. Solomon", "G.A. Schmidt", "J.C. Fyfe", "J.N. Cole", "L. Nazarenko", "K.E. Taylor", "F.J. Wentz"],
+    "venue": "Nat. Geosci.,",
+    "year": 2014
+  }, {
+    "title": "Polarization in Lidar",
+    "authors": ["K. Sassen"],
+    "year": 2005
+  }, {
+    "title": "A midlatitude cirrus cloud climatology from the facility for atmospheric remote sensing. Part II: Microphysical properties derived from lidar depolarization",
+    "authors": ["K. Sassen", "S. Benson"],
+    "venue": "J. Atmos. Sci.,",
+    "year": 2001
+  }, {
+    "title": "B.-K.: Backscatter laser depolarization studies of simulated stratospheric aerosols: crystallized sulfuric acid droplets",
+    "authors": ["K. Sassen", "H. Zhao", "Yu"],
+    "venue": "Appl. Optics,",
+    "year": 1989
+  }, {
+    "title": "Importance of tropospheric volcanic aerosol for indirect radiative forcing of climate",
+    "authors": ["A. Schmidt", "K.S. Carslaw", "G.W. Mann", "A. Rap", "K.J. Pringle", "D.V. Spracklen", "M. Wilson", "P.M. Forster"],
+    "venue": "Atmos. Chem. Phys.,",
+    "year": 2012
+  }, {
+    "title": "Temporal variations of flux and altitude of volcanic sulfur dioxide emissions M., Wandinger, U., and Wiegner, M.: Ice formation in ashinfluenced clouds after the eruption of the Eyjafjallajökull volcano",
+    "authors": ["M. Boichu"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2010
+  }, {
+    "title": "A description of the advanced research WRF version 3, NCAR technical note, NCAR/TN-475+",
+    "authors": ["J. Skamarock", "W. Klemp", "J. Dudhia", "D. Gill", "D. Barker", "M. Duda", "X. Huang", "W. Wang", "J. Powers"],
+    "venue": "STR, doi:10.5065/D68S4MVH,",
+    "year": 2008
+  }, {
+    "title": "Stratospheric ozone depletion: a review of concepts and history",
+    "authors": ["S. Solomon"],
+    "venue": "Rev. Geophys.,",
+    "year": 1999
+  }, {
+    "title": "The persistently variable background stratospheric aerosol layer and global climate",
+    "authors": ["S. Solomon", "J. Daniel", "R. Neely", "Vernier", "J.-P", "E. Dutton", "L. Thomason"],
+    "year": 2011
+  }, {
+    "title": "Forecasting volcanic eruptions",
+    "authors": ["R. Sparks"],
+    "venue": "Earth Planet. Sci. Lett., 210,",
+    "year": 2003
+  }, {
+    "title": "Volcanic Plumes",
+    "authors": ["R. Sparks", "M. Bursik", "S. Carey", "J. Gilbert", "L. Glaze", "H. Sigurdsson", "A. Woods"],
+    "year": 1997
+  }, {
+    "title": "Validation of ozone monitoring instrument SO2 measurements in the Okmok volcanic cloud over Pullman, WA",
+    "authors": ["E. Spinei", "S.A. Carn", "N.A. Krotkov", "G.H. Mount", "K. Yang", "A. Krueger"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2008
+  }, {
+    "title": "The tropospheric sulphur cycle and the role of volcanic SO2",
+    "authors": ["D. Stevenson", "C. Johnson", "W. Collins", "R. Derwent"],
+    "venue": "Geol. Soc. Sp.,",
+    "year": 2003
+  }, {
+    "title": "The 2010 explosive eruption of Java’s Merapi volcano – a “100",
+    "authors": ["Surono", "P. Jousset", "J. Pallister", "M. Boichu", "M.F. Buongiorno", "A. Budisantoso", "F. Costa", "S. Andreastuti", "F. Prata", "D. Schneider", "L. Clarisse", "H. Humaida", "S. Sumarti", "C. Bignami", "J. Griswold", "S. Carn", "C. Oppenheimer", "F. Lavigne"],
+    "year": 2010
+  }, {
+    "title": "Passive vs. active degassing modes at an open-vent volcano (Stromboli, Italy), Earth Planet",
+    "authors": ["G. Tamburello", "A. Aiuppa", "E. Kantzas", "A. McGonigle", "M. Ripepe"],
+    "year": 2012
+  }, {
+    "title": "Atmospheric and environmental effects of the 1783–1784 Laki eruption: a review and reassessment",
+    "authors": ["T. Thordarson", "S. Self"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2001
+  }, {
+    "title": "Thermal infrared remote sensing of volcanic emissions using the moderate resolution imaging spectroradiometer",
+    "authors": ["I. Watson", "V. Realmuto", "W. Rose", "A. Prata", "G. Bluth", "Y. Gu", "C. Bader", "T. Yu"],
+    "venue": "J. Volcanol. Geoth. Res.,",
+    "year": 2004
+  }, {
+    "title": "Monitoring of volcanic sulphur dioxide emissions using differential absorption lidar (DIAL), differential optical absorption spectroscopy (DOAS), and correlation spectroscopy (COSPEC)",
+    "authors": ["P. Weibring", "J. Edner", "S. Svanberg", "G. Cecchi", "L. Pantani", "R. Ferrara", "T. Caltabiano"],
+    "venue": "Applied Phys. B,",
+    "year": 1998
+  }, {
+    "title": "Characterization of the Eyjafjallajökull ashplume: Potential of lidar remote sensing",
+    "authors": ["M. Wiegner", "J. Gasteiger", "S. Groß", "F. Schnell", "V. Freudenthaler", "R. Forkel"],
+    "venue": "Phys. Chem. Earth,",
+    "year": 2012
+  }, {
+    "title": "CALIOP observations of the transport of ash from the Eyjafjallajökull volcano",
+    "authors": ["D.M. Winker", "Z. Liu", "A. Omar", "J. Tackett", "D. Fairlie"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2010
+  }, {
+    "title": "First observations of SO2 from the satellite Suomi NPP OMPS: widespread air pollution events over China, Geophys",
+    "authors": ["K. Yang", "R.R. Dickerson", "S.A. Carn", "C. Ge", "J. Wang"],
+    "year": 2013
+  }, {
+    "title": "Microphysical, macrophysical and radiative signatures of volcanic aerosols in trade wind cumulus observed by the A-Train",
+    "authors": ["T. Yuan", "L.A. Remer", "H. Yu"],
+    "venue": "Atmos. Chem. Phys.,",
+    "year": 2011
+  }, {
+    "title": "Monitoring volcanic ash cloud top height through simultaneous retrieval of optical data from polar orbiting and geostationary satellites",
+    "authors": ["K. Zakšek", "M. Hort", "J. Zaletelj", "B. Langmann"],
+    "venue": "Atmos. Chem. Phys.,",
+    "year": 2013
+  }],
+  "id": "SP:6a9a90718af49eba59565baa6177c9f0aa50ed37",
+  "authors": [{
+    "name": "M. Boichu",
+    "affiliations": []
+  }, {
+    "name": "L. Clarisse",
+    "affiliations": []
+  }, {
+    "name": "J.-C. Péré",
+    "affiliations": []
+  }, {
+    "name": "H. Herbin",
+    "affiliations": []
+  }, {
+    "name": "P. Goloub",
+    "affiliations": []
+  }, {
+    "name": "F. Thieuleux",
+    "affiliations": []
+  }, {
+    "name": "F. Ducos",
+    "affiliations": []
+  }, {
+    "name": "C. Clerbaux",
+    "affiliations": []
+  }, {
+    "name": "D. Tanré",
+    "affiliations": []
+  }],
+  "abstractText": "Sulfur-rich degassing, which is mostly composed of sulfur dioxide (SO2), plays a major role in the overall impact of volcanism on the atmosphere and climate. The accurate assessment of this impact is currently hampered by the poor knowledge of volcanic SO2 emissions. Here, using an inversion procedure, we show how assimilating snapshots of the volcanic SO2 load derived from the Infrared Atmospheric Sounding Interferometer (IASI) allows for reconstructing both the flux and altitude of the SO2 emissions with an hourly resolution. For this purpose, the regional chemistry-transport model CHIMERE is used to describe the dispersion of SO2 when released in the atmosphere. As proof of concept, we study the 10 April 2011 eruption of the Etna volcano (Italy), which represents one of the few volcanoes instrumented on the ground for the continuous monitoring of SO2 degassing. We find that the SO2 flux time-series retrieved from satellite imagery using the inverse scheme is in agreement with ground observations during ash-poor phases of the eruption. However, large discrepancies are observed during the ashrich paroxysmal phase as a result of enhanced plume opacity affecting ground-based ultraviolet (UV) spectroscopic retrievals. As a consequence, the SO2 emission rate derived from the ground is underestimated by almost one order of magnitude. Altitudes of the SO2 emissions predicted by the inverse scheme are validated against an RGB image of the Moderate Resolution Imaging Spectroradiometer (MODIS) capturing the near-source atmospheric pathways followed by Etna plumes, in combination with forward trajectories from the Hybrid Single Particle Lagrangian Integrated Trajectory (HYSPLIT) model. At a large distance from the source, modelled SO2 altitudes are compared with independent information on the volcanic cloud height. We find that the altitude predicted by the inverse scheme is in agreement with snapshots of the SO2 height retrieved from recent algorithms exploiting the high spectral resolution of IASI. The validity of the modelled SO2 altitude is further confirmed by the detection of a layer of particles at the same altitude by the spaceborne Cloud-Aerosol Lidar with Orthogonal Polarization (CALIOP). Analysis of CALIOP colour and depolarization ratios suggests that these particles consist of sulfate aerosols formed from precursory volcanic SO2. The reconstruction of emission altitude, through inversion procedures which assimilate volcanic SO2 column amounts, requires specific meteorological conditions, especially sufficient wind shear so that gas parcels emitted at different altitudes follow distinct trajectories. We consequently explore the possibility and limits of assimilating in inverse schemes infrared (IR) imagery of the volcanic SO2 cloud altitude which will render the inversion procedure independent of the wind shear prerequisite. Published by Copernicus Publications on behalf of the European Geosciences Union. 8382 M. Boichu et al.: Temporal variations of flux and altitude of volcanic sulfur dioxide emissions",
+  "title": "Temporal variations of flux and altitude of sulfur dioxide emissions during volcanic eruptions: implications for long-range dispersal of volcanic clouds"
+}
