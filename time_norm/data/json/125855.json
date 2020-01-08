@@ -1,0 +1,643 @@
+{
+  "sections": [{
+    "text": "Plain Language Summary Submarine arc volcanism near subduction zones is both more voluminous, and more finely fragmental, than commonly believed, and this lasts for millions of years. These conclusions result from re-interpretating the origin of fine-grained sediments previously thought to be clay-sized particles from continents (hemi-pelagic mud). The evidence comes from geochemistry, scanning electron microscopy, X-ray diffraction, and grain size analysis of the sediments. The muds contain >25% continentally-sourced material only during Pleistocene glacial stages when it was delivered to IODP drill site U1437 by large meanders of the Kuroshio Current."
+  }, {
+    "heading": "1. Introduction",
+    "text": "Submarine volcanism in island arcs and backarc basins produces large amounts of volcaniclastic sediment (e.g., Carey & Sigurdsson, 1984; Clague et al., 2011; Draut & Clift, 2006). Where the sediment contains >75% volcanic components they are called ash if the average grain size is <2 mm, lapillistone (2–64 mm), or breccia (>64 mm) (Fisher & Schmincke, 1981). However, if the volcanic components are smaller than can be seen with whatever magnification is readily available, then the distinction between ‘‘ash’’ and ‘‘mud’’ is uncertain. This challenge is exacerbated when most of the fine component is glass lacking diagnostic XRD characteristics. Because the grain size distribution for different types of eruptions, melt compositions, and distance from the vent is generally unknown a priori, this uncertainty in nomenclature distorts understanding of how fine-grained and abundant the products of submarine eruptions are.\nTypically, fine-grained sediment with <25% visible ash is called ‘‘hemipelagic mud’’, and such sediment with 25–75% visible ash is called ‘‘tuffaceous mud’’, ‘‘clay with dispersed ash’’, or ‘‘vitric clay’’, with the linguistic implication that the volcanic significance is secondary (e.g., Scudder et al., 2009). When the volcanic components are too fine-grained to be readily identified using a hand lens, smear slide, or thin section, the volcanic significance may be significantly under-estimated. In this paper, we show that geochemical criteria provide clearer quantitative evidence of the volcanic per cent.\nCorrespondence to: J. Gill, gillord@ucsc.edu\nCitation: Gill, J. B., Bongiolo, E. M., Miyazaki, T., Hamelin, C., Jutzeler, M., DeBari, S., et al. (2018). Tuffaceous mud is a volumetrically important volcaniclastic facies of submarine arc volcanism and record of climate change. Geochemistry, Geophysics, Geosystems, 19, 1217–1243. https://doi.org/10. 1002/2017GC007300\nReceived 26 OCT 2017 Accepted 15 FEB 2018 Accepted article online 24 MAR 2018 Published online 17 APR 2018\nVC 2018. American Geophysical Union. All Rights Reserved.\nGILL ET AL. 1217\nThe Integrated Ocean Drilling Project (IODP) provides deep core of unconsolidated sediments and their lithified equivalents in arcs. IODP Expeditions 340 and 350 in the Antilles and Izu arcs, respectively, provide recent examples. This paper presents information for Site U1437 from Expedition 350 behind the Izu arc front (Tamura et al., 2015). Sites U1396 and U1398 are analogues behind the Antilles arc front (Le Friant et al., 2013).\nBy ‘‘behind the arc front’’ we refer to the somewhat arbitrarily defined rear arc region between the volcanic front and backarc. The former is the line of volcanoes nearest the trench and typically 20 km wide. The backarc is characterized by magmatism lacking much subduction influence such as in a backarc basin formed at a spreading center, or by the absence of active volcanism altogether. Most subduction zones have rear arc volcanoes characterized by andesitic stratovolcanoes rather than backarc basin basalts or high-Nb intra-plate basalts. In Izu, the reararc lies between the volcanic front (black line in Figure 1) and the west end of the largely andesitic Rear Arc Seamount Chains (RASC) that lie at a high angle to the arc and have volcano-bounded basins between them (dashed lines in Figure 1). More abundant but smaller and bimodal (basalt, rhyolite) knolls are present closer to, but still rear of, the volcanic front. In Izu, these lie between the black and purples lines in Figure 1 and are called Back Arc Knolls (BAK) (Yuasa & Nohara, 1992). Both types of rear arc magmas (RASC and BAK) differ geochemically from those at the arc front. They typically have higher concentrations of incompatible elements except for the most fluid-mobile ones (e.g., they have higher K2O, Nb/Yb, and La/Yb but lower Ba/La and Pb/Ce ratios) than the volcanic front, and have lower 87Sr/86Sr and 206Pb/204Pb 6 143Nd/144Nd and 176Hf/177Hf isotope ratios. The history of rear arc volcanism was the primary objective of IODP Expedition 350 (Tamura et al., 2015).\nTo the extent that tuffaceous mud(stone)s include non-volcanic components (e.g., bioclasts and terrigenous clay) they can record paleoclimate history at high resolution if the overall sedimentation rate is high. We show that this feature has special value in the Izu rear arc for preserving history of the Kuroshio Current."
+  }, {
+    "heading": "1.1. Site U1437 in the Izu Rear Arc",
+    "text": "IODP Site U1437 was drilled at 31.7908N, 139.0268E in the Izu rear arc (Figure 1; Busby et al., 2017; Tamura et al., 2015). It is 90 km west of the Quaternary volcanic front near the edge of the thickest arc crust. It is on the southeast slope of the 7 Ma Manji Seamount, about 13 km from its summit, and 8 km uphill from the thalweg of the local westward drainage from the arc front (Figure 2). At 2116 mbsl, the site is 1,300 m below the summit of Manji that is one of the large seamounts of the RASC that festoon the western side of the Izu arc.\nGILL ET AL. 1218\nSeven lithologic units were described at Site U1437 (Figure 2a). This study focuses on the four that have large amounts of tuffaceous mud or mudstone (Units I, III, IV, and V), ranging in age from 0 to 9 Ma. The age and composition of tuff-rich Lithologic Unit IV are similar to those of lava dredged from the Manji summit where mineralized plutonic rocks (tonalites) also are exposed (Ishizuka et al., 2002b; Tamura et al., 2015). The age and composition of tuffs in Lithologic Unit II are somewhat similar to those of rhyolite pumice from Meireki, the next seamount east of Manji (Heywood et al., 2016; Hochstaedter et al., 2000; Ishizuka et al., 1998) and identified in Figure 2b.\nThe Izu Arc forms a north-south ridge that rises 5 km above the Shikoku Basin and is the eastern barrier for water circulation within the basin (Figure 1). This circulation is affected by the strong geostrophic Kuroshio Current (KC) that brings water and sediment eastward from the East China Sea through the Okinawa Trough and along the south coast of Japan (Figure 1). Its path is temporally bimodal southeast of Japan (Kawabe, 1995, 2005). Usually, the KC directly exits the Shikoku Basin near the north end of the Izu Arc at 33–348N, >100 km north of Site U1437 (path SM in Figure 1: Mitsudera et al., 2001; Nagano et al., 2013). However, periodically the KC meanders as far south as 308N before flowing south to north along the Izu rear arc and exiting at about the same place as usual (path LM). This large meander mode can last months to decades, and may have been more prevalent during Pleistocene glacial stages if the volume transport and velocity of the KC were lower then (Sawada & Handa, 1998). Current velocities below the KC at the depth of Site U1437 usually are only a few cm/s (Taira & Yanagimoto, 1993) but that is fast enough to transport silt-sized particles. Consequently, water and possibly entrained silt from the East China Sea may periodically reach, and flow northward near, Site U1437, especially during glacial stages. However, the meander paths, velocities, and especially response to climate forcing are poorly known. Site U1437 provides more opportunity to inform these physical oceanographic topics than vice versa.\nSite U1437 was intentionally sited upslope from the modern thalweg of what has been called a ‘‘volcanobounded basin’’ between the Manji and Enpo seamount chains (Busby et al., 2017). It is in an area of thick sediment 7 km southeast of a pronounced break in the modern slope of Manji Seamount (Figure 2b), and is only 100 m higher than the closest part of the thalweg. This sediment blanket forms a terrace-like mounded deposit with a slope 38 that is unmatched on the north side of Manji Seamount or the\nGILL ET AL. 1219\nvolcanoes of the Enpo RASC on the south side of the basin (Ishizuka et al., 2002a, 2002b). Multi-channel seismic reflection images that cross the drill site (Yamashita et al., 2017) show high-amplitude sub-parallel reflectors of on-lapping transparent sediments within Seismic Unit I, and show Seismic Units II to III lapping onto Manji near its break in slope beneath CMP 7300 on Seismic Line NW5 (Figure 2b). This combination of surface morphology and seismic reflection characteristics suggests that the lower half of Lithologic Unit I, from 300 to 682 mbsf, may be a buried contourite ‘‘plaster drift’’ deposit (e.g., Uenzelmann-Neben, 2001) that extends southeastward from the break in slope at Manji Seamount to as far as the drill site. If so, then it may record interactions between periodic northward-flowing large meanders of the KC and the complex topography and activity of the rear arc volcanoes. Data from this depth range are shown in purple in our geochemical figures.\nSite U1437 was drilled to 1806.5 mbsf, and there were two significant surprises. First, the overall linear sedimentation rate (LSR) was higher than expected, 15–20 cm/k.y. from 8 to 2 Ma, 80% of which is noncarbonate. The rate decreased to 12 cm/k.y. at 2 Ma when arc rifting commenced (Taylor, 1992). Most of the time, the rate was 2–4 times higher in the rear arc than in the forearc. Indeed, the LSR was as high as in the Okinawa Trough, much closer to continental Asia and under the main Kuroshio Current (Zheng et al., 2014). Second, 75% of the cored material in the top 1,320 m of the site was tuffaceous mud or mudstone that was considered hemipelagic background sediment with a minor volcanic component (Tamura et al., 2015). Where was the expected volcanic record?"
+  }, {
+    "heading": "1.2. The Tuffaceous Mud and Mudstone, and Intercalated Coarser Volcaniclastics",
+    "text": "Tuffaceous mud is the name used during Expedition 350 and in this paper for what was called ‘‘vitric clayey silt’’ during ODP Expedition 126 or ‘‘clay with dispersed ash’’ at ODP Site 1149 where similar lithologies were found nearby. By definition, these lithologies have 25–75% macroscopic volcanic vitriclasts and crystals. The other 25–75% was considered to come from somewhere other than the arc, deposited in situ as ‘‘hemipelagic rain’’ (Tamura et al., 2015).\nTuffaceous mud and mudstone differ from each other only in their degree of lithification. Consequently, when we mean both we refer to them as tuffaceous mud(stone)s for brevity. At Site U1437, the transition was gradual and considered complete by 427 mbsf for nomenclature purposes, but porosity did not reach a steady state of 30% until the base of Lithologic Unit I at 682 mbsf. Tuffaceous mud(stone) was the dominant lithology in four of the five lithostratigraphic units above 1,320 mbsf. This paper deals mostly with samples from that depth range which is 73% of the site. Tuffaceous mudstone is uncommon at greater depths where the sediments are coarser volcaniclastics including hyaloclastites and peperite.\nAs usual, more attention has been paid to the coarser, more obviously volcaniclastic intervals (e.g., Heywood et al., 2016; Miyazaki et al., 2017; Sato et al., 2017; Schindlbeck et al., 2018). Discrete layers are mostly ash or tuff (i.e., average grain size <2 mm); coarser material (lapilli-ash, lapilli-tuff, lapillistone, or breccia) is minor (<5%). Other expeditions to the same area, such as ODP Leg 126, referred to the ash or tuff as vitric silts or turbidites. They are thought to have been deposited either by suspension settling through the water column from single eruptions, or by seafloor-hugging density currents from single eruptions or secondary mobilizations. The distinction was often ambiguous. The ash often grades normally upward into tuffaceous mud. Less commonly, ash is transported downward into mud by bioturbation. Intimate intercalation of tuffaceous mud(stone)s with ash or tuff is common, especially in Unit IV. Consequently, it was frequently ambiguous where one lithology stopped and another started.\nTuffaceous mud(stone)s constitute 89%, 65%, 22%, and 69% of Lithologic Units I, III, IV, and V, respectively, for a total thickness of 976 m. The median thickness of individual intervals is 30–40 cm but there are >70 intervals >1 m thick, and two intervals in Unit I are 7 m thick. Consequently, the time of uninterrupted mud deposition averaged 3,000 years but on occasion lasted almost 60,000 years. They contain vesicular glass shards (vitriclasts) most of which are colorless where unaltered, plus infrequent crystals of feldspar, pyroxene, and hornblende. They are light gray to brown in Units I and III, grading to light green in Units IV and V. Foraminifers are visible in the upper 800 m of core where the average CaCO3 content is 25%. Diatoms are present but much less common. Bioturbation is widespread.\nVitriclasts in the discrete ash to lapilli intervals during the last million years are mostly rhyolitic, about 3/4 of which are from the volcanic front and 1/4 from the rear arc (plus a few from Japan) based on their chemical\nGILL ET AL. 1220\ncomposition (Schindlbeck et al., 2018). Subordinate shards of andesite also are present, sometimes in the same interval as the felsic ones. Fine seismic stratification is coherent throughout most of the section and laterally continuous for several km (Yamashita et al., 2017)."
+  }, {
+    "heading": "2. Materials and Methods",
+    "text": "Twenty samples that were described on the ship as tuffaceous mud or mudstone from 2 to 1,256 mbsf (21 ka to 8.4 Ma) were chosen for this initial study. They are listed in Table 1 along with a key showing what data we report for each sample. Their stratigraphic positions are shown in Figure 2a. Five of the <1 Ma samples are from glacial intervals (even-numbered MIS labels) and three are from interglacials, as defined for U1437 using oxygen isotope ratios of foraminifers for which the data are in Schindlbeck et al. (2018). For brevity, we refer to the samples using abbreviated names for which full information is given in Table 1. For example, sample B1H2 means Hole U1437B, Core 1H, section 2, offset 60–63 cm.\nMost of our samples were selected tens of cm to more than a meter away from discrete ash layers, although samples B2H5 and B6H1 in Unit I were only a few cm below felsic and mafic ash intervals, respectively. Sample D72R2 is from a 30 cm-thick mudstone within almost 24 m of felsic tuff, and Unit V samples E16R5 and E18R3 are from mudstones intimately intercalated with tuffs.\nMethods used for sample preparation, PSA, XRD, SEM-EDS, chemical, and isotopic analysis are described in supporting information section S1. All samples were leached in dilute acetic or hydrochloric acid to remove carbonate. All figures show concentrations on an anhydrous, carbonate-free basis. Methods used for converting shipboard NGR measurements into K, Th, and U contents at 10 cm intervals, and from that into percent local mass fractions, are described in supporting information section S3. A complete analysis including Pb isotope ratios, of the sepiolite drilling mud used during Expedition 350 (Andrews et al., 2016) also is included in Table 1. We found no evidence that it contaminated our samples."
+  }, {
+    "heading": "3. Results",
+    "text": ""
+  }, {
+    "heading": "3.1. Particle Size Analysis (PSA)",
+    "text": "Some larger vitriclasts, pumice clasts, and crystals were seen in thin section and smear slides on the ship and were the basis for calling the muds ‘‘tuffaceous’’. However, most grains were too small to be identified on the ship. Therefore, we characterized their size distribution at UCSC. We found that most grains are <200 mm and their primary modes are only 5 to 40 mm.\nIn detail, three modes usually are present (Figure 3 and supporting information Table S1) in the acid-leached, freeze-dried, unsieved, and sonicated samples. One mode is between 24 and 40 mm, and usually 34–38 mm. It is the primary mode in samples from interglacial stages and can be almost uni-modal as in Figure 3b. The second is between 5 and 10 mm, usually 7–8 mm. It is the primary mode in samples from glacial stages as in Figure 3a. It is similar in size to loess in China, Japan, and the Okinawa Trough (e.g., Miyazaki et al., 2016; Zheng et al., 2014). Our samples have different relative amounts of the two modes. Sometimes they are clearly resolved (e.g., Figure 3a) but either can be swamped by the other (Figure 3b). A third mode is inferred from a ubiquitous over-abundance of <2 mm (clay-sized) material relative to a normal Gaussian distribution of the finer mode. It is more evident in glacial stage sediments in which the finer mode is abundant (Figure 3a).\nWe interpret the 24–40 mm mode as volcanic in origin because of the SEM images discussed next, and the 5–10 mm mode as from the Asian mainland. The smaller mode is more abundant when the climate was colder and sea level was lower.\nWe determined the amplitude ratio of the 5–10 and 24–40 mm peaks (supporting information Table S1). A value of 0.7 characterizes a Gaussian distribution of the larger peak, and was approached in some samples from interglacial stages (Figure 3a). Conversely, the ratio was as high as 2 (i.e., the smaller mode was twice as abundant as the larger mode, or about 2/3 of the total) in some samples from glacial stages."
+  }, {
+    "heading": "3.2. Componentry, SEM, EPMA, and EDS",
+    "text": "In order to constrain the type and source regions of particles in the <1 Ma unconsolidated tuffaceous muds, we point-counted the components, and used SEM, SEM-EDS, and EPMA to image and determine the chemical composition of individual particles.\nGILL ET AL. 1221\nTa b\nle 1\nCh em\nic al\nA na\nly se\ns an\nd Ke\ny to\nO th\ner D\nat a\nN am\nea B1\nH 2\nB2 H\n2 B2\nH 5\nB3 H\n3 B5\nH 2\nB6 H\n1 B1\n1F 3\nB1 2F\n3 B4\n5X 1\nD 4R\n1 D\n15 R6\nD 24\nR2 D\n43 R7\nb D\n65 R1\nD 68\nR2 D\n72 R2\nE1 6R\n5 E1\n8R 3\nE1 9R\n4 E2\n1R 3\nB1 1F\n3- U N c\nD 65\nR1 -\nU N\nc D\nril lin g M ud\nC m\n60 –6\n3 10\n–1 2\n12 3–\n12 6\n10 6\n99 –1\n02 1–\n4 60\n–6 5\n25 –3\n0 54\n11 3\n63 –6\n4 60\n–6 5\n48 30\n–3 5\n45 78\n44 –4\n5 20\n–2 5\n5– 10\n10 2\nIG SN\nIE A\nSJ 00\n0K IE\nA SJ\n00 4V\nIE A\nSJ 00\n14 IE\nA SJ\n00 4W\nIE A\nSJ 00\n24 IE\nA SJ\n00 2I\nIE A\nSJ 00\n4X IE\nA SJ\n00 4Y\nIE A\nSJ 00\n4Z IE\nA SJ\n00 50\nIE A\nSJ --\n51 IE\nA SJ\n00 52\nIE A\nSJ 00\n53 IE\nA SJ\n00 54\nIE A\nSJ 00\n55 IE\nA SJ\n00 56\nIE A\nSJ 00\n57 IE\nA SJ\n00 58\nIE A\nSJ --\n59 IE\nA SJ\n00 5A\nM IS\n2 4\n5 6\n10 11\n20 21\nLi th\n.U ni\nt I\nI I\nI I\nI I\nI I\nI I\nI III\nIV IV\nIV V\nV V V D ep th (m bs f) 2. 09 6. 23 11 .1 2 18 .6 36 .2 43 .2 92 .6 96 .9 34 0. 1 44 7. 7 56 0. 5 64 2. 7 83 3. 2 10 22 .3 10 49 .1 10 87 .2 12 09 .6 12 25 .6 12 36 .8 12 56 A ge 22 ka 62 12 4 18 1? 33 7 42 0 79 5 84 6 2. 4 M a 3. 2 3. 7 4 4. 6 6. 2 6. 5 6. 8 8 8. 2 8. 3 8. 4 N G R 29 .7 35 .2 17 .9 31 .8 30 .6 16 .2 29 .2 13 .2 21 .2 11 .9 16 23 .1 16 .4 23 .8 19 .7 22 9. 6 9. 2 19 .3 13 La b A LS A LS A LS W SU A LS A LS A LS A LS A LS A LS A LS A LS W SU A LS W SU W SU A LS A LS A LS W SU\nA LS\nA LS\nW SU\nSi O\n2 63\n.9 60\n63 58\n.6 5\n62 .9\n62 .7\n61 .2\n69 .6\n69 .4\n58 .5\n58 .5\n59 45\n.4 3\n62 .5\n50 .8\n2 62\n.7 8\n46 .4\n55 .8\n60 .7\n50 .7\n3 40\n.8 46\n.3 47 .8 Ti O 2 0. 67 0. 69 0. 66 0. 7 0. 68 0. 54 0. 74 0. 35 0. 21 0. 75 0. 66 0. 63 0. 52 0. 44 0. 75 0. 34 0. 97 0. 71 0. 75 0. 96 0. 48 0. 28 0. 24 9 A l2 O 3 14 .7 5 15 .0 5 14 .5 5 14 .8 6 15 .0 5 13 .6 15 .9 12 .2 5 11 .5 15 .2 14 .3 5 15 .1 11 .5 4 11 .2 5 17 .1 9 11 .6 2 17 .7 5 14 .8 5 13 .8 5 15 .0 8 10 .7 7. 84 5. 75 Fe 2O 3 5. 1 6. 71 5. 67 6. 26 5. 28 6. 04 6. 48 3. 29 2. 99 7. 17 6. 51 5. 95 4. 32 4. 53 6. 88 4. 04 10 .7 0 8. 51 8. 53 11 .7 8 4. 26 3. 65 1. 42 M nO 0. 05 0. 07 0. 09 0. 08 0. 06 0. 11 0. 08 0. 13 0. 06 0. 11 0. 08 0. 06 0. 09 0. 13 0. 14 0. 04 0. 16 0. 11 0. 13 0. 22 0. 11 0. 32 0. 02 6 M gO 1. 97 2. 61 1. 89 2. 3 1. 83 1. 81 2. 59 0. 86 0. 67 2. 77 2. 77 2. 62 1. 48 2. 52 3. 76 3. 44 4. 75 4. 15 3. 21 3. 89 1. 97 2. 25 14 .8 4 C aO 1. 35 2. 3 2. 96 3. 67 1. 43 4. 11 1. 94 1. 9 1. 48 4. 13 2. 65 3. 56 14 .9 5 5. 24 6. 26 2. 39 8. 18 4. 54 3. 62 7. 45 17 .2 5 16 .5 8. 55 N a2 O 1. 75 1. 66 2. 49 2. 33 1. 96 2. 72 1. 8 4. 07 4. 1 2. 29 1. 62 1. 45 2. 41 0. 77 3. 31 2. 47 2. 44 1. 87 1. 62 2. 2 2. 43 1. 09 0. 84 K2 O 2. 6 2. 42 1. 85 2. 51 2. 74 1. 41 2. 8 1. 71 2. 29 1. 72 2. 11 2. 33 1. 09 2. 3 1. 38 0. 24 0. 33 0. 75 2. 05 1. 22 1. 97 1. 38 1. 38 P2 O 5 0. 05 0. 12 0. 07 0. 12 0. 04 0. 04 0. 13 0. 05 0. 03 0. 18 0. 14 0. 15 0. 13 0. 12 0. 24 0. 04 0. 05 0. 1 0. 08 0. 07 0. 1 0. 1 0. 04 8 LO I 9. 4 8. 85 8. 24 5. 65 7. 1 10 .1 5 10 .4 5 18 .0 3 11 9. 42 12 .6 8 9. 73 6. 81 6. 94 19 .5 20 18 .0 2 To ta l 92 .1 9 10 1. 10 93 .2 3 10 0. 33 91 .9 7 93 .0 8 10 2. 00 99 .8 9 92 .7 3 10 0. 00 99 .6 0 10 1. 41 99 .9 9 10 0. 87 10 0. 15 10 0. 00 99 .7 6 10 1. 16 10 1. 43 10 0. 54 99 .7 1 99 .7 5 98 .9 3 So ur ce A SJ EB A SJ JB G A SJ A SJ PB PB JB G JB G EB PB JB G PB JB G JB G EB PB PB JB G PB PB O th er In fo d C ,E ,P ,S ,X C ,E ,P ,X C ,E ,P ,X C ,E ,P C ,E ,P C ,E ,P ,S ,X C ,E ,P ,X C ,E ,P ,S ,X X X X X X X Li 50 60 10 30 50 40 30 10 20 40 20 Rb 11 5. 5 98 .8 67 .9 10 1. 1 11 5. 5 34 .4 12 1. 5 18 .6 30 .3 58 .3 78 .8 86 .7 25 69 .6 17 .1 6. 8 5. 3 20 .1 60 .4 23 .7 81 .5 41 .7 67 .5 C s 8. 63 5. 23 8. 06 2. 3 0. 98 21 .6 Y 18 .6 26 .7 22 .1 26 .5 21 .4 23 .6 26 .6 47 .3 25 .7 29 .2 28 .9 27 .1 32 .8 22 .3 31 .2 44 .4 18 .3 23 .1 24 .3 24 .6 22 .8 18 .8 11 .2 Zr 16 2 12 4 12 3 13 8 16 0 10 9 15 7 18 6 17 0 10 5 11 0 11 4 10 2 93 13 8 16 3 38 66 70 46 10 7 70 15 4 Sr 13 2 13 2. 5 15 4 20 0 12 0 14 1. 5 14 2 11 2. 5 97 .3 18 8. 5 13 0. 5 17 1. 5 61 0 98 .5 36 1 11 7 20 5 17 6. 5 22 5 28 1 68 0 98 .8 70 4 N b 12 9. 2 6. 8 10 .0 1 11 .5 7. 5 11 .6 3. 5 3. 5 8. 1 7. 7 7. 6 2. 93 4. 9 6. 95 1. 57 0. 4 1. 9 3. 7 1. 27 7. 6 2. 9 8. 49 Ba 71 6 48 6 75 2 58 4 56 6 47 4 58 5 19 6 22 5 46 6 39 8 71 5 33 9 43 5 23 0 68 10 4 21 8 35 2 16 7 40 8 30 8 56 81 La 23 .7 23 .3 14 .5 25 .0 3 22 .2 10 .3 29 .1 11 12 .2 16 .8 19 .7 21 .7 10 .7 1 14 10 .5 9 5. 41 3. 3 6. 8 9. 6 5. 08 22 .6 10 .3 18 .1 C e 45 .8 45 .9 29 .7 49 .2 7 43 .4 23 .1 56 .7 28 .2 26 .7 35 .6 38 .8 42 .1 24 .4 3 26 .4 24 .3 8 15 .9 9 8. 2 14 .1 19 .7 10 .8 6 44 .1 19 .6 35 .9 Pr 5. 22 5. 54 3. 58 5. 95 4. 86 3. 01 6. 63 4. 26 3. 39 4. 46 5. 01 5. 28 3. 61 3. 39 3. 51 2. 63 1. 17 1. 98 2. 61 1. 63 5. 31 2. 65 4 N d 20 .1 22 .5 15 .3 22 .4 6 19 .1 13 .4 26 .2 21 .1 14 .7 19 .6 20 .4 20 .6 16 13 .9 15 .8 4 12 .6 8 6. 3 9. 6 12 7. 84 21 11 .4 14 .2 Sm 3. 85 4. 86 3. 6 4. 8 3. 82 3. 31 4. 88 5. 91 3. 36 4. 81 4. 63 4. 77 4. 49 3. 03 4. 36 4. 45 1. 96 2. 75 3. 14 2. 56 4. 56 2. 72 2. 74 Eu 0. 75 1. 19 0. 84 1. 1 0. 82 0. 85 1. 23 1. 55 0. 63 1. 2 1. 16 1. 13 1. 17 0. 83 1. 75 0. 89 0. 8 0. 86 0. 88 0. 92 1. 04 0. 65 0. 48 G d 3. 19 4. 52 3. 34 4. 49 3. 34 3. 77 4. 65 7. 53 3. 65 5. 19 4. 79 4. 68 5. 09 3. 85 4. 83 5. 49 2. 4 3. 33 3. 44 3. 4 4. 21 3. 11 2. 21 Tb 0. 47 0. 82 0. 57 0. 75 0. 59 0. 59 0. 8 1. 75 0. 63 0. 83 0. 88 0. 72 0. 94 0. 62 0. 85 1. 15 0. 53 0. 64 0. 65 0. 65 0. 64 0. 48 0. 34 D y 3. 47 4. 6 4. 09 4. 8 3. 73 4. 17 4. 69 8. 55 4. 2 5. 11 4. 96 4. 78 5. 97 3. 52 5. 39 8. 21 3. 4 4. 16 3. 84 4. 34 3. 7 3. 14 2. 05 H o 0. 69 1. 07 0. 84 1. 02 0. 77 0. 85 1. 07 1. 93 0. 9 1. 13 1. 08 1. 03 1. 28 0. 85 1. 18 1. 87 0. 8 0. 95 0. 89 0. 95 0. 87 0. 75 0. 42 Er 2. 39 3 2. 75 2. 72 2. 53 2. 75 3. 03 5. 92 2. 76 3. 26 3. 21 2. 93 3. 59 2. 41 3. 37 5. 71 2. 16 2. 71 2. 83 2. 66 2. 29 2. 16 1. 15 Tm 0. 37 0. 41 0. 4 0. 42 0. 36 0. 39 0. 41 1. 34 0. 44 0. 47 0. 43 0. 41 0. 55 0. 31 0. 5 0. 92 0. 35 0. 4 0. 35 0. 4 0. 34 0. 28 0. 17 Yb 2. 25 3. 02 2. 66 2. 64 2. 71 2. 9 2. 87 5. 97 3. 41 3. 22 3. 02 2. 68 3. 43 2. 27 3. 22 6. 07 2. 84 2. 57 2. 68 2. 41 2. 41 1. 93 1. 12 Lu 0. 32 0. 43 0. 41 0. 42 0. 36 0. 42 0. 43 0. 95 0. 48 0. 47 0. 47 0. 39 0. 54 0. 35 0. 52 0. 96 0. 38 0. 37 0. 36 0. 4 0. 35 0. 3 0. 18 H f 4. 7 3. 6 3. 8 3. 85 4. 5 3. 3 4. 3 5 4. 6 3. 2 3. 4 3. 4 2. 93 2. 7 3. 75 5. 12 1. 4 2. 1 2. 1 1. 49 2. 9 2. 2 3. 93 Ta 0. 8 0. 7 0. 4 0. 85 0. 6 0. 1 0. 8 0. 3 0. 2 0. 8 0. 6 0. 5 0. 29 0. 3 0. 59 0. 22 0. 1 0. 2 0. 3 0. 1 0. 5 0. 2 0. 62 Pb 15 14 .5 2 21 4 8 10 11 5. 65 12 5. 59 4. 53 6 9 5. 43 18 8 16 .1 Th 10 .9 5 8. 56 5. 84 9. 4 8. 43 2. 64 10 .8 5 1. 45 2. 28 5. 1 6. 43 7. 39 2. 39 5. 04 2. 71 1. 2 0. 13 1. 64 3. 55 1. 3 7. 23 3. 01 6. 05 U 2. 61 1. 84 1. 33 2. 27 1. 94 0. 71 2. 53 0. 59 0. 87 1. 57 1. 64 2. 63 0. 89 1. 19 0. 84 0. 53 0. 56 0. 45 0. 93 0. 46 2. 36 0. 93 1. 32 Sc 18 18 17 15 23 19 18 17 .8 12 18 .5 14 .2 29 30 42 .1 11 8 3. 6 V 11 0 14 5 12 6 13 3 12 0 15 9 14 4 31 18 17 2 15 0 13 7 11 5 88 10 6 35 32 7 19 5 23 0 36 2 96 53 35\nGILL ET AL. 1222\nTa b\nle 1.\n(c on\ntin ue\nd)\nN am\nea B1\nH 2\nB2 H\n2 B2\nH 5\nB3 H\n3 B5\nH 2\nB6 H\n1 B1\n1F 3\nB1 2F\n3 B4\n5X 1\nD 4R\n1 D\n15 R6\nD 24\nR2 D\n43 R7\nb D\n65 R1\nD 68\nR2 D\n72 R2\nE1 6R\n5 E1\n8R 3\nE1 9R\n4 E2\n1R 3\nB1 1F\n3- U N c\nD 65\nR1 -\nU N\nc D\nril lin g M ud\nC r\n70 80\n50 63\n70 30\n90 10\n10 70\n80 70\n16 40\n7 3\n20 30\n60 16\n50 20 19 N i 53 42 57 3 42 42 38 12 21 12 5 17 28 14 38 14 6 C o 16 19 3 14 15 13 8 21 15 13 6 G a 18 .7 19 17 .4 17 18 .4 14 .8 19 .9 15 .1 12 .3 18 .1 17 .9 18 12 13 .4 18 12 18 15 .8 17 .1 18 13 .6 10 7 C u 58 57 60 14 59 57 58 48 50 23 22 61 64 11 5 46 37 5 Zn 11 2 10 5 12 6 94 11 1 10 7 10 5 67 80 10 2 46 10 5 10 1 10 5 92 51 27 A nh yd ro us Si O 2 69 .3 1 65 .4 3 67 .5 7 64 .1 1 68 .3 9 67 .3 6 65 .2 7 73 .8 5 74 .8 4 62 .9 7 65 .4 64 .8 6 55 .4 3 69 .5 4 56 .0 2 71 .8 3 50 .5 7 61 .0 3 64 .1 5 54 .2 0 50 .8 7 58 .0 6 59 .1 8 Ti O 2 0. 73 0. 86 0. 71 0. 77 0. 74 0. 58 0. 92 0. 44 0. 23 0. 94 0. 82 0. 79 0. 63 0. 55 0. 83 0. 39 1. 21 0. 89 0. 94 1. 03 0. 6 0. 35 0. 31 A l2 O 3 16 .0 0 16 .4 1 15 .6 1 16 .2 4 16 .3 6 14 .6 1 16 .9 6 13 12 .4 0 16 .3 6 16 .0 4 16 .6 14 .0 8 12 .5 2 18 .9 5 13 .3 0 19 .3 4 16 .2 4 14 .6 4 16 .1 1 13 .3 4 9. 83 7. 12 Fe 2O 3 5. 53 7. 32 6. 08 6. 84 5. 74 6. 49 6. 91 3. 49 3. 22 7. 72 7. 28 6. 54 5. 27 5. 04 7. 58 4. 62 11 .6 6 9. 31 9. 02 12 .5 9 5. 31 4. 58 1. 59 M nO 0. 05 0. 08 0. 10 0. 09 0. 07 0. 12 0. 09 0. 14 0. 06 0. 12 0. 09 0. 07 0. 11 0. 14 0. 15 0. 05 0. 17 0. 12 0. 14 0. 24 0. 14 0. 4 0. 03 M gO 2. 14 2. 85 2. 03 2. 51 1. 99 1. 94 2. 76 0. 91 0. 72 2. 98 3. 1 2. 88 1. 81 2. 8 4. 14 3. 94 5. 18 4. 54 3. 39 4. 16 2. 46 2. 82 18 .3 8 C aO 1. 46 2. 51 3. 17 4. 01 1. 55 4. 42 2. 07 2. 02 1. 60 4. 45 2. 96 3. 91 18 .2 4 5. 83 6. 90 2. 73 8. 91 4. 97 3. 83 7. 96 21 .5 1 20 .6 9 10 .5 8 N a2 O 1. 90 1. 81 2. 67 2. 55 2. 13 2. 92 1. 92 4. 32 4. 42 2. 47 1. 81 1. 59 2. 94 0. 86 3. 65 2. 83 2. 66 2. 05 1. 71 2. 35 3. 03 1. 37 1. 04 K2 O 2. 82 2. 64 1. 98 2. 74 2. 98 1. 51 2. 99 1. 81 2. 47 1. 85 2. 36 2. 56 1. 33 2. 56 1. 52 0. 27 0. 36 0. 82 2. 17 1. 30 2. 46 1. 73 1. 71 P2 O 5 0. 05 0. 13 0. 08 0. 13 0. 04 0. 04 0. 14 0. 05 0. 03 0. 19 0. 16 0. 16 0. 16 0. 13 0. 26 0. 05 0. 05 0. 11 0. 08 0. 07 0. 12 0. 13 0. 06 So ur ce e M M M M M H H M H H M M M M H M 87 Sr /8 6S r 0. 71 45 72 0. 70 69 13 0. 71 25 20 0. 71 41 90 0. 70 57 63 0. 71 44 74 0. 70 38 63 0. 70 37 75 0. 70 65 05 0. 71 00 91 0. 70 57 33 0. 70 31 18 0. 70 61 49 0. 70 41 00 0. 70 50 18 0. 70 48 95 14 3N d/ 14 4N d 0. 51 22 08 0. 51 26 33 0. 51 22 42 0. 51 23 04 0. 51 28 30 0. 51 22 23 0. 51 30 39 0. 51 30 56 0. 51 24 88 0. 51 22 84 0. 51 27 87 0. 51 28 39 0. 51 30 26 0. 51 30 56 0. 51 24 66 0. 51 27 45 20 6P b/ 20 4P b 18 .8 36 6 18 .5 50 2 18 .8 23 1 18 .7 13 4 18 .4 62 4 18 .7 52 1 18 .3 38 5 18 .2 82 0 18 .6 48 4 18 .6 18 0 18 .3 71 1 18 .3 32 2 18 .3 86 3 18 .5 53 8 18 .5 03 8 18 .6 98 20 7P b/ 20 4P b 15 .6 57 3 15 .5 93 4 15 .6 50 0 15 .6 35 6 15 .5 53 6 15 .6 52 2 15 .5 34 8 15 .5 15 1 15 .6 28 2 15 .5 98 2 15 .5 39 6 15 .5 49 9 15 .5 56 0 15 .5 91 7 15 .6 02 1 15 .7 2 20 8P b/ 20 4P b 39 .0 77 0 38 .6 48 2 39 .0 93 1 38 .9 35 0 38 .4 28 8 39 .0 74 3 38 .2 81 0 38 .1 35 6 38 .9 08 2 38 .7 44 7 38 .3 28 1 38 .3 33 8 38 .3 61 4 38 .8 61 0 38 .6 32 3 38 .9 66 17 6H f/ 17 7H f 0. 28 27 60 0. 28 30 19 0. 28 28 13 0. 28 27 84 0. 28 30 98 0. 28 28 21 0. 28 31 82 0. 28 32 23 0. 28 30 19 0. 28 29 31 0. 28 31 55 0. 28 31 70 0. 28 32 50 0. 28 32 56 0. 28 31 64 0. 28 31 56 % Lo ca lf 19 36 57 30 37 81 19 90 83 62 52 45 83 63 80 92 10 0 88 74 91 A rc co m po ne nt 1g M afi c M afi c Fe ls ic Fe ls ic Fe ls ic M afi c M afi c M afi c M afi c A rc co m po ne nt 2 RA RA RA RA RA ? RA VF VF RA VF /V II VF /V II VF /V II D om in an t Sh ar ds h RG M K RG M K D G LK D G 1 RG LK D G LK A G LK RG M K RG M K RG M K: LK 6: 4 7: 3 3: 0 2: 6 5: 0 4: 2 7: 1 10 :0 N ot e. Se e su pp or tin g in fo rm at io n se ct io n S1 fo r an al yt ic al m et ho ds .M aj or el em en ts ar e in w t% ;t ra ce el em en ts in pp m .T ot al gi ve s th e or ig in al su m th at so m et im es la ck s Lo ss on Ig ni tio n (L O I) be ca us e of in su ffi ci en t sa m pl e m as s. Th e sa m e da ta ar e pr es en te d on an an hy dr ou s ba si s (T ot al 5 10 0 w t% )n ea r th e bo tt om .T he so ur ce of th e co nc en tr at io n da ta is gi ve n in th e La b ro w :e ith er A LS la b in Va nc ou ve r BC ,C an ad a, or W SU (W as hi ng to n St at e U ni ve rs ity ,U SA ,G eo an al yt ic al La b) .T he Li th ol og ic U ni t, de pt h, an d N G R va lu es ,a nd th e ag e m od el ,a re fr om Ta m ur a et al .( 20 15 ). Th e O th er In fo fo r th e sa m pl es ar e in Ta bl es S1 –S 5. Is ot op es ar e no rm al iz ed as fo llo w s: 8 7 Sr /8 6 Sr to 0. 71 02 51 fo r SR M 98 7; 1 4 3 N d/ 1 4 4 N d 5 0. 51 21 15 fo r JN di ;1 7 6 H f/ 1 7 7 H f5 0. 28 21 60 fo r JM C 47 5; an d 2 0 6 Pb /2 0 4 Pb 5 16 .9 41 6, 2 0 7 Pb /2 0 4 Pb 5 15 .5 00 0, an d 2 0 8 Pb /2 0 4 Pb 5 36 .7 26 2 fo r N IS T 98 1. D ur in g th e sa m e an al yt ic al se ss io ns ,S RM JB 2, an Iz u vo lc an ic fr on t ba sa lt, ha d 8 7 Sr /8 6 Sr 5 0. 70 36 83 ; 1 4 3 N d/ 1 4 4 N d 5 0. 51 30 98 ;1 7 6 H f/ 1 7 7 H f5 0. 28 32 50 ;2 0 6 Pb /2 0 4 Pb 5 18 .3 46 ;2 0 7 Pb /2 0 4 Pb 5 15 .5 65 ;a nd 2 0 8 Pb /2 0 4 Pb 5 38 .2 87 in bo th la bo ra to rie s af te r no rm al iz at io n. a N am e is IO D P H ol e, C or e, an d Se ct io n. A ll sa m pl es ar e fr om Si te U 14 37 . b In su ffi ci en tly le ac he d in H C l. c U nl ea ch ed . d C 5 C om po ne nt ry (T ab le S3 ); E 5 ED S (T ab le S5 ); P5 PS A (T ab le S1 ); S5 SE M (F ig ur e A 1) ;X 5 po w de r XR D (T ab le S2 ). e M is M iy az ak i( JA M ST EC ); H is H am el in (B er ge n) . f % Lo ca li s th e m as s fr ac tio n of th e lo ca lc om po ne nt ca lc ul at ed fr om th e Th co nt en t of ea ch sa m pl e, as su m in g th e lo es s pl us vo lc an ic fr on t m afi c m ix in g co m po si tio ns in Ta bl e 2. g A rc co m po ne nt s 1 an d 2 ar e w he th er th e se di m en t is on a m ix in g tr aj ec to ry to w ar d a m afi c or fe ls ic lo ca l co m po ne nt ,a nd m or e lik e re ar ar c or vo lc an ic fr on t/ BA K/ U ni t VI I-l ik e co m po si tio ns . h Se e Ta bl e S5 fo r ac ro ny m ke y. E. g. ,R G 5 rh yo lit e gl as s, M K 5 m ed iu m -K fr om re ar ar c, LK 5 lo w K fr om vo lca ni c fr on t.\nGILL ET AL. 1223\nSelected unconsolidated tuffaceous muds were wet sieved and components of their coarse fraction (>63 mm) were point-counted (supporting information Table S3). Although the mass of this size fraction was not measured, we estimate that it is <5% of the total. Clear and dark vitriclasts comprised 85–94% and 4–11%, respectively, whether from glacial or interglacial stages, although half of the shards in interglacial sample 6H1 (MIS 11) were dark because of being andesitic and crystal-rich. Usually more of the >63 mm crystals were dark (mostly pyroxene) than clear (feldspar and quartz), and each was <1.5% of the total. Lithic fragments were 1–3%, far less than glass. Some muds also contain a small amount of diatom fragments.\nGILL ET AL. 1224\nRepresentative unsieved bulk samples were imaged using SEM without EDS at UCSC. Interglacial tuffaceous muds consist mostly of 20–40 mm vesicular vitriclasts. Many are broken bubble wall fragments with elongate stretched tubes, and concave shapes, and walls as thin as 2 mm (supporting information Figure S1). Despite this evidence of some ductile deformation before quenching, most vitriclasts are angular and blocky products of brittle fracture. They are similar in size to the basaltic foam walls in the nearby Sumisu Rift (Gill et al., 1990), but finer than typical for basaltic limu at mid-ocean ridges and intra-oceanic seamounts (e.g., Clague et al., 2003; Portner et al., 2015).\nIn contrast, most clasts in glacial stage samples are coated by <2 mm platy particles, obscuring the substrate. The small particles sometimes form balls. We cannot tell whether this aggregation occurred during transport or sample preparation. We found one large rounded quartz grain in glacial sample B2H2 (supporting information Figure S1F).\nEDS and EPMA analyses of larger vitriclasts (>63 mm) from wet-sieved <1 Ma samples are summarized in\nTable 1; supporting information Tables S4 and S5. We grouped analyses into five broad categories for which criteria, means, and standard deviations are given in supporting information Table S4: low-K andesite, dacite, and rhyolite; and medium-K andesite-dacite, and rhyolite. Based on comparison to lavas and pumices from known eruption sites, we attribute the low-K vitriclasts to sources at the volcanic front, and the medium-K vitriclasts to the rear arc (cf. Haraguchi et al., 2017; Hochstaedter et al., 1990, 2000, 2001; Ishizuka et al., 2002b, 2003; Tamura et al., 2009; Taylor & Nesbitt, 1998). Schindlbeck et al. (2018) made a similar distinction and attribution for vitriclasts in <1 Ma discrete ashes (Table 2). However, we lack the trace element and isotope data needed to definitively distinguish between volcanic front versus rear arc sources for the medium-K rhyolites, or between Japanese versus rear arc sources for higher-K ones. Our rear arc rhyolite vitriclasts span the compositional range of 0–8 Ma felsic pumices dredged from seamounts located 20– 100 km behind the front.\nAll samples that we studied contain rhyolitic vitriclasts that we attribute to rear arc sources, and 75% also have vitriclasts from volcanic front sources (Table 1 and supporting information Table S5). That is, the vitriclasts are more heterogeneous in <1 Ma tuffaceous mud than in discrete ash layers of the same age range (cf. Schindlbeck et al., 2018). Consequently, those in mud are not from single eruptions or even single volcanoes, and are more mixed. Volcanic front sources dominate the vitriclasts in half of our <1 Ma samples, and reararc sources dominate the other half. Most vitriclasts from rear arc sources are rhyolite whereas most from volcanic front sources are andesites or dacites. Although our sampling is limited, thus far we have found no consistent compositional differences related to vitriclast shape or vesicularity, or type of climate stage of the host mud.\nIn addition to the vitriclasts, the tuffaceous muds also contain plagioclase, clinopyroxene, orthopyroxene hornblende, and Fe-Ti oxide crystals, either within vitriclasts and lithics, or as loose crystals (supporting information Table S5). Their compositions are similar to those of felsic arc magmas from anywhere (e.g., Izu: Tamura et al., 2009, Haraguchi et al., 2017; SW Japan: Hunter, 1998)."
+  }, {
+    "heading": "3.3. Powder XRD Mineralogy",
+    "text": "Powder XRD results are summarized in supporting information Table S2. The spectra of unleached interglacial tuffaceous muds have a broad hump at 3.0–3.3 Å that we attribute to amorphous glass. This hump is less prominent for glacial stage muds and decreases with core depth. Quartz and feldspar 6 small amounts of pyroxene, hornblende, illite, and chlorite are present in samples from both glacial and interglacial stages. The ratio of quartz to glass is higher in glacial samples, and correlates positively with the ratio of 10 mm to 30 mm grain size. Calcite and small amounts of halite occur in Unit I and traces of gypsum and pyrite occur randomly down-section.\nSmectite is absent from the top 100 meters (<1 Ma). Perhaps the reaction of glass to smectite requires subaerial weathering, or most vitriclasts are too felsic to form smectite quickly during diagenesis, or both. It becomes common (>2%) only near the base of Lithologic Unit I (682 mbsf) where it is accompanied by zeolites. Below that depth, the percent of smectite increases down-section due to diagenesis at about the same rate (3 wt% additional smectite per million years) as elsewhere on the Philippine Sea Plate (Underwood & Pickering, 2018), but it starts with less than at more northerly sites that have more input from subaerial sources.\nGILL ET AL. 1225"
+  }, {
+    "heading": "3.4. Chemical Analyses",
+    "text": "In this section, we describe chemical characteristics of the mud(stone)s and how they compare to the composition of local volcanic rocks. We use average Chinese loess as a contrasting endmember to highlight differences between the sediments and their nearby volcanic sources.\nTable 2 Local and Foreign Mixing Components\nChina loess VF Mafic Std dev VF rhyolite Std dev RA rhyolite St dev Unit VII St dev Meireki\nSiO2 70.2 55.4 1.65 74.9 3.2 76.8 1.9 53.53 2.29 73.55 TiO2 0.75 1.17 0.1 0.45 0.16 0.28 0.11 1.06 0.13 0.27 Al2O3 15.4 14.42 0.45 12.86 0.65 12.77 0.51 19.78 1.24 13.47 FeO 5.2 12.74 1.03 3.33 1.43 2.31 0.9 7.61 1.00 2.31 MnO 0.08 0.22 0.02 0.12 0.047 0.11 0.038 0.18 0.04 0.1 MgO 2.35 3.97 0.65 0.57 0.31 0.28 0.14 4.13 0.80 0.82 CaO 0.99 8.77 0.68 2.89 0.93 1.87 0.6 8.74 1.74 2 Na2O 1.65 2.86 0.31 3.95 0.24 4.25 0.29 4.16 0.86 4.09 K2O 3.25 0.33 0.05 0.87 0.28 1.22 0.32 0.59 0.34 3.06 P2O5 0.14 0.1 0.02 0.071 0.042 0.038 0.03 0.21 0.05 0.07 Li 40 7.8 1.5 13.9 5.2 15.4 6 Rb 120 4.9 1.3 12.1 5.2 22.8 8.6 5.9 2.1 44.4 Sr 125 154 17 120 35 107 36 273 31 103 Y 25 26 4.4 41.5 10.8 51.8 18.7 29.3 4.6 26.3 Zr 240 49 12 116 42 206 72 95.5 4.6 73 Nb 13 0.48 0.17 1.13 0.63 4.23 1.96 1.27 0.12 7.44 Cs 7.9 0.52 0.15 1.07 0.49 0.91 0.32 0.16 0.08 1.02 Ba 450 90 17 213 79 211 72 90 21 299 La 31 2.3 0.5 5.11 1.79 12.6 4.2 5.29 0.83 14.73 Ce 66 6.9 1.4 14.3 4.7 32.1 10.8 15.1 1.9 31.4 Pr 7.3 1.24 0.25 2.38 0.72 4.55 1.52 2.43 0.23 3.83 Nd 27 7.1 1.3 12.7 3.63 22.2 7.16 12.3 1.1 15.89 Sm 5.25 2.64 0.53 4.29 1.19 6.12 2 3.73 0.32 3.53 Eu 1.15 0.99 0.11 1.14 0.32 1.38 0.45 1.26 0.05 0.61 Gd 4.7 3.67 0.64 5.45 1.43 7.15 2.6 4.60 0.46 3.28 Tb 0.75 0.67 0.11 0.99 0.26 1.26 0.48 0.80 0.09 0.56 Dy 4 4.54 0.7 6.8 1.76 8.5 0.69 5.33 0.62 3.5 Ho 0.85 1 0.15 1.51 0.41 1.9 0.69 1.16 0.12 0.79 Er 2.5 2.96 0.49 4.61 1.25 5.74 2.15 3.55 0.29 2.43 Tm 0.38 0.43 0.07 0.68 0.19 0.86 0.34 0.53 0.04 0.36 Yb 2.6 3 0.5 4.8 1.29 6.16 2.31 3.53 0.21 2.7 Lu 0.42 0.46 0.08 0.73 0.21 0.94 0.33 0.54 0.03 0.43 Hf 6 1.65 0.41 3.7 0.21 5.77 2.03 2.75 0.13 2.35 Ta 1 0.12 0.017 0.16 0.056 0.33 0.12 0.09 0.01 Pb 23 3.1 0.84 5 1 5.14 1.79 2.26 0.42 4.06 Th 13 0.24 0.1 0.64 0.32 1.69 0.66 0.72 0.07 3.18 U 3.1 0.157 0.038 0.42 0.16 0.75 0.29 0.33 0.04 1.21 Sc 15 45.9 7.8 17 6.6 13.3 5.1 28 3 5 V 95 300 30 50 301 46 22 Cr 80 15 20 10 61 57 3 Ni 38 10 10 5 14 5 23 Co 15 30 5 5 20 3 Cu 27 120 25 15 10 41 6 7 Zn 80 100 100 60 50 94 16 39 87Sr/86Sr 0.72 0.7036 0.7036 0.7032 0.70320 0.703095 143Nd/144Nd 0.512125 0.5131 0.5131 0.51303 0.51308 0.513029 206Pb/204Pb 18.89 18.4 18.4 18.3 18.25 18.285 207Pb/204Pb 15.675 15.54 15.54 15.51 15.49 15.504 208Pb/204Pb 39.12 38.25 38.25 38.2 38.07 38.126 176Hf/177Hf 0.28265 0.28325 0.28325 0.28315 0.28324 0.28315\nNote. See supporting information section S2 for explanations of each composition. Isotopes are normalized as in\nTable 1. Major elements on anhydrous basis.\nGILL ET AL. 1226\nThe substantial chemical effect of acid-leaching can be seen by comparing analyses of leached to unleached mud in Table 1. In the unleached samples, LOI is twice higher, CaO is 10–15 wt % higher, and all elements other than Sr are lower because of dilution by carbonate. For example, the anhydrous SiO2 content of leached sediment is 11–14 wt % higher. It is not possible to correct for these effects without an independent measurement of the CaCO3 content. Only one of our samples, D43R7 from Unit III, was not leached enough to remove all carbonate, so its concentrations and Sr isotope ratio are compromised.\nAcid-leached bulk tuffaceous mud(stone)s have a wide range in SiO2 content from 50 to 75 wt% on an anhydrous basis, but most are 60– 70% and would be called andesites or dacites if they were volcanic rocks. Relative to SiO2, they have higher Al2O3, MgO, and K2O than Izu arc volcanics, but lower FeO, CaO, and especially Na2O.\nHowever, silica is a poor choice for comparison because of the uncertainty associated with normalizing to carbonate-free, anhydrous values, and the small but un-quantified amount of insoluble diatoms. Instead we use the conservative oxide TiO2 to illustrate two points (Figures 4a and 4b). First, some tuffaceous mud(stone)s are more mafic (higher Fe 1 Ti) than average upper crust as represented by Chinese loess (Taylor et al., 1983). (See Table 2 for a representative loess analysis, and supporting information section S2.2 for its rationale; it is plotted in many of our figures.) Other tuffaceous mud(stone)s are more felsic than loess. All mudstones from the possible plaster drift portion of Unit I (300–682 mbsf), and all from Unit V, are more mafic than loess. In contrast, tuffaceous muds from interglacial stages <1 Ma are more felsic, and those from glacial stages are most similar to loess. Second, most tuffaceous muds are offset from Izu arc volcanics for many elements in the direction of loess (e.g., Na2O in Figure 4b), and muds from glacial stages are offset the most. In contrast, some mud(stones) are indistinguishable from tephra, depending on the major element. We will show below that all samples are intermediate in composition between a foreign component like loess and a diverse local volcanic component.\nSome trace element contents are even more useful in constraining sediment source because the differences in trace elements between potential components are greater. Most sediments in Units I to III are LREE-enriched, have negative Eu anomalies, and relatively flat HREE (Figure 5a). They are never as LREE-enriched as loess, although tuffaceous muds from glacial stages and the lower half of Unit I come closest. REE patterns of the tuffaceous mud(stone)s that are the least loess-like are shown in Figure 5b and are flatter and lower than the others. One sample, D72R2, is LREE-depleted, low-K, and rhyolitic. Unit V samples have the lowest HREE contents, consistent with being more mafic. All of these REE traits of the least loess-like samples are similar to those of Izu arc volcanic rocks to which the sediments are similar in some major elements (Figure 4). Extended element diagrams convey\nmuch the same information (supporting information Figures S2a and S2b). Most tuffaceous mud(stones) share the same enrichments and depletions relative to REE as loess, just never as much. Those with the most arc-like REE have the least Zr-Hf enrichment and Sr depletion that result from the foreign component.\nSome of these features are easier to see and quantify in binary diagrams such as between the two highly incompatible elements Th and La (Figure 6a). The sediments define a positive linear correlation (r250.90).\nGILL ET AL. 1227\nAs expected from the discussion above, glacial muds have higher concentrations of Th and La than interglacial ones, and Unit V has the lowest. Figure 6a shows that this correlation extends to loess at high concentrations and to various kinds of Izu volcanics at low concentrations. It is this order of magnitude difference between those two components that makes these sediments so useful. Low Th concentrations indicate that the sediments are mostly locally derived. High concentrations indicate that a loess-like foreign import is abundant, despite being far from Asia.\nFigure 6b shows another highly incompatible element, Nb, whose concentration also differs greatly between loess and Izu arc volcanics. The same data structure is apparent, but there is more variability in Nb at low Th contents. This is because Nb has the strongest concentration gradient across the Izu arc, being highest in the rear arc (Hochstaedter et al., 2000; Machida et al., 2008). The Manji and Meireki seamounts that are adjacent to Site U1437 (Figure 2b) illustrate the effect; Nb-enrichment is greatest for Meireki. Some tuffaceous mud(stones) mix toward them rather than toward the volcanic front that lies near the origin in this diagram because the Izu volcanic front has some of the most Nb- and Th-depleted magmas on Earth whereas the rear arc does not.\nCompatible trace elements like Ti, Cr, and V decrease in concentration with differentiation from basaltic andesite to rhyolite. Their concentrations in the muds and mudstone are important in two respects. First, some compatible elements like Cr have much higher concentrations in the tuffaceous mud(stones) than in intermediate volcanic rocks, and the effect is greatest for glacial muds (supporting information Figure S3a). That is, glacial muds have higher concentrations of both incompatible and compatible trace elements, and the sediments that have the most loess-like REE also have the highest Cr. This feature of loess is characteristic of average upper continental crust (Rudnick & Gao, 2003) and is a striking difference from Japanese felsic tephra that share similarly high incompatible element contents, but in which compatible element contents are uniformly low (supporting information Figure S3a. Second, some compatible elements help to identify whether the volcanic component in the mud is mafic or felsic. For example, Unit V mudstones mix toward a relatively high-V (mafic) component whereas other arc-like samples (B12F3, B45X1, and D72R2) mix toward a low-V (felsic) component that also is low in Ti and Cr (supporting information Figure S3b). Most sediments mix\ntoward a volcanic component with 100–200 ppm V that might be andesitic or dacitic on average, either as a single component or mixture.\nSr and Nd isotope ratios of acid-leached bulk sediments define a concave-up curve between Chinese loess and Izu arc volcanics, being most like loess in glacial stage muds (Figure 7a). The modest spread in 87Sr/86Sr at a given 143Nd/144Nd (generally 0.002) is remarkable for sediments with altered submarine vitriclasts some of which have reached zeolite metamorphic facies. One mudstone has 87Sr/86Sr ratios as low as 0.7031 which is lower than at the Quaternary Izu volcanic front but within the range typical of the rear arc (Figure 7b). However, the other samples that are the least-loess-like in major and trace elements (e.g., Figure 4b: B12F3, B45X1, D72R2, and E16R5) have higher 87Sr/86Sr than most Izu arc volcanics (Figure 7b), probably reflecting sea water alteration. Their Nd isotopes are lower than at the Quaternary volcanic front but within the range of rear arc lavas. In contrast, the most loess-like sediments have Nd isotope ratios that approach values typical of the cratonic Chinese Loess Plateau, and lower than typical Mongolian (non-cratonic) dust or Japanese loess (e.g., Jahn et al., 2001; Miyazaki et al., 2016; Yokoo et al., 2004). Mud(stone)s from\nGILL ET AL. 1228\ninterglacial stages, the lower half of Unit I, and Units III and V lie between the extremes. Glacial stage muds have Sr-Nd isotope ratios even more enriched than in pelagic clay on the subducting Pacific Plate (Hauff et al., 2003; Scudder et al., 2014), or in <4.5 Ma sediments near the Nankai Trough (Saitoh et al., 2015). However, none are as enriched as in the sediments of similar age (4.5–7.0 Ma) near the Nankai Trough.\nHf and Nd isotopes correlate positively as expected (Figure 8a) and again lie between values for the Izu arc and Chinese loess, but provide additional information. First, the correlation is concave-down and even the most loess-like tuffaceous mud(stones) have Hf isotope ratios well above the Terrestrial Array (Vervoort et al., 2011). Coarse loess lies on that array, but fine loess (<2 mm) lies above it and between what have been called the ‘‘zircon-free’’ and ‘‘sea-water’’ arrays (Zhao et al., 2014). The same also is true of <6.5 Ma bulk sediment at ODP Site 1149 just east of the Izu-Bonin Trench, although the glacial stage muds at Site U1437 are even more loess-like than the eolian-dominated ash-bearing clays at Site 1149 (Chauvel et al., 2009; Plank et al., 2007). Second, three of the least loess-like tuffaceous mud(stones) have Hf isotope ratios as high as at the Izu volcanic front at about the same latitude (Hachijo-jima: Freymuth et al., 2016) and Unit VII hyaloclastites (Miyazaki et al., 2017). However, the Hf in two others (B12F3 and D68R2) is more like rear arc lavas and tuffs, including Manji seamount (Figure 8b; Tollstrup et al., 2010). Similar rear arc Hf also characterizes three additional tuffaceous mudstones (D43R7, E18R3, and E21R3) that form an almost horizontal array. In detail, a subset of the other samples (B5H2, B2H5/123, and B6H1) define a less concave curve, whereas D24R2, E21R3, B43R7 have lower 143Nd/144Nd at any 176Hf/177Hf.\nPb isotopes in the tuffaceous mud(stone)s also lie roughly between those of Chinese loess and Izu volcanics, with glacial muds being closest to loess (supporting information Figure S4). The 206Pb/204Pb ratios of four samples are lower than in Quaternary volcanic front lavas but are within the range of rear arc lavas, including Manji Seamount that is of similar age to two of the mudstones (Hochstaedter et al., 2001). All mudstones have slightly higher D208Pb (but not always D207Pb) than Izu volcanic front lavas, a trait also shared by rear arc lavas (Tollstrup et al., 2010).\nGILL ET AL. 1229"
+  }, {
+    "heading": "4. Discussion",
+    "text": ""
+  }, {
+    "heading": "4.1. Evidence of Binary Mixing",
+    "text": "As shown in section 3.4, chemical data for tuffaceous mud(stone)s define linear correlations for many element concentrations and ratios, and isotope ratios, suggesting binary mixing. One component is rich in highly incompatible elements including alkalies, Th, Nb, LREE, and Cr, high ratios of 87Sr/86Sr and 206Pb/204Pb, and low ratios of 143Nd/144Nd and 176Hf/177Hf. It shares these traits with average Upper Continental Crust (Rudnick & Gao, 2003) and Chinese loess (e.g., Jahn et al., 2001) and river silt (e.g., Bi et al., 2015;Hu et al., 2012). For that reason, we refer to it as a ‘‘foreign component’’ because it has no analogue in the Izu arc.\nThe other component has the opposite characteristics and is similar to nearby volcanic rocks of the Izu arc. Consequently, we refer to it as the ‘‘local component’’ although, as discussed below, it can be difficult to identify which part of the arc it is from: i.e., the volcanic front, reararc seamount chains (RASC), smaller Pliocene backarc knolls (BAK), or active rifts (see Hochstaedter et al., 2001, for a discussion of these magmatic categories), or the >9 Ma local ‘‘basement’’ of Site U1437 (Lithologic Unit VII). All of these categories, except some RASC rhyolites, are much more depleted in incompatible element concentrations and ratios and isotope ratios than Upper Continental Crust. This contrast accentuates the evidence for binary mixing and is a great asset of Site U1437. Although both endmembers doubtless vary in character and composition through time, we treat them as two broad categories using the average compositions of loess and local arc magma types in Table 2. Mixing vectors are included in several of the geochemistry figures. Mixing proportions using BAK or Unit VII basalts usually are similar to those for the volcanic front because the element ratios (e.g., Sr/Nd for Figure 7) are similar. Consequently, we show mixing vectors for volcanic front mafic and rear arc Meireki rhyolites to capture the two extremes of the ‘‘local component’’. In order to match the behavior of Hf isotopes in the sediments, the mixing lines in Figure 8a used the Hf isotope ratio of fine loess but only half the Hf concentration of bulk loess. This means that the foreign component had about half the zircon content of bulk loess because most of the Hf resides in zircon.\nThe argument for binary mixing is stronger than for the absolute mass fraction of components because the latter depends on the concentrations assumed for each element in each component. Nevertheless, the mass fractions inferred using independent criteria are broadly consistent 6 10%. Further discussion of the compositions that we adopted for the foreign and local components is in supporting information section S2.\nBinary mixing also explains our PSA and XRD measurements. The abundance of the grain size that we attribute to the foreign component (8–10 mm) relative to that of the local vitriclasts (24–40 mm), i.e., the PSA Amplitude Ratio, correlates positively with Th, LREE, and Cr contents (e.g., Figure 9). The same is true for the intensity ratio of quartz to amorphous glass in powder XRD spectra (not shown).\nIn summary, many incompatible and compatible trace elements, radiogenic isotopes, grain size characteristics, and the amount of quartz relative to glass, all indicate binary mixing, and all correlate with the Th content of the tuffaceous mud(stone)s. Sometimes another element concentration or isotope ratio correlates\nGILL ET AL. 1230\neven better, but Th tracks the relative proportion of the mixing components reasonably well and can be extrapolated to the entire site by using gamma-ray data from drill cores and logging. Consequently we will use Th most frequently hereafter. 4.1.1. The Local Mixing Component The local component is from the Izu arc based on what is known about the composition of its igneous materials (see Introduction). One important variable is the degree of igneous differentiation. About 80% of the discrete ash intervals in Unit I are felsic, and the majority of tuffs deeper in the section were described as evolved or light colored, although most of the tuffs in Unit V were described as dark gray or brown (Tamura et al., 2015). We noted in section 3.4 that Ti-Cr-V systematics (Figure 4 and supporting information Figure S3) and even SiO2 contents of the least loess-like samples indicate that the local component is mafic in the lower half of Unit I and throughout Unit V. In contrast, the bulk composition of all of our <1 Ma interglacial tuffaceous muds, and in B45X1 and D72R2, indicates that their local component is mostly felsic. This is confirmed by our analyses of individual vitriclasts (supporting information Table S5). However, incompatible element concentrations only differ two-fold between mafic and felsic components, and isotopes not at all. The greater difference is between the volcanic front and rear arc, as first discovered by Hochstaedter et al. (2000, 2001). Trace element ratios (e.g., Ba/La, Pb/Ce, Nb/Yb), and Sr, Nd, Hf, and Pb isotope ratios, are especially diagnostic for this purpose. In general, the more fluid-mobile elements (e.g., Ba and Pb) are enriched at the volcanic front, the more melt-mobile incompatible elements (e.g., LREE, Nb, Th) are more enriched in the rear arc, and all four isotope ratios are lower in the rear arc.\nWe evaluated six different local arc volcanic components using the compositions that are presented in Table 2 and discussed in supporting information section S2.1. Practically, they collapse to three: one for the volcanic front, and two for the rear arc. For the volcanic front, we used the average composition of Quaternary volcanic front mafic vitriclasts from Schindlbeck et al. (2018) and the isotope range from Freymuth et al. (2016). Differences in the mixing models shown in figures are minor using volcanic front felsic vitriclasts, the back arc knolls province, or Unit VII tuffs as the local component. Consequently, ‘‘volcanic front’’ encompasses all four.\nWe used two compositions for the rear arc. One is the average composition of discrete intervals of <1 Ma rear arc felsic ash at Site U1437 from Schindlbeck et al. (2018). This composition is comparable to felsic lavas from the active rifts and BAK 30 km behind the front. The other is the 3.8 Ma rhyolite from the nearby Meireki Seamount (Ishizuka et al., 2003; sample 12-1), which is applicable to the RASC closer to the drill site. We used the range in rear arc isotopes from Hochstaedter et al. (2001), Ishizuka et al. (2003), and Tollstrup et al. (2010) for both. The chief difference is the greater Th, Nb, K, and LREE-enrichment, and the lightly lower isotope ratios, at Meireki. Lavas dredged from the two other seamounts closest to the drill site, Manji and Kanbun, lie between these two extremes. Supporting information section S2.1 includes further discussion of these local end member components.\nWe can best constrain one or both of these local variables in tuffaceous mud(stone)s (i.e., mafic versus felsic; frontal/basement versus\nGILL ET AL. 1231\nrear arc) when the mass fraction of local material is >70%. Several features indicate that most of the local component is from the rear arc in several samples: B2H5/123, B5H2, B6H1, B12F3, B45X1, and D68R2. All of these mix toward compositions with higher Nb/Yb than at the volcanic front (Figure 10). Many vitriclasts in the first four are medium-K rhyolite (supporting information Table S5; the other two were not studied), and they mix toward Hf isotopes that are lower than at the volcanic front (Figure 8). In contrast, the same criteria suggest that most of the local component in some older samples is from either the volcanic front or a Unit VII-like source: D24R2, D43R7, D72R2, E16R5, and E21R3. These generalities about the local component source are summarized for most of our samples in Table 1.\nDespite the generality, vitriclasts in most samples define heterogeneous populations, some with volcanic front affinities and others rear arc (Table 1 and supporting information Table S5). Consequently, the location of any particular sample between local mixing vectors in our geochemical figures may roughly correspond to the relative proportion of volcanic front versus reararc components, but it may also reflect the heterogeneity of the reararc components.\nAlthough BAK basalts <2 Ma are well known (Ishizuka et al., 2002a), the plentiful rear arc felsic material in sediments <2 Ma (upper Unit I) was unexpected because few examples of rear arc felsic lavas of that age are known from dredging. However, this may just reflect previous\nemphasis on mafic lavas and the fragmental nature of felsic magma eruptions. About 25% of the local <1 Ma discrete felsic ashes at Site U1437, and the thickest ones, have rear arc sources (Schindlbeck et al., 2018). Rhyolite lavas in the Sumisu Rift are <1 Ma (Hochstaedter et al., 1990), and two 1–2 Ma plus three 2–3 Ma rhyolite pumices are known, all with 1.3–3.1% K2O (Ishizuka et al., 2002a). Therefore, the tuffaceous muds may preserve a wider age range of medium to high-K felsic rear arc volcanism than was previously known.\n4.1.2. The Foreign Mixing Component Several lines of evidence point to the Chinese Loess Plateau (CLP) at 35–388N, or silt from the Yellow River (Huanghe) that drains it, as the foreign component in the Pleistocene tuffaceous mud at Site U1437. (1) That is the latitude of the westerly winds affecting the drill site. (2) The minerals that become more abundant in glacial stage muds match those in CLP loess. Acid-leached loess >5 mm is 50–75% quartz, 5–15% feldspar, and 10–25% mica and clay minerals; finer grain sizes have 45–65% clay minerals (e.g., Pye, 1995; Feng et al., 2010). (3) The grain size mode that increases in glacial cycle muds (5– 10 mm) matches that of sediment in the Okinawa Trough attributed to loess transported by the Kuroshio Current, especially during glacial stages (Nagashima et al., 2007; Yokoo et al., 2004; Zheng et al., 2014). (4) The trace element and isotopic composition of glacial muds can be explained by mixing with loess or river sediment from northern China. In particular, the 143Nd/144Nd ratio of the foreign mixing component is 0.51210 65 (ENd 210.5 6 1) (Figure 7a) that is representative of the CLP and its sources in the Taklimakan Desert and glaciated Qilian Mountains (Honda et al., 2004; Rao et al., 2006; Zhang et al., 2015).\nAlthough sediment geochemistry has the greatest potential to pinpoint the foreign source(s) and to estimate its mass fraction in mud, it is nevertheless challenging to use it for these purposes for several reasons that are discussed in supporting information section S2.2. We prepared a single representative loess component for this paper that uses major elements on an anhydrous basis, and trace elements and\nGILL ET AL. 1232\nisotopes for acid-leached samples from the CLP at 35–388N as much as possible. For Sr-Nd-Pb-Hf isotopes, we used data for particle sizes between 2 and 40 mm whenever possible. See Table 2 for this composition, and section S2.2 for the data sources. The element concentrations in this loess composition are similar to the acid-leached residues of suspended sediment from the Yangtze River (Bi et al., 2015) so may also apply to silt transported by the Huanghe that drains the CLP. Such silt crosses the continental shelf to the East China Sea and thence into the Okinawa Trough and Shikoku Basin courtesy of the Kuroshio Current (Figure 1; Zheng et al., 2014).\nThe match between this loess component and average Upper Continental Crust (Rudnick & Gao, 2003) is excellent for REE, but our loess composition has twice the Cs, 50% more compatible elements (Ni, Co, Cr, V, Sc), half the Nb and Ta, and only a third the Sr contents of UCC. Similar mis-matches occur for most shales due to the effects of weathering and sample preparation. These differences may reflect acid leaching and grain size considerations about loess, but should reflect what is transported by wind or ocean currents 2,000 km to Site U1437. However, because of these uncertainties, we base our estimate of the mass fraction of the foreign component mostly on LREE and Th contents, and Nd isotopes.\nAs noted before, the mixing vectors that we have included in some figures depend critically on the composition of each mixing component. Our bulk loess composition serves remarkably well for this purpose, encompassing most of the tuffaceous mud(stone)s and accounting for the shape of mixing lines with one notable exception: Hf isotopes in Figure 8. The foreign component must have a higher Hf isotope ratio and about half the Hf concentration of bulk loess. Both suggest winnowing of zircon during transport. The resulting Hf-poor character of the foreign component means that the Hf isotopic of the tuffaceous mud(stone) mixture is the most sensitive to the local arc component.\nWe have not discussed SW Japanese tephra or epiclastic sediment from Taiwan or mainland Japan as additional foreign components even though they have been invoked to explain the geochemistry of other regional ‘‘muds with ash’’ in the Okinawa Trough, Nankai Trough, or IODP Site 1149 (Figure 1) (Dou et al., 2012; Scudder et al., 2009, 2014, 2016), and even by Tamura et al. (2015) for Site U1437. We have not dealt with them primarily because simple binary mixing explains so much semi-quantitatively. We explicitly did not consider Japanese tephra for four additional reasons. First, although they can explain some incompatible element characteristics of the foreign component, their low compatible element concentrations (supporting information Figure S3) severely limits their mass fraction in the mud(stone)s. Second, although 20 Japanese tephra have been inferred at Site U1437 (Schindlbeck et al., 2018), most are <5 cm thick and together they are <4% of all discrete ashes. Third, the most enriched Izu rear arc magmas (e.g., Meireki rhyolite) have incompatible element concentrations and ratios approaching those of SW Japan tephra. Isotopes are needed to make a firm distinction. Finally, the argument for Japanese tephra in the other sites depends critically on the composition assumed for Chinese loess. For example, if Scudder et al. (2009) had assumed the same loess composition as we did, they may not have needed any Japanese component. Consequently, although small amounts of Japanese tephra and epiclastic sediment may be present in our tuffaceous mud(stones), they are not needed to account for the primary variations."
+  }, {
+    "heading": "4.2. The Mass Fraction of the Local Component",
+    "text": "Although we studied only 20 samples from 1,320 m of core, the correlations that we found between Th contents and other parameters (Figures 6 and 9) allow us to use shipboard gamma-ray Th data to extrapolate our results to the entire site and to use the first-order binary mixing relationships discussed above. We have shown that Th contents increase with the mass fraction of the foreign component (Figure 6). The Natural Gamma Radiation (NGR), that is measured on the ship at 10 cm intervals for all cores, is a function of the K, Th, and U content, and was observed to decrease in intervals of discrete mafic ash interspersed in unconsolidated tuffaceous mud in Unit I. A good example is provided in Figure F140 of Tamura et al. (2015) for just below our sample 12F3 near the base of interglacial MIS Stage 21. The contrast is less striking for felsic ash.\nRecently it became possible to de-convolve the NGR measurements into the separate contributions of K, Th, and U using a calibration based on synthetic standards (De Vleeschouwer et al., 2017). The data for Site U1437 are available from De Vleeschouwer at http://daviddevleeschouwer.webs.com/ngr.htm. We further calibrated these results to our ICP data as discussed in supporting information section S3. Results for Th and K are shown in Figures 11 and 12. Finally, we used the Th-based binary mixing proportions shown in\nGILL ET AL. 1233\nFigure 12 to calculate the percent of the local (i.e., volcanic) component throughout the site; results are shown in Figure 13.\nFigure 12 uses the corrected NGR-based Th and K contents throughout the Site to estimate the relative amount of local and foreign sources using both frontal arc (or BAK or Unit VII) material, and enriched RASC-like material (i.e., Meireki rhyolite) to define a mixing triangle similar to those in Figures 6 and 10. The spectrum of local components defines the base of the triangle. The 11,175 NGR measurements are shown as small dots, our ICPMS analyses of tuffaceous mud(stone)s as large dots, and the percents of local component are labeled. Appropriately, the largely mudstone-free Units VI and VII require no foreign component. Only in the upper part of Unit I (<2.3 Ma; <300 mbsf) do the muds span the full range from almost 100% local to 100% foreign. As we have seen, when MIS stages are known, the muds during glacial stages are 50–80% foreign whereas those from interglacial stages are 50–100% local. This NGR-based perspective also shows that some of the samples we selected are atypical for their depth. Three of our four samples from the lower part of Unit I (all except B45X1) have chemical characteristics that suggest 38–55% foreign material, and one of our Unit IV samples (E16R5) might have as much as 37% foreign component, whereas the NGR data suggest that few intervals in either Unit are that rich in foreign component.\nFigure 13 shows the minimum amount of local component in each NGR sample assuming that the local component is entirely mafic material from the volcanic front (i.e., the red line in Figure 12). Fully 80% of the mudstone intervals in Units IV and V, where the linear sedimentation rate is 14 cm/ka, have >80% local component based on the NGR K-Th data. Even when the sedimentation rate was 20 cm/ka in Unit III and the lower half of Unit I, 92% of the recovered intervals are >70% local. Consequently, there is at least 20–50% more volcanic material in the tuffaceous mudstones than in all coarser volcaniclastic intervals combined (i.e., tuff, lapilli-tuff, lapillistone, etc).\nThe estimated amounts of the local component in Figure 13 are minima because they assume that all of the local component is mafic ash from the volcanic front. The results would be almost the same if, instead, we assumed that the local component is volcanic front felsic ash, or BAK or Unit VII basalt. However, they would be much higher if the local component were rear arc rhyolite, especially of the RASC\nMeireki variety. This is because Meireki’s Th, La, and Nb contents are much higher so that less foreign material is needed to account for the observed composition of the tuffaceous mud(stone)s (e.g., Figure 6b). Indeed, 70% of Site U1437 would need no foreign component at all if the local component were entirely from rear arc sources like Meireki. Only 20% of the site, all of it in Unit I, would need more than 10% foreign component in that case, although that would not explain the isotopes and would render the climate signal fortuitous.\nThese NGR-based K, Th, and U contents complement similar gamma-ray-based data obtained by logging (Tamura et al., 2015). Broad stratigraphic variations in concentrations, such as shown in Figure 11 and discussed in the next section, are the same by both methods. However, only half the site was logged, logging data cannot be correlated with core descriptions in detail, and Th/K ratios from logging are higher than from both NGR and ICPMS data. The latter agree with each other so are preferred."
+  }, {
+    "heading": "4.3. Chemical Evolution of the Rear Arc",
+    "text": "The chemical evolution of the Izu volcanic front is well known from studies of bulk discrete ash and tuff intervals (sometimes called turbidites), and their individual vitriclasts, in ODP cores from the forearc (Bryant\nGILL ET AL. 1234\net al., 2003; Gill et al., 1994; Straub et al., 2004). One rationale for IODP Expedition 350 was to do the same for the rear arc, and some studies of discrete ash and tuff intervals from all Lithologic Units except III are underway (Heywood et al., 2016; Miyazaki et al., 2017; Sato et al., 2017; Schindlbeck et al., 2018). The tuffaceous mud(stone)s are compromised for this purpose because they contain variable amounts of foreign silicate material, bioclasts, and volcanic material from the volcanic front. However, we have shown that they integrate substantial amounts of fine rear arc material over time scales of 103 to 105 years. The NGR-based K and Th contents, spot-checked with our intensively studied samples, provide integrated information about reararc evolution at various temporal scales.\nThe top 300 m (<2.3 Ma) of Site U1437 exhibits larger swings in K and Th content, and a 40% lower sedimentation rate, than deeper in the section. This large and rapid geochemical variability is evident in our samples, in the NGR-based data (Figure 11), and in the logging data (Tamura et al., 2015). We discovered orbital periodicities in the total NGR intensity in the uppermost 100 m (not shown), as did Kars et al. (2017). High NGR is associated with glacial stages. Therefore, muds during glacial stages have more K, Th, and U than during interglacial stages because of more foreign component. We attribute this feature to the strengthening of large meanders of the Kuroshio Current starting 2 Ma. It is only at <200 mbsf (<1.5Ma) that some of the core contains >75% foreign material, and is truly hemipelagic ‘‘mud’’ (Figure 13).\nThe lower half of Lithologic Unit I, from 300 to 682 mbsf (2–4 Ma), coincides with Logging Units 2 and 3, and with Seismic Unit LII that can be interpreted as a ‘‘plaster drift’’ deposit (Tamura et al., 2015; Figure 6c in Yamashita et al., 2017). The sedimentation rate during this time was slightly above the average for the preceding five million\nyears and higher than in the subsequent two million years. Median Th, U, and especially K contents also are slightly higher than before (e.g., Figure 11). This might reflect abundant high-K rear arc magmatism like at Meireki (3.8 Ma) because 11 of the 13 discrete ash layers that have been analyzed by S. Mahoney from 2 to 4 Ma have 2–4 wt % K2O. Alternatively, it might reflect the onset of abundant foreign sediment imports. To evaluate those options, we studied three tuffaceous mudstones with relatively high NGR from 448 to 643 mbsf. Their measured Th contents are above average for these depths (Figure 11). Their isotope ratios are more enriched than anything lower in the section, different from rear arc lavas, and suggest 50% of a loess-like component. Consequently, the potential buried plaster drift, deposited at locally high rates, seems to reflect the onset of frequent large meanders of the Kuroshio Current starting around 4 Ma.\nBetween 682 and 1,280 mbsf, in Units III to V, the rolling averages of Th and K contents and the Th/K ratio undulate at a 50–100 m scale ( 0.5–1.0 m.y.) that may reflect long term episodicity in the amount or nature of the local volcanic input. Throughout that depth range, all three parameters vary from values as low as in Unit VII, BAK, and the Quaternary volcanic front, to as high as in nearby RASC lavas and some discrete tuffs in Units II to V (Heywood et al., 2016; Hochstaedter et al., 2000, 2001; Miyazaki et al., 2017). Four of our six samples from these units have 143Nd/144Nd and Nb/Yb ratios that mix toward RASC lavas to which, therefore, they seem related (Figure 10). Their 143Nd/144Nd ratios are slightly lower than in discrete tuffs of the same lithologic unit or dredged RASC lavas, and are lower than can be easily explained by binary mixing models involving loess (Figure 8). They also have slightly more radiogenic Sr and Pb than the tuffs. We suspect but cannot prove that these isotopic differences accompanied zeolite facies metamorphism and conversion of glass to smectite rather than the physical addition of a loess-like component because Hf seems unaffected and is the least prone to low temperature alteration (Figure 8). The two other Unit IV and V samples, D72R2 and E16R5, have low K2O and Th, flat to LREE-depleted patterns (Figure 5b), low Nb/Yb (Figure 10), and high 176Hf/177Hf (Figure 8) all of which are similar to the volcanic front, BAK, and Unit VII\nGILL ET AL. 1235\nbasement. There are horizons of similarly low NGR-based Th, K, and Th/K values throughout Units III to V (Figure 11). We infer, therefore, that BAK-like magmatism co-existed with RASC magmatism from 9 Ma in Unit V until 4 Ma, during times of high sedimentation rate in the rear arc.\nThe Th and K contents and Th/K ratio all decrease below 1,280 mbsf in Unit V and become similar to those of the basaltic volcaniclastics of Unit VII that are broadly BAK-like (Sato et al., 2017). Following Sato et al. (2017), we attribute the shallower, more enriched sediments to the onset of RASC-type magmatism in the vicinity of Site U1437 at 9 Ma which is the age of basalt dredged from the nearby Kanbun Seamount (Ishizuka et al., 2002a).\nThe NGR-based concentrations also can be used to evaluate the representativeness of the samples that we selected for thorough analysis. Most of our samples are from mudstone intervals that have quite uniform Th and K2O contents, or from intimately intercalated mudstonetuff sequences that have similar Th and K2O contents regardless of lithology. Our only tuffaceous mud whose Th and K2O contents seem to be depressed in proximity to ash is sample B2H5 in which some large vitriclasts are rear arc rhyolite (supporting information Table S5)."
+  }, {
+    "heading": "4.4. Significance of the Components",
+    "text": ""
+  }, {
+    "heading": "4.4.1. The Local Component and Submarine Volcanic Processes",
+    "text": "More than half of the >100 dredges in the Izu rear arc contained variably pumiceous felsic rocks from depths as great as 2,000 mbsl (Tamura et al., 2009). The majority of them have trace element and isotope ratios similar to those of basalts dredged from the rear arc (Haraguchi et al., 2017) where >40 large seamounts are present within 70 km of Site U1437 mostly on the Enpo and Manji rear arc seamount chains (RASC). Only a few of the seamounts are thought to ever have been subaerial (Ishizuka, 2008). The backarc knolls (BAK) are smaller and have deeper summits. Therefore, one implication of our geochemical inference that much of the local component is really local, i.e., from the rear arc, is that eruption depths may often have been 1– 2 km. Sample B12F3 is a good example. Its grain size distribution is almost unimodal indicating little foreign component (Figure 3b), its vitriclasts are bubble-wall fragments (supporting information Figure S1), its high bulk K/Th (Figure 12) and low Hf and Pb isotope ratios (Figure 8b and supporting information Figure S4) indicate a RASC source, and the high K2O of its individual vitriclasts confirms that con-\nclusion (supporting information Table S5). Globally, rear arc magmas have preeruption H2O contents that often exceed the 2 wt % level necessary for saturation at 2,000 mbsl (e.g., Plank et al., 2013; Portnyagin et al., 2007). Consequently, it is quite possible that submarine volcanism was widespread and potentially explosive in the vicinity of the drill site. One example of the products of such rear arc eruptions was discovered during ODP drilling only 100 km away in the Sumisu Rift where 135 m of highly vesicular basaltic foam similar in composition to our E21R3 mudstone was inferred to be a product of Strombolian eruptions at >1,800 mbsl (Gill et al., 1990). The foam vesicles are 100–200 mm in diameter with walls 50 mm. These vesicles and walls are smaller and more abundant than in MORB, though larger than in our felsic vitriclasts. The highly heterogeneous paleomagnetic character of the foam was attributed to quenching of vesicular vitriclasts in the water column.\nVitriclasts of similar size, vesicularity, and composition as ours formed a distinctive facies during the 2012 eruption of Havre Volcano, Kermadec (Murch et al., 2017). Its shards are more fluidal than in our tuffaceous\nGILL ET AL. 1236\nmuds, and were attributed to a brief, small-volume, explosive episode during a mostly effusive eruption at 900–1,200 mbsl. However, the fines-rich deposit is <10 cm thick and confined to the caldera.\nSmall (<mm-sized) shards have been observed in the water column several kilometers away from the summit of erupting submarine arc volcanoes (Resing et al., 2011; Walker et al., 2008). Clague et al. (2009) describe vitriclast deposits extending 5 km from even a 3,300 mbsf E-MORB sheet lava flow on the Gorda Ridge. However, most shards there are >500 mm, and their amount falls off exponentially with distance. All the clasts together were <0.02% of the volume of the lava.\nTherefore, the surprise is not that the tuffaceous mud contains abundant broken bubble wall vitriclasts, but rather that they are so small (10–100 mm), accumulated at such fast rates for millions of years (10–20 cm/ka for just the local component), and are more abundant than the coarser ash, lapilli, and breccia that were interpreted as products of vertical settling and turbidity currents. The sedimentation rate in the Izu rear arc exceeds that in the forearc. The mean grain size of mostly felsic vitriclasts in our tuffaceous mud (20–40 mm) is more than an order of magnitude smaller than the mafic shards at Axial or Loihi Seamounts, or Gakkel Ridge (Barreyre et al., 2011; Clague et al., 2003; Portner et al., 2015). Instead, it is similar to the size of shards in many subaerial mafic and felsic eruptions (e.g., Lavallee et al., 2015; Stevenson et al., 2015). We are not aware of other examples of such sustained and rapid deposition of such fine submarine ash.\nA particularly relevant example is the Kasuga 2 seamount behind the northern Mariana arc that, like Manji, is part of a rear arc seamount chain built on rifted arc crust (Fryer et al., 1997). Kasuga 2 has been active in the Holocene, and is taller, more circular, and more voluminous than Manji. Based on back-scatter images, ALVIN dives, and camera tows, volcaniclastic sediment covers most of the edifice above 2,000 mbsl, extending almost 25 km along the cross chain. The sediments form at least three radial deposits 3–4 km wide around the volcano with surface debris channels, rills, ripples, and dunes. The bases of the deposits are hummocky with broad wavelength ( 500 m) ripples orthogonal to the debris channels. Most of the sediments are poorly sorted sands with mean grain size 0.5–2.0 mm and a lower limit of 63 mm, determined by sieving of scooped samples. Larger clasts, some with features suggesting hot deposition, adorn the surface up to 5 km from the summit. However, even there, the one sediment scoop sample taken about 1,700 m below the summit, on a 78 slope, was like our tuffaceous mud with grain size of <1 to 63 mm, mostly of vitriclasts with minor lithics and crystals (P. Ballance in Fryer et al., 1997). In contrast to the sediments, lava is restricted to a small area at the summit and young satellite cones and ridges on the lower flanks of the seamount, north and south of the cross chain itself. Kasuga 2 lacks an adjacent ‘‘volcano-bounded basin’’ such as where Site U1437 was drilled. Therefore, volcaniclastic sediment, some as fine-grained as ours, is ubiquitous at the surface in this reararc environment, and a foretaste of what we sampled much more of by drilling.\nRear arc sedimentation also has been studied extensively in the Antilles (e.g., Carey & Sigurdsson, 1984; Le Friant et al., 2013; Reid et al., 1996), although mostly in the context of transport from volcanic islands. In the Granada Basin, 30–75 km behind the volcanic front (similar to the position of Site U1437), >75% of sediment in the uppermost 6–8 m of sediment is <63 mm ‘‘hemipelagic clayey volcanic silt’’ that is interbedded with coarser turbidites and air fall tephra (Reid et al., 1996). The vitriclasts were not described or analyzed, but the ‘‘clay-size mineralogy’’ is 50% chlorite and kaolinite, 30% illite, and 20% smectite, considered to be products of subaerial glass alteration.\nThe chemically heterogeneous population of our vitriclasts and their usually equant shape demonstrate that they are not proximal deposits of discrete explosive submarine eruptions. However, the surface of many submarine arc volcanoes is covered by volcaniclastic sediment, with lava being restricted to areas of high relief and backscatter at the summit, radial ridges, or satellite cones on the lower flanks (e.g., Fiske et al., 1998 (Myojinsho, Izu); Clague et al., 2011 (W. Mata, Tonga); Baker et al., 2002 (Kovachi, Solomons); Walker et al., 2008 (NW Rota-1, Mariana)). During submarine eruptions, fine, vesicular, bubble-wall vitriclasts can be lofted in buoyant plumes that rise vertically through the water column and travel horizontally for at least 20 km (e.g., Barreyre et al., 2011; Walker et al., 2008; see Steps 4 1 6 in Figure 8 of Portner et al., 2015). Silt to sand-sized clasts also can travel downslope in syn-eruption or subsequent turbidity currents, and the elutriated fines can settle in over-bank deposits. Larger pumice clasts can form complementary rafts on the sea surface from which fines can be abraded over wide areas (e.g., Jutzeler et al., 2014). We attribute our tuffaceous mud(stone)s to combinations of these processes.\nEven if abundant <63mm vitriclasts form during submarine eruptions and become distributed throughout the water column for kilometers away from the eruption site, exporting them to the sea floor in abundance\nGILL ET AL. 1237\nremains problematic if sinking depends on just their settling velocity. However, we suggest a different transport mechanism: vitriclast aggregation by Transparent Exopolymer Particle (TEP) gels. Experiments have found that such gels form abiotically from the addition of clay or dust particles to sea water, and can settle 70–80% of the particles in days as organo-mineral aggregates (Louis et al., 2017; Passow et al., 2014). We speculate that the porous, sinuous, and rough character of submarine arc vitriclasts would be especially effective in this regard, and that the turbulent character of submarine eruption plumes would add to the scavenging potential of the gels.\nIn summary, we propose that no distinction be made between ‘‘ash’’ (or tuff) and ‘‘tuffaceous mud’’ (or mudstone) in submarine arcs without positive evidence that >25% of the <2 mm silicate fraction is nonvolcanic in origin. In our case, >75% of the tuffaceous mud usually is volcanic in origin: i.e., it is ash (Figure 13). Therefore, the key word in ‘‘tuffaceous mud’’ is the adjective, not the noun. A better name for it would be ‘‘muddy ash or muddy tuff’’. Arc vitriclasts can be too fine-grained to assume that ‘‘hemipelagic mud’’ is nonvolcanic. Such fine ash can predominate as close as a few kilometers from vents, and especially on the flatter sea floor beyond a break in seamount slope. 4.4.2. The Foreign Component and the Kuroshio Current We estimate that about 75% of the silicate portion of the tuffaceous mud(stone)s at Site U1437 is locally derived, but how did the other 25% get there? Its trace element, isotope, and grain size characteristics are consistent with it coming from the Chinese Loess Plateau and Yellow River (Huanghe) drainage >2,000 km away (e.g., Hu et al., 2012; Zheng et al., 2014). During glacial stages this foreign component was 50–80% of the sediment for at least the last two million years. Did it come by air (eolian transport of dust) or sea (silt transported by the Kuroshio Current)?\nThe high sedimentation rate during the last million years argues for ocean current rather than eolian transport. The non-carbonate mass accumulation rate (nCAR) of sediment during that time is 8.8 g/cm2/kyr, and 88% of the sediment is tuffaceous mud (Tamura et al., 2015). If that mud contains on average 60% foreign component during glacial intervals (Figure 13), then the Mass Accumulation Rate (MAR) is 4.6 g/cm2/kyr. This is at the high end of the present dust flux even to the Sea of Japan at 37–408N (Nagashima et al., 2007), and much more than the typical eolian MAR of <0.1 g/cm2/kyr in the North Pacific at 30–358N (Rea et al., 1994). A more efficient sediment transport process is required.\nWe attribute the foreign component to Chinese river silt transported to Site U1437 by large meanders of the Kuroshio Current especially during glacial stages when sea level is low, and continental erosion is high in mountains like the Qilian bordering the Taklimakan Desert. We presented information about the KC in section 1.1 and showed that its periodic large meanders, which preferentially form when volume transport and current velocity are low, can reach Site U1437 because the Izu arc forms a hydrographic barrier to the meanders (Figure 1). In contrast, the mostly submarine arc does not block the westerly winds that carry eolian dust. The higher sedimentation rate on the western than eastern side of the Izu arc (Tamura et al., 2015), and on both sides of the arc relative to the incoming Pacific Plate at the same latitude (ODP Site 1149: Plank et al., 2007), are easier to explain by appealing to the meanders. Likewise, maximum NGR values are not as high at Site U1436 on the east side as at U1437 in the rear arc, nor do they contain orbital frequencies (our unpublished results). That is, they lack the necessary amount of the foreign component despite being only slightly downwind.\nSome tuffaceous muds at U1437 during glacial stages have an even higher mass fraction of loess-like component than in bulk sediment of similar age on the in-coming Pacific Plate at ODP Site 1149 (Scudder et al., 2014), or <4.5 Ma bulk sediment further north near the Nankai Trough at IODP Site C0011 (Saitoh et al., 2015). See Figure 1 for locations and Figures 7 and 8 for mass fraction comparisons. This large mass fraction of China-sourced sediment in <2 Ma sediment at Site U1437, plus the high time resolution created by the high sedimentation rate, makes the site potentially valuable for documenting how the Kuroshio Current responds to climate change. This topic is of considerable current debate (e.g., Nagashima et al., 2007; Sawada & Handa, 1998) to which our distal site is surprisingly relevant. We will return to this topic, with higher resolution data for the last million years, in a future paper."
+  }, {
+    "heading": "5. Conclusions",
+    "text": "The chemical composition of tuffaceous muds and mudstones [i.e., mud(stone)s] at IODP Site U1437 in the intra-oceanic Izu rear arc indicates that they contain 70–100% local Izu arc components except during\nGILL ET AL. 1238\nPleistocene glacial stages when the proportion can drop to 20–50%. That is, most are ‘‘ash’’ rather than ‘‘hemipelagic clay’’, and the distinction between mud and ash often is false. In arcs, such sediments should be called ‘‘muddy ash’’ or ‘‘muddy tuff’’ absent independent evidence otherwise. The geochemistry of shales in accreted arc terranes may therefore record the origin and evolution of the arcs, and inform the geochemical history of the continent to which they are added.\nAlthough we used several lines of evidence to reach this conclusion, including major and trace elements, multiple isotopes, grain size, powder XRD, componentry, SEM, EPMA, and EDS, just the Th and K contents correlate with many of these parameters and indicate the relative amount of local arc versus foreign components. This is aided at Site U1437 by the stark chemical contrast between the two components. The foreign one is like average Upper Continental Crust that is the primary terrestrial reservoir of Th, Nb, and LREE, whereas the Izu arc is one of the most depleted igneous provinces on Earth for these elements. Because Th and K are routinely measured during ocean drilling at high stratigraphic resolution, both by downhole logging and NGR measurements of core, their concentration profiles are excellent volcanological tools.\nGrain size analyses and SEM images of unconsolidated tuffaceous muds show that the mean diameter of their vitriclasts is 24–40 mm, almost all are <200 mm and vesicular, and many are bubble-wall fragments. If most tuffaceous mud(stone)s come from proximal rear arc sources 1–2 km deep, as suggested by chemical comparison to dredged basalts, then submarine arc eruptions produce large volumes of clasts as small as in subaerial eruptions, and finer than in other tectonic environments.\nThese fine clasts comprise most of the inorganic portion of the tuffaceous muds and mudstones that are 75% of the core in the upper 73% of the site. Therefore, more than half of the arc-derived volcaniclastic material <9 Ma is too fine to have been described even as ‘‘ash’’ using only optical microscopes.\nAnalyses of both bulk rocks and individual vitriclasts suggest that most of the local component was felsic since 2 Ma. At least two different types of magmatism co-existed in the rear arc from 9 Ma to at least 2 Ma: the geochemically enriched Rear Arc Seamount Chain (RASC) type; and a more depleted type like that of the Back Arc Knolls (BAK), or the underlying Unit VII ‘‘basement’’ (Sato et al., 2017). Both types seem to be recurring sources of the tuffaceous mud(stone) vitriclasts.\nThe dominance of proximal volcanic sources was interrupted during Pleistocene glacial intervals when sea level was low and continental erosion rates were high. Some 50–80% of the muds then were truly hemipelagic, and probably sourced from cratonic China such as the Chinese Loess Plateau. Both the mass fraction and the mass accumulation rate exceed that in other sea floor sites downwind from China. Consequently, most of this foreign component seems to have been brought to the eastern Shikoku Basin (i.e., the Izu rear arc) during glacial periods as silt by large meanders of the Kuroshio Current rather than as eolian dust by strengthened westerly winds.\nSubmarine arc volcanism apparently produces enough fine ash (<200 mm) to accumulate at prodigious rates (10–20 cm/ka) in depocenters that are kilometers from seamount summits, at times aided by bottom currents that form levees and ‘‘plaster drifts’’. This much fine ash suggests frequent explosive volcanism even at water depths of 1–2 km, extensive lateral transport of fine ash through the ocean in buoyant plumes, and an effective mechanism of aggregation and export to the sea floor, such as Transparent Exopolymer Particle (TEP) gels."
+  }],
+  "year": 2018,
+  "references": [{
+    "title": "Age and compositional data of zircon from sepiolite drilling mud to identify contamination of ocean drilling samples",
+    "authors": ["G.D.M. Andrews", "A.K. Schmitt", "C.J. Busby", "S.R. Brown", "P. Blum", "J.C. Harvey"],
+    "venue": "Geochemistry, Geophysics, Geosystems,",
+    "year": 2016
+  }, {
+    "title": "Observations and sampling of an ongoing subsurface eruption of Kavachi volcano",
+    "authors": ["E.T. Baker", "G.J. Massoth", "C.E.J. de Ronde", "J.E. Lupton", "B.I.A. McInnes"],
+    "venue": "Solomon Islands,",
+    "year": 2002
+  }, {
+    "title": "Pb isotopic analysis of standards and samples using a 207Pb–204Pb double spike and thallium to correct for mass bias with a double-focusing MC-ICP-MS",
+    "authors": ["J. Baker", "D. Peate", "T. Waight", "C. Meyzen"],
+    "venue": "Chemical Geology,",
+    "year": 2004
+  }, {
+    "title": "Dispersal of volcaniclastics during deep-sea eruptions: Settling velocities and entrainment in buoyant seawater plumes",
+    "authors": ["T. Barreyre", "S.A. Soule", "R.A. Sohn"],
+    "venue": "Journal of Volcanology Geothermal Research,",
+    "year": 2011
+  }, {
+    "title": "Geochemistry of river-borne clays entering the East China Sea indicates two contrasting types of weathering and sediment transport processes",
+    "authors": ["L. Bi", "S. Yang", "C. Li", "Y. Guo", "Wang Q", "Liu J. T", "P. Yin"],
+    "venue": "Geochemistry, Geophysics, Geosystems,",
+    "year": 2015
+  }, {
+    "title": "The geochemical evolution of the Izu-Bonin arc system: A perspective from tephras recovered by deep-sea drilling",
+    "authors": ["C.J. Bryant", "R.J. Arculus", "S.M. Eggins"],
+    "year": 2003
+  }, {
+    "title": "The missing half of the subduction factory: Shipboard results from the Izu rear arc",
+    "authors": ["C.J. Busby", "Y. Tamura", "P. Blum", "G. Guerin", "G.D.M. Andrews", "Barker", "A. K"],
+    "venue": "IODP Expedition 350. International Geology Review,",
+    "year": 2017
+  }, {
+    "title": "A model of volcanogenic sedimentation in marginal basins",
+    "authors": ["S. Carey", "H. Sigurdsson"],
+    "venue": "(Geological Society of London Special Publication",
+    "year": 1984
+  }, {
+    "title": "Hf–Nd input flux in the Izu–Mariana subduction zone and recycling of subducted manterial in the mantle",
+    "authors": ["C. Chauvel", "Marini", "J.-C", "T. Plank", "J.N. Ludden"],
+    "year": 2009
+  }, {
+    "title": "Variations in chemical compositions of the eolian dust in Chinese Loess Plateau over the past 2.5 Ma and chemical weathering in the Asian inland",
+    "authors": ["J. Chen", "Z. An", "L. Liu", "J. Junfeng", "J. Yang", "Y. Chen"],
+    "venue": "Science in China Series D,",
+    "year": 2001
+  }, {
+    "title": "Evolving sources of eolian detritus on the Chinese Loess Plateau since early Miocene: Tectonic and climatic controls",
+    "authors": ["Z. Chen", "G. Li"],
+    "venue": "Earth and Planetary Science Letters,",
+    "year": 2013
+  }, {
+    "title": "Submarine Strombolian eruptions on the Gorda mid-ocean ridge",
+    "authors": ["D.A. Clague", "A.S. Davis", "J. Dixon"],
+    "venue": "Explosive Subaqueous Volcanism. AGU Geophysical Monograph,",
+    "year": 2003
+  }, {
+    "title": "Volcanic morphology of West Mata Volcano, NE Lau Basin, based on high-resolution bathymetry and depth changes",
+    "authors": ["D.A. Clague", "J.B. Paduan", "D.W. Caress", "H. Thomas", "W.W. Chadwick", "Jr.", "S.G. Merle"],
+    "venue": "https://doi",
+    "year": 2011
+  }, {
+    "title": "Widespread strombolian eruptions of mid-ocean ridge basalt",
+    "authors": ["D.A. Clague", "J.B. Paduan", "A.S. Davis"],
+    "venue": "Journal of Volcanology and Geothermal Research,",
+    "year": 2009
+  }, {
+    "title": "Single-stage method for the simultaneous isolation of lead and strontium from silicate samples for isotopic measurements",
+    "authors": ["C. Deniel", "C. Pin"],
+    "venue": "Analytica Chimica Acta,",
+    "year": 2001
+  }, {
+    "title": "Quantifying K, U, and Th contents of marine sediments using shipboard natural gamma radiation spectra measured on DV JOIDES Resolution",
+    "authors": ["D. De Vleeschouwer", "A.G. Dunlea", "G. Auer", "C.H. Anderson", "H. Brumsack", "A de Loach"],
+    "year": 2017
+  }, {
+    "title": "Geochemistry of the Pliocene red clay formation in the Chinese Loess Plateau and implications for its origin, source provenance and paleoclimate change",
+    "authors": ["Z.L. Ding", "J.M. Sun", "S.L. Yang", "T.S. Liu"],
+    "venue": "Geochimica et Cosmochimica Acta,",
+    "year": 2001
+  }, {
+    "title": "Sr-Nd isotopic constraints on terrigenous sediment provenances and Kuroshio Current variability in the Okinawa Trough during the late Quaternary",
+    "authors": ["Y. Dou", "S. Yang", "Z. Liu", "X. Shi", "J. Li", "H. Yu", "S. Berne"],
+    "year": 2012
+  }, {
+    "title": "Sedimentary processes in modern and ancient oceanic arc settings: Evidence from the Jurassic Talkeetna Formation of Alaska and the Mariana and Tonga arcs, Western Pacific",
+    "authors": ["A. Draut", "P.D. Clift"],
+    "venue": "Journal of Sedimentary Research,",
+    "year": 2006
+  }, {
+    "title": "Distributions of lead isotopes with grain size in Aeolian deposits",
+    "authors": ["Feng", "J.-L", "Hu", "Z.-G", "Cui", "J.-Y", "Zhu", "L.-P"],
+    "venue": "Terra Nova,",
+    "year": 2010
+  }, {
+    "title": "Grain size effects on Sr and Nd isotopic compositions in eolian dust: Implications for tracing dust provenance and Nd model age",
+    "authors": ["Feng", "J.-L", "L. Zhu", "X. Zhen", "Z. Hu"],
+    "venue": "Geochemical Journal,",
+    "year": 2009
+  }, {
+    "title": "Pyroclastic rocks (472 pp.)",
+    "authors": ["R.V. Fisher", "Schmincke", "H.-U"],
+    "year": 1981
+  }, {
+    "title": "Tephra dispersal from Myojinsho, Japan, during its shallow submarine eruption of 1952–1953",
+    "authors": ["R.S. Fiske", "K.V. Cashman", "A. Shibata", "K. Watanabe"],
+    "venue": "Bulletin of Volcanology,",
+    "year": 1998
+  }, {
+    "title": "Thorium isotope evidence for melting of the mafic oceanic crust beneath the Izu arc",
+    "authors": ["H. Freymuth", "B. Ivko", "J.B. Gill", "Y. Tamura", "T. Elliott"],
+    "venue": "Geochimica et Cosmochimica Acta,",
+    "year": 2016
+  }, {
+    "title": "Volcanologic and tectonic evolution of the Kasuga seamounts, northern Mariana Trough: Alvin submersible investigations",
+    "authors": ["P. Fryer", "J.B. Gill", "M. Jackson"],
+    "venue": "Journal of Volcanology and Geothermal Research,",
+    "year": 1997
+  }, {
+    "title": "Geochemical characterization of the Luochuan loess-paleosol sequence, China, and paleoclimatic implications",
+    "authors": ["S. Gallet", "Jahn", "B.-M", "M. Torii"],
+    "venue": "Chemical Geology,",
+    "year": 1996
+  }, {
+    "title": "Explosive deep water basalt in the Sumisu backarc",
+    "authors": ["J. Gill", "P. Torssander", "H. Lapierre", "R. Taylor", "K. Kaiho", "M Koyama"],
+    "venue": "rift. Science,",
+    "year": 1990
+  }, {
+    "title": "Orogenic andesite and plate tectonics",
+    "authors": ["J.B. Gill"],
+    "year": 1981
+  }, {
+    "title": "Turbidite geochemistry and evolution of the Izu-Bonin arc and continents",
+    "authors": ["J.B. Gill", "R.N. Hiscott", "P. Vidal"],
+    "venue": "Lithos,",
+    "year": 1994
+  }, {
+    "title": "Atypically depleted upper mantle component revealed by Hf isotopes at Lucky Strike segment",
+    "authors": ["C. Hamelin", "A. Bezos", "L. Dosso", "J. Escartin", "M. Cannat", "C. Mevel"],
+    "venue": "Chemical Geology,",
+    "year": 2013
+  }, {
+    "title": "Geochemical characteristics and origin of the HIMU reservoir: A possible mantle plume source in the lower mantle",
+    "authors": ["T. Hanyu", "Y. Tatsumi", "R. Senda", "T. Miyazaki", "Q. Chang", "Y Hirahara"],
+    "year": 2011
+  }, {
+    "title": "Origin of felsic volcanism in the Izu arc intra-rift. Contributions to Mineralogy and Petrology",
+    "authors": ["S. Haraguchi", "Kimura", "J.-I", "R. Senda", "K. Fujinaga", "K. Nakamura", "Y. Takaya", "T. Ishii"],
+    "year": 2017
+  }, {
+    "title": "A large-scale isotope anomaly in the Southern Hemisphere",
+    "authors": ["S.R. Hart"],
+    "venue": "mantle. Nature,",
+    "year": 1984
+  }, {
+    "title": "Sr-Nd-Pb composition of Mesozoic Pacific oceanic crust (Site 1149 and 801, ODP Leg 185): Implications for alteration of ocean crust and the input into the Izu-Bonin-Mariana subduction system",
+    "authors": ["F. Hauff", "K. Hoernle", "A. Schmidt"],
+    "year": 2003
+  }, {
+    "title": "Diversity and Petrogenesis of <4.4 Ma Rhyolites from the Izu Bonin Rear-Arc, Abstract V13C-2854 presented at the 2016",
+    "authors": ["L.J. Heywood", "S.M. DeBari", "J.C. Schindlbeck", "R.D. Escobar-Burciaga", "J. Gill"],
+    "venue": "AGU Fall Meeting,",
+    "year": 2016
+  }, {
+    "title": "Improved Nd chemical separation technique for 143Nd/ 144Nd analysis in geological samples using packed Ln resin columns",
+    "authors": ["Y. Hirahara", "Q. Chang", "T. Miyazaki", "T. Takahashi", "R. Senda", "Kimura", "J.-I"],
+    "venue": "JAMSTEC Report of Research and Development,",
+    "year": 2012
+  }, {
+    "title": "Precise Nd isotope analysis of igneous rocks using cation exchange chromatography and thermal ionization mass spectrometry (TIMS)",
+    "authors": ["Y. Hirahara", "T. Takahashi", "T. Miyazaki", "B.S. Vaglarov", "Q. Chang", "Kimura", "J.-I", "Y. Tatsumi"],
+    "venue": "JAMSTEC Report of Research and Development,",
+    "year": 2009
+  }, {
+    "title": "Volcanism in the Sumisu Rift, I: Major element, volatile, and stable isotope geochemistry",
+    "authors": ["A.G. Hochstaedter", "J.B. Gill", "M. Musakabe", "S. Newman", "M. Pringle", "B. Taylor", "P. Fryer"],
+    "venue": "Earth and Planetary Science",
+    "year": 1990
+  }, {
+    "title": "Across-arc geochemical trends in the Izu-Bonin arc: Contributions from the subducting slab",
+    "authors": ["A.G. Hochstaedter", "J.B. Gill", "R. Peters", "P. Broughton", "P. Holden", "B. Taylor"],
+    "year": 2001
+  }, {
+    "title": "Across-arc geochemical trends in the Izu-Bonin arc: Constraints on source composition and mantle melting",
+    "authors": ["A.G. Hochstaedter", "J.B. Gill", "B. Taylor", "O. Ishizuka", "M. Yuasa", "S. Morita"],
+    "venue": "Journal of Geophysical Research,",
+    "year": 2000
+  }, {
+    "title": "Geochemical and isotopic studies of aeolian sediments",
+    "authors": ["M. Honda", "S. Yabuki", "H. Shimizu"],
+    "venue": "in China. Sedimentology,",
+    "year": 2004
+  }, {
+    "title": "Provenance and climate change inferred from Sr-Nd-Pb isotopes of late Quaternary sediments in the Huanghe (Yellow River) Delta, China",
+    "authors": ["B. Hu", "G. Li", "J. Li", "J. Bi", "J. Zhao", "R. Bu"],
+    "venue": "Quatenary Research,",
+    "year": 2012
+  }, {
+    "title": "Intracrustal controls on the co-existence of tholeiitic and calc-alkaline magma series at Aso volcano, SW Japan",
+    "authors": ["A.G. Hunter"],
+    "venue": "Journal of Petrology,",
+    "year": 1998
+  }, {
+    "title": "Volcanic and tectonic framework of the hydrothermal activity of the Izu-Bonin arc",
+    "authors": ["O. Ishizuka"],
+    "venue": "Resource Geology,",
+    "year": 2008
+  }, {
+    "title": "Fluid-mantle interaction in an intra-oceanic arc: Constraints from highprecision Pb isotopes",
+    "authors": ["O. Ishizuka", "R.N. Taylor", "J.A. Milton", "R.W. Nesbitt"],
+    "venue": "Earth and Planetary Science Letters,",
+    "year": 2003
+  }, {
+    "title": "K-Ar ages from seamount chains in the back-arc region of the Izu-Ogasawara arc",
+    "authors": ["O. Ishizuka", "K. Uto", "M. Yuasa", "A.G. Hochstaedter"],
+    "venue": "The Island Arc,",
+    "year": 1998
+  }, {
+    "title": "Volcanism in the earliest stage of back-arc rifting in the Izu–Bonin arc revealed by laser-heating 40Ar/39Ar dating",
+    "authors": ["O. Ishizuka", "K. Uto", "M. Yuasa", "A.G. Hochstaedter"],
+    "venue": "Journal of Volcanology and Geothermal Research,",
+    "year": 2002
+  }, {
+    "title": "Evidence of porphyry copper-type hydrothermal activity from a submerged remnant back-arc volcano of the Izu–Bonin arcimplications for the volcanotectonic history of back-arc seamounts",
+    "authors": ["O. Ishizuka", "M. Yuasa", "K. Uto"],
+    "venue": "Earth and Planetary Science Letters,",
+    "year": 2002
+  }, {
+    "title": "Geochemistry of the Xining, Xifeng, and Jixian sections, Loess Plateau of China: Eolian dust provenance and paleosol evolution during the last 140 ka",
+    "authors": ["Jahn", "B.-M", "S. Gallet", "J. Han"],
+    "venue": "Chemical Geology,",
+    "year": 2001
+  }, {
+    "title": "On the fate of pumice rafts formed during the 2012 Havre submarine eruption",
+    "authors": ["M. Jutzeler", "R. Marsh", "R.J. Carey", "J.D.L. White", "P.J. Talling", "L. Karlstrom"],
+    "venue": "Nature Communications,",
+    "year": 2014
+  }, {
+    "title": "Impact of climate change on themagnetic mineral assemblage in marine sediments from Izu rear arc, NW Pacific Ocean, over the last 1 Myr",
+    "authors": ["M. Kars", "R.J. Musgrave", "K. Kodama", "Jonas", "A.-S", "M. Bordiga", "W Ruebsam"],
+    "year": 2017
+  }, {
+    "title": "Variations of Current Path, Velocity, and Volume Transport of the Kuroshio in Relation with the Large Meander",
+    "authors": ["M. Kawabe"],
+    "venue": "Journal of Physical Oceanography,",
+    "year": 1995
+  }, {
+    "title": "Variations of the Kuroshio in the Southern Region of Japan: Conditions for Large Meander of the Kuroshio",
+    "authors": ["M. Kawabe"],
+    "venue": "Journal of Oceanography,",
+    "year": 2005
+  }, {
+    "title": "Reply to comment by I",
+    "authors": ["Kimura", "J.-I", "T. Miyazaki", "B.S. Vaglarov", "S. Haraguchi", "Q. Chang", "J.B. Gill"],
+    "year": 2015
+  }, {
+    "title": "Origins of felsic magmas in Japanese subduction zone: Geochemical characterizations of tephra from caldera-forming eruptions",
+    "authors": ["Kimura", "J.-I", "Y. Nagahashi", "Y. Satoguchi", "Q. Chang"],
+    "year": 2015
+  }, {
+    "title": "Precise lead isotope analysis using Multiple Collector-Inductively Coupled Plasma-Mass Spectrometry (MC-ICP-MS): Analytical technique and evaluation of mass fractionation during Pb separation",
+    "authors": ["Kimura", "J.-I", "N. Nakano"],
+    "venue": "Geoscience Report of Shimane University,",
+    "year": 2004
+  }, {
+    "title": "Isotope geochemistry of early Kilauea magmas from the submarine Hilina bench: The nature of the Hilina mantle component",
+    "authors": ["Kimura", "J.-I", "T.W. Sisson", "N. Nakano", "M.L. Coombs", "P.W. Lipman"],
+    "venue": "Journal of Volcanology and Geothermal Research,",
+    "year": 2006
+  }, {
+    "title": "Thermal vesiculation during volcanic eruptions",
+    "authors": ["Y. Lavall ee", "D.B. Dingwell", "J.B. Johnson", "C. Cimarelli", "A.J. Hornby", "Kendrick", "J. E"],
+    "year": 2015
+  }, {
+    "title": "Isotope geochemistry of Quaternary deposits from the arid lands in northern China",
+    "authors": ["Liu", "C.-Q", "A. Masuda", "A. Okada", "S. Yabuki", "Fan", "Z.-L"],
+    "venue": "Earth and Planetary Science Letters,",
+    "year": 2004
+  }, {
+    "title": "Experimental evidence of formation of Transparent Exopolymer Particles (TEP) and POC export provoked by dust addition under current and high pCO2 conditions",
+    "authors": ["J. Louis", "M.L. Pedrotti", "F. Gazeau", "C. Guieu"],
+    "venue": "PLOS One,",
+    "year": 2017
+  }, {
+    "title": "Petrology and geochemistry of cross-chains in the Izu-Bonin back arc: Three mantle components with contributions of hydrous liquids from a deeply subducted slab",
+    "authors": ["S. Machida", "T. Ishii", "Kimura", "J-I", "S. Awaji", "Y. Kato"],
+    "year": 2008
+  }, {
+    "title": "Anticyclonic eddies and Kuroshio meander formation",
+    "authors": ["H. Mitsudera", "T. Waseda", "Y. Yoshikawa", "B. Taguchi"],
+    "venue": "Geophysical Research Letters,",
+    "year": 2001
+  }, {
+    "title": "Precise Pb isotope analysis of igneous rocks using fully-automated double spike thermal ionization mass spectrometry (FA-DS-TIMS)",
+    "authors": ["T. Miyazaki", "N. Kanazawa", "T. Takahashi", "Y. Hirahara", "B.S. Vaglarov", "Q Chang"],
+    "venue": "JAMSTEC Report of Research and Development,",
+    "year": 2009
+  }, {
+    "title": "Geochemical records from loess deposits in Japan over the last 210 kyr: Lithogenic source changes and paleoclimatic indications",
+    "authors": ["T. Miyazaki", "Kimura", "J.-I", "M. Katakuse"],
+    "venue": "Geochemistry, Geophysics, Geosystems,",
+    "year": 2016
+  }, {
+    "title": "Forward modeling of the magma genesis for the deepest lithostratigraphic unit at Site U1437",
+    "authors": ["T. Miyazaki", "T. Sato", "Y. Tamura", "Kimura", "J.-I", "J.B. Gill", "C Hamelin"],
+    "venue": "IODP Expedition",
+    "year": 2017
+  }, {
+    "title": "Sr and Nd isotope ratios of twelve GSJ rock reference samples",
+    "authors": ["T. Miyazaki", "K. Shuto"],
+    "venue": "Geochemical Journal,",
+    "year": 1998
+  }, {
+    "title": "Development of a fully automated open-column chemical-separation system—COLUMNSPIDER—and its application to Sr-Nd-Pb isotope analyses of igneous rock samples",
+    "authors": ["T. Miyazaki", "B.S. Vaglarov", "M. Takei", "M. Suzuki", "H. Suzuki", "K Ohsawa"],
+    "venue": "Journal of Mineralogical and Petrological Science,",
+    "year": 2012
+  }, {
+    "title": "Generation and deposition of fine ash produced in a deep aubaqueous eruption at Havre Volcano",
+    "authors": ["M. uttner"],
+    "venue": "Portland IAVCEI Abstract,",
+    "year": 2017
+  }, {
+    "title": "Volume transports proceeding to the Kuroshio Extension region and recirculating in the Shikoku Basin",
+    "authors": ["A. Nagano", "K. Ichikawa", "H. Ichikawa", "M. Konda", "K. Murakami"],
+    "venue": "Journal of Oceanography,",
+    "year": 2013
+  }, {
+    "title": "Orbital- and millennial-scale variations in Asian dust transport path to the Japan Sea",
+    "authors": ["K. Nagashima", "R. Tada", "H. Matsui", "T. Irino", "A. Tani", "S. Toyoda"],
+    "year": 2007
+  }, {
+    "title": "Determination of REE, Ba, Fe, Mg, Na, and K in carbonaceous and ordinary chondrites",
+    "authors": ["N. Nakamura"],
+    "venue": "Geochimica et Cosmochimica",
+    "year": 1974
+  }, {
+    "title": "Aggregation as a function of pCO2 and mineral particles",
+    "authors": ["U. Passow", "C.L. DeLaRocha", "C. Fairfield", "K. Schmidt"],
+    "year": 2014
+  }, {
+    "title": "Lu–Hf and Sm–Nd isotopic systematics in chondrites and their constraints on the Lu–Hf properties of the Earth",
+    "authors": ["U. oderlund", "V.J.M. Salters"],
+    "venue": "Earth and Planetary Science Letters,",
+    "year": 2004
+  }, {
+    "title": "Concomitant separation of strontium and samarium-neodymium for isotopic analysis in silicate samples, based on specific extraction chromatography",
+    "authors": ["C. Pin", "D. Briot", "C. Bassin", "F. Poitrasson"],
+    "venue": "Analytica Chimica Acta,",
+    "year": 1994
+  }, {
+    "title": "Chemical composition of sediments subducting at the Izu-Bonin Trench",
+    "authors": ["T. Plank", "K.A. Kelley", "R.W. Murray", "L.Q. Stern"],
+    "year": 2007
+  }, {
+    "title": "Why do mafic arc magmas contain 4 wt% water on average",
+    "authors": ["T. Plank", "K.A. Kelley", "M.M. Zimmer", "E.H. Hauri", "P.J. Wallace"],
+    "venue": "Earth and Planetary Science Letters,",
+    "year": 2013
+  }, {
+    "title": "Contrasting styles of deep-marine pyroclastic eruptions revealed from Axial Seamount push core records",
+    "authors": ["R.A. Portner", "D.A. Clague", "C. Helo", "B.M. Dreyer", "J. Paduan"],
+    "venue": "Earth and Planetary Science Letters,",
+    "year": 2015
+  }, {
+    "title": "Clastic lithofacies from seamount summits of the north Pacific record caldera formation and deep-sea explosive eruptions",
+    "authors": ["R.A. Portner", "D.A. Clague", "J.R. Paduan"],
+    "venue": "Bulletin of Volcanology,",
+    "year": 2014
+  }, {
+    "title": "Constraints on mantle melting and composition and nature of slab components in volcanic arcs from volatiles (H2O, S, Cl, F) and trace elements in melt inclusions from the Kamchatka Arc",
+    "authors": ["M. Portnyagin", "K. Hoernle", "P. Plechov", "N. Mironov", "S. Khubunaya"],
+    "venue": "Earth and Planetary Science Letters,",
+    "year": 2007
+  }, {
+    "title": "The nature, origin, and accumulation of loess",
+    "authors": ["K. Pye"],
+    "venue": "Quatenary Science Review,",
+    "year": 1995
+  }, {
+    "title": "Sr-Nd isotope geochemistry of eolian dust of the arid-semiarid areas in China: Implications for loess provenance and monsoon evolution",
+    "authors": ["W. Rao", "J. Yang", "J. Chen", "L. Gaojun"],
+    "venue": "Chinese Science Bulletin,",
+    "year": 2006
+  }, {
+    "title": "Late Quaternary flux of eolian dust to the pelagic ocean. In Material fluxes on the surface of the earth (pp. 116–124)",
+    "authors": ["D.K. Rea", "S.A. Hovan", "T.R. Janacek"],
+    "venue": "Studies in Geophysics, U.S. National Research Council. Retrieved from https://www.nap.edu/catalog/1992/material-fluxes-on-the-surface-of-the-earth",
+    "year": 1994
+  }, {
+    "title": "Late Quaternary sedimentation in the Lesser Antilles island arc",
+    "authors": ["R.P. Reid", "S.N. Carey", "D.R. Ross"],
+    "venue": "GSA Bulletin,",
+    "year": 1996
+  }, {
+    "title": "Active submarine eruption of boninite in the northeastern Lau Basin",
+    "authors": ["J.A. Resing", "K.H. Rubin", "R.W. Embley", "J.E. Lupton", "E.T. Baker", "Dziak", "R. P"],
+    "venue": "Nature Geoscience,",
+    "year": 2011
+  }, {
+    "title": "Composition of the Continental Crust",
+    "authors": ["R.L. Rudnick", "S. Gao"],
+    "venue": "Treatise on geochemistry (Vol",
+    "year": 2003
+  }, {
+    "title": "Sr, Nd, and Pb isotope compositions of hemipelagic sediment in the Shikoku Basin: Implications for sediment transport by the Kuroshio and Philippine Sea plate motion in the late Cenozoic",
+    "authors": ["Y. Saitoh", "T. Ishikawa", "M. Tanimizu", "M. Murayama", "Y. Ujiie", "Y Yamamoto"],
+    "venue": "Earth and Planetary Science Letters,",
+    "year": 2015
+  }, {
+    "title": "The earliest stage of Izu rear arc volcanism revealed by drilled cores at Site U1437",
+    "authors": ["T. Sato", "T. Miyazaki", "Y. Tamura", "J.B. Gill", "M. Jutzeler", "R. Senda", "Kimura", "J.-I"],
+    "venue": "IODP Expedition",
+    "year": 2017
+  }, {
+    "title": "Variability of the path of the Kuroshio ocean current over the past 25,000 years",
+    "authors": ["K. Sawada", "N. Handa"],
+    "year": 1998
+  }, {
+    "title": "One Million Years tephra record at IODP Sites U1436 and U1437: Insights into explosive volcanism from the Japan and Izu arcs",
+    "authors": ["J.C. Schindlbeck", "S. Kutterolf", "S.M. Straub", "G.D.M. Andrews", "Wang", "K.-L", "M.J. Mleneck-Vautravers"],
+    "venue": "The Island Arc,",
+    "year": 2018
+  }, {
+    "title": "Dispersed ash in deeply buried sediment from the northwest Pacific Ocean: An example from the Izu–Bonin arc (ODP Site 1149)",
+    "authors": ["R.P. Scudder", "R.W. Murray", "T. Plank"],
+    "venue": "Earth and Planetary Science Letters,",
+    "year": 2009
+  }, {
+    "title": "Regional-scale input of dispersed and discrete volcanic ash to the Izu-Bonin and Mariana subduction zones",
+    "authors": ["R.P. Scudder", "R.W. Murray", "J.C. Schindlbeck", "S. Kutterolf", "F. Hauff", "C.C. McKinley"],
+    "year": 2014
+  }, {
+    "title": "Geochemical approaches to the quantification of dispersed volcanic ash in marine sediment",
+    "authors": ["R.P. Scudder", "R.W. Murray", "J.C. Schindlbeck", "S. Kutterolf", "F. Hauff", "Underwood", "M. B"],
+    "venue": "Progress in Earth and Planetary Science,",
+    "year": 2016
+  }, {
+    "title": "Variations in the provenance of the late Neogene Red Clay deposits",
+    "authors": ["Y. Shang", "C.J. Beets", "H. Tang", "M. Prins", "Y. Lahaye", "R van Elsas"],
+    "venue": "Earth and Planetary Science Letters,",
+    "year": 2016
+  }, {
+    "title": "Big grains go far: Understanding the discrepancy between tephrochronology and satellite infrared measurements of volcanic ash",
+    "authors": ["J.A. Stevenson", "S.C. Millington", "F.M. Beckett", "G.T. Swindles", "T. Thordarson"],
+    "venue": "Atmospheric Measurement. Techniques,",
+    "year": 2015
+  }, {
+    "title": "Volcanic glasses at the Izu arc volcanic front: New perspectives on fluid and sediment melt recycling in subduction zones",
+    "authors": ["S.M. Straub", "G.D. Layne", "A. Schmidt", "C.H. Langmuir"],
+    "year": 2004
+  }, {
+    "title": "Nd and Sr isotopic variations in Chinese eolian deposits during the past 8 Ma: Implications for provenance change",
+    "authors": ["J. Sun"],
+    "venue": "Earth and Planetary Science Letters,",
+    "year": 2005
+  }, {
+    "title": "Temporal variations in Pb isotopes and trace element concentrations within Chinese eolian deposits during the past 8 Ma: Implications for provenance change",
+    "authors": ["J. Sun", "X. Zhu"],
+    "venue": "Earth and Planetary Science Letters,",
+    "year": 2010
+  }, {
+    "title": "Deep circulation in the Shikoku Basin measured with the SOFAR floats",
+    "authors": ["K. Taira", "D. Yanagimoto"],
+    "venue": "(pp. 69–80)",
+    "year": 1993
+  }, {
+    "title": "Precise determination of Sr isotope ratios in igneous rock samples and application to micro-analysis of plagioclase phenocrysts",
+    "authors": ["T. Takahashi", "Y. Hirahara", "T. Miyazaki", "B.S. Vaglarov", "Q. Chang", "Kimura", "J.-I", "Y. Tatsumi"],
+    "venue": "JAMSTEC Report of Research and Development,",
+    "year": 2009
+  }, {
+    "title": "Silicic magmas in the Izu-Bonin oceanic arc and implications for crustal evolution",
+    "authors": ["Y. Tamura", "J. Gill", "D. Tollstrup", "H. Kawabata", "H. Shukuno", "Q Chang"],
+    "venue": "Journal of Petrology,",
+    "year": 2009
+  }, {
+    "title": "Remelting of an andesitic crust as a possible origin for rhyolitic magma in oceanic arcs: An example from the Izu-Bonin arc",
+    "authors": ["Y. Tamura", "Y. Tatsumi"],
+    "venue": "Journal of Petrology,",
+    "year": 2002
+  }, {
+    "title": "JNdi-1: A neodymium isotopic reference in consistency with LaJolla neodymium",
+    "authors": ["T. Tanaka", "S. Togashi", "H. Kamioka", "H. Amakawa", "H. Kagami", "T Hamamoto"],
+    "venue": "Chemical Geology,",
+    "year": 2000
+  }, {
+    "title": "Rifting and the volcanic-tectonic evolution of the Izu-Bonin-Mariana Arc",
+    "authors": ["B. Taylor"],
+    "venue": "Proceedings of the Ocean Drilling Program, Scientific Results,",
+    "year": 1992
+  }, {
+    "title": "Isotopic characteristics of ocean fluids in an intra-oceanic setting, Izu-Bonin Arcm Japan",
+    "authors": ["R.N. Taylor", "R.W. Nesbitt"],
+    "venue": "Earth and Planetary Science Letters,",
+    "year": 1998
+  }, {
+    "title": "Geochemistry of loess, continental crustal composition, and crust model ages",
+    "authors": ["S.R. Taylor", "S.M. McLennan", "M.T. McCulloch"],
+    "venue": "Geochimica et Cosmochimica Acta,",
+    "year": 1983
+  }, {
+    "title": "Across-arc geochemical trends in the Izu-Bonin arc: Contributions from the subducting slab revisited",
+    "authors": ["D. Tollstrup", "J.B. Gill", "A. Kent", "D. Prinkey", "R. Williams", "Y. Tamura", "O. Ishizuka"],
+    "year": 2010
+  }, {
+    "title": "Seismic characteristics of sediment drifts: An example from the Agulhas Plateau",
+    "authors": ["G. Uenzelmann-Neben"],
+    "venue": "Southwest Indian Ocean. Marine Geophysical Research,",
+    "year": 2001
+  }, {
+    "title": "Facies architecture, detrital provenance, and tectonic modulation of sedimentation in the Shikoku Basin: Inputs to the Nankai Trough subduction zone",
+    "authors": ["M.B. Underwood", "K.T. Pickering"],
+    "venue": "Special Paper 534,",
+    "year": 2018
+  }, {
+    "title": "Relationships between Lu-Hf and Sm-Nd isotopic systems in the global sedimentary system",
+    "authors": ["J.D. Vervoort", "J. Blichert-Toft", "P.J. Patchett", "F. Albarède"],
+    "venue": "Earth and Planetary Science Letters,",
+    "year": 1999
+  }, {
+    "title": "The Hf-Nd isotopic composition of marine sediments",
+    "authors": ["J.D. Vervoort", "Plank T", "J. Prytulak"],
+    "venue": "Geochimica et Cosmochimica Acta,",
+    "year": 2011
+  }, {
+    "title": "Eruption-fed particle plumes and volcaniclastic deposits at a sub-marine volcano: NW Rota-1, Mariana Arc",
+    "authors": ["S.L. Walker", "E.T. Baker", "J.A. Resing", "W.W. Chadwick", "G.T. Lebon", "J.E. Lupton", "S.G. Merle"],
+    "venue": "Journal of Geophysical Research,",
+    "year": 2008
+  }, {
+    "title": "High-precision isotopic characterization of USGS reference materials by TIMS and MC-ICP-MS",
+    "authors": ["D. Weis", "B. Kieffer", "C. Maerschalk", "J. Barling", "J. de Jong", "Williams", "G. A"],
+    "year": 2006
+  }, {
+    "title": "Quantitative estimates of Asian dust input to the western Philippine Sea in the mid-late Quaternary and its potential significance for paleoenvironment",
+    "authors": ["Z. Xu", "T. Li", "P.D. Clift", "D. Lim", "S. Wan", "H Chen"],
+    "year": 2015
+  }, {
+    "title": "Seismic imaging in an ocean drilling site survey and its verification in the Izu rear arc",
+    "authors": ["M. Yamashita", "N. Takahashi", "Y. Tamura", "S. Miura", "S. Kodaira"],
+    "venue": "Exploration Geophysics,",
+    "year": 2018
+  }, {
+    "title": "Mineralogical variation of Sr-Nd isotopic and elemental compositions in loess and desert sand from the central Loess Plateau in China as a provenance tracer of wet and dry deposition in the northwestern Pacific",
+    "authors": ["Y. Yokoo", "T. Nakano", "M. Nishikawa", "H. Quan"],
+    "venue": "Chemical Geology,",
+    "year": 2004
+  }, {
+    "title": "Petrolographic and geochemical along arc variations of volcanic rocks on the volcanic front of the Izu–Ogasawara (Bonin) Arc",
+    "authors": ["M. Yuasa", "M. Nohara"],
+    "venue": "Bulletin of the Geological Survey of Japan,",
+    "year": 1992
+  }, {
+    "title": "Shifting material source of Chinese loess since 2.7 Ma reflected by Sr isotopic composition",
+    "authors": ["W. Zhang", "J. Chen", "G. Li"],
+    "venue": "Nature Scientific Reports,",
+    "year": 2015
+  }, {
+    "title": "Hf-Nd isotopic variability in mineral dust from Chinese and Mongolian deserts: Implications for sources and dispersal",
+    "authors": ["W. Zhao", "Y. Sun", "W. Balsam", "H. Lu", "L. Liu", "J. Chen", "J. Ji"],
+    "venue": "Scientific Reports,",
+    "year": 2015
+  }, {
+    "title": "Clay-sized Hf-Nd-Sr isotopic composition of Mongolian dust as a fingerprint for regional to hemispherical transport",
+    "authors": ["W. Zhao", "Y. Sun", "W. Balsam", "L. Zeng", "H. Lu", "K. Otgonbayar", "J. Ji"],
+    "venue": "Geophysical Research Letters,",
+    "year": 2015
+  }, {
+    "title": "Synchronicity of Kuroshio Current and climate system variability since the Last Glacial Maximum",
+    "authors": ["X. Zheng", "A. Li", "Kao", "SJi", "X. Gong", "M. Frank", "G Kuhn"],
+    "venue": "Earth and Planetary Science Letters,",
+    "year": 2016
+  }, {
+    "title": "ITCZ and ENSO pacing on East Asian winter monsoon variation during the Holocene: Sedimentological evidence from the Okinawa Trough",
+    "authors": ["X. Zheng", "A. Li", "S. Wan", "F. Jiang", "S. Kao", "C. Johnson"],
+    "venue": "Journal of Geophysical Research: Oceans,",
+    "year": 2014
+  }],
+  "id": "SP:dda1728899400d25bb632a3bb74df3c7aa15ca84",
+  "authors": [{
+    "name": "J. B. Gill",
+    "affiliations": []
+  }],
+  "abstractText": "The inorganic portion of tuffaceous mud and mudstone in an oceanic island arc can be mostly volcanic in origin. Consequently, a large volume of submarine volcaniclastic material is as extremely finegrained as products of subaerial eruptions (<100 mm). Using results of IODP Expedition 350 in the Izu rear arc, we show that such material can accumulate at high rates (12–20 cm/k.y.) within 13 km of the nearest seamount summit and scores of km behind the volcanic front. The geochemistry of bulk, acid-leached mud, and its discrete vitriclasts, shows that >75% of the mud is volcanic, and that most of it was derived from proximal rear arc volcanic sources. It faithfully preserves integrated igneous geochemical information about arc evolution in much the same way that terrigenous shales track the evolution of continental crust. In addition, their high sedimentation rate enables high resolution study of climate cycles, including the effects of Pleistocene glaciation on the behavior of the Kuroshio Current in the Shikoku Basin south of Japan. Plain Language Summary Submarine arc volcanism near subduction zones is both more voluminous, and more finely fragmental, than commonly believed, and this lasts for millions of years. These conclusions result from re-interpretating the origin of fine-grained sediments previously thought to be clay-sized particles from continents (hemi-pelagic mud). The evidence comes from geochemistry, scanning electron microscopy, X-ray diffraction, and grain size analysis of the sediments. The muds contain >25% continentally-sourced material only during Pleistocene glacial stages when it was delivered to IODP drill site U1437 by large meanders of the Kuroshio Current.",
+  "title": "Tuffaceous Mud is a Volumetrically Important Volcaniclastic Facies of Submarine Arc Volcanism and Record of Climate Change"
+}

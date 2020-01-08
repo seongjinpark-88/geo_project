@@ -1,0 +1,566 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nIcarus\njournal homepage: www.elsevier.com/locate/icarus\nMineralogic evidence for subglacial volcanism in the Sisyphi Montes\nregion of Mars\nS. Ackiss a , ∗, B. Horgan a , F. Seelos b , W. Farrand c , J. Wray d\na Department of Earth, Atmospheric, and Planetary Sciences, Purdue University, 550 Stadium Mall Drive, West Lafayette, IN 47907, United States b Johns Hopkins University Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, MD 20723, United States c Space Science Institute, 4750 Walnut St #205, Boulder, CO 80301, United States d Georgia Institute of Technology, School of Earth & Atmospheric Sciences, 311 Ferst, Drive Atlanta, GA 30332, United States\na r t i c l e i n f o\nArticle history: Received 28 November 2017 Revised 6 March 2018 Accepted 27 March 2018 Available online 21 April 2018\nKeywords: Mineralogy Volcanism Geological processes Mars Surface Spectroscopy\na b s t r a c t\nHere we examine the mineral assemblages detected on possible glaciovolcanic edifices in the Sisyphi Planum region of Mars, a high-latitude region in the southern highlands nestled between the Argyre and Hellas impact basins. Minerals were identified utilizing visible/near-infrared spectra from the Compact Reconnaissance Imaging Spectrometer for Mars (CRISM). Analysis of eleven CRISM images located on the volcanic edifices revealed three distinct spectral classes in the region which are interpreted to be: gypsum-dominated, smectite–zeolite–iron oxide-dominated (possibly palagonite), and polyhydrated sulfate-dominated material. While sulfates can form under a variety of alteration conditions, palagonitelike mineral assemblages require low-temperature and high water-to-rock hydrothermal conditions typically found in subglacial or subaqueous volcanic eruptions. The possible palagonite detections on the volcanic edifices, the geomorphology of the region, and the analogous terrestrial mineralogy of subglacial eruptions strongly suggests the formation of these minerals during subglacial eruptions or associated hydrothermal systems. This implies that thick water ice sheets were present in this region in the late Noachian or early Hesperian, and that the subglacial hydrothermal systems could have supported habitable environments with excellent biosignature preservation potential.\n© 2018 Elsevier Inc. All rights reserved.\n1\nh w 1 1 m 2 a m p B i e m\ns 2 H i v i e 2 m s c n o\ni i\nh 0\n. Introduction\nThe paleoclimate of Noachian Mars prior to 3.7 billion years ago as been highly debated, and there is no current consensus on\nhether it was “warm and wet” or “cold and icy” ( Pollack et al.,\n987; Baker and Strom , 1991; Squyres and Kasting , 1994; Haberle , 998; Craddock and Howard , 2002; Gaidos and Marion , 2003; Sack-\nann and Boothroyd , 2003; McEwen et al., 2007; Fairén , 2010; Head ,\n013; Head and Marchant , 2014; Cassanelli and Head , 2015; Fastook nd Head , 2015; Wordsworth et al., 2015 ). The presence of features\nade by liquid water such as valley networks, deltas, and lake de-\nosits, as well as minerals formed in aqueous environments (e.g. ibring et al., 2006; Ehlmann et al., 2011; Grotzinger et al., 2015 )\nndicate that liquid water must have been present on Mars. Howver, paleoclimate models have been unable to produce warm cli-\natic conditions that would allow liquid water to be stable on the\n∗ Corresponding author. E-mail address: sackiss@purdue.edu (S. Ackiss).\ns v a N\nttps://doi.org/10.1016/j.icarus.2018.03.026 019-1035/© 2018 Elsevier Inc. All rights reserved.\nurface ( Kargel and Strom , 1992; Gulick , 2001; Harrison and Grimm , 0 02; Malin and Edgett , 20 03; Mangold et al., 20 04; Arfstrom and\nartmann , 2005; Forget et al., 2006 ). Volcanism was prevalent durng Mars’ early history ( Robbins et al., 2013 ), and the addition of olcanic gases into the atmosphere has not been able to adequately ncrease the probability of liquid water on the surface ( Pollack t al., 1987; Haberle , 1998; Jakosky and Phillips , 2001; Halevy et al.,\n007; Halevy and Head , 2014 ). Instead of liquid water, the paleocli-\nate models predict cold and icy conditions leading to the depoition of snow and ice in the southern highlands. In this scenario, limatic conditions would still need to be perturbed to cause sigificant top-down melting of the glaciated regions to produce the bserved fluvial and lacustrine features ( Fastook and Head , 2015 ).\nWhile the “warm and wet” Mars hypothesis has been studied n detail, it has not yet been shown whether or not the “cold and cy” Mars hypothesis is broadly consistent with the mineralogy of urface features from this time period. Considering the extent of olcanism on early Mars, we propose a novel test for the “cold nd icy” early Mars hypothesis: Are the volcanic mineralogies of\noachian Mars consistent with volcanism on a “snowball Mars”?\ns m s i s 1 a ( t d m i p f a u i c a a s s (\ng r r t c e i m t A m J m s c t p D\nu c a t c o ( 1 s S t p t r o 2 d 2 g p a l\nIf ice was present for extended periods on the surface of ancient Mars, we should expect to see morphological and mineralogical evidence for ice-magma interactions in the Noachian geologic record; however, it is unclear what mineral assemblages due to ice-magma interactions would be observed from orbit. In this study, we investigate the mineralogy of a well-preserved hypothesized glaciovolcanic field on Mars to address questions such as: What are the minerals produced by glaciovolcanism on Mars? And more specifically, what are their spectral properties as detected by the Mars Reconnaissance Orbiter (MRO) Compact Reconnaissance Imaging Spectrometer for Mars (CRISM)? The answers to these questions can help to place constraints on the presence (i.e. mineralogy) and depth (derived from the height of the subglacial edifice) of ice in volcanic terrains on ancient Mars.\nThe Sisyphi Planum region of Mars is a high-latitude late Noachian to late Hesperian-aged ( Tanaka and Scott , 1987 ) region near the south pole, nestled between the Argyre and Hellas basins. This region contains the Sisyphi Montes, which is a group of edifices interpreted to be subglacial in origin ( Ghatan and Head , 2002 ). The primary objective of this work is to determine whether or not the spectral signatures of the Sisyphi Planum region are consistent with glaciovolcanism by using the spectral signatures to determine mineral assemblages and comparing those mineral assemblages to those from volcanically altered environments on Earth with different water-to-rock ratios, temperatures, and pressures. If the Sisyphi Montes do indeed exhibit mineral assemblages that are consistent with glaciovolcanism, then this region can be used as a type location for ice-magma interactions on Mars and to constrain the past presence of glaciers in this area.\n2. Background\n2.1. Mineralogy of terrestrial (Earth) volcanic environments\nGlaciovolcanism creates distinct mineral assemblages compared to other modes of alteration in volcanic terrains. Here, we summarize the mineralogy of four volcanic alteration regimes on Earth including: subglacial eruptions and associated hydrothermal systems, subglacial weathering, subaerial hydrothermal systems, and subaerial weathering. Because different assemblages of alteration minerals form in these different environments, detailed mineralogic studies can help to constrain formation environments on Mars.\nIn volcanic eruptions beneath ice sheets and glaciers on Earth, the combination of heat and large quantities of melt water lead to the production of unique morphologies. These morphologies include “tuyas” or table mountains that are steep sided and flat topped edifices and “tindars” or ridges that are flat-topped and linear (both of which are flat-topped due to sub-aerial lava flows erupting after the edifice breaches the ice sheet). Subglacial mounds, which are conical in shape, are made when the eruption does not breach the ice-sheet causing the tops to remain curvilinear instead of becoming flat ( Russell et al., 2014 ). This environment creates a unique stratigraphic sequence with pillow basalts at the base, hyaloclastites and pyroclastic breccias in the middle, and capped by subaerial lava flows ( Tuffen , 2007; Jakobsson and Gudmundsson , 2008; Russell et al., 2014 ). The mineralogy produced during these eruptions is also unique because of the interaction of the hot lava and cold glacial meltwater. This process involves the quenching of magma to form basaltic glass (sideromelane) as well as in situ hydrothermal alteration of the sideromelane forming amorphous to poorly crystalline rinds of palagonite, which cement the fragments into a hyaloclastite rock ( Stroncik and Schmincke , 2002 ; Drief and Schiffman , 2004 ; Massey et al., 2017 ). This process creates an ideal location for microbial habitats because hydrothermal deposits can preserve biosignatures in their crystalline structures ( Cousins et al., 2013 ).\nWhile glaciovolcanic hydrothermal alteration produces a diverse uite of minerals, there have been few detailed studies of this\nineralogy. Samples in British Columbia, Canada have shown that ubglacial eruptions are associated with authigenic mineralization ncluding clay minerals and zeolites, and that this alteration asemblage stoichiometrically resembles smectites ( Jercinovic et al., 990 ). Smectites, hematite, sideromelane, and erionite (zeolite) re observed in subglacial volcanic deposits emplaced in Hawaii Golden et al., 1993 ) and Iceland ( Bishop et al., 2002b ) during he Pleistocene. Glaciovolcanic materials from Icelandic outwash\neposits have been shown to contain zeolites (heulandite, lau-\nonite, stilbite, and analcime) and phyllosilicates (illite, kaolinte, and smectites) ( Warner and Farmer , 2010 ), while in situ de-\nosits from glaciovolcanic hydrothermal sites can also contain sul-\nates (gypsum, alunogen, and jarosite) and iron oxides (hematite nd goethite) ( Cousins et al., 2013 ). Zeolites are an important prod-\nct of subglacial eruptions, and X-ray powder diffraction stud-\nes have shown that the zeolites crystallize in low-temperature, losed system conditions during the process of the eruption and re thus authigenic ( Jercinovic et al., 1990; Utada , 2001; Warner nd Farmer , 2010 ). Other studies that have specifically studied ideromelane and palagonite have observed zeolites forming initu as a late-stage mineral, especially in vesicles and voids Stroncik and Schmincke, 2001 ).\nCollectively, the assemblage of minerals produced during sublacial or subaqueous hydrothermal alteration of sideromelane is eferred to as palagonite. Thus, palagonite is not a mineral, but ather an assemblage of minerals and mineraloids formed from aleration of basaltic glass (sideromelane) ( Massey et al., 2017 ) inluding clay minerals, zeolites, iron oxides, and basaltic glass. In its arly stages, palagonite is an amorphous gel thought to form durng dissolution-precipitation of sideromelane where the primary\naterial is dissolved and the secondary phases are precipitated at he contact with the sideromelane ( Stroncik and Schmincke, 2002 ).\ns palagonite ages, it evolves into fibro-palagonite, which is a\nixture of amorphous gel-palagonite and crystalline smectites. ercinovic et al. (1990) proposes that zeolites are formed in the\niddle phase of palagonite alteration as it progresses from 1) aponite (smectite), to 2) zeolites in the order of phillipsite to habazite, and 3) finally to nontronite (smectite). However, the deails of the formation, evolution, and mineralogic composition of alagonite are still highly debated ( Stroncik and Schmincke , 2002 ;\nrief and Schiffman , 2004 ).\nPalagonite is commonly misinterpreted as a weathering prodct produced during subaerial oxidation and weathering of volanic rocks ( Hay and Iijima , 1968; Hay and Jones , 1972; Gooding nd Keil , 1978; Singer , 1982; Banin and Margulies , 1983 ); however, he terrestrial literature specifically defines palagonite as a poorly rystalline, hydrated, and oxidized hydrothermal alteration product f sideromelane made exclusively at relatively low-temperatures typically < 120 °C) and high water-to-rock ratios ( Allen et al., 981; Morris et al., 1990; Stroncik and Schmincke , 2002; Michalki et al., 2005; Warner and Farmer , 2010; Cousins et al., 2013 ). chiffman et al. (20 0 0) and Pauly et al. (2011) have proposed hat palagonite may form under two fundamentally different temerature regimes: high-temperature and low-temperature. Highemperature, hydrothermal palagonitization occurs during and diectly following an eruption, resulting in thin rinds and few zelites due to the short duration of alteration ( Schiffman et al., 0 0 0 ). In contrast, porosity and water content decrease over time uring low-temperature, diagenetic palagonitization ( Pauly et al., 011 ); however, this type of alteration may be difficult to distinuish from typical early diagenesis and has not been shown to roduce the same mineral assemblages as high temperature altertion. Because palagonite requires the presence of basaltic glass, ow temperatures, and high water-to-rock ratios, the main environ-\nm o s b 1 2 m\n( i t t b t 2 t c o s i b p p s d i m i a n t p n h w i a C t c e A p a 2 d l r\nv m t i ( b f d i 2 d s g s v t i\nc t c d\nr e m a d a t A m n y 2 t s k a A F a o a w z c 2 2 t v\nr i e n P e d 2 s e u t\n2\n1 a g M – H S t ( 2 P I s D D i\nents in which it forms are subglacial and submarine (at a range\nf depths, including sublacustrine) volcanic eruptions. In general, ubmarine volcanism produces similar alteration mineral assemlages as glaciovolcanism ( Jakobsson , 1978; Jakobsson and Moore , 986 ), but very different volcanic morphologies ( Mitchell et al., 0 02; Jakobsson and Gudmundsson , 20 08; Russell et al., 2014; Ro-\nagnoli and Jakobsson , 2015 ).\nSubglacial chemical weathering is driven by low-temperature typically ∼0 °C) glacial meltwater and has primarily been studied n felsic volcanic terrains ( Anderson , 2005 ). Recent studies suggest hat alteration mineral assemblages in these environments are deermined by the bedrock composition. On carbonate and granitic\nedrock, subglacial weathering is driven by carbonate dissolution, hen sulfide oxidation, which causes silicate weathering ( Anderson , 005 ). Based on the geochemistry of simulated subglacial fluids, hese fluids could produce kaolinite along with very low sulfate oncentrations ( Crompton et al., 2015 ). In contrast, recent studies f subglacial weathering of mafic volcanic terrains have shown that ediments generated by small alpine glaciers on mafic volcanic edfices include no significant crystalline alteration phases produced\ny subglacial alteration in that environment. Instead, alteration roducts in this environment are silica-dominated, hydrated, and oorly crystalline ( Rampe et al., 2017; Smith et al., 2017 ), and the pectrally dominant phase in rock coatings and sediments is hyrated silica ( Scudder et al., 2017 ). Based on geochemical studes across multiple volcanic systems, the silica content of glacial\neltwaters increases as the bedrock becomes more mafic. This s because mafic rocks contain more soluble silicates (e.g. olivine nd pyroxene) than felsic rocks (e.g. quartz and feldspar) ( McLen-\nan et al., 2003). This has been observed in glacial outwash at he Three Sisters volcanic complex in Oregon, USA, suggesting that oorly crystalline silica precipitates would be the most likely sigature of glacial alteration on Mars ( Rutledge et al., 2018 ). Sulfates ave been observed associated with glacial systems in Svalbard,\nhere physical abrasion from the movement of the glacier leaves nsoluble products of chemical weathering behind (e.g. Fe and Al) nd transports soluble chemical weathering products (SO 4 , HCO 2 ,\na, and Mg) ( Szynkiewicz et al., 2013 ). These products then concenrate, freeze, and evaporate and precipitate salt efflorescence (e.g. alcite, gypsum, Ca–Mg sulfates) in the proglacial zone ( Szynkiewicz t al., 2013 ). Preliminary analysis of subglacial sediments from the\nntarctic ice sheet suggest that phyllosilicate formation might be ossible in that much larger and long-lived subglacial system, but dditional work is needed to confirm this hypothesis ( Graly et al., 017 ). The primary difference between hydrothermal alteration uring glaciovolcanism and subglacial weathering is the general ack of crystalline weathering products in subglacially weathered ocks and sediments.\nSubaerial volcanism (e.g. stratovolcanoes, shield and post-shield olcanoes, and cinder cones) is often accompanied by hydrother-\nal alteration and high-temperature oxidation. These processes ypically produce variable alteration mineral assemblages, includng clay minerals (kaolinite, Al-montmorillonite, saponite, illite) Ugolini , 1974; Swayze et al., 2002 ), sulfates (gypsum, jarosite), car-\nonates, silica ( Rice et al., 2013 ), and Fe-oxides (hematite, goethite,\nerrihydrite), where clay minerals are often present at high abunances (ranging from ∼20–80%) and dominate the visible/nearnfrared spectra of hydrothermally altered basalt ( Swayze et al.,\n002; Ehlmann et al., 2012 ). Additionally, the circulation of hyrothermal fluids causes the precipitation of zeolites (e.g. phillipite and gismondine) in voids ( Ehlmann et al., 2012 ) and causes lass and phenocrysts in cinder cones to weather to alunite and mectites ( Wolfe et al., 1997 ). While both subglacial and subaerial olcanism cause hydrothermal alteration, one key difference beween the two systems is that hydrothermal alteration primarly produces void-filling zeolites in pre-existing rocks, which only\nomprise a small volumetric abundance ( ≤10%) in subaerial sysems ( Ehlmann et al., 2012; Gelves et al., 2016 ), whereas zeolites an be abundant throughout the bulk of altered sediments prouced during glaciovolcanism.\nSubaerial weathering is driven by leaching due to infiltration of ainfall and snowmelt into rocks and soils, and the alteration minral assemblage in these environments is highly dependent on cli-\nate and duration of alteration. In very humid climates like Japan nd Iceland, subaerial weathering of volcanic terrain is initially ominated by poorly crystalline materials (e.g. allophane, imoglite, nd ferrihydrite) formed due to the rapid weathering of glassy maerials ( Claridge , 1965; Singer , 1974, 1980; Arnalds and Kimble , 2001; rnalds , 2004; Ugolini and Bockheim , 2008 ), which mature into\nore crystalline clay minerals and oxides (e.g., halloysite, kaoli-\nite, gibbsite) over a period of tens of thousands to millions of ears ( Ugolini and Dahlgren , 2002; Ziegler et al., 2003; Tsai et al., 010 ). More arid environments generally do not form poorly crysalline precursors in such high abundances and assemblages are intead dominated by crystalline clay minerals, including smectites, aolinite, halloysite [ Delvaux et al., 1989; Alexander et al., 1993 ), s well as iron oxides (hematite, goethite) ( Delvaux et al., 1989 ). In\nntarctica, subaerial weathering of lavas in permafrost can produce e-oxide surface stains, sulfates, vug-filling zeolites, and carbonte (calcite). Phyllosilicates (Mg-montmorillonite) have also been bserved in association with Antarctic permafrost, although they re extremely rare and phyllosilicates likely play a minor role in\neathering above dry permafrost ( Berkley and Drake , 1981 ). While\neolitization due to burial diagenesis of volcanic tephra and volanic soils can create spectrally detectable zeolites ( Horgan et al., 017 ), zeolites are not commonly found in modern soils ( Retallack , 008 ). Overall, phyllosilicates like smectite and kaolinite are the wo most prevalent minerals found in soils formed in volcanic enironments ( Singer , 1980; Sheldon and Tabor , 2009 ).\nBased on the most common mineral assemblages of these envionments, we hypothesize that spectral signatures would be domnated by a few key phases in each environment ( Table 1 ). In genral, we hypothesize that zeolites and smectites spectrally domi-\nate subglacial hydrothermal volcanic regions ( Swayze et al., 2002; aque et al., 2016 ), silica spectrally dominates subglacial weathring environments ( Scudder et al., 2017 ), clay minerals spectrally ominate subaerial hydrothermal volcanic regions ( Ehlmann et al., 012 ), and clay minerals, specifically smectites and kaolinite, also pectrally dominate subaerial weathering environments ( Delvaux t al., 1989; Alexander et al., 1993 ). These mineralogies will be sed to compare to the minerals identified on Mars to pinpoint he past weathering environments of our martian study region.\n.2. Study region: the Sisyphi Planum Montes\nThe Sisyphi Montes (55–75 °S and 35–345 °E) are a group of over 00 isolated edifices ( Campbell et al., 2016 ) within Sisyphi Planum,\nregion of low and smooth topography located between the Aryre and Hellas impact basins ( Fig. 1 ). A subset of the Sisyphi\nontes are located within the Dorsa Argentea Formation (DAF) a unit hypothesized to be the remnant of an ancient middleesperian ice sheet of unknown composition ( Fig. 1 ) ( Tanaka and\ncott , 1987; Wordsworth et al., 2013 ). The DAF is composed of pited terrains, sinuous ridges, and plains units with lobate margins Tanaka and Scott , 1987; Head and Pratt , 2001; Kolb and Tanaka , 001 ) and covers a combined area of ∼1.5 × 10 6 km 2 ( Head and ratt , 2001 ). MARSIS (Mars Advanced Radar for Subsurface and onospheric Sounding) ( Picardi et al., 2004 ) detections of shallow ubsurface ice interfaces in this area are highly correlated with the\nAF, suggesting remnant subsurface ice is still present within the AF ( Plaut et al., 2007 ). This ice is generally assumed to be water ce ( Wordsworth et al., 2013 ), although the composition, whether\nTable 1 Summary of terrestrial mineralogy.\nVolcanic\nenvironment\nClay minerals Sulfates Fe-oxides Zeolites Other phases Hypothesized\nformation\nReferences\nSubglacial\nhydrothermal\nIllite, kaolinite,\nsmectite\nGypsum, jarosite,\nalunogen\nHematite,\ngoethite,\nHeulandite,\nlaumonite, stilbite, erioite, analcime (zeolites most abundant minerals)\nPalagonite (most\nabundant rock) , sideromelane\nLow-temperature,\nhigh water-to-rock ratio\nGolden et al. (1993 ),\nBishop et al. (2002b ), Warner and Farmer (2010 ), Cousins et al. (2013 ), Massey et al. (2017 )\nSubglacial\nweathering\nKaolinite Silica (most\nabundant), x-ray amorphous material\nCarbonate\ndissolution, sulfide oxidation, silicate weathering\nBerkley and Drake (1981 ),\nAnderson (2005 ), Crompton et al. (2015 ), Rampe et al. (2017 ), Smith et al. (2017 ), Scudder et al. (2017 )\nSubaerial\nHydrothermal\nKaolinite, smectites,\nillite (clay minerals most abundant minerals)\nGypsum, jarosite,\nalunite\nHematite,\ngoethite, ferrihydrite\nCarbonates, silica Warm water/ steam\npercolating through the edifice post eruption\nUgolini (1974 ), Wolfe et al.\n(1997 ), Swayze et al. (2002 ), Ehlmann et al. (2012 ), Rice et al. (2013 )\nSubaerial\nWeathering\nSmectites,\nkaolinite (most abundant), halloysite,Mgmontmorillanite,\nGoethite,\ngibbsite, ferrihydrite, hematite\nAllophane, imoglite,\ncalcite\nLeaching due to\ninfiltration of rainfall and snowmelt into rocks\nClaridge (1965 ), Singer\n(1974, 1980 ), Berkley and Drake (1981 ), Delvaux et al. (1989 ), Alexander et al. (1993 ), Arnalds and Kimble (2001 ), Ugolini and Dahlgren (2002 ), Ziegler et al. (2003 ), Arnalds (2004 ), Ugolini and Bockheim (2008 ), Tsai et al. (2010 )\nm ( h c h s r m e h t S t a P\n2 M\ns t o h p m e M p 2 p ( f b\nCO 2 or water ice, has not been directly confirmed ( Tanaka and Scott , 1987; Ghatan and Head , 2002; Plaut et al., 2007; Carr and Head , 2010 ). If the Sisyphi Montes were formed as glaciovolcanoes, this would suggest that either the ice sheet that produced the DAF or an earlier ancient ice sheet extended throughout the Sisyphi Planum region ( Plaut et al., 2007; Scanlon and Head , 2014 ).\nThe Sisyphi Montes initially included 17 high and rugged mountainous edifices ( Tanaka and Scott , 1987 ) mapped primarily within the DAF ( Tanaka and Scott , 1987; Head and Pratt , 2001; Kolb and Tanaka , 2001 ). Due to limited image resolution, the age and origin of the edifices could not be determined. Later studies expanded the number of edifices to 22 ( Ghatan and Head , 2002 ) and examined three possible origins related to impact cratering, tectonism, and volcanism. Based on the unique steep-sided and flat-topped morphology of the edifices, Ghatan and Head (2002) hypothesized that the edifices were volcanoes that formed subglacially, erupting underneath an extensive Hesperian-aged ice sheet. Further studies expanded the volcano count to > 40 features ( Rodriguez and Tanaka , 2006 ), classifying the structures by their morphology and proximity to both the Sisyphi Planum and Hellas basin. Because some of the Sisyphi Montes are encircled by local moat-like features with raised rims, Rodriguez and Tanaka (2006) hypothesized that the edifices were formed due to a combination of volcanic and impact-related processes. They proposed that the magma that created the structures was sourced from magma bodies intersecting large impact-induced zones of crustal weakness circumferential to the Hellas basin. The magma was then brought to the surface by subsequent small impacts, building edifices in the centers of the smaller impact craters ( Rodriguez and Tanaka , 2006 ). While no other hypotheses about the formation of the region have been proposed, more detailed studies of the edifices have been conducted and report > 100 edifices within the Sisyphi Planum region ( Campbell et al., 2016 ).\nChemical signatures from the Mars Odyssey Gamma Ray and Neutron Spectrometer (GRS) shows that sulfates are the\nl\nost likely phases in the southern hemisphere midlatitudes Karunatillake et al., 2016 ). Visible/near-infrared spectral surveys ave revealed that the Sisyphi Montes exhibit spectral signatures onsistent with olivine, pyroxene ( Farrand et al., 2008 ), and polyydrated sulfates ( Wray et al., 2009; Ackiss and Wray , 2014 ). Sulfate ignatures are correlated with the presence of boulders in highesolution imagery, and are attributed to either volcanic hydrother-\nal or acid fog alteration ( Wray et al., 2009 ). A more recent minralogic survey of the southern high latitudes showed that while ydrated sulfates and other hydrated phases of unknown composiion are widespread at high-latitudes, the sulfate signatures within isyphi Planum are strongest on the Sisyphi Montes. This observaion suggests that the sulfates may have been produced in assocition with volcanic activity and later transported into the Sisyphi lanum plains ( Ackiss and Wray , 2014 ).\n.3. Possible occurrences of other subglacial volcanic landforms on\nars\nThe Sisyphi Montes region was chosen to be the region of tudy because it is a region of excellent morphologic preservaion of edifices with morphologies similar to subglacial volcanoes n Earth ( Ghatan and Head , 2002 ; Russell et al., 2014 ). There are, owever, other landforms elsewhere on Mars that have been hyothesized to be derived from subglacial volcanism based on their\norphologies ( Cousins and Crawford, 2011 ), including in the northrn plains ( Fagan et al., 2010; Mouginis-Mark and Wilson, 2016 ).\nounds, mesas, and buttes in Chryse and Acidalia Planitia ap-\near to be rocky with horizontal layering ( Martínez-Alonso et al., 011 ). Cones are often observed on the summit of these edifices, roviding further evidence that they may be volcanic in origin Martínez-Alonso et al., 2011 ). These edifices are surrounded by eatures interpreted to be subglacial such as formations resem-\nling terrestrial drumlins, eskers, kettle holes, and inverted val-\neys ( Martínez-Alonso et al., 2011 ). Mid-latitude volcanic regions,\ns t m d t h 2 t t t (\n3\nt i n v\nh t i F s p f g t ( c t B o p\n3 a t\nuch as Arsia Mons, also exhibit evidence of subglacial volcanic acivity. Fan-shaped deposits around Arsia Mons contain steep-sided\nounds, steep-sided flow-like landforms with depressed craters,\nigitate flows, and steep-sided flat-topped plateau features. Collecively, these features are interpreted to be subglacial pillow sheets, yaloclastite mounds, ice-confined flows, and tuyas ( Scanlon et al., 014 ). While there have been extensive morphologic studies of hese sites, mineralogic studies have not been conducted due to he low signal-to-noise ratios of CRISM data in the high latiudes ( Ackiss and Wray , 2014 ) and the extensive dust coverage Seelos et al., 2012 ).\n. Methodology\nThe MRO CRISM instrument is a hyperspectral imaging specrometer with two detectors, a short wavelength detector rangng from 0.36 to 1.05 μm and a long wavelength detector span-\ning 1.00 to 3.92 μm, that when combined have 544 bands in the isible/near-infrared ( Murchie et al., 2007 ). CRISM has a gimbaled\nyperspectral mode that provides 20 or 40 m/pixel observations hat are also 10 km wide and can be 3, 10, or 20 km long dependng on the specific observing mode (Half Resolution Short (HRS), ull Resolution Targeted (FRT), Half Resolution Targeted (HRL), repectively). In targeted mode, CRISM utilizes a gimbal to com-\nensate for ground track motion, which results in an hourglass\nootprint when map-projected. For this study, hyperspectral tareted (FRT and HRL) CRISM observations were processed to prootype Map-Projected Targeted Reduced Data Records (MTRDRs) Seelos et al., 2011 ). MTRDRs include photometric and atmospheric orrections as well as wavelength-dependent empirical corrections o compensate for spectral smile and gimbal-induced residuals.\noth visible and near-infrared image cubes are then combined into ne product with summary parameters calculated prior to map rojection ( Viviano-Beck et al., 2014 ).\nAll CRISM hyperspectral targeted images between 55–75 °S and 5–345 °E (the Sisyphi Planum region) located on an edifice and cquired with a solar longitude (Ls) between 180–360 ° and deector temperature less than −145.65 °C (for long wavelength de-\nTable 2 CRISM regions of interest.\nCRISM image ID Numerator ( x, y ) a Denominator ( x, y ) a Latitude, longitude b Mineral interpretation Notes\nFRT0 0 0 06DE7 219, 118 28, 118 −70.744, 15.609 Mg sulfate Figs. 2, 4 FRT0 0 0 07588 260, 437 12, 437 −70.741, 16.057 Zeolite mixture 265, 225 5, 225 −70.731, 16.221 Zeolite mixture Figs. 2, 4 FRT0 0 0 079E4 337, 61 14, 61 −59.933, 1.761 Mg sulfate Fig. 2 FRT0 0 0 07A8C 153, 572 27, 572 −70.778, 15.967 Zeolite mixture Figs. 2, 4 FRT0 0 0 07AE6 248, 247 33, 247 −63.162, 18.224 Gypsum Figs. 2, 3 FRT0 0 0 07E11 256, 246 12, 246 −63.162, 18.225 Gypsum Figs. 2, 3 FRT0 0 0 07EB5 367, 568 37, 568 −63.453, 2.690 Mg sulfate Fig. 2 HRL0 0 0 086DE 228, 74 97, 74 −59.943, 1.845 Mg sulfate\n233, 64 36, 64 −59.939, 1.855 Zeolite mixture Fig. 2 238, 65 177, 65 −59.936, 1.854 Zeolite mixture\nHRL0 0 011898 386, 305 345, 305 −63.417, 17.422 Mg sulfate Figs. 2, 3 HRL0 0 0122A0 98, 53 45, 53 −66.586, 4.085 Zeolite mixture Fig. 2 HRL0 0 0126C5 26 8, 4 8 4 9, 4 8 −66.501, 4.061 Mg sulfate Fig. 2 a ( X,Y ) pixel coordinates are the center of the 5 × 5 (25 pixel) Region of Interest (ROI) within which average spectra were extracted from the unprojected CRISM L-detector Targeted Reduced Data Record (TRDR). b Latitude ( °N) and longitude ( °E) coordinates are planetocentric, positive east and International Astronomical Union 20 0 0 standard.\np r S i a i w s 2 s z s l n m a p\n4\nS t c g z d c ( w (\n4\nn i A t s b t ( s i\ntector observations) were downloaded and processed through the MTRDR pipeline. Ls 180–360 ° marks southern summer, decreasing the chance of CO 2 ice and frost in the region during the time of observation. Observations taken above −145.65 °C have a low signalto-noise ratio making absorption band identification and interpretation more complex. Twenty-four images met the above criteria; however, only 11 of those images were usable in this study ( Table 2 and Supplemental Table 1). Two of the 24 images did not have both the short and long wavelength detector temperature observations, which are required for the MTRDR joining process, and thus were excluded from the study. Eleven of the twenty four images were either spectrally bland, exhibited high atmospheric opacity, or CO 2 ice/frost was present.\nCRISM’s wavelength range is sensitive to the electronic transitions of ferric and ferrous iron in minerals from 0.4 to ∼1 μm as well as the overtones and/or combination tones of fundamental molecular vibrations in minerals from ∼1 μm to ∼4 μm. Molecular vibrations depend on specific mineral crystal structures, thus the vibrations of similar molecules in different minerals can produce features at different wavelength positions (e.g. Hunt et al., 1973 ). CRISM and laboratory reference spectra in this study were evaluated for the presence of mineral absorption bands between 0.42 and 2.60 μm to target bands in Fe oxide minerals, phyllosilicates, hydrated silica, and sulfate phases. Qualitative comparison of scene spectral endmembers to library reference spectra allows identification of specific mineral species. To reduce noise and emphasize diagnostic absorption features, several to 10 s of pixels from an outcrop of interest are averaged together and ratioed to a similarsized, spectrally neutral, and in-column averaged spectrum. After the spectra were ratioed, a boxcar smooth was performed on the spectra, where each wavelength data point was replaced with an average of the 3 neighboring data points. This further reduces the amount of small noise in the final product.\nFifteen spectral summary parameters ( Viviano-Beck et al., 2014 ) designed to detect specific absorption bands were mapped individually to identify regions of interest within each scene. The summary parameters used in this study were focused on primary, mafic minerals including olivines and pyroxenes as well as secondary alteration minerals such as Fe-oxides, salts, and phyllosilicates. BD530_2 and BD920_2 are designed to detect crystalline ferric minerals and were used to identify regions containing Feoxides. R1330, which measures the albedo of the surface, was not used to study mineralogy but instead used to compare mineralogic signatures to morphologic features in the scene. OLINDEX3, LCPINDEX2, and HCPINDEX2 were used to identify regions containing\nT\nrimary minerals such as olivine, orthopyroxene (low-calcium pyoxene), and clinopyroxene (high-calcium pyroxene), respectively. ulfate salts were evaluated using a suite of parameters includng BD1750_2, which can detect the 1.75 μm band of gypsum and lunite, BD1900_2, which can detect the 1.9 μm band due to H 2 O n polyhydrated sulfates and other hydrated minerals, BD2100_2,\nhich can detect the 2.1 μm band due to H 2 O in monohydrated ulfates, and SINDEX2, which can detect the convexity induced at .29 μm caused by the presence of both the 1.9 or 2.1 and 2.4 μm ulfate bands. Al-OH alteration minerals (e.g. phyllosilicates and eolites) were mapped using D2200 whereas hydroxylated Fe/Mg ilicates were mapped using D2300. MIN2345_2537 mostly highights Ca/Fe carbonates but also identifies the OH and SO combi-\nation vibrations in OH-bearing sulfates ( Cloutis et al., 2006 ) and\nixtures of hydroxylated silicates and zeolites. The surface was exmined for both CO 2 and H 2 O ice using the BD1435 and BD1500_2 arameters, respectively.\n. Results\nThe 11 CRISM images used in this study cover five edifices in isyphi Planum. Based on analysis of these images, we have idenified three distinct spectral classes in the region ( Fig. 2 ). These lasses are interpreted to be surfaces spectrally dominated by (1) ypsum, (2) polyhydrated sulfate (or zeolite), and (3) a smectite– eolite–iron oxide mixture. Out of the five edifices with clear hyrated mineral signatures, 3 exhibit spectra from more than one lass ( Fig. 2 ). Two of the edifices have a combination of Classes 2 polyhydrated sulfate) and 3 (smectite–zeolite–iron oxide mixture)\nhile one edifice has a combination of Classes 1 (gypsum) and 2\npolyhydrated sulfate).\n.1. Class 1: gypsum-dominated spectra\nSpectra in this class exhibit absorption bands in the visible and ear-infrared at 0.52, 0.91 1.21, 1.43, 1.75, 1.92, 2.22, and 2.47 μm\nn CRISM images FRT0 0 0 07E11 and FRT0 0 0 07AE6 ( Figs. 2 and 3 ).\nt visible wavelengths, the spectra have weak and variable absorp-\nions at 0.52 and 0.91 μm; however, the 0.91 μm is the most conistently observed feature. The ∼1.4 and ∼2.4 μm features tend to e broad while the ∼1.9 μm feature is narrow. All of the absorpion bands are relatively strong. This combination of near-infrared NIR) bands is uniquely consistent with laboratory spectra of gypum and the majority of them are attributed to water, which is an ntegral part of gypsum’s crystalline structure ( Clark et al. , 1990 ).\nhe visible bands are consistent with a variety of Fe-oxide minerals\nw a ( t r e ( m m m fi including lepidocrocite, goethite, and akaganeite. Gypsum is an especially strong absorber at NIR wavelengths. With as little as 5 wt%, the 1.9 μm hydration band of gypsum can be detected in a mixture with basalt ( Horgan et al., 2009 ) and the NIR signature will be completely dominated by gypsum ( Howari et al., 2002; Cloutis et al., 2008 ). Additionally, the association of iron-oxides and sulfates is consistent with assemblages observed in other regions of Mars (e.g. Candor and Capri Chasmas) ( Bibring et al., 2007 ). We only observe these absorption bands on one edifice in the region ( −63.54 °S, 17.65 °E; edifice 18 as named in Ghatan and Head, 2002 ), although the detection is strong and correlates well ith morphology. CRISM images FRT0 0 0 07E11 and FRT0 0 0 07AE6 nd associated MRO High Resolution Imaging Science Experiment HiRISE) images have been studied in detail previously and show hat sulfate (gypsum and polyhydrated sulfate) signatures corelate with boulders eroding from curvilinear structures ( Wray t al., 2009; Ackiss and Wray , 2014 ). Note that the CRISM images FRT0 0 07E11 and FRT0 0 07AE6) are not located on the top of the ain edifice (edifice 18). Instead, the images are centered on a ound leading up the flank of edifice 18. It is unknown if this ound was formed during the initial formation of the main edice or if it is a secondary feature ( Fig. 3 ).\n4\na a t i F C a ( F 0 i t d c s H t 1 h B a t C H a s m b r s m b l\nr w ( H i s t r\n4\n1 F T w ( o o s i s i a ( t S b c\n1 d t s\na t 2 ∼ i E w T b c a g t h 2 l s l\ni s a F e e n\nc 4 a c ( a w p i e\n5\nt a c s o s T t a v w f i s C s t m h\n.2. Class 2: polyhydrated sulfate-dominated spectra\nSpectra in this class have absorptions at 0.52, 1.9, and 2.5 μm nd roughly half of the spectra also exhibit absorptions at 0.93 nd 1.43 μm ( Figs. 2 and 3 ). The ∼1.9 and ∼2.5 μm bands are he strongest absorptions. These features are observed in CRISM mages FRT0 0 0 07E11, FRT0 0 0 07AE6, HRL0 0 011898, FRT0 0 0 079E4, RT0 0 0 07EB5, HRL0 0 0126C5, and HRL0 0 0 086DE. Observations in\nRISM images FRT0 0 0 07E11, FRT0 0 0 07AE6, HRL0 0 011898 contain ll absorption bands listed above and are located on edifice 18 Fig. 2 , top 3 red spectra), whereas CRISM images FRT0 0 0 079E4, RT0 0 0 07EB5, HRL0 0 0126C5, and HRL0 0 0 086DE only contain the .52, 1.9, and 2.5 μm absorptions ( Fig. 2 , bottom 4 spectra rangng in color from yellow to black). These broad absorption feaures are caused by the overlapping bands of water molecules in\nifferent bonding configurations ( Crowley , 1991 ). In general, the ombination of these bands could indicate either polyhydrated ulfates or zeolites, which are difficult to distinguish spectrally. owever, we observe that the ∼1.4 μm absorption bands are cenered at shorter wavelengths than are typical for zeolites (e.g. .43 versus 1.48 μm), and are thus more consistent with a polyydrated sulfate interpretation ( Cloutis et al., 2002, 2006; Vivianoeck et al., 2014 ). We suggest that the signatures in CRISM imges FRT0 0 0 07E11, FRT0 0 0 07AE6, HRL0 0 011898 are most consisent with polyhydrated Mg-sulfates ( Fig. 2 , top 3 red spectra). RISM images FRT0 0 0 079E4, FRT0 0 0 07EB5, HRL0 0 0126C5, and\nRL0 0 0 086DE contain spectra with weaker 1.9 and 2.5 μm bands nd no detectable 1.4 μm band. These bands alone are not concluive enough to definitively define the type of mineral but they are\nost consistent with a polyhydrated sulfate interpretation ( Fig. 2 ,\nottom 4 spectra ranging in color from yellow to black). A strong ed slope in the visible combined with the ∼0.5 and 0.93 μm aborption bands in some spectra implies the presence of iron-oxide\ninerals. As in the previous spectral class, this combination of\nands is consistent with a variety of Fe-oxide minerals including\nepidocrocite, goethite, and akaganeite.\nThis class of spectra is located on four edifices examined in the egion. The strongest absorptions are seen on edifice 18 ( Fig. 3 )\nith weaker absorptions on edifice 7 (63.453 °S, 2.690 °E), edifice 4 59.943 °S, 1.845 °E), and edifice 11 (6 6.501 °S, 4.0 61 °E), respectively. alf of the edifices exhibit this class of spectra on their flanks (edfice 7 and 4), while the other half of the edifices exhibit these pectra on their tops (edifice 11 and 18). All of the occurrences of his class are correlated with larger morphological features (e.g., idges and boulders).\n.3. Class 3: smectite–zeolite–iron oxide-dominated spectra\nSpectra in this class exhibit absorptions at 0.54, 0.94, 1.45, .78, 1.93, 2.21, and 2.46 μm in CRISM images FRT0 0 0 07588, RT0 0 0 07A8C, FRT0 0 0 06DE7, HRL0 0 0122A0, and HRL0 0 0 086DE. he absorptions at 1.93, 2.21, and 2.49 μm are relatively broad\nhile roughly half of the spectra exhibit 1.45 and 1.78 μm bands Figs. 2 and 4 ). All spectra exhibit variable band depths but similar verall spectral character including band shape. The combination f these bands is not unique to one specific type of mineral and uggests a few possible interpretations. The absorption at 0.54 μm s consistent with hematite while the absorption at 0.94 μm is conistent with goethite or lepidocrocite, suggesting a mixture of oxdes or other ferric phases. Aluminum smectites are indicated by\nstrong 2.21 μm band made by a 2Al-OH combination overtone Bishop et al., 2002a, 2008 , p. 2002; Ehlmann et al., 2009 ). While he 2.21 μm band is also found in spectra of hydrated silica due to iOH-bending and OH-stretching, it is typically part of a doublet and with another, usually weaker absorption at ∼2.26 μm that an create a highly asymmetric band ( Herzberg , 1945; Bayly et al.,\n963; Langer and Flörke , 1974; Rice et al., 2013 ). As we typically o not see this doublet feature or an asymmetric band, our specra seem more consistent with Al-phyllosilicates, most likely an Almectite like montmorillonite.\nZeolites exhibit strong absorptions at ∼1.4, ∼1.9, and ∼2.5 μm nd weaker bands at ∼1.78 and, more rarely, ∼2.2 μm (although hese two bands are not often seen in combination) ( Cloutis et al., 002; Clark et al., 2007 ). The absorption bands at ∼1.4, ∼1.9, and 1.78 um that are characteristic of zeolite are due to water bound n the molecular structure ( Cloutis et al., 2002; Clark et al., 2007; hlmann et al., 2009; Rice et al., 2013; Viviano-Beck et al., 2014 ) and\nill not be observed unless the material is sufficiently hydrated.\nhus, the identification of zeolites has been shown to be difficult ased on visible and near-infrared (VNIR) spectroscopy alone beause of their similarity to other hydrated minerals (e.g. sulfates nd silica, Ehlmann et al., 2009 ); however, zeolites can be distinuished by careful analysis of their hydration absorption bands, as hey are usually shifted towards longer wavelengths compared to ydrated sulfates and silica ( Cloutis et al., 2002; Viviano-Beck et al., 014 ). As discussed in Class 2, absorptions shifted to longer waveengths are more consistent with a zeolite interpretation. Here, we ee the 1.45 and the 1.78 μm bands, which are at longer waveengths than what is observed in Class 2.\nThus, we interpret this spectral class as a mixture of phases, ncluding smectites, zeolites, and Fe-oxides ( Figs. 2 and 4 ). This asemblage is consistent with the most commonly observed mineral ssemblage of palagonite ( Allen et al., 1981; Morris et al., 1990 ; arrand and Singer , 1992 ; Stroncik and Schmincke , 2002; Michalski t al., 2005; Warner and Farmer , 2010; Cousins et al., 2013; Massey t al., 2017 ), and, indeed, laboratory spectra of terrestrial palago-\nites are a good match for spectra in this class ( Fig. 4 ).\nThe five CRISM images that are included in this class are loated on three edifices in the region: HRL0 0 0 086DE on edifice , HRL0 0 0122A0 on edifice 11, and FRT0 0 0 07588, FRT0 0 0 07A8C, nd FRT0 0 0 06DE7 on edifice 15 ( Fig. 4 ). All of the images in this lass are located on the tops of the edifices. Ackiss and Wray 2014) document the association of hydrated material on edifice 15 nd the nearby Sisyphi Cavi, proposing that volcano-induced melt-\nater could have drained westward towards the Cavi. This interretation is consistent with the overall morphology, which is sim-\nlar to braided stream channels on Earth made by large meltwater vents (jökulhlaup) ( Warner and Farmer , 2010 ).\n. Discussion\nHere we have examined the mineralogies located on edifices in he Sispyhi Planum region to answer the question: What mineral ssemblages would be present on Noachian Mars if volcanism ocurred on an ancient “Snowball Mars”? Overall, the results of this tudy have shown that the most prevalent mineral assemblages n the Sisyphi Montes are 1) gypsum-dominated, 2) polyhydrated ulfate-dominated, and 3) smectite–zeolite–iron oxide-dominated. his diverse range of alteration minerals probably cannot be atributed to just surface weathering without invoking highly varible conditions across and between the edifices. Instead, given the olcanic context, these mineral assemblages are broadly consistent\nith hydrothermal alteration in a volcanic environment and thereore could be associated with either subglacial or subaerial volcansm ( Table 1 ). Additionally, the Sisyphi Montes are flat-topped and teep sided edifices, as detailed by Ghatan and Head (2002) and\nampbell et al. (2016) , which is consistent with classic terrestrial ubglacial volcanic morphologies ( Russell et al., 2014 ). Combining he mineralogy results reported here with the previously reported\norphology of the region presents a strong case for a subglacial\nydrothermal environment.\no c p f c e g t o ( In terrestrial systems, sulfates (and specifically gypsum) are found in a variety of subglacial and subaerial volcanic environments. Alunogen (an Al polyhydratred sulfate) and gypsum in combination have been identified in some samples from glaciovolcanic hydrothermal sites in Iceland, and are hypothesized to be formed during later lower temperature alteration of palagonite ( Cousins et al., 2013 ). Thus, a similar early diagenetic sulfate formation mechanism could explain our sulfate detections in the Sisyphi Montes. In Svalbard, physical abrasion from the movement of the glaciers has been shown to leave insoluble products f chemical weathering behind (e.g. Fe and Al) whereas soluble hemical weathering products (SO 4 , HCO 2 , Ca, and Mg) are transorted ( Szynkiewicz et al., 2013 ). These products then concentrate, reeze, and evaporate and precipitate salt efflorescence (e.g. calite, gypsum, Ca-Mg sulfates) in the proglacial zone ( Szynkiewicz t al., 2013 ) and thus are the expected observable minerals in a lacial outwash deposit (jökulhlaup). This process, with the addiion of wind erosion, is the proposed hypothesis for the creation f the gypsum dunes in the northern circumpolar region of Mars Szynkiewicz et al., 2013 ). Thus, the sulfate outcrops in this study\nc t ( s\nh d t v o c i m l w 2 t d t w o i a 1 s a v S t a a\nS l d b z e f g\nw i v l m t g s s ( s h w s 2 d g c t i c e b g\np T\nh p C t 2 m d l m e a d o a\nt I ( w i t f t t f c L\n6\nb t s b e a o d h i\nt s g s fi o l\ns c ( s M o s u t t\nould be related to a subglacial process; however, it is also possible hat they could have been formed during other volcanic processes e.g., subaerial hydrothermal alteration) after the edifice was contructed.\nThe smectite–zeolite–iron oxide-rich mixture that we report ere is the most consistent with a specifically glaciovolcanic hyrothermal environment. This mixture contains detectable and hus most likely volumetrically abundant zeolites (i.e., not just ug-filling), the detection of which, along with smectites and iron xides, makes a strong case for palagonite. While zeolites are ommonly formed by many types of aqueous processes, includng under both hydrothermal and diagenetic conditions, they are\nost commonly formed in voids and vesicles. However, the zeoites observed here are likely not vesicle-filling zeolites as these\nould be present in such small amounts ( ≤10%) ( Ehlmann et al., 012; Gelves et al., 2016 ) that they most likely would not be deectable at CRISM resolution. Because the zeolites are in high abunance and are associated with smectites, iron oxides, and someimes sulfates, a valid interpretation for the mineral assemblage\nould be palagonite. Palagonite has been shown to be comprised\nf secondary crystalline and poorly crystalline hydrated and ox-\ndized hydrothermal alteration products of sideromelane formed t low-temperatures and high water-to-rock ratios ( Allen et al., 981; Morris et al., 1990; Stroncik and Schmincke , 2002; Michalki et al., 2005; Warner and Farmer , 2010; Cousins et al., 2013 ) nd is commonly found in submarine and subglacial volcanic enironments. Thus, the potential identification of palagonite on the isyphi Montes strengthens the case for a subglacial origin for hese edifices. Based on their excellent morphologic preservation nd diverse mineral signatures, the Sisyphi Montes could serve as\ntype example for ice-magma processes on Mars.\nThus, the mineral assemblages that we have identified in the isyphi Montes (gypsum; polyhydrated sulfates; smectites, zeoites, and iron oxides) could all have formed in a subglacial hy-\nrothermal environment. However, the alteration history may have een more complex. While the palagonite assemblage (smectites, eolites, and iron oxides) did most likely form during subglacial ruption and emplacement of the edifices, the sulfates could have ormed later, due to either subaerial hydrothermal activity or sublacial weathering.\nSubmarine and glaciovolcanic hydrothermal systems like those e hypothesize formed the Sisyphi Montes are extremely habtable environments. In submarine environments, hydrothermal ents (e.g., black smokers) harbor rich communities of microbial ife. The chemistries at the vents correlates well with inferred\netabolic processes of modern prokaryotic autotrophs leading to he hypothesis that these vents could have facilitated the oriin of life ( Martin et al., 2008 ). The dissolution and alteration of ideromelane that forms rocks and minerals like palagonite and ulfates, respectively, also feeds diverse chemotrophic organisms Alt and Mata , 20 0 0; Benzerara et al., 2007 ). Seafloor basalt and ideromelane has been observed to have pore space that may ave previously been occupied by microbes and subsequently filled\nith other minerals – a possible biosignature that could be preerved in the geologic record ( Alt and Mata , 20 0 0; Benzerara et al., 007 ). Similarly, subglacial hydrothermal systems maintain abunant water and high temperatures around the volcanic vents. Reions where life in the subglacial environment could coalesce inlude the vent/edifice and the meltwater lake that is generated in his process ( Cousins and Crawford , 2011 ). This location creates an deal location for microbial habitats because hydrothermal deposits an preserve biosignatures in their crystalline structures ( Cousins t al., 2013 ). Additionally, the metabolisms of subglacial micro-\nial populations are consistent with the aqueous geochemistry of lacial melt, leading to the idea that microbial activity plays an im-\nh\nortant role in the solute flux of glaciers ( Skidmore et al., 2005; ranter et al., 2005 ).\nSimilar habitable subglacial hydrothermal environments could ave existed elsewhere on Mars, in particular in the northern lains ( Fagan et al., 2010 ; Mouginis-Mark and Wilson, 2016 ). hryse and Acidalia Planitia have edifices that exhibit horizonal layering with cones on their summit ( Martínez-Alonso et al., 011 ). Fan-shaped deposits around Arsia Mons contain steep-sided\nounds, steep-sided flow-like landforms with depressed craters,\nigitate flows, and steep-sided flat-topped plateau features col-\nectively interpreted to be subglacial pillow sheets, hyaloclastite\nounds, ice-confined flows, and tuyas ( Scanlon et al., 2014 ). Howver, these features are all in Amazonian and Hesperian terrains, nd no clear subglacial morphologies have yet been identified to ate in Noachian terrains, a time when they are expected to have ccurred ( Robbins et al., 2013; Cassanelli and Head, 2015; Fastook nd Head, 2015 ).\nThis lack of obvious subglacial geomorphologic features dating o the late Noachian may be inconsistent with the Late Noachian cy Highlands model. As volcanism was prevalent during that time Robbins et al., 2013 ), and it is postulated that ice sheets were\nidespread ( Cassanelli and Head, 2015; Fastook and Head, 2015 ), ce-magma interactions should have been common on Mars during he Noachian. However, the lack of clear Noachian glaciovolcanoes rom this time period could also be due to erosion and degradaion, so a mineralogical survey for spectral signatures similar to hose in the Sysiphi Montes may help us to better identify these eatures. The presence or lack of mineralogical and/or morphologial evidence of ice-magma interactions could be a good test for the ate Noachian Icy Highlands Model ( Fastook and Head , 2015 ).\n. Conclusions\nIn this study, we identified and examined the mineral assemlages detectable from orbit on possible glaciovolcanic edifices in he Sisyphi Planum region of Mars, a high-latitude region in the outhern highlands nestled between the Argyre and Hellas impact asins. Analysis of eleven CRISM images located on the volcanic difices revealed three distinct spectral classes in the region which re interpreted to be: gypsum-dominated, smectite–zeolite–iron xide-dominated (possibly palagonite), and polyhydrated sulfateominated material. These new mineral identifications would not ave been possible without the enhanced CRISM MTRDR processng and filtering techniques ( Seelos et al., 2011 ).\nThe combination of these three spectral classes located on he volcanic edifices as well as the geomorphology of the region trongly suggests the formation of these minerals during an sublacial eruption or during alteration in associated hydrothermal ystems. A key component of these findings is the possible identi-\ncation of palagonite, indicating water-magma interactions, based n the spectral identification of an assemblage of smectites, zeo-\nites, and iron oxides.\nThe identification of glaciovolcanic hydrothermal systems has ignificant implications for the long-term habitability of Mars. Loations of ice-magma interactions are present from the Noachian in Sisyphi Planum) through the Amazonian (in Acidalia Planitia), uggesting that habitable surface environments spanned much of\nars’ history. Because of the excellent morphological preservation\nf the Sisyphi Montes and their morphological and mineralogical imilarities to terrestrial subglacial volcanoes, this region can be sed as a type location for glaciovolcanism on Mars. We can use he mineral assemblage of Sisyphi Planum to examine other locaions on Mars to determine how common glaciovolcanic processes ave been in the martian geologic record.\nC\nC\nC\nC\nC\nD\nD\nE\nE\nE\nF\nF\nF\nF\nF\nG\nG\nG\nG\nG\nG\nG\nH\nH\nH\nH\nAcknowledgments and data\nThis work was supported by the NASA Earth and Space Science Fellowship. We would like to thank the CRISM team for a spectacular dataset, the CRISM PDS and team for the data used in this study, the Data Center Hub ( https://datacenterhub.org/projects/ ackiss2018sisyphimontes ), where the data from this manuscript is stored, and Liz Rampe and an anonymous reviewer for the useful feedback.\nSupplementary materials\nSupplementary material associated with this article can be\nfound, in the online version, at doi:10.1016/j.icarus.2018.03.026 .\nReferences\nAckiss, S.E., Wray, J.J., 2014. Occurrences of possible hydrated sulfates in the southern high latitudes of Mars. Icarus 243, 311–324. doi: 10.1016/j.icarus.2014.08.016 . Alexander, E.B. , Mallory, J.I. , Colwell, W.L. , 1993. Soil-elevation relationships on a volcanic plateau in the southern Cascade Range, Northern California, USA.\nCatena 20 (1–2), 113–128 . Allen, C.C., Gooding, J.L., Jercinovic, M., Keil, K., 1981. Altered basaltic glass: a\nterrestrial analog to the soil of Mars. Icarus 45 (2), 347–369. doi: 10.1016/\n0 019-1035(81)90 040-3 . Alt, J.C., Mata, P., 20 0 0. On the role of microbes in the alteration of submarine\nbasaltic glass: a TEM study. Earth Planet. Sci. Lett. 181 (3), 301–313. doi: 10.1016/ S0 012-821X(0 0)0 0204-1 . Anderson, S.P. , 2005. Glaciers show direct linkage between erosion rate and chemical weathering fluxes. Geomorphology 67 (1), 147–157 . Arfstrom, J., Hartmann, W.K., 2005. Martian flow features, moraine-like ridges, and gullies: terrestrial analogs and interrelationships. Icarus 174 (2), 321–335.\ndoi: 10.1016/j.icarus.2004.05.026 .\nArnalds, O., 2004. Volcanic soils of Iceland. Catena 56 (1–3), 3–20. doi: 10.1016/j. catena.20 03.10.0 02 . Arnalds, O. , Kimble, J. , 2001. Andisols of deserts in Iceland. Soil Sci. Soc. Am. J. 65 (6), 1778–1786 . Baker, V.R. , Strom, R.G. , 1991. Ancient oceans, ice sheets and the hydrological cycle on Mars. Nature 352 (6336), 589 . Banin, A., Margulies, L., 1983. Simulation of Viking biology experiments suggests\nsmectites not palagonites, as martian soil analogues. Nature 305 (5934), 523– 525. doi: 10.1038/305523a0 . Bayly, J.G. , Kartha, V.B. , Stevens, W.H. , 1963. The absorption spectra of liquid phase H2O, HDO and D2O from 0 ·7 μm to 10 μm. Infrared Phys 3 (4), 211–222 . Benzerara, K., Menguy, N., Banerjee, N.R., Tyliszczak, T., Brown Jr., G.E., Guyot, F., 2007. Alteration of submarine basaltic glass from the ontong java plateau: A\nSTXM and TEM study. Earth Planet. Sci. Lett. 260 (1–2), 187–200. doi: 10.1016/j.\nepsl.2007.05.029 . Berkley, J.L., Drake, M.J., 1981. Weathering of Mars: Antarctic analog studies. Icarus\n45 (1), 231–249. doi: 10.1016/0019-1035(81)90016-6 . Bibring, J.-P., Squyres, S.W., Arvidson, R.E., 2006. Merging views on Mars. Science\n313 (5795), 1899–1901. doi: 10.1126/science.1132311 . Bibring, J.-P., et al., 2007. Coupled ferric oxides and sulfates on the martian surface.\nScience 317, 1206. doi: 10.1126/science.1144174 .\nBishop, J. , Madejová, J. , Komadel, P. , Fröschl, H. , 2002a. The influence of structural Fe, Al and Mg on the infrared OH bands in spectra of dioctahedral smectites.\nClay Miner. 37 (4), 607–616 . Bishop, J.L., Schiffman, P., Southard, R., 2002b. Geochemical and mineralogical anal-\nyses of palagonitic tuffs and altered rinds of pillow basalts in Iceland and applications to Mars. Geol. Soc. Lond. Spec. Publ. 202 (1), 371–392. doi: 10.1144/GSL. SP.2002.202.01.19 . Bishop, J.L. , Lane, M.D. , Dyar, M.D. , Brown, A.J. , 2008. Reflectance and emission spectroscopy study of four groups of phyllosilicates: smectites, kaolinite-serpentines,\nchlorites and micas. Clay Miner. 43 (1), 35–54 . Campbell, A., Ackiss, S., Horgan, B.H., 2016. Morphology of Possible Subglacial Vol-\ncanoes in the Sysphi Montes Region of Mars, vol. 47, p. 1554. Carr, M.H. , Head, J.W. , 2010. Geologic history of Mars. Earth Planet. Sci. Lett. 294 (3),\n185–203 .\nCassanelli, J.P., Head, J.W., 2015. Firn densification in a Late Noachian “icy highlands” Mars: implications for ice sheet evolution and thermal response. Icarus 253,\n243–255. doi: 10.1016/j.icarus.2015.03.004 . Claridge, G.G.C. , 1965. The clay mineralogy and chemistry of some soils from the\nRoss Dependency, Antarctica. N. Z. J. Geol. Geophys. 8 (2), 186–220 . Clark, RogerN. , et al. , 1990. High spectral resolution reflectance spectroscopy of min-\nerals. J. Geophys. Res.: Solid Earth (B8) 12653–12680 95 . Clark, R., Swayze, G.A., Wise, R., Livo, E., Hoefen, T., Kokaly, R., Sutley, S.J., 2007. USGS\nDigital Spectral Library splib06a: U.S. geological survey, Digital Data Series 231. Cloutis, E.A., Asher, P.M., Mertzman, S.A., 2002. Spectral reflectance properties of zeolites and remote sensing implications. J. Geophys. Res. Planets 107 (E9), 5067.\ndoi: 10.1029/20 0 0JE0 01467 . Cloutis, E.A., et al., 2006. Detection and discrimination of sulfate minerals using re-\nflectance spectroscopy. Icarus 184, 121–157. doi: 10.1016/j.icarus.20 06.04.0 03 .\nloutis, E.A., Craig, M.A., Kruzelecky, R.V., Jamroz, W.R., Scott, A., Hawthorne, F.C., Mertzman, S.A., 2008. Spectral reflectance properties of minerals exposed to\nsimulated Mars surface conditions. Icarus 195 (1), 140–168. doi: 10.1016/j.icarus. 2007.10.028 . Cousins, C.R., Crawford, I.A., 2011. Volcano-ice interaction as a microbial Habitat on Earth and Mars. Astrobiology 11, 695–710. doi: 10.1089/ast.2010.0550 .\nousins, C.R., et al., 2013. Glaciovolcanic hydrothermal environments in Iceland and implications for their detection on Mars. J. Volcanol. Geotherm. Res. 256, 61–77.\ndoi: 10.1016/j.jvolgeores.2013.02.009 .\nraddock, R.A. , Howard, A.D. , 2002. The case for rainfall on a warm, wet early Mars. J. Geophys. Res. Planets 107 (E11), 21-1–21-36 . rompton, J.W. , Flowers, G.E. , Kirste, D. , Hagedorn, B. , Sharp, M.J. , 2015. Clay mineral precipitation and low silica in glacier meltwaters explored through reac-\ntion-path modelling. J. Glaciol. 61 (230), 1061–1078 . rowley, J.K. , 1991. Visible and near-infrared (0.4–2.5 μm) reflectance spectra of\nPlaya evaporite minerals. J. Geophys. Res.: Solid Earth 96 (B10), 16231–16240 .\nelvaux, B., Herbillon, A.J., Vielvoye, L., 1989. Characterization of a weathering sequence of soils derived from volcanic ash in Cameroon. Taxonomic, miner-\nalogical and agronomic implications. Geoderma 45 (3), 375–388. doi: 10.1016/ 0 016-7061(89)90 017-7 . rief, A. , Schiffman, P. , 2004. Very low-temperature alteration of sideromelane in hyaloclastites and hyalotuffs from Kilauea and Mauna Kea volcanoes: Impli-\ncations for the mechanism of palagonite formation. Clay Clay Miner. 52 (5),\n622–634 . hlmann, B.L., et al., 2009. Identification of hydrated silicate minerals on Mars us-\ning MRO-CRISM: geologic context near Nili Fossae and implications for aqueous alteration. J. Geophys. Res. Planets 114. doi: 10.1029/20 09JE0 03339 . hlmann, B.L., Mustard, J.F., Murchie, S.L., Bibring, J.-P., Meunier, A., Fraeman, A .A ., Langevin, Y., 2011. Subsurface water and clay mineral formation during the early\nhistory of Mars. Nature 479 (7371), 53–60. doi: 10.1038/nature10582 .\nhlmann, B.L., Bish, D.L., Ruff, S.W., Mustard, J.F., 2012. Mineralogy and chemistry of altered Icelandic basalts: Application to clay mineral detection and under-\nstanding aqueous environments on Mars. J. Geophys. Res. Planets 117 (E00J16). doi: 10.1029/2012JE004156 . Fagan, A.L., Sakimoto, S.E.H., Hughes, S.S., 2010. Formation constraints on Martian north polar volcanic edifices. J. Geophys. Res. Planets 115 (E7). doi: 10.1029/\n20 09JE0 03476 .\nairén, A.G., 2010. A cold and wet Mars. Icarus 208 (1), 165–175. doi: 10.1016/j.icarus. 2010.01.006 . arrand, W.H. , Singer, R.B. , 1992. Alteration of hydrovolcanic basaltic ash: Observations with visible and near-infrared spectrometry. J. Geophys. Res.: Solid Earth\n97 (B12), 17393–17408 . arrand, W.H., Lane, M.D., Edwards, B.R., 2008. North and South: Possible Tuyas and\nHyaloclastite Hills on the Northern Plains and in the Southern Dorsa Argentea\nRegion of Mars, vol. 39, p. 1761. astook, J.L. , Head, J.W. , 2015. Glaciation in the Late Noachian Icy highlands: ice ac-\ncumulation, distribution, flow rates, basal melting, and top-down melting rates and patterns. Planet. Space Sci. 106, 82–98 . orget, F. , Haberle, R.M. , Montmessin, F. , Levrard, B. , Head, J.W. , 2006. Formation of glaciers on Mars by atmospheric precipitation at high obliquity. Science 311\n(5759), 368–371 . aidos, E., Marion, G., 2003. Geological and geochemical legacy of a cold early Mars.\nJ. Geophys. Res. Planets 108 (E6), 5055. doi: 10.1029/20 02JE0 020 0 0 .\nelves, J.F., Gallego, G.S., Marquez, M.A., 2016. Mineralogical characterization of zeolites present on basaltic rocks from Combia geological formation, La Pin-\ntada (Colombia). Microporous Mesoporous Mater. 235, 9–19. doi: 10.1016/j. micromeso.2016.07.035 . hatan, G.J., Head, J.W., 2002. Candidate subglacial volcanoes in the south polar region of Mars: morphology, morphometry, and eruption conditions. J. Geophys.\nRes. Planets 107, 5048. doi: 10.1029/20 01JE0 01519 .\nolden, D.C., Morris, R.V., Ming, D.W., Lauer, H.V., Yang, S.R., 1993. Mineralogy of three slightly palagonitized basaltic tephra samples from the summit of Mauna\nKea, Hawaii. J. Geophys. Res. Planets 98 (E2), 3401–3411. doi: 10.1029/92JE02590 . ooding, J.L., Keil, K., 1978. Alteration of glass as a possible source of clay minerals\non Mars. Geophys. Res. Lett. 5 (8), 727–730. doi: 10.1029/GL0 05i0 08p0 0727 . raly, J., Licht, K., Bish, D.L., 2017. Subglacial and Interglacial Chemical Weathering\nin the Transantarctic Mountains Available from: https://goldschmidt.info/2017/\nabstracts/abstractView?id=2017003488 (Accessed 24 August 2017) . Grotzinger, J.P. , Gupta, S. , Malin, M.C. , Rubin, D.M. , Schieber, J. , Siebach, K. , Sum-\nner, D.Y. , et al. , 2015. Deposition, exhumation, and paleoclimate of an ancient lake deposit, Gale crater, Mars. Science 350 (6257), aac7575 . ulick, V.C. , 2001. Origin of the valley networks on Mars: a hydrological perspective. Geomorphology 37 (3), 241–268 . aberle, R.M. , 1998. Early Mars climate models. J. Geophys. Res. 103 (28), 467–479 . Halevy, I., Head, J.W., 2014. Episodic warming of early Mars by punctuated volcanism. Nat. Geosci. 7 (12), 865–868. doi: 10.1038/ngeo2293 . Halevy, I., Zuber, M.T., Schrag, D.P., 2007. A sulfur dioxide climate feedback on early Mars. Science 318 (5858), 1903–1907. doi: 10.1126/science.1147039 .\narrison, K.P., Grimm, R.E., 2002. Controls on Martian hydrothermal systems: application to valley network and magnetic anomaly formation. J. Geophys. Res.\nPlanets 107 (E5), 1. doi: 10.1029/20 01JE0 01616 .\nay, R.L., Iijima, A., 1968. Nature and origin of palagonite tuffs of the Honolulu group on Oahu, Hawaii. Geol. Soc. Am. 116, 331–376. doi: 10.1130/MEM116-p331 . ay, R.L., Jones, B.F., 1972. Weathering of Basaltic Tephra on the Island of Hawaii. Geol. Soc. Am. Bull. 83 (2), 317–332 WOBTOT doi: 10.1130/0016-7606(1972)\n83[317:]2.0.CO;2 .\nH\nH\nH\nH\nH\nH\nH\nH\nJ\nJ\nJ\nJ\nJ\nK\nK\nK\nL\nM\nM\nM\nM\nM\nM\nM\nM\nM\nM\nM\nP\nP\nP\nP\nP\nR\nR\nR\nR\nR\nR\nR\nR\nS\nS\nS\nS\nS\nS\nS\nS\nS\nS\nS\nS\nS\nS S\nS\nS\nS\nT\nead, J., 2013. The Early Climate History of Mars: “Warm and Wet” or “Cold and Icy”?, vol. 15, pp. EGU2013–10106. ead, J.W. , Marchant, D.R. , 2014. The climate history of early Mars: insights from the Antarctic McMurdo dry valleys hydrologic system. Antarct. Sci. 26 (06),\n774–800 . ead, J.W., Pratt, S., 2001. Extensive Hesperian-aged south polar ice sheet on\nMars: evidence for massive melting and retreat, and lateral flow and ponding of meltwater. J. Geophys. Res. Planets 106 (E6), 12275–12299. doi: 10.1029/ 20 0 0JE0 01359 . erzberg, G. , 1945. In: Herzberg, Gerhard (Ed.), Molecular Spectra and Molecular Structure: Infrared and Raman Spectra of Polyatomic Molecules. Van Nostrand\nReinhold . organ, B.H., Bell, J.F., Noe Dobrea, E.Z., Cloutis, E.A., Bailey, D.T., Craig, M.A.,\nRoach, L.H., Mustard, J.F., 2009. Distribution of hydrated minerals in the north polar region of Mars. J. Geophys. Res. Planets 114 (1005). doi: 10.1029/ 20 08JE0 03187 . organ, B.H.N., Smith, R., Chadwick, O.A., Retallack, G.J., 2017. The Effects of Climate, Environment, and Diagenesis on the Spectral Properties of Volcanic Soils, GSA. owari, F.M., Goodell, P.C., Miyamoto, S., 2002. Spectral properties of salt crusts formed on saline soils. J. Environ. Qual. 31 (5), 1453. doi: 10.2134/jeq2002.1453 . unt, G.R. , Salisbury, J.W. , Lenhoff, C.J. , 1973. Visible and near infrared spectra of minerals and rocks. VI. Additional silicates. Mod. Geol. 4, 85–106 .\nakobsson, S. , 1978. Environmental factors controlling the palagonization of the\nSurtsey tephra, Iceland. Bull. Geol. Soc. Den. 27, 91–105 Special Issue . akobsson, S. , Gudmundsson, M. , 2008. Subglacial and intraglacial volcanic forma-\ntions in Iceland. Jökull 58, 179–196 . akobsson, S.P., Moore, J.G., 1986. Hydrothermal minerals and alteration rates at\nSurtsey volcano, Iceland. Geol. Soc. Am. Bull. 97 (5), 648–659. doi: 10.1130/ 0016-7606(1986)97 〈 648:HMAARA 〉 2.0.CO;2 . akosky, B.M., Phillips, R.J., 2001. Mars’ volatile and climate history. Nature 412\n(6843), 237–244. doi: 10.1038/35084184 . ercinovic, M.J. , Keil, K. , Smith, M.R. , Schmitt, R.A. , 1990. Alteration of basaltic glasses\nfrom north-central British Columbia, Canada. Geochim. Cosmochim. Acta 54 (10), 2679–2696 . argel, J.S., Strom, R.G., 1992. Ancient glaciation on Mars. Geology 20 (1), 3–7. doi: 10.1130/0091-7613(1992)020 〈 0 0 03:AGOM 〉 2.3.CO;2 . arunatillake, S., Wray, J.J., Gasnault, O., McLennan, S.M., Deanne Rogers, A.,\nSquyres, S.W., Boynton, W.V., Skok, J.R., Button, N.E., Ojha, L., 2016. The association of hydrogen with sulfur on Mars across latitudes, longitudes, and compositional extremes. J. Geophys. Res. Planets 121. doi: 10.10 02/2016JE0 05016 , 2016JE005016 . olb, E.J., Tanaka, K.L., 2001. Geologic history of the polar regions of Mars based on Mars global surveyor data. II. Amazonian period. Icarus 154, 22–39. doi: 10.1006/\nicar.2001.6676 .\nanger, K. , Flörke, O.W. , 1974. Near infrared absorption spectra (40 0 0–90 0 0 cm −1 ) of opals and the role of “water” in these SiO 2 · nH 2 O minerals. Fortschr. Mineral 52 (1), 17–51 .\nalin, M.C. , Edgett, K.S. , 2003. Evidence for persistent flow and aqueous sedimen-\ntation on early Mars. Science 302 (5652), 1931–1934 . angold, N. , Quantin, C. , Ansan, V. , Delacourt, C. , Allemand, P. , 2004. Evidence for\nprecipitation on Mars from dendritic valleys in the Valles Marineris area. Science 305 (5680), 78–81 . artin, W. , Baross, J. , Kelley, D. , Russell, M.J. , 2008. Hydrothermal vents and the\norigin of life. Nat. Rev. Microbiol. 6 (11), 805 . artínez-Alonso, S., Mellon, M.T., Banks, M.E., Keszthelyi, L.P., McEwen, A.S., 2011.\nEvidence of volcanic and glacial activity in Chryse and Acidalia Planitiae, Mars. Icarus 212 (2), 597–621. doi: 10.1016/j.icarus.2011.01.004 . assey, E.A. , Greenough, J.D. , Edwards, B.R.A. , 2017. Comparative Study of Glaciovolcanic Palagonitization of Tholeiitic and Alkaline Sideromelane at Helgafell,\nIceland and Wells Gray, BC Canada Master’s thesis .\ncEwen, A.S., et al., 2007. A closer look at water-related geologic activity on Mars. Science 317 (1706). doi: 10.1126/science.1143987 . ichalski, J.R., Kraft, M.D., Sharp, T.G., Christensen, P.R., 2005. Palagonite-like Alteration Products on the Earth and Mars I: Spectroscopy (0.4–25 μm) of Weathered\nBasalts and Silicate Alteration Products, vol. 36. itchell, N.C. , Masson, D.G. , Watts, A.B. , Gee, M.J. , Urgeles, R. , 2002. The morphol-\nogy of the submarine flanks of volcanic ocean islands: a comparative study of the Canary and Hawaiian hotspot islands. J. Volcanol. Geotherm. Res. 115 (1), 83–107 . orris, R.V., Gooding, J.L., Lauer, H.V., Singer, R.B., 1990. Origins of Marslike spectral and magnetic properties of a Hawaiian palagonitic soil. J. Geophys. Res. Solid\nEarth 95 (B9), 14427–14434. doi: 10.1029/JB095iB09p14427 . ouginis-Mark, P.J., Wilson, L., 2016. Possible sub-glacial eruptions in the Galaxias\nQuadrangle, Mars. Icarus 267, 68–85. doi: 10.1016/j.icarus.2015.11.025 .\nurchie, S., et al., 2007. Compact Reconnaissance Imaging Spectrometer for Mars (CRISM) on Mars Reconnaissance Orbiter (MRO). J. Geophys. Res. Planets 112.\ndoi: 10.1029/20 06JE0 02682 . auly, B.D., Schiffman, P., Zierenberg, R.A., Clague, D.A., 2011. Environmental and\nchemical controls on palagonitization. Geochem. Geophys. Geosyst. 12 (12) https://agupubs- onlinelibrary- wiley- com/doi/full/10.1029/2011GC003639 . aque, M., Detienne, M., Maters, E.C., Delmelle, P., 2016. Smectites and zeolites in\nash from the 2010 summit eruption of Eyjafjallajökull volcano, Iceland. Bull. Volcanol. 78, 61. doi: 10.10 07/s0 0445- 016- 1056- x . icardi, G., et al., 2004. Performance and surface scattering models for the Mars Advanced Radar for Subsurface and Ionosphere Sounding (MARSIS). Planet. Space\nSci. 52 (1–3), 149–156. doi: 10.1016/j.pss.2003.08.020 .\nlaut, J.J., Ivanov, A., Safaeinili, A., Milkovich, S.M., Picardi, G., Seu, R., Phillips, R., 2007. Radar sounding of subsurface layers in the south polar plains of Mars:\ncorrelation with the Dorsa Argentea formation, vol. 38, p. 2144. ollack, J.B., Kasting, J.F., Richardson, S.M., Poliakoff, K., 1987. The case for a wet,\nwarm climate on early Mars. Icarus 71 (2), 203–224. doi: 10.1016/0019-1035(87) 90147-3 . ampe, E.B., Horgan, B., Scudder, N., Smith, R.J., Rutledge, A.M., 2017. Mineralogy of Rock Flour in Glaciated Volcanic Terrains: An Analog for a Cold and Icy Early\nMars, vol. 48, p. 2437.\netallack, G.J. , 2008. Soils of the Past: An Introduction to Paleopedology. John Wiley & Sons . ice, M.S., Cloutis, E.A., Bell III, J.F., Bish, D.L., Horgan, B.H., Mertzman, S.A., Craig, M.A., Renaut, R.W., Gautason, B., Mountain, B., 2013. Reflectance spectra\ndiversity of silica-rich materials: sensitivity to environment and implications for detections on Mars. Icarus 223 (1), 499–533. doi: 10.1016/j.icarus.2012.09.021 . obbins, S.J., Hynek, B.M., Lillis, R.J., Bottke, W.F., 2013. Large impact crater histories\nof Mars: the effect of different model crater age techniques. Icarus 225, 173– 184. doi: 10.1016/j.icarus.2013.03.019 . odriguez, J.A.P., Tanaka, K.L., 2006. Sisyphi Montes and Southwest Hellas Paterae: Possible Impact, Cryotectonic, Volcanic, and Mantle Tectonic Processes and Hel-\nlas Basin Rings, LPI Contribution 1323, 8066. omagnoli, C., Jakobsson, S.P., 2015. Post-eruptive morphological evolution of is-\nland volcanoes: surtsey as a modern case study. Geomorphology 250, 384–396.\ndoi: 10.1016/j.geomorph.2015.09.016 . ussell, J.K., Edwards, B.R., Porritt, L., Ryane, C., 2014. Tuyas: a descriptive genetic\nclassification. Quat. Sci. Rev. 87, 70–81. doi: 10.1016/j.quascirev.2014.01.001 . utledge, A. , Horgan, B. , Havig, J. , Rampe, E. , Scudder, N. , Hamilton, T. , 2018. Silica\nDissolution and Precipitation in Glaciated Volcanic Environments, and Implications for Mars. Geophys. Res. Lett. . ackmann, I.-J. , Boothroyd, A.I. , 2003. Our Sun. V. A bright young Sun consistent\nwith helioseismology and warm temperatures on ancient Earth and Mars. Astrophys. J. 583 (2), 1024 . canlon, K.E., Head, J.W., 2014. The Dorsa Argentea Formation: Synthesis of Glacial Features and History of Late Noachian-Early Hesperian Martian Climate Change,\nvol. 45, p. 1477. canlon, K.E., Head, J.W., Wilson, L., Marchant, D.R., 2014. Volcano–ice interac-\ntions in the Arsia Mons tropical mountain glacier deposits. Icarus 237, 315–339.\ndoi: 10.1016/j.icarus.2014.04.024 . chiffman, Peter, Howard, J, Spero, R.J.Southard, Swanson, D.A., 20 0 0. Con-\ntrols on palagonitization versus pedogenic weathering of basaltic tephra: evidence from the consolidation and geochemistry of the Keanakako’i Ash Member, Kilauea Volcano. Geochem. Geophys. Geosyst. 1 (8) https:// agupubs- onlinelibrary- wiley- com/doi/full/10.1029/20 0 0GC0 0 0 068 . cudder, N.A., Horgan, B., Rutledge, A.M., Rampe, E.B., 2017. Using Composition\nto Trace Glacial, Fluvial, and Aeolian Sediment Transport in a Mars-Analog Glaciated Volcanic System, vol. 48, p. 2625. eelos, F.P., Murchie, S.L., Humm, D.C., Barnouin, O.S., Morgan, F., Taylor, H.W., Hash, C., CRISM Team, 2011. CRISM Data Processing and Analysis Products Update –\nCalibration, Correction, and Visualization, vol. 42, p. 1438. eelos, K.D., Bridges, N.T., Andrews-Hanna, J.C., Seelos, F.P., Murchie, S.L., 2012. In-\nvestigation of Anomalous Terrains on the West Flank of Olympus Mons using CRISM Data, AGU Fall Meeting Abstract 11. heldon, N.D., Tabor, N.J., 2009. Quantitative paleoenvironmental and paleoclimatic\nreconstruction using paleosols. Earth-Sci. Rev. 95 (1–2), 1–52. doi: 10.1016/j. earscirev.20 09.03.0 04 . inger, A. , 1974. Mineralogy of palagonitic material from the Golan Heights, Israel. Clays Clay Miner. 22 (3), 231–240 . inger, A. , 1980. The paleoclimatic interpretation of clay minerals in soils and weathering profiles. Earth-Sci. Rev. 15 (4), 303–326 . inger, R.B., 1982. Spectral evidence for the mineralogy of high-albedo soils and\ndust on Mars. J. Geophys. Res. Solid Earth 87 (B12), 10159–10168. doi: 10.1029/ JB087iB12p10159 . kidmore, M., Anderson, S.P., Sharp, M., Foght, J., Lanoil, B.D., 2005. Comparison of microbial community compositions of two subglacial environments reveals\na possible role for microbes in chemical weathering processes. Appl. Environ. Microbiol. 71 (11), 6986–6997. doi: 10.1128/AEM.71.11.6986-6997.2005 . mith, R.J. , Horgan, B. , Rampe, E. , Dehouck, E. , Morris, R.V. , 2017. X-ray amorphous\nphases in terrestrial analog volcanic sediments: implications for amorphous phases in Gale Crater. Mars 48, 2465 . quyres, S. , Kasting, J.F. , 1994. Early Mars. Science 265 (5173), 744–749 . troncik, N.A., Schmincke, H.U., 2001. Evolution of palagonite: crystallization, chem-\nical changes, and element budget. Geochem. Geophys. Geosyst. 2. doi: 10.1029/ 20 0 0GC0 0 0102 . troncik, N.A., Schmincke, H.-U., 2002. Palagonite – a review. Int. J. Earth Sci. 91 (4),\n680–697. doi: 10.10 07/s0 0531-0 01-0238-7 . wayze, G.A. , Clark, R.C. , Sutley, S.J. , Gent, C.A. , Rockwell, B.W. , Blaney, D.L. ,\nPost, M.J. , Farm, B.P. , 2002. Mineral mapping Mauna Kea and Mauna Loa Shield Volcanos on Hawaii using AVIRIS data and the USGS tetracorder spectral identification system: lessons applicable to the search for relict martian hydrothermal systems. In: Proceedings of the 11th JPL Airborne Earth Space Workshop. JPL Publication 03-4 . zynkiewicz, A. , et al. , 2013. The polar sulfur cycle in the Werenskioldbreen, Spitsbergen: possible implications for understanding the deposition of sulfate miner-\nals in the North Polar Region of Mars. Geochim. Cosmochim. Acta 106, 326–343 . anaka, K.L., Scott, 1987. Geologic Maps of the Polar Regions of Mars, U.S. Geol. Surv.,\nMiscellaneous Investigations (Series Map I-802-C, Scale 1:15,0 0 0,0 0 0).\nW\nW\nW\nW\nW\nZ\nTranter, M., Skidmore, M., Wadham, J., 2005. Hydrological controls on microbial communities in subglacial environments. Hydrol. Process. 19 (4), 995–998.\ndoi: 10.1002/hyp.5854 . Tsai, C.C. , Chen, Z.S. , Kao, C.I. , Ottner, F. , Kao, S.J. , Zehetner, F. , 2010. Pedogenic devel-\nopment of volcanic ash soils along a climosequence in Northern Taiwan. Geoderma 156 (1), 48–59 . Tuffen, H., 2007. Models of ice melting and edifice growth at the onset of subglacial basaltic eruptions. J. Geophys. Res. Solid Earth 112 (B3), B03203. doi: 10.1029/\n20 06JB0 04523 .\nUgolini, F.C. , 1974. Hydrothermal origin of the clays from the upper slopes of Mauna Kea, Hawaii. Clays Clay Min. 22, 189–194 . Ugolini, F.C. , Bockheim, J.G. , 2008. Antarctic soils and soil formation in a changing environment: a review. Geoderma 144 (1), 1–8 . Ugolini, F.C. , Dahlgren, R.A. , 2002. Soil development in volcanic ash. Glob. Environ. Res. 6 (2), 69–82 . Utada, M., 2001. Zeolites in hydrothermally altered rocks. Rev. Mineral. Geochem.\n45 (1), 305–322. doi: 10.2138/rmg.2001.45.10 . Viviano-Beck, C.E., et al., 2014. Revised CRISM spectral parameters and summary\nproducts based on the currently detected mineral diversity on Mars. J. Geophys. Res. Planets 119 (6), 2014JE004627. doi: 10.1002/2014JE004627 .\narner, N.H., Farmer, J.D., 2010. Subglacial hydrothermal alteration minerals in Jökulhlaup deposits of Southern Iceland, with Implications for detecting past or\npresent habitable environments on Mars. Astrobiology 10 (5), 523–547. doi: 10. 1089/ast.2009.0425 . olfe, E.W. , Wise, W.S. , Dalrymple, G.B. , 1997. The Geology and Petrology of Mauna Kea Volcano, Hawaii. A Study of Postshield Volcanism. USGPO . ordsworth, R., Forget, F., Millour, E., Head, J.W., Madeleine, J.-B., Charnay, B., 2013. Global modelling of the early martian climate under a denser CO 2 atmosphere:\nwater cycle and ice evolution. Icarus 222 (1), 1–19. doi: 10.1016/j.icarus.2012.09.\n036 . ordsworth, R.D., Kerber, L., Pierrehumbert, R.T., Forget, F., Head, J.W., 2015. Com-\nparison of “warm and wet” and “cold and icy” scenarios for early Mars in a 3-D climate model. J. Geophys. Res. Planets 120 (6), 2015JE004787. doi: 10.1002/\n2015JE004787 . ray, J.J., Murchie, S.L., Squyres, S.W., Seelos, F.P., Tornabene, L.L., 2009. Diverse\naqueous environments on ancient Mars revealed in the southern highlands. Ge-\nology 37, 1043–1046. doi: 10.1130/G30331A.1 . iegler, K. , Hsieh, J.C. , Chadwick, O.A. , Kelly, E.F. , Hendricks, D.M. , Savin, S.M. , 2003.\nHalloysite as a kinetically controlled end product of arid-zone basalt weathering. Chem. Geol. 202 (3), 461–478 ."
+  }],
+  "year": 2018,
+  "references": [{
+    "title": "Occurrences of possible hydrated sulfates in the southern high latitudes of Mars",
+    "authors": ["S.E. Ackiss", "J.J. Wray"],
+    "venue": "Icarus 243,",
+    "year": 2014
+  }, {
+    "title": "Soil-elevation relationships on a volcanic plateau in the southern Cascade Range, Northern California, USA",
+    "authors": ["E.B. Alexander", "J.I. Mallory", "W.L. Colwell"],
+    "year": 1993
+  }, {
+    "title": "Altered basaltic glass: a terrestrial analog to the soil of Mars",
+    "authors": ["C.C. Allen", "J.L. Gooding", "M. Jercinovic", "K. Keil"],
+    "venue": "Icarus",
+    "year": 1981
+  }, {
+    "title": "Glaciers show direct linkage between erosion rate and chemical weathering",
+    "authors": ["S.P. Anderson"],
+    "venue": "fluxes. Geomorphology",
+    "year": 2005
+  }, {
+    "title": "Martian flow features, moraine-like ridges, and gullies: terrestrial analogs and interrelationships",
+    "authors": ["J. Arfstrom", "W.K. Hartmann"],
+    "venue": "Icarus",
+    "year": 2005
+  }, {
+    "title": "Volcanic soils of Iceland",
+    "authors": ["O. Arnalds"],
+    "venue": "Catena 56",
+    "year": 2004
+  }, {
+    "title": "Andisols of deserts in Iceland",
+    "authors": ["O. Arnalds", "J. Kimble"],
+    "venue": "Soil Sci. Soc. Am. J",
+    "year": 2001
+  }, {
+    "title": "Ancient oceans, ice sheets and the hydrological cycle on Mars",
+    "authors": ["V.R. Baker", "R.G. Strom"],
+    "venue": "Nature",
+    "year": 1991
+  }, {
+    "title": "Simulation of Viking biology experiments suggests smectites not palagonites, as martian soil analogues",
+    "authors": ["A. Banin", "L. Margulies"],
+    "venue": "Nature",
+    "year": 1983
+  }, {
+    "title": "The absorption spectra of liquid phase H2O, HDO and D2O from 0 ·7 μm to 10 μm",
+    "authors": ["J.G. Bayly", "V.B. Kartha", "W.H. Stevens"],
+    "venue": "Infrared Phys",
+    "year": 1963
+  }, {
+    "title": "Alteration of submarine basaltic glass from the ontong java plateau: A STXM and TEM study",
+    "authors": ["K. Benzerara", "N. Menguy", "N.R. Banerjee", "T. Tyliszczak", "G.E. Brown Jr.", "F. Guyot"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2007
+  }, {
+    "title": "Weathering of Mars: Antarctic analog studies",
+    "authors": ["J.L. Berkley", "M.J. Drake"],
+    "venue": "Icarus",
+    "year": 1981
+  }, {
+    "title": "Coupled ferric oxides and sulfates on the martian surface",
+    "authors": ["Bibring", "J.-P"],
+    "venue": "Science 317,",
+    "year": 2007
+  }, {
+    "title": "The influence of structural Fe, Al and Mg on the infrared OH bands in spectra of dioctahedral smectites",
+    "authors": ["J. Bishop", "J. Madejová", "P. Komadel", "H. Fröschl"],
+    "venue": "Clay Miner",
+    "year": 2002
+  }, {
+    "title": "Geochemical and mineralogical analyses of palagonitic tuffs and altered rinds of pillow basalts in Iceland and applications to Mars",
+    "authors": ["J.L. Bishop", "P. Schiffman", "R. Southard"],
+    "venue": "Geol. Soc. Lond. Spec. Publ",
+    "year": 2002
+  }, {
+    "title": "Reflectance and emission spectroscopy study of four groups of phyllosilicates: smectites, kaolinite-serpentines, chlorites and micas",
+    "authors": ["J.L. Bishop", "M.D. Lane", "M.D. Dyar", "A.J. Brown"],
+    "venue": "Clay Miner",
+    "year": 2008
+  }, {
+    "title": "Morphology of Possible Subglacial Volcanoes in the Sysphi",
+    "authors": ["A. Campbell", "S. Ackiss", "B.H. Horgan"],
+    "venue": "Montes Region of Mars,",
+    "year": 2016
+  }, {
+    "title": "Geologic history of Mars",
+    "authors": ["M.H. Carr", "J.W. Head"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2010
+  }, {
+    "title": "Firn densification in a Late Noachian “icy highlands” Mars: implications for ice sheet evolution and thermal response",
+    "authors": ["J.P. Cassanelli", "J.W. Head"],
+    "venue": "Icarus 253,",
+    "year": 2015
+  }, {
+    "title": "The clay mineralogy and chemistry of some soils from the Ross Dependency",
+    "authors": ["G.G.C. Claridge"],
+    "venue": "Antarctica. N. Z. J. Geol. Geophys",
+    "year": 1965
+  }, {
+    "title": "High spectral resolution reflectance spectroscopy of minerals",
+    "authors": ["Clark", "RogerN"],
+    "venue": "J. Geophys. Res.: Solid Earth",
+    "year": 1990
+  }, {
+    "title": "USGS Digital Spectral Library splib06a: U.S. geological survey, Digital Data Series 231",
+    "authors": ["R. Clark", "G.A. Swayze", "R. Wise", "E. Livo", "T. Hoefen", "R. Kokaly", "S.J. Sutley"],
+    "year": 2007
+  }, {
+    "title": "Spectral reflectance properties of zeolites and remote sensing implications",
+    "authors": ["E.A. Cloutis", "P.M. Asher", "S.A. Mertzman"],
+    "venue": "J. Geophys. Res. Planets",
+    "year": 2002
+  }, {
+    "title": "Detection and discrimination of sulfate minerals using reflectance spectroscopy",
+    "authors": ["Cloutis", "E.A"],
+    "venue": "Icarus 184,",
+    "year": 2006
+  }, {
+    "title": "Spectral reflectance properties of minerals exposed to simulated Mars surface conditions",
+    "authors": ["E.A. loutis", "M.A. Craig", "R.V. Kruzelecky", "W.R. Jamroz", "A. Scott", "F.C. Hawthorne", "S.A. Mertzman"],
+    "venue": "Icarus",
+    "year": 2008
+  }, {
+    "title": "Glaciovolcanic hydrothermal environments in Iceland and implications for their detection on Mars",
+    "authors": ["ousins", "C.R"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 2013
+  }, {
+    "title": "The case for rainfall on a warm, wet early Mars",
+    "authors": ["R.A. raddock", "A.D. Howard"],
+    "venue": "J. Geophys. Res. Planets",
+    "year": 2002
+  }, {
+    "title": "Clay mineral precipitation and low silica in glacier meltwaters explored through reaction-path modelling",
+    "authors": ["J.W. rompton", "G.E. Flowers", "D. Kirste", "B. Hagedorn", "M.J. Sharp"],
+    "venue": "J. Glaciol",
+    "year": 2015
+  }, {
+    "title": "Visible and near-infrared (0.4–2.5 μm) reflectance spectra of Playa evaporite minerals",
+    "authors": ["J.K. rowley"],
+    "venue": "J. Geophys. Res.: Solid Earth",
+    "year": 1991
+  }, {
+    "title": "Characterization of a weathering sequence of soils derived from volcanic ash in Cameroon. Taxonomic, mineralogical and agronomic implications",
+    "authors": ["B. elvaux", "A.J. Herbillon", "L. Vielvoye"],
+    "venue": "Geoderma",
+    "year": 1989
+  }, {
+    "title": "Very low-temperature alteration of sideromelane in hyaloclastites and hyalotuffs from Kilauea and Mauna Kea volcanoes: Implications for the mechanism of palagonite formation",
+    "authors": ["A. rief", "P. Schiffman"],
+    "venue": "Clay Clay Miner",
+    "year": 2004
+  }, {
+    "title": "Identification of hydrated silicate minerals on Mars using MRO-CRISM: geologic context near Nili Fossae and implications for aqueous alteration",
+    "authors": ["hlmann", "B.L"],
+    "venue": "J. Geophys. Res. Planets 114. doi: 10.1029/20",
+    "year": 2009
+  }, {
+    "title": "Subsurface water and clay mineral formation during the early history of Mars",
+    "authors": ["B.L. hlmann", "J.F. Mustard", "S.L. Murchie", "Bibring", "J.-P", "A. Meunier", "Fraeman", "A .A", "Y. Langevin"],
+    "venue": "Nature",
+    "year": 2011
+  }, {
+    "title": "Mineralogy and chemistry of altered Icelandic basalts: Application to clay mineral detection and understanding aqueous environments on Mars",
+    "authors": ["B.L. hlmann", "D.L. Bish", "S.W. Ruff", "J.F. Mustard"],
+    "venue": "J. Geophys. Res. Planets 117 (E00J16). doi: 10.1029/2012JE004156",
+    "year": 2012
+  }, {
+    "title": "A cold and wet Mars",
+    "authors": ["A.G. airén"],
+    "venue": "Icarus",
+    "year": 2010
+  }, {
+    "title": "Alteration of hydrovolcanic basaltic ash: Observations with visible and near-infrared spectrometry",
+    "authors": ["W.H. arrand", "R.B. Singer"],
+    "venue": "J. Geophys. Res.: Solid Earth",
+    "year": 1992
+  }, {
+    "title": "Glaciation in the Late Noachian Icy highlands: ice accumulation, distribution, flow rates, basal melting, and top-down melting rates and patterns",
+    "authors": ["J.L. astook"],
+    "venue": "Planet. Space Sci",
+    "year": 2015
+  }, {
+    "title": "Formation of glaciers on Mars by atmospheric precipitation at high obliquity",
+    "authors": ["F. orget", "R.M. Haberle", "F. Montmessin", "B. Levrard", "J.W. Head"],
+    "venue": "Science",
+    "year": 2006
+  }, {
+    "title": "Geological and geochemical legacy of a cold early Mars",
+    "authors": ["E. aidos", "G. Marion"],
+    "venue": "J. Geophys. Res. Planets",
+    "year": 2003
+  }, {
+    "title": "Mineralogical characterization of zeolites present on basaltic rocks from Combia geological formation, La Pintada (Colombia). Microporous Mesoporous Mater",
+    "authors": ["J.F. elves", "G.S. Gallego", "M.A. Marquez"],
+    "year": 2016
+  }, {
+    "title": "Candidate subglacial volcanoes in the south polar region of Mars: morphology, morphometry, and eruption conditions",
+    "authors": ["G.J. hatan", "J.W. Head"],
+    "venue": "J. Geophys. Res. Planets",
+    "year": 2002
+  }, {
+    "title": "Mineralogy of three slightly palagonitized basaltic tephra samples from the summit of Mauna Kea, Hawaii",
+    "authors": ["D.C. olden", "R.V. Morris", "D.W. Ming", "H.V. Lauer", "S.R. Yang"],
+    "venue": "J. Geophys. Res. Planets",
+    "year": 1993
+  }, {
+    "title": "Alteration of glass as a possible source of clay minerals on Mars",
+    "authors": ["J.L. ooding", "K. Keil"],
+    "venue": "Geophys. Res. Lett",
+    "year": 1978
+  }, {
+    "title": "Subglacial and Interglacial Chemical Weathering in the Transantarctic Mountains Available from: https://goldschmidt.info/2017/ abstracts/abstractView?id=2017003488 (Accessed 24 August 2017",
+    "authors": ["J. raly", "K. Licht", "D.L. Bish"],
+    "year": 2017
+  }, {
+    "title": "Origin of the valley networks on Mars: a hydrological perspective",
+    "authors": ["V.C. ulick"],
+    "venue": "Geomorphology",
+    "year": 2001
+  }, {
+    "title": "Early Mars climate models",
+    "authors": ["R.M. aberle"],
+    "venue": "J. Geophys. Res",
+    "year": 1998
+  }, {
+    "title": "Controls on Martian hydrothermal systems: application to valley network and magnetic anomaly formation",
+    "authors": ["K.P. arrison", "R.E. Grimm"],
+    "venue": "J. Geophys. Res. Planets",
+    "year": 2002
+  }, {
+    "title": "Nature and origin of palagonite tuffs of the Honolulu group on Oahu, Hawaii",
+    "authors": ["R.L. ay", "A. Iijima"],
+    "venue": "Geol. Soc. Am",
+    "year": 1968
+  }, {
+    "title": "Weathering of Basaltic Tephra on the Island of Hawaii",
+    "authors": ["R.L. ay", "B.F. Jones"],
+    "venue": "Geol. Soc. Am. Bull",
+    "year": 1972
+  }, {
+    "title": "The Early Climate History of Mars: “Warm and Wet",
+    "authors": ["J. ead"],
+    "venue": "“Cold and Icy”?,",
+    "year": 2013
+  }, {
+    "title": "The climate history of early Mars: insights from the Antarctic McMurdo dry valleys hydrologic system",
+    "authors": ["J.W. ead", "D.R. Marchant"],
+    "venue": "Antarct. Sci",
+    "year": 2014
+  }, {
+    "title": "Extensive Hesperian-aged south polar ice sheet on Mars: evidence for massive melting and retreat, and lateral flow and ponding of meltwater",
+    "authors": ["J.W. ead", "S. Pratt"],
+    "venue": "J. Geophys. Res. Planets",
+    "year": 2001
+  }, {
+    "title": "Molecular Spectra and Molecular Structure: Infrared and Raman Spectra of Polyatomic Molecules",
+    "authors": ["G. erzberg"],
+    "year": 1945
+  }, {
+    "title": "Distribution of hydrated minerals in the north polar region of Mars",
+    "authors": ["B.H. organ", "J.F. Bell", "E.Z. Noe Dobrea", "E.A. Cloutis", "D.T. Bailey", "M.A. Craig", "L.H. Roach", "J.F. Mustard"],
+    "venue": "J. Geophys. Res. Planets",
+    "year": 2009
+  }, {
+    "title": "The Effects of Climate, Environment, and Diagenesis on the Spectral Properties of Volcanic Soils, GSA",
+    "authors": ["B.H.N. organ", "R. Smith", "O.A. Chadwick", "G.J. Retallack"],
+    "year": 2017
+  }, {
+    "title": "Spectral properties of salt crusts formed on saline soils",
+    "authors": ["F.M. owari", "P.C. Goodell", "S. Miyamoto"],
+    "venue": "J. Environ. Qual",
+    "year": 2002
+  }, {
+    "title": "Visible and near infrared spectra of minerals and rocks",
+    "authors": ["G.R. unt", "J.W. Salisbury", "C.J. Lenhoff"],
+    "venue": "VI. Additional silicates. Mod. Geol",
+    "year": 1973
+  }, {
+    "title": "Mars’ volatile and climate history",
+    "authors": ["B.M. akosky", "R.J. Phillips"],
+    "venue": "Nature",
+    "year": 2001
+  }, {
+    "title": "Ancient glaciation on Mars. Geology",
+    "authors": ["J.S. argel", "R.G. Strom"],
+    "year": 1992
+  }, {
+    "title": "Near infrared absorption spectra (40 0 0–90 0 0 cm −1 ) of opals and the role of “water” in these SiO 2 · nH 2 O minerals",
+    "authors": ["K. anger", "O.W. Flörke"],
+    "venue": "Fortschr. Mineral",
+    "year": 1974
+  }, {
+    "title": "Evidence for persistent flow and aqueous sedimentation on early Mars",
+    "authors": ["M.C. alin", "K.S. Edgett"],
+    "venue": "Science",
+    "year": 2003
+  }, {
+    "title": "Evidence for precipitation on Mars from dendritic valleys in the Valles",
+    "authors": ["N. angold", "C. Quantin", "V. Ansan", "C. Delacourt", "P. Allemand"],
+    "venue": "Marineris area. Science",
+    "year": 2004
+  }, {
+    "title": "Hydrothermal vents and the origin of life",
+    "authors": ["W. artin", "J. Baross", "D. Kelley", "M.J. Russell"],
+    "venue": "Nat. Rev. Microbiol",
+    "year": 2008
+  }, {
+    "title": "Evidence of volcanic and glacial activity",
+    "authors": ["S. artínez-Alonso", "M.T. Mellon", "M.E. Banks", "L.P. Keszthelyi", "A.S. McEwen"],
+    "venue": "Chryse and Acidalia Planitiae, Mars. Icarus",
+    "year": 2011
+  }, {
+    "title": "Comparative Study of Glaciovolcanic Palagonitization of Tholeiitic and Alkaline Sideromelane at Helgafell, Iceland and Wells Gray, BC Canada Master’s thesis",
+    "authors": ["E.A. assey", "J.D. Greenough", "B.R.A. Edwards"],
+    "year": 2017
+  }, {
+    "title": "A closer look at water-related geologic activity on Mars",
+    "authors": ["cEwen", "A.S"],
+    "year": 2007
+  }, {
+    "title": "Palagonite-like Alteration Products on the Earth and Mars I: Spectroscopy (0.4–25",
+    "authors": ["J.R. ichalski", "M.D. Kraft", "T.G. Sharp", "P.R. Christensen"],
+    "venue": "μm) of Weathered Basalts and Silicate Alteration Products,",
+    "year": 2005
+  }, {
+    "title": "The morphology of the submarine flanks of volcanic ocean islands: a comparative study of the Canary and Hawaiian hotspot islands",
+    "authors": ["N.C. itchell", "D.G. Masson", "A.B. Watts", "M.J. Gee", "R. Urgeles"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 2002
+  }, {
+    "title": "Origins of Marslike spectral and magnetic properties of a Hawaiian palagonitic soil",
+    "authors": ["R.V. orris", "J.L. Gooding", "H.V. Lauer", "R.B. Singer"],
+    "venue": "J. Geophys. Res. Solid Earth",
+    "year": 1990
+  }, {
+    "title": "Possible sub-glacial eruptions in the Galaxias Quadrangle, Mars",
+    "authors": ["P.J. ouginis-Mark", "L. Wilson"],
+    "venue": "Icarus 267,",
+    "year": 2016
+  }, {
+    "title": "Compact Reconnaissance Imaging Spectrometer for Mars (CRISM) on Mars Reconnaissance Orbiter (MRO)",
+    "authors": ["S urchie"],
+    "venue": "J. Geophys. Res. Planets 112. doi: 10.1029/20",
+    "year": 2007
+  }, {
+    "title": "https://agupubs- onlinelibrary- wiley- com/doi/full/10.1029/2011GC003639",
+    "authors": ["M. aque", "M. Detienne", "E.C. Maters", "P. Delmelle"],
+    "venue": "Bull. Volcanol",
+    "year": 2016
+  }, {
+    "title": "Radar sounding of subsurface layers in the south polar plains of Mars: correlation with the Dorsa",
+    "authors": ["J.J. laut", "A. Ivanov", "A. Safaeinili", "S.M. Milkovich", "G. Picardi", "R. Seu", "R. Phillips"],
+    "venue": "Argentea formation,",
+    "year": 2007
+  }, {
+    "title": "The case for a wet, warm climate on early Mars",
+    "authors": ["J.B. ollack", "J.F. Kasting", "S.M. Richardson", "K. Poliakoff"],
+    "venue": "Icarus",
+    "year": 1987
+  }, {
+    "title": "Mineralogy of Rock Flour in Glaciated Volcanic Terrains: An Analog for a Cold and Icy",
+    "authors": ["E.B. ampe", "B. Horgan", "N. Scudder", "R.J. Smith", "A.M. Rutledge"],
+    "venue": "Early Mars,",
+    "year": 2017
+  }, {
+    "title": "Soils of the Past: An Introduction to Paleopedology",
+    "authors": ["G.J. etallack"],
+    "year": 2008
+  }, {
+    "title": "Reflectance spectra diversity of silica-rich materials: sensitivity to environment and implications for detections on Mars",
+    "authors": ["M.S. ice", "E.A. Cloutis", "J.F. Bell III", "D.L. Bish", "B.H. Horgan", "S.A. Mertzman", "M.A. Craig", "R.W. Renaut", "B. Gautason", "B. Mountain"],
+    "venue": "Icarus",
+    "year": 2013
+  }, {
+    "title": "Large impact crater histories of Mars: the effect of different model crater age techniques",
+    "authors": ["S.J. obbins", "B.M. Hynek", "R.J. Lillis", "W.F. Bottke"],
+    "venue": "Icarus 225,",
+    "year": 2013
+  }, {
+    "title": "Sisyphi Montes and Southwest Hellas Paterae: Possible Impact, Cryotectonic, Volcanic, and Mantle Tectonic Processes and Hellas Basin Rings",
+    "authors": ["J.A.P. odriguez", "K.L. Tanaka"],
+    "venue": "LPI Contribution",
+    "year": 2006
+  }, {
+    "title": "Post-eruptive morphological evolution of island volcanoes: surtsey as a modern case study",
+    "authors": ["C. omagnoli", "S.P. Jakobsson"],
+    "venue": "Geomorphology",
+    "year": 2015
+  }, {
+    "title": "Tuyas: a descriptive genetic classification",
+    "authors": ["J.K. ussell", "B.R. Edwards", "L. Porritt", "C. Ryane"],
+    "venue": "Quat. Sci. Rev",
+    "year": 2014
+  }, {
+    "title": "Silica Dissolution and Precipitation in Glaciated Volcanic Environments, and Implications for Mars",
+    "authors": ["A. utledge", "B. Horgan", "J. Havig", "E. Rampe", "N. Scudder", "T. Hamilton"],
+    "year": 2018
+  }, {
+    "title": "Our Sun. V. A bright young Sun consistent with helioseismology and warm temperatures on ancient Earth and Mars",
+    "authors": ["ackmann", "I.-J", "A.I. Boothroyd"],
+    "venue": "Astrophys. J",
+    "year": 2003
+  }, {
+    "title": "The Dorsa Argentea Formation: Synthesis of Glacial Features and History of Late Noachian-Early",
+    "authors": ["K.E. canlon", "J.W. Head"],
+    "venue": "Hesperian Martian Climate Change,",
+    "year": 2014
+  }, {
+    "title": "Volcano–ice interactions in the Arsia Mons tropical mountain glacier deposits",
+    "authors": ["K.E. canlon", "J.W. Head", "L. Wilson", "D.R. Marchant"],
+    "venue": "Icarus 237,",
+    "year": 2014
+  }, {
+    "title": "Using Composition to Trace Glacial, Fluvial, and Aeolian Sediment Transport in a Mars-Analog Glaciated",
+    "authors": ["N.A. cudder", "B. Horgan", "A.M. Rutledge", "E.B. Rampe"],
+    "venue": "Volcanic System,",
+    "year": 2017
+  }, {
+    "title": "CRISM Data Processing and Analysis Products Update – Calibration",
+    "authors": ["F.P. eelos", "S.L. Murchie", "D.C. Humm", "O.S. Barnouin", "F. Morgan", "H.W. Taylor", "C. Hash"],
+    "venue": "CRISM Team,",
+    "year": 2011
+  }, {
+    "title": "Investigation of Anomalous Terrains on the West Flank of Olympus Mons using CRISM Data",
+    "authors": ["K.D. eelos", "N.T. Bridges", "J.C. Andrews-Hanna", "F.P. Seelos", "S.L. Murchie"],
+    "venue": "AGU Fall Meeting Abstract",
+    "year": 2012
+  }, {
+    "title": "Quantitative paleoenvironmental and paleoclimatic reconstruction using paleosols",
+    "authors": ["N.D. heldon", "N.J. Tabor"],
+    "venue": "Earth-Sci. Rev",
+    "year": 2009
+  }, {
+    "title": "Mineralogy of palagonitic material from the Golan Heights, Israel",
+    "authors": ["A. inger"],
+    "venue": "Clays Clay Miner",
+    "year": 1974
+  }, {
+    "title": "The paleoclimatic interpretation of clay minerals in soils and weathering profiles",
+    "authors": ["A. inger"],
+    "venue": "Earth-Sci. Rev",
+    "year": 1980
+  }, {
+    "title": "Spectral evidence for the mineralogy of high-albedo soils and dust on Mars",
+    "authors": ["R.B. inger"],
+    "venue": "J. Geophys. Res. Solid Earth",
+    "year": 1982
+  }, {
+    "title": "Comparison of microbial community compositions of two subglacial environments reveals a possible role for microbes in chemical weathering processes",
+    "authors": ["M. kidmore", "S.P. Anderson", "M. Sharp", "J. Foght", "B.D. Lanoil"],
+    "venue": "Appl. Environ. Microbiol",
+    "year": 2005
+  }, {
+    "title": "X-ray amorphous phases in terrestrial analog volcanic sediments: implications for amorphous phases in Gale Crater",
+    "authors": ["R.J. mith", "B. Horgan", "E. Rampe", "E. Dehouck", "R.V. Morris"],
+    "year": 2017
+  }, {
+    "title": "Evolution of palagonite: crystallization, chemical changes, and element budget",
+    "authors": ["N.A. troncik", "H.U. Schmincke"],
+    "venue": "Geochem. Geophys. Geosyst. 2. doi: 10.1029/",
+    "year": 2001
+  }, {
+    "title": "Palagonite – a review",
+    "authors": ["N.A. troncik", "Schmincke", "H.-U"],
+    "venue": "Int. J. Earth Sci",
+    "year": 2002
+  }, {
+    "title": "Mineral mapping Mauna Kea and Mauna Loa Shield Volcanos on Hawaii using AVIRIS data and the USGS tetracorder spectral identification system: lessons applicable to the search for relict martian hydrothermal systems",
+    "authors": ["G.A. wayze", "R.C. Clark", "S.J. Sutley", "C.A. Gent", "B.W. Rockwell", "D.L. Blaney", "M.J. Post", "B.P. Farm"],
+    "venue": "Proceedings of the 11th JPL Airborne Earth Space Workshop",
+    "year": 2002
+  }, {
+    "title": "The polar sulfur cycle in the Werenskioldbreen, Spitsbergen: possible implications for understanding the deposition of sulfate minerals in the North Polar Region of Mars",
+    "authors": ["A zynkiewicz"],
+    "venue": "Geochim. Cosmochim",
+    "year": 2013
+  }, {
+    "title": "Geologic Maps of the Polar Regions of Mars, U.S. Geol. Surv., Miscellaneous Investigations (Series Map I-802-C, Scale",
+    "authors": ["K.L. anaka", "Scott"],
+    "year": 1987
+  }, {
+    "title": "Hydrological controls on microbial communities in subglacial environments",
+    "authors": ["M. Tranter", "M. Skidmore", "J. Wadham"],
+    "venue": "Hydrol. Process",
+    "year": 2005
+  }, {
+    "title": "Pedogenic development of volcanic ash soils along a climosequence in Northern Taiwan",
+    "authors": ["C.C. Tsai", "Z.S. Chen", "C.I. Kao", "F. Ottner", "S.J. Kao", "F. Zehetner"],
+    "venue": "Geoderma",
+    "year": 2010
+  }, {
+    "title": "Models of ice melting and edifice growth at the onset of subglacial basaltic eruptions",
+    "authors": ["H. Tuffen"],
+    "venue": "J. Geophys. Res. Solid Earth",
+    "year": 2007
+  }, {
+    "title": "Hydrothermal origin of the clays from the upper slopes of Mauna Kea, Hawaii",
+    "authors": ["F.C. Ugolini"],
+    "venue": "Clays Clay Min",
+    "year": 1974
+  }, {
+    "title": "Antarctic soils and soil formation in a changing environment: a review",
+    "authors": ["F.C. Ugolini", "J.G. Bockheim"],
+    "venue": "Geoderma",
+    "year": 2008
+  }, {
+    "title": "Soil development in volcanic ash",
+    "authors": ["F.C. Ugolini", "R.A. Dahlgren"],
+    "venue": "Glob. Environ. Res",
+    "year": 2002
+  }, {
+    "title": "Zeolites in hydrothermally altered rocks",
+    "authors": ["M. Utada"],
+    "venue": "Rev. Mineral. Geochem",
+    "year": 2001
+  }, {
+    "title": "Revised CRISM spectral parameters and summary products based on the currently detected mineral diversity on Mars",
+    "authors": ["Viviano-Beck", "C.E"],
+    "venue": "J. Geophys. Res. Planets",
+    "year": 2014
+  }, {
+    "title": "Subglacial hydrothermal alteration minerals in Jökulhlaup deposits of Southern Iceland, with Implications for detecting past or present habitable environments on Mars",
+    "authors": ["N.H. arner", "J.D. Farmer"],
+    "venue": "Astrobiology",
+    "year": 2010
+  }, {
+    "title": "The Geology and Petrology of Mauna Kea Volcano, Hawaii. A Study of Postshield Volcanism",
+    "authors": ["E.W. olfe", "W.S. Wise", "G.B. Dalrymple"],
+    "year": 1997
+  }, {
+    "title": "Global modelling of the early martian climate under a denser CO 2 atmosphere: water cycle and ice evolution",
+    "authors": ["R. ordsworth", "F. Forget", "E. Millour", "J.W. Head", "Madeleine", "J.-B", "B. Charnay"],
+    "venue": "Icarus",
+    "year": 2013
+  }, {
+    "title": "Comparison of “warm and wet” and “cold and icy” scenarios for early Mars in a 3-D climate model",
+    "authors": ["R.D. ordsworth", "L. Kerber", "R.T. Pierrehumbert", "F. Forget", "J.W. Head"],
+    "venue": "J. Geophys. Res. Planets",
+    "year": 2015
+  }, {
+    "title": "Diverse aqueous environments on ancient Mars revealed in the southern highlands",
+    "authors": ["J.J. ray", "S.L. Murchie", "S.W. Squyres", "F.P. Seelos", "L.L. Tornabene"],
+    "venue": "Geology",
+    "year": 2009
+  }],
+  "id": "SP:cf23c60f836514b9817dc1fef37e245fab3a4f91",
+  "authors": [{
+    "name": "S. Ackiss",
+    "affiliations": []
+  }, {
+    "name": "B. Horgan",
+    "affiliations": []
+  }, {
+    "name": "W. Farrand",
+    "affiliations": []
+  }],
+  "abstractText": "Here we examine the mineral assemblages detected on possible glaciovolcanic edifices in the Sisyphi Planum region of Mars, a high-latitude region in the southern highlands nestled between the Argyre and Hellas impact basins. Minerals were identified utilizing visible/near-infrared spectra from the Compact Reconnaissance Imaging Spectrometer for Mars (CRISM). Analysis of eleven CRISM images located on the volcanic edifices revealed three distinct spectral classes in the region which are interpreted to be: gypsum-dominated, smectite–zeolite–iron oxide-dominated (possibly palagonite), and polyhydrated sulfate-dominated material. While sulfates can form under a variety of alteration conditions, palagonitelike mineral assemblages require low-temperature and high water-to-rock hydrothermal conditions typically found in subglacial or subaqueous volcanic eruptions. The possible palagonite detections on the volcanic edifices, the geomorphology of the region, and the analogous terrestrial mineralogy of subglacial eruptions strongly suggests the formation of these minerals during subglacial eruptions or associated hydrothermal systems. This implies that thick water ice sheets were present in this region in the late Noachian or early Hesperian, and that the subglacial hydrothermal systems could have supported habitable environments with excellent biosignature preservation potential. © 2018 Elsevier Inc. All rights reserved.",
+  "title": "Mineralogic evidence for subglacial volcanism in the Sisyphi Montes region of Mars"
+}

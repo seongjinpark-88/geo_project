@@ -1,0 +1,237 @@
+{
+  "sections": [{
+    "text": "S Online supplementary data available from stacks.iop.org/ERL/9/104012/mmedia\nKeywords: volcano–climate interactions, CMIP5, precipitation, short-wave geoengineering, climate models, hydrological cycle, climate variability"
+  }, {
+    "heading": "1. Introduction",
+    "text": "Global precipitation has been found to decrease for a couple of years following large explosive volcanic eruptions (e.g. Robock and Liu 1994, Trenberth and Dai 2007, Schneider et al 2009, Gu et al 2007, Gu and Adler 2011, Broccoli et al 2003, Iles et al 2013). These eruptions inject SO2 into the stratosphere, where it is converted to sulphate aerosols. The aerosols spread out globally over subsequent months following tropical eruptions, or over the hemisphere of eruption for high latitude eruptions, and reflect incoming solar radiation (e.g. Robock 2000, Timmreck 2012 and references therein). This causes widespread surface and tropospheric cooling, lasting a few years, along with changes in atmospheric circulation and precipitation (e.g. Robock and Liu 1994, Robock 2000 and references therein, Gillett et al 2004, Trenberth and Dai 2007, Joseph and Zeng 2011, Driscoll et al 2012, Timmreck 2012 and references therein). This decrease in global mean precipitation is due to a reduction in short-wave radiation reaching the surface, reducing evaporation, stabilizing the atmosphere and reducing the saturation mixing ratio of the air (Bala et al 2008, Cao et al 2012). In addition, a cooler atmosphere undergoes less radiative cooling to space, which allows less condensation and precipitation to occur (Allan and Ingram 2002, O’Gorman et al 2012). Circulation changes following eruptions modulate this global decrease on a regional scale, e.g. in monsoon regions (e.g. Schneider et al 2009, Joseph and Zeng 2011, Peng et al 2010, Cao et al 2012). There is also a tendency towards a positive phase of the North Atlantic Oscillation (NAO) in the winter following low latitude eruptions with associated winter warming over northern hemisphere continents, although this response is relatively noisy (e.g. Robock and Mao 1992, 1995, Hegerl et al 2011). The NAO response is not well captured by climate models (Stenchikov et al 2006, Driscoll et al 2012, Charlton-Perez et al 2013).\nContent from this work may be used under the terms of the Creative Commons Attribution 3.0 licence. Any further\ndistribution of this work must maintain attribution to the author(s) and the title of the work, journal citation and DOI.\n1748-9326/14/104012+10$33.00 © 2014 IOP Publishing Ltd1\nIles et al (2013) (hereafter I13) investigated the precipitation response to volcanic eruptions using last millennium simulations with HadCM3 and compared the response for twentieth century eruptions to observational land precipitation data. They found a significant reduction in global and wet tropical regions precipitation in both the model and observations, whilst dry tropical ocean regions got significantly wetter in the model. This dry get wetter and wet get drier pattern is the opposite of the global warming response and is linked to changes in transport associated with the Hadley circulation (e.g. Held and Soden 2006, Trenberth 2011). Monsoon regions dried (see also Joseph and Zeng 2011, Schneider et al 2009, Trenberth and Dai 2007), with the exception of SE Asia in the observations. The precipitation response lasted longer over ocean than land in the model (see also Joseph and Zeng 2011). The modelled influence of volcanic forcing was detectable in the observations in the boreal cold season, although the magnitude appeared to be underestimated by the model. In contrast, the response to volcanic eruptions was only marginally detectable in the warm season. The model underestimate agreed with previous detection studies that identified a detectable land precipitation response (Lambert et al 2004, 2005, Gillett et al 2004).\nHere we investigate whether the main findings of I13 are consistent with results using the CMIP5 models, many of which have higher horizontal and vertical resolutions and extend higher into the stratosphere than HadCM3. Furthermore, whilst I13 only used observational data over land, here we use an additional satellite-gauge dataset to investigate whether the long-lasting ocean response found in HadCM3, along with the wettening response in the dry tropical ocean regions are supported by observations. Finally we examine whether the CMIP5 models underestimate the precipitation response to volcanism, testing sensitivity to using alternative observational datasets."
+  }, {
+    "heading": "2. Data",
+    "text": ""
+  }, {
+    "heading": "2.1. Model data",
+    "text": "We downloaded all twentieth century historical runs from the CMIP5 archive that were available in December 2012 and contain volcanic forcing (see table S1). These are also forced by observed records of other natural and anthropogenic forcings, such as solar variability, greenhouse gases and land use change (see Taylor et al (2012) for details). There is no recommended volcanic forcing dataset, but many modelling groups use Ammann et al (2003), its update (Ammann et al 2007) or an updated version of Sato et al (1993) (available at data.giss.nasa.gov/modelforce/strataer) (see table S1). We did not include HadCM3 in the analysis, for sake of comparison with I13. Multi-model means are constructed by averaging over all 88 available runs, even where there are differing numbers of runs per model. Using only a single simulation for each model yielded qualitatively similar results."
+  }, {
+    "heading": "2.2. Observational data",
+    "text": "As in I13. we used two land precipitation datasets based on gauge data, and additionally a shorter combined satellitegauge record. There are substantial differences in the methods of construction between the datasets, allowing some assessment of the robustness of results to observational uncertainty. The first is the Global Precipitation Climatology Centre’s (GPCC) Full Data Reanalysis Version 6 (Becker et al 2013), which is a 2.5 × 2.5° gridded global land precipitation dataset extending from 1901–2010. It is spatially interpolated, resulting in full land coverage and is based on a very large number of station records (67 200 stations with at least ten years of data).\nThe second is an updated version of that detailed in Zhang et al (2007) (hereafter Z07), used in I13. This is a 5 × 5° gridded dataset covering the period 1900–2009. It is based on a subset of stations from the Global Historical Climatology Network’s second dataset (Vose et al 1992) that have at least 25 years of data in the 1961–1990 base period and at least five years of data in every decade from 1950–1999. Z07 does not rely on spatial interpolation, yielding a dataset with less spatial coverage, but that is more homogeneous and constrained by stations than GPCC.\nFinally we used the 2.5 × 2.5° version of the Global Precipitation Climatology Project (GPCP) combined satellitegauge dataset (Adler et al 2003). This dataset is spatially complete and, unlike the other two datasets, includes ocean coverage. The dataset begins in 1979, since when there have been only two major eruptions, and only one since the introduction of a microwave based sensor in 1987 which has improved retrieval accuracy relative to the pre-microwave era."
+  }, {
+    "heading": "3. Methods",
+    "text": ""
+  }, {
+    "heading": "3.1. Epoch analysis",
+    "text": "As in I13 we used ‘epoch analysis’, which involves averaging across the precipitation response to several volcanic eruptions in order to reduce internal variability. We used the five largest eruptions since 1900, as defined by global mean aerosol optical depth (AOD): the 1902 Santa Maria eruption: Novarupta in 1912: Agung 1963: El Chichon 1982 and Pinatubo 1991 (table S2, figure 3(b)). For each grid cell and eruption, anomalies for each of the ten years following an eruption, or up until the next eruption if that occurred first, were calculated with respect to a five year pre-eruption mean, to account for multidecadal changes in precipitation due to long-term trends or low frequency variability. We then averaged across all the eruptions available for each grid cell before spatial averaging. Where an eruption occurred too close to the beginning of a dataset (e.g., 1902), a shorter preeruption mean was used (see SI). Following I13, we use half year seasons: the boreal cold season (November to April, NDJFMA), and boreal warm season (May–October, MJJASO). ‘Year 1’ denotes the season in question commencing after the eruption date, in order to give aerosols time\n2\nEnviron. Res. Lett. 9 (2014) 104012 C E Iles and G C Hegerl\nto spread globally (table S2). Where annual data are used for epoch analysis, year 1 is defined as starting three complete months after the eruption date (table S2).\nAs in I13, significance of results was tested using a Monte–Carlo technique, in which the analysis is repeated 10 000 times using randomly selected years as eruption years (except for CMIP5 masked to Z07, and composite maps, where 1000 cycles were used due to computational constraints). 5–95% Confidence intervals were then calculated from the distribution of these results (see I13 for more detail). Since GPCP has very limited temporal coverage (33 years), we obtained a second set of confidence intervals for it using the CMIP5 runs: for each region we combined the last 33 years of each run into one long time series after converting to anomalies and rescaling each run’s standard deviation to the standard deviation of GPCP (which tends to be larger over oceans). We then performed Monte–Carlo analysis on this new time series (see SI for detail).\nAs in I13, where wet or dry tropical regions are referred to, wet regions are defined as the wettest third of grid cells between 40°N and 40°S, and the dry regions are the remaining two thirds based on climatological precipitation (using the base period 1961–1990 for CMIP5 and Z07, the normals supplied with the dataset for GPCC (see Becker et al 2013) and 1979–2010 for GPCP). These regions are fixed through time (see I13) and are defined separately for each season, model run and observational dataset and after any masking according to land or ocean, or observational data coverage."
+  }, {
+    "heading": "3.2. Removing the influence of ENSO",
+    "text": "The El Nino Southern Oscillation (ENSO) is associated with reduced precipitation over land and increased precipitation over the ocean for its positive phase, and vice versa for la Nina (e.g. Gu et al 2007, Gu and Adler 2011, Liu et al 2012). The 1991 Pinatubo, 1982 El Chichon, and 1963 Agung eruptions were all followed by El Nino events, albeit a weak one for Agung. Therefore, we repeat the analysis for the observational precipitation datasets after linearly removing the influence of ENSO. As in I13 we use the cold tongue index (CTI) as a measure of ENSO variability and calculate a regression coefficient for each grid cell and season between the detrended time series of CTI and precipitation, avoiding years 0–5 following an eruption. Note that this leaves only a limited number of ENSO events for the regression, particularly for GPCP, hence the removal of ENSO is somewhat noisy in that case (excluding fewer years following eruptions for GPCP did not improve results). We then subtract ENSO related precipitation from the precipitation time series at each gridpoint to arrive at a precipitation dataset with ENSO influence (at least partially) removed. We did not remove ENSO from the models since its signal should average out across the large number of simulations when constructing the multi-model mean."
+  }, {
+    "heading": "4. Results",
+    "text": "Figure 1 shows the time series of twentieth century precipitation for 50°N–50°S for land (b), ocean (c) and the two combined (a) for the CMIP5 models compared to observations. Latitudes poleward of 50o are excluded to avoid biases in GPCP over the high latitudes in winter, particularly over oceans (Adler et al 2012), although results using the whole globe are very similar (not shown). A clear decrease in precipitation following volcanic eruptions can be seen in the multi-model mean, particularly over oceans; and over land and ocean combined. This is also reflected in a lowering of the ensemble envelope. Over land the modelled response is noisier but still visible. The observed response is less clear, although a decrease in land precipitation can be seen following the 1991, 1982 and 1912 eruptions in all datasets. The observed datasets appear well correlated over land over the more recent period, but agree less well further back in time (see also Polson et al 2013). Over ocean GPCP shows a noisy\n3\nEnviron. Res. Lett. 9 (2014) 104012 C E Iles and G C Hegerl\ndecrease around the time of Pinatubo in 1991, although this commenced before the eruption, and no response after El Chichon in 1982. Figures 2(a), (b) shows the CMIP5 multi-model mean spatial patterns of precipitation response averaged across all five eruptions for the two years following eruptions. Patterns are similar to those found in HadCM3 in I13. The Asian,\n4\nAustralian, African and North and South American monsoon regions dry in their respective warm seasons, whilst surrounding areas get wetter and the extratropics get drier on average. There appears to be a southward shift of the ITCZ over the Atlantic and Pacific oceans in MJJASO. Neither the multi-model mean (figure 2(a)) nor individual models (figure S1) show any evidence for a precipitation pattern suggestive of a positive NAO in NDJFMA, consistent with Driscoll et al (2012) and Charlton-Perez et al (2013). The modelled response lasts until year 2 over land and until year 3 (figure S2) or 4 (not shown) over ocean, although the response over the Pacific is less stable over time, as was also the case in HadCM3 in I13.\nThe observed precipitation response patterns match well between observational datasets, despite GPCP only covering two eruptions (figures 2(c)–(h)). Based on the results presented in I13, observed patterns are expected to be only marginally significant. These observed patterns are of much greater magnitude than the multi-model mean, probably due to the cancellation of noise in the latter. As in the models, the monsoon regions get drier following eruptions in the observations, although the exact location of these drying areas is slightly different and the Asian monsoon regions show a mixed response. Unlike in the models, there is a positive NAO precipitation pattern in NDJFMA in all the observed datasets (see Fischer et al 2007). Removing the ENSO influence generally makes little difference to results (figure S3). Comparing observations and models over ocean is more difficult since GPCP results are noisy, but both show a wettening signal in the east equatorial pacific and south pacific convergence zone along with a drying signal in the location of the ITCZ over the Atlantic in both seasons.\nPrevious studies have identified shifts in the position of the ITCZ in response to volcanic forcing (e.g. Schneider et al 2009, Haywood et al 2013). The ITCZ tends to move away from the cooler hemisphere. In order to keep upper tropospheric temperature gradients small within the tropics, the branch of the Hadley cell in the cooler hemisphere strengthens, transporting heat from the warmer hemisphere to the cooler one. Moisture, which is concentrated in the lower troposphere, is transported in the opposite direction, causing the ITCZ to shift away from the cooler hemisphere (Frierson and Hwang 2012, Hwang et al 2013, Kang et al 2008, 2009). For an eruption with a hemispherically symmetric aerosol cloud this causes the ITCZ to move less far into the summer hemisphere, since the summer hemisphere undergoes a greater volcanic cooling relative to the winter one (Yoshimori and Broccoli 2008, Schneider et al 2009). For asymmetric aerosol clouds Haywood et al (2013) found the ITCZ to shift away from the hemisphere with the greatest increase in AOD using HadGEM2-ES. We also find this shift in response to asymmetric forcing in CMIP5, for example a northward shift in both seasons following the southern hemisphere biased Agung eruption (figures S4 (a), (b)), and a southward shift following the northern hemisphere biased 1982 El Chichon (figures S4(c), (d)), 1902 Santa Maria and high latitude 1912 Novarupta eruptions (not shown), although these shifts are only clear in the multi model mean over ocean (figure S4).\nThese shifts cause a smaller decrease, or even increase in hemispheric mean precipitation in the hemisphere with fewer aerosols (figure 3). As most of the twentieth century eruptions had stronger aerosol loadings in the NH, the average response resembles such eruptions (figure 2).\nFigure 4 shows the post-volcanic precipitation response to the two most recent eruptions in GPCP compared to CMIP5 for various regions (the extratropics and dry tropical land regions are shown in figure S5). Results for CMIP5 using all five eruptions are very similar, but more highly significant (not shown). CMIP5 results are very similar to those using HadCM3 in I13; there is a significant decrease in precipitation in the multi-model mean for the global mean and wet tropical regions, over both land and ocean, and a significant increase over dry tropical ocean regions. As was the case for HadCM3, the ensemble mean response over ocean lasts longer than that over land and is smaller in magnitude. Whilst this long ocean precipitation response cannot be seen in all individual ensemble members when averaged over two eruptions (figures 4(e)–(h) grey lines), figure 5 demonstrates that it can be seen in every model when its ensemble mean is taken and the average over five eruptions is calculated. I13 found that the precipitation response over ocean matched the timescale of near-surface air temperature response, suggesting that the ocean precipitation response is driven by changes in sea surface temperature. Over land, precipitation reacted faster than temperature, instead matching the timescale of AOD and a reduction in land-ocean temperature contrast, implying a directly forced component and possible contributions from weakening monsoons respectively.\nOver land (figures 4(a)–(d)), there is a significant decrease in observed precipitation in NDJFMA both in the global mean and the wet tropics, independently of the statistical test employed. This result is not sensitive to the removal of ENSO (figure 4), to observational uncertainties (figure S6), or the number of eruptions included in the analysis (2 or 5) (figure S6). While the multi-model mean underestimates the observed response, the latter remains within the ensemble envelop. In MJJASO, the decrease in global and wet tropical regions precipitation is not robust.\nOver ocean (figures 4(e)–(j)) GPCP precipitation only really follows model expectations in the cold season, including a significant decrease in the wet tropical regions and a significant increase in the dry tropical regions. Global mean ocean precipitation only decreases once the influence of ENSO is removed. Observed variability is greater in magnitude than that of CMIP5. In the warm season, observed precipitation increases for the global mean and wet tropics contrary to model expectations. An increase in precipitation can be seen in the dry regions as expected, but this is not robust to choice of statistical test or the removal of ENSO. Some of the secondary peaks several years after the eruption in the observations may be due to incomplete removal of ENSO from GPCP (see section 3.2). For example, the peaks in year 7 in NDJFMA coincide with the 1998 El Nino event, and the spatial patterns suggest some El Nino influence even after ENSO removal (not shown).\n5\nEnviron. Res. Lett. 9 (2014) 104012 C E Iles and G C Hegerl\nFigure 6 shows the precipitation response in the monsoon regions in GPCC and CMIP5 averaged across five eruptions. Monsoon rainfall is of great importance to people living in these regions. Monsoon regions are defined following Hsu et al (2011) (see methods details in SI) and are shown in figure S7. These regions constitute a substantial part of the wet tropical regions used above, but also include some areas outside (figure S7). A significant decrease in monsoon rainfall can be seen in the southern hemisphere monsoon regions (South American, African and Australian monsoon regions) in austral summer in both the multi-model mean and observations (figure 6(a)). The observed response is not robust to the removal of ENSO. Whilst precipitation also decreases significantly in the multi model mean for the northern hemisphere monsoon regions in boreal summer (Asian, African and North American monsoon regions), the decrease seen in the observations is not significant (figure 6(b)).\nFinally we perform a detection analysis as described in I13 to determine whether the overall response is significant and whether or not the models and data are consistent (figure 7). We first split the global land response into the northern hemisphere extratropics, wet tropical and dry tropical regions to yield a 3 element vector for each year following the eruptions that characterizes the volcanic response. The southern hemisphere extratropics are excluded due to their limited land area. For GPCP a four element vector is used consisting of dry tropical ocean regions, dry tropical land regions, wet tropical ocean regions, and wet tropical land regions. Extratropics are not used in the main analysis for GPCP to avoid less reliable high latitude data (however, results are robust to including the extratropics, see figure S8). For each year following the eruptions we regress this 3 (land\ndata) or 4 (GPCP) element vector of the observed response averaged across all five eruptions (2 for GPCP) against the equivalent for the multi-model mean fingerprint. This yields a regression coefficient, or scaling factor which indicates whether the modelled response is bigger or smaller than that observed for each year post-eruption. For land data, the model data was first masked according to the data coverage of the observational dataset to which it is being compared. We test whether or not scaling factors are significantly different from those expected by chance through conducting a Monte–Carlo analysis using random years for the observations as discussed above and regressing against the multi-model mean fingerprint. We then calculate 5–95% confidence intervals for the scaling factors. When a scaling factor exceeds the 95th percentile, it is large enough to be unlikely to occur due to climate variability, and the volcanic influence is said to be detected. We repeat the analysis using individual ensemble members instead of the observations, regressing against the mean of the remaining ensemble members to establish whether or not the observed response is consistent with the models. Results are also presented for years 1 and 2 combined, since this is when the clearest response is expected based on the multi-model mean response (figures 4 and S5).\nFigure 7 shows that the influence of volcanism is detectable (5% significance level) in NDJFMA in year 1 and years 1 and 2 combined in all three datasets. The large regression coefficients in these years suggest that CMIP5 underestimates the magnitude of the response, as HadCM3 also did to a greater extent in I13. In these years less than 5% of the ensemble members exhibit a response as big as that observed in almost all cases, suggesting that the model underestimate is significant. In MJJASO the volcanic influence is only detectable at the 90% level in most datasets in these years. The magnitude of the observed coefficients agrees better with those of the models in MJJASO.\nWith the influence of ENSO regressed out from the observations, the volcanic influence is still detectable at the 95% level in NDJFMA in year 1 and years 1 and 2 combined in Z07 and GPCP, but not GPCC, which is based on more data but uses interpolation (see discussion in Polson et al 2013). The magnitude of the coefficients decreases when removing ENSO, suggesting that ENSO was partly responsible for the large scaling factors in figure 7(a). In MJJASO removing ENSO decreases detectability making results marginal."
+  }, {
+    "heading": "5. Conclusions",
+    "text": "In this study we investigate whether the main features of the precipitation response to large explosive volcanic eruptions found by I13 using HadCM3 are consistent with the response simulated by the CMIP5 models. We also extend their analysis by comparing the modelled response to a satellite-gauge dataset which includes ocean coverage, allowing us to test whether the long-lasting ocean precipitation response found in HadCM3, and the wettening response in the dry tropical ocean regions are supported by observations. Finally, we\n6\nEnviron. Res. Lett. 9 (2014) 104012 C E Iles and G C Hegerl\n7 Environ. Res. Lett. 9 (2014) 104012 C E Iles and G C Hegerl\nexamine whether the model underestimate of the precipitation response found in I13 is also seen in the CMIP5 models, testing sensitivity to choice of dataset.\nThe main features of the precipitation response to volcanic eruptions in the CMIP5 models are consistent with those found in HadCM3 by I13. This includes a significant decrease in global, extratropical (see SI) and wet tropical regions precipitation over both land and ocean, and a significant wettening response over dry tropical ocean regions. The ocean response was longer-lived than that over land in all models with more than one ensemble member. Monsoon regions dried significantly in agreement with other studies (e.g. Joseph and Zeng 2011, Schneider et al 2009), whilst the ITCZ moved away from the hemisphere with the greatest concentration of aerosols in the multi-model mean in agreement with Haywood et al (2013). We use observed gaugebased data over land; and additionally a combined satellitegauge dataset (GPCP) to examine the observed precipitation\nFigure 5. Ensemble mean annual mean global ocean (a) and land (b) precipitation response to five eruptions for each model. The number of ensemble members used for each model ensemble mean is shown in brackets in the legend. Dashed lines are used where there is only a single ensemble member.\nFigure 6.Monsoon precipitation response averaged over five eruptions in CMIP5 compared with GPCC gauge-based land precipitation data. (a) Southern hemisphere monsoon regions (i.e. South American, African and Australian monsoons) in austral summer (NDJFMA), (b) Northern Hemisphere monsoon regions (i.e. North American, African and Asian monsoons) in boreal summer (MJJASO). GPCC is shown in dark green, light green once ENSO is removed; CMIP5 multi-model mean is shown in black and individual runs in grey. Vertical black line denotes timing of eruptions. Dashed lines are 5–95% confidence intervals, dark green for GPCC and light green for GPCC with ENSO influence removed. Yellow shading denotes years in which the multi-model mean response is significant. If the 10–90% confidence intervals are used the observed response in MJJASO becomes significant in year one (10% significance level based on one sided test), as does the response with ENSO removed in NDJFMA year 1 (not shown).\n8\nEnviron. Res. Lett. 9 (2014) 104012 C E Iles and G C Hegerl\nresponse over oceans. Results using GPCP were noisy due to the short record length, covering only two eruptions. Nevertheless, over land a decrease in global and wet tropical regions precipitation following eruptions could be seen as expected, and this was significant in NDJFMA. Monsoon regions got drier in their respective warm season, with the exception of SE Asia, and this response was significant against internal variability across the southern hemisphere monsoon regions in austral summer, but was not robust for the northern hemisphere monsoon regions in boreal summer. There was a positive NAO response in winter. Regional mean findings were broadly consistent when alternative observational datasets were used, whilst spatial patterns were very similar. Over ocean, observed results were noisy, but the wet tropical ocean regions got significantly drier, and the dry regions significantly wetter as expected in NDJFMA, although with a larger magnitude than any individual ensemble member. It was not possible to determine whether the long ocean response seen in the models was confirmed by observations due to the noisy nature of GPCP results. Bringing all regions with expected changes in precipitation together, a detection analysis found the modelled influence of\nvolcanism on precipitation was detectable in years 1 + 2 combined and year 1 following eruptions in NDJFMA in all observational datasets, and was marginally detectable in MJJASO in these same years. The response in NDJFMA was significantly underestimated by the models, particularly in the wet tropical regions. Removing the influence of ENSO brought the amplitude of the response in models and observations into better agreement, particularly in NDJFMA.\nWhen the next large volcanic eruption occurs, which is likely to be in the next few decades based on the historical record (Crowley et al 2008), the satellite record will be extremely valuable in further constraining the observed response, particularly over oceans."
+  }, {
+    "heading": "Acknowledgments",
+    "text": "The precipitation data supporting this study are available from the Global Precipitation Climatology Centre (www.dwd.de/), the World Climate Research Program’s (WCRP) Global Precipitation Climatology Project (www.gewex.org/gpcp. html) and by request from Xuebin Zhang at the Climate Research Division, Environment Canada for the Zhang et al (2007) dataset. We acknowledge the WCRP’s Working Group on Coupled Modelling, which is responsible for CMIP, and we thank the climate modelling groups for producing and making available the model output listed in table S1, which is available at http://pcmdi9.llnl.gov/esgf-web-fe/. For CMIP the US Department of Energy’s Program for Climate Model Diagnosis and Intercomparison provides coordinating support and led development of software infrastructure in partnership with the Global Organization for Earth System Science Portals. We thank D Polson for discussion and assistance with data. We would also like to thank two anonymous reviewers for their helpful comments and suggestions. G Hegerl is supported by the NERC Project PAGODA (Grant Number NE/I006141/1) and an ERC advanced grant (320691). C Iles is supported by a NERC studentship and the ERC advanced grant."
+  }],
+  "year": 2014,
+  "references": [{
+    "title": "The version 2 global precipitation climatology project (GPCP) monthly precipitation analysis (1979–present",
+    "authors": ["F Adler R"],
+    "venue": "J. Hydrometeorol",
+    "year": 2003
+  }, {
+    "title": "Constraints on future changes in climate and the hydrologic cycle Nature",
+    "authors": ["R Allen M", "J Ingram W"],
+    "venue": "(GPCP) J. Appl. Meteorol. Climatol",
+    "year": 2002
+  }, {
+    "title": "Impact of geoengineering schemes on the global hydrological cycle",
+    "authors": ["G Bala", "B Duffy P", "E Taylor K"],
+    "venue": "Proc. Natl. Acad. Sci. USA,",
+    "year": 2008
+  }, {
+    "title": "A description of the global land-surface precipitation data products of the Global Precipitation Climatology Centre with sample applications including centennial (trend) analysis from 1901–present Earth",
+    "authors": ["A Becker", "P Finger", "A Meyer-Christoffer", "B Rudolf", "K Schamm", "U Schneider", "M Ziese"],
+    "year": 2013
+  }, {
+    "title": "Twentieth-century temperature and precipitation trends in ensemble climate simulations including natural and anthropogenic forcing",
+    "authors": ["J Broccoli A", "W Dixon K", "L Delworth T", "R Knutson T", "J Stouffer R", "R Zeng F"],
+    "venue": "J. Geophys. Res",
+    "year": 2003
+  }, {
+    "title": "Climate response to changes in atmospheric carbon dioxide and solar irradiance on the time scale of days to weeks",
+    "authors": ["L Cao", "G Bala", "K Caldeira"],
+    "venue": "Environ. Res. Lett",
+    "year": 2012
+  }, {
+    "title": "On the lack of stratospheric dynamical variability in low-top versions of the CMIP5 models",
+    "authors": ["J Charlton-Perez A"],
+    "venue": "J. Geophys. Res. Atmos",
+    "year": 2013
+  }, {
+    "title": "Robock A and Stenchikov G 2012 Coupled Model Intercomparison Project 5 (CMIP5) simulations of climate following volcanic eruptions",
+    "authors": ["S Driscoll", "A Bozzo", "J Gray L"],
+    "venue": "J. Geophys. Res",
+    "year": 2012
+  }, {
+    "title": "European climate response to tropical volcanic eruptions over the last half millennium",
+    "authors": ["M Fischer E", "J Luterbacher", "E Zorita", "B Tett S F", "C Casty", "H Wanner"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2007
+  }, {
+    "title": "Detection of volcanic influence on global precipitation Geophs",
+    "authors": ["P Gillett N", "J Weaver A", "W Zwiers F", "F Wehner M"],
+    "venue": "Res. Lett",
+    "year": 2004
+  }, {
+    "title": "Precipitation and temperature variations on the interannual time scale: Assessing the impact of ENSO and volcanic eruptions",
+    "authors": ["G Gu", "F Adler R"],
+    "venue": "J. Clim",
+    "year": 2011
+  }, {
+    "title": "Tropical rainfall variability on interannual-to-interdecadal and longer time scales derived from the GPCP monthly product",
+    "authors": ["J Gu G", "F Adler R", "J Huffman G", "S Curtis"],
+    "venue": "J. Clim",
+    "year": 2007
+  }, {
+    "title": "Asymmetric forcing from stratospheric aerosols impacts Sahelian rainfall Nat",
+    "authors": ["M Haywood J", "A Jones", "N Bellouin", "D Stephenson"],
+    "venue": "Clim. Change",
+    "year": 2013
+  }, {
+    "title": "Influence of human and natural forcing on European seasonal temperatures",
+    "authors": ["G Hegerl", "J Luterbacher", "F Gonzalez-Rouco", "B Tett S F", "T Crowley", "E Xoplaki"],
+    "venue": "Nat. Geosci",
+    "year": 2011
+  }, {
+    "title": "Robust responses of the hydrological cycle to global warming",
+    "authors": ["M Held I", "J Soden B"],
+    "venue": "J. Clim",
+    "year": 2006
+  }, {
+    "title": "Trends in global monsoon area and precipitation over the past 30 years",
+    "authors": ["P Hsu", "T Li", "B Wang"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2011
+  }, {
+    "title": "Anthropogenic sulfate aerosol and the southward shift of tropical precipitation in the late 20th century",
+    "authors": ["Y-T Hwang", "W Frierson D M", "M Kang S"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2013
+  }, {
+    "title": "The effect of volcanic eruptions on global precipitation",
+    "authors": ["E Iles C", "C Hegerl G", "P Schurer A", "X Zhang"],
+    "venue": "J. Geophys. Res",
+    "year": 2013
+  }, {
+    "title": "Seasonally modulated tropical drought induced by volcanic aerosol",
+    "authors": ["R Joseph", "N Zeng"],
+    "venue": "J. Clim",
+    "year": 2011
+  }, {
+    "title": "The tropical response to extratropical thermal forcing in an idealized GCM",
+    "authors": ["M Kang S", "W Frierson D M", "M Held I"],
+    "year": 2009
+  }, {
+    "title": "The response of the ITCZ to extratropical thermal forcing: idealized slab-ocean experiments with a GCM",
+    "authors": ["M Kang S", "M Held I", "W Frierson D M", "M Zhao"],
+    "venue": "J. Clim",
+    "year": 2008
+  }, {
+    "title": "Attribution studies of observed land precipitation changes with nine coupled models Geophys",
+    "authors": ["H Lambert F", "P Gillett N", "A Stone D", "C Huntingford"],
+    "year": 2005
+  }, {
+    "title": "Co-variation of temperature and precipitation in CMIP5 models and satellite observations Geophys",
+    "authors": ["C Liu", "P Allan R", "J Huffman G"],
+    "venue": "Res. Lett",
+    "year": 2012
+  }, {
+    "title": "Energetic constraints on precipitation under climate change",
+    "authors": ["A O’Gorman P", "P Allan R", "P Byrne M", "M Previdi"],
+    "venue": "Surv. Geophys",
+    "year": 2012
+  }, {
+    "title": "Response of summer precipitation over eastern China to large volcanic eruptions",
+    "authors": ["Y Peng", "C Shen", "C Wang W", "Y Xu"],
+    "venue": "J. Clim",
+    "year": 2010
+  }, {
+    "title": "Causes of robust seasonal land precipitation changes",
+    "authors": ["D Polson", "C Hegerl G", "X Zhang", "J Osborn T"],
+    "venue": "J. Clim",
+    "year": 2013
+  }, {
+    "title": "The volcanic signal in Goddard Institute for Space Studies three-dimensional model simulations",
+    "authors": ["A Robock", "Y Liu"],
+    "venue": "J. Clim",
+    "year": 1994
+  }, {
+    "title": "Winter warming from large volcanic eruptions",
+    "authors": ["A Robock", "J Mao"],
+    "venue": "Geophys. Res. Lett",
+    "year": 1992
+  }, {
+    "title": "The volcanic signal in surfacetemperature observations",
+    "authors": ["A Robock", "P Mao J"],
+    "venue": "J. Clim",
+    "year": 1995
+  }, {
+    "title": "Stratospheric aerosol optical depths, 1850–1990",
+    "authors": ["M Sato", "E Hansen J", "P McCormick M", "B Pollack J"],
+    "venue": "J. Geophys. Res",
+    "year": 1993
+  }, {
+    "title": "Climate response to large, high-latitude and low-latitude volcanic eruptions in the community climate system model",
+    "authors": ["P Schneider D", "M Ammann C", "L Otto-Bliesner B", "S Kaufman D"],
+    "venue": "J. Geophys. Res",
+    "year": 2009
+  }, {
+    "title": "Arctic oscillation response to volcanic eruptions in the IPCC AR4 climate models",
+    "authors": ["G Stenchikov", "K Hamilton", "J Stouffer R", "A Robock", "V Ramaswamy", "B Santer", "F Graf H"],
+    "venue": "J. Geophys. Res",
+    "year": 2006
+  }, {
+    "title": "A 2012 An overview of CMIP5 and the experiment design",
+    "authors": ["E Taylor K", "J Stouffer R", "G Meehl"],
+    "venue": "Bull. Am. Meteorol. Soc",
+    "year": 2012
+  }, {
+    "title": "Modeling the climatic effects of large explosive volcanic eruptions",
+    "authors": ["C Timmreck"],
+    "venue": "WIREs Clim. Change",
+    "year": 2012
+  }, {
+    "title": "Changes in precipitation with climate change",
+    "authors": ["E Trenberth K"],
+    "venue": "Clim. Res",
+    "year": 2011
+  }, {
+    "title": "Effects of Mount Pinatubo volcanic eruption on the hydrological cycle as an analogue of geoengineering",
+    "authors": ["E Trenberth K", "A Dai"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2007
+  }, {
+    "title": "The Global Historical Climatology Network: long-term monthly temperature, precipitation, sea level pressure, and station pressure data ORNL/CDIAC-53",
+    "authors": ["S Vose R", "L Schmoyer R", "M Steurer P", "C Peterson T", "R Heim", "R Karl T", "J Eischeid"],
+    "year": 1992
+  }, {
+    "title": "Equilibrium response of an atmosphere-mixed layer ocean model to different radiative forcing agents: Global and zonal mean response",
+    "authors": ["M Yoshimori", "J Broccoli A"],
+    "venue": "J. Clim",
+    "year": 2008
+  }, {
+    "title": "Detection of human influence on twentieth-century precipitation trends Nature",
+    "authors": ["X Zhang", "W Zwiers F", "C Hegerl G", "H Lambert F", "P Gillett N", "S Solomon", "A Stott P", "T Nozawa"],
+    "year": 2007
+  }],
+  "id": "SP:acbb0d5fdd26d8270f116b543be1adce8e7225be",
+  "authors": [{
+    "name": "Carley E Iles",
+    "affiliations": []
+  }, {
+    "name": "Gabriele C Hegerl",
+    "affiliations": []
+  }],
+  "abstractText": "We examine the precipitation response to volcanic eruptions in the Coupled Model Intercomparison Project Phase 5 (CMIP5) historical simulations compared to three observational datasets, including one with ocean coverage. Global precipitation decreases significantly following eruptions in CMIP5 models, with the largest decrease in wet tropical regions. This also occurs in observational land data, and ocean data in the boreal cold season. Monsoon rainfall decreases following eruptions in both models and observations. In response to individual eruptions, the ITCZ shifts away from the hemisphere with the greater concentration of aerosols in CMIP5. Models undergo a longer-lasting ocean precipitation response than over land, but the response in the short satellite record is too noisy to confirm this. We detect the influence of volcanism on precipitation in all three datasets in the cold season, although the models underestimate the size of the response. In the warm season the volcanic influence is only marginally detectable. S Online supplementary data available from stacks.iop.org/ERL/9/104012/mmedia",
+  "title": "The global precipitation response to volcanic eruptions in the CMIP5 models"
+}

@@ -1,0 +1,384 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nEarth and Planetary Science Letters\nwww.elsevier.com/locate/epsl\nEvaluating Late Cretaceous OAEs and the influence of marine incursions on organic carbon burial in an expansive East Asian paleo-lake\nMatthew M. Jones a,∗, Daniel E. Ibarra b, Yuan Gao c, Bradley B. Sageman a, David Selby d, C. Page Chamberlain b, Stephan A. Graham e\na Department of Earth and Planetary Sciences, Northwestern University, Evanston, IL 60208, USA b Department of Earth System Science, Stanford University, Stanford, CA 94305, USA c State Key Laboratory of Biogeology and Environmental Geology, School of Earth Sciences and Resources, China University of Geosciences, Beijing, China d Department of Earth Sciences, Durham University, Durham, DH1 3LE, UK e Department of Geological Sciences, Stanford University, Stanford, CA 94305, USA\na r t i c l e i n f o a b s t r a c t\nArticle history: Received 17 June 2017 Received in revised form 18 November 2017 Accepted 20 November 2017 Available online 19 December 2017 Editor: D. Vance\nKeywords: Songliao Basin Oceanic Anoxic Event 3 (OAE3) carbon isotope chemostratigraphy initial osmium isotopes lacustrine biogeochemical cycling paleoclimate\nExpansive Late Cretaceous lacustrine deposits of East Asia offer unique stratigraphic records to better understand regional responses to global climate events, such as oceanic anoxic events (OAEs), and terrestrial organic carbon burial dynamics. This study presents bulk organic carbon isotopes (δ13Corg), elemental concentrations (XRF), and initial osmium ratios (187Os/188Os, Osi) from the Turonian–Coniacian Qingshankou Formation, a ∼5 Ma lacustrine mudstone succession in the Songliao Basin of northeast China. A notable δ13Corg excursion (∼+2.5 ) in organic carbon-lean Qingshankou Members 2–3 correlates to OAE3 in the Western Interior Basin (WIB) of North America within temporal uncertainty of high-precision age models. Decreases in carbon isotopic fractionation ( 13C) through OAE3 in the WIB and Songliao Basin, suggest that significantly elevated global rates of organic carbon burial drew down pCO2, likely cooling climate. Despite this, Osi chemostratigraphy demonstrates no major changes in global volcanism or weathering trends through OAE3. Identification of OAE3 in a lake system is consistent with lacustrine records of other OAEs (e.g., Toarcian OAE), and underscores that terrestrial environments were sensitive to climate perturbations associated with OAEs. Additionally, the relatively radiogenic Osi chemostratigraphy and XRF data confirm that the Qingshankou Formation was deposited in a non-marine setting. Organic carbon-rich intervals preserve no compelling Osi evidence for marine incursions, an existing hypothesis for generating Member 1’s prolific petroleum source rocks. Based on our results, we present a model for water column stratification and source rock deposition independent of marine incursions, detailing dominant biogeochemical cycles and lacustrine organic carbon burial mechanisms.\n© 2017 Elsevier B.V. All rights reserved."
+  }, {
+    "heading": "1. Introduction",
+    "text": "Upper Cretaceous marine strata preserve evidence for greenhouse warmth on a planet with high pCO2 (e.g., Pagani et al., 2014) and lacking sustained ice sheets (MacLeod et al., 2013). Oceanic anoxic events (OAEs) are superimposed on this stratigraphic record of excessive warmth, as relatively brief intervals (<1 Ma) of enhanced organic carbon burial in many basins globally\n* Corresponding author. E-mail addresses: matthewjones2012@u.northwestern.edu (M.M. Jones),\ndanieli@stanford.edu (D.E. Ibarra), yuangao@cugb.edu.cn (Y. Gao), b-sageman@northwestern.edu (B.B. Sageman), david.selby@durham.ac.uk (D. Selby), chamb@stanford.edu (C.P. Chamberlain), sagraham@stanford.edu (S.A. Graham).\nhttps://doi.org/10.1016/j.epsl.2017.11.046 0012-821X/© 2017 Elsevier B.V. All rights reserved.\n(Jenkyns, 2010 and references therein) accompanied by positive stable carbon isotope excursions (CIEs) (Scholle and Arthur, 1980). Precise correlations of terrestrial and marine records are critical for developing a unified Late Cretaceous paleoclimate reconstruction and understanding the terrestrial response to OAEs, as well as for testing hypotheses for the causal mechanisms of OAEs. However, such correlations are complicated in terrestrial basins due to the common occurrence of hiatuses, lateral heterogeneity in lithofacies, and limited biostratigraphic age control. Despite challenges, some workers have employed carbon isotope (δ13C) chemostratigraphy to identify Mesozoic OAEs in terrestrial strata and assess local paleoclimate responses (e.g., OAE2, Barclay et al., 2010; OAE1a, Ludvigson et al., 2010). Although comparatively rare in the geologic record, lacustrine facies offer promise in reconstructing robust ter-\nrestrial paleoclimate records given relatively continuous, expanded mudstone successions. Paleo-lakes are also suitable for testing hypotheses about OAEs’ triggering mechanisms, such as accelerated weathering, and for better resolving regional environmental responses (e.g., Toarcian OAE: Xu et al., 2017).\nIn the non-marine Songliao Basin of northeast China, the SK1-S core provides a relatively continuous Late Cretaceous stratigraphic record from lacustrine and fluvial units influenced by local tectonic and climatic conditions (Fig. 1) (Wang et al., 2013). In addition, the organic carbon-rich mudstones of the Turonian–Coniacian Qingshankou Member 1 are primary petroleum source rocks in China’s largest and longest producing non-marine oil and gas basin (Feng et al., 2010). As a result, the depositional history of the Qingshankou Formation has been heavily studied and debated, with\nsome authors arguing that episodic incursions of marine waters during Member 1 drove water column stratification in the basin creating conditions favorable to preservation of organic carbon (e.g., Hou et al., 2000). More recently, the sporadic presence of biomarkers typical of marine algae and sponges in Member 1 and lowermost Members 2 and 3 (Hu et al., 2015), and pyrite sulfur isotopic records in Member 1 of SK1-S (Huang et al., 2013) have been interpreted as evidence for transient or even prolonged marine connections. However, the marine incursion hypothesis for source rock deposition in Qingshankou Member 1 remains controversial, as paleogeographic reconstructions note considerable distances to the nearest marine waters (>500 km; Yang, 2013) (Fig. 1) and because no well-preserved uniquely marine micro- or macrofossils have been reported from the Qingshankou Formation in\nSK1-S (Xi et al., 2016). Others have interpreted a consistently nonmarine water body during the deposition of the Qingshankou Formation (Chamberlain et al., 2013).\nTo assess the influence of OAEs and marine incursions on lacustrine organic carbon burial rates in the dominantly terrestrial Songliao Basin (Wang et al., 2016a), we present sedimentary geochemical measurements of the expanded mudstones of the Qingshankou Formation. The new mid-Turonian to late-Coniacian δ13Corg records (this study; Hu et al., 2015) serve as a test of δ13Corg correlation robustness from an East Asian lacustrine basin to the epicontinental marine δ13Corg in the North American Western Interior Basin (WIB) (Joo and Sageman, 2014). Utilizing recently updated radioisotopic and astrochronologic age models (Locklair and Sageman, 2008; Wu et al., 2013; Sageman et al., 2014b; Wang et al., 2016b), we identify the Coniacian Oceanic Anoxic Event 3 (OAE3) in Qingshankou Members 2 and 3 and investigate the event in a lake system using geochemical proxies.\nCoupled with δ13C chemostratigraphy, we present an initial osmium isotope (187Os/188Os denoted as Osi) chemostratigraphy from the Songliao Basin to test the marine incursion hypothesis. The Osi data serve as a proxy for marine connectivity and basin restriction (e.g., Du Vivier et al., 2014), since values reflect a mixture of osmium derived from relatively homogenized open marine waters (Gannoun and Burton, 2014), mixing over geologically brief intervals (τ < 10 ka, Oxburgh, 2001; Rooney et al., 2016), and local continental weathered osmium which tends to be more radiogenic (higher Osi) (Peucker-Ehrenbrink and Ravizza, 2000). As a result, lacustrine formations, isolated from the marine osmium reservoir, generally preserve higher Osi values due to the flux of proximal radiogenic osmium and limited unradiogenic osmium fluxes (e.g., cosmogenic dust and hydrothermal sources) (Poirier and Hillaire-Marcel, 2011; Cumming et al., 2012; Xu et al., 2017), with the caveat that lacustrine basins weathering ophiolitic lithologies preserve more unradiogenic Osi (Kuroda et al., 2016). Thus, typical basins with a history of marine connections should record more non-radiogenic Osi when compared to contemporaneous lacustrine basins. To constrain open marine Osi values during deposition of Qingshankou Member 1, we present time correlative records from Turonian mudstones from the tropical North Atlantic. Furthermore, we interpret Osi records as one proxy for continental weathering intensity through Qingshankou Members 2 and 3 (OAE3 interval as demonstrated by this study) and other intervals of SK1-S lacking additional evidence for marine incursions. Finally, to characterize marine osmium cycling and potential perturbations across OAE3 (e.g., LIP volcanism, continental weathering), we present a third small Osi sample set from the Angus Core in the WIB (Denver Basin, Colorado).\nAdditionally, we present trace element (XRF) analyses spanning the Qingshankou Formation to reconstruct bottom-water redox conditions through major events in the lake’s evolution, such as source rock deposition in Member 1 and OAE3 in Members 2 and 3, using established interpretive frameworks (Tribovillard et al., 2006; Sageman et al., 2014a). To conclude, we propose a depositional model, independent of marine connections, to characterize lacustrine biogeochemical cycling during accumulation of the Qingshankou Formation. This model provides a footing for future research to further evaluate scenarios for water column stratification and organic carbon deposition in mid-latitude paleo-lakes discussed herein."
+  }, {
+    "heading": "2. Geologic materials SK1-S core",
+    "text": "The terrestrial Songliao Basin in northeast China preserves a long-lived Jurassic–Cretaceous stratigraphic record in a deep (>5 km) backarc rifted sag basin (Fig. 1) (Graham et al., 2001; Wang et al., 2013, 2016a). An International Continental Drilling\nProject coring campaign recovered a sedimentary succession spanning the mid-Turonian to Campanian in two overlapping cores (SK1-S and SK1-N) in 2009. Three fluvio-deltaic formations (oldest to youngest: Quantou, Yaojia, Sifangtai) separated by two thick lacustrine formations (Qingshankou, Nenjiang) comprise the succession. A chronostratigraphic framework has been developed for SK1-S based on lithostratigraphy (Gao et al., 2009; Wang et al., 2009), and biostratigraphy of ostracod, charophyte, and, in the lower Nenjiang Formation, foraminifera (Wan et al., 2013; Xi et al., 2016). Recently published high-precision zircon U–Pb dates (Wang et al., 2016b) and astrochronology (Wu et al., 2013) in the Turonian–Coniacian Qingshankou Formation, the stratigraphic focus of this study, provide precise temporal constraints (±181 ka) necessary for global correlation and the interpretation of proxy data in the context of global climate events such as OAEs. The Qingshankou Formation is sub-divided into the lower 93 m-thick organic-rich laminated mudstone in Member 1 (Gao et al., 2009) and the upper 395 m-thick undifferentiated grey shales of Members 2 and 3 (Wang et al., 2009)."
+  }, {
+    "heading": "3. Methods",
+    "text": ""
+  }, {
+    "heading": "3.1. Sampling and SK1-S timescale",
+    "text": "We collected samples from SK1-S for this study at roughly 5–10 m spacing through the upper Quantou, Qingshankou, and lower Yaojia formations from the China University of Geosciences Beijing core repository. For all Qingshankou Formation samples analyzed, we assign numerical ages by anchoring the floating astronomical time scale from SK1-S (Wu et al., 2013) to a CAID-TIMS U/Pb zircon dated bentonite horizon (Ash S1705m = 90.97 ± 0.12 Ma; Wang et al., 2016b) (Table A.1). Considering radioisotopic and astrochronologic sources of uncertainty, we calculate ±181 ka (2σ ) precision for the anchored SK1-S time scale (see Appendix for detailed discussion)."
+  }, {
+    "heading": "3.2. Carbon geochemistry",
+    "text": "We measured samples collected from the SK1-S Core for bulk organic carbon isotope ratios (δ13Corg), atomic carbon to nitrogen ratios (C/N), weight percent total organic carbon (TOC), and weight percent carbonate at Northwestern University (Appendix). Additionally, we measured a sample set from the Angus Core in the WIB for bulk carbonate carbon isotopes (δ13Ccarb) to calculate 13C (δ13Ccarb–δ13Corg) to approximate changes in carbon isotope fractionation across OAE3 and compare to 13C in the Songliao Basin (Appendix)."
+  }, {
+    "heading": "3.3. X-ray fluorescence (XRF)",
+    "text": "Methods outlined in the Appendix are used to measure major and minor trace element concentrations of sample powders."
+  }, {
+    "heading": "3.4. Initial osmium isotope analysis",
+    "text": "To measure hydrogenous Osi values, we analyzed ten samples from the Qingshankou Formation on a Thermo Scientific Triton thermal ionization mass spectrometer at Durham University via the established procedures of Selby and Creaser (2003) (see Appendix). We selected samples in Member 1 and lowermost Members 2 and 3 from horizons proposed to record biomarker evidence for marine incursions (Hu et al., 2015). Additionally, we analyzed samples from the Turonian-aged black shales of Site 1259 at Demerara Rise (Tropical North Atlantic ODP Leg 207) and Coniacian OAE3 interval in the Angus Core from the WIB. We present these sample sets to characterize open and epicontinental marine Osi\nvalues, respectively, for comparison with the coeval Qingshankou Formation record and to test the hypothesis of marine incursions into the Songliao Basin. To correct for post-depositional 187Re decay to 187Os (see Appendix), we assign numerical ages to samples using an age model at Demerara Rise (updated from Bornemann et al., 2008) and the existing Angus Core (Joo and Sageman, 2014) and SK1-S age models (Sect. 3.1)."
+  }, {
+    "heading": "4. Results",
+    "text": ""
+  }, {
+    "heading": "4.1. Bulk carbon chemistry TOC, C/N trends",
+    "text": "Weight percent TOC decreases upcore within the Qingshankou Formation from maximum values in the laminated Member 1, consistently above 2% and up to ∼8% TOC, to values in Members 2 and 3 that rarely exceed 1% TOC. In TOC-rich Member 1, C/N ratios are elevated (C/N = 8.5–25.6) above typical lacustrine algal values (C/N < 8; Meyers, 1994) (Fig. 2; see Table A.1). Occasionally, discrete horizons in Members 2 and 3 record elevated TOC spikes punctuating the background pattern of decaying TOC levels. These horizons are accompanied by increased C/N and enriched δ13Corg, with C/N (C/N = 15–25) approaching land-based vascular plant organic matter values (C/N > 25; Meyers, 1994) above the background lacustrine algal organic matter values. Additionally, new percent carbonate values are low, yet detectable throughout the studied interval (median = 6.9%, max = 22.5%) from scattered ostracods (Chamberlain et al., 2013; Wan et al., 2013)."
+  }, {
+    "heading": "4.2. Carbon isotopes",
+    "text": "Bulk organic carbon isotope values in the studied interval are highly variable (−24 to −32.5 ) (Fig. 2; Table A.1-2). Some of this variability corresponds to changing facies, such as comparatively enriched δ13Corg in fluvial facies of the Quantou and Yaojia Formations (generally δ13Corg > −27 ). However, lacustrine δ13Corg values are also highly variable. Samples from Qingshankou Member 1 are strongly depleted in bulk δ13Corg, with an average value of −30.61 (1σ SD = ±1.33 ) and minimum of −32.4 . Interestingly, the bulk δ13Corg of Member 1 is more depleted than both average Cretaceous marine (−27 to −29 ) and terrestrial (−24 to −25 ) end members (Arthur et al., 1985). The δ13Corg values of Members 2 and 3 are more enriched (median = −28.7 ). However, this interval preserves high δ13Corg variability (1σ SD ± 1.5 ). A sustained positive carbon isotope excursion (+3.0 to +4.5 ) is noted in Members 2 and 3 (1380–1440 m) corresponding closely to the timing of OAE3 as recorded by a +1 CIE in the WIB (Joo and Sageman, 2014). Smoothed 13C in SK1-S decreases up-core from the base of Member 1 from ∼36 to ∼31 , and further decreases by ∼ −3 through OAE3. In the Angus Core (WIB), smoothed 13C records a similar but lower magnitude decrease (∼ −0.5 ) through OAE3. In that interval, δ13Ccarb is relatively stable (1σ SD ± 0.19 ) with average δ13Ccarb values (+1.84 ) comparable to coeval values in the English Chalk reference curve (Jarvis et al., 2006)."
+  }, {
+    "heading": "4.3. XRF data",
+    "text": "Given that facies changes can significantly alter elemental chemistry of sediments, we limit discussion and interpretation of XRF data to the lacustrine facies of the Qingshankou Formation. Redox sensitive trace elements that accumulate in low oxygen conditions, such as Co, Cr, Ni, Pb, V, and Cu, show subtle to significant enrichment in the TOC-rich Qingshankou Member 1, whereas Mn, which remobilizes in anoxic environments, shows decreased concentrations (Table A.2). The V + Cr concentrations, a trace element proxy for nitrate reduction and low O2 (Sageman et al., 2014a), are significantly enriched in Member 1 (>200 ppm) above background values for the Qingshankou Formation (∼150 ppm) (Fig. 3).\nCopper concentrations spike at 1770 m and are strongly positively correlated with TOC (r2 = 0.87) and C/N (r2 = 0.73) in Member 1 (n = 7).\nSeveral trace elements and elemental ratios serve as proxies for water column euxinia where free hydrogen sulfide, a product of sulfate reduction, is present (Fig. 3) (Tribovillard et al., 2006). The V/(V + Ni) values, a proxy for anoxia and euxinia (Hatch and Leventhal, 1992), average 0.68–0.74 in the Qingshankou Formation with enrichments in Member 1 (0.74–0.77). Throughout the Qingshankou Formation the V/(V + Ni) ratios fall consistently into the non-sulfidic anoxic range. The concentrations of Mo, one of the most robust elemental indicators of euxinia, average 8 ppm (1σ SD ± 5 ppm, max [Mo] = 21.7 ppm) and show no no-\ntable increase in Qingshankou Member 1. Ratios of Mo/Al average 0.78 × 10−4 (1σ SD ± 0.48 × 10−4) exceed average shale values (0.32 × 10−4, Wedepohl, 1971) throughout most of the Qingshankou, suggesting authigenic enrichment. However, Mo/TOC is poorly correlated (r2 = 0.19) and reaches a minimum in the TOCrich Member 1. Despite high TOC, the S/Fe and Fe/Al ratios, which are known to increase with authigenic pyrite formation, do not increase in Member 1 (Fig. 3). Also, we calculate the chemical index of alteration (CIA), which is a proxy for weathering intensity (Table A.2; Fig. 3) (Nesbitt and Young, 1982). The carbonate corrected CIA is relatively stable throughout the Qingshankou Formation, although it does preserve a ∼10% decrease during the OAE3 CIE, typically indicative of decreased weathering intensity."
+  }, {
+    "heading": "4.4. Initial osmium isotope ratios",
+    "text": "The Osi from the Qingshankou Formation range between 0.66 and 0.96 (Figs. 2 and 6). Osmium concentrations are similar through the interval (192Os conc. = 7–17 ppt; Table A.1). Rhenium concentrations are generally higher in Qingshankou Member 1 (avg. Re conc. = 3.80 ppb, 1σ SD ± 0.18 ppb) than in Members 2 and 3 (avg. Re conc. = 1.99 ppb, 1σ SD ± 1.66 ppb), except for one point at 1325 m (Table A.1). The Osi values are the most radiogenic through the TOC-rich mudstones in the Member 1 (avg. Osi = 0.90, 1σ SD ± 0.05) (Fig. 6). In the lowermost Members 2 and 3, one sample at ∼1685 m yields a slightly less radiogenic value (Osi = 0.76) compared to the samples below (Osi = 0.87) and above (Osi = 0.91). Relatively stable (Osi range = 0.11) Osi values from the upper sample set in Qingshankou Members 2 and 3 characterize the SK1-S interval spanning OAE3. The Osi values in this interval are slightly less radiogenic (avg. Osi = 0.72) than in Qingshankou Member 1.\nA time correlative open marine section from ODP Site 1259 at Demerara Rise, yields samples highly enriched in osmium (192Os conc. = 31–366 ppt) and highly variable in rhenium concentrations (Re conc. range = 12–142 ppb) (Table A.1.1). The Osi values are more unradiogenic than values recorded in the Songliao Basin and are relatively stable over approximately 3 Ma, ranging between 0.55 and 0.71 (avg. Osi = 0.61, 1σ SD ± 0.06) (Figs. 2 and 6; Table A.1.1). The Osi samples from the marine WIB spanning OAE3 preserve no prominent excursion through the event (Osi = 0.54–0.58) and are highly enriched in osmium (192Os conc. = 136–260 ppt) and rhenium (Re conc. = 191–361 ppb)."
+  }, {
+    "heading": "5. Interpretation",
+    "text": ""
+  }, {
+    "heading": "5.1. Qingshankou Formation δ13Corg chemostratigraphy and OAE3",
+    "text": "Carbon isotope excursions have proven utility as isochronous horizons to correlate stratigraphic records globally (Jarvis et al., 2006; Wendler, 2013). However, a host of factors in a given sedimentary basin can alter bulk organic carbon isotopic ratios (δ13Corg) in addition to changes in the global carbon cycle, such as changing organic matter type and metabolic pathways. Our comparison of Gaussian kernel smoothed δ13Corg records from the Songliao Basin and WIB (Joo and Sageman, 2014) demonstrates one negative CIE, possibly the Bridgewick Event (Jarvis et al., 2006), and one positive CIE, OAE3 (also referred to as the Whitefall/Kingsdown CIEs), which broadly correspond in age and duration (Fig. 4). Despite similar CIE durations, we detect an offset of 330 ka after cross-correlation of the two basins’ anchored δ13Corg time series, with ages of the Songliao Basin CIEs being older than ages of the WIB CIEs (see Fig. A.1). This offset could arise from the presence of “reworked and/or detrital zircon” in radioisotopically dated samples of SK1-S (Wang et al., 2016b), or undetected Upper Turonian/Lower Coniacian hiatuses in SK1-S or the WIB\n(Sageman et al., 2014b). Although partially offset in age, we note that these CIEs overlap within temporal uncertainty of time scales in the Songliao Basin (±181 ka, Sect. 3.1) and in the WIB (e.g., Turonian/Coniacian Boundary = ±380 ka; Sageman et al., 2014b). Moreover, the similarity in the timing and duration of CIEs signifies agreement between East Asian and North American time scales, validating intercontinental comparison of geologic datasets (e.g., paleoclimatic, paleobiologic). We note that the CIEs are amplified in the lacustrine Songliao Basin (+3.0 to +4.5 ) compared to the marine WIB (∼ +1 ) (Joo and Sageman, 2014) and other marine δ13Ccarb records in the WIB (Tessin et al., 2015; this study) and elsewhere (Wagreich, 2012; Wendler, 2013, and references therein).\nThe identification of OAE3 within a lake system in the terrestrial Qingshankou Members 2 and 3 permits comparisons to marine records of the event aided by a highly resolved temporal framework. The lowest TOC levels in the Qingshankou Formation in SK1-S occur during OAE3 (Fig. 2). This is also the case for OAE2, since the event is preserved in the TOC-lean Quantou Formation in SK1-S (Chamberlain et al., 2013). Accordingly, we confirm that OAEs do not necessarily correspond to lake anoxic events in East Asian lake systems (Wu et al., 2013), and that these lakes were not significant organic carbon depocenters during OAEs. We infer that during OAE3, reduced primary productivity and/or enhanced bottom-water oxygenation through regular lake overturning, in response to climatic forcing, played a role in decreasing organic carbon preservation.\nIn both SK1-S and the WIB, δ13Corg enrichment and a diminutive excursion in δ13Ccarb (Fig. 2) (ostracod – Chamberlain et al., 2013) across OAE3 controls a decrease in 13C (Fig. 5). In SK1-S, this δ13Corg excursion is not likely due to changing organic matter source given consistently low C/N. Another coeval 13C record from the Portland Core (Colorado) in the WIB with variable or-\nganic matter type has been interpreted as diagenetically altered (Tessin et al., 2015). However, there is little evidence for δ13Corg or δ13Ccarb diagenesis in the Angus Core in the OAE3 interval (Appendix). Therefore, we attribute the OAE3 δ13Corg excursion and decreased 13C to diminished fractionation between dissolved inorganic carbon and photosynthate, driven by decreased dissolved CO2 levels (Kump and Arthur, 1999). In the marine record, this is consistent with atmospheric pCO2 drawdown commensurate with organic carbon sequestration in marine shales globally, as has been inferred for OAE2 (e.g., Jarvis et al., 2011).\nHowever, lacustrine pCO2 proxies (i.e., 13C) cannot be interpreted as direct records of atmospheric pCO2 since modern large lakes analogous to the depositional environment of the Qingshankou Formation are net sources of CO2 to the atmosphere, such as the East African rift lakes (Alin and Johnson, 2007). Over longer time periods, riverine inputs of dissolved CO2 are the primary control on modern lacustrine CO2 levels in mid-latitude lakes, and vary as a function of soil pCO2 and catchment productivity (Maberly et al., 2013). The sedimentary geochemistry of modern and Lower Cretaceous rift lakes in Africa record these landscape processes as well (Harris et al., 2004; Talbot et al., 2006), since dissolved CO2 levels exert a significant control on carbon isotope fractionation in lakes (Hollander and Smith, 2001). During OAE3, the Songliao lake system preserves a comparatively larger shift in δ13Corg and 13C than the WIB (Fig. 5). We attribute this to a greater decrease in dissolved CO2 in the Songliao lake system, driven by reduced soil productivity in the basin’s catchment through OAE3. This is consistent with a scenario of atmospheric pCO2 drawdown and cooling reflected in decreased marine 13C in the WIB.\nCompared to OAE2, pCO2 drawdown through OAE3 is interesting since the event is not represented by a discrete archetypal black shale or anoxic/euxinic interval (Wagreich, 2012; Lowery et al., 2017) and preserves a relatively diminished marine CIE (Jarvis et al., 2006; Locklair et al., 2011; Joo and Sageman, 2014). One mechanism for sustaining an OAE invokes enhanced weathering of continentally derived nutrients (e.g., P), following volcanic CO2 pulses from large igneous province (LIPs) emplacement (cf. Jenkyns, 2010). However, marine Osi values spanning OAE3 in the\nWIB do not record evidence for submarine LIP volcanism (i.e., unradiogenic Osi shift) (Fig. 6; Sect. 5.3), as is the case for OAE2 (Turgeon and Creaser, 2008; Du Vivier et al., 2014); nor do they record evidence for accelerated global continental weathering rates (i.e., a shift to more radiogenic Osi). Likewise, weathering proxies from the Songliao Basin’s OAE3 interval are either stable, such as Osi (Figs. 2 and 6), or suggest a decrease in weathering intensity, such as 13C (Fig. 4) and CIA (Fig. 3). Although we caution that these local observations are of a relatively minor OAE and cannot be assumed globally representative, these results suggest that the perturbations to the Earth system that triggered and sustained OAE3 are unique from those that triggered more severe OAEs (e.g., OAE2, Toarcian OAE).\nOverall, the Qingshankou Formation δ13Corg chemostratigraphy is highly variable through Member 1 and the lowermost Members 2 and 3. This suggests that dynamic local biogeochemical cycling and environmental conditions, in addition to the global carbon cycle, affected the δ13Corg values in this interval (Fig. 2). Furthermore, we interpret the combination of highly depleted δ13Corg values (−32.4 minimum), high C/N typical of nitrogenpoor anoxic bottom-waters (Meyers, 1994), and redox-sensitive XRF data (Sect. 5.2), as evidence that methanogenesis and methanotrophy (Hollander and Smith, 2001) influenced bulk δ13Corg values in the TOC-rich Qingshankou Member 1. Extremely δ13C depleted methyl hopane compounds (−42 to −50 ) in Member 1 equivalent oil shales from the Ngn-02 Core (Bechtel et al., 2012) confirm the role of methanotrophy in the unit. As a result, we cannot solely attribute the depleted δ13Corg in Member 1 to the global Bridgewick CIE, and instead we interpret this interval as at least partially recording burial of lacustrine methanotrophic biomass. Increased dissolved CO2 in the lake from increased catchment productivity may have also contributed to the amplified negative CIE in Member 1 (Hu et al., 2015)."
+  }, {
+    "heading": "5.2. Low sulfate and redox conditions in lacustrine Qingshankou Formation",
+    "text": "The redox sensitive trace element dataset from Qingshankou Member 1 (Sect. 4.3) provides a record of non-euxinic anoxic\nbottom-waters during deposition. Consistent trends among a variety of the evaluated trace element proxies lend confidence to the paleo-redox reconstructions. Combined, low Mn (<400 ppm), elevated V + Cr (>200 ppm) and (V + Cr)/Al, and elevated V/(V + Ni) (>0.7, Hatch and Leventhal, 1992) in Member 1 indicate anoxia (Fig. 3).\nCompared to the marine realm, biogeochemical cycling in anoxic lakes typically operates with fundamentally different dominant microbial pathways (e.g., methanogenesis and methanotrophy), since lakes generally have much lower concentrations of dissolved sulfate and redox-sensitive trace elements such as molybdenum. Microbial sulfate reduction (MSR) in anoxic low sulfate lakes tends to draw down the sulfate reservoir and limit sulfur isotope fractionation leaving pyrite isotopic values enriched (Gomes and Hurtgen, 2013). In Qingshankou Member 1, δ34Spyrite is highly enriched (+15 to +20 ) (Fig. 3) (Huang et al., 2013). Huang et al. (2013) attributed this to a complex disproportionation and transport model dependent on isotopic heterogeneity within the basin. However, considering our new trace element data, we propose an alternative interpretation, namely that the enriched δ34Spyr values were consequences of inhibited MSR fractionation related to low sulfate concentrations under non-marine depositional conditions. This phenomenon is noted in Holocene non-marine Black Sea mudstones ( 8 ka) deposited during basin isolation from the global ocean (Calvert et al., 1996). In another test of sulfate levels and seawater connectivity, TOC/S ratios are generally <2.8 in marine sediments (Berner, 1982), although some lacustrine mudstone values fall below this threshold (e.g., Calvert et al., 1996). In Qingshankou Member 1, TOC/S ratios all exceed this threshold (average TOC/S = 14; this study) and are consistent with pyrite burial limited by low sulfate levels (Bechtel et al., 2012). Concentrations of molybdenum (average = 8 ppm), another robust proxy for the presence of free sulfide, remain below minimum thresholds\nestablished for euxinic mudstones (25 ppm Mo-depleted waters, 65 ppm Mo-replete waters, Scott and Lyons, 2012), but molybdenum concentrations and Mo/Al values do exceed average shale values (2.6 ppm and 0.32 × 10−4 respectively, Wedepohl, 1971), suggesting MSR was active, but limited by low sulfate and molybdate concentrations in the lake (Fig. 3). In Mo-replete marine waters, sedimentary Mo concentrations positively correlate with TOC (Algeo and Lyons, 2006). However, this relationship is not observed in the Qingshankou Formation (r2 = 0.19) and Mo/TOC ratios are lowest in the TOC-rich Member 1 (Fig. 3) (Sect. 4.3). Influxes of sulfate and molybdenum-replete marine water would have elevated MSR and corresponding pyrite burial, leading to increases in Fe/Al, Mo/TOC, and S concentrations. Our proxy results from SK1-S do not record such shifts, and we therefore infer that low sulfate non-marine conditions prevailed throughout deposition of the Qingshankou Formation.\nDepleted bulk δ13Corg (this study; Hu et al., 2015) and methyl hopane δ13C values (Bechtel et al., 2012) reinforce the hypothesis that sulfate reduction was limited and that methanogenic and methanotrophic microbial metabolisms were prevalent during deposition of Qingshankou Member 1 (Sect. 5.1). Additionally, concentrations of certain trace elements, such as Cu, Ni, Co, that play central roles in enzymes facilitating methanogenesis and methanotrophy (Glass and Orphan, 2012), spike in Member 1. This may indicate enhanced methanogenesis and methanotrophy in the anoxic lacustrine mudstones (Fig. 3). Alternatively, it could reflect that metals are complexed with organic matter independent of methantrophic activity in Member 1 (TOC and Cu covariance: r2 = 0.88). Regardless, proxies such as elemental concentrations, methanotrophic biomarkers, sulfur isotopes, laminated mudstones, and bulk δ13Corg, consistently indicate persistent anoxia and methanogenesis in low sulfate waters (i.e., MSR inhibited) during deposition of the TOC-rich Qingshankou Member 1."
+  }, {
+    "heading": "5.3. Seawater incursion hypothesis and Osi chemostratigraphy",
+    "text": "Incursions of dense marine water into the Songliao Basin during sea level highstands have been invoked as a mechanism to stratify the basin’s water column, intensifying bottom-water anoxia, and ultimately driving deposition of Member 1’s TOC-rich source rocks (Hou et al., 2000; Huang et al., 2013; Hu et al., 2015). Mixing of marine and lacustrine water bodies, each with distinct chemical properties, would perturb the chemostratigraphic record, including Osi values. However, our Osi chemostratigraphy from SK1-S preserves no compelling evidence for marine incursions in TOC-rich intervals. Instead, the Osi data in Member 1 are consistently the most radiogenic values of SK1-S (Fig. 6). We conclude that this observation is inconsistent with incursions of less radiogenic open marine osmium as measured at Demerara Rise, and resembles the more radiogenic Osi records existing from lacustrine mudstones elsewhere (Poirier and Hillaire-Marcel, 2011; Cumming et al., 2012; Xu et al., 2017). At Demerara Rise, an average open marine Osi of ∼0.6 for mid-Turonian to Coniacian samples is considered to be the best estimate of the steady-state open marine value for the Late Cretaceous governed by plate tectonic configurations (i.e., long-term average continental weathering and hydrothermal fluxes) given similar results from comparably aged marine records, such as post-OAE2 (Du Vivier et al., 2014) and our new WIB OAE3 data (Fig. 6). However, we note that the WIB Osi data is likely more radiogenic than open marine Osi, due to the marine basin’s epicontinental setting and mixing with continentally derived osmium.\nOne Osi data point (1685 m) in the lower Songliao Osi sample set is less radiogenic than other nearby horizons. This is also an interval where concentrations of 24-n-isopropylchlorestane spike\n(biomarker typically attributed to marine organisms, Hu et al., 2015) and XRF sulfur concentrations more than double for one data point. It is possible that this horizon indicates a minor seawater incursion. However, we consider that this is unlikely since the horizon is not associated with any spikes in euxinic-sensitive trace elements (e.g., Mo, V/V + Ni, Sect. 5.2) (Fig. 3), TOC enrichments, or changes in lithology, and due to additional paleogeographic factors discussed below.\nOur trace element and Osi evidence contrary to a Songliao Basin-marine connection during deposition of Qingshankou Member 1 is consistent with many lines of previous observation such as: a lack of foraminifera, calcareous nannofossil, or marine macrofossil preservation in the Qingshankou Formation of SK1-S (Wan et al., 2013; Xi et al., 2016), non-marine phytoplankton (Zhao et al., 2014), depleted non-marine δ18O values (Chamberlain et al., 2013), plate tectonic reconstructions placing the nearest marine body at least 500 km away, and evidence for coastal mountain building between the Songliao Basin and Pacific Ocean (Yang, 2013) (Fig. 1). Contrastingly, observations of δ34Spyr (Huang et al., 2013) and biomarkers (C30 steranes e.g., 24-isopropylchlorestane, Hu et al., 2015) have been interpreted as evidence for marine incursions. Additionally, a few poorly preserved foraminifera have been reported in Member 1 elsewhere in the basin (Xi et al., 2016), although no photographs or depths of occurrence are accessible to our knowledge, precluding verification, taxonomic identification, and correlation to horizons in the SK1-S core. It is possible to reconcile our geochemical datasets with enriched δ34Spyr data in Member 1 if a low sulfate lake water column inhibited sulfur isotope fractionation (Sect. 5.2). Explaining the presence of 24-n-isopropylchlorestane without invoking seawater incursions is more challenging, because the biomarker has been classified as an indicator of marine organic matter (Moldowan et al., 1990). However, we note that C30 steranes, including molecular precursors to 24-isopropylcholestane, have been detected in a modern French lake (Wunsche et al., 1987). If the biomarkers previously reported from the Songliao Basin (Hu et al., 2015) are instead derived from non-marine dinoflagellates, sponges or microbial symbionts producing C30 sterols, are detritally re-worked, or are the molecular diagenetic products of organic matter degradation in a thermally mature interval of the basin (cf. Feng et al., 2010), then their occurrences would be consistent with our interpretation of the Osi record as that of an isolated lacustrine basin.\nAlternatively, our Osi record from the Songliao Basin could have been dominated by a high flux of continentally derived radiogenic Osi from nearby catchments, masking a record of seawater incursions via mixing. A recent study of Holocene Osi profiles in a transect off Greenland’s coast demonstrated that Osi records can be sensitive to local fluxes of weathered osmium (Rooney et al., 2016). However, we consider that this masking scenario is less likely in the Songliao Basin, since Members 2 and 3 lack evidence for marine incursions, but do not show evidence for extremely radiogenic Osi values within the weathered catchments (Fig. 6). Additionally, two strontium isotope measurements in the lower Qingshankou Formation (avg. 87Sr/86Sr = 0.70767, 1σ SD ± 0.00005) are not extremely radiogenic, but are offset from coeval marine ratios (Chamberlain et al., 2013). Their values do not preserve evidence for marine incursions, nor do they indicate weathering of extremely radiogenic lithologies within the basin’s catchment. This suggests that Osi chemostratigraphy could resolve evidence of marine incursions if present. We note that it is possible that a brief marine incursion occurred in an unsampled interval, as temporal resolution of Osi samples range from 100–300 ka in Member 1. However, we selected samples from horizons with published proposed evidence (i.e., biomarker) for marine incursions (Fig. 6). Additionally, we observe no abrupt lithologic alterations in SK1-S commonly associated with lacustrine-marine transitions in other\nbasins (Calvert et al., 1996; Poirier and Hillaire-Marcel, 2011 and references therein).\nIn the younger OAE3 interval of Qingshankou Members 2 and 3, the Osi data are less radiogenic, and approach values from the epicontinental marine WIB (Fig. 6). Again, we do not interpret these data as evidence for a prolonged marine connection to the Songliao Basin, because little evidence exists of marine microfossils (Xi et al., 2016) or sulfate replete waters (Sect. 5.2; Fig. 3) in this interval. Instead, we attribute the lower Osi values in Qingshankou Members 2 and 3 to the weathering of the near contemporaneous mid-Coniacian flood basalts within the Songliao Basin (Wang et al., 2016a), which would possess mantle-like 187Os/188Os compositions (∼0.13) mixing with lake waters (Fig. 6). We also note that Osi values are relatively stable through OAE3, suggesting muted changes in the weathering flux of osmium (Sect. 5.1)."
+  }, {
+    "heading": "5.4. Qingshankou Formation depositional model",
+    "text": "Given limited evidence for incursions of saline marine waters in Member 1 (Sects. 5.2–5.3), we propose alternative mechanisms for lake stratification that could be responsible for enhanced anoxia (Sects. 5.1–5.2) and resulting enhanced organic matter burial. Based on modern and paleo analogs, we outline a new conceptual model characterizing bottom-water redox, biogeochemical cycling, and physical processes (stratification, mixing) for the lacustrine Songliao rift basin through the Qingshankou Formation interval (Fig. 7). Sustained stratification of large meromictic lakes is critical in generating TOC-rich mudstone deposits, as settling organic matter from highly productive lacustrine surface waters is remineralized passing through isolated and progressively deoxygenated bottom-waters (Demaison and Moore, 1980). For any scenario of bottom-water anoxia, the depth of the stratified lake would need to exceed the wave-base mixing depth. This considerable minimum depth (e.g., ∼100 m) on a large paleolake with an expansive fetch (∼200–300 km) for generating waves, supports the assertion that the lake was deeper and more expansive during Member 1 than Members 2–3 (Feng et al., 2010), favoring meromixis within a deep lake.\nWater column density stratification likely arose in Qingshankou Member 1 from gradients in temperature, salinity, temperature, and/or dissolved gases from organic matter remineralization (e.g., Boehrer and Schultze, 2008), inhibiting lake overturning and reoxygenation of bottom-waters (Fig. 7). In the case of thermal stratification, most modern meromictic lakes do not occur outside the tropics (e.g., Lake Tanganyika), and are reinforced by additional density gradients. However, the mid-Cretaceous was a period of extreme greenhouse warmth. Intervals of high temperature and low seasonality (i.e., obliquity minima) would have inhibited the Songliao Basin water column overturning and reduced dissolved oxygen levels, and indeed palynological datasets indicate a semi-humid subtropical climate during deposition of Member 1 (Wang et al., 2013; Zhao et al., 2014). Although additional paleoclimate data are necessary to fully test this hypothesis, our idea that elevated temperatures would have inhibited lake overturning is consistent with general reconstructions for the warm mid-Cretaceous. Even though we do not detect seawater incursions in this study and no evaporites are associated with Member 1, evidence for elevated salinity is inferred from paleontological investigations that have documented slightly brackish algae, dinoflagellate, and ostracod assemblages (Zhao et al., 2014; Xi et al., 2016). Organic geochemical investigations have also detected salinity biomarkers (e.g., gammacerane, β-carotane) in Member 1 (Bechtel et al., 2012). Several ostracod δ18O and δ13Ccarb values are enriched in Member 1 and lowermost Members 2 and 3 compared to overlying samples (Chamberlain et al., 2013), possibly related to enhanced evaporation rates and consistent with dolomite laminae preservation in the interval\n(Talbot, 1990; Gao et al., 2009; Wang et al., 2009). Further, authors interpret covariation between δ18O, δ13Ccarb, Mg/Ca, and Sr/Ca as evidence for closed basin conditions throughout the Qingshankou Formation, signifying a lake basin sensitive to changing precipitation to evaporation (P/E) rates (Chamberlain et al., 2013). On the other hand, palynology suggests the climate was semi-humid during Member 1 (Wang et al., 2013) which would have limited evaporation and salinity’s role in density stratification, although others report that diagenesis possibly biased palynological reconstructions (Zhao et al., 2014). A final process that we suspect contributed to elevated bottom-water density in Lake Songliao is the addition of dissolved biochemical products (e.g., HCO−3 , H2S, CH4, etc.) from remineralization of organic matter (Fig. 7a). Evidence for methanogenesis, as well as heterotrophic biomarkers (e.g., hopanoids) (Bechtel et al., 2012), indicate microbial reworking of biomass in Member 1. This is consistent with increased bottom-water density via “biogenic meromixis”, stratification from dissolved biochemical products (Boehrer and Schultze, 2008). Our combined model for Lake Songliao’s stratification draws on many physical and geochemical processes, such as temperature gradients, biogenic meromixis, and elevated salinity. We hypothesize that these processes were controlled both by tectonic (i.e., lake depth) and climatic (e.g., P/E) conditions that contributed to a stagnant pool of anoxic bottom-water conducive to deposition of TOC-rich mudstones.\nConversely in Members 2 and 3, we propose that TOC-lean grey mudstones were the result of enhanced water column overturning and improved oxygenation of lake bottom-waters. During OAE3, the interval of lowest TOC in the Qingshankou Formation, factors such as, increased seasonality, freshening of bottom-waters, more\nvigorous wave mixing (i.e., higher surface wind velocity), and/or lake shallowing likely contributed to bottom-water reoxygenation and the demise of stratification (Fig. 7b)."
+  }, {
+    "heading": "6. Conclusions",
+    "text": "Through geochemical analyses, we reconstruct local Late Cretaceous paleoclimate records and lacustrine carbon burial dynamics of the Qingshankou Formation in the Songliao Basin of northeast China. Correlation of Turonian–Coniacian δ13Corg records from the Songliao Basin to the WIB confirms the presence of OAE3 in a low-TOC interval of Qingshankou Members 2 and 3, providing a unique record of the event in a lake system. The chemostratigraphic results from the Songliao Basin demonstrate that OAE2 and OAE3 did not trigger elevated organic carbon burial in an expansive East Asian lake. Furthermore, we attribute significant decreases in marine and lacustrine 13C to a drawdown of pCO2 and cooling through OAE3 and decreased soil productivity in the Songliao catchment. This finding is consistent with enhanced burial of organic carbon on a global scale and is analogous to interpretations for other prominent Cretaceous OAEs (Arthur et al., 1988; Barclay et al., 2010; Jarvis et al., 2011). However, Osi stratigraphy records no evidence for significant changes in global volcanism though OAE3, which suggests an event trigger unique from OAE2 (i.e., LIP volcanism). We encourage future investigations, employing, for example, compound specific δ13C chemostratigraphy and high-resolution paleoclimate proxies, to further resolve the robustness of δ13C correlations and better elucidate the paleoclimatic response of the Songliao basin lacustrine units to OAE3.\nRadiogenic Osi values recorded through the TOC-rich Qingshankou Member 1 indicate that enhanced organic carbon burial and source rock formation occurred in a lacustrine basin isolated from the global ocean. Although our Osi sample resolution is limited and marine incursions could have alluded detection in this initial survey, our higher resolution redox sensitive trace element data, as well as most existing paleogeographic, chemostratigraphic, and paleobiologic data, are also consistent with mudstone deposition in a low sulfate, lacustrine setting through Member 1. Our synthesis of existing stratigraphic datasets into a source rock depositional model for Qingshankou Member 1 outlines lacustrine stratification and biogeochemical cycling scenarios independent of marine incursions. This study underscores the potential to reconstruct Late Cretaceous paleoclimate, lake system responses to OAEs, and terrestrial carbon burial dynamics from lacustrine mudstone archives, such as those found in the Songliao Basin."
+  }, {
+    "heading": "Acknowledgements",
+    "text": "We thank Professor Chengshan Wang (China University of Geosciences, Beijing) for facilitating sampling of the SK1-S core. This research also benefited greatly from the assistance of Northwestern University lab managers Grace Schellinger and Dr. Koushik Dutta, and research assistant Katarina Savatic during measurement of carbon chemistry; Antonia Hofmann and Dr. Joanna Hesselink of Durham University with rhenium–osmium isotope analyses; and Juan Lezama-Pacheco and Danielle Moragne at Stanford University with XRF analyses. We thank three anonymous reviewers who provided valuable feedback and improved the quality of the manuscript. U.S. National Science Foundation grant funding was provided to B.B.S. (EAR-1424474), and to C.P.C. and S.A.G. (EAR-1423967). National Basic Research Program of China funding was provided to Y.G. (2012CB8220000). D.S. acknowledges the TOTAL Endowment Fund."
+  }, {
+    "heading": "Appendix A. Supplementary material",
+    "text": "Supplementary material related to this article can be found online at https://doi.org/10.1016/j.epsl.2017.11.046."
+  }],
+  "year": 2018,
+  "references": [{
+    "title": "Mo–total organic carbon covariation in modern anoxic marine environments: implications for analysis of paleoredox and paleohydrographic conditions",
+    "authors": ["T.J. Algeo", "T.W. Lyons"],
+    "venue": "Paleoceanography 21,",
+    "year": 2006
+  }, {
+    "title": "Carbon cycling in large lakes of the world: a synthesis of production, burial, and lake-atmosphere exchange estimates",
+    "authors": ["S.R. Alin", "T.C. Johnson"],
+    "venue": "Glob. Biogeochem. Cycles",
+    "year": 2007
+  }, {
+    "title": "Anomalous C-13 enrichment in modern marine organic-carbon",
+    "authors": ["M.A. Arthur", "W.E. Dean", "G.E. Claypool"],
+    "venue": "Nature",
+    "year": 1985
+  }, {
+    "title": "Geochemical and climatic effects of increased marine organic-carbon burial at the Cenomanian–Turonian",
+    "authors": ["M.A. Arthur", "W.E. Dean", "L.M. Pratt"],
+    "venue": "boundary. Nature",
+    "year": 1988
+  }, {
+    "title": "Carbon sequestration activated by a volcanic CO2 pulse during Ocean",
+    "authors": ["R.S. Barclay", "J.C. McElwain", "B.B. Sageman"],
+    "venue": "Anoxic Event 2. Nat. Geosci",
+    "year": 2010
+  }, {
+    "title": "Palaeoenvironmental conditions during deposition of the Upper Cretaceous oil shale sequences in the songliao basin (NE China): implications from geochemical analysis",
+    "authors": ["A. Bechtel", "J.L. Jia", "S.A.I. Strobl", "R.F. Sachsenhofer", "Z.J. Liu", "R. Gratzer", "W. Puttmann"],
+    "venue": "Org. Geochem",
+    "year": 2012
+  }, {
+    "title": "Burial of organic-carbon and pyrite sulfur in the modern ocean – its geochemical and environmental significance",
+    "authors": ["R.A. Berner"],
+    "venue": "Am. J. Sci",
+    "year": 1982
+  }, {
+    "title": "Isotopic evidence for glaciation during the Cretaceous supergreenhouse",
+    "authors": ["A. Bornemann", "R.D. Norris", "O. Friedrich", "B. Beckmann", "S. Schouten", "J.S.S. Damste", "J. Vogel", "P. Hofmann", "T. Wagner"],
+    "venue": "Science 319,",
+    "year": 2008
+  }, {
+    "title": "A stable isotope study of pyrite formation in the Late Pleistocene and Holocene sediments of the Black Sea",
+    "authors": ["S.E. Calvert", "H.G. Thode", "D. Yeung", "R.E. Karlin"],
+    "venue": "Geochim. Cosmochim",
+    "year": 1996
+  }, {
+    "title": "Stable isotopic evidence for climate and basin evolution of the Late Cretaceous Songliao basin, China",
+    "authors": ["C.P. Chamberlain", "X. Wan", "S.A. Graham", "A.R. Carroll", "A.C. Doebbert", "B.B. Sageman", "P. Blisniuk", "M.L. Kent-Corson", "Z. Wang", "C. Wang"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2013
+  }, {
+    "title": "Re–Os geochronology of the lacustrine Green River Formation: insights into direct depositional dating of lacustrine successions, Re–Os systematics and paleocontinental weathering",
+    "authors": ["V.M. Cumming", "D. Selby", "P.G. Lillis"],
+    "venue": "Earth Planet. Sci",
+    "year": 2012
+  }, {
+    "title": "Anoxic environments and oil source bed genesis",
+    "authors": ["G. Demaison", "G.T. Moore"],
+    "venue": "Org. Geochem",
+    "year": 1980
+  }, {
+    "title": "Marine Os-187/Os-188 isotope stratigraphy reveals the interaction of volcanism and ocean circulation during Oceanic Anoxic Event 2",
+    "authors": ["A.D.C. Du Vivier", "D. Selby", "B.B. Sageman", "I. Jarvis", "D.R. Groecke", "S. Voigt"],
+    "venue": "Earth Planet. Sci",
+    "year": 2014
+  }, {
+    "title": "Tectonostratigraphic units and stratigraphic sequences of the nonmarine Songliao basin, northeast China",
+    "authors": ["Feng", "Z.-q", "Jia", "C.-z", "Xie", "X.-n", "S. Zhang", "Z.-h", "T.A. Cross"],
+    "venue": "Basin Res",
+    "year": 2010
+  }, {
+    "title": "High precision osmium elemental and isotope measurements of North Atlantic seawater",
+    "authors": ["A. Gannoun", "K.W. Burton"],
+    "venue": "J. Anal. At. Spectrom",
+    "year": 2014
+  }, {
+    "title": "Description of Cretaceous sedimentary sequence of the first member of the Qingshankou Formation recovered by CCSD-SK-Is borehole in Songliao Basin: lithostratigraphy, sedimentary facies, and cyclic stratigraphy",
+    "authors": ["Y. Gao", "P. Wang", "R. Cheng", "G. Wang", "X. Wan", "H. Wu", "S. Wang", "W. Liang"],
+    "venue": "Earth Sci. Front",
+    "year": 2009
+  }, {
+    "title": "Trace metal requirements for microbial enzymes involved in the production and consumption of methane and nitrous oxide",
+    "authors": ["J.B. Glass", "V.J. Orphan"],
+    "venue": "Front. Microbiol",
+    "year": 2012
+  }, {
+    "title": "Sulfur isotope systematics of a euxinic, low-sulfate lake: evaluating the importance of the reservoir effect in modern and ancient oceans",
+    "authors": ["M.L. Gomes", "M.T. Hurtgen"],
+    "venue": "Geology",
+    "year": 2013
+  }, {
+    "title": "Sedimentary record and tectonic implications of Mesozoic rifting in southeast Mongolia",
+    "authors": ["S.A. Graham", "M.S. Hendrix", "C.L. Johnson", "D. Badamgarav", "G. Badarch", "J. Amory", "M. Porter", "R. Barsbold", "L.E. Webb", "B.R. Hacker"],
+    "venue": "Geol. Soc. Am",
+    "year": 2001
+  }, {
+    "title": "Relationship between inferred redox potential of the depositional environment and geochemistry of the upper Pennsylvanian (Missourian) Stark Shale Member of the Dennis Limestone, Wabaunsee County, Kansas, USA",
+    "authors": ["J.R. Hatch", "J.S. Leventhal"],
+    "venue": "Chem. Geol",
+    "year": 1992
+  }, {
+    "title": "The character and origin of Lacustrine source rocks in the Lower Cretaceous synrift section, Congo Basin, West Africa",
+    "authors": ["N.B. Harris", "K.H. Freeman", "R.D. Pancost", "T.S. White", "G.D. Mitchell"],
+    "venue": "Am. Assoc. Pet. Geol. Bull",
+    "year": 2004
+  }, {
+    "title": "Microbially mediated carbon cycling as a control on the delta C-13 of sedimentary carbon in eutrophic lake mendota (USA): new models for interpreting isotopic excursions in the sedimentary record",
+    "authors": ["D.J. Hollander", "M.A. Smith"],
+    "venue": "Geochim. Cosmochim",
+    "year": 2001
+  }, {
+    "title": "Marine transgressional events in the gigantic freshwater lake Songliao: paleontological and geochemical evidence",
+    "authors": ["D. Hou", "M. Li", "Q. Huang"],
+    "venue": "Org. Geochem",
+    "year": 2000
+  }, {
+    "title": "Seawater incursion events in a Cretaceous Paleo-lake revealed by specific marine biological markers",
+    "authors": ["J.F. Hu", "P.A. Peng", "M.Y. Liu", "D.P. Xi", "J.Z. Song", "X.Q. Wan", "C.S. Wang"],
+    "year": 2015
+  }, {
+    "title": "Marine incursion events in the Late Cretaceous Songliao Basin: constraints from sulfur geochemistry records",
+    "authors": ["Y.J. Huang", "G.S. Yang", "J. Gu", "P.K. Wang", "Q.H. Huang", "Z.H. Feng", "L.J. Feng"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2013
+  }, {
+    "title": "Secular variation in Late Cretaceous carbon isotopes: a new delta C-13 carbonate reference curve for the Cenomanian–Campanian",
+    "authors": ["I. Jarvis", "A.S. Gale", "H.C. Jenkyns", "M.A. Pearce"],
+    "venue": "Geol. Mag",
+    "year": 2006
+  }, {
+    "title": "Black shale deposition, atmospheric CO2 drawdown, and cooling during the Cenomanian– Turonian Oceanic Anoxic Event",
+    "authors": ["I. Jarvis", "J.S. Lignum", "D.R. Groecke", "H.C. Jenkyns", "M.A. Pearce"],
+    "venue": "Paleoceanography",
+    "year": 2011
+  }, {
+    "title": "Geochemistry of oceanic anoxic events",
+    "authors": ["H.C. Jenkyns"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2010
+  }, {
+    "title": "Cenomanian to campanian carbon isotope chemostratigraphy from the Western Interior Basin, USA",
+    "authors": ["Y.J. Joo", "B.B. Sageman"],
+    "venue": "J. Sediment. Res",
+    "year": 2014
+  }, {
+    "title": "Interpreting carbon-isotope excursions: carbonates and organic matter",
+    "authors": ["L.R. Kump", "M.A. Arthur"],
+    "venue": "Chem. Geol",
+    "year": 1999
+  }, {
+    "title": "Miocene to Pleistocene osmium isotopic records of the Mediterranean sediments",
+    "authors": ["J. Kuroda", "F.J. Jiménez-Espejo", "T. Nozaki", "R. Gennari", "S. Lugli", "V. Manzi", "M. Roveri", "R. Flecker", "F.J. Sierro", "T. Yoshimura", "K. Suzuki", "N. Ohkouchi"],
+    "venue": "Paleoceanography",
+    "year": 2016
+  }, {
+    "title": "Marine carbon burial flux and the carbon isotope record of Late Cretaceous (Coniacian–Santonian) Oceanic Anoxic",
+    "authors": ["R. Locklair", "B. Sageman", "A. Lerman"],
+    "venue": "Event III. Sediment. Geol",
+    "year": 2011
+  }, {
+    "title": "Cyclostratigraphy of the Upper Cretaceous Niobrara Formation, Western Interior, USA: a Coniacian–Santonian orbital timescale",
+    "authors": ["R.E. Locklair", "B.B. Sageman"],
+    "venue": "Earth Planet. Sci",
+    "year": 2008
+  }, {
+    "title": "Micropaleontological evidence for redox changes in the OAE3 interval of the US Western Interior: global vs. local processes",
+    "authors": ["C.M. Lowery", "R.M. Leckie", "B.B. Sageman"],
+    "venue": "Cretac. Res",
+    "year": 2017
+  }, {
+    "title": "Correlation of Aptian–Albian carbon isotope excursions in continental strata of the Cretaceous Foreland Basin, Eastern Utah, USA",
+    "authors": ["G.A. Ludvigson", "R.M. Joeckel", "L.A. González", "E.L. Gulbranson", "E.T. Rasbury", "G.J. Hunt", "J.I. Kirkland", "S. Madsen"],
+    "venue": "J. Sediment. Res",
+    "year": 2010
+  }, {
+    "title": "Catchment productivity",
+    "authors": ["S.C. Maberly", "P.A. Barker", "A.W. Stott", "M.M. De Ville"],
+    "year": 2013
+  }, {
+    "title": "A stable and",
+    "authors": ["K.G", "B.T. Huber", "A. Jimenez Berrocoso", "I. Wendler"],
+    "venue": "CO2 emissions from lakes. Nat. Clim. Change",
+    "year": 2013
+  }, {
+    "title": "Sedimentary 24-n-propylcholestanes, molecular",
+    "authors": ["A. ganathan", "D.C. Young"],
+    "year": 1990
+  }, {
+    "title": "6.13 – Greenhouse climates",
+    "authors": ["M. Geosyst. 2. Pagani", "M. Huber", "B. Sageman"],
+    "year": 2014
+  }, {
+    "title": "The marine osmium isotope",
+    "authors": ["B. Peucker-Ehrenbrink", "G. Ravizza"],
+    "year": 2000
+  }, {
+    "title": "Improved Os-isotope stratigraphy of the Arctic",
+    "authors": ["Nova", "A. 205–219. Poirier", "C. Hillaire-Marcel"],
+    "year": 2011
+  }, {
+    "title": "Integrating Ar-40/Ar-39, U–Pb",
+    "authors": ["B.R. Jicha", "J.D. Obradovich", "D.A. Sawyer"],
+    "year": 2014
+  }, {
+    "title": "Re–Os geochronology of organic rich sediments",
+    "authors": ["paleoproxies. Chem. Geol"],
+    "year": 2003
+  }, {
+    "title": "Geochemical responses",
+    "authors": ["M.R. Talbot", "N.B. Jensen", "T. Lærdal", "M.L. Filippi"],
+    "venue": "Geosci. Sect",
+    "year": 2006
+  }, {
+    "title": "transgression in giant African lakes",
+    "authors": ["A. Tessin", "I. Hendy", "N. Sheldon", "B. Sageman"],
+    "venue": "J. Paleolimnol",
+    "year": 2015
+  }, {
+    "title": "Trace metals as paleoredox",
+    "authors": ["N. 702–717. Tribovillard", "T.J. Algeo", "T. Lyons", "A. Riboulleau"],
+    "year": 2006
+  }, {
+    "title": "Cretaceous oceanic anoxic event 2 triggered by a massive magmatic episode",
+    "authors": ["S.C. Turgeon", "R.A. Creaser"],
+    "venue": "Nature",
+    "year": 2008
+  }, {
+    "title": "OAE 3” – regional Atlantic organic carbon burial during the Coniacian–Santonian",
+    "authors": ["M. Wagreich"],
+    "venue": "Clim. Past",
+    "year": 2012
+  }, {
+    "title": "Late Cretaceous stratigraphy, Songliao Basin, NE China: SK1",
+    "authors": ["X. Wan", "J. Zhao", "R.W. Scott", "P. Wang", "Z. Feng", "Q. Huang", "D. Xi"],
+    "venue": "cores. Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2013
+  }, {
+    "title": "Cretaceous paleogeography and paleoclimate and the setting of SKI borehole sites in Songliao Basin, northeast China",
+    "authors": ["C.S. Wang", "Z.G. Feng", "L.M. Zhang", "Y.J. Huang", "K. Cao", "P.J. Wang", "B. Zhao"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2013
+  }, {
+    "title": "Description of Cretaceous sedimentary sequence of the second and third member of the Qingshankou Formation recovered by CCSD-SK-Is borehole in Songliao Basin: lithostratigraphy, sedimentary facies and cyclic stratigraphy",
+    "authors": ["P.J. Wang", "Y. Gao", "R. Cheng", "G. Wang", "H. Wu", "X. Wan", "G. Yang", "Z. Wang"],
+    "venue": "Earth Sci. Front",
+    "year": 2009
+  }, {
+    "title": "Tectonics and cycle system of the Cretaceous Songliao Basin: an inverted active continental margin basin",
+    "authors": ["P.J. Wang", "F. Mattern", "N.A. Didenko", "D.F. Zhu", "B. Singer", "X.M. Sun"],
+    "venue": "Earth-Sci. Rev",
+    "year": 2016
+  }, {
+    "title": "High-precision U–Pb geochronologic constraints on the Late Cretaceous terrestrial cyclostratigraphy and geomagnetic polarity from the Songliao Basin, Northeast China",
+    "authors": ["T. Wang", "J. Ramezani", "C. Wang", "H. Wu", "H. He", "S.A. Bowring"],
+    "venue": "Earth Planet. Sci",
+    "year": 2016
+  }, {
+    "title": "Environmental influences on the chemical composition of shales and clays",
+    "authors": ["K.H. Wedepohl"],
+    "venue": "Phys. Chem. Earth",
+    "year": 1971
+  }, {
+    "title": "A critical evaluation of carbon isotope stratigraphy and biostratigraphic implications for Late Cretaceous global correlation",
+    "authors": ["I. Wendler"],
+    "venue": "Earth-Sci. Rev",
+    "year": 2013
+  }, {
+    "title": "Astrochronology of the Early Turonian–Early Campanian terrestrial succession",
+    "authors": ["H. Wu", "S. Zhang", "G. Jiang", "L. Hinnov", "T. Yang", "H. Li", "X. Wan", "C. Wang"],
+    "year": 2013
+  }, {
+    "title": "Several unexpected marine sterols in a fresh-water sediment",
+    "authors": ["L. Wunsche", "F.O. Gulacar", "A. Buchs"],
+    "venue": "Org. Geochem",
+    "year": 1987
+  }, {
+    "title": "Late Cretaceous marine fossils and seawater incursion events in the Songliao Basin, NE China",
+    "authors": ["D.P. Xi", "W.X. Cao", "Q.H. Huang", "D.A. Do Carmo", "S. Li", "X. Jing", "Y.J. Tu", "J.Z. Jia", "H.Y. Qu", "J. Zhao", "X.Q. Wan"],
+    "venue": "Cretac. Res",
+    "year": 2016
+  }, {
+    "title": "Carbon sequestration in an expanded lake system during the Toarcian oceanic anoxic event",
+    "authors": ["W. Xu", "M. Ruhl", "H.C. Jenkyns", "S.P. Hesselbo", "J.B. Riding", "D. Selby", "B.D.A. Naafs", "J.W.H. Weijers", "R.D. Pancost", "E.W. Tegelaar", "E.F. Idiz"],
+    "venue": "Nat. Geosci",
+    "year": 2017
+  }, {
+    "title": "An unrecognized major collision of the Okhotomorsk Block with East Asia during the Late Cretaceous, constraints on the plate reorganization of the Northwest Pacific",
+    "authors": ["Y.T. Yang"],
+    "venue": "Earth-Sci. Rev",
+    "year": 2013
+  }, {
+    "title": "Late Cretaceous palynology and paleoclimate change: evidence from the SK1 (South) core, Songliao Basin, NE China",
+    "authors": ["J. Zhao", "X.Q. Wan", "D.P. Xi", "X. Jing", "W. Li", "Q.H. Huang", "J.Y. Zhang"],
+    "venue": "Sci. China Earth Sci",
+    "year": 2014
+  }],
+  "id": "SP:ac74ceb957559039a72a32abdb67b63418f2406f",
+  "authors": [{
+    "name": "Matthew M. Jones",
+    "affiliations": []
+  }, {
+    "name": "Daniel E. Ibarra",
+    "affiliations": []
+  }, {
+    "name": "Yuan Gao",
+    "affiliations": []
+  }, {
+    "name": "Bradley B. Sageman",
+    "affiliations": []
+  }, {
+    "name": "David Selby",
+    "affiliations": []
+  }, {
+    "name": "Stephan A. Graham",
+    "affiliations": []
+  }],
+  "abstractText": "a Department of Earth and Planetary Sciences, Northwestern University, Evanston, IL 60208, USA b Department of Earth System Science, Stanford University, Stanford, CA 94305, USA c State Key Laboratory of Biogeology and Environmental Geology, School of Earth Sciences and Resources, China University of Geosciences, Beijing, China d Department of Earth Sciences, Durham University, Durham, DH1 3LE, UK e Department of Geological Sciences, Stanford University, Stanford, CA 94305, USA",
+  "title": "Evaluating Late Cretaceous OAEs and the influence of marine incursions on organic carbon burial in an expansive East Asian paleo-lake"
+}

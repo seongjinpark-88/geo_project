@@ -1,0 +1,962 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nPalaeogeography, Palaeoclimatology, Palaeoecology\njournal homepage: www.elsevier.com/locate/palaeo\nClimatic and oceanic changes during the Middle-Late Ordovician transition in the Tarim Basin, NW China and implications for the Great Ordovician Biodiversification Event\nMu Liua,b,c, Daizhao Chena,b,c,⁎, Xiqiang Zhoua,c, Wei Yuanb,d, Maosheng Jianga,c, Lijing Liue\na Key Laboratory of Petroleum Resources Research, Institute of Geology and Geophysics, Chinese Academy of Sciences, Beijing 100029, China bUniversity of Chinese Academy of Sciences, Beijing 100049, China c Institutions of Earth Science, Chinese Academy of Sciences, Beijing 100049, China d State Key Laboratory of Environmental Geochemistry, Institute of Geochemistry, Chinese Academy of Sciences, Guiyang 550002, China e Department of Geology, Northwest University, Xi'an 710127, China\nA R T I C L E I N F O\nKeywords: Mercury concentration Volcanism Black shale Great Ordovician Biodiversity Event Middle-Late Ordovician Tarim Basin\nA B S T R A C T\nThe Middle-Late Ordovician transition (Darriwilian to Sandbian Age) witnessed a major pulse of the Great Ordovician Biodiversification Event (GOBE) and distinctive oceanic geochemical fluctuations, such as coeval negative C and Sr isotope excursions. In this study, investigations into geochemical variations, notably the Hg abundance (or Hg/TOC), have been carried upon the organic-rich black shale of the Middle-Upper Ordovician Saergan Formation to unravel the causes of this pulse. Based on these data, three phases were identified. Phase 1 (0 to 3m) is characterized by rising Hg/TOC (up to 138 ppb/wt%) and Ti/Al values as well as high CIAcorr (corrected chemical index of alteration) values (68.9–72.3) with negligible enrichment of redox sensitive elements (RSE) and nutrient elements (e.g. U≤ 5.2 ppm, V≤ 153 ppm, Mo≤ 1.8 ppm, P2O5≤ 0.2%), suggesting intensified volcanism, which could have emitted significant amounts of greenhouse gases, thereby leading to climate warming. In contrast, Phase 2 (3 to 11m) is characterized by decreasing Hg/TOC and Ti/Al ratios, relatively low though slightly fluctuating CIAcorr values, generally depleted in RSE (except moderately enriched U up to 14.6 ppm) and increased P/Al and Ba/Al ratios, implying weakening volcanic activity and subsequent climate cooling and the potential for improved seawater ventilation as a result of oceanic upwelling. Phase 3 (Sandbian Age: 11–13m) witnessed continuous decrease in Hg/TOC ratio, an increase in Ti/Al and CIAcorr values, fairly low values of RSE enrichment and P/Al and Ba/Al ratios, indicating recurrent climate warming, and the potential for slowed oceanic circulation and attenuated upwelling of nutrient-rich deep waters onto the shallow shelf. These changes could have diminished bioproductivity and organic output onto the seafloor. This study offers insights into volcanic-climatic-oceanic interactions during a major pulse of the GOBE around the Middle-Late Ordovician transition while black shales were extensively deposited."
+  }, {
+    "heading": "1. Introduction",
+    "text": "The Ordovician is a critical period with distinct changes in Earth's atmosphere, hydrosphere, and biosphere. Particularly, a significant and rapid diversification of marine organisms through the Ordovician, known as the Great Ordovician Biodiversification Event (GOBE), is one of the two most significant evolutionary events in the Phanerozoic (Webby et al., 2004; Harper, 2006; Servais et al., 2010; Rasmussen et al., 2016; Servais and Harper, 2018). Interestingly, the GOBE is also marked by a diversification pulse of the benthic community during the\nlate Middle-early Late Ordovician (Darriwilian to Sandbian Age) interval (Sepkoski, 1981; Harper, 2006; Servais and Harper, 2018). However, only a few studies have focused on this major pulse in spite of significant coeval environmental perturbations (Rasmussen et al., 2016). The Middle-Late Ordovician transition witnessed distinct geochemical fluctuations, such as MDICE (Middle Darriwilian δ13C isotope excursion; Albanesi et al., 2013; Sial et al., 2013b) and a drop in seawater 87Sr/86Sr ratio during the Darriwilian (Qing et al., 1998; Shields et al., 2003; Edwards et al., 2015; Kah et al., 2016), which have been proposed to be induced by enhanced mafic volcanic activity (Young\nhttps://doi.org/10.1016/j.palaeo.2018.10.032 Received 11 September 2018; Received in revised form 31 October 2018; Accepted 31 October 2018\n⁎ Corresponding author at: Key Laboratory of Petroleum Resources Research, Institute of Geology and Geophysics, Chinese Academy of Sciences, Beijing 100029, China.\nE-mail address: dzh-chen@mail.iggcas.ac.cn (D. Chen).\nPalaeogeography, Palaeoclimatology, Palaeoecology 514 (2019) 522–535\nAvailable online 07 November 2018 0031-0182/ © 2018 Elsevier B.V. All rights reserved.\nT\net al., 2009), marine redox change (Young et al., 2016), intensified chemical weathering or climatic variations (Edwards and Saltzman, 2016; Saltzman and Edwards, 2017). Although studies have proved that the Middle-Late Ordovician transition (Darriwilian to Sandbian Age) could provide a useful time span to explore and understand the coevolution of life and environment during the major pulse of GOBE (Schmitz et al., 2010; Munnecke et al., 2011; Smith et al., 2011; Algeo et al., 2016), the relationship between coeval volcanic intensity and oceanic changes has not been investigated yet. Hg concentrations have been utilized in a number of studies to investigate the link between major environmental perturbations and intensified volcanism (see references in Percival et al., 2018). By using Hg concentrations as a volcanic tracer, the volcanic intensity during the Middle-Late Ordovician transition could be suggested.\nCoincident with the major pulse of the GOBE, organic-rich shales were widely deposited in multiple continents during the Middle-Late Ordovician transition, such as the Athens Shale in North America (Bergström et al., 2000), Dicellograptus Shale in Sweden (Bergström et al., 2000), Hanadir Shale in Saudi Arabia (Strother et al., 1996), Cyffredin Shale in Wales (Lev et al., 1998), Miaopo Shale in South China (Munnecke et al., 2011; Ma et al., 2015), as well as the Saergan Shale in Tarim Basin, northwestern China (Zhang and Munnecke, 2016; Chen, 2017). The deposition of organic-rich shales is generally favored by anoxic and/or nutrient-rich environment (Legget et al., 1981; Meyer and Kump, 2008). The coincidence of widespread shale deposits and the major pulse of the GOBE during Middle-Late Ordovician transition implicate the oceanic environment variations played important role in this biodiversification event. In this light, the palaeo-climatic and -oceanic conditions while the Middle-Upper Ordovician black shales were deposited and their relationships with the major pulse of GOBE deserve further investigation.\nBlack shale of the Saergan Formation is well exposed at the Dawangou section in the Aksu area, northwestern Tarim Basin of China. Based on detailed biostratigraphic studies, this section spans the Middle-Upper Ordovician boundary, and has been selected as a global auxiliary stratotype for the base of the Upper Ordovician (Bergström et al., 2000; Zhen et al., 2011; Chen et al., 2012; Bergström et al., 2017; Chen et al., 2017), which is ideal for study of chemostratigraphy. Here we present a comprehensive geological and geochemical study of the Saergan Shale to elucidate depositional environment, seawater redox state, paleoproductivity, climate and potential volcanism by facies observation, and geochemical analysis on major and trace element, including mercury abundance. This study provides important environmental implications for understanding the major pulse of the GOBE."
+  }, {
+    "heading": "2. Geological setting",
+    "text": "The Tarim Basin is one of the largest inland petroliferous basins on the oldest continental blocks in China (56×104 km2; Fig. 1B; Graham et al., 1990; Xu et al., 2011). During the Ordovician, the Tarim Block was generally composed of three (Northern, Central and Southern) uplifts and four (Kuqa, Northern, Southwestern and Southeastern) depressions (Fig. 1C; Jia et al., 2004; Lin et al., 2012). The Dawangou section (40°43.292′N, 79°32.248′E), was palaeogeographically located in the basinal setting at the western end of the Central Uplift of the Tarim Basin (Fig. 1B; Zhang and Munnecke, 2016). Based on the affinity of chitinozoan, conodont and graptolite fossils, the Tarim Basin was likely close to North China and Siberia during Middle-Late Ordovician transition (Fig. 1A; Chen et al., 2006; Torsvik and Cocks, 2013).\nAt Dawangou section, the Middle Ordovician to Silurian succession is continuously exposed and includes the Dawangou, Saergan, Kanling, Yingan and Terekawat formations in ascending order. The Saergan Formation comprises a 13m-thick thin-bedded black shale succession intercalated with carbonate nodules locally (Fig. 2B), bearing abundant graptolite, acritarch, and chitinozoan fossils (Chen et al., 2012). There are four graptolite zones (the Pterograptus elegans, the Didymograptus\nmurchisoni, the Dicellograptus vagus, and the Nemagraptus gracilis biozones in ascending order) and two synchronous conodont biozones (the Pygodus serra and the Pygodus anserinus biozones), which consistently suggests a time span from middle Darriwilian to early Sandbian Age (Zhen et al., 2011; Chen et al., 2012; Bergström and Ferretti, 2017). Detailed biostratigraphy and the first appearance datum (FAD) of the graptolite N. gracilis suggest the base of the Upper Ordovician is 2m below the top of the Saergan Formation at the Dawangou section (Fig. 2A) as an auxiliary GSSP (Global Boundary Stratotype Section and Point; Bergström et al., 2000). The Saergan Formation conformably overlies the Dawangou Formation, which is composed of grey mediumbedded, nodular bioclastic limestones (Fig. 2C) and is overlain by the Kanling Formation (Fig. 2A), which consists of nodular limestones and purplish red, thin-bedded, nodular limestones.\nThe Saergan Formation is composed of alternating laminae of finegrained, organic-rich and coarser-grained, more organic-poor couplets (Fig. 3A), in which benthic fauna (i.e., trilobite, Fig. 3B) and pelagic fauna (i.e., nautiloid and radiolarian; Fig. 3C and D) are commonly observed. Changes in lithology and faunal assemblages through the section suggest a transgressive sequence (Zhao et al., 2017), which is consistent with the eustatic pattern from the Middle to the early Late Ordovician (Haq and Schutter, 2008)."
+  }, {
+    "heading": "3. Methods",
+    "text": ""
+  }, {
+    "heading": "3.1. Analytical methods",
+    "text": "For TOC analyses, 200mg aliquots of sample were first treated twice with 10% by volume hydrochloric acid (HCl) at 60 °C for 12 h to remove carbonate completely. Samples were then washed with distilled water to remove HCl and dried overnight (50 °C) before being weighed. Finally, Euro-EA3000 elemental iianalyzer was used to obtain TOC data at the Institute of Geology and Geophysics, Chinese Academy of Sciences (IGGCAS).\nX-ray fluorescence spectrometry (XRF) was used to determine select major (Al, Ca, Fe, K, Mg, Mn, Na, P, Si and Ti). In order to determine the loss on ignition (LOI), 500mg of pulverized sample was oxidized at 1000 °C for 1 h then cooled and thoroughly mixed with 5000mg of lithium borate (mixture of 67% Li2B4O7 and 33% anhydrous LiBO2). Fusion glass disks were made by melting the mixtures at 1200 °C. The final analysis was performed using an AXIOS Minerals (PANalytical) spectrometer at the IGGCAS. The gas carrier is helium with a flow of 180 ± 10ml/min. The pressure of carrier is 110 kPa. Oxidation time is 8.8 s and sample delay time is 5 s. The standards used in this regard are atropine sulphate (C, 58.75%; H, 7.25%; N, 4.03%; O, 25.33%; S, 4.61%). The detection limit was calculated as the concentration of analyte that corresponds to three times the standard deviation of twelve replicate measurements of the procedural blank sample using the entire sample treatment process (LOD=3σ, where σ is the standard deviation of blank determination).\nProcedures of Qi et al. (2000) were used to prepare samples for trace elemental (Li, Be, Sc, V, Cr, Co, Ni, Cu, Zn, Ga, Rb, Sr, Y, Mo, Ba, Pb, Th, U and rare earth elements) analyses. Aliquots of 50 mg of each sample were first treated with mixture of 2ml concentrated HNO3 and 1ml HF, then heated at 200 °C for 48 h within sealed Teflon bombs and screw top PTFE-lined stainless steel bombs. Insoluble residues were dissolved at 130 °C using 5ml 30% (v/v) HNO3 for 3 h and then 2ml concentrated HCl for 10 h to achieve complete dissolution. Samples were diluted 400-fold using 2% HNO3 and 1ml of 1mg/ml Rh solution was added as an internal standard. Trace elements and REE were then analyzed as the target elements on a quadrupole inductively coupled plasma mass spectrometer (ICP-MS) at the Institute of Geochemistry, Chinese Academy of Sciences (IGCAS). The analytical precision as determined by replicate analyses of consistency standards was better than 2% RSD (1σ). Analytical calibration was accomplished using aqueous standard solutions. Details of the standard reference materials see Qi\net al. (2000). Prior to Hg analyses, the sample powders were air-dried at 50 °C for\n2 h. Hg concentrations of the samples were measured using a Lumex RA-915+ Hg analyzer equipped with a pyrolysis attachment at the IGCAS. Standards were measured after every 10 samples using GBW07405 (GSS-5) as the Hg standard, and coefficients of variation for triplicate analyses were<6%."
+  }, {
+    "heading": "3.2. Geochemical proxy calculations",
+    "text": ""
+  }, {
+    "heading": "3.2.1. Chemical index of alteration (CIA)",
+    "text": "In this study, chemical index of alternation (CIA) is used to evaluate\nthe intensity of chemical weathering for the Saergan Formation. CIA is calculated as [Al2O3 / (Al2O3+CaO*+Na2O+K2O)]× 100 (Nesbitt and Young, 1982; Young and Nesbitt, 1999;). CaO* represents CaO content in silicate fraction. CaO is first corrected for phosphate using available P2O5 data (CaO*=mole CaO−mole P2O5×10 / 3; McLennan, 1993). If the remaining amount of CaO* is higher than Na2O content after correction, the CaO* is assumed to be equivalent to the Na2O content (McLennan, 1993).\nDiagenetic addition of K (K-metasomatism), which is the dominant diagenetic reaction in shales, is corrected using an Al2O3 - CaO*+Na2O - K2O (A-CN-K) ternary diagram (Fedo et al., 1995). Alternatively, the amount of diagenetic K2O addition to each sample can be calculated using the following equation: K2Ocorr = [m×A+m×(C*+N)] / (1−m), where m=K /\n(A+C*+N+K) for protolith, A and (C*+N) and K are the molar values of Al2O3, (CaO*+Na2O) and K2O, respectively (Rieu et al., 2007; Panahi et al., 2000). The K-corrected CIA value is expressed as CIAcorr."
+  }, {
+    "heading": "3.2.2. Enrichment factor (EF)",
+    "text": "In general, the enrichment or depletion pattern of trace-element\nconcentrations with respect to the reference material is critical to reconstruct paleoenvironmental conditions (Tribovillard et al., 2006). In order to trace the authigenic fraction of elements, normalization to an index of the detrital component, normally Al, is necessary (Francois, 1988). To make results of the normalization comparable, it is common to use enrichment factors (EF): EFelement X=X/Alsample/X/Alstandard (Calvert and Pedersen, 1993; Morford and Emerson, 1999; Piper and Perkins, 2004). If EFX is> 1, then element X is enriched relative to standard shale; if EFX is< 1, it is depleted (Tribovillard et al., 2006). In this study, the post-Archean Australian Shale (PAAS) geochemical data are used as Alstandard (Taylor and McLennan, 1985)."
+  }, {
+    "heading": "4. Results",
+    "text": ""
+  }, {
+    "heading": "4.1. Major elements",
+    "text": "Major element contents of the Saergan Shale are listed in Table 1. Consistent with petrographic analyses, the Saergan Shale is mainly composed of SiO2 (43.7%–81.1%), relatively high CaO (up to 19.3%),\nmoderate Al2O3 (3.9%–13.7%), and minor Fe2O3 (1.9%–4.2%) and MnO (0.01%–0.04%). P2O5 ranges between 0.1%–2.3%. TOC ranges from 0.5 wt% to 4.8 wt%, (averages 2.51 wt%). High TOC samples (> 4.0 wt%) are located approximately 9–10m from the base of the Saergan Formation, close to the boundary of D. murchisoni and N. gracilis graptolitic biozone (Fig. 4).\nThe effects of K metasomatism can be corrected by projecting each data point back to its original (predicted) position on the A–CN–K ternary diagram (Fig. 5; Fedo et al., 1995). CIAcorr values, calculated using major element abundances, cluster from 60.6 to 72.4. At the basal Saergan Formation, CIAcorr values are relatively higher (~71; Fig. 4) then the CIAcorr values decrease upwards, displaying a negative excursion (down to 60.64) though fluctuating. At approximately 11m from the base (around the start of the Upper Ordovician), CIAcorr values start to increase to ~68 until the top. Uncorrected CIA values are generally lower than CIAcorr values (from 61.0 to 67.0), but display similar variation patterns (Fig. 4).\nBetween 0 and 3m P/Al values are low (< 0.02) and vary little. Between 3 and ~11.5 m, values increase to a maximum values of 0.17 and vary widely between 0.03 and 0.17. Between ~11.5 m and the top of the section, values return to ~0.01 and vary little."
+  }, {
+    "heading": "4.2. Trace elements",
+    "text": "Trace element concentrations and enrichment factors are shown in Tables 2 and 3, respectively. Generally, trace elements display slight enrichment with respect to PAAS. Enrichment factors of V and Mo (EFV and EFMo) are slightly high, ranging between 1.6–4.9 and 0.8–25.2, respectively. In contrast, U is the most enriched (EFU up to 49.2). Furthermore, Mo/TOC (ppm/wt%) ranges from 0.15 to 1.84 (average 0.66). Vertically, these elements are more enriched in middle part\ncompared with those in the basal and uppermost part of the section. Micronutrients such as Ni, Cu, and Zn show enrichment factors (EFNi, EFCu, and EFZn) ranging from 1.4–6.1, 2.4–8.5, and 1.3–10.9, respectively. The enrichment factor for Ba is generally low (average 1.7). Ti/ Al values rise (0.055–0.063) between 0 and ~2.5m, then decrease episodically from 0.063 to 0.053 between ~2.5 and ~11.5m. Between ~11.5 m and the top of the Saergan Formation, Ti/Al values fluctuate between 0.053 and 0.056 (Fig. 4)."
+  }, {
+    "heading": "4.3. Mercury abundance",
+    "text": "In the basal section (0–2m), the Hg abundance is relatively low (65–138 ppb). Hg abundance is episodically fluctuating between 2 and 11m, generally following the TOC variation pattern in the Saergan Formation (Fig. 4). A negative excursion of Hg abundance is observed at the interval between 4.5 and 8m. In comparison, the Hg/TOC (ppb/ wt%) values show an apparent increase to a maximum of 138 in the lower part of the Saergan Formation, and then decline through the rest of the section."
+  }, {
+    "heading": "5. Discussion",
+    "text": "Before detailed interpretation, the Saergan Formation is subdivided into three phases based on variation of geochemical parameter patterns. Phase 1 (0–3m) is characterized as an interval with low Hg abundance (minimum to 65 ppb), negligible enrichment of redox sensitive (RSE) and nutrient elements (e.g. U≤ 5.2 ppm, V≤ 153 ppm, Mo≤ 1.8 ppm, P/Al≤ 0.02). In the Phase 1, Hg/TOC values increase from 14.7 to 138.4 ppb/wt%, Ti/Al values increase from 0.055 to 0.063, the CIAcorr values decrease from 72.4 to 65.3. In Phase 2, the Hg abundance is relatively higher (up to 338 ppb), the U moderately enriched (up to"
+  }, {
+    "heading": "32 11.93 2.40 37 48.0 0.65 13.3 3.50 0.04 2.40 12.0 0.75 4.48 0.15 14.0 99.3",
+    "text": ""
+  }, {
+    "heading": "31 11.43 2.35 47 47.9 0.64 13.2 3.46 0.04 2.38 12.7 0.73 4.46 0.14 14.5 100.1",
+    "text": ""
+  }, {
+    "heading": "30 11.03 1.53 65 50.0 0.67 13.4 3.54 0.04 2.40 11.2 0.73 4.46 0.16 13.0 99.6",
+    "text": ""
+  }, {
+    "heading": "29 10.73 2.74 62 51.5 0.64 13.1 3.41 0.04 2.44 10.1 0.85 4.26 0.26 12.7 99.3",
+    "text": ""
+  }, {
+    "heading": "28 10.43 4.33 266 43.7 0.54 11.4 4.16 0.03 1.97 14.5 0.92 3.44 2.17 16.9 99.6",
+    "text": ""
+  }, {
+    "heading": "27 10.13 4.33 187 48.4 0.59 12.5 3.66 0.03 2.14 12.0 0.90 3.89 1.38 14.0 99.4",
+    "text": ""
+  }, {
+    "heading": "26 9.73 2.53 135 50.6 0.61 12.7 3.74 0.03 2.32 11.4 0.84 4.06 0.16 13.6 100.0",
+    "text": ""
+  }, {
+    "heading": "25 9.23 4.49 338 49.2 0.55 11.6 4.16 0.03 2.12 11.0 0.88 3.65 2.28 13.9 99.3",
+    "text": ""
+  }, {
+    "heading": "24 8.73 4.27 290 46.9 0.54 11.1 3.44 0.03 2.16 14.1 0.90 3.46 1.06 15.8 99.5",
+    "text": ""
+  }, {
+    "heading": "23 8.33 4.54 288 53.6 0.59 12.0 3.18 0.03 2.21 9.11 0.94 3.74 0.80 13.2 99.4",
+    "text": ""
+  }, {
+    "heading": "22 7.93 2.77 185 58.8 0.49 9.84 2.70 0.02 1.79 9.58 0.72 3.17 2.08 10.2 99.4",
+    "text": ""
+  }, {
+    "heading": "21 7.73 3.01 185 70.5 0.38 7.78 2.10 0.02 1.21 5.88 0.62 2.43 0.72 8.38 100.0",
+    "text": ""
+  }, {
+    "heading": "20 7.13 2.00 161 62.2 0.50 10.0 2.83 0.01 1.45 8.12 0.65 3.13 1.61 8.75 99.3",
+    "text": ""
+  }, {
+    "heading": "19 6.53 1.52 125 81.1 0.20 3.96 1.56 0.01 0.83 4.67 0.39 1.16 0.16 5.94 100.0",
+    "text": ""
+  }, {
+    "heading": "18 6.23 2.84 192 67.5 0.46 9.12 2.64 0.02 1.43 6.12 0.66 2.89 0.41 8.69 99.9",
+    "text": ""
+  }, {
+    "heading": "17 5.63 1.40 155 61.4 0.46 8.99 2.89 0.02 1.55 9.95 0.59 2.82 0.82 10.3 99.8",
+    "text": ""
+  }, {
+    "heading": "16 5.53 2.16 142 70.6 0.30 5.93 1.71 0.01 1.14 8.09 0.50 1.83 0.73 8.67 99.5",
+    "text": ""
+  }, {
+    "heading": "15 5.23 1.48 93 54.1 0.24 4.90 1.53 0.03 0.98 19.3 0.48 1.43 0.43 16.5 99.9",
+    "text": ""
+  }, {
+    "heading": "14 4.63 1.78 193 66.9 0.35 6.98 2.43 0.02 1.26 8.69 0.50 2.27 0.19 9.80 99.4",
+    "text": ""
+  }, {
+    "heading": "13 4.33 2.19 166 65.7 0.32 6.28 1.90 0.02 1.21 9.97 0.50 1.99 0.24 11.7 99.8",
+    "text": ""
+  }, {
+    "heading": "12 4.13 3.30 263 59.8 0.42 8.23 2.46 0.02 1.40 10.5 0.62 2.73 1.15 12.4 99.5",
+    "text": ""
+  }, {
+    "heading": "11 3.85 1.86 139 60.8 0.44 8.08 2.35 0.02 1.59 10.8 0.57 2.55 1.02 11.3 99.4",
+    "text": ""
+  }, {
+    "heading": "10 3.55 1.71 168 51.4 0.36 6.78 2.34 0.02 1.41 18.0 0.47 2.18 0.48 16.2 99.7",
+    "text": ""
+  }, {
+    "heading": "9 3.25 2.68 237 62.8 0.46 8.96 3.44 0.02 1.67 7.68 0.58 2.93 0.15 10.7 99.4",
+    "text": ""
+  }, {
+    "heading": "8 2.85 1.83 238 50.8 0.59 11.2 4.21 0.02 2.23 12.2 0.58 3.79 0.20 13.7 99.4",
+    "text": ""
+  }, {
+    "heading": "7 2.35 2.94 224 53.2 0.64 12.4 4.14 0.02 2.24 7.76 0.63 4.23 0.23 13.7 99.1",
+    "text": ""
+  }, {
+    "heading": "6 2.00 0.54 75 56.8 0.66 11.9 3.89 0.02 2.54 8.73 0.58 4.03 0.14 10.1 99.4",
+    "text": ""
+  }, {
+    "heading": "5 1.50 0.54 65 63.1 0.55 10.1 3.46 0.02 2.31 7.47 0.48 3.29 0.21 8.66 99.7",
+    "text": ""
+  }, {
+    "heading": "4 1.20 1.57 138 59.0 0.72 14.0 4.17 0.02 2.68 5.15 0.58 4.86 0.11 8.59 99.8",
+    "text": ""
+  }, {
+    "heading": "3 0.90 1.93 90 62.7 0.66 13.4 3.80 0.01 2.35 3.54 0.48 4.64 0.14 7.74 99.4",
+    "text": ""
+  }, {
+    "heading": "2 0.60 2.12 103 63.3 0.63 12.4 3.82 0.01 2.17 4.33 0.48 4.21 0.14 8.34 99.8",
+    "text": ""
+  }, {
+    "heading": "1 0.30 4.79 71 49.1 0.66 13.7 3.31 0.02 2.11 9.66 0.58 4.73 0.22 15.8 99.9",
+    "text": "M ob\nile B\nen th os (A dr ai n et a l., 2 00 4; B ra dd y et\na l.,\n2 00\n4 )\n14 0\n16 0\n20 40\n60 80\n0 1.\n0\nM o/\nT O\nC (\npp m\n/w t.\n% )\n1 2\n3 4\n5\nTO C\n( %\n)\n0 10\n0 20\n0 30\n0\nH g(\npp b)\n0 50\n10 0\nH g/\nT O\nC (p\npb /w\nt.% )\n0. 05\n5 0.\n06 0\nTi /A\nl ( pp\nm /w\nt.% )\n1 2\n3 4 5 0\n0 0.\n10\nP /A\nl\n0 50\n10 0\nB a/\nA l (\npp m\n/ % ) w t.\n0 20\n40\nE F\nV\n0. 05\n0\nV ol\nca ni\nc pr\nox ie\ns D\net rit\nal a\nnd\ncl im\nat ic\np ro\nxi es\nR ed\nox p\nro xi\nes B\nio pr\nod uc\ntiv ity\np ro\nxi es\n0 1. 5 0.\n5 0.\n05 0.\n15\nE F\nM o\nE F\nU\nSaerganFm.\nMiddleOrdovician Darriwilian UpperOrdovician\nFm.\nSeries\nStage\nGrap.\nT h\nic kn\ne ss\n/L it\nho lo\ngy\nSandbian DawangouFm.\nN.gracilisBiozone D.murchisoniBiozone P.elegansBiozone A.ellesaeBiozone Kanling Fm.\n0m1234567891 0111213\nCono. P.serraBiozoneP.anserinusBiozone\nC IA\n60 65\n70C IA\nco rr\nPhase1Phase2Phase3\nO st\nra co\nds B\nal tic a (n um be r o f s pe ci\nes )\nTr ilo\nbi te s (n um be r o f g\nen er\na)\nN od\nul ar\nLi\nm es\nto ne\nB la\nck S\nha le\nC ar\nbo na te L en s\nFi g.\n4. Th\ne ve\nrt ic al\ndi st ri bu\nti on\nof TO\nC , m er cu\nry ab\nun da\nnc e,\nan d ot he\nr pr ox\nie s of\nre do\nx, pr od\nuc ti vi ty\nan d cl im\nat e ch\nan ge\nin th e Sa\ner ga\nn Fo\nrm at io n fr om\nth e D aw\nan go\nu se ct io n al on\ng w it h co\nev al\nbe nt hi c di ve\nrs it y\n(F m .=\nFo rm\nat io n,\nG ra p.\n= G ra pt ol it e,\nC on\no. =\nC on\nod on\nt, EF\n= En\nri ch\nm en\nt fa ct or ). Be\nnt hi c di ve\nrs it y da\nta fr om\nA dr ai n et\nal .( 20\n04 ) an\nd Br ad\ndy et\nal .( 20\n04 ).\n14.6 ppm) and CIAcorr values remain low relatively to Phase 1. In addition, both Hg/TOC and Ti/Al values decrease in Phase 2 and P/Al and Ba/Al ratios are higher than those in Phase 1. Phase 3 (Sandbian Age; 11–13m) witnessed continuous decrease of Hg/TOC ratios and increase of Ti/Al and CIAcorr values, low RSE abundance, and P/Al and Ba/Al ratios."
+  }, {
+    "heading": "5.1. Hg anomalies and Darriwilian volcanism",
+    "text": "Mercury (Hg) has been shown to be a valuable proxy to trace specific geological process, particularly the volcanism (Pyle and Mather, 2003; Gustin et al., 2008). On pre-anthropogenic Earth, volcanism was the most efficient natural source of Hg to the atmosphere which could be deposited in seawater (Pirrone et al., 2010). It then could be scavenged and transported to the seafloor via organic matter deposition, resulting in a positive correlation between Hg abundance and TOC (Sanei et al., 2012; Grasby et al., 2013; Sial et al., 2013a). However, the origin of Hg anomalies should be carefully evaluated since Hg abundance in sediments can be affected by a number of factors, including sedimentation hiatus, lithological changes, extremely low TOC content, and enhanced Hg-adsorption by sulphides and clay complexes (Gustin et al., 2008; Font et al., 2016; Jones et al., 2017; Scaife et al., 2017). The Saergan Formation is dominated by black shales and calcareous shales generally rich in organic matter (Fig. 4), without distinct sedimentation hiatus and lithological change. Furthermore, high abundances of Hg (> 70 ppb) are found in samples with moderate TOC contents (> 0.5 wt%, criteria following Jones et al., 2017), suggesting Hg concentration was not entirely controlled by the rate of organic matter deposition. In addition, Hg and Al concentrations are poorly correlated (Fig. 6A), indicating Hg concentration was likely not controlled by clay deposition. Moreover, enrichment patterns of U, Mo, and V (Fig. 4) clearly suggest suboxic conditions during the Saergan shale deposition (see Section 5.3), excluding enhanced Hg-adsorption by sulphides as a mechanism for high Hg concentration. Therefore, the elevated mercury abundance in this formation is likely resulted from enhanced atmospheric Hg input via large-scale volcanism (Gustin et al., 2008).\nIn addition, Hg/TOC values are generally comparable to those from sediments of well-known critical geological events (Fig. 7), such as the five mass extinction events (Sanei et al., 2012; Grasby et al., 2013; Sial"
+  }, {
+    "heading": "31 11.43 115.9 5.3 0.4 63.9 15.1 54.9 307.8 84.7 125.6 9.8 127.0 0.15 9.6",
+    "text": ""
+  }, {
+    "heading": "30 11.03 106.5 5.2 0.3 62.5 12.1 41.0 376.9 67.3 89.7 9.8 123.0 0.05 9.3",
+    "text": ""
+  }, {
+    "heading": "29 10.73 112.7 5.3 0.6 64.3 10.9 51.3 295.6 78.0 128.3 9.4 119.5 0.11 8.7",
+    "text": ""
+  }, {
+    "heading": "28 10.43 112.4 13.7 3.3 61.9 16.2 90.2 290.5 91.8 123.1 6.7 103.8 0.11 9.4",
+    "text": ""
+  }, {
+    "heading": "27 10.13 139.3 8.8 2.7 77.0 10.4 81.3 346.9 114.2 171.1 11.0 111.7 0.11 10.1",
+    "text": ""
+  }, {
+    "heading": "26 9.73 98.5 4.1 1.1 63.6 12.0 61.6 409.2 89.9 110.6 11.5 116.2 0.09 10.3",
+    "text": ""
+  }, {
+    "heading": "25 9.23 222.0 14.6 6.2 81.6 12.2 96.5 342.8 108.1 157.7 6.7 111.7 0.17 11.2",
+    "text": ""
+  }, {
+    "heading": "24 8.73 123.1 9.1 2.6 62.9 10.6 79.4 376.0 95.4 111.3 11.0 102.9 0.05 9.2",
+    "text": ""
+  }, {
+    "heading": "23 8.33 218.9 14.0 4.8 80.5 8.7 85.9 390.4 100.0 136.0 11.2 114.1 0.23 10.6",
+    "text": ""
+  }, {
+    "heading": "22 7.93 103.0 8.8 2.0 56.8 7.0 54.7 396.7 85.5 102.0 7.5 87.5 0.07 10.0",
+    "text": ""
+  }, {
+    "heading": "21 7.73 80.6 6.0 2.9 46.1 6.1 50.5 239.2 66.9 65.6 9.1 72.4 0.07 8.5",
+    "text": ""
+  }, {
+    "heading": "20 7.13 92.9 6.6 2.2 52.9 7.2 50.8 249.0 85.6 69.3 9.7 86.5 0.08 9.7",
+    "text": ""
+  }, {
+    "heading": "19 6.53 47.4 2.3 2.8 121.8 4.5 32.1 229.1 40.9 40.2 4.9 35.1 0.03 4.2",
+    "text": ""
+  }, {
+    "heading": "18 6.23 92.0 5.0 2.4 59.5 6.7 56.3 329.3 90.6 82.2 11.4 83.4 0.07 8.5",
+    "text": ""
+  }, {
+    "heading": "17 5.63 73.4 4.4 1.9 43.7 7.0 35.4 506.3 49.4 103.3 9.4 82.0 0.07 8.7",
+    "text": ""
+  }, {
+    "heading": "16 5.53 60.0 3.3 1.2 37.9 4.8 40.7 204.4 62.5 48.3 7.3 57.2 0.05 5.7",
+    "text": ""
+  }, {
+    "heading": "15 5.23 48.1 2.8 1.0 34.1 4.2 28.7 146.9 47.1 41.9 5.4 45.5 0.04 4.5",
+    "text": ""
+  }, {
+    "heading": "14 4.63 59.9 3.0 1.4 41.3 8.6 46.8 264.9 57.2 58.3 8.3 63.9 0.03 6.4",
+    "text": ""
+  }, {
+    "heading": "13 4.33 69.8 3.9 1.3 46.0 6.7 43.7 237.8 61.5 93.4 7.8 59.0 0.04 6.8",
+    "text": ""
+  }, {
+    "heading": "12 4.13 103.8 6.9 2.3 54.3 8.9 76.2 234.7 98.1 102.7 6.8 77.8 0.09 8.9",
+    "text": ""
+  }, {
+    "heading": "11 3.85 72.1 4.8 1.4 46.2 6.7 41.7 296.8 68.8 63.0 8.6 79.9 0.04 9.0",
+    "text": ""
+  }, {
+    "heading": "10 3.55 75.1 5.2 1.5 34.0 7.7 38.3 204.8 63.8 63.4 6.5 63.0 0.07 7.1",
+    "text": ""
+  }, {
+    "heading": "9 3.25 101.0 3.9 1.7 53.1 7.8 60.1 245.6 89.6 85.4 9.5 84.1 0.07 8.7",
+    "text": ""
+  }, {
+    "heading": "8 2.85 85.2 3.8 1.1 57.2 11.5 59.2 305.1 81.0 95.1 11.5 100.6 0.08 10.0",
+    "text": ""
+  }, {
+    "heading": "7 2.35 99.6 5.1 0.6 69.8 15.7 81.8 304.2 123.0 301.9 14.2 115.2 0.20 11.3",
+    "text": ""
+  }, {
+    "heading": "6 2.00 76.4 2.9 0.4 53.5 8.1 26.4 276.0 39.9 60.2 12.1 111.8 0.08 9.5",
+    "text": ""
+  }, {
+    "heading": "5 1.50 68.6 3.6 0.4 48.5 6.2 21.7 260.3 53.5 143.8 10.0 97.4 0.12 10.5",
+    "text": ""
+  }, {
+    "heading": "4 1.20 84.7 2.8 0.5 63.3 11.8 46.3 264.8 100.1 116.1 15.3 124.3 0.13 11.5",
+    "text": ""
+  }, {
+    "heading": "3 0.90 100.4 3.7 0.4 62.1 11.0 59.2 269.1 99.5 95.8 16.8 140.2 0.12 11.2",
+    "text": ""
+  }, {
+    "heading": "2 0.60 91.1 3.3 0.3 58.8 13.4 62.6 282.6 93.6 92.0 14.6 116.3 0.08 11.5",
+    "text": ""
+  }, {
+    "heading": "1 0.30 153.2 5.2 0.9 90.1 38.5 127.5 276.4 157.8 38.7 14.0 142.8 0.06 10.6",
+    "text": ""
+  }, {
+    "heading": "32 11.93 15.4 0.01 48.9 0.055 64.5 68.3 2.5 5.2 3.1 2.1 1.0 11.6 0.16",
+    "text": ""
+  }, {
+    "heading": "31 11.43 20.0 0.01 44.0 0.055 64.6 68.4 2.7 4.6 4.2 2.2 1.2 15.8 0.19",
+    "text": ""
+  }, {
+    "heading": "30 11.03 42.5 0.01 53.1 0.056 64.9 68.6 2.0 3.6 3.0 2.0 0.8 15.3 0.19",
+    "text": ""
+  }, {
+    "heading": "29 10.73 22.6 0.02 42.5 0.055 63.9 67.0 2.5 4.2 4.4 2.2 1.7 15.8 0.23",
+    "text": ""
+  }, {
+    "heading": "28 10.43 61.4 0.16 48.4 0.054 62.7 64.2 5.2 5.8 4.8 2.5 10.3 47.3 0.76",
+    "text": ""
+  }, {
+    "heading": "27 10.13 43.2 0.09 52.5 0.053 63.5 65.6 4.2 6.5 6.1 2.9 7.8 27.8 0.63",
+    "text": ""
+  }, {
+    "heading": "26 9.73 53.4 0.01 60.8 0.055 64.0 66.7 3.1 5.1 3.9 2.0 3.0 12.8 0.43",
+    "text": ""
+  }, {
+    "heading": "25 9.23 75.3 0.16 55.7 0.053 62.9 65.2 5.4 6.6 6.1 4.9 19.1 49.2 1.39",
+    "text": ""
+  }, {
+    "heading": "24 8.73 67.9 0.08 64.2 0.055 62.2 64.1 4.7 6.2 4.5 2.8 8.3 32.1 0.60",
+    "text": ""
+  }, {
+    "heading": "23 8.33 63.4 0.06 61.4 0.056 62.6 64.7 4.6 5.9 5.1 4.6 14.2 45.8 1.05",
+    "text": ""
+  }, {
+    "heading": "22 7.93 66.7 0.17 76.2 0.056 62.9 65.5 3.6 6.2 4.6 2.7 7.3 35.2 0.72",
+    "text": ""
+  }, {
+    "heading": "21 7.73 61.5 0.08 58.1 0.055 62.5 64.6 4.2 6.1 3.8 2.6 13.4 30.3 0.97",
+    "text": ""
+  }, {
+    "heading": "20 7.13 80.6 0.13 46.9 0.056 64.5 67.0 3.3 6.1 3.1 2.4 7.6 25.6 1.07",
+    "text": ""
+  }, {
+    "heading": "19 6.53 82.4 0.03 109.3 0.058 61.0 61.7 5.3 7.4 4.5 3.1 25.2 23.1 1.84",
+    "text": ""
+  }, {
+    "heading": "18 6.23 67.6 0.03 68.2 0.058 63.3 65.8 4.0 7.1 4.0 2.6 9.4 21.4 0.85",
+    "text": ""
+  }, {
+    "heading": "17 5.63 110.9 0.08 106.4 0.057 64.3 66.7 2.6 3.9 5.1 2.1 7.6 19.4 1.37",
+    "text": ""
+  }, {
+    "heading": "16 5.53 65.7 0.10 65.1 0.057 62.1 63.7 4.5 7.5 3.6 2.6 6.9 22.0 0.53",
+    "text": ""
+  }, {
+    "heading": "15 5.23 63.0 0.07 56.6 0.056 61.1 60.6 3.8 6.9 3.8 2.5 7.2 22.7 0.66",
+    "text": ""
+  }, {
+    "heading": "14 4.63 108.0 0.02 71.7 0.057 63.0 65.7 4.4 5.9 3.7 2.2 7.2 16.7 0.80",
+    "text": ""
+  }, {
+    "heading": "13 4.33 75.9 0.03 71.5 0.058 62.3 64.2 4.5 7.0 6.6 2.8 7.3 24.5 0.58",
+    "text": ""
+  }, {
+    "heading": "12 4.13 79.7 0.12 53.9 0.057 62.2 65.0 6.0 8.5 5.6 3.2 9.8 33.1 0.69",
+    "text": ""
+  }, {
+    "heading": "11 3.85 74.6 0.10 69.4 0.061 63.6 65.9 3.4 6.1 3.5 2.3 6.3 23.5 0.76",
+    "text": ""
+  }, {
+    "heading": "10 3.55 98.5 0.06 57.1 0.060 63.5 65.3 3.7 6.7 4.2 2.8 7.8 30.1 0.86",
+    "text": ""
+  }, {
+    "heading": "9 3.25 88.5 0.01 51.8 0.058 63.8 66.9 4.4 7.1 4.3 2.9 6.7 17.2 0.62",
+    "text": ""
+  }, {
+    "heading": "8 2.85 129.7 0.02 51.6 0.060 65.0 68.9 3.4 5.2 3.8 1.9 3.4 13.3 0.58",
+    "text": ""
+  }, {
+    "heading": "7 2.35 76.1 0.02 46.5 0.058 65.0 69.3 4.3 7.1 10.9 2.1 1.6 16.0 0.19",
+    "text": ""
+  }, {
+    "heading": "6 2.00 138.4 0.01 43.7 0.063 65.6 69.8 1.4 2.4 2.3 1.6 1.2 9.4 0.73",
+    "text": ""
+  }, {
+    "heading": "5 1.50 120.0 0.02 48.7 0.062 66.3 70.0 1.4 3.8 6.4 1.7 1.4 14.2 0.71",
+    "text": ""
+  }, {
+    "heading": "4 1.20 87.7 0.01 35.8 0.059 66.1 71.3 2.2 5.1 3.7 1.6 1.2 7.9 0.30",
+    "text": ""
+  }, {
+    "heading": "3 0.90 46.6 0.01 37.9 0.058 67.0 72.4 2.9 5.3 3.1 1.9 1.0 10.8 0.20",
+    "text": ""
+  }, {
+    "heading": "2 0.60 48.6 0.01 43.0 0.058 66.9 71.8 3.3 5.4 3.3 1.9 0.9 10.4 0.15",
+    "text": ""
+  }, {
+    "heading": "1 0.30 14.7 0.01 38.2 0.055 66.0 70.9 6.1 8.2 1.3 2.9 2.3 14.9 0.18",
+    "text": "et al., 2013a; Font et al., 2016; Thibodeau et al., 2016; Gong et al., 2017; Jones et al., 2017; Racki et al., 2018; Sabatino et al., 2018; Wang et al., 2018) and OAEs (oceanic anoxic events; Percival et al., 2015; Scaife et al., 2017; Charbonnier et al., 2018), which have been proposed to be related to coeval large-scale volcanism to varying extents. This further suggests intensified volcanism likely occurred during deposition of the Saergan Shale, most notably during the early stage of Phase 1, disturbing the positive correlation between Hg and TOC (Fig. 6B). Later, decreasing Hg/TOC values through Phase 2 and Phase 3 point to attenuating volcanism and the recovery of positive correlation between Hg and TOC concentrations (Fig. 6C). In addition, the positive relationship between the Hg/TOC and Ti/Al ratios (Fig. 6D) supports an increasing aeolian Hg input from volcanic eruptions since the Ti/Al ratio is a valuable proxy indicative of aeolian flux (Yarincik et al., 2000; Beckmann et al., 2005). The deposition of volcanic materials into aqueous environments would lead to dissolution of adsorbed metal salts and aerosols, increasing the bioavailability of key nutrient elements (Jones and Gislason, 2008).\nThe Darriwilian volcanism is also consistent with coeval geochemical records, including global sharp drop of 87Sr/86Sr (Fig. 8; Shields et al., 2003) in the late Darriwilian, which has been proposed to be linked to volcanism (Young et al., 2016). In addition, the post-MDICE negative excursion (Sial et al., 2013b; Edwards and Saltzman, 2016; Saltzman and Edwards, 2017), widespread K-bentonite beds from 450 to 470Ma (Fig. 8; Kolata et al., 1998; Min et al., 2001; Astini et al., 2007; Huff, 2008; Thompson et al., 2012; Sell et al., 2015), large continental dispersal of the Paleozoic, rapid sea-floor spreading during the Middle Ordovician (Cocks and Torsvik, 2002; Torsvik and Cocks, 2013), and superplume activity suggested by ophiolite obduction pulses (Algeo, 1996; Vaughan and Scarrow, 2003; Barnes, 2004) further suggest the enhancement of volcanic activities during the late Darriwilian Age."
+  }, {
+    "heading": "5.2. Paleoclimate conditions",
+    "text": "The Early-Middle Ordovician epoch was characterized by a steady\ngreenhouse climate with a long-term cooling trend, potentially facilitating the GOBE (Trotter et al., 2008). Conditions subsequently evolved into an intense icehouse climate in the Late Ordovician epoch, one of the only three major icehouse intervals in Earth's Phanerozoic (Finnegan et al., 2012). Based on the MITgcm model, the Gondwana glaciation likely started in the late Darriwilian (Pohl et al., 2016). In addition, paleontological studies suggested global cooling during Darriwilian Age (Vandenbroucke et al., 2010; Rasmussen et al., 2016; Rasumussen and Stouge, 2018). This contrasts with suggested sea surface temperature of ~30 °C based on GEOCLIM model (Nardin et al., 2011).\nThe CIA value of fine-grained argillites has been widely used to evaluate the relative weathering intensity and climatic background (Nesbitt and Young, 1982). Normally, CIA values higher than 70 represent clay mineral composition for warm, humid tropical climates, and cold, arid climates fall below 50 (Nesbitt and Young, 1982, 1989; Fagel, 2007). However, CIA may also be affected by provenance compositions, transport recycling, and potassium metasomatism (Fedo et al., 1995; Bahlburg and Dobrzinski, 2011), which should be evaluated prior to application.\nIn fine-grained siliciclastic rocks, the distribution of major and trace elements (e.g., Sc, Ti, Zr, and Th etc.) can provide valuable information on sedimentary provenance (McLennan and Taylor, 1991; Garver and Royce, 1996). Crossplots of Zr vs. TiO2 (Hayashi et al., 1997) (Fig. 9A), La/Sc vs. Th/Co ratios (Cullers, 2002) (Fig. 9B), and ternary diagram of La–Th–Sc (Cullers and Podkovyrov, 2000) (Fig. 9C) consistently suggest that Saergan Shale derived predominantly from felsic igneous rocks. A stable provenance composition is also likely given the short duration over which the Saergan Formation deposited (< 5Ma based on biostratigraphy and astronomical calibration; Cooper et al., 2012b; Zhong et al., 2018). Moreover, on a crossplot of Zr/Sc vs. Th/Sc ratios, data fall within the trend of the first cycle of the parent rocks (Fig. 9D), indicating limited transport recycling of their provenance rocks (McLennan, 1993, 2001).\nTo minimize the effect of potassium metasomatism, CIAcorr is used to interpret the paleo-weathering intensity and climatic patterns (Fedo et al., 1995; Bahlburg and Dobrzinski, 2011). In Phase 1 of the Saergan Formation, CIAcorr values are generally higher than those in Phase 2 (Fig. 4) though a gentle decreasing trend, indicating a warmer and more humid climate in Phase 1 (Fedo et al., 1995; Young and Nesbitt, 1999). This scenario is consistent with coeval high Hg/TOC ratios since enhanced volcanism may have significantly increased greenhouse gas (i.e., CO2) releasing into the atmosphere, potentially inducing climate warming. The cooling started approximately at the late stage of Phase 1, corresponding with the shift of Hg/TOC ratios. In Phase 2, decreasing CIAcorr values and subsequent fluctuating around a value of 65 indicate waning weathering (or a cooling climate), likely due to the diminishing greenhouse gas venting by waning volcanic activity as evidenced by the decreasing Hg/TOC values. Although Phase 3 marked a transient recurrence of climatic warming, collectively, a transition from warm to cool climate is the general large-scale trend (Fig. 4). This transition to cooling climate may represent the prelude to Late Ordovician glaciation (Pohl et al., 2016) at least on a regional scale, which may have impacted ocean circulation, favoring upwelling, nutrient redistribution and increasing bioproductivity (Brumsack, 2006)."
+  }, {
+    "heading": "5.3. Marine redox environment",
+    "text": "Redox-sensitive elements, such as Mo, V, U, are commonly used to reconstruct paleo-oceanic redox state (Piper and Calvert, 2009; Little et al., 2015; Robbins et al., 2016). To further unravel the paleo-oceanic environment, enrichment factors of selected elements in the Saergan Formation were compared with sediments from modern upwelling zones and shales deposited during Cretaceous Oceanic Anoxic Events (COAE; Fig. 10; Brumsack, 2006). It should be noted that data from Brumsack (2006) were normalized to the average shale (Wedepohl,\n1970) rather than PAAS. However, the similarity in Al2O3 values between the average shale (16.7%; Wedepohl, 1970) and PAAS (18.9%; Taylor and McLennan, 1985), enrichment factors calculated for upwelling zones and COAE sediments (Brumsack, 2006) are comparable to the Saergan Formation (Fig. 10).\nSignificant enrichment of authigenic Mo is generally associated with the presence of H2S (i.e., euxinic conditions), which would favor the transformation from stable molybdate to particle-reactive thiomolybdates (Helz et al., 1996; Tribovillard et al., 2012). Mo content in the Saergan Formation are not significantly enriched, indicating the absence of H2S in the water column. V is commonly released from sediments deposited under low-oxygen (but still oxygenated) conditions and under normal bottom water oxygen levels where oxygen only penetrates a few millimeters into the sediment (Morford and Emerson, 1999). Yet in the absence of oxygen, the vanadate is reduced to the vanadyl form V(IV) (Emerson and Huested, 1991), which is highly surface-reactive and removed to the sediment (Wanty and Goldhaber, 1992; Zhang et al., 2016), resulting in V enrichment in sediments below an anoxic water column. In this context, the Saergan shales show negligible V enrichment overall, most likely having been deposited in a low-oxygen environment. In contrast to Mo and V, U is preferentially taken up by sediments in suboxic conditions prior to the onset of sulphate reduction that would promote authigenic Mo and V accumulation since U (VI) is reduced at the Fe(II)–Fe(III) redox boundary (McManus et al., 2005; Morford et al., 2005). In this light, enrichment of U relative to V and Mo in Phase 2 (Fig. 4) suggests a suboxic environment, which is consistent with the depletion of Fe and Mn (Fig. 10; Brumsack, 2006). In addition, the presences of benthic organisms (e.g., trilobites, Fig. 3B) and graptolites in the Saergan Formation (Chen et al., 2012; Bergström et al., 2017) further supports a suboxic environment as well (Cooper et al., 2012a)."
+  }, {
+    "heading": "5.4. Nutrient availability and organic matter enrichment",
+    "text": "In general, enrichment of organic matters in sediments may be favored by high primary productivity and/or well preservation in the anoxic seawater (Tyson, 2005), which could be indicative of either coastal upwelling zones or Oceanic Anoxic Events (OAEs) (Demaison and Moore, 1980; Tyson, 2005; Jenkyns, 2010), respectively. Organicrich shales (TOC: 0.54–4.79 wt%, Fig. 4; Table 1) of the Saergan Formation were likely deposited in a suboxic environment, which was not optimal for organic matter preservation (Tyson, 2005). This indicates high primary productivity (or organic exports) was likely crucial for organic accumulation/enrichment which could have been driven by coastal upwelling. In the Saergan Shale, nutrient elements such as P, Ni, Cu, and Zn show enrichment factors (EFP, EFNi, EFCu, and EFZn) ranging between 0.9–8.1, 1.4–6.1, 2.4–8.5, and 1.3–10.9, respectively. This scenario agrees with geochemical features that are similar to those from the coastal upwelling zone (Fig. 10), which have also been reported in other continents during the Darriwilian (Pope and Steffen, 2003; Luan et al., 2018; Rasumussen and Stouge, 2018).\nTraditionally, phosphorus and selected trace elements (e.g., Ni, Cu, Zn, Ba, Cr) are widely used to evaluate paleoproductivity (Algeo and Maynard, 2004; Piper and Perkins, 2004; Tribovillard et al., 2004, 2006; Schoepfer et al., 2015). These elements generally show distinctive distribution patterns in sediments deposited in coastal upwelling zones and silled anoxic marine basins (Fig. 10). In the Saergan Formation, enrichment factors of paleo-productivity (P, Ni, Cu, Zn, Ba, Cr) generally fall in the range of those from coastal upwelling zone sediments (Fig. 10). More importantly, elevated P and Ba contents (although fluctuating) in Phase 2 relative to Phase 1 and 3 (Fig. 4) demonstrate an increase in primary productivity, suggesting deposition in an upwelling zone where bio-limiting nutrients been pumped upward from deep cold waters (Mullins et al., 1985). In addition, climatic cooling starting in Phase 1, as evidenced by the CIA data (Fig. 4), could\nhave also improved the ocean circulation to some extent, thereby enhancing the oceanic upwelling."
+  }, {
+    "heading": "5.5. Environment implications during the major pulse of GOBE",
+    "text": "The GOBE is a sum of diversification of multiple individual groups that show rapid increases during different intervals (Webby et al., 2004;\nServais and Harper, 2018). In the short time interval spanning from late Middle Ordovician to early Late Ordovician, level-bottom benthic and reef communities demonstrate a sharp increase of biodiversity at the global scale (Fig. 8; Harper, 2006). It is commonly suggested that such a large increase in biodiversity involved complex of geologic, geographic, climatic, and oceanographic factors (Webby et al., 2004; Servais et al., 2009, 2010; Zhang et al., 2010; Thompson et al., 2012; Edwards, 2018).\nDuring the late Darriwilian age when the lower part of the Saergan Formation was deposited (Phase 1), intense volcanism evidenced by increasing Hg/TOC ratios (Fig. 4), and decreasing δ13C (Albanesi et al., 2013; Sial et al., 2013b; Edwards et al., 2015) and 87Sr/86Sr ratios (Qing et al., 1998; Shields et al., 2003; Kah et al., 2016; Fig. 8), may have released significant greenhouse gases into the atmosphere and biolimiting elements to the oceans and subsequently led to climate warming. In turn, this would have enhanced chemical weathering and riverine fluxes as evidenced by the high CIA values (Fig. 4). Subsequent decrease of volcanogenic greenhouse gases in response to waning volcanism and resultant CO2 drawdown by silicate weathering could have collectively caused climate cooling, as shown by the episodic decreases in CIA values through late Phase 1 to Phase 3 (Fig. 4). Climatic cooling would have enhanced oceanic circulation, facilitating upwelling of nutrient-rich deepwaters to surface waters along the shelf margin (Fig. 11). In this scenario, the transition into a cooler climate and enhanced circulation of watermasses in the context of marine transgression (or highstand) may have increased habitable niche space in shallow water regime for benthic dwellers, accelerating their colonization and expansion of living space in the shallow marine regime,\nthereby stimulating the great diversification of marine benthic fauna as that has been extensively documented as the GOBE."
+  }, {
+    "heading": "6. Conclusions",
+    "text": "The Mid-Upper Ordovician Saergan Formation from the Dawangou Section witnessed an episode of intensified, then attenuated volcanic activity from the late Darriwilian to the earliest Sandbian age. Enhanced volcanic activity could have greatly increased atmospheric greenhouse gas concentration and nutrient inputs, causing climate warming, enhanced chemical weathering and slowed oceanic circulation (or ocean stratification). Subsequent waning volcanism would reduce greenhouse gas venting, inducing climate cooling, thereby enhancing oceanic circulation and upwelling in the context of sea-level highstand. The transition into a cooler climate and ventilated ocean could have created a more habitable and expanded niche in the shallow-water regime, accelerating the colonization and diversification of the benthic dwellers. Our geochemical data from the Middle-Upper Ordovician Saergan Formation thus offer useful evidence for understanding of the life-environment co-evolution of the major pulse of the GOBE during the Middle-Late Ordovician transition."
+  }, {
+    "heading": "Acknowledgments",
+    "text": "This work was supported by the National Natural Science Foundation of China (Nos. 91755210, 41502117 and 41573010). This paper has benefited significantly from critical reviews by Dr. Jun Shen and an anonymous reviewer. Thanks goes to Pingping Zhao for field assistance, Dingshuai Xue for XRF analysis and Dr. Liang Qi from Institute of Geochemistry, Chinese Academy of Sciences for the ICP-MS analysis."
+  }],
+  "year": 2018,
+  "references": [{
+    "title": "Darriwilian (Middle Ordovician",
+    "authors": ["G.L. Albanesi", "S.M. Bergström", "B. Schmitz", "F. Serra", "N.A. Feltes", "G.G. Voldman", "G. Ortega"],
+    "year": 2013
+  }, {
+    "title": "Geomagnetic polarity bias patterns through the Phanerozoic",
+    "authors": ["T.J. Algeo"],
+    "venue": "J. Geophys. Res. Solid Earth",
+    "year": 1996
+  }, {
+    "title": "Trace-element behavior and redox facies in core shales of Upper Pennsylvanian Kansas-type cyclothems",
+    "authors": ["T.J. Algeo", "J.B. Maynard"],
+    "venue": "Chem. Geol",
+    "year": 2004
+  }, {
+    "title": "Co-evolution of oceans, climate, and the biosphere during the ‘Ordovician Revolution’: a review",
+    "authors": ["T.J. Algeo", "P.J. Marenco", "M.R. Saltzman"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2016
+  }, {
+    "title": "Ordovician K-bentonites in the upper-plate active margin of Western Gondwana, (Famatina Ranges): stratigraphic and palaeogeographic significance",
+    "authors": ["R.A. Astini", "G. Collo", "F. Martina"],
+    "venue": "Gondwana Res",
+    "year": 2007
+  }, {
+    "title": "Chapter 6 a review of the Chemical Index of Alteration (CIA) and its application to the study of Neoproterozoic glacial deposits and climate transitions",
+    "authors": ["H. Bahlburg", "N. Dobrzinski"],
+    "venue": "Geol. Soc. Lond. Mem",
+    "year": 2011
+  }, {
+    "title": "Was there an Ordovician superplume event",
+    "authors": ["C.R. Barnes"],
+    "year": 2004
+  }, {
+    "title": "Orbital forcing of Cretaceous river discharge in tropical Africa and ocean response",
+    "authors": ["B. Beckmann", "S. Flogel", "P. Hofmann", "M. Schulz", "T. Wagner"],
+    "venue": "Nature 437,",
+    "year": 2005
+  }, {
+    "title": "Conodonts in Ordovician biostratigraphy",
+    "authors": ["S.M. Bergström", "A. Ferretti"],
+    "venue": "Lethaia",
+    "year": 2017
+  }, {
+    "title": "A Proposed Global Boundary Stratotype for the Base of the Upper Series of the Ordovician System: The Fågelsång Section, Scania",
+    "authors": ["S.M. Bergström", "S.C. Finney", "X. Chen", "C. Palsson", "Wang", "Z.-H", "Y. Grahn"],
+    "venue": "Southern Sweden. Episodes",
+    "year": 2000
+  }, {
+    "title": "Relations between Darriwilian and Sandbian conodont and graptolite biozones",
+    "authors": ["S.M. Bergström", "Z. Wang", "D. Goldman"],
+    "year": 2017
+  }, {
+    "title": "Eurypterids, phyllocarids, and ostracodes",
+    "authors": ["S. Braddy", "V.P. Tollerton", "P.R. Racheboeuf", "R. Schallreuter"],
+    "year": 2004
+  }, {
+    "title": "The trace metal content of recent organic carbon-rich sediments: implications for Cretaceous black shale formation",
+    "authors": ["H.J. Brumsack"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2006
+  }, {
+    "title": "Geochemistry of recent oxic and anoxic marine sediments: implications for the geological record",
+    "authors": ["S.E. Calvert", "T.F. Pedersen"],
+    "venue": "Mar. Geol",
+    "year": 1993
+  }, {
+    "title": "Mercury anomalies, volcanic pulses, and drowning episodes along the northern Tethyan margin during the latest Hauterivian-earliest Aptian",
+    "authors": ["G. Charbonnier", "A. Godet", "S. Bodin", "T. Adatte", "K.B. Föllmi"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2018
+  }, {
+    "title": "A comment on the Saergan, Yingan and equivalent formations as potential source rocks for petroleum",
+    "authors": ["X. Chen"],
+    "year": 2017
+  }, {
+    "title": "Upper Darriwilian graptolite and conodont zonation in the global stratotype section of the Darriwilian stage",
+    "authors": ["X. Chen", "Zhang", "Y.-D", "S.M. Bergström", "Xu", "H.-G"],
+    "year": 2006
+  }, {
+    "title": "The Ordovician period",
+    "authors": ["R.A. Cooper", "P.M. Sadler", "O. Hammer", "F.M. Gradstein"],
+    "venue": "Graptoloidea. Earth Sci. Rev",
+    "year": 2012
+  }, {
+    "title": "Geochemistry of the Mesoproterozoic Lakhanda",
+    "authors": ["Chem. Geol"],
+    "year": 2000
+  }, {
+    "title": "Paired carbon isotopic analysis of Ordovician bulk",
+    "authors": ["C.T. press. Edwards", "M.R. Saltzman"],
+    "year": 2016
+  }, {
+    "title": "δ13Corg) spanning the Great Ordovician Biodiversification Event. Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "authors": ["C.T. Edwards", "M.R. Saltzman", "S.A. Leslie", "S.M. Bergström", "A.R.C. Sedlacek", "A. Howard", "J.A. Bauer", "W.C. Sweet", "S.A. Young"],
+    "year": 2015
+  }, {
+    "title": "Ocean anoxia and the concentrations of molybdenum and vanadium in seawater",
+    "authors": ["S.R. Emerson", "S.S. Huested"],
+    "venue": "Mar. Chem",
+    "year": 1991
+  }, {
+    "title": "Chapter four clay minerals, deep circulation and climate",
+    "authors": ["N. Fagel"],
+    "venue": "Proxies in Late Cenozoic Paleoceanography,",
+    "year": 2007
+  }, {
+    "title": "Unraveling the effects of potassium metasomatism in sedimentary rocks and paleosols, with implications for paleoweathering conditions and provenance",
+    "authors": ["C.M. Fedo", "H.W. Nesbitt", "G.M. Young"],
+    "venue": "Geology",
+    "year": 1995
+  }, {
+    "title": "Climate change and the selective signature of the Late Ordovician mass extinction",
+    "authors": ["S. Finnegan", "N.A. Heim", "S.E. Peters", "W.W. Fischer"],
+    "venue": "Proc. Natl. Acad. Sci. U. S. A",
+    "year": 2012
+  }, {
+    "title": "Mercury anomaly, Deccan volcanism, and the end-Cretaceous mass",
+    "authors": ["E. Font", "T. Adatte", "A.N. Sial", "L. Drude de Lacerda", "G. Keller", "J. Punekar"],
+    "venue": "extinction. Geology",
+    "year": 2016
+  }, {
+    "title": "A study on the regulation of the concentrations of some trace metals (Rb, Sr, Zn, Pb, Cu, V, Cr, Ni, Mn and Mo) in Saanich Inlet Sediments",
+    "authors": ["R. Francois"],
+    "venue": "British Columbia, Canada. Mar. Geol",
+    "year": 1988
+  }, {
+    "title": "Distribution and sedimentary environments of Salgan and Yingan shales of the Middle-Upper Ordovician in western Tarim Basin",
+    "authors": ["Z. Gao", "S. Zhang", "J. Li", "B. Zhang", "Q. Gu", "Y. Lu"],
+    "venue": "J. Palaeogeogr",
+    "year": 2010
+  }, {
+    "title": "Chromium and nickel in shale of the taconic foreland: a case study for the provenance of fine-grained sediments with an ultramafic source",
+    "authors": ["J.I. Garver", "T.A. Royce"],
+    "venue": "SEPM J. Sediment. Res",
+    "year": 1996
+  }, {
+    "title": "Mercury spikes suggest volcanic driver of the Ordovician-Silurian mass extinction",
+    "authors": ["Q. Gong", "X. Wang", "L. Zhao", "S.E. Grasby", "Z.Q. Chen", "L. Zhang", "Y. Li", "L. Cao", "Z. Li"],
+    "year": 2017
+  }, {
+    "title": "Characteristics of selected petroleum source rocks, Xianjiang Uygur Autonomous Region, NW China",
+    "authors": ["S.A. Graham", "S.C. Brassell", "A.R. Carroll", "X. Xiao", "G. Demaison", "C.L. McKnight", "Y. Liang", "J. Chu", "M.S. Hendrix"],
+    "venue": "AAPG Bull",
+    "year": 1990
+  }, {
+    "title": "Mercury deposition through the Permo–Triassic biotic crisis",
+    "authors": ["S.E. Grasby", "H. Sanei", "B. Beauchamp", "Z. Chen"],
+    "venue": "Chem. Geol",
+    "year": 2013
+  }, {
+    "title": "An update on the natural sources and sinks of atmospheric mercury",
+    "authors": ["M.S. Gustin", "S.E. Lindberg", "P.J. Weisberg"],
+    "venue": "Appl. Geochem",
+    "year": 2008
+  }, {
+    "title": "A chronology of Paleozoic sea-level changes",
+    "authors": ["B.U. Haq", "S.R. Schutter"],
+    "venue": "Science",
+    "year": 2008
+  }, {
+    "title": "The Ordovician biodiversification: setting an agenda for marine life",
+    "authors": ["D.A.T. Harper"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2006
+  }, {
+    "title": "Geochemistry of ~ 1.9 Ga sedimentary rocks from northeastern Labrador, Canada",
+    "authors": ["Hayashi", "K.-I", "H. Fujisawa", "H.D. Holland", "H. Ohmoto"],
+    "venue": "Geochim. Cosmochim",
+    "year": 1997
+  }, {
+    "title": "Mechanism of molybdenum removal from the sea and its concentration in black shales: EXAFS evidence",
+    "authors": ["G.R. Helz", "C.V. Miller", "J.M. Charnock", "J.F.W. Mosselmans", "R.A.D. Pattrick", "C.D. Garner", "D.J. Vaughan"],
+    "venue": "Geochim. Cosmochim",
+    "year": 1996
+  }, {
+    "title": "Ordovician K-bentonites: issues in interpreting and correlating ancient tephras",
+    "authors": ["W.D. Huff"],
+    "venue": "Quat. Int",
+    "year": 2008
+  }, {
+    "title": "Geochemistry of oceanic anoxic events",
+    "authors": ["H.C. Jenkyns"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2010
+  }, {
+    "title": "Tectonic Evolution and Continental Dynamics of Tarim Basin",
+    "authors": ["C. Jia", "L. Wang", "G. Wei", "H. Chen", "D. Jia", "Z. Guo", "A. Xiao"],
+    "venue": "Petroleum Industry Press, Beijing,",
+    "year": 2004
+  }, {
+    "title": "Rapid releases of metal salts and nutrients",
+    "authors": ["M.T. Jones", "S.R. Gislason"],
+    "year": 2008
+  }, {
+    "title": "A volcanic trigger for the Late Ordovician mass extinction? Mercury data from south China and Laurentia",
+    "authors": ["D.S. Jones", "A.M. Martini", "D.A. Fike", "K. Kaiho"],
+    "venue": "Geology",
+    "year": 2017
+  }, {
+    "title": "Behavior of marine sulfur in the Ordovician",
+    "authors": ["L.C. Kah", "C.K. Thompson", "M.A. Henderson", "R. Zhan"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2016
+  }, {
+    "title": "Nature and regional significance of unconformities associated with the Middle Ordovician Hagan K-bentonite complex in the North American midcontinent",
+    "authors": ["D.R. Kolata", "W.D. Huff", "S.M. Bergström"],
+    "venue": "Geol. Soc. Am",
+    "year": 1998
+  }, {
+    "title": "RNames, a stratigraphical database designed for the statistical analysis of fossil occurrences – the Ordovician diversification as a case study",
+    "authors": ["B. Kröger", "K. Lintulaakso"],
+    "venue": "Palaeontol. Electron",
+    "year": 2017
+  }, {
+    "title": "Periodicity in the early Palaeozoic marine realm",
+    "authors": ["J.K. Legget", "W.S. McKerrow", "L.R.M. Cocks", "R.B. Richards"],
+    "venue": "J. Geol. Soc",
+    "year": 1981
+  }, {
+    "title": "A petrographic approach for evaluating trace-element mobility in a black shale",
+    "authors": ["S.M. Lev", "S.M. McLennan", "W.J. Meyers", "G.N. Hanson"],
+    "venue": "J. Sediment. Res",
+    "year": 1998
+  }, {
+    "title": "Distribution and erosion of the Paleozoic tectonic unconformities in the Tarim Basin, Northwest China: significance for the evolution of paleo-uplifts and tectonic geography during deformation",
+    "authors": ["C. Lin", "H. Yang", "J. Liu", "Z. Rui", "Z. Cai", "Y. Zhu"],
+    "venue": "J. Asian Earth Sci",
+    "year": 2012
+  }, {
+    "title": "Controls on trace metal authigenic enrichment in reducing sediment: insights from modern oxygen-deficient settings",
+    "authors": ["S.H. Little", "D. Vance", "T.W. Lyons", "J. McManus"],
+    "venue": "Am. J. Sci",
+    "year": 2015
+  }, {
+    "title": "Middle-Late Ordovician iron-rich nodules on Yangtze Platform, South China, and their palaeoenvironmental implications",
+    "authors": ["X. Luan", "C.E. Brett", "R. Zhan", "J. Jin", "R. Wu", "F. Gong"],
+    "venue": "Lethaia",
+    "year": 2018
+  }, {
+    "title": "Carbon isotope records of the Middle–Upper Ordovician transition in Yichang area",
+    "authors": ["X. Ma", "Wang", "Z.-H", "Zhang", "Y.-D", "Song", "Y.-Y", "X. Fang"],
+    "venue": "South China. Palaeoworld",
+    "year": 2015
+  }, {
+    "title": "Strontium isotope stratigraphy",
+    "authors": ["J.M. McArthur", "R.J. Howarth", "G.A. Shields"],
+    "venue": "The Geologic Time Scale,",
+    "year": 2012
+  }, {
+    "title": "Weathering and global denudation",
+    "authors": ["S.M. McLennan"],
+    "venue": "J. Geol",
+    "year": 1993
+  }, {
+    "title": "Relationships between the trace element composition of sedimentary rocks and upper continental crus",
+    "authors": ["S.M. McLennan"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2001
+  }, {
+    "title": "Sedimentary rocks and crustal evolution: tectonic setting and secular trends",
+    "authors": ["S.M. McLennan", "S.R. Taylor"],
+    "venue": "J. Geol",
+    "year": 1991
+  }, {
+    "title": "Geochemical Approaches to Sedimentation, Provenance, and Tectonics",
+    "authors": ["S.M. McLennan", "D.K. McDaniel", "G.N. Hanson"],
+    "venue": "Geological Society of America Special Paper, Boulder,",
+    "year": 1993
+  }, {
+    "title": "Authigenic uranium: relationship to oxygen penetration depth and organic carbon rain",
+    "authors": ["J. McManus", "W.M. Berelson", "G.P. Klinkhammer", "D.E. Hammond", "C. Holm"],
+    "venue": "Geochim. Cosmochim",
+    "year": 2005
+  }, {
+    "title": "Oceanic euxinia in earth history: causes and consequences",
+    "authors": ["K.M. Meyer", "L.R. Kump"],
+    "venue": "Annu. Rev. Earth Planet. Sci",
+    "year": 2008
+  }, {
+    "title": "The geochemistry of redox sensitive trace metals in sediments",
+    "authors": ["J.L. Morford", "S. Emerson"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1999
+  }, {
+    "title": "Diagenesis of oxyanions (V, U, Re, and Mo) in pore waters and sediments from a continental margin",
+    "authors": ["J.L. Morford", "S.R. Emerson", "E.J. Breckel", "S.H. Kim"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 2005
+  }, {
+    "title": "Oxygen-minimum zone edge effects: evidence from the central California coastal upwelling",
+    "authors": ["H.T. Mullins", "J.B. Thompson", "K. McDougall", "T.L. Vercoutere"],
+    "venue": "system. Geology",
+    "year": 1985
+  }, {
+    "title": "Stable carbon isotope stratigraphy in the Ordovician of South China",
+    "authors": ["A. Munnecke", "Y. Zhang", "X. Liu", "J. Cheng"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2011
+  }, {
+    "title": "Modeling the early Paleozoic long-term climatic trend",
+    "authors": ["E. Nardin", "Y. Godderis", "Y. Donnadieu", "G. Le Hir", "R.C. Blakey", "E. Puceat", "M. Aretz"],
+    "venue": "Geol. Soc. Am",
+    "year": 2011
+  }, {
+    "title": "Cretaceous-Paleogene transition at the Paraíba Basin, Northeastern, Brazil: carbon-isotope and mercury subsurface stratigraphies",
+    "authors": ["M.V. Nascimento-Silva", "A.N. Sial", "V.P. Ferreira", "V.H. Neumann", "J.A. Barbosa", "M.M. Pimentel", "L.D. de Lacerda"],
+    "venue": "J. S. Am. Earth Sci",
+    "year": 2011
+  }, {
+    "title": "Early Proterozoic climates and plate motions inferred from major element chemistry of lutites",
+    "authors": ["H.W. Nesbitt", "G.M. Young"],
+    "venue": "Nature",
+    "year": 1982
+  }, {
+    "title": "Formation and diagenesis of weathering profiles",
+    "authors": ["H.W. Nesbitt", "G.M. Young"],
+    "venue": "J. Geol",
+    "year": 1989
+  }, {
+    "title": "Behavior of major and trace elements (including REE) during Paleoproterozoic pedogenesis and diagenetic alteration of an Archean granite near Ville Marie, Québec, Canada",
+    "authors": ["A. Panahi", "G.M. Young", "R.H. Rainbird"],
+    "venue": "Geochim. Cosmochim",
+    "year": 2000
+  }, {
+    "title": "Globally enhanced mercury deposition during the end-Pliensbachian extinction and Toarcian OAE: a link to the Karoo–Ferrar",
+    "authors": ["L.M.E. Percival", "M.L.I. Witt", "T.A. Mather", "M. Hermoso", "H.C. Jenkyns", "S.P. Hesselbo", "A.H. Al-Suwaidi", "M.S. Storm", "W. Xu", "M. Ruhl"],
+    "venue": "Large Igneous Province. Earth Planet. Sci",
+    "year": 2015
+  }, {
+    "title": "A marine biogeochemical perspective on black shale deposition",
+    "authors": ["D.Z. Piper", "S.E. Calvert"],
+    "venue": "Earth Sci. Rev",
+    "year": 2009
+  }, {
+    "title": "A modern vs. Permian black shale—the hydrography, primary productivity, and water-column chemistry of deposition",
+    "authors": ["D.Z. Piper", "R.B. Perkins"],
+    "venue": "Chem. Geol",
+    "year": 2004
+  }, {
+    "title": "Global mercury emissions to the atmosphere from anthropogenic and natural sources",
+    "authors": ["N. Pirrone", "S. Cinnirella", "X. Feng", "R.B. Finkelman", "H.R. Friedli", "J. Leaner", "R. Mason", "A.B. Mukherjee", "G.B. Stracher", "D.G. Streets", "K. Telmer"],
+    "venue": "Atmos. Chem",
+    "year": 2010
+  }, {
+    "title": "Widespread, prolonged late Middle to Late Ordovician upwelling in North America: a proxy record of glaciation? Geology",
+    "authors": ["M.C. Pope", "J.B. Steffen"],
+    "year": 2003
+  }, {
+    "title": "The importance of volcanic emissions for the global atmospheric mercury cycle",
+    "authors": ["D.M. Pyle", "T.A. Mather"],
+    "venue": "Atmos. Environ",
+    "year": 2003
+  }, {
+    "title": "Determination of trace elements in granites by inductively coupled plasma mass spectrometry",
+    "authors": ["L. Qi", "J. Hu", "D.C. Gregoire"],
+    "venue": "Talanta",
+    "year": 2000
+  }, {
+    "title": "The strontium isotopic composition of Ordovician and Silurian brachiopods and conodonts Relationships to geological events and implications for coeval seawater",
+    "authors": ["H. Qing", "C.R. Barnes", "D. Buhl", "J. Veizer"],
+    "venue": "Geochim. Cosmochim",
+    "year": 1998
+  }, {
+    "title": "Mercury enrichments and the Frasnian-Famennian biotic crisis: a volcanic trigger",
+    "authors": ["G. Racki", "M. Rakociński", "L. Marynowski", "P.B. Wignall"],
+    "venue": "proved? Geology",
+    "year": 2018
+  }, {
+    "title": "Onset of main Phanerozoic marine radiation sparked by emerging Mid Ordovician icehouse",
+    "authors": ["C.M. Rasmussen", "C.V. Ullmann", "K.G. Jakobsen", "A. Lindskog", "J. Hansen", "T. Hansen", "M.E. Eriksson", "A. Dronov", "R. Frei", "C. Korte", "A.T. Nielsen", "D.A. Harper"],
+    "year": 2016
+  }, {
+    "title": "Baltoscandian conodont biofacies fluctuations and their link to Middle Ordovician (Darriwilian) global cooling",
+    "authors": ["J.A. Rasumussen", "S. Stouge"],
+    "venue": "Palaeontology",
+    "year": 2018
+  }, {
+    "title": "Climatic cycles during a Neoproterozoic “snowball",
+    "authors": ["R. Rieu", "P.A. Allen", "M. Plötze", "T. Pettke"],
+    "venue": "glacial epoch. Geology",
+    "year": 2007
+  }, {
+    "title": "Trace elements at the intersection of marine biological and geochemical evolution",
+    "authors": ["L.J. Robbins", "S.V. Lalonde", "N.J. Planavsky", "C.A. Partin", "C.T. Reinhard", "B. Kendall", "C. Scott", "D.S. Hardisty", "B.C. Gill", "D.S. Alessi", "C.L. Dupont", "M.A. Saito", "S.A. Crowe", "S.W. Poulton", "A. Bekker", "T.W. Lyons", "K.O. Konhauser"],
+    "venue": "Earth Sci",
+    "year": 2016
+  }, {
+    "title": "Mercury anomalies in upper Aptian-lower Albian sediments from the Tethys realm",
+    "authors": ["N. Sabatino", "S. Ferraro", "R. Coccioni", "M. Bonsignore", "M. Del Core", "V. Tancredi", "M. Sprovieri"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2018
+  }, {
+    "title": "Gradients in the carbon isotopic composition of Ordovician shallow water carbonates: a potential pitfall in estimates of ancient CO2 and O2",
+    "authors": ["M.R. Saltzman", "C.T. Edwards"],
+    "venue": "Earth Planet. Sci",
+    "year": 2017
+  }, {
+    "title": "Carbon Isotope Stratigraphy. The Geologic Time Scale 207–232",
+    "authors": ["M.R. Saltzman", "E. Thomas"],
+    "year": 2012
+  }, {
+    "title": "Sedimentary mercury enrichments as a marker for submarine large igneous province volcanism? Evidence from the Mid-Cenomanian Event and Oceanic Anoxic Event 2 (Late Cretaceous)",
+    "authors": ["J.D. Scaife", "M. Ruhl", "A.J. Dickson", "T.A. Mather", "H.C. Jenkyns", "L.M.E. Percival", "S.P. Hesselbo", "J. Cartwright", "J.S. Eldrett", "S.C. Bergman", "D. Minisini"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2017
+  }, {
+    "title": "The middle Darriwilian (Ordovician) δ13C excursion (MDICE) discovered in the Yangtze Platform succession in China: implications of its first recorded occurrences outside Baltoscandia",
+    "authors": ["B. Schmitz", "S.M. Bergstrom", "W. Xiaofeng"],
+    "venue": "J. Geol",
+    "year": 2010
+  }, {
+    "title": "Total organic carbon, organic phosphorus, and biogenic barium fluxes as proxies for paleomarine productivity",
+    "authors": ["S.D. Schoepfer", "J. Shen", "H. Wei", "R.V. Tyson", "E. Ingall", "T.J. Algeo"],
+    "venue": "Earth Sci",
+    "year": 2015
+  }, {
+    "title": "Stratigraphic correlations using trace elements in apatite from Late Ordovician (Sandbian-Katian) K-bentonites of eastern North America",
+    "authors": ["B.K. Sell", "S.D. Samson", "C.E. Mitchell", "P.I. McLaughlin", "A.E. Koenig", "S.A. Leslie"],
+    "venue": "Geol. Soc. Am",
+    "year": 2015
+  }, {
+    "title": "A factor analytical description of the Phanerozoic marine fossil",
+    "authors": ["J.J. Sepkoski Jr."],
+    "venue": "Paleobiology",
+    "year": 1981
+  }, {
+    "title": "The Great Ordovician Biodiversification Event (GOBE): definition, concept and duration",
+    "authors": ["T. Servais", "D.A.T. Harper"],
+    "venue": "Lethaia",
+    "year": 2018
+  }, {
+    "title": "Understanding the Great Ordovician Biodiversification Event (GOBE): influences of paleogeography, paleoclimate, or paleoecology",
+    "authors": ["T. Servais", "D.A.T. Harper", "A. Munnecke", "A.W. Owen", "P.M. Sheehan"],
+    "venue": "GSA Today",
+    "year": 2009
+  }, {
+    "title": "The Great Ordovician Biodiversification Event (GOBE): the palaeoecological dimension. Palaeogeogr",
+    "authors": ["T. Servais", "A.W. Owen", "D.A.T. Harper", "B. Kröger", "A. Munnecke"],
+    "venue": "Palaeoclimatol. Palaeoecol",
+    "year": 2010
+  }, {
+    "title": "Sr, C, and O isotope geochemistry of Ordovician brachiopods: a major isotopic event around the Middle-Late Ordovician transition",
+    "authors": ["G.A. Shields", "G.A.F. Carden", "J. Veizer", "T. Meidla", "Rong", "J.-Y", "Li", "R.-Y"],
+    "venue": "Geochim. Cosmochim",
+    "year": 2003
+  }, {
+    "title": "Mercury as a proxy for volcanic activity during extreme environmental turnover: the Cretaceous–Paleogene transition",
+    "authors": ["A.N. Sial", "L.D. Lacerda", "V.P. Ferreira", "R. Frei", "R.A. Marquillas", "J.A. Barbosa", "C. Gaucher", "C.C. Windmöller", "N.S. Pereira"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2013
+  }, {
+    "title": "High-resolution stable isotope stratigraphy of the upper Cambrian and Ordovician in the Argentine Precordillera: carbon isotope excursions and correlations",
+    "authors": ["A.N. Sial", "S. Peralta", "C. Gaucher", "A.J. Toselli", "V.P. Ferreira", "R. Frei", "M.A. Parada", "M.M. Pimentel", "N. Silva Pereira"],
+    "venue": "Gondwana Res",
+    "year": 2013
+  }, {
+    "title": "A time like our own? Radioisotopic calibration of the Ordovician greenhouse to icehouse transition",
+    "authors": ["M.E. Smith", "B.S. Singer", "T. Simo"],
+    "venue": "Earth Planet. Sci",
+    "year": 2011
+  }, {
+    "title": "New evidence for land plants from the lower Middle Ordovician",
+    "authors": ["P.K. Strother", "S. Al-Hajri", "A. Traverse"],
+    "venue": "Saudi Arabia. Geology",
+    "year": 1996
+  }, {
+    "title": "The Continental Crust: Its Composition and Evolution",
+    "authors": ["S.R. Taylor", "S.M. McLennan"],
+    "venue": "Blackwell Scientific Publications,",
+    "year": 1985
+  }, {
+    "title": "Mercury anomalies and the timing of biotic recovery following the end-Triassic mass extinction",
+    "authors": ["A.M. Thibodeau", "K. Ritterbush", "J.A. Yager", "A.J. West", "Y. Ibarra", "D.J. Bottjer", "W.M. Berelson", "B.A. Bergquist", "F.A. Corsetti"],
+    "venue": "Nat. Commun",
+    "year": 2016
+  }, {
+    "title": "Bentonite geochronology, marine geochemistry, and the Great Ordovician Biodiversification Event (GOBE)",
+    "authors": ["C.K. Thompson", "L.C. Kah", "R. Astini", "S.A. Bowring", "R. Buchwaldt"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2012
+  }, {
+    "title": "Chapter 2 New global palaeogeographical reconstructions for the Early Palaeozoic and their generation",
+    "authors": ["T.H. Torsvik", "L.R.M. Cocks"],
+    "venue": "Geol. Soc. Lond. Mem",
+    "year": 2013
+  }, {
+    "title": "Controls on organic accumulation in late Jurassic shales of northwestern Europe as inferred from trace-metal geochemistry",
+    "authors": ["N. Tribovillard", "A. Trentesaux", "A. Ramdani", "F. Baudin", "A. Riboulleau"],
+    "venue": "Bull. Soc. Geol. Fr",
+    "year": 2004
+  }, {
+    "title": "Trace metals as paleoredox and paleoproductivity proxies: an update",
+    "authors": ["N. Tribovillard", "T.J. Algeo", "T. Lyons", "A. Riboulleau"],
+    "venue": "Chem. Geol",
+    "year": 2006
+  }, {
+    "title": "Analysis of marine environmental conditions based on molybdenum-uranium covariation - applications to Mesozoic paleoceanography",
+    "authors": ["N. Tribovillard", "T.J. Algeo", "F. Baudin", "A. Riboulleau"],
+    "year": 2012
+  }, {
+    "title": "Did cooling oceans trigger Ordovician Biodiversification? Evidence from conodont thermometry",
+    "authors": ["J.A. Trotter", "I.S. Williams", "C.R. Barnes", "C. Lecuyer", "R.S. Nicoll"],
+    "year": 2008
+  }, {
+    "title": "The “productivity versus preservation” controversy: cause, flaw, and resolution",
+    "authors": ["R.V. Tyson"],
+    "venue": "SEPM Spec. Publ",
+    "year": 2005
+  }, {
+    "title": "Epipelagic chitinozoan biotopes map a steep latitudinal temperature gradient for earliest Late Ordovician seas: implications for a cooling Late Ordovician climate",
+    "authors": ["T.R.A. Vandenbroucke", "H.A. Armstrong", "M. Williams", "F. Paris", "K. Sabbe", "J.A. Zalasiewicz", "J. Nõlvak", "J. Verniers"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2010
+  }, {
+    "title": "Ophiolite obduction pulses as a proxy indicator of superplume events",
+    "authors": ["A.P.M. Vaughan", "J.H. Scarrow"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2003
+  }, {
+    "title": "Mercury anomalies across the end Permian mass extinction in South China from shallow and deep water depositional environments",
+    "authors": ["X. Wang", "P.A. Cawood", "H. Zhao", "L. Zhao", "S.E. Grasby", "Chen", "Z.-Q", "P.B. Wignall", "Z. Lv", "C. Han"],
+    "venue": "Earth Planet. Sci",
+    "year": 2018
+  }, {
+    "title": "Thermodynamics and kinetics of reactions involving vanadium in natural systems: accumulation of vanadium in sedimentary rocks",
+    "authors": ["R.B. Wanty", "M.B. Goldhaber"],
+    "venue": "Geochim. Cosmochim",
+    "year": 1992
+  }, {
+    "title": "The Great Ordovician Biodiversification Event",
+    "authors": ["B.D. Webby", "F. Paris", "M.L. Droser", "I.G. Percival"],
+    "year": 2004
+  }, {
+    "title": "Geochemische Daten von sedimentaren Karbonaten und Karbonatgesteinen in ihrem faziellen und petrogenetischen Aussgewert",
+    "authors": ["K.H. Wedepohl"],
+    "venue": "Verh. Geol. Bundesanst",
+    "year": 1970
+  }, {
+    "title": "Paleo-Asian and Tethyan tectonic systems with docking the Tarim block",
+    "authors": ["Z. Xu", "S. Li", "J. Yang", "B. He", "H. Li", "C. Lin", "Z. Cai"],
+    "venue": "Acta Petrol. Sin",
+    "year": 2011
+  }, {
+    "title": "Climatically sensitive eolian and hemipelagic deposition in the Cariaco Basin, Venezuela, over the past 578,000 years: results from Al/Ti and K/Al",
+    "authors": ["K.M. Yarincik", "R.W. Murray", "L.C. Peterson"],
+    "venue": "Paleoceanography",
+    "year": 2000
+  }, {
+    "title": "Paleoclimatology and provenance of the glaciogenic Gowganda Formation (Paleoproterozoic), Ontario, Canada: a chemostratigraphic approach",
+    "authors": ["G.M. Young", "H.W. Nesbitt"],
+    "year": 1999
+  }, {
+    "title": "A major drop in seawater",
+    "authors": ["S.A. Young", "M.R. Saltzman", "K.A. Foland", "J.S. Linder", "L.R. Kump"],
+    "year": 2009
+  }, {
+    "title": "Middle–Late Ordovician (Darriwilian–Sandbian) decoupling of global sulfur and carbon cycles: isotopic evidence from eastern and southern Laurentia",
+    "authors": ["S.A. Young", "B.C. Gill", "C.T. Edwards", "M.R. Saltzman", "S.A. Leslie"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2016
+  }, {
+    "title": "Ordovician stable carbon isotope stratigraphy in the Tarim Basin, NW China",
+    "authors": ["Y. Zhang", "A. Munnecke"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2016
+  }, {
+    "title": "High-resolution carbon isotopic records from the Ordovician of South China: links to climatic cooling and the Great Ordovician Biodiversification Event (GOBE)",
+    "authors": ["T. Zhang", "Y. Shen", "T.J. Algeo"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2010
+  }, {
+    "title": "Sufficient oxygen for animal respiration 1,400million years ago",
+    "authors": ["S. Zhang", "X. Wang", "H. Wang", "C.J. Bjerrum", "E.U. Hammarlund", "M.M. Costa", "J.N. Connelly", "B. Zhang", "J. Su", "D.E. Canfield"],
+    "venue": "Proc. Natl. Acad. Sci. U. S. A",
+    "year": 2016
+  }, {
+    "title": "Carbon and oxygen isotope variation and its implication for marine sequence: a case study of Ordovician in Tarim Basin",
+    "authors": ["Z. Zhao", "J. Wang", "P. Wang"],
+    "venue": "Pet. Res",
+    "year": 2017
+  }, {
+    "title": "Middle to Late Ordovician (Darriwilian-Sandbian) conodonts from the Dawangou section, Kalpin area of the Tarim Basin, northwestern China",
+    "authors": ["Y.Y. Zhen", "Z. Wang", "Y. Zhang", "S.M. Bergström", "I.G. Percival", "J. Cheng"],
+    "venue": "Rec. Aust. Mus",
+    "year": 2011
+  }, {
+    "title": "Astronomical calibration of the Middle Ordovician of the Yangtze Block, South China",
+    "authors": ["Y. Zhong", "H. Wu", "Y. Zhang", "S. Zhang", "T. Yang", "H. Li", "L. Cao"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2018
+  }],
+  "id": "SP:97375863b7dc821ba2fab6f96790d1b4be00567c",
+  "authors": [{
+    "name": "Mu Liu",
+    "affiliations": []
+  }, {
+    "name": "Daizhao Chena",
+    "affiliations": []
+  }, {
+    "name": "Xiqiang Zhou",
+    "affiliations": []
+  }, {
+    "name": "Wei Yuan",
+    "affiliations": []
+  }, {
+    "name": "Maosheng Jiang",
+    "affiliations": []
+  }, {
+    "name": "Lijing Liu",
+    "affiliations": []
+  }],
+  "abstractText": "The Middle-Late Ordovician transition (Darriwilian to Sandbian Age) witnessed a major pulse of the Great Ordovician Biodiversification Event (GOBE) and distinctive oceanic geochemical fluctuations, such as coeval negative C and Sr isotope excursions. In this study, investigations into geochemical variations, notably the Hg abundance (or Hg/TOC), have been carried upon the organic-rich black shale of the Middle-Upper Ordovician Saergan Formation to unravel the causes of this pulse. Based on these data, three phases were identified. Phase 1 (0 to 3m) is characterized by rising Hg/TOC (up to 138 ppb/wt%) and Ti/Al values as well as high CIAcorr (corrected chemical index of alteration) values (68.9–72.3) with negligible enrichment of redox sensitive elements (RSE) and nutrient elements (e.g. U≤ 5.2 ppm, V≤ 153 ppm, Mo≤ 1.8 ppm, P2O5≤ 0.2%), suggesting intensified volcanism, which could have emitted significant amounts of greenhouse gases, thereby leading to climate warming. In contrast, Phase 2 (3 to 11m) is characterized by decreasing Hg/TOC and Ti/Al ratios, relatively low though slightly fluctuating CIAcorr values, generally depleted in RSE (except moderately enriched U up to 14.6 ppm) and increased P/Al and Ba/Al ratios, implying weakening volcanic activity and subsequent climate cooling and the potential for improved seawater ventilation as a result of oceanic upwelling. Phase 3 (Sandbian Age: 11–13m) witnessed continuous decrease in Hg/TOC ratio, an increase in Ti/Al and CIAcorr values, fairly low values of RSE enrichment and P/Al and Ba/Al ratios, indicating recurrent climate warming, and the potential for slowed oceanic circulation and attenuated upwelling of nutrient-rich deep waters onto the shallow shelf. These changes could have diminished bioproductivity and organic output onto the seafloor. This study offers insights into volcanic-climatic-oceanic interactions during a major pulse of the GOBE around the Middle-Late Ordovician transition while black shales were extensively deposited.",
+  "title": "Climatic and oceanic changes during the Middle-Late Ordovician transition in the Tarim Basin, NW China and implications for the Great Ordovician Biodiversification Event"
+}

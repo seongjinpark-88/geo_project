@@ -1,0 +1,423 @@
+{
+  "sections": [{
+    "text": "Contents lists available at SciVerse ScienceDirect\nEarth and Planetary Science Letters\nj ourna l homepage: www.e lsev ie r .com/ locate /eps l\nRapid emplacement of the Central Atlantic Magmatic Province as a net sink for CO2 Morgan F. Schaller a,⁎, James D. Wright a, Dennis V. Kent a,b, Paul E. Olsen b\na Earth and Planetary Sciences, Rutgers University, 610 Taylor Rd. Piscataway, NJ 08854, USA b Lamont–Doherty Earth Observatory of Columbia University, Rt. 9W, Palisades, NY 10964, USA\n⁎ Corresponding author. E-mail address: schaller@rci.rutgers.edu (M.F. Schall\n0012-821X/$ – see front matter © 2012 Elsevier B.V. Al doi:10.1016/j.epsl.2011.12.028\na b s t r a c t a r t i c l e i n f o\nArticle history: Received 8 June 2011 Received in revised form 21 October 2011 Accepted 21 December 2011 Available online 16 February 2012\nEditor: G. Henderson\nKeywords: Large Igneous Province atmospheric carbon dioxide Triassic–Jurassic CO2 chemical weathering\nRecent evidence from the ~201.5 Ma Central AtlanticMagmatic Province (CAMP) in the Newark rift basin demonstrates that this Large Igneous Province produced a transient doubling of atmospheric pCO2, followed by a falloff to pre-eruptive concentrations over ~300 kyr. This paper confirms the short-term findings from the Newark basin, and tests themillion-year effects of the CAMPvolcanismonEarly Jurassic pCO2 fromstrata in the corollaryHartford basin of Eastern North America (ENA) also using the pedogenic carbonate paleobarometer.We find pCO2 levels for pre-CAMP background of 2000±700 ppm (at S(z)=3000±1000 ppm), increasing to ~5000±1700 ppm immediately above the first lava flow unit, consistent with observations from the Newark. The longer post-extrusive Portland Formation of the Hartford basin records a fourth pulse of pCO2 to ~4500±1200 ppm, about 240 kyr after the last lava recorded in the ENA section. We interpret this fourth increase as due to a major episode of volcanism, and revise the main CAMP duration to 840±60 kyr. The Portland also records a post-eruptive decrease in pCO2 reaching pre-eruptive background concentrations of ~2000 ppm in only ~300 kyr, and continuing to levels below pre-CAMP background over the subsequent 1.5 Myr following the final episode of eruptions. Geochemical modeling (using modified COPSE code) demonstrates that the rapidity of the pCO2 decreases, and fall to concentrations below background can be accounted for by a 1.5-fold amplification of the continental silicate weathering response due to the presence of the CAMP basalts themselves. These results demonstrate that a continental flood basalt capable of producing a short-term perturbation of the carbon system may actually have an overall netcooling effect on global climates due to a long-term net-decrease in pCO2 to below pre-eruptive levels, as previous models have suggested followed the emplacement of the Deccan Traps.\n© 2012 Elsevier B.V. All rights reserved."
+  }, {
+    "heading": "1. Introduction",
+    "text": "Covering millions of square kilometers of continental area, continental flood basalts are Large Igneous Provinces (LIPs) that may produce in excess of several million cubic kilometers of lava (Coffin and Eldholm, 1993). The great volume and aerial extent of these eruptions, and their intriguing association with mass extinction events throughout earth history (Courtillot and Renne, 2003; Wignall, 2001), has spurred interest in the potential of LIPs to alter the composition of Earth's atmosphere through the emission of gases — primarily SO2 and CO2 (Self et al., 2008). Until recently, geochemical modeling and effusive flux estimates seemed to suggest that CO2 degassed during continental flood volcanism probably has a negligible long-term effect on the atmosphere (e.g., Caldeira and Rampino, 1990; Self et al., 2006). Most recently, Schaller et al. (2011a) tested the direct effects of a LIP using the pedogenic carbonate paleobarometer (Cerling, 1999) on sediments in superposition with the extrusives of the Triassic–Jurassic Central Atlantic Magmatic Province (CAMP) in the Newark basin of eastern North America (Fig. 1).\ner).\nl rights reserved.\nSchaller et al. (2011a) demonstrated that the short term (104–105- year) effects of a continental flood basalt on atmospheric pCO2 may be substantial – a doubling of pCO2 in apparent response to eachmagmatic episode – and yet quite transient with a steady decrease in atmospheric pCO2 over the ~300 kyr following each volcanic episode.\nSeveral independent geochemical models have predicted such a transient response following the eruption of the Deccan Traps (Caldeira and Rampino, 1990; Dessert et al., 2001). The model of Dessert et al. (2001) specifically predicts atmospheric CO2 concentrations falling some 20% below pre-eruptive background by about 1 million years after the eruption of the Deccan Traps, an effect attributed to an acceleration of global silicate weathering further amplified by the presence of fresh weatherable basalt. However, due to the absence of continuous sedimentary sections where the appropriate lithology is interbedded with volcanics, such a response to any LIP other than the CAMP has not yet been explicitly identified. Encouragingly, immediately post-eruptive pCO2 decreases have been observed in the Newark basin following the CAMP eruptions (Schaller et al., 2011a), and the corollary Hartford basin of eastern North America contains a much longer post-extrusive section (Kent and Olsen, 2008) where the long-term response of the system may be tested. In this paper we first use the pedogenic carbonate paleobarometer (Cerling, 1999) to demonstrate increases in pCO2 coincident with\npulses of CAMP volcanism in the equivalent strata of the Hartford basin. We further use the thick post-CAMP Portland Formation to evaluate the long-term decrease in pCO2 as a function of increased global silicate weathering, testing the hypothesis that the presence of 2–4×106 km3 of fresh CAMP basalt (McHone et al., 2003) is capable of reducing pCO2 to below pre-eruptive background concentrations."
+  }, {
+    "heading": "2. The CAMP record in the Newark and Hartford basins",
+    "text": "The Central AtlanticMagmatic Province (CAMP;Marzoli et al., 1999) is perhaps the largest continental flood basalt of the Phanerozoic, with latest Triassic and earliest Jurassic tholeiitic basalts andmafic intrusions preserved on four continents, and an aerial extent of greater than 1.12×107 km2 (McHone et al., 2003) (Fig. 1). CAMP basalts span the Mesozoic rift zone of the Pangean supercontinent, and despite heavy erosion, are well exposed in the rift basins of eastern North America and Morocco, where they have been extensively studied. More poorly understood constituents of the CAMP are preserved in West Africa, Europe, and extensive regions of South America. However, 40Ar/39Ar radiometric ages for this vast collection of lava flows and intrusives are essentially indistinguishable within the dating error (e.g., Hames et al., 2000; Jourdan et al., 2009; Knight et al., 2004; Marzoli et al., 2004; Marzoli et al., 2011; Nomade et al., 2007; Verati et al., 2007), and center the eruptive events around ~201 Ma. More precise U–Pb dates place some of the first flow units at 201.38±0.31 Ma (Schoene et al., 2010) in Eastern North America.\nThe half-graben rift basins of the Newark Supergroup in Eastern North America contain Late Triassic to Early Jurassic age strata, the\nmajority of which are shallow to deep lacustrine, fluvial, alluvial and playa facies (Olsen, 1997; Smoot, 1991). The lacustrine sedimentary units in each basin display a rhythmic succession of facies that reflect periodic fluctuations in lake depth (Van Houten, 1962), which have been related directly to Milankovitch orbital forcing of tropical precipitation (Olsen, 1986; Olsen and Kent, 1996). The stratigraphy of the Newark basin is precisely known from a continuous cored section through the center of the basin (Kent et al., 1995; Olsen et al., 1996a), and this record of orbitally forced sedimentation provides the astronomical chronometer used to construct the geomagnetic polarity time scale for more than 33 Myr of the Late Triassic and Early Jurassic (Kent and Olsen, 1999; Kent et al., 1995; Olsen and Kent, 1996, 1999).\nThe CAMP extrusive interval sits near the top of the Newark basin section and is composed of three lava flow units (stratigraphically upward, the Orange Mountain, Preakness, and Hook Mountain Basalts), with significant sedimentary sequences above each of them (Feltville, Towaco, and Boonton Formations, respectively) (Figs. 1 and 4). Milankovitch cycle-stratigraphy on these sediments has constrained the duration of volcanism in the Newark basin to ~600±20 kyr (Olsen et al., 1996b; Olsen et al., 2003; Whiteside et al., 2007), where the Feltville Formation represents ~260 kyr, the Towaco Formation ~290 kyr; the first flow unit (Orange Mountain Basalt) was apparently extruded within a single precession cycle. The Hook Mountain Basalt is also within a precession cycle whereas the duration of the Preakness Basalt can presently only be constrained to ~60±20 kyr (Whiteside et al., 2007). In these primarily lacustrine units, paleosols with varying degrees of pedogenic carbonate development formed during the dry phases associated with low lake\ndepth. Schaller et al. (2011a) used these soils to test both the magnitude and duration of the effects of the CAMP volcanism on atmospheric pCO2.\nIn the Hartford basin, the oldest strata are the fluvial and marginal lacustrine facies of the Triassic New Haven Formation, where pedogenic carbonate-bearing paleosols are abundant (Hubert, 1978). The first volcanic unit is the Talcott Basalt, followed by the Holyoke and Hampden basalts, interbedded with the cyclic lacustrine sequences of the Shuttle Meadow and East Berlin Formations and the Smith's Ferry and Park River members of the lower Portland Formation (Figs. 1 and 3). Interspersed throughout these lake sequences are more weakly developed paleosols, where periodic subaerial exposure of the primary sediments allowed soil-forming processes to operate on the lake margins (e.g., Tanner, 2003).\nThe predictive framework of Milankovitch cycle stratigraphy has been used to demonstrate that the flow units and interbedded sedimentary sequences of the Hartford basin are directly equivalent to those present in the Newark basin (Olsen, 1988; Whiteside et al., 2007) (Figs. 1 and 4). Therefore, the Shuttle Meadow Formation represents ~260 kyr, and the East Berlin Formation ~290 kyr. Recently, the magnetostratigraphy of the Hartford basin has extended the Newark timescale into the Early Jurassic (Kent and Olsen, 2008), through sampling of the largely lacustrine lower 2000 m of the thick post-extrusive Portland Formation, which is the primary focus of the current study."
+  }, {
+    "heading": "3. Estimating pCO2 from pedogenic carbonates",
+    "text": "Pedogenic carbonate nodules were collected from paleosols located stratigraphically above and below each of the CAMP flows in the Hartford basin from both cores and outcrop. Samples from New Haven Formation, distributed 500 and 1200 m below the Talcott Basalt, provided a pre-CAMP baseline. Since the mostly fluvial New Haven lacks cycle or magnetic stratigraphy, these samples are treated as a single relative background value for comparison to the Newark basin record. The samples situated ~1200 mbelow the Talcott Basalt are from exposures dated using U–Pb at 211±2.1 Ma by Wang et al. (1998), and we estimate the sample at 500 m below the basalt to be ~205 Ma. Samples from the lower Shuttle Meadow Formation are from a cored section near Berlin, CT (Silver Ridge Core B-1 (see Whiteside et al., 2011)) as well as from outcrop. The upper 75% of the East Berlin Formation is well exposed but suitable paleosols are rare. The lower 600 m of the post-extrusive Portland Formation is covered in high resolutionwith significant overlap by a series of short geotechnical cores taken by the Army Corps of Engineers (ACE) during construction of the Park River flood diversion tunnel project (Kent and Olsen, 2008; Pienkowski and Steinen, 1995). Samples from exposures in the middle to upper Portland Formation were assembled using the stratigraphy of Kent and Olsen (2008), and our uppermost sample is from near the top of the mostly lacustrine part of the Portland Formation (see Table 1 for all sample and core location data).\nOrganic and inorganic carbon isotope measurements from these paleosols were input into the soil diffusion model of Cerling (1999):\nCa ¼ S zð Þ δs−1:0044δϕ−4:4\nδa−δs\nwhere Ca is the concentration of atmospheric CO2, S(z) is the concentration of CO2 at soil depths greater than 50 cm contributed by the respiration of soil organic matter, δs is the δ13C of soil CO2, δφ is the δ13C of soil-respired CO2, and δa is the δ13C of atmospheric CO2. All δ values are relative to Vienna PeeDee Belemnite (VPDB).\nThe carbon isotopic ratio of soil carbonate (δcc) is used as a proxy for δs, which involves a temperature-dependent equilibrium fractionation between CaCO3 and CO2, described by:\n103lnα ¼ 11:709–0:116 Tð Þ þ 2:16 10−4 Tð Þ2\n(Cerling, 1999) where α is the fractionation factor, and temperature (T, in °C) is fixed at 25 °C, as appropriate for the tropical Newark basin. Because there is no carbon isotope fractionation due to respiration, δφ is related directly to the carbon isotopic ratio of soil organic matter (δ13Corg). The carbon isotopic ratio of the atmosphere is calculated from the measured δ13Corg by the following relationship (Arens et al., 2000):\nδa ¼ δ13Corg þ 18:67 =1:10\nwhich assumes consistent fractionation by photosynthesis. This builds carbon cycle perturbations directly into the model. The only adjustable parameter of the model is the concentration of CO2 in the soil derived from the respiration of organic matter (S(z)), which is a function of soil productivity. The paleosols sampled in this study were relatively productive argillic and vertic calcisols (Mack et al., 1993), with mean depth to the Bk horizon (Ds) at 40±15 cm soil depth, which we use to estimate S(z) by the following empirical relationship: S(z)=66.7Ds+588 (Retallack, 2009). This results in a mean S(z) of ~3256 with an SE of±893 ppm. Given the difficulty inherent in accurately estimating depth to the Bk horizon in individual paleosols from drill cores, and in accordance with the work of Breecker et al. (2009, 2010), we use an S(z) value of 3000±1000 ppm for all pCO2 estimates, which gives a final pCO2 range that is indistinguishable from the error that would result from systematic use of the empirical depth to carbonate relationship. Individual soil profiles were not decompacted (Retallack, 2009), and our S(z) approximations are therefore conservatively low.\nA combination of thin sections and polished slabs are used to identify primary micritic calcite from diagenetic material (Driese and Mora, 2002),with a sampling preference for small, isolated carbonate nodules that are generally in better isotopic equilibrium with the surrounding soil than larger nodules or calcretes (Schaller et al., 2011a). Great care was taken to avoid phreatic calcretes, and to sample only those displaying clear evidence of having formed in the vadose zone (Rasbury et al., 2006). Samples for organic carbon isotope analysis were taken from as close to the soil-surface as possible to avoid measuring recalcitrant organics unrelated to the active organic carbon pool during soil formation (Nadelhoffer and Fry, 1988), and several samples from each profile were homogenized to provide a more representative organic carbon value.\nThe δ13C value of pedogenic carbonate is known to decrease predictably with soil depth (Quade et al., 1989), and characterizing this trend makes it possible to differentiate between the relative influences of the atmospheric vs. soil-respired CO2 reservoirs. Therefore, multiple (at least 5) down profile isotopic measurements were made on each paleosol to identify an equilibrium δcc value with depth in the soil (Schaller et al., 2011a) (Fig. 2). Using the mean of these depth-controlled measurements ensures that the mixing between the atmospheric and soil-respired reservoirs is at equilibrium with respect to the diffusion model, removing significant uncertainty in the isotopic maturity of a given paleosol profile.\nChronostratigraphic placement follows the cycle and magnetic stratigraphy of Kent and Olsen (2008) and Olsen et al. (2005). In the Park River ACE core suite, this cyclostratigraphy provides direct stratigraphic age control to the level of orbital precession, and correlates unambiguously to the post-extrusive Boonton Formation of the Newark basin (Kent and Olsen, 2008; Olsen et al., 2005)."
+  }, {
+    "heading": "4. Results",
+    "text": "The depth-equilibrated mean stable carbon isotopic composition of pedogenic carbonate (δ13Ccc) from exposures 500 to 1200 m below the Talcott basalt in the New Haven Formation ranges from −7.7 to −7.2‰ (relative to VPDB), which are\ncomparable to values from the Passaic Formation of the Newark basin (see Table 1). These values are very close to those of Suchecki et al. (1988) from the New Haven Formation, which help to establish a consistent average pre-eruptive background. Stratigraphically above the Talcott Basalt, in the lower Shuttle Meadow Formation, pedogenic carbonates have δ13C values of −3.2‰, which decrease to −6.6‰ toward the top of the formation (Fig. 3). Comparable values of−6.3‰ are found at the top of the East Berlin Formation,which sits stratigraphically above the Holyoke Basalt (the second flow unit). The δ13C of soil organic matter was between −26.3‰ and −26.0‰ in the Shuttle Meadow and upper East Berlin formations. These values are consistent with results from the Feltville and Towaco Formations of the Newark basin (Schaller et al., 2011a), and the high δ13C of pedogenic carbonate above the Talcott Basalt (equivalent of the Newark Orange Mountain Basalt) probably represents the increased influence of the atmospheric CO2 reservoir on pedogenic carbonate formed at depth.\nCalculated pCO2 levels through the New Haven Formation are treated as a single value, averaging 1900±650 ppm. Those samples from exposures roughly 1200 m below the Talcott basalt have a U–Pb age of 211.9±2.1 Ma (Table 1) (Wang et al., 1998), and calculated pCO2 values of ~1800 to 2200±700 ppm\n(Table 1; all pCO2 estimates at S(z)=3000±1000 ppm), which are comparable to the ~2000±700 ppm of Schaller et al. (2011a) from the pre-CAMP Passaic Formation (204 to 201.5 Ma) in the Newark basin. These samples from the lower New Haven indicate that a pre-eruptive Triassic pCO2 baseline may have persisted for at least ~10 Myr before the initial CAMP eruptions, a significant extension of the available Newark record.\nJust above the Talcott Basalt in the Shuttle Meadow Formation, pCO2 increases to ~5000±1500 ppm followed by a decrease to ~3000±1000 ppm just beneath the Holyoke Basalt. These pCO2 levels are comparable to those observed in the first posteruptive strata of the Feltville Formation in the Newark basin, at ~4400±1400 ppm directly on top of the Orange Mountain Basalt (Fig. 4). Atmospheric pCO2 at the top of the East Berlin Formation, just below theHampden Basalt, is roughly 2200±750 ppm,which is consistent with the ~2000 ppm background values found at the top of the Towaco Formation of theNewark basin (Fig. 4). Although the resolution of these few inter-CAMP points in the Hartford basin is sporadic, their consistency with the record from the Newark strata (Fig. 4) reinforces the independence of individual values and the global applicability of this approach.\nIn the post-extrusive Portland Formation, pedogenic carbonates have δ13C values of −3 to −5‰ just above the Hampden Basalt, decreasing to −7‰ about 200 m up section (Fig. 3). Around 240 m above the Hampden Basalt, the δ13Ccc again increases to −3.5‰, followed by a falloff through the rest of the sampled Portland Formation to a minimum of −9.5‰ ~2400 m (1.8 Myr) above the Hampden Basalt. The δ13C of soil organic matter (δ13COM) also shows variability through the Portland Formation, ranging from −24.9‰ to −27.8‰ (Fig. 3). Similar to the Newark record, δ13COM decreases slightly just above the Hampden Basalt, followed by an immediate swing toward higher values. Overall, the lower Portland Formation exhibits ~3‰ variability in δ13COM that stabilizes up section.\nCalculated atmospheric pCO2 in the Portland Formation shows a few distinct trends. In soils formed directly on top of the Hampden Basalt, pCO2 levels are ~5400±1500 ppm, with some fluctuation in the calculated pCO2 level before settling to ~4300±1200 ppm (Fig. 3). This apparent fluctuation, observed in a single core above the Hampden Basalt, is driven by the δ13C of soil organic matter, because the δ13C of pedogenic carbonate is relatively stable in the first 10 m above the basalt. Because these soils are relatively weakly developed and organic matter was rare, the few apparently lower pCO2 values are likely a product of 13C enriched recalcitrant organic matter that is unrelated to the active decomposition pool during pedogenesis (Nadelhoffer and Fry, 1988). Aside from these few points, the majority of the calculated pCO2 changes in the Hartford basin appear to be driven by the δ13C of pedogenic carbonate.\nAbove the initial increase, atmospheric pCO2 gradually decreases to near background levels in the first 200 m of the post-extrusive\nPortland Formation. At about 240 m above the Hampden Basalt, pCO2 again peaks to ~4500±1200 ppm, which is captured laterally across 2 individual cores, followed by a steady decrease to below background levels through the rest of the 1700 m of sampled section (Fig. 3).\nBecause the Park River Member is equivalent to a part of the Boonton Formation of the Newark basin, the pCO2 values found in the Portland are expected to be consistent with the Boonton record, where an increase to ~5000 ppm is noted just above the Hook Mountain Basalt (Fig. 4), and where the next few samples some 350 m up section yield pCO2 levels of ~3000–2500 ppm. These values from the upper Boonton Formation were previously thought to be anomalously high, but are in fact directly consistent with similar high concentrations following the pCO2 peak at 240 m in the Portland Formation. It appears that the full expression of the final observed pCO2 pulse of the Portland (the fourth of the Newark–Hartford section) was simply not captured by the low resolution record from the Boonton Formation due to lack of appropriate lithology, and yet the few points present in the upper Newark match their chronostratigraphic equivalents in the Hartford. The pCO2 estimates from the Portland Formation show excellent reproducibility across section between overlapping individual cores. Overall, the Hartford basin pCO2 record is tightly consistent with that of the Newark basin (~250 km to the south), despite independent age control used for correlation (errorwithin a fewprecession cycles between basins) andour use of parameterized S(z) values of 3000±1000 ppm, and temperatures fixed at 25 °C in the records generated from both basins (Figs. 4 and 6)."
+  }, {
+    "heading": "5. A fourth major pulse of volcanism?",
+    "text": "With one exception, each pulse of CO2 observed in the Newark and Hartford records is found only directly above a unit of CAMP lavas, and each observed pCO2 increase has accordingly been attributed to the volcanic activity responsible for the emplacement of the underlying extrusive unit (Schaller et al., 2011a). The observed increase in pCO2 ~240 m from the base of the Portland Formation, or ~240 kyr after the\nextrusion of the Hampden Basalt, is of roughly the same size and duration as those in theNewark andHartford record that are directly preceded by laterally extensive extrusive units (Fig. 5). Also, the δ13C of organic matter shows little indication of another (perhaps lighter) source of carbon feeding this CO2 pulse (e.g., Svensen et al., 2004). Therefore we attribute this fourth rise to a fourth episode of substantial and rapid volcanism, similar in magnitude to those episodes corresponding to the observed lava flow units in the Newark and Hartford basins.\nHARTFORD BASIN\nHowever, there is no solid evidence in Eastern North America for a fourth major pulse of CAMP activity (see Olsen et al., 2011 for review; Weems and Olsen, 1997). A thin unnamed basalt caps the Culpeper basin sequence about ~1300 m above the Sanders Basalt. However, there is structural ambiguity (Lee and\nFroelich, 1989), and the unnamed basalt may in fact be a faulted portion of the underlying Sanders Basalt (Weems and Olsen, 1997), making it an unlikely candidate for the volcanic episode that produced the fourth pCO2 increase observed in the Hartford basin.\nSimilarly, four distinct flow units have been recognized in the corollary High Atlas region of Morocco, deemed the Lower, Intermediate and Upper Units, and the Recurrent Basalt, on the basis of major element geochemistry (Bertrand, 1991). Although there is debate regarding the detailed stratigraphic placement of the Lower Basalt (Deenen et al., 2010; Marzoli et al., 2004; Whiteside et al., 2007), the Recurrent is geochemically similar to Hook Mountain and Hampden Basalts (Deenen et al., 2010; Marzoli et al., 2011), leaving the volcanism responsible for the Recurrent a possible, but still unlikely tracer for the fourth pCO2 increase observed in the Hartford basin. The South American CAMP extrusive section remains largely unstudied stratigraphically, and it is unclear how these volcanics are related to the ENA section. Despite CAMP dikes, sills and rarer lava flows preserved over several million square kilometers of northern South America (see Marzoli et al., 1999 for review), it is at present impossible to determine the precise temporal or stratigraphic relationship of these volcanic units at the level necessary to isolate a single widespread eruptive event as the cause for the fourth pCO2 pulse observed in the Hartford basin. In addition, the age(s) of the Clubhouse Crossroads Basalt and their possible relationship to the voluminous seaward-dipping reflectors offshore is unclear (Olsen et al., 2003), and hence some of this igneous activity cannot be readily dismissed as a potential source for the fourth pCO2 pulse.\nMost importantly, as evidenced by the fourth pCO2 peak in the Hartford basin, the CAMP-induced pCO2 increases should be identifiable in any section with the appropriate lithology and high sedimentation rate, regardless of the presence of CAMP lavas. Identifying these four pCO2 pulses in other basins is an essential step toward understanding the stratigraphy of the extrusive zone, and potentially adds a higher degree of precision to global correlation. In that light, the identification of a fourth apparent volcanogenic pulse in the Hartford basin allows us to revise the total duration of CAMP induced high pCO2 as observed in the ENA basins from 600±20 kyr (Olsen et al., 2003; Whiteside et al., 2007), to 840±60 kyr, based on the amount\nof time present between the base of the Talcott Basalt and the last apparent pulse of CO2 in the Portland Formation using the chronostratigraphy of Kent and Olsen (2008)."
+  }, {
+    "heading": "6. Weathering of the CAMP basalts",
+    "text": "A notable characteristic of the post-eruptive CAMP record is the striking decrease in atmospheric pCO2 within a few hundred thousand years of basalt emplacement (Fig. 6). In the Newark record pCO2 falls from an excess of ~4000 ppm to nearly background levels of ~2000 ppm within ~300 kyr of the extrusives. Similarly, in the post-extrusive Portland Formation of the Hartford basin, we observe a decrease over a comparable timescale (following both the Hampden Basalt and the fourth pCO2 increases discussed above). Unlike the others, pCO2 continues to decline following the final pulse in the Portland Formation, and ultimately levels off at concentrations below preeruptive background. We hypothesize that both the rapidity of the pCO2 decreases, and the fall in pCO2 to below background are due to the rapid consumption of CO2 by an overall increase in continental weathering, which is accelerated by the relatively rapid hydrolysis of the freshly erupted CAMP silicates themselves."
+  }, {
+    "heading": "6.1. Modeling the post-extrusive pCO2 decrease",
+    "text": "Here, we use a geochemical model to demonstrate that the rapid decrease in atmospheric pCO2 following the CAMP eruptions may indeed be due to basalt-induced amplification of the predicted increase in continental weathering. We use a modified version of the COPSE biogeochemical model (Bergman et al., 2004) in perturbation mode, which couples the carbon, oxygen, phosphorus and sulfur cycles, with explicit feedbacks between atmospheric pCO2 and temperature to the rate of continental silicate weathering.\nIn the case of the Orange Mountain Basalt in the Newark basin (the oldest flow unit), the duration of eruption is well constrained\nto within a single precession cycle (Olsen et al., 2003; Whiteside et al., 2007), and a doubling of pCO2 over pre-eruptive background is observed directly on top of the uppermost lava flow of the Orange Mountain. Each volcanic episode shows roughly the same pCO2 response, with a similar durational constraint (with the exception of the Preakness and equivalent Holyoke basalts), and we are not aware of any data, geochemical or otherwise, that precludes an eruption time as short as 1000 years (1 kyr) for a single extrusive unit (e.g., see Schaller et al., 2011b). The absence of significant sedimentary strata or deepweathering profiles between individual lava flows of a single extrusive unit (e.g., within the Hampden Basalt) favors a short amount of time between lava flows, especially considering the high long-term sediment accumulation rates of ~1 meter per thousand years (Kent and Olsen, 2008). Therefore, we use a total eruptive duration of 1000 years for a single extrusive unit in our geochemical modeling, and for reference, show the results of a 10,000- year (10 kyr) degassing scenario with an identical release.\nThe perturbation mode of the modified COPSE model starts from a 100 kyr steady state where mid-ocean ridge degassing is balanced by silicate weathering as a function of pCO2 and temperature at initial conditions. The model couples the surface ocean-atmospheric C-reservoir on a 1000-yr time-scale, and runs at 100-yr timesteps. In our simulations, we roughly double the size of the atmospheric fraction of the coupled ocean–atmosphere reservoir by adding 3.5×1017 mol of CO2 over 1000 years to reproduce the observed doubling of atmospheric CO2 immediately following the CAMP eruptions, which is roughly one third of the total CO2 potentially degassed from a total estimated CAMP basalt volume of the ~3×106 km3 (Schaller et al., 2011a; Schaller et al., 2011b; Self et al., 2006). We run the model for a total of 1900 kyr, and in the reference run simply watch the weathering response of the system to this doubling over the ensuing 1800 kyr of model time. In an attempt to simulate the effect of an increase in the weathering potential of the\ncontinental surface, we further amplify the increased rate of continental silicate weathering at the time of CO2 perturbation by 1.5 and 2 times the normal effect."
+  }, {
+    "heading": "6.2. Model results",
+    "text": "The reference simulation shows the prescribed doubling of pCO2 after the 100 kyr steady state, followed by an asymptotic drawdown to relatively stable pCO2 levels that are slightly higher than the preperturbation steady-state by 600 kyr after the release (Fig. 5, dashed red line). This suggests that the silicate weathering system is capable of removing the majority of a doubling perturbation within ~600 kyr, but the increase in weathering due to the rapid transient increase in pCO2 (and greenhouse temperature) is not enough to lower pCO2 levels below pre-eruptive background, as observed in the postCAMP record from the Hartford basin.\nA 1.5 times amplification of the increased weathering rate at the time of CO2 perturbation returns the system to pre-eruptive background pCO2 levels by ~270 kyr, and eventually falls to about 20% below steady-state background (Fig. 5, blue line). A 2 times amplification returns pCO2 to background levels by 180 kyr postperturbation, eventually falling to well below pre-eruptive background (~30%) for the remaining 1500 kyr of simulation (Fig. 5, green line). The 10 kyr reference simulations (Fig. 5, black and gray dashed lines) both show roughly 12% of the initial atmospheric pCO2 response as the 1 kyr runs using the same 3.5×1017 mol release.\nThe pCO2 decreases to below pre-eruptive background in the Portland Formation cannot be a function of a normal increase in weathering due to a CO2 perturbation (as in the reference run), indicating that some amplification of the weathering increase is required. However, a 2 times amplification (above the background increase due to increased temperature and CO2 alone) reduces pCO2 to levels further below background than observed in the Portland Formation. Therefore, we suggest that a ca. 1.5 times amplification of the silicate weathering increase adequately describes the two post-eruptive decreases observed in the Portland. This demonstrates that the highly weatherable basalts erupted into the equatorial humid belt must be partially responsible for the rapidity of the pCO2 drawdown, and the decrease to below pre-eruptive background, by amplifying the increased in global weathering rates by perhaps 1.5 times. It should be noted that the timing and duration of the pCO2 fluctuations are well-constrained parameters of the Newark–Hartford pCO2 record, due to the precision of the astrochronology on these strata (Kent and Olsen, 1999, 2008; Olsen and Kent, 1996; Olsen et al., 1996a; Olsen et al., 2003). Therefore, the rate of drawdown is entirely dependent on calculated pCO2 values and not an artifact of poor age control.\nSince the difference between the test simulations and the reference run is essentially a function of basalt area available for hydrolysis, we can estimate the proportion of basalt necessary to further amplify the rate of continental weathering by a factor of 1.5. Assuming that a continental flood basalt may weather at a rate 10 times that of granitic continental crust (Dessert et al., 2003; Gaillardet et al., 1999), increasing the weathering potential of the total continental surface by a factor of 1.5 may be achieved by erupting enough basalt to cover ~1/18th the continental area, or ~8.3×106 km2 (assuming total land area of roughly 1.5×108 km2). This figure is comparable to estimates of the CAMP eruptive area at 1.12×107 km2 (McHone et al., 2003). Additionally, it appears that the rate of post-extrusive drawdown is faster in the later part of the composite Newark– Hartford record than earlier in the eruptive history (see Fig. 6). This may be due to the continuously increasing amount of basalt available to participate in weathering reactions with increasing time from the initial eruptions."
+  }, {
+    "heading": "6.3. Comparison to the Deccan",
+    "text": "Modeling experiments similar to those performed here have been used to evaluate the effects of the Deccan LIP (Caldeira and Rampino, 1990; Dessert et al., 2001), which lacks direct estimates of pCO2. In their most aggressive eruptive scenario, Caldeira and Rampino (1990) release 2.0×1017 mol CO2 over an eruptive duration of 100 kyr, resulting in a meager ~65 ppm increase in pCO2. This CO2 release is close to that used in the present study, but Caldeira and Rampino (1990) assume a much longer eruptive duration, which results in a highly attenuated effect (e.g., see Schaller et al., 2011b). They find that equilibrium is reestablished ~1.5 Myr after the eruption of the Deccan Traps; however, their model incorporates only a modest increase in continental weathering at the time of perturbation, and does not include an amplification to account for the Deccan basalts, so pCO2 does not fall below pre-eruptive background.\nIn contrast, Dessert et al. (2001) use a much larger single CO2 release (1.6×1018 mol CO2 over 100 kyr), which amounts to a ~1800 ppm increase, or a little over a doubling of atmospheric pCO2, which is similar to the increase observed in response to the CAMP. More importantly, the presence of the Deccan basalts themselves resulted in the return of pCO2 to pre-eruptive levels by 1.2 Myr after perturbation, followed by a continued decline to equilibrium at levels 20% lower than pre-eruptive concentrations. They conclude that the increased continental weathering potential afforded by the presence of the Deccan lava pilewas essential in rapidly reducing atmospheric pCO2 below steady state background.\nThe results of Dessert et al. (2001) for the Deccan are consistent with the findings of this study of the CAMP, but have a significantly longer relaxation time: pCO2 does not return to pre-eruptive background until ~1.2 Myr after perturbation in the Dessert et al. (2001) simulation, compared to the ~300 kyr return observed in the CAMP record. Several factors probably account for this difference. First, the Dessert et al. (2001) simulation releases a large quantity of CO2 over a relatively long eruptive period (100 kyr) to induce a ~doubling of atmospheric pCO2, which may take a significantly longer amount of time to remove completely. A much smaller total amount of CO2 can be released over a much shorter duration (e.g., 3.5×1017 released over 1000 years, as in our simulations) and result in roughly the same doubling of atmospheric pCO2. Thus, on timescales greater than 1000 years, or the nominal overturning time of the oceans (Broecker and Peng, 1982), nearly 10 times more CO2 is needed to produce the same atmospheric effect, which may require additional CO2 sources (e.g., see Schaller et al., 2011b; Rampino and Caldeira, 2011). This is apparent in our simulations (Fig. 5) where 3.5×1017 mol of CO2 are released on both 10 kyr and 1 kyr timescales; the 10 kyr release resulted in ~12% of the initial atmospheric pCO2 increase as that of the 1 kyr scenario. Secondly, a more minor contributing factor is that the weatherable area of the Deccan Traps was estimated to be ~2×106 km2, which is considerably smaller than the total estimated area of the CAMP eruptions (~1.12×107 km2), and hence has a more limited potential to absorb CO2. Thirdly, CAMP straddled the paleoequator where weathering may have been more intense than that of the Deccan, which was emplaced in the tropical arid belt (~26°S latitude) although it was subject to more intense weathering much later when India drifted into the equatorial humid belt (Kent and Muttoni, 2008).\nParenthetically, the rate of CO2 release will also affect the degree of ocean acidification. Hautmann (2004) hypothesized that drastic increases in pCO2 around the Triassic–Jurassic transition may have caused rapid ocean acidification, and hence undersaturation of seawater with respect to CaCO3, based on a global carbonate gap in the stratigraphic record. Berner and Beerling (2007) use a geochemical model to test this hypothesis, and conclude that a minimum release of 8.3×1017 mol CO2 (10,000 GtC) in less than 100 kyr is necessary to induce wide-spread CaCO3 dissolution. However, a degassing scenario where ~3×1017 mol CO2 is released in ~1 kyr, as we suggest\nis recorded in the Newark Group where four such pulses of roughly ~3.5×1017mol CO2 each are observed, is probably sufficient to produce a CaCO3 undersaturated ocean."
+  }, {
+    "heading": "6.4. Other indicators of increased pCO2 and global weathering rates",
+    "text": "Our pCO2 estimates are corroborated by other independent reconstructions at lower resolutions. In particular, stomatal densities have shown a doubling to tripling of pCO2 across the ETE, followed by a 600 kyr plateau at elevated concentrations (McElwain et al., 1999). Despite showing the same relative change as the Newark Group paleosol estimates, the absolute values of the stomata-based approximations are appreciably lower and show little variability within the CAMP interval. This apparent lack of resolution within the CAMP interval is probably because both the stomatal index and density proxies have an asymptotic response to increasing pCO2 (Beerling and Royer, 2002b), and therefore become insensitive at extremely high concentrations, showing little further change as saturation is approached. The offset between the paleosol estimates and the leaf stomata record may also be due to calibration issues, where the stomatal density proxy may underestimate pCO2 (Beerling and Royer, 2002a).\nPedogenic carbonate pCO2 reconstructions from the western U.S. (Cleveland et al., 2008) are comparable to the pre-eruptive background levels found in the New Haven and Passaic formations of this study. The Ghost Ranch and Montoya sections of Cleveland et al. (2008) lack CAMP volcanics and instead rely on a chronology derived from fluvial sequence stratigraphy (Cleveland et al., 2007). Without evidence that these sections extend into the Early Jurassic, long distance-correlation to the Newark record at the stage level overlaps the Ghost Ranch and Montoya pCO2 estimates with our pre-CAMP baseline. Although their estimates are highly variable, they are not inconsistent with pre-CAMP data from the Passaic (Schaller et al., 2011a) or New Haven Formations presented here (~2000±700 ppm). The variability in the Cleveland et al. (2008) data can be attributed to their lack of multiple down-profile isotope measurements, such that equilibration with soil CO2 is unknown, lack of individual organic measurements from each soil, and also to their use of temperatures estimated from the δ18O of pedogenic calcite, which has not been rigorously calibrated for use in the paleorecord (Dworkin et al., 2005).\nSeveral marine sections spanning the Late Triassic to Early Jurassic show evidence for a marked increase in basalt weathering product. Most notably, substantial fluctuations in the 187Os/188Os of seawater between ~203 and 197 Ma are found in marine sections from St. Audrey's Bay, UK (Cohen and Coe, 2007), and the Kurusu section from Japan (Kuroda et al., 2010), an effect which is attributed to increased flux of unradiogenic 188Os from the weathering of the CAMP (Cohen and Coe, 2007) (Fig. 6). To explain this relative increase in 188Os, Cohen and Coe (2007) conclude that perhaps as much as 50% of the estimated 3×106 km3 of basalt could have been removed in a 3 Myr window following the eruptions, a rate which is close to the current weathering rate of ocean island basalts (Gaillardet et al., 1999). This interpretation is also supported by 2- to 3-fold increases in Os and Re concentrations in the Kurusu section in Japan (Kuroda et al., 2010) that we correlate to the St. Audrey's Bay record via the 187Os/188Os peak in both, within the error allowed by the biostratigraphy (Ward et al., 2004). The relatively low 187Os/188Os ratio that occurs just after the initial CAMP eruptions indicates that unradiogenic 188Os was a significant proportion of the weathering flux, and the subsequent slow 187Os/188Os increase suggests that the proportion of unradiogenic component progressively decreased as the highly weatherable CAMP silicate was consumed. This scenario is consistent with our uppermost pCO2 estimate from the Portland formation, ~1.5 Myr after the last pCO2 increase, which suggests the return of atmospheric pCO2 to equilibrium levels following\nconsumption of the CAMP basalts (Fig. 5). However, our scenario leaves the decrease in 187Os/188Os leading up to the initial CAMP eruptions unexplained."
+  }, {
+    "heading": "7. Summary and conclusion",
+    "text": "This paper presents evidence for the short and long-term effects of the CAMP volcanism on Early Jurassic pCO2 from strata in the Hartford basin of Eastern North America. We use the pedogenic carbonate paleobarometer (Cerling, 1999) to confirm the findings of Schaller et al. (2011a) in the corollary Newark basin, and to test the million-year scale effect of the CAMP eruptions.\nWe find that the Hartford basin pCO2 record is consistent with observations from the Newark basin, where a pCO2 maximum is identified just after each volcanic episode (to levels around ~4500±1200 ppm). The significantly longer postextrusive Portland Formation of the Hartford basin shows evidence of a fourth pulse of CO2 (to 4500±1200 ppm) about 240 kyr after the last lava recorded in the Eastern North American section. We contend that this increase in CO2 is volcanic in origin and may be attributed to a fourth pulse of widespread magmatism not represented by lavas in the ENA section. Using the fourth Newark Group pulse of CO2, found 240 kyr after the Hampden Basalt, we revise the estimated CAMP duration as observed in the Eastern North American section to ~840±60 kyr.\nThe Portland Formation record also shows a rapid post-eruptive decrease in pCO2 that reaches pre-eruptive background concentrations of ~2000±700 ppm by ~250 to 300 kyr, consistent with observations from the Newark basin. Furthermore, the longer Portland Formation exhibits a long-term decrease in pCO2 over the subsequent 1.5 Myr following the final eruptive episodes, to levels below the preCAMP background. We use a geochemical model based on the COPSE code to demonstrate that the rapidity of the decreases, and the fall to concentrations below background can be accounted for by a 1.5 times amplification of the continental silicate weathering response due to the presence of the CAMP basalts themselves. If basalt has 10 times the reactivity of continental crust, such an amplification would require ~8.3×106 km2 of basalt to be erupted, comparable to estimates for the areal extent of the CAMP at 1.12×107 km2 (McHone et al., 2003). This finding is generally corroborated by other modeling efforts showing a similar response of the carbon system to the emplacement of the Deccan Traps with 1.6×1018 mol CO2 released over 100 kyr (Dessert et al., 2001). However, our result departs in that we achieve a more rapid response of the carbon system by releasing far less CO2 (3.5×1017 mol) over an eruption time of 1000 years for any one of the CAMP extrusive units. A longer eruption time therefore would require significantly more CO2 to be released to achieve the same effect.\nTogether, these results indicate that continental flood basalts may result in an extreme short-term perturbation of the carbon system, followed by a long-term net-drawdown in pCO2 to below preeruptive levels, implying that LIPs may have an overall net-cooling effect on climate through the connection between pCO2 and temperature."
+  }, {
+    "heading": "Acknowledgments",
+    "text": "We are particularly grateful to Jay Quade for his helpful discussion, Linda Godfrey for her technical lab assistance, Randy Steinen and Margaret Thomas for access to the Park River drainage project geotechnical cores, Noam Bergman for providing COPSE code, Roy Schlische for reviewing an early draft of this manuscript, and the two anonymous reviewers for their helpful critique. This research was supported by 2009 GSA and SEPM Graduate Research Awards (MFS), and an NSF grant EAR 0958867 (JDW and DVK). LamontDoherty Earth Observatory Contribution #0000."
+  }],
+  "year": 2012,
+  "references": [{
+    "title": "Can C3 plants faithfully record the carbon isotopic composition of atmospheric carbon dioxide? Paleobiology",
+    "authors": ["N.C. Arens", "A.H. Jahren", "R. Amundson"],
+    "year": 2000
+  }, {
+    "title": "Fossil plants as indicators of the phanerozoic global carbon cycle",
+    "authors": ["D.J. Beerling", "D.L. Royer"],
+    "venue": "Ann. Rev. Earth Planet. Sci",
+    "year": 2002
+  }, {
+    "title": "Reading a CO2 signal from fossil stomata",
+    "authors": ["D.J. Beerling", "D.L. Royer"],
+    "venue": "New Phytol",
+    "year": 2002
+  }, {
+    "title": "COPSE: a new model of biogeochemical cycling over Phanerozoic time",
+    "authors": ["N.M. Bergman", "T.M. Lenton", "A.J. Watson"],
+    "venue": "Am. J. Sci",
+    "year": 2004
+  }, {
+    "title": "Volcanic degassing necessary to produce a CaCO3 undersaturated ocean at the Triassic–Jurassic boundary. Palaeogeogr",
+    "authors": ["R.A. Berner", "D.J. Beerling"],
+    "venue": "Palaeoclimatol. Palaeoecol",
+    "year": 2007
+  }, {
+    "title": "The Mesozoic tholeiitic provinces of northwest Africa: a volcanotectonic record of the early opening of central Atlantic, magmatism in extensional structural settings",
+    "authors": ["H. Bertrand"],
+    "year": 1991
+  }, {
+    "title": "Seasonal bias in the formation and stable isotopic composition of pedogenic carbonate in modem soils from central New Mexico, USA",
+    "authors": ["D.O. Breecker", "Z.D. Sharp", "L.D. McFadden"],
+    "venue": "Geol. Soc. Am. Bull",
+    "year": 2009
+  }, {
+    "title": "Atmospheric CO2 concentrations during ancient greenhouse climates were similar to those predicted for A.D. 2100",
+    "authors": ["D.O. Breecker", "Z.D. Sharp", "L.D. McFadden"],
+    "venue": "Proc. Natl. Acad. Sci",
+    "year": 2010
+  }, {
+    "title": "Tracers in the Sea",
+    "authors": ["W.S. Broecker", "T.H. Peng"],
+    "venue": "Eldigio Press Lamont Doherty Geological Observatory",
+    "year": 1982
+  }, {
+    "title": "Carbon-dioxide emissions from Deccan volcanism and a K/T boundary greenhouse-effect",
+    "authors": ["K. Caldeira", "M.R. Rampino"],
+    "venue": "Geophys. Res. Lett",
+    "year": 1990
+  }, {
+    "title": "Stable carbon isotopes in paleosol carbonates",
+    "authors": ["T.E. Cerling"],
+    "venue": "Volume 27. Special Publications of the International Association of Sedimentologists,",
+    "year": 1999
+  }, {
+    "title": "Continental sequence stratigraphy of the Upper Triassic (Norian-Rhaetian) Chinle strata, northern New Mexico, USA: allocyclic and autocyclic origins of paleosol-bearing alluvial successions",
+    "authors": ["D.M. Cleveland", "S.C. Atchley", "L.C. Nordt"],
+    "venue": "J. Sediment. Res",
+    "year": 2007
+  }, {
+    "title": "Pedogenic carbonate isotopes as evidence for extreme climatic events preceding the Triassic–Jurassic boundary: implications for the biotic crisis",
+    "authors": ["D.M. Cleveland", "L.C. Nordt", "S.I. Dworkin", "S.C. Atchley"],
+    "venue": "GSA Bull",
+    "year": 2008
+  }, {
+    "title": "Scratching the surface: estimating dimensions of large igneous provinces",
+    "authors": ["M.F. Coffin", "O. Eldholm"],
+    "venue": "Geology 21",
+    "year": 1993
+  }, {
+    "title": "The impact of the Central Atlantic Magmatic Province on climate and on the Sr- and Os-isotope evolution of seawater",
+    "authors": ["A.S. Cohen", "A.L. Coe"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2007
+  }, {
+    "title": "On the ages of flood basalt events",
+    "authors": ["V.E. Courtillot", "P.R. Renne"],
+    "venue": "C.R. Geosci",
+    "year": 2003
+  }, {
+    "title": "A new chronology for the end-Triassic mass extinction",
+    "authors": ["M.H.L. Deenen", "M. Ruhl", "N.R. Bonis", "W. Krijgsman", "W.M. Kuerschner", "M. Reitsma", "M.J. van Bergen"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2010
+  }, {
+    "title": "Erosion of Deccan Traps determined by river geochemistry: impact on the global climate and the Sr-87/Sr-86 ratio of seawater",
+    "authors": ["C. Dessert", "B. Dupre", "L.M. Francois", "J. Schott", "J. Gaillardet", "G. Chakrapani", "S. Bajpai"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2001
+  }, {
+    "title": "Basalt weathering laws and the impact of basalt weathering on the global carbon cycle",
+    "authors": ["C. Dessert", "B. Dupre", "J. Gaillardet", "L.M. Francois", "C.J. Allegre"],
+    "venue": "Chem. Geol",
+    "year": 2003
+  }, {
+    "title": "Paleopedology and stabel-isotope goechemistry of late Triassic (Carnian–Norian) paleosols, Durham Sub-Basin, North Carlina, USA: implications for paleoclimate and plaeoatmospheric pCO2",
+    "authors": ["S.G. Driese", "C.I. Mora"],
+    "venue": "Volume SEPM Special Publication,",
+    "year": 2002
+  }, {
+    "title": "Determining terrestrial paleotemperatures using the oxygen isotopic composition of pedogenic carbonate",
+    "authors": ["S.I. Dworkin", "L. Nordt", "S. Atchley"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2005
+  }, {
+    "title": "Global silicate weathering and CO2 consumption rates deduced from the chemistry of large rivers",
+    "authors": ["J. Gaillardet", "B. Dupre", "P. Louvat", "C.J. Allegre"],
+    "venue": "Chem. Geol",
+    "year": 1999
+  }, {
+    "title": "New evidence for geologically instantaneous emplacement of earliest Jurassic Central Atlantic",
+    "authors": ["W.E. Hames", "P.R. Renne", "C. Ruppel"],
+    "venue": "Magmatic Province basalts on the North American margin. Geology",
+    "year": 2000
+  }, {
+    "title": "Effect of end-Triassic CO2 maximum on carbonate sedimentation and marine mass extinction",
+    "authors": ["M. Hautmann"],
+    "venue": "Facies 50",
+    "year": 2004
+  }, {
+    "title": "Paleosol caliche in the New Haven Arkose, Nweark Group, Connecticut",
+    "authors": ["Hubert"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 1978
+  }, {
+    "title": "40Ar/39Ar ages of CAMP in North America: implications for the Triassic–Jurassic boundary and the 40K decay constant bias",
+    "authors": ["F. Jourdan", "A. Marzoli", "H. Bertrand", "S. Cirilli", "L.H. Tanner", "D.J. Kontak", "G. McHone", "P.R. Renne", "G. Bellieni"],
+    "venue": "Lithos",
+    "year": 2009
+  }, {
+    "title": "Equatorial convergence of India and early Cenozoic climate trends",
+    "authors": ["D.V. Kent", "G. Muttoni"],
+    "venue": "Proc. Natl. Acad. Sci. U. S. A",
+    "year": 2008
+  }, {
+    "title": "Astronomically tuned geomagnetic polarity timescale for the Late Triassic",
+    "authors": ["D.V. Kent", "P.E. Olsen"],
+    "venue": "J. Geophys. Res. Solid Earth",
+    "year": 1999
+  }, {
+    "title": "Early Jurassic magnetostratigraphy and paleolatitudes from the Hartford continental rift basin (eastern North America): testing for polarity bias and abrupt polar wander in association with the Central Atlantic",
+    "authors": ["D.V. Kent", "P.E. Olsen"],
+    "venue": "Magmatic Province. J. Geophys. Res. Solid Earth",
+    "year": 2008
+  }, {
+    "title": "Late Triassic–earliest Jurassic geomagnetic polarity sequence and paleolatitudes from drill cores in the Newark rift basin, eastern North America",
+    "authors": ["D.V. Kent", "P.E. Olsen", "W.K. Witte"],
+    "venue": "J. Geophys. Res",
+    "year": 1995
+  }, {
+    "title": "The Central Atlantic Magmatic Province at the Triassic–Jurassic boundary: paleomagnetic and Ar-40/Ar-39 evidence from Morocco for brief, episodic volcanism",
+    "authors": ["K.B. Knight", "S. Nomade", "P.R. Renne", "A. Marzoli", "H. Bertrand", "N. Youbi"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2004
+  }, {
+    "title": "Marine osmium isotope record across the Triassic–Jurassic boundary from a Pacific pelagic",
+    "authors": ["J. Kuroda", "R.S. Hori", "K. Suzuki", "D.R. Grocke", "N. Ohkouchi"],
+    "venue": "site. Geology",
+    "year": 2010
+  }, {
+    "title": "Triassic–Jurassic stratigraphy of the Cuulpeper and Barboursville basins, Virginia and Maryland",
+    "authors": ["K.Y. Lee", "A.J. Froelich"],
+    "year": 1989
+  }, {
+    "title": "Classification of paleosols",
+    "authors": ["G.H. Mack", "W.C. James", "H.C. Monger"],
+    "venue": "Geol. Soc. Am. Bull",
+    "year": 1993
+  }, {
+    "title": "Extensive 200-million-year-old continental flood basalts of the Central Atlantic",
+    "authors": ["A. Marzoli", "P.R. Renne", "E.M. Piccirillo", "M. Ernesto", "G. Bellieni", "A. De Min"],
+    "venue": "Magmatic Province. Science",
+    "year": 1999
+  }, {
+    "title": "Synchrony of the Central Atlantic Magmatic Province and the Triassic–Jurassic boundary climatic and biotic crisis",
+    "authors": ["A. Marzoli", "H. Bertrand", "K.B. Knight", "S. Cirilli", "N. Buratti", "C. Verati", "S. Nomade", "P.R. Renne", "N. Youbi", "R. Martini", "K. Allenbach", "R. Neuwerth", "C. Rapaille", "L. Zaninetti", "G. Bellieni"],
+    "venue": "Geology",
+    "year": 2004
+  }, {
+    "title": "Timing and duration of the Central Atlantic Magmatic Province in the Newark and Culpeper basins, eastern U.S.A",
+    "authors": ["A. Marzoli", "F. Jourdan", "J.H. Puffer", "T. Cuppone", "L.H. Tanner", "R.E. Weems", "H. Bertrand", "S. Cirilli", "G. Bellieni", "A. De Min"],
+    "venue": "Lithos",
+    "year": 2011
+  }, {
+    "title": "Fossil plants and global warming at the Triassic–Jurassic",
+    "authors": ["J.C. McElwain", "D.J. Beerling", "F.I. Woodward"],
+    "venue": "boundary. Science",
+    "year": 1999
+  }, {
+    "title": "Non-plume magmatism and tectonics during the opening of the centralAtlanticOcean",
+    "authors": ["J.G. McHone"],
+    "venue": "Tectonophysics 316,",
+    "year": 2000
+  }, {
+    "title": "Volatile emissions from the Central Atlantic Magmatic Province basalts: mass assumptions and environmental consequences",
+    "authors": ["McHone", "J.G"],
+    "venue": "Volume Geophysical Monograph,",
+    "year": 2003
+  }, {
+    "title": "Controls on natural N-15 and C-13 abundances in forest soil organic-matter",
+    "authors": ["K.F. Nadelhoffer", "B. Fry"],
+    "venue": "Soil Sci. Soc. Am. J",
+    "year": 1988
+  }, {
+    "title": "Chronology of the Central Atlantic Magmatic Province: implications for the Central Atlantic rifting processes and the Triassic–Jurassic biotic crisis",
+    "authors": ["S. Nomade", "K.B. Knight", "E. Beutel", "P.R. Renne", "C. Verati", "G. Feraud", "A. Marzoli", "N. Youbi", "H. Bertrand"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2007
+  }, {
+    "title": "A 40-million year lake record of early Mesozoic orbital climatic forcing",
+    "authors": ["P.E. Olsen"],
+    "venue": "Science",
+    "year": 1986
+  }, {
+    "title": "Continuity of strata in the Newark and Hartford Basins of the Newark Supergroup",
+    "authors": ["P.E. Olsen"],
+    "venue": "U.S. Geol. Surv. Bull",
+    "year": 1988
+  }, {
+    "title": "Stratigraphic record of the early Mesozoic breakup of Pangea in the Laurasia–Gondwana rift system",
+    "authors": ["P.E. Olsen"],
+    "venue": "Ann. Rev. Earth Planet. Sci",
+    "year": 1997
+  }, {
+    "title": "Milankovitch climate forcing in the tropics of Pangaea during the Late Triassic",
+    "authors": ["P.E. Olsen", "D.V. Kent"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 1996
+  }, {
+    "title": "Long-period Milankovitch cycles from the Late Triassic and Early Jurassic of eastern North America and their implications for the calibration of the Early Mesozoic time-scale and the long-term behaviour of the planets",
+    "authors": ["P.E. Olsen", "D.V. Kent"],
+    "venue": "Philos. Trans. R. Soc. Lond. A",
+    "year": 1999
+  }, {
+    "title": "High-resolution stratigraphy of the Newark rift basin (early Mesozoic, eastern North America)",
+    "authors": ["P.E. Olsen", "D.V. Kent", "B. Cornet", "W.K. Witte", "R.W. Schlische"],
+    "venue": "Geol. Soc. Am. Bull",
+    "year": 1996
+  }, {
+    "title": "1996b. 580 ky duration of the early jurassic flood basalt event in eastern North America estimated using Milankovitch cyclostratigraphy",
+    "authors": ["P.E. Olsen", "R.W. Schlische", "M.S. Fedosh"],
+    "venue": "Museum of Northern Arizona Bulletin,",
+    "year": 1996
+  }, {
+    "title": "Cyclo-, magneto-, and biostratigraphic constraints on the duration of the CAMP event and its relationship to the Triassic–Jurassic boundary. In: Hames, et al. (Ed.), The Central Atlantic Magmatic Province: Insights from Fragments of Pangea",
+    "authors": ["P.E. Olsen", "D.V. Kent", "M. Et-Touhami", "J. Puffer"],
+    "venue": "Volume Geophysical Monograph,",
+    "year": 2003
+  }, {
+    "title": "Jurassic cyclostratigraphy and paleontology of the Hartford Basin",
+    "authors": ["P.E. Olsen", "J.H. Whiteside", "P.M. LeTourneau", "P. Huber"],
+    "venue": "97th New England Intercollegiate Geological Conference. Conn., Department of Geology and Geophysics,",
+    "year": 2005
+  }, {
+    "title": "Implications of the Newark Supergroupbased astrochronology and geomagnetic polarity time scale (Newark-APTS) for the tempo and mode of the early diversification of the Dinosauria",
+    "authors": ["P.E. Olsen", "D.V. Kent", "J.H. Whiteside"],
+    "venue": "Earth Environ. Sci. Trans. R. Soc. Edinburgh",
+    "year": 2011
+  }, {
+    "title": "Residence time of osmium in the oceans",
+    "authors": ["R. Oxburgh"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2001
+  }, {
+    "title": "Perennial lake cycles in the lower Portland Formation, Hartford, CT",
+    "authors": ["A. Pienkowski", "R.P. Steinen"],
+    "venue": "Geol. Soc. Am",
+    "year": 1995
+  }, {
+    "title": "Systematic variations in the carbon and oxygen isotopic composition of pedogenic carbonate along elevation transects in the southern Great Basin, United States",
+    "authors": ["J. Quade", "T.E. Cerling", "J.R. Bowman"],
+    "venue": "Geol. Soc. Am. Bull",
+    "year": 1989
+  }, {
+    "title": "Comment on “Atmospheric pCO2 Perturbations Associated with the Central Atlantic",
+    "authors": ["M.R. Rampino", "K. Caldeira"],
+    "venue": "Magmatic Province”. Science",
+    "year": 2011
+  }, {
+    "title": "Calcite cement stratigraphy of a nonpedogenic calcrete in the Triassic New Haven Arkose (Newark Supergroup)",
+    "authors": ["E.T. Rasbury", "E.H. Gierlowski-Kordesch", "J.M. Cole", "C. Sookdeo", "G. Spataro", "J. Nienstedt"],
+    "year": 2006
+  }, {
+    "title": "Refining a pedogenic-carbonate CO2 paleobarometer to quantify a middle Miocene greenhouse spike",
+    "authors": ["G.J. Retallack"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2009
+  }, {
+    "title": "Atmospheric pCO2 perturbations associated with the Central Atlantic",
+    "authors": ["M.F. Schaller", "J.D. Wright", "D.V. Kent"],
+    "venue": "Magmatic Province. Science",
+    "year": 2011
+  }, {
+    "title": "Response to Comment on “Atmospheric pCO2 Perturbations Associated with the Central Atlantic Magmatic Province”",
+    "authors": ["M.F. Schaller", "J.D. Wright", "D.V. Kent"],
+    "venue": "Science, v. 334,",
+    "year": 2011
+  }, {
+    "title": "Correlating the end-Triassic mass extinction and flood basalt volcanism at the 100 ka",
+    "authors": ["B. Schoene", "J. Guex", "A. Bartolini", "U. Schaltegger", "T.J. Blackburn"],
+    "venue": "level. Geology",
+    "year": 2010
+  }, {
+    "title": "Volatile fluxes during flood basalt eruptions and potential effects on the global environment: a Deccan perspective",
+    "authors": ["S. Self", "M. Widdowson", "T. Thordarson", "A.E. Jay"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2006
+  }, {
+    "title": "Sulfur and chlorine in late cretaceous Deccanmagmas and eruptive gas release",
+    "authors": ["S. Self", "S. Blake", "K. Sharma", "M. Widdowson", "S. Sephton"],
+    "venue": "Science",
+    "year": 2008
+  }, {
+    "title": "Sedimentary Facies and Depositional-environments of Early Mesozoic Newark Supergroup Basins, Eastern North-America1991",
+    "authors": ["J.P. Smoot"],
+    "venue": "Elsevier Science Bv,",
+    "year": 1991
+  }, {
+    "title": "Release of methane from a volcanic basin as a mechanism for initial Eocene global warming",
+    "authors": ["H. Svensen", "S. Planke", "A. Malthe-Sorenssen", "B. Jamtveit", "R. Myklebust", "T.R. Eidem", "S.S. Rey"],
+    "venue": "Nature",
+    "year": 2004
+  }, {
+    "title": "Pedogenic record of paleoclimate and basin evolution in the Triassic Jurassic Fundy rift basin, Eastern Canada",
+    "authors": ["L.H. Tanner"],
+    "year": 2003
+  }, {
+    "title": "Cyclic sedimentation and the origin of analcime-rich upper Triassic Lockatong Formation, west-central New Jersey and adjacent Pennsylvania",
+    "authors": ["F.B. Van Houten"],
+    "venue": "Am. J. Sci",
+    "year": 1962
+  }, {
+    "title": "40Ar/39Ar ages and duration of the Central Atlantic Magmatic Province volcanism in Morocco and Portugal and its relation to the Triassic–Jurassic boundary",
+    "authors": ["C. Verati", "C. Rapaille", "G. FÈraud", "A. Marzoli", "H. Bertrand", "N. Youbi"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2007
+  }, {
+    "title": "Using the U–Pb system of calcretes to date the time of sedimentation of elastic sedimentary rocks",
+    "authors": ["Z.S. Wang", "E.T. Rasbury", "G.N. Hanson", "W.J. Meyers"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1998
+  }, {
+    "title": "Isotopic evidence bearing on Late Triassic extinction events, Queen Charlotte Islands, British Columbia, and implications for the duration and cause of the Triassic/Jurassic mass extinction",
+    "authors": ["P.D. Ward", "G.H. Garrison", "J.W. Haggart", "D.A. Kring", "M.J. Beattie"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2004
+  }, {
+    "title": "Synthesis and revision of groups within the Newark Supergroup, eastern North America",
+    "authors": ["R.E. Weems", "P.E. Olsen"],
+    "venue": "Geol. Soc. Am. Bull",
+    "year": 1997
+  }, {
+    "title": "Synchrony between the Central Atlantic Magmatic Province and the Triassic–Jurassic massextinction event? Palaeogeogr",
+    "authors": ["J.H. Whiteside", "P.E. Olsen", "D.V. Kent", "S.J. Fowell", "M. Et-Touhami"],
+    "venue": "Palaeoclimatol. Palaeoecol",
+    "year": 2007
+  }, {
+    "title": "Pangean great lake paleoecology on the cusp of the end-Triassic extinction",
+    "authors": ["J.H. Whiteside", "P.E. Olsen", "T.I. Eglinton", "B. Cornet", "N.G. McDonald", "P. Huber"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2011
+  }, {
+    "title": "Large igneous provinces and mass extinctions",
+    "authors": ["P.B. Wignall"],
+    "venue": "Earth Sci. Rev",
+    "year": 2001
+  }],
+  "id": "SP:81c500f0946705221d3c53487e9ea19e1d860bac",
+  "authors": [{
+    "name": "Morgan F. Schaller",
+    "affiliations": []
+  }, {
+    "name": "James D. Wright",
+    "affiliations": []
+  }, {
+    "name": "Dennis V. Kent",
+    "affiliations": []
+  }, {
+    "name": "Paul E. Olsen",
+    "affiliations": []
+  }],
+  "title": "Rapid emplacement of the Central Atlantic Magmatic Province as a net sink for CO2"
+}

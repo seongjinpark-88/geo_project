@@ -1,0 +1,521 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nEarth and Planetary Science Letters\nj ourna l homepage: www.e lsev ie r.com/ locate /eps l\nShort communication\nVentilation of CO2 from a reduced mantle and consequences for the early Martian greenhouse\nMarc M. Hirschmann ⁎, Anthony C. Withers Department of Geology and Geophysics, University of Minnesota, Minneapolis, MN 55455, United States\ngraphite\n⁎ Corresponding author. E-mail address: marc.m.hirschmann-1@umn.edu (M\n0012-821X/$ – see front matter © 2008 Elsevier B.V. Al doi:10.1016/j.epsl.2008.03.034\nA B S T R A C T A R T I C L E I N F O\nArticle history:\nBecause much or all of the M\nReceived 24 December 2007 Received in revised form 19 March 2008 Accepted 20 March 2008 Available online 7 April 2008\nEditor: R.W. Carlson\nKeywords: Mars climate volcanism CO 2 mantle\nartian mantle is apparently quite reduced, with oxygen fugacities within 1 order of magnitude of the iron–wüstite (IW) buffer, the stable form of carbon in Martian basalt source regions is likely to be graphite. The presence of graphite limits the liberation of CO2 from Martian mantle-derived magmas and thereby constrains volcanogenic fluxes of CO2 to the Martian atmosphere. Thermodynamic calculations for graphite-saturated basalt indicate that dissolved CO2 concentrations near the Martian mantle solidus range from 5 ppm at IW−1 to 500 ppm at IW+1 and vary little with pressure along the solidus, but increase with increasing temperature (and melt fraction) above the solidus. For oxygen fugacities between IW−1 and IW+1, formation of the ancient (4.5 Ga) 50 km-thick Martian crust could therefore have produced a CO2 atmosphere ranging from 70 mbar to 13 bars, depending chiefly on the mean oxygen fugacity during melting and, to a lesser extent, on temperatures and pressures of partial melting. Subsequent volcanogenic outgassing of CO2 associated with post-4.5 Ga magmatism could have contributed from 40 mbar up to 1.4 bars of CO2 to the atmosphere, depending on oxygen fugacity and the details of melting conditions. However, for both early (~4.5 Ga) and subsequent volcanic activity, large CO2 fluxes outgassed to the mantle are probable only at the more oxidized and higher temperature extrema of plausible ranges. If the oxidation state of the Martian mantle is and has been more similar to more reduced estimates, ventilation of CO2 to the Martian atmosphere has been quite limited and may not be sufficient to account for greenhouse conditions apparently required to support liquid surface waters. Finally, low concentrations of CO2 in graphite-saturated magmas under reducing conditions suggest that carbon in the Martian mantle may have originated by precipitation of graphite (or diamond) during solidification of a magma ocean.\n© 2008 Elsevier B.V. All rights reserved."
+  }, {
+    "heading": "1. Introduction",
+    "text": "A fundamental question regarding Martian climate history is the magnitude of fluxes of CO2 and other volatiles from the interior to the atmosphere and other near-surface reservoirs. Evidence for liquid water on the Martian surface during the late Noachian and Hesperian epochs (Pollack et al., 1987; Craddock and Maxwell, 1993; Carr, 1999; Mangold et al., 2004; Squyres et al., 2004) likely requires a substantial accumulation of greenhouse gases in the Martian atmosphere. Most commonly, it is assumed that this gas was principally CO2 (Pollack et al., 1987; Carr, 1999; Jakosky and Phillips, 2001), though this may be difficult to reconcile with the absence of extensive carbonate deposits on the Martian surface today (Manning et al., 2006; Chevrier et al., 2007; Halevy et al., 2007), and other gases such as SO2, NH3, and CH4 have also been proposed (Wänke and Dreibus, 1994; Sagan and Chyba,\n.M. Hirschmann).\nl rights reserved.\n1997; Chevrier et al., 2007; Halevy et al., 2007). A significant portion of the Martian atmosphere may have originated by volcanic degassing that accompanied magma ocean crystallization and formation of the crust during the earliest history of the planet. Also, maintenance of a thick CO2-rich atmosphere hundreds of Ma after the origin of the planet may require significant volcanic fluxes from the mantle later in Martian history (Pepin, 1994; Carr, 1999; Phillips et al., 2001). However, ventilation of carbon from the Martian mantle and the likely fluxes of CO2 from the Martian interior to the atmosphere and other near-surface reservoirs remain poorly constrained."
+  }, {
+    "heading": "1.1. Formation of the early Martian atmosphere",
+    "text": "The inventory of atmospheric CO2 present very early on Mars has profound influence on the subsequent climactic evolution of the planet (Pepin, 1994; Carr, 1999; Manning et al., 2006). A large atmospheric inventory of CO2 very early in Mars history may be required to account for the later persistence of a strong greenhouse, whereas a very lowmass of CO2 at the outset could have lead to loss of nearly the entire atmosphere (Carr, 1999; Manning et al., 2006). The\nthickness of the early Martian atmosphere is difficult to estimate, as the first ~50Ma of atmospheric historywas characterized by large and poorly constrained fluxes from the interior and to and from space.\nThe earliest Martian atmosphere consisted of an amalgam of volatiles liberated from infalling chondritic and cometary materials during the late stages of accretion (Pepin, 1994; Lunine et al., 2003) and gasses exhaled from melting of the Martian interior (Fig. 1A). Delivery of volatiles by chondritic meteorites and comets occurred principally in first 10 Ma (Lunine et al., 2003), whereas massive ventilation of volatiles from the interior would have occurred within the first 30–50 Ma (Elkins-Tanton et al., 2005; Nimmo and Tanaka, 2005; Solomon et al., 2005). Early accumulation of Mars' primitive atmosphere competed with coeval large scale losses to space by hydrodynamic escape (Zahnle and Kasting, 1986) and impact erosion (Melosh and Vickery, 1989), both of which diminished in importance exponentially with time.\nEarly degassing of the Martian interior may be subdivided into two stages: ventilation of gasses from a magma ocean, followed by degassing during formation of the ancient Martian crust (Fig. 1A). The total volatiles released during the magma ocean stage, which could\nhave been as brief as 0.5 Ma, but could last several 10s of Ma (Abe, 1997), was likely very large, as the surface was largely molten and vigorously replenished by foundering of protocrusts (Abe, 1997; Elkins-Tanton et al., 2005). Depending on the initial inventory of carbon and the depth of the magma ocean, Elkins-Tanton (in press) calculated that magma ocean degassing could amount to 30–900 bars of CO2. Formation of the Martian crust likely occurred during convective overturn of the mantle, immediately following solidification of the magma ocean (Elkins-Tanton et al., 2005) and resulted in formation of N90% of the 50 km-thick crust (Zuber, 2001; Nimmo and Tanaka, 2005; Solomon et al., 2005).\nAmong the three sources of the early Martian atmosphere, impacts, magma ocean exhalations, and degassing associated with formation of the crust, the last might have been the most important because it occurred later than the magma ocean and than most of the impact delivery and therefore the gases liberated had a greater potential to avoid loss to space. It is also comparatively easy to quantify, as the volume of gas liberated should be proportional to the volume of crust formed. However, the relationship between masses of liberated gas and crust formed requires estimates of the concentration of CO2 in the crust-forming magmas."
+  }, {
+    "heading": "1.2. Evolution of the Martian atmosphere after 4.5 Ga",
+    "text": "Following the chaotic first 50 Ma, the Martian atmosphere evolved chiefly by loss to space by impact erosion and sputtering, exchange with near-surface reservoirs such as carbonate weathering products, and replenishment from volcanic outgassing (Pepin, 1994; Carr, 1999; Jakosky and Phillips, 2001; Phillips et al., 2001; Manning et al., 2006) (Fig. 1B). Ventilation of mantle CO2 through time can be estimated from constraints or models of magmatic output (Craddock and Greeley, 1995; Jakosky and Shock, 1998; Carr, 1999; Phillips et al., 2001; Hauck and Phillips, 2002; Manning et al., 2006; O'Neill et al., 2007). Depending on the initial thickness of the Martian atmosphere as well as the efficiency of loss to space and storage in near-surface reservoirs, the volcanogenic component may have been crucial for the persistence of a thick CO2 atmosphere into the late Noachian or early Hesperian (~3.8 Ga; Hartmann and Neukum, 2001) (Pepin, 1994; Carr, 1999; Manning et al., 2006). For example, it has been suggested that degassing associated with the growth of the Tharsis province in the late Noachian was critical to a warm greenhouse environment at that time (Phillips et al., 2001). However, translation of these models to mass fluxes of CO2 requires an estimate for concentrations of volatiles."
+  }, {
+    "heading": "1.3. CO2 in juvenile Martian magmas: the importance of oxygen fugacity",
+    "text": "Clearly, an important parameter influencing the evolution of the Martian atmosphere is the concentration of CO2 in mantle-derived Martian magmas. There are few observational constraints on the appropriate concentrations. Analyses of SNCmeteorites yield very low total C concentrations (Wänke and Dreibus, 1994), but these are of little significance as subaerial basalts lose virtually all their CO2 prior to solidification (Dixon et al., 1997). Consequently, models of magmatic degassing of CO2 on Mars generally either treat it as a free parameter (Pepin, 1994; Carr, 1999) or assume magmatic CO2 concentrations by analogy to CO2 degassing from Hawaiian or Icelandic volcanoes, with resulting estimates varying from 0.023 to 0.65 wt.% (Craddock and Greeley, 1995; Phillips et al., 2001; Manning et al., 2006; O'Neill et al., 2007).\nAn alternative approach is to estimate the concentration of CO2 in Martian magmas based on thermodynamic equilibrium between dissolved magmatic carbonaceous species and carbon-bearing phases in the mantle. A key consideration regarding the ventilation of CO2 duringMartianmagmatism is thatmuch of themantle is thought to be very reduced (Wadhwa, 2001; Herd et al., 2002; Herd, 2003; Shearer et al., 2006; Karner et al., 2007), and therefore carbon likely resides\nchiefly as graphite, as we review in Sections 3.1 and 3.2 below. Extraction of CO2 from a graphite-saturated mantle can be estimated from the thermodynamics of CO2 solubility in mafic mantle melts, provided there are estimates of the oxygen fugacity prevailing in the source (Holloway et al., 1992; Holloway 1998). In this paper, we apply these methods to refine estimates of the CO2 fluxes from the Martian mantle through time. We consider both the contribution of volcanogenic CO2 associated with formation of the primitive Martian crust prior to 4.5 Ga as well as that associated with later magmatic activity."
+  }, {
+    "heading": "2. Martian crust production through time",
+    "text": ""
+  }, {
+    "heading": "2.1. Early crust production",
+    "text": "The early voluminous stage of Martian crust formation produced approximately 90% of the present-day Martian crust by about 4.5 Ga (Zuber, 2001; Elkins-Tanton et al., 2005; Nimmo and Tanaka, 2005; Solomon et al., 2005). Geophysical observations indicate that the crust averages 50 km thick and has a mean density of 2900 kg/m3 (Zuber, 2001), so total crust production prior to 4.5 Ga amounted to 6.4×109 km3 or 1.9×1022 kg.\nThe origin of the ancient Martian crust is often attributed to crystallization of an early magma ocean (Nimmo and Tanaka, 2005; Solomon et al., 2005), however formation of a thick basaltic crust in this fashion presents a number of petrologic and dynamical problems. First, crust resulting from magma ocean solidification would more likely be either komatiitic or anorthositic, rather than basaltic. Second, the solidification of a magma ocean is unlikely to produce a thick stable upper boundary layer, as crystallization proceeds chiefly from the bottom (Abe,1997). Recently, Elkins-Tanton et al. (2005) presented a creative resolution to this dilemma, arguing that the early Martian crust formed immediately after solidification of the magma ocean, during decompression melting of the mantle caused by convective overturn of magma ocean cumulates."
+  }, {
+    "heading": "2.2. Crust production after 4.5 Ga",
+    "text": "Following formation of most of the Martian crust during the early Noachian, magmatic formation of crust continued at a lower rate. Estimates of crust production through time derive either from photogeologic estimates (Jakosky and Shock, 1998; Greeley and Schneid, 1991) or from models linked to diminishing heat flow through time (Carr, 1999; Manning et al., 2006; O'Neill et al., 2007). Greeley and Schneid (1991) concluded that magmatic production after early Noachian totals 654×106 km3, although this estimate can vary substantially depending on the assumed ratio of intrusive/extrusive magmatism. Previous models linked to heat flow are not necessarily consistent with photogeologic estimates. For example, the model of Manning et al. (2006) produces 1.2×1010 km3 of crust between 4.5 Ga and the present— about 20 times the photogeologic estimate (Greeley and Schneid, 1991) and twice the total present-day volume of Martian crust (Zuber, 2001). Here we adopt a simple model for post-4.5 Ga crust production that scales with time according to heat flow based on the parameterization of Schubert et al. (1992) and that is tuned to sum to the total estimate of 654×106 km3 crust production over this time interval, from Greeley and Schneid (1991). The model is given by\ndV dt ¼ ae ct þ be dt ð1Þ\nwhere a and b are, respectively, 9.277×105 km3 and 2.385×105 km3 and c and d are, respectively, 6×10−3 Ma−1 and 3.98×10−4 Ma−1 and is illustrated in Fig. 2.\nA key magmatic event in Martian history was formation of the giant Tharsis province, which amounts to approximately 3×108 km3 (Phillips et al., 2001). This is about 5% of the Martian crust or approximately half of all the post-4.5 Ga Martian magmatism. Recent\nstudies suggest that the Tharsis province is dominantly late Noachian (Phillips et al., 2001), or about ~3.8 Ga (Hartmann and Neukum, 2001). Importantly, eruption of much of Tharsis may have been contemporaneous with formation of extensive valley networks that are inferred to indicate flow of liquid water on the Martian surface (Carr and Clow, 1981; Baker, 2001) and consequently require an appreciable greenhouse at ~3.8 Ga (Pollack et al., 1987; Carr, 1999). Phillips et al. (2001) posited that the CO2 outgassing from Tharsis-province volcanoes contributed an appreciable portion of the CO2 to the atmosphere, meaning that the equable climate indicated by the valley networks was catalyzed by the magmatic event. An estimate of the CO2 content of the Tharsis magmas would aid evaluation of this hypothesis."
+  }, {
+    "heading": "3. Oxidation state and storage of carbon in the Martian mantle",
+    "text": ""
+  }, {
+    "heading": "3.1. Oxidation state",
+    "text": "The advent of trace element oxybarometers has produced a great deal of new data regarding the oxygen fugacity recorded by Martian SNC meteorites (e.g., Wadhwa, 2001; Herd et al., 2002; Shearer et al., 2006; Karner et al., 2007). These studies, supplemented by more conventional petrologic (Hale et al., 1999; Herd et al., 2002; Herd, 2003) or Mössbauer oxybarometry (Dyar, 2003;Dyar et al., 2005), suggest thatMartianbasalts span about four orders of magnitude in oxygen fugacity, approximately from the IW buffer up to the quartz–fayalite–magnitite buffer. However, shergottites such as QUE 94201 and Y980459, which are isotopically depleted and, in the case of Y980459, petrologically primitive (Borg et al., 1997; Borg and Draper, 2003; McKay et al., 2004; Musselwhite et al., 2006), and therefore more likely to reflect mantle conditions, fall to the more reduced end of this trend and so it is likely that theMartianmantle has an oxygen fugacity between IW and IW+1 (Herd et al., 2002; Herd, 2003; Shearer et al., 2006; Karner et al., 2007). Less primitive SNCs with high La/Yb and high initial 87Sr/86Sr, such as Shergotty, Zagami, and Los Angeles are more oxidized (IW+2 to IW+3; Wadhwa, 2001; Herd et al., 2002; Herd, 2003), possibly reflecting crustal conditions (Wadhwa, 2001). Also, An alternative interpretation is that this spectrum of oxygen fugacities reflects mantle heterogeneity (e.g., Bridges andWarren, 2006), meaning that different regions in the Martian mantle are variably oxidized. However, if more oxidized SNC meteorites represent relatively oxidized mantle regions, then it is unlikely that these more oxidized\nconditions represent volumetrically dominant mantle domains, as these sources also have high initial 87Sr/86Sr (0.720; Herd, 2003).\nImportantly, the SNC meteorites generally yield young isotopic ages (≤1.4 Ga Nyquist et al., 2001). Evidence for ancient ~4 Ga ages for some SNC meteorites (Bouvier et al., 2005) likely results from terrestrial Pb contamination (Gaffney et al., 2007). Therefore, SNCs may not necessarily provide constraints on the oxygen fugacity of the Martian mantle during its early history. The lone indisputably ancient Martian meteorite is ALH84001, which is 4.5 Ga (Nyquist et al., 2001) and therefore dates from the earliest history of Mars. There are few direct constraints on the oxygen fugacity of the mantle source of ALH84001. On the basis of siderophile element concentrations, Warren and Kallmeyen (1996) suggested conditions about an order of magnitude more reducing than IW, which is more reducing than that of the other SNC meteorites, and which is consistent with conditions expected as a consequence of core formation (Righter and Drake, 1996; Jones, 2003). More oxidizing conditions may result from core formation in the presence of perovskite (Wood and Halliday, 2005), but on Mars pressures that would stabilize a perovskite prevail only in a thin ~200 km layer above the core–mantle boundary (Bertka and Fei, 1997) and the influence of metal–silicate interaction in this layer on the oxygen fugacity of the Martian mantle may be very small (Wood and Halliday, 2005). Thus, it is possible that the early (~4.5 Ga) Martian mantle was more reduced than the sources sampled by the SNC meteorites. On the other hand, the inference that ALH84001 is quite reduced is nonunique (Jones et al., 2003) and possibly in conflict with the ferric iron contents of its spinels (Herd and Papike, 1999)."
+  }, {
+    "heading": "3.2. Storage of carbon in a reduced Martian mantle",
+    "text": "In relatively oxidized mantle, carbon is stored as CO2 vapor or, at greater depths, carbonateminerals such as dolomite ormagnesite (Luth, 1999). When these phases are present, the onset of melting can be controlled by the carbonated peridotite solidus and results in formation of a carbonatite partial melt (Falloon and Green, 1989; Dasgupta and Hirschmann, 2006). Though production of carbonatite or carbonated silicate partial melts from some regions of the Martian mantle is not excluded, it is likely that much of the Martian mantle is too reduced to stabilize carbonate minerals or carbonatite partial melts. At pressures below the stability of solid carbonates (2–5 GPa, depending on mantle temperature; Frost andWood,1997; Luth,1999), the stability of graphite in the mantle is controlled by equilibrium with a CO–CO2 vapor (Frost and Wood, 1997). As shown in Fig. 3, this boundary lies ~2 orders of magnitudemore oxidizing than the IWbuffer for pressures applicable to basalt genesis in Martian mantle (~1 GPa, Musselwhite et al., 2006; Monders et al., 2007). Consequently, carbon likely resides as graphite in the source regions of Martian basalts. If melting occurs at much higher pressure, then carbonate stability is controlled by equilibria similar to the EMOD (enstatite–magnesite–olivine–diamond) reaction:\nMg2Si2O6 þ 2MgCO3 ¼ 2Mg2SiO4 þ 2Cþ 2O2 ð2Þ\nwhich places carbonate stability about 3 orders of magnitude more oxidizing than the IW buffer (Luth, 1999). Consequently, except for exceptional local domains, we expect the stable carbonaceous phases in the Martian mantle to be graphite or diamond."
+  }, {
+    "heading": "4. Calculating CO2 concentrations ofMartianmantle-derivedmagmas",
+    "text": "During partial melting of a reduced graphite-bearing mantle, some of the graphite dissolves in the silicate melt as carbonate CO32− ion or molecular CO2. In fact, for mafic magmas, the species is virtually all carbonate ion (Mysen et al., 1998; Fine and Stolper, 1986). Magmas transported to shallow depths then liberate this dissolved component, chiefly as CO2 vapor. Because of the very low solubility of CO2 in magmas at low pressure, we assume that the dissolved carbon\ncomponent in the magmas is delivered to the atmosphere or to other shallow reservoirs, irrespective of whether the magma erupts volcanically or crystallizes in the crust as plutons. In contrast, O'Neill et al. (2007) assumed that magmas crystallizing in the lithosphere fail to deliver CO2 to the surface. If this assumption is correct, then our calculations exaggerate juvenile magmatic CO2 outgassing on Mars.\nOur treatment of CO2 in graphite-saturated magmas follows the analysis developed by Holloway and co-workers (Holloway et al., 1992; Holloway, 1998). The concentration of dissolved carbonate in basaltic magmas is related directly to the fugacity of CO2, fCO2,\nCO2 vapor þO2 melt fCO2 3 melt ; ð3Þ\nfor which the equilibrium constant is given by\nKII ¼ Xmelt CO2 3\nXmelt O2 f vaporCO2 ; ð4Þ\nwhere Xmelt O2 is the fraction of oxygen in the melt that is not associated with carbonate ions:\nXmelt O2 ¼ 1 XmeltCO2 3 : ð5Þ\nWhen graphite is present, fCO2 is related to the oxygen fugacity owing to the reaction\nC graphite þO2 gas fCO2 gas\nð6Þ\nwhich can be described by an equilibrium constant KI:\nKI ¼ fCO2fO2 : ð7Þ\nCombining Eqs. (4) and (7)) shows that at a fixed temperature, the concentration of dissolved carbonate in a graphite-saturated melt is determined by the oxygen fugacity:\nXmelt CO2 3 ¼ KIIKIfO2 1þ KIIKIfO2 : ð8Þ\nThe dependence of CO2 solubility on oxygen fugacity predicted by Eq. (8) has been verified experimentally by Pawley et al. (1992) and Thibault and Holloway (1994). The temperature and pressure dependences of KI have been calibrated by Holloway et al. (1992) from experimental solubility studies on mid-ocean ridge and Hawaiian basalt (Pan et al., 1991; Pawley et al., 1992), thereby allowing estimation of the dissolved carbonate concentration in graphitesaturated basalts (Holloway et al., 1992). Because no similar calibrations exist forMartian basalt, our calculations assume that calibrations for terrestrial basalts are applicable, but experiments on Martian basalts are clearly desirable."
+  }, {
+    "heading": "5. Results",
+    "text": ""
+  }, {
+    "heading": "5.1. Effects of temperature, pressure, fO2",
+    "text": "At fixed oxygen fugacity relative to the IW buffer, the calculated concentration of CO2 dissolved in graphite-saturated basalt increases with increasing temperature but decreases with increasing pressure (Fig. 4). These relationships are in contrast to the concentration of CO2 in equilibrium with pure CO2 vapor, which increases with increasing pressure and, in some cases, decreases with increasing temperature (e.g., Stolper and Holloway, 1988; Pan et al., 1991; Brooker et al., 2001). The difference lies in the relationship between CO2 fugacity and O2\nfugacity at graphite saturation relative to metal-oxide buffers such as IW (Fig. 3). With decreasing temperature and increasing pressure, the oxygen fugacity fixed by the IW buffer diminishes relative to the oxygen fugacity fixed by graphite in equilibriumwith a C–O vapor (Reaction 6). Thus, the fugacity of CO2 diminishes, leading to decreased dissolved CO2 as dictated by Reaction 4.\nFor partial melting of a graphite-saturated mantle, at a given oxygen fugacity, the concentration of CO2 in partial melts is at a minimum at the solidus. This is illustrated in Fig. 4, where the solidus of the Martian mantle from 1–2.5 GPa is from the data of Bertka and Holloway (1994) and inferred up to 5 GPa based on the data of Agee and Draper, (2004). Along the solidus, the influences of temperature and pressure nearly cancel, leading to near-constant CO2 concentration in the melt. Thus, to a first approximation, the CO2 concentration in partial melts at a fixed oxygen fugacity increases with melt fraction.\nAs demonstrated originally by Holloway et al. (1992), Pawley et al. (1992), and Holloway (1998), at fixed temperature and pressure, concentrations of CO2 in graphite-saturated basalt depend strongly on oxygen fugacity. In the range of oxygen fugacities of interest to partial meltingof reducedplanetarymantles, this dependence is nearly unity— an order of magnitude increase in oxygen fugacity produces an order of magnitude increase in CO2 concentration in the melt (Fig. 4). Thus, for near-solidus conditions at IW−1, IW, and IW+1, respectively, magmas have approximately 5, 50, and 500 ppm CO2. One hundred degrees above the solidus, these concentrations increase by approximately a factor of 2."
+  }, {
+    "heading": "6. Applications and discussion",
+    "text": ""
+  }, {
+    "heading": "6.1. Degassing during formation of the ancient (4.5 Ga) Martian crust",
+    "text": "Calculation of CO2 concentrations in partial melts of Martian mantle requires estimates of the temperatures and pressures of melting, both for the early pre-4.5 Ga crust-forming event as well as for more recent volcanism. Partial melting of planetary mantles is generally a polythermal, polybaric process, and is also expected to occur over a range of oxygen fugacities owing to selective extraction of oxidized and reduced species, such as Fe3+ and Fe2+ (Holloway, 1998). In this work, we do not attempt a detailed treatment of the influence of these T, P, and fO2 variations on CO2 ventilation, though we do discuss their consequences in Section 6.3 below.\nAs described in Section 1.1, we assume that formation of the early (N4.5 Ga) 50 km-thick Martian crust occurred just after solidification of amagma ocean, possibly associatedwith amantle overturn event as argued by Elkins-Tanton et al. (2005). Elkins-Tanton et al. (2005) used the MELTS algorithm (Ghiorso and Sack, 1995) to infer that the primordial Martian crust could derive from multiple source regions, one produced from10–60%partialmelting at shallowdepths (0–150km) and temperatures near 1600 °C and a second one produced by 10–50% partial melting at greater depth (300–500 km) and higher temperatures (1800–1900 °C). These temperatures are likely too high, however. First, MELTS calculations exaggerate partial melting temperatures for the terrestrial mantle by about 100 °C (Hirschmann et al., 1998). Second, such high temperature, high degree partial melts could not produce a basaltic crust with a mean density of 2900 kg/m3 (Zuber, 2001) without extensive fractional crystallization. Therefore, we argue that either the Martian crust originated from lower temperature, lower degree partial melts or from higher temperature magmas that were extensively modified by fractional crystallization. This latter possibility requires formation of voluminous cumulates that now reside in themantle. Such a scenario is worthy of further exploration, but is beyond the scope of this paper.\nConsequently, for thepresentwe assume that early crustwas formed at temperatures and pressuresmore conducive to formation of a basaltic crust. For the purposes of discussion, we consider two possibilities guided by experimental studies relevant to the petrogenesis of Martian\nbasalts: small degree partial melting at 425 km depth (5 GPa) and 1750 °C or shallower partial melting at ~100 km depth (1.2 GPa) and 1540 °C. The former may be conditions appropriate for formation of liquids with some similarities to shergottitic basalts (Agee and Draper, 2004). The latter represents conditions for origin of the petrologically primitive basaltic shergottite Y980459 under anhydrous conditions (Musselwhite et al., 2006). Because the shergottites are much younger than the ancient 4.5 Ga crust and because the sources of Shergottites in general and Y980459 in particular may have been hydrous (McSween et al., 2001; Draper, 2007), these analogies may not be completely appropriate. However, they represent plausible shallow-depth conditions for formation of liquids parental to the Martian crust. Importantly, higher temperatures at a given pressure, which would lead to greater calculated CO2 concentrations (Fig. 4), would have to be reconciledwith the low density of the Martian crust.\nCalculated total outgassing associated with formation of the ancient Martian crust at the end of themagma ocean stage is illustrated in Fig. 5. For relatively oxidizing conditions (IW+1) and temperatures well above the solidus of Martian mantle, appreciable thick atmospheres may result. For example at 1540 °C, 1.2 GPa, and IW+1, graphite-saturated magmas have 0.27 wt.% CO2 and formation of a 50 km-thick crust at these conditions will degas 13 bars of CO2 into theMartian atmosphere. On the other hand, for partial melting closer to the solidus (1750 °C, 5 GPa) at IW−1, graphite-saturated magmas have merely 15 ppm CO2 and the total CO2 outgassed is only 70 mbar. Thus, the possible outgassing flux associated with formation of the ancient Martian crust depends strongly on the conditions of crust formation and crucially on the oxygen fugacity."
+  }, {
+    "heading": "6.2. Application to post-4.5 Ga CO2 ventilation on Mars",
+    "text": "Constraints on the temperatures and pressures of mantle melting related to post-4.5 Ga Martian magmatism come from inverse experiments on basalt compositions derived from SNC meteorites (Musselwhite et al., 2006) and measured by Martian rovers (Monders et al., 2007). Monders et al. (2007) determined that liquids parental to the Adirondack class basalts of Gusev crater equilibrated with a model Martial mantle at 1320 °C and 1.2 GPa. As noted above, Musselwhite et al. (2006) inferred a similar pressure (1.20±0.05 GPa) but much higher temperature (1540 °C) for the source of petrologically primitive Shergottite Y980459. However, given the relative youth of Y980459\n(~470Ma, Shih et al., 2005) such high temperatures and low pressures are difficult to reconcile with the thermal evolution of the Martian lithosphere (Kiefer, 2003; Musselwhite et al., 2006), suggesting that they are unlikely to be representative of typical magmagenesis conditions on Mars. Alternatively, Draper (2007) has explored the possibility that Y980459 originated under hydrous conditions, in which case liquidus temperatures are about 200 °C lower than that found by Musselwhite et al. (2006). The issue of whether H2O plays a significant role in the petrogenesis of Martian basalts is controversial (Chaklader et al., 2006; Treiman et al., 2006)\nIf we adopt the conditions for the Gusev Crater basalt (1320 °C, 1.2 GPa; Monders et al., 2007) as characteristic of post-4.5 Ga Martian magmatism, the dissolved CO2 concentration in graphite-saturated magma is 82 ppm at IW and 820 ppm at IW+1. Combining these results with the magmatic output model of Eq. (1) and Fig. 2 indicates that the total volcanic outgassing of CO2 on Mars from 4.5 Ga to the present amounts to between 0.04 and 0.4 bars (Fig. 6). Thus, these calculations suggest that following stabilization of the ancient 4.5 Ga Martian crust, volcanic CO2 outgassing has made only a modest contribution to the CO2 budget of the Martian atmosphere.\nOn the other hand, if we adopt the temperature and pressure for generation of Y980459 under anhydrous conditions (1540 °C, 1.2 GPa; Musselwhite et al., 2006) as characteristic of post-4.5 Ga Martian magmatism, the dissolved CO2 concentration in graphite-saturated magma is 270 ppm at IW and 2700 ppm at IW+1. These greater concentrations suggest total outgassing between 0.14 and 1.4 bars (Fig. 6). So, at the extrema of likely conditions (high temperature, low pressure, fO2 of IW+1), volcanic CO2 outgassing may have had a substantial influence on the atmospheric CO2 reservoir over the course of Martian history. We emphasize, however, that it seems unlikely that typical Martian magmatism over the last 4.5 Ga has been at such high temperature.\nOur preferred degassing calculation suggests that the cumulative volcanogenic flux to the Martian atmosphere has been significantly smaller than most previous models of Martian atmospheric evolution (Pepin, 1994; Carr, 1999; Manning et al., 2006) (Fig. 6). These previous models suggest CO2 outgassing in the first ~0.5 Ga of Martian history ranging from 0.75 to 3 bars. The model of Craddock and Greeley (1995), which is based on the cumulative magmatic output estimate of Greeley and Schneid (1991) (Fig. 2), yields total CO2 outgassing summing to 0.28 bars, which is similar to that predicted by our preferred model at IW+1. A total outgassing amounting to 0.4 bars of CO2 or less represents a negligible contribution to atmosphere required to stabilize liquid water on the Martian surface (Pollack et al., 1987). If accurate, our calculations represent a challenge to atmospheric evolution models that depend on significant juvenile CO2 fluxes to support a thick greenhouse well into Martian history.\nThe magmatic fluxes that we consider in Fig. 6 incorporate formation of the giant Tharsis province near the end of the Noachian epochs. Thus, in contrast to the hypothesis of Phillips et al. (2001), our results suggest that volcanic degassing of CO2 associated with Tharsis may not be able to account for a thick greenhouse, as may be required to explain contemporaneous features formed from surface water. Phillips et al. (2001) assumed that Tharsis magmas contained an average of 0.65 wt.% CO2, and therefore produced an atmosphere amounting to 1.5 bars of CO2. Such large CO2 concentrations may only be feasible if Tharsis magmas were comparatively oxidized and/or formed at high temperatures. For temperatures similar to the Gusev Crater basalts (Monders et al., 2007), the oxygen fugacity would have to be 2 log units greater than IW. For temperatures similar to the Y980459 inverse experiments (Musselwhite et al., 2006), the oxygen fugacity would have to be 1.4 log units greater than IW.\n6.3. Simplifications and further considerations\nAs noted above, the calculations presented here assume that the relationship between CO2 fugacity and carbonate solubility in partial melts of the Martian mantle are similar to that of Hawaiian basalt. Given the differences in composition between Hawaiian basalt and likely Martian basalts, including differences in FeO and CaO/Al2O3 (Longhi, 1991; Agee and Draper, 2004), a more rigorous estimation of the CO2 solubility in liquids appropriate to Martian petrogenesis is clearly warranted.\nIn addition, the calculationspresentedhere assume thatmelting take place at a fixed temperature, pressure, melt composition, and oxygen fugacity. In reality, mantle melting is chiefly a result of decompression (Verhoogen, 1965) and is therefore inherently a polybaric, polythermal process. More importantly, both oxygen fugacity and melt composition evolve during progressive partial melting. Holloway (1998) investigated the evolution of CO2 concentrations in melts formed by decompression beneath terrestrial oceanic ridges.With progressive decompression and increased extent of melting, his calculations reveal that concentrations of dissolved CO2 diminish by asmuch as a factor of 5. This occurs for two reasons—first, preferential extractionof Fe3+ into themelt andoxidation of iron accompanying CO2 production according to the reaction"
+  }, {
+    "heading": "C þ 2Fe2O3 ¼ CO2 þ 4FeO ð9Þ",
+    "text": "produce a residue that is increasingly reduced. Second, Holloway (1998) assumed that small degree partial melts of the terrestrial mantle are highly alkalic and therefore have higher intrinsic solubility of CO2 than tholeiitic high degree partial melt.\nIdeally, the calculationsperformed in this paperwouldbenefit froma more detailed treatment of the evolution of melt compositions, dissolved CO2 concentrations, and redox state during partial melting of the Martian mantle. However, at the moment there are many uncertainties which, we believe, make such a calculation premature. Most importantly, theuncertainties in oxygen fugacity prevailingduring\nMartian magmatism are greater than the effects of varying oxygen fugacity during partial melting. This is particularly true because the oxygen fugacities inferred from Martian meteorites reflect those of the crystallization conditions of the meteorites, which are not necessarily the same as those of their mantle sources.\nIf we were to model the variations in CO2 extraction during partial melting of the Martian mantle, a large number of factors would have to be estimated that are, at present, incompletely constrained. First, we do not understand well the geodynamics of the Martian melting regimes, and these are required to specify the ranges of temperatures and pressures over which decompression melting takes place. Second, we do not know how magma compositions vary as a function of pressure and extent of partial melting for partial melting of Martian mantle and we do not know the solubility of CO2 in Martian composition magmas. Finally, we do not know well how ferric and ferrous iron are partitioned during partial melting of the Martian mantle. Holloway (1998) assumed a constant partition coefficient of 0.05 for partitioning of Fe3+ between partial melt and mineral residue, Dmineral=melt Fe3þ , during partial melting of Earth's mantle, but preliminary experiments on cpx/melt partitioning (McCanta et al., 2004) indicate that Dmineral=melt\nFe3þ varies with oxygen fugacity from 0.77 down to near zero. Our own calculations using pMELTS (Ghiorso et al., 2002) verify that Fe3+/Fe2+ partitioning during partial melting varies considerably with oxygen fugacity, pressure, and to a lesser extent, degree of partial melting. All of these present future challenges for our understanding of the dynamics and chemistry of Martian magmatism and their relation to volatile extraction during partial melting of the Martian mantle."
+  }, {
+    "heading": "6.4. Other reduced carbonaceous species?",
+    "text": "Our calculations assume that all carbon dissolved in graphitesaturated melts exists as carbonate ion or CO2 molecules and does not account for the influence of hydrous species on solubility of carbonaceous components. Therefore, it is also important to consider whether suchmagmas have appreciable reduced carbon species, such as CO, CH4 or other C–H complexes, or metal-carbide complexes. Experimental studies to date have failed to find evidence for appreciable dissolved CO in silicate magmas, even under very reducing conditions (Eggler et al., 1979; TaylorandGreen,1987; Pawleyet al.,1992; Thibault andHolloway, 1994; Kadik et al., 2004). Similarly, spectroscopic studies of silicate glasses equilibrated with reduced C–O–H fluids have not detected evidence of dissolved CH4 or other C–H species (Taylor and Green,1987; Kadik et al., 2004). On the other hand, some evidence formetal-carbidelike species have been found from Raman spectra and from exsolved graphite microcrystals from glasses equilibrated under very reduced (IW−3) conditions (Kadik et al., 2004). More experimental work is required to investigate the solubility of reduced C–H species in natural mafic magmas relevant to Mars. If solubilities of such species are found to be appreciable, the conclusions we have drawnwill require revision."
+  }, {
+    "heading": "6.5. What if there wasn't a strong volcanogenic CO2 greenhouse?",
+    "text": "If CO2 fluxes to the Martian atmosphere in the last 4.5 Ga have been small and if those related to the origin ancient ~4.5 Ga crust were also small, then the origin of the late Noachian Martian greenhouse and/or the evolution of the Martian mantle may require reexamination. For example, it is possible that the equable climate present near 4 Gawas a remnant fromavery early thick atmosphere that originated hundreds of Ma earlier during the initial degassing fromamagmaocean and/or early infalling of volatile-rich impactors. This seems unlikely to us, in part because of the massive atmospheric losses expected from hydrodynamic escape and impact erosion expected in thefirst 100MaofMartian history (Zahnle andKasting,1986;Melosh andVickery,1989) and inpart because the large deposits of carbonate that might be expected from such a scenario (Carr, 1999; Manning et al., 2006; Halevy et al., 2007)\nhave not been observed. Consequently, serious consideration should be given to the hypothesis that late Noachian greenhouse was greatly enhanced by contributions from other gases, such as H2S, SO2 or CH4 (Chevrier et al., 2007; Halevy et al., 2007). Investigations of the possible fluxes of these gases from theMartian interior are clearly of interest.We emphasize, however, that our inference of limited CO2 outgassing from the Martian mantle is tentative and is highly sensitive to assumptions about the prevailing oxygen fugacities."
+  }, {
+    "heading": "6.6. Sequestration of C in a Martian magma ocean",
+    "text": "Finally, an interesting question that has not been addressed previously is the origin of carbon in the Martian mantle. The initial supply of carbon to Mars during accretion is not known. Some early estimates suggested low total concentrations (e.g., 60 ppm CO2, Morgan and Anders, 1979), but if Mars was formed from a modest fraction of carbonaceous chondrites, the initial bulk composition may have had up to ~1 wt.% CO2 (Lodders and Fegley, 1997). Some portion of that carbon may now reside in the core and other portions may have been driven off during early accretionary bombardment and hydrodynamic escape. If there were any portions of the Martian mantle that escaped melting during the magma ocean stage, these could have retained much of the original carbon in the Martian mantle. On the other hand, the efficiency of carbon sequestration in a crystallizing magma ocean is less clear.\nDuring crystallization of a magma ocean, C may behave as an incompatible element owing to its vanishingly low solubility in mantle silicates (Shcheka et al., 2006). Consequently, the bulk carbon contents of mantle domains resulting from magma ocean crystallization should dependon theproportion of liquid trappedwith the crystallizingmantle and could be very low, possibly below 10 ppm (Elkins-Tanton, in press). Importantly, under reducing conditions a crystallizing magma ocean may become saturated in graphite or diamond. Assuming that magma oceans crystallize from the bottom upwards (Abe, 1997), the P–T conditions of the upward migrating solid/liquid interface are likely similar to the peridotite solidus. Consequently, graphite saturation may beachieved atdissolvedCO2 concentrations similar to that calculated for the Martian mantle solidus in Fig. 4. Thus, under relatively oxidizing conditions (IW+1), a magma ocean with 500 ppm CO2 should be saturated in graphite at its base, whereas under more reducing conditions, the concentration needed for saturation is two orders of magnitude lower, or merely 5 ppm. Althoughwe have not extended our calculations to pressures of diamond stability, requisite saturation concentrations at greater depths may be comparable. These saturation criteria are well within the plausible initial conditions for a Martian magma ocean. We note however, that these values were calculated based on solubility measurements in basalt; the solubility of CO2 in peridotitic or komatiitic liquid,which are not presently known, could be significantly different from basalt. It seems plausible that carbon in the Martian mantle comes at least in part from graphite and/or diamond that precipitated during crystallization from the magma ocean."
+  }, {
+    "heading": "7. Concluding remarks",
+    "text": "Basalt source regions in theMartianmantle are likely to be graphitesaturated and the concentrations of CO2 inMartian basalts are therefore constrained by equilibrium with graphite. If oxygen fugacities in the Martianmantle are to themore reduced end of the plausible range, then CO2 ventilation to the Martian atmosphere may have been severely limited and Martian climate models requiring the persistence of a thick CO2-greenhouse require reexamination. However, these conclusions must be regarded as provisional, owing in part to uncertainties associated with the actual conditions of Martian magmatism and in part to a lack of direct experimental data constraining the dissolved carbon concentrations in magma compositions relevant to Martian magmatism. Further progress on this problem requires refined under-\nstanding of both Martian magmatic processes as well as the physical chemistry of dissolved carbonaceous species in Martian magmas."
+  }, {
+    "heading": "Acknowledgements",
+    "text": "The calculations presented in this paper reflect an obvious debt to the work of John Holloway, whom we salute on the occasion of his retirement. We also benefited from conversations with and a review by Lindy Elkins-Tanton, as well as a review by Dave Draper. This work supported by grants from the National Science Foundation and the NASA MFRP program."
+  }],
+  "year": 2008,
+  "references": [{
+    "title": "Thermal and chemical evolution of the terrestrial magma ocean",
+    "authors": ["Y. Abe"],
+    "venue": "Phys. Earth Planet. Inter",
+    "year": 1997
+  }, {
+    "title": "Experimental constraints on the origin of Martian meteorites and the composition of the Martian mantle",
+    "authors": ["C.B. Agee", "D.S. Draper"],
+    "venue": "Earth Planet. Sci",
+    "year": 2004
+  }, {
+    "title": "Mineralogy of the Martian interior up to core–mantle boundary pressures",
+    "authors": ["C.M. Bertka", "Y. Fei"],
+    "venue": "J. Geophys. Res",
+    "year": 1997
+  }, {
+    "title": "Anhydrous partial melting of an iron-rich mantle: II. Primary melt compositions at 15 kbar",
+    "authors": ["C.M. Bertka", "J.R. Holloway"],
+    "venue": "Contrib. Mineral. Petrol",
+    "year": 1994
+  }, {
+    "title": "A petrogenetic model for the origin and compositional variation of the Martian basaltic meteorites",
+    "authors": ["L.E. Borg", "D.S. Draper"],
+    "venue": "Meteor. Planet. Sci",
+    "year": 2003
+  }, {
+    "title": "Constraints on Martian differentiation processes from Rb–Sr and Sm–Nd isotopic analyses of the basaltic shergottite QUE94201",
+    "authors": ["L.E. Borg", "L.E. Nyquist", "L.A. Taylor", "H. Wiesmann", "C.Y. Shih"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1997
+  }, {
+    "title": "The age of SNC meteorites and the antiquity of the Martian surface",
+    "authors": ["A. Bouvier", "J. Blichert-Toft", "J.D. Vervoort", "F. Albarède"],
+    "venue": "Earth Planet. Sci",
+    "year": 2005
+  }, {
+    "title": "The SNC meteorites: basaltic igneous processes on Mars",
+    "authors": ["J.C. Bridges", "P.H. Warren"],
+    "venue": "J. Geol. Soc",
+    "year": 2006
+  }, {
+    "title": "Structural controls on the solubility of CO2 in silicatemelts",
+    "authors": ["R.A. Brooker", "S.C. Kohn", "J.R. Holloway", "P.F. McMillan"],
+    "venue": "Part I: bulk solubility data. Chem",
+    "year": 2001
+  }, {
+    "title": "Retention of an atmosphere on early Mars",
+    "authors": ["M.H. Carr"],
+    "venue": "J. Geophys. Res",
+    "year": 1999
+  }, {
+    "title": "The behavior of Li and B in lunarmare basalts during crystallization, shock, and thermal metamorphism: implications for volatile element contents of Martian basalts",
+    "authors": ["J. Chaklader", "C.K. Shearer", "L.E. Borg"],
+    "venue": "Amer. Mineral",
+    "year": 2006
+  }, {
+    "title": "Early geochemical environment of Mars as determined from thermodynamics of phyllosilicates",
+    "authors": ["V. Chevrier", "F. Poulet", "J.P. Bibring"],
+    "venue": "Nature 448,",
+    "year": 2007
+  }, {
+    "title": "Estimates of the amount and timing of gases released into the Martian atmosphere from volcanic eruptions",
+    "authors": ["R.A. Craddock", "R. Greeley"],
+    "venue": "Lunar Planet. Sci. Conf. pp.287–288",
+    "year": 1995
+  }, {
+    "title": "Geomorphic evolution of the Martian highlands through ancient fluvial processes",
+    "authors": ["R.A. Craddock", "T.A. Maxwell"],
+    "venue": "J. Geophys. Res",
+    "year": 1993
+  }, {
+    "title": "Melting in the Earth's deep upper mantle caused by carbon dioxide",
+    "authors": ["R. Dasgupta", "M.M. Hirschmann"],
+    "venue": "Nature",
+    "year": 2006
+  }, {
+    "title": "Volatiles in alkalic basalts from the North Arch volcanic field, Hawaii: extensive degassing of deep submarine-erupted alkalic series lavas",
+    "authors": ["J.E. Dixon", "D.A. Clague", "P. Wallace", "R. Poreda"],
+    "venue": "J. Petrol",
+    "year": 1997
+  }, {
+    "title": "2007.Water-undersaturated near-liquidus phase relations of Yamato 980459: preliminary results",
+    "authors": ["D.S. Draper"],
+    "venue": "38th Lunar Plan Sci Conf",
+    "year": 2007
+  }, {
+    "title": "Ferric iron in SNCmeteorites as determined byMössbauer spectroscopy: implications forMartian landers andMartian oxygen fugacity.Meteorit",
+    "authors": ["M.D. Dyar"],
+    "venue": "Planet. Sci",
+    "year": 2003
+  }, {
+    "title": "MIL03346, the most oxidized Martian meteorite: a first look at spectroscopy, petrography, and mineral chemistry",
+    "authors": ["M.D. Dyar", "A.H. Treiman", "C.M. Pieters", "T. Hiroi", "M.D. Lane", "V. O'Connor"],
+    "venue": "J. Geophys. Res. 110,",
+    "year": 2005
+  }, {
+    "title": "Solubility of carbonmonoxide in silicate melts at high-pressures and its effect on silicate phase-relations",
+    "authors": ["D.H. Eggler", "B.O. Mysen", "T.C. Hoering", "J.R. Holloway"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 1979
+  }, {
+    "title": "Linked magma ocean solidification and atmospheric growth: the time to clement conditions for Earth and Mars",
+    "authors": ["L. Elkins-Tanton"],
+    "venue": "Earth Planet. Sci. Lett. doi:10.1016/j.epsl.2008.03.062",
+    "year": 2008
+  }, {
+    "title": "Possible formation of ancient crust on Mars throughmagma ocean processes",
+    "authors": ["L. Elkins-Tanton", "E.M. Parmentier", "P.C. Hess"],
+    "venue": "J. Geophys. Res. 110, E12S01",
+    "year": 2005
+  }, {
+    "title": "The solidus of carbonated, fertile peridotite",
+    "authors": ["T.J. Falloon", "D.H. Green"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 1989
+  }, {
+    "title": "Dissolved carbon dioxide in basaltic glasses: concentrations and speciation",
+    "authors": ["G.J. Fine", "E.M. Stolper"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 1986
+  }, {
+    "title": "Experimental measurements of the properties of H2O–CO2 mixtures at high pressures and temperatures",
+    "authors": ["D.J. Frost", "B.J. Wood"],
+    "venue": "Geochim. Cosmochim",
+    "year": 1997
+  }, {
+    "title": "Uranium–lead isotope systematics of Mars inferred from the basaltic shergottite QUE 94201",
+    "authors": ["A.M. Gaffney", "L.E. Borg", "J.N. Connelly"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 2007
+  }, {
+    "title": "Chemical mass transfer in magmatic processes. IV. A revised and internally consistent thermodynamic model for the interpolation and extrapolation of liquid–solid equilibria in magmatic systems at elevated temperatures and pressures",
+    "authors": ["M.S. Ghiorso", "R.O. Sack"],
+    "venue": "Contrib. Mineral. Petrol",
+    "year": 1995
+  }, {
+    "title": "The pMELTS: a revision of MELTS for improved calculation of phase relations and major element partitioning related to partial melting of the mantle to 3 GPa",
+    "authors": ["M.S. Ghiorso", "M.M. Hirschmann", "P.W. Reiners", "V.C. Kress"],
+    "venue": "Geochem. Geophys. Geosy",
+    "year": 2002
+  }, {
+    "title": "Magma generation on Mars: amounts, rates, and comparisons with Earth, Moon, and Venus",
+    "authors": ["R. Greeley", "B.D. Schneid"],
+    "venue": "Science",
+    "year": 1991
+  }, {
+    "title": "Reevaluation of intercumulus liquid composition and oxidation state for the Shergotty meteorite",
+    "authors": ["V.P.S. Hale", "H.Y. McSween Jr.", "G.A. McKay"],
+    "venue": "Geochim. Cosmochim",
+    "year": 1999
+  }, {
+    "title": "A sulfur dioxide climate feedback on early Mars",
+    "authors": ["I. Halevy", "M. Zuber", "D. Schrag"],
+    "venue": "Science 318,",
+    "year": 2007
+  }, {
+    "title": "Cratering chronology and the evolution of Mars",
+    "authors": ["W.K. Hartmann", "G. Neukum"],
+    "venue": "Space Sci. Rev",
+    "year": 2001
+  }, {
+    "title": "Thermal and crustal evolution of Mars",
+    "authors": ["S.A. Hauck", "R.J. Phillips"],
+    "venue": "J. Geophys. Res",
+    "year": 2002
+  }, {
+    "title": "The oxygen fugacity of olivine-phyric Martian basalts and the componentswithin themantle and crust ofMars.Meteor",
+    "authors": ["C.D.K. Herd"],
+    "venue": "Planet. Sci",
+    "year": 2003
+  }, {
+    "title": "Nonstoichiometry in SNC spinels: implications for the determination of oxygen fugacity from phase equilibria",
+    "authors": ["C.D.K. Herd", "J.J. Papike"],
+    "venue": "Lunar Planet. Sci. Conf.,",
+    "year": 1999
+  }, {
+    "title": "Oxygen fugacity and geochemical variations in the Martian basalts: implications for Martian basalt petrogenesis and the oxidation state of the upper mantle of Mars",
+    "authors": ["C.D.K. Herd", "L.E. Borg", "J.J. Jones", "J.J. Papike"],
+    "venue": "Geochim. Cosmochim",
+    "year": 2002
+  }, {
+    "title": "Calculation of peridotite partial melting from thermodynamic models of minerals and melts. I. Review of methods and comparison with experiments",
+    "authors": ["M.M. Hirschmann", "M.S. Ghiorso", "P.D. Asimow", "L.E. Wasylenki", "E.M. Stolper"],
+    "venue": "J. Petrol",
+    "year": 1998
+  }, {
+    "title": "Graphite–melt equilibria duringmantlemelting: constraints on CO2 in MORB magmas and the carbon content of the mantle",
+    "authors": ["J.R. Holloway"],
+    "venue": "Chem. Geol",
+    "year": 1998
+  }, {
+    "title": "High-pressure fluid-absent melting experiments in the presence of graphite: oxygen fugacity, ferric/ferrous ratio and dissolved CO2",
+    "authors": ["J.R. Holloway", "V. Pan", "G. Gudmundsson"],
+    "venue": "Eur. J. Mineral",
+    "year": 1992
+  }, {
+    "title": "Mars' volatile and climate history",
+    "authors": ["B.M. Jakosky", "R.J. Phillips"],
+    "venue": "Nature",
+    "year": 2001
+  }, {
+    "title": "The biological potential of Mars, the early Earth, and Europa",
+    "authors": ["B.M. Jakosky", "E.L. Shock"],
+    "venue": "J. Geophys. Res",
+    "year": 1998
+  }, {
+    "title": "Constraints on the structure of the Martian interior determined from the chemical and isotopic systematics of SNC meteorites",
+    "authors": ["J.H. Jones"],
+    "venue": "Meteor. Planet. Sci",
+    "year": 2003
+  }, {
+    "title": "Signatures of the highly siderophile elements in the SNCmeteorites andMars: a reviewand petrologic synthesis",
+    "authors": ["J.H. Jones", "C.R. Neal", "J.C. Ely"],
+    "venue": "Chem. Geol.196,",
+    "year": 2003
+  }, {
+    "title": "Formation of carbon and hydrogen species in magmas at low oxygen fugacity",
+    "authors": ["A. Kadik", "F. Pineau", "Y. Litvin", "N. Jendrzejewski", "I. Martinez", "M. Javoy"],
+    "venue": "J. Petrol",
+    "year": 2004
+  }, {
+    "title": "Valence state partitioning of Cr and V between pyroxene-melt: estimates of oxygen fugacity for Martian basalt QUE 94201",
+    "authors": ["J.M. Karner", "J.J. Papike", "C.K. Shearer", "G. McKay", "L. Burger"],
+    "venue": "Am. Mineral",
+    "year": 2007
+  }, {
+    "title": "Melting in the Martian mantle: shergottite formation and implications for present-day mantle convection on Mars",
+    "authors": ["W.S. Kiefer"],
+    "venue": "Meteorit. Planet. Sci",
+    "year": 2003
+  }, {
+    "title": "An oxygen isotope model for the composition of Mars",
+    "authors": ["K. Lodders", "J.B. Fegley"],
+    "venue": "Icarus 126,",
+    "year": 1997
+  }, {
+    "title": "Complex magmatic processes on Mars — inferences from the SNC meteorites",
+    "authors": ["J. Longhi"],
+    "venue": "Proc. Lunar Planet. Sci. Conf",
+    "year": 1991
+  }, {
+    "title": "Evolutionary impact of sputtering of the Martian atmosphere by O(+) pickup ions",
+    "authors": ["J.G. Luhmann", "R.E. Johnson", "M.H.G. Zhang"],
+    "venue": "Geophys. Res",
+    "year": 1992
+  }, {
+    "title": "The origin of water on Mars",
+    "authors": ["J.I. Lunine", "J. Chambers", "A. Morbidelli", "L.A. Leshin"],
+    "venue": "Icarus 165,",
+    "year": 2003
+  }, {
+    "title": "Carbon and carbonates in the mantle",
+    "authors": ["R.W. Luth"],
+    "venue": "Geochem. Soc. Spec. Publ.,",
+    "year": 1999
+  }, {
+    "title": "Evidence for precipitation onMars from dendritic valleys in the Valles",
+    "authors": ["N. Mangold", "C. Quantin", "V. Ansan", "C. Delacourt", "P. Allemand"],
+    "venue": "Marineris area. Science",
+    "year": 2004
+  }, {
+    "title": "Thick and thin models of the evolution of carbon dioxide on Mars",
+    "authors": ["C.V. Manning", "C.P. McKay", "K.J. Zahnle"],
+    "venue": "Icarus 180,",
+    "year": 2006
+  }, {
+    "title": "An experimental study of rare earth element partitioning between a shergottite melt and pigeonite implications for the oxygen fugacity of the Martian interior",
+    "authors": ["M.C. McCanta", "M.J. Rutherford", "J.J. Jones"],
+    "venue": "Geochim. Cosmochim",
+    "year": 2004
+  }, {
+    "title": "Yamato-980459: the most primitive shergottite",
+    "authors": ["G. McKay", "C. Schwandt", "T. Mikouchi", "E. Koizumi", "J. Jones"],
+    "venue": "Lunar Planet. Sci. Conf. pp.2154",
+    "year": 2004
+  }, {
+    "title": "Geochemical evidence for magmatic water within Mars from pyroxenes in the Shergotty meteorite",
+    "authors": ["H.Y. McSween", "T.L. Grove", "R.C.F. Lentz", "J.C. Dann", "A.H. Holzheid", "L.R. Riciputi", "J.G. Ryan"],
+    "venue": "Nature 409,",
+    "year": 2001
+  }, {
+    "title": "Impact erosion of the primordial atmosphere of Mars",
+    "authors": ["H.J. Melosh", "A.M. Vickery"],
+    "venue": "Nature",
+    "year": 1989
+  }, {
+    "title": "Phase equilibrium investigations of the Adirondack class basalts from the Gusev plains, Gusev crater, Mars",
+    "authors": ["A.G. Monders", "E. Medard", "T.L. Grove"],
+    "venue": "Meteor. Planet. Sci",
+    "year": 2007
+  }, {
+    "title": "Chemical composition of Mars",
+    "authors": ["J.W. Morgan", "E. Anders"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1979
+  }, {
+    "title": "Experimental petrology of the basaltic shergottite Yamato-980459: implications for the thermal structure of the Martian mantle",
+    "authors": ["D.S. Musselwhite", "H.A. Dalton", "W.S. Kiefer", "A.H. Treiman"],
+    "venue": "Meteor. Planet. Sci",
+    "year": 2006
+  }, {
+    "title": "The role of H2O in Martian magmatic systems",
+    "authors": ["B.O. Mysen", "D. Virgo", "R.K. Popp", "C.M. Bertka"],
+    "venue": "Am. Mineral",
+    "year": 1998
+  }, {
+    "title": "Early crustal evolution ofMars",
+    "authors": ["F. Nimmo", "K. Tanaka"],
+    "venue": "Ann. Rev. Earth Planet. Sci",
+    "year": 2005
+  }, {
+    "title": "Ages and geologic histories of Martian meteorites",
+    "authors": ["L.E. Nyquist", "D.D. Bogard", "Shih", "C.-Y", "A. Greshake", "D. Stöffler", "O. Eugster"],
+    "venue": "Space Sci. Rev",
+    "year": 2001
+  }, {
+    "title": "2007.Melt propagation and volcanism in mantle convection simulations, with applications for Martian volcanic and atmospheric evolution",
+    "authors": ["C. O'Neill", "A. Lenardic", "A.M. Jellinek", "W.S. Kiefer"],
+    "venue": "J. Geophys. Res. 112,",
+    "year": 2006
+  }, {
+    "title": "The pressure and temperature dependence of carbon dioxide solubility in tholeiitic basalt melts",
+    "authors": ["V. Pan", "J.R. Holloway", "R.L. Hervig"],
+    "venue": "Geochim. Cosmochim",
+    "year": 1991
+  }, {
+    "title": "The effect of oxygen fugacity on the solubility of carbon oxygen fluids in basaltic melt",
+    "authors": ["A.R. Pawley", "J.R. Holloway", "P.F. McMillan"],
+    "venue": "Earth Planet. Sci",
+    "year": 1992
+  }, {
+    "title": "Evolution of the Martian atmosphere",
+    "authors": ["R.O. Pepin"],
+    "venue": "Icarus 111,",
+    "year": 1994
+  }, {
+    "title": "Ancient geodynamics and global-scale hydrology on Mars",
+    "authors": ["R.J. Phillips", "M.T. Zuber", "S.C. Solomon", "M.P. Golombek", "B.M. Jakosky", "W.B. Banerdt", "D.E. Smith", "R.M.E. Williams", "B.M. Hynek", "O. Aharonson", "S.A. Hauck"],
+    "year": 2001
+  }, {
+    "title": "The case for a wet",
+    "authors": ["J.B. Pollack", "J.F. Kasting", "S.M. Richardson", "K. Poliakoff"],
+    "venue": "warm climate on early Mars. Icarus",
+    "year": 1987
+  }, {
+    "title": "Core formation in Earth's Moon, Mars, and Vesta",
+    "authors": ["K. Righter", "M.J. Drake"],
+    "venue": "Icarus,",
+    "year": 1996
+  }, {
+    "title": "The early faint sun paradox: organic shielding of ultraviolitelabile greenhouse gases",
+    "authors": ["C. Sagan", "C. Chyba"],
+    "venue": "Science",
+    "year": 1997
+  }, {
+    "title": "Origin and Thermal Evolution of Mars",
+    "authors": ["G. Schubert", "S.C. Solomon", "D.L. Turcotte", "M.J. Drake", "N.H. Sleep"],
+    "year": 1992
+  }, {
+    "title": "Carbon solubility in mantle minerals",
+    "authors": ["S.S. Shcheka", "M. Wiedenbeck", "D.J. Frost", "H. Keppler"],
+    "venue": "Earth Planet. Sci. Lett.,",
+    "year": 2006
+  }, {
+    "title": "Valence state partitioning of vanadium between olivine-liquid: estimates of the oxygen fugacity of Y980459 and application to other olivine-phyric Martian basalts",
+    "authors": ["C.K. Shearer", "G. McKay", "J.J. Papike", "J.M. Karner"],
+    "venue": "Am. Mineral",
+    "year": 2006
+  }, {
+    "title": "Rb–Sr and Sm–Nd dating of olivine-phyric shergottite Yamato 980459: petrogenesis of depleted shergottites",
+    "authors": ["Shih", "C.-Y", "L.E. Nyquist", "H. Wiesmann", "Y. Reese", "K. Misawa"],
+    "venue": "Antarctic Meteor. Res",
+    "year": 2005
+  }, {
+    "title": "In situ evidence for ancient aqueous environment at Meridiani Planum, Mars",
+    "authors": ["S.W. Squyres", "J.P. Grotzinger", "R.E. Arvidson", "J.F. Bell", "W. Calvin", "P.R. Christensen", "B.C. Clark", "J.A. Crisp", "W.H. Farrand", "K.E. Herkenhoff", "J.R. Johnson", "G. Klingelhofer", "A.H. Knoll", "S.M. McLennan", "H.Y. McSween", "R.V. Morris", "J.W. Rice", "R. Rieder", "L.A. Soderblom"],
+    "venue": "Science 306,",
+    "year": 2004
+  }, {
+    "title": "Experimental determination of the solubility of carbon dioxide in molten basalt at low pressure",
+    "authors": ["E. Stolper", "J.R. Holloway"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 1988
+  }, {
+    "title": "The resurfacing history of Mars: a synthesis of digitized Viking-based geology",
+    "authors": ["K.L. Tanaka", "N.K. Isbell", "D.H. Scott", "R. Greeley", "J.E. Grant"],
+    "venue": "Proc. 18th Lunar Planet. Sci. Conf. pp.665–678",
+    "year": 1988
+  }, {
+    "title": "The petrogenetic role of methane: effect on liquidus phase relations and the solubility mechanism of reduced C–H volatiles. In: Mysen, B.O. (Ed.), Magmatic Processes: Physicochemical Principles",
+    "authors": ["W.R. Taylor", "D.H. Green"],
+    "venue": "Geochem. Soc. Spec. Publ.,",
+    "year": 1987
+  }, {
+    "title": "Solubility of CO2 in a Ca-rich leucitite — effects of pressure, temperature, and oxygen fugacity",
+    "authors": ["D.Y. Thibault", "J.R. Holloway"],
+    "venue": "Contrib. Mineral. Petrol",
+    "year": 1994
+  }, {
+    "title": "Light lithophile elements in pyroxenes of Northwest Africa (NWA) 817 and other Martian meteorites: implications forwater inMartianmagmas",
+    "authors": ["A.H. Treiman", "D.S. Musselwhite", "C.D.K. Herd", "C.K. Shearer"],
+    "venue": "Geochim.Cosmochim.Acta",
+    "year": 2006
+  }, {
+    "title": "Phase changes and convection in the Earth's mantle",
+    "authors": ["J. Verhoogen"],
+    "venue": "Phil. Trans. R. Soc. Lond. A",
+    "year": 1965
+  }, {
+    "title": "Redox state of Mars upper mantle and crust from Eu anomalies in shergottite pyroxenes",
+    "authors": ["M. Wadhwa"],
+    "venue": "Science",
+    "year": 2001
+  }, {
+    "title": "Chemistry and accretion history of Mars",
+    "authors": ["H. Wänke", "G. Dreibus"],
+    "venue": "Philos. Trans. R. Soc. London A",
+    "year": 1994
+  }, {
+    "title": "Siderophile trace elements in ALH84001, other SNC meteorites and eucrites: evidence of heterogeneity, possibly time-linked, in the mantle of Mars",
+    "authors": ["P.H. Warren", "G.W. Kallmeyen"],
+    "venue": "Meteorit. Planet. Sci",
+    "year": 1996
+  }, {
+    "title": "Cooling of the Earth and core formation after the giant impact",
+    "authors": ["B.J. Wood", "A.N. Halliday"],
+    "venue": "Nature",
+    "year": 2005
+  }, {
+    "title": "Mass fractionation during transonic escape and implications for loss of water from Mars and Venus",
+    "authors": ["K.J. Zahnle", "J.F. Kasting"],
+    "venue": "Icarus",
+    "year": 1986
+  }, {
+    "title": "The crust and mantle of Mars",
+    "authors": ["M.T. Zuber"],
+    "venue": "Nature",
+    "year": 2001
+  }],
+  "id": "SP:9d8835cee1c1a3df0863fbf2f72f06d97a38ac08",
+  "authors": [{
+    "name": "Marc M. Hirschmann",
+    "affiliations": []
+  }, {
+    "name": "Anthony C. Withers",
+    "affiliations": []
+  }],
+  "abstractText": "Article history: Because much or all of the M Received 24 December 2007 Received in revised form 19 March 2008 Accepted 20 March 2008 Available online 7 April 2008 Editor: R.W. Carlson",
+  "title": "Ventilation of CO2 from a reduced mantle and consequences for the early Martian greenhouse"
+}

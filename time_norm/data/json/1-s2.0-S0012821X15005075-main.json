@@ -1,0 +1,367 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nEarth and Planetary Science Letters\nwww.elsevier.com/locate/epsl\nBromine and chlorine emissions from Plinian eruptions along the Central American Volcanic Arc: From source to atmosphere\nSteffen Kutterolf a,∗, Thor H. Hansteen a, Armin Freundt a, Heidi Wehrmann a, Karen Appel b,1, Kirstin Krüger c, Wendy Pérez a\na GEOMAR Helmholtz Centre for Ocean Research Kiel SFB574, Wischhofstrasse 1-3, 24148 Kiel, Germany b HASYLAB at DESY, Notkestrasse 85, 22607 Hamburg, Germany c Meteorology and Oceanography Department of Geosciences, University of Oslo, Norway\na r t i c l e i n f o a b s t r a c t\nArticle history: Received 28 February 2015 Received in revised form 29 July 2015 Accepted 30 July 2015 Available online 20 August 2015 Editor: T.A. Mather\nKeywords: explosive volcanism CAVA bromine chlorine stratospheric load\nLarge explosive volcanic eruptions inject gases, aerosols, and fine ashes into the stratosphere, potentially influencing climate and atmosphere composition on a global scale. Although the potential climate effect of chlorine (Cl) and bromine (Br) injections into the stratosphere is known, the global mass fluxes are poorly constrained. In this study we focus on the magmatic degassing systematics and budgets of Br and Cl, and on constraining the major sources of Br in a subduction setting. We therefore present a regional time series of Br and Cl emissions from 29 highly explosive eruptions throughout the Central American Volcanic Arc (CAVA), covering the last 200 ka, and a range of magmatic compositions and eruption magnitudes. We have measured Br and Cl in matrix glasses and melt inclusions using synchrotron radiation micro X-ray fluorescence spectrometry (SR micro-XRF) and electron microprobe, respectively. Melt inclusions of the CAVA tephras generally have higher Br (0.9 to 17.9 ppm) and Cl (770 to 3800 ppm) contents than the matrix glasses (0.39 to 1.5 ppm Br, 600 to 2800 ppm Cl). Moreover, the difference between maximum and minimum concentrations observed in melt inclusions of a given sample ranges between 9 and 90% of the maximum observed concentration for Br, and between 2 and 40% for Cl. Such intra-sample variations arise from variable pre-eruptive degassing of these halogens into a magmatic fluid phase. The relative loss of Br from the melt is 4 to 68 times higher than that of Cl. The masses of Br (2–1100 kt) and Cl (0.1 to 800 Mt) emitted by the eruptions generate instantaneous additions to the stratosphere potentially amounting to ∼6–5600% of the present-day stratospheric annual global loading of Equivalent Effective Stratospheric Chlorine. As the size of the stratospheric impact is primarily a function of eruption magnitude, we use magnitude-frequency relationships to estimate that eruptions adding ∼10% to resident EESC loading would occur every <40 years while every ∼200 years an eruption would double the EESC loading. Comparing the variations in Br and Cl concentrations and particularly minimum Cl/Br ratios in melt inclusions with geochemical trace-element proxies (e.g. U/La, Ba/Th) and lead-isotope compositions, which change along the arc in response to changing subduction conditions, we suggest that subducted calcareous sediment is a major source of magmatic Br but also infer an important role of fluids expelled from serpentinized subducted mantle. Extrapolation of CAVA volcanic Br emissions to the global subduction system thus needs to consider variations in the nature of subducted lithologies.\n© 2015 Elsevier B.V. All rights reserved."
+  }, {
+    "heading": "1. Introduction",
+    "text": "Mass balances and element cycling in subduction zones, particularly regarding the flux of volatile species from source to atmosphere has been investigated for decades, and several attempts have been made to extrapolate the data available from\n* Corresponding author. E-mail address: skutterolf@geomar.de (S. Kutterolf). 1 Now at European XFEL, Albert-Einstein-Ring 19, 22761 Hamburg, Germany.\nhttp://dx.doi.org/10.1016/j.epsl.2015.07.064 0012-821X/© 2015 Elsevier B.V. All rights reserved.\nsingle subduction zones to the global scale (e.g. Devine et al., 1984; Freundt et al., 2014; Jarrard, 2003; Pyle and Mather, 2009; Shinohara, 2013). However, an important constraint missing in these approximations has been the combined Cl and Br budgets for magmas erupted through large explosive eruptions, and their relevance for climate and atmospheric chemistry.\nThe modern Central American Volcanic Arc (CAVA) is an area with one of the largest densities of active volcanoes in the world, and has produced numerous felsic tephras from highly explosive eruptions during the late Pleistocene through the Holocene. Recent\nvolcanological studies at the CAVA have addressed the along-arc tephrostratigraphy (Kutterolf et al., 2008a, 2007), evolution of single eruptive centers (e.g. Kutterolf et al., 2011; Newhall et al., 1987; Pérez et al., 2009; Peterson and Rose, 1985; Wundermann and Rose, 1984), geochemical along-arc variations with a special focus on the magma genesis (Carr et al., 1990; Hoernle et al., 2008; Patino et al., 2000) and crustal contamination (Vogel et al., 2006; Walker et al., 2007). Volatiles (H2O, CO2, Cl and S) in melt inclusions of mostly primitive magma compositions have been analyzed to reveal their influence on eruptive style (e.g., Roggensack et al., 1997) as well as the various contributions of their sources to magma genesis as subduction conditions change along the arc (Roggensack et al., 1997; Sadofsky et al., 2008). Additionally, Freundt et al. (2014) budgeted the cycling of H2O, CO2, Cl and S through the subduction system and into the atmosphere.\nRecent studies on halogen cycling processes and compositions of source rocks in subduction zones has led to a refined understanding of how subduction zones work (e.g. Kendrick et al., 2014, 2013). However, the heterogeneity of subducted rocks requires the use of geochemical proxies for source identification prior to determination of regional mass budgets (e.g. Bolge et al., 2009; Deschamps et al., 2013; Freundt et al., 2014). Igneous processes in subduction zones are relatively well investigated, but still exsolution and degassing processes and thus halogen release from subduction zone volcanoes are only partly understood (cf. reviews of Aiuppa et al., 2009; Pyle and Mather, 2009). The atmosphere and climate effect of large eruptions has been controversially discussed (e.g. Devine et al., 1984; Montzka et al., 2011; Robock, 2000; and references therein). Several model studies mainly consider emissions of sulphur-containing species (SO2 and H2S) into the stratosphere (Robock, 2000; Timmreck, 2012), although both Cl and Br have the potential to destroy the stratospheric ozone layer by chemical reactions that are particularly efficient when halogens interact with sulphur aerosols and salt precipitates on ash particles (e.g. Martin et al., 2012). Recent studies thus show that halogens may have a significant effect on atmospheric chemistry and climate (Montzka et al., 2011; Balcone-Boissard et al., 2010; Bobrowski et al., 2003).\nBromine budgets for past eruptions based on melt inclusion measurements are rare, and this is the first study that provides a complete 200 ka time series for an entire subduction zone, the CAVA. The usefulness of such a long-term regional data set in modeling global atmospheric effects of volcanic sulfur and halogen releases has been demonstrated in recent studies (Krüger et al., 2015; Metzner et al., 2014).\nOur pilot study of Br and Cl melt-inclusion concentrations in Nicaraguan tephras (Kutterolf et al., 2013) indicated that volcanic Br emissions, in addition to the Cl emissions, could have a significant impact on the stratosphere. This triggered the present study in which we extend the analytical data base from 14 Nicaraguan eruptions of <70 ka (Kutterolf et al., 2013) to cover the 1200 km length of the entire CAVA over a 200 ka period, comprising 29 large eruptions in total. This also implies a significant extension of the range of eruption magnitudes by including all the very large (VEI > 6) eruptions from the Northern CAVA. Moreover, the subduction setting now ranges from oceanic arc crust (Nicaragua) through transitional arc crust (Costa Rica, El Salvador) to continental crust (Guatemala).\nWe use this extended data set of bromine and chlorine concentrations and masses discharged during large explosive eruptions to address the following questions: 1) Where does the magmatic bromine originate from? 2) How do bromine and chlorine partition between melt and fluid/vapor phases during magma storage? 3) Does the arc-wide data set confirm the more locally restricted findings from Nicaragua in Kutterolf et al. (2013) that Br and Cl emissions of past eruptions had the power to impact past ozone\nlayers? 4) If so, what would be the implications for the presentday atmosphere?"
+  }, {
+    "heading": "2. Geological setting",
+    "text": "The CAVA is located 150–200 km away from the Middle America trench (Fig. 1) where the Cocos plate subducts beneath the Caribbean plate at convergence rates of 70–90 mm/year (e.g. Barckhausen et al., 2001). The CAVA extends ∼1200 km from Guatemala in the northwest to Costa Rica in the southeast. The volcanic arc itself is tectonically divided into ten segments by offsets in strike such that the trench-arc distance decreases northward on each segment (Agostini et al., 2006; Bolge et al., 2009). Systematically changing tectonic parameters such as convergence rate and subduction angle, the tectonic, volcanic, and sedimentary structures of the subducting Cocos Plate, the age, thickness and composition of the overlying Caribbean plate, and variable degrees of magmatic differentiation lead to magmatic compositional diversity along the CAVA (e.g. Carr et al., 1990; Heydolph et al., 2012; Hoernle et al., 2008; Lücke, 2014; Patino et al., 2000; Syracuse and Abers, 2006).\nUpper Pleistocene (since ∼500 ka) to Holocene arc volcanism has formed a number of large caldera volcanoes at the Northern CAVA (Guatemala and El Salvador), which have produced at least 92 large-magnitude eruptions of highly evolved, silicic magmas resulting in widespread felsic and rare mafic tephras (Kutterolf et al., 2008b, 2008a; Metzner et al., 2014). In the South (Nicaragua and Costa Rica) stratovolcanoes dominate the volcanic arc, and mafic compositions of the erupted widespread tephras occur equally often as silicic ones (Fig. 1).\nFor this study 29 widespread, mostly felsic, Quaternary tephras are investigated. Complementary to the 14 tephras from Nicaraguan volcanoes (Masaya and Apoyo calderas, Chiltepe, Cosigüina and Ometepe volcanic complexes; see Fig. 1) that were studied by Kutterolf et al. (2013) 15 tephras from Guatemalan (Ayarza, Amatitlán and Atitlán calderas, Santa María volcano), El Salvadorian (Berlin–Chinameca complex, the Ilopango, and Coatepeque calderas) and Costa Rican (Rincón de la Vieja and Poás volcanoes) volcanic centres were investigated (see Fig. 1).\nCompositions of these tephras range from typically moderately evolved dacites in the south (Nicaragua) with plagioclase + pyroxene ± amphibole phenocryst assemblages, to predominantly highly-evolved rhyolites in the north (El Salvador and Guatemala) that have amphibole, biotite and even quartz and zircon phenocrysts. Exceptions are some plagioclase, pyroxene and olivine bearing basalts and basaltic andesites from Masaya Caldera in Nicaragua.\nVolumes of these tephras range between 1 km3 to ∼100 km3 (Kutterolf et al., 2008b; Metzner et al., 2014; Table 2). However, an exception is the ∼84 ka old Los Chocoyos tephra from Atitlán Caldera in Guatemala, which has about 800 km3 tephra volume and represents the largest known eruption in Central America. Next to Los Chocoyos, the most prominent, and presumably climate-relevant additional eruptions included in this study are those of the L-Tephra (∼191 ka), W-Tephra (∼159 ka) and E-Tephra (∼60 ka) in Guatemala (e.g. Kutterolf et al., 2008b; Rose et al., 1999), the Arce (∼72 ka), Congo (∼53 ka) and Tierra Blanca Joven tephras (∼1.5 ka) in El Salvador (e.g. Hart, 1983; Kutterolf et al., 2008b). These complement the most climate relevant examples of the Nicaraguan case study; the Upper Apoyo (∼25 ka) and Chiltepe tephras (∼2 ka) in Nicaragua (Kutterolf et al., 2011, 2007; Metzner et al., 2014)."
+  }, {
+    "heading": "3. Methods",
+    "text": ""
+  }, {
+    "heading": "3.1. Sample selection and preparation",
+    "text": "In addition to the samples of 14 tephras from Nicaragua, investigated by Kutterolf et al. (2013), we selected 15 tephra layers from Central Costa Rica to Guatemala representing the typical range of eruption volumes, and where the major eruption parameters (erupted magma mass, magma discharge rate and maximum\ncolumn heights), bulk-rock and glass geochemical variations, and eruption ages had been determined by previous studies.\nMineral and glass separates from crushed pumice clasts (>5 per sample) were prepared as doubly polished grain mounts (30–100 μm thick) using acetone-soluble glue. Following petrography and electron microprobe analysis, single mineral grains with melt inclusions, and matrix glass shards, were removed from the respective mounts and washed with acetone to remove any remaining glue. Subsequently each grain was mounted with bromine-free glue on 3 μm Mylar-film to facilitate further analyses\nwith synchrotron radiation micro X-ray fluorescence spectrometry (SR micro-XRF)."
+  }, {
+    "heading": "3.2. Analytical techniques",
+    "text": "Chlorine, sulphur, and major elements were determined using a JEOL JXA 8200 electron microprobe (EMP) at GEOMAR in Kiel (Germany), using setups described in Kutterolf et al. (2011). Natural and synthetic glasses and minerals were used as reference materials for calibration. Accuracy was monitored by reference material measurements on Lipari obsidian (major elements, e.g. Hunt and Hill, 2001), ALV (sulphur) and Ke13 (chlorine) glass. 30 individual point measurements were bracketed by two reference material measurements at the beginning and the end of each analytical series. Internal and external precision and accuracy of the monitor measurements were better than 2% for the major elements, <5% for most minor elements including chlorine, and <10% for sulphur. Some exceptions have been observed regarding the silica content. Deviations (up to 0.5 wt.%) are due to randomly occurring inclination of the mounted minerals (silica is particularly sensitive to changes in the z-axis) caused by thermal contortion of the Mylarfilm during the measurements.\nContemporaneously to the Nicaraguan samples (Kutterolf et al., 2013) bromine in melt inclusions and matrix glasses of the tephras were analyzed with SR micro-XRF at beamline L, at the positron storage ring DORIS III at HASYLAB (located at Deutsches Elektronen-Synchrotron (DESY) in Hamburg, Germany). Beamline L is a bending magnet beamline with a Ni/C multilayer monochromator, which allows to tune the excitation energy of the X-rays. The setup for both studies required the incoming energy of 15 keV, i.e., slightly above the binding energy of the Br K-shell electrons to optimize detection of bromine by X-ray fluorescence. Behind the monochromator, a motorized cross-slit system collimates the beam, which then passes through an ionization chamber used for normalization purposes and a polycapillary half-lens from X-ray Optical Systems Inc., Albany, USA for focusing. The achieved fullwidth-at-half-maximum was 15 μm in the focal X-ray spot. The X-ray fluorescence of the sample was collected by a silicon drift detector (Vortex-EX, SII NanoTechnology Inc, Northridge CA, USA) at an angle of 90◦ with respect to the primary beam, in the plane of linear polarization. To avoid detector overload by Fe fluorescence in these Fe-rich samples and the formation of pile-up peaks, a 0.18 mm thick Al absorber was placed between sample and detector. This resulted in a reduction of Fe–Kα fluorescence recorded in the detector to values below 1% at a transmission >45% for Br fluorescence. Spectral deconvolution of the individual XRF spectra was performed by the non-linear least-squares fitting software AXIL (Vekemans et al., 1994). Peak areas were normalized to the ionization chamber signal before comparison to rule out the effects of different sample times and fluctuations in the incoming beam intensity. No detector dead time correction was required due to the low total count rate.\nFor each melt inclusion, at least two measurements were performed, one representing both, the respective melt inclusion and some of its immediately surrounding host mineral, and a second measurement of the host mineral alone, close to the position of the melt inclusion. Host minerals are predominantly plagioclase and pyroxene (see Supplement table). Some melt inclusions also occur in olivine (mafic tephras), hornblende and quartz (felsic tephras). Calculated bromine concentrations are based on external calibration to measurements of reference samples performed within the same experimental session (121 measurements in total). Reference samples comprised glasses with Br contents of 1.2, 1.4, 4.6, and 18 ppm leading to the calibration line Brsample (ppm) = 0.0059121 ∗ x − 0.5, where x is the normalized peak area (see supplement in Kutterolf et al., 2013). This allows us to calculate the\nbromine concentration for each measurement. For inclusion analysis, one has to subtract the contribution of the host matrix from the mixed matrix/inclusion signal. In order to retrieve the Br concentration in the inclusion, we use the measured Br intensity in the host matrix alone and in the host matrix/inclusion mixture. The contribution of the inclusion intensity is determined by mass fraction calculations, which are based on geometry and volume of inclusion and matrix. The formula for the calculation is:\nIBr,tot = w In ∗ IBr,In + wM ∗ IBr,M with IBr represents the intensity of the bromine peak area and w the mass fraction of inclusion (In) and matrix (M). Measurement points for the inclusions were chosen by previous XRF area scans over the inclusions which allowed to determine the shape of the inclusion by fluorescence imaging and the middle of the inclusion. The single point measurements of the inclusion were performed in the middle of the determined area. The mass fraction of inclusion to matrix (w) at this point was then determined microscopically using the optical microscope and the xyz stage at the beamline, which allows to focus on the surface of each layer. IBr,tot is the measured peak area of Br for matrix and inclusion, IBr,M is the measured peak area of the nearby matrix. Due to the high photon energy of Br, the small thickness of the samples and the light matrix, self-absorption effects can be neglected. Thus, the concentration in the inclusion can be calculated from the determined peak area for the inclusion and the formula given above. The observed accuracy for bromine contents measured in reference samples was better than 15 relative-%, with the larger uncertainties occurring at concentrations closer to the lower limit of detection, which is better than 0.4 ppm depending on sample thickness, geometry and inclusion size. In contrast to homogeneous matrix glasses, determination of Br contents in melt inclusions is additionally affected by uncertainty in the measurement of the inclusion thickness, whereby the added error remains less than 9 relative-%. The combined analytical error therefore amounts to up to 24% for bromine, depending on how close the measured values are to the detection limit and on the morphology of the melt inclusion.\nTrace element data for glass shards from the same samples are taken from Kutterolf et al. (2008a). All data including that of Kutterolf et al. (2013) are compiled in the Supplement Table."
+  }, {
+    "heading": "4. Results",
+    "text": "All matrix glasses of the Central American tephras (25 measurements) have low Br concentrations between 0.4 and 1.2 ppm (±24 relative-% error due to proximity to the detection limit of 0.4 ppm), independent of bulk composition, which probably represents the 1-atm solubility of Br in melt after syn-eruptive degassing (Fig. 2A, Supplementary Fig. S2A). Cl concentrations for average matrix glasses range between 638 and 3344 ppm (Fig. 2C, Supplementary Fig. S2C). In contrast, melt inclusions (139 single measurements; e.g. Fig. 1) are typically strongly Br enriched compared to their respective matrix glasses, with an overall concentration range between 0.6 and 17.9 ppm Br (Tables 2 and Supplement table; Fig. 2A, E, Supplementary Fig. S2A). The melt-inclusion to matrix glass concentration ratios for Br are significantly higher than those for Cl. Bromine concentrations in both matrix glasses and melt inclusions are roughly similar to the range of the rare published values, partly stemming from other geographic regions using other methods (e.g. <1 to 2 ppm; Balcone-Boissard et al., 2010; Bureau et al., 2000; Textor et al., 2003b). The range in chlorine is also similar to published data worldwide (e.g. Devine et al., 1984; Gerlach et al., 1996; Pyle and Mather, 2009; Shinohara, 2013; Straub and Layne, 2003).\nBr concentrations in melt inclusions are often more than one order of magnitude higher than those in the matrix glasses. However, there can also be large differences between the maximum and minimum bromine concentrations found in melt inclusions of the same tephra. We express this difference as a percentage of the maximum observed concentration in the melt inclusions of that tephra sample. The intra-sample variations of Br (9 to 90%) are much larger than those of Cl (2 to 40%; Fig. 2A; Tables 2, Supplement table). The total range in Cl/Br ratios (Fig. 2E, Supple-\nmentary Fig. S3) in the inclusions (136 to 2605) and matrix glasses (488 to 5155) is much wider than hitherto found for magmatic systems (ca. 300 to 610; Bureau et al., 2000; Pyle and Mather, 2009).\nBr/K2O and Cl/K2O ratios of melt inclusions both increase from mafic to intermediate melt compositions but then decrease to more evolved melt compositions (Fig. 2b, d). Additionally, within the more evolved tephras Cl/Br ratios vary more widely than in the less evolved tephras (Fig. 2e)."
+  }, {
+    "heading": "5. Discussion",
+    "text": ""
+  }, {
+    "heading": "5.1. Br and Cl contents controlled by magmatic differentiation and fluid partitioning",
+    "text": "In order to constrain Cl and Br budgets for the CAVA eruptions, we need to assess processes leading to their enrichment or depletion in the magmas. Cl and Br concentrations dissolved in the melt may be affected by a) passive enrichment due to fractional crystallization, b) removal by incorporation into amphibole, mica, or apatite minerals, c) addition from assimilated crustal materials, and d) loss by degassing. a) As an incompatible element, K is used here as indicator for the degree of fractional crystallization. At magmatic compositions of >65 wt.% SiO2 our regional data set comprises two broad differentiation trends, which we refer to as the low-K and high-K series, respectively (Fig. 2f). At a given SiO2 content, the variation of K2O is <30 relative-% around the mean (i.e. a factor <1.3) within each series, while the two series differ by a factor of <2 in K2O concentration. Thus passive enrichment of Cl and Br during fractional crystallization should produce a good correlation with K2O. b) Passive enrichment of Cl and Br in the melt may be limited by incorporation into mineral phases. Apatite may incorporate Cl in the wt.% range, but only up to 3.5 ppm Br (Teiber et al., 2015). The amount of apatite fractionation is estimated here from the depletion (c. 0.4 wt.%) of P2O5, particularly at >60–65 wt.% SiO2 (Supplementary Fig. S1e), which translates conservatively (apatite contains ∼30 to 60 wt.% P2O5 and 60 to 40 wt.% Ca plus accessories) into no more than ∼0.25 wt.% apatite fractionation for the most evolved rocks. The associated removal of <0.01 ppm Br from the melt would be insignificant compared to the Br concentrations in the melt inclusions (Fig. 2). Biotite and amphibole may also incorporate Br (up to 4 ppm; Teiber et al., 2015) and Cl, but occur in only few of the investigated magmas. They would also only remove a small fraction of the observed concentrations, and are thus unlikely to represent a main controlling factor on Br concentrations in the melts. In summary, while fractional crystallization of apatite, amphibole, and biotite may have influenced the concentration of Cl, its potential to remove Br from the melt is quantitatively insignificant due to the limited Br-contents in these minerals (e.g. Teiber et al., 2015; Wang et al., 2014). Therefore, if any halogen removal by means of fractional crystallization occurred, Cl would become more depleted than Br during magma evolution. c) Assimilation of lithologies comprising hydrous minerals could in principle change the halogen contents of the magmas, but would again have little effect on Br due to the low absolute\ncontents in the assimilated minerals and rocks (Teiber et al., 2015; Wang et al., 2014). Furthermore, geochemical and isotopic studies of CAVA magmatic rocks did not find evidence for any significant crustal assimilation (e.g. Heydolph et al., 2012) so that we imply that assimilation processes have had little or no effect on the Br budget of the large CAVA eruptions. d) Following the above argumentation, Br and Cl should be enriched as incompatible elements during fractional crystallization as the dominating process of magmatic differentiation. Their concentrations indeed increase from mafic to intermediate compositions showing broadly similar trends up to about 65 wt.% SiO2 (Fig. 2a, c). There is, however, a considerable spread in Br concentrations, and to a lesser extent in Cl concentrations, within a given sample. In most tephras, this spread occurs over a very limited range of K2O contents, imposing the variation in halogen/K2O within a given tephra to be governed by the halogens and not by K2O (Supplementary Fig. S1c, d). The maximum concentrations of Br and Cl within each melt inclusion suite drop as the magmas evolve to SiO2 contents above 65 wt.%. We interpret the combined decrease in maximum concentrations of Br and Cl and the large spread at roughly constant K2O in the evolved rocks by partitioning into a fluid phase coexisting with melts in crustal magma reservoirs. Plagioclase phenocrysts in 16 of 22 evolved tephras studied here do, in fact, contain aqueous magmatic fluid inclusions (Burkert and Hansteen, unpublished; Longpré et al., 2014). Progressive halogen loss to a fluid phase during magmatic differentiation thus led to halogen/K2O decreasing to higher silica contents in the evolved rocks (Fig. 2b, d). However, there is also a decrease in halogen/K2O from intermediate to mafic rock compositions although the ratios should remain approximately constant during fractional crystallization without exsolution. As we show in the next section, mafic and felsic magmas in a given region derive from the same mantle source, inhibiting large differences in original halogen/K2O values. We must therefore conclude that mafic magmas, more than intermediate ones, also suffered pre-eruptive halogen exsolution into a fluid phase. This also becomes evident by the following discussion of Cl/Br variations.\nTephras in which glass compositions cover a wide range in Cl/Br are particularly suited to investigate the combined Br and Cl fluid partitioning. Apparent intra-sample degassing paths are indicated as coloured arrows in Fig. 3 for the basaltic Masaya Triple Layer and Masaya Tuff, the dacitic Cosiqüina 1835, Mateare, Upper Apoyo, Blanca Rossa, and Chiltepe tephras, and the rhyodacitic Tierra Blanca 4 and Twins/A-fall tephras. The trends of steeply decreasing Br concentrations along with no or little decrease in Cl\ndemonstrate that Br generally has much higher fluid/melt partition coefficients (Dx) than Cl. The steep initial parts of the degassing trends in Fig. 3 indicate DBr/DCl ratios in the range of 3.8 to 68 during the early stages of exsolution.\nThis is compatible with experimental data showing fluid/melt partition coefficients of DBr = 2 to 375 (pressure-dependent; Bureau et al., 2010) and DCl = 0.9 to 6 (at 200 MPa and basaltic to andesitic composition; Webster et al., 1999), respectively. With DBr typically larger than DCl (Bureau et al., 2000; Bureau and Métrich, 2003), the Cl/Br ratio in a melt should increase during partial degassing as observed in the evolved melt compositions (Figs. 2e, 3). In conclusion, the pre-eruptive fluid exsolution caused the majority of the originally dissolved Br, but only a comparatively moderate fraction of Cl, to be transferred from the melt into the magmatic fluid phase.\nTherefore, the highest melt-inclusion Br and Cl concentrations found are the closest observable approximation to the initially dissolved concentrations. These are minimum estimates, however, because the reduced Br/K2O and Cl/K2O at >65 wt.% SiO2 (Fig. 2b, d) strongly suggest that true initially dissolved concentrations of Br and Cl were considerably higher than even the highest measured values in the high-silica range. With these limitations in mind, we define (a) the difference between maximum melt-inclusion concentration and average matrix glass concentration as the total degassed fraction, (b) the difference between maximum and minimum observed concentration in melt inclusions as the fraction that has degassed pre-eruptively, and (c) the difference between minimum melt-inclusion and mean matrix glass concentration as the syn-eruptively degassed fraction (see Table 2 for detailed calculated values). On average across our sample suite, we find that ∼52% of the initial Br and ∼13% of the initial Cl have degassed from the melt before eruptions while another ∼32% of Br and ∼6% of Cl degassed during eruption. Thus, only 21% (5 to 70%) of initial Br but 81% (53 to 95%) of initial Cl, on average, remain trapped in the volcanic glasses, without a preference between mafic and felsic compositions."
+  }, {
+    "heading": "5.2. Br and Cl contents controlled by source variations",
+    "text": "Having demonstrated that melt Cl/Br increases dramatically by preferential partitioning of Br into a coexisting fluid phase, we conclude that the minimum Cl/Br values of 136–657 (Fig. 3 and lower envelope in Fig. 4g) observed in most volcanic rocks (except for the strongly degassed Santa Maria 1902, Mixta, Conacaste, Congo, and E-Fall Tephras; Cl/Br: 917 to 2451), mostly coinciding with the highest halogen concentrations (upper envelopes in Figs. 4e, f), are the best available approximation to the initial magmatic values before exsolution. Moreover, since halogen/K2O decreases during fluid exsolution, the maximum observed Br/K2O and Cl/K2O values (upper envelopes in Figs. 4e, f) best approximate magmatic compositions prior to such exsolution. The span of the along-arc variations in halogen/K2O strongly exceeds the range in K2O over the degree of differentiation (Fig. 2f), and is, as shown above, dominated by variations in the halogens arising from exsolution, which generate vertical trends for many tephras in the Br/K2O–K2O diagram (Supplementary Figs. S1c, d). The negligible effect of K2O variations for the range in Br/K2O is clearly manifested by e.g. Lower Apoyo Tephra and Tierra Blanca 4 Tephra, which have low Br abundances at K2O contents identical to high Br-tephras. Only Pinos Altos and L-Fall Tephras, as well as to a lesser extent Arce Tephra, have to be treated with caution in this respect, since their low Br/K2O is affected by both medium Br and high K2O concentrations. We therefore consider the along-arc variations in minimum Cl/Br and maximum Br/K2O and Cl/K2O (Fig. 4e–g) to provide limits for the respec-\ntive values inherited from the magma sources. This implies that the sources should deliver higher halogen/K2O than the maxima in the tephras and lower Cl/Br than the minima in the tephras.\nAlong the arc, maximum Br/K2O and Cl/K2O and minimum Cl/Br values in the least degassed melt inclusions are attained at central CAVA (southern El Salvador and Nicaragua) and coincide with the highest Ba/Nb and Ba/La in the matrix glass shards (Fig. 4, Supplementary Fig. S2). There is no systematic relation to alongarc variations in either upper-plate crustal thickness or long-term magma flux (Fig. 4). High Ba/Nb, Ba/Th, Ba/La, U/Th, and U/La values have been established in previous studies as proxies for the involvement of slab fluids (e.g. Carr et al., 1990; Patino et al., 2000). Those slab fluids may be released from subducting marine sediments, altered and unaltered oceanic crust, and serpentinized upper mantle. Among these potential halogen sources, hemipelagic sediments produce distinctly elevated U/La compared to calcareous sediment (Fig. 5a; Patino et al., 2000) while both sediment types lead to high magmatic Ba/Th (Fig. 5b). The melt-inclusion minimum Cl/Br values correlate negatively with Ba/Th but positively with U/La (Fig. 5a, b). This indicates that Br is predominantly contributed from calcareous sediments, in agreement with organic processes on the seafloor causing strong accumulation of Br especially in organic-rich calcareous sediments (e.g., Leri et al., 2010; Mayer et al., 1981).\nHowever, while subducted sediments strongly control magmatic trace-element ratios such as U/La and Ba/Th, these sediments could not have affected the less radiogenic lead isotope compositions of the tephras, which are symptomatical for an enriched slab component in arc magmas (e.g. Heydolph et al., 2012) and correlate positively with the Cl/Br values (Fig. 5c). Kendrick et al. (2014) identified Br/Cl in conjunction with I/Cl ratios as to date the only geochemical tool to distinguish between subduction fluids derived from serpentinites versus those from marine sediments. The data of Kendrick et al. (2014, 2013) show that our melt-inclusion Cl/Br values cover the entire range from serpentinites (96–369; Fig. 5) to fresh and altered mid-ocean-ridge and ocean island basalts (316–408; Fig. 5). The latter represent the entire crust of the subducting slab, but because of their high Cl/Br values, they are a negligible source for Br (Kendrick et al., 2013). The serpentinite, however, can explain the less radiogenic isotope compositions particularly of the low-Cl/Br tephras (Fig. 5c) that have the strongest calcareous-sediment contribution (Fig. 5a). Since serpentine is considered to be able to incorporate halogens as substitutes for OH or interstitially (Kendrick et al., 2013), it may directly donate Br to the subduction system, or may promote Br mobilization from the overlying sediments by release of fluids which the Br from the sediments can partition into. While there is little evidence for substantial changes in the amount and composition of subducted sediment along the Middle-America Trench, serpentinization of the down-bending plate and fluid release from that serpentinite at depth are particularly strong at the central, Nicaraguan segment of the subduction zone (Abers et al., 2003; Grevemeyer et al., 2005; van Avendonk et al., 2011).\nWe therefore conclude that the pattern of low U/La, high 207Pb/204Pb and low Cl/Br in the tephras of this segment favor both the serpentinite and calcareous sediments subducting beneath Nicaragua and El Salvador as likely contributors of Br to the arc melts. The increase in magmatic minimum Cl/Br, U/La and 207Pb/204Pb and decrease in Ba/Th toward Guatemala may be explained by a vanishing capacity of serpentinite fluids to transport serpentinte-derived Br as well as to scavenge Br from the subducted sediment."
+  }, {
+    "heading": "5.3. Stratospheric injections of Br and Cl and their impact",
+    "text": "To expand the data set of Kutterolf et al. (2013) from Nicaragua to the entire CAVA and the age range from 70 to 200 ka, halogen masses (degassed volatile concentrations times erupted magma masses) were determined following Kutterolf et al. (2008b) and Metzner et al. (2014). This extends also eruption magnitudes from ∼VEI 5 up to ∼VEI 8, and corresponding discharges per eruption of 2 to 1100 kt Br (compared to 4–600 kt previously reported for Nicaragua), and 0.1 to 800 Mt Cl (previously 0.12–106 Mt; Table 1). These emissions are still minimum values since we ignored the pre-eruptively degassed Br and Cl fractions. Assuming that only 10% of the chlorine and bromine emitted at the vents would reach the stratosphere (e.g. Krüger et al., 2015; Textor et al., 2003a), the short-term stratospheric halogen injections then would be 0.2–110 kt Br and 0.01–80 Mt Cl per eruption (Table 1).\nTo evaluate the potential impact of such injections on the stratospheric chemistry we compare the data for a present-day and a pre-industrial annual halogen loading scenario in the stratosphere compiled in Montzka et al. (2011; Table 1) to our volcanic emissions and express these injections as a percentage of the re-\nspective annual loads of the stratosphere (Table 1). The presentday annual halogen loading may be considered an approximation of the threshold of halogen injection from the tropical regions that is needed to cause effective ozone depletion at least in the polar regions. The impact of individual eruptions ranges widely. Some eruptions add just a few percent to the resident load, while others increase the annual load more than tenfold (Table 1). In the latter case, an ozone-depleting effect is highly likely since the present-day stratospheric composition obviously already facilitates large-scale regional ozone depletion. Moreover, the typically combined volcanic emission of sulfur and halogens facilitates catalytic reactions that enhance the effects of halogens alone (Salawitch et al., 2005; Sinnhuber et al., 2009).\nAlthough there are significant local and regional variations in magmatic halogen concentrations, the eruptive halogen mass emissions are primarily controlled by the size of an eruption. For example, Fig. 6a shows a strong correlation (R = 0.976) of the stratospheric EESC injection with the volumetric magnitude of eruption MV = log10(V) − 4, where V [m3] is tephra volume (Pyle, 1995). While the well-known Volcanic Explosivity Index (VEI; Newhall and Self, 1982) measures eruption size in discrete classes mainly based on tephra volume, MV has the advantage of a continuous scale. Our record of analyzed CAVA tephras comprises eruptions of VEI ≥ 5. On average, one such eruption occurred every 2100 years at the CAVA (92 such eruptions during the last 191 ka; Metzner et al., 2014). However, it is well known that the eruption frequency strongly decreases to larger eruption size as illustrated by the global compilations of Pyle (1995) and Mason et al. (2004). Pyle (1995) describe the number of eruptions per size per year, N, by the regression function log10(N) = 3.05 − 0.86 ∗ MV for a 2000 year volcanic dataset. This function implies an about 7-times increase in eruption frequency as eruption magnitude decreases by one order of magnitude. We have used this function to convert volumetric magnitude MV of the 29 CAVA eruptions into respective recurrence rates, N, in order to determine the corresponding recurrence rate for any given Equivalent Effective Stratospheric Chlorine (EESC = Cl + 60 × Br) injection into the stratosphere in Fig. 6b. We use the EESC concentration as an example since it combines the Br and Cl emissions. If eruptions recur within less than 40 years, they would add another <10% each to the resident EESC load in the stratosphere. At recurrence rates of more than 200 years, on the other hand, every eruption would cause a more than twofold increase of the EESC load of the stratosphere (Fig. 6b).\nHowever, extrapolation of our CAVA results for Br and Cl turnover to global explosive volcanism needs to be pursued with great care. Although most of that volcanism is subduction-related and the CAVA comprises both oceanic and transitional to continental subduction settings, we have argued above that the arcmagmatic halogen inventory is strongly controlled by the nature and abundance of subducted sediments, their processing through time, and the selective element extraction by fluxing of serpentinite fluids from the slab through the sediment package into the mantle wedge. These parameters vary greatly between the different subduction systems on Earth (e.g., Jarrard, 2003, and references therein), likely leading to variations in arc-volcanic halogen emissions."
+  }, {
+    "heading": "6. Conclusions",
+    "text": "Our data set of Br and Cl emissions from 29 large CAVA eruptions (VEI > 5) covers the regional range of magmatic compositions for the past ∼200 ka. The major conclusions from this time series for explosive chlorine and bromine release along an entire arc are that:\n1) Melt inclusions of the Central American tephras have concentrations of 0.9 to 17.9 ppm Br and 770 to 3790 ppm Cl and are thus\nS.Kutterolfet al./Earth and Planetary Science Letters 429 (2015) 234–246 243\nand respective countries of origin are give in brackets). existing with melt before eruption is determined as the ce between maximum inclusion and average matrix glass ters given in Kutterolf et al. (2013) and complement the\nstrongly enriched compared to their respective matrix glasses with comparatively low concentrations of 0.4 to 1.3 ppm Br and 638 to 3340 ppm Cl. The variation of melt-inclusion concentrations within a sample, i.e. the difference between maximum and minimum observed concentration expressed as a percentage of the maximum, ranges between 9 and 90% for Br and 2 to 40% for Cl. These variations result from syn-crystallization partitioning of the halogens from the melt into a co-existing fluid phase.\n2) Our melt-inclusion data yield fluid/melt partition coefficients of DBr = 0.3–21 (0.3–16; Kutterolf et al., 2013) and DCl = 0.003–0.9 (0.003–0.8; Kutterolf et al., 2013); these values are typically one order of magnitude lower compared to previous studies by Bureau et al. (2010; Br: 2–375) and Webster et al. (1999; Cl: 0.9–6). However, these values confirm a 4 to 68 times stronger partitioning into fluid for Br than for Cl in agreement with the observed variations in Cl/Br from 136 to 2451, a much broader range than previously recognized in magmatic systems.\n3) The maximum Br contents and minimum Cl/Br in melt inclusions along the CAVA, the best available approximations to initial magmatic conditions, correlate well with geochemical signals inherited from subducted sediments such as Ba/Th, Ba/Nb, and Ba/La which attain maximum values at Central Nicaragua and Southern El Salvador. This suggests subducted calcareous sediments, or fluids derived from them, as a major source of the arc-magmatic bromine contents.\n4) Erupted halogen masses of the investigated 29 eruptions range from roughly 2 to 1100 kt Br and from 0.1 to 800 Mt Cl. If 10% of these halogens reached the stratosphere, an average CAVA eruption would add 6 ppt Br (58% of recent annual loading of the stratosphere), 5.9 ppb Cl (277% of recent annual loading), and 6.2 ppb EESC (368% of recent annual loading) to the stratosphere with probably significant effect on stratospheric ozone. The data of the entire arc presented here doubles the bromine and at least triples the chlorine and EESC loading of the Nicaraguan estimate alone (cf. Kutterolf et al., 2013; Table 1). We use magnitude-frequency relationships to estimate how often volcanic halogen emissions of a given magnitude into the stratosphere may occur along the global subduction system.\nWe have tracked and quantified the Br transfer through the Central American arc. Our study confirms and extends the results of Kutterolf et al. (2013) regarding the impact of halogens emitted from large eruptions on the composition of the atmosphere. This study reveals that pre-eruptive partitioning into a magmatic fluid is much more efficient for bromine than for chlorine. A primary control on the bromine inventory of subduction zones appears to be exerted by the subducted components, in particular by the composition of the incoming plate sediments, potentially enhanced by serpentinite fluids. The identification of such volatile recycling processes will be of great help for refining models and budgets of subduction zone volatiles at other arc systems worldwide."
+  }, {
+    "heading": "Acknowledgements",
+    "text": "Parts of this research were carried out at the light source DORIS at DESY, a member of the Helmholtz Association (HGF). We thank DESY Photon Science for granting beamtime. We acknowledge comments by Nicole Métrich, an anonymous reviewer, and the editor Tamsin Mather which helped to improve this manuscript significantly. This publication is contribution no. 276 of the Sonderforschungsbereich 574 “Volatiles and Fluids in Subduction Zones” at Kiel University."
+  }, {
+    "heading": "Appendix A. Supplementary material",
+    "text": "Supplementary material related to this article can be found online at http://dx.doi.org/10.1016/j.epsl.2015.07.064."
+  }],
+  "year": 2016,
+  "references": [{
+    "title": "Tectonic and magmatic evolution of the active volcanic front in El Salvador: insight into the Berlín and Ahuachapán geothermal",
+    "authors": ["S. Agostini", "G. Corti", "C. Doglioni", "F. Innocenti", "S. Tonarini", "P. Manetti", "G. Di Vincenzo", "D. Montanari"],
+    "venue": "areas. Geothermics",
+    "year": 2006
+  }, {
+    "title": "Behavior of halogens during the degassing of felsic magmas",
+    "authors": ["H. Balcone-Boissard", "B. Villemant", "G. Boudon"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2010
+  }, {
+    "title": "Revised tectonic boundaries in the Cocos Plate off Costa Rica: implications for the segmentation of the convergent margin and for plate tectonic models",
+    "authors": ["U. Barckhausen", "C.R. Ranero", "R. von Huene", "S. Cande", "H. Roeser"],
+    "venue": "J. Geophys. Res",
+    "year": 2001
+  }, {
+    "title": "Detection of bromine monoxide in a volcanic plume",
+    "authors": ["N. Bobrowski", "G. Honninger", "B. Galle", "U. Platt"],
+    "venue": "Nature",
+    "year": 2003
+  }, {
+    "title": "Correlating geochemistry, tectonics, and volcanic volume along the Central American volcanic front",
+    "authors": ["L.L. Bolge", "M.J. Carr", "K.I. Milidakis", "F.N. Lindsay", "M.D. Feigenson"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2009
+  }, {
+    "title": "An experimental study of bromine behaviour in watersaturated silicic melts",
+    "authors": ["H. Bureau", "N. Métrich"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 2003
+  }, {
+    "title": "Volcanic degassing of bromine and iodine: experimental fluid/melt partitioning data and applications to stratospheric chemistry",
+    "authors": ["H. Bureau", "H. Keppler", "N. Métrich"],
+    "venue": "Earth Planet. Sci",
+    "year": 2000
+  }, {
+    "title": "Bromine cycle in subduction zones through in situ Br monitoring in diamond anvil cells",
+    "authors": ["H. Bureau", "E. Foy", "C. Raepsaet", "A. Somogyi", "P. Munsch", "G. Simon", "S. Kubsky"],
+    "venue": "Geochim. Cosmochim",
+    "year": 2010
+  }, {
+    "title": "Incompatible element and isotopic evidence for tectonic control of source mixing and melt extraction along the central American arc",
+    "authors": ["M.J. Carr", "M.D. Feigensohn", "E.A. Benett"],
+    "venue": "Contrib. Mineral. Petrol",
+    "year": 1990
+  }, {
+    "title": "Geochemistry of subduction zone serpentinites: a review",
+    "authors": ["F. Deschamps", "M. Godard", "S. Guillot", "K. Hattori"],
+    "venue": "Lithos 178,",
+    "year": 2013
+  }, {
+    "title": "Estimates of sulfur and chlorine yield to the atmosphere from volcanic eruptions and potential climatic effects",
+    "authors": ["J.D. Devine", "H. Sigurdsson", "A.N. Davies"],
+    "venue": "J. Geophys. Res",
+    "year": 1984
+  }, {
+    "title": "Volatile (H2O, CO2, Cl, S) budget of the Central American subduction zone",
+    "authors": ["A. Freundt", "I. Grevemeyer", "W. Rabbel", "T.H. Hansteen", "C. Hensen", "H. Wehrmann", "S. Kutterolf", "R. Halama", "M. Frische"],
+    "venue": "Int. J. Earth",
+    "year": 2014
+  }, {
+    "title": "Preeruption vapor in magma of the climactic Mount Pinatubo eruption: source of the giant stratospheric sulfur dioxide cloud. In: Newhall, C.G., Punongbayan, R.S. (Eds.), Fire and Mud: Eruptions and Lahars of Mount Pinatubo",
+    "authors": ["T.M. Gerlach", "H.R. Westrich", "R.B. Symonds"],
+    "year": 1996
+  }, {
+    "title": "Heat flow and bending-related faulting at subduction trenches: case studies offshore of Nicaragua and Central Chile",
+    "authors": ["I. Grevemeyer", "N. Kaul", "J.L. Diaz-Naveas", "H.W. Villinger", "C.R. Ranero", "C. Reichert"],
+    "venue": "Earth Planet. Sci",
+    "year": 2005
+  }, {
+    "title": "Classic to postclassic tephra layers exposed in archeological sites, Eastern Zapolitán Valley",
+    "authors": ["W.J.E. Hart"],
+    "year": 1983
+  }, {
+    "title": "Along and across arc geochemical variations in NW Central America: Evidence for involvement of lithospheric pyroxenite",
+    "authors": ["K. Heydolph", "K. Hoernle", "F. Hauff", "P. van den Bogaard", "M. Portnyagin", "I. Bindeman", "D. Garbe-Schönberg"],
+    "venue": "Geochim. Cosmochim",
+    "year": 2012
+  }, {
+    "title": "Arc-parallel flow in the mantle wedge beneath Costa Rica and Nicaragua",
+    "authors": ["K. Hoernle", "D. Abt", "K. Fischer", "H. Nichols", "F. Hauff", "G. Abers", "P. van den Bogaard", "K. Heydolph", "G.E. Alvarado", "M. Protti", "W. Strauch"],
+    "venue": "Nature 451,",
+    "year": 2008
+  }, {
+    "title": "Tephrological implications of beam size – sample-size effects in electron microprobe analysis of glass shards",
+    "authors": ["J.B. Hunt", "P.G. Hill"],
+    "venue": "J. Quat. Sci",
+    "year": 2001
+  }, {
+    "title": "Subduction fluxes of water, carbon dioxide, chlorine, and potassium",
+    "authors": ["R.D. Jarrard"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2003
+  }, {
+    "title": "Subduction zone fluxes of halogens and noble gases in seafloor and forearc serpentinites",
+    "authors": ["M.A. Kendrick", "M. Honda", "T. Pettke", "M. Scambelluri", "D. Philips", "A. Giuliani"],
+    "venue": "Earth Planet. Sci",
+    "year": 2013
+  }, {
+    "title": "Subduction-related halogens (Cl, Br and I) and H2O in magmatic glasses from Southwest Pacific Backarc Basins",
+    "authors": ["M.A. Kendrick", "R.J. Arculus", "L. Danyushevsky", "V.S. Kamenetsky", "J.D. Woodhead", "M. Honda"],
+    "venue": "Earth Planet. Sci",
+    "year": 2014
+  }, {
+    "title": "Halogen release from Plinian eruptions and depletion of stratospheric ozone",
+    "authors": ["K. Krüger", "S. Kutterolf", "T.H. Hansteen"],
+    "year": 2015
+  }, {
+    "title": "Late Pleistocene to Holocene temporal succession and magnitudes of highlyexplosive volcanic eruptions in west-central Nicaragua",
+    "authors": ["S. Kutterolf", "A. Freundt", "W. Peréz", "H. Wehrmann", "Schmincke", "H.-U"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2007
+  }, {
+    "title": "Schmincke, H.-U., 2008a. The Pacific offshore record of Plinian arc volcanism in Central America, part 1: along-arc correlations",
+    "authors": ["S. Kutterolf", "A. Freundt", "W. Peréz", "T. Mörz", "U. Schacht", "H. Wehrmann"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2007
+  }, {
+    "title": "The Pacific offshore record of Plinian arc volcanism in Central America, part 2: tephra volumes and erupted masses",
+    "authors": ["S. Kutterolf", "A. Freundt", "W. Peréz"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2008
+  }, {
+    "title": "Eruptive history and magmatic evolution of the 1.9 ka Plinian dacitic Chiltepe Tephra from Apoyeque volcano in westcentral Nicaragua",
+    "authors": ["S. Kutterolf", "A. Freundt", "C. Burkert"],
+    "venue": "Bull. Volcanol",
+    "year": 2011
+  }, {
+    "title": "Combined bromine and chlorine release from large explosive volcanic eruptions: a threat to stratospheric ozone? Geology",
+    "authors": ["S. Kutterolf", "T.H. Hansteen", "K. Appel", "A. Freundt", "K. Krüger", "W. Pérez", "H. Wehrmann"],
+    "year": 2013
+  }, {
+    "title": "Sulfur budget and global climate impact of the AD 1835 eruption of Cosigüina volcano, Nicaragua",
+    "authors": ["Longpré", "M.-A", "J. Stix", "C. Burkert", "T.H. Hansteen", "S. Kutterolf"],
+    "year": 2014
+  }, {
+    "title": "Moho structure of Central America based on three-dimensional lithospheric density modeling of satellite-derived gravity data",
+    "authors": ["O. Lücke"],
+    "venue": "Int. J. Earth",
+    "year": 2014
+  }, {
+    "title": "The enigma of reactive nitrogen in volcanic emissions",
+    "authors": ["R.S. Martin", "E. Ilyinskaya", "C. Oppenheimer"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 2012
+  }, {
+    "title": "The size and frequency of the largest explosive eruptions on Earth",
+    "authors": ["B.G. Mason", "D.M. Pyle", "C. Oppenheimer"],
+    "venue": "Bull. Volcanol",
+    "year": 2004
+  }, {
+    "title": "The distribution of bromine in coastal sediments and its use as a source indicator for organic matter",
+    "authors": ["L.M. Mayer", "S.A. Macko", "W.H. Mook", "S. Murray"],
+    "venue": "Org. Geochem",
+    "year": 1981
+  }, {
+    "title": "Radiative forcing and climate impact resulting from SO2 injections based on a 200,000 year record of Plinian eruptions along the Central American Volcanic Arc",
+    "authors": ["D. Metzner", "S. Kutterolf", "M. Toohey", "C. Timmreck", "U. Niemeier", "A. Freundt", "K. Krüger"],
+    "venue": "Int. J. Earth",
+    "year": 2014
+  }, {
+    "title": "Ozone-Depleting Substances (ODSs) and Related Chemicals, Chapter 1. In: Project-Report, Scientific Assessment of Ozone Depletion",
+    "authors": ["S. Montzka", "S. Reimann", "S. O ́Doherty", "A. Engel", "K. Krüger", "Sturges", "W.T"],
+    "year": 2011
+  }, {
+    "title": "The volcanic explosivity index (VEI): an estimate of explosive magnitude for historical volcanism",
+    "authors": ["C.G. Newhall", "S. Self"],
+    "venue": "J. Geophys. Res",
+    "year": 1982
+  }, {
+    "title": "Recent geologic history of Lake Atitlàn, a Caldera Lake in Western Guatemala",
+    "authors": ["C.G. Newhall", "C.K. Paull", "J.P. Bradbury", "A. Higuera-Gundy", "L.J. Poppe", "S. Self", "N. Bonar Sharpless", "J. Ziagos"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 1987
+  }, {
+    "title": "Local and regional variations in Central American arc lavas controlled by variations in subducted sediment input",
+    "authors": ["L.C. Patino", "M. Carr", "M.D. Feigenson"],
+    "venue": "Contrib. Mineral. Petrol",
+    "year": 2000
+  }, {
+    "title": "The Masaya Triple Layer: a 2100 year old basaltic multi-episodic Plinian eruption from the Masaya Caldera Complex (Nicaragua)",
+    "authors": ["W. Pérez", "A. Freundt", "S. Kutterolf", "Schmincke", "H.-U"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2009
+  }, {
+    "title": "Assessment of the minimum volume of tephra fall deposits",
+    "authors": ["D.M. Pyle"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 1995
+  }, {
+    "title": "Halogens in igneous processes and their fluxes to the atmosphere and oceans from volcanic activity: a review",
+    "authors": ["D.M. Pyle", "T.A. Mather"],
+    "venue": "Chem. Geol",
+    "year": 2009
+  }, {
+    "title": "Volcanic eruptions and climate",
+    "authors": ["A. Robock"],
+    "venue": "Rev. Geophys",
+    "year": 2000
+  }, {
+    "title": "Explosive basaltic volcanism from Cerro Negro volcano: influence of volatiles on eruptive",
+    "authors": ["K. Roggensack", "R.L. Hervig", "S.B. McKnight", "S.N. Williams"],
+    "venue": "style. Science",
+    "year": 1997
+  }, {
+    "title": "An improved age framework for late Quaternary silicic eruptions in northern Central America",
+    "authors": ["W.I. Rose", "F.M. Conway", "C.R. Pullinger", "A. Deino", "K. McIntosh"],
+    "venue": "Bull. Volcanol",
+    "year": 1999
+  }, {
+    "title": "Subduction cycling of volatiles and trace elements through the Central American volcanic arc: evidence from melt inclusions",
+    "authors": ["S. Sadofsky", "M. Portnyagin", "K. Hoernle", "P. van den Bogaard"],
+    "venue": "Contrib. Mineral. Petrol",
+    "year": 2008
+  }, {
+    "title": "Geochemical variations in the Cocos Plate subducting beneath Central America: implications for the composition of arc volcanism and the extent of the Galapagos Hotspot influence on the Cocos oceanic crust",
+    "authors": ["S. Sadofsky", "K. Hoernle", "S. Duggen", "F. Hauff", "R. Werner", "D. Garbe-Schönberg"],
+    "venue": "Int. J. Earth Sci",
+    "year": 2009
+  }, {
+    "title": "Sensitivity of ozone to bromine in the lower stratosphere",
+    "authors": ["R.J. Salawitch", "D.K. Weisenstein", "L.J. Kovalenko", "C.E. Sioris", "P.O. Wennberg", "K. Chance", "M.K.W. Ko", "C.A. McLinden"],
+    "year": 2005
+  }, {
+    "title": "Volatile flux from subduction zone volcanoes: insights from a detailed evaluation of the fluxes from volcanoes in Japan",
+    "authors": ["H. Shinohara"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2013
+  }, {
+    "title": "The contribution of anthropogenic bromine emissions to past stratospheric ozone trends: a modeling study",
+    "authors": ["Sinnhuber", "B.-M", "M.P. Chipperfield", "W. Feng"],
+    "venue": "Atmos. Chem. Phys",
+    "year": 2009
+  }, {
+    "title": "The systematics of chlorine, fluorine, and water in Izu arc front volcanic rocks: implications for volatile recycling in subduction",
+    "authors": ["S.M. Straub", "G.D. Layne"],
+    "venue": "zones. Geochim. Cosmochim",
+    "year": 2003
+  }, {
+    "title": "Global compilation of variations in slab depth beneath arc volcanoes and implications",
+    "authors": ["E.M. Syracuse", "G.A. Abers"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2006
+  }, {
+    "title": "Equilibrium partitioning and subsequent re-distribution of halogens among apatite–biotite–amphibole assemblages from mantle-derived plutonic rocks: complexities revealed",
+    "authors": ["H. Teiber", "M. Scharrer", "M.A.W. Marks", "A.A. Arzamastsev", "T. Wemnzel", "G. Markl"],
+    "venue": "Lithos 220–223,",
+    "year": 2015
+  }, {
+    "title": "Injection of gases into the stratosphere by explosive volcanic eruptions",
+    "authors": ["C. Textor", "H.F. Graf", "M. Herzog", "J.M. Oberhuber"],
+    "venue": "J. Geophys. Res",
+    "year": 2003
+  }, {
+    "title": "The Laacher See eruption: estimation of volatiles in magma and simulation of their fate in the plume",
+    "authors": ["C. Textor", "P.M. Sachs", "H.F. Graf", "T.H. Hansteen"],
+    "venue": "Volcanic Degassing. Geol. Soc. London Spec. Publ.,",
+    "year": 2003
+  }, {
+    "title": "Modeling the climate effects of large explosive eruptions",
+    "authors": ["C. Timmreck"],
+    "venue": "Wiley Interdiscip. Rev.: Clim. Change",
+    "year": 2012
+  }, {
+    "title": "Evidence for serpentinite fluid in convergent margin systems: the example of El Salvador (Central America) arc lavas",
+    "authors": ["S. Tonarini", "S. Agostini", "C. Doglioni", "F. Innocenti", "P. Manetti"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2007
+  }, {
+    "title": "Structure and serpentinization of the subducting Cocos plate offshore Nicaragua and Costa Rica",
+    "authors": ["H.J.A. van Avendonk", "W.S. Holbrook", "D. Lizarralde", "P. Denyer"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2011
+  }, {
+    "title": "Analysis of X-ray spectra by iterative least squares (AXIL): new developments",
+    "authors": ["B. Vekemans", "K. Janssens", "L. Vincze", "F. Adams", "P. Van Espen"],
+    "venue": "X-ray Spectrometry: XRS,",
+    "year": 1994
+  }, {
+    "title": "Origin of silicic magmas along the Central American volcanic front: genetic relationship to mafic melts",
+    "authors": ["T.A. Vogel", "L.C. Patino", "J.K. Eaton", "J.W. Valley", "W.I. Rose", "G.E. Alvarado", "E.L. Viray"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2006
+  }, {
+    "title": "U-series disequilibria in Guatemalan lavas, crustal contamination, and implications for magma genesis along the Central American subduction zone",
+    "authors": ["J.A. Walker", "E. Mickelson", "R.B. Thomas", "L.C. Patino", "B.I. Cameron", "M.J. Carr", "M.D. Feigenson"],
+    "venue": "J. Geophys. Res",
+    "year": 2007
+  }, {
+    "title": "Halogen variations in alkaline rocks from the Upper Rhine Graben (SW Germany): insights into F, Cl and Br behavior during magmatic processes",
+    "authors": ["L. Wang", "M.A.W. Marks", "J. Keller", "G. Markl"],
+    "year": 2014
+  }, {
+    "title": "Chloride and water solubility in basalt and andesite melts and implications for magmatic degassing",
+    "authors": ["J.D. Webster", "R.J. Kinzler", "E.A. Mathez"],
+    "venue": "Geochim. Cosmochim",
+    "year": 1999
+  }],
+  "id": "SP:8af01f39ffa34b9f198976b1bcdeac440d056a90",
+  "authors": [{
+    "name": "Steffen Kutterolf",
+    "affiliations": []
+  }, {
+    "name": "Thor H. Hansteen",
+    "affiliations": []
+  }, {
+    "name": "Armin Freundt",
+    "affiliations": []
+  }, {
+    "name": "Heidi Wehrmann",
+    "affiliations": []
+  }, {
+    "name": "Karen Appel",
+    "affiliations": []
+  }, {
+    "name": "Kirstin Krüger",
+    "affiliations": []
+  }, {
+    "name": "Wendy Pérez",
+    "affiliations": []
+  }],
+  "title": "Bromine and chlorine emissions from Plinian eruptions along the Central American Volcanic Arc: From source to atmosphere"
+}

@@ -1,0 +1,504 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nJournal of Asian Earth Sciences\njournal homepage: www.elsevier .com/locate / jseaes\nFull length article\nPaleotopography and erosion rates in the central Hangay Dome, Mongolia: Landscape evolution since the mid-Miocene\nhttp://dx.doi.org/10.1016/j.jseaes.2016.05.013 1367-9120/ 2016 Elsevier Ltd. All rights reserved.\n⇑ Corresponding author. E-mail address: sgsmith6@ncsu.edu (S.G. Smith).\n1 Present address: Georgia Environmental Protection Division, 2 Martin Luther King, Jr. Drive SE, Suite 1462 East, Atlanta, GA 30334, USA.\nStephen G. Smith a,⇑, Karl W. Wegmann a, Leonard D. Ancuta b, John C. Gosse c, Chelsea E. Hopkins d,1 aDepartment of Marine, Earth, and Atmospheric Sciences, North Carolina State University, Box 8208, Raleigh, NC 27695, USA bDepartment of Earth and Environmental Sciences, Lehigh University, 1 West Packer Avenue, Bethlehem, PA 18015, USA cDepartment of Earth Sciences, Dalhousie University, 1355 Oxford Street, Rm 3006, Halifax, Nova Scotia B3H 4R2, Canada d School of Earth and Atmospheric Sciences, Georgia Institute of Technology, 311 Ferst Drive, Atlanta, GA 30332, USA\na r t i c l e i n f o a b s t r a c t\nArticle history: Received 15 December 2015 Received in revised form 5 May 2016 Accepted 9 May 2016 Available online 11 May 2016\nKeywords: Hangay Mountains Khangay Mountains Erosion rates Cosmogenic beryllium-10 Paleogeomorphology\nStanding over 2 km above the surrounding topography and flanked by orogen-scale strike-slip faults, the Hangay Dome in central Mongolia is characterized by long wavelength high topography, basaltic eruptions spanning 30 million years, and an abundance of flat-topped summit plateaus. However, despite decades of research, the origin and timing of the intraplate Hangay Dome uplift continues to be debated. Using Landsat imagery, GIS, and cosmogenic beryllium-10, we employ geomorphic investigations of (1) paleotopography preserved beneath basalt flows of known age, (2) erosion rates at various temporal scales, and (3) the relative contribution of glacial activity to total erosion to provide insight into the nature of landscape evolution in the Egiin Davaa region of the central Hangay Dome since the middle Miocene. Reconstruction of paleo-valleys cut into Paleozoic basement rock that exhibit a degree of local relief (>600 m) similar to the modern landscape, sluggish mean erosion rates (<45 mMyr 1), and dominance of glacial erosion suggest that there has been no dramatic change in tectonic forcing of the study area since 13 Ma, and that high amplitude climate oscillations beginning in the Pliocene have led to an environment influenced primarily by the activity of glaciers. These results provide support for uplift onset during the Oligocene or early Miocene, quantify landscape evolution since the middle Miocene, and underscore the importance of considering geomorphic archives found on Earth’s surface when building models of intra-continental epeirogeny.\n2016 Elsevier Ltd. All rights reserved."
+  }, {
+    "heading": "1. Introduction",
+    "text": "The Hangay mountain range, or Hangay Dome, defines a 2 105 km2 region of high, long-wavelength topography in central Mongolia with a maximum elevation of 4008 m at the summit of Otgon Tenger Uul (Figs. 1 and 2). Despite the range’s physiographic prominence in central Asia, both the origin and evolution of the Hangay Dome remain unclear, as prior studies have failed to reach a unifying theory for the Cenozoic geologic history of the region (e.g., Molnar and Tapponnier, 1975; Windley and Allen, 1993; Cunningham, 2001; Petit et al., 2002, 2008; Yanovskaya and Kozhevnikov, 2003; Bayasgalan et al., 2005; Tiberi et al., 2008; Savatenkov et al., 2010). Perhaps this lack of agreement is unsurprising – the origins of intraplate mountain belts are often\nenigmatic since their formation is left unexplained by conventional models of plate tectonics where vertical surface movements are driven largely by the horizontal motion of plates interacting at their boundaries. Instead, long wavelength cratonic uplift, or epeirogeny, is usually indicative of dynamic interactions between the asthenosphere and lithosphere combined with isostatic responses, and researchers have stressed the importance of considering this manner of surface deformation when interpreting the geologic record (Conrad and Husson, 2009; Braun, 2010). As a result, recent research has aimed at gaining a better understanding of this complex aspect of the Earth system and the mechanisms controlling the generation of dynamic topography (Lithgow-Bertelloni and Silver, 1998; Moucha et al., 2008; Braun et al., 2013; Flament et al., 2013; Guillaume et al., 2013).\nSince Earth surface processes are often linked to the tectonic regime of a particular area, geomorphic observations of the Hangay Mountain range have the potential to yield valuable information on the nature of its evolution. Prior studies have suggested that the Hangay Mountains may be a product of relatively recent, rapid\nuplift since 5 Ma (Yarmolyuk et al., 2008), requiring that geomorphic data regarding erosion rates, topographic relief, and drainage basin geometry reflect this tectonic activity (Kirby and Whipple, 2001; Montgomery and Brandon, 2002; Wobus et al., 2006; Cyr et al., 2010; Whittaker, 2012; Gallen et al., 2013). Conversely, others have suggested that the majority of uplift of the Hangay mountains began and ended during the Oligocene epoch, in which case geomorphic data are likely to indicate that the mountains are evolving relatively slow owing to a lack of recent tectonic forcing (Yanshin, 1975; Höck et al., 1999; Cunningham, 2001; Walker et al., 2007; West et al., 2013; Caves et al., 2014). With the goal of narrowing the 25 Myr uncertainty in the timing of uplift, this paper details both field and remotely-sensed geomorphic data that, coupled with 40Ar/39Ar ages of Cenozoic basalts, cosmogenic 10Be erosion rates, and 10Be surface exposure ages of moraine boulders, provides constraints on the topographic and erosional evolution of the central Hangay Dome.\nA primary objective of this research, which was inspired by observations of significant topographic relief preserved in former paleo-valleys filled by Miocene basalt flows, is to elucidate the geomorphic signature of central Hangay Dome landscape evolution since the eruption of these lavas. The first component of this study focuses on expansive ridge-top basalts in the vicinity of the centrally located Egiin Davaa (Egiin Pass) (Fig. 2). Preserved on either side of the Hangay watershed divide that separates north-flowing tributaries of the Selenga River from internally drained basins of the Gobi Altai to the south, these Miocene basalts completely filled and concealed the underlying paleo-valleys. The preservation of this paleo-landscape provides a rare and valuable opportunity to document the relief in the Hangay Dome at a time prior to emplacement of the lowermost and presumably oldest lava flow. Age constraints on the succession of basalt flows not only permit a comparison of Paleogene and modern topographic relief across the central Hangay, but also allow for the derivation of erosion rates since the uppermost lava flow (e.g., Gani et al., 2007).\nRidge-top bedrock terrestrial cosmogenic nuclide (TCN) erosion rate estimates are used to further establish the rate of relief generation since the end of volcanism in the study area.\nAlthough some researchers posit cessation of Hangay uplift by the end of the Oligocene (e.g., Yanshin, 1975), the modern range exhibits significant topographic relief in the form of deeply incised U-shaped valleys. Therefore, this study also evaluates the role of glaciers in shaping the modern topography of the Egiin Davaa region and serving as the primary driver of late Cenozoic landscape evolution. There is compelling evidence for an increase in erosion rates in mountainous regions since the onset of Northern Hemisphere Glaciation 3 to 2 Ma (e.g., Molnar and England, 1990; Peizhen et al., 2001; Molnar, 2004; Charreau et al., 2011; Herman et al., 2013; Herman and Champagnac, 2016), although the cause and global impact of this increase has been debated for decades (Syvitski and Milliman, 2007; Willenbring and von Blanckenburg, 2010; Hidy et al., 2014). As such, we explore the role of climate in sculpting the modern topography of the central Hangay Dome by coupling Last Glacial Maximum (LGM) end moraine volumes with TCN exposure ages in order to estimate the minimum glacial erosion of bedrock. This approach aims to test the hypothesis that glacial erosion rates are significantly higher than those averaged over multiple glacial/interglacial cycles, which, if proven, would provide support for the notion that the modern central Hangay landscape reflects Quaternary climate-driven relief generation as opposed to a recent, rapid change in tectonic uplift.\nCollectively, the analyses presented here were conducted to test three hypotheses: (1) that late Miocene paleo-relief is comparable to modern relief; (2) that erosion rates over multimillion-year timescales are low and analogous to modern erosion rates; and (3) that the modern landscape of the high Hangay has been shaped primarily by the activity of glaciers. The results of this study, combined with insights from a broad, multi-institutional collaboration (e.g., Meltzer et al., 2012) to study Hangay Dome rock and surface uplift histories and lithosphere-mantle dynamics, have\nimplications for understanding the scale and pace of asthenosphere-lithosphere interactions that create long wavelength intraplate topography, for global climate dynamics, and for landscape response to both climatic and tectonic forcing."
+  }, {
+    "heading": "2. Background and geologic setting",
+    "text": "The Hangay Dome is situated at the kinematic transition between the Baikal rift province to the north and the Gobi-Altai transpressional range to the south (Figs. 1 and 2; Baljinnyam et al., 1993; Cunningham, 2001). Precambrian granites, gneisses, migmatites, and schists form the basement of the Hangay region (Kepezhinskas, 1986; Cunningham, 2001), and although only locally exposed, this basement complex appears to underlie the entirety of the Hangay Dome (Kovalenko et al., 1996; Cunningham, 2001). The cratonic block of central Mongolia served as a nucleus around which arcs and related subduction complexes accreted (Badarch et al., 2002). These younger terranes amalgamated throughout the early Paleozoic to early Mesozoic during the development of the Central Asian Orogenic Belt, which records the suture of the Siberian and North China cratons (e.g., Takahashi et al., 2000; Badarch et al., 2002; Jahn et al., 2004; Jolivet, 2015). Cenozoic deposition in the central Hangay Mountains is dominated\nby the accumulation of alluvium in shallow basins and widespread basaltic volcanism. Quaternary glaciations have left large moraine complexes and valleys filled with alluvium, while small Holocene cinder cones occur sporadically throughout the region (Cunningham, 2001; Tiberi et al., 2008).\nCurrently, central Mongolia experiences 5 mm yr 1 of northward-directed shortening related to the India-Asia collision, and global positioning system (GPS) measurements indicate that the region is also moving eastward with respect to stable Eurasia (Calais et al., 2003). Shortening, as well as related E-W leftlateral shear is accommodated by a 350 km-long system of sinistral strike-slip and normal faults flanking the north and south sides of the inherently intact block of the Hangay Dome (Baljinnyam et al., 1993; Calais et al., 2003; Bayasgalan et al., 2005; Walker et al., 2007; Jolivet et al., 2013a, 2013b). The long-term kinematics of the E-W fault system across central Mongolia appear to be consistent with the modern GPS strain field, suggesting that unlike in the Mongolian Altai to the west, there is no requirement for vertical axis rotation of the Hangay region (e.g., Bayasgalan et al., 2005). The Hangay Dome is situated between two prominent zones of EW striking left-lateral faults, the Gobi-Altai to the south and the Bulnay fault to the north, both of which have generated great (Mw 8+) earthquakes in the twentieth century (e.g., Baljinnyam et al., 1993; Schlupp and Cisternas, 2007). In contrast to its sur-\ns labeled in the central part of the country and the study area outlined with a black nnels of major rivers depicted using black lines; dashed-line segments signify areas Davaa (Egiin Pass); CG = Chuluut Gol (Chuluut River); OG = Orkhon Gol; TG = Tuin\nroundings, the interior of the Hangay Dome has had no significant instrumentally-recorded earthquakes (Walker et al., 2015). Late Cenozoic slip associated with extensional faulting in the transfer zone between these two fault systems, near the center of the Hangay Dome, is also consistent with the regional modern strain field, and likely began after regional uplift (San’kov et al., 2000; Cunningham, 2001; Walker et al., 2008, 2015).\nRunning along the axis of the Hangay Dome is a NW-SE trending belt of flat-topped peaks that defines the catchment divide between waters draining northward into Lake Baikal and the Arctic Ocean and waters that flow west and south into the internallydrained basins of the Mongolian Valley of Lakes and Gobi Desert. These flat-topped peaks, or summit plateaus, have previously been interpreted as uplifted remnants of a Jurassic-aged peneplain (e.g., Devyatkin, 1975; Cunningham, 2001; Jolivet et al., 2007; West et al., 2013). Elevations of these low-relief, shallow-gradient surfaces are also coincident with estimates of the regional mean Quaternary glacial equilibrium line altitude (ELA), thereby suggesting that climate-controlled glacial and periglacial processes may also be responsible for their current morphology (e.g., Brozovic et al., 1997; Lehmkuhl et al., 2004; Vassallo et al., 2007; Egholm et al., 2009; Arzhannikov et al., 2012; Lyons et al., 2013; Margreth et al., 2016). In addition, the widespread distribution of glacial landforms such as cirques, steep U-shaped valleys, and moraines indicate that the range’s high relief has been recently generated at least in part by extensive Quaternary glacial activity (Lehmkuhl and Lang, 2001; Lehmkuhl et al., 2004; Rother et al., 2014).\nLocated 2000 km from the nearest active plate tectonic boundary, the India-Eurasia collision zone, the precise origin of the epeirogenic Hangay Dome remains enigmatic. To date, there have been many hypotheses put forth in an attempt to explain the formation of the range’s high relief and peak heights. These hypotheses include, but are not limited to, far-field effects of India-Asia convergence, Pacific plate subduction, mantle plume/ hot-spot activity, asthenospheric upwelling, magmatic underplating of the crust, and mantle flow diversion around a crustal keel (Molnar and Tapponnier, 1975; Windley and Allen, 1993; Cunningham, 2001; Petit et al., 2002, 2008; Yanovskaya and Kozhevnikov, 2003; Bayasgalan et al., 2005; Tiberi et al., 2008; Savatenkov et al., 2010). In addition to the breadth of proposed origins, the timing of uplift also remains uncertain. For instance, on the basis of tilted sediments, Devyatkin (1975) originally argued that uplift and doming began in the middle Oligocene. This hypothesis was supported by the initiation of significant Cenozoic alluvial sedimentation in southern flanking basins of the Hangay (northern margins of the Gobi Valley of Lakes) in mid-upper Oligocene time (Yanshin, 1975; Höck et al., 1999). Recent oxygen and carbon isotopic analyses from paleosols preserved in these same basin sediments and moisture transport pathway modeling by Caves et al. (2014) also suggest that an increase in the elevation of the Hangay Dome with respect to surrounding depositional basins occurred during the Oligocene. Caves et al. argue that the onset of aridity in basins south of the Hangay during the early Oligocene implies contemporaneous surface uplift of the Dome, and although aridification of central Asia has also been linked to a global cooling event at the Eocene-Oligocene transition (e.g., Dupont-Nivet et al., 2007; Kraatz and Geisler, 2010), the diachronous record of aridity in basins across the Hangay suggests an east to west growth of topography that likely accentuated the wider climate trend (Caves et al., 2014). However, contrary to this ‘‘old Hangay” hypothesis, other researchers have argued that uplift of the Hangay was coeval with development of the Altai mountain range circa 4 Ma (Yarmolyuk et al., 2008). Evidence cited in support of this ‘‘young Hangay” hypothesis includes a marked shift in the style of volcanism around this time (Yarmolyuk et al., 2008). This change in eruptive behavior\nis well documented, with recent 40Ar/39Ar ages for basalts from the Hangay region indicating that multiple episodes of laterally extensive flows occurred between 28 and 4 Ma, followed by a later stage of less voluminous, valley-filling eruptions between 4 Ma and the present. The locations of these flows have no discernable spatial age progression, but do indicate that the greater Hangay region has experienced volcanism for the past 30 Myr (Ancuta et al., submitted for publication).\nRegardless of constraints placed on the timing of an underlying process responsible for the development of the Hangay Dome as a topographic feature, the arid-to-semiarid climate and periglacial\nenvironment of the central Hangay likely preclude rapid landscape evolution, and recent research suggests that the discrepancy between the current topographic form of the Hangay Dome and the associated climatic and erosional gradient is indicative of a significant lag time for the geomorphic response to external forcing (West et al., 2013). In summary, a single hypothesis that explains these previous disparate observations has not been tested."
+  }, {
+    "heading": "3. Methodology",
+    "text": "This study is focused within and around the Egiin Davaa region of the central Hangay Mountains, a roughly 2500 km2 area uniquely characterized by flat-topped summits (3000+ m in elevation) that are capped by Cenozoic basalt flows (Fig. 3). These basalts unconformably overlie Paleozoic granites of the Hangay batholith (Takahashi et al., 2000; Jahn et al., 2004), and the undulating contact between the volcanic and plutonic rocks preserves the paleotopographic surface that existed at the onset of volcanism (Bayasgalan et al., 2007). The valleys exposing this contact are steep-walled and lead upstream to headward-retreating glacial cirques that supply boulders and coarse sediment to the channel bottoms.\nFollowing our three hypotheses, the study methodology includes three primary components:\n1. The reconstruction and subsequent analysis of paleotopography using Landsat imagery and ArcGIS software.\n2. A calculation of total erosion since emplacement of the uppermost, youngest basalt flow using a combination of basalt 40Ar/39Ar ages and cosmogenic 10Be erosion rates. 3. A comparison of total erosion to estimated glacial erosion during the late Pleistocene last glacial period ( 40,000 to 10,000 yr BP).\n3.1. Quantifying mid-Miocene paleotopography\nField observations of deep, basalt-filled paleo-valleys motivated our reconstruction of the relict topographic surface for the quantification of relief present at the time that Cenozoic lava flows were emplaced across the Egiin Davaa region of the central Hangay Mountains (Fig. 4). For this analysis, the study area was limited to the 500 km2 area outlined in Fig. 5, which includes all locations where the basalt/basement contact was visible, but excludes the area to the north of the NW-SW trending Egiin Davaa normal fault in order to avoid biases introduced by the 225 m of slip that has occurred during and since emplacement of the basalt flows (Walker et al., 2015). The study area also includes the majority of flat-topped basaltic summits present in the central Hangay, and the known age range of these basalt flows provides time constraints for our geomorphic analyses. Ancuta et al. (submitted for publication) obtained 40Ar/39Ar ages from 230 basalt flows throughout the Hangay Dome, of which 24 are located within this study area (Fig. 5). Four of these samples, with ages between 12.9 and 9.2 Ma, were collected specifically from basalt flows in contact\nwith the underlying basement rock. As a result, it is assumed that the paleotopographic surface preserved beneath the flows represents the variation in surface elevations across the central Hangay approximately 13 Myr before present.\nTo perform a quantitative analysis of this paleotopography, the spatial extent of ridge-top basalts was mapped using 30 m-pixel resolution Landsat Thematic Mapper (TM) imagery. Several\ncloud-free images were available from http://earthexplorer.usgs.gov, and an image acquired on July 27, 2006 by the Landsat 5 satellite was chosen for its minimal snow and vegetative cover. After selection, the Landsat TM image was imported into the ArcMap 10.1 software environment and displayed using various band combinations. Basalts were mapped using a 1–5–6 band combination (1 = red, 5 = green, 6 = blue) as this combination maximized the\ncolor contrast between basalts and the underlying granitic basement rock (Figs. 3 and 6). The mapped contact was then verified in the field at several locations in June 2013; excellent agreement between GPS coordinates and remotely-mapped basalt/basement contacts (within the uncertainty of the Landsat image resolution) did not necessitate any modifications to mapping conducted solely with Landsat imagery and ArcMap.\nThe ‘pre-basalt’ paleotopographic land surface was approximated using a 30 m ASTER Digital Elevation Model (DEM). ASTER data were retrieved from the online USGS EarthExplorer tool, courtesy of the NASA Land Processes Distributed Active Archive Center (LP DAAC), USGS/Earth Resources Observation and Science (EROS) Center, Sioux Falls, South Dakota, https://earthexplorer.usgs.gov/. The process of approximating this surface was initiated by constructing points along the basalt/basement contact at 100 m intervals and then deriving an elevation for each point from the DEM. Based on these point elevations, the paleo-surface (paleo DEM) was constructed using the kriging method contained in the Geostatistical Analyst Extension to ArcMap. For the interpolation, we implemented ordinary kriging with a K-Bessel model type and assumed a 15% mapping error for the basalt/basement contact. In practical terms, this approach resulted in the ‘removal’ of the ridge-top basalts from the modern topography in order to represent a 3-dimensional approximation of the basalt/basement contact (Fig. 7). Uncertainty associated with the interpolated paleotopographic surface is heavily dependent upon the proximity of the mapped basalt/basement contact, and ranges from <20 m along the contact itself to >100 m in portions of the study area that are >3 km from the nearest mapped contact location (Supplementary Fig. 1). After interpolation of the paleotopographic surface, ArcMap’s Spatial Analyst tools were used to extract topographic swath profiles from the paleo and modern DEMs in order to quantify and compare paleo and modern relief. A total of eleven swath profiles were extracted, of which five cross the study area in a SWNE direction and are perpendicular to the additional six profile lines that trend NW-SE. Minimum, mean, and maximum elevation profiles were plotted for each swath using the minimum, mean, and maximum DEM cell (cell area = 90 m2) elevations within circular focal windows of 1 km radii located every 500 m along the length of the swath. These series of overlapping circles defined 2 km-wide swaths, and elevations within each circular window were derived using the focal statistics tool contained in the Spatial Analyst Extension to ArcMap. Plotting the swath profiles provided visual aids for comparing topographic relief between the modern and relict landscapes (Fig. 8).\nIn addition to minimum, mean, and maximum values, the elevation range among the 90 m2 DEM cells within each 3.14 km2 circular window was calculated in order to quantify the paleo and modern topographic relief at the same 500 m intervals along each swath profile. Since the swath profiles vary in length between 7 and 30 km, relief statistics were aggregated into 5-km or smaller segments in order to yield comparable mean and maximum relief values across profiles. Uncertainties in the tabulated topographic data include a 2r (95%) vertical accuracy of 20 m for ASTERbased modern elevations (LP DAAC) and spatially heterogeneous uncertainties for interpolated paleotopographic elevations, which can exceed 100 m in areas distant from the mapped basalt/basement contact (Supplementary Fig. 1). However, we do note that uncertainty of the interpolated surface is relatively low (<50 m) across the central portion of our study area where the contact is well-mapped and paleotopographic relief is highest, as supported by field observations. As such, we feel confident that the interpolated surface is an accurate reconstruction of paleotopography in much of the study area, and are able to quantitatively assess, and thus objectively compare, the degree of relief present in the modern and relict surfaces at various spatial scales and locations."
+  }, {
+    "heading": "3.2. Estimating erosion since the end of volcanism",
+    "text": "Ridge-top basalt flows were dated with step-heated 40Ar/39Ar on groundmass in order to determine the timing of emplacement for the youngest flows in the study area, which encompasses all the basalt-capped high terrain near Egiin Davaa (Fig. 5). Nine ridge-top flows analyzed by Ancuta et al. (submitted for publication) span 9.6–4.1 Ma, and based on these ages it is estimated that between 9.6 and 4.1 Ma the study area was covered by a thick and continuous series of lava flows that filled and obscured all pre-existing valleys. Based on this model of valley filling, the vast majority of relief present in the study area today has been created as a result of erosion since the late Miocene to early Pliocene. However, the ages of ridge-top basalt flows do not provide any information on the amount of summit plateau erosion that has occurred since the cessation of volcanism. Published 10Be summit erosion rates of 12–20 mMyr 1 for the Sayan mountain range located north of the Hangay Dome in southern Siberia (Jolivet et al., 2013a, 2013b) and 28 mMyr 1 for the Ih Bogd massif in the Gobi Altai south of the Hangay Dome (Jolivet et al., 2007) suggest that summit plateau erosion in this region of Asia is not negligible when considered over several million years. As such, erosion rates were determined with 10Be measured in seven ridge-top TCN samples collected from various summit plateaus comprised of granitic bedrock located across the central Hangay (Fig. 9).\nOwing to an approximately exponential decrease in cosmic ray flux through rock as a function of depth beneath the Earth’s surface, the concentration of TCN is inversely proportional to the erosion rate. If a rock has not been exposed for sufficient time to achieve dynamic equilibrium, the concentration will underestimate the actual steady erosion rate. Thus site-specific 10Be erosion rates are interpreted to reflect minimum estimates of the long-term erosion rate of the summits unless we can validate the assumption that the concentration is at dynamic equilibrium. The exposure time necessary to obtain dynamic equilibrium shortens with increasing erosion rate, so surfaces experiencing rapid erosion rates can obtain dynamic equilibrium in centuries, whereas very slowly eroding surfaces take over 3 Myr. Previous studies have observed long, slow rates of denudation for low-relief summit plateau surfaces (e.g., Anderson, 2002; Margreth et al., 2016), and considering available knowledge of the tectonic and climatic regime of the Hangay Dome since the mid-Miocene (e.g., Caves et al., 2014), it is probable that the summit TCN concentrations have reached dynamic equilibrium and are controlled only by erosion. As such, the range of TCN erosion rates measured throughout the Dome establishes upper and lower bounds for the average pace of summit erosion since eruption of the uppermost basalt flow.\nAll TCN erosion rate samples were collected using a rock hammer and chisel from the upper 3 cm of well-exposed and intact (regolith-free) bedrock outcrops, including tors. No correction for topographic shielding was necessary owing to the high, flat landscape position of the sample sites, and no correction for snow cover was made since we assume seasonal snow depth is insignificant (<1 m) due to the arid climate of the region, especially during the cold winter months. Although it is possible this assumption is invalid and snow cover has indeed influenced TCN concentrations of the samples, this yields a small error relative to the age range (9.6–4.1 Myr) used to calculate total erosion. TCN samples were processed at the Georgia Institute of Technology Cosmogenic Nuclide Geochronology Laboratory according to procedures outlined in Kohl and Nishiizumi (1992) and Frankel et al. (2010) for beryllium extraction from quartz. Samples were analyzed by accelerator mass spectrometry at the Purdue Rare Isotope Measurement Laboratory (PRIME Lab), and erosion rates were calculated from\n10Be concentrations using the CRONUS-Earth online calculator, version 2.2 (http://hess.ess.washington.edu/; Balco et al., 2008).\nThe determination of summit plateau 10Be erosion rates for the past few million years allowed for a more robust estimation of the\ntotal volume of rock that has been removed from the study area since emplacement of the uppermost basalt flow. Thus, the combined approach used to calculate total incision was to quantify the valley relief observed below the study area’s summit plateaus and add an additional thickness of basalt that would have been eroded over the past 4.1–9.6 Myr according to the mean rate of summit plateau erosion derived from TCN measurements (Fig. 10). We recognize that the minimum andmaximum estimates of summit plateau erosion are possibly frommore competent rocks\nthan the often highly fractured basalts in the valley, but the variation in erosion among different rock types is difficult to predict. Fortunately, this contributes a small error when we consider that the incision of the post-lava topography is much greater than the slow erosion of the granitic portion of the summit plateaus from which the 10Be-derived erosion rates are calculated.\nIn addition to the 9.6–4.1 Myr range used to calculate summit denudation, uncertainty in the calculation of total rock volume removed from the study area includes our assumption of a flat, continuous basalt plateau that existed prior to the onset of erosion. Like the assessment of paleotopography, the reconstruction of this surface includes a 2r (95%) vertical uncertainty of 20 m for ASTERbased modern elevations (LP DAAC) and spatially heterogeneous uncertainties for the interpolated pre-erosion surface, which are small (<15 m) in areas where basalt is present, but can exceed 100 m at points distant from modern basalt-capped summits (Supplementary Fig. 2). To deal with this uncertainty, we implement a conservative estimate of 60 m for area-wide vertical uncertainty, which, when coupled with the 9.6–4.1 Ma age range used for the onset of erosion, provides confidence that we are encompassing all possible erosion scenarios.\nIsolated flat-topped summit plateaus in the study area were connected to form a continuous high-elevation plateau by generating an interpolated surface via the ordinary kriging method with a K-Bessel model type contained in the Geostatistical Analyst Extension to ArcMap (Fig. 11). This interpolated surface roughly approximates what we believe was a continuous basalt plateau at the time of the latest lava flow. The additional thickness of rock was added above this surface to accommodate for erosion of the summit that has occurred since dissection of the plateau began. We assume a constant erosion rate over this time to estimate the maximum and minimum thicknesses removed. The modern landscape was subtracted from the interpolated basalt plateau surface in order to calculate the total volume difference, which represents the amount of rock that has been eroded since the eruption of the uppermost basalt flow. Normalizing this volume to the total study area and dividing by 9.6 or 4.1 Ma establishes minimum and maximum erosion rate estimates in units of meters of vertical surface lowering per million years."
+  }, {
+    "heading": "3.3. Comparing long-term erosion to late Pleistocene glacial erosion",
+    "text": "Several studies have used volumes of sediment stored in moraines to establish both glacial sediment budgets and the flux of sediment leaving a catchment over a specific period of time (e.g., Small, 1987; Delmas et al., 2009; Züst et al., 2014). This research provides a framework for estimating the rate of erosion during a glacial episode by calculating the volume of a well-preserved terminal moraine, estimating the time span of moraine formation, and considering various ratios of terminal moraine storage to overall glacial erosion.\nDuring the 2011 and 2012 field seasons, rock samples were collected from multiple moraines throughout the central Hangay for TCN exposure dating, which assumes that a stable geologic surface will accumulate cosmogenic nuclides with exposure time according to a location-dependent production rate (Gosse and Phillips, 2001; Dunai, 2010). A total of twelve samples from granitic boulders at three terminal moraines located within 100 km of Egiin Davaa (Gilgar Uul, Khaak Nuur, and Chuluut Gol) were utilized for this study (Fig. 12). Samples were processed at the Dalhousie University Geochronology Centre according to procedures outlined in Kohl and Nishiizumi (1992) and Hidy et al. (2013) for beryllium extraction from quartz. Processed samples were subsequently analyzed at the Center for Accelerator Mass Spectrometry at Lawrence Livermore National Laboratory (CAMS-LLNL) and exposure ages were calculated from 10Be concentrations using the CRONUS-\nEarth online calculator, version 2.2 (http://hess.ess.washington. edu/; Balco et al., 2008). For our calculations we assumed negligible boulder erosion since the time of deposition, no topographic or mass shielding, and no inheritance of cosmogenic nuclides from previous exposure.\nSamples from these sites were selected not only because they are in close proximity to Egiin Davaa, but also because each terminal moraine is large (hundreds of meters wide), relatively well defined, and situated on stream reaches with uncomplicated valley floor topography, all of which minimize the total error in estimating moraine volume (Fig. 13). In ArcGIS, the volume of each moraine was calculated by interpolating a basal surface that approximates the elevation and topography of the valley floor that existed at each location prior to the glacial event that led to the deposition of the moraines. The basal surface was constructed using the ordinary kriging method with a K-Bessel model type contained in the Geostatistical Analyst Extension to ArcMap, and is based on elevations of the modern valley floor that are just upstream and downstream of each moraine. To determine total moraine volume, the basal surface was subtracted from the modern 30 m ASTER-based topography of each moraine. These moraine volumes are considered to be minimum estimates since we did not account for erosion of the moraines, and also because we believe that the elevation of the interpolated basal surface is likely higher than the elevation of the true valley floor that existed prior to moraine deposition.\nThe 10Be surface exposure ages from terminal moraines were used to make estimates for the time it took each terminal moraine to be deposited. Constraints on the timing of moraine abandonment, coupled with existing literature on the extent and period of OIS-2 and OIS-3 ice advances in the Hangay mountains (e.g., Lehmkuhl et al., 2004; Rother et al., 2014) as well as time spans of moraine deposition at similar latitudes in other regions of the world (e.g., Phillips et al., 1997; Ivy-Ochs et al., 2004; Briner et al., 2005; Licciardi and Pierce, 2008), allowed us to make minimum and maximum estimates for the duration of each glacial event that contributed to individual moraine deposition. Multiple ratios of moraine sediment storage to total glacial erosion were also considered since previous research suggests that moraines always underestimate the total sediment volume produced by a glacier (e.g., Larsen and Mangerud, 1981; Small, 1987; Sanders et al., 2013). For each ratio, minimum and maximum rates of glacial erosion for individual valleys were estimated by extrapolating\nmoraine volume to yield a total volume of glacial erosion, dividing the total volume by the duration of deposition, and normalizing this value to the total upstream catchment area (Fig. 14). Rates of glacial erosion were compared to (1) the estimated rates of erosion since 9.6–4.1 Ma and (2) basin average erosion rates spanning 104 years calculated from 10Be concentrations in river sands (Hopkins, 2012)."
+  }, {
+    "heading": "4. Results",
+    "text": ""
+  }, {
+    "heading": "4.1. Modern versus paleo topographic relief",
+    "text": "Averaging across all 11 swath profiles, the modern and relict landscapes have mean relief values of 388 and 187 m, respectively (Table 1). These means represent averaged individual relief values calculated using a circular window with a 1 km radius (see Section 3.1). Dividing the profile lines into segments of 5 km (or less to include end segments of profiles not divisible by 5) reveals that, for the modern landscape, the average maximum relief along each swath profile segment is 626 m and the greatest relief along any single profile segment is 818 m (profile line 10). For the relict surface, which represents the landscape prior to the onset of volcanism roughly 13 Ma (Ancuta et al., submitted for publication), the average maximum relief along each swath profile segment is 344 m, and the greatest relief along any single profile segment is 606 m (Table 1). Considering the entire study area (340 km2), there is a maximum relief of 1026 m in the modern landscape versus 903 m in the paleo-landscape."
+  }, {
+    "heading": "4.2. Long and short-term erosion",
+    "text": "The spatial analysis of erosion yields an estimated 118 ± 32 km3 of rock that has been removed from the study area since 9.6– 4.1 Ma. TCN results yield a range of summit erosion rates varying from 2.8 to 15.4 mMyr 1, with an average rate of 8.1 mMyr 1 (Table 2). Based on the normal distribution of rates, we assume 8.1 mMyr 1 is a good approximation of late Miocene-to-present summit surface lowering throughout the study area, and accounting for the range of basalt summit plateau surface ages (9.6– 4.1 Ma), utilization of this rate for calculation of summit surface lowering indicates the removal of an additional 17–41 km3 of rock, which results in a total volume removal of 135–159 ± 32 km3 in the region analyzed (Table 3). Normalizing to the study area, divid-\nTable 1 (continued)\nProfile segment\nModern mean relief (m)\nModern max reliefa (m)\nPaleo mean relief (m) Paleo max relief (m) Paleo mean/modern meanb Paleo max/modern maxc Paleo max/modern meand\nProfile 11 Start: 47.24917 N, 100.1153 E End: 47.19806 N, 100.1883 E 0–5 km 392 648 331 523 1 0.81 1.33 5–7 km 408 677 44 227 0 0.34 0.56 Average 400 663 187 375 0 0.57 0.95\nAll profiles Average 365 610 171 359 0.49 0.59 1.07\na Max relief is defined as the difference (m) between the lowest and highest points along the entire profile segment. b Value obtained by dividing paleo mean relief (m) by modern mean relief (m). c Value obtained by dividing paleo max relief (m) by modern max relief (m). d Value obtained by dividing paleo mean relief (m) by modern max relief (m).\ning by the various erosion duration scenarios, and including all tabulated uncertainties, this volume yields an erosion or surface lowering rate of 25.1–77.2 mMyr 1, with an average rate of roughly 41 mMyr 1 for the midpoint (6.9 Ma) of the 9.6–4.1 Ma age range of the uppermost basalts (Table 3).\nMoraine sediment volumes, catchment areas, and estimates of total erosion for scenarios in which moraine volume represents 20%, 50%, or 80% of all material eroded out of the catchment during the duration of moraine deposition are reported in Table 4. The 20%, 50%, and 80% scenarios were used in order to make conservative estimates of minimum and maximum glacial erosion rates since studies of moraine sediment budgets throughout the world have calculated or assumed that end moraines store anywhere from 20% to 80% of the total material eroded by glaciers from a valley during a period of glaciation (e.g., Larsen and Mangerud, 1981; Small, 1987; Sanders et al., 2013). This wide range covers a broad spectrum of moraine storage in glaciated landscapes across the world and incorporates such uncertainties as the percentage of meltwater sediment output, the degree of subglacial deposition, and the possible incorporation of material leftover from a previous glacial advance. For the 10Be moraine boulder samples collected as part of this study, the mean exposure ages were 30.6 ka (n = 3; 1r = 15.2 ka), 21.8 ka (n = 4; 1r = 2.0 ka), and 15.4 ka (n = 2; 1r = 0.28 ka) for the Khaak Nuur, Chuluut Gol, and Gilgar Uul end moraines, respectively (Table 5). This distribution of exposure ages does not provide direct constraints on the duration of moraine deposition, but it does allow us to conclude that each moraine was deposited during the late Pleistocene last glacial maximum. In the context of the Quaternary glacial chronology that has been published for the Hangay and Sayan ranges, as well as estimates regarding the time span of moraine formation as a percentage of the total duration of a glacial interval (Gosse et al., 1995; Lehmkuhl et al., 2004; Delmas et al., 2009; Arzhannikov et al., 2012; Rother et al., 2014; Züst et al., 2014), this provides the basis for assuming a range of 1000–10,000 years for the duration of glacial erosion that led to the formation of each moraine. Although 10,000 years is a longer window of time than most estimates of last glacial maximummoraine deposition (e.g., e.g., Phillips et al., 1997; Ivy-Ochs et al., 2004; Briner et al., 2005; Licciardi and Pierce, 2008), this enables us to partly compensate for uncertainties in the history of moraine deposition at Gilgar Uul, where the 15.4 ka mean exposure age comes from boulders situated within a smaller recessional moraine located 5 km upstream of the larger terminal moraine used for the erosion rate calculation. The terminal moraine was likely formed during the last maximum extent of Hangay glaciers that took place between 40 and 35 ka during OIS 3 (Rother et al., 2014), in which case it’s possible that later re-advances, while failing to reach this same extent, may have contributed some volume of sediment to the moraine. As such, the 1000–10,000 yr\ntime window, in conjunction with the various ratios for moraine volume to total glacial erosion, represents the attempt to include this type of uncertainty into the calculated range of glacial erosion rates. Using these parameters, and assuming a porosity of 20% for moraine sediment based on measurements made by Burki et al. (2010), glacial erosion rates derived from moraine volume range from 29 to 3700 mMyr 1 for the three glacial valleys utilized in the study (Table 6)."
+  }, {
+    "heading": "5. Discussion",
+    "text": "Field and geochronologic evidence indicate that at approximately 13 Ma volcanic activity began producing a series of voluminous basalt flows that gradually accumulated and ultimately covered the pre-existing topography in the Egiin Davaa region of the central Hangay Mountains (Figs. 4, 5 and 10). The Landsat and GIS-based paleotopographic reconstruction presented here indicates that this pre-basalt landscape was characterized by a degree of topographic relief comparable to that of the present day, with >600 m elevation differences between valleys and ridgelines over horizontal distances of a few kilometers. Although analysis of the 13 Ma landscape yields an estimate of paleo-relief that is approximately 50% of the magnitude of relief in the modern landscape (Table 1), which seems to suggest a paleotopographic surface that is comparably subdued, the estimate of paleo-relief is considered an extreme minimum since our ability to thoroughly map the basalt/basement contact is limited by the available exposures, causing an underestimation of paleo-relief in the region (it is unlikely that the reach with the greatest relief was ever exposed). As a result, we can make minimum estimates for the depths of paleo-valleys that are exposed in along modern valley walls, but we cannot assess the total depth of a paleo-valley that extends below the elevation of the modern valley, and in these cases the true paleo-relief at this location may be much greater than our estimate. As a result of this limitation, the maximum relief observed in each topographic swath profile segment of the paleolandscape more likely represents a value closer to the mean relief of the paleo-landscape within each segment since the interpolated surface is based only on known elevations of the basalt/basement contact, it is unlikely that the calculated paleo-relief is an overestimate. Under this assumption, the fact that the average maximum relief across all profile segments of the paleo-landscape is 107% of the mean relief present in the modern landscape suggests the amount of relief that was present during the mid-Miocene is more or less equivalent to that which exists today (Table 1). Even if this maximum relief versus mean relief assumption is invalid, the assessment of the paleo-landscape nevertheless indicates that locally, relief exceeded 600 m across short horizontal distances (<3 km) prior to 13 Ma, which we interpret as evidence suggesting\nS.G .Sm ith et al./Journal of A sian Earth Sciences 125 (2016) 37– 57\n51\n(1) that by 13 Ma this region of the central Hangay was sufficiently high relative to the regional surroundings that P600 m deep valleys could have been carved and (2) that there has not been an abrupt change in tectonic forcing since that time.\nBased on ages of ridge-top basalt flows, volcanism continued to cover the granitic paleo-landscape for several million years, with the final ridge-top flows erupting by ca. 4 Ma. At this point, erosive forces, as opposed to volcanic deposition, began to shape the landscape through the carving of the drainage network visible in the study area today. After correcting for summit erosion and using a 9.1–4.6 Ma window to estimate uncertainty surrounding the onset of this erosive regime, calculation of the long term erosion rate over the past several million years ranges from 25 to 77 mMyr 1. Considering that erosion rates measured in areas of active uplift are typically several hundred meters per million years or higher (Montgomery and Brandon, 2002, and references therein), this estimate is at least one order of magnitude lower than what might be expected if the Hangay range was experiencing a rapid rate of tectonic uplift in the past 4 Ma.\nBolstering this assertion is the general agreement of our results with modeled exhumation rates based on low temperature detrital thermochronology, which were calculated to be 630 mMyr 1 over the last 130 million years for both the Selenga and Orkhon River basins located just north of our study area (McDannell et al., 2014). Furthermore, using the modal size of vesicles trapped in basalt flows from the Egiin Davaa area as a paleo-elevation proxy, Sahagian et al. (2014) concluded that the Hangay Dome has experienced roughly 1 km of uplift since the eruption of 9 Ma basalt flows. Although the data from Sahagian et al. cannot provide\nadditional constraints on the onset of uplift, such as whether it has been gradual or episodic in nature, the 0.1 kmMyr 1 rate is coherent with the model of a slowly evolving mountain range and the possibility that uplift commenced prior to 9 Ma and well exceeds 1 km. Our findings are also in good agreement with basin averaged erosion rates measured using 10Be from catchments throughout the central Hangay. These rates, which integrate the signal of erosion over the past tens of thousands of years, range from 12 to 20 mMyr 1 (Hopkins, 2012) and provide further evidence that the Hangay Dome lacks an erosional signal of a recent, rapid change in tectonic forcing. Overall, the consistency of our rates with 104 yr erosion rates and 107 yr exhumation rates provides a compelling argument for a stable tectonic regime that has been in place for tens of millions of years. Rather than tectonic forcing, our estimated rates of glacial erosion from moraine volumes suggest that climate is the primary driver of erosion throughout this region of the central Hangay, and that repeated glacial episodes have caused extensive erosion over the past 2.6 Ma, albeit at a slower rate during the shorter, relatively warm periods such as the present interglacial.\nA simple conceptual model of landscape evolution can be formulated from the above interpretations. Beginning 13 Ma the topography of the Egiin Davaa study area was essentially in-filled and smoothed by basaltic lava flows over a period of 4 to 10 Myr. However, assuming that the 10Be basin-average erosion rates of 12–20 mMyr 1 are representative of the pace of erosion throughout the central Hangay, which includes lower elevation areas that were not extensively glaciated, it is reasonable to infer that glacial activity has been a significant and effective agent of erosion at Egiin Davaa, thus yielding the 25–77 mMyr 1 average rate of erosion calculated since 9.6–4.1 Ma. Although the uncertainties in moraine storage and duration of glacial activity result in variable rates of erosion, the conservative median estimate that each moraine stores 50% of the material eroded from the catchment and that the moraine was deposited over a span of 5000 years yields a glacial erosion rate of 190 mMyr 1 averaged across all three studied catchments. At this rate, the current topography of the Egiin Davaa region and other high elevation areas of the central Hangay could have been shaped predominantly by glaciers and thus reflect the product of climatic forcing. This notion of climate-controlled erosion is supported by the presence of an extensive granitic saprolite within the upper Orkhon Gol valley that is buried by a basalt flow with an eruptive age of 3.05 ± 0.06 Ma (Ancuta et al., submitted for publication). Since the modern climate regime of central Mongolia precludes saprolite formation, it is evident that a significant climate shift has occurred in the past 3 Myr, and this shift undoubtedly changed the nature of weathering and erosion across the Hangay Dome.\nFurther evidence for late Cenozoic climate change as the sculptor of modern relief is the lack of any discernable sedimentary veneer between the Paleozoic and older basement and the overlying Cenozoic basalt flows. This is true for paleo-valleys as well as paleo-summits, which suggests that the paleo, or pre-basaltic, landscape was dominated by a bare bedrock surfaces and limited valley fill. Although previous research has shown that lava flows are capable of significant erosion (e.g., Greeley et al., 1998; Williams et al., 2004; Ferlito and Siewert, 2006; Siewert and Ferlito, 2008; Kerr, 2009; Williams et al., 2011), we consider it highly unlikely that the basalt flows in the study area would have eroded the pre-existing landscape to such a degree that there would be such sparse field evidence of preserved sediments anywhere along the basalt/basement contact. Furthermore, the preserved granitic saprolite in the Orkhon Gol valley suggests that weathered or eroded sediments would have been readily preserved had they indeed existed atop the Paleozoic bedrock. The interpretation of an environment characterized by limited weathering and\nS.G .Sm ith et al./Journal of A sian Earth Sciences 125 (2016) 37– 57\n53\nerosion is in stark contrast to the modern central Hangay, where the majority of valleys have been back-filled with sediment during the Quaternary, and rivers are entirely alluvial and appear to exhibit minimal sediment transport capability at present (Fig. 15). This discrepancy in sediment production is hypothesized to have resulted in response to the Pliocene-to-Quaternary climate trend that gradually created a more erosive environment. In addition to a consistent trend of global cooling throughout the Cenozoic (e.g., Zachos et al., 2001), analyses of sedimentary records throughout central Asia indicate significant changes in regional climate beginning in the late Miocene. Specifically, studies from Lake Baikal and the Chinese Loess Plateau, which have correlative paleoclimate records (Song and An, 2010), reveal an intensification of the Asian winter monsoon ca. 8 Ma followed by the rapid onset of major, Milankovitch-like climate oscillations shortly after 4 Ma (Williams et al., 1997; Kashiwaya et al., 2001, 2003; Takamatsu et al., 2003; Fan et al., 2006; Xu et al., 2012). The sedimentary signal of this change is recorded in basin stratigraphy as a sudden increase in mass accumulation rates, and has been identified in the internally-drained basins to the west and south of the Hangay Dome as well as in Lake Baikal to the north, into which sediments from the northern flank of the Hangay are deposited via the Selenga River system (Devyatkin, 1981; Kashiwaya et al., 2001). Amplified sediment accumulation in these basins suggests increased erosion of the surrounding high terrain (i.e. the Hangay Dome), which was likely spurred by the continuous growth and decay of glaciers in a cooler and more rapidly fluctuating climate regime. Thus, even in the absence of tectonic forcing, high latitude and high elevation regions such as the central Hangay were able to\ndevelop significant topographic relief as the result of quasiperiodic glacial/interglacial cycles.\nNevertheless, one alternate explanation for slow landscape evolution at Egiin Davaa is the possibility that significant tectonic uplift persisted throughout the mid-to-late Miocene and created an expansive high plateau (the Hangay Dome), but that this uplift is not expressed in the calculated erosion rates at Egiin Davaa due to the effects of valley-filling lava flows. In this scenario, the 9.6– 4.1 Ma basalt flows at Egiin Davaa halted erosion by filling headwater valleys and causing fluvial incision to re-initiate further downstream. Without valleys to focus erosion at the drainage divide, fluvial erosion propagated very slowly upstream from the margins of the lava flows, yielding an anomalously low erosion rate for the Egiin Davaa region. Headwater valleys finally reformed as icecaps grew atop summits in the study area, ultimately sculpting the modern relief and landscape. Thus, uplift may have been continuous and significant, but the geomorphic response to uplift was muted across the study area since the pre-existing peripheral valley network was filled by lava.\nAlthough this scenario explains some of the observations made at Egiin Davaa, and our results do not preclude the possibility of minor tectonic uplift (<1 km) since the late Miocene, multiple lines of evidence provide much greater support for the interpretation that tectonic forcing has played a negligible or very minor role in the evolution of the modern landscape, and that climate change best explains the observations and data from this study. This evidence includes the aforementioned modeled exhumation rates (McDannell et al., 2014) indicating slow, stable erosion over the past 100 Myr as well as results from basalt vesicle paleoaltimetry (Sahagian et al., 2014) that show evidence for uplift of no >1 km over the past 9 Myr. Furthermore, the distribution of summit-capping basalt flows is limited to the Egiin Davaa region, and therefore this alternative scenario would not be applicable beyond the study area. However, 10Be basin average erosion rates (Hopkins, 2012) are consistent (and low) across basins of varying size and hypsometry throughout the Hangay Dome (including Egiin Davaa), which suggests that much of the Hangay is evolving similarly. River systems are also integrated into the landscape as evidenced by equilibrium channel profiles both within and outside of the study area that provide further evidence against the persis-\nphemeral channels. This type of transport-limited alluvial system, which exhibits nge. Dark specks in center of valley are yaks for scale. Photo location: 47.3353 N,\ntence of a relict landscape that has yet to experience a propagating wave of erosion (cf. Gallen et al., 2011, 2013).\nAdditional support for the role of climate in Hangay Dome landscape evolution is the significant correlation between mean annual precipitation and erosion for large drainage basins throughout the range (West et al., 2013). Referencing a weaker correlation for small headwater catchments, West et al. suggested that the relationship may partly be explained by the role of glacial erosion at high elevations, but subsequently failed to find a strong, positive relationship between catchment hypsometry and erosion, which typically indicates a dominant influence of glacial processes. However, the great extent of alluvial fill in valleys across the central Hangay may be obscuring this relationship by masking a significant percentage of the true relief between ridge and valley bedrock. It’s also possible that the dominance of glacial erosion is unique to Egiin Davaa owing to the history of valley-filling eruptions that essentially reset the headwater relief structure.\nOverall, our assessment of paleo-relief, long-term erosion, and the role of glaciers in shaping the modern landscape indicates that there is no discernible geomorphic signal of a recent, rapid change in uplift in our study region of the Hangay Dome. Rather, our results from the Egiin Davaa area paint the picture of a mid-Miocene landscape with pre-existing topographic relief similar (>600 m) to the present-day central Hangay Dome, but with very limited sediment production due to an arid climate that precluded swift erosion. Circa 13 Ma, the eruptive output of a concentration of high elevation volcanic centers gradually filled adjacent river valleys and led to an eventual smoothing of the local landscape. Although others have suggested that basalts are present along ridgetops as a result of topographic inversion from recent graben uplift (c.f., Yarmolyuk et al., 2008, 2015), our observations and results agree with the interpretation of Cunningham (2001) that the multiple fault-bounded half-grabens distributed throughout the Hangay Dome are only minor sediment sinks. Furthermore, it is difficult to reconcile the accumulation of basalt flows (now preserved along the continental drainage divide) in a large depositional basin with the lack of observable sedimentation at the contact between basalt flows and Paleozoic basement. As such, our research suggests that the Egiin Davaa study area was a region of high topography before 13 Ma, and that sedimentwas effectively evacuated from, or did not exist in, valley bottoms prior to the eruptive phase.\nDespite providing evidence against recent, rapid changes in uplift, our results are limited to the ages of the earliest basalt flows at Egiin Davaa ( 13 Ma), so we are unable to provide additional constraints on the cause, onset, and/or progression of Hangay Dome uplift prior to 13 Ma. However, we point to recent research in the Hangay and Sayan mountain ranges with results that align well with the evaluation of significant paleo-relief and relatively slow rates of uplift and erosion that have persisted for longer than the past 13 Myr. By measuring carbon and oxygen stable isotopes in paleosol carbonates throughout Mongolia, Caves et al. concluded that surface uplift of the Hangay began by the early Oligocene ( 30 Ma), blocking moisture from Siberia and thus creating more arid conditions in the northern Gobi desert (2014). This model of epeirogenic evolution agrees with earlier work showing that significant sedimentation, presumed to be a response to increased elevation of the Hangay Dome, began in the Mongolian Valley of Lakes in the middle Oligocene (Yanshin, 1975; Höck et al., 1999), a scenario which agrees well with our surface interpretations. Perhaps more telling is the remarkable coherence between the results of this study and those of similar work by Jolivet et al. (2013a, 2013b) in the Sayan Mountain range located north of the Hangay Dome near Lake Baikal. Jolivet et al. also used basalt-capped summits to reconstruct Miocene paleotopography, and in combination with long-term exhumation rates derived from apatite fission track data and short-term erosion rates derived from 10Be data, arrived\nat the conclusion that the Sayan Mountains were influenced by a long-wavelength uplift beginning in the Oligocene or early Miocene. Regional application of this deduction, coupled with mean exhumation and erosion rates (12–20 mMyr 1) from the Sayan that are quite similar to those for the Hangay (12–77 mMyr 1), lends considerable support for the hypothesis that uplift of the Hangay Dome began roughly 20–30 Myr ago.\n6. Conclusions\nObservations and quantitative reconstruction of paleotopography in the Egiin Davaa region of the central Hangay Dome reveal a degree of topographic relief present before 13 Myr ago that is similar and potentially equivalent to the topographic relief found at Egiin Davaa today. Relief at 13 Ma, which exceeds 600 m in places, suggests that volcanism occurring from 13 to 4 Ma in Egiin Davaa took place outside of a depositional basin and that the topographic distribution of basalts has not changed considerably since emplacement. The lack of a sedimentary veneer between basalt flows and underlying Paleozoic basement rock supports this interpretation.\nA known age range of ridge-top basalt flows provides a reference surface from which to calculate the total volume and rate of erosion since emplacement of the basalts. Incorporating the results of 10Be TCN measurements to correct for otherwise unknown summit denudation, erosion rates across the Egiin Davaa portion of the central Hangay dome range from 25 to 77 mMyr 1 over the past 9.6–4.1 Myr. This range of rates compares well with long-term estimates of exhumation (630 mMyr 1; McDannell et al., 2014), and is similar and of the same order of magnitude to 10Be basinaverage erosion rates throughout the central Hangay (12– 20 mMyr 1; Hopkins, 2012) that provide information on the pace of erosion over the past 30,000–50,000 years. Compared to studies of erosion in tectonically active mountain ranges, these slow rates of exhumation and erosion provide no conspicuous evidence for recent and/or active geomorphic response to a recent or rapid change in uplift rates in the central Hangay.\nQuantification of moraine volumes enables estimation of a range of Pleistocene glacial erosion rates. These rates, although widely variable, are concentrated above 100 mMyr 1 and suggest that glacial erosion is responsible for much of the relief creation that has occurred in Egiin Davaa since emplacement of mid-tolate Miocene topography-blanketing basalt eruptions. Derivation of these rates, when viewed in the light of an abrupt shift to a cooler and more highly variable climate circa 3 Ma, suggest that the dramatic relief of the modern high Hangay may have been sculpted primarily as the result of late Cenozoic climatic forcing.\nAcknowledgements\nConstructive comments by M. Jolivet, J. West, and an anonymous reviewer were critical to improving an earlier version of the manuscript. We would like to thank Nrangerel ‘‘Naraa” Mandah for his excellent driving and navigation throughout central Mongolia, and Gantulga Bayasgalan, Dashchariv Khorloo, Molor Erdenebat, Nathan Lyons, Tara Forstner, and Matthew Morriss for their camaraderie and support in the field. This work is supported by U.S. National Science Foundation Research Grants EAR-1009702 and EAR-1009680.\nAppendix A. Supplementary material\nSupplementary data associated with this article can be found, in the online version, at http://dx.doi.org/10.1016/j.jseaes.2016.05. 013."
+  }],
+  "year": 2016,
+  "references": [{
+    "title": "Modeling the tor-dotted crests, bedrock edges, and parabolic profiles of high alpine surfaces of the Wind River Range, Wyoming",
+    "authors": ["R.S. Anderson"],
+    "venue": "Geomorphology",
+    "year": 2002
+  }, {
+    "title": "History of late Pleistocene glaciations in the central Sayan-Tuva Upland (southern Siberia)",
+    "authors": ["S.G. Arzhannikov", "R. Braucher", "M. Jolivet", "A.V. Arzhannikova", "R. Vassallo", "A. Chauvet", "D. Bourlès", "F. Chauvet"],
+    "venue": "Quat. Sci. Rev",
+    "year": 2012
+  }, {
+    "title": "A new terrane subdivision for Mongolia: implications for the Phanerozoic crustal growth of Central Asia",
+    "authors": ["G. Badarch", "W.D. Cunningham", "B.F. Windley"],
+    "venue": "J. Asian Earth Sci",
+    "year": 2002
+  }, {
+    "title": "A complete and easily accessible means of calculating surface exposure ages or erosion rates",
+    "authors": ["G. Balco", "J.O. Stone", "N.A. Lifton", "T.J. Dunai"],
+    "year": 2008
+  }, {
+    "title": "Ruptures of major earthquakes and active deformation in Mongolia and its surroundings",
+    "authors": ["I. Baljinnyam", "A. Bayasgalan", "B.A. Borisov", "A. Cisternas", "M.G. Dem’yanovich", "L. Ganbaatar", "V.M. Kochetkov", "R.A. Kurushin", "P. Molnar", "H. Philip", "Y.Y. Vashchilov"],
+    "venue": "Geol. Soc. Am. Mem",
+    "year": 1993
+  }, {
+    "title": "Lithosphere rheology and active tectonics in Mongolia: relations between earthquake source parameters, gravity and GPS measurements",
+    "authors": ["A. Bayasgalan", "J. Jackson", "D. McKenzie"],
+    "venue": "Geophys. J. Int",
+    "year": 2005
+  }, {
+    "title": "Geology of the Hangay Nuruu, Central Mongolia",
+    "authors": ["A. Bayasgalan", "R. Carson", "B. Jordon", "K. Wegmann"],
+    "venue": "Twentieth Annual Keck Research Symposium in Geology Proceedings,",
+    "year": 2007
+  }, {
+    "title": "The many surface expressions of mantle dynamics",
+    "authors": ["J. Braun"],
+    "venue": "Nat. Geosci",
+    "year": 2010
+  }, {
+    "title": "Eroding dynamic topography",
+    "authors": ["J. Braun", "X. Robert", "T. Simon-Labric"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2013
+  }, {
+    "title": "Cosmogenic exposure dating of late Pleistocene moraine stabilization in Alaska",
+    "authors": ["J.P. Briner", "D.S. Kaufman", "W.F. Manley", "R.C. Finkel", "M.W. Caffee"],
+    "venue": "Geol. Soc. Am",
+    "year": 2005
+  }, {
+    "title": "Climatic limits on landscape development in the Northwestern Himalaya",
+    "authors": ["N. Brozovic", "D.W. Burbank", "A.J. Meigs"],
+    "venue": "Science",
+    "year": 1997
+  }, {
+    "title": "Little Ice Age advance and retreat sediment budgets for an outlet glacier in western Norway",
+    "authors": ["V. Burki", "L. Hansen", "O. Fredin", "T.A. Andersen", "A.A. Beylich", "M. Jaboyedoff", "E. Larsen", "J. Tønnesen"],
+    "venue": "Boreas",
+    "year": 2010
+  }, {
+    "title": "GPS measurements of crustal deformation in the BaikalMongolia area (1994–2002): implications for current kinematics of Asia",
+    "authors": ["E. Calais", "M. Vergnolle", "V. San’Kov", "A. Lukhnev", "A. Miroshnitchenko", "S. Amarjargal", "J. Déverchère"],
+    "venue": "J. Geophys. Res.: Solid Earth",
+    "year": 2003
+  }, {
+    "title": "Aridification of Central Asia and uplift of the Altai and Hangay Mountains, Mongolia: stable isotope evidence",
+    "authors": ["J.K. Caves", "D.J. Sjostrom", "H.T. Mix", "M.J. Winnick", "C.P. Chamberlain"],
+    "venue": "Am. J. Sci",
+    "year": 2014
+  }, {
+    "title": "Paleo-erosion rates in Central Asia since 9 Ma: a transient increase at the onset of quaternary glaciations",
+    "authors": ["J. Charreau", "P. Blard", "N. Puchol", "J. Avouac", "E. Lallier-Verges", "D. Bourlès", "R. Braucher", "A. Gallaud", "R. Finkel", "M. Jolivet"],
+    "venue": "Earth Planet. Sci",
+    "year": 2011
+  }, {
+    "title": "Influence of dynamic topography on sea level and its rate of change",
+    "authors": ["C.P. Conrad", "L. Husson"],
+    "venue": "Lithosphere",
+    "year": 2009
+  }, {
+    "title": "Cenozoic normal faulting and regional doming in the southern Hangay region, Central Mongolia: implications for the origin of the Baikal rift province",
+    "authors": ["W.D. Cunningham"],
+    "venue": "Tectonophysics",
+    "year": 2001
+  }, {
+    "title": "Quantifying rock uplift rates using channel steepness and cosmogenic nuclide–determined erosion rates: examples from northern and southern Italy",
+    "authors": ["A.J. Cyr", "D.E. Granger", "V. Olivetti", "P. Molin"],
+    "venue": "Lithosphere",
+    "year": 2010
+  }, {
+    "title": "Variability of quaternary glacial erosion rates–a global perspective with special reference to the Eastern Pyrenees",
+    "authors": ["M. Delmas", "M. Calvet", "Y. Gunnell"],
+    "venue": "Quat. Sci. Rev",
+    "year": 2009
+  }, {
+    "title": "Neotectonic Structures of Western Mongolia. Mesozoic and Cenozoic Tectonics and Magmatism of Mongolia",
+    "authors": ["E. Devyatkin"],
+    "venue": "Nauka, Moscow,",
+    "year": 1975
+  }, {
+    "title": "The Cenozoic of inner Asia: stratigraphy, geochronology, and correlation",
+    "authors": ["E. Devyatkin"],
+    "venue": "The Joint Soviet-Mongolian Scientific-Research Geological Expedition, Transactions,",
+    "year": 1981
+  }, {
+    "title": "Cosmogenic Nuclides: Principles, Concepts and Applications in the Earth Surface Sciences",
+    "authors": ["T.J. Dunai"],
+    "year": 2010
+  }, {
+    "title": "Tibetan plateau aridification linked to global cooling at the Eocene-Oligocene transition",
+    "authors": ["G. Dupont-Nivet", "W. Krijgsman", "C.G. Langereis", "H.A. Abels", "S. Dai", "X. Fang"],
+    "venue": "Nature 445,",
+    "year": 2007
+  }, {
+    "title": "Glacial effects limiting mountain height",
+    "authors": ["D. Egholm", "S. Nielsen", "V.K. Pedersen", "J. Lesemann"],
+    "venue": "Nature 460,",
+    "year": 2009
+  }, {
+    "title": "Intensification of the Asian winter monsoon after 7.4 Ma: grain-size evidence from the Linxia Basin, northeastern Tibetan Plateau, 13.1 Ma to 4.3 Ma",
+    "authors": ["M. Fan", "C. Song", "D.L. Dettman", "X. Fang", "X. Xu"],
+    "venue": "Earth Planet. Sci",
+    "year": 2006
+  }, {
+    "title": "Lava channel formation during the 2001 eruption on Mount Etna: evidence for mechanical erosion",
+    "authors": ["C. Ferlito", "J. Siewert"],
+    "venue": "Phys. Rev. Lett",
+    "year": 2006
+  }, {
+    "title": "A review of observations and models of dynamic topography",
+    "authors": ["N. Flament", "M. Gurnis", "R.D. Müller"],
+    "venue": "Lithosphere",
+    "year": 2013
+  }, {
+    "title": "Late Pleistocene slip rate of the Höh Serh-Tsagaan Salaa fault system, Mongolian Altai and intracontinental deformation in central Asia",
+    "authors": ["K.L. Frankel", "K.W. Wegmann", "A. Bayasgalan", "R.J. Carson", "N.E. Bader", "T. Adiya", "E. Bolor", "C.C. Durfey", "J. Otgonkhuu", "J. Sprajcar"],
+    "venue": "Geophys. J. Int",
+    "year": 2010
+  }, {
+    "title": "Hillslope response to knickpoint migration",
+    "authors": ["K. Ross", "J.B. Bauer", "A.C. Witt"],
+    "year": 2011
+  }, {
+    "title": "Miocene rejuvenation",
+    "authors": ["S.F. Gallen", "K.W. Wegmann", "D. Bohnenstiehl"],
+    "year": 2013
+  }, {
+    "title": "topographic relief in the southern Appalachians",
+    "authors": ["N.D.S", "M.R. Gani", "M.G. Abdelsalam"],
+    "venue": "GSA Today",
+    "year": 2007
+  }, {
+    "title": "Terrestrial in situ cosmogenic nuclides: theory and",
+    "authors": ["J.C. Gosse", "F.M. Phillips"],
+    "year": 2001
+  }, {
+    "title": "Precise cosmogenic",
+    "authors": ["J.C. Gosse", "E. Evenson", "J. Klein", "B. Lawn", "R. Middleton"],
+    "venue": "application. Quat. Sci. Rev",
+    "year": 1995
+  }, {
+    "title": "Plio-pleistocene increase in erosion rates",
+    "authors": ["F. 157–167. Herman", "J. Champagnac"],
+    "year": 2016
+  }, {
+    "title": "A latest Pliocene age",
+    "authors": ["A.J. Hidy", "J.C. Gosse", "D.G. Froese", "J.D. Bond", "D.H. Rood"],
+    "year": 2013
+  }, {
+    "title": "Glacial–interglacial variation",
+    "authors": ["Canada. Quat"],
+    "year": 2014
+  }, {
+    "title": "Oligocene-Miocene sediments, fossils",
+    "authors": ["V. Höck", "G. Daxner-Höck", "H.P. Schmid"],
+    "venue": "nuclides. Earth Planet. Sci. Lett",
+    "year": 1999
+  }, {
+    "title": "Sources of Phanerozoic",
+    "authors": ["B. 47–55. Jahn", "R. Capdevila", "D. Liu", "A. Vernon", "G. Badarch"],
+    "year": 2004
+  }, {
+    "title": "Mongolian summits: an uplifted",
+    "authors": ["C. Sue", "N. Arnaud", "R. De Vicente"],
+    "year": 2007
+  }, {
+    "title": "Accommodating large-scale intracontinental extension and",
+    "authors": ["V. Akulova"],
+    "year": 2013
+  }, {
+    "title": "Orbit-related long-term climate",
+    "authors": ["K. Kashiwaya", "S. Ochiai", "H. Sakai", "T. Kawai"],
+    "venue": "Gondwana Res",
+    "year": 2001
+  }, {
+    "title": "Onset of current Milankovitch",
+    "authors": ["K. 71–74. Kashiwaya", "S. Ochiai", "H. Sakai", "T. Kawai"],
+    "year": 2003
+  }, {
+    "title": "Quantifying differential rock-uplift rates via stream",
+    "authors": ["E. Kirby", "K. Whipple"],
+    "venue": "Geophys. Res.: Solid Earth",
+    "year": 2001
+  }, {
+    "title": "Chemical isolation of quartz for measurement",
+    "authors": ["C. Kohl", "K. Nishiizumi"],
+    "year": 1992
+  }, {
+    "title": "situ-produced cosmogenic nuclides",
+    "authors": ["V. Kovalenko", "I. Pukhtel", "V. Yarmolyuk", "D. Zhuravlev", "H. Stosch", "E. Jagoutz"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1996
+  }, {
+    "title": "Eocene-Oligocene transition in Central Asia",
+    "authors": ["Stratigr. Geol. Correl"],
+    "year": 2010
+  }, {
+    "title": "Erosion rate of a younger dryas cirque a glacier",
+    "authors": ["J. Mangerud"],
+    "venue": "effects on mammalian evolution. Geology",
+    "year": 1981
+  }, {
+    "title": "The extent of late Pleistocene glaciations in the Altai and Khangai Mountains",
+    "authors": ["F. Lehmkuhl", "M. Klinge", "G. Stauch"],
+    "venue": "Develop. Quat. Sci",
+    "year": 2004
+  }, {
+    "title": "Cosmogenic exposure-age chronologies of Pinedale and Bull Lake glaciations in greater Yellowstone and the Teton Range, USA",
+    "authors": ["J.M. Licciardi", "K.L. Pierce"],
+    "venue": "Quat. Sci. Rev",
+    "year": 2008
+  }, {
+    "title": "Dynamic topography, plate driving forces and the African superswell",
+    "authors": ["C. Lithgow-Bertelloni", "P.G. Silver"],
+    "venue": "Nature",
+    "year": 1998
+  }, {
+    "title": "Generation of summit plateaus by periglacial processes: implications for tectonic interpretations",
+    "authors": ["N.J. Lyons", "K.W. Wegmann", "J.C. Gosse", "G. Bayasgalan"],
+    "venue": "Geol. Soc. Am. Abs. Prog",
+    "year": 2013
+  }, {
+    "title": "Quantification of subaerial and episodic subglacial erosion rates on high latitude upland plateaus: Cumberland Peninsula, Baffin Island, Arctic Canada",
+    "authors": ["A. Margreth", "J.C. Gosse", "A.S. Dyke"],
+    "venue": "Quat. Sci",
+    "year": 2016
+  }, {
+    "title": "The Hangay Dome, central Mongolia: A relict Mesozoic landscape",
+    "authors": ["K.T. McDannell", "P.K. Zeitler", "L.D. Ancuta", "B.D. Idleman", "S.L. Boulton", "K.W. Wegmann"],
+    "venue": "Abstract T21A–4559 Presented at 2014 Fall Meeting,",
+    "year": 2014
+  }, {
+    "title": "Intracontinental deformation and surface uplift – geodynamic evolution of the Hangay Dome, Mongolia Central",
+    "authors": ["A. Meltzer", "L. Ancuta", "R. Carlson", "J. Caves", "C.P. Chamberlain", "J.C. Gosse", "B. Idleman", "D. Ionov", "K. McDannell", "T. Mendelson", "H. Mix", "U. Munkhuu", "A. Proussevitch", "R. Russo", "M. Sabaj-Perez", "D. Sahagian", "D. Sjostrom", "J. Stachnik", "B. Tsagaan", "K. Wegmann", "M. Winnick", "P. Zeitler"],
+    "year": 2012
+  }, {
+    "title": "Late Cenozoic increase in accumulation rates of terrestrial sediment: how might climate change have affected erosion rates",
+    "authors": ["P. Molnar"],
+    "venue": "Annu. Rev. Earth Planet. Sci",
+    "year": 2004
+  }, {
+    "title": "Late Cenozoic uplift of mountain ranges and global climate change: chicken or egg",
+    "authors": ["P. Molnar", "P. England"],
+    "venue": "Nature 346,",
+    "year": 1990
+  }, {
+    "title": "Cenozoic tectonics of Asia: effects of a continental collision",
+    "authors": ["P. Molnar", "P. Tapponnier"],
+    "venue": "Science",
+    "year": 1975
+  }, {
+    "title": "Topographic controls on erosion rates in tectonically active mountain ranges",
+    "authors": ["D.R. Montgomery", "M.T. Brandon"],
+    "venue": "Earth Planet. Sci",
+    "year": 2002
+  }, {
+    "title": "Dynamic topography and long-term sea-level variations: there is no such thing as a stable continental platform",
+    "authors": ["R. Moucha", "A.M. Forte", "J.X. Mitrovica", "D.B. Rowley", "S. Quéré", "N.A. Simmons", "S.P. Grand"],
+    "venue": "Earth Planet. Sci",
+    "year": 2008
+  }, {
+    "title": "Increased sedimentation rates and grain sizes 2–4 Myr ago due to the influence of climate change on erosion rates",
+    "authors": ["Z. Peizhen", "P. Molnar", "W.R. Downs"],
+    "venue": "Nature 410,",
+    "year": 2001
+  }, {
+    "title": "Deep structure and mechanical behavior of the lithosphere in the Hangai-Hövsgöl region, Mongolia: new constraints from gravity modeling",
+    "authors": ["C. Petit", "J. Déverchère", "E. Calais", "V. San’kov", "D. Fairhead"],
+    "venue": "Earth Planet. Sci",
+    "year": 2002
+  }, {
+    "title": "Teleseismic traveltimes, topography and the lithospheric structure across central Mongolia",
+    "authors": ["C. Petit", "C. Tiberi", "A. Deschamps", "J. Déverchere"],
+    "year": 2008
+  }, {
+    "title": "Surface exposure dating reveals MIS-3 glacial maximum in the Khangai Mountains of Mongolia",
+    "authors": ["H. Rother", "F. Lehmkuhl", "D. Fink", "V. Nottebaum"],
+    "venue": "Quat. Res",
+    "year": 2014
+  }, {
+    "title": "Mongolian Hangay uplift recorded in vesicular basalts",
+    "authors": ["D. Sahagian", "A. Proussevitch", "B.D. Idleman", "L.D. Ancuta", "P.K. Zeitler"],
+    "venue": "Abstract T21A-4558 Presented at 2014 Fall Meeting,",
+    "year": 2014
+  }, {
+    "title": "The sediment budget of an alpine cirque",
+    "authors": ["J.W. Sanders", "K.M. Cuffey", "K.R. MacGregor", "B.D. Collins"],
+    "venue": "Geol. Soc. Am",
+    "year": 2013
+  }, {
+    "title": "Geometry and rate of faulting in the North Baikal Rift",
+    "authors": ["V. San’kov", "J. Déverchère", "Y. Gaudemer", "F. Houdry", "A. Filippov"],
+    "venue": "Siberia. Tectonics",
+    "year": 2000
+  }, {
+    "title": "Sources and geodynamics of the late Cenozoic volcanism of Central Mongolia: evidence from isotope-geochemical studies",
+    "authors": ["V. Savatenkov", "V. Yarmolyuk", "E. Kudryashova", "A. Kozlovskii"],
+    "venue": "Petrology",
+    "year": 2010
+  }, {
+    "title": "Source history of the 1905 great Mongolian earthquakes (Tsetserleg, Bolnay)",
+    "authors": ["A. Schlupp", "A. Cisternas"],
+    "venue": "Geophys. J. Int",
+    "year": 2007
+  }, {
+    "title": "Mechanical erosion by flowing lava",
+    "authors": ["J. Siewert", "C. Ferlito"],
+    "venue": "Contemp. Phys",
+    "year": 2008
+  }, {
+    "title": "Moraine sediment budgets",
+    "authors": ["R. Small"],
+    "year": 1987
+  }, {
+    "title": "Correlation of paleoclimatic records between Chinese eolian sediments and Baikal lacustrine sediments",
+    "authors": ["Y. Song", "Z. An"],
+    "venue": "J. Earth Sci",
+    "year": 2010
+  }, {
+    "title": "Geology, geography, and humans battle for dominance over the delivery of fluvial sediment to the coastal ocean",
+    "authors": ["J.P. Syvitski", "J.D. Milliman"],
+    "venue": "J. Geol",
+    "year": 2007
+  }, {
+    "title": "Geochronological data of granitoids in the Bayankhongor area, central Mongolia",
+    "authors": ["Y. Takahashi", "Y. Arakawa", "S. Oyungerel", "K. Naito"],
+    "venue": "Bull.-Geol. Surv. Jpn",
+    "year": 2000
+  }, {
+    "title": "Paleoenvironmental changes during the last 12 million years in the eurasian continental interior estimated by chemical elements in sediment cores (BDP-96 and BDP-98) from Lake Baikal",
+    "authors": ["N. Takamatsu", "G.I. Matsumoto", "N. Kato", "T. Kawai"],
+    "year": 2003
+  }, {
+    "title": "Asthenospheric imprints on the lithosphere in Central Mongolia and Southern Siberia from a joint inversion of gravity and seismology (MOBAL experiment)",
+    "authors": ["C. Tiberi", "A. Deschamps", "J. Déverchère", "C. Petit", "J. Perrot", "D. Appriou", "V. Mordvinova", "T. Dugaarma", "M. Ulzibaat", "A. Artemiev"],
+    "venue": "Geophys. J. Int. 175,",
+    "year": 2008
+  }, {
+    "title": "Uplift age and rates of the Gurvan Bogd system (GobiAltay) by apatite fission track analysis",
+    "authors": ["R. Vassallo", "M. Jolivet", "J.F. Ritz", "R. Braucher", "C.H. Larroque", "C. Sue", "M. Todbileg", "D. Javkhlanbold"],
+    "venue": "Earth Planet. Sci",
+    "year": 2007
+  }, {
+    "title": "Reinterpretation of the active faulting in central Mongolia",
+    "authors": ["R. Walker", "E. Nissen", "E. Molor", "A. Bayasgalan"],
+    "venue": "Geology",
+    "year": 2007
+  }, {
+    "title": "Active tectonics of an apparently aseismic region: distributed active strike-slip faulting in the Hangay Mountains of central Mongolia",
+    "authors": ["R. Walker", "E. Molor", "M. Fox", "A. Bayasgalan"],
+    "venue": "Geophys. J. Int",
+    "year": 2008
+  }, {
+    "title": "The Egiin Davaa Prehistoric Rupture. Central Mongolia: A Large Magnitude Normal Faulting Earthquake on a Reactivated Fault with Little Cumulative Slip Located in a Slowly Deforming",
+    "authors": ["R.T. Walker", "K.W. Wegmann", "A. Bayasgalan", "R.J. Carson", "J. Elliott", "M. Fox", "E. Nissen", "R.A. Sloan", "J.M. Williams", "E. Wright"],
+    "venue": "Intraplate Setting,",
+    "year": 2015
+  }, {
+    "title": "Links between climate, erosion, uplift, and topography during intracontinental mountain building of the Hangay Dome, Mongolia",
+    "authors": ["A.J. West", "M. Fox", "R.T. Walker", "A. Carter", "T. Harris", "A.B. Watts", "B. Gantulga"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2013
+  }, {
+    "title": "How do landscapes record tectonics and climate",
+    "authors": ["A.C. Whittaker"],
+    "venue": "Lithosphere",
+    "year": 2012
+  }, {
+    "title": "Long-term stability of global erosion rates and weathering during late-Cenozoic cooling",
+    "authors": ["J.K. Willenbring", "F. von Blanckenburg"],
+    "venue": "Nature",
+    "year": 2010
+  }, {
+    "title": "Erosion by flowing lava: geochemical evidence in the Cave Basalt",
+    "authors": ["D.A. Williams", "S.D. Kadel", "R. Greeley", "C.M. Lesher", "M.A. Clynne"],
+    "venue": "Mount St. Helens, Washington. B. Volcanol",
+    "year": 2004
+  }, {
+    "title": "Mathematical modeling of thermomechanical erosion beneath Proterozoic komatiitic basaltic sinuous rilles in the Cape Smith Belt, New Québec, Canada",
+    "authors": ["D.A. Williams", "R.C. Kerr", "C.M. Lesher"],
+    "venue": "Miner. Deposita",
+    "year": 2011
+  }, {
+    "title": "Lake Baikal record of continental climate response to orbital insolation during the past 5 million years",
+    "authors": ["D. Williams", "J. Peck", "E. Karabanov", "A. Prokopenko", "V. Kravchinsky", "J. King", "M. Kuzmin"],
+    "year": 1997
+  }, {
+    "title": "Mongolian plateau: evidence for a late Cenozoic mantle plume under central Asia",
+    "authors": ["B.F. Windley", "M.B. Allen"],
+    "venue": "Geology",
+    "year": 1993
+  }, {
+    "title": "Tectonics from Topography: Procedures",
+    "authors": ["C. Wobus", "K.X. Whipple", "E. Kirby", "N. Snyder", "J. Johnson", "K. Spyropolou", "B. Crosby", "D. Sheehan"],
+    "venue": "Promise, and Pitfalls,",
+    "year": 2006
+  }, {
+    "title": "Red clay deposits on the Chinese Loess plateau during 11.0–2.6 Ma and its implications for longterm evolution of East Asian monsoon",
+    "authors": ["Y. Xu", "L. Yue", "J. Li", "L. Sun", "B. Sun", "J. Zhang", "J. Ma", "J. Wang"],
+    "venue": "Environ. Earth Sci",
+    "year": 2012
+  }, {
+    "title": "3D S-wave velocity pattern in the upper mantle beneath the continent of Asia from Rayleigh wave data",
+    "authors": ["T. Yanovskaya", "V. Kozhevnikov"],
+    "venue": "Phys. Earth Planet",
+    "year": 2003
+  }, {
+    "title": "Mesozoic and Cenozoic tectonics and the magmatism of Mongolia",
+    "authors": ["A. Yanshin"],
+    "venue": "Joint Soviet–Mongolian Scientific Research Geological Expedition (in Russian), Transactions,",
+    "year": 1975
+  }, {
+    "title": "Late Cenozoic volcanism of Khangai (Central Mongolia): evidence for recent orogeny in Central Asia",
+    "authors": ["V.V. Yarmolyuk", "E.A. Kudryashova", "A.M. Kozlovsky", "V.A. Lebedev"],
+    "venue": "Dokl. Earth Sci",
+    "year": 2008
+  }, {
+    "title": "Late Mesozoic-Cenozoic intraplate magmatism in central Asia and its relation with mantle diapirism: evidence from the South Khangai volcanic region, Mongolia",
+    "authors": ["V.V. Yarmolyuk", "E.A. Kudryashova", "A.M. Kozlovsky", "V.A. Lebedev", "V.M. Savatenkov"],
+    "venue": "J. Asian Earth Sci",
+    "year": 2015
+  }, {
+    "title": "Trends, rhythms, and aberrations in global climate 65",
+    "authors": ["J. Zachos", "M. Pagani", "L. Sloan", "E. Thomas", "K. Billups"],
+    "venue": "Ma to present. Science",
+    "year": 2001
+  }, {
+    "title": "Surface reconstruction and derivation of erosion rates over several glaciations (1 Ma) in an alpine setting (Sinks Canyon, Wyoming",
+    "authors": ["F. Züst", "D. Dahms", "R. Purves", "M. Egli"],
+    "venue": "USA). Geomorphology",
+    "year": 2014
+  }],
+  "id": "SP:18bc3ca807ed68171c7fe00abcffe8ad3b2fdf65",
+  "authors": [{
+    "name": "Stephen G. Smith",
+    "affiliations": []
+  }, {
+    "name": "Karl W. Wegmann",
+    "affiliations": []
+  }, {
+    "name": "Leonard D. Ancuta",
+    "affiliations": []
+  }, {
+    "name": "John C. Gosse",
+    "affiliations": []
+  }, {
+    "name": "Chelsea E. Hopkins",
+    "affiliations": []
+  }],
+  "abstractText": "http://dx.doi.org/10.1016/j.jseaes.2016.05.013 1367-9120/ 2016 Elsevier Ltd. All rights reserved. ⇑ Corresponding author. E-mail address: sgsmith6@ncsu.edu (S.G. Smith). 1 Present address: Georgia Environmental Protection Division, 2 Martin Luther King, Jr. Drive SE, Suite 1462 East, Atlanta, GA 30334, USA. Stephen G. Smith a,⇑, Karl W. Wegmann , Leonard D. Ancuta , John C. Gosse , Chelsea E. Hopkins d,1",
+  "title": "Paleotopography and erosion rates in the central Hangay Dome, Mongolia: Landscape evolution since the mid-Miocene"
+}

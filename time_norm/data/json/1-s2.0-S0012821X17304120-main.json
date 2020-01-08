@@ -1,0 +1,331 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nEarth and Planetary Science Letters\nwww.elsevier.com/locate/epsl\nA chronostratigraphic assessment of the Moenave Formation, USA using C-isotope chemostratigraphy and detrital zircon geochronology: Implications for the terrestrial end Triassic extinction\nCelina A. Suarez a,∗, Todd K. Knobbe a, James L. Crowley b, James I. Kirkland c, Andrew R.C. Milner d\na Department of Geosciences, University of Arkansas, 216 Ozark Hall, Fayetteville, AR 72701, USA b Department of Geosciences, 1910 University Drive, Boise State University, Boise, ID 83725-1535, USA c Utah Geological Survey, 2594 West North Temple, P.O. Box 146100, Salt Lake City, UT 84114, USA d St. George Dinosaur Discovery Site at Johnson Farm, 2180 East Riverside Drive, St. George, UT 84790, USA\na r t i c l e i n f o a b s t r a c t\nArticle history: Received 20 November 2016 Received in revised form 15 June 2017 Accepted 18 July 2017 Available online 10 August 2017 Editor: H. Stoll\nKeywords: carbon isotope excursion large igneous province extinction Eubrontes\nThe Late Triassic is a period of abrupt climate change associated with a disruption to the global carbon cycle usually ascribed to the emplacement of the Central Atlantic Magmatic Province (CAMP). Geochronologic, paleontologic, and geochemical studies have shown that the CAMP was likely the major factor for the end-Triassic extinction (ETE), however, difficulties correlating and dating terrestrial strata has left the nature of the terrestrial extinction in question. The lacustrine Whitmore Point Member (WPM) of the Moenave Formation is ideal for investigating these details because it is reported to be Late Triassic to Early Jurassic. However, currently there are conflicting age constraints between biostratigraphy and magnetostratigraphy. In this study we attempt to elucidate the ETE by incorporating C-isotope chemostratigraphy and detrital zircon geochronology. Detrital zircon geochronology suggests the upper part of the Dinosaur Canyon Member (DCM) is younger (201.33 ± 0.07/0.12/0.25 Ma) than the ETE (201.564 Ma) suggesting the ETE is in the middle to lower DCM, in agreement with track biostratigraphy (first occurrence of Eubrontes, Anomoepus, and Batrachopus). Meanwhile a distinct negative carbon isotope (NCIE) excursion (−5.5 ) occurs at the base of the WPM at Potter Canyon, AZ with a more subtle NCIE at the base of the WPM at Black Canyon, UT (−2.0 ) that may correlate to the initial NCIE at the ETE. However, the WPM NCIE is correlated to the preservation of organic C (relative %C) suggesting it may be either related to local lake productivity and biases in organic matter preservation or may be a negative CIE in the Jurassic Hettangian stage. With the addition of the detrital zircon data, we suggest the M2r reversal at the base of the WPM is a reversal in the Hettangian (the H24r, H25r, or H26r) and the ETE is within the DCM. Additional C-isotope analysis of the DCM is necessary to determine if the initial NCIE that is the hallmark of the ETE occurs in terrestrial strata in western Pangea. However, our WPM Cisotope record is the most complete C-isotope record from terrestrial strata of western Pangea to date and in addition to detrital zircon geochronology, magnetostratigraphy, and biostratigraphy, will be used to provide a framework for future chronologic and paleoclimatic studies.\n© 2017 Elsevier B.V. All rights reserved."
+  }, {
+    "heading": "1. Introduction",
+    "text": "Earth’s climate is controlled over geologic time, in part, by the flux of atmospheric gases (Cotton and Sheldon, 2012), specifically greenhouse gases such as carbon dioxide (CO2) and methane (CH4). The release of volcanogenic CO2 (Schaller et al., 2011) and the dissociation of methane hydrates (Beerling and Berner, 2002)\n* Corresponding author. E-mail address: casuarez@uark.edu (C.A. Suarez).\nhttp://dx.doi.org/10.1016/j.epsl.2017.07.028 0012-821X/© 2017 Elsevier B.V. All rights reserved.\nfrom the emplacement of large igneous provinces (LIPs) have been linked to global warming and ocean anoxic events throughout geologic time (Wignall, 2001). An influx of isotopically light carbon (12C) into the oceanic and atmospheric reservoirs, are temporarily associated with the emplacement of LIPs. Isotopic analysis of sedimentary organic matter (δ13Corganic) and carbonate (δ13Ccarbonate) to identify carbon isotope excursions in marine and terrestrial environments has become a key tool in correlating global carboncycle perturbations to events that occur within the biosphere (Saltzman and Thomas, 2012). The emplacement of the most vo-\nluminous, continental LIPs correlate to mass extinction events (Rampino and Stothers, 1988; Courtillot, 1994; Wignall, 2001). Isotopic excursions are associated with these major extinction events of the Phanerozoic, indicating a causal relationship between biotic and environmental perturbations (Hallam and Wignall, 1997; Palfy et al., 2001; Bond and Wignall, 2014).\nThe Central Atlantic Magmatic Province (CAMP) is one of the most voluminous and aerially extensive Phanerozoic LIPs with an estimated volume of 3–11 × 106 km3 and an estimated area greater than 2.5 × 106 km2 (Marzoli et al., 1999; McHone, 2003; Blackburn et al., 2013). Geochronological age measurements (Ar– Ar and U–Pb) have constrained the emplacement of the CAMP to between ± 0.031/0.061/0.22 and ± 0.064/0.075/0.23 Ma with the main magmatic peak of the CAMP occurring between 201.566 and 201.305 ± 0.034/0.063/0.22 Ma (Nomade et al., 2007; Schoene et al., 2010; Marzoli et al., 2011; Blackburn et al., 2013).\nImpacts on atmospheric CO2 of the CAMP have been extensively identified within the rock record by stomata indicies, pedogenic carbonates, and carbon-cycle modeling (McElwain et al., 1999; Schaller et al., 2011, 2012; Beerling and Berner, 2002). Carbon emissions released as CO2 and CH4 during the emplacement of the CAMP are estimated to be ∼8,000–9,000 and ∼5,000 gigatons, respectively (Beerling and Berner, 2002). Leaf stomata index proxy analysis of fossilized ginkgoalean and cycadaleans indicate a change in atmospheric pCO2 concentrations from 600 to 2100–2400 ppm across the Triassic–Jurassic boundary interval in Greenland while analysis of pedogenic carbonates from the Newark and Hartford basins indicate a change from the pre-eruptive background concentration of 2,000 to ∼4,500–5,000 ppm (McElwain et al., 1999; Schaller et al., 2011, 2012, 2014). Although, stomata ratios and pedogenic carbonates suggest different concentrations they show similar increasing trends after emplacement of the CAMP. Mean global temperature changes associated with this abrupt rise in atmospheric CO2 have been estimated to be 3◦–4 ◦C, with models estimating a potential 6 ◦C increase (McElwain et al., 1999; Huynh and Poulsen, 2005). A mean global temperature change of 3◦ to 6 ◦C is associated with a massive turnover of megafloral species seen at mid-latitudes (McElwain et al., 1999) and may have driven global mass extinction in the terrestrial realm. This extinction event, the end-Triassic extinction (ETE), was one of the largest mass extinction events of the Phanerozoic era and affected both terrestrial and marine biota (Raup and Sepkoski, 1984).\nThe ETE was estimated by Blackburn et al. (2013) at 201.564 ± 0.015 Ma. It is characterized by a 50% loss of tetrapod species and a turnover of megafloral species (McElwain et al., 1999; Ruhl et al., 2009, 2010; Blackburn et al., 2013; Whiteside et al., 2010), Details of the ETE in the terrestrial rock record is uncertain due to problems correlating stratigraphic units and dating of the terrestrial rock (e.g. Lucas and Tanner, 2015). Thus, detailed and intense stratigraphic studies of the terrestrial record are needed to determine the exact nature of biotic crises, extinction, or turnover on land caused by the CAMP.\nThis study uses C-isotope chemostratigraphy and detrital zircon geochronology in combination with the biostratigraphic and magnetostratigraphic record of the Whitmore Point (WPM) and Dinosaur Canyon (DCM) members of the Moenave Formation to constrain their age and document possible CAMP influence on the terrestrial carbon cycle in western Pangea (Fig. 1). The Moenave Formation (Fig. 2 and 3) consists of two primary lithostratigraphic members: 1) the Dinosaur Canyon Member (DCM) and 2) the WPM (Harshberg et al., 1957; Wilson, 1967; Tanner and Lucas, 2009; Milner et al., 2012; Kirkland et al., 2014). The Moenave is ideal strata to characterize the terrestrial carbon cycle because fluvial-lacustrine systems respond rapidly to environmental perturbations due to their small chemical residence times\n(Hollander and McKenzie, 1991). This enhanced sensitivity to environmental perturbations can record pronounced changes in geochemical cycles during periods when global geochemical cycles are forced out of a steady state. The Moenave Formation is also ideally suited to determine the global nature of the CAMP because of its distal location to the eruptive center.\nWe present carbon isotope chemostratigraphic data that identify perturbations in δ13Corganic and δ13Ccarbonate at two separate locations: 1) the Whitmore Point Reference Section (WPRS) located in Potter Canyon, Arizona and 2) Black Canyon, Zion National Park (Fig. 1). Detrital zircon geochronology yields precise maximum deposition ages of sandstones that are within the range of CAMP eruptions but post-date the ETE. When combined with previously published magnetostratigraphy and ichnotaxa biostratigraphy we have constrained the ETE to the lower DCM and although we identify a distinct negative C-isotope excursion (NCIE), we do not specifically correlate it to the distinct ETE NCIE in other global records."
+  }, {
+    "heading": "2. Geologic setting",
+    "text": "The Late Triassic (Rhaetian) to Early Jurassic (Hettangian) Moenave Formation of southwestern Utah and northwestern Arizona consists of fluvial and lacustrine depositional environments conventionally interpreted as having formed in a retro-arc basin that formed on the western edge of the North American craton as a result of collision with the Cordilleran magmatic arc system (Dickinson, 2009). The basal contact of the Moenave Formation between the DCM and the underlying Chinle Formation (Late Triassic) at the J-0 unconformity (Kirkland et al., 2014). The upper contact of the Moenave Formation is with the Springdale Sandstone of the Kayenta Formation at the J-0’ unconformity. The exact stratigraphic location of the ETE however is not constrained with bios-\ntratigraphic evidence suggesting it is in the DCM, while the interpretation of published magnetostratigraphic evidence suggests that it is in the WPM (Donohoo-Hurley et al., 2010; Lucas et al., 2011; Kirkland et al., 2014). This study focuses on three stratigraphic sections with a strong focus on the Whitmore Point Reference Section (WPRS) at Potter Canyon, AZ in which C-isotope chemistratigraphy, magnetostratigraphy, biostratigraphy, and detrital zircon work has been conducted. The WPRS in this study is the same section and section description as Kirkland et al. (2014). A detailed description of WPRS as well as the section at Black Canyon, UT and Olsen Canyon, UT can be found in supplemental data files (Supplemental data file 1) and in Kirkland et al. (2014).\nThe DCM represents an extensive northwest trending fluvial to lacustrine system that drains the Mogollan Highlands to the south\n(Kirkland et al., 2014). It is composed of reddish quartz-rich fine to very fine sandstones with interbedded mudstones. Most sandstones units contain abundant planar bedding, climbing ripples, mega ripples, and trough cross-bedding suggesting a high flux of sediment that was deposited at a relatively rapid rate. Mudstone and siltstone units are often capped by desiccation cracks suggesting an arid climate. Abundant dinosaur and crocodylomorph tracks are found throughout the DCM. These include the postETE biostratigraphic indicators Eubrontes (large theropod dinosaur), Anomoepus (ornithischian dinosaur), and Batrachopus (crocodylomorph).\nThe WPM represents an extensive, shallow, lacustrine environment along the north to northwest trending DCM alluvial system as evident by small stromatolitic mounds, salt and gypsum casts, and occasional mudcracks. The WPM has variable stratigraphic thicknesses along the Moenave outcrop belt but overall has been divided into three distinctive lithologic intervals (Kirkland et al., 2014): 1) a lower micaceous shale and sandstone interval, 2) a middle micaceous sandstone dominated interval and 3) an upper micaceous shale dominated interval (Fig. 2 and 3).\nThe lower unit has been described as a well-laminated, poorly to moderately indurated gray/dark purple and calcareous shale dominated unit. This interval is highly fossiliferous containing well-preserved ostracodes, conchostracans, thin stromatolite layers, plant fragments and fish debris. This sequence of the WPM is interpreted as a distal lacustrine environment. Sandstone lenses in the upper part of this interval are interpreted as channels that formed during periods of lower depositional base level (Kirkland et al., 2014).\nThe middle sandstone interval is dominated by fine-to mediumgrained sandstone beds with interspersed sandy mudstone intervals. Sandstone layers display ripple cross-bedding, mudcracks, burrows and the dinosaur tracks Grallator and Anomoepus. This interval is a cliff-forming portion of the WPM and is interpreted as a migrating sandbar or spit (Kirkland et al., 2014).\nThe upper shale interval is composed of mauve-colored shale. It consists of hard platy shales, siltstones and fine-grained sandstones with coarsening upward cycles. Fossil and sedimentary structures preserved in this interval are mainly mudcracks and trace fossils. This interval also consists of stromatolites, ostracodes, conchostracans, tetrapod teeth, dinosaur tracks, and fish debris. The bedding pattern is interpreted as shifting depositional environments oscillating between distal portions of the lake to proximal photic zones and edges of the lake suggesting rapidly varying climatic conditions."
+  }, {
+    "heading": "3. Methods",
+    "text": ""
+  }, {
+    "heading": "3.1. Stable isotope geochemistry",
+    "text": "Two sections were measured and sampled for geochemical analysis: 1) the Whitmore Point Reference Section at Potter Canyon, Arizona and 2) Black Canyon, Zion National Park. Thirtyseven bulk rock samples were collected at the WPRS located at Potter Canyon, Arizona (lat. 36.880917◦ , long. −112.841132◦ up section to lat. 36.881829◦ , long. −112.841440◦). Samples collected at the WPRS were collected in inconsistent sampling intervals. One hundred and three bulk rock samples were collected at Black Canyon, Utah, an area outside the west entrance of Zion National Park (lat. 37.202912◦N, long. −113.003666◦W). Samples from Black Canyon were collected at a consistent 25 cm interval from the top of the Dinosaur Canyon Member to the uppermost sandstone of the Whitmore Point Member, just below the Springdale Sandstone. WPRS samples were analyzed for both δ13Corganic and δ13Ccarbonate while Black Canyon samples were only analyzed for δ13Corganic.\nBulk organic C samples were prepared using the method of Suarez et al. (2013). To obtain bulk δ13Corganic, samples were crushed into a fine powder with a mortar and pestle and prepared for decarbonation. A modified decarbonation method followed that of Suarez et al. (2013). 30 mL of 3M HCl was added to ∼1 g of sample and reacted for ∼2–4 h or until the reaction went to completion. Samples were then rinsed to neutrality with DI water, dried, and crushed. 15.5–16.5 mg of crushed sample was then weighed for analysis on a ThermoFinnigan Delta Plus isotope ratio mass spectrometer (IRMS) via combustion in an elemental analyzer at the University of Arkansas Stable Isotope Laboratory. δ13Corganic was recorded in per mil ( ) relative to VPDB (Vienna Pee Dee Belemnite) and was calculated with the use of laboratory standards. Instrument stability, accuracy and precision were monitored via standard analysis. Internal laboratory standards include Black Weeks (−25.04 ± 0.61 , actual = −24.74 , material standard); Corn Maise (−11.33 ± 0.11 , actual = −11.32 , high standard); and White River Trout (−26.60 ± 0.15 , actual = −26.63, low standard). Other standards used were Peach leaf 1547 (−25.82 ± 0.02 , actual = −25.76 ), and ANU Sucrose (−10.46 ± 0.05 , actual = −10.4 ).\nδ13Ccarbonate was analyzed from the initial crushed sample. ∼0.5 mg of each sample was weighed on a Sartorius microbalance into a 12.5 mL Exetainer vials. The vials were then flushed with helium, and dissolved in phosphoric acid to liberate δ13Ccarbonate in the form of CO2 gas on a PAL auto sampler. CO2 gas was equilibrated at 25 ◦C for 18 h which is sufficient for most carbonates (Rosenbaum and Sheppard, 1986), however not for dolomite. This may result in incomplete dissolution, however, the presence of dolomite has only been recognized in the stromatolitic units (Rasbury personal communication), and likely is not an issue for the majority of the section. CO2 gas was then extracted via a gas bench connected to a ThermoFinnigan Delta Plus IRMS. δ13Ccarbonate was recorded in per mil ( ) relative to VPDB using standard δ notation and was calculated using the laboratory standard NBS-19 (1.94 ± 0.13 ). We note that we cannot confirm that we only sampled early micritic cements related to lacustrine processes because we did not make thin sections of the samples. However, if the organic C curve and the carbonate C curve show a correlation (positive or negative), it is likely that correlation is endogenous to the record and does not record late-stage diagenetic patterns. Nonetheless, thin sections and analysis of facing billets should be conducted.\nThe stratigraphic location of each sample within the WPM was plotted against δ13Corganic and δ13Ccarbonate to construct a carbon isotope curve for each measured section. Correlations were made among the sample sites to corroborate trends in the carbon isotope excursions for δ13Corganic and δ13Ccarbonate."
+  }, {
+    "heading": "3.2. Ichnotaxa biostratigraphy",
+    "text": "An additional section was measured west of the St. George Regional Airport off Warner Valley Road to place important ichnotaxa within stratigraphic context. The section, in what is known as “Olsen Canyon,” is the site of an in-situ Eubrontes track at its lowest stratigraphic occurrence in the Moenave Formation (Milner et al., 2012) (Fig. 2, 3). Thus, a section was measured from the Chinle Formation to the base of the Springdale Sandstone of the Kayenta Formation. In the process of measuring the section, an additional occurrence of Batrachopus was identified from the upper-middle DCM."
+  }, {
+    "heading": "3.3. Detrital zircon geochronology",
+    "text": "Two fine sandstones units were sampled for detrital zircon analysis. Sample WPRS-4 from Unit 10 of Kirkland et al. (2014)\nat the Whitmore Point Reference Section is from the upper DCM. Sample ZWP-2015 is from the middle sandstone of the WPM (Fig. 2, 3) in Black Canyon. It is important to note that Unit 10 of Kirkland et al. (2014) is considered a sandstone in the lower WPM by Tanner and Lucas (2010) (Fig. 3).\nSamples were crushed and separated via heavy mineral separation at the Isotope Geology Laboratory (IGL) at Boise State University. Sharply faceted zircon grains were annealed at 900 ◦C, mounted in epoxy, and polished. Internal zoning was imaged with cathodoluminescence. Zircon was ablated and normalized age probability plots were generated using a New Wave Research UP-213 Nd:YAG UV (213 nm) laser connected to a ThermoElectron X-Series II quadrupole inductively coupled plasma mass spectrometer (ICPMS). Eight of the youngest grains from WPRS-4 and five of the youngest grains from ZWP-2015 were then analyzed via chemical abrasion – isotope dilution – thermal ionization mass spectrometry (CA-ID-TIMS) using the Boise State University tracer solution. Details of the analytical procedures are given in supplemental materials (supplemental data 3 and Excel data tables)."
+  }, {
+    "heading": "4. Results",
+    "text": "δ13Corganic and δ13Ccarbonate results are illustrated in Fig. 4 (see supplemental materials for supporting data). WPRS δ13Corganic values range between a minimum of −30.26 and a maximum of −23.22 with an average of −25.38 . A distinct 5.5 NCIE oc-\ncurs from 9.86 m to 11.29 m with a minimum value at 10.6 m. This NCIE is followed by a positive carbon isotope excursion (PCIE) from 11.57 m to 13.95 m. A second subtle negative trend with a minimum of −26.23 is seen from 14.66 m to 26.44 m. Relative % organic C (%C in the decarbonated sample) ranges between 0.02 and 0.1%. Organic matter preservation (relative %C) is correlated in C-isotopic composition at an r2 = 0.6 (Fig. 5).\nWPRS δ13Ccarbonate record is similar to the δ13Corganic record. Values range between a minimum of −6.97 and a maximum of −2.77 with an average of −5.07 . A distinct NCIE of 2.75 occurs from 9.86 m to 12.92 m with a minimum value at 11.06 m of −6.77 . This NCIE is followed by a PCIE from 12.92 m to 15.35 m. A second negative trend is also seen in δ13Ccarbonate. This second negative shift shows a trend towards lighter values from 15.35 m to 26.44 m with a minimum value of −6.97 . CaCO3 preservation at Potter Canyon is not an influencing factor for the δ13Ccarbonate of the samples.\nBlack Canyon δ13Corganic samples range between a minimum of −31.21 and a maximum of −22.94 with an average of −27.32 (Fig. 4). There is a distinctive 2 decrease from 4.25 m to 5.00 m in an overall slightly increasing trend from 0 to 5.50 m with a minimum of −26.62. There is a thin positive CIE from 5.50–5.75 with a maximum of −24.3 . The overall trend of the record from −5.75 to the top of the section is a protracted negative CIE with exception of a positive spike at 15 m.\nBlack Canyon δ13Ccarbonate record is similar to the δ13Corganic. The δ13Ccarbonate values range between −6.40 and −1.75 and average −3.85 . The region between 4.25 and 5.00 m also exhibits a negative CIE but only a modest decrease of 0.8 with a minimum value of −3.92 . This is followed by a positive CIE from 5.50 to 6.25 m with a maximum value of −2.20 . Another NCIE occurs between 6.25 and 8.50 m with a minimum value of −3.70 which is not observed within the δ13Corganic record. The remainder of the record exhibits a gradually decreasing δ13C trend with the exception of a short positive CIE between 20.00 to 20.75 m with a minimum of −6.40 . The relative %C ranges between 0.02 and 0.20 and is not correlated to the C-isotopic composition of organic C.\nThe section at Olsen Canyon measured a total of 52.45 m with the DCM measuring 39.33 m and the WPM measuring 13.12 m. A single left Eubrontes track occurs at the top of unit 5 at 17.20 m (see supplemental data for unit descriptions). A left manus of Batrachopus was identified from a fallen block off unit 18 at approximately 36 m. Several isolated Grallator tracks are found throughout the section in both the DCM and the WPM (Fig. 4).\nA large proportion of sharply faceted zircon grains and the presence of one twined grain of zircon in sample WPRS-4 suggest most grains were transported short distances. Normalized probability plots of U–Pb zircon dates from the two samples suggest different sources for the two members (Fig. 6). Fifty-nine dates from WPRS-4 show a peak at 212 Ma while 36 dates from ZWP-2015 shows three peaks, between 203 to 245 Ma, at 315 Ma, and at 407 Ma. The four youngest grains from WPRS-4 analyzed by CA-ID-TIMS yield a 206Pb/238U weighted mean date of 201.33 ± 0.07/0.12/0.25 Ma (MSWD = 0.4, probability of fit = 0.72), where the X/Y/Z errors are: X = internal error, Y = error includ-\ning tracer calibration uncertainty, and Z = error including decay constant uncertainty, all given at 2σ . Sample analysis protocol follows that of Earthtime protocols. The Y error should be considered when comparing the date against those that used a different tracer solution and the Z should be considered when comparing against those using a different decay scheme, such as 40Ar–39Ar. Other grains yielded dates of 201.6 ± 0.2, 203.1 ± 0.2, 207.2 ± 0.1, and 211.8 ± 0.2 Ma. Thus, the maximum age of deposition of unit 10 in the WPRS, (3.86 m below the NCIE) is 201.33 ± 0.07/0.12 Ma. The youngest zircon grain from ZWP-2015 was broken into two pieces that yielded a weighted mean date of 201.28 ± 0.11/0.15/0.26 Ma (MSWD = 0.1, probability of fit = 0.79) for the middle sandstone at Black Canyon; 10.25 m above the NCIE. Other grains yielded dates of 201.7 ± 0.2, 202.3 ± 0.2, 208.3 ± 0.2, and 219.6 ± 0.2 Ma."
+  }, {
+    "heading": "5. Discussions",
+    "text": ""
+  }, {
+    "heading": "5.1. Local and global C-isotopes record and correlation",
+    "text": "The two sections analyzed can be correlated to each other based on the C-isotope profile as well as lithostratigraphy (Fig. 4). Although the NCIE in Black Canyon is not as pronounced as the initial NCIE in the WPRS, we correlate the lower NCIE in both sections to each other. The subsequent PCIE in both sections are correlated to each other and the protracted negative C-isotope intervals in both sections are also correlated to each other. This correlation based on the C-isotope profile matches well with the lithostratigraphy. In both sections the stromatiolitic layers are low in the section and encompass the initial negative C-isotope excursion and both the initial negative CIE and the positive CIE occur below the middle sandstone unit. The middle sandstone and upper shale units both are within the protracted negative C-isotope trend.\nAlthough it is tempting to correlate the −5.5 excursion to the initial NCIE that is correlated to the ETE in other C-isotope records, the negative isotope trend may be related to organic matter preservation. The relative %C for the −5.5 NCIE is correlated at an r2 = 0.6 suggesting a potential preservation bias (Fig. 5). For example, when lakes are highly productive, organic matter that is enriched in 12C gets buried rapidly causing a NCIE in the organic C record. However, this typically leaves the dissolved inorganic C record (carbonate C) enriched in 13C and a concomitant positive CIE in the carbonate record. Our record shows a NCIE in the δ13CCarbonate record so this is likely not the cause of the NCIE. The type of organic matter also can cause bias in the δ13C record. For example, lacustrine phytoplankton can be relatively lighter than terrestrial organic matter with modern lacustrine phytoplankton ranging between −42 to −26 while terrestrial C3 plants range between −32 to −20 (Leng and Marshall, 2004). However, this also\ndoes not account for the NCIE in the carbonate record. Preservation of organic matter can also cause biases in δ13C values. If organic matter is mostly composed of vitrinite which is more resistant to oxidation than liptinite which is more prone to alteration, then the bulk organic matter may be more enriched in 13C. For example in oxidized paleosols of the Paleocene–Eocene Big Horn Basin, sediments that were highly oxidized tended to preserve vitrinite over liptinite. Vitrinite is essentially cellulose and cellulose is enriched by ∼0.35 relative to bulk organic C. On the other hand, organic-rich units tended to have more liptinite (aliphatic compounds) preserved within the sediments and were depleted from bulk organic C by ∼1.25 (Bataille et al., 2013). In this case, if an increase in organic matter input to the lake in combination with lower oxygenated conditions causes preferential preservation of liptinite organic matter in unit 20, then a NCIE would be preserved. Again, this explanation cannot be used to also explain the NCIE in the carbonate record and the bias in organic matter type is less than 2 , 3 less that the excursion we document. Finally, several other NCIE occurs within the late Triassic to early Jurassic (Hüsing et al., 2014). It is possible this is still a global-scale NCIE such as the main NCIE in the Hettangian (assuming unit 20 is a condensed section) or a Milankovitch paced NCIE (Whiteside et al., 2011; Hüsing et al., 2014). Given the concomitant NCIE in the carbonate record, we prefer this explanation. Nonetheless, without molecular weight information (e.g. long versus short C-chain), organic petrography, and additional C-isotope chemostratigraphy of the DCM, we cannot verify the cause of the Moenave NCIE.\nThe two ages determined from detrital zircons of 201.33 ± 0.07/0.12 Ma from the upper sands of the DCM and 201.28 ± 0.11/0.15 Ma from the middle sandstone of the WPM are similar to other Triassic–Jurassic boundary section ages from western Pangea. A similar age (201.33 ± 0.13) from an ash overlying an NCIE was determined by Schoene et al. (2010) from New York Canyon, Nevada. The Moenave detrital zircons may be from the same volcanic source. Blackburn et al. (2013) used zircon U–Pb dates from CAMP lava flow and intrusive sills in combination with a previously published (Whiteside et al., 2011) astrochronological time scale for Newark Basin lacustrine strata that are interbedded with CAMP lava flows to date the ETE. By combining the data sets for the two and using a least squares optimization, they solved for an absolute date for the ETE of 201.564 ± 0.015/0.055/0.220. By using the weighted mean date from WPRS-4 and the maximum ETE data given the Y error (0.055), shows that the Blackburn et al. (2013) date for the ETE is 234 ka older and as little as 59 kya (taking into account tracer error) than the maximum age of WPRS-4 sandstone in the DCM. Doing the same for ZWP-2015 shows that the Blackburn et al. (2013) ETE age is 284 kya older than the maximum depositional age and as little as 79 kya older. This suggests that despite the co-occurrences of NCIE in both the organic C and carbonate C record, the NCIE is not the initial NCIE at the ETE and that the WPM NCIE is either the result of increased preservation of organic C or a NCIE that occurs in the Hettangian of the Jurassic."
+  }, {
+    "heading": "5.2. Correlation of global and Moenave magnetostratigraphy records",
+    "text": "The magnetostratigraphic work of Donohoo-Hurley et al. (2010) has proved problematic to correlate to our data. Their Potter Canyon section is almost twice the thickness of Kirkland et al. (2014). It is possible that they selected a different DCM-WPM contact; however, their first reversal is illustrated as being from a “limestone” in the base of the WPM. Kirkland et al. (2014) does describe a thin stromatolitic unit 3 cm in thickness (unit 21, see Fig. 2) at the base of the WPM, but it is hardly a prominent limestone unit. No section descriptions are given in Donohoo-Hurley et al. (2010) so without more information, we can only tentatively correlate their first reversal to the base of the WPM and a\nsecond reversal in the upper WPM. Based on the composite magnetostratigraphic record of the Moenave, Donohoo-Hurley et al. (2010) suggest that the WPRS reversal at the base of the WPM is correlated to the E23r of the latest Rhaetian (Kent and Olsen, 2008) just below the initial NCIE at the ETE. This is an impossible correlation given our detrital zircon age of the sandstone in the upper DCM that is no older than 201.33 Ma. The upper DCM sandstone is too young. The chronology of the magnetostratigraphy from the Newark–Hartford basin revised for the geochronology of basalt and gabbro from Blackburn et al. (2013) suggest that the E23r ranges in age from 201.584 to 201.589 Ma. A more lithostratigraphic approach to correlating all the paleomagnetic records of the Moenave (Fig. 7) is more suggestive of the magnetic reversal at Potter Canyon being one of the reversals in the Hettangian of the Jurassic; possibly the H24r, H25r, or H26r of the Newark-Harford Astronomically tuned geomagnetic polarity timescale (AGPTS) (Milner et al., 2012)."
+  }, {
+    "heading": "5.3. Ichnotaxa biostratigraphy",
+    "text": "The biostratigraphic record at Olsen Canyon also does not support the suggestion that the initial NCIE is the ETE NCIE. “PostETE” taxa Batrachopus, Eubrontes, and Anomoepus are found wellbelow the WPM. The lowest occurrence of Eubrontes is approximately 17.2 m above the contact with the Chinle Formation. This suggests the ETE is in the lower DCM. Although some occurrences of Eubrontes and Batrachopus have been reported in Triassic-aged strata (Bernardi et al., 2013; Lucas et al., 2006; Niedẑwiedzki, 2011), in North America, almost all occurrences are post-ETE, and all definitive occurrences post-date the ETE. Biogeographic provinciality could account for such occurrences. For example Whiteside et al. (2015) suggests increasing concentrations of atmospheric CO2, fluctuating seasonal extremes, and aridity in the low latitude of western Pangea restricted paleocommunities to non-dinosaurian pseudosuchians that had lower resource requirements than tachymetabolic dinosaurs that had their origins and persisted in the more temperate and humid high latitudes of Pangea in the late Triassic. With the exception of smaller-bodied carnivorous dinosaurs (track-maker of Grallator, found throughout the Moenave), larger dinosaurs with greater metabolic needs did not persist in the low latitudes in the late Triassic but could in the higher latitudes of the late Triassic resulting in the possible occurrence of Eubrontes-like tracks in Triassic strata. Instances of large theropod ichnotaxa such as Eubrontes and Kayentapus occurring in Triassic strata in higher paleolatitude sites in Australia, Africa, Europe, and Greenland may support this (Bernardi et al., 2013; Lucas et al., 2006; Niedẑwiedzki, 2011). When combining the C-isotope, detrital zircon or magnetostratigraphic data, it suggests the ETE is in the middle to lower DCM and the Triassic–Jurassic boundary is in the upper DCM."
+  }, {
+    "heading": "6. Significance of study",
+    "text": "The continental C-isotope record of western Pangea during the Late Triassic is relatively unknown. The focus of most C-isotope stratigraphy studies through Late Triassic to Early Jurassic strata has been within or adjacent to the Tethys Ocean and/or proximal to the CAMP basalts (Palfy et al., 2001; Hesselbo et al., 2002; Galli et al., 2005, 2007; Ruhl et al., 2009; Whiteside et al., 2010). Two studies (Ward et al., 2001; Guex et al., 2004) through marine strata from western Pangea document a C-isotope profile similar to Hesselbo et al. (2002). One study (Kürschner et al., 2013), primarily focused on the pollen record of the WPM, documents a 4 negative excursion in δ13Corganic from 14 samples dispersed through the section at Potter Canyon. Kürschner et al. (2013) interpreted\nthe excursion to represent the “main NCIE” in the Jurassic Hettangian from the St. Audrie’s Bay data set. Our study confirms this NCIE exists but cannot confirm whether it is the “main NCIE” or another Hettangian excursion. The data at least greatly expands the C-isotope record of terrestrial strata in western Pangea. Additional C-isotope chemostratigraphic work in the DCM needs to be completed to get a full record of the late Triassic–early Jurassic terrestrial C-isotope record. Although we do not document the initial NCIE (ETE) as we initially suspected, our dataset is the most robust terrestrial record from western Pangea (Ward et al., 2001; Guex et al., 2004; Kürschner et al., 2013) and lays the framework for further chronostratigraphic investigation which in turn will allow for paleoclimatic investigations of the impact of the CAMP on terrestrial extinction and environmental disturbances. For example, Kürschner et al. (2013) documents aberrant Classopollis pollen that indicates environmental mutagenesis from the WPM suggesting environmental stress persisted throughout the WPM. It is likely terrestrial biota reacted in some way to the rapid climate changes induced by the CAMP. Further investigation with high resolution geochronology (especially in the DCM), a focus on microfossils such as ostracodes and conchostracans from the Moenave, and paleoclimate proxy data collection is necessary to elucidate the relationship between the expression of the terrestrial\nversus marine ETE record and the C-cycle perturbations in both settings."
+  }, {
+    "heading": "7. Conclusions",
+    "text": "Carbon-isotope chemostratigraphy in combination with detrital zircon geochronology, magnetostratigraphy, and biostratigraphy of the WPM at Potter Canyon, Arizona and Black Canyon, Utah provides the first robust geochronologic evidence of the age of the Moenave Formation. Our data suggests the ETE occurs in the middle to lower Dinosaur Canyon Member of the Moenave Formation and the Triassic–Jurassic boundary occurs in the middle to upper Dinosaur Canyon or lower Whitmore Point Member. We document the first detrital zircon ages from the formation with a maximum depositional age of the upper sandstone of the DCM at the Whitmore Point Reference Section at Potter Canyon, AZ of 201.33 ± 0.07/0.12 Ma and the middle sandstone of the WPM at Black Canyon outside Zion National Park, UT of 201.28 ± 0.11/0.15 Ma. The C-isotope chemostratigraphic record suggests potential C-cycle perturbations with a significant (5.5. ) negative C-isotope excursion at the base of the WPM; however it does not correlate with the initial NCIE at the ETE. This C-isotope excursion may be related to later phases of the CAMP eruption or a preservation bias of higher percentage of organic matter. The need for a thorough\nC-isotope chemostratigraphic study of the DCM needs to be completed to determine if the initial NCIE is documented in terrestrial C-isotope records of western Pangea."
+  }, {
+    "heading": "Acknowledgements",
+    "text": "This work was funded by start-up funds to C. Suarez from the University of Arkansas Fulbright College of Arts and Sciences, the GSA Graduate Student grant (T. Knobbe), the Deep Carbon Observatory Diversity Grant (C. Suarez) from the American Geological Institute, and the Department of Geosciences at the University of Arkansas. We would also like to thank the University of Arkansas Stable Isotope Lab (Erik Pollock and Lindsey Conaway) for use of their facilities. The authors would also like to thank Don DeBlieux, Mike Lowe, and Stephanie Carney from the Utah Geological Survey for reviewing this manuscript. Samples were collected under Bureau of Land Management Permit UT16-017S to C. Suarez. The manuscript was greatly improved by detailed reviews from an anonymous reviewer and Dr. Paul Olsen of Colombia University and we are grateful for their thorough review and suggestions."
+  }, {
+    "heading": "Appendix A. Supplementary material",
+    "text": "Supplementary material related to this article can be found online at http://dx.doi.org/10.1016/j.epsl.2017.07.028."
+  }],
+  "year": 2017,
+  "references": [{
+    "title": "Influence of provenance and preservation on the carbon isotope variations of dispersed organic matter in ancient floodplain sediments",
+    "authors": ["C.P. Bataille", "M. Mastalerz", "B.J. Tipple", "G.J. Bowen"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2013
+  }, {
+    "title": "Biogeochemical constraints on the Triassic–Jurassic boundary carbon cycle event",
+    "authors": ["D.J. Beerling", "R.A. Berner"],
+    "venue": "Glob. Biogeochem. Cycles",
+    "year": 2002
+  }, {
+    "title": "Large tridactyl footprints associated with a diverse ichnofauna from the Carnian of the Southern Alps",
+    "authors": ["M. Bernardi", "F.M. Petti", "S.D. Porchetti", "M. Avanzini"],
+    "venue": "Bull., N. M. Mus. Nat. Hist. Sci",
+    "year": 2013
+  }, {
+    "title": "Zircon U–Pb geochronology links the end-Triassic extinction with the Central Atlantic",
+    "authors": ["T. Blackburn", "P.E. Olsen", "S.A. Bowring", "N.M. McLean", "D.V. Kent", "J. Puffer", "G. McHone", "E.T. Rasbury", "M. Et-Touhami"],
+    "venue": "Magmatic Province. Science. http://dx.doi.org/10.1126/science.1234204",
+    "year": 2013
+  }, {
+    "title": "Large igneous provinces and mass extinctions: an update",
+    "authors": ["D.P. Bond", "P.B. Wignall"],
+    "venue": "Geological Society of America Special Papers,",
+    "year": 2014
+  }, {
+    "title": "New constraints on using paleosols to reconstruct atmospheric pCO2",
+    "authors": ["J.M. Cotton", "N.D. Sheldon"],
+    "venue": "Geol. Soc. Am. Bull",
+    "year": 2012
+  }, {
+    "title": "Mass extinctions in the last 300 million years: one impact and seven flood basalts",
+    "authors": ["V. Courtillot"],
+    "venue": "Isr. J. Earth-Sci",
+    "year": 1994
+  }, {
+    "title": "Anatomy and global context of the North American Cordillera",
+    "authors": ["W.R. Dickinson"],
+    "venue": "Geol. Soc. Am. Mem",
+    "year": 2009
+  }, {
+    "title": "Magnetostratigraphy of the uppermost Triassic and lowermost Jurassic Moenave Formation, western United States: correlation with strata in the United Kingdom, Morocco, Turkey, Italy, and eastern United States",
+    "authors": ["L.L. Donohoo-Hurley", "J.W. Geissman", "S.G. Lucas"],
+    "venue": "Geol. Soc. Am",
+    "year": 2010
+  }, {
+    "title": "Anomalies in global carbon cycling and extinction at the Triassic/Jurassic boundary: evidence from a marine C-isotope record",
+    "authors": ["M.T. Galli", "F. Jadoul", "S.M. Bernasconi", "H. Weissert"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2005
+  }, {
+    "title": "Stratigraphy and paleoenvironmental analysis of the Triassic–Jurassic transition in the western Southern Alps (Northern Italy)",
+    "authors": ["M.T. Galli", "F. Jadoul", "S.M. Bernasconi", "S. Cirilli", "H. Weissert"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2007
+  }, {
+    "title": "High-resolution ammonite and carbon isotope stratigraphy across the Triassic–Jurassic boundary at New York Canyon (Nevada)",
+    "authors": ["J. Guex", "A. Bartolini", "V. Atudorei", "D. Taylor"],
+    "venue": "Earth Planet. Sci",
+    "year": 2004
+  }, {
+    "title": "Mass Extinctions and Their Aftermath",
+    "authors": ["A. Hallam", "P.B. Wignall"],
+    "year": 1997
+  }, {
+    "title": "Stratigraphy of the uppermost Triassic and the Jurassic rocks of the Navajo country",
+    "authors": ["J.W. Harshbarger", "C.A. Repenning", "J.H. Irwin"],
+    "year": 1957
+  }, {
+    "title": "Terrestrial and marine extinction at the Triassic–Jurassic boundary synchronized with major carboncycle perturbation: a link to initiation of massive volcanism? Geology",
+    "authors": ["S.P. Hesselbo", "S.A. Robinson", "F. Surlyk", "S. Piasecki"],
+    "year": 2002
+  }, {
+    "title": "CO2 control on carbon-isotope fractionation during aqueous photosynthesis: a paleo-pCO2 barometer",
+    "authors": ["D.J. Hollander", "J.A. McKenzie"],
+    "venue": "Geology",
+    "year": 1991
+  }, {
+    "title": "Astronomically-calibrated magnetostratigraphy",
+    "authors": ["S.K. Hüsing", "A. Beniest", "A. Van der Boon", "H.A. Abels", "M.H.L. Deenen", "M. Ruhl", "W. Krijgsman"],
+    "year": 2014
+  }, {
+    "title": "Rising atmospheric CO2 as a possible trigger for the end-Triassic mass extinction",
+    "authors": ["T.T. Huynh", "C.J. Poulsen"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2005
+  }, {
+    "title": "Early Jurassic magnetostratigraphy and paleolatitudes from the Hartford continental rift basin (eastern North America): testing for polarity bias and abrupt polar wander in association with the central Atlantic magmatic province",
+    "authors": ["D.V. Kent", "P.E. Olsen"],
+    "venue": "J. Geophys. Res",
+    "year": 2008
+  }, {
+    "title": "The Whitmore Point Member of the Moenave Formation in its type area in northern Arizona and its age and correlation with the section in St. George, Utah: evidence for two major lacustrine sequences",
+    "authors": ["J.I. Kirkland", "A.R.C. Milner", "P.E. Olsen", "J.E. Hargrave"],
+    "venue": "Utah Geol. Assoc",
+    "year": 2014
+  }, {
+    "title": "Aberrant Classopollis pollen reveals evidence for unreduced (2n) pollen in the conifer family Cheirolepidiaceae during the Triassic–Jurassic transition",
+    "authors": ["W.M. Kürschner", "S.J. Batenburg", "L. Mander"],
+    "venue": "Proc. R. Soc. B 280",
+    "year": 2013
+  }, {
+    "title": "Palaeoclimate interpretation of stable isotope data from lake sediment archives",
+    "authors": ["M.J. Leng", "J.D. Marshall"],
+    "venue": "Quat. Sci. Rev",
+    "year": 2004
+  }, {
+    "title": "Triassic–Jurassic stratigraphic distribution of the theropod footprint ichnogenus Eubrontes",
+    "authors": ["S.G. Lucas", "H. Klein", "M.G. Lockley", "J.A. Spielmann", "G. Gierlinski", "A.P. Hunt", "L.H. Tanner"],
+    "venue": "Bull., N. M. Mus. Nat. Hist. Sci",
+    "year": 2006
+  }, {
+    "title": "Position of the Triassic–Jurassic Boundary and Timing of the End-Triassic Extinctions on Land: Data from the Moenave",
+    "authors": ["S.G. Lucas", "L.H. Tanner", "L.L. Donohoo-Hurley", "J.W. Geissman", "H.W. Kozur", "A.B. Heckert", "R.E. Weems"],
+    "venue": "Formation on the Southern Colorado Plateau, USA,",
+    "year": 2011
+  }, {
+    "title": "End-Triassic nonmarine biotic events",
+    "authors": ["S.G. Lucas", "L.H. Tanner"],
+    "venue": "J. Palaeogeogr",
+    "year": 2015
+  }, {
+    "title": "Extensive 200-million-year-old continental flood basalts of the Central Atlantic",
+    "authors": ["A. Marzoli", "P.R. Renne", "E.M. Piccirillo", "M. Ernesto", "G. Bellieni", "A. De Min"],
+    "venue": "Magmatic Province. Science",
+    "year": 1999
+  }, {
+    "title": "Timing and duration of the Central Atlantic magmatic province in the Newark and Culpepper basins, eastern U.S.A",
+    "authors": ["A. Marzoli", "F. Jourdan", "J.H. Puffer", "T. Cuppone", "L.H. Tanner", "R.E. Weems", "H. Bertrand", "S. Cirilli", "G. Bellieni", "A. De Min"],
+    "venue": "Lithos",
+    "year": 2011
+  }, {
+    "title": "Fossil plants and global warming at the Triassic–Jurassic boundary",
+    "authors": ["J.C. McElwain", "D.J. Beerling", "F.I. Woodward"],
+    "venue": "Science 285,",
+    "year": 1999
+  }, {
+    "title": "Volatile Emissions from Central Atlantic Magmatic Province Basalts: Mass Assumptions and Environmental Change",
+    "authors": ["J.G. McHone"],
+    "venue": "AGU Monograph",
+    "year": 2003
+  }, {
+    "title": "Tracking early Jurassic dinosaurs across the southwestern Utah and the Triassic–Jurassic transition",
+    "authors": ["A.R.C. Milner", "T.A. Birthisel", "J.I. Kirkland", "B.H. Breithaupt", "N.A. Matthews", "M.G. Lockley", "V.L. Santucci", "S.Z. Gibson", "D.D. Deblieux", "M. Hurlbut", "J.D. Harris", "P.E. Olsen"],
+    "venue": "Nevada State Museum Paleontological Papers,",
+    "year": 2012
+  }, {
+    "title": "A Late Triassic dinosaur-dominated ichnofauna from the Tomanová Formation of the Tatra Mountains, central Europe",
+    "authors": ["G. Niedẑwiedzki"],
+    "venue": "Acta Palaeontol. Polon",
+    "year": 2011
+  }, {
+    "title": "Chronology of the Central Atlantic Magmatic Province: implications for the Central Atlantic rifting processes and the Triassic– Jurassic biotic crisis",
+    "authors": ["S. Nomade", "K.B. Knight", "E. Beutal", "P.R. Renne", "C. Verati", "G. Feraud", "A. Marzoli", "N. Youbi", "H. Bertrand"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2007
+  }, {
+    "title": "Carbon isotope anomaly and other geochemical changes at the Triassic–Jurassic boundary from a marine section in Hungary",
+    "authors": ["J. Palfy", "A. Demeny", "J. Haas", "M. Hetenyi", "M.J. Orchard", "I. Veto"],
+    "venue": "Geology",
+    "year": 2001
+  }, {
+    "title": "Flood basalt volcanism during the past 250 million years",
+    "authors": ["M.R. Rampino", "R.B. Stothers"],
+    "venue": "Science",
+    "year": 1988
+  }, {
+    "title": "Periodicity of extinctions in the geologic past",
+    "authors": ["D.M. Raup", "J.J. Sepkoski"],
+    "venue": "Proc. Natl. Acad. Sci. USA",
+    "year": 1984
+  }, {
+    "title": "An isotopic study of siderites, dolomites and ankerites at high temperatures",
+    "authors": ["J. Rosenbaum", "S.M.F. Sheppard"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1986
+  }, {
+    "title": "Triassic–Jurassic organic carbon isotope stratigraphy of key sections in the western Tethys realm (Austria)",
+    "authors": ["M. Ruhl", "W.M. Kürschner", "L. Krystyn"],
+    "venue": "Earth Planet. Sci",
+    "year": 2009
+  }, {
+    "title": "Astronomical constraints on the duration of the early Jurassic Hettangian stage and recovery rates following the end-Triassic mass extinction (St Audrie’s Bay/East Quantoxhead",
+    "authors": ["M. Ruhl", "M.H.L. Deenen", "H.A. Abels", "N.R. Bonis", "W. Krijgsman", "W.M. Kürschner"],
+    "venue": "UK). Earth Planet. Sci",
+    "year": 2010
+  }, {
+    "title": "Earth at 200 Ma: global palaeogeography refined from CAMP palaeomagnetic data",
+    "authors": ["V.C. Ruiz-Martinez", "T.H. Torsvik", "D.J.J. van Hinsbergen", "C. Gaina"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2012
+  }, {
+    "title": "Carbon isotope chemostratigraphy",
+    "authors": ["M.R. Saltzman", "E. Thomas"],
+    "venue": "The Geologic Time Scale,",
+    "year": 2012
+  }, {
+    "title": "Atmospheric pCO2 perturbations associated with the Central Atlantic magmatic province",
+    "authors": ["M.F. Schaller", "J.D. Wright", "D.V. Kent"],
+    "venue": "Science",
+    "year": 2011
+  }, {
+    "title": "Rapid emplacement of the Central Atlantic magmatic province as a net sink for CO2",
+    "authors": ["M.F. Schaller", "J.D. Wright", "D.V. Kent", "P.E. Olsen"],
+    "venue": "Earth Planet. Sci. Lett. 323–324,",
+    "year": 2012
+  }, {
+    "title": "A 30 Myr record of Late Triassic atmospheric ρCO2 variation reflects a fundamental control of the carbon cycle by changes in continental weathering",
+    "authors": ["M.F. Schaller", "J.D. Wright", "D.V. Kent"],
+    "venue": "Geol. Soc. Am. Bull. http://dx.doi.org/",
+    "year": 2014
+  }, {
+    "title": "Correlating the end-Triassic mass extinction and flood basalt volcanism at the 100 ka level",
+    "authors": ["B. Schoene", "J. Guex", "A. Bartolini", "U. Schaltegger", "T. Blackburn"],
+    "venue": "Geology 38,",
+    "year": 2010
+  }, {
+    "title": "Stable isotope chemostratigraphy in lacustrine strata of the Xiagou Formation, Gansu Province, NW China",
+    "authors": ["M.B. Suarez", "G.A. Ludvigson", "L.A. Gonzalez", "A.H. Al-Suwaidii", "You", "H-L"],
+    "venue": "Geol. Soc. Lond",
+    "year": 2013
+  }, {
+    "title": "The Whitmore Point Member of the Moenave Formation: early Jurassic dryland lakes on the Colorado Plateau, southwestern USA",
+    "authors": ["L.H. Tanner", "S.G. Lucas"],
+    "venue": "Vol. Jurassica",
+    "year": 2009
+  }, {
+    "title": "Deposition and deformation of fluvial-lacustrine sediments of the Upper Triassic-Lower Jurassic Whitmore Point Member, Moenave Formation, northern Arizona",
+    "authors": ["L.H. Tanner", "S.G. Lucas"],
+    "venue": "Sediment. Geol",
+    "year": 2010
+  }, {
+    "title": "Sudden productivity collapse associated with the Triassic–Jurassic boundary mass extinction",
+    "authors": ["P.D. Ward", "J.W. Haggart", "E.S. Carter", "D. Wilbur", "H.W. Tipper", "T. Evans"],
+    "venue": "Science 292,",
+    "year": 2001
+  }, {
+    "title": "Compound-specific carbon isotopes from Earth’s largest flood basalt eruptions directly linked to the end-Triassic mass extinction",
+    "authors": ["J.H. Whiteside", "P.E. Olsen", "T. Eglinton", "M.E. Brookfield", "R.N. Sambrotto"],
+    "venue": "Proc. Natl. Acad. Sci. USA",
+    "year": 2010
+  }, {
+    "title": "Pangean great lake paleoecology on the cusp of the end-Triassic extinction",
+    "authors": ["J.H. Whiteside", "P.E. Olsen", "T.I. Eglinton", "B. Cornet", "N.G. McDonald", "P. Huber"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2011
+  }, {
+    "title": "Extreme ecosystem instability suppressed tropical dinosaur dominance for 30 million years",
+    "authors": ["J.H. Whiteside", "S. Lindström", "R.B. Irmis", "I.J. Glasspool", "M.F. Schaller", "M. Dunlavey", "S.J. Nesbitt", "N.D. Smith", "A.H. Turner"],
+    "venue": "Proc. Natl. Acad",
+    "year": 2015
+  }, {
+    "title": "Large igneous provinces and mass extinctions",
+    "authors": ["P.B. Wignall"],
+    "venue": "Earth-Sci. Rev",
+    "year": 2001
+  }, {
+    "title": "Whitmore Point, a new member of the Moenave Formation in Utah and Arizona",
+    "authors": ["R.F. Wilson"],
+    "year": 1967
+  }],
+  "id": "SP:0e9fd8323019631af51cefadd14a5a73966ae4a7",
+  "authors": [{
+    "name": "Celina A. Suarez",
+    "affiliations": []
+  }, {
+    "name": "Todd K. Knobbe",
+    "affiliations": []
+  }, {
+    "name": "James L. Crowley",
+    "affiliations": []
+  }, {
+    "name": "James I. Kirkland",
+    "affiliations": []
+  }, {
+    "name": "Andrew R.C. Milner",
+    "affiliations": []
+  }],
+  "abstractText": "a Department of Geosciences, University of Arkansas, 216 Ozark Hall, Fayetteville, AR 72701, USA b Department of Geosciences, 1910 University Drive, Boise State University, Boise, ID 83725-1535, USA c Utah Geological Survey, 2594 West North Temple, P.O. Box 146100, Salt Lake City, UT 84114, USA d St. George Dinosaur Discovery Site at Johnson Farm, 2180 East Riverside Drive, St. George, UT 84790, USA",
+  "title": "A chronostratigraphic assessment of the Moenave Formation, USA using C-isotope chemostratigraphy and detrital zircon geochronology: Implications for the terrestrial end Triassic extinction"
+}

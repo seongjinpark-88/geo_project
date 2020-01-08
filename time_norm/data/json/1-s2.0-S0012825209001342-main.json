@@ -1,0 +1,1318 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nEarth-Science Reviews\nj ourna l homepage: www.e lsev ie r.com/ locate /earsc i rev\nEnd member models for Andean Plateau uplift\nJ.B. Barnes ⁎, T.A. Ehlers 1\nDepartment of Geological Sciences, University of Michigan, 1100N. University Ave, Ann Arbor, MI 48109-1005, USA\n⁎ Corresponding author. Department of Geography & fax: +44 191 33 41801.\nE-mail address: jason.barnes@durham.ac.uk (J.B. Bar 1 Present address: Institut für Geowissenschaften, Un\n0012-8252/$ – see front matter © 2009 Elsevier B.V. Al doi:10.1016/j.earscirev.2009.08.003\na b s t r a c t a r t i c l e i n f o\nArticle history: Received 10 January 2009 Accepted 31 August 2009 Available online 17 September 2009\nKeywords: orogenic plateaus plateau uplift South America Andes central Andes Altiplano Puna\nDiverse techniques have been applied over the past decade to quantify the uplift history of the central Andean Plateau (AP). In this study, opposing models for surface uplift are evaluated including: a rapid rise of ∼2.5 km ∼10–6 Ma and a slow and steady rise since ∼40 Ma. These end member models are evaluated by synthesizing observations of the AP lithosphere and the history of deformation, sedimentation, exhumation, magmatism, uplift, and fluvial incision. Structural and geophysical studies estimate variable shortening magnitudes (∼530–150 km) involving cover-to-basement rocks, an isostatically-compensated thick crust (∼80–65 km), high heat flow, and zones of variable velocity and attenuation in the crust and mantle. These observations have invoked interpretations such as a hot/weak lithosphere, partial melt, crustal flow, and perhaps current, localized delamination, but do not provide strong support for massive delamination required by the rapid uplift model. Deformation and associated exhumation began ∼60–40 Ma and generally migrated eastward with consistent long-term average shortening rates (∼12–8 mm/yr) in Bolivia, favoring the slow uplift model. Volcanic and helium isotope evidence show an AP-wide zone of shallow mantle melting and thin lithosphere that has existed since ∼25 Ma, which is inconsistent with the rapid rise model that suggests lithospheric thinning occurred 10–6 Ma. Paleoaltimetry data suggest a rapid ∼2.5 km elevation gain 10 to 6 Ma, but are equally consistent within error with a linear rise since ≥25 Ma. Widespread fluvial incision (2.5–1 km) occurred along the western flank since ∼11–8 Ma and may be associated with surface uplift as proposed by the rapid rise model. However, the paleoaltimetry and incision data can also be explained by regional climate change associated with plateau uplift. Implications of these results for reconstructions of AP evolution are that: (1) substantial deformation of a weak lithosphere is essential, (2) AP growth has taken significantly longer (≥40Myr) and was more uniform along strike (∼1500 km) than previously appreciated, and (3) the slow and steady uplift model is most consistent with available constraints. We conclude that the rapid uplift model may be an overestimate and that a more protracted Cenozoic uplift history is tenable.\nInstitute of Hazard and Risk Research, Durham Univers\nnes). iversität Tübingen, D-72074, Germany.\nl rights reserved.\n© 2009 Elsevier B.V. All rights reserved.\nContents\n1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 106 2. Geologic setting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 106 3. Rapid and recent vs. slow and steady deformation and uplift . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 108\n3.1. Geologic model 1: Punctuated deformation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 109 3.2. Geologic model 2: Continuous deformation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 109 3.3. End member uplift model 1: Rapid and recent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110 3.4. End member uplift model 2: Slow and steady . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110\n4. Cenozoic structure and evolution of the Andean Plateau . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110 4.1. Structure of the lithosphere . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110\n4.1.1. Structure of the upper crust . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110 4.1.2. Structure of the crust and mantle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112\n4.2. Cenozoic deformation history . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 113 4.3. Cenozoic exhumation history. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 115 4.4. Cenozoic volcanic history and helium geochemistry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 116\nity, South Road, Durham, DH1 3LE, UK. Tel.: +44 191 33 43502;\n4.5. Cenozoic uplift history . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118 4.5.1. Significant uplift pre-late Miocene (10 Ma) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118 4.5.2. Most uplift since the late Miocene (∼10–0 Ma) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118 4.5.3. Most uplift since the latest Oligocene (∼25–0 Ma). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 119 4.5.4. Integrated uplift history . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 119\n4.6. Cenozoic incision history . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120 5. Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 122\n5.1. Synoptic history of Andean Plateau (AP) evolution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 122 5.2. Evaluation of the two geologic models for Andean Plateau (AP) development . . . . . . . . . . . . . . . . . . . . . . . . . . . . 123 5.3. Evaluation of the recent and rapid uplift model . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 123 5.4. Evaluation of the slow and steady uplift model . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 124\n6. Comparison of Andean observations with geodynamic models. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 124 7. Deficiencies in knowledge and future tests of uplift models . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 124 8. Conclusions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 125 Acknowledgements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 127 References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 127"
+  }, {
+    "heading": "1. Introduction",
+    "text": "The plateaus of Tibet and the central Andes are the largest tectonically active orogens. Despite this, the topographic, tectonic, and geodynamic evolution of orogenic plateaus remain imprecisely known and the focus of significant research. These plateaus are thought to influence local-to-far-field lithospheric deformation as well as global sediment flux, ocean chemistry, atmospheric circulation, precipitation, and climate change (Richter et al., 1992; Molnar et al., 1993; Masek et al., 1994; Lenters and Cook, 1995; Royden, 1996; Ruddiman et al., 1997; Sobel et al., 2003). In particular, numerous geologic observations have constrained the tectonomorphic evolution of the central Andean Plateau (see summaries in Isacks, 1988; Reutter et al., 1994; Allmendinger et al., 1997; Jordan et al., 1997; Kley et al., 1999; Gregory-Wodzicki, 2000; Kennan, 2000; Ramos et al., 2004; Barnes and Pelletier, 2006; Oncken et al., 2006b; Strecker et al., 2007; Kay and Coira, 2009), yet its history of uplift and consequently the associated geodynamic mechanisms of plateau development remain disputed (Garzione et al., 2006; Ghosh et al., 2006; Sempere et al., 2006; Garzione et al., 2007; Hartley et al., 2007; Hoke and Lamb, 2007; Ehlers and Poulsen, 2009).\nA range of processes have been proposed for Andean Plateau (AP) growth (Fig. 1). These include: (1) magmatic addition (Thorpe et al., 1981; Kono et al., 1988), (2) distributed shortening (Isacks, 1988; Sheffels, 1995; Kley and Monaldi, 1998; McQuarrie, 2002b; Riller and Oncken, 2003; Gotberg et al., in press), (3) spatio-temporal variations in upper plate properties, plate interface, and subduction geometry (Jordan et al., 1983; Isacks, 1988; Gephart, 1994; Allmendinger and Gubbels, 1996; Kley et al., 1999; McQuarrie, 2002a; Lamb and Davis, 2003; Hoke and Lamb, 2007), (4) ablative subduction, crustal flow, and delamination (Kay et al., 1994; Lamb and Hoke, 1997; Pope and Willett, 1998; Husson and Sempere, 2003; Garzione et al., 2006; Schildgen et al., 2007), (5) cratonic under-thrusting (Lamb and Hoke, 1997), and (6) spatio-temporal erosion gradients (Masek et al., 1994; Horton, 1999; Montgomery et al., 2001; Barnes and Pelletier, 2006; Strecker et al., 2007; McQuarrie et al., 2008b; Strecker et al., 2009). Previous progress in AP studies has eliminated processes like magmatic addition as important (e.g. Sheffels, 1990; Francis and Hawkesworth, 1994; Giese et al., 1999) and stressed the significance of shortening, thermal weakening, extrusion, and lithospheric thinning for plateau formation (e.g. Allmendinger et al., 1997; McQuarrie, 2002b; Willett and Pope, 2004). Furthermore, numerical models can reproduce first-order Andean Plateau-like morphologies when accounting for temperature-dependent viscosity variations in a thickening crust (Willett et al., 1993; Wdowinski and Bock, 1994b; Willett and Pope, 2004; Sobolev and Babeyko, 2005).\nDespite these advances, the history of Andean Plateau surface uplift remains controversial. Resolving the uplift history is difficult because (1) inferringuplift fromobservations of shortening is difficult and rarely\nquantified (Jordan et al., 1997) as well as potentially inaccurate if deformation and uplift are decoupled, and (2) uncertainties associated with direct observations of the elevation history using paleoaltimetry techniques are often substantial (e.g. ±≥1000 m, Gregory-Wodzicki, 2000). Furthermore, numerical models of plateau formation are limited by inadequate knowledge of the kinematics, timing, and rates of AP deformation and uplift as well as variability in the kinematic and chronologic history along strike. Shortcomings in our present understanding of central Andes evolution are, in part, the result of both a tendency to apply local solutions to the entire plateau and a lack of integration of all available data into testing models of AP growth.\nThe goal of this study is to test two endmember models of Andean Plateau uplift by integrating a range of geologic observations that constrain its Cenozoic history. The end member models for uplift considered are: (1) a rapid and recent rise whereby ∼2.5 km of elevation (>1/2 the current plateau height) was obtained during the late Miocene (∼10 to 6 Ma) (Garzione et al., 2006) vs. (2) a slow and steady rise inferred to be commensurate with deformation (e.g. after Jordan et al., 1997) which began in the Paleocene–Eocene (∼60– 40 Ma) (e.g. McQuarrie et al., 2005). These models are evaluated by synthesizing the following constraints into a synoptic history: (1) the current structure of the lithosphere deduced from mapping, balanced cross sections, and geophysical studies, (2) the deformation history inferred from sedimentary basins, geochronology, and associated upper-crustal structures, (3) the deformation history estimated from rock exhumation, (4) the evolution of the mantle lithosphere and subduction geometry inferred from chronology and geochemistry of magmatism and helium emissions, (5) the uplift history constrained by marine sediments, paleobotany, biotaxa changes, paleoclimate proxies, erosion surfaces, and stable isotope paleoaltimetry, and (6) the history of fluvial incision into the plateau margins quantified from geomorphic, stratigraphic, and thermochronologic analyses. Within each section, we summarize the observations and highlight key consistencies, inconsistencies, interpretations and caveats. This study builds upon previous work by including: (a) reference to the large amount of literature published in the last decade, and (b) a wide variety of Earth Science disciplines that are not all integrated in previous reviews. The most important conclusions are that: (1) significant upper-plate deformation within a weak lithosphere is essential to AP growth, (2) AP development has taken significantly longer and was more uniform along strike than previously appreciated, and (3) the slow and steady end member uplift model is more consistent with available constraints."
+  }, {
+    "heading": "2. Geologic setting",
+    "text": "The central Andean (or Altiplano–Puna) Plateau (AP) is defined as the region >3 km in elevation in the core of the Andes at ∼14–28°S in western South America (Fig. 1) (Isacks, 1988; Allmendinger et al.,\n1997). The AP spans ∼1800 km north to south and ∼200–450 km west to east. The AP overrides a normal, east-dipping (∼30°) portion of the subducting Nazca plate between zones of flat slab subduction (Figs. 1 and 2). Cenozoic normal-to-oblique, E-directed subduction (e.g. Doglioni et al., 2007) in the central Andes has produced considerable magnitude and latitudinal variability in shortening (∼530–150 km) that has both bent the Bolivian orocline and contributed to AP uplift (Fig. 1A) (Isacks, 1988; McQuarrie, 2002a). Neogene magmatism is distributed throughout both plateau flanks with Pliocene to recent volcanism concentrated along its western flank and non-existent above the flat slab zones to the north and south (Figs. 1 and 3) (e.g. de Silva, 1989a). Crust and mantle thicknesses beneath the plateau range from ∼50–75 km and from 100–150 km, respectively (Beck et al., 1996; Whitman et al., 1996; Myers et al.,\n1998; Beck and Zandt, 2002). The AP is morphologically divided into the northern Altiplano (∼3.7 km elevation, low relief) and the southern Puna (∼4.2 km elevation, higher relief) (Fig. 1C).\nThe central Andes are divided into several tectonomorphic zones. From west to east they are: the Precordillera (PrC), the Western Cordillera (WC), the Altiplano–Puna (AL/PU) basin, the Eastern Cordillera (EC), the Interandean zone (IA), and the Subandes (SA)/ Santa Barbara Ranges (SB)/Sierras Pampeanas (SP) (Fig. 2A). The PrC andWC constitute the western AP flank, which is a faulted (Muñoz and Charrier, 1996; Victor et al., 2004), crustal-scale monocline of westdipping Neogene sediments (Hoke et al., 2007). The PrC includes the Atacama basin which forms awestward concave bend in the APmargin at∼23°S (Jordanet al., 2007). TheWC is themodern volcanic arc and the western drainage divide of the Altiplano–Puna basin (Figs. 2 and 3). The\nAltiplano–Punabasin is the center of theAP and ismade up of low-relief, closed depocenters filled with Cenozoic sediments, evaporates, and volcanics (Figs. 2 and 3) (e.g. Sobel et al., 2003; Placzek et al., 2006; Strecker et al., 2007). The eastern APmargin is occupied by the thick-tothin skinned central Andean fold–thrust belt (AL/EC/IA/SA) (e.g. McQuarrie, 2002b). The EC is the highest relief zone consisting of deformed Paleozoic sediments and Precambrian metamorphic rocks with overlying Cenozoic volcanics and is the eastern Altiplano–Puna drainage divide (Figs. 1B and 3). North of ∼23°S, the IA and SA step progressively downwards in topographic elevation and upwards in structural depth eastward exposingmostlyDevonian andCarboniferous through Mesozoic and Cenozoic rocks, respectively (Figs. 2 and 3) (e.g. Kley, 1996;McQuarrie, 2002b). South of ∼23°S, the IA and SA transition into high angle, reverse-faulted ranges and basement-cored uplifts of the Santa Barbara Ranges (Kley and Monaldi, 2002) and Sierras Pampeanas (Schmidt et al., 1995; Ramos et al., 2002) (Figs. 2 and 3). The morphological and structural transition from Altiplano to Puna is related to Precambrian to Mesozoic paleogeography and changes in the\nsubduction geometry and lithospheric thickness (Allmendinger et al., 1997 and references therein)."
+  }, {
+    "heading": "3. Rapid and recent vs. slow and steady deformation and uplift",
+    "text": "Recent debate about the history of AP uplift highlights inconsistencies between the documented deformation and surface uplift history (Eiler et al., 2006; Garzione et al., 2006; Ghosh et al., 2006; Sempere et al., 2006; Garzione et al., 2007; Hartley et al., 2007). Current and contrasting geologic and uplift models for the AP provide an important framework for how the various data sets are synthesized in this paper to address this debate. Here we outline two current geologic models and two end member uplift models of AP evolution. We note a third geologic model also exists that emphasizes the Nazca–South American plate dynamics and interface (Oncken et al., 2006a), but does not support either uplift model and hence we exclude further description here for brevity yet include it in the discussion later in Section 5."
+  }, {
+    "heading": "3.1. Geologic model 1: Punctuated deformation",
+    "text": "Early characterization of Andean orogeny identified several major punctuated deformation events: the late Cretaceous Peruvian, the late Eocene Incaic, and the late Miocene Quechua phases (Megard, 1987; Sempere et al., 1990; Noblet et al., 1996). The latter two deformation phases correlate with periods of rapid plate convergence reconstructed from seafloor magnetic anomalies and reconstructions of the western coastline (James and Sacks, 1999). Isacks (1988) proposed an AP geologic model consistent with these notions that has two distinct stages. Stage 1 is pure shear, late Oligo-Miocene (∼27–10 Ma) Quechua deformation and thickening in the Altiplano and Eastern Cordillera accompanied by lithospheric weakening due to lowerangle subduction hydrating the overlying mantle lithosphere. During this stage, processes supposedly responsible for surface uplift\nincluded shortening and lower crustal flow (Husson and Sempere, 2003). Stage 2 is late Miocene to present (∼10–0 Ma) simple shear deformation in the Subandes contemporaneous with lower crust thickening below the plateau (see also Gubbels et al., 1993; Allmendinger and Gubbels, 1996) and return to normal subduction geometry. During this stage, uplift is related to underplating of forearc material (Baby et al., 1997), lithospheric removal (e.g. Kay et al., 1994; Allmendinger et al., 1997), and under-thrusting of the Brazilian craton below the foreland (e.g. Barke and Lamb, 2006)."
+  }, {
+    "heading": "3.2. Geologic model 2: Continuous deformation",
+    "text": "An alternative geologic model of central Andean orogenesis is characterized by mostly continuous simple shear deformation over a considerably longer time period (e.g. Noblet et al., 1996; Hartley et al.,\n2000; McQuarrie et al., 2005). This view is advocated by recent estimates on the magnitudes, timing, and rates of shortening, exhumation, and foreland basin migration combined with kinematic reconstructions of the central Andean fold–thrust belt (McQuarrie, 2002b; DeCelles and Horton, 2003; Elger et al., 2005; Horton, 2005; Ege et al., 2007; Barnes et al., 2008; McQuarrie et al., 2008a) and Eocene sediments within the Puna (Carrapa and DeCelles, 2008). This model describes dominantly eastward-propagating deformation starting in the late Cretaceous–Paleocene (∼70 Ma) in the WC and moving to the EC in the mid-Eocene (∼40 Ma). Deformation then became bi-vergent and propagated into the AL and IA during the Oligocene to mid-Miocene (∼20–15 Ma). Deformation eventually moved farther east into the SA by the mid-Miocene to present (∼15– 0 Ma). The overall eastward propagation is consistent with the idea that orogens expand at their low topography margins because that is where the lithostatic load is minimum and the differential stress regime is most favorable for rock failure (Carminati et al., 2004). When combined with geodynamic models, this protracted deformation chronology has led to the suggestion that thickening and shortening facilitated removal of mantle lithosphere by ablative subduction and/or piecemeal delamination resulting from the return of mantle wedge corner flow associated with slab roll back (Pope and Willett, 1998; Beck and Zandt, 2002; McQuarrie et al., 2005). We emphasize that this continuous deformation model applies at the scale of the AP (10s Myr, 100–1000s km) and therefore allows for smaller-scale (Myr, 10s km) variations in space and time."
+  }, {
+    "heading": "3.3. End member uplift model 1: Rapid and recent",
+    "text": "Recent AP paleoaltimetry data combined with preserved paleosurfaces, flexural analysis, and estimates of mantle viscosity and deviatoric stresses have been used to advance a model of surface uplift characterized by a rapid and recent rise of ∼2.5 km during the late Miocene (∼10–6 Ma) triggered by large-scale mantle delamination of eclogized lower crust (Garzione et al., 2006; Ghosh et al., 2006; Molnar and Garzione, 2007; Garzione et al., 2008b; Hoke and Garzione, 2008). The fundamental implication of this model is that AP deformation and surface uplift are decoupled. This model predicts (and identifies supporting evidence for) at ∼10Ma: (a) a geomorphic response to the rapid uplift in the formof plateau flank incision, and (b) that rapid uplift coincided with a decrease in the rate of Nazca–South America plate convergence, a cessation of deformationwithin the Altiplano, and initial propagation of deformation and enhanced shortening rates in the SA (e.g. Garzione et al., 2006; Ghosh et al., 2006)."
+  }, {
+    "heading": "3.4. End member uplift model 2: Slow and steady",
+    "text": "Significant geologic evidence as well as alternative interpretations of the paleoaltimetry data has been used to propose that AP rise was slow and steady since the late Eocene (∼40 Ma) if not earlier (e.g. Elger et al., 2005; McQuarrie et al., 2005; Hoke and Lamb, 2007; Ehlers and Poulsen, 2009). The fundamental difference of this model is that deformation and surface uplift are coupled because the dominant mode of Andean crustal thickening is shortening (e.g. Jordan et al., 1997). The main arguments for this model are that (a) substantial sedimentological, structural, and volcanic observations show significant pre-late Miocene deformation which implies substantial crustal thickness and presumably some elevation prior to 20–10 Ma (Sempere et al., 2006; Hartley et al., 2007), (b) within error, the paleoaltimetry data are not very precise (e.g. Hartley et al., 2007), and (c) the older stable-isotope based paleoaltimetry samples may be underestimates of the true paleoelevation due to such effects as seasonality and evaporative enrichment (Hartley et al., 2007), burial diagenesis (Sempere et al., 2006), and/or past climate change as the plateau grew to its current height (Ehlers and Poulsen, 2009). Responses to these concerns have been provided for evaporative\nenrichment (Garzione et al., 2007) and burial diagenesis (Eiler et al., 2006). Finally, it is possible delamination was cyclic and hence uplift has been coupled to shortening, crustal thickening, and lithospheric removal over 10s Myr timescales (DeCelles et al., 2009)."
+  }, {
+    "heading": "4. Cenozoic structure and evolution of the Andean Plateau",
+    "text": "In this section, we summarize, illustrate, and tabulate previous AP studies into the following subsections: (1) present-day lithospheric structure and the Cenozoic history of: (2) deformation and sedimentation, (3) exhumation, (4) magmatism and geothermal helium emissions, (5) uplift, and (6) fluvial incision. In each subsection, we synthesize the observations, outline key interpretations and caveats, highlight important insights, and identify which end member uplift model is better supported where possible."
+  }, {
+    "heading": "4.1. Structure of the lithosphere",
+    "text": "Many studies have been conducted to gain insight into themodern structure of the AP lithosphere (Fig. 2; Table 1). For example, (a) balanced cross sections, their restorations, and shortening estimates provide insight into the mode, style, geometry, and amount of AP deformation (e.g. Allmendinger et al., 1997; Kley and Monaldi, 1998; McQuarrie, 2002b), (b) earthquakes constrain the location of the subducting Nazca plate (e.g. Cahill and Isacks, 1992), (c) subsurface seismic velocity variations can be interpreted in terms of lithosphere structure (e.g. Dorbath et al., 1993; Whitman et al., 1996; Beck and Zandt, 2002), and (d) heat flow densities provide approximations of the lithospheres' thermal structure (e.g. Springer, 1999). We chose to exclude magnetotelluric and electromagnetic studies in this compilation for brevity (e.g. Schwarz et al., 1994; Schwarz and Kruger, 1997; Soyer and Brasse, 2001)."
+  }, {
+    "heading": "4.1.1. Structure of the upper crust",
+    "text": "Many studies have constrained the style, andmagnitude of crustal\nshortening in the central Andean fold-thrust belt (e.g. Roeder, 1988; Sheffels, 1990; Baby et al., 1995; Dunn et al., 1995; Roeder and Chamberlain, 1995; Welsink et al., 1995). Basement structures kinematically link the Altiplano portion of the AP to its eastern thrust belt margin (Fig. 2D) (e.g. Kley, 1999). These basement structures have controlled the thrust belts' physiography, short wavelength (1–10 km) deformation, and high magnitude shortening (∼350 km) in a thick (8–15 km) sedimentary wedge (Kley, 1996; Kley and Monaldi, 1998; Kley, 1999; McQuarrie and DeCelles, 2001; McQuarrie, 2002b; McQuarrie et al., 2005; McQuarrie et al., 2008a). An upper basement structure is recognized (a) to be responsible for most of the present Altiplano crustal thickness and hence presumably some of its elevation aswell and (b) as a proxy for establishment of the present-day AP width in Bolivia (McQuarrie, 2002b; Barnes et al., 2006, 2008). However, disagreement exists about the precise geometries of the ramp-flat thrust sheets in the basement (e.g. compare McQuarrie, 2002b; Müller et al., 2002; Elger et al., 2005). Regardless, the various geometries are more similar in outcome than is commonly appreciated. First, they construct thrusts with similar aspect ratios (∼1:10–1:15) and detachment depths (∼15 and 25 km) and hence make similar assumptions about the depth to the brittle– ductile transition (McQuarrie et al., 2008a). Second, the style of basement strain does not affect estimates of shortening magnitude which are generally large in the central Andean fold–thrust belt (Altiplano to Chaco foreland in Bolivia: ∼285–330 km) (McQuarrie et al., 2005).\nThe high angle reverse fault-bounded, basement-cored ranges, and intermontane basins of the Puna portion of the AP are characterized by long wavelength (10–30 km) deformation and lower magnitude shortening (∼150 km; Fig. 1A) in a thinner clastic wedge (Coutand et al., 2001; McQuarrie, 2002a). The along-strike changes in structural\nstyle of the AP eastern margin are interpreted to be primarily controlled by pre-existing Paleozoic and Mesozoic structures and stratigraphy (Allmendinger et al., 1997). For example, the thinskinned thrust belts (e.g. SA) occupy areas with major sedimentary cover (≥3 km thick) and minor basement deformation, reactivation of Mesozoic normal faults has favored thick-skinned thrust deforma-\ntion (EC), and basement arches with minimal sedimentary cover have facilitated basement-involved foreland thrusts (SP) (Kley et al., 1999).\nIn summary, the most relevant insights gained from the AP uppercrustal structure are: (1) the correlation between upper basement deformation and plateau width and thickness within the Altiplano, and (2) inherited structure and stratigraphy controlling the style of\ndeformation throughout the central Andes. The large amount of observed-to-inferred upper-crustal shortening (∼300–500 km) across the central Andes estimated with regionally balanced sections (e.g. McQuarrie et al., 2005) implies the lithosphere is thick and perhaps some of it has been recycled into the mantle. Unfortunately, these insights do not directly favor either end member uplift model because no particular mechanism (i.e. ablative subduction or delamination) for the recycling is required."
+  }, {
+    "heading": "4.1.2. Structure of the crust and mantle",
+    "text": "Many geophysical studies have described the basic structure of the\nAP lithosphere (Fig. 2 and Table 1). TheWC, AL, and EC exhibit a positive geoid height, a negative Bouguer gravity anomaly, and elevated heat flow with locally positive, isostatic residual gravity anomalies in the central Altiplano and Eastern Cordillera (Froidevaux and Isacks, 1984; Henry and Pollack, 1988; Gotze et al., 1994; Hamza and Muñoz, 1996; Gotze and Kirchner, 1997; Springer and Forster, 1998; Scheuber and Giese, 1999; Springer, 1999; Hamza et al., 2005). The low gravity and high heat flow and topography are attributed to a thick crust (∼65– 80 km) that is isostatically compensated below the AP which sits above a hot asthenospheric wedge (Fig. 2B) (Springer and Forster, 1998). The over-thickened plateau crust is composed of radiogenic, heat producing material that also contributes to the high regional heat flow. Bouguer gravity combined with topography data have been used to determine strong flexural rigidity (effective elastic thickness, Te ∼40 km) in the forearc and near the foreland in contrast to the high elevations, which are characterized by the opposite (Fig. 2B) (Watts et al., 1995; Tassara, 2005; Perez-Gussinye et al., 2008). These lithospheric strength variations are interpreted to be related to (a) the thermal structure and thickness of the felsic crust, (b) the age of the subducting oceanic lithosphere, and (c) proximity to the underplating Brazilian lithosphere from the east (Fig. 2 and Table 1).\nIn the early-mid 1990s, studies used intermediate depth (>60 km) earthquakes and focal mechanisms to delineate a moderately-dipping (30° to the east) Wadati–Benioff zone (representing the Nazca plate) below the plateau flanked by regions of flat-slab subduction north of ∼14°S and south of ∼28°S (Fig. 1A) (Cahill and Isacks, 1992). P and S waves generated from within the Nazca plate showed significant attenuation in the upper mantle below the plateau south of ∼22°S relative to the north (Whitman et al., 1992). The interpretation was the Altiplano had a thick mantle lithosphere whereas the Puna possessed a much thinner lithosphere perhaps due to delamination (Fig. 2C) (Whitman et al., 1996; see also Yuan et al., 2002). Teleseismic and local tomography showed slow velocities below the Altiplano down to theMoho and recognized an upper mantle high velocity zone below the EC and eastward which were interpreted as hot asthenosphere and the Brazilian craton, respectively (Dorbath et al., 1993; Dorbath and Granet, 1996). Lower crustal velocity perturbations, seismic refraction, and tomography were also used to estimate crustal thicknesses of 32–80 km in Bolivia (70–74 km in the WC, 65– 80 km in the AL, 50–74 km in the EC, 43–47 km in the SA, and 32– 38 km in the foreland) (Fig. 2B) (Zandt et al., 1994; Wigger et al., 1994; Beck et al., 1996).\nGeophysical studies conducted since the mid-1990s have refined the structure of the AP lithosphere. Earthquake locations, teleseismic and local earthquake tomography, attenuation, refraction surveys, and waveform modeling observe the following key features: (1) an east-dipping high velocity zone down to 660 km below the plateau (Dorbath and Granet, 1996; Graeber and Asch, 1999; Scheuber and Giese, 1999; Oncken et al., 2003; Asch et al., 2006), (2) localized low and high velocity zones in the crust (2a) and uppermantle (2b) below the WC, AL, PU, and EC (Myers et al., 1998; Chmielowski et al., 1999; Schmitz et al., 1999; Yuan et al., 2000; Baumont et al., 2002; Beck and Zandt, 2002; Asch et al., 2006; Schurr et al., 2006; Heit et al., 2008), and (3) high attenuation (low QP) in the upper crust and mantle (Haberland et al., 2003; Schurr et al., 2003; Schurr and Rietbrock,\n2004; Schilling et al., 2006). These features are interpreted as the subducting Nazca plate (key feature 1), indications of high temperatures, fluids and partial melts (key features 2a and 3), and intact to detachedmantle lithosphere (key feature 2b) below the Altiplano and Puna (Table 1). Additional estimates of crustal thickness are similar to previous estimates (up to ∼80 km below the plateau tapering to ∼30 km in the foreland) and interpreted to be dominantly felsic to layered felsic-mafic in composition (e.g. Beck and Zandt, 2002; Yuan et al., 2002). Some studies infer that the Altiplano crust is decoupled (Beck and Zandt, 2002; Oncken et al., 2003) and that current, localized (and/or piecemeal) delamination of varying degrees has occurred or is in progress commensurate with along-strike gradients in crustal thickness at the AL–EC transition (Beck and Zandt, 2002). The high velocity upper mantle down to 120 km below the western EC is interpreted to be the western limit of the Brazilian craton (Fig. 2A; D) (e.g. Beck and Zandt, 2002). Location of the Brazilian craton is further defined by a W–E fast direction in shear-wave splitting east of 66°W, which contrasts with a N–S fast direction directly below the AL that is interpreted to be mantle flow (Bock et al., 1998; Polet et al., 2000). Fig. 2D summarizes these interpreted features below the AP in cross section at ∼20°S.\nThere are caveats to the interpretations of lithospheric structure that stem from the geophysical data. In general, tomography depicts changes in relative seismic velocities and hence is less reliable at characterizing sharp boundaries especially for intra-crustal structures from teleseismic conversions. Resolution of tomographic images is usually dependable in the horizontal direction, but significantly less so in the vertical direction because that is parallel to the ray paths. For example, while the low and highmantle velocity regions below the AL and EC are certainly there, their vertical extent and any associated interpretation, such as lithospheric removal, is more tenuous (e.g. Fig. 2D). Furthermore, tomographic images are more reliable when they are constrained by local earthquakes rather than by teleseismic earthquakes. In either case, tomographic images are fundamentally limited by the frequency and spatial variability of earthquake sources.\nThe most well-constrained and consistent observations and interpretations (frommultiple studies) of the AP lithosphere include: (1) the location of the subducting Nazca plate, (2) the variations in crustal and elastic thickness and seismic velocities and attenuation in both the crust and mantle, and (3) the western extent of the under-thrust Brazilian lithosphere below the AL–EC boundary (Fig. 2D). Unfortunately, the lithospheric variability of the AP possesses multiple interpretations and locations of high/low attenuation can be inconsistent between studies (e.g. compare Whitman et al., 1992; Beck and Zandt, 2002). Additional inconsistencies include whether or not the crust is entirely felsic (Zandt et al., 1994; Swenson et al., 2000; Beck and Zandt, 2002) or layered felsic-to-mafic (Yuan et al., 2002) and the presence (e.g. Schmitz et al., 1999; Yuan et al., 2000; Haberland et al., 2003; Schilling et al., 2006) or absence (Swenson et al., 2000) of partial melt within it. Even though these studies are not in the exact same locations, they emphasize variable observations and interpretations of the AP crust that imply large lateral variations within it.\nA weakened lithosphere has been stressed as important in the evolution of the AP. However, the proposed weakening mechanisms are numerous (i.e. partial melting via fluid injection into the mantle wedge, proximity above the asthenospheric wedge and adjacent to the arc, and foundering of a mantle root (e.g. Isacks, 1988; Kley et al., 1999; Schurr et al., 2003; Asch et al., 2006; Oncken et al., 2006a; Schilling et al., 2006)). The relative roles of these various mechanisms and the extent and nature of delaminated mantle lithosphere below the AP remain poorly constrained by geophysics.\nIn summary, we suggest wholesale AP-wide delamination of the lower crust and upper mantle is an unlikely interpretation of available geophysical data. The geophysical data supports piecemeal and/or current, localized, delamination (i.e. under the AL–EC transition) (Beck and Zandt, 2002; Garzione et al., 2008a), but does not provide\ndirect evidence of a massive lateMiocene delamination event (such as an imaged dense/cold block sinking within the asthenospheric wedge). Therefore, the geophysical data provides somewhat more support for the slow and steady AP uplift model."
+  }, {
+    "heading": "4.2. Cenozoic deformation history",
+    "text": "Numerous studies have integrated sediments, geochronology, and structural data to constrain the chronology of Cenozoic upper-crustal deformation in the AP (Figs. 4 and 5A; Table 2). For example, (a) dating growth strata with magnetostratigraphy or 40Ar/39Ar dating of interbedded tuffs provides time control on sedimentation synchronous with deformation (e.g. Elger et al., 2005), (b) dating sediments with palynology and detailing their provenance provides a proxy for the time of source region deformation, uplift, and erosion (e.g. Horton\net al., 2002), and (c) foreland basin evolution is a proxy for the location, chronology and propagation of deformation (e.g. DeCelles and Horton, 2003). In this compilation, we chose to exclude the literature of deformation magnitude and style that is devoid of chronologic constraints for brevity (e.g. Roeder, 1988; Sheffels, 1990; Baby et al., 1995; Dunn et al., 1995; Roeder and Chamberlain, 1995; Welsink et al., 1995).\nDeformation began as early as the Paleocene (∼60 Ma) and progressed from west to east across the central AP (Figs. 4 and 5; Table 2). Deformation in the PrC/WC began in the Paleocene to midEocene (∼60–35 Ma) (Hammerschmidt et al., 1992; Buddin et al., 1993; Reutter et al., 1996; Kuhn, 2002; Victor et al., 2004; McQuarrie et al., 2005; Arriagada et al., 2006; Oncken et al., 2006a; Roperch et al., 2006; Jordan et al., 2007). Western AP flank deformation has been ongoing since ∼40–35 Ma in places (Kuhn, 2002; McQuarrie et al.,\ne constraints with numbers in parentheses keyed to: 1=Neogene Subandes (Uba et al., olivar, Torotoro, Incapampa (Horton, 2005), 4= Luribay-Salla and Arunjuez (Kay et al., et al., 1995; Lamb and Hoke, 1997; Lamb et al., 1997; Roperch et al., 1999; Horton et al.,\n7 = Yazon and Khenayani–Uyuni Fault Zone (Elger et al., 2005), 8=Neogene Subandes\nmer et al., 2007), 11 = Quebrada de los Colorados and Casa Grande Formations (Hongn\n3 = Arroyo Gonzalez (Reynolds et al., 2000), 14 = Sierra de Calalaste region (Kraemer\n= Arizaro, Pastos Grandes, Tres Cruces, and northern Puna (compiled in Coutand et al.,\n, 18 = southern Altiplano (compiled in Scheuber et al., 2006), 19 = El Cajon Formation\nDavila and Astini, 2007), 22= Altos de Pica, Aroma, Camina, Central Depression at Arica,\nLauca (Gaupp et al., 1999), 25= Cerro Jakokkota (Gregory-Wodzicki et al., 1998), 26=\n, Calama, Cordillera de Sal, Salar de Atacama (Hartley and Chong, 2002; Hartley, 2003),\nuehua and Cerdas sections (MacFadden et al., 1995), 30 = Quebrada del Toro (Marrett\npata, Descanso, Ayavari, and Huaccochullo basins (Rousse et al., 2005), 33 = Cotahuasi\nl., 1995). Tectonomorphic zones are the same as Fig. 2.\n2005). Deformation moved into the EC in the mid-Eocene lasting until the late Miocene (∼40–10 Ma) (Isacks, 1988; Sempere et al., 1990; Gubbels et al., 1993; Kennan et al., 1995; MacFadden et al., 1995; Allmendinger et al., 1997; Horton, 1998; McQuarrie, 2002b; DeCelles and Horton, 2003; Horton, 2005). Deformation propagated both eastward and westward from the EC since ∼40 Ma in Bolivia (Herail et al., 1996; McQuarrie and DeCelles, 2001; Horton et al., 2002; McQuarrie, 2002b; Müller et al., 2002; Elger et al., 2005; McQuarrie et al., 2005; Uba et al., 2006). Eastward, deformation of the IA began in the early Miocene (∼20 Ma) followed by the SA from the Miocene to today (∼15–0 Ma) (McQuarrie, 2002b; Echavarria et al., 2003; McQuarrie et al., 2005; Uba et al., 2006; Uba et al., 2009). Westward from the EC, deformation of the Altiplano–Puna began in the earliest Oligocene (∼30 Ma) and ceased in the Altiplano by late Miocene (∼7 Ma) (Kennan et al., 1995; Lamb and Hoke, 1997; Coutand et al., 2001; Elger et al., 2005), but remains active within the PlioQuaternary in the Puna (Allmendinger et al., 1989; Cladouhos et al., 1994; Marrett et al., 1994; Schoenbohm and Strecker, 2009). In the Argentine EC, late Eocene (∼40 Ma) and early Miocene to recent (∼20–0 Ma) deformation is documented (Reynolds et al., 2000; Hongn et al., 2007; Mortimer et al., 2007; Carrapa and DeCelles, 2008). The sedimentary and kinematic history of the AL both suggest the modern width of the plateau was established by ∼25–20 Ma after which most deformation ceased in the EC (Horton et al., 2002;\nMcQuarrie, 2002b; Horton, 2005). Estimated shortening rates for the central Andean fold–thrust belt average ∼10–8 mm/yr (McQuarrie et al., 2005), but range in space and time from 16 to <1 mm/yr (Elger et al., 2005; Oncken et al., 2006a). Finally, paleomagnetic data document Cenozoic counterclockwise rotations (∼10–30°) north of the Bolivian orocline and clockwise rotations (∼10–60°) south of the orocline (see summaries in Lamb, 2001; Roperch et al., 2006; Barke et al., 2007).\nSeveral previous studies suggest initial deformation and sedimentation began in the Puna ∼20 Ma which is significantly later than in the Altiplano (Allmendinger et al., 1997; Jordan et al., 1997; McQuarrie, 2002a). However, the deformation history compiled here suggests the Puna has experienced widespread and relatively continuous deformation and sedimentation both within and along its margins since ∼40 Ma, perhaps even earlier along the western flank suggestive of deformation propagating eastward since the Paleocene (∼60 Ma) (Fig. 5; Table 2) (Marrett et al., 1994; Coutand et al., 2001; Arriagada et al., 2006; Coutand et al., 2006; Hongn et al., 2007; Carrapa and DeCelles, 2008).\nThe paleomagnetic rotation data have been used to argue both for (Kono et al., 1985; Isacks, 1988; Roperch et al., 2006; Barke et al., 2007) and against (Kley, 1999; Roperch et al., 2000) the Cenozoic bending of the Bolivian orocline. This bending is believed to be accommodated by the observed shortening gradients (Fig. 1A) (Lamb,\n2001; Riller and Oncken, 2003; Barke et al., 2007) and attests to the fact that the AP deformation has been 3-dimensional in nature. The distribution of outward rotations from the plateau center at the orocline axis suggests that material has been extruded outward along strike (e.g. Beck et al., 1994; Butler et al., 1995; Maffione et al., 2009).\nIn summary, the most important insights gained from AP sedimentation and deformation observations are: (1) continuous and mostly eastward-propagating deformation since the early Paleocene to mid-Eocene (∼60–40 Ma), first along the western flank then migrating to the eastern flank at ∼40 Ma, (2) the modern APwidthwas established by ∼25–20 Ma, and (3) although shortening rates vary locally, long term averaged rates have been similar (10– 8 mm/yr) since ∼40 Ma. The long time frame over which a relatively steady rate of deformation has been resolved is more consistent with the slow and steady uplift model."
+  }, {
+    "heading": "4.3. Cenozoic exhumation history",
+    "text": "Various studies have used low-temperature thermochronology (e.g. Reiners et al., 2005) in bedrock to chronicle AP exhumation (Fig. 5B). For example, (a) apatite fission-track thermochronology and inverse modeling provides quantification of upper-crustal cooling of rock samples from temperatures of ∼60–120 °C (e.g. Alonso et al., 2006; Deeken et al., 2006; Ege et al., 2007), and (b) analysis of multiple thermochronometer systems (e.g. fission track, 40Ar/39Ar, (U–Th)/He) detail cooling histories sensitive to temperatures <∼ 350 °C (e.g. Barnes et al., 2006; Gillis et al., 2006; Carrapa et al., 2009).\nExhumation began as early as the Paleocene (∼60 Ma) and progressed from west to east across the AP (Fig. 5B and Table 3; see\nFig. 12.3 of Alonso et al. (2006) for a plot of apatite fission-track ages throughout the southern-central AP). Initial exhumation began in the PrC/WC in the Paleocene to mid-Eocene (∼60–40 Ma) (Damm et al., 1990; Andriessen and Reutter, 1994; Maksaev and Zentilli, 1999). Next, exhumation shifted into the EC in the mid-Eocene and continued until the early Miocene (∼45–40 to ∼20 Ma) (Benjamin et al., 1987; Farrar et al., 1988; Kontak et al., 1990; Coutand et al., 2001; Alonso et al., 2006; Barnes et al., 2006; Carrapa et al., 2006; Deeken et al., 2006; Gillis et al., 2006; Ege et al., 2007; Barnes et al., 2008; McQuarrie et al., 2008a). In the Altiplano, exhumation propagated both eastward and westward from the central EC since ∼40 Ma (Ege et al., 2007; Barnes et al., 2008). Eastward, exhumation occurred in the IA from early to late Miocene (∼20 to 10–5 Ma) followed by the SA from mid-late Miocene to present (∼15–0 Ma) (Moretti et al., 1996; Barnes et al., 2006; Scheuber et al., 2006; Ege et al., 2007; Barnes et al., 2008). In the Puna, the exhumation front migrated eastward into the Sierras Pampeanas in the late Miocene (10–5 Ma) (Coughlin et al., 1998; Sobel and Strecker, 2003). Westward from the EC, exhumation in the AL/PU began in the earliest Oligocene and continued into the Quaternary (∼30–2 Ma) (Cladouhos et al., 1994; Carrapa et al., 2005; Barnes et al., 2006; Ege et al., 2007; Barnes et al., 2008), with mid-Miocene (∼15 Ma) exhumation also recorded in the PrC (Damm et al., 1990). The EC experienced two distinct phases of exhumation; in Bolivia, during the late Eo-Oligocene (∼40–20 Ma) and mid-late Miocene to recent (∼15–0 Ma) (e.g. Barnes et al., 2006; Gillis et al., 2006), and in Argentina, during the\nmid Eo-Oligocene (∼50–30 Ma) and early Miocene (23–15 Ma) (Fig. 5B) (Carrapa et al., 2006; Deeken et al., 2006).\nThese exhumation histories have been used to reconstruct AP evolution by assuming that rock cooling is a proxy for deformation. This assumption is valid in regions where cooling related to volcanism or normal faulting can be ruled out. In convergent orogens, such as the central Andes, erosion is the primary exhumation mechanism (Ring et al., 1999; Ehlers, 2005). The basic logic is that the onset of the recorded, rapid erosional exhumation is a signature of deformation because it generates the topography and relief necessary to drive the erosion (e.g. Coughlin et al., 1998; Carrapa et al., 2005; Barnes et al., 2006; Ege et al., 2007). Some periods of recorded, rapid exhumation are considered only the result of enhanced erosion when combined with local geologic evidence (e.g. Gillis et al., 2006). However, exhumation may not be recorded if the deformation magnitude is insufficient to cause rock cooling from below the relevant thermochronometer system closure temperature.\nThe most important interpretation of the exhumation history relevant to AP uplift is that the modern width of the Altiplano plateau was established by ∼20–15 Ma (Barnes et al., 2006, 2008; McQuarrie et al., 2008a). The early episode of EC exhumation (∼50–20 Ma) is considered related to deformation all along the plateau margin from southern Peru to Argentina (Coutand et al., 2001; Deeken et al., 2006; Gillis et al., 2006; Ege et al., 2007; Barnes et al., 2008; McQuarrie et al., 2008a). The later episode of EC exhumation (23–0 Ma) is considered to be associated with enhanced erosion in Bolivia perhaps related to climatic affects (Gillis et al., 2006; Barnes et al., 2008; McQuarrie et al., 2008b), whereas it is associated with deformation in Argentina (e.g. Deeken et al., 2006).\nIn summary, the compiled exhumation history does not favor either end member uplift model. However, these exhumation histories have been used to estimate long-term average shortening rates in Bolivia (∼12–8 mm/yr) (Barnes et al., 2008; McQuarrie et al., 2008a) which are consistent with previous estimates (∼10–8 mm/yr) (McQuarrie et al., 2005). Rapid uplift could induce increased plateau margin erosion, but the younger EC exhumation phase began earlier and with temporal variability along strike (∼23–15 Ma vs. 10 Ma uplift; Fig. 5 and Table 3). Finally, the inference that the width of the AP formed early relative to when rapid uplift supposedly occurred (20–15 vs. 10 Ma) suggests plateau development could have been early enough to be consistent with the slow and steady uplift model."
+  }, {
+    "heading": "4.4. Cenozoic volcanic history and helium geochemistry",
+    "text": "Numerous studies have investigated the history of magmatism to quantify the volcanic activity and crustal evolution of the central Andes (Fig. 6; Table 4). For example, (a) field work and 40Ar/39Ar thermochronology provide detailed regional eruptive histories (e.g. Lebti et al., 2006), (b) the onset of mafic volcanism can be used to infer delamination (e.g. Kay andMahlburgKay, 1993) and their geochemistry constrains their source parameters (e.g. Hoke and Lamb, 2007), and (c) compiled regional volcanism through space and time can test hypothesized linkages between deformation and subduction geometry (e.g. Trumbull et al., 2006; Kay and Coira, 2009). Here, we only mention studies that address the magmatic source and relationships between deformation, subduction geometry, and magmatism because they provide the most relevant insight into the evolution of the AP lithosphere and hence uplift.\nThe central Andes have been the locus of substantial magmatism since the Jurassic (Fig. 6). Towards the present, arc volcanism has propagated eastward with periods of punctuated quiescence (∼10 Ma each) andprogressivelywidened inW–E extent as indicated by the lateOligocene to present (∼25–0 Ma) distribution of igneous rocks (Fig. 6B) (Scheuber et al., 1994; Allmendinger et al., 1997). Only since ∼3 Ma has the arc contracted to its modern W–E width of ∼50 km in the WC (Fig. 6A) (Wörner et al., 2000). Diversity of composition best describes the Oligocene-to-recent (∼25–0 Ma) igneous rocks that range from basalt flows/cones and stratovolcano-derived andesites to voluminous, felsic, mostly caldera-derived rhyolites and ignimbrites (Fig. 6C; Table 4) (see also overviews by Trumbull et al., 2006; Hoke and Lamb, 2007; Kay and Coira, 2009). Arc productivity was limited prior to ∼30Ma, but increased∼25 Mawithmore output south of 20°S that also decreased in age southward (Trumbull et al., 2006). Subduction has been advocated as the driver of magmatism with sources ranging from the mantle to substantial contamination via partial melting of the crust and/or magmatic differentiation (Table 4) (e.g. Thorpe et al., 1981; Allmendinger et al., 1997; Hoke and Lamb, 2007; Schnurr et al., 2007).\nThe most direct evidence of mantle melting, and hence inferences about lithosphere structure, comes from mafic magmatism and helium in natural gas emissions (Kay andMahlburg Kay, 1993; Hoke and Lamb, 2007). Mafic magmatism is documented throughout the central-tosouthern AP since ∼25 Ma (Fig. 6C) (Davidson and de Silva, 1992; Davidson and de Silva, 1995; Lamb and Hoke, 1997). In the Puna,\nPliocene (∼3–0 Ma) mafic volcanics combined with a regional stress field change andmore attenuated seismic waves were used to argue for delamination ∼3 Ma (Kay andMahlburg Kay, 1993; Kay et al., 1994). In contrast, in the Altiplano, variations in rare earth element concentrations from localmafic volcanics requiremostmelting ofmantlematerial from <90 km depth and modern geothermal helium emissions carry a mantle signature implying mantle melting today (Fig. 6C) (Hoke and Lamb, 2007). These observations suggest a thin Altiplano lithosphere (<100 km thick) since ∼25Ma (Hoke and Lamb, 2007).\nThe relationship betweenmagmatism, deformation, and subduction has, and continues to be, important for conceptual models of AP evolution (e.g. James and Sacks, 1999; Trumbull et al., 2006; DeCelles et al., 2009; Kay and Coira, 2009). The notion that magmatism preconditioned the lithosphere for AP formation via thermalweakening (Isacks, 1988) has become circumspect because (1) deformation preceded volcanism (∼40 Ma vs. ∼25 Ma) (e.g. Sebrier and Soler, 1991; McQuarrie et al., 2005; Ege et al., 2007), and (2) even after volcanism began, deformation and magmatism have varied independently (Trumbull et al., 2006). Despite hypotheses to the contrary, magmatic productivity is also not correlated with subduction of the San\nFernandez Ridgewhich has swept southward across the AP since 26 Ma (Trumbull et al., 2006). However, subduction of the ridge has been important in the temporal variation in slab geometry and removal of lithosphere along strike of the AP (Kay and Coira, 2009). The chronology and geochemistry of Altiplano volcanics is consistent with lithospheric evolution involving (James and Sacks, 1999; Hoke and Lamb, 2007): (a) flat-slab subduction and limited volcanism ∼35–25 Ma, (b) steepening slab dip, the onset of volcanism, and contemporaneous asthenospheric upwelling and perhaps mantle (and mafic lower crust) detachment ∼25–21 Ma, and (c) continuedmantlewedge cornerflowandhydration and possible continuous or episodic removal of the leading edge of the under-thrusting Brazilian craton since∼21Ma. However, there remains doubt about (1) how the variations inwidth, locations, and composition of the magmatism can accurately represent changing subduction geometries back through time (Trumbull et al., 2006) and (2) whether the early flat-slab stage is required (see discussion in Kay and Coira, 2009). Finally, a newmodel suggests that growthof theAndes Cordillera is characterized by cyclic surfacemagmatism, lithospheric removal, and uplift forced by the impingement of continental lithosphere behind the volcanic arc (DeCelles et al., 2009).\nTable 4 Andean Plateau magmatism and geochemistry studies.\nLocation Region (magmatic type)\nAge Volume Source Reference (Ma) (km3)\n23–21°S Bolivia (ignimbrites) ∼20–0.01 8000 Crust partial melt Kussmaul et al. (1977) 19.5–22.5°S Bolivia (andesite, ignimbrites) 24–0 12,000 – Baker and Francis (1978) 5°N–55°S entire Andes (intermediate, calc-alkaline) 200–0 – Mantle Thorpe et al. (1981) 14–8°S Peru Eastern Cordillera (calc-alkaline) ∼100–0 – – Carlier et al. (1982) 23°S Purico–Chascon Chile (andesite/rhyolite) <1.5 – Crust partial melt Hawkesworth et al. (1982) 20–24°S Chile/Bolivia/Argentina (andesite/rhyolite) ∼60–0 – Lower/upper crust Breitkreuz and Zeil (1984) 28–16°S central Andes (intermediate, ignimbrites) ∼2–0 – Mantle w/ crust contam Harmon et al. (1984) 23–16°S central Andes (calc-alkaline) 30–0 – Crust partial melt Miller and Harris (1989) 24–21°S Altiplano–Puna Volcanic Complex (ignimbrites) 25–1 10,000 Crust partial melt de Silva (1989a,b) 27–24°S Puna Argentina (basalt and andesite) ∼3–0 – Lower crust/mantle via delam Kay and Mahlburg Kay (1993) 24°S Cerro Tuzgle Argentina (ignimbrite, andesite) 2–0 – Mantle/crust mixing Coira and Kay (1993) 22°S Cerro Chao Chile (dacite, rhyodacite) <0.1 >48.5 Mafic magma intrusion in crust de Silva et al. (1994) 27–20°S Central Volcanic Zone (andesite, ignimbrite) 10–0 24710 Crust partial melt, delam? Francis and Hawkesworth (1994) 27–24°S Puna Altiplano–Puna Volcanic Complex\n(basalt, andesite) ∼3–0 – >20% crustal melt, delam Kay et al. (1994)\n23–15°S Bolivia (helium emissions) modern – Mantle-derived melts Hoke et al. (1994) 21–18°S Bolivia (basalt, andesite, dacite) ∼23–0 – Asthen. mantle w/ crust contam Davidson and de Silva (1995, 1992) 27–18°S Argentina/Bolivia/Chile (basalt to rhyolite) 28–0 – Mantle and crust partial melt Allmendinger et al. (1997) 26–25°S Chile (andesite) 20–0 – Crust partial melt Trumbull et al. (1999) 28–21°S Argentina/Bolivia/Chile (ignimbrites) 10–1 – Crust partial melt Riller et al. (2001) 27–25°S Argentina/Chile (ignimbrites) 26–0 ≤700 Magma differentiation Siebel et al. (2001) 34–27°S Chile/Argentina (basalt, andesite) 27–0 – Mantle, crustal melt, subduct erosion Kay and Mpodozis (2002) 26–21°S Chile (calc-alkaline, alkaline) 78–26 – Mafic underplating of crust Haschke et al. (2002a,b) 24°S Puna Argentina (calc-alkaline) 10–0 – Mantle and mafic lower crust Matteini et al. (2002) 22–21°S Chile (calc-alkaline, alkaline) 200–∼35 26264 Mafic underplating of crust Haschke and Gunther (2003) 16–13°S Altiplano Peru (mafic potassic and ultrapotassic) ∼3–0 – Lith mantle blocks, <100 km depth Carlier et al. (2005) 27–19°S Puna (ignimbrites) ∼20–<0.1 >1000 Crust partial melt, <40 km depth Schilling et al. (2006) 28–17°S Central Andes (basalt to rhyolite) 65–0 – Crust partial melt, delam Trumbull et al. (2006) 16.5–16°S Peru Arequipa (ignimbrites) 13–1 >40 Mantle, crust partial melt Lebti et al. (2006) 19–17°S Bolivia LF/M/EU (mafics, ignimbrites, dacite) 25–2 – Mafics into crust and/or crustal melt Barke et al. (2007, and references therein) 24–21°S Argentina/Bolivia/Chile (ignimbrites) 10–1 >10000 Mantle, crust partial melt de Silva and Gosnold (2007) 18°S Chile Parinacota (andesite, rhyodacite) 0.163–0.020 46 Crust partial melt? Hora et al. (2007) 21–17°S Bolivia (mafics and helium emissions) 25–0 – Mantle Hoke and Lamb (2007) 27–25°S Argentina/Chile (ignimbrites) 25–1 Magmatic differentiation Schnurr et al. (2007)\nLF= Los Frailes; M=Morococala; EU= Eucalyptus; contam= contamination; delam=delamination; subduct= subduction; lith= lithosphere; w/=with; asthen= asthenosphere.\nIn summary, the most important insights from the magmatic history are that (1) mafic volcanics may indicate very recent delamination below the Puna ∼3 Ma, and (2) the Altiplano lithosphere has been thin since ∼25 Ma commensurate with initiation of widespread back-arc volcanism of variable compositions (Fig. 6C and Table 4). The recent and rapid uplift end member model is not consistent with either insight. Insight (2) supports slow and steady uplift by implying some amount of plateau elevation as a result of a thin lithosphere since ∼25 Ma. The notion of cyclic Andean Cordillera magmatism, lithospheric loss, and growth also suggests cyclic elevation changes (DeCelles et al., 2009) which may be consistent with either uplift model depending on the timescale of interest and where in the cycle the central Andes are interpreted to be."
+  }, {
+    "heading": "4.5. Cenozoic uplift history",
+    "text": "Many types of information have been used to reconstruct the uplift history of the AP (Fig. 7 and Table 5). For example, (a) dated marine facies provide a paleoelevation constraint of near sea level (e.g. Sempere et al., 1997), (b) perched erosion surfaces are important for estimating rock uplift (e.g. Barke and Lamb, 2006), and (c) paleoaltimetry techniques such as fossil floras (Gregory-Wodzicki et al., 1998; Meyer, 2007) and stable isotopes (Quade et al., 2007) provide paleoelevation estimates. A previously compiled history of AP elevation suggested the AP reached ∼25–30% of its modern elevation by early-mid Miocene and ∼50% by ∼10 Ma (Gregory-Wodzicki, 2000; see also Hartley, 2003).\nMarine facies of the late Cretaceous El Molino Formation establishes the entire AP region at near sea level ∼73–60 Ma prior to Andean orogenesis (e.g. Sempere et al., 1997). Remaining constraints support one of the following three simplified uplift\nhistories for the AP: (1) significant (>∼1 km) uplift prior to 10 Ma, (2) minor uplift (≤∼ 1 km) prior to 10 Ma with most (≥∼ 2.5 km) post 10 Ma, and (3) significant uplift since ∼25–20 Ma which equivocally could support either history (1) or (2). We outline the constraints that support each simplified history here.\n4.5.1. Significant uplift pre-late Miocene (>10 Ma) Paleobotanical evidence using the nearest-living-neighbormethod\nat Corocoro and Potosi suggests 2–2.4 km of elevation prior to 11 Ma (5 and 6a in Table 5) (Singewald and Berry, 1922; Berry, 1939). Atacama Desert paleosols indicate a climate change to hyper-aridity 19–13 Ma implying >2 km elevation in the AP had induced a rain shadow by this time (9 in Table 5) (Rech et al., 2006). Highland biotaxa changes suggest 2–2.5 km of elevation was reached by the early Miocene (∼25–15 Ma) in southernmost Peru and by the mid– late Miocene (∼16–11 Ma) at the northern end of the AP (21 in Table 5) (Picard et al., 2008)."
+  }, {
+    "heading": "4.5.2. Most uplift since the late Miocene (∼10–0 Ma)",
+    "text": "Reinterpretation of the Potosi locale using the foliar-physiognomic method suggests≤1320 m elevationwas attained by 21–14 Ma (6b in Table 5) (Gregory-Wodzicki, 2000). At Jakokkota, the same method suggests 600–1600 m elevation 11–10 Ma (7 in Table 5) (GregoryWodzicki, 2000). Analysis of the San Juan del Oro surface in the EC of southern Bolivia estimates 1.7±0.7 km of rock uplift since 12–9 Ma (12 in Table 5). Stable isotopes from pedogenic carbonates suggest an elevation gain of ∼2.7±0.7 km 10.3–6.7 Ma (Fig. 7 and 13–18 in Table 5) (Ghosh et al., 2006; Garzione et al., 2007; Quade et al., 2007). New structural and thermochronologic work outlines 2.4–3 km of uplift of the western AP margin in southwestern Peru since ∼14 Ma (Schildgen et al., 2009)."
+  }, {
+    "heading": "4.5.3. Most uplift since the latest Oligocene (∼25–0 Ma)",
+    "text": "Paleobotanical evidence using the nearest-living-neighbormethod\nfrom the Chucal Formation suggests only 1 km elevation 25–19 Ma (4 in Table 5) (Muñoz and Charrier, 1996). A 25Myr-old abraded marine transgression surface in the Peruvian Precordillera now at significant elevation suggests 1100 m of uplift since 25 Ma (1 in Table 5) (Tosdal et al., 1984; Sebrier et al., 1988). Internal drainage development 24– 14 Ma in the Puna implies uplifted regions of unknown elevation along both plateau flanks by this time (8 in Table 5) (Alonso et al., 1991; Vandervoort et al., 1995). The elevated Altos de Camilaca surface suggests 1100–1300 m of rock uplift in southern Peru since 25–18?Ma (11 in Table 5) (Tosdal et al., 1984; Quang et al., 2005) and monoclinal tilting and rock uplift of the western AP flank escarpment suggests 1700–2500 m of uplift since 19 Ma (19 in Table 5) (Wörner et al., 2002). Finally, structural, sedimentologic, and geophysical data combine to suggest ∼2600 m of Precordillera rock uplift from 30–∼5 Ma in northern Chile (22 in Table 5) (Victor et al., 2004)."
+  }, {
+    "heading": "4.5.4. Integrated uplift history",
+    "text": "Indicators of paleoelevation at the greatest confidence suggest the AP surface was uplifted by ∼2.5 in elevation since ∼10 Ma (Fig. 7B, center of gray region; Table 5). Estimates from perched erosion\nsurfaces imply 1–3 km of rock uplift with as much as 2.4 km since 12– 9 Ma along the AP flanks (Barke and Lamb, 2006; see also Hoke and Garzione, 2008). Within 1σ/standard error, the paleoaltimetry data constrain the Altiplano elevation history as <∼2 km elevation until ∼11 Ma followed by a rapid rise from 0–2 km to the present elevation of ∼3.8 km starting ∼10 Ma (Fig. 7B, gray region; Table 5). Within 2σ/ standard error, the paleoaltimetry data constrain the Altiplano elevation history as <∼2.4 km elevation until ∼18 Ma followed by either a rapid to steady rise from 0–2.4 km to the present elevation of ∼3.8 km starting somewhere between ∼18 and 10 Ma (Fig. 7B, dashed lines). While consideration of the errors highlights the potential for large flexibility in paleoelevation reconstructions, it does not factor in that at one time interval (∼10–8 Ma; Fig. 7B) multiple methods suggest similar paleoelevations. We conservatively conclude that, within error, observations suggest anything from a slow and steady rise of the Altiplano portion of the AP since≥25 Ma to a recent and rapid rise from ∼1 km elevation ∼10 Ma to its modern height of 3.8 km ∼6 Ma (Fig. 7B; Table 5) (see also Hartley et al., 2007).\nThere are several caveats associated with the uplift and paleoelevation constraints. First, paleoaltimetry estimates from paleobotany done in the early 1900s are generally not accepted because so little was known about modern-to-ancient South American vegetation at\ninwhite polygonswith numbers keyed to Table 5. Constraints are from sedimentary facies, ntity and timing of uplift is highlighted for selected studies. (B) Paleoelevation estimates of able 5. Errors bars shownare 2σ or 2 standard (std.) error. Paleoclimate correction arrow is isotope paleoaltimetry data (from Ehlers and Poulsen, 2009). The paleoclimate correction rce, and temperature. The exact magnitude of this correction is not well constrained and\nthat time (5 and 6 in Table 5) (Gregory-Wodzicki, 2000). Second, paleoclimate proxies and erosion studies often invoke far-a-field causes, which may be non-unique. For example, Rech et al. (2006) infer plateau height of >2 km far from their study location in the northern Atacama as a mechanism for the onset of aridity (Fig. 7). In fact, the traditional view that hyper-aridity (due to rain shadow development) by 14 Ma induced supergene oxidation and enrichment of porphyry copper deposits throughout the AP western flank in Peru and Chile (Alpers and Brimhall, 1988; Stillitoe and McKee, 1996) has recently been called into question with periodic evidence of enrichment since the mid-Eocene (∼44 Ma) (Hartley and Rice, 2005; Quang et al., 2005; Arancibia et al., 2006). Third, rock uplift is not necessarily equivalent to surface uplift unless correction is made for the regional isostatic response to erosion (Table 5) (England and Molnar, 1990). Fourth, comparisons of leaf morphology to climate parameters like mean annual temperature can be rather difficult, especially at high elevation sites characterized by low temperatures (e.g. Kowalski, 2002). Finally, paleoelevation estimates from stable (δ18O) and clumped (13C–18O) isotope data are based on modern relationships between fractionation in modern meteoric water, elevation, and surface temperatures (Poage and Chamberlain, 2001; Blisniuk and Stern, 2005), which may not be representative of the past. Uplift-induced changes in surface temperature, seasonal precipitation distribution, moisture source, and prevailing wind directions\ncould have depleted the paleoprecipitation oxygen isotope concentration causing the δ18O-derived paleoelevations to be underestimated once paleoclimate corrections to the data are considered (Fig. 7B) (Ehlers and Poulsen, 2009). The paleoclimate corrections shown in Fig. 7B were determined using regional climate models that account for variations in precipitation amount, vapor source, and temperature (see Ehlers and Poulsen, 2009 for details). Furthermore, the clumped 13C–18O paleoaltimetry is a nascent technique with some uncertainty (∼±4 °C) (Quade et al., 2007).\nIn summary, the most important insights from the uplift constraints are that (1) much of the AP surface uplift from an initial elevation of ∼1 km has occurred since ≥∼25 Ma, and (2) consideration of the uncertainties associated with various climate sensitive paleoaltimetry data suggests observations are equally consistent with a slow and steady rise of the AP since ≥25 Ma to a rapid rise at ∼10 Ma (Fig. 7). Both of these summary points are equally consistent with either end member uplift model. Therefore, much of the paleoaltimetry data can be explained by surface uplift and/or climate change associated with plateau uplift (Ehlers and Poulsen, 2009)."
+  }, {
+    "heading": "4.6. Cenozoic incision history",
+    "text": "Many studies have investigated the history of fluvial incision in the APwhich can be a proxy for uplift (Fig. 8; Table 6). For example, (a) (U–\nTh)/He thermochronometry constrains the timing of canyon incision (e.g. Schildgen et al., 2007), and (b) erosion surface degradation or stratigraphic markers of known age provide a measure of the amount and timing of incision (Sebrier et al., 1988; Kennan et al., 1997; Thouret et al., 2007; Barnes and Heins, 2009).\nThe major observation from combining all incision estimates is that it was substantial and recent (2.5–1 km since ∼11–8 Ma) along the westernAltiplano plateauflank (a–c, h–j in Table 6) (Sebrier et al., 1988; Kober et al., 2006; Schlunegger et al., 2006; Hoke et al., 2007; Schildgen et al., 2007; Thouret et al., 2007). Unfortunately, within error, in places incision magnitude could have been as little as ∼1 km since ∼10 Ma along the plateau flanks (Sebrier et al., 1988; Barke and Lamb, 2006; Hartley et al., 2007; Hoke et al., 2007) consistentwith a slow and steady rise of∼4 km since ∼40 Ma. In contrast, in other places the incisionwas aminimumof 2–2.4 kmsince∼10 Mawhich is consistentwith the rapid rise model (Schildgen et al., 2007; Thouret et al., 2007). Evidence also exists for earlier incision of ≥400 m 16–11 Ma in southern Peru (g in Table 6) (Sebrier et al., 1988) as well as tilting and incision of Atacama gravels starting ∼15 Ma along the southern Puna (d in Table 6) (Mortimer, 1973; Riquelme et al., 2003). Evidence demonstrates minor\nincision of <450 m into the San Juan del Oro surface since ∼3 Ma in the Bolivian EC (e in Table 6) (Kennan et al., 1997; Barnes and Heins, 2009). Interestingly, different authors have suggested this surface has been incised ∼2 km (Garzione et al., 2006), 800 m (Hartley et al., 2007), and 230±90m (Barke and Lamb, 2006) since ∼10 Ma. Finally, it is worth noting that there is no evidence for significant incision along the southeastern Puna margin (e.g. Carrapa et al., 2006).\nThere are several mechanisms for AP flank incision that have been proposed. Proposed mechanisms include surface uplift (e.g. Sebrier et al., 1988; Servant et al., 1989; Gregory-Wodzicki, 2000; Schildgen et al., 2007) as the result of delamination (Garzione et al., 2006; Ghosh et al., 2006) or lower crustal flow (Schildgen et al., 2007; Thouret et al., 2007) as well as climate change producing higher river discharge (Ehlers and Poulsen, 2009). If surface uplift triggered incision, the incision depth is not necessarily equal to the amount of uplift unless it has been corrected for the isostatic response to erosion (Molnar and England, 1990). If climate change triggered incision it could, in turn, result in some regional uplift. Results from regional climate models predict wetter conditions on the western AP flank as the plateau rose suggesting the documented late Miocene to recent incision could be climate induced (Ehlers and Poulsen, 2009). Unfortunately, paleoclimate proxies in Chile indicate changes from semi-humid to arid conditions in the last 15 Myr as well as contradictory conditions occurring simultaneously (e.g. both wet and dry climates) which suggests a climatic trigger for incision may be difficult to evaluate with observations (e.g. Gaupp et al., 1999; Hartley, 2003).\nIn summary, evidence shows considerable (2.5–1 km) incision along thewestern Altiplano flank since∼11–8 Ma, but themechanism is unclear (Fig. 8 and Table 6). In contrast, there is no evidence for significant incision of the southeastern Puna margin (e. g. Carrapa et al., 2006). A surface upliftmechanism for incisionwould support the rapid rise upliftmodelwhereas a climaticmechanismand/or the lower end of the range of incision magnitude (∼1 km) would allow the documented canyon downcutting to be consistent with the slow and steady uplift model."
+  }, {
+    "heading": "5. Discussion",
+    "text": "In this section, we integrate the previous synthesis into a synoptic chronology of AP evolutionwith attention to important inconsistencies. We then evaluate the two AP geologic models and two end member uplift models outlined in Section 3 within the context of this synoptic history and the specific pieces of supporting evidence."
+  }, {
+    "heading": "5.1. Synoptic history of Andean Plateau (AP) evolution",
+    "text": "Observations constraining the structure, deformation, sedimentation, exhumation, and magmatism produce a chronology that is quite consistent throughout the entire AP from southern Peru to northern Argentina at the plateau scale (10s Myr, 100–1000s km) (Fig. 9; Section 4): (a) Cenozoic exhumation and deformation began along the western AP flank ∼60–40 Ma contemporaneous with an already active late Cretaceous–Eocene volcanic arc, (b) deformation and exhumation propagated into the central EC ∼40Ma, (c) deformation and exhumation continued throughout the EC until ∼20 Ma concurrent with minor volcanism ∼35–25 Ma, (d) widespread back-arc volcanism resumed ∼25 Ma with deformation and exhumation continuing to propagate eastward into the IA along with limited deformation in the Altiplano from ∼20 to 10–5 Ma, and (e) deformation and exhumation migrated into the SA/SB/SP by ∼15–10 Ma roughly contemporaneous with increased volcanic productivity and a second pulse of exhumation in the EC (∼23–15 Ma to present). One inconsistency is a minor phase of Oligocene (or older) exhumation recorded in the northern IA that is consistent with a recent kinematic reconstruction showing local EoOligocene deformation (McQuarrie et al., 2008a). Small-scale (10s km, Myr) variations to this synoptic history include a sudden deformation shift from the BolivianWC to EC relative to the subsequentmore steady migration eastward (McQuarrie, 2002b; Ege et al., 2007; Barnes et al., 2008) as well as nonsystematic basin fragmentation east of the Puna (Strecker et al., 2009) and unsteady evolution of the Bolivian SA (Uba et al., 2009). Mid-Miocene to recent (∼15–0 Ma) exhumation recorded in the Bolivian EC is considered only the result of enhanced erosion and unassociated with significant deformation (Barnes et al., 2006; Gillis et al., 2006; Barnes et al., 2008; McQuarrie et al., 2008a). In contrast, magnetostratigraphic, seismic, and detrital thermochronologic evidence shows mid-late Miocene to recent (∼20–0 Ma) deformation in the Argentine EC (Fig. 5) (Reynolds et al., 2000; Coutand et al., 2006; Mortimer et al., 2007) and the northern SP (Carrapa et al., 2008). A final inconsistency is that volcanic productivity is not uniform along strike. The volcanic output is higher south of 20°S and decreases in age southward after ∼12 Ma (Trumbull et al., 2006).\nThe chronology of deformation and exhumation within the Altiplano–Puna basin is generally consistent, but differs in detail along strike. Deformation is documented from ∼30 Ma throughout the Altiplano–Puna, but ceased by ∼8–7 Ma in the Altiplano and continues into the Plio-Quaternary in the Puna (Fig. 5) (Cladouhos et al., 1994; Marrett et al., 1994; Kennan et al., 1995; LambandHoke, 1997; Kraemer et al., 1999; Elger et al., 2005; Schoenbohm and Strecker, 2009). Exhumation may have begun as recently as the Pliocene in parts of the Altiplano relative to older documented deformation (∼3–2 vs. ∼8– 7 Ma) (Fig. 5) (Kennan et al., 1995; Lamb and Hoke, 1997; Elger et al., 2005; Barnes et al., 2006, 2008). The deformation and exhumation could either not be recorded if the magnitude was insufficient to reset the particular thermochronometer system or the exhumation could continue long after deformation has ceased via protracted erosion which could explain these discrepancies.\nThe most important observation of the integrated deformation, sedimentation, exhumation, and magmatic history of the AP is that at the plateau scale it is quite uniform along strike and initiated as long ago as the Paleocene (∼60 Ma) (Figs. 5 and 9B,C). This idea challenges the previous notion that deformation and sedimentation was ∼10– 5 Myr younger in the ECmargin of the Puna compared to the Altiplano\n(e.g. Allmendinger et al., 1997; Jordan et al., 1997; McQuarrie, 2002a). It is particularly interesting that the first exhumation pulse in the EC (∼40 Ma) is synchronous along strike and related to deformation, yet the younger pulse in the Puna is older (∼23–15 Ma) and also related to deformation, while in the Altiplano it is younger (∼15–0 Ma) and associated with enhanced erosion perhaps unrelated to deformation. An emerging view highlights a kinematic shift to extension within the Puna plateau since the late Miocene to Pliocene that continues today (Schoenbohm and Strecker, 2009).\nIn summary, the synoptic chronology of AP evolution describes a history that is protracted through the Cenozoic (∼60–0 Ma) and rather continuous in nature along the entire strike of the plateau spanning ∼1500 km."
+  }, {
+    "heading": "5.2. Evaluation of the two geologic models for Andean Plateau (AP) development",
+    "text": "Comparison with the synoptic chronology of AP evolution is the most direct method for evaluating the punctuated and continuous deformation models outlined in Section 3. The chronology of the punctuateddeformationmodel doesnotmatch the synoptic chronology (Section 5.1). The punctuated deformation model chronology needs to be pushed back from initiation at∼27Ma to initiation∼60–40 Ma to be consistent with deformation, sedimentation, and exhumation observations (Figs. 5 and 9B; Sections 3.1, 4.2, 4.3, and 5.1). Also, the switch in deformation mode from pure to simple shear could have happened anywhere between 20 and 8 Ma (as opposed to ∼10 Ma) if it is best represented by the onset of thin-skinned deformation in the SA (Section 4.3). In contrast, the continuous deformation model (as well as themodel proposed byOncken et al. (2006b)) describes deformation beginning ≥∼45 Ma which is consistent with the synoptic history.\nAs proposed in the punctuated deformation model, the required older deformation chronology also implies an equivalent chronologic shift in the reconstruction of previously flat-slab subduction below the plateau and consequently volcanism at the surface. For example, Isacks (1988) proposed flat-slab subduction from ∼25–12 Ma and its return to normal subduction ∼10 Ma. Now it is proposed that flat-slab subduction was from ∼35–25 Ma with its return to normal subduction by ∼20 Ma as inferred from volcanic exposures (Figs. 6C and 9C; Section 4.4) (James and Sacks, 1999; Hoke and Lamb, 2007).\nThe temporal variation in deformation rate is also an important distinction between the two geologic models. At 21°S, Oncken et al. (2006b) documented reduced shortening from 45–33 Ma followed by enhanced shortening from 33–20 Ma. Although this deformation is punctuated, it is not chronologically consistentwith the 2 stages of the punctuated model. Estimated shortening rates along strike of the eastern Altiplano flank from 19.5–15°S show a consistent average of ∼12–8 mm/yr since ∼40 Ma, potentially decreasing to ∼4–3 mm/yr depending on the age of SA deformation (∼20–0 vs. ∼8–0 Ma) (McQuarrie et al., 2005; Barnes et al., 2008; McQuarrie et al., 2008a). This is consistent with the continuous deformation model. However, in detail, there was a reduction/cessation of shortening for 15–5Myr as inferred from a lack of a thermochronometer cooling signal from ∼25 Ma until 20–8 Ma in northern Bolivia (McQuarrie et al., 2008a). In northernmost Argentina, 11–8 mm/yr shortening is inferred to begin in the Subandes at 9 Ma (Echavarria et al., 2003) supporting stage 2 initiation (∼10 Ma) of the punctuated deformation model. Along the western flank in the Precordillera in northern Chile, shortening rates range from ∼0.05–0.3 mm/yr 30–5 Ma and reach their maximum at ∼15–13 Ma (Victor et al., 2004). This contrast between variable and consistent estimated rates of shortening since ∼40 Ma suggests that (a) observation scale is important in determining deformation intensity through time, and (b) the observations can be used to support anything along a continuum from significant to no coupling of upper-plate deformation rate to changes in plate convergence magnitude and direction since ∼40 Ma (Fig. 1A) (e.g. Pardo-Casas\nand Molnar, 1987; Hindle et al., 2002; Oncken et al., 2006a). At the AP scale (10s Myr and 100–1000s km) the constraints suggest a constant rate of ∼12–8 mm/yr since ∼40 Ma (Section 4.2).\nIn conclusion, continuous deformation is the preferred geologic model because it is most consistent with the observations as represented by the synoptic history of AP evolution (compare Sections 3.2 and 5.1)."
+  }, {
+    "heading": "5.3. Evaluation of the recent and rapid uplift model",
+    "text": "Overall, the rapid rise end member uplift model is not well supported by the evidence, but some observations are consistent with it. As outlined in Section 3.3, the recent and rapid uplift model proposes rapid uplift of ∼2.5 km from 10–6 Ma and predicts contemporaneous plateau flank incision, cessation of deformation within the plateau, decrease in Nazca–South America plate convergence rates, and initial deformation in the SA (Garzione et al., 2006; Ghosh et al., 2006; Garzione et al., 2008b). Supporting evidence for this model includes: (1) ∼1.7 km of rock uplift of the EC in southern Bolivia since 12–9 Ma (Figs. 7 and 9D; Section 4.5) (Barke and Lamb, 2006), (2) eruption of mafic lavas in the north-central Altiplano ∼7.5–5.5 Ma reflecting a minimum delamination age (Lamb and Hoke, 1997; Carlier et al., 2005), (3) cessation of shortening in the Altiplano ∼8– 7 Ma (Fig. 5; Section 5.1) (Kennan et al., 1995; Lamb and Hoke, 1997; Elger et al., 2005), (4) a plate convergence rate drop of ∼30% ∼8–5 Ma (Garzione et al., 2006), and (5) initial SA deformation at ∼9–8 Ma in northern Argentina/southernmost Bolivia (Fig. 5; Tables 2 and 3) (Echavarria et al., 2003; Scheuber et al., 2006). Evidence that is ambiguous because there are multiple possible causes (i.e. surface uplift or climate change) are: (1) the paleoaltimetry data indicating low elevations of ≤∼1 km since ∼25 Ma followed by ∼2.5 km of surface uplift 10–6 Ma (Figs. 7 and 9D; Section 4.5) (e.g. Garzione et al., 2008b) and (2) significant (2.5–1 km) late Miocene-to-recent (∼10–0 Ma) incision of the western plateau flank (Figs. 8 and 9E; Section 4.6) (e.g. Hoke et al., 2007; Schildgen et al., 2007).\nMany observations and key interpretations are not consistent with the rapid rise model. The previously described synoptic history of AP evolution attests to significant deformation, sedimentation, and exhumation throughout wide regions within and along the plateau margins >10 Ma which argues for substantial crustal thickness prior to this time (Figs. 5 and 9B; Sections 4.2–4.3) (see also Sempere et al., 2006; Hartley et al., 2007). Oligocene (∼25 Ma) volcanics along both AP margins (Wörner et al., 2002; Barke et al., 2007) indicate significantheat and crustal sources associated with a thickened crust and thin lithosphere (possibly with associated isostatic uplift) were already in place by ∼25Ma (Figs. 6C and 9C; Section 4.4) (Babeyko et al., 2002; Hartley et al., 2007; Hoke and Lamb, 2007). This implies that by∼20 Ma theAPhada thickened crustwhichmayhavehadahigher density,mafic lower crust and/or mantle lithosphere that, in turn, may have already been removed by ablation or some form of delamination. If the onset of mafic volcanism is a proxy for delamination, then it is chronologically inconsistentwithuplift at 10 Ma in both theAltiplano (onset at∼25Ma; Fig. 6C) and Puna (onset at ∼3 Ma) (see Section 4.4) (e.g. Kay et al., 1994; Hoke and Lamb, 2007). In detail, numerous mafic eruptions within the Altiplano might actually represent multiple, minor delamination events at 25, 21, 14–11, and 4–0 Ma (Fig. 6C) (Hoke and Lamb, 2007) which is more consistent with piecemeal lithospheric removal. The noted 7.5–5.5 Mamafic volcanics erupted throughout the northern and central Altiplano are actually andesitic and lack the geochemical signature of delamination magmatism (Hartley et al., 2007). Furthermore, one study indicates young Pliocene deformation in the Puna (Fig. 5A, Table 2) (Marrett et al., 1994), some studies suggest the SAmay have initiated before 10 Ma (Fig. 5B, Table 3) (Barnes et al., 2006, 2008; Uba et al., 2009), and young exhumation in the EC, southern Puna and SP began prior to the supposed uplift at ∼23–11 Ma (Carrapa et al., 2006; Deeken et al., 2006; Gillis et al., 2006; Barnes et al., 2008; Carrapa et al.,\n2008). Finally, the modern and spatially variable thickness of the lithosphere below theAP is inconsistentwithmassive removal at 10 Ma (Section 4.1.2).\nIn conclusion, the recent and rapid uplift model is not consistent with the preferred geologic model and inconsistent with many observations."
+  }, {
+    "heading": "5.4. Evaluation of the slow and steady uplift model",
+    "text": "Overall, the slow rise end member uplift model is more consistent with the evidence. As introduced in Section 3.4, the slow and steady uplift model proposes linear uplift of the ∼4 km plateau over the ∼60– 40Myr history of central Andean orogenesis. Supporting evidence and key interpretations for this model includes: (1) the preferred geologic model of continuous deformation because it proposes protracted and mostly steady deformation (Sections 3.2 and 5.2) (e.g. McQuarrie et al., 2005), (2) the synoptic chronologyofAPevolutionbecause it describes a similarly long history of deformation, exhumation, and sedimentation that is quite uniform over the scale of the AP (Section 5.1) (e.g. DeCelles and Horton, 2003; Barnes et al., 2008; Carrapa and DeCelles, 2008), (3) variable thicknesses in plateau lithosphere with some thin regions below the AL–EC transition today (perhaps in the process of delaminating) (Fig 2D; Section 4.1.2) (e.g. Beck and Zandt, 2002), and (4) magmatism and helium emissions that suggest the AP lithosphere has been thin since ∼25 Ma (Figs. 6C and 9C, Section 4.4) (Hoke and Lamb, 2007). The ambiguous evidence from the paleoaltimetry data is consistent with slow and steady rise since ≥∼25 Ma if a more conservative analysis of the data and/or a paleoclimate correction is applied in order to account for plateau uplift-induced climate change (Figs. 7B and 9D; Section 4.5) (Ehlers and Poulsen, 2009). Additionally, the ambiguous evidence of significant late Miocene-to-recent (2.5– 1 km, ∼10–0 Ma) incision of the western plateau flank (Figs. 8 and 9E; Section 4.6) (e.g. Hoke et al., 2007; Schildgen et al., 2007) could also be consistentwith a slow rise if themechanism for the incisionwas climate change. Finally, some observations that support the rapid rise model, such as SA initiation at ∼9 Ma in northern Argentina (Echavarria et al., 2003) and late Miocene to recent EC rock uplift (∼10–0 Ma, 1.7± 0.7 km) in southern Bolivia (Barke and Lamb, 2006), are not necessarily inconsistent, within error,with the slow and steady upliftmodel (which implies ∼1 km uplift/10 Myr).\nIn conclusion, the slow and steady uplift model is consistent with the preferred geologic model, more of the observations as encapsulated by the synoptic history of AP evolution, and also consistent with the paleoaltimetry and incision data given more conservative and/or alternative interpretations."
+  }, {
+    "heading": "6. Comparison of Andean observations with geodynamic models",
+    "text": "Many studies have used numerical models to gain insight into plateau formation processes and uplift often with application to the AP (Table 7). For example, (a) various calculations and 1D models provide bounds on the feasibility of geodynamic processes such as mantle convection, delamination, and crustal flow (e.g. Bird, 1979; Husson and Sempere, 2003; Molnar and Garzione, 2007), (b) 2D thin sheet models with viscoplastic rheologies help determine important factors controlling deformation in the South American plate (e.g. Husson and Ricard, 2004; Medvedev et al., 2006; Sobolev et al., 2006), and (c) 2–3D thermo and/or thermo-mechanical models with differing rheologies provide insight into the nature of coupling within and between the crust andmantle during orogenesis as well as further explore conditions necessary to facilitate processes like lower crustal flow or delamination (e.g. Wdowinski and Bock, 1994b; Pope and Willett, 1998; Springer, 1999; Beaumont et al., 2001; Yang et al., 2003; Beaumont et al., 2004; Willett and Pope, 2004; Yanez and Cembrano, 2004; Gerbault et al., 2005). In this section, we include only a few relevant studies that focus on plateaus other than the AP for brevity.\nSeveral processes are consistently demonstrated to be important in plateau formation given reasonable boundary conditions, parameters explored, and sometimes, specific threshold rheological behavior values that are poorly constrained. Lithospheric weakening is considered paramount and related to partial melting, significant mantle heat flux, and thickening of the radiogenic (and felsic) crust which eventually reduces in viscosity and begins to flow (e.g. Royden, 1996; Beaumont et al., 2001; Willett and Pope, 2004; Vietor and Oncken, 2005). The weakened AP lithosphere contrasts dramatically with the cold Brazilian craton under-thrusting from the east (e.g. Medvedev et al., 2006). A few models show that delamination can occur provided transition from gabbro to ecologite is implemented for themid-lower crust (Sobolev and Babeyko, 2005; Sobolev et al., 2006; see also Molnar and Garzione, 2007).\nNumerical models of AP development use constraints and produce results that are both consistent and inconsistent with observations synthesized in this paper (Table 8). Although comparisons of modeled and observed heat flow values are not included in Table 8, modelpredicted heat flow valuesmatch observations quitewell (e.g. Pope and Willett, 1998; Springer and Forster, 1998). While most models predict mean AP elevation consistent with modern values, several chose less shortening than the total inferred amount in the Altiplano (Fig. 1A; ∼500 km) (McQuarrie, 2002a) as well as less than ∼60–40 Myr for the deformation duration (Sections 4 and 5). However, most models did prescribe the amount of shortening observed (∼300–350 km). A few studies ran contrasting simulations of short and long (∼25 and ∼70Myr) deformation in which the longer duration result intuitively predicted a more gradual rise from 2 km elevation ∼25Ma (Yang et al., 2003). Two studies focused on plateau evolution over only the last 10 Myr (Babeyko et al., 2006; Iaffaldano et al., 2006). Several models that include delamination predict a recent uplift history consistentwith late Miocene rapid surface uplift. Finally, models predict both young (∼10 Ma) and old (∼20–15 Ma) establishment of themodern APwidth, the latter consistent with interpretations of the documented structure, deformation, and exhumation (Section 4.3). Interestingly, manymodels did not include erosion.\nThe most important insight from the numerical models is that a weakened lithosphere is important for plateaudevelopment by resulting in flow at depth (Table 7) (e.g. Pope andWillett, 1998; Beaumont et al., 2001; Willett and Pope, 2004; Vietor and Oncken, 2005; Babeyko et al., 2006; Medvedev et al., 2006). It may also be important that many AP numerical modeling studies under-simulated both the documented duration of deformation (≤∼30 vs. ∼60–40 Ma) and the maximum inferredmagnitudeof shortening (∼530vs.∼330 km)(Table8) (Husson and Ricard, 2004; Wdowinski and Bock, 1994b; Sobolev and Babeyko, 2005; Sobolev et al., 2006). This could have a profound effect on results and any associated interpretations, particularly with models used to differentiate between the end member uplift histories.\n7. Deficiencies in knowledge and future tests of uplift models\nThere are several potentially fruitful lines of future research to better constrain AP evolution and uplift. The synchronicity of deformation, sedimentation, and exhumation from northern Bolivia to Argentina implies a similar history for the northern portion of the AP in southern Peru, but observations are limited (Fig. 5). Results from such studies, as well as balanced cross sections and kinematic reconstructions, along the northernmost Altiplano flanks could (a) test the hypothesis that uppercrustal deformation in theAP is chronologically uniformalong strike, (b) determine how the east-flanking thrust belt is linked to the AP, and (c) provide insight into how the structural and stratigraphic architecture might vary northward (e.g. Gotberg et al., in press). Shallowgeophysical studies across the same region as well as the Bolivian Altiplano could address the controversy surrounding the geometry of basementinvolved structures that link the AP to the eastern margin thrust belt.\nThere are several ways to test the two endmember uplift models for the AP. First, the prediction of initial and increased shortening in the Subandes at ∼10 Ma contemporaneous with uplift by the recent and rapidmodel canbe tested bybetter quantification of SAdeformation and exhumation throughout Bolivia and Peru. Second, ore, oxygen, and clumped 13C–18O isotope data need to be collected from various paleosols north and south of the current location at 18°S (numbers 13–18 in Fig. 7) as well as more in older (>10 Ma) sediments to better delimit the Eocene-to-recent plateau elevation history. Fig. 4 shows previously studied and dated sediments that could be sampling targets for such studies. This would test the hypothesis implied by both uplift models that deformation, exhumation, and perhaps surface elevation was synchronous throughout the entire Altiplano or not. Indeed, the hypothesis thatdelamination in thePunaoccurred∼3 Ma fromtheonset of regional mafic magmas (Kay and Mahlburg Kay, 1993) implies much more recent uplift than even proposed by the rapid rise uplift model. Isotope paleoaltimetry data in the Puna could also test this hypothesis.\nAdditional avenues of future research include expanding the regional paleoclimate record back into the early Miocene or even earlier. This would allow (a) evaluation of the assumption of the modern climate being representative of the past as assumed by the paleoaltimetry data, (b) decipher whether incision records may reflect a climatic change trigger as opposed to delamination-driven surface uplift, and (c)\nevaluation and/or benchmarking of global-to-regional scale modeling of central South American climate history. Expansion of geophysical studies todetermine the lithospheric structurebelowthePuna,Argentine EC, and northern Altiplano in Peru would go a long way towards alongstrike substantiation or contradiction of the current tomography-driven interpretations of the mantle lithosphere below the central Altiplano. Finally, numerical simulations constrained by observations synthesized in this paper could be used to address questions such as: (1)What uplift histories are most consistent with the observed magnitudes, rates, and timing of deformation, shortening, and magmatism across the AP? (2) Howunique is themechanismofmantledelamination to thepossible late Miocene rapid surface uplift history? (3) Has erosion limited thrust belt propagation (and effectively plateauwidth) as suggested? (e.g. Masek et al., 1994; Horton, 1999; McQuarrie et al., 2008b), and (4) Does any important geodynamic process (i.e. crustal flow, ablative subduction, eclogitization of the lower crust and delamination) produce any other uniqueand identifiable evidence in thenear surface that geoscientists can hope to observe in the field or sense remotely?"
+  }, {
+    "heading": "8. Conclusions",
+    "text": "We conclude by listing a series of observations and key inferences consistent across many investigations presented in our synthesis. This\nlist is presented to identifywhat can be saidwith confidence concerning the Cenozoic structure and geologic evolution of the Andean Plateau, providing a test for evaluating future models of central Andes orogenesis. More specifically, any model that attempts to explain Andean Plateau development must honor the following (Fig. 9):\nA. Lithosphere (Fig. 9A): a crust exhibiting significant yet variable along-strike shortening (∼330–150 km) with a west-dipping monocline on the western flank and dominantly east-vergent thrust belt involving basement-to-cover rocks in the center to eastern flank (Fig. 2D). A plateau region possessing a positive geoid, a negative Bouguer gravity anomaly, low rigidity, high heat flow, and an isostatically compensated thick crust (∼80–65 km). In contrast, plateau margins exhibiting progressively thinner crust, reduced heat flow, and an increasingly rigid lithosphere away from the center. A lithosphere with an east-dipping high velocity zone down to 660 km corresponding to the subducting Nazca plate, variable velocity zones and high attenuation in the crust and upper mantle, and a high velocity mantle beneath the Eastern Cordillera corresponding to the under-thrusting Brazilian craton (Fig. 2D).\nB. Deformation and exhumation (Fig. 9B): a mostly continuous Cenozoic deformation, sedimentation, and exhumation history that progresses dominantly eastward since the Paleogene–Eocene (∼60–40 Ma). More specifically, initial deformation and exhumation began along the western flank at ∼60–40 Ma with a shift into the Eastern Cordillera ∼40 Ma. Continued and distributed Eastern Cordillera deformation from ∼40–20 Ma was followed by propagation eastward into the Interandean zone and westward in the Altiplano from ∼20 Ma until 10–5 Ma. The modern width of the Andean Plateau is inferred to be reached by 25–15 Ma. Deformation and exhumation propagated eastward into the Subandes/ Santa Barbara Ranges/Sierras Pampeanas at ∼15–10 Ma where it continues today. A younger phase of early-mid Miocene to present (∼23–0 Ma) exhumation in the Eastern Cordillera was probably the result of enhanced erosion along the northern Altiplano flank and related to deformation along the southern Puna flank. The 3-\ndimensional deformation field of the AP is characterized by rotation outward from the orocline axis.\nC. Magmatism (Fig. 9C): Cenozoic volcanism began in the Western Cordillera and continued until∼35Ma.Widespread back-arc,maficto-rhyolitic volcanism began again at ∼25 Ma across a ∼300 km wide (W–E) zone within the central Altiplano. Arc productivity has been higher south of∼20°S and has also decreased in age southward since ∼12 Ma. The widespread volcanism only recently retreated to its present and narrow (∼50 kmW–E) zone in the Western Cordillera ∼3 Ma. This volcanism infers a) a thin Altiplano lithosphere (<100 km thick) since ~25 Ma and b) a history of changing subduction geometry from normal to flat and back to normal during the Cenozoic. Onset of mafic magmatism at ∼3 Ma in thePunamaybe the result of recentdelamination and the causeof its higher mean elevation relative to the Altiplano.\nD. Uplift (Fig. 9D): most surface uplift from an initial elevation of ∼1 km has occurred since ≥∼25 Ma. Within error, paleoaltimetry data are equally consistent with anything from a slow and steady rise of the AP since≥25 Ma to a rapid rise of ∼2.5 km at ∼10–6 Ma. Much of the paleoaltimetry data can be explained by either surface uplift and/or climate change associated with plateau uplift.\nE. Incision (Fig. 9E): significant late Miocene incision (2.5–1 km since ∼11–8 Ma) has occurred along the Altiplano western flank with more minor incision both prior to this time and along the eastern plateau flank. The incision mechanism is unclear and could be surface uplift and/or climate change associated with plateau uplift. In contrast, there is no evidence for significant incision along the southeastern Puna margin.\nF. Modeling: models of Andean Plateau formation suggest that a weakened lithosphere resulting in flow at depth is important in the geodynamic evolution of the plateau.\nA major interpretation drawn from this synthesis is a synoptic history of Andean Plateau evolution that describes significant, yet variable upper-plate deformation (∼530–150 km shortening) within a weak lithosphere that was protracted (≥40 Myr since deformation\nand magmatism began, ∼25 Myr since the lithosphere was thin in places (<100 km thick)) and more uniform in time along strike (∼1500 km) than previously appreciated. This synoptic history is more consistent with a geologic model of relatively continuous deformation and an end member model of Andean Plateau uplift that emphasizes a slow and steady rise since the Eocene (∼40 Ma) or even earlier. Therefore, we suggest the late Miocene (∼10 Ma) rapid uplift model may be an overestimate and that a protracted Cenozoic uplift history is tenable."
+  }, {
+    "heading": "Acknowledgements",
+    "text": "Financial support was provided to J. Barnes by a University of Michigan Rackham Graduate School Predoctoral Fellowship and to T. Ehlers by NSF grants EAR 0409289 and 0738822. We thank Sohrab Tawackoli for his scientific and logistical help working in Bolivia over the years. We thank Jeroen Ritsema for discussions on caveats associated with seismic data and Nadine McQuarrie and Brian Horton for discussions on the relationships between upper-crust structure, sedimentation, and exhumation in Bolivia. Chris Poulsen, Rob Van Der Voo, Larry Ruff, and Nadine McQuarrie provided insightful comments on an earlier version of this paper. Comments from three anonymous reviewers helped improve this manuscript. This work would not have been possible without the extensive efforts by European, North American, and South American scientists on the central Andes."
+  }],
+  "year": 2009,
+  "references": [{
+    "title": "Tectonic development, southeastern border of the Puna",
+    "authors": ["R.W. Allmendinger"],
+    "year": 1986
+  }, {
+    "title": "Pure and simple shear plateau uplift, Altiplano",
+    "authors": ["R.W. Allmendinger", "T.L. Gubbels"],
+    "year": 1996
+  }, {
+    "title": "The evolution",
+    "authors": ["R.W. Allmendinger", "T.E. Jordan", "S.M. Kay", "B.L. Isacks"],
+    "year": 1997
+  }, {
+    "title": "Giant evaporite belts",
+    "authors": ["R.N. Alonso", "T.E. Jordan", "K.T. Tabbutt", "D.S. Vandervoort"],
+    "year": 1991
+  }, {
+    "title": "Middle Miocene climatic change in the Atacama",
+    "authors": ["C.N. Alpers", "G.H. Brimhall"],
+    "year": 1988
+  }, {
+    "title": "K–Arandfission trackmineral agedeterminationsof",
+    "authors": ["P.A.M. Andriessen", "K.J. Reutter"],
+    "year": 1994
+  }, {
+    "title": "K–Ar and 40Ar/39Ar geochronology",
+    "authors": ["G. Arancibia", "S.J. Matthews", "C. Perez de Arce"],
+    "year": 2006
+  }, {
+    "title": "Salar de Atacama basin: a record",
+    "authors": ["C. Arriagada", "P.R. Cobbold", "P. Roperch"],
+    "year": 2006
+  }, {
+    "title": "Quantifying different modes of the late Cenozoic",
+    "authors": ["A.Y. Babeyko", "S.V. Sobolev"],
+    "year": 2005
+  }, {
+    "title": "Neogene shortening contribution",
+    "authors": ["P. Baby", "P. Rochat", "G. Mascle", "G. Herail"],
+    "venue": "American Association of Petroleum Geologists Memoir,",
+    "year": 1997
+  }, {
+    "title": "Late Cenozoic uplift of the Eastern Cordillera, Bolivian Andes",
+    "authors": ["R. Barke", "S. Lamb"],
+    "venue": "ages and volumes. Earth and Planetary Science Letters",
+    "year": 2006
+  }, {
+    "title": "Late Cenozoic bending of the Bolivian Andes",
+    "authors": ["R. Barke", "S. Lamb", "C. MacNiocaill"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2007
+  }, {
+    "title": "Latitudinal variation of denudation in the evolution",
+    "authors": ["J.D. Pelletier"],
+    "year": 2006
+  }, {
+    "title": "Plio-Quaternary sediment budget between thrust belt",
+    "authors": ["J.B. Barnes", "W.A. Heins"],
+    "venue": "Bolivian Andes. American Journal of Science",
+    "year": 2009
+  }, {
+    "title": "2001.Himalayan tectonics explainedby",
+    "authors": ["R.A. Jamieson", "M.H. Nguyen", "B. Lee"],
+    "year": 2001
+  }, {
+    "title": "Crustal channel flows",
+    "authors": ["C. Beaumont", "R.A. Jamieson", "M.H. Nguyen", "S. Medvedev"],
+    "venue": "Nature",
+    "year": 2004
+  }, {
+    "title": "A tale of two continents",
+    "authors": ["M.E. Beck Jr.", "R.R. Burmester", "R.E. Drake", "P.D. Riley"],
+    "year": 1994
+  }, {
+    "title": "Cordillera, as illustrated by their paleomagnetic signatures",
+    "authors": ["S.L. Beck", "G. Zandt", "S.C. Myers", "T.C. Wallace", "P.G. Silver", "L. Drake"],
+    "venue": "Tectonics 13,",
+    "year": 1996
+  }, {
+    "title": "Shear wave anisotropy in the upper mantle",
+    "authors": ["G. Bock", "R. Kind", "A. Rudloff", "G. Asch"],
+    "venue": "Journal of Science",
+    "year": 1998
+  }, {
+    "title": "Geodynamic and magmatic stages on a traverse through",
+    "authors": ["C. 24333–24345. Breitkreuz", "W. Zeil"],
+    "year": 1984
+  }, {
+    "title": "beneath the southern Peruvian Altiplano. Geology",
+    "authors": ["E. Carminati", "C. Doglioni", "S. Barba"],
+    "year": 2004
+  }, {
+    "title": "Tectonics 27, TC1015",
+    "authors": ["northwestern Argentina"],
+    "year": 2005
+  }, {
+    "title": "Tectonics 24, TC4011",
+    "authors": ["central Andes"],
+    "year": 2006
+  }, {
+    "title": "Dynamics of deformation and sedimentation in the northern",
+    "authors": ["J. Gomez"],
+    "year": 2008
+  }, {
+    "title": "Apatite triple",
+    "authors": ["B. Carrapa", "P.G. DeCelles", "P.W. Reiners", "G.E. Gehrels", "M. Sudo"],
+    "venue": "Argentina. Geological Society of America Bulletin",
+    "year": 2009
+  }, {
+    "title": "Central Andes: a multiphase tectonothermal history",
+    "authors": ["J. Chmielowski", "G. Zandt", "C. Haberland"],
+    "year": 1999
+  }, {
+    "title": "Late Cenozoic deformation in the Central Andes: fault kinematics from the northern Puna, northwestern Argentina and southwestern Bolivia",
+    "authors": ["T.T. Cladouhos", "R.W. Allmendinger", "B. Coira", "E. Farrar"],
+    "venue": "Journal of South American Earth Sciences",
+    "year": 1994
+  }, {
+    "title": "Implications of Quaternary volcanism at Cerro Tuzgle for crustal and mantle evolution of the Puna Plateau, Central Andes, Argentina",
+    "authors": ["B. Coira", "S.M. Kay"],
+    "venue": "Contributions to Mineralogy and Petrology",
+    "year": 1993
+  }, {
+    "title": "Apatite fissiontrack thermochronology of the Sierras Pampeanas, central western Argentina: implications for the mechanism of plateau uplift in the Andes",
+    "authors": ["T.J. Coughlin", "P.B. O'Sullivan", "B.P. Kohn", "R.J. Holcombe"],
+    "venue": "Geology",
+    "year": 1998
+  }, {
+    "title": "Style and history of Andean deformation, Puna Plateau, northwestern Argentina",
+    "authors": ["I. Coutand", "P. Gautier", "P.R. Cobbold", "M. de Urreiztieta", "A. Chauvin", "D. Gapais", "E.A. Rossello", "O. Lopez-Gammundi"],
+    "venue": "Tectonics",
+    "year": 2001
+  }, {
+    "title": "Propagation of orographic barriers along an active range front: insights from sandstone petrography and detrital apatite fission-track thermochronology in the intramontane Angastaco Basin, NW Argentina",
+    "authors": ["I. Coutand", "B. Carrapa", "A. Deeken", "A.K. Schmitt", "E.R. Sobel", "M.R. Strecker"],
+    "venue": "Basin Research",
+    "year": 2006
+  }, {
+    "title": "Pre-Mesozoic evolution of the central Andes; the basement revisited",
+    "authors": ["Damm", "K.-W", "S. Pichowiak", "R.S. Harmon", "W. Todt", "S. Kelley", "R. Omarini", "H. Niemeyer"],
+    "venue": "Plutonism from Antarctica to Alaska: Geological Society of America Special Paper,",
+    "year": 1990
+  }, {
+    "title": "Volcanic rocks from the Bolivian Altiplano: insights into crustal structure, contamination, and magma genesis",
+    "authors": ["J.P. Davidson", "S.L. de Silva"],
+    "venue": "Geology 20,",
+    "year": 1992
+  }, {
+    "title": "Late Cenozoic magmatism of the Bolivian Altiplano",
+    "authors": ["J.P. Davidson", "S.L. de Silva"],
+    "venue": "Contributions to Mineralogy and Petrology",
+    "year": 1995
+  }, {
+    "title": "Cenozoic provenance history of synorogenic conglomerates in western Argentina (Famatina belt): implications for Central Andean foreland development",
+    "authors": ["F.M. Davila", "R.A. Astini"],
+    "venue": "Geological Society of America Bulletin",
+    "year": 2007
+  }, {
+    "title": "Altiplano–Puna volcanic complex of the Central Andes",
+    "authors": ["S.L. de Silva"],
+    "venue": "Geology",
+    "year": 1989
+  }, {
+    "title": "Geochronology and stratigraphy of the ignimbrites from the 21.5° to 23.5°S portion of the central Andes of northern Chile",
+    "authors": ["S.L. de Silva"],
+    "venue": "Journal of Volcanology and Geothermal Research",
+    "year": 1989
+  }, {
+    "title": "Episodic construction of batholiths: insights from the spatiotemporal development of an ignimbrite flare-up",
+    "authors": ["S.L. de Silva", "W.D. Gosnold"],
+    "venue": "Journal of Volcanology and Geothermal Research",
+    "year": 2007
+  }, {
+    "title": "Effusive silicic volcanism in the Central Andes; the Chao Dacite and other young lavas of the Altiplano–Puna volcanic complex",
+    "authors": ["S.L. de Silva", "S. Self", "P.W. Francis", "R.E. Drake", "R.C. Ramirez"],
+    "venue": "Journal of Geophysical Research",
+    "year": 1994
+  }, {
+    "title": "Early tomiddle Tertiary foreland basin development and the history of Andean crustal shortening in Bolivia",
+    "authors": ["P.G. DeCelles", "B.K. Horton"],
+    "venue": "Geological Society of America Bulletin",
+    "year": 2003
+  }, {
+    "title": "Detrital zircon U–Pb ages provide provenance and chronostratigraphic information from Eocene synorogenic deposits in northwestern Argentina",
+    "authors": ["P.G. DeCelles", "B. Carrapa", "G.E. Gehrels"],
+    "venue": "Geology",
+    "year": 2007
+  }, {
+    "title": "Cyclicty in Cordilleran orogenic systems",
+    "authors": ["P.G. DeCelles", "M.N. Ducea", "P. Kapp", "G. Zandt"],
+    "venue": "Nature Geoscience",
+    "year": 2009
+  }, {
+    "title": "Development of the southern Eastern Cordillera, NW Argentina, constrained by apatite fission track thermochronology: from Early Cretaceous extension to middle Miocene shortening",
+    "authors": ["A. Deeken", "E.R. Sobel", "I. Coutand", "M. Haschke", "U. Riller", "M.R. Strecker"],
+    "venue": "Tectonics 25,",
+    "year": 2006
+  }, {
+    "title": "Subduction kinematics and dynamic constraints",
+    "authors": ["C. Doglioni", "E. Carminati", "M. Cuffaro", "D. Scrocca"],
+    "venue": "Earth Science Reviews",
+    "year": 2007
+  }, {
+    "title": "Local earthquake tomography of the Altiplano and the Eastern Cordillera of northern Bolivia",
+    "authors": ["C. Dorbath", "M. Granet"],
+    "venue": "Tectonophysics",
+    "year": 1996
+  }, {
+    "title": "A teleseismic study of the Altiplano and the Eastern Cordillera in northern Bolivia — new constraints on a lithospheric model",
+    "authors": ["C. Dorbath", "M. Granet", "G. Poupinet", "C. Martinez"],
+    "venue": "Journal of Geophysical Research",
+    "year": 1993
+  }, {
+    "title": "Tomography of the Andean crust and mantle at 20°S: first results of the Lithoscope Experiment",
+    "authors": ["C. Dorbath", "A. Paul"],
+    "venue": "TheLithosphereAndeanGroup,",
+    "year": 1996
+  }, {
+    "title": "Structural styles and hydrocarbon potential of the sub-Andean thrust belt of southern Bolivia",
+    "authors": ["J.F. Dunn", "K.G. Hartshorn", "P.W. Hartshorn"],
+    "venue": "Petroleum Basins of South America: American Association of Petroleum Geologists Memoir,",
+    "year": 1995
+  }, {
+    "title": "Subandean thrust and fold belt of northwestern Argentina: geometry and timing of the Andean evolution",
+    "authors": ["L. Echavarria", "R. Hernandez", "R. Allmendinger", "J. Reynolds"],
+    "venue": "American Association of Petroleum Geologists Bulletin",
+    "year": 2003
+  }, {
+    "title": "Exhumation history of the southern Altiplano plateau (southern Bolivia) constrained by apatite fission-track thermochronology",
+    "authors": ["H. Ege", "E.R. Sobel", "E. Scheuber", "V. Jacobshagen"],
+    "venue": "Tectonics 26,",
+    "year": 2007
+  }, {
+    "title": "Crustal thermal processes and the interpretation of thermochronometer data",
+    "authors": ["T.A. Ehlers"],
+    "venue": "Mineralogical Society of America,",
+    "year": 2005
+  }, {
+    "title": "Influence of Andean uplift on climate and paleoaltimetry estimates",
+    "authors": ["T.A. Ehlers", "C.J. Poulsen"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2009
+  }, {
+    "title": "Response to comment on “Rapid uplift of the Altiplano revealed through 13C–18O bonds in paleosol carbonates",
+    "authors": ["J. Eiler", "C.N. Garzione", "P. Ghosh"],
+    "venue": "Science 314",
+    "year": 2006
+  }, {
+    "title": "Plateau-style accumulation of deformation: southern Altiplano",
+    "authors": ["K. Elger", "O. Oncken", "J. Glodny"],
+    "venue": "Tectonics 24,",
+    "year": 2005
+  }, {
+    "title": "Surface uplift, uplift of rocks, and exhumation of rocks",
+    "authors": ["P. England", "P. Molnar"],
+    "venue": "Geology",
+    "year": 1990
+  }, {
+    "title": "Late Cenozoic deformation and uplift of the western flank of the Altiplano: evidence from the depositional, tectonic, and geomorphologic evolution and shallow seismic activity (northern Chile at 19 30′S)",
+    "authors": ["M. Farias", "R. Charrier", "D. Comte", "J. Martinod", "G. Herail"],
+    "venue": "Tectonics 24",
+    "year": 2005
+  }, {
+    "title": "Zongo-San Gaban Zone: Eocene foreland boundary of the central Andean orogen, northwest Bolivia and southeast",
+    "authors": ["E. Farrar", "A.H. Clark", "D.J. Kontak", "D.A. Archibald"],
+    "venue": "Peru. Geology",
+    "year": 1988
+  }, {
+    "title": "Late Cenozoic rates of magmatic activity in the Central Andes and their relationships to continental crust formation and thickening",
+    "authors": ["P.W. Francis", "C.J. Hawkesworth"],
+    "venue": "Journal of the Geological Society of London",
+    "year": 1994
+  }, {
+    "title": "The mechanical state of the lithosphere in the Altiplano– Puna segment of the Andes",
+    "authors": ["C. Froidevaux", "B.L. Isacks"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 1984
+  }, {
+    "title": "Rapid late Miocene rise of the Bolivian Altiplano: evidence for removal of mantle lithosphere",
+    "authors": ["C.N. Garzione", "P. Molnar", "J. Libarkin", "B. MacFadden"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2006
+  }, {
+    "title": "Reply to Comment on “Rapid late Miocene rise of the Bolivian Altiplano: Evidence for removal of mantle lithosphere",
+    "authors": ["C.N. Garzione", "P. Molnar", "J. Libarkin", "B. MacFadden"],
+    "venue": "Garzione et al",
+    "year": 2007
+  }, {
+    "title": "Comparison between spatial–temporal variations in paleoelevation and modern lithospheric structure of the Andean plateau",
+    "authors": ["C.N. Garzione", "S.L. Beck", "G. Zandt", "J. Bershaw", "D. Auerbach", "J.J. Smith"],
+    "venue": "Eos Transactions AGU",
+    "year": 2008
+  }, {
+    "title": "Palaeoclimatic implications of Mio-Pliocene sedimentation in the high-altitude intra-arc Lauca Basin of northern Chile",
+    "authors": ["R. Gaupp", "A. Kott", "G. Wörner"],
+    "year": 1999
+  }, {
+    "title": "Topography and subduction geometry in the central Andes: clues to the mechanics of a noncollisional orogen",
+    "authors": ["J. Gephart"],
+    "venue": "Journal of Geophysical",
+    "year": 1994
+  }, {
+    "title": "Possible orogeny-parallel lower crustal flow and thickening in the Central Andes",
+    "authors": ["M. Gerbault", "J. Martinod", "G. Herail"],
+    "venue": "Tectonophysics 399,",
+    "year": 2005
+  }, {
+    "title": "Rapid uplift of the Altiplano revealed through 13C–18O bonds in paleosol carbonates",
+    "authors": ["P. Ghosh", "C.N. Garzione", "J.M. Eiler"],
+    "year": 2006
+  }, {
+    "title": "Crustal thickening processes in the Central Andes and the different natures of theMoho-discontinuity",
+    "authors": ["P. Giese", "E. Scheuber", "F. Schilling", "M. Schmitz", "P. Wigger"],
+    "venue": "Central Andean Deformation. Pergamon,",
+    "year": 1999
+  }, {
+    "title": "Thermochronology, geochronology, and upper crustal structure of the Cordillera Real: implications for Cenozoic exhumation of the central Andean plateau",
+    "authors": ["R.J. Gillis", "B.K. Horton", "M. Grove"],
+    "venue": "Tectonics 25,",
+    "year": 2006
+  }, {
+    "title": "Gravity field at the South American active margin (20 to 29°S)",
+    "authors": ["Gotze", "H.-J", "A. Kirchner"],
+    "venue": "Journal of South American Earth Sciences",
+    "year": 1997
+  }, {
+    "title": "The lithospheric structure of the central Andes (20–26°S) as inferred from interpretation of regional gravity",
+    "authors": ["Gotze", "H.-J", "B. Lahmeyer", "S. Schmidt", "S. Strunk"],
+    "year": 1994
+  }, {
+    "title": "Three-dimensional models of P wave velocity and P-to-S velocity ratio in the southern central Andes by simultaneous inversion of local earthquake data",
+    "authors": ["F.M. Graeber", "G. Asch"],
+    "venue": "Journal of Geophysical Research",
+    "year": 1999
+  }, {
+    "title": "A Mio-Pliocene palynoflora from the Eastern Cordillera, Bolivia: implications for the uplift history of the central Andes",
+    "authors": ["A. Graham", "K.M. Gregory-Wodzicki", "K.L. Wright"],
+    "venue": "American Journal of Botany",
+    "year": 2001
+  }, {
+    "title": "Uplift history of the central and northern Andes: a review",
+    "authors": ["K.M. Gregory-Wodzicki"],
+    "venue": "Geological Society of America Bulletin",
+    "year": 2000
+  }, {
+    "title": "Climatic and tectonic implications of the late Miocene Jakokkota Flora, Bolivian Altiplano",
+    "authors": ["K.M. Gregory-Wodzicki", "W.C. McIntosh", "K. Velasquez"],
+    "venue": "Journal of South American Earth Sciences",
+    "year": 1998
+  }, {
+    "title": "Age of the Payogastilla Group: implications for foreland basin development, NWArgentina",
+    "authors": ["M.E. Grier", "R.D. Dallmeyer"],
+    "venue": "Journal of South American Earth Sciences",
+    "year": 1990
+  }, {
+    "title": "High-level surfaces, plateau uplift, and foreland development",
+    "authors": ["T.L. Gubbels", "B.L. Isacks", "E. Farrar"],
+    "venue": "Bolivian central Andes. Geology",
+    "year": 1993
+  }, {
+    "title": "Coincident anomalies of seismic attenuation and electrical resistivity beneath the southern Bolivian Altiplano plateau",
+    "authors": ["C. Haberland", "B. Schurr", "A. Rietbrock", "H. Brasse"],
+    "venue": "Geophysical Research Letters",
+    "year": 2003
+  }, {
+    "title": "Implication of 40Ar/39Ar dating of early Tertiary volcanic rocks from the North-Chilean Precordillera",
+    "authors": ["K. Hammerschmidt", "R. Doebel", "H. Friedrichsen"],
+    "venue": "Tectonophysics",
+    "year": 1992
+  }, {
+    "title": "Regional O-, Sr-, and Pb-isotope relationships in late Cenozoic calc-alkaline lavas of the Andean Cordillera",
+    "authors": ["R.S. Harmon", "B.A. Barreiro", "S. Moorbath", "J. Hoefs", "P.W. Francis", "R.S. Thorpe", "B. Deruelle", "J. McHugh", "J.A. Viglino"],
+    "venue": "Journal of theGeological Society of London",
+    "year": 1984
+  }, {
+    "title": "Andean uplift and climate change",
+    "authors": ["A.J. Hartley"],
+    "venue": "Journal of the Geological Society of London",
+    "year": 2003
+  }, {
+    "title": "Late Pliocene age for the Atacama Desert: implications for the desertification of western",
+    "authors": ["A.J. Hartley", "G. Chong"],
+    "venue": "South America. Geology",
+    "year": 2002
+  }, {
+    "title": "Controls on supergene enrichment of porphyry copper deposits in the Central Andes: a review and discussion",
+    "authors": ["A.J. Hartley", "C.M. Rice"],
+    "venue": "Mineralium Deposita",
+    "year": 2005
+  }, {
+    "title": "A comment on “Rapid late Miocene rise",
+    "authors": ["A.J. Hartley", "T. Sempere", "G. Wörner"],
+    "year": 2007
+  }, {
+    "title": "Balancing crustal thickening in arcs by tectonic vs",
+    "authors": ["M. 625–629. Haschke", "A. Gunther"],
+    "year": 2003
+  }, {
+    "title": "Repeated crustal thickening",
+    "authors": ["M. Haschke", "W. Siebel", "A. Gunther", "E. Scheuber"],
+    "venue": "magmatic means. Geology",
+    "year": 2002
+  }, {
+    "title": "Andean orogeny: repeated slab breakoff and flat subduction? Terra Nova",
+    "authors": ["C.J. Hawkesworth", "M. Hammil", "A.R. Gledhill", "P. van Calsteren", "G. Rogers"],
+    "venue": "Isotope",
+    "year": 1982
+  }, {
+    "title": "More constraints to determine the seismic structure beneath",
+    "authors": ["Wilke", "H.-G"],
+    "year": 2008
+  }, {
+    "title": "Strike-slip faulting, thrusting",
+    "authors": ["G. Herail", "J. Oller", "P. Baby", "M. Bonhomme", "P. Soler"],
+    "venue": "Bolivia and Peru. Journal of Geophysical Research",
+    "year": 1996
+  }, {
+    "title": "Cenozoic behind-arc volcanism in the Bolivian Andes",
+    "authors": ["L. Hoke", "S. Lamb"],
+    "venue": "Planetary Science Letters",
+    "year": 2007
+  }, {
+    "title": "Volcano evolution and eruptive flux on the thick",
+    "authors": ["J.M. 271–274. Hora", "B. Singer", "G. Wörner"],
+    "year": 2007
+  }, {
+    "title": "Geological Society of America Bulletin 119, 343–362",
+    "authors": ["Parinacota", "Chile"],
+    "year": 1998
+  }, {
+    "title": "Thickening the Altiplano crust by gravity-driven crustal",
+    "authors": ["L. Husson", "T. Sempere"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2003
+  }, {
+    "title": "Cenozoic stratigraphy and basin tectonics of the Andes",
+    "authors": ["T.E. Jordan", "R.N. Alonso"],
+    "venue": "SEPM Special Publication,",
+    "year": 1987
+  }, {
+    "title": "Variability in age of initial shortening and uplift in the Central Andes",
+    "authors": ["T.E. Jordan", "J.H. Reynolds III", "J.P. Erikson"],
+    "year": 1997
+  }, {
+    "title": "Cenozoic subsurface stratigraphy and structure of the Salar de Atacama Basin, northern Chile",
+    "authors": ["T.E. Jordan", "C. Mpodozis", "N. Munoz", "N. Blanco", "P. Pananont", "M. Gardeweg"],
+    "venue": "Journal of South American Earth Sciences",
+    "year": 2007
+  }, {
+    "title": "Delamination and delamination magmatism",
+    "authors": ["R.W. Kay", "S. Mahlburg Kay"],
+    "venue": "Tectonophysics",
+    "year": 1993
+  }, {
+    "title": "Magmatism as a probe to the Neogene shallowing of the Nazca plate beneath the modern Chilean flat-slab",
+    "authors": ["S.M. Kay", "C. Mpodozis"],
+    "venue": "Journal of South American Earth Sciences",
+    "year": 2002
+  }, {
+    "title": "Shallowing and steepening subduction zones, continental lithospheric loss, magmatism, and crustal flow under the Central Andean Altiplano–Puna Plateau",
+    "authors": ["S.M. Kay", "B.L. Coira"],
+    "venue": "Geological Society of America Memoir",
+    "year": 2009
+  }, {
+    "title": "Young mafic back arc volcanic rocks as indicators of continental lithospheric delamination beneath the Argentine Puna Plateau, Central Andes",
+    "authors": ["S.M. Kay", "B. Coira", "J. Viramonte"],
+    "venue": "Journal of Geophysical Research",
+    "year": 1994
+  }, {
+    "title": "Revised age of the Salla beds, Bolivia, and its bearing on the age of the Deseadan South American Land Mammal “Age",
+    "authors": ["R.F. Kay", "B.J. MacFadden", "R.H. Madden", "H. Sandeman", "F. Anaya"],
+    "venue": "Journal of Vertebrate Paleontology",
+    "year": 1998
+  }, {
+    "title": "Large-scale geomorphology of the Andes: interrelationships of tectonics, magmatism and climate",
+    "authors": ["L. Kennan"],
+    "year": 2000
+  }, {
+    "title": "K–Ar dates from the Altiplano and Cordillera Oriental of Bolivia: implications for Cenozoic stratigraphy and tectonics",
+    "authors": ["L. Kennan", "S. Lamb", "J. Rundle"],
+    "venue": "Journal of South American Earth Sciences",
+    "year": 1995
+  }, {
+    "title": "High-altitude palaeosurfaces in the Bolivian Andes: evidence for late Cenozoic surface uplift",
+    "authors": ["L. Kennan", "S.H. Lamb", "L. Hoke"],
+    "venue": "Society of London,",
+    "year": 1997
+  }, {
+    "title": "Climate change in response to orographic barrier uplift: Paleosol and stable isotope evidence from the late Neogene Santa Maria Basin, northwestern Argentina",
+    "authors": ["K. Kleinert", "M.R. Strecker"],
+    "venue": "Geological Society of America Bulletin",
+    "year": 2001
+  }, {
+    "title": "Transition from basement-involved to thin-skinned thrusting in the Cordillera Oriental of southern Bolivia",
+    "authors": ["J. Kley"],
+    "venue": "Tectonics",
+    "year": 1996
+  }, {
+    "title": "Geologic and geometric constraints on a kinematic model of the Bolivian Orocline",
+    "authors": ["J. Kley"],
+    "venue": "Journal of South American Earth Sciences",
+    "year": 1999
+  }, {
+    "title": "Tectonic shortening and crustal thickness in the Central Andes; how good is the correlation? Geology",
+    "authors": ["J. Kley", "C.R. Monaldi"],
+    "year": 1998
+  }, {
+    "title": "Tectonic inversion in the Santa Barbara System of the central Andean foreland thrust belt, northwestern Argentina",
+    "authors": ["J. Kley", "C.R. Monaldi"],
+    "venue": "Tectonics 21",
+    "year": 2002
+  }, {
+    "title": "Along-strike segmentation of the Andean foreland: causes and consequences",
+    "authors": ["J. Kley", "C.R. Monaldi", "J.A. Salfity"],
+    "venue": "Tectonophysics",
+    "year": 1999
+  }, {
+    "title": "Surface uplift and climate change: the geomorphic evolution of the western escarpment of the Andes of northern Chile between the Miocene and present",
+    "authors": ["F. Kober", "F. Schlunegger", "G. Zeilinger", "H. Schneider"],
+    "venue": "Special Paper,",
+    "year": 2006
+  }, {
+    "title": "Paleomagnetic Studyof theCentral Andes: Counterclockwise Rotation of the Peruvian Block, Megaplates and Microplates: Proceedings, International Symposium",
+    "authors": ["M. Kono", "K. Heki", "Y. Hamano", "D.B. Stone"],
+    "year": 1985
+  }, {
+    "title": "Mountain building in the central Andes",
+    "authors": ["M. Kono", "Y. Fukao", "A. Yamamoto"],
+    "venue": "Rock Magnetism and Paleogeophysics Research Group in Japan,",
+    "year": 1988
+  }, {
+    "title": "Eocene tectono-thermal rejuvenation of an upper Paleozoic-lower Mesozoic terrane in the Cordillera de Carabaya, Puno, southeastern Peru, revealed by K–Ar and 40Ar/39Ar dating",
+    "authors": ["D.J. Kontak", "E.A. Farrar", "A.H. Clark", "D.A. Archibald"],
+    "venue": "Journal of South American Earth Sciences",
+    "year": 1990
+  }, {
+    "title": "Mean annual temperature estimation based on leaf morphology: a test from tropical South America",
+    "authors": ["E.A. Kowalski"],
+    "year": 2002
+  }, {
+    "title": "Incorporation of the Paleogene foreland into the Neogene Puna plateau: the Salar de Antofalla area, NW Argentina",
+    "authors": ["B. Kraemer", "D. Adelmann", "M. Alten", "W. Schnurr", "K. Erpenstein", "E. Kiefer", "P. van den Bogaard", "K. Gorler"],
+    "venue": "Journal of South American Earth Sciences",
+    "year": 1999
+  }, {
+    "title": "Fold and thrust belt structures and strike-slip faulting at the SE margin of the Salar de Atacama basin",
+    "authors": ["D. Kuhn"],
+    "venue": "Chilean Andes. Tectonics",
+    "year": 2002
+  }, {
+    "title": "Volcanism and structure of southwestern Bolivia",
+    "authors": ["S. Kussmaul", "P.K. Hormann", "E. Ploskinka", "T. Subieta"],
+    "venue": "Journal of Volcanology and Geothermal Research",
+    "year": 1977
+  }, {
+    "title": "Vertical axis rotation in the Bolivian Orocline, South America: 1, Paleomagnetic analysis of Cretaceous and Cenozoic rocks",
+    "authors": ["S. Lamb"],
+    "venue": "Journal of Geophysical Research",
+    "year": 2001
+  }, {
+    "title": "Cenozoic climate change as a possible cause for the rise of the Andes",
+    "authors": ["S. Lamb", "P. Davis"],
+    "venue": "Nature 425,",
+    "year": 2003
+  }, {
+    "title": "Origin of the high plateau in the central Andes, Bolivia, South America",
+    "authors": ["S. Lamb", "L. Hoke"],
+    "venue": "Tectonics",
+    "year": 1997
+  }, {
+    "title": "Cenozoic evolution of the Central Andes in Bolivia and northern Chile",
+    "authors": ["S. Lamb", "L. Hoke", "L. Kennan", "J. Dewey"],
+    "venue": "Orogeny through time: Special Publication of the Geological Society of London,",
+    "year": 1997
+  }, {
+    "title": "Neogene and Quaternary ignimbrites in the area of Arequipa, southern Peru: stratigraphical and petrological correlations",
+    "authors": ["P.P. Lebti", "Thouret", "J.-C", "G. Wörner", "M. Fornari"],
+    "venue": "Journal of Volcanology and Geothermal Research",
+    "year": 2006
+  }, {
+    "title": "Simulation and diagnosis of the regional summertime precipitation climatology of South America",
+    "authors": ["J.D. Lenters", "K.H. Cook"],
+    "venue": "Journal of Climate",
+    "year": 1995
+  }, {
+    "title": "How does trench coupling lead to mountain building in the Subandes? A viscoelastoplastic finite element model",
+    "authors": ["G. Luo", "M. Liu"],
+    "venue": "Journal of Geophysical Research 114,",
+    "year": 2009
+  }, {
+    "title": "Neogene paleomagnetism and oroclinal bending of the Central Andes of Bolivia",
+    "authors": ["B.J. MacFadden", "F. Anaya", "C.C. Swisher"],
+    "venue": "Journal of Geophysical Research",
+    "year": 1995
+  }, {
+    "title": "Bending of the Bolivian orocline and growth of the central Andean plateau: paleomagnetic and structural constraints from the Eastern Cordillera (22–24°S, NW Argentina)",
+    "authors": ["M. Maffione", "F. Speranza", "C. Faccenna"],
+    "venue": "Tectonics 28,",
+    "year": 2009
+  }, {
+    "title": "Fission track thermochronology of the Domeyko Cordillera, northern Chile: implications for Andean tectonics and porphyry copper metallogenesis",
+    "authors": ["V. Maksaev", "M. Zentilli"],
+    "venue": "Exploration and Mining Geology",
+    "year": 1999
+  }, {
+    "title": "Response of intracontinental deformation in the Central Andes to late",
+    "authors": ["R. Marrett", "M.R. Strecker"],
+    "venue": "Cenozoic reorganization of South American Plate motions. Tectonics",
+    "year": 2000
+  }, {
+    "title": "Late Cenozoic tectonic evolution of the Puna Plateau and adjacent foreland, northwestern Argentine Andes",
+    "authors": ["R.A. Marrett", "R.W. Allmendinger", "R.N. Alonso", "R.E. Drake"],
+    "venue": "Journal of South American Earth Sciences",
+    "year": 1994
+  }, {
+    "title": "The Petaca (late Oligocene–middle Miocene) and Yecua (late Miocene) formations of the Subandean-Chaco Basin, Bolivia, and their tectonic significance",
+    "authors": ["L.G. Marshall", "T. Sempere", "M. Gayet"],
+    "venue": "Documents des Laboratoires de Geologie, Lyon,",
+    "year": 1993
+  }, {
+    "title": "Erosion and tectonics at the margins of continental plateaus",
+    "authors": ["J.G. Masek", "B.L. Isacks", "T.L. Gubbels", "E.J. Fielding"],
+    "venue": "Journal of Geophysical Research",
+    "year": 1994
+  }, {
+    "title": "The geochemical variations of the upper cenozoic volcanism along the Calama–Olacapato–El Toro transversal fault system in central Andes (~24°S): petrogenetic and geodynamic implications",
+    "authors": ["A. Matteini", "R. Mazzuoli", "R. Omarini", "R. Cas", "R. Maas"],
+    "venue": "Tectonophysics 345,",
+    "year": 2002
+  }, {
+    "title": "Delimitation of a cryptic Eocene tectono-thermal domain in the Eastern Cordillera of the Bolivian Andes through K–Ar dating and 40Ar–39Ar step-heating",
+    "authors": ["S.L. McBride", "A.H. Clark", "E. Farrar", "D.A. Archibald"],
+    "venue": "Journal of the Geological Society of London",
+    "year": 1987
+  }, {
+    "title": "Initial plate geometry, shortening variations, and evolution of the Bolivian Orocline",
+    "authors": ["N. McQuarrie"],
+    "venue": "Geology",
+    "year": 2002
+  }, {
+    "title": "The kinematic history of the central Andean fold–thrust belt, Bolivia: implications for building a high plateau",
+    "authors": ["N. McQuarrie"],
+    "venue": "Geological Society of America Bulletin",
+    "year": 2002
+  }, {
+    "title": "Geometry and structural evolution of the central Andean backthrust belt, Bolivia",
+    "authors": ["N. McQuarrie", "P.G. DeCelles"],
+    "venue": "Tectonics",
+    "year": 2001
+  }, {
+    "title": "Lithospheric evolution of the Andean fold–thrust belt, Bolivia, and the origin of the central Andean plateau",
+    "authors": ["N. McQuarrie", "B.K. Horton", "G. Zandt", "S. Beck", "P.G. DeCelles"],
+    "venue": "Tectonophysics",
+    "year": 2005
+  }, {
+    "title": "Geometric, kinematic, and erosional history of the central Andean Plateau, Bolivia (15–17°S)",
+    "authors": ["N. McQuarrie", "J.B. Barnes", "T.A. Ehlers"],
+    "venue": "Tectonics 27,",
+    "year": 2008
+  }, {
+    "title": "Temporal variation in climate and tectonic coupling in the central Andes",
+    "authors": ["N. McQuarrie", "T.A. Ehlers", "J.B. Barnes", "B.J. Meade"],
+    "venue": "Geology",
+    "year": 2008
+  }, {
+    "title": "Andean growth and the deceleration of South America subduction: time evolution of a coupled orogen-subduction system",
+    "authors": ["B.J. Meade", "C.P. Conrad"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2008
+  }, {
+    "title": "Controls on the deformation of the central and southern Andes (10–35°S): insight from thin-sheet numerical modeling",
+    "authors": ["S. Medvedev", "Y. Podladchikov", "M.R. Handy", "E. Scheuber"],
+    "year": 2006
+  }, {
+    "title": "Cordilleran Andes and marginal Andes: a review of Andean geology north of the Arica elbow (18°S). In: Monger, J.W.H., Francheteau, J. (Eds.), CircumPacific Orogenic Belts and Evolution of the Pacific Ocean Basin",
+    "authors": ["F. Megard"],
+    "year": 1987
+  }, {
+    "title": "A review of paleotemperature-lapse rate methods for estimating paleoelevation from fossil floras",
+    "authors": ["H.W. Meyer"],
+    "venue": "Reviews in Mineralogy and Geochemistry",
+    "year": 2007
+  }, {
+    "title": "Evolution of continental crust in the Central Andes: constraints from Nd isotope systematics",
+    "authors": ["J.F. Miller", "Harris"],
+    "venue": "N.B.W.,",
+    "year": 1989
+  }, {
+    "title": "Late Cenozoic uplift of mountain ranges and global climate change; chicken or egg",
+    "authors": ["P. Molnar", "P.C. England"],
+    "venue": "Nature 346,",
+    "year": 1990
+  }, {
+    "title": "Bounds on the viscosity coefficient of continental lithosphere from removal of mantle lithosphere beneath the Altiplano and Eastern Cordillera",
+    "authors": ["P. Molnar", "C.N. Garzione"],
+    "venue": "Tectonics 26,",
+    "year": 2007
+  }, {
+    "title": "Mantle dynamics, uplift of the Tibetan Plateau, and the Indian monsoon",
+    "authors": ["P. Molnar", "P. England", "J. Martinod"],
+    "venue": "Reviews of Geophysics",
+    "year": 1993
+  }, {
+    "title": "Climate, tectonics, and the morphology of the Andes",
+    "authors": ["D.R. Montgomery", "G. Balco", "S.D. Willett"],
+    "venue": "Geology",
+    "year": 2001
+  }, {
+    "title": "Hydrocarbon generation in relation to thrusting in the Sub Andean Zone from 18 to 22°S, Bolivia",
+    "authors": ["I. Moretti", "P. Baby", "E. Mendez", "D. Zubieta"],
+    "venue": "Petroleum Geoscience",
+    "year": 1996
+  }, {
+    "title": "The Cenozoic history of the southern Atacama Desert, Chile",
+    "authors": ["C. Mortimer"],
+    "venue": "Journal of the Geological Society of London",
+    "year": 1973
+  }, {
+    "title": "Fragmentation of a foreland basin in response to out-ofsequence basement uplifts and structural reactivation: El Cajon-Campo del Arenal Basin, NW Argentina",
+    "authors": ["E. Mortimer", "B. Carrapa", "I. Coutand", "L. Schoenbohm", "E.R. Sobel", "J. Sosa Gomez", "M.R. Strecker"],
+    "venue": "Geological Society of America Bulletin",
+    "year": 2007
+  }, {
+    "title": "Structure and Cenozoic kinematics of the Eastern Cordillera, southern Bolivia (21°S)",
+    "authors": ["J.P. Müller", "J. Kley", "V. Jacobshagen"],
+    "venue": "Tectonics 21",
+    "year": 2002
+  }, {
+    "title": "Uplift of the western border of the Altiplano on a westvergent thrust system, Northern Chile",
+    "authors": ["N. Muñoz", "R. Charrier"],
+    "venue": "Journal of South American Earth Sciences",
+    "year": 1996
+  }, {
+    "title": "Lithospheric-scale structure across the Bolivian Andes from tomographic images of velocity and attentuation for P and S waves",
+    "authors": ["S.C. Myers", "S. Beck", "G. Zandt", "T. Wallace"],
+    "venue": "Journal of Geophysical Research",
+    "year": 1998
+  }, {
+    "title": "Concept of continuum as opposed to periodic tectonism in the Andes",
+    "authors": ["C. Noblet", "A. Lavenu", "R. Marocco"],
+    "venue": "Tectonophysics",
+    "year": 1996
+  }, {
+    "title": "Seismic imaging of a convergent continental margin and plateau in the central Andes (Andean",
+    "authors": ["O. Oncken", "S. Sobolev", "M. Stiller", "G. Asch", "C. Haberland", "J. Mechie", "X. Yuan", "E. Lueschen", "P. Giese", "P. Wigger", "S. Lueth", "E. Scheuber", "J. Goetze", "H. Brasse", "S. Buske", "Yoon", "M.-K", "S. Shapiro", "A. Rietbrock", "G. Chong", "Wilke", "H.-G", "G. Gonzalez", "P. Bravo", "H. Vieytes", "E. Martinez", "R. Roessling", "E. Ricaldi"],
+    "year": 2003
+  }, {
+    "title": "Deformation of the central Andean upper plate system — facts, fiction, and constraints for plateau models",
+    "authors": ["O. Oncken", "D. Hindle", "J. Kley", "K. Elger", "P. Victor", "K. Schemmann"],
+    "year": 2006
+  }, {
+    "title": "The Andes: Active Subduction Orogeny. Frontiers in Earth Sciences",
+    "authors": ["O. Oncken", "G. Chong", "G. Franz", "P. Giese", "Gotze", "H.-J", "V.A. Ramos", "M.R. Strecker", "P. Wigger"],
+    "year": 2006
+  }, {
+    "title": "Relative motion of the Nazca (Farallon) and South American plates since Late Cretaceous",
+    "authors": ["F. Pardo-Casas", "P. Molnar"],
+    "venue": "time. Tectonics",
+    "year": 1987
+  }, {
+    "title": "Effective elastic thickness variations along the Andean margin and their relationship to subduction geometry",
+    "authors": ["M. Perez-Gussinye", "A.R. Lowry", "J.P. Morgan", "A. Tassara"],
+    "year": 2008
+  }, {
+    "title": "Direction and timing of uplift propagation in the Peruvian Andes deduced from molecular phylogenetics of highland biotaxa",
+    "authors": ["D. Picard", "T. Sempere", "O. Plantard"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2008
+  }, {
+    "title": "Geochronology and stratigraphy of late Pleistocene lake cycles on the southern Bolivian Altiplano: implications for causes of tropical climate change",
+    "authors": ["C. Placzek", "J. Quade", "P.J. Patchett"],
+    "venue": "Geological Society of America Bulletin",
+    "year": 2006
+  }, {
+    "title": "Empirical relationships between elevation and the stable isotope composition of precipitation: considerations for studies of paleoelevation change",
+    "authors": ["M.A. Poage", "C.P. Chamberlain"],
+    "venue": "American Journal of Science",
+    "year": 2001
+  }, {
+    "title": "Shear wave anisotropy beneath the Andes from the BANJO, SEDA, and PISCO experiments",
+    "authors": ["J. Polet", "P.G. Silver", "S. Beck", "T. Wallace", "G. Xandt", "S. Ruppert", "R. Kind", "A. Rudloff"],
+    "venue": "Journal of Geophysical Research",
+    "year": 2000
+  }, {
+    "title": "Thermal–mechanical model for crustal thickening in the central Andes driven by ablative subduction",
+    "authors": ["D.C. Pope", "S.D. Willett"],
+    "venue": "Geology",
+    "year": 1998
+  }, {
+    "title": "Paleoelevation reconstruction using pedogenic carbonates",
+    "authors": ["J. Quade", "C. Garzione", "J. Eiler"],
+    "venue": "Reviews in Mineralogy and Geochemistry",
+    "year": 2007
+  }, {
+    "title": "Response of supergene processes to episodic Cenozoic uplift, pediment erosion, and ignimbrite eruption in the porphyry copper province of southern Peru",
+    "authors": ["C.X. Quang", "A.H. Clark", "J.K. Lee", "N. Hawkes"],
+    "venue": "Economic Geology and the Bulletin of the Society of Economic Geologists",
+    "year": 2005
+  }, {
+    "title": "The Pampean flat-slab of the Central Andes",
+    "authors": ["V.A. Ramos", "E.O. Cristallini", "D.J. Perez"],
+    "venue": "Journal of South American Earth Sciences",
+    "year": 2002
+  }, {
+    "title": "The Andean thrust system: latitudinal variations in structural styles and orogenic shortening",
+    "authors": ["V.A. Ramos", "T. Zapata", "E.O. Cristallini", "A. Introcaso"],
+    "venue": "Thrust Tectonics and Hydrocarbon Systems: American Association of Petroleum Geologists Memoir,",
+    "year": 2004
+  }, {
+    "title": "Neogene climate change and uplift in the Atacama Desert",
+    "authors": ["J.A. Rech", "B.S. Currie", "G. Michalski", "A.M. Cowan"],
+    "venue": "Chile. Geology",
+    "year": 2006
+  }, {
+    "title": "Past, present, and future of thermochronology",
+    "authors": ["P.W. Reiners", "T.A. Ehlers", "P.K. Zeitler"],
+    "venue": "Mineralogical Society of America,",
+    "year": 2005
+  }, {
+    "title": "The Precordilleran fault system of Chuquicamata, Northern Chile: evidence for reversals along arc-parallel strikeslip",
+    "authors": ["K.J. Reutter", "E. Scheuber", "G. Chong"],
+    "venue": "faults. Tectonophysics",
+    "year": 1996
+  }, {
+    "title": "Middle Miocene tectonic development of the transition zone, Salta Province, Northwest Argentina: magnetic stratigraphy from the Metan Subgroup",
+    "authors": ["J.H. Reynolds", "C.I. Galli", "R.M. Hernandez", "B.D. Idleman", "J.M. Kotila", "R.V. Hilliard", "C.W. Naeser"],
+    "venue": "Sierra de Gonzalez. Geological Society of America Bulletin",
+    "year": 2000
+  }, {
+    "title": "Sr isotope evolution of seawater: the role of tectonics",
+    "authors": ["F.M. Richter", "D.B. Rowley", "D.J. DePaolo"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 1992
+  }, {
+    "title": "Growth of the Central Andean Plateau by tectonic segmentation is controlled by the gradient in crustal shortening",
+    "authors": ["U. Riller", "O. Oncken"],
+    "venue": "Journal of Geology",
+    "year": 2003
+  }, {
+    "title": "Late Cenozoic tectonism, collapse caldera and plateau formation in the Central Andes",
+    "authors": ["U. Riller", "I. Petrinovic", "J. Ramelow", "M. Strecker", "O. Oncken"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2001
+  }, {
+    "title": "Exhumation Processes: Normal Faulting, Ductile Flow and Erosion",
+    "authors": ["U. Ring", "M.T. Brandon", "S.D. Willett", "G.S. Lister"],
+    "venue": "Exhumation processes",
+    "year": 1999
+  }, {
+    "title": "A geomorphological approach to determining the Neogene to Recent tectonic deformation in the Coastal Cordillera of northern Chile (Atacama)",
+    "authors": ["R. Riquelme", "J. Martinod", "G. Herail", "J. Darrozes", "R. Charrier"],
+    "year": 2003
+  }, {
+    "title": "Andean-age structure of Eastern Cordillera (Province of La Paz, Bolivia)",
+    "authors": ["D. Roeder"],
+    "venue": "Tectonics",
+    "year": 1988
+  }, {
+    "title": "Structural geology of sub-Andean fold and thrust belt in northwestern Bolivia",
+    "authors": ["D. Roeder", "R.L. Chamberlain"],
+    "venue": "Petroleum Basins of South America: American Association of Petroleum Geologists Memoir,",
+    "year": 1995
+  }, {
+    "title": "Magnetostratigraphy of the Miocene Corque basin, Bolivia: implications for the geodynamic evolution of the Altiplano during the late Tertiary",
+    "authors": ["P. Roperch", "G. Herail", "M. Fornari"],
+    "venue": "Journal of Geophysical Research",
+    "year": 1999
+  }, {
+    "title": "Tectonic rotations within the Bolivian Altiplano: implications for the geodynamic evolution of the central Andes during the late Tertiary",
+    "authors": ["P. Roperch", "M. Fornari", "G. Herail", "G.V. Parraguez"],
+    "venue": "Journal of Geophysical Research",
+    "year": 2000
+  }, {
+    "title": "Counterclockwise rotation of late Eocene–Oligocene fore-arc deposits in southern Peru and its significance for oroclinal bending in the central Andes",
+    "authors": ["P. Roperch", "T. Sempere", "O. Macedo", "C. Arriagada", "M. Fornari", "C. Tapia", "M. Garcia", "C. Laj"],
+    "venue": "Tectonics 25,",
+    "year": 2006
+  }, {
+    "title": "Insight into the Neogene tectonic history of the northern Bolivian Orocline from new paleomagnetic and geochronologic data",
+    "authors": ["S. Rousse", "S. Gilder", "M. Fornari", "T. Sempere"],
+    "venue": "Tectonics 24,",
+    "year": 2005
+  }, {
+    "title": "Coupling and decoupling of crust and mantle in convergent orogens: implications for strain partitioning in the crust",
+    "authors": ["L. Royden"],
+    "venue": "Journal of Geophysical Research",
+    "year": 1996
+  }, {
+    "title": "Surface deformation and lower crustal flow in eastern Tibet",
+    "authors": ["L. Royden", "B. Burchfiel", "R. King", "E. Wang", "Z. Chen", "F. Shen", "Y. Liu"],
+    "year": 1997
+  }, {
+    "title": "The uplift-climate connection: a synthesis",
+    "authors": ["W.F. Ruddiman", "M.E. Raymo", "W.L. Prell", "J.E. Kutzbach"],
+    "year": 1997
+  }, {
+    "title": "Maps Showing Geology, Oil and Gas Fields and Geologic Provinces of the South America Region",
+    "authors": ["C.J. Schenk", "R.J. Viger", "C.P. Anderson"],
+    "venue": "U.S. Geological Survey Open File Report 97-470D,",
+    "year": 1999
+  }, {
+    "title": "Architecture of the Central Andes: a compilation of geoscientific data along a transect at 21°S",
+    "authors": ["E. Scheuber", "P. Giese"],
+    "venue": "Journal of South American Earth Sciences",
+    "year": 1999
+  }, {
+    "title": "Tectonic development of the North Chilean Andes in relation to plate convergence and magmatism since the Jurassic",
+    "authors": ["E. Scheuber", "T. Bogdanic", "A. Jensen", "K.J. Reutter"],
+    "venue": "Tectonics of the Southern Central Andes. Springer-Verlag,",
+    "year": 1994
+  }, {
+    "title": "Exhumation and basin development related to formation of the central Andean plateau, 21°S",
+    "authors": ["E. Scheuber", "D. Mertmann", "H. Ege", "P. Silva-Gonzalez", "C. Heubeck", "Reutter", "K.-J", "V. Jacobshagen"],
+    "year": 2006
+  }, {
+    "title": "Uplift of the western margin of the Andean Plateau revealed from canyon incision",
+    "authors": ["T.F. Schildgen", "K.V. Hodges", "K.X. Whipple", "P.W. Reiners", "M.S. Pringle"],
+    "venue": "history, southern Peru. Geology",
+    "year": 2007
+  }, {
+    "title": "Late Cenozoic structural and tectonic development of the western margin of the Central Andean Plateau in southwest Peru",
+    "authors": ["T.F. Schildgen", "K.V. Hodges", "K.X. Whipple", "M.S. Pringle", "M. van Soest", "K. Cornell"],
+    "venue": "Tectonics 28, TC4007",
+    "year": 2009
+  }, {
+    "title": "Partial melting in the central Andean crust: a review of geophysical, petrophysical, and petrologic evidence",
+    "authors": ["F.R. Schilling", "R.B. Trumbull", "H. Brasse", "C. Haberland", "G. Asch", "D. Bruhn", "K. Mai", "V. Haak", "P. Giese", "M. Munoz", "J. Ramelow", "A. Rietbrock", "E. Ricaldi", "T. Vietor"],
+    "year": 2006
+  }, {
+    "title": "Scale of relief growth in the forearc of the Andes of northern Chile (Arica latitude, 18°S)",
+    "authors": ["F. Schlunegger", "G. Zeilinger", "A. Kounov", "F. Kober", "B. Huesser"],
+    "venue": "Terra Nova",
+    "year": 2006
+  }, {
+    "title": "Cretaceous rifting, alluvial fan sedimentation, and Neogene inversion, southern Sierras Pampeanas, Argentina",
+    "authors": ["C.J. Schmidt", "R.A. Astini", "C.H. Costa", "C.E. Gardini", "P.E. Kraemer"],
+    "venue": "Petroleum Basins of South America: American Association of Petroleum Geologists Memoir,",
+    "year": 1995
+  }, {
+    "title": "The crustal structure beneath the Central Andean forearc and magmatic arc as derived from seismic studies: the PISCO 94 experiment in northern Chile (21–23°S)",
+    "authors": ["M. Schmitz", "K. Lessel", "P. Giese", "P. Wigger", "M. Araneda", "J. Bribach", "F. Graeber", "S. Grunewald", "C. Haberland", "S. Lueth", "P. Roewer", "T. Ryberg", "A. Schulze"],
+    "venue": "Journal of South American Earth Sciences",
+    "year": 1999
+  }, {
+    "title": "Twenty-five million years of silicic volcanism in the southern central volcanic zone of the Andes: geochemistry and magma genesis of ignimbrites from 25 to 27°S, 67 to 72°W",
+    "authors": ["W.B.W. Schnurr", "R.B. Trumbull", "J. Clavero", "K. Hahne", "W. Siebel", "M. Gardeweg"],
+    "venue": "Journal of Volcanology and Geothermal Research",
+    "year": 2007
+  }, {
+    "title": "Normal faulting along the southern margin of the Puna Plateau, northwest Argentina",
+    "authors": ["L. Schoenbohm", "M.R. Strecker"],
+    "venue": "Tectonics 28,",
+    "year": 2009
+  }, {
+    "title": "Deep seismic structure of the Atacama Basin, northern Chile",
+    "authors": ["B. Schurr", "A. Rietbrock"],
+    "venue": "Geophysical Research Letters 31,",
+    "year": 2004
+  }, {
+    "title": "Complex patterns of fluid and melt transport in the central Andean subduction zone revealed by attenuation tomography",
+    "authors": ["B. Schurr", "G. Asch", "A. Rietbrock", "R. Trumbull", "C. Haberland"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2003
+  }, {
+    "title": "Evidence for lithospheric detachment in the Central Andes from local earthquake tomography",
+    "authors": ["B. Schurr", "A. Rietbrock", "G. Asch", "R. Kind", "O. Oncken"],
+    "venue": "Tectonophysics",
+    "year": 2006
+  }, {
+    "title": "Resistivity cross section through the southern central Andes as inferred from magnetotelluric and geomagnetic deep soundings",
+    "authors": ["G. Schwarz", "D. Kruger"],
+    "venue": "Journal of Geophysical Research",
+    "year": 1997
+  }, {
+    "title": "Crustal high conductivity zones in the southern Central Andes",
+    "authors": ["G. Schwarz", "G. Chong Diaz", "D. Krueger", "E. Martinez", "W. Massow", "V. Rath", "J. Viramonte"],
+    "year": 1994
+  }, {
+    "title": "Tectonics and magmatism in the Peruvian Andes from the late Oligocene to the present",
+    "authors": ["M. Sebrier", "P. Soler"],
+    "venue": "Andean Magmatism and Its Tectonic Setting: Geological Society of America Special Paper,",
+    "year": 1991
+  }, {
+    "title": "Tectonics and uplift in Central Andes (Peru, Bolivia and northern Chile) from Eocene to present",
+    "authors": ["M. Sebrier", "A. Lavenu", "M. Fornari", "J.P. Soulas"],
+    "venue": "Geodynamique",
+    "year": 1988
+  }, {
+    "title": "Late Oligocene–early Miocene major tectonic crisis and related basins in Bolivia",
+    "authors": ["T. Sempere", "G. Herail", "J. Oller", "M.G. Bonhomme"],
+    "venue": "Geology",
+    "year": 1990
+  }, {
+    "title": "Stratigraphy and chronology of Upper Cretaceous–lower Paleogene strata in Bolivia andNorthwest Argentina",
+    "authors": ["T. Sempere", "R. Butler", "D. Richards", "L. Marshall", "W. Sharp", "C. Swisher"],
+    "venue": "Geological Society of America Bulletin",
+    "year": 1997
+  }, {
+    "title": "Comment on “Rapid uplift of the Altiplano revealed through 13C–18O Bonds in paleosol carbonates",
+    "authors": ["T. Sempere", "A.J. Hartley", "P. Roperch"],
+    "venue": "Science 314",
+    "year": 2006
+  }, {
+    "title": "Cenozoic morphogenesis and uplift of the Eastern Cordillera in the Bolivian Andes",
+    "authors": ["M. Servant", "T. Sempere", "J. Argollo", "M. Bernat", "G. Feraud", "P. Lo Bello"],
+    "venue": "Comptes Rendus de l'Academie des Sciences de Paris",
+    "year": 1989
+  }, {
+    "title": "Lower bound on the amount of crustal shortening in the central Bolivian",
+    "authors": ["B. Sheffels"],
+    "venue": "Andes. Geology",
+    "year": 1990
+  }, {
+    "title": "Mountain building in the Central Andes: an assessment of the contributions of crustal shortening",
+    "authors": ["B. Sheffels"],
+    "venue": "International Geology Review",
+    "year": 1995
+  }, {
+    "title": "Geochemistry and isotope systematics of small- to mediumvolume Neogene–Quaternary ignimbrites in the southern central Andes: evidence for derivation from andesitic magma sources",
+    "authors": ["W. Siebel", "W.B.W. Schnurr", "K. Hahne", "B. Kraemer", "R. Trumbull", "P. van den Bogaard", "R. Emmermann"],
+    "venue": "Chemical Geology",
+    "year": 2001
+  }, {
+    "title": "The geology of the Corocoro copper district of Bolivia",
+    "authors": ["J.T. Singewald", "E.W. Berry"],
+    "venue": "Johns Hopkins University Studies in Geology",
+    "year": 1922
+  }, {
+    "title": "Uplift, exhumation and precipitation: tectonic and climatic control of Late Cenozoic landscape evolution in the northern Sierras Pampeanas, Argentina",
+    "authors": ["E.R. Sobel", "M.R. Strecker"],
+    "venue": "Basin Research",
+    "year": 2003
+  }, {
+    "title": "Formation of internally drained contractional basins by aridity-limited bedrock incision",
+    "authors": ["E.R. Sobel", "G.E. Hilley", "M.R. Strecker"],
+    "venue": "Journal of Geophysical Research",
+    "year": 2003
+  }, {
+    "title": "What drives orogeny in the Andes? Geology",
+    "authors": ["S.V. Sobolev", "A.Y. Babeyko"],
+    "year": 2005
+  }, {
+    "title": "Mechanism of the Andean orogeny: insight from numerical modeling",
+    "authors": ["S.V. Sobolev", "A.Y. Babeyko", "A.Y. Koulakov", "O. Oncken"],
+    "year": 2006
+  }, {
+    "title": "A magneto-variation array study in the central Andes of N Chile and SW Bolivia",
+    "authors": ["W. Soyer", "H. Brasse"],
+    "venue": "Geophysical Research Letters",
+    "year": 2001
+  }, {
+    "title": "Interpretation of heat-flow density in the Central Andes",
+    "authors": ["M. Springer"],
+    "venue": "Tectonophysics",
+    "year": 1999
+  }, {
+    "title": "Heat-flow density across the Central Andean subduction",
+    "authors": ["M. Springer", "A. Forster"],
+    "venue": "zone. Tectonophysics",
+    "year": 1998
+  }, {
+    "title": "Age of supergene oxidation and enrichment in the Chilean porphyry copper province",
+    "authors": ["R. Stillitoe", "H. McKee"],
+    "venue": "Economic Geology",
+    "year": 1996
+  }, {
+    "title": "Tectonics andClimateof the SouthernCentralAndes",
+    "authors": ["M.R. Strecker", "R.N. Alonso", "B. Bookhagen", "B. Carrapa", "G.E. Hilley", "E.R. Sobel", "M.H. Trauth"],
+    "venue": "Annual Reviewof Earth and Planetary Sciences",
+    "year": 2007
+  }, {
+    "title": "Does the topographic distribution of the central Andean Puna Plateau result from climatic or geodynamic processes? Geology",
+    "authors": ["M.R. Strecker", "R. Alonso", "B. Bookhagen", "B. Carrapa", "I. Coutand", "M.P. Hain", "G.E. Hilley", "E. Mortimer", "L. Schoenbohm", "E.R. Sobel"],
+    "year": 2009
+  }, {
+    "title": "Crustal structure of the Altiplano from broadband regional waveform modeling: implications for the composition of thick continental crust",
+    "authors": ["J.L. Swenson", "S.L. Beck", "G. Zandt"],
+    "venue": "Journal of Geophysical Research",
+    "year": 2000
+  }, {
+    "title": "Interaction between the Nazca and South American plates and formation of the Altiplano–Puna plateau: review of a flexural analysis along the Andean margin (15–34°S)",
+    "authors": ["A. Tassara"],
+    "venue": "Tectonophysics",
+    "year": 2005
+  }, {
+    "title": "Andean andesites and crustal growth",
+    "authors": ["R.S. Thorpe", "P.W. Francis", "R.S. Harmon"],
+    "venue": "Anonymous,",
+    "year": 1981
+  }, {
+    "title": "2007.Geochronologic and stratigraphic constraints on canyon incision and Miocene uplift of the Central Andes in Peru",
+    "authors": ["Thouret", "J.-C", "G. Wörner", "Y. Gunnell", "B. Singer", "X. Zhang", "T. Souriot"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2007
+  }, {
+    "title": "Cenozoic polyphase landscape and tectonic evolution of the Cordillera Occidental, southernmost Peru",
+    "authors": ["R.M. Tosdal", "A.H. Clark", "E. Farrar"],
+    "venue": "Geological Society of America Bulletin",
+    "year": 1984
+  }, {
+    "title": "Evidence for Late Miocene to Recent contamination of arc andesites by crustal melts in the Chilean Andes (25–26°S) and its geodynamic implications",
+    "authors": ["R.B. Trumbull", "R. Wittenbrink", "K. Hahne", "R. Emmermann", "W. Busch", "H. Gerstenberger", "W. Siebel"],
+    "venue": "Journal of South American Earth Sciences",
+    "year": 1999
+  }, {
+    "title": "The time–space distribution of Cenozoic volcanism in the south-central Andes: a new data compilation and some tectonic implications",
+    "authors": ["R.B. Trumbull", "R. Ulrich", "O. Oncken", "S. Ekkehard", "K. Munier", "F. Hongn"],
+    "year": 2006
+  }, {
+    "title": "Facies analysis andbasin architectureof theNeogene Subandean synorogenic wedge, southern Bolivia",
+    "authors": ["C.E. Uba", "C. Heubeck", "C. Hulka"],
+    "venue": "Sedimentary Geology",
+    "year": 2005
+  }, {
+    "title": "Evolution of the late Cenozoic Chaco foreland basin, southern Bolivia",
+    "authors": ["C.E. Uba", "C. Heubeck", "C. Hulka"],
+    "venue": "Basin Research",
+    "year": 2006
+  }, {
+    "title": "Increased sediment accumulation rates and climatic forcing in the central Andes during the late",
+    "authors": ["C.E. Uba", "M.R. Strecker", "A.K. Schmitt"],
+    "venue": "Miocene. Geology",
+    "year": 2007
+  }, {
+    "title": "Unsteady evolution of the Bolivian Subandean thrust belt: the role of enhanced erosion and clastic wedge progradation",
+    "authors": ["C.E. Uba", "J. Kley", "M.R. Strecker", "A. Schmitt"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2009
+  }, {
+    "title": "Chronology of internal drainage development and uplift, southern Puna Plateau",
+    "authors": ["D.S. Vandervoort", "T.E. Jordan", "P.K. Zeitler", "R.N. Alonso"],
+    "venue": "Argentine Central Andes. Geology",
+    "year": 1995
+  }, {
+    "title": "Uplift of the western Altiplano plateau: evidence from the Precordillera between 20 and 21°S (northern Chile)",
+    "authors": ["P. Victor", "O. Oncken", "J. Glodny"],
+    "venue": "Tectonics 23,",
+    "year": 2004
+  }, {
+    "title": "Controls on the shape and kinematics of the Central Andean plateau flanks: insights from numerical modeling",
+    "authors": ["T. Vietor", "O. Oncken"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2005
+  }, {
+    "title": "Lithospheric flexure and bending of the Central Andes",
+    "authors": ["A.B. Watts", "S.H. Lamb", "J.D. Fairhead", "J.F. Dewey"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 1995
+  }, {
+    "title": "The evolution of deformation and topography of high elevated plateaus 1. Model, numerical analysis, and general results",
+    "authors": ["S. Wdowinski", "Y. Bock"],
+    "venue": "Journal of Geophysical Research",
+    "year": 1994
+  }, {
+    "title": "The evolution of deformation and topography of high elevated plateaus 2. Application to the Central Andes",
+    "authors": ["S. Wdowinski", "Y. Bock"],
+    "venue": "Journal of Geophysical Research",
+    "year": 1994
+  }, {
+    "title": "Andean and pre-Andean deformation, Boomerang Hills area, Bolivia",
+    "authors": ["H.J. Welsink", "F.M. A", "G.C. Oviedo"],
+    "venue": "Petroleum Basins of South America: American Association of Petroleum Geologists Memoir,",
+    "year": 1995
+  }, {
+    "title": "Attenuation of highfrequency seismic waves beneath the central Andean Plateau",
+    "authors": ["D. Whitman", "B.L. Isacks", "Chatelain", "J.-L", "Chiu", "J.-M", "A. Perez"],
+    "venue": "Journal of Geophysical Research",
+    "year": 1992
+  }, {
+    "title": "Lithospheric structure and along-strike segmentation of the Central Andean Plateau: seismic Q, magmatism, flexure, topography and tectonics",
+    "authors": ["D. Whitman", "B.L. Isacks", "S.M. Kay"],
+    "venue": "Geodynamics of the Andes. Elsevier,",
+    "year": 1996
+  }, {
+    "title": "Variation in the crustal",
+    "authors": ["P.J. Wigger", "M. Schmitz", "M. Araneda", "G. Asch", "S. Baldzuhn", "P. Giese", "Heinsohn", "W.-D", "E. Martinez", "E. Ricaldi", "P. Roewer", "J. Viramonte"],
+    "year": 1994
+  }, {
+    "title": "Thermo-mechanical models of convergent orogenesis: thermal and rheologic dependence of crustal deformation",
+    "authors": ["S.D. Willett", "D.C. Pope"],
+    "year": 2004
+  }, {
+    "title": "Mechanical model for the tectonics of doubly vergent compressional orogens",
+    "authors": ["S. Willett", "C. Beaumont", "P. Fullsack"],
+    "venue": "Geology",
+    "year": 1993
+  }, {
+    "title": "Geochronology (40Ar/39Ar, K–Ar, and He-exposure ages) of Cenozoic magmatic rocks from northern Chile (18–22°S): implications for magmatism and tectonic evolution of the central Andes",
+    "authors": ["G. Wörner", "K. Hammerschmidt", "F. Henjes-Kunst", "J. Lezaun", "H. Wilke"],
+    "venue": "Revista Geologica de Chile",
+    "year": 2000
+  }, {
+    "title": "Evolution of the West Andean Escarpment at 18°S (N. Chile) during the last 25 Ma: uplift, erosion and collapse through time",
+    "authors": ["G. Wörner", "D. Uhlig", "I. Kohler", "H. Seyfried"],
+    "venue": "Tectonophysics",
+    "year": 2002
+  }, {
+    "title": "Role of viscous plate coupling in the late Tertiary Andean tectonics",
+    "authors": ["G. Yanez", "J. Cembrano"],
+    "venue": "Journal of Geophysical Research",
+    "year": 2004
+  }, {
+    "title": "A 3-D geodynamic model of lateral crustal flow during Andean mountain building",
+    "authors": ["Y. Yang", "M. Liu", "S. Stein"],
+    "venue": "Geophysical Research Letters 30",
+    "year": 2003
+  }, {
+    "title": "Subduction and collision processes in the Central Andes constrained by converted seismic phases",
+    "authors": ["X. Yuan", "S.V. Sobolev", "R. Kind", "O. Oncken", "G. Bock", "G. Asch", "B. Schurr", "F. Graeber", "A. Rudloff", "W. Hanka", "K. Wylegalla", "R. Tibi", "C. Haberland", "A. Rietbrock", "P. Giese", "P. Wigger", "P. Rower", "G. Zandt", "S. Beck", "T. Wallace", "M. Pardo", "D. Comte"],
+    "venue": "Nature 408,",
+    "year": 2000
+  }, {
+    "title": "Moho topography in the central Andes and its geodynamic implications",
+    "authors": ["X. Yuan", "S.V. Sobolev", "R. Kind"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2002
+  }, {
+    "title": "Composition and thickness of the Southern Altiplano crust, Bolivia",
+    "authors": ["G. Zandt", "A.A. Valasco", "S.L. Beck"],
+    "venue": "Geology",
+    "year": 1994
+  }],
+  "id": "SP:1cfb88570312d06d59b2755ffb5f13d14c32f703",
+  "authors": [{
+    "name": "J.B. Barnes",
+    "affiliations": []
+  }, {
+    "name": "T.A. Ehlers",
+    "affiliations": []
+  }],
+  "title": "End member models for Andean Plateau uplift"
+}

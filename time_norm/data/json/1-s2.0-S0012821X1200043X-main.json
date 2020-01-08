@@ -1,0 +1,426 @@
+{
+  "sections": [{
+    "text": "Contents lists available at SciVerse ScienceDirect\nEarth and Planetary Science Letters\nj ourna l homepage: www.e lsev ie r .com/ locate /eps l\nA new view of the dynamics, stability and longevity of volcanic clouds\nGuillaume Carazzo ⁎, A. Mark Jellinek Earth and Ocean Sciences, University of British Columbia, 6339 Stores Road, Vancouver, BC, Canada\n⁎ Corresponding author. E-mail address: gcarazzo@eos.ubc.ca (G. Carazzo).\n0012-821X/$ – see front matter © 2012 Elsevier B.V. Al doi:10.1016/j.epsl.2012.01.025\na b s t r a c t a r t i c l e i n f o\nArticle history: Received 20 August 2011 Received in revised form 18 January 2012 Accepted 21 January 2012 Available online 22 February 2012\nEditor: P. Shearer\nKeywords: explosive volcanism ash cloud settling-driven fingering layering particle boundary layer\nPowerful explosive volcanic eruptions inject ash high into the atmosphere, which spreads to form umbrella clouds. Identifying key physical processes governing the dynamics, stability and longevity of umbrella clouds is central to assessing volcanic hazards as well as the nature of volcanic forcings on climate. Here we present a series of laboratory experiments producing turbulent particle-laden jets and subsequent axisymmetric intrusive gravity currents into a stratified environment. Our experiments reproduce many of the main dynamical regimes observed during the formation of an explosive volcanic column, and highlight new dynamics for the umbrella cloud. Theoretical predictions of column collapse from a simple model of a turbulent jet are in good agreement with experimental observations as well as previous studies. Depending on the flow intensity, the strength of the initial environmental density stratification and the particle concentration at the source, resulting umbrella clouds can, however, evolve through a series of new regimes as a result of the dynamics of particle sedimentation within these flows as well as from their bases. Using scaling theory we show that during cloud spreading, internal sedimentation drives the growth and intermittent overturn of thin, gravitationally unstable “particle boundary layers” (PBLs) as particle-rich plumes. This PBL-driven convection can have remarkable effects ranging from progressive dilution of clouds to their catastrophic overturn and collapse. In natural eruptions, whether the dynamics of PBLs play a major role in particle sedimentation depends on the grain size distribution inside the cloud and on eruption column height. In general, particles larger than ~60 μm–1 mm are expected to settle individually, whereas finer particles will accumulate PBLs resulting in the formation of armless mammatus clouds or dangerous gravity currents at much larger distances from the volcanic vent than ever considered before. Such dynamics is apparent in observations of numerous modern eruptions and is inferred from the deposits of historic and prehistoric eruptions for where there exist appropriate data. Consideration of the consequences of these phenomena for problems such as volcanic hazards to humans and climate change may, thus, be very important in the assessment of future eruptions.\n© 2012 Elsevier B.V. All rights reserved."
+  }, {
+    "heading": "1. Introduction",
+    "text": "Many explosive volcanic eruptions are characterized by turbulent jets that ultimately deliver dense mixtures of gas and ash into the atmosphere to an altitude of 20–50 km (Wilson, 1976). During a Plinian eruption the bulk density of these flows is rapidly reduced as a result of the mechanical entrainment and thermal expansion of cold atmosphere (Sparks and Wilson, 1976; Woods, 1988). A major effect of this process is that the jet can become less dense than the atmosphere and rise as a buoyant plume to a level of neutral buoyancy (LNB). At this altitude, the mixture spreads as a turbulent gravity current, forming an umbrella cloud the structure of which is further modified by stratospheric winds and turbulent diffusion (Carey and Sparks, 1986; Sparks et al., 1992).\nSedimentation of ash and pumice from these clouds presents a number of potentially severe hazards. Coarse ash and lapilli can cause roof\nl rights reserved.\ncollapses, or blockages of drinkingwater, waste disposal and power distribution systems, whereas fine and very fine ash can provoke health problems (Hornwell, 2007) or major air travel disruptions (Casadevall, 1994). The prediction of ash cloud behavior is therefore key to evaluating these classes of hazards as well as well-established climatic impacts linked to these eruptions (e.g., Robock, 2000).\nAnalyses of pyroclastic deposits and real-time observations suggest that most of the volcanic fragments discharged at the vent are still in suspension when the flow reaches the neutral buoyancy level (e.g., Bonadonna and Phillips, 2003). Sedimentation of the largest pumice and ash fragments is governed by their individual settling velocities, whereas particle aggregation is thought to enhance the fallout of fine ash (Rose and Durant, 2011). The residence time of the cloud mainly thus depends on the total mass and grain-size distribution of the particles injected into the atmosphere (Bursik et al., 1992).\nNumerous tephra dispersal models have been developed in order to understand various aspects of the transport and deposition of volcanic ashes (Bonadonna and Phillips, 2003; Bonadonna et al., 1998; Bursik et al., 1992; Carey and Sparks, 1986; Ernst et al., 1996; Pfeiffer et al., 2005). Despite their different levels of complexity, all these models\ntreat sedimentation by assuming that particle loss is mainly governed by the settling velocity of each particle, which is broadly supported by field studies and by laboratory experiments (Carey et al., 1988; Ernst et al., 1996; Sparks et al., 1991; Veitch and Woods, 2000).\nRecent observations, however, suggest that processes governing sedimentation may be far more spatially complex and timedependent than inferred from field and modeling studies. In particular, observations of the 1994 Reventador (Chakraborty et al., 2006) and 1991 Mount Pinatubo eruptions (Chakraborty et al., 2009) suggest that the dynamics of volcanic umbrella clouds can be strongly modified by large scale gravitational (Rayleigh–Taylor-type) instabilities driven by processes related to internal particle sedimentation, which will lead invariably to time-dependent sedimentation. Similar buoyancy effects are also observed in a large number of historical eruptions (Fig. 1). These instabilities can take several forms such as relatively large roundedmammatus clouds (Fig. 1A, B andD), particle-richfingers (Fig. 1C), or very thin ash veils (Hobbs et al., 1991). Several mechanisms have been proposed to explain these intriguing features (Bonadonna et al., 2002; Durant et al., 2009; Schultz et al., 2006) but their origin remains unclear in particular for mammatus clouds (e.g., Schultz et al., 2006). However, on the basis of Fig. 1 alone, one can expect that the construction of tephra fallout deposits should reflect the time- and space-dependent flux of material from the umbrella. However, interpreting the resulting local heterogeneities in the field in terms of dynamics for the cloud is not straightforward especially because numerical models cannot be used at the outcrop scale. To the best of our knowledge the only study to identify the role of episodic sedimentation from an umbrella cloud is the field-based work of Branney (1991) who argues that discontinuous “patches” of finely stratified pumice in theWhorneyside tuff result from episodic expulsion of dense particle-rich material from umbrella cloud.\nThe goal of this paper is to investigate whether the enigmatic buoyancy effects summarized in Fig. 1 play a major role in the evolution of the umbrella cloud as a whole. For this, we present an extensive series of novel laboratory experiments simulating particle-laden jets with reversing buoyancy and capable of forming stable umbrella clouds. Dynamic scaling laws for dilute multiphase mixtures are used to show\nthat our experiments are reliable analogs for natural explosive volcanic eruptions. In addition to reproduce buoyant plumes and collapsing fountains, our experiments show that resulting umbrella clouds may follow different unexpected dynamical regimes. The conditions leading to the formation of either a stable plume or a collapsing fountain in our experiments are understood with a simple theoretical model of turbulent jets. A scaling theory is then used to show that when a stable cloud forms, its long termbehavior is strongly controlled by the internal sedimentation of fine particles into thin, gravitationally unstable “particle boundary layers” (PBLs), which intermittently overturn. Finally, we address the key issue of the extent to which the dynamics of these PBLs govern the stability and longevity of natural volcanic clouds.\nOur paper is organized in the following way. Section 2 presents the experimental device and the scaling laws used to check that the main processes acting on the dynamics of volcanic plumes are reproduced in laboratory. Qualitative observations of flows spanning a large range of conditions are presented in Section 3. In Section 4 we develop a theoretical model and a scaling theory to understand the stability of our particle-laden jets and clouds. Implications of this work for natural eruptions and limitations linked to our approach are discussed in Section 5. Conclusions and future directions are presented in Section 6."
+  }, {
+    "heading": "2. Laboratory experiments and scaling analysis",
+    "text": ""
+  }, {
+    "heading": "2.1. Experimental device",
+    "text": "The experiments are isothermal and conducted in a 0.8 m high tank with a 1 m×1 m cross-section (Fig. 2A). This tank is first filled with an aqueous NaCl solution with either a stepwise or linear density stratification. In most experiments the tank is filled with a 0.2 mthick basal layer of salt water and an overlying 0.4 m-thick layer of fresh water that we introduce carefully to avoid mixing across the density interface. We conduct additional and dynamically equivalent experiments with a continuous linear density stratification constructed using the double bucket technique (see Section 2.3). At the start of each\nes observed at the base of the umbrella cloud associated with the eruption of (A) Mount arch 1986 (photograph by J. Pezzenti Jr.); (C) Monserrat volcano in September 1997 Clucas).\nexperiment, we inject a well-stirred mixture of fresh water and wellsorted Custer feldspar particles (Fig. 2B) at a fixed rate using a long syringe. This set-up enables us to vary themain source and environmental conditions that govern flow dynamics: (i) the particlemass, (ii) the volumetric flow rate, (iii) the nozzle size, and (iv) the stratification in the tank. To cover the full range of conditions appropriate for natural conditionswe vary the particle concentration at the source and the inputflow rate. Table 1 lists the experiments and the conditions imposed at the source. A typical injection lasts between 1 and 10 min and is characterized quantitatively with an array of high-resolution video cameras. Following the injection, a long time exposure camera records the complete evolution of the suspended particle-laden mixture."
+  }, {
+    "heading": "2.2. Scaling laws of dilute multiphase mixtures",
+    "text": "The complexity of the dynamics of explosive volcanic plumes raises the question of the reliability of our experiment to reproduce natural phenomena. Here, we present a scaling analysis to ensure that our laboratory experiments are a suitable analog for natural eruption plumes.\nA number of parameters related to the distinct dynamics of the particles and the particle–fluid mixture in the jet and the umbrella are required to scale our experiments. All the variables used are\nspecified in the Notation section. The subscripts 0 and u are used to distinguish properties at the vent (i.e., source of the jet) and at the LNB directly above the vent (i.e., source of the umbrella), where the mixture spreads laterally. We note that since the height of the LNB and related properties are controlled by environmental and source conditions for the jet (Morton et al., 1956), scales for the cloud are ultimately imposed by the source conditions for the jet.\nThe Reynolds number (Re) quantifies the importance of inertial forces and turbulent stirring in the flow of the particle–fluid mixture,\nRe ¼ VL ν ; ð1Þ\nwhere V and L are the characteristic velocity and length scales for the flow and ν is the kinematic viscosity of the mixture. For the vertical jet, the characteristic velocity and length scales are the exit velocity U0=Q0/πR02 and the vent radius R0, respectively, with Q0 the input flow rate. For the umbrella cloud, the characteristic length and velocity scales are the overshoot height hos=zm−zb and the lateral spreading rate Wu ¼ ffiffiffiffiffiffiffiffiffiffiffiffiffiffi hosg ′m p , where zm and zb are the maximum and neutral buoyancy heights, respectively. Here g′m=g[(ρ−ρa)/ ρa]z= zm is the reduced gravity of the jet at the maximum height zm,\ncollapse; PC: partial collapse; TC: total collapse. *: linear stratification experiment (see\nwith g the acceleration of gravity, ρa the density of the ambient fluid and ρ the density of the particle–fluid mixture, which is given at any height by\nρ ¼ pρp þ 1− p ρf ; ð2Þ\nwhere p is the particle volume fraction, and ρp and ρf are the particle and fluid densities, respectively.\nThe evolution of a jet depends strongly on its density, which is governed by turbulent entrainment across the stabilizing density interface that defines its sides. To characterize the balance between the stabilizing buoyancy and driving inertial forces governing the dynamics of entrainment and mixing, we use a Richardson number (Ri):\nRi ¼ − g ′L V2 : ð3Þ\nFor the jet, L=R0, V=U0 and g′=g[(ρ−ρa)/ρa]0. Entrainment and mixing are enhanced where −Rib1, the jet will rise as a plume where Ri>0 and can potentially collapse as a fountain where Rib0.\nTo characterize the balance between the buoyancy and additional viscous forces governing the convection driven by the dynamics of thin particle boundary layers at the cloud base we define a Grashof number (Gr):\nGr ¼ g ′L 3\nν2 ¼ Ri Re2; ð4Þ\nwhere L=hos and g′=g′m for the umbrella cloud. In dilute mixtures, particle–particle interactions are negligible but themechanical coupling between particles and the fluid phase is complex. The two-way stress coupling between the phases can be characterized by two dimensionless numbers. The Stokes number (St) is a ratio of the time scale for the inertial response of particles τp to the time scale for flow of the continuous phase τf and is defined as\nSt ¼ τp τf ¼ 1 f ρpd\n2 p\n18 μ V L : ð5Þ\nThis parameter measures the tendency of particles to stay coupled to turbulent motions. Here, f is a drag factor, dp is the particle diameter (or effective particle diameter for non-spherical particles (cf., Pfeiffer et al., 2005)), and μ=νρf is the dynamic viscosity of the fluid phase. f can be related to the particle Reynolds number Rep (Burgisser et al., 2005),\nf ¼ 1þ 0:15Rep0:687 þ 0:0175\n1þ 42;500Rep−1:16 ; ð6Þ\nwhere\nRep ¼ Vsdp ν ; ð7Þ\nwith Vs=τpg the particle terminal fall velocity. Where St>1 particles decouple from the fluid phase and enhance turbulence by momentum transfer during their motion and fallout, whereas for Stb1 particles remain coupled to eddies and reduce turbulence intensity (Elghobashi, 1994).\nThe tendency for dense particles to remain in suspension in a turbulent flow is expressed with an additional sedimentation number (Σ), which is a ratio of the inertial response time of a particle τp to the time scale for its sedimentation τg,\nΣ ¼ τp τg ¼ 1 f ρpd\n2 p\n18 μ g V ¼ Vs V : ð8Þ\nThus, particle settling is enhanced for Σ>1 and inhibited for Σb1. In the framework of a turbulent jet, V=U0 and Σ indicates whether particles settle (Σ>1), rise (Σb1) or are neutrally buoyant (Σ=1). In the framework of an umbrella cloud, V=Wu and Σ indicates the extent to which particles settle (Σ>1) or are carried laterally (Σb1).\nThe Stokes and sedimentation numbers completely characterize the behavior of particles within the jet and umbrella. For Stb1 and Σb1 particles are coupled with the fluid phase and efficiently mixed by larger eddies. This regime favors the transport and dispersion of the solid fraction into the environment. For St>1 and Σ>1 particles are decoupled from the continuous phase and either settle or are expelled from the flow. Intermediate configurations where St∼1 and Σ∼1, or Stb1 and Σ>1, or St>1 and Σb1 correspond to a third class where a strong two-way coupling between fluid and particles exists. In this regime, transient segregations of particles lead to particle gathering in zones of least velocity gradient and a possible formation of mesoscale structures (Agrawal et al., 2001; Burgisser et al., 2005)."
+  }, {
+    "heading": "2.3. Comparison between experiments and volcanic clouds",
+    "text": "The values of the dimensionless numbers discussed above are calculated in our experiments and for natural volcanic clouds (Fig. 3A to C and Table 2). We note that the Reynolds numbers for explosive eruptions vary in the range 107≤Re0≤109 for the vertical jet and 107≤Reu≤1010 for the umbrella cloud. Such extreme Re are unapproachable at the laboratory scale, although our flows are at highRe, fully turbulent and conducted under Re conditions comparable to many published studies (e.g., Burgisser et al., 2005).\nFig. 3A shows that our experimental range of p0 is consistent with natural flows, which implies that the degree of dilution at the source is well reproduced. In addition, our laboratory experiments yield values of Richardson number partially within the natural range at the base of volcanic jets. This agreement suggests that the balance between the stabilizing buoyancy and driving inertial forces is also well reproduced in our experiments.\nFig. 3B shows that our experimental range of particle volume fraction at LNB is significantly different to that for the natural case. This difference is a consequence of the limitation imposed by the height of the tank, which controls the maximum possible dilution by turbulent entrainment of salt water. Whereas explosive volcanic jets entrain atmospheric air over a few tens kilometers reducing particle concentration by several orders of magnitude, our small scale jets entrain salt water over a few tens centimeters reducing p0 by only one order of magnitude. An additional remark is the significant difference between the values of the Grashof number yielded in our experiments to that for the natural case. We note, however, that in both cases Gr>103.\nFig. 3C shows that our experimental values of the Stokes and sedimentation numbers fall within the wide range covered by the natural systems. St and Σ change by several orders of magnitude from the jet to the umbrella cloud (Fig. 3 C). Above the nozzle, particles have St∼1 and Σb1, which suggests that particles have no effect on the development of turbulence and that no sedimentation should occur from the jet. On the other hand, particles have Stbb1 and Σ>1 in the umbrella cloud. This suggests that particles are well mixed into the umbrella cloud, although they tend to settle rather than being dispersed laterally.\nAnother key parameter controlling the flow dynamics is the strength of the environmental stratification. The quasi-linear density gradient observed in nature is reproduced in our experiment with a single density interface for the sake of simplicity. This technique has been applied successfully in a number of studies (Fan, 1967; Hart, 1961; Kotsovinos, 2000) and does not affect the plume dynamics as long as the scaling for the strength of the stratification is the same as the strength of a linear density stratification (Morton et al., 1956;\nTurner, 1973). This condition is verified by using the Brunt–Väisälä frequency (N) defined as\nN2 ¼ − g ρr dρa dz ; ð9Þ\nwhere ρr is a reference density. Fig. 3D shows a direct comparison of column height between an experiment with two layers and another with a linear density gradient. Our comparison confirms that (i) both types of experiment are quantitatively identical, and (ii) the neutral buoyancy height is not imposed at the interface between the two layers. In the terrestrial atmosphere, the Brunt–Väisälä frequency is in the order of 0.01 s−1, whereas for all our experiments N is in the order of 0.1 s−1. This difference is imposed for technical reasons because N partially controls the maximum column height. In turn, the stratification imposed allows to reproduce geometrical aspect ratios observed in natural eruptions (i.e. zb/zm∼0.7 and zm/ R0∼102).\nFinally, we note that contrary to natural explosive volcanic eruptions, only isothermal plumes are produced in our experiments. Although variations in initial temperature may affect the plume dynamics, its effect on the flow development is relatively weak compared to other dynamical quantities such as the initial gas content, exit velocity and vent radius (Woods, 1988). At the LNB, the plume temperature is imposed by surrounding environmental conditions as a result of intense mixing with the atmosphere during the column rise (Holasek et al., 1996). Therefore, the effect of source temperature\non conditions across the LNB is negligible and our isothermal assumption does not affect the quantitative conclusions presented in this study."
+  }, {
+    "heading": "3. Qualitative observations",
+    "text": "Our experiments investigate the different phenomena that occur as we vary both the initial volumetric flow rate and the particle volume fraction. For low particle concentrations and relatively high flow rates, the mixture of solid particles and fresh water mixes rapidly with the ambient salt water layer (Fig. 4). Although the particleladen jet is denser than the surrounding fluid at the source, its density decreases as a result of turbulent entrainment and dilution to values lower than the ambient density. Resultant buoyancy forces augment the momentum flux imparted at the source to drive the plume to a LNB, which it initially overshoots to a height that depends on its momentum and the strength of the stratification, before collapsing back to the LNB as a fountain to drive a gravity current laterally, forming an umbrella. This behavior is shown in Fig. 4A (“stable plume”) and is a popular analog for the formation of a Plinian column (Wilson, 1976).\nFor intermediate particle concentrations and moderate flow rates, there is less entrainment and mixing of the ambient fluid. The flow separates into a buoyant plume with a low particle concentration and a dense fountain with a high particle concentration. In general, whereas the buoyant plume impinges and spreads along the density interface in the tank as an intrusion, the collapsing part generates a radially symmetric turbulent gravity current at the tank base. This behavior is shown in Fig. 4A (“partial collapse”) and corresponds to explosive volcanic eruptions in the transitional regime (Di Muro et al., 2004).\nFor high particle concentrations and relatively low flow rates, there is little entrainment and mixing and the mixture injected remains too dense to undergo a buoyancy inversion. The flow collapses on itself when its initial momentum is exhausted and forms a turbulent fountain feeding a radial gravity current at the bottom of the tank. This behavior is shown in Fig. 4A (“total collapse”) and is an\nanalog to a volcanic collapsing fountain with associated pyroclastic density currents (Sparks and Wilson, 1976).\nThese three dynamical regimes have already been observed in previous laboratory studies of turbulent particle-laden jets (Carey et al., 1988; Sparks et al., 1991; Veitch and Woods, 2000) and jets with reversing buoyancy (Kaminski et al., 2005; Woods and Caulfield, 1992). These behaviors have also been inferred from field observations of past eruptions (Sparks andWalker, 1977), and are also reproduced in numerical simulations of explosive volcanic eruptions (Di Muro et al., 2004; Suzuki et al., 2005; Valentine and Wohletz, 1989). A remarkable new finding, however, is the dynamic and highly time-dependent nature of the evolution of umbrella clouds in the stable plume regime (Fig. 4B).\nFor source conditions close to the partial collapse regime, the stable plume forms an umbrella cloud but gravitational instabilities develop in the near field of the cloud where particles are more concentrated. Ultimately, these instabilities lead to a collapse from the neutral buoyancy height to the tank base with an associated gravity current, from which phoenix clouds may emerge (Fig. 4B and Movie 1). To our knowledge, this “late collapse” regime has not been observed in previous laboratory studies involving turbulent particle-laden jets.\nAt lower particle concentrations, we observe two different regimes, depending on the injection rate. At relatively low injection rates, the particle-laden plume overshoots the density interface in the tank and falls back rapidly forming an umbrella cloud. The cloud propagates slowly along the neutral buoyancy height producing little mixing across the density interface. A fewminutes after spreading begins, a dense particle-rich boundary layer (PBL) forms by steady accumulation of particles. The growth of this particle boundary layer at cloud base is accompanied by a vertical oscillation that grows in amplitude until the PBL becomes sufficiently thick to detach and descend\nbserved as the volume flux and particle content were changed. (A) The three regimes d “total collapse” (bottom—exp. 22). Symbols at the top left corner correspond to the ) the “layering” regime is characterized by the formation of layers (right—exp. 8) and ering” regime is characterized by a dense basal particle boundary layer (left—exp. 6), gers (right—exp. 3); (iii) the “late collapse” regime is characterized by the growth of ollapse with an associated gravity current. “Phoenix clouds” may form if the current\nas large dense particle-rich fingers (Fig. 4B and Movie 2). Where particle-laden downwellings reach the bottom of the tank entrained fresh water is expelled upward, driving large-scale convective flow, in turn. This “settling-driven fingering” regime has similarities with particle-rich fingers observed in the experiments of Cardoso and Zarrebini (2001).\nAt larger flow injection rates, the plume significantly overshoots the density interface and falls back, resulting in extensive mixing across the density interface. A resulting thick umbrella spreads and no oscillation is observed. Gradually, however, the umbrella breaks up into discrete (light brown) particle-laden layers separated by relatively thin (dark) water-rich layers a few tens of minutes after its emplacement. A particle boundary layer forms at the base of the umbrella and the loss of particles is driven by slow settling of individual particles within long fingers descending from the particle boundary layer (Fig. 4B and Movie 3). In common with the fingering regime, large-scale convection starts when particle-rich fingers reach the bottom of the tank. However, complete particle sedimentation in the layering regime takes one to two orders of magnitude longer than in the fingering regime. This “layering” regime has not been observed in previous laboratory experiments simulating a volcanic ash-cloud.\nwith the model presented in Appendix."
+  }, {
+    "heading": "4. Theory",
+    "text": "The results presented above suggest our 300 μm-particles do not settle individually from the cloud, but instead behave collectively and form PBLs leading to either settling-driven fingering, layering or late collapse. To characterize the mechanisms controlling the formation of these PBLs and subsequent fingers, we compare our experimental results with theory. Identifying the conditions in the cloud prior to PBLs formation is challenging in our experimental configuration since the conditions imposed at the nozzle are strongly modified during the jet rise. To build understanding we characterize the jet dynamics and the mechanics of PBL and finger formation, in turn. Next, we address the combined effects of these processes on the residence times of suspended particles and, thus, the residence time of the cloud."
+  }, {
+    "heading": "4.1. Formation of a stable plume",
+    "text": "The formation of a stable plume as opposed to a collapsing fountain has been extensively studied in the context of explosive volcanic eruptions as it is of crucial importance for hazard assessment (Carazzo et al., 2008a; Suzuki et al., 2005; Valentine and Wohletz, 1989; Wilson et al., 1980). Here, we use our experimental data on the onset of column collapse to constrain a simple 1D model based on a “top-hat” formalism (see Appendix A).\nOur model predicts column collapse in a way consistent with our experimental results (Fig. 5). We note that when partial collapse occurs, the top-hat formalism does not apply because the jet is not in steady state. Thus, we put partial collapse in the collapsing regime. An additional observation from Fig. 5 is that the transition from the layering to the settling-driven fingering and late collapse regimes is observed for a critical Richardson number at the vent of −4×10−4. Because low-Ri0 jets tend to reach greater heights in the tank than high-Ri0 jets and thus promote turbulent mixing at the salt/fresh water interface when falling back from the maximum to the neutral buoyancy heights, this result suggests that the evolution of the cloud depends strongly on the density gradient produced as a result of mixing across the initial density interface.\nThe good agreement between theoretical predictions and our experimental results suggests that the simple top-hat formalism captures the essential dynamics of our multi-phase jets. Consequently, this model can be used to calculate the key dynamical quantities at the neutral buoyancy height, which impose the conditions in the cloud."
+  }, {
+    "heading": "4.2. Formation of particle boundary layers",
+    "text": "Themajor qualitative features of the settling-driven fingering and the layering regimes are analogous to those observed in sedimentationdriven convection (Hoyal et al., 1999b; Kerr, 1991) and in diffusive convection in particle-heat systems (Green, 1987; Hoyal et al., 1999a). The periodic structure of the layered clouds issuing from low-Ri0 jets has also been observed in numerous past volcanic clouds including the 2010 Eyjafjallajökull eruption (Dacre et al., 2011; Folch et al., 2012). Whereas wind shear effects have been suggested to explain the formation of these thin ash layers, our experiments show that layering may even occur in the absence of wind, which suggests that an important mechanism is missing in our understanding of this phenomenon. The full characterization of our layering regime and its implications for the interpretation of ash concentration measurements will be addressed in greater detail in a future study. Here, we focus on the formation of PBLs in clouds issuing from high-Ri0 jets.\nTo quantify the tendency of the cloud to form a particle-rich layer at its base, we introduce the dimensionless number B such as (Marsh, 1988),\nB ¼ Vi Vs ; ð10Þ\nwhere Vi is the growth rate of the gravitational instability given by (Whitehead and Luther, 1975),\nVi ¼ Δρigδ\n2 pbl\n3 μ ; ð11Þ\nwhere δpbl is the thickness of the PBL, and Δρi=ρpbl−ρa, with ρpbl and ρa the PBL and salt water densities, respectively. The B number characterizes the preferential mode of sedimentation. Where Bb1 individual particle settling dominates, whereas where B>1 PBL formation is enhanced. The effective density of the particle boundary layer (ρpbl) is not straightforward to estimate a priori for two reasons: (i) the time-averaged particle concentration within the PBL ( ppbl) is not a simple function of the source conditions, but depends also on the dynamics of umbrella spreading; and (ii) the concentration of particles increases with depth across the PBL. However, the effective amount of particles in the PBL can be approximated using the particle concentration in the entire cloud ( pu) calculated using our model of turbulent jets (Table 1). Since PBL is much thinner than the jet is\nwide at the LNB, conservation of volume requires that particle concentration in the PBL can be as much as 10 times bigger on average (i.e., ppbl=1−6×10\n−2). Replacing these values in Eq. (10) together with Vs=0.07 m s−1 and δpbl≈0.5−1 cm as observed in our experiments, we calculate B≈10−400. In our experimental configuration, PBLs are therefore likely to form before particles settle individually."
+  }, {
+    "heading": "4.3. Finger formation",
+    "text": "Particle-laden fingers observed in our experiment are likely to result from the growth and intermittent detachment of the PBL at the cloud base. To confirm this hypothesis, we use the simple conceptual model developed by Hoyal et al. (1999b) on the basis of wellestablished theory for turbulent thermal convection (Howard, 1964; Turner, 1973).\nAssuming that mass transfer is independent of the layer depth (Howard, 1964; Turner, 1973) and thus governed by processes local to the boundary layer, the critical conditions for finger formation are defined by a local Grashof number,\nGrpbl ¼ g′pblδ\n3 pbl\nν2pbl > 103; ð12Þ\nwhere νpbl is the effective kinematic viscosity of the particle boundary layer, and g′pbl=g(ρpbl−ρa)/ρa is the reduced gravity of the PBL. The effective kinematic viscosity of the PBL can be approximated by using the Einstein–Roscoe formula,\nνpbl ¼ νa 1−Γð Þ−2:5; ð13Þ\nwhere νa is the kinematic viscosity of the salt water and Γ= p0/ pmax is an effective particle concentration, with p0 the concentration at the source and pmax the effective maximum concentration determined from our experiments (∼0.1). Applying this approximation, the viscosity ratio νpbl/νa is in the range of 1.3–16 for our experiments. We note that no turbulent motions are observed within the PBL consistent with earlier analyses of turbulent Rayleigh–Taylor instabilities (Linden and Redondo, 1991).\nApplying the critical Grashof number definition (Eq. 12), the critically unstable PBL will have a thickness that scales as\nδpbl∼10 ν2pbl g′pbl\n\" #1=3 ; ð14Þ\nwhich has been quantitatively tested in previous laboratory experiments (Hoyal et al., 1999b). This relationship suggests that settlingdriven fingering can always form if the particle concentration in the PBL ( ppbl) remains large enough while the PBL grows to the critical thickness. This condition implies that most particles do not settle individually through the cloud/salt water interface (i.e., B>1), which is the case in our experiments.\nTo determine whether or not the growth and destabilization of PBLs lead to fingers formation, we analyze oscillations at the base of the cloud. Indeed, in settling-driven fingering systems, the vertical extent of the fingers depends on the slow diffusion of salt, which enhances their buoyancy, and the sedimentation of particles from their ends, which reduces their buoyancy relatively more rapidly. The loss of buoyancy causes a descending finger to slow and then rise back towards the base of the cloud, where it overshoots the LNB and excites an oscillation at the base of the entire umbrella. Since the thickening of the PBL is controlled by the flux of particles entering into the layer, we expect that,\nδ3pbl∼TmaxQpbl; ð15Þ\nwhere Tmax is the longest measured period of umbrella oscillation, and Qpbl is the flux of particles. Here, Qpbl is taken to be proportional to the flux of material cascading from the top of the jet when the flow falls back from its maximum height to the neutral buoyancy height. Therefore, Qpbl scales as Am(g ′ zmhos)\n1/2, with Am and g ′ zm the surface area and reduced gravity of the jet at the maximum height, which can be calculated from the source conditions using our model of jets (Appendix A). The longest period of cloud oscillation (Tmax) is calculated using measurements of the displacement of the cloud/salt water interface (Fig. 6A). These measurements are performed twice for each experiment at different locations along the distance from the source providing a 95% confidence level. The longest period of cloud oscillations is then determined from spectral analysis using the method of Welch, 1967 and a Thompson multitaper algorithm.\nFig. 6B shows that Eq. (15) is verified suggesting that oscillations and fingering instabilities result from the growth and destabilization of PBLs at the cloud bases. An additional remark is that quasiperiodic oscillatory behavior driven by convective PBL dynamics is not ubiquitous. In particular, for higher values of TmaxQpbl initial oscillations grew rapidly in amplitude (Fig. 6A), leading, in turn, to a late collapse of the entire umbrella cloud and the formation of a turbulent gravity current. This observation suggests that a further analysis of the stability of the PBL could lead to a prediction for this catastrophic collapse."
+  }, {
+    "heading": "4.4. Impact on the residence times",
+    "text": "The new PBL dynamics identified in our experiments raise the question of the residence time of suspended material in the cloud. To quantify this effect, we introduce the dimensionless number T such as\nT ¼ Tf Ts ; ð16Þ\nwhere Ts=H/Vs and Tf=H/Vf are the residence times when individual particle settling and when PBL dynamics dominates, respectively. Here, Vf=g′pbl 2/5Qf 1/5 is the characteristic velocity of flow into the resulting fingers with Qf=πVsδpbl2 /4 the corresponding volume flux into the fingers. Replacing variables in Eq. (16) together with Eq. (14), one can re-write T,\nT≈ 0:42 V 4=5 s g′pblνpbl h i4=15 : ð17Þ\nReplacing the parameters in this equation with consistent values, we estimate T≈0.5−2 suggesting that particle-rich fingers at the base of the cloud may either promote or impede particle sedimentation in our experiments depending on the effective particle content in the PBL. We note that in spite of the uncertainties on ppbl, this result corresponds to finger velocities Vf≈3−14 cm s−1 consistent with our observations (Movies 1 & 2)."
+  }, {
+    "heading": "5. Implications for volcanic ash-clouds",
+    "text": "We have shown that large-scale gravitational instabilities at the cloud bases can arise in our experiments as a result of the growth and intermittent overturn of thin PBLs formation. Our experimental results are well understood with a theoretical model for the jet and a scaling theory for the cloud. The scaling analysis presented in Section 2.2 suggests that our experimental multiphase flows are reliable analog for the transport and sedimentation of fine (low St) volcanic ash in the atmosphere. Thus, we now investigate whether or not PBLs formation influence the behavior of volcanic clouds and can explain the intriguing features shown in Fig. 1."
+  }, {
+    "heading": "5.1. Particle boundary layers in volcanic clouds",
+    "text": "To quantify the tendency of volcanic clouds to form PBLs at their base, we use the B number introduced in Section 4.2 (Eq. 10). In volcanic ash-clouds, however, particle settling velocities vary from large particles falling at high Reynolds number to small particles falling at low Reynolds number. Using the formulae of Bonadonna et al., 1998 for Vs valid for a range of particle Reynolds number leads to three formulations for B:\nBlow≈6 Δρi ρp δ2pbl d2p for Repb0:4; ð18Þ\nBint≈ 75 41=3\nΔρiρ 1=3 a\nρ2=3p\nδ2pblg 1=2 μ2=3dp for 0:4bRepb500; ð19Þ\nBhigh≈ 1 3 Δρiρ\n1=2 a\nρ1=2p\nδ2pblg 1=2\nμd1=2p for Rep > 500: ð20Þ\nReplacing δpbl with Eq. (14) and assuming that ρf∼ρa leads to a generic form for B appropriate over the full range of Rep conditions:\nB≈kξ1=3pbl ρaν\n2 a ρpgd 3 p\n\" #n=3 ; ð21Þ\nwhere ξpbl= ppbl/(1−Γ) 10, k is a geometric constant and n is a constant that depends on the form of the drag law. For high-Rep particles, k=33 and n=1/2, whereas k=128 and n=1 for intermediate-Rep particles, and k=600 and n=2 for low-Rep particles.\nInspection of Eq. (21) indicates that B is governed primarily by particle size (dp) and is relatively insensitive to the particle volume fraction ( ppbl) over the range in Rep. The latter quantity is not straightforward to evaluate without measurements of oscillation frequency at volcanic cloud bases. Here, we assume that particle concentrations in the PBL lie within the maximum range of values for the entire cloud ( pu) and up to ten times more concentrated, consistent with our experiments. Particle concentrations in the cloud are found to be pu≈10\n−6−10−5 using the model Carazzo et al. (2008b) for various source and environmental conditions including gas contents at the vent ranging from 7.5×10−4 to 10−2 vol% (Table 2). This range of values for pu is found to be fully consistent with previous theoretical calculations (Sparks et al., 1994; Woods, 1995) and direct measurements in ash clouds (Bursik et al., 1994). Thus, we retain ppbl=10\n−6−10−4 as a reasonable range for particle concentration in the PBL.\nFig. 7 shows the expected transitional conditions (B=1) over a wide range of particle sizes, densities, cloud altitudes, and for the full range of observed Rep conditions. Estimations of B for high-Rep particles show that not surprisingly large particles (typically >1− 6 mm) always settle individually (Fig. 7A). On the other hand, the sedimentation of low-Rep particles is expected to be governed by PBL dynamics (Fig. 7C). Lastly, intermediate-Rep particles are likely to either settle individually or to form PBLs depending on the effective particle concentration (Fig. 7B)."
+  }, {
+    "heading": "5.2. Comparison with natural data",
+    "text": "The analysis presented above shows that the mode of particle sedimentation in volcanic ash-clouds is mainly governed by the grain size distribution and to a lesser extent by the altitude reached into the atmosphere. With an aim of testing the theoretical predictions with field observations, we reviewed data available on 16 eruption phases including phreatomagmatic, Vulcanian and Plinian events (Fig. 8). We use total grain size distributions to determine a mean value and a sorting coefficient for error estimations. The cloud altitude is estimated by using the empirical relationship zb∼0.7zm, where the maximum column height zm is inferred from satellite measurements (Carey et al., 1990; Holasek et al., 1996) or from the distribution of lithic material in the deposits around the vent (Carey and Sparks, 1986).\nFig. 8 compares the collected field observations with the theoretical transition B=1. Because low-Rep particles always tend to form PBLs (Fig. 7C), whereas high-Rep particles always tend to settle individually (Fig. 7A), the only relevant curves for Fig. 8 are those given in Fig. 7B for intermediate Rep particles. We note, however, that for the lowest ppbl considered, all intermediate-Rep particles should settle individually (Fig. 7B). For this specific condition ( ppbl=10\n−6), the transition B=1 is simply given by the low-/intermediate-Rep transition (Fig. 8).\nThe comparison between theoretical predictions and field data shows that depending on the effective amount of particles in the PBL, particles larger than 63−125 μm at sea level and 250 μm− 1 mm in high atmosphere should settle individually, whereas finer particles are more likely to settle collectively and to form PBLs. In\nthe majority of the Vulcanian and Plinian eruptions shown in Fig. 8 sedimentation is expected to be governed by individual particle settling, as assumed in turbulent suspension models (Bursik et al., 1992). A number of Plinian events, however, including the well known 1980 Mt. St. Helens and 1982 El Chichon eruptions are expected to be in the PBL regime.\nAn important remark is that whereas the population of large pumice and lapilli can be accurately reconstructed from deposits in the field, the population of the finest ash is more difficult to assess because small particles remain in suspension for weeks and fall out far from their point of emission. Therefore, the median grain-sizes reported in Fig. 8 represent maximum values and it is possible that more Vulcanian and Plinian eruptions could be in the PBL regime. This assumption is supported by the thorough re-analyses of the 1980 Mt. St. Helens and 1982 El Chichon deposits, which show that the proportion of fine ash has been underestimated in previous studies (Durant et al., 2009; Rose and Durant, 2008). Lastly, the collected field observations suggest that PBL formation may have been important in highly-explosive phreatomagmatic eruptions producing fine volcanic ash including the recent Eyjafjallajökull eruption (Fig. 8).\nThe origin of mammatus in atmospheric and volcanic clouds remains poorly understood (Schultz et al., 2006). Our results support the idea that mammatus clouds observed during the 1980 Mount St. Helens eruption (Fig. 1A) formed as a result of the growth of a PBL at the base of the umbrella cloud (Durant et al., 2009). Overall, our results suggest that internal sedimentation of the finest fraction of particles may lead to the formation of PBLs at the base of volcanic clouds. Whether these PBLs will result in the formation of rounded mammatus clouds, particle-rich fingers or thin ash veils depends on the characteristics of the PBLs (Section 4.3). Consequently, more work is needed to characterize the dynamics of these PBLs in the natural case. In particular, real-time measurements of particle sizes and concentrations at the base of volcanic clouds would be valuable."
+  }, {
+    "heading": "5.3. Impact on cloud stability and longevity",
+    "text": "In spite of the lack of field data required to interrogate the stability of PBLs in nature, it is interesting to quantify the effect of finger formation on the residence time of suspended particles. For this, we use the T number defined in Section 4.4 considering only low-Rep particles which always form PBLs,\nT≈0:42 g ′pd\n3 p\nν2a 1−Γð Þ5=4 ε1=2ppbl\n2 4\n3 58=15; ð22Þ\nwhere g′p=g(ρp−ρa)/ρa. Applying typical values for volcanic ash clouds (see Section 2.3) leads to T∼10−1 for 10 μm-particles and T∼10−2−10−3 for 1 μm-particles. This result suggests that depending on the grain-size distribution in the PBL, finger formation reduces the residence time of fine particles in volcanic ash-clouds by at least one and up to three orders of magnitude compared to the process of individual particle settling. These estimates should be considered carefully since other mechanisms affecting the dynamics of fingers may play an important role.\nParticle aggregation is a particularly important phenomenon in volcanic ash clouds (Rose and Durant, 2011). Effects related to this process are not observed in our experiments, either in the cloud or in the resulting deposit, most likely because conditions for aggregation in water are not met for our 300 μm-particles. In natural eruption clouds, however, particle aggregation will cause the lowest-Rep particles to enter into higher-Rep regimes. Whether this phenomenon will enhance individual particle setting or PBLs formation is not straightforward to evaluate. Indeed, aggregation processes increase the mean particle sizes, but also reduce the effective particle densities and to a lesser extent particle concentrations in the PBL. On the basis of Eq. (21) alone, one can infer that an increase of particle sizes should promote individual particle settling, whereas a reduction of particle densities should promote PBL formation. Because both effects alter the effective value of B in opposite manner, and also because their relative importance varies according to the Rep regime, an exact treatment of this problem would require a more sophisticated model that would not be supported by our experiments. Nevertheless, we argue that a significant fraction of the original particle size distribution should remain in a Rep regime that favors PBL formation, as is apparent in the observations summarized in Figs. 1 and 8.\nAn additional important effect controlling the behavior of volcanic umbrella clouds is the presence of atmospheric winds. High velocity winds can advect the cloud, enhance turbulent mixing and may impede the formation of fingers at the base of the cloud (Linden, 1974). This effect can be quantified by comparing the time scale for turbulent shear Ww/H and for flow into a finger hf/Vf,"
+  }, {
+    "heading": "T† ¼ Wwhf",
+    "text": "Vf H ; ð23Þ\nwhere Ww is the wind speed and hf is the finger length. Fingers will form if T†>1 and will be impeded if T†b1. The maximum finger length can thus be estimated by replacing T†=1. For the 1980 Mt. St. Helens eruption, we estimate Ww=30 ms−1 (Carey and Sparks, 1986; Durant et al., 2009), H=10 km (Sarna-Wojcicki et al., 1981) and Vf∼0.55 ms−1 consistent with a mean grain size of 4.4ϕ (Fig. 8). Replacing these values in Eq. (23) yields hf≈185 m, which seems to be consistent with observations in Fig. 1A. We note that in the presence of very high-speed winds (Ww=60 ms−1), hf≈91 m and fingers are still expected to form. An additional remark is that in the near absence of wind (Wwb0.5 ms−1), hf≈11 km and fingers are expected to reach the ground and possibly to spread as gravity currents. No-wind conditions during an eruption are rare, but possible as inferred from Plinian fallout deposits with a radially symmetric distribution (Papale and Rosi, 1993). We argue that in the near absence of wind, the 1980 Mt. St. Helens eruption cloud could have formed possibly dangerous gravity currents at much larger distances from the volcanic vent than ever considered before."
+  }, {
+    "heading": "6. Conclusions",
+    "text": "We have presented a new set of laboratory experiments understood with theory in order to understand the origin of the enigmatic buoyancy effects observed at the base of volcanic clouds. We show that particle-laden umbrella clouds may follow unexpected dynamical regimes depending on the flow intensity, the strength of the initial\nenvironmental density stratification and the particle concentration. Internal sedimentation of the fine fraction of particles during cloud spreading leads to the growth of thin PBLs at cloud bases. For natural eruptions, whether the dynamics of PBLs play a major role in volcanic sedimentation depends on the grain size distribution, particle concentration and to a lesser extent plume height. Although large and heavy particles settle individually, the remaining fine fraction of particles is likely to form PBLs and subsequent fingers. An exhaustive review of available field data from historic and prehistoric eruptions reveals that PBLs formation affected sedimentation in varied types of sub-aqueous and subaerial explosive events. The impact of these new dynamics is mainly to reduce the residence time of fine particles by one to three orders of magnitude compared to the process of individual particle settling.\nOur work explains the origin of the enigmatic buoyancy effects observed in some recent volcanic ash-clouds (mammatus, particle-richfingers, ash veils, destabilization of thewhole umbrella cloud) and provides insights into understanding the formation of finely stratified pumice deposits (Branney, 1991). Catastrophic overturn and collapse of the umbrella could present a potentially significant and previously unrecognized volcanic hazard. Understandingwhether our late collapse regime could occur in nature and lead to the occurrence of late pyroclastic flows is therefore an exciting future direction of investigation.\nSupplementary materials related to this article can be found online at doi:10.1016/j.epsl.2012.01.025.\nNotation dp particle diameter (m) f drag factor g acceleration of gravity (m s−2) g′ reduced gravity (m s−2) hf finger length (m) hos overshoot height (m) k constant n constant xp particle mass fraction z vertical distance (m) zb neutral buoyancy height (m) zm maximum column height (m) A dimensionless buoyancy parameter Azm surface area of the jet at the maximum height (m\n2) D vent diameter (m) F buoyancy flux (m4 s−3) H umbrella cloud thickness (m) L characteristic length scale for the flow (m) M momentum flux (m4 s−2) N stratification parameter (s−2) Q volumetric flow rate (m3 s−1) R top-hat jet radius (m) Ts residence time for individual settling (s) Tf residence time in the fingering regime (s) Tmax longest period of umbrella oscillation (s) U top-hat jet velocity (m s−1) V characteristic velocity for the flow (m s−1) Vi growth rate of the gravitational instability (m s−1) Vs rate of settling of individual particles (m s−1) Wu lateral spreading rate (m s−1) Ww wind velocity (m s−1) B =Vi/Vs Gr Grashof number Re Reynolds number Rep particle Reynolds number Ri Richardson number St Stokes number T time scale ratio T† time scale ratio\nαe entrainment coefficient δpbl critical particle boundary layer thickness (m) p particle volume fraction pmax effective maximum particle concentration μ fluid dynamic viscosity (Pa s) ν fluid kinematic viscosity (m2 s−1) νa kinematic viscosity of the salt water (m2 s−1) ρ mixture density (kg m−3) ρa ambient density (kg m−3) ρf fluid density (kg m−3) ρp particle density (kg m−3) ρr reference density (kg m−3) τf time scale for flow (s) τg time scale for sedimentation (s) τp particle response time (s) ξpbl =εppbl/(1−Γ) 10 Δρi =ρpbl−ρa (kg m−3) Γ =εpo/εpmax Σ sedimentation number\nSubscripts 0 values at the source of the jet f values in the finger m values at the maximum jet height pbl values in the PBL u values at the source of the cloud"
+  }, {
+    "heading": "Acknowledgments",
+    "text": "This manuscript was greatly improved by three anonymous reviewers and by D. Ogden who gave very useful comments on a previous version of this paper. The authors thank J. Unger who built up the experimental set-up. This work was supported by NSERC, PIMS and the Canadian Institute for Advanced Research."
+  }, {
+    "heading": "Appendix A. Model for turbulent jets",
+    "text": "For a conic-shaped jet in the Boussinesq approximation the conservation laws of volume (πUR2) and momentum (πU2R2) fluxes can be written,\nd dz UR2 ¼ 2αeUR; ð24Þ\nd dz U2R2 ¼ g ′R2; ð25Þ\nwhere z is the altitude, R is the jet radius, U is the vertical velocity, and αe is the entrainment coefficient, which quantifies the entrainment rate αeU. In addition to this set of equations, we use Eq. (2) to account for the influence of the particle load on the bulk density. Assuming that volume is conserved (i.e., no sedimentation from the column as observed in our experiments), the particle mass fraction in the jet xp is given at any altitude by the conservation equation,\nxpUR 2 z ¼ xpUR2 0 ; ð26Þ\nwhere the subscript 0 represents a quantity evaluated at the nozzle. The entrainment coefficient quantifies the rate of turbulent mixing of environmental fluid within the jet (Morton et al., 1956). Here, we use a simplified version of the formula proposed by Kaminski et al., 2005,\nαe ¼ 0:0675þ 1− 1 A Ri; ð27Þ\nwhere Ri=g′R/U2 is the local Richardson number, and A is a dimensionless parameter that depends on the flow structure (Carazzo et al., 2006). The latter parameter has been constrained using laboratory measurements on various jets and plumes, and can be calculated using Eqs. (13) to (17) of Carazzo et al., 2008b. Eqs. (24) to (27) can be used to describe the self-similar evolution of the jet and thus to predict the conditions leading to the formation of a stable plume (Fig. 5)."
+  }],
+  "year": 2012,
+  "references": [{
+    "title": "The role of meso-scale structures in rapid gas–solid flows",
+    "authors": ["K. Agrawal", "P.N. Loezos", "M. Syamlal", "S. Sundaresan"],
+    "venue": "J. Fluid Mech",
+    "year": 2001
+  }, {
+    "title": "Sedimentation from strong volcanic plumes",
+    "authors": ["C. Bonadonna", "J.C. Phillips"],
+    "venue": "J. Geophys. Res",
+    "year": 2003
+  }, {
+    "title": "Thickness variations and volume estimates of tephra fall deposits: the importance of particle Reynolds number",
+    "authors": ["C. Bonadonna", "C.G.J. Ernst", "R.S.J. Sparks"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 1998
+  }, {
+    "title": "Numerical modeling of tephra fallout associated with dome collapses and Vulcanian explosions: application to hazard assessment on Montserrat",
+    "authors": ["C. Bonadonna", "G. Macedonio", "R.S.J. Sparks"],
+    "year": 2002
+  }, {
+    "title": "Eruption and depositional facies of the Whorneyside Tuff Formation, English Lake District: an exceptionally large-magnitude phreatoplinian eruption",
+    "authors": ["M.J. Branney"],
+    "venue": "Geol. Soc. Am",
+    "year": 1991
+  }, {
+    "title": "Addressing complexity in laboratory experiments: the scaling of dilute multiphase flows in magmatic systems",
+    "authors": ["A. Burgisser", "G.W. Bergantz", "R.E. Breidenthal"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2005
+  }, {
+    "title": "Sedimentation of tephra by volcanic plumes. I. Theory and its comparison with a study of the Fogo A Plinian deposit",
+    "authors": ["M. Bursik", "S. Carey", "R.S.J. Sparks", "J. Gilbert"],
+    "venue": "Sao Miguel (Azores). Bull. Volcanol",
+    "year": 1992
+  }, {
+    "title": "The concentration of ash in volcanic plumes, inferred from dispersal data",
+    "authors": ["M.I. Bursik", "R.S.J. Sparks", "S.N. Carey", "J.S. Gilbert"],
+    "venue": "Proceedings of the First International Symposium on Volcanic Ash and Aviation Safety USGS,",
+    "year": 1994
+  }, {
+    "title": "The route to self-similarity in turbulent jets and plumes",
+    "authors": ["G. Carazzo", "E. Kaminski", "S. Tait"],
+    "venue": "J. Fluid Mech",
+    "year": 2006
+  }, {
+    "title": "On the dynamics of volcanic columns: a comparison of field data with a new model of negatively buoyant jets",
+    "authors": ["G. Carazzo", "E. Kaminski", "S. Tait"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2008
+  }, {
+    "title": "On the rise of turbulent plumes: quantitative effects of variable entrainment for submarine hydrothermal vents, terrestrial and extra terrestrial explosive volcanism",
+    "authors": ["G. Carazzo", "E. Kaminski", "S. Tait"],
+    "venue": "J. Geophys. Res",
+    "year": 2008
+  }, {
+    "title": "Convection driven by particle settling surrounding a turbulent plume",
+    "authors": ["S.S.S. Cardoso", "M. Zarrebini"],
+    "venue": "Chem. Eng. Sci",
+    "year": 2001
+  }, {
+    "title": "Influence of particle aggregation on deposition of distal tephra from the May 18, 1980, eruption of Mount St-Helens volcano",
+    "authors": ["S. Carey", "H. Sigurdsson"],
+    "venue": "J. Geophys. Res",
+    "year": 1982
+  }, {
+    "title": "The 1982 eruption of El Chichon volcano, Mexico (2): observations and numerical modelling of tephra-fall distribution",
+    "authors": ["S. Carey", "H. Sigurdsson"],
+    "venue": "Bull. Volcanol",
+    "year": 1986
+  }, {
+    "title": "Quantitative models of the fallout and dispersal of tephra from volcanic eruption",
+    "authors": ["S. Carey", "R.S.J. Sparks"],
+    "venue": "columns. Bull. Volcanol",
+    "year": 1986
+  }, {
+    "title": "Variations in column height and magma discharge during the May 18, 1980 eruption of Mount St. Helens",
+    "authors": ["S. Carey", "H. Sigurdson", "J.E. Gardner", "W. Criswell"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 1990
+  }, {
+    "title": "The 1989–1990 eruption of Redoubt Volcano, Alaska: impacts on aircrafts operations",
+    "authors": ["T.J. Casadevall"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 1994
+  }, {
+    "title": "Evaluating the structure and magnitude of the ash plume during the initial phase of the 2010 Eyjafjallajökull eruption using lidar observations and NAME simulations",
+    "authors": ["H.F. Dacre", "A.L.M. Grant", "R.J. Hogan", "S.E. Belcher", "D.J. Thomson", "B.J. Devenish", "F. Marenco", "J.M. Haywood", "A. Ansmann", "I. Mattis", "L. Clarisse"],
+    "venue": "J. Geophys. Res",
+    "year": 2011
+  }, {
+    "title": "Contemporaneous convective and collapsing eruptive dynamics: the transitional regime of explosive eruptions",
+    "authors": ["A. Di Muro", "A. Neri", "M. Rosi"],
+    "venue": "Geophys. Res",
+    "year": 2004
+  }, {
+    "title": "Hydrometeorenhanced tephra sedimentation: constraints from the 18 May 1980 eruption of Mount St",
+    "authors": ["A.J. Durant", "W.I. Rose", "A.M. Sarna-Wojcicki", "S. Carey", "A.C.M. Volentik"],
+    "venue": "Helens. J. Geophys. Res",
+    "year": 2009
+  }, {
+    "title": "On the predicting particle-laden turbulent flows",
+    "authors": ["S. Elghobashi"],
+    "venue": "Appl. Sci. Res",
+    "year": 1994
+  }, {
+    "title": "Sedimentation from turbulent jets and plumes",
+    "authors": ["G.G.J. Ernst", "R.S.J. Sparks", "S.N. Carey", "M.I. Bursik"],
+    "venue": "J. Geophys. Res",
+    "year": 1996
+  }, {
+    "title": "Turbulent buoyant jets into stratified or flowing ambient fluids",
+    "authors": ["L. Fan"],
+    "venue": "Report KH-R-15California Institute of Technology",
+    "year": 1967
+  }, {
+    "title": "Validation of the FALL3D ash dispersion model using observations of the 2010 Eyjafjallajökull volcanic ash",
+    "authors": ["A. Folch", "A. Costa", "S. Basart"],
+    "venue": "cloud. Atmos. Environ",
+    "year": 2012
+  }, {
+    "title": "The importance of double diffusion to the settling of suspended material",
+    "authors": ["T. Green"],
+    "venue": "Sedimentology",
+    "year": 1987
+  }, {
+    "title": "Jet discharge into a fluid with a density gradient",
+    "authors": ["W.E. Hart"],
+    "venue": "Proc. Am. Soc. Civ. Eng",
+    "year": 1961
+  }, {
+    "title": "Pyroclastic geology of Towada volcano",
+    "authors": ["Y. Hayakawa"],
+    "venue": "Bull. Earth. Inst. Univ. Tokyo",
+    "year": 1985
+  }, {
+    "title": "Airbornemeasurements of particle and gas emissions from the 1990 volcanic eruptions of Mount Redoubt",
+    "authors": ["P.V. Hobbs", "L.F. Radke", "J.H. Lyons", "R.J. Ferek", "D.J. Coffman"],
+    "venue": "J. Geophys. Res",
+    "year": 1991
+  }, {
+    "title": "Satellite observation and interpretation of the 1991 Mount Pinatubo eruption plumes",
+    "authors": ["R.E. Holasek", "S. Self", "A.W. Woods"],
+    "venue": "J. Geophys. Res",
+    "year": 1996
+  }, {
+    "title": "Grain-size analysis of volcanic ash for the rapid assessment of respiratory health hazard",
+    "authors": ["C.J. Hornwell"],
+    "venue": "J. Environ. Monit",
+    "year": 2007
+  }, {
+    "title": "Convection at high Rayleigh number",
+    "authors": ["L.N. Howard"],
+    "venue": "Proc. 11th Intl Congr. Appl. Mech,",
+    "year": 1964
+  }, {
+    "title": "The influence of diffusive convection on sedimentation from buoyant plumes",
+    "authors": ["Hoyal", "D.C.J.D", "M.I. Bursik", "J.F. Atkinson"],
+    "venue": "Mar. Geol",
+    "year": 1999
+  }, {
+    "title": "Settling-driven convection: a mechanism of sedimentation from stratified fluids",
+    "authors": ["Hoyal", "D.C.J.D", "M.I. Bursik", "J.F. Atkinson"],
+    "venue": "J. Geophys. Res",
+    "year": 1999
+  }, {
+    "title": "Turbulent entrainment in jets with arbitrary buoyancy",
+    "authors": ["E. Kaminski", "S. Tait", "G. Carazzo"],
+    "venue": "J. Fluid Mech",
+    "year": 2005
+  }, {
+    "title": "Erosion of a stable density gradient by sedimentation-driven convection",
+    "authors": ["R.C. Kerr"],
+    "venue": "Nature 353,",
+    "year": 1991
+  }, {
+    "title": "Axisymmetric submerged intrusion in stratified fluid",
+    "authors": ["N.E. Kotsovinos"],
+    "venue": "J. Hydrau. Eng",
+    "year": 2000
+  }, {
+    "title": "Salt fingers in a steady shear flow",
+    "authors": ["P.F. Linden"],
+    "venue": "Geophys. Fluid Dyn",
+    "year": 1974
+  }, {
+    "title": "Molecular mixing in Rayleigh–Taylor instability",
+    "authors": ["P.F. Linden", "J.M. Redondo"],
+    "venue": "Part I: Global mixing. Phys. Fluids A",
+    "year": 1991
+  }, {
+    "title": "Crustal capture, sorting, and retention in convecting magma",
+    "authors": ["B.D. Marsh"],
+    "venue": "Geol. Soc. Am",
+    "year": 1988
+  }, {
+    "title": "Turbulent gravitational convection from maintained and instantaneous source",
+    "authors": ["B.R. Morton", "G.I. Taylor", "J.S. Turner"],
+    "venue": "Proc. R. Soc. London",
+    "year": 1956
+  }, {
+    "title": "Determination of the total grain size distribution in a vulcanian eruption column and its implications to stratospheric aerosol perturbation",
+    "authors": ["P.J. Murrow", "W.I. Rose", "S. Self"],
+    "venue": "Geophys. Res. Lett",
+    "year": 1980
+  }, {
+    "title": "Grain size distribution and aggregate structure of volcanic ash produced during the phreatomagmatic eruption on",
+    "authors": ["D. Nagai", "K. Endo", "M. Kunikata", "S. Nakayama", "F. Motomatsu", "M. Ohno", "T. Chiba", "M. Suzuki"],
+    "venue": "Usu volcano. Bull. Volcanol. Soc. Jpn",
+    "year": 2002
+  }, {
+    "title": "A case of no-wind plinian fallout at Pululagua caldera (Ecuador): implications for models of clast dispersal",
+    "authors": ["P. Papale", "M. Rosi"],
+    "venue": "Bull. Volcanol",
+    "year": 1993
+  }, {
+    "title": "A model for the numerical simulation of tephra fall deposits",
+    "authors": ["T. Pfeiffer", "A. Costa", "G. Macedonio"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2005
+  }, {
+    "title": "The thickness, volume and grainsize of tephra fall deposits",
+    "authors": ["D.M. Pyle"],
+    "venue": "Bull. Volcanol",
+    "year": 1989
+  }, {
+    "title": "Volcanic eruptions and climate",
+    "authors": ["A. Robock"],
+    "venue": "Rev. Geophys",
+    "year": 2000
+  }, {
+    "title": "volcanic cloud history and fine ash fallout",
+    "authors": ["W.I. Rose", "A.J. Durant"],
+    "venue": "El Chichon volcano, April",
+    "year": 2008
+  }, {
+    "title": "Fate of volcanic ash: aggregation and fallout",
+    "authors": ["W.I. Rose", "A.J. Durant"],
+    "venue": "Geology",
+    "year": 2011
+  }, {
+    "title": "Studies of volcanic ash from two recent Central American eruptions",
+    "authors": ["W.I. Rose", "S. Bonis", "R.E. Stoiber", "M. Keller", "T. Bickford"],
+    "venue": "Bull. Volcanol",
+    "year": 1973
+  }, {
+    "title": "Areal distribution, thickness, mass, volume, and grain size of air-fall ash from the six major eruptions of 1980",
+    "authors": ["A.M. Sarna-Wojcicki", "S. Shipley", "R.B. Waitt", "D. Dzurisin", "S.H. Wood"],
+    "venue": "U.S.G.S Prof. Paper,",
+    "year": 1981
+  }, {
+    "title": "The mysteries of mammatus clouds: observations and formation mechanisms",
+    "authors": ["D.M. Schultz", "K.M. Kanak", "J.M. Straka", "R.J. Trapp", "B.A. Gordon", "D.S. Zrnic", "G.H. Bryan", "A.J. Durant", "T.J. Garrett", "P.M. Klein", "D.K. Lilly"],
+    "venue": "J. Atmos. Sci",
+    "year": 2006
+  }, {
+    "title": "Tephra fallout of 2001 Etna flank eruption: analysis of the deposit and plume dispersion",
+    "authors": ["S. Scollo", "P. Del Carlo", "M. Coltelli"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2007
+  }, {
+    "title": "Characteristics of widespread pyroclastic deposits formed by the interaction of silicic magma and water",
+    "authors": ["S. Self", "R.S.J. Sparks"],
+    "venue": "Bull. Volcanol",
+    "year": 1978
+  }, {
+    "title": "A model for the formation of ignimbrite by gravitational column collapse",
+    "authors": ["R.S.J. Sparks", "L. Wilson"],
+    "venue": "J. Geol. Soc. Lond",
+    "year": 1976
+  }, {
+    "title": "The pyroclastic deposits of the 1875 eruption of Askja, Iceland",
+    "authors": ["R.S.J. Sparks", "L. Wilson", "H. Sigurdsson"],
+    "venue": "Philos. Trans. R. Soc. London",
+    "year": 1981
+  }, {
+    "title": "Sedimentation from gravity currents generated by turbulent plumes",
+    "authors": ["R.S.J. Sparks", "S.N. Carey", "H. Sigurdsson"],
+    "venue": "Sedimentology",
+    "year": 1991
+  }, {
+    "title": "Sedimentation of tephra by volcanic plumes. Part II: Controls on thickness and grain-size variations of tephra fall deposits",
+    "authors": ["R.S.J. Sparks", "M.I. Bursik", "G.J. Ablay", "R.M.E. Thomas", "S.N. Carey"],
+    "venue": "Bull. Volcanol",
+    "year": 1992
+  }, {
+    "title": "The controls of eruption column dynamics on the injection andmass loadings of ash into the atmosphere",
+    "authors": ["R.S.J. Sparks", "M.I. Bursik", "S.N. Carey", "J.S. Gilbert"],
+    "venue": "Proceedings of the First International Symposium onVolcanic Ash and Aviation Safety USGS,",
+    "year": 1994
+  }, {
+    "title": "A numerical study of turbulent behavior in eruption clouds using a 3-D fluid-dynamics model",
+    "authors": ["Y.J. Suzuki", "T. Koyaguchi", "M. Ogawa", "I. Hachisu"],
+    "venue": "J. Geophys. Res",
+    "year": 2005
+  }, {
+    "title": "Buoyancy Effects in Fluids",
+    "authors": ["J.S. Turner"],
+    "year": 1973
+  }, {
+    "title": "Numerical models of Plinian eruption columns and pyroclastic flows",
+    "authors": ["G.A. Valentine", "K.H. Wohletz"],
+    "venue": "J. Geophys. Res",
+    "year": 1989
+  }, {
+    "title": "Particle recycling and oscillations of volcanic eruption",
+    "authors": ["G. Veitch", "A.W. Woods"],
+    "venue": "columns. J. Geophys. Res",
+    "year": 2000
+  }, {
+    "title": "The Taupo pumice: product of the most powerful known (ultraplinian) eruption",
+    "authors": ["G.P.L. Walker"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 1980
+  }, {
+    "title": "Characteristics of two phreatoplinian ashes and their waterflushed origin",
+    "authors": ["G.P.L. Walker", "1981a"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 1981
+  }, {
+    "title": "The Waimihia and Hatepe plinian deposits from rhyolitic Taupo Volcanolic Centre",
+    "authors": ["G.P.L. Walker", "1981b"],
+    "venue": "N.Z. J. Geol. Geophys",
+    "year": 1981
+  }, {
+    "title": "The use of fast Fourier transform for the estimation of power spectra: a method based on time averaging over short, modified periodograms",
+    "authors": ["P. Welch"],
+    "venue": "IEEE Trans. Audio Electroacoust",
+    "year": 1967
+  }, {
+    "title": "Dynamics of laboratory diapir and plume models",
+    "authors": ["J. Whitehead", "D. Luther"],
+    "venue": "J. Geophys. Res",
+    "year": 1975
+  }, {
+    "title": "Explosive volcanic eruptions—III",
+    "authors": ["L. Wilson"],
+    "venue": "Plinian eruption columns. Geophys. J. R. Astron. Soc",
+    "year": 1976
+  }, {
+    "title": "The fluid dynamics and thermodynamics of eruption",
+    "authors": ["A.W. Woods"],
+    "venue": "columns. Bull. Volcanol",
+    "year": 1988
+  }, {
+    "title": "The dynamics of explosive volcanic eruptions",
+    "authors": ["A.W. Woods"],
+    "venue": "Rev. Geophys",
+    "year": 1995
+  }, {
+    "title": "A laboratory study of explosive volcanic eruptions",
+    "authors": ["A.W. Woods", "C.P. Caulfield"],
+    "venue": "J. Geophys. Res",
+    "year": 1992
+  }],
+  "id": "SP:90769b2d6894883e64896cfaa0a5035ecbeaf863",
+  "authors": [{
+    "name": "Guillaume Carazzo",
+    "affiliations": []
+  }, {
+    "name": "Mark Jellinek",
+    "affiliations": []
+  }],
+  "title": "A new view of the dynamics, stability and longevity of volcanic clouds"
+}

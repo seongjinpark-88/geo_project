@@ -1,0 +1,335 @@
+{
+  "sections": [{
+    "text": "role of both tropical and northern volcanic eruptions in volcanogenic aerosol loading of the midlatitude stratosphere is also discussed. In addition to volcanoes, we considered other possible causes of the SAL perturbations over Tomsk, i.e., the polar stratospheric cloud (PSC) events and smoke plumes from strong forest fires. At least two PSC events were detected in 1995 and 2007. We also make an assumption that the Kelut volcanic eruption (Indonesia, February 2014) could be the cause of the SAL perturbations over Tomsk during the first quarter of 2015."
+  }, {
+    "heading": "1 Introduction",
+    "text": "Long-term studies show that the presence of various types of aerosol in the stratosphere is mainly caused by powerful volcanic eruptions (Robock, 2000; Robock and Oppenheimer, 2003). Volcanic eruptions are ranked in the volcanic explosivity index (VEI) category from 0 to 8 (Newhall and Self, 1982; Siebert et al., 2010). During Plinian or, more rarely, Vulcanian explosive eruptions with VEI≥ 3, volcanic ejecta and gases can directly reach the stratospheric altitudes, where the volcanogenic aerosol stays for a long time. Then this aerosol spreads throughout the global stratosphere in the form of clouds. The volcanogenic aerosol perturbs the radiation–heat balance of the atmosphere and thus significantly affects the atmospheric dynamics and climate (Timmreck, 2012; Driscoll et al., 2012; Kremser et al., 2016). The\nPublished by Copernicus Publications on behalf of the European Geosciences Union.\ninjection of volcanogenic aerosol particles into the stratosphere leads to a considerable increase in their specific surface area and therefore to activation of heterogeneous chemical reactions on the surface of these particles. The reactions can result in stratospheric ozone depletion, for example (Hofmann and Solomon, 1989; Prather, 1992; Randel et al., 1995). Moreover, the long-term presence of volcanogenic aerosol clouds in the stratosphere also leads to cooling of the underlying surface and near-surface atmosphere due to the aerosol scattering and extinction of the direct solar radiation (Stenchikov et al., 2002). The latter effect is the basis for several geoengineering projects on artificial climate control (Crutzen, 2006; Robock et al., 2009; Kravitz and Robock, 2011; Laakso et al., 2016). These projects require information on aerosol cloud transport in the stratosphere.\nAmong various techniques for stratospheric aerosol measurements, the lidar remote sensing techniques are the most sensitive and have high spatial and temporal resolution. The number of lidar stations for stratospheric aerosol monitoring significantly increased throughout the world soon after the large volcanic eruption of Mt. Pinatubo (Philippines, 15 June 1991; VEI= 6), the most powerful volcanic eruption of the 20th century after the Novarupta volcanic eruption (the Alaska Peninsula, 6 June 1912; VEI= 6; Fierstein and Hildreth, 1992). Some of these lidar stations formed continuous lidar observation networks, such as the Network for the Detection of Stratospheric Change (NDSC; now NDACC, Network for the Detection of Atmospheric Composition Change; http://www.ndsc.ncep.noaa.gov), the European Aerosol Research Lidar Network (EARLINET; Bösenberg et al., 2003), and the Asian Dust and Aerosol Lidar Observation Network (AD-Net; Murayama et al., 2000). However, before the Pinatubo eruption only several individual lidars provided continuous monitoring of the stratosphere. The longest time series of the stratospheric aerosol layer (SAL) lidar measurements have been accumulated at the Mauna Loa Observatory (Hawaii) since 1973 (Barnes and Hofmann, 1997, 2001), the NASA Langley Research Center (Hampton, Virginia) since 1974 (Woods and Osborn, 2001), and GarmischPartenkirchen (Germany) since 1976 (Trickl et al., 2013).\nThe first lidar observations of the SAL parameters in the USSR were performed at the Institute of Atmospheric Optics (IAO) of the Siberian Branch of the USSR Academy of Sciences (now V.E. Zuev Institute of Atmospheric Optics of the Siberian Branch of the Russian Academy of Sciences), located in Tomsk, in 1975 (Zuev, 1982). A layer near 19 km altitude with increased stratospheric aerosol concentration due to the sub-Plinian eruption of Volcán de Fuego (Guatemala, 14 October 1974; VEI= 4) was detected at that time.\nTomsk (56.48◦ N, 85.05◦ E, Western Siberia, Russia) is located in the central part of the Eurasian continent. The information on the atmosphere over the vast area of Siberia is poorly presented in various databases. Therefore, the lidar measurement time series accumulated in Tomsk are definitely unique and can be useful in studying climate change,\nfor example (Mills et al., 2016). A new lidar station was designed and implemented at the IAO in 1985 for continuous monitoring of the SAL volcanogenic perturbations and other stratospheric parameters over Tomsk. The monitoring started at the end of 1985 and is ongoing at the present time (i.e., more than 30 years). In 2004, the lidar station in Tomsk was integrated into the Lidar Network for atmospheric monitoring in the Commonwealth of Independent States (CIS-LiNet; Chaykovskii et al., 2005; Zuev et al., 2009). The CIS-LiNet was established by six lidar teams from Belarus, Russia, and the Kyrgyz Republic. Note that the CIS-LiNet station located in Minsk, Belarus, is also integrated into EARLINET (Wandinger et al., 2016).\nThe detection of high aerosol concentration in the stratosphere over Tomsk after the Nevado del Ruiz volcano eruption (Colombia, 13 November 1985; VEI= 3) marked the beginning of routine lidar observations in 1986 (El’nikov et al., 1988). The detection and subsequent monitoring of strong SAL perturbations from volcanogenic aerosol after the Pinatubo eruption were definitely the major events during the first decade of lidar observations in Tomsk. The data of lidar measurements made in Tomsk over the 1986–2000 period were summarized and analyzed by Zuev et al. (1998, 2001).\nIn this paper, we mainly focus on and discuss (1) the stratospheric background period from 2000 to 2006, (2) the SAL volcanogenic perturbations during the last decade (2006– 2015), and (3) the potential detection of polar stratospheric clouds over Tomsk. The role of strong forest fires in the SAL perturbations is discussed. A brief review of previous lidar observations in Tomsk during the 1986–1999 period is also given."
+  }, {
+    "heading": "2 Lidar instruments and methods",
+    "text": "Regular monitoring of the SAL parameters over Tomsk was started at the IAO with a single-wavelength aerosol lidar in January 1986. A pulsed mode Nd:YAG laser LTI-701 operating at a wavelength of 532 nm with 1 W average power at a pulse repetition rate of 3 kHz was used as the lidar transmitter (El’nikov et al., 1988). The lidar backscattered signals were collected by a Newtonian receiving telescope with a mirror of 1 m diameter and a 2 m focal length. The signals were registered with a vertical resolution of 374 m by a photomultiplier tube (PMT) FEU-130 (USSR, Moscow ElecroLamp Plant) operating in the photon counting mode. The first results of stratospheric ozone measurements were obtained with a modified version of the IAO lidar in 1989 (El’nikov et al., 1989). In 1991, the IAO lidar system was updated with a receiving telescope with a mirror of 2.2 m diameter and a 10 m focal length. Note that this 2.2 m telescope can be used both as Newtonian and prime focus depending on the remotely sensed object and selected lidar transmitter wavelength. In 1994, the IAO lidar system was re-\nAtmos. Chem. Phys., 17, 3067–3081, 2017 www.atmos-chem-phys.net/17/3067/2017/\nnamed the Siberian Lidar Station (SLS; Zuev, 2000). Now the SLS represents a multichannel station for regular measurements of aerosol parameters, vertical ozone content distribution and for temperature retrievals in the troposphere and stratosphere. The receiving telescopes with the main mirror diameters of 2.2, 1, 0.5, and 0.3 m and lasers operating in the wavelength range 271–1064 nm are used at the SLS for these purposes.\nThe SLS aerosol channel we consider uses a Nd:YAG laser as the channel transmitter and a Newtonian telescope with a mirror diameter of 0.3 m and a focal length of 1 m as the channel receiver. The laser (LS-2132T-LBO model, LOTIS TII Co., the Republic of Belarus) can operate at wavelengths of 1064, 532, and 355 nm with 200, 100, and 40 mJ pulse energies, respectively, at a pulse repetition rate of 20 Hz. The backscattered signals from altitudes up to the stratopause (∼ 50 km) are registered with a vertical resolution of 100 m by R7206-01 and R7207-01 PMTs (Hamamatsu Photonics, Japan) at used wavelengths of 532 and 355 nm, respectively. The PMTs operate in the photon counting mode. Two shutdown periods of the SLS aerosol channel from July 1997 to May 1999 and from February to September 2014 were due to maintenance of the channel laser and rearrangement and improvement of the SLS. A more detailed technical description of the SLS aerosol channel and its data acquisition electronics can be found in Burlakov et al. (2010).\nWe use the scattering ratio R(H) to describe the stratospheric aerosol vertical distribution, i.e.,\nR(H)= βmπ (H)+β a π (H)\nβmπ (H) = 1+\nβaπ (H) βmπ (H) , (1)\nwhere βmπ (H) and β a π (H) are the molecular (Rayleigh) and aerosol (Mie) backscatter coefficients, respectively; π denotes an angle of π radian, i.e., the angle of the backscatter lidar signal propagation. The SLS aerosol channel makes it possible to receive almost undisturbed backscattered signals from altitudes of∼ 40–45 km. At higher altitudes, the signalto-noise ratio is too low. Therefore, altitudes of ∼ 30–35 km, where the stratosphere is considered to be aerosol-free, were used as the calibration altitudes H0. Thus, the detected lidar signals were calibrated by normalizing them to the molecular backscatter signal from altitudes H0 ≥ 30 km. The calibration method of lidar signals against the molecular backscatter coefficient βmπ (H) is described in detail by Measures (1984).\nWe use the integrated aerosol backscatter coefficient Baπ to describe the temporal dynamics (time series) of stratospheric aerosol loading over Tomsk. The coefficient is calculated for a certain range of stratospheric altitudes (H1; H2)\nBaπ = H2∫ H1 βaπ (H)dH. (2)\nHere, H1 is the local tropopause altitude or slightly above, where upper-tropospheric aerosol does not contribute to the\nvalue of Baπ , and H2 corresponds to the calibration altitude H0 = 30 km. Tomsk is located near the southern boundary of subarctic latitudes, where the tropopause altitude can significantly vary due to migration of the Arctic stratospheric jet stream within the Tomsk region, for example. Sometimes one can observe a double (or even multiple) tropopause. For this reason, we consciously removed the interval of the tropopause altitude variations to observe only the stratospheric perturbations. As the tropopause altitude over Tomsk varies from ∼ 11 to 13 km depending on the season, we set H1 = 15 km.\nVarious data on volcanic eruptions were taken from the Smithsonian Institution Global Volcanism Program (GVP; http://volcano.si.edu/; Section: Reports; Subsections: Smithsonian/USGS Weekly Volcanic Activity Report and Bulletin of the Global Volcanism Network). To study the SAL volcanogenic perturbations, we also analyze air mass backward trajectories started from aerosol layers observed over Tomsk. All the trajectories were calculated by using the NOAA’s Hybrid Single-Particle Lagrangian Integrated Trajectory model (HYSPLIT; Stein et al., 2015; http://ready. arl.noaa.gov/HYSPLIT.php) and the HYSPLIT-compatible NOAA meteorological data from the Global Data Assimilation System (GDAS) one-degree archive."
+  }, {
+    "heading": "3 Results of the SAL lidar observations over Tomsk",
+    "text": ""
+  }, {
+    "heading": "3.1 Time series of the integrated stratospheric backscatter coefficient (1986–2015)",
+    "text": "The 30-year time series of the integrated stratospheric backscatter coefficient Baπ , obtained from the SAL lidar observations performed at λ= 532 nm in Tomsk from 1986 to 2015, is presented in Fig. 1. The backscatter coefficients are integrated over the 15–30 km stratospheric layer described above.\nWe divided the time series into the following four intervals. The 1986–1991 period (I) reflects the final SAL relaxation after the explosive eruption of El Chichón volcano (Mexico, 29 March 1982, VEI= 5) together with small SAL perturbations after several less powerful volcanic eruptions during the period (see Table 1). The next 1991–1999 period (II) is mainly determined by the strong perturbation and subsequent long-term relaxation of the SAL after the Pinatubo eruption.\nThe 1999–2006 period (III) is marked by reaching the background level of Baπ under comparatively small SAL volcanogenic perturbations. The last 2006–2015 period (IV) reflects an increase in Baπ (i.e., in stratospheric aerosol loading) due to an increase in volcanic activity. Table 1 contains all volcanic eruptions that have caused the SAL perturbations detected over Tomsk since 1986.\nAs noted above, the results of aerosol lidar observations at the SLS during periods I and II were described by Zuev et\nwww.atmos-chem-phys.net/17/3067/2017/ Atmos. Chem. Phys., 17, 3067–3081, 2017\nal. (1998, 2001). Next, we consider the temporal dynamics of stratospheric aerosol loading over Tomsk during periods III and IV.\nLow explosive volcanic activity during the comparatively long post-Pinatubo period led to a gradual reduction in volcanogenic aerosol loading of the stratosphere down to the background level of Baπ reached after 1998. Only the aftereffect of the Rabaul volcanic eruption (Papua New Guinea, 19 September 1994; VEI= 4) was definitely detected over Tomsk in the post-Pinatubo period (II). The minimum annual average Baπ = 1.29× 10\n−4 sr−1 was reached in 2004. Thus, we can consider the state of the SAL over Tomsk as background during period III, when the annual average Baπ values were less than those in the pre-Pinatubo period (1989–1991). Note that taking into account the spectral dependence of Baπ , its minimum annual average value observed in Tomsk at λ= 532 nm in 2004 was close to that determined for Garmisch-Partenkirchen at λ= 694 nm in 1979 and was considered as the background by Trickl et al. (2013).\nBoth interannual and intra-annual variations of Baπ values in the stratosphere over Tomsk during periods III and IV are presented in Figs. 2 and 3. Figure 2 shows the interannual Baπ variations separately averaged over the warm (April– September) and cold (October–March) half years. The Baπ values are mostly higher in the cold half year than those in the warm one. Furthermore, these cold and warm average Baπ values are modulated by the quasi-biennial os-\nAtmos. Chem. Phys., 17, 3067–3081, 2017 www.atmos-chem-phys.net/17/3067/2017/\ncillation (QBO; http://www.geo.fu-berlin.de/en/met/ag/strat/ produkte/qbo/). The behavior of both Baπ curves is seen in Fig. 2 to clearly demonstrate the influence of the Brewer– Dobson circulation on the aerosol state of the midlatitude stratosphere. Stratospheric aerosol loading is minimal in the warm half year when the zonal air mass transport dominates. Conversely, the meridional air mass transport from tropical into extratropical (middle) latitudes intensifies in the cold half year and therefore provides the midlatitude stratosphere with additional aerosol mass from the stratospheric tropical aerosol reservoir (Hitchman et al., 1994). Note that the minimum warm average Baπ = 1.01× 10\n−4 sr−1 was reached in 2003 (Fig. 2).\nThe influence of the Brewer–Dobson circulation on background aerosol loading in the stratosphere over Tomsk can also be discovered by analyzing the intra-annual variations of the monthly average Baπ values. For example, Fig. 3 shows the Baπ values averaged over the period 1999–2015, separately for the westerly and easterly phases of the QBO (excluding aftereffects of volcanic eruptions during the period). The monthly average Baπ data for March–June 2000 (after the Hekla eruption), August–November 2008 (after the Okmok and Kasatochi eruptions), August–October 2009 (after the Sarychev Peak eruption), and April and August– October 2011 (after the Merapi, Grímsvötn, and Nabro eruptions) were not taken into account. The exclusion of these perturbed data allowed us to extend the analyzed period of the background aerosol loading variations up to 16 years and therefore to improve the statistical reliability of the Baπ data series. As seen in Fig. 3, aerosol loading of the midlatitude stratosphere is maximal in the cold half year when the meridional air mass transport dominates (especially dur-\ning the westerly phase of the QBO). Thus, both types of Baπ variation (Figs. 2 and 3) lead us to the same conclusion.\nTurning to Fig. 1, one can see that there is a positive trend in stratospheric aerosol loading over Tomsk caused by an increase in the number of explosive volcanic eruptions with VEI= 4 during the last decade. A small increase in the Baπ value started in 2005 due to two Manam volcanic eruptions occurring in Papua New Guinea closely spaced in time (Table 1). Soon after, in 2006, two relatively strong eruptions of the Soufrière Hills and Rabaul tropical volcanoes (Table 1) additionally enriched the stratospheric tropical aerosol reservoir. As a result, two corresponding volcanic aerosol peaks were observed in the stratosphere over Tomsk in October– December 2006 and January–March 2007 due to meridional transport intensification in the cold period (Fig. 4). These peaks determined the increase in the annual average Baπ values in 2006 and 2007.\nThe further increase in the annual average Baπ value in 2008 was due to explosive eruptions of two northern volcanoes located in the Aleutian Islands: Okmok and Kasatochi (Table 1; Schmale et al., 2010). In the following 2 years, 2009–2010, there were only two eruptions of northern volcanoes with VEI= 4, namely Sarychev Peak (the Kuril Islands, 11 June 2009) and Eyjafjallajökull (Iceland, 14 April 2010). Note that the eruption plumes of Eyjafjallajökull mostly did not exceed the tropopause altitude over the volcano. This can explain a gradual decrease in stratospheric aerosol loading from 2008 to 2010 (see Fig. 1). However, a new increase in the annual average Baπ value was observed in 2011. This increase resulted from aerosol perturbations of the northern midlatitude stratosphere after the explosive eruptions of\nwww.atmos-chem-phys.net/17/3067/2017/ Atmos. Chem. Phys., 17, 3067–3081, 2017\nthe Merapi, Grímsvötn, and Nabro volcanoes (all VEI= 4, Table 1). In the next sections we consider contributions of plumes from the volcanoes that erupted in period IV to the SAL volcanogenic perturbations over Tomsk, and we also discuss other possible sources of the SAL perturbations."
+  }, {
+    "heading": "3.2 Detection of plumes from northern volcanoes in the stratosphere over Tomsk in 2008–2010",
+    "text": "Detection of volcanic plumes over Tomsk is based on (1) the use of the scattering ratio R(H) profiles retrieved from the lidar measurements between 12.5 and 30 km and (2) the assignment of observed aerosol layers to volcanic eruptions via the HYSPLIT model trajectory analysis, when possible."
+  }, {
+    "heading": "3.2.1 Okmok and Kasatochi",
+    "text": "In summer 2008, two Aleutian volcanoes, Okmok and Kasatochi, started to erupt at 19:43 UTC on 12 July and between 23:00 UTC on 7 August and 05:35 UTC on 8 August, respectively (both VEI= 4). The plumes from these volcanoes considerably perturbed the SAL over Tomsk from August to October 2008. Vertical profiles of the scattering ratio R(H), showing the detection of the Okmok and Kasatochi plumes over Tomsk during these months, are presented in Fig. 5a as an example. Contemporaneous stratospheric aerosol observations at the Minsk CIS-LiNet station at λ= 532 nm revealed the similar SAL perturbations over Minsk from July to October (Fig. 5b; Zuev et al., 2009). The aftereffects of both volcanic eruptions were detected in the stratosphere over Minsk and Tomsk up until December 2008.\nFigure 6a shows that the HYSPLIT air mass backward trajectory started from the altitude of the R(H) profile maximum (∼ 15.1 km a.s.l.) over Tomsk on 8 August\nat 02:00 LT (or on 7 August at 19:00 UTC). The trajectory passed over Okmok volcano on the eruption day, 12 July, at the altitude H back.traj. ≈ 16.0 km, which is 1 km higher than the maximum plume altitude (MPA; Table 1) HMPA determined by the GVP. Figure 6b shows the backward trajectory started from the altitude of the R(H) maximum (∼ 16.3 km a.s.l.) over Tomsk on 2 September at 00:00 LT (1 September, 17:00 UTC). The trajectory passed over Kasatochi volcano on the eruption day, 7 August, at the altitude H back.traj. ≈ 16.4 km, which is 2.4 km higher than the GVP HMPA (Table 1). Our conclusion (based on the HYSPLIT trajectories) that the plumes from both volcanoes reached altitudes of≥ 16 km is consistent with different satellite observation data (Yang et al., 2010; Kristiansen et al., 2010; Prata et al., 2010). The inconsistency between the HYSPLIT H back.traj. and GVP HMPA altitudes (H back. traj. should normally be equal to or lower than HMPA) is discussed in Sect. 4.\nThe HYSPLIT trajectory analysis also showed that both the Okmok (Fig. 6a) and Kasatochi (Fig. 6b) plumes passed close to the Minsk lidar station. This explains the similarity of the R(H) profiles presented in Fig. 5. Owing to the westerly transport of air masses, the volcanic plumes passed over Minsk 3 days earlier than over Tomsk. Figure 6c shows the backward trajectories, which allowed us to find the connection between two aerosol layers (thick red lines in Fig. 5) detected over Minsk and Tomsk on 1 and 4 September, respectively. The more general and detailed analysis of the Okmok and Kasatochi plumes’ influence on the SAL state was made by Zuev et al. (2009) and later by Bourassa et al. (2010) and Andersson et al. (2015), for example.\nIt should be noted that due to the westerly zonal transport of air masses in the Northern Hemisphere, lower stratosphere during summer seasons, and vast geographical distance between Tomsk and the Aleutian Islands, both backward trajectories (Fig. 6a and b) could hardly be expected to be equal to or shorter than 2 weeks. Therefore, these trajectories are slightly longer than those usually used in the HYSPLIT model and thus can be considered only as probable ones. Nevertheless, we made the trajectory analysis to assign the observed aerosol layers to the corresponding volcanic eruptions."
+  }, {
+    "heading": "3.2.2 Redoubt and Sarychev Peak",
+    "text": "The SAL perturbations over Tomsk in 2009 were caused by the eruptions of two northern volcanoes: Redoubt (Alaska, 15 March–4 April; VEI= 3) and Sarychev Peak (the Kuril Islands, 11–16 June; VEI= 4). The Redoubt plumes caused insignificant SAL perturbations over Tomsk during the first 2 weeks of May 2009 (Fig. 7). Stronger and longer-lasting SAL perturbations were related to the Sarychev Peak volcanic eruption. According to the GVP data, the MPA was within the range of 8–16 km or even reached 21 km (GVP, 2009). The Sarychev Peak plumes were reliably detected in\nAtmos. Chem. Phys., 17, 3067–3081, 2017 www.atmos-chem-phys.net/17/3067/2017/\nthe stratosphere over Tomsk during July and August (Fig. 8) and were weakly observed up until November 2009. For a trajectory analysis, we considered an aerosol layer observed over Tomsk at an altitude of ∼ 13.1 km on 7 July at 02:30 LT (6 July, 19:30 UTC). This layer is seen in Fig. 9 to be (1) associated with the backward trajectory that passed over Sarychev Peak volcano at an altitude of ∼ 13.8 km on 15 June at the time of the eruption, 17:30 UTC and (2) not associated with the aftereffect of the Redoubt eruption."
+  }, {
+    "heading": "3.2.3 Eyjafjallajökull",
+    "text": "During April–May 2010, there was a series of explosive eruptions of the Icelandic volcano Eyjafjallajökull. These eruptions are noted for the subsequent extensive air travel disruption across large parts of western Europe. According to the GVP data, the MPA occasionally reached 9 km (GVP, 2010), but did not exceed the local tropopause (GVP, 2010). However, lidar observations, performed in Tomsk on 20 and 26 April 2010, detected the presence of aerosol layers in the troposphere and lower stratosphere at altitudes up to 15 km (Fig. 10). As a comparison, aerosol lidar measurements at Garmisch-Partenkirchen revealed that the upper boundary of the observed aerosol layers from the Eyjafjallajökull volcanic plumes was ∼ 14.3 km on 20 April, whereas the average altitude of the local tropopause was ∼ 10.2 km (Trickl et al., 2013).\nFigure 11 shows the HYSPLIT air mass backward ensemble trajectories started from altitudes of the detected aerosol layers (∼ 11.1–14.6 km a.s.l.) over Tomsk on 21 April at 00:00 LT (20 April, 17:00 UTC). Only one trajectory (started from an altitude of ∼ 11.6 km) directly passed over Eyjafjallajökull volcano on one of the eruption days, 16 April at 13:00 UTC, at the altitudeH back.traj. ≈ 10.7 km, which is clearly higher than HMPA ≤ 9 km. The inconsistency between the HYSPLIT H back.traj. and GVP HMPA altitudes is discussed in Sect. 4. The other trajectories passed south of the volcano.\nAlso note that according to the Icelandic meteorological station Keflavík, the local tropopause altitude went down to ∼ 7 km on 16 April after 12:00 UTC (Trickl et al., 2013). Hence, the Eyjafjallajökull volcanic plumes reached altitudes of 8–9 km on that day and directly entered the local lower stratosphere."
+  }, {
+    "heading": "3.3 Detection of volcanic plumes in the stratosphere over Tomsk in 2011",
+    "text": "High values of Baπ were detected during the SAL lidar observations in Tomsk from February to April and from August to December 2011. The first wave of the SAL perturbations in the winter–spring period was caused by the Merapi volcanic eruption (Indonesia, 4–5 November 2010; VEI= 4), whereas the second wave was due to the eruptions of the northern volcano Grímsvötn (Iceland, 21 May 2011; VEI= 4) and the tropical volcano Nabro (Eritrea, 13 June 2011; VEI= 4)."
+  }, {
+    "heading": "3.3.1 Merapi",
+    "text": "High values of Baπ were detected in the stratosphere over Tomsk from February to April 2011, i.e., 3–5 months after the Merapi volcanic eruption. Figure 12 presents the observed aftereffect of the Merapi eruption, i.e., several perturbed scattering ratio profiles retrieved from the SLS aerosol lidar measurements between 28 February and 18 April 2011. The Merapi plume (Table 1) supplied the stratospheric tropical reservoir with long-lived volcanic aerosol. The SAL perturbations, reflected by increased Baπ and R(H) values during the winter and spring of 2011, were due to the meridional air mass transport from the tropics into northern midlatitudes in this cold period (see Sect. 3.1)."
+  }, {
+    "heading": "3.3.2 Grímsvötn and Nabro",
+    "text": "In 2011, two volcanoes with VEI= 4 Grímsvötn and Nabro started to erupt on 21 May at 19:25 UTC and 13 June af-\nwww.atmos-chem-phys.net/17/3067/2017/ Atmos. Chem. Phys., 17, 3067–3081, 2017\nter 22:00 UTC, respectively. According to the GVP data, Grímsvötn volcano erupted ash clouds and gases directly into the stratosphere at an altitude of 20 km, whereas the Nabro volcanic plume did not exceed the local tropopause altitude. Bourassa et al. (2012) showed that a considerable amount of the Nabro volcanic aerosol and gases, erupted into the upper troposphere, was able to enter the midlatitude stratosphere due to deep convection and vertical air transport associated with the strong Asian summer monsoon anticyclone. Con-\nversely, Vernier et al. (2013), Fromm et al. (2013), Fairlie et al. (2014), Clarisse et al. (2014), and Penning de Vries et al. (2014) showed that the initial Nabro plume was directly injected into the lower stratosphere at altitudes up to 18 km (Fromm eat al., 2014). The SAL perturbations by volcanogenic aerosol after the eruptions of both volcanoes were observed in the lower stratosphere over Tomsk from August to November 2011 (Fig. 13). All the scattering ratio profiles shown in Fig. 13, with equal probability, represent superpo-\nAtmos. Chem. Phys., 17, 3067–3081, 2017 www.atmos-chem-phys.net/17/3067/2017/\nsitions of plumes from both the Grímsvötn and Nabro volcanoes."
+  }, {
+    "heading": "3.4 Polar stratospheric clouds and the aftereffect of the",
+    "text": "2006 Rabaul eruption\nOccasional perturbations of the midlatitude SAL can also be related to the occurrence of polar stratospheric clouds (PSCs) in winter periods. PSCs are known to form at extremely low temperatures (lower than−78 ◦C) mainly on sulfuric acid (H2SO4) aerosols, acting as condensation nuclei and formed from sulfur dioxide (SO2; Finlayson-Pitts and Pitts, 2000). Therefore, injections of volcanogenic H2SO4\naerosols and/or SO2 into the stratosphere can lead to PSC formation, if the air temperature <−78 ◦C. The direct positive correlation between PSC formation and volcanogenic nitric and sulfuric acid aerosol loading was shown, e.g., by Rose et al. (2006). However, it should be noted that, in contrast to Rose et al. (2006), Fromm et al. (2003) showed little (or\nwww.atmos-chem-phys.net/17/3067/2017/ Atmos. Chem. Phys., 17, 3067–3081, 2017\neven negative) correlation between PSC events and ambient aerosol loading.\nThe Northern Hemisphere stratosphere is usually cooled to the required low temperatures inside the Arctic stratospheric polar vortex in cold seasons (Newman, 2010). The Arctic polar vortex sometimes deforms and stretches to midlatitudes, including Siberian regions. Hence, the stratospheric temper-\nature over Tomsk can occasionally be cooled lower than −78 ◦C when Tomsk is inside the polar vortex. Thus, the detection of aerosol layers in the stratosphere at extremely low temperatures can be indicative of the presence of PSCs.\nThe first lidar PSC observations over Tomsk were made at λ= 1064 nm in January 1995 (Zuev and Smirnov, 1997). More precisely, some dense aerosol layers were detected at altitudes in the range of 15–19 km on 24 and 26 January. The maximum scattering ratio R(H) was more than 14 at an altitude of 18.1 km. The stratospheric temperature was lower than −80 ◦C. The cold pool presence and PSC events near the Tomsk longitude during the northern winter of 1994–95 were also reported by Fromm et al. (1999). The formation of these dense PSCs was caused by high concentrations of residual post-Pinatubo aerosols.\nAnother event of PSCs over Tomsk was observed at λ= 532 nm on 27 January 2007 (Fig. 14). As seen in Fig. 14, the maximum scattering ratio R(H) was more than 1.55 at an altitude of 19.3 km. According to the data of the two nearest to Tomsk meteorological stations, launching radiosondes twice a day and situated in Novosibirsk (55.02◦ N, 82.92◦ E) and Kolpashevo (58.32◦ N, 82.92◦ E), the stratospheric temperature was lower than −78 ◦C at altitudes between 19 and 21.5 km (WWW, 2007) during the lidar measurements. High R(H) values at altitudes in the range of 13–17 km were probably due to the winter aerosol supplying of the SAL from the stratospheric tropical aerosol reservoir enriched by the 2006 Rabaul eruption plume (Table 1, Fig. 14). Thus, PSCs were detected at least twice (in 1995 and 2007) during 30 years of stratospheric aerosol lidar measurements in Tomsk.\nAtmos. Chem. Phys., 17, 3067–3081, 2017 www.atmos-chem-phys.net/17/3067/2017/\n3.5 The latest SAL perturbations over Tomsk (2012–2015)\nIn summer 2011, the annual average Baπ value started to decrease and the SAL state over Tomsk started to relax to its background state (Fig. 1). However, a marked increase in Baπ value was observed in the winter of 2015. Figure 15 shows several perturbed scattering ratio profiles retrieved from the SLS aerosol lidar measurements between 29 January and 30 March 2015. During that period of time, the Kelut volcanic eruption could probably be a source of the SAL perturbations over Tomsk.\nAn explosive eruption of the tropical volcano Kelut occurred in East Java, Indonesia, on 13 February 2014 (Table 1). The MPA HMPA value for this eruption was initially estimated by both ground and space monitoring systems to be ∼ 17 km. Conversely, according to the data from the spaceborne lidar CALIOP onboard the CALIPSO satellite (http: //www.nasa.gov/mission_pages/calipso/main/index.html), a rapidly rising portion of the Kelut plume ejected material up to an altitude exceeding ∼ 26 km, i.e., directly into the tropical stratosphere. Most of the less rapidly rising plume portions remained lower, at altitudes of 19–20 km (GVP, 2014). The Kelut plume passed over the Indian Ocean to the west, toward the African continent, with a small deviation to the south. Sandhya et al. (2015) showed that a part of this plume could turn back and pass over the south end of Hindustan\nPeninsula. Thus, the Kelut plume enriched the stratospheric tropical aerosol reservoir at least over the Indian Ocean. This led to the increasing annual average Baπ value in the northern midlatitudes, including Tomsk, in 2015 (Fig. 1) due to the meridional aerosol transport."
+  }, {
+    "heading": "4 Discussion and conclusion",
+    "text": "Shown by 30 years (1986–2015) of lidar monitoring of the SAL state over Tomsk, explosive eruptions with VEI≥ 3 of both tropical and extratropical (northern) volcanoes definitely represent the main cause of the northern midlatitude SAL perturbations. Moreover, the tropical volcanoes, rather than the northern ones, have a dominant role in volcanogenic aerosol loading of the midlatitude stratosphere. Indeed, major explosive eruptions of tropical volcanoes are able to enrich the stratospheric tropical reservoir with volcanogenic aerosol. Additional aerosol loading of the tropical reservoir can usually lead to an increase in the annual average Baπ value in the Northern Hemisphere midlatitude stratosphere via the meridional transport in the cold season (October– March; Hitchman et al., 1994). For example, plumes from both the Merapi and Kelut volcanoes additionally supplied the stratospheric tropical reservoir with volcanic aerosol and gases (Table 1). As a result, increased annual average Baπ values (i.e., the SAL perturbations) were detected over Tomsk in 2011 and 2015, respectively (see Sect. 3.3.1 and 3.5). Conversely, by contrast to tropical volcanoes, the narrow volcanic gas, aerosol, and ash plumes from northern volcanoes can either pass by or over a lidar station. Owing to this, a certain number of northern volcanic eruptions into the stratosphere did not perturb the SAL over Tomsk and were there-\nwww.atmos-chem-phys.net/17/3067/2017/ Atmos. Chem. Phys., 17, 3067–3081, 2017\nfore not detected there. It is clear that an extensive network of lidar stations in the territory of the Russian Federation is required to obtain objective data on the midlatitude stratospheric aerosol loading.\nIn the cases of the Eyjafjallajökull and probably Okmok and Kasatochi eruptions, the HYSPLIT air mass backward trajectories, started from the altitudes of aerosol layers detected over Tomsk with the SLS aerosol lidar, passed over these volcanoes at altitudes H back.traj. higher than their GVP MPAs (Sect. 3.2.1 and 3.2.3). Conversely, the initial value HMPA for the Kelut volcanic eruption was determined as about 17 km, but the measurements made by the CALIOP spaceborne lidar onboard the CALIPSO satellite clearly revealed that the rapidly rising portion of the Kelut plume reached an altitude of ∼ 26 km, which is 9 km higher than HMPA (GVP, 2014; Sect. 3.5). Based on these facts, we can offer the following explanation of the inconsistencies between the altitudes H back.traj. and HMPA. During Plinian explosive eruptions, solid and liquid ejecta, ash, and gas-vapor emissions intermix with each other, heat, and ascend inside the “convective thrust region” of an eruption column. Then the heated air together with erupted materials is known to expand, cool, and form the “umbrella region” of the eruption column (Woods, 1988; Scase, 2009). The most heated fraction of gas-vapor emissions from the convective thrust region has the highest speed and can therefore penetrate through the higher-density umbrella region of the eruption column and reach altitudes higher than HMPA due to the cumulative (jet) effect (Raible et al., 2016). The secondary atmospheric H2SO4 aerosols are formed via oxidation of SO2 contained in volcanic gas-vapor emissions. The currently available visual and radar methods for determining volcanic plume altitudes can detect only the large-sized volcanic ash particles. At the same time, these methods are not sensitive to the small-sized atmospheric H2SO4 aerosols. Nevertheless, the submicron H2SO4 aerosol particles can be easily detected by lidars.\nIn addition to volcanoes, PSCs also represent a cause of significant SAL perturbations. However, the temperature condition required for PSC formation (air temperature should be <−78 ◦C) rarely holds in the midlatitude stratosphere. Only two PSC events in January 1995 and January 2007 were observed over Tomsk during the 30-year period of lidar observations in Tomsk.\nExtensive forest (bush) fires could be another cause of occasional increases in the Baπ value. Combustion products (gases and aerosol particles) can reach the stratospheric altitudes via convective ascent within pyro-cumulonimbus (pyroCb) clouds (see, e.g., Fromm et al., 2006). For example, the smoke plumes from a strong bush fire that occurred near the Australian city of Melbourne on 7 February 2009 were observed in the local stratosphere at an altitude of ∼ 18 km (Siddaway and Petelina, 2011). Due to climate warming, the number and intensity of massive forest fires have considerably increased in the last few years (Wotton et al., 2010). For example, about 137 strong forest fires were registered\nin the Northwest Territories of Canada in July 2014 (CBC News, 2014). The smoke-filled air masses frequently enter the stratosphere over the south of Western Siberia from North America where extensive forest fires occur. Their smoke plumes are most likely to be detected as SAL perturbations over Tomsk. However, more detailed information about the pyroCb events is required for their correct identification. It is quite possible that some aftereffects of strong forest fires that occurred in North America could be detected over Tomsk but were not identified during lidar observations in Tomsk (1986–2015)."
+  }, {
+    "heading": "5 Data availability",
+    "text": "The NOAA’s HYSPLIT model used to calculate all air mass backward trajectories is available from http://ready.arl.noaa. gov/HYSPLIT.php. The volcanic eruption data we used can be found at http://volcano.si.edu/. The integrated aerosol backscatter coefficient and scattering ratio data obtained from the SLS lidar signals are presented in the Supplement.\nThe Supplement related to this article is available online at doi:10.5194/acp-17-3067-2017-supplement.\nCompeting interests. The authors declare that they have no conflict of interest.\nAcknowledgements. We thank V. N. Marichev and A. V. El’nikov for their arrangements for continuous monitoring of the stratospheric aerosol layer parameters over Tomsk and development of the stratospheric aerosol remote sensing methods. This work was performed with financial support from the Russian Science Foundation (Grant # 14-27.00022).\nEdited by: M. Tesche Reviewed by: M. Fromm and one anonymous referee"
+  }],
+  "year": 2017,
+  "references": [{
+    "title": "Significant radiative impact of volcanic aerosol in the lowermost stratosphere",
+    "authors": ["S.M. Andersson", "B.G. Martinsson", "Vernier", "J.-P", "J. Friberg", "C.A.M. Brenninkmeijer", "M. Hermann", "P.F.J. van Velthoven", "A. Zahn"],
+    "venue": "Nature Communications,",
+    "year": 2015
+  }, {
+    "title": "Lidar measurements of stratospheric aerosol over Mauna Loa Observatory",
+    "authors": ["J.E. Barnes", "D.J. Hofmann"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 1943
+  }, {
+    "title": "Variability in the stratospheric background aerosol over Mauna Loa Observatory",
+    "authors": ["J.E. Barnes", "D.J. Hofmann"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2001
+  }, {
+    "title": "Evolution of the stratospheric aerosol enhancement following the eruptions of Okmok and Kasatochi: OdinOSIRIS measurements",
+    "authors": ["A.E. Bourassa", "D.A. Degenstein", "B.J. Elash", "E.J. Llewellyn"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2009
+  }, {
+    "title": "Large volcanic aerosol load in the stratosphere linked to Asian monsoon transport",
+    "authors": ["A.E. Bourassa", "A. Robock", "W.J. Randel", "T. Deshler", "L.A. Rieger", "N.D. Lloyd", "E.J. Llewellyn", "D.A. Degenstein"],
+    "year": 2012
+  }, {
+    "title": "A threefrequency Lidar for sensing microstructure characteristics of stratospheric aerosols",
+    "authors": ["V.D. Burlakov", "S.I. Dolgii", "A.V. Nevzorov"],
+    "venue": "Instrum. Exp. Tech.,",
+    "year": 2010
+  }, {
+    "title": "CISLiNet lidar network for monitoring aerosol and ozone: methodology and instrumentation",
+    "authors": ["A.P. Chaykovskii", "A.P. Ivanov", "Balin", "Yu. S", "A.V. El’nikov", "G.F. Tulinov", "I.I. Plusnin", "O.A. Bukin", "B.B. Chen"],
+    "venue": "Atmospheric and Oceanic Optics,",
+    "year": 2005
+  }, {
+    "title": "The 2011 Nabro eruption, a SO2 plume height analysis using IASI measurements, Atmos",
+    "authors": ["L. Clarisse", "Coheur", "P.-F", "N. Theys", "D. Hurtmans", "C. Clerbaux"],
+    "venue": "Chem. Phys.,",
+    "year": 2014
+  }, {
+    "title": "Albedo enhancement by stratospheric sulfur injections: A contribution to resolve a policy dilemma",
+    "authors": ["P.J. Crutzen"],
+    "venue": "Climatic Change,",
+    "year": 2006
+  }, {
+    "title": "Coupled Model Intercomparison Project 5 (CMIP5) simulations of climate following volcanic eruptions",
+    "authors": ["S. Driscoll", "A. Bozzo", "L.J. Gray", "A. Robock", "G. Stenchikov"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2012
+  }, {
+    "title": "Lidar observations of stratospheric aerosol layer above the western Siberia",
+    "authors": ["A.V. El’nikov", "G.M. Krekov", "V.N. Marichev"],
+    "venue": "Izv. Acad. Sci. USSR, Atmos. Oceanic Phys.,",
+    "year": 1988
+  }, {
+    "title": "First results of lidar observations of stratospheric ozone above Western Siberia",
+    "authors": ["A.V. El’nikov", "V.V. Zuev", "V.N. Marichev", "S.I. Tsaregorodtsev"],
+    "venue": "Atmospheric and Oceanic Optics,",
+    "year": 1989
+  }, {
+    "title": "The plinian eruptions of 1912 at Novarupta",
+    "authors": ["J. Fierstein", "W. Hildreth"],
+    "venue": "Katmai National Park, Alaska, B. Volcanol.,",
+    "year": 1992
+  }, {
+    "title": "Chemistry of the Upper and Lower Atmosphere: Theory, Experiments, and Applications",
+    "authors": ["B.J. Finlayson-Pitts", "J.N. Pitts"],
+    "year": 2000
+  }, {
+    "title": "A unified, long-term, high-latitude stratospheric aerosol and cloud database using SAM II, SAGE II, and POAM II/III data: Algorithm description, database definition, and climatology",
+    "authors": ["M. Fromm", "J. Alfred", "M. Pitts"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2002
+  }, {
+    "title": "Violent pyro-convective storm devastates Australia’s capital and pollutes the stratosphere",
+    "authors": ["M. Fromm", "A. Tupper", "D. Rosenfeld", "R. Servranckx", "R. McRae"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2005
+  }, {
+    "title": "Comment on “Large volcanic aerosol load in the stratosphere linked to Asian monsoon transport",
+    "authors": ["M. Fromm", "G. Nedoluha", "Z. Charvát"],
+    "year": 2013
+  }, {
+    "title": "Correcting the record of volcanic stratospheric aerosol impact",
+    "authors": ["M. Fromm", "G. Kablick III", "G. Nedoluha", "E. Carboni", "R. Grainger", "J. Campbell", "J. Lewis"],
+    "venue": "Nabro and Sarychev Peak, J. Geophys. Res.,",
+    "year": 2014
+  }, {
+    "title": "An analysis of Polar Ozone and Aerosol Measurement (POAM) II Arctic polar stratospheric cloud observations, 1993–1996",
+    "authors": ["M.D. Fromm", "R.M. Bevilacqua", "J. Hornstein", "E. Shettle", "K. Hoppel", "J.D. Lumpe"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1999
+  }, {
+    "title": "A climatology of stratospheric aerosol",
+    "authors": ["Hitchman M. H", "M. McKay", "R. Trepte C"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1994
+  }, {
+    "title": "Ozone destruction through heterogeneous chemistry following the eruption of El Chichon",
+    "authors": ["D.J. Hofmann", "S. Solomon"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1989
+  }, {
+    "title": "The climate effects of high latitude eruptions: Role of the time of year",
+    "authors": ["B. Kravitz", "A. Robock"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2010
+  }, {
+    "title": "30-year aerosol lidar observations",
+    "authors": ["V.V. Zuev"],
+    "venue": "Rev. Geophys.,",
+    "year": 2015
+  }, {
+    "title": "Remote sensing and inverse transport modeling of the Kasatochi eruption sulfur dioxide",
+    "authors": ["N.I. Kristiansen", "A. Stohl", "A.J. Prata", "A. Richter", "S. Eckhardt", "P. Seibert", "A. Hoffmann", "C. Ritter", "L. Bitar", "T.J. Duck", "K. Stebel"],
+    "venue": "cloud, J. Geophys. Res.,",
+    "year": 2009
+  }, {
+    "title": "Radiative and climate impacts of a large volcanic eruption during stratospheric sulfur geoengineering",
+    "authors": ["A. Laakso", "H. Kokkola", "Partanen", "A.-I", "U. Niemeier", "C. Timmreck", "K.E.J. Lehtinen", "H. Hakkarainen", "H. Korhonen"],
+    "venue": "Atmos. Chem. Phys.,",
+    "year": 2016
+  }, {
+    "title": "Laser Remote Sensing: Fundamentals and Applications, Wiley, New York, 510 pp",
+    "authors": ["R.M. Measures"],
+    "year": 1984
+  }, {
+    "title": "Global volcanic aerosol properties derived from emissions, 1990–2014",
+    "authors": ["M.J. Mills", "A. Schmidt", "R. Easter", "S. Solomon", "D.E. Kinnison", "S.J. Ghan", "R.R. Neely III", "D.R. Marsh", "A. Conley", "C.G. Bardeen", "A. Gettelman"],
+    "venue": "J. Geophys. Res.-Atmos.,",
+    "year": 2014
+  }, {
+    "title": "Lidar Network observation of Asian dust, in: Advances in Laser Remote sensing: Selected papers",
+    "authors": ["T. Murayama", "N. Sugimoto", "I. Matsui", "Lio", "Zh", "T. Sakai", "T. Shibata", "Y. Iwasaka", "J.G. Won", "S.C. Yoon", "T. Li", "J. Zhou", "H. Hu"],
+    "venue": "20th Int. Laser Radar Conference (ILRC),",
+    "year": 2000
+  }, {
+    "title": "The Volcanic Explosivity Index (VEI): An estimate of explosive magnitude for historical volcanism",
+    "authors": ["C.G. Newhall", "S. Self"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1982
+  }, {
+    "title": "Chemistry and Dynamics of the Antarctic Ozone Hole, in: The Stratosphere: Dynamics, Transport, and Chemistry, edited",
+    "authors": ["P.A. Newman"],
+    "venue": "Geophysical Monograph Series,",
+    "year": 2010
+  }, {
+    "title": "Ash and sulfur dioxide in the 2008 eruptions of Okmok and Kasatochi: Insights from high spectral resolution satellite measurements",
+    "authors": ["A.J. Prata", "G. Gangale", "L. Clarisse", "F. Karagulian"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2009
+  }, {
+    "title": "Catastrophic loss of stratospheric ozone in dense volcanic clouds",
+    "authors": ["M. Prather"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1992
+  }, {
+    "title": "Volcanic eruptions and climate",
+    "authors": ["A. Robock"],
+    "venue": "Rev. Geophys.,",
+    "year": 2000
+  }, {
+    "title": "Volcanism and the Earth’s Atmosphere",
+    "authors": ["A. Robock", "C. Oppenheimer"],
+    "venue": "Geophysical Monograph Series,",
+    "year": 2003
+  }, {
+    "title": "Benefits, risks, and costs of stratospheric geoengineering",
+    "authors": ["A. Robock", "A. Marquardt", "B. Kravitz", "G. Stenchikov"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2009
+  }, {
+    "title": "A case study of formation and maintenance of a lower stratospheric cirrus cloud over the tropics",
+    "authors": ["M. Sandhya", "S. Sridharan", "M. Indira Devi", "K. Niranjan", "A. Jayaraman"],
+    "venue": "Ann. Geophys.,",
+    "year": 2015
+  }, {
+    "title": "Evolution of volcanic eruption",
+    "authors": ["M.M. Scase"],
+    "venue": "columns, J. Geophys. Res.,",
+    "year": 2009
+  }, {
+    "title": "Aerosol layers from the 2008 eruptions of Mount Okmok and Mount Kasatochi: In situ upper troposphere and lower strato",
+    "authors": ["J. Schmale", "J. Schneider", "T. Jurkat", "C. Voigt", "H. Kalesse", "M. Rautenhaus", "M. Lichtenstern", "H. Schlager", "G. Ancellet", "F. Arnold", "M. Gerding", "I. Mattis", "M. Wendisch", "S. Borrmann"],
+    "year": 2008
+  }, {
+    "title": "Transport and evolution of the 2009 Australian Black Saturday bushfire smoke in the lower stratosphere observed by OSIRIS on Odin",
+    "authors": ["J.M. Siddaway", "S.V. Petelina"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2010
+  }, {
+    "title": "Volcanoes of the World, 3rd Edn",
+    "authors": ["L. Siebert", "T. Simkin", "P. Kimberly"],
+    "venue": "University of California Press, Berkeley,",
+    "year": 2010
+  }, {
+    "title": "NOAA’s HYSPLIT atmospheric transport and dispersion modeling system, B",
+    "authors": ["A.F. Stein", "Draxler", "R. R", "G.D. Rolph", "B.J.B. Stunder", "M.D. Cohen", "F. Ngan"],
+    "venue": "Am. Meteorol. Soc.,",
+    "year": 2015
+  }, {
+    "title": "Arctic Oscillation response to the 1991 Mount Pinatubo eruption: Effects of volcanic aerosols and ozone depletion",
+    "authors": ["G. Stenchikov", "A. Robock", "V. Ramaswamy", "M.D. Schwarzkopf", "K. Hamilton", "S. Ramachandran"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2002
+  }, {
+    "title": "Modeling the climatic effects of large explosive volcanic eruptions",
+    "authors": ["C. Timmreck"],
+    "venue": "WIREs Clim. Change,",
+    "year": 2012
+  }, {
+    "title": "35 yr of stratospheric aerosol measurements at Garmisch-Partenkirchen: from Fuego to Eyjafjallajökull, and beyond",
+    "authors": ["T. Trickl", "H. Giehl", "H. Jäger", "H. Vogelmann"],
+    "venue": "Atmos. Chem. Phys.,",
+    "year": 2013
+  }, {
+    "title": "Comment on “Large volcanic aerosol load in the stratosphere linked to Asian monsoon transport",
+    "authors": ["Vernier", "J.-P", "L.W. Thomason", "T.D. Fairlie", "P. Minnis", "R. Palikonda", "K.M. Bedka"],
+    "venue": "doi:10.1126/science.1227817,",
+    "year": 2013
+  }, {
+    "title": "EARLINET instrument intercomparison campaigns: overview on strategy and results, Atmos",
+    "authors": ["A. Boselli", "X. Wang", "T. Lo Feudo", "M.R. Perrone", "F. De Tomasi", "P. Burlizzi"],
+    "venue": "Meas. Tech.,",
+    "year": 2016
+  }, {
+    "title": "The fluid dynamics and thermodynamics of eruption",
+    "authors": ["A.W. Woods"],
+    "venue": "columns, B. Volcanol.,",
+    "year": 1988
+  }, {
+    "title": "Twenty-six years of lidar monitoring of northern midlatitude stratospheric aerosols",
+    "authors": ["D.C. Woods", "M.T. Osborn"],
+    "venue": "Proc. SPIE,",
+    "year": 2001
+  }, {
+    "title": "Forest fire occurrence and climate change in Canada",
+    "authors": ["B.M. Wotton", "C.A. Nock", "Flannigan M. D"],
+    "venue": "Int. J. Wildland Fire,",
+    "year": 2010
+  }, {
+    "title": "Direct retrieval of sulfur dioxide amount and altitude from spaceborne hyperspectral UV measurements: Theory and application",
+    "authors": ["K. Yang", "X. Liu", "P.K. Bhartia", "N.A. Krotkov", "S.A. Carn", "E.J. Hughes", "A.J. Krueger", "R.J.D. Spurr", "S.G. Trahan"],
+    "venue": "J. Geophys. Res., 115,",
+    "year": 2010
+  }, {
+    "title": "Laser Beams in the Atmosphere",
+    "authors": ["V.E. Zuev"],
+    "year": 1982
+  }, {
+    "title": "Siberian Lidar Station – the unique experimental complex for remote investigations of the ozonosphere",
+    "authors": ["V.V. Zuev"],
+    "venue": "Atmospheric and Oceanic Optics,",
+    "year": 2000
+  }, {
+    "title": "Combined observations of the anomalies in the stratospheric ozone with the Siberian Lidar Station (SLS",
+    "authors": ["V.V. Zuev", "S.V. Smirnov"],
+    "venue": "Atmospheric and Oceanic Optics,",
+    "year": 1997
+  }, {
+    "title": "Ten years (1986– 1995) of lidar observations of temporal and vertical structure of stratospheric aerosols over Siberia",
+    "authors": ["V.V. Zuev", "V.D. Burlakov", "A.V. El’nikov"],
+    "venue": "J. Aerosol Sci.,",
+    "year": 1998
+  }],
+  "id": "SP:72e13739e45d9ac705d2c1ca48f3eeeb6cb775c9",
+  "authors": [{
+    "name": "Vladimir V. Zuev",
+    "affiliations": []
+  }, {
+    "name": "Vladimir D. Burlakov",
+    "affiliations": []
+  }, {
+    "name": "Aleksei V. Nevzorov",
+    "affiliations": []
+  }, {
+    "name": "Vladimir L. Pravdin",
+    "affiliations": []
+  }, {
+    "name": "Ekaterina S. Savelieva",
+    "affiliations": []
+  }, {
+    "name": "Vladislav V. Gerasimov",
+    "affiliations": []
+  }],
+  "abstractText": "There are only four lidar stations in the world which have almost continuously performed observations of the stratospheric aerosol layer (SAL) state over the last 30 years. The longest time series of the SAL lidar measurements have been accumulated at the Mauna Loa Observatory (Hawaii) since 1973, the NASA Langley Research Center (Hampton, Virginia) since 1974, and GarmischPartenkirchen (Germany) since 1976. The fourth lidar station we present started to perform routine observations of the SAL parameters in Tomsk (56.48 N, 85.05 E, Western Siberia, Russia) in 1986. In this paper, we mainly focus on and discuss the stratospheric background period from 2000 to 2005 and the causes of the SAL perturbations over Tomsk in the 2006–2015 period. During the last decade, volcanic aerosol plumes from tropical Mt. Manam, Soufrière Hills, Rabaul, Merapi, Nabro, and Kelut and extratropical (northern) Mt. Okmok, Kasatochi, Redoubt, Sarychev Peak, Eyjafjallajökull, and Grímsvötn were detected in the stratosphere over Tomsk. When it was possible, we used the NOAA HYSPLIT trajectory model to assign aerosol layers observed over Tomsk to the corresponding volcanic eruptions. The trajectory analysis highlighted some surprising results. For example, in the cases of the Okmok, Kasatochi, and Eyjafjallajökull eruptions, the HYSPLIT air mass backward trajectories, started from altitudes of aerosol layers detected over Tomsk with a lidar, passed over these volcanoes on their eruption days at altitudes higher than the maximum plume altitudes given by the Smithsonian Institution Global Volcanism Program. An explanation of these facts is suggested. The role of both tropical and northern volcanic eruptions in volcanogenic aerosol loading of the midlatitude stratosphere is also discussed. In addition to volcanoes, we considered other possible causes of the SAL perturbations over Tomsk, i.e., the polar stratospheric cloud (PSC) events and smoke plumes from strong forest fires. At least two PSC events were detected in 1995 and 2007. We also make an assumption that the Kelut volcanic eruption (Indonesia, February 2014) could be the cause of the SAL perturbations over Tomsk during the first quarter of 2015.",
+  "title": "30-year lidar observations of the stratospheric aerosol layer state over Tomsk (Western Siberia, Russia)"
+}

@@ -1,0 +1,1547 @@
+{
+  "sections": [{
+    "text": "This article’s doi: 10.1146/annurev-earth-060115-012501\nCopyright c© 2016 by Annual Reviews. All rights reserved\nThe history of life on Earth is punctuated by a series of mass extinction episodes that vary widely in their magnitude, duration, and cause. Biomarkers are a powerful tool for the reconstruction of historical environmental conditions and can therefore provide insights into the cause and responses to ancient extinction events. In examining the five largest mass extinctions in the geological record, investigators have used biomarkers to elucidate key processes such as eutrophy, euxinia, ocean acidification, changes in hydrological balance, and changes in atmospheric CO2. By using these molecular fossils to understand how Earth and its ecosystems have responded to unusual environmental activity during these extinctions, models can be made to predict how Earth will respond to future changes in its climate.\n581\nA nn\nu. R\ng A cc es"
+  }, {
+    "heading": "INTRODUCTION",
+    "text": "An extinction event is described as a widespread and rapid reduction in the amount of life on our planet, Earth. Mass extinction events involve the loss of more than one paleogeographically widespread higher taxon, typically comprising both marine and terrestrial species, identified with a transient decline in their abundance (Sepkoski 1986, Bambach 2006). In fact, some of the most profound changes in biotic evolution in Earth’s history have occurred near mass extinction events (e.g., Twitchett et al. 2001, Benton & Twitchett 2003) (Figure 1).\nThe five largest mass extinction events of the past 600 Myr include the end-Ordovician (EOE), Late Devonian (LDE), end-Permian (EPE), end-Triassic (ETE), and end-Cretaceous (ECE) extinction events (Wiese & Reitner 2011) (Figures 1 and 2). It is telling that all but one of these events (i.e., the EOE) are associated with periods of massive outpourings of mantle-derived magmas [large igneous provinces (LIPs)] (Figure 2), indicating that volcanic activity associated with the tectonic evolution of the planet is the primary trigger (Bambach 2006). For example, the EPE is synchronous with outpouring of the Siberian Traps, and the ECE, though coeval with\n0\n1,000\n200\n0\n400\n600\n800\n2,000\n3,000\n4,000\n5,000\n6,000\n050100150200250300350400\nCO 2 (\nμa tm\n)\nN um ber of genera\n450\nOrdovician Silurian Devonian Carboniferous Permian Triassic Jurassic Cretaceous\nPaleogene Neogene\nI C E H O U S E ICEHOUSEG R E E N H O U S E\nE X T I N C T I O N\nE V E N T S\nG R E E N H O U S EI C E H O U S E\nBoron Paleosols Foraminifera\nStomatal density Liverworts Sodium carbonates\nTime (Ma)\n050100150200250300350400450\nEndTriassic ~201 Ma EndPermian ~252 Ma EndOrdovician 443 Ma Late Devonian 375–360 Ma\nEndCretaceous\n~66 Ma\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nEnd-Triassic ~201 Ma\n= ≠ ≠? ?\n?? ?\nEnd-Permian ~252 Ma\nEnvironmental forcing\npCO2 change\nEcosystem recovery\nMarine productivity\nNutrient budgets\nOxygen change\npH change\nTemperature change\nEnd-Ordovician 443 Ma Late Devonian 375–360 Ma\nEnd-Cretaceous ~66 Ma\nFigure 2\nComparison of the five big mass extinctions, portraying the environmental trigger and environmental parameters associated with each. Red shaded boxes denote environmental factors revealed by biomarkers. The width of each arrow indicates the strength of the effect.\na meteorite impact, also occurs broadly coincident in time (600 kyr before the extinction) with massive volcanism of the Deccan Traps, in India (Becker et al. 2000). Fossil and molecular fossil (biomarker) data support the idea that mass extinctions are times of biotic stress caused by both tectonically induced hydrothermal and volcanic processes, which lead to eutrophic oceans, global warming, sea-level rise, and anoxia (Benton & Twitchett 2003).\nTraces of past life are preserved in the rock record as fossils. Biomarkers are fossil molecules that carry a wealth of information concerning the composition, ecology, and diversity of marine and terrestrial communities (see sidebar). They have the additional advantage that they are preserved in many sediments where fossil hard parts are absent. Many of the biomarkers encountered in sediments have been related to lipids and other biochemicals of present-day biological systems, which allows their biomarker-precursor relationships to be established (Table 1). Biomarkers originate from all three domains of life: Eukaryota, Bacteria, and Archaea (e.g., Peters et al. 2004, Brocks & Grice 2011, Grice & Brocks 2011, Grice & Eiserbeck 2013). The identities, isomeric arrangements, and stable isotopic compositions of biomarkers have been widely used in studies of oils and sedimentary organic matter to assess the source of organic matter, provide paleoenvironmental depositional information (Peters et al. 1995, Gaines et al. 2009), and offer insights into the ecology of microbial communities in the wake of mass extinctions.\nwww.annualreviews.org • Biomarkers and Mass Extinction Events 583\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nBIOMARKERS\nBiomarkers are organic compounds of specific biosynthetic origins that are sufficiently robust to be commonly preserved in sediments and rocks that are hundreds of millions of years old, and in some cases even billions of years old. Biomarker signatures yield information about the presence and relative abundance of specific classes of organisms. These data can be used to gain insights into features such as cataclysmic losses in biodiversity associated with mass extinctions, and changes in biogeochemical cycling in both marine and terrestrial environments during periods of global climate change.\nBiomarkers inform us about the paleoenvironment, ecology, and underlying kill mechanisms associated with mass extinction events over a range of spatial and temporal scales. Several mass extinction events have shown compelling biomarker evidence for photic zone euxinia caused by anoxygenic green sulfur bacteria; the end-Cretaceous extinction is an exception to this trend. Future work using high-resolution records promises to help constrain changes in primary productivity across extinction intervals.\nBelow we review each of the five major extinctions, beginning with the EPE and ETE because they have been the most intensively studied with biomarkers in recent years. In each case, we provide a discussion of the insights that have been derived from biomarker research and highlight some of the opportunities and outstanding questions for future studies. Because factors such as the shape and connectivity of the ocean basins, including the access they provide for ocean currents to reach high latitudes, are important influences on climate, the configurations of the continental masses at the time of each of the mass extinction events are shown in Figure 3."
+  }, {
+    "heading": "THE END-PERMIAN EXTINCTION",
+    "text": "The EPE is regarded as the “great dying” that led to the disappearance of some 95% of marine and 70% of terrestrial species (e.g., Erwin et al. 2002), the most dramatic loss of life in Earth’s history. This extinction event is constrained to have occurred between 251.941 ± 0.037 and 251.880 ± 0.031 Ma, spanning an interval of 60 ± 48 kyr, based on uranium-lead zircon ages from five ash beds from the highly condensed Global Stratotype Section and Point (GSSP) for the EPE at Meishan, South China (Burgess et al. 2014). Earlier uranium-lead ages on zircons from numerous sequences located in South China dated the EPE as a single event at 252.28 ± 0.08 Ma (Shen et al. 2011) and 251.4 ± 0.3 Ma (Bowring et al. 1998); continual revisions of the exact timing of the event have been well documented (e.g., Burgess et al. 2014), and the fossil record indicates that the extinction rate held steady at a high level for some time after the event ( Jin et al. 2000).\nOver the past two decades, researchers have developed a great deal of knowledge about the EPE—in particular, an improved understanding of the patterns and timing of the extinction, the rapid and synchronous shifts in the global biogeochemical cycles operating in the oceans and atmosphere, the possible triggers and kill mechanisms, and the existence of a prolonged recovery phase (Grice et al. 2005a,b; Kump et al. 2005; Erwin 2006; Knoll et al. 2007; Wignall 2007; Payne et al. 2012). Many have suggested that the EPE was initiated by an episode of global warming (e.g., Payne & Clapham 2012) attributed to the release of large amounts of CO2 from the eruption of the Siberian Traps LIP (Kamo et al. 1996). The latter is assumed to have occurred over a 1– 2-Myr time interval coinciding with the main extinction phase, similar to the ETE (see below). There appears to be a growing consensus that as global temperatures rose due to the release of copious amounts of CO2 and volatiles, methane was released into the atmosphere as marine\n584 Whiteside · Grice\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nTable 1 Summary of biomarker compounds of interest for reconstruction of conditions surrounding mass extinction events; some are specific for biological sources, and proxies derived from their relative abundances encode paleoenvironmental conditions\n(Continued )\nwww.annualreviews.org • Biomarkers and Mass Extinction Events 585\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nTable 1 (Continued )\n(Continued )\n586 Whiteside · Grice\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nTable 1 (Continued )\n(Continued )\nwww.annualreviews.org • Biomarkers and Mass Extinction Events 587\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nTable 1 (Continued )\n(Continued )\n588 Whiteside · Grice\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nTable 1 (Continued )\nAdditional information taken from Peters et al. (2004) and Brocks & Summons (2005).\ngas hydrates melted (Krull & Retallack 2000); sea levels rose and continental shelves expanded; oceanic circulation was inhibited, and this inhibition was accompanied by the development of anoxia; and high nutrient influxes maintained levels of productivity (Grice et al. 2005a–c; Meyer et al. 2008; Algeo & Twitchett 2010). Elevated weathering rates tied to higher CO2 levels have been proposed as the trigger for the marine ecosystem collapse, and as a control on the pace and pattern of ecosystem recovery.\nThe first appearance of the conodont Hindeodus parvus (the index fossil) and the bivalve Claria (supporting low oxygen levels) marks the Lower Triassic (Twitchett 1999, Wang et al. 2009, Luo et al. 2011). Fossil and palynomorph distributions indicate that the terrestrial collapse predated the collapse of the marine ecosystem (Looy et al. 2001, Twitchett et al. 2001) and are concordant with terrestrial-derived biomarker distributions in marine sections from Italy (Sephton et al. 2005, Watson et al. 2005), China (Wang & Visscher 2007, Xie et al. 2007), Spitsbergen (Nabbefeld et al. 2010b,d), and Arctic Canada (Algeo et al. 2012).\nOne of the most important recent advances in understanding the EPE has come from biomarker evidence for photic zone euxinia (PZE) within EPE sections. PZE describes a condition in which\nwww.annualreviews.org • Biomarkers and Mass Extinction Events 589\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nEnd-Triassic ~201 Ma\nEnd-Permian ~252 Ma\nEnd-Ordovician ~443 Ma\nLate Devonian ~375–360 Ma\nEnd-Cretaceous ~66 Ma\nPacific Ocean\nAsia Atlantic Ocean\nIndian Ocean\nNorth America\nEuramerica\nSouth America\nAfrica\nLaurasia\nAntarctica\nGondwana\nPanthalassic Ocean\nPanthalassic Ocean\nPangea\nTethys Ocean\nTethys Ocean\nPanthalassic Ocean\nIapetus Ocean"
+  }, {
+    "heading": "Rheic Ocean",
+    "text": "Gondwana\nGondwana\nTethys Ocean\nFigure 3\nReconstructions of continental distribution at the time of each mass extinction event.\n590 Whiteside · Grice\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nD ep\nth\nPhotic zone\nAlgae Terrigenous input\na\nb"
+  }, {
+    "heading": "Chlorobiaceae",
+    "text": "Sulfate-reducing bacteria\nPZE\nSalinity (‰) [O2] [H2S]\nH2S SO42 –\nHigher plant input\nRunoff\nEvaporation and precipitation\nCO2\nCO2\nChemocline\nChemocline Anoxic sediments\nOxic lens\nOxic\nhν\n<<35 >35 0 0\nRiverine influx\nAnoxic / euxinic bottom water\nAnoxic / euxinic\nFigure 4\nConceptual model to illustrate the processes associated with the occurrence of photic zone euxinia (PZE). (a) Schematic representation of a restricted marine basin. Anoxic/euxinic bottom waters develop as biological activity consumes available oxygen and sulfatereducing bacteria in bottom sediments produce copious amounts of hydrogen sulfide. (b) The water column under conditions in which the top of the anoxic/euxinic bottom waters shallows to the point of overlapping the photic zone, leading to PZE. Organisms are shown in the water column under conditions of PZE, keyed to their location in the water column. Note the restriction of Chlorobiaceae, organisms that produce the key biomarkers indicative of PZE, to the narrow depth interval where the anoxic/euxinic bottom waters and the photic zone overlap.\nhigh concentrations of toxic hydrogen sulfide produced by anaerobic sulfate-reducing bacteria in or near the sediment-water interface expand upward into the photic zone, where light penetration is sufficient to sustain anoxygenic photosynthesis (Figures 4 and 5). Biomarkers indicative of PZE arise from aromatic molecules [e.g., isorenieratane (Figure 5, structure I)] and polar compounds called maleimides (Grice et al. 1996a, Naeher & Grice 2015), which are derived from pigments [e.g., isorenieratene (Figure 5, structure II) and bacteriochlorophylls c, d, and e (Figure 5, structures III, IV, and V, respectively) of Chlorobi]. Evidence for PZE has been reported in at least six global sections (Grice et al. 2005a–c; Hays et al. 2007; Cao et al. 2009; Kim et al. 2010; Nabbefeld et al. 2010d; Hays et al. 2012). Changes in the marine sulfur cycle and, accordingly, the redox state of the Panthalassic and paleo-Tethys Oceans, are also revealed in the δ34S of pyrite (e.g.,\nwww.annualreviews.org • Biomarkers and Mass Extinction Events 591\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nI Isorenieratane II Isorenieratene\nIII Bacteriochlorophyll c\nS VI Dibenzothiophene\nO VII Dibenzofuran VIII Biphenyl\nIX Fluorene\nX Coronene\nXI Pyrene\nXIII Benzo[a]anthracene XV Benzo[a]pyrene\nXVI Benzo[e]pyrene XVII Perylene XX n-Heptacosylcyclohexane\nXXI Phytanylbenzene\nXXIII 2-Phytanylnaphthalene XXIV Retene XXV Dehydroabietane\nXXII 1-Methyl-3-phytanylbenzene\nXVIII Pristane XIX Phytane\nXIV Benzo[b]fluoranthene\nMg\nO O\nN N\nO\nNN\nR1 R1 = Et, n-Pr, isobutyl\nR2 = Me, Et R2\nOH\nfarnesyl\nIV Bacteriochlorophyll d\nMg\nO O\nN N\nO\nNN\nR1 R1 = Et, n-Pr, isobutyl, neopentyl\nR2 = Me, Et R2\nOH\nfarnesyl\nV Bacteriochlorophyll e\nMg\nO O\nN N\nO\nNN\nR1 R1 = Et, n-Pr, isobutyl\nR2 = Me, Et R2\nOH O\nfarnesyl\nXII Fluoranthene\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nfrom China, Italy, Iran, Western Australia, East Greenland, Western Canada, and Spitsbergen), indicating the widespread development of euxinic conditions (e.g., Newton et al. 2004).\nElevated abundances of other aromatic biomarkers that are less structurally specific [e.g., dibenzothiophene, dibenzofuran, and biphenyl (Figure 5, structures VI, VII, and VIII, respectively)] have been reported in sedimentary horizons just before the marine ecosystem collapse in sections from East Greenland (Looy et al. 2001), Spitsbergen, South China, and Western Canada (e.g., Fenton et al. 2007; Sephton et al. 2009; Nabbefeld et al. 2010a,c). It has been suggested that lignin derived from Late Permian terrestrial plants is their likely source (e.g., Fenton et al. 2007, Luo et al. 2013). Wang & Visscher (2007) applied the ratio of dibenzofuran to the sum of dibenzofuran, dibenzothiophene, and fluorene (Figure 5, structure IX) [DBF/(DBF + DBT + F)] as a proxy for land plant input and found it reliable and consistent with other proxies related to terrestrial erosion (Xie et al. 2007).\nParent polycyclic aromatic hydrocarbons (PAHs) with high molecular weight, such as coronene (Figure 5, structure X), form at elevated combustion temperatures (Finkelstein et al. 2005). PAHs are relatively low in abundance in most geological samples (Hallmann et al. 2011) but abundant in hydrothermal deposits (Simoneit et al. 2004, Williford et al. 2011). In the GSSP section, high abundances of PAHs support a source from wildfire (Nabbefeld et al. 2010d), potentially at a global scale, which is concordant with studies by Grasby et al. (2011) and Shen et al. (2011). High amounts of combustion-derived PAHs [pyrene (Figure 5, structure XI), fluoranthene (structure XII), benzo[a]anthracene (structure XIII), benzofluoranthenes (e.g., structure XIV), benzo[a]pyrene (structure XV), benzo[e]pyrene (structure XVI), and coronene (structure X)] are abundant in bed 25 of GSSP, which contains ash probably sourced from the Siberian Traps LIP ( Jin et al. 2000).\nOther PAHs, such as perylene (Figure 5, structure XVII), are reported to be derived from perylenequinone pigments of wood-degrading fungi (Grice et al. 2009) and coincide with the fungal remains reported in the GSSP section (Visscher et al. 1996) at the onset of the main extinction horizon (bed 5) (Nabbefeld et al. 2010a). However, the palynomorph has been strongly debated as being of algal origin. Similarly, PAHs such as benzo[e]pyrene (Figure 5, structure XVI), once assumed to be of terrestrial origin, are now attributed to algal sources in Early Triassic–aged samples (Grice et al. 2007).\nSediment data, biomarker abundances, and biomarker δ13C and δD—together with δ34S pyrite, δ13C carbonate, and δ13C kerogen for Late Permian sequences—support a marine transgression and collapse of the marine ecosystem during the EPE event (e.g., Nabbefeld et al. 2010a,c). The δ13C of algal- and terrestrial-derived biomarkers supports synchronous changes in the δ13C of marine and atmospheric CO2. These are ascribed to a 13C-depleted source—for example, 13C-depleted methane and/or CO2 derived from recycling of organic matter as a consequence of the marine ecosystem collapse. Evidence for anoxic conditions (Wignall & Twitchett 2002), and the waxing and waning of PZE from the EPE, is provided by Chlorobi-derived biomarkers, which indicate numerous episodes of H2S outgassing and possibly protracted, multiple pulses of extinction (e.g., Grice et al. 2005a–c; Hays et al. 2007; Kim et al. 2010; Nabbefeld et al. 2010a; Metcalfe et al. 2013). Similar conditions also occurred during the LDE (Maslen et al. 2009; Melendez et al. 2013a,b; Tulipani et al. 2015a,b) (see below). In some cases, the δ13C of kerogen can also reflect a facies change; that is, land plant–derived organic matter (type III kerogen to type IV inertinite) in the Late Permian changing to algal-derived organic matter [type II kerogen (sapropelic)] in the Early Triassic (e.g., Foster et al. 1997, Thomas et al. 2004, Grice et al. 2007).\nThe δ13C values of the biomarkers pristane (Figure 5, structure XVIII) and phytane (structure XIX) vary gradually across the ETE, representing (a) a change in their origin(s) or (b) a rise in stratification toward the Triassic, leading to abundant recycling of 13C-depleted CO2. Pristane\nwww.annualreviews.org • Biomarkers and Mass Extinction Events 593\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nand phytane are derived largely from the lipid side chains of various chlorophylls made by algae and cyanobacteria, and thus their δ13C values are strong proxies for the isotopic composition of primary producers in the euphotic zone (e.g., Schouten et al. 1998, Hayes 2001). In contrast, the δ13C values of C14−18 n-alkyl lipids have multiple inputs, including a variety of primary producers and heterotrophic organisms. If the n-alkyl lipids are derived from primary sources, they are on average depleted in 13C by 1.5 per mil compared with isoprenoids (e.g., Schouten et al. 1998, Hayes 2001). Such a trend has been reported in the Triassic for several sections, such as in Western Australia (Grice et al. 2005a,b) and Spitsbergen (Nabbefeld et al. 2010c). Alternatively, isotopic enrichment of C14−18 n-alkyl lipids can occur through heterotrophic processing of primary biomass. This trend has also been observed in Permian sediments from Western Australia and Spitsbergen (Grice et al. 2005a,b; Nabbefeld et al. 2010c) and in Jurassic sediments spanning the ETE ( Jaraula et al. 2013). These data support high algal productivity in the ancient seas due to nutrient runoff and soil erosion. A comparable trend (but with a reversal in the expected C-isotopic relation) between n-alkyl lipids and isoprenoidal lipids has been reported for the Proterozoic–Cambrian boundary (Logan et al. 1995).\nA biomarker exceptional to the EPE—a C33 alkylcyclohexane [n-heptacosylcyclohexane (Figure 5, structure XX)] that first appears at the onset of the extinction interval of the endPermian ecological crisis—is reported from many EPE sequences globally (e.g., Grice et al. 2005c, Hays et al. 2012, Kim et al. 2010, Nabbefeld et al. 2010a). One exception is the GSSP at Meishan, South China, where this distinctive biomarker is absent in carbonate sequences and microbialites that flourished after the EPE (Luo et al. 2013), pointing to an association with facies type (Grice et al. 2005c). The C33 alkylcyclohexane is likely derived from a unique marine organism that bloomed in the extinction aftermath and was probably the basis of the food chain in the Early Triassic oceans (Grice et al. 2005c). The C33 alkylcyclohexane is regarded as a biomarker index of the EPE event. It has an association with transgressive events and cooccurs with remains of spinose acritarchs Veryhachium and Micrhystridium, based on similarities in stratigraphic distribution within studied sections. Phytanylbenzene (Figure 5, structure XXI), 1-methyl-3-phytanylbenzene (structure XXII), and 2-phytanylnaphthalene (structure XXIII) have been identified in a number of sediment extracts from three Permian–Triassic boundary sections and show a distribution and trend similar to those of C33 alkylcyclohexane (Thomas & Barber 2004, Grice et al. 2005c). The discovery of the occurrence of phytanylbenzene as well as 4-methylated phytanylbenzenes was first reported by Sinninghe Damsté et al. (1988). These biomarkers have been reported in a few case studies, especially in evaporitic systems (Sinninghe Damsté et al. 1988, 1995; Grimalt et al. 1991). It has been proposed that phytanylbenzene and -toluenes are related to specific halophilic Archaea, based in particular on the correlations among the relative concentration of these biomarkers and various chroman ratios [as defined by Sinninghe Damsté et al. (1995)]. Their strong correlation with the C33 alkylcyclohexane is probably consistent with transgressive phases during and following the EPE event (Grice et al. 2005c). As is the case with C33 alkylcyclohexane, these compounds are absent in the GSSP section.\nIn summary, biomarker studies across the EPE provide exceptionally strong evidence that environmental conditions in both the marine and terrestrial realms were severely disrupted."
+  }, {
+    "heading": "THE END-TRIASSIC EXTINCTION",
+    "text": "The ETE was the fourth most acute extinction event of the Phanerozoic, and is well dated to 201.4 Myr ago (Payne & Kump 2007, Jourdan et al. 2009, Schoene et al. 2010, Blackburn et al. 2013). This event decimated biodiversity in marine and terrestrial realms. It was equivalent in magnitude to the ECE extinction; 40–50% of marine species were lost (Alroy et al. 2008). Although\n594 Whiteside · Grice\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nsome studies have claimed this event was a mass depletion during which low levels of speciation were more important than high levels of extinction (Hallam 2002, Melott & Bambach 2014), most diversity studies incorporating sample standardization and other corrections have indicated that the ETE is one of the five greatest biodiversity losses of the Phanerozoic.\nConsiderable debate exists regarding the effects on various other clades. Floral assemblages indicate up to a 90% species turnover in terrestrial megaflora (McElwain & Punyasena 2007). Studies of nonmarine vertebrates suggest a number of clades went extinct at or near the ETE (Benton 1993, Sahney et al. 2010, Benton et al. 2013), though the effect at local to regional scales appears variable (Cuny 1996, Olsen et al. 2002). Early studies suggested that marine reptiles suffered minor extinctions (Benton 1993), but more recent work found no evidence of elevated extinction rates in these groups (Benson et al. 2010), and aquatic basal vertebrates (i.e., fish, sensu lato) were apparently largely unaffected as well (McCune & Schaeffer 1986; Friedman & Sallan 2012).\nThe timing of extinction events and the relationships among the causative factors have been the focus of work spanning the past two decades. Multiple Triassic–Jurassic sections show evidence for marine regression followed by transgression across the boundary, and this sea-level change has been implicated in the extinctions (Newell 1967; Hallam 1995, 1997; Barattolo & Romano 2005). An isolated iridium anomaly located near the ETE in the Newark Supergroup of eastern North America has been interpreted as evidence for a bolide impact (Olsen et al. 2002), but converging lines of globally distributed evidence for an impact are lacking. However, the Rochechouart impact (202.7 ± 2.2 Ma; Schmieder et al. 2010) possibly contributed to a degraded Rhaetian environment without acting as a catastrophic ETE kill mechanism.\nInstead, one of the most extensive LIPs, the Central Atlantic Magmatic Province, has been linked to the ETE (Marzoli et al. 1999, Whiteside et al. 2010) through rapid CO2-driven global warming, changes in ocean chemistry, and ocean acidification and deoxygenation (McElwain et al. 1999, Kidder & Worsley 2010, Richoz et al. 2012, Jaraula et al. 2013, Kasprak et al. 2015). Against a backdrop of elevated atmospheric pCO2 [calculated from stomatal indices (McElwain et al. 1999)], the extinction is coincident with a transient negative δ13Corg excursion, termed the initial carbon isotope excursion, considered by most to be a global marker recording perturbation to the global exchangeable carbon reservoirs. This horizon has been identified in marine strata (Ward et al. 2001, 2004; Williford et al. 2007; Pálfy et al. 2001; Hesselbo et al. 2002; Guex et al. 2004) and terrestrial strata (McElwain et al. 1999, Whiteside et al. 2010, Williford et al. 2014), including strata with fossil wood (Kannenberg & Poralla 1999). A protracted positive main excursion in the earliest Hettangian has also been identified. Compound-specific organic carbon isotope studies focusing on terrestrial plant-derived leaf waxes (n-alkanes) help confirm the link between the carbon isotopic excursion and atmospheric CO2 injection at the ETE (Whiteside et al. 2010, Jaraula et al. 2013, Williford et al. 2014). Further indications of a perturbation in the carbon cycle comes from evidence for intense heat stress and fire, identified in the form of biomarker PAHs such as retene (Figure 5, structure XXIV) and coronene (structure X) and compoundspecific stable isotopic compositions of biomarkers from the boundary section at Astartekløft, East Greenland (Williford et al. 2014). High concentrations of PAHs in a Danish-German basin sequence have been ascribed directly to the Central Atlantic Magmatic Province, based on high coronene-to-benzo[a]pyrene ratios [up to 3.46 (van de Schootbrugge et al. 2009)].\nDecreasing δ13C and increasing δD (30 ) of plant wax lipids coincide with other evidence of ecosystem collapse, indicating that the crisis was complemented by intense but localized hydrological change (Williford et al. 2014). The co-occurrence of fossil charcoal (Belcher et al. 2010), high concentrations of combustion-ascribed PAHs, and a monoaromatic diterpenoid related to gymnosperm resin derivatives (Figure 5, structure XXV) in the same time interval marked by abrupt plant diversity loss and maximum plant turnover strongly supports the role\nwww.annualreviews.org • Biomarkers and Mass Extinction Events 595\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nof fire in terrestrial sections (Williford et al. 2014). Anomalously high concentrations of the resin occur exclusively in samples from the boundary bed, signifying that environmental stress factors leading to peak plant extinction and intensified resin production developed at that time. More generally, these findings also suggest that such plant resin derivatives may be biomarkers indicative of terrestrial ecosystem stress.\nIn the marine environment, biomarker and other evidence indicates that the deoxygenation of ocean waters in the Panthalassic realm altered nutrient inventories and led to the shoaling of hydrogen sulfide–rich waters and the development of PZE (Figure 4) (Kasprak et al. 2015). Kasprak et al. argued that PZE disrupted nutrient cycling and altered food chains essential for the survival of marine ecosystems, creating a condition similar to the mass extinction at the Permian– Triassic boundary.\nWhereas the Kasprak et al. study is the only report of biomarker evidence for the ETE from an open-ocean setting, biomarkers preserved in shallow marine/marginal basin sediments from the Tethyan realm have been much more extensively studied and highlight the variability of environmental change associated with the ETE. Information for nutrient cycle deposition at St. Audries Bay derives from interpretation of micropaleontological data (van de Schootbrugge et al. 2007), which suggest a rise in prasinophytes following the extinction event. Additional evidence from Chlorobi-derived biomarkers indicates episodic and persistent intervals of PZE (Figures 4 and 5) ( Jaraula et al. 2013), which are associated with perturbations of the carbon and sulfur cycles. Euxinic conditions recorded at Pinhay are derived from pyrite framboids and faunal data (Wignall 2001). The Frick Swiss Jura section provides geochemical evidence consistent with PZE and increased cyanobacterial production (from the occurrence of 13C-enriched isorenieratene derivatives and 2β-methylhopanes, respectively) in middle Hettangian samples (Schwab & Spangenberg 2007). Numerous sections from the Eiberg Basin, Austria, have recently been investigated by Bonis et al. (2009, 2010) within a geochemical and palynological framework. Data from these studies support redox shifts through the Triassic–Jurassic in this area, and based on carbon isotopes and palynology these authors proposed that terrigenous input drove bottom waters to anoxia. Bonis et al. (2009) demonstrated that the widespread occurrence of prasinophytes is concurrent with excursions in the bulk carbon isotope signature, supporting hypotheses for disrupted nutrient cycles. Sections at Csővár, Hungary (Haas et al. 2010), show a dramatic prasinophyte bloom that is concurrent with a negative carbon isotope excursion, also suggestive of nutrient disruption. Haas et al. (2010) also reported a bloom of trilete spores from land plants concurrent with the prasinophyte bloom. This was interpreted to represent coupled changes in marine and terrestrial realms driven by the same forcing mechanism and is consistent with the notion that global warming was a major driver of environmental disruption during the ETE in both marine and terrestrial settings. Geochemical and paleontological data from Roswinkel, Luxemburg, and from Mingolsheim and Mariental, Germany (Richoz et al. 2012), demonstrate a shift from oxygenated shales in the late Rhaetian to anoxic shales with abundant evidence for the occurrence of PZE in the Hettangian. These euxinic depositional conditions coincide with increased prasinophyte dominance, consistent with a nutrient disruption scenario, and are similar in chronology to the record from the open-ocean Kennecott Point section (Kasprak et al. 2015). Although the southern German site of Mingolsheim did not present evidence for nutrient disruption or euxinia—leading the authors to propose that anoxia, stratification, and euxinia affected only the marginal marine basins of northwest Europe—the newer data of Kasprak et al. (2015) from open-ocean sites in the Panthalassic realm call this into question.\nThus biomarker evidence associated with the ETE provides strong evidence that, similar to what occurred during the EPE, mass extinction followed parallel, coupled, large-magnitude perturbations in both marine and terrestrial environments. Moreover, global warming associated\n596 Whiteside · Grice\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nwith high atmospheric CO2 appears to play a key role in triggering the disruption of marine and terrestrial ecological systems."
+  }, {
+    "heading": "THE LATE DEVONIAN EXTINCTION",
+    "text": "The Late Devonian witnessed one of the largest mass extinctions in Earth’s history (Figure 1), ultimately wiping out the extensive reef systems prominent throughout that era (Sepkoski 1986, 1993; Walliser 1996; Bambach 2006). The most pronounced extinction occurred at the Frasnian– Famennian (F-F) boundary; however, there were also distinct biodiversity crises towards the end of the Givetian and Famennian, as well as earlier in the Frasnian (Walliser 1996, Caplan & Bustin 1999, Aboussalam & Becker 2001). Reef-building communities and associated fauna in tropical, shallow marine settings comprised the most severely affected organisms, whereas terrestrial ecosystems were only marginally impacted (Copper 1986, Fagerstrom 1994, McGhee 1996).\nThe cause(s) and nature of the extinctions, whether they be distinct events, several smaller pulses, or a gradual diversity decline, continue to be debated (e.g., McGhee 1996, House 2002, Racki 2005). Hypotheses range from bolide impacts (McLaren 1970, 1983; Sandberg et al. 2002; Ellwood et al. 2003) to volcanism to climate change and rapid sea-level fluctuations that developed in response to various parameters, including atmospheric CO2 reduction due to the rise of terrestrial plants (Murphy et al. 2000, Courtillot & Renne 2003, McGhee 2005, Algeo & Scheckler 2010). The expansion of terrestrial vegetation and the associated higher nutrient input from enhanced weathering and soil formation may have further contributed to widespread anoxia and eutrophication in Late Devonian oceans; these phenomena in particular have been linked to the F-F extinction ( Joachimski & Buggisch 1993, Bond et al. 2004, Algeo & Scheckler 2010). Most research has focused on the investigation of the F-F and end-Famennian extinctions, whereas studies of earlier late Givetian and early to middle Frasnian events are comparatively rare.\nAs described above, several Phanerozoic mass extinction events have been associated with oceanic anoxic events, during which a stagnant water column leads to persistent stratification, widespread anoxia, and PZE (e.g., Grice et al. 2005a,b; Summons et al. 2006; Jenkyns 2010; Nabbefeld et al. 2010a,d; Jaraula et al. 2013). PZE may have also contributed to the Late Devonian extinctions, as evidence of this condition has been reported in Middle to Late Devonian sediments and crude oils from various locations, including North America (Summons & Powell 1986, 1987; Requejo et al. 1992; Brown & Kenig 2004; Maslen et al. 2009), Europe (Marynowski et al. 2000, 2011; Joachimski et al. 2001; Marynowski & Filipiak 2007), and Western Australia (Maslen et al. 2009; Melendez et al. 2013a,b; Tulipani et al. 2015a).\nMuch of the ancient marine life of this time has been captured in the extensive and wellpreserved Devonian reef systems of the Western Australian Canning Basin (e.g., Playford et al. 2009). The location is particularly well known for the excellent preservation of macrofossils (Long & Trinajstic 2010) and molecular fossils (Melendez et al. 2013a,b) in sections of the Gogo Formation, the middle Givetian to middle Frasnian basin facies. Further, recent research shows that PZE played a pivotal role in the exceptional preservation of soft tissue and biomarkers (Melendez et al. 2013a). Most importantly, it was demonstrated that the oldest intact sterols in a crustacean had been preserved for some 380 Myr within a Devonian concretion (Melendez et al. 2013b). This exceptional preservation of original biomass is attributed to microbially induced carbonate encapsulation, which suppressed decomposition and transformation and thereby extended sterol occurrences in the geological record by 250 Myr. A suite of diagenetic transformation products of sterols was also identified, showing the exceptional coexistence of biomolecules and geomolecules in the same sample. The co-occurrence of steroids in a diagenetic continuum ranging from sterols to aromatic steroids was attributed to microbially mediated eogenetic activities. It remains to be\nwww.annualreviews.org • Biomarkers and Mass Extinction Events 597\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nestablished whether the crustacean was poisoned by hydrogen sulfide associated with PZE in the Devonian sea.\nAlthough the Late Devonian extinctions are among the largest mass extinction events in the Phanerozoic, the causes, nature, and timing of these events remain poorly constrained. In addition to the most pronounced biodiversity losses at the F-F boundary and the end-Famennian, there are also less extensively documented extinction pulses in the middle to late Givetian and the Frasnian. In a recent study, Tulipani et al. (2015a) used palynological, elemental, molecular, and stable isotope analyses to investigate a sedimentary record of reef systems from this time period in the Western Australia Canning Basin. These data generally show the sediments near the Givetian– Frasnian (G-F) boundary preserve a distinct interval of more intense biotic stress, particularly for reef-builders, than that revealed in the Frasnian sediments. Pristane/phytane ratios, gammacerane indices, Chlorobi biomarkers, δDkerogen, and chroman ratios describe a change from a restricted marine paleoenvironment with an anoxic/euxinic hypolimnion toward a presumably more open marine setting with a vertically mixed oxic to suboxic water column. Simultaneous excursions in δ13C profiles of carbonates, organic matter, and hydrocarbons in the older sediments reflect the stratification-induced enhancement of organic matter recycling by sulfate-reducing bacteria. Alterations in sterane distributions and elevated abundances of methyltrimethyltridecylchromans and perylene indicate an increased terrigenous nutrient input via riverine influx, which would have promoted stratification, phytoplankton blooms, and the development of lower–water column anoxia. It remains uncertain whether the paleoenvironmental conditions around the G-F boundary reflect a local or global extinction event. However, these data suggest contributions from higher plant expansion and PZE to the Late Devonian extinctions, consistent with three previous hypotheses. More generally, this work potentially aids in the understanding of variations in Devonian reef margin and platform-top architecture, which are of potential relevance to petroleum exploration and the development of Devonian hydrocarbon resources globally."
+  }, {
+    "heading": "THE END-ORDOVICIAN EXTINCTION",
+    "text": "The remarkable rise in marine biodiversity associated with the Great Ordovician Biodiversity Event (Sepkoski 1981, Droser et al. 1997, Webby et al. 2004, Harper 2006) was interrupted by a massive extinction at the end-Ordovician, with an estimated 85% loss of marine species and 26% loss of families ( Jablonski 1991, Sepkoski 1996, Sheehan 2001) (Figure 1). Extinction proceeded in two distinct pulses (Sheehan 2001), both linked in various ways to glaciation of the southern supercontinent, Gondwana, during the terminal Ordovician Hirnantian Age (444.7–443.4 Ma). Glacially induced cooling and oxygenation are two of the many suggested kill mechanisms for this extinction, but a general consensus is lacking. It is notable that the end-Ordovician glaciation is the only known glacial episode that appears to have coincided with a major mass extinction of marine life.\nThe Late Ordovician witnessed atmospheric pCO2 8–16 times preindustrial levels (Berner & Kothavala 2001) (Figure 1) and warm surface seawater temperatures. Late Ordovician cooling punctuated this warm climate state, although the magnitude and timing are debatable (e.g., Brenchley et al. 1994, Finnegan et al. 2011). Expansion and retreat of high–southern latitude ice sheets in the Hirnantian are associated with a 3–6 positive carbon isotope excursion (Brenchley et al. 1994).\nAtmospheric oxygen was likely lower than at present, dissolved inorganic oxidant availability (i.e., sulfate) stayed lower than modern levels (Gill et al. 2007), and a significant portion of continental landmass was subaqueous (Figure 2). The fusion of elevated temperatures, extensive epeiric seas, and reduced dissolved inorganic oxidant concentrations probably rendered the Late Ordovician susceptible to the development of quasi-estuarine circulation and vast oxygen\n598 Whiteside · Grice\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nminimum zones (e.g., Witzke 1987). Amplified denitrification within Late Ordovician oxygen minimum zones could have driven nitrogen limitation of marine ecosystems (Finney et al. 2007, LaPorte et al. 2009; but see also Saltzman 2005), a situation with possible direct implications of reduced sulfate abundance (Ratti et al. 2011). If decreased seawater pH due to increased pCO2 inhibits nitrification (Beman et al. 2011), further influence on nitrogen limitation is possible in lower Paleozoic marine settings. Limitation of nutrients potentially caused a switch to phosphorus limitation in intervals characterized by carbon isotope variability and perhaps cooler global conditions (e.g., Saltzman 2005).\nBiomarkers provide some useful constraints on environmental conditions associated with the EOE. The Hirnantian glacial maximum presents both marked peaks in hopane/sterane ratio and a decrease in average ratio below the pre-Hirnantian mean, perhaps related to disrupted eukaryotic productivity and increased nutrient availability, respectively. Compounds derived from aerobic methanotrophic bacteria (3β-methylhopane) occur in high relative abundance across the paleotropics and reveal an overall positive relationship with paleotemperature proxies (Rohrssen et al. 2012). This implies increased methane cycling during warm intervals, which might provide an important positive feedback mechanism on climate during extended intervals of early Paleozoic time. Sea-level fall may have provided the trigger, with ensuing anoxia serving as a kill mechanism. Much more work with biomarkers and other paleoenvironmental indicators will be needed to evaluate these possibilities."
+  }, {
+    "heading": "THE END-CRETACEOUS EXTINCTION",
+    "text": "The ECE at the Cretaceous–Paleogene (K-Pg) boundary (∼66 Ma) is unique among the five mass extinction events discussed here in that it has clear ties to a meteorite impact (Schulte et al. 2010) (Figure 2). It is associated with 76% species extinction (Vilhena et al. 2013) among calcifying plankton (>90% of species), including planktic foraminifera (Smit 1982, Stott & Kennett 1990, Liu & Olsson 1992, Berggren & Norris 1997, Molina et al. 1998) and calcareous nannoplankton (Pospichal & Wise 1990, Bown 2005, Fuqua et al. 2008). In contrast, most noncalcifying pelagic organisms, such as diatoms, radiolarians (Harwood 1988, Hollis et al. 2003), dinoflagellates (Brinkhuis et al. 1998), benthic foraminifera (e.g., Thomas 1990a,b; Alegret & Thomas 2005), and ostracodes (e.g., Majoran et al. 1997, Boomer 1999, Elewa 2002) escaped extinction. The K-Pg boundary is characterized by a sudden 1–3 negative excursion in δ13C. This can be interpreted as a collapse of the surface-to-bottom δ13C gradient, indicative of a major alteration in marine primary productivity levels and the biological pump. The δ13C gradient did not fully recover until hundreds of thousands to a few million years after the extinction event. However, plankton-dependent benthic foraminifera did not suffer mass extinction, indicating there must have been a sufficient level of export production to support their community. Furthermore, the presence of C27−29 algal steranes, C30 4-methyl steranes and dinosteranes, and bacterial triterpenoids indicates marine organic matter in the wake of the extinction and suggests that photosynthesis, although reduced, continued (Sepúlveda et al. 2009).\nSoot and charcoal are found in above-normal concentrations in K-Pg boundary layers, raising the possibility that widespread wildfires raged in the aftermath of the meteorite impact, perhaps on a global scale (Wolbach et al. 1990). Increases to as much as 150 times normal levels of pyrosynthetic PAHs, such as coronene, benzo[g,h,i]perylene, and benzo[e]pyrene (Gilmour & Guenther 1988, Venkatesan & Dahl 1989, Arinobu et al. 1999), and increases in fullerenes (e.g., Becker et al. 1995) are also consistent with widespread wildfires during this time interval. However, a global distribution of wildfire is most reliably indicated by the presence of soot and charcoal in deep-sea K-Pg sections [e.g., Deep Sea Drilling Project (DSDP) Site 465 in the central Pacific;\nwww.annualreviews.org • Biomarkers and Mass Extinction Events 599\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nWolbach et al. 2003], where a location far from terrestrial sources provides firm evidence for the widespread atmospheric transport of terrestrially derived combustion products at that time.\nCompound-specific δ13C values of terrestrial higher plant–derived n-C29 alkane from sediments directly above the K-Pg boundary at Caravaca, Spain (Arinobu et al. 1999), show an abrupt decrease of 1.4–18 relative to the underlying strata and are coincident with a spike in pyrosynthetic PAHs. Using mass balance arguments, Arinobu et al. (1999) estimated that 18–24% of the total aboveground terrestrial biomass would have to have been instantaneously combusted in order to produce this abrupt isotopic shift.\nThe fact that extinctions in the marine environment appear to largely affect the upper ocean, and even there seem to affect primarily calcifying organisms, suggests that environmental conditions in the oceans were less extreme and less pervasive than those associated with the other mass extinctions. However, the δ13C excursion still requires explanation; at present, it is thought to be related to some form of disruption in marine primary productivity. This could be examined in future work through the use of an appropriate suite of biomarkers, for example, by looking for more organism-specific evidence for disruption of food chains, or changes in nitrogen fixation."
+  }, {
+    "heading": "SUMMARY AND OUTLOOK",
+    "text": "When mass extinction events are examined from the viewpoint of biomarkers, the ECE differs from the other four large extinction events in that there is no evidence of PZE from anoxygenic green sulfur bacteria and oceanic primary production did not shift to widespread dominance of cyanobacteria and algal picoplankton. Calcareous groups (foraminifera, nannoplankton) appear to have been especially affected at the K-Pg boundary, and siliceous and organic-walled phytoplankton less so. The other four large extinction events are all associated with episodes of dysoxic to euxinic marine conditions that led to shifts in the availability of biolimiting nutrients (Figure 2). For the ETE and EPE, a mass extinction scenario whereby flood-basalt volcanism induced greenhouse warming is commonly accepted. For the LDE, a similar scenario is suspected, though in conjunction with the evolutionary innovation of the initial arrival of plants.\nThis review shows that qualitative changes in biomarkers across extinction events are becoming well constrained. One of the tasks ahead will be to ask how changes in primary production can be quantified across extinction events. Overall, these data demonstrate the potential for biomarkers to inform the paleoenvironment, ecology, and underlying mechanisms of mass extinction events at a variety of spatial and temporal scales. As analytical methods improve, more widespread application of biomarker techniques to the older mass extinctions (e.g., the EOE and LDE) should greatly improve our understanding of these major earth history events, and further studies of the EPE, ETE, and ECE will help refine the processes that underlie their causes and effects."
+  }, {
+    "heading": "DISCLOSURE STATEMENT",
+    "text": "The authors are not aware of any affiliations, memberships, funding, or financial holdings that might be perceived as affecting the objectivity of this review."
+  }, {
+    "heading": "ACKNOWLEDGMENTS",
+    "text": "We thank Roger Summons, Julio Sepúlveda, Randall Irmis, and Richard Twitchett for enlightening discussions on biomarker records and mass extinctions over the years, and Victor Leshyk for providing illustrations used in Figure 2. We acknowledge an anonymous reviewer for helpful comments on the manuscript. Research in the authors’ laboratories is funded by US National\n600 Whiteside · Grice\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nScience Foundation grant EAR 1349650 to J.H.W. and by Australian Research Council Discovery QEII grant ARC DP0877167 to K.G."
+  }, {
+    "heading": "LITERATURE CITED",
+    "text": "Aboussalam ZS, Becker RT. 2001. Prospects for an upper Givetian substage. Foss. Rec. 4:83–99 Alegret L, Thomas E. 2005. Cretaceous/Paleogene boundary bathyal paleo-environments in the central North\nPacific (DSDP Site 465), the Northwestern Atlantic (ODP Site 1049), the Gulf of Mexico and the Tethys: the benthic foraminiferal record. Palaeogeogr. Palaeoclimatol. Palaeoecol. 224:53–82 Algeo T, Henderson CM, Ellwood B, Rowe H, Elswick E, et al. 2012. Evidence for a diachronous Late Permian marine crisis from the Canadian Arctic region. Geol. Soc. Am. Bull. 124:1424–48 Algeo TJ, Scheckler SE. 2010. Land plant evolution and weathering rate changes in the Devonian. J. Earth Sci. 21:75–78 Algeo TJ, Twitchett RJ. 2010. Anomalous Early Triassic sediment fluxes due to elevated weathering rates and their biological consequences. Geology 38:1023–26 Alroy J, Aberhan M, Bottjer DJ, Foote M, Fürsich FT, et al. 2008. Phanerozoic trends in the global diversity of marine invertebrates. Science 321:97–100 Arinobu T, Ishiwatari R, Kaiho K, Lamolda MA. 1999. Spike of pyrosynthetic polycyclic aromatic hydrocarbons associated with an abrupt decrease in δ13C of a terrestrial biomarker at the Cretaceous–Tertiary boundary at Caravaca, Spain. Geology 27:723–26 Audino M, Grice K, Alexander R, Kagi RI. 2002. Macrocyclic alkanes in crude oils from the algaenan of Botryococcus braunii. Org. Geochem. 33:979–84 Bambach RK. 2006. Phanerozoic biodiversity mass extinctions. Annu. Rev. Earth Planet. Sci. 34:127–55 Barattolo F, Romano R. 2005. The genus Linoporella (Steinmann, 1899) and its type-species Linoporella capriotica\n(Oppenheim, 1889) from the early Cretaceous of Capri. Boll. Soc. Paleontol. Ital. 44:237–54 Becker L, Bada JL, Bunch TE. 1995. Fullerenes in the K-T boundary: Are they a result of global wildfires?\nLunar Planet. Sci. Conf. Abstr. 26:85–86 Becker L, Poreda R, Bunch TE. 2000. Fullerenes: an extraterrestrial carbon carrier phase for noble gases.\nPNAS 97:2979–83 Belcher CM, Mander L, Rein G, Jervis FX, Haworth M, et al. 2010. Increased fire activity at the\nTriassic/Jurassic boundary in Greenland due to climate-driven floral change. Nat. Geosci. 3:426–29 Beman JM, Chow CE, King AL, Feng Y, Fuhrman JA, et al. 2011. Global declines in oceanic nitrification\nrates as a consequence of ocean acidification. PNAS 108:208–13 Benson RBJ, Carrano MT, Brusatte SL. 2010. A new clade of archaic large-bodied predatory dinosaurs\n(Theropoda: Allosauroidea) that survived to the latest Mesozoic. Naturwissenschaften 97:71–78 Benton MJ. 1993. Late Triassic extinctions and the origin of the dinosaurs. Science 260:769–70 Benton MJ, Twitchett RJ. 2003. How to kill (almost) all life: the end-Permian extinction event. Trends Ecol.\nEvol. 18:358–65 Benton MJ, Zhang Q, Hu S, Chen ZQ, Wen W, et al. 2013. Exceptional vertebrate biotas from the Triassic\nof China, and the expansion of marine ecosystems after the Permo-Triassic mass extinction. Earth-Sci. Rev. 125:199–243 Berggren WA, Norris RD. 1997. Biostratigraphy, phylogeny and systematics of Paleocene trochospiral planktic foraminifera. Micropaleontology 43(Suppl. 1):1–116 Berner RA, Kothavala Z. 2001. GEOCARB III: a revised model of atmospheric CO2 over Phanerozoic time. Am. J. Sci. 301:182–204 Bian L, Hinrichs KU, Xie T, Brassell SC, Iversen N, et al. 2001. Algal and archaeal polyisoprenoids in a recent marine sediment: molecular isotopic evidence for anaerobic oxidation of methane. Geochem. Geophys. Geosyst. 2:2000GC000112 Bird CW, Lynch JM, Pirt FJ, Reid WW, Brooks CJW, Middleditch BS. 1971. Steroids and squalene in Methylococcus capsulatus grown on methane. Nature 230:473–74 Blackburn TJ, Olsen PE, Bowring SA, McLean NM, Kent DV, et al. 2013. Zircon U-Pb geochronology links the end-Triassic extinction with the Central Atlantic Magmatic Province. Science 340:941–45\nwww.annualreviews.org • Biomarkers and Mass Extinction Events 601\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nBlokker P, van Bergen PF, Pancost RD, Collinson ME, Sinninghe Damsté JS, de Leeuw JW. 2001. The chemical structure of Gloeocapsamorpha prisca microfossils: implication for their origin. Geochim. Cosmochim. Acta 65:885–900 Bode HB, Zeggel B, Silakowski B, Wenzel SC, Hans R, Müller R. 2003. Steroid biosynthesis in prokaryotes: identification of myxobacterial steroids and cloning of the first bacterial 2,3(S)-oxidosqualenecyclase from the myxobacterium Stigmatella aurantiaca. Mol. Microbiol. 47:471–81 Bond D, Wignall PB, Racki G. 2004. Extent and duration of marine anoxia during the Frasnian–Famennian (Late Devonian) mass extinction in Poland, Germany, Austria and France. Geol. Mag. 141:173–93 Bonis NR, Kürschner WM, Krystyn L. 2009. A detailed palynological study of the Triassic–Jurassic transition in key sections of the Eiberg Basin (Northern Calcareous Alps, Austria). Rev. Palaeobot. Palynol. 156:376–400 Bonis NR, Ruhl M, Kürschner WM. 2010. Climate change driven black shale deposition during the endTriassic in the western Tethys. Palaeogeogr. Palaeoclimatol. Palaeoecol. 290:151–59 Boomer I. 1999. Late Cretaceous and Cenozoic bathyal Ostracoda from the central Pacific (DSDP Site 463). Mar. Micropaleontol. 37:131–47 Bosch HJ, Sinninghe Damsté JS, de Leeuw JW. 1998. Molecular palaeontology of eastern Mediterranean sapropels: evidence for photic zone euxinia. Proc. Ocean Drill. Program Sci. Res. 160:285–95 Bown PR. 2005. Selective calcareous nannoplankton survivorship at the Cretaceous-Tertiary boundary. Geology 33:653–56 Bowring SA, Erwin DH, Davidek K, Wang W, Jin MW, Martin YG. 1998. U/Pb zircon geochronology and tempo of the end-Permian mass extinction. Science 280:1039–45 Brassell SC, Eglinton G, Marlowe IT, Pflaufmann U, Sarnthein M. 1986. A new tool for climatic assessment. Nature 320:129–33 Brenchley PJ, Marshall JD, Carden GAF, Robertson DBR, Long DGF, et al. 1994. Bathymetric and isotopic evidence for a short-lived Late Ordovician glaciation in a greenhouse period. Geology 22:295–98 Brinkhuis H, Bujak JP, Smit J, Versteegh GJM, Visscher H. 1998. Dinoflagellate-based sea surface temperature reconstructions across the Cretaceous–Tertiary boundary. Palaeogeogr. Palaeoclimatol. Palaeoecol. 141:67–83 Brocks JJ, Grice K. 2011. Biomarkers (molecular fossils). In Encyclopedia of Geobiology, ed. V Thiel, J Reitner, pp. 147–167. Heidelberg, Ger.: Springer Brocks JJ, Grosjean E, Logan GA. 2008. Assessing biomarker syngeneity using branched alkanes with quaternary carbon (BAQCs) and other plastic contaminants. Geochim. Cosmochim. Acta 72:871–88 Brocks JJ, Love GD, Summons RE, Knoll AH, Logan GA, Bowden SA. 2005. Biomarker evidence for green and purple sulphur bacteria in a stratified Paleoproterozoic sea. Nature 437:866–70 Brocks JJ Schaeffer P. 2008. Okenane, a biomarker for purple sulfur bacteria (Chromatiaceae), and other new carotenoid derivatives from the 1640 Ma Barney Creek Formation. Geochim. Cosmochim. Acta 72:1396–414 Brocks JJ, Summons RE. 2005. Sedimentary hydrocarbons, biomarkers for early life. In Treatise on Geochemistry, Vol. 8: Biogeochemistry, ed. WH Schlesinger, pp. 63–115. Amsterdam: Elsevier. 1st ed. Brown TC, Kenig F. 2004. Water column structure during deposition of Middle Devonian–Lower Mississippian black and green/gray shales of the Illinois and Michigan Basins: a biomarker approach. Palaeogeogr. Palaeoclimatol. Palaeoecol. 215:59–85 Burgess SD, Bowring S, Shen S. 2014. High-precision timeline for Earth’s most severe extinction. PNAS 111:3316–21 Cao C, Love GD, Hays L, Wang W, Shen S, Summons RE. 2009. Biogeochemical evidence for a euxinic ocean and ecological disturbance presaging the end-Permian mass extinction event. Earth Planet. Sci. Lett. 288:188–201 Caplan ML, Bustin RM. 1999. Devonian–Carboniferous Hangenberg mass extinction event, widespread organic-rich mudrocks and anoxia: causes and consequences. Palaeogeogr. Palaeoclimatol. Palaeoecol. 148:187–207 Copper P. 1986. Frasnian/Famennian mass extinction and cold-water oceans. Geology 14:835–39 Courtillot VE, Renne PR. 2003. On the ages of flood basalt events. C.R. Geosci. 335:113 Cox HC, de Leeuw JW, Schenk PA, van Konigsveld H, Jansen JC, et al. 1986. Bicadinane, a C30 pentacyclic\nisoprenoid hydrocarbon found in crude oil. Nature 319:316–18\n602 Whiteside · Grice\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nCuny G. 1996. French vertebrate faunas and the Triassic-Jurassic boundary. Palaeogeogr. Palaeoclimatol. Palaeoecol. 119:343–58 Dembitsky VM, Dor I, Shkrob I, Aki M. 2001. Branched alkanes and other apolar compounds produced by the cyanobacterium Microcoleus vaginatus from the Negev Desert. Russ. J. Bioorg. Chem. 27:110–19 Droser ML, Bottjer DJ, Sheehan PM. 1997. Evaluating the ecological architecture of major events in the Phanerozoic history of marine invertebrate life. Geology 25:167–70 Eiserbeck C, Grice K, Reddy C, Nelson R, Curiale J, Raiteri P. 2011. Separation of 18α(H)-, 18β(H)-oleanane and lupane by comprehensive two-dimensional gas chromatography. J. Chromatogr. A 1218:5549–53 Elewa AMT. 2002. Paleobiography of Maastrichtian to early Eocene Ostracoda of North and West Africa and the Middle East. Micropaleontology 48:391–98 Ellwood BB, Benoist SL, El Hassani A, Wheeler C, Crick RE. 2003. Impact ejecta layer from the midDevonian: possible connection to global mass extinctions. Science 300:1734–37 Elvert M, Suess E, Whiticar MJ. 1999. Anaerobic methane oxidation associated with marine gas hydrates: superlight C-isotopes from saturated and unsaturated C20 and C25 irregular isoprenoids. Naturwissenschaften 31:1175–87 Erwin DH. 2006. Extinction: How Life on Earth Nearly Ended 250 Million Years Ago. Princeton, NJ: Princeton Univ. Press Erwin DH, Bowring SA, Yugan J. 2002. End-Permian mass extinctions: a review. Geol. Soc. Am. Spec. Pap. 356:363–83 Fagerstrom JA. 1994. The history of Devonian-Carboniferous reef communities: extinctions, effects, recovery. Facies 30:177–91 Farrimond P, Head IM, Innes HE. 2000. Environmental influence on the biohopanoid composition of recent sediments. Geochim. Cosmochim. Acta 64:2985–92 Fenton S, Grice K, Twitchett RJ, Böttcher M, Looy CV, Nabbefield B. 2007. Changes in biomarker abundances and their stable carbon isotopes across the Permian–Triassic (P-Tr) Schuchert Dal section (East Greenland). Earth Planet. Sci. Lett. 262:230–39 Finkelstein DB, Pratt LM, Curtin TM, Brassell SC. 2005. Wildfires and seasonal aridity recorded in Late Cretaceous strata from south-eastern Arizona, USA. Sedimentology 52:587–99 Finnegan S, Bergmann K, Eiler JM, Jones DS, Fike DA, et al. 2011. The magnitude and duration of Late Ordovician–Early Silurian glaciation. Science 331:903–6 Finney SC, Berry WBN, Cooper JD. 2007. The influence of denitrifying seawater on graptolite extinction and diversification during the Hirnantian (latest Ordovician) mass extinction event. Lethaia 40:281–91 Foster CB, Logan GA, Summons RE, Gorter JD, Edwards DS. 1997. Carbon isotopes, kerogen types and the Permian-Triassic boundary in Australia: implications for exploration. APPEA J. 37:472–89 Fowler MG. 1992. The influence of Gloeocapsomorpha prisca on the organic geochemistry of oils and organic-rich rocks of Late Ordovician age from Canada. In Early Organic Evolution: Implications for Mineral and Energy Resources, ed. M Schidlowski, S Golubic, MM Kimberly, PA Trudinger, pp. 336–56. Berlin: Springer French KL, Rocher D, Zumberge JE, Summons RE. 2015. Assessing the distribution of sedimentary C40 carotenoids through time. Geobiology 13:139–51 Friedman M, Sallan LC. 2012. Five hundred million years of extinction and recovery: a Phanerozoic survey of large-scale diversity patterns in fishes. Palaeontology 55:707–42 Fuqua LM, Bralower TJ, Arthur MA, Patzkowsky ME. 2008. Evolution of calcareous nannoplankton and the recovery of marine food webs after the Cretaceous-Paleocene mass extinction. Palaios 23:185–94 Gaines SM, Eglinton G, Rullkötter J. 2009. Echoes of Life: What Fossil Molecules Reveal About Earth History. New York: Oxford Univ. Press Gill BC, Lyons TW, Saltzman MR. 2007. Parallel, high-resolution carbon and sulfur isotope records of the evolving Paleozoic marine sulfur reservoir. Palaeogeogr. Palaeoclimatol. Palaeoecol. 256:156–73 Gilmour I, Guenther F. 1988. The global Cretaceous-Tertiary fire: biomass or fossil carbon. In Global Catastrophes in Earth History: An Interdisciplinary Conference on Impacts, Volcanism, and Mass Mortality, pp. 60–61. Houston: Lunar Planet. Inst. Graham JE, Bryant DA. 2007. Carotenoid biosynthesis in Synechococcus sp. PCC 7002: elucidation of the pathway to myxoxanthophyll and aromatic xanthophylls. Presented at 9th Cyanobacterial Molecular Biology Workshop, Delavan, WI\nwww.annualreviews.org • Biomarkers and Mass Extinction Events 603\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nGrasby SE, Sanei H, Beauchamp B. 2011. Catastrophic dispersion of coal fly ash into oceans during the latest Permian extinction. Nat. Geosci. 4:104–7 Greenwood PF, Arouri KR, Logan GA, Summons RE. 2004. Abundance and geochemical significance of C2n dialkylalkanes and highly branched C3n alkanes in diverse Meso- and Neoproterozoic sediments. Org. Geochem. 35:221–46 Grice K, Audino M, Alexander R, Boreham CJ, Kagi RI. 2001. Distributions and stable carbon isotopic compositions of biomarkers in torbanites from different palaeogeographical locations. Org. Geochem. 32:1195–210 Grice K, Brocks JJ. 2011. Biomarkers (organic, compound-specific isotopes). In Encyclopedia of Geobiology, ed. V Thiel, J Reitner, pp. 167–82. Heidelberg, Ger.: Springer Grice K, Cao C, Love GD, Bottcher ME, Twitchett R, et al. 2005a. Photic zone euxinia during the PermianTriassic superanoxic event. Science 307:706–9 Grice K, Eiserbeck C. 2013. The analysis and application of biomarkers. In Treatise on Geochemistry, Vol. 12: Organic Geochemistry, ed. PG Falkowski, KH Freeman, pp. 47–78. Amsterdam: Elsevier. 2nd ed. Grice K, Gibbison R, Atkinson JE, Schwark L, Eckardt CB, Maxwell JR. 1996a. Maleimides (1H-pyrrole2,5-diones) as molecular indicators of anoxygenic photosynthesis in ancient water columns. Geochim. Cosmochim. Acta 60:3913–24 Grice K, Klein Breteler WCM, Schouten S, Grossi V, de Leeuw JW, Sinninghe Damsté JS. 1998a. The effects of zooplankton herbivory on biomarker proxy records. Paleoceanography 13:686–93 Grice K, Lu H, Atahan P, Asif M, Hallman C, et al. 2009. New insights into the origin of perylene in geological samples. Geochim. Cosmochim. Acta 73:6531–43 Grice K, Nabbefeld B, Maslen E. 2007. Source and significance of selected polycyclic aromatic hydrocarbons in sediments (Hovea-3 well, Perth Basin, Western Australia) spanning the Permian–Triassic boundary. Org. Geochem. 38:1795–803 Grice K, Schaeffer P, Schwark L, Maxwell JR. 1996b. Molecular indicators of palaeoenvironmental conditions in an immature Permian shale (Kupferschiefer, Lower Rhine Basin, northwest Germany) from free and S-bound lipids. Org. Geochem. 25:131–47 Grice K, Schaeffer P, Schwark L, Maxwell JR. 1997. Changes in palaeoenvironmental conditions during deposition of the Permian Kupferschiefer (Lower Rhine Basin, northwest Germany) inferred from molecular and isotopic compositions of biomarker components. Org. Geochem. 26:677–90 Grice K, Schouten S, Nissenbaum A, Charrach J, Sinninghe Damsté JS. 1998b. Isotopically heavy carbon in the C21 to C25 regular isoprenoids in halite-rich deposits from the Sdom Formation, Dead Sea Basin, Israel. Org. Geochem. 28:349–59 Grice K, Summons R, Grosjean E, Twitchett R, Dunning WJ, et al. 2005b. Depositional conditions of the Northern onshore Perth basin (Basal Triassic). Perth APPEA J. 45:263–73 Grice K, Twitchett R, Alexander R, Foster CB, Looy C. 2005c. A potential biomarker for the Permian–Triassic ecological crisis. Earth Planet. Sci. Lett. 236:315–21 Grimalt JO, Grifoll M, Solanas MA, Albaiges J. 1991. Microbial degradation of marine evaporitic crude oils. Geochim. Cosmochim. Acta 55:1903–13 Grosjean E, Logan GA. 2007. Incorporation of organic contaminants into geochemical samples and an assessment of potential sources: examples from Geoscience Australia marine survey S282. Org. Geochem. 38:853 Guex J, Bartolini A, Atudorei V, Taylor DG. 2004. High-resolution ammonite and carbon isotope stratigraphy across the Triassic–Jurassic boundary at New York Canyon (Nevada). Earth Planet. Sci. Lett. 225:29–41 Haas J, Götz AE, Pálfy J. 2010. Late Triassic to Early Jurassic palaeogeography and eustatic history in the NW Tethyan realm: new insights from sedimentary and organic facies of the Csővár Basin (Hungary). Palaeogeogr. Palaeoclimatol. Palaeoecol. 291:456–68 Hallam A. 1995. Oxygen-restricted facies of the basal Jurassic of north west Europe. Hist. Biol. 10:247–57 Hallam A. 1997. Estimates of the amount and rate of sea-level change across the Rhaetian–Hettangian and\nPliensbachian–Toarcian boundaries (latest Triassic to early Jurassic). J. Geol. Soc. Lond. 154:773–79 Hallam A. 2002. How catastrophic was the end-Triassic mass extinction? Lethaia 35:147–57 Hallmann C, Kelly AE, Neal Gupta S, Summons RE. 2011. Reconstructing deep-time biology with molecular\nfossils. Top. Geobiol. 36:355–401\n604 Whiteside · Grice\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nHarper DAT. 2006. The Ordovician biodiversification: setting an agenda for marine life. Palaeogeogr. Palaeoclimatol. Palaeoecol. 232:148–66 Hartgers WA, Sinninghe Damsté JS, Requejo AG, Allan J, Hayes JM, et al. 1993. A molecular and carbon isotopic study towards the origin and diagenetic fate of diaromatic carotenoids. Org. Geochem. 22:703–25 Harvey GR, Sinninghe Damsté JS, de Leeuw JW. 1985. On the origin of alkylbenzenes in geochemical samples. Mar. Chem. 16:187–88 Harwood DM. 1988. Upper Cretaceous and lower Paleocene diatoms and silicoflagellate biostratigraphy of Seymour Island, eastern Antarctic Peninsula. Geol. Soc. Am. Mem. 169:55–129 Hayes JM. 2001. Fractionation of the isotopes of carbon and hydrogen in biosynthetic processes. Rev. Mineral. Geochem. 43:225–78 Hays L, Beatty T, Henderson CM, Love GD, Summons RE. 2007. Evidence for photic zone euxinia through the end-Permian mass extinction in the Panthalassic Ocean (Peace River Basin, Western Canada). Palaeoworld 16:39–50 Hays L, Grice K, Foster C, Summons RE. 2012. Biomarker and isotopic trends in a Permian–Triassic sedimentary section at Kap Stosch, Greenland. Org. Geochem. 43:67–82 Hedberg HD. 1968. Significance of high-wax oils with respect to genesis of petroleum. Am. Assoc. Petrol. Geol. Bull. 52:736–50 Hesselbo SP, Robinson SA, Surlyk F, Piasecki S. 2002. Terrestrial and marine extinction at the TriassicJurassic boundary synchronized with major carbon-cycle perturbation: a link to initiation of massive volcanism? Geology 30:251–54 Holba AG, Dzou LIP, Masterson WD, Hughes WB, Huizinga BJ, et al. 1998a. Application of 24- norcholestanes for constraining source age of petroleum. Org. Geochem. 29:1269–83 Holba AG, Tegelaar EW, Huizinga BJ, Moldowan JM, Singletary MS, et al. 1998b. 24-Norcholestanes as age-sensitive molecular fossils. Geology 26:783–86 Hollis CJ, Strong CP, Rodgers KA, Rogers KM. 2003. Paleoenvironmental changes across the Cretaceous/Tertiary boundary at Flaxbourne River and Woodside Creek, eastern Marlborough, New Zealand. N.Z. J. Geol. Geophys. 46:177–97 Hönisch B, Ridgwell A, Schmidt DN, Thomas E, Gibbs SJ, et al. 2012. The geological record of ocean acidification. Science 335:1058–63 House MR. 2002. Strength, timing, setting and cause of mid-Palaeozoic extinctions. Palaeogeogr. Palaeoclimatol. Palaeoecol. 181:5–26 Huang Z, Poulter CD, Wolf FR, Somers TC, White JD. 1988. Braunicene, a novel cyclic C32 isoprenoid from Botryococcus braunii. J. Am. Chem. Soc. 110:3959–64 Jablonski D. 1991. Extinctions: a paleontological perspective. Science 253:754–57 Jaraula CMB, Grice K, Twitchett RJ, Böttcher ME, LeMetayer P, et al. 2013. Elevated pCO2 leading to Late\nTriassic extinction, persistent photic zone euxinia, and rising sea levels. Geology 41:955–58 Jenkyns HC. 2010. Geochemistry of oceanic anoxic events. Geochem. Geophys. Geosyst. 11:Q03004 Jin YG, Wang Y, Wang W, Shang QH, Cao CQ, Erwin DH. 2000. Pattern of marine mass extinction near\nthe Permian-Triassic boundary in South China. Science 289:432–36 Joachimski MM, Buggisch W. 1993. Anoxic events in the late Frasnian—causes of the Frasnian-Famennian\nfaunal crisis? Geology 21:675–78 Joachimski MM, Ostertag-Henning C, Pancost RD, Strauss H, Freeman KH, et al. 2001. Water column\nanoxia, enhanced productivity and concomitant changes in δ13C and δ34S across the Frasnian–Famennian boundary (Kowala—Holy Cross Mountains/Poland). Chem. Geol. 175:109–31 Jourdan FM, Marzoli A, Bertrand H, Cirilli S, Tanner L, et al. 2009. 40Ar/39Ar ages of CAMP in North America: implications for the Triassic–Jurassic boundary and the 40K decay constant bias. Lithos 110:167–80 Kamo SL, Czamanske GK, Krogh TE. 1996. A minimum U-Pb age for Siberian flood-basalt volcanism. Geochim. Cosmochim. Acta 60:3505–11 Kannenberg E, Poralla K. 1999. Hopanoid biosynthesis and function in bacteria. Naturwissenschaften 86:168–76 Kasprak AH, Sepúlveda J, Price-Waldman R, Williford KH, Schoepfer SD, et al. 2015. Episodic photic zone\neuxinia in the northeastern Panthalassic Ocean during the end-Triassic extinction. Geology 43:307–10\nwww.annualreviews.org • Biomarkers and Mass Extinction Events 605\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nKenig F, Sinninghe Damsté JS, Kock–van Dalen AC, Rijpstra WIC, Huc AY, de Leeuw JW. 1995. Occurrence and origin of mono-, di-, and trimethyl alkanes in modern and Holocene cyanobacterial mats from Abu Dhabi, United Arab Emirates. Geochim. Cosmochim. Acta 59:2999–3015\nKidder DL, Worsley TR. 2010. Phanerozoic Large Igneous Provinces (LIPs), HEATT (Haline Euxinic Acidic Thermal Transgression) episodes, and mass extinctions. Palaeogeogr. Palaeoclimatol. Palaeoecol. 295:162–91\nKim JH, van der Meer J, Schouten S, Helmke P, Willmott V, et al. 2010. New indices and calibrations derived from the distribution of crenarchaeal isoprenoid tetraether lipids: implications for past sea surface temperature reconstructions. Geochim. Cosmochim. Acta 74:4639–54\nKnoll AH, Bambach RK, Payne JL, Pruss S, Fischer WW. 2007. Paleophysiology and end-Permian mass extinction. Earth Planet. Sci. Lett. 256:295–313\nKohl W, Gloe A, Reichenbach H. 1983. Steroids from the myxobacterium Nannocystis exedens. J. Gen. Microbiol. 129:1629–35\nKoopmans MP, Köster J, van Kaam–Peters HME, Kenig F, Schouten S, et al. 1996a. Diagenetic and catagenetic products of isorenieratene: molecular indicators for photic zone anoxia. Geochim. Cosmochim. Acta 60:4467–96\nKoopmans MP, Schouten S, Kohnen MEL, Sinninghe Damsté JS. 1996b. Restricted utility of aryl isoprenoids for photic zone anoxia. Geochim. Cosmochim. Acta 60:4873–76\nKöster J, Volkman JK, Rullkötter J, Scholz-Böttcher BM, Rethmeier J, Fischer U. 1999. Mono-, di- and trimethyl-branched alkanes in cultures of the filamentous cyanobacterium Calothrix scopulorum. Org. Geochem. 30:1367–79 Krull ES, Retallack GJ. 2000. δ13C depth profiles from paleosols across the Permian-Triassic boundary in Antarctica: evidence for methane release. Geol. Soc. Am. Bull. 112:1459–72\nKump LR, Pavlov A, Arthur MA. 2005. Massive release of hydrogen sulfide to the surface ocean and atmosphere during intervals of oceanic anoxia. Geology 33:397–400\nKuypers MM, Blokker P, Erbacher J, Kinkel H, Pancost RD, et al. 2001. Massive expansion of marine Archaea during a Mid-Cretaceous Oceanic anoxic event. Science 293:92–94\nLaPorte DF, Holmden C, Patterson WP, Loxton JD, Melchin MJ, et al. 2009. Local and global perspectives on carbon and nitrogen cycling during the Hirnantian glaciation. Palaeogeogr. Palaeoclimatol. Palaeoecol. 276:182–95\nLiu C, Olsson RK. 1992. Evolutionary radiation of microperforate planktonic foraminifera following the K/T mass extinction event. J. Foraminifer. Res. 22:328–46\nLogan GA, Hayes JM, Hieshima GB, Summons RE. 1995. Terminal Proterozoic reorganization of biogeochemical cycles. Nature 376:53–56\nLong JA, Trinajstic K. 2010. The Late Devonian Gogo Formation Lägerstatte of Western Australia: exceptional early vertebrate preservation and diversity. Annu. Rev. Earth Planet. Sci. 38:255–79\nLooy CV, Twitchett RJ, Dilcher DL, Van Konijnenburg–Van Cittert JHA, Visscher H. 2001. Life in the end-Permian dead zone. PNAS 98:7879–83\nLuo G, Wang Y, Grice K, Kershaw S, Algeo TJ, Ruan X, et al. 2013. Microbial-algal community changes during the latest Permian ecological crisis: evidence from lipid biomarkers at Cili, South China. Glob. Planet. Change 105:36–51\nLuo G, Wang Y, Yang H, Algeo TJ, Kump LR, et al. 2011. Stepwise and large-magnitude negative shift in δ13Ccarb preceded the main marine mass extinction of the Permian–Triassic crisis interval. Palaeogeogr. Palaeoclimatol. Palaeoecol. 299:70–82\nMajoran S, Widmark JGV, Kucera M. 1997. Palaeoecological preferences and geographical distribution of Late Maastrichtian deep-sea ostracods in the South Atlantic. Lethaia 30:53–64\nMarynowski L, Filipiak P. 2007. Water column euxinia and wildfire evidence during deposition of the Upper Famennian Hangenberg event horizon from the Holy Cross Mountains (central Poland). Geol. Mag. 144:569–95\nMarynowski L, Narkiewicz M, Grelowski C. 2000. Biomarkers as environmental indicators in a carbonate complex, examples from the Middle Devonian, the Holy Cross Mountains, Poland. Sediment. Geol. 137:187–212\n606 Whiteside · Grice\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nMarynowski L, Rakociński M, Borcuch E, Kremer B, Schubert BA, Jahren AH. 2011. Molecular and petrographic indicators of redox conditions and bacterial communities after the F/F mass extinction (Kowala, Holy Cross Mountains, Poland). Palaeogeogr. Palaeoclimatol. Palaeoecol. 306:1–14 Marzoli A, Renne PR, Piccirillo EM, Ernesto M, Bellieni G, De Min A. 1999. Extensive 200-million-year-old continental flood basalts of the Central Atlantic magmatic province. Science 284:616–18 Maslen E, Grice K, Gale JD, Hallmann C, Horsfield B. 2009. Crocetane: a potential marker of photic zone euxinia in thermally mature sediments and crude oils of Devonian age. Org. Geochem. 40:1–11 Mayer FL, Stalling DL, Johnson JL. 1972. Phthalate esters as environmental contaminants. Nature 238:411–13 McCaffrey MA, Moldowan JM, Lipton PA, Summons RE, Peters KE, et al. 1994. Paleoenvironmental implica-\ntions of novel C30 steranes in Precambrian to Cenozoic age petroleum and bitumen. Geochim. Cosmochim. Acta 58:529–32 McCune AR, Schaeffer B. 1986. Triassic and Jurassic fishes: patterns of diversity. In The Beginning of the Age of Dinosaurs, ed. K Pandian, pp. 171–81. Cambridge, UK: Cambridge Univ. Press McElwain JC, Beerling DJ, Woodward FI. 1999. Fossil plants and global warming at the Triassic-Jurassic boundary. Science 285:1386–90 McElwain JC, Punyasena SW. 2007. Mass extinction events and the plant fossil record. Trends Ecol. Evol. 22:548–57 McGhee GR Jr. 1996. The Late Devonian Mass Extinction. New York: Columbia Univ. Press McGhee GR Jr. 2005. Modelling Late Devonian extinction hypotheses, in understanding Late Devonian and\nPermian-Triassic biotic and climatic events—towards an integrated approach. Dev. Paleontol. Stratigr. 20:37–50 McLaren D. 1970. Time, life and boundaries. J. Paleontol. 44:801–15 McLaren D. 1983. Bolides and biostratigraphy. Geol. Soc. Am. Bull. 94:313–24 Melendez I, Grice K, Schwark L. 2013a. Exceptional preservation of Palaeozoic steroids in a diagenetic\ncontinuum. Sci. Rep. 3:2768 Melendez I, Grice K, Trinajstic K, Ladjavardi M, Greenwood P, Thompson K. 2013b. Biomarkers reveal the\nrole of photic zone euxinia in exceptional fossil preservation: an organic geochemical perspective. Geology 41:123–26 Melott AL, Bambach RK. 2014. Analysis of periodicity of extinction using the 2012 geological timescale. Paleobiology 40:177–96 Metcalfe I, Nicoll RS, Willink R, Ladjavadi M, Grice K. 2013. Early Triassic (Induan–Olenekian) conodont biostratigraphy, global anoxia, carbon isotope excursions and environmental perturbations: new data from Western Australian Gondwana. Gondwana Res. 23:1136–50 Metzger P, Casadevall E, Pouet MJ, Pouet Y. 1985. Structures of some botryococcenes: branched hydrocarbons from the B race of the green alga Botryococcus braunii. Phytochemistry 24:2995–3002 Metzger P, Largeau C. 1999. Chemicals of Botryococcus braunii. In Chemicals from Microalgae, ed. Z Cohen, pp. 205–60. London: Taylor and Francis Meyer KM, Kump LR, Ridgwell A. 2008. Biogeochemical controls on photic-zone euxinia during the endPermian mass extinction. Geology 36:747–50 Moldowan JM, Dahl JEP, Huizinga BJ, Fago FJ, Hickey LJ, et al. 1994. The molecular fossil record of oleanane and its relation to angiosperms. Science 265:768–71 Moldowan JM, Fago FJ, Lee CY, Jacobson SR, Watt DS, et al. 1990. Sedimentary 24-n-propylcholestanes, molecular fossils diagnostic of marine algae. Science 247:309–12 Moldowan JM, Talyzina NM. 1998. Biogeochemical evidence for dinoflagellate ancestors in the Early Cambrian. Science 281:1168–70 Molina E, Arenillas I, Arz JA. 1998. Mass extinction in planktic foraminifera at the Cretaceous/Tertiary boundary in subtropical and temperate latitudes. Bull. Soc. Geol. Fr. 169:351–63 Murphy AE, Sageman BB, Hollander DJ. 2000. Eutrophication by decoupling of the marine biogeochemical cycles of C, N and P: a mechanism for the Late Devonian mass extinction. Geology 28:427–30 Nabbefeld B, Grice K, Schimmelmann A, Sauer PE, Böttcher ME, Twitchett RJ. 2010a. Significance of δDkerogen, δ13Ckerogen and δ34Spyrite from several Permian/Triassic (P/Tr) sections. Earth Planet. Sci. Lett. 295:21–29\nwww.annualreviews.org • Biomarkers and Mass Extinction Events 607\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nNabbefeld B, Grice K, Schimmelmann A, Summons R, Troitzsch U, Twitchett R. 2010b. A comparison of thermal maturity parameters between freely extracted hydrocarbons (Bitumen I) and a second extract (Bitumen II) from within the kerogen matrix of Permian and Triassic sedimentary rocks. Org. Geochem. 41:78–87 Nabbefeld B, Grice K, Summons R, Hays L, Cao C. 2010c. Significance of polycyclic aromatic hydrocarbons (PAHs) in Permian/Triassic boundary sections. Appl. Geochem. 25:1374–82 Nabbefeld B, Grice K, Twitchett R, Summons R, Hays L, et al. 2010d. An integrated biomarker, isotopic and palaeoenvironmental study through the Late Permian event at Lusitaniadalen, Spitsbergen. Earth Planet. Sci. Lett. 291:84–96 Naeher S, Grice K. 2015. Novel 1H-pyrrole-2,5-dione (maleimide) proxies for the assessment of photic zone euxinia. Chem. Geol. 404:100–9 Newell ND. 1967. Paraconformities. In Essays in Paleontology and Stratigraphy: R.C. Moore Commemorative Volume, ed. C Teichert, EL Yochelson, pp. 349–67. Lawrence: Univ. Kansas Press Newton RJ, Pevitt EL, Wignall PB, Bottrell SH. 2004. Large shifts in the isotopic composition of seawater sulphate across the Permo-Triassic boundary in northern Italy. Earth Planet. Sci. Lett. 218:331–45 Nichols PD, Volkman JK, Palmisano AC, Smith GA, White DC. 1988. Occurrence of an isoprenoid C25 di-unsaturated alkene and high neutral lipid content in Antarctic sea-ice diatom communities. J. Phycol. 24:90–96 Noble RA, Alexander R, Kagi RI, Knox J. 1985. Tetracyclic diterpenoid hydrocarbons in some Australian coals, sediments and crude oils. Geochim. Cosmochim. Acta 49:2141–47 Olsen PE, Kent DV, Sues HD, Koeberl C, Huber H, et al. 2002. Ascent of dinosaurs linked to an iridium anomaly at the Triassic-Jurassic boundary. Science 296:1305–7 Ourisson G, Albrecht P. 1992. Hopanoids. 1. Geohopanoids: the most abundant natural products on Earth? Acc. Chem. Res. 25:398–402 Pálfy J, Demény A, Haas J, Hetényi M, Orchard MJ, Veto I. 2001. Carbon isotope anomaly and other geochemical changes at the Triassic-Jurassic boundary from a marine section in Hungary. Geology 29:1047–50 Pancost RD, Crawford N, Maxwell JR. 2002. Molecular evidence for basin-scale photic zone euxinia in the Permian Zechstein sea. Chem. Geol. 188:217–27 Pancost RD, Freeman KH, Patzkowsky ME, Wavrek DA, Collister JW. 1998. Molecular indicators of redox and marine photoautotroph composition in the late Middle Ordovician of Iowa, USA. Org. Geochem. 29:1649–62 Payne JL, Clapham ME. 2012. End-Permian mass extinction in the oceans: an ancient analog for the twentyfirst century? Annu. Rev. Earth Planet. Sci. 40:89–111 Payne JL, Groves JR, Jost AB, Nguyen T, Myhre S, et al. 2012. Late Paleozoic fusulinoidean gigantism driven by atmospheric hyperoxia. Evolution 66:2929–39 Payne JL, Kump LR. 2007. Evidence for recurrent Early Triassic massive volcanism from quantitative interpretation of carbon isotope fluctuations. Earth Planet. Sci. Lett. 256:264–77 Pearson A, Budin M, Brocks JJ. 2003. Phylogenetic and biochemical evidence for sterol synthesis in the bacterium Gemmata obscuriglobus. PNAS 100:15352–57 Peters KE, Clark ME, Das Gupta U, McCaffrey MA, Lee CY. 1995. Recognition of an Infracambrian source rock based on biomarkers in the Baghewala-1 Oil, India. AAPG Bull. 79:1481–94 Peters KE, Walters CC, Moldowan JM. 2004. The Biomarker Guide. Cambridge, UK: Cambridge Univ. Press Playford PE, Hocking RM, Cockbain AE. 2009. Devonian reef complexes of the Canning Basin. Geol. Surv.\nWest. Aust. Bull. 145:1–444 Pospichal JJ, Wise SW. 1990. Calcareous nannofossils across the K/T boundary, ODP Hole 690C, Maud\nRise, Weddell Sea. Proc. Ocean Drill. Program Sci. Results 113:515–32 Putschew A, Schaeffer P, Schaeffer-Reiss C, Maxwell JR. 1998. Carbon isotope characteristic of the diaromatic\ncarotenoid, isorenieratene (intact and sulfide bound) and a novel isomer in sediments. Org. Geochem. 28:1849–56 Racki G. 2005. Toward understanding Late Devonian global events: few answers, many questions. Dev. Paleontol. Stratigr. 20:5–36 Rashby SE, Sessions AL, Summons RE, Newman DK. 2007. Biosynthesis of 2-methylbacteriohopanepolyols by an anoxygenic phototroph. PNAS 104:15099–104\n608 Whiteside · Grice\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nRatti S, Knoll AH, Giordano M. 2011. Did sulfate availability facilitate the evolutionary expansion of chlorophyll a+c phytoplankton in the oceans? Geobiology 9:301–12 Requejo AG, Allan J, Creaney S, Gray NR, Cole KS. 1992. Aryl isoprenoids and diaromatic carotenoids in Paleozoic source rocks and oils from the Western Canada and Williston Basins. Org. Geochem. 19:245–64 Richoz S, van de Schootbrugge B, Pross J, Püttmann W, Quan TM, et al. 2012. Hydrogen sulphide poisoning of shallow seas following the end-Triassic extinction. Nat. Geosci. 5:662–67 Robinson N, Eglinton G, Brassell SC. 1984. Dinoflagellate origin for sedimentary 4α-methylsteroids and 5α(H)-stanols. Nature 308:439–42 Rohmer M, Bouvier-Navé P, Ourisson G. 1984. Distribution of hopanoid triterpenes in prokaryotes. J. Gen. Microbiol. 130:1137–50 Rohrssen M, Love GD, Fischer W, Finnegan S, Fike DA. 2012. Lipid biomarkers record fundamental changes in the microbial community structure of tropical seas during the Late Ordovician Hirnantian glaciation. Geology 41:127–30 Sahney S, Benton MJ, Ferry PA. 2010. Links between global taxonomic diversity, ecological diversity and the expansion of vertebrates on land. Biol. Lett. 6:544–47 Saltzman MR. 2005. Phosphorus, nitrogen, and the redox evolution of the Paleozoic oceans. Geology 33:573–76 Sandberg CA, Morrow JR, Ziegler W. 2002. Late Devonian sea-level changes, catastrophic events, and mass\nextinctions. Geol. Soc. Am. Spec. Pap. 356:473–87 Schaeffer P, Adam P, Wehrung P, Albrecht P. 1997. Novel aromatic carotenoid derivatives from sulphur\nphotosynthetic bacteria in sediments. Tetrahedron Lett. 38:8413–16 Schmieder M, Buchner E, Schwarz WH, Trieloff M, Lambert P. 2010. A Rhaetian 40Ar/39Ar age for the\nRochechouart impact structure (France) and implications for the latest Triassic sedimentary record. Meteorit. Planet. Sci. 45:1225–242 Schoene B, Guex J, Bartolini A, Schaltegger U, Blackburn T. 2010. Correlating the end-Triassic mass extinction and flood basalt volcanism at the 100,000-year level. Geology 38:387–90 Schouten S, Klein Breteler WCM, Blokker P, Schogt N, Rijpstra WIC, et al. 1998. Biosynthetic effects on the stable carbon isotopic compositions of algal lipids: implications for deciphering the carbon isotopic biomarker record. Geochim. Cosmochim. Acta 62:1397–406 Schouten S, van der Maarel MJ, Huber R, Sinninghe Damsté JS. 1997. 2,6,10,15,19-Pentamethylicosenes in Methanolobus bombayensis, a marine methanogenic archaeon, and in Methanosarcina mazei. Org. Geochem. 26:409–14 Schulte P, Alegret L, Arenillas I, Arz JA, Barton PJ, et al. 2010. The Chicxulub asteroid impact and mass extinction at the Cretaceous-Paleogene boundary. Science 327:1214–18 Schwab V, Spangenberg JE. 2007. Molecular and isotopic characterization of biomarkers in the Frick Swiss Jura sediments: a palaeoenvironmental reconstruction on the northern Tethys margin. Org. Geochem. 28:419–39 Sephton MA, Looy CV, Brinkhuis H, Wignall PB, de Leeuw JW, Visscher H. 2005. Catastrophic soil erosion during the end-Permian biotic crisis. Geology 33:941–44 Sephton MA, Visscher H, Looy CV, Verchovsky AB, Watson JS. 2009. Chemical constitution of a PermianTriassic disaster species. Geology 37:875–78 Sepkoski JJ Jr. 1981. A factor analytic description of the Phanerozoic marine fossil record. Paleobiology 7:36–53 Sepkoski JJ Jr. 1986. Phanerozoic overview of mass extinction. In Patterns and Processes in the History of Life,\ned. DM Raup, D Jablonski, pp. 277–95. Berlin: Springer Verlag Sepkoski JJ Jr. 1993. Ten years in the library: New data confirm paleontological patterns. Paleobiology 19:43–51 Sepkoski JJ Jr. 1996. Patterns of Phanerozoic extinction: a perspective from global databases. In Global Events\nand Event Stratigraphy in the Phanerozoic, ed. O Walliser, pp. 35–51. Berlin: Springer Verlag Sepúlveda J, Wendler JE, Summons RE, Hinrichs KU. 2009. Rapid resurgence of marine productivity after\nthe Cretaceous-Paleogene mass extinction. Science 326:129–32 Sheehan PM. 2001. The Late Ordovician mass extinction. Annu. Rev. Earth Planet. Sci. 29:331–64 Shen SZ, Crowley JL, Wang Y, Bowring SA, Erwin DH, et al. 2011. Calibrating the end-Permian mass\nextinction. Science 334:1367–72 Shiea J, Brassell SC, Ward DM. 1990. Mid-chain branched mono- and dimethyl alkanes in hot spring cyanobac-\nterial mats: a direct biogenic source for branched alkanes in ancient sediments? Org. Geochem. 15:223–31\nwww.annualreviews.org • Biomarkers and Mass Extinction Events 609\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nSimoneit BRT, Lein AY, Peresypkin VI, Osipov GA. 2004. Composition and origin of hydrothermal petroleum and associated lipids in the sulfide deposits of the Rainbow field (Mid-Atlantic Ridge at 36◦N). Geochim. Cosmochim. Acta 68:2275–94 Simons DJH, Kenig F. 2001. Molecular fossil constraints on the water column structure of the CenomanianTuronian western interior seaway, USA. Palaeogeogr. Palaeoclimatol. Palaeoecol. 169:129–52 Sinninghe Damsté JS, Kenig F, Koopmans MP, Köster J, Schouten S, et al. 1995. Evidence for gammacerane as an indicator of water column stratification. Geochim. Cosmochim. Acta 59:1895–900 Sinninghe Damsté JS, Kock–van Dalen AC, de Leeuw JW. 1988. Identification of long-chain isoprenoid alkylbenzenes in sediments and crude oils. Geochim. Cosmochim. Acta 52:2671–77 Sinninghe Damsté JS, Rijpstra WIC, Schouten S, Fuerst JA, Jetten MSM, Strous M. 2004. The occurrence of hopanoids in planctomycetes: implications for the sedimentary biomarker record. Org Geochem. 35:561–66 Sinninghe Damsté JS, Schouten S, van Duin ACT. 2001. Isorenieratene derivatives in sediments: possible controls on their distribution. Geochim. Cosmochim. Acta 65:1557–71 Smit J. 1982. Extinction and evolution of planktonic foraminifera after a major impact at the Cretaceous/ Tertiary boundary. Geol. Soc. Am. Spec. Pap. 190:329–52 Stott LD, Kennett JP. 1990. Antarctic Paleogene planktonic foraminifer biostratigraphy: ODP Leg 113, Sites 689 and 690. Proc. Ocean Drill. Program Sci. Results 113:549–69 Summons RE, Jahnke LL. 1992. Hopenes and hopanes methylated in ring-A: correlation of the hopanoids from extant methylotrophic bacteria with their fossil analogues. In Biological Markers in Sediments and Petroleum, ed. JM Moldowan, P Albrecht, RP Philp, pp. 182–200. Englewood Cliffs, NJ: Prentice Hall Summons RE, Jahnke LL, Hope JM, Logan GA. 1999. 2-Methylhopanoids as biomarkers for cyanobacterial oxygenic photosynthesis. Nature 400:554–57 Summons RE, Love GD, Hays L, Cao C, Jin Y, et al. 2006. Molecular evidence for prolonged photic zone euxinia at the Meishan and East Greenland sections of the Permian Triassic Boundary. Geochim. Cosmochim. Acta 70:625 (Abstr.) Summons RE, Metzger P, Largeau C, Murray AP, Hope JM. 2002. Polymethylsqualanes from Botryococcus braunii in lacustrine sediments and oils. Org. Geochem. 33:99–109 Summons RE, Powell TG. 1986. Chlorobiaceae in Palaeozoic seas revealed by biological markers, isotopes and geology. Nature 319:763–65 Summons RE, Powell TG. 1987. Identification of aryl isoprenoids in source rocks and crude oils: biological markers for the green sulphur bacteria. Geochim. Cosmochim. Acta 51:557–66 Summons RE, Powell TG. 1992. Hydrocarbon composition of the late Proterozoic oils of the Siberian platform: implications for the depositional environment of source rocks. In Early Organic Evolution: Implications for Mineral and Energy Resources, ed. M Schidlowski, S Golubic, MM Kimberley, DM McKirdy, PA Trudinger, pp. 296–307. Berlin: Springer ten Haven HL, Rohmer M, Rullkötter J, Bisseret P. 1989. Tetrahymanol, the most likely precursor of gammacerane, occurs ubiquitously in marine sediments. Geochim. Cosmochim. Acta 53:3073–79 Thiel V, Peckmann J, Seifert R, Wehrung P, Reitner J, Michaelis W. 1999. Highly isotopically depleted isoprenoids: molecular markers for ancient methane venting. Geochim. Cosmochim. Acta 63:3959–66 Thomas BM, Barber CJ. 2004. A re-evaluation of the hydrocarbon habitat of the northern Perth Basin. APPEA J. 44:13–57 Thomas BM, Willink RJ, Grice K, Twitchett RJ, Purcell RR, et al. 2004. Unique marine Permian–Triassic boundary section from Western Australia. Aust. J. Earth Sci. 51:423–30 Thomas E. 1990a. Late Cretaceous–early Eocene mass extinctions in the deep sea. Geol. Soc. Am. Spec. Publ. 247:481–95 Thomas E. 1990b. Late Cretaceous through Neogene deep-sea benthic foraminifers (Maud Rise, Weddell Sea, Antarctica). Proc. Ocean Drill. Program Sci. Results 113:571–94 Tissot BP, Welte DH. 1984. Petroleum Formation and Occurrence. Berlin: Springer Tulipani S, Grice K, Greenwood PF, Haines P, Sauer PE, et al. 2015a. Changes of palaeoenvironmental con-\nditions recorded in Late Devonian reef systems from the Canning Basin, Western Australia: a biomarker and stable isotope approach. Gondwana Res. 28:1500–15 Tulipani S, Grice K, Greenwood PF, Schwark L, Bottcher ME, et al. 2015b. Molecular proxies as indicators of freshwater incursion-driven salinity stratification. Chem. Geol. 409:61–68\n610 Whiteside · Grice\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nTwitchett RJ. 1999. Palaeoenvironments and faunal recovery after the end-Permian mass extinction. Palaeogeogr. Palaeoclimatol. Palaeoecol. 154:27–37 Twitchett RJ, Looy CV, Morante R, Visscher H, Wignall PB. 2001. Rapid and synchronous collapse of marine and terrestrial ecosystems during the end-Permian biotic crisis. Geology 29:351 van Aarssen BGK, Quanxing Z, de Leeuw JW. 1992. An unusual distribution of bicadinanes, tricadinanes and oligocadinanes in sediments from the Yacheng gas field, China. Org. Geochem. 18:805–12 van de Schootbrugge B, Quan TM, Lindström S, Püttmann W, Heunich C, et al. 2009. Floral changes across the Triassic/Jurassic boundary linked to flood basalt volcanism. Nat. Geosci. 2:589–94 van de Schootbrugge B, Tremolada F, Rosenthal Y, Bailey TR, Feist-Burkhardt S, et al. 2007. End-Triassic calcification crisis and blooms of organic-walled ‘disaster species.’ Palaeogeogr. Palaeoclimatol. Palaeoecol. 244:126–41 Venkatesan MI, Dahl J. 1989. Organic geochemical evidence for global fires at the Cretaceous/Tertiary boundary. Nature 338:57–60 Vilhena DA, Harris EB, Bergstrom CT, Maliska ME, Ward PD, et al. 2013. Bivalve network reveals latitudinal selectivity gradient at the end-Cretaceous mass extinction. Sci. Rep. 3:1790 Vink A, Schouten S, Sephton S, Sinninghe Damsté JS. 1998. A newly discovered norisoprenoid, 2,6,15,19- tetramethylicosane, in Cretaceous black shales. Geochim. Cosmochim. Acta 62:965–70 Visscher H, Brinkhuis H, Dilcher DL, Elsik WC, Eshet Y, et al. 1996. The terminal Paleozoic fungal event: evidence of terrestrial ecosystem destabilization and collapse. PNAS 93:2155–58 Volkman JK. 2003. Sterols in microorganisms. Appl. Microbiol. Biotechnol. 60:496–506 Volkman JK, Barrett SM, Blackburn SI, Mansour MP, Sikes EL, Gelin F. 1998. Microalgal biomarkers: a\nreview of recent research developments. Org. Geochem. 29:1163–79 Volkman JK, Barrett SM, Dunstan GA. 1994. C25 and C30 highly branched isoprenoid alkanes in laboratory\ncultures of two marine diatoms. Org. Geochem. 21:407–13 Volkman JK, Barrett SM, Dunstan GA, Jeffrey SW. 1993. Geochemical significance of the occurrence of\ndinosterol and other 4-methyl sterols in a marine diatom. Org. Geochem. 20:7–15 Walliser OH. 1996. Global events in the Devonian and Carboniferous. In Global Events and Event Stratigraphy\nin the Phanerozoic, ed. OH Walliser, pp. 225–50. Berlin: Springer Verlag Wang C, Visscher H. 2007. Abundance anomalies of aromatic biomarkers in the Permian–Triassic boundary\nsection at Meishan, China—evidence of end-Permian terrestrial ecosystem collapse. Palaeogeogr. Palaeoclimatol. Palaeoecol. 252:291–303 Wang NZ, Zhang X, Zhu M, Zhao WJ. 2009. A new articulated hybodontoid from Late Permian of northwestern China. Acta Zool. 90:159–70 Wang TG, Simoneit BRT. 1995. Tricyclic terpanes in Precambrian bituminous sandstone from the eastern Yanshan region, North China. Chem. Geol. 120:155–70 Ward PD, Garrison G, Haggart J, Kring DA, Beattie MJ. 2004. Isotopic evidence bearing on Late Triassic extinction events, Queen Charlotte Islands, British Columbia, and implications for the duration and cause of the Triassic/Jurassic mass extinction. Earth Planet. Sci. Lett. 224:589–600 Ward PD, Haggart JW, Carter ES, Wilbur D, Tipper HW, Evans T. 2001. Sudden productivity collapse associated with the Triassic-Jurassic boundary mass extinction. Science 292:1148–51 Watson JS, Sephton MA, Looy CV, Gilmour I. 2005. Oxygen-containing aromatic compounds in a Late Permian sediment. Org. Geochem. 36:371–84 Webby BD, Paris F, Droser ML, Percival IG. 2004. The Great Ordovician Biodiversification Event. New York: Columbia Univ. Press Whiteside JH, Olsen PE, Eglinton T, Brookfield ME, Sambrotto RN. 2010. Compound-specific carbon isotopes from Earth’s largest flood basalt eruptions directly linked to the end-Triassic mass extinction. PNAS 107:6721–25 Wiese F, Reitner J. 2011. Critical intervals in Earth’s history. In Encyclopedia of Geobiology, ed. V Thiel, J Reitner, pp. 293–306. Heidelberg, Ger.: Springer Wignall PB. 2001. Sedimentology of the Triassic-Jurassic boundary beds in Pinhay Bay (Devon, SW England). Proc. Geol. Assoc. 112:349–60 Wignall PB. 2007. The End-Permian mass extinction—how bad did it get? Geobiology 5:303–9\nwww.annualreviews.org • Biomarkers and Mass Extinction Events 611\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nWignall PB, Twitchett RJ. 2002. Extent, duration, and nature of the Permian-Triassic superanoxic event. Geol. Soc. Am. Spec. Pap. 356:395–413 Williford KH, Grice K, Holman A, McElwain J. 2014. An organic record of terrestrial ecosystem collapse and recovery at the Triassic–Jurassic boundary in East Greenland. Geochim. Cosmochim. Acta 127:251–63 Williford KH, Grice K, Logan GA, Chen J, Huston D. 2011. The molecular and isotopic effects of hydrothermal alteration of organic matter in the Paleoproterozoic McArthur River Pb/Zn/Ag ore deposit. Earth Planet. Sci. Lett. 301:382–92 Williford KH, Ward PD, Garrison GH, Buick R. 2007. An extended stable organic carbon isotope record across the Triassic–Jurassic boundary in the Queen Charlotte Islands, British Columbia, Canada. Palaeogeogr. Palaeoclimatol. Palaeoecol. 244:290–96 Witzke BJ. 1987. Models for circulation patterns in epicontinental seas applied to Paleozoic facies of North American craton. Paleoceanography 2:229–48 Wolbach WS, Gilmour I, Anders E. 1990. Major wildfires at the K-T boundary. Geol. Soc. Am. Spec. Pap. 247:391–400 Wolbach WS, Widicus S, Kyte FT. 2003. A search for soot from global wildfires in central Pacific CretaceousTertiary boundary and other extinction and impact horizon sediments. Astrobiology 3:91–97 Xie S, Pancost RD, Huang J, Wignall PB, Yu J, et al. 2007. Changes in the global carbon cycle occurred as two episodes during the Permian–Triassic crisis. Geology 35:1083–86 Zundel M, Rohmer M. 1985a. Hopanoids of the methylotrophic bacteria Methylococcus capsulatus and Methylomonas sp. as possible precursors for the C29 and C30 hopanoid chemical fossils. FEMS Microbiol. Lett. 28:61–64 Zundel M, Rohmer M. 1985b. Prokaryotic triterpenoids. 1. 3-Methylhopanoids from Acetobacter sp. and Methylococcus capsulatus. Eur. J. Biochem. 150:23–27 Zundel M, Rohmer M. 1985c. Prokaryotic triterpenoids. 3. The biosynthesis of 2b-methylhopanoids and 3b-methylhopanoids of Methylobacterium organophilum and Acetobacter pasteurianus spp. pasteurianus. Eur. J. Biochem. 150:35–39\n612 Whiteside · Grice\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y.\nAnnual Review of Earth and Planetary Sciences\nVolume 44, 2016Contents"
+  }, {
+    "heading": "Tektites, Apollo, the Crust, and Planets: A Life with Trace Elements",
+    "text": "Stuart Ross Taylor 1"
+  }, {
+    "heading": "Environmental Detection of Clandestine Nuclear Weapon Programs",
+    "text": "R. Scott Kemp 17"
+  }, {
+    "heading": "From Tunguska to Chelyabinsk via Jupiter",
+    "text": "Natalia A. Artemieva and Valery V. Shuvalov 37"
+  }, {
+    "heading": "The Lakes and Seas of Titan",
+    "text": "Alexander G. Hayes 57"
+  }, {
+    "heading": "Inference of Climate Sensitivity from Analysis of Earth’s Energy Budget",
+    "text": "Piers M. Forster 85"
+  }, {
+    "heading": "Ocean Basin Evolution and Global-Scale Plate Reorganization Events",
+    "text": "Since Pangea Breakup R. Dietmar Müller, Maria Seton, Sabin Zahirovic, Simon E. Williams,\nKara J. Matthews, Nicky M. Wright, Grace E. Shephard, Kayla T. Maloney, Nicholas Barnett-Moore, Maral Hosseinpour, Dan J. Bower, and John Cannon 107"
+  }, {
+    "heading": "Lithification Mechanisms for Planetary Regoliths: The Glue that Binds",
+    "text": "John G. Spray 139"
+  }, {
+    "heading": "Forensic Stable Isotope Biogeochemistry",
+    "text": "Thure E. Cerling, Janet E. Barnette, Gabriel J. Bowen, Lesley A. Chesson,\nJames R. Ehleringer, Christopher H. Remien, Patrick Shea, Brett J. Tipple, and Jason B. West 175"
+  }, {
+    "heading": "Reconstructing Ocean pH with Boron Isotopes in Foraminifera",
+    "text": "Gavin L. Foster and James W.B. Rae 207"
+  }, {
+    "heading": "Sun, Ocean, Nuclear Bombs, and Fossil Fuels: Radiocarbon Variations",
+    "text": "and Implications for High-Resolution Dating Koushik Dutta 239"
+  }, {
+    "heading": "Climate Sensitivity in the Geologic Past",
+    "text": "Dana L. Royer 277\nix\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y."
+  }, {
+    "heading": "Redox Effects on Organic Matter Storage in Coastal Sediments During",
+    "text": "the Holocene: A Biomarker/Proxy Perspective Thomas S. Bianchi, Kathryn M. Schreiner, Richard W. Smith, David J. Burdige,\nStella Woodard, and Daniel J. Conley 295"
+  }, {
+    "heading": "Fracking in Tight Shales: What Is It, What Does It Accomplish, and",
+    "text": "What Are Its Consequences? J. Quinn Norris, Donald L. Turcotte, Eldridge M. Moores, Emily E. Brodsky,\nand John B. Rundle 321"
+  }, {
+    "heading": "The Climate of Titan",
+    "text": "Jonathan L. Mitchell and Juan M. Lora 353"
+  }, {
+    "heading": "The Climate of Early Mars",
+    "text": "Robin D. Wordsworth 381"
+  }, {
+    "heading": "The Evolution of Brachiopoda",
+    "text": "Sandra J. Carlson 409"
+  }, {
+    "heading": "Permafrost Meta-Omics and Climate Change",
+    "text": "Rachel Mackelprang, Scott R. Saleska, Carsten Suhr Jacobsen, Janet K. Jansson,\nand Neslihan Taş 439"
+  }, {
+    "heading": "Triple Oxygen Isotopes: Fundamental Relationships and Applications",
+    "text": "Huiming Bao, Xiaobin Cao, and Justin A. Hayles 463"
+  }, {
+    "heading": "Cellular and Molecular Biological Approaches to Interpreting Ancient",
+    "text": "Biomarkers Dianne K. Newman, Cajetan Neubauer, Jessica N. Ricci, Chia-Hung Wu,\nand Ann Pearson 493"
+  }, {
+    "heading": "Body Size Evolution Across the Geozoic",
+    "text": "Felisa A. Smith, Jonathan L. Payne, Noel A. Heim, Meghan A. Balk,\nSeth Finnegan, Michał Kowalewski, S. Kathleen Lyons, Craig R. McClain, Daniel W. McShea, Philip M. Novack-Gottshall, Paula Spaeth Anich, and Steve C. Wang 523"
+  }, {
+    "heading": "Nuclear Forensic Science: Analysis of Nuclear Material Out of",
+    "text": "Regulatory Control Michael J. Kristo, Amy M. Gaffney, Naomi Marks, Kim Knight, William S. Cassata,\nand Ian D. Hutcheon 555"
+  }, {
+    "heading": "Biomarker Records Associated with Mass Extinction Events",
+    "text": "Jessica H. Whiteside and Kliti Grice 581"
+  }, {
+    "heading": "Impacts of Climate Change on the Collapse of Lowland Maya",
+    "text": "Civilization Peter M.J. Douglas, Arthur A. Demarest, Mark Brenner, and Marcello A. Canuto 613\nx Contents\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y."
+  }, {
+    "heading": "Evolution of Oxygenic Photosynthesis",
+    "text": "Woodward W. Fischer, James Hemp, and Jena E. Johnson 647"
+  }, {
+    "heading": "Crustal Decoupling in Collisional Orogenesis: Examples from the East",
+    "text": "Greenland Caledonides and Himalaya K.V. Hodges 685"
+  }, {
+    "heading": "Mass Fractionation Laws, Mass-Independent Effects, and Isotopic",
+    "text": "Anomalies Nicolas Dauphas and Edwin A. Schauble 709"
+  }, {
+    "heading": "Indexes",
+    "text": "Cumulative Index of Contributing Authors, Volumes 35–44 785\nCumulative Index of Article Titles, Volumes 35–44 790"
+  }, {
+    "heading": "Errata",
+    "text": "An online log of corrections to Annual Review of Earth and Planetary Sciences articles may be found at http://www.annualreviews.org/errata/earth\nContents xi\nA nn\nu. R\nev . E\nar th\nP la\nne t.\nSc i.\n20 16\n.4 4:\n58 1-\n61 2.\nD ow\nnl oa\nde d\nfr om\nw w\nw .a\nnn ua\nlr ev\nie w\ns. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na - L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y."
+  }],
+  "year": 2019,
+  "references": [{
+    "title": "The identities, isomeric arrangements, and stable isotopic compositions of biomarkers have been widely used in studies of oils and sedimentary organic matter to assess the source of organic matter, provide paleoenvironmental depositional information (Peters et",
+    "authors": ["Eukaryota", "Bacteria", "Archaea (e.g", "Peters"],
+    "venue": "Brocks",
+    "year": 2004
+  }, {
+    "title": "rine and 70% of terrestrial species",
+    "authors": ["Erwin"],
+    "venue": "South China (Burgess et al",
+    "year": 2014
+  }, {
+    "title": "numerous sequences located in South China dated the EPE as a single event",
+    "authors": ["Ma (Shen"],
+    "year": 2000
+  }, {
+    "title": "EPE—in particular, an improved understanding of the patterns and timing of the extinction, the rapid and synchronous shifts in the global biogeochemical cycles operating in the oceans and atmosphere, the possible triggers and kill mechanisms, and the existence of a prolonged recovery phase",
+    "authors": ["Knoll"],
+    "venue": "(Grice et al. 2005a,b; Kump et al",
+    "year": 2005
+  }, {
+    "title": "attributed to the release of large amounts of CO2 from the eruption of the Siberian Traps LIP",
+    "authors": ["e.g", "Payne"],
+    "venue": "(Kamo et al",
+    "year": 2012
+  }, {
+    "title": "The first appearance of the conodont Hindeodus parvus (the index fossil) and the bivalve Claria (supporting low oxygen levels) marks the Lower Triassic (Twitchett",
+    "authors": ["Luo"],
+    "venue": "(Looy et al",
+    "year": 1999
+  }, {
+    "title": "Late Permian terrestrial plants",
+    "authors": ["Fenton"],
+    "venue": "(Xie et al",
+    "year": 2007
+  }, {
+    "title": "High amounts of combustion-derived PAHs [pyrene (Figure 5, structure XI), fluoranthene (structure XII), benzo[a]anthracene (structure XIII), benzofluoranthenes (e.g., structure XIV), benzo[a]pyrene (structure XV), benzo[e]pyrene (structure XVI), and coronene (structure X)] are abundant in bed 25 of GSSP, which contains ash probably sourced from the Siberian Traps",
+    "authors": ["Grasby"],
+    "year": 2011
+  }, {
+    "title": "Similar conditions also occurred during the LDE (Maslen et al",
+    "authors": ["Metcalfe"],
+    "venue": "Melendez et al. 2013a,b; Tulipani et al",
+    "year": 2013
+  }, {
+    "title": "The δ13C values of the biomarkers pristane (Figure 5, structure XVIII) and phytane (structure",
+    "authors": ["Early Triassic (e.g", "Foster"],
+    "venue": "Thomas et al",
+    "year": 1997
+  }, {
+    "title": "In contrast, the δ13C values of C14−18 n-alkyl lipids have multiple inputs, including a variety of primary producers and heterotrophic organisms. If the n-alkyl lipids are derived from primary sources, they are on average depleted in 13C by 1.5 per mil compared with isoprenoids",
+    "authors": ["euphotic zone (e.g", "Schouten"],
+    "year": 1998
+  }, {
+    "title": "2005c). The C33 alkylcyclohexane is likely derived from a unique marine organism that bloomed in the extinction aftermath and was probably the basis of the food",
+    "authors": ["facies type (Grice"],
+    "year": 2005
+  }, {
+    "title": "America has been interpreted as evidence for a bolide impact (Olsen et al. 2002), but converging lines of globally distributed evidence for an impact are lacking. However, the Rochechouart impact",
+    "authors": ["Schmieder"],
+    "year": 2010
+  }, {
+    "title": "Instead, one of the most extensive LIPs, the Central Atlantic Magmatic Province, has been linked to the ETE (Marzoli et",
+    "authors": ["Whiteside"],
+    "year": 1999
+  }, {
+    "title": "δ13Corg excursion, termed the initial carbon isotope excursion, considered by most to be a global marker recording perturbation to the global exchangeable carbon reservoirs. This horizon has been identified in marine strata (Ward et al",
+    "authors": ["Williford"],
+    "venue": "Williford et al. 2007; Pálfy et al",
+    "year": 2001
+  }, {
+    "title": "coronene-to-benzo[a]pyrene ratios [up",
+    "authors": ["de Schootbrugge"],
+    "venue": "(Williford et al",
+    "year": 2009
+  }, {
+    "title": "Anomalously high concentrations of the resin occur exclusively in samples from the boundary bed, signifying that environmental stress factors leading to peak plant extinction and intensified resin production developed at that time",
+    "authors": ["Williford"],
+    "venue": "ARI",
+    "year": 2016
+  }, {
+    "title": "also reported a bloom of trilete spores from land plants concurrent with the prasinophyte bloom. This was interpreted to represent coupled changes in marine and terrestrial realms driven by the same forcing mechanism and is consistent with the notion that global warming was a major driver of environmental disruption during the ETE in both marine and terrestrial settings. Geochemical and paleontological data from Roswinkel, Luxemburg",
+    "authors": ["ruption. Haas"],
+    "year": 2010
+  }, {
+    "title": "demonstrate a shift from oxygenated shales in the late Rhaetian to anoxic shales with abundant evidence for the occurrence of PZE in the Hettangian. These euxinic depositional conditions coincide with increased prasinophyte dominance, consistent with a nutrient disruption scenario, and are similar in chronology to the record from the open-ocean Kennecott Point section (Kasprak",
+    "authors": ["Mingolsheim", "Mariental", "Germany (Richoz"],
+    "year": 2012
+  }, {
+    "title": "The expansion of terrestrial vegetation and the associated higher nutrient input from enhanced weathering and soil formation may have further contributed to widespread anoxia and eutrophication in Late Devonian oceans; these phenomena in particular have been linked to the F-F extinction",
+    "authors": ["Murphy"],
+    "venue": "Courtillot",
+    "year": 2000
+  }, {
+    "title": "further influence on nitrogen limitation is possible in lower Paleozoic marine settings. Limitation of nutrients potentially caused a switch to phosphorus limitation in intervals characterized by carbon isotope variability and perhaps cooler global conditions",
+    "authors": ["inhibits nitrification (Beman"],
+    "year": 2011
+  }, {
+    "title": "species), including planktic foraminifera (Smit",
+    "authors": ["Stott", "Kennett", "Liu", "Olsson", "Berggren", "Norris", "Molina"],
+    "venue": "Bown",
+    "year": 1990
+  }, {
+    "title": "escaped extinction. The K-Pg boundary is characterized by a sudden 1–3 negative excursion in δ13C. This can be interpreted as a collapse of the surface-to-bottom δ13C gradient, indicative of a major alteration in marine primary productivity levels and the biological pump. The δ13C gradient did not fully recover until hundreds of thousands to a few million years after the extinction",
+    "authors": ["ostracodes (e.g", "Majoran"],
+    "venue": "Boomer",
+    "year": 1997
+  }, {
+    "title": "1995) are also consistent with widespread wildfires during this time interval. However, a global distribution of wildfire is most reliably indicated by the presence of soot and charcoal in deep-sea K-Pg sections [e.g., Deep Sea Drilling Project (DSDP) Site 465 in the central Pacific; www.annualreviews.org",
+    "authors": ["Becker"],
+    "year": 1995
+  }, {
+    "title": "2003], where a location far from terrestrial sources provides firm evidence for the widespread atmospheric transport of terrestrially derived combustion products at that time",
+    "authors": ["Wolbach"],
+    "year": 2003
+  }, {
+    "title": "Cretaceous/Paleogene boundary bathyal paleo-environments in the central",
+    "authors": ["L Alegret", "E. Thomas"],
+    "year": 2005
+  }, {
+    "title": "Evidence for a diachronous Late",
+    "authors": ["T Algeo", "CM Henderson", "B Ellwood", "H Rowe", "E Elswick"],
+    "venue": "the benthic foraminiferal record. Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2012
+  }, {
+    "title": "Anomalous Early Triassic sediment fluxes due to elevated weathering rates",
+    "authors": ["Sci. 21:75–78 Algeo TJ", "Twitchett RJ"],
+    "year": 2010
+  }, {
+    "title": "Phanerozoic trends in the global diversity",
+    "authors": ["J Alroy", "M Aberhan", "DJ Bottjer", "M Foote", "FT Fürsich"],
+    "year": 2008
+  }, {
+    "title": "Spike of pyrosynthetic polycyclic aromatic hydrocar",
+    "authors": ["T Arinobu", "R Ishiwatari", "K Kaiho", "MA. Lamolda"],
+    "year": 1999
+  }, {
+    "title": "Oppenheim, 1889) from the early Cretaceous of Capri",
+    "authors": ["L Becker", "JL Bada", "TE. Bunch"],
+    "venue": "Boll. Soc. Paleontol. Ital",
+    "year": 1995
+  }, {
+    "title": "Fullerenes: an extraterrestrial carbon carrier phase for noble gases",
+    "authors": ["L Becker", "R Poreda", "TE. Bunch"],
+    "venue": "Lunar Planet. Sci. Conf. Abstr",
+    "year": 2000
+  }, {
+    "title": "Increased fire activity",
+    "authors": ["CM Belcher", "L Mander", "G Rein", "FX Jervis", "M Haworth"],
+    "year": 2010
+  }, {
+    "title": "Triassic/Jurassic boundary in Greenland due to climate-driven floral change",
+    "authors": ["JM Beman", "CE Chow", "AL King", "Y Feng", "JA Fuhrman"],
+    "venue": "Nat. Geosci",
+    "year": 2011
+  }, {
+    "title": "rates as a consequence of ocean acidification",
+    "authors": ["RBJ Benson", "MT Carrano", "SL. Brusatte"],
+    "year": 2010
+  }, {
+    "title": "Theropoda: Allosauroidea) that survived to the latest Mesozoic. Naturwissenschaften",
+    "authors": ["Benton MJ"],
+    "venue": "Science 260:769–70 Benton MJ, Twitchett RJ",
+    "year": 1993
+  }, {
+    "title": "Exceptional vertebrate biotas from the Triassic",
+    "authors": ["MJ Benton", "Q Zhang", "S Hu", "ZQ Chen", "W Wen"],
+    "year": 2013
+  }, {
+    "title": "Biostratigraphy, phylogeny and systematics of Paleocene trochospiral plank",
+    "authors": ["Rev. 125:199–243 Berggren WA", "Norris RD"],
+    "year": 1997
+  }, {
+    "title": "Algal and archaeal polyisoprenoids in a recent",
+    "authors": ["L Bian", "KU Hinrichs", "T Xie", "SC Brassell", "N Iversen"],
+    "venue": "Am. J. Sci",
+    "year": 2001
+  }, {
+    "title": "Steroids and squalene",
+    "authors": ["CW Geosyst. 2:2000GC000112 Bird", "JM Lynch", "FJ Pirt", "WW Reid", "CJW Brooks", "BS. Middleditch"],
+    "year": 1971
+  }, {
+    "title": "Methylococcus capsulatus grown on methane",
+    "authors": ["TJ Blackburn", "PE Olsen", "SA Bowring", "NM McLean", "DV Kent"],
+    "year": 2013
+  }, {
+    "title": "The chemical structure of Gloeocapsamorpha prisca microfossils: implication for their origin",
+    "authors": ["P Blokker", "PF van Bergen", "RD Pancost", "ME Collinson", "JS Sinninghe Damsté", "JW. de Leeuw"],
+    "venue": "Geochim. Cosmochim",
+    "year": 2001
+  }, {
+    "title": "Steroid biosynthesis in prokaryotes: identification of myxobacterial steroids and cloning of the first bacterial 2,3(S)-oxidosqualenecyclase from the myxobacterium Stigmatella aurantiaca",
+    "authors": ["HB Bode", "B Zeggel", "B Silakowski", "SC Wenzel", "R Hans", "R. Müller"],
+    "venue": "Mol. Microbiol. 47:471–81",
+    "year": 2003
+  }, {
+    "title": "Extent and duration of marine anoxia during the Frasnian–Famennian (Late Devonian) mass extinction in Poland, Germany, Austria and France",
+    "authors": ["D Bond", "PB Wignall", "G. Racki"],
+    "venue": "Geol. Mag. 141:173–93",
+    "year": 2004
+  }, {
+    "title": "A detailed palynological study of the Triassic–Jurassic transition in key sections of the Eiberg Basin (Northern Calcareous Alps, Austria)",
+    "authors": ["NR Bonis", "WM Kürschner", "L. Krystyn"],
+    "venue": "Rev. Palaeobot. Palynol. 156:376–400",
+    "year": 2009
+  }, {
+    "title": "Climate change driven black shale deposition during the endTriassic in the western Tethys",
+    "authors": ["NR Bonis", "M Ruhl", "WM. Kürschner"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol. 290:151–59",
+    "year": 2010
+  }, {
+    "title": "Late Cretaceous and Cenozoic bathyal Ostracoda from the central Pacific (DSDP Site 463)",
+    "authors": ["I. Boomer"],
+    "venue": "Mar. Micropaleontol. 37:131–47",
+    "year": 1999
+  }, {
+    "title": "Molecular palaeontology of eastern Mediterranean sapropels: evidence for photic zone euxinia",
+    "authors": ["HJ Bosch", "JS Sinninghe Damsté", "JW. de Leeuw"],
+    "venue": "Proc. Ocean Drill. Program Sci. Res",
+    "year": 1998
+  }, {
+    "title": "Selective calcareous nannoplankton survivorship at the Cretaceous-Tertiary boundary",
+    "authors": ["Bown PR."],
+    "venue": "Geology 33:653–56",
+    "year": 2005
+  }, {
+    "title": "U/Pb zircon geochronology and tempo of the end-Permian mass extinction",
+    "authors": ["SA Bowring", "DH Erwin", "K Davidek", "W Wang", "MW Jin", "YG. Martin"],
+    "venue": "Science 280:1039–45",
+    "year": 1998
+  }, {
+    "title": "A new tool for climatic assessment",
+    "authors": ["SC Brassell", "G Eglinton", "IT Marlowe", "U Pflaufmann", "M. Sarnthein"],
+    "venue": "Nature 320:129–33",
+    "year": 1986
+  }, {
+    "title": "Bathymetric and isotopic evidence for a short-lived Late Ordovician glaciation in a greenhouse period",
+    "authors": ["PJ Brenchley", "JD Marshall", "GAF Carden", "DBR Robertson", "DGF Long"],
+    "venue": "Geology",
+    "year": 1994
+  }, {
+    "title": "Dinoflagellate-based sea surface temperature reconstructions across the Cretaceous–Tertiary boundary",
+    "authors": ["H Brinkhuis", "JP Bujak", "J Smit", "GJM Versteegh", "H. Visscher"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol. 141:67–83",
+    "year": 1998
+  }, {
+    "title": "Biomarkers (molecular fossils)",
+    "authors": ["JJ Brocks", "K. Grice"],
+    "venue": "Encyclopedia of Geobiology, ed. V Thiel, J Reitner, pp. 147–167. Heidelberg, Ger.: Springer",
+    "year": 2011
+  }, {
+    "title": "Assessing biomarker syngeneity using branched alkanes with quaternary carbon (BAQCs) and other plastic contaminants",
+    "authors": ["JJ Brocks", "E Grosjean", "GA. Logan"],
+    "venue": "Geochim. Cosmochim. Acta 72:871–88",
+    "year": 2008
+  }, {
+    "title": "Biomarker evidence for green and purple sulphur bacteria in a stratified Paleoproterozoic sea",
+    "authors": ["JJ Brocks", "GD Love", "RE Summons", "AH Knoll", "GA Logan", "SA. Bowden"],
+    "venue": "Nature 437:866–70",
+    "year": 2005
+  }, {
+    "title": "Okenane, a biomarker for purple sulfur bacteria (Chromatiaceae), and other new carotenoid derivatives from the 1640 Ma Barney Creek Formation",
+    "authors": ["P. Brocks JJ Schaeffer"],
+    "venue": "Geochim. Cosmochim. Acta 72:1396–414",
+    "year": 2008
+  }, {
+    "title": "Sedimentary hydrocarbons, biomarkers for early life",
+    "authors": ["Brocks JJ", "Summons RE."],
+    "venue": "Treatise on Geochemistry, Vol. 8: Biogeochemistry, ed. WH Schlesinger, pp. 63–115. Amsterdam: Elsevier. 1st ed.",
+    "year": 2005
+  }, {
+    "title": "Water column structure during deposition of Middle Devonian–Lower Mississippian black and green/gray shales of the Illinois and Michigan Basins: a biomarker approach",
+    "authors": ["TC Brown", "F. Kenig"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol. 215:59–85",
+    "year": 2004
+  }, {
+    "title": "High-precision timeline for Earth’s most severe extinction",
+    "authors": ["SD Burgess", "S Bowring", "S. Shen"],
+    "venue": "PNAS 111:3316–21",
+    "year": 2014
+  }, {
+    "title": "Biogeochemical evidence for a euxinic ocean and ecological disturbance presaging the end-Permian mass extinction event",
+    "authors": ["C Cao", "GD Love", "L Hays", "W Wang", "S Shen", "RE. Summons"],
+    "venue": "Earth Planet. Sci. Lett. 288:188–201",
+    "year": 2009
+  }, {
+    "title": "Devonian–Carboniferous Hangenberg mass extinction event, widespread organic-rich mudrocks and anoxia: causes and consequences",
+    "authors": ["Caplan ML", "Bustin RM."],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol. 148:187–207",
+    "year": 1999
+  }, {
+    "title": "Frasnian/Famennian mass extinction and cold-water oceans",
+    "authors": ["P. Copper"],
+    "venue": "Geology 14:835–39",
+    "year": 1986
+  }, {
+    "title": "On the ages of flood basalt events",
+    "authors": ["Courtillot VE", "Renne PR."],
+    "venue": "C.R. Geosci. 335:113",
+    "year": 2003
+  }, {
+    "title": "Bicadinane, a C30 pentacyclic isoprenoid hydrocarbon found in crude oil",
+    "authors": ["HC Cox", "JW de Leeuw", "PA Schenk", "H van Konigsveld", "JC Jansen"],
+    "year": 1986
+  }, {
+    "title": "French vertebrate faunas and the Triassic-Jurassic boundary",
+    "authors": ["G. Cuny"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol. 119:343–58",
+    "year": 1996
+  }, {
+    "title": "Branched alkanes and other apolar compounds produced by the cyanobacterium Microcoleus vaginatus from the Negev Desert",
+    "authors": ["VM Dembitsky", "I Dor", "I Shkrob", "M. Aki"],
+    "venue": "Russ. J. Bioorg. Chem. 27:110–19",
+    "year": 2001
+  }, {
+    "title": "Evaluating the ecological architecture of major events in the Phanerozoic history of marine invertebrate life",
+    "authors": ["ML Droser", "DJ Bottjer", "PM. Sheehan"],
+    "venue": "Geology 25:167–70",
+    "year": 1997
+  }, {
+    "title": "Separation of 18α(H)-, 18β(H)-oleanane and lupane by comprehensive two-dimensional gas chromatography",
+    "authors": ["C Eiserbeck", "K Grice", "C Reddy", "R Nelson", "J Curiale", "P. Raiteri"],
+    "venue": "J. Chromatogr. A 1218:5549–53",
+    "year": 2011
+  }, {
+    "title": "Paleobiography of Maastrichtian to early Eocene Ostracoda of North and West Africa and the Middle East",
+    "authors": ["Elewa AMT."],
+    "venue": "Micropaleontology 48:391–98",
+    "year": 2002
+  }, {
+    "title": "Impact ejecta layer from the midDevonian: possible connection to global mass extinctions",
+    "authors": ["BB Ellwood", "SL Benoist", "A El Hassani", "C Wheeler", "RE. Crick"],
+    "venue": "Science 300:1734–37",
+    "year": 2003
+  }, {
+    "title": "Anaerobic methane oxidation associated with marine gas hydrates: superlight C-isotopes from saturated and unsaturated C20 and C25 irregular isoprenoids",
+    "authors": ["M Elvert", "E Suess", "MJ. Whiticar"],
+    "venue": "Naturwissenschaften 31:1175–87",
+    "year": 1999
+  }, {
+    "title": "Extinction: How Life on Earth Nearly Ended 250 Million Years Ago",
+    "authors": ["Erwin DH."],
+    "venue": "Princeton, NJ: Princeton Univ. Press",
+    "year": 2006
+  }, {
+    "title": "End-Permian mass extinctions: a review",
+    "authors": ["DH Erwin", "SA Bowring", "J. Yugan"],
+    "venue": "Geol. Soc. Am. Spec. Pap. 356:363–83",
+    "year": 2002
+  }, {
+    "title": "The history of Devonian-Carboniferous reef communities: extinctions, effects, recovery",
+    "authors": ["Fagerstrom JA."],
+    "venue": "Facies 30:177–91",
+    "year": 1994
+  }, {
+    "title": "Environmental influence on the biohopanoid composition of recent sediments",
+    "authors": ["P Farrimond", "IM Head", "HE. Innes"],
+    "venue": "Geochim. Cosmochim. Acta 64:2985–92",
+    "year": 2000
+  }, {
+    "title": "Changes in biomarker abundances and their stable carbon isotopes across the Permian–Triassic (P-Tr) Schuchert Dal section (East Greenland)",
+    "authors": ["S Fenton", "K Grice", "RJ Twitchett", "M Böttcher", "CV Looy", "B. Nabbefield"],
+    "venue": "Earth Planet. Sci. Lett. 262:230–39",
+    "year": 2007
+  }, {
+    "title": "Wildfires and seasonal aridity recorded in Late Cretaceous strata from south-eastern Arizona, USA",
+    "authors": ["DB Finkelstein", "LM Pratt", "TM Curtin", "SC. Brassell"],
+    "venue": "Sedimentology 52:587–99",
+    "year": 2005
+  }, {
+    "title": "The magnitude and duration of Late Ordovician–Early Silurian glaciation",
+    "authors": ["S Finnegan", "K Bergmann", "JM Eiler", "DS Jones", "DA Fike"],
+    "venue": "Science",
+    "year": 2011
+  }, {
+    "title": "The influence of denitrifying seawater on graptolite extinction and diversification during the Hirnantian (latest Ordovician) mass extinction event",
+    "authors": ["SC Finney", "WBN Berry", "JD. Cooper"],
+    "venue": "Lethaia 40:281–91",
+    "year": 2007
+  }, {
+    "title": "Carbon isotopes, kerogen types and the Permian-Triassic boundary in Australia: implications for exploration",
+    "authors": ["CB Foster", "GA Logan", "RE Summons", "JD Gorter", "DS. Edwards"],
+    "venue": "APPEA J. 37:472–89",
+    "year": 1997
+  }, {
+    "title": "The influence of Gloeocapsomorpha prisca on the organic geochemistry of oils and organic-rich rocks of Late Ordovician age from Canada",
+    "authors": ["Fowler MG."],
+    "venue": "Early Organic Evolution: Implications for Mineral and Energy Resources, ed. M Schidlowski, S Golubic, MM Kimberly, PA Trudinger, pp. 336–56. Berlin: Springer",
+    "year": 1992
+  }, {
+    "title": "Assessing the distribution of sedimentary C40 carotenoids through time",
+    "authors": ["KL French", "D Rocher", "JE Zumberge", "RE. Summons"],
+    "venue": "Geobiology 13:139–51",
+    "year": 2015
+  }, {
+    "title": "Five hundred million years of extinction and recovery: a Phanerozoic survey of large-scale diversity patterns in fishes",
+    "authors": ["Friedman M", "Sallan LC."],
+    "venue": "Palaeontology 55:707–42",
+    "year": 2012
+  }, {
+    "title": "Evolution of calcareous nannoplankton and the recovery of marine food webs after the Cretaceous-Paleocene mass extinction",
+    "authors": ["LM Fuqua", "TJ Bralower", "MA Arthur", "ME. Patzkowsky"],
+    "venue": "Palaios 23:185–94",
+    "year": 2008
+  }, {
+    "title": "Echoes of Life: What Fossil Molecules Reveal About Earth History",
+    "authors": ["SM Gaines", "G Eglinton", "J. Rullkötter"],
+    "venue": "New York: Oxford Univ. Press",
+    "year": 2009
+  }, {
+    "title": "Parallel, high-resolution carbon and sulfur isotope records of the evolving Paleozoic marine sulfur reservoir",
+    "authors": ["BC Gill", "TW Lyons", "MR. Saltzman"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol. 256:156–73",
+    "year": 2007
+  }, {
+    "title": "The global Cretaceous-Tertiary fire: biomass or fossil carbon",
+    "authors": ["I Gilmour", "F. Guenther"],
+    "venue": "Global Catastrophes in Earth History: An Interdisciplinary Conference on Impacts, Volcanism, and Mass Mortality, pp. 60–61. Houston: Lunar Planet. Inst.",
+    "year": 1988
+  }, {
+    "title": "Carotenoid biosynthesis in Synechococcus sp",
+    "authors": ["Graham JE", "Bryant DA."],
+    "venue": "PCC 7002: elucidation of the pathway to myxoxanthophyll and aromatic xanthophylls. Presented at 9th Cyanobacterial Molecular Biology Workshop, Delavan, WI www.annualreviews.org • Biomarkers and Mass Extinction Events 603",
+    "year": 2007
+  }, {
+    "title": "Catastrophic dispersion of coal fly ash into oceans during the latest Permian extinction",
+    "authors": ["SE Grasby", "H Sanei", "B. Beauchamp"],
+    "venue": "Nat. Geosci. 4:104–7",
+    "year": 2011
+  }, {
+    "title": "Abundance and geochemical significance of C2n dialkylalkanes and highly branched C3n alkanes in diverse Meso- and Neoproterozoic sediments",
+    "authors": ["PF Greenwood", "KR Arouri", "GA Logan", "RE. Summons"],
+    "venue": "Org. Geochem. 35:221–46",
+    "year": 2004
+  }, {
+    "title": "Distributions and stable carbon isotopic compositions of biomarkers in torbanites from different palaeogeographical locations",
+    "authors": ["K Grice", "M Audino", "R Alexander", "CJ Boreham", "RI. Kagi"],
+    "venue": "Org. Geochem. 32:1195–210",
+    "year": 2001
+  }, {
+    "title": "Biomarkers (organic, compound-specific isotopes)",
+    "authors": ["Grice K", "Brocks JJ."],
+    "venue": "Encyclopedia of Geobiology, ed. V Thiel, J Reitner, pp. 167–82. Heidelberg, Ger.: Springer",
+    "year": 2011
+  }, {
+    "title": "Photic zone euxinia during the PermianTriassic superanoxic event",
+    "authors": ["K Grice", "C Cao", "GD Love", "ME Bottcher", "R Twitchett"],
+    "venue": "Science",
+    "year": 2005
+  }, {
+    "title": "The analysis and application of biomarkers",
+    "authors": ["K Grice", "C. Eiserbeck"],
+    "venue": "Treatise on Geochemistry, Vol. 12: Organic Geochemistry, ed. PG Falkowski, KH Freeman, pp. 47–78. Amsterdam: Elsevier. 2nd ed.",
+    "year": 2013
+  }, {
+    "title": "Maleimides (1H-pyrrole2,5-diones) as molecular indicators of anoxygenic photosynthesis in ancient water columns",
+    "authors": ["K Grice", "R Gibbison", "JE Atkinson", "L Schwark", "CB Eckardt", "JR. Maxwell"],
+    "venue": "Geochim. Cosmochim. Acta 60:3913–24",
+    "year": 1996
+  }, {
+    "title": "The effects of zooplankton herbivory on biomarker proxy records",
+    "authors": ["K Grice", "WCM Klein Breteler", "S Schouten", "V Grossi", "JW de Leeuw", "JS. Sinninghe Damsté"],
+    "venue": "Paleoceanography",
+    "year": 1998
+  }, {
+    "title": "New insights into the origin of perylene in geological samples",
+    "authors": ["K Grice", "H Lu", "P Atahan", "M Asif", "C Hallman"],
+    "venue": "Geochim. Cosmochim",
+    "year": 2009
+  }, {
+    "title": "Source and significance of selected polycyclic aromatic hydrocarbons in sediments (Hovea-3 well, Perth Basin, Western Australia) spanning the Permian–Triassic boundary",
+    "authors": ["K Grice", "B Nabbefeld", "E. Maslen"],
+    "venue": "Org. Geochem. 38:1795–803",
+    "year": 2007
+  }, {
+    "title": "Molecular indicators of palaeoenvironmental conditions in an immature Permian shale (Kupferschiefer, Lower Rhine Basin, northwest Germany) from free and S-bound lipids",
+    "authors": ["K Grice", "P Schaeffer", "L Schwark", "JR. Maxwell"],
+    "venue": "Org. Geochem. 25:131–47",
+    "year": 1996
+  }, {
+    "title": "Changes in palaeoenvironmental conditions during deposition of the Permian Kupferschiefer (Lower Rhine Basin, northwest Germany) inferred from molecular and isotopic compositions of biomarker components",
+    "authors": ["K Grice", "P Schaeffer", "L Schwark", "JR. Maxwell"],
+    "venue": "Org. Geochem. 26:677–90",
+    "year": 1997
+  }, {
+    "title": "Isotopically heavy carbon in the C21 to C25 regular isoprenoids in halite-rich deposits from the Sdom Formation, Dead Sea Basin, Israel",
+    "authors": ["K Grice", "S Schouten", "A Nissenbaum", "J Charrach", "JS. Sinninghe Damsté"],
+    "venue": "Org. Geochem. 28:349–59",
+    "year": 1998
+  }, {
+    "title": "Depositional conditions of the Northern onshore Perth basin (Basal Triassic)",
+    "authors": ["K Grice", "R Summons", "E Grosjean", "R Twitchett", "WJ Dunning"],
+    "venue": "Perth APPEA J. 45:263–73",
+    "year": 2005
+  }, {
+    "title": "A potential biomarker for the Permian–Triassic ecological crisis",
+    "authors": ["K Grice", "R Twitchett", "R Alexander", "CB Foster", "C. Looy"],
+    "venue": "Earth Planet. Sci. Lett. 236:315–21",
+    "year": 2005
+  }, {
+    "title": "Microbial degradation of marine evaporitic crude oils",
+    "authors": ["JO Grimalt", "M Grifoll", "MA Solanas", "J. Albaiges"],
+    "venue": "Geochim. Cosmochim. Acta 55:1903–13",
+    "year": 1991
+  }, {
+    "title": "Incorporation of organic contaminants into geochemical samples and an assessment of potential sources: examples from Geoscience Australia marine survey S282",
+    "authors": ["Grosjean E", "Logan GA."],
+    "venue": "Org. Geochem. 38:853",
+    "year": 2007
+  }, {
+    "title": "High-resolution ammonite and carbon isotope stratigraphy across the Triassic–Jurassic boundary at New York Canyon (Nevada)",
+    "authors": ["J Guex", "A Bartolini", "V Atudorei", "DG. Taylor"],
+    "venue": "Earth Planet. Sci. Lett. 225:29–41",
+    "year": 2004
+  }, {
+    "title": "Late Triassic to Early Jurassic palaeogeography and eustatic history in the NW Tethyan realm: new insights from sedimentary and organic facies of the Csővár Basin (Hungary)",
+    "authors": ["J Haas", "AE Götz", "J. Pálfy"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol. 291:456–68",
+    "year": 2010
+  }, {
+    "title": "Oxygen-restricted facies of the basal Jurassic of north west Europe",
+    "authors": ["A. Hallam"],
+    "venue": "Hist. Biol. 10:247–57",
+    "year": 1995
+  }, {
+    "title": "Estimates of the amount and rate of sea-level change across the Rhaetian–Hettangian and Pliensbachian–Toarcian boundaries (latest Triassic to early Jurassic)",
+    "authors": ["A. Hallam"],
+    "venue": "J. Geol. Soc. Lond. 154:773–79",
+    "year": 1997
+  }, {
+    "title": "How catastrophic was the end-Triassic mass extinction",
+    "authors": ["A. Hallam"],
+    "venue": "Lethaia",
+    "year": 2002
+  }, {
+    "title": "Reconstructing deep-time biology with molecular fossils",
+    "authors": ["C Hallmann", "AE Kelly", "S Neal Gupta", "RE. Summons"],
+    "venue": "Top. Geobiol. 36:355–401 604 Whiteside",
+    "year": 2011
+  }, {
+    "title": "The Ordovician biodiversification: setting an agenda for marine life",
+    "authors": ["Harper DAT."],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol. 232:148–66",
+    "year": 2006
+  }, {
+    "title": "A molecular and carbon isotopic study towards the origin and diagenetic fate of diaromatic carotenoids",
+    "authors": ["WA Hartgers", "JS Sinninghe Damsté", "AG Requejo", "J Allan", "JM Hayes"],
+    "venue": "Org. Geochem",
+    "year": 1993
+  }, {
+    "title": "On the origin of alkylbenzenes in geochemical samples",
+    "authors": ["GR Harvey", "JS Sinninghe Damsté", "JW. de Leeuw"],
+    "year": 1985
+  }, {
+    "title": "Upper Cretaceous and lower Paleocene diatoms and silicoflagellate biostratigraphy of Seymour Island, eastern Antarctic Peninsula",
+    "authors": ["Harwood DM."],
+    "venue": "Geol. Soc. Am. Mem. 169:55–129",
+    "year": 1988
+  }, {
+    "title": "Fractionation of the isotopes of carbon and hydrogen in biosynthetic processes",
+    "authors": ["Hayes JM."],
+    "venue": "Rev. Mineral. Geochem. 43:225–78",
+    "year": 2001
+  }, {
+    "title": "Evidence for photic zone euxinia through the end-Permian mass extinction in the Panthalassic Ocean (Peace River Basin, Western Canada)",
+    "authors": ["L Hays", "T Beatty", "CM Henderson", "GD Love", "RE. Summons"],
+    "venue": "Palaeoworld 16:39–50",
+    "year": 2007
+  }, {
+    "title": "Biomarker and isotopic trends in a Permian–Triassic sedimentary section at Kap Stosch, Greenland",
+    "authors": ["L Hays", "K Grice", "C Foster", "RE. Summons"],
+    "venue": "Org. Geochem. 43:67–82",
+    "year": 2012
+  }, {
+    "title": "Significance of high-wax oils with respect to genesis of petroleum",
+    "authors": ["Hedberg HD."],
+    "venue": "Am. Assoc. Petrol. Geol. Bull. 52:736–50",
+    "year": 1968
+  }, {
+    "title": "Terrestrial and marine extinction at the TriassicJurassic boundary synchronized with major carbon-cycle perturbation: a link to initiation of massive volcanism? Geology",
+    "authors": ["SP Hesselbo", "SA Robinson", "F Surlyk", "S. Piasecki"],
+    "year": 2002
+  }, {
+    "title": "Application of 24norcholestanes for constraining source age of petroleum",
+    "authors": ["AG Holba", "LIP Dzou", "WD Masterson", "WB Hughes", "BJ Huizinga"],
+    "venue": "Org. Geochem",
+    "year": 1998
+  }, {
+    "title": "24-Norcholestanes as age-sensitive molecular fossils",
+    "authors": ["AG Holba", "EW Tegelaar", "BJ Huizinga", "JM Moldowan", "MS Singletary"],
+    "venue": "Geology",
+    "year": 1998
+  }, {
+    "title": "Paleoenvironmental changes across the Cretaceous/Tertiary boundary at Flaxbourne River and Woodside Creek, eastern Marlborough, New Zealand",
+    "authors": ["CJ Hollis", "CP Strong", "KA Rodgers", "KM. Rogers"],
+    "venue": "N.Z. J. Geol. Geophys. 46:177–97",
+    "year": 2003
+  }, {
+    "title": "The geological record of ocean acidification",
+    "authors": ["B Hönisch", "A Ridgwell", "DN Schmidt", "E Thomas", "SJ Gibbs"],
+    "venue": "Science",
+    "year": 2012
+  }, {
+    "title": "Strength, timing, setting and cause of mid-Palaeozoic extinctions",
+    "authors": ["House MR."],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol. 181:5–26",
+    "year": 2002
+  }, {
+    "title": "Braunicene, a novel cyclic C32 isoprenoid from Botryococcus braunii",
+    "authors": ["Z Huang", "CD Poulter", "FR Wolf", "TC Somers", "JD. White"],
+    "venue": "J. Am. Chem. Soc. 110:3959–64",
+    "year": 1988
+  }, {
+    "title": "Extinctions: a paleontological perspective",
+    "authors": ["D. Jablonski"],
+    "venue": "Science 253:754–57",
+    "year": 1991
+  }, {
+    "title": "Elevated pCO2 leading to Late Triassic extinction, persistent photic zone euxinia, and rising sea levels",
+    "authors": ["CMB Jaraula", "K Grice", "RJ Twitchett", "ME Böttcher", "P LeMetayer"],
+    "venue": "Geology",
+    "year": 2013
+  }, {
+    "title": "Geochemistry of oceanic anoxic events",
+    "authors": ["Jenkyns HC."],
+    "venue": "Geochem. Geophys. Geosyst. 11:Q03004",
+    "year": 2010
+  }, {
+    "title": "Pattern of marine mass extinction near the Permian-Triassic boundary in South China",
+    "authors": ["YG Jin", "Y Wang", "W Wang", "QH Shang", "CQ Cao", "DH. Erwin"],
+    "venue": "Science 289:432–36",
+    "year": 2000
+  }, {
+    "title": "Anoxic events in the late Frasnian—causes of the Frasnian-Famennian faunal crisis? Geology",
+    "authors": ["MM Joachimski", "W. Buggisch"],
+    "year": 1993
+  }, {
+    "title": "Water column anoxia, enhanced productivity and concomitant changes in δ13C and δ34S across the Frasnian–Famennian boundary (Kowala—Holy Cross Mountains/Poland)",
+    "authors": ["MM Joachimski", "C Ostertag-Henning", "RD Pancost", "H Strauss", "KH Freeman"],
+    "year": 2001
+  }, {
+    "title": "40Ar/39Ar ages of CAMP in North America: implications for the Triassic–Jurassic boundary and the 40K decay constant bias",
+    "authors": ["FM Jourdan", "A Marzoli", "H Bertrand", "S Cirilli", "L Tanner"],
+    "venue": "Lithos",
+    "year": 2009
+  }, {
+    "title": "A minimum U-Pb age for Siberian flood-basalt volcanism",
+    "authors": ["SL Kamo", "GK Czamanske", "TE. Krogh"],
+    "venue": "Geochim. Cosmochim. Acta 60:3505–11",
+    "year": 1996
+  }, {
+    "title": "Hopanoid biosynthesis and function in bacteria",
+    "authors": ["E Kannenberg", "K. Poralla"],
+    "venue": "Naturwissenschaften 86:168–76",
+    "year": 1999
+  }, {
+    "title": "Episodic photic zone euxinia in the northeastern Panthalassic Ocean during the end-Triassic extinction. Geology 43:307–10 www.annualreviews.org",
+    "authors": ["AH Kasprak", "J Sepúlveda", "R Price-Waldman", "KH Williford", "SD Schoepfer"],
+    "year": 2015
+  }, {
+    "title": "Occurrence and origin of mono-, di-, and trimethyl alkanes in modern and Holocene cyanobacterial mats from Abu Dhabi, United Arab Emirates",
+    "authors": ["F Kenig", "JS Sinninghe Damsté", "AC Kock–van Dalen", "WIC Rijpstra", "AY Huc", "JW. de Leeuw"],
+    "venue": "Geochim. Cosmochim",
+    "year": 1995
+  }, {
+    "title": "Phanerozoic Large Igneous Provinces (LIPs), HEATT (Haline Euxinic Acidic Thermal Transgression) episodes, and mass extinctions",
+    "authors": ["Kidder DL", "Worsley TR."],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol. 295:162–91",
+    "year": 2010
+  }, {
+    "title": "New indices and calibrations derived from the distribution of crenarchaeal isoprenoid tetraether lipids: implications for past sea surface temperature reconstructions",
+    "authors": ["JH Kim", "J van der Meer", "S Schouten", "P Helmke", "V Willmott"],
+    "venue": "Geochim. Cosmochim",
+    "year": 2010
+  }, {
+    "title": "Paleophysiology and end-Permian mass extinction",
+    "authors": ["AH Knoll", "RK Bambach", "JL Payne", "S Pruss", "WW. Fischer"],
+    "venue": "Earth Planet. Sci. Lett. 256:295–313",
+    "year": 2007
+  }, {
+    "title": "Steroids from the myxobacterium Nannocystis exedens",
+    "authors": ["W Kohl", "A Gloe", "H. Reichenbach"],
+    "venue": "J. Gen. Microbiol. 129:1629–35",
+    "year": 1983
+  }, {
+    "title": "Diagenetic and catagenetic products of isorenieratene: molecular indicators for photic zone anoxia",
+    "authors": ["MP Koopmans", "J Köster", "HME van Kaam–Peters", "F Kenig", "S Schouten"],
+    "venue": "Geochim. Cosmochim",
+    "year": 1996
+  }, {
+    "title": "Restricted utility of aryl isoprenoids for photic zone anoxia",
+    "authors": ["MP Koopmans", "S Schouten", "MEL Kohnen", "JS. Sinninghe Damsté"],
+    "venue": "Geochim. Cosmochim. Acta 60:4873–76",
+    "year": 1996
+  }, {
+    "title": "Mono-, di- and trimethyl-branched alkanes in cultures of the filamentous cyanobacterium Calothrix scopulorum",
+    "authors": ["J Köster", "JK Volkman", "J Rullkötter", "BM Scholz-Böttcher", "J Rethmeier", "U. Fischer"],
+    "venue": "Org. Geochem. 30:1367–79 Krull ES, Retallack GJ. 2000. δ13C depth profiles from paleosols across the Permian-Triassic boundary in Antarctica: evidence for methane release. Geol. Soc. Am. Bull. 112:1459–72",
+    "year": 1999
+  }, {
+    "title": "Massive release of hydrogen sulfide to the surface ocean and atmosphere during intervals of oceanic anoxia",
+    "authors": ["LR Kump", "A Pavlov", "MA. Arthur"],
+    "venue": "Geology 33:397–400",
+    "year": 2005
+  }, {
+    "title": "Massive expansion of marine Archaea during a Mid-Cretaceous Oceanic anoxic event",
+    "authors": ["MM Kuypers", "P Blokker", "J Erbacher", "H Kinkel", "RD Pancost"],
+    "venue": "Science",
+    "year": 2001
+  }, {
+    "title": "Local and global perspectives on carbon and nitrogen cycling during the Hirnantian glaciation",
+    "authors": ["DF LaPorte", "C Holmden", "WP Patterson", "JD Loxton", "MJ Melchin"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2009
+  }, {
+    "title": "Evolutionary radiation of microperforate planktonic foraminifera following the K/T mass extinction event",
+    "authors": ["Liu C", "Olsson RK."],
+    "venue": "J. Foraminifer. Res. 22:328–46",
+    "year": 1992
+  }, {
+    "title": "Terminal Proterozoic reorganization of biogeochemical cycles",
+    "authors": ["GA Logan", "JM Hayes", "GB Hieshima", "RE. Summons"],
+    "venue": "Nature 376:53–56",
+    "year": 1995
+  }, {
+    "title": "The Late Devonian Gogo Formation Lägerstatte of Western Australia: exceptional early vertebrate preservation and diversity",
+    "authors": ["JA Long", "K. Trinajstic"],
+    "venue": "Annu. Rev. Earth Planet. Sci. 38:255–79",
+    "year": 2010
+  }, {
+    "title": "Life in the end-Permian dead zone",
+    "authors": ["CV Looy", "RJ Twitchett", "DL Dilcher", "JHA Van Konijnenburg–Van Cittert", "H. Visscher"],
+    "year": 2001
+  }, {
+    "title": "Microbial-algal community changes during the latest Permian ecological crisis: evidence from lipid biomarkers at Cili",
+    "authors": ["G Luo", "Y Wang", "K Grice", "S Kershaw", "TJ Algeo", "X Ruan"],
+    "venue": "South China. Glob. Planet. Change",
+    "year": 2013
+  }, {
+    "title": "Stepwise and large-magnitude negative shift in δ13Ccarb preceded the main marine mass extinction of the Permian–Triassic crisis",
+    "authors": ["G Luo", "Y Wang", "H Yang", "TJ Algeo", "LR Kump"],
+    "venue": "interval. Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2011
+  }, {
+    "title": "Palaeoecological preferences and geographical distribution of Late Maastrichtian deep-sea ostracods in the South Atlantic",
+    "authors": ["S Majoran", "JGV Widmark", "M. Kucera"],
+    "venue": "Lethaia 30:53–64",
+    "year": 1997
+  }, {
+    "title": "Water column euxinia and wildfire evidence during deposition of the Upper Famennian Hangenberg event horizon from the Holy Cross Mountains (central Poland)",
+    "authors": ["L Marynowski", "P. Filipiak"],
+    "venue": "Geol. Mag. 144:569–95",
+    "year": 2007
+  }, {
+    "title": "Biomarkers as environmental indicators in a carbonate complex, examples from the Middle Devonian, the Holy Cross Mountains, Poland",
+    "authors": ["L Marynowski", "M Narkiewicz", "C. Grelowski"],
+    "venue": "Sediment. Geol. 137:187–212",
+    "year": 2000
+  }, {
+    "title": "Molecular and petrographic indicators of redox conditions and bacterial communities after the F/F mass extinction (Kowala, Holy Cross Mountains, Poland)",
+    "authors": ["L Marynowski", "M Rakociński", "E Borcuch", "B Kremer", "BA Schubert", "AH. Jahren"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol. 306:1–14",
+    "year": 2011
+  }, {
+    "title": "Extensive 200-million-year-old continental flood basalts of the Central Atlantic magmatic province",
+    "authors": ["A Marzoli", "PR Renne", "EM Piccirillo", "M Ernesto", "G Bellieni", "A. De Min"],
+    "venue": "Science 284:616–18",
+    "year": 1999
+  }, {
+    "title": "Crocetane: a potential marker of photic zone euxinia in thermally mature sediments and crude oils of Devonian age",
+    "authors": ["E Maslen", "K Grice", "JD Gale", "C Hallmann", "B. Horsfield"],
+    "venue": "Org. Geochem. 40:1–11",
+    "year": 2009
+  }, {
+    "title": "Phthalate esters as environmental contaminants",
+    "authors": ["FL Mayer", "DL Stalling", "JL. Johnson"],
+    "venue": "Nature 238:411–13",
+    "year": 1972
+  }, {
+    "title": "Paleoenvironmental implications of novel C30 steranes in Precambrian to Cenozoic age petroleum and bitumen",
+    "authors": ["MA McCaffrey", "JM Moldowan", "PA Lipton", "RE Summons", "KE Peters"],
+    "venue": "Geochim. Cosmochim",
+    "year": 1994
+  }, {
+    "title": "Triassic and Jurassic fishes: patterns of diversity",
+    "authors": ["AR McCune", "B. Schaeffer"],
+    "venue": "The Beginning of the Age of Dinosaurs, ed. K Pandian, pp. 171–81. Cambridge, UK: Cambridge Univ. Press",
+    "year": 1986
+  }, {
+    "title": "Fossil plants and global warming at the Triassic-Jurassic boundary",
+    "authors": ["JC McElwain", "DJ Beerling", "FI. Woodward"],
+    "venue": "Science 285:1386–90",
+    "year": 1999
+  }, {
+    "title": "Mass extinction events and the plant fossil record",
+    "authors": ["McElwain JC", "Punyasena SW."],
+    "venue": "Trends Ecol. Evol. 22:548–57",
+    "year": 2007
+  }, {
+    "title": "The Late Devonian Mass Extinction",
+    "authors": ["McGhee GR Jr."],
+    "venue": "New York: Columbia Univ. Press",
+    "year": 1996
+  }, {
+    "title": "Modelling Late Devonian extinction hypotheses, in understanding Late Devonian and Permian-Triassic biotic and climatic events—towards an integrated approach",
+    "authors": ["McGhee GR Jr."],
+    "venue": "Dev. Paleontol. Stratigr. 20:37–50",
+    "year": 2005
+  }, {
+    "title": "Time, life and boundaries",
+    "authors": ["D. McLaren"],
+    "venue": "J. Paleontol. 44:801–15",
+    "year": 1970
+  }, {
+    "title": "Bolides and biostratigraphy",
+    "authors": ["D. McLaren"],
+    "venue": "Geol. Soc. Am. Bull. 94:313–24",
+    "year": 1983
+  }, {
+    "title": "Exceptional preservation of Palaeozoic steroids in a diagenetic continuum",
+    "authors": ["I Melendez", "K Grice", "L. Schwark"],
+    "venue": "Sci. Rep. 3:2768",
+    "year": 2013
+  }, {
+    "title": "Biomarkers reveal the role of photic zone euxinia in exceptional fossil preservation: an organic geochemical perspective",
+    "authors": ["I Melendez", "K Grice", "K Trinajstic", "M Ladjavardi", "P Greenwood", "K. Thompson"],
+    "venue": "Geology 41:123–26",
+    "year": 2013
+  }, {
+    "title": "Analysis of periodicity of extinction using the 2012 geological timescale",
+    "authors": ["Melott AL", "Bambach RK."],
+    "venue": "Paleobiology 40:177–96",
+    "year": 2014
+  }, {
+    "title": "Early Triassic (Induan–Olenekian) conodont biostratigraphy, global anoxia, carbon isotope excursions and environmental perturbations: new data from Western Australian Gondwana",
+    "authors": ["I Metcalfe", "RS Nicoll", "R Willink", "M Ladjavadi", "K. Grice"],
+    "venue": "Gondwana Res. 23:1136–50",
+    "year": 2013
+  }, {
+    "title": "Structures of some botryococcenes: branched hydrocarbons from the B race of the green alga Botryococcus braunii",
+    "authors": ["P Metzger", "E Casadevall", "MJ Pouet", "Y. Pouet"],
+    "venue": "Phytochemistry 24:2995–3002",
+    "year": 1985
+  }, {
+    "title": "Chemicals of Botryococcus braunii",
+    "authors": ["P Metzger", "C. Largeau"],
+    "venue": "Chemicals from Microalgae, ed. Z Cohen, pp. 205–60. London: Taylor and Francis",
+    "year": 1999
+  }, {
+    "title": "Biogeochemical controls on photic-zone euxinia during the endPermian mass extinction",
+    "authors": ["KM Meyer", "LR Kump", "A. Ridgwell"],
+    "venue": "Geology 36:747–50",
+    "year": 2008
+  }, {
+    "title": "The molecular fossil record of oleanane and its relation to angiosperms",
+    "authors": ["JM Moldowan", "JEP Dahl", "BJ Huizinga", "FJ Fago", "LJ Hickey"],
+    "venue": "Science",
+    "year": 1994
+  }, {
+    "title": "Sedimentary 24-n-propylcholestanes, molecular fossils diagnostic of marine algae",
+    "authors": ["JM Moldowan", "FJ Fago", "CY Lee", "SR Jacobson", "DS Watt"],
+    "venue": "Science",
+    "year": 1990
+  }, {
+    "title": "Biogeochemical evidence for dinoflagellate ancestors in the Early Cambrian",
+    "authors": ["Moldowan JM", "Talyzina NM."],
+    "venue": "Science 281:1168–70",
+    "year": 1998
+  }, {
+    "title": "Mass extinction in planktic foraminifera at the Cretaceous/Tertiary boundary in subtropical and temperate latitudes",
+    "authors": ["E Molina", "I Arenillas", "JA. Arz"],
+    "venue": "Bull. Soc. Geol. Fr. 169:351–63",
+    "year": 1998
+  }, {
+    "title": "Eutrophication by decoupling of the marine biogeochemical cycles of C, N and P: a mechanism for the Late Devonian mass extinction",
+    "authors": ["AE Murphy", "BB Sageman", "DJ. Hollander"],
+    "venue": "Geology 28:427–30",
+    "year": 2000
+  }, {
+    "title": "Significance of δDkerogen",
+    "authors": ["B Nabbefeld", "K Grice", "A Schimmelmann", "PE Sauer", "ME Böttcher", "RJ. Twitchett"],
+    "year": 2010
+  }, {
+    "title": "A comparison of thermal maturity parameters between freely extracted hydrocarbons (Bitumen I) and a second extract (Bitumen II) from within the kerogen matrix of Permian and Triassic sedimentary rocks",
+    "authors": ["B Nabbefeld", "K Grice", "A Schimmelmann", "R Summons", "U Troitzsch", "R. Twitchett"],
+    "venue": "Org. Geochem. 41:78–87",
+    "year": 2010
+  }, {
+    "title": "Significance of polycyclic aromatic hydrocarbons (PAHs) in Permian/Triassic boundary sections",
+    "authors": ["B Nabbefeld", "K Grice", "R Summons", "L Hays", "C. Cao"],
+    "venue": "Appl. Geochem. 25:1374–82",
+    "year": 2010
+  }, {
+    "title": "2010d. An integrated biomarker, isotopic and palaeoenvironmental study through the Late Permian event at Lusitaniadalen, Spitsbergen",
+    "authors": ["B Nabbefeld", "K Grice", "R Twitchett", "R Summons", "L Hays"],
+    "year": 2010
+  }, {
+    "title": "Novel 1H-pyrrole-2,5-dione (maleimide) proxies for the assessment of photic zone euxinia",
+    "authors": ["S Naeher", "K. Grice"],
+    "venue": "Chem. Geol. 404:100–9",
+    "year": 2015
+  }, {
+    "title": "Paraconformities",
+    "authors": ["Newell ND."],
+    "venue": "Essays in Paleontology and Stratigraphy: R.C. Moore Commemorative Volume, ed. C Teichert, EL Yochelson, pp. 349–67. Lawrence: Univ. Kansas Press",
+    "year": 1967
+  }, {
+    "title": "Large shifts in the isotopic composition of seawater sulphate across the Permo-Triassic boundary in northern Italy",
+    "authors": ["RJ Newton", "EL Pevitt", "PB Wignall", "SH. Bottrell"],
+    "venue": "Earth Planet. Sci. Lett. 218:331–45",
+    "year": 2004
+  }, {
+    "title": "Occurrence of an isoprenoid C25 di-unsaturated alkene and high neutral lipid content in Antarctic sea-ice diatom communities",
+    "authors": ["PD Nichols", "JK Volkman", "AC Palmisano", "GA Smith", "DC. White"],
+    "venue": "J. Phycol. 24:90–96",
+    "year": 1988
+  }, {
+    "title": "Tetracyclic diterpenoid hydrocarbons in some Australian coals, sediments and crude oils",
+    "authors": ["RA Noble", "R Alexander", "RI Kagi", "J. Knox"],
+    "venue": "Geochim. Cosmochim. Acta 49:2141–47",
+    "year": 1985
+  }, {
+    "title": "Ascent of dinosaurs linked to an iridium anomaly at the Triassic-Jurassic boundary",
+    "authors": ["PE Olsen", "DV Kent", "HD Sues", "C Koeberl", "H Huber"],
+    "venue": "Science",
+    "year": 2002
+  }, {
+    "title": "Hopanoids",
+    "authors": ["G Ourisson", "P. Albrecht"],
+    "venue": "1. Geohopanoids: the most abundant natural products on Earth? Acc. Chem. Res. 25:398–402",
+    "year": 1992
+  }, {
+    "title": "Carbon isotope anomaly and other geochemical changes at the Triassic-Jurassic boundary from a marine section in Hungary",
+    "authors": ["J Pálfy", "A Demény", "J Haas", "M Hetényi", "MJ Orchard", "I. Veto"],
+    "venue": "Geology 29:1047–50",
+    "year": 2001
+  }, {
+    "title": "Molecular evidence for basin-scale photic zone euxinia in the Permian Zechstein sea",
+    "authors": ["RD Pancost", "N Crawford", "JR. Maxwell"],
+    "venue": "Chem. Geol. 188:217–27",
+    "year": 2002
+  }, {
+    "title": "Molecular indicators of redox and marine photoautotroph composition in the late Middle Ordovician of Iowa, USA",
+    "authors": ["RD Pancost", "KH Freeman", "ME Patzkowsky", "DA Wavrek", "JW. Collister"],
+    "venue": "Org. Geochem. 29:1649–62",
+    "year": 1998
+  }, {
+    "title": "End-Permian mass extinction in the oceans: an ancient analog for the twentyfirst century? Annu",
+    "authors": ["Payne JL", "Clapham ME."],
+    "venue": "Rev. Earth Planet. Sci. 40:89–111",
+    "year": 2012
+  }, {
+    "title": "Late Paleozoic fusulinoidean gigantism driven by atmospheric hyperoxia",
+    "authors": ["JL Payne", "JR Groves", "AB Jost", "T Nguyen", "S Myhre"],
+    "venue": "Evolution",
+    "year": 2012
+  }, {
+    "title": "Evidence for recurrent Early Triassic massive volcanism from quantitative interpretation of carbon isotope fluctuations",
+    "authors": ["Payne JL", "Kump LR."],
+    "venue": "Earth Planet. Sci. Lett. 256:264–77",
+    "year": 2007
+  }, {
+    "title": "Phylogenetic and biochemical evidence for sterol synthesis in the bacterium Gemmata obscuriglobus",
+    "authors": ["A Pearson", "M Budin", "JJ. Brocks"],
+    "venue": "PNAS 100:15352–57",
+    "year": 2003
+  }, {
+    "title": "Recognition of an Infracambrian source rock based on biomarkers in the Baghewala-1 Oil, India",
+    "authors": ["KE Peters", "ME Clark", "U Das Gupta", "MA McCaffrey", "CY. Lee"],
+    "venue": "AAPG Bull. 79:1481–94",
+    "year": 1995
+  }, {
+    "title": "The Biomarker Guide",
+    "authors": ["KE Peters", "CC Walters", "JM. Moldowan"],
+    "venue": "Cambridge, UK: Cambridge Univ. Press",
+    "year": 2004
+  }, {
+    "title": "Devonian reef complexes of the Canning Basin",
+    "authors": ["PE Playford", "RM Hocking", "AE. Cockbain"],
+    "venue": "Geol. Surv. West. Aust. Bull. 145:1–444",
+    "year": 2009
+  }, {
+    "title": "Calcareous nannofossils across the K/T boundary, ODP Hole 690C, Maud Rise, Weddell Sea",
+    "authors": ["Pospichal JJ", "Wise SW."],
+    "venue": "Proc. Ocean Drill. Program Sci. Results 113:515–32",
+    "year": 1990
+  }, {
+    "title": "Carbon isotope characteristic of the diaromatic carotenoid, isorenieratene (intact and sulfide bound) and a novel isomer in sediments",
+    "authors": ["A Putschew", "P Schaeffer", "C Schaeffer-Reiss", "JR. Maxwell"],
+    "venue": "Org. Geochem. 28:1849–56",
+    "year": 1998
+  }, {
+    "title": "Toward understanding Late Devonian global events: few answers, many questions",
+    "authors": ["G. Racki"],
+    "venue": "Dev. Paleontol. Stratigr. 20:5–36",
+    "year": 2005
+  }, {
+    "title": "Biosynthesis of 2-methylbacteriohopanepolyols by an anoxygenic phototroph",
+    "authors": ["SE Rashby", "AL Sessions", "RE Summons", "DK. Newman"],
+    "venue": "PNAS 104:15099–104 608 Whiteside",
+    "year": 2007
+  }, {
+    "title": "Did sulfate availability facilitate the evolutionary expansion of chloro",
+    "authors": ["S Ratti", "AH Knoll", "M. Giordano"],
+    "year": 2011
+  }, {
+    "title": "phyll a+c phytoplankton in the oceans? Geobiology",
+    "authors": ["AG Requejo", "J Allan", "S Creaney", "NR Gray", "KS. Cole"],
+    "year": 1992
+  }, {
+    "title": "Paleozoic source rocks and oils from the Western Canada and Williston Basins",
+    "authors": ["S Richoz", "B van de Schootbrugge", "J Pross", "W Püttmann", "TM Quan"],
+    "venue": "Org. Geochem",
+    "year": 2012
+  }, {
+    "title": "shallow seas following the end-Triassic extinction",
+    "authors": ["N Robinson", "G Eglinton", "SC. Brassell"],
+    "venue": "Nat. Geosci",
+    "year": 1984
+  }, {
+    "title": "Distribution of hopanoid triterpenes in prokaryotes",
+    "authors": ["M Rohmer", "P Bouvier-Navé", "G. Ourisson"],
+    "venue": "J. Gen",
+    "year": 1984
+  }, {
+    "title": "Lipid biomarkers record fundamental changes",
+    "authors": ["GD Love", "W Fischer", "S Finnegan", "DA. Fike"],
+    "year": 2012
+  }, {
+    "title": "Links between global taxonomic diversity, ecological diversity",
+    "authors": ["S Sahney", "MJ Benton", "PA. Ferry"],
+    "year": 2010
+  }, {
+    "title": "Phosphorus, nitrogen, and the redox evolution of the Paleozoic oceans",
+    "authors": ["CA Sandberg", "JR Morrow", "W. Ziegler"],
+    "venue": "expansion of vertebrates on land. Biol. Lett. 6:544–47 Saltzman MR",
+    "year": 2005
+  }, {
+    "title": "Novel aromatic carotenoid derivatives from sulphur",
+    "authors": ["extinctions. Geol"],
+    "year": 1997
+  }, {
+    "title": "Correlating the end-Triassic mass extinction and flood basalt volcanism at the 100,000-year level",
+    "authors": ["B Schoene", "J Guex", "A Bartolini", "U Schaltegger", "T. Blackburn"],
+    "venue": "Geology 38:387–90",
+    "year": 2010
+  }, {
+    "title": "Biosynthetic effects on the stable carbon isotopic compositions of algal lipids: implications for deciphering the carbon isotopic biomarker",
+    "authors": ["S Schouten", "WCM Klein Breteler", "P Blokker", "N Schogt", "WIC Rijpstra"],
+    "venue": "record. Geochim. Cosmochim",
+    "year": 1998
+  }, {
+    "title": "2,6,10,15,19-Pentamethylicosenes in Methanolobus bombayensis, a marine methanogenic archaeon, and in Methanosarcina mazei",
+    "authors": ["S Schouten", "MJ van der Maarel", "R Huber", "JS. Sinninghe Damsté"],
+    "venue": "Org. Geochem",
+    "year": 1997
+  }, {
+    "title": "The Chicxulub asteroid impact and mass extinction at the Cretaceous-Paleogene boundary",
+    "authors": ["P Schulte", "L Alegret", "I Arenillas", "JA Arz", "PJ Barton"],
+    "venue": "Science",
+    "year": 2010
+  }, {
+    "title": "Molecular and isotopic characterization of biomarkers in the Frick Swiss Jura sediments: a palaeoenvironmental reconstruction on the northern Tethys margin",
+    "authors": ["Schwab V", "Spangenberg JE."],
+    "venue": "Org. Geochem. 28:419–39",
+    "year": 2007
+  }, {
+    "title": "Catastrophic soil erosion during the end-Permian biotic crisis",
+    "authors": ["MA Sephton", "CV Looy", "H Brinkhuis", "PB Wignall", "JW de Leeuw", "H. Visscher"],
+    "venue": "Geology",
+    "year": 2005
+  }, {
+    "title": "Chemical constitution of a PermianTriassic disaster species",
+    "authors": ["MA Sephton", "H Visscher", "CV Looy", "AB Verchovsky", "JS. Watson"],
+    "venue": "Geology 37:875–78",
+    "year": 2009
+  }, {
+    "title": "A factor analytic description of the Phanerozoic marine fossil record",
+    "authors": ["Sepkoski JJ Jr."],
+    "venue": "Paleobiology 7:36–53",
+    "year": 1981
+  }, {
+    "title": "Phanerozoic overview of mass extinction",
+    "authors": ["Sepkoski JJ Jr."],
+    "venue": "Patterns and Processes in the History of Life, ed. DM Raup, D Jablonski, pp. 277–95. Berlin: Springer Verlag",
+    "year": 1986
+  }, {
+    "title": "Ten years in the library: New data confirm paleontological patterns",
+    "authors": ["Sepkoski JJ Jr."],
+    "venue": "Paleobiology 19:43–51",
+    "year": 1993
+  }, {
+    "title": "Patterns of Phanerozoic extinction: a perspective from global databases",
+    "authors": ["Sepkoski JJ Jr."],
+    "venue": "Global Events and Event Stratigraphy in the Phanerozoic, ed. O Walliser, pp. 35–51. Berlin: Springer Verlag",
+    "year": 1996
+  }, {
+    "title": "Rapid resurgence of marine productivity after the Cretaceous-Paleogene mass extinction",
+    "authors": ["J Sepúlveda", "JE Wendler", "RE Summons", "KU. Hinrichs"],
+    "venue": "Science 326:129–32",
+    "year": 2009
+  }, {
+    "title": "The Late Ordovician mass extinction",
+    "authors": ["Sheehan PM."],
+    "venue": "Annu. Rev. Earth Planet. Sci. 29:331–64",
+    "year": 2001
+  }, {
+    "title": "Calibrating the end-Permian mass extinction",
+    "authors": ["SZ Shen", "JL Crowley", "Y Wang", "SA Bowring", "DH Erwin"],
+    "venue": "Science",
+    "year": 2011
+  }, {
+    "title": "Mid-chain branched mono- and dimethyl alkanes in hot spring cyanobacterial mats: a direct biogenic source for branched alkanes in ancient sediments? Org",
+    "authors": ["J Shiea", "SC Brassell", "DM. Ward"],
+    "venue": "Geochem. 15:223–31 www.annualreviews.org • Biomarkers and Mass Extinction Events 609",
+    "year": 1990
+  }, {
+    "title": "Composition and origin of hydrothermal petroleum and associated lipids in the sulfide deposits of the Rainbow field (Mid-Atlantic Ridge at 36◦N)",
+    "authors": ["BRT Simoneit", "AY Lein", "VI Peresypkin", "GA. Osipov"],
+    "venue": "Geochim. Cosmochim. Acta 68:2275–94",
+    "year": 2004
+  }, {
+    "title": "Molecular fossil constraints on the water column structure of the CenomanianTuronian western interior seaway, USA",
+    "authors": ["DJH Simons", "F. Kenig"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol. 169:129–52",
+    "year": 2001
+  }, {
+    "title": "Evidence for gammacerane as an indicator of water column stratification",
+    "authors": ["JS Sinninghe Damsté", "F Kenig", "MP Koopmans", "J Köster", "S Schouten"],
+    "venue": "Geochim. Cosmochim",
+    "year": 1995
+  }, {
+    "title": "Identification of long-chain isoprenoid alkylbenzenes in sediments and crude oils",
+    "authors": ["JS Sinninghe Damsté", "AC Kock–van Dalen", "JW. de Leeuw"],
+    "venue": "Geochim. Cosmochim",
+    "year": 1988
+  }, {
+    "title": "The occurrence of hopanoids in planctomycetes: implications for the sedimentary biomarker record",
+    "authors": ["JS Sinninghe Damsté", "WIC Rijpstra", "S Schouten", "JA Fuerst", "MSM Jetten", "M. Strous"],
+    "venue": "Org Geochem. 35:561–66",
+    "year": 2004
+  }, {
+    "title": "Isorenieratene derivatives in sediments: possible controls on their distribution",
+    "authors": ["JS Sinninghe Damsté", "S Schouten", "ACT. van Duin"],
+    "venue": "Geochim. Cosmochim",
+    "year": 2001
+  }, {
+    "title": "Extinction and evolution of planktonic foraminifera after a major impact at the Cretaceous/ Tertiary boundary",
+    "authors": ["J. Smit"],
+    "venue": "Geol. Soc. Am. Spec. Pap. 190:329–52",
+    "year": 1982
+  }, {
+    "title": "Antarctic Paleogene planktonic foraminifer biostratigraphy: ODP Leg 113, Sites 689 and 690",
+    "authors": ["Stott LD", "Kennett JP."],
+    "venue": "Proc. Ocean Drill. Program Sci. Results 113:549–69",
+    "year": 1990
+  }, {
+    "title": "Hopenes and hopanes methylated in ring-A: correlation of the hopanoids from extant methylotrophic bacteria with their fossil analogues",
+    "authors": ["Summons RE", "Jahnke LL."],
+    "venue": "Biological Markers in Sediments and Petroleum, ed. JM Moldowan, P Albrecht, RP Philp, pp. 182–200. Englewood Cliffs, NJ: Prentice Hall",
+    "year": 1992
+  }, {
+    "title": "2-Methylhopanoids as biomarkers for cyanobacterial oxygenic photosynthesis",
+    "authors": ["RE Summons", "LL Jahnke", "JM Hope", "GA. Logan"],
+    "venue": "Nature 400:554–57",
+    "year": 1999
+  }, {
+    "title": "Molecular evidence for prolonged photic zone euxinia at the Meishan and East Greenland sections of the Permian Triassic Boundary",
+    "authors": ["RE Summons", "GD Love", "L Hays", "C Cao", "Y Jin"],
+    "venue": "Geochim. Cosmochim",
+    "year": 2006
+  }, {
+    "title": "Polymethylsqualanes from Botryococcus braunii in lacustrine sediments and oils",
+    "authors": ["RE Summons", "P Metzger", "C Largeau", "AP Murray", "JM. Hope"],
+    "venue": "Org. Geochem. 33:99–109",
+    "year": 2002
+  }, {
+    "title": "Chlorobiaceae in Palaeozoic seas revealed by biological markers, isotopes and geology",
+    "authors": ["Summons RE", "Powell TG."],
+    "venue": "Nature 319:763–65",
+    "year": 1986
+  }, {
+    "title": "Identification of aryl isoprenoids in source rocks and crude oils: biological markers for the green sulphur bacteria",
+    "authors": ["Summons RE", "Powell TG."],
+    "venue": "Geochim. Cosmochim. Acta 51:557–66",
+    "year": 1987
+  }, {
+    "title": "Hydrocarbon composition of the late Proterozoic oils of the Siberian platform: implications for the depositional environment of source rocks",
+    "authors": ["Summons RE", "Powell TG."],
+    "venue": "Early Organic Evolution: Implications for Mineral and Energy Resources, ed. M Schidlowski, S Golubic, MM Kimberley, DM McKirdy, PA Trudinger, pp. 296–307. Berlin: Springer",
+    "year": 1992
+  }, {
+    "title": "Tetrahymanol, the most likely precursor of gammacerane, occurs ubiquitously in marine sediments",
+    "authors": ["HL ten Haven", "M Rohmer", "J Rullkötter", "P. Bisseret"],
+    "venue": "Geochim. Cosmochim",
+    "year": 1989
+  }, {
+    "title": "Highly isotopically depleted isoprenoids: molecular markers for ancient methane venting",
+    "authors": ["V Thiel", "J Peckmann", "R Seifert", "P Wehrung", "J Reitner", "W. Michaelis"],
+    "venue": "Geochim. Cosmochim. Acta 63:3959–66",
+    "year": 1999
+  }, {
+    "title": "A re-evaluation of the hydrocarbon habitat of the northern Perth Basin",
+    "authors": ["Thomas BM", "Barber CJ."],
+    "venue": "APPEA J. 44:13–57",
+    "year": 2004
+  }, {
+    "title": "Unique marine Permian–Triassic boundary section from Western Australia",
+    "authors": ["BM Thomas", "RJ Willink", "K Grice", "RJ Twitchett", "RR Purcell"],
+    "venue": "Aust. J. Earth Sci",
+    "year": 2004
+  }, {
+    "title": "Late Cretaceous–early Eocene mass extinctions in the deep sea",
+    "authors": ["E. Thomas"],
+    "venue": "Geol. Soc. Am. Spec. Publ. 247:481–95",
+    "year": 1990
+  }, {
+    "title": "Late Cretaceous through Neogene deep-sea benthic foraminifers (Maud Rise, Weddell Sea, Antarctica)",
+    "authors": ["E. Thomas"],
+    "venue": "Proc. Ocean Drill. Program Sci. Results 113:571–94",
+    "year": 1990
+  }, {
+    "title": "Petroleum Formation and Occurrence",
+    "authors": ["Tissot BP", "Welte DH."],
+    "venue": "Berlin: Springer",
+    "year": 1984
+  }, {
+    "title": "Changes of palaeoenvironmental conditions recorded in Late Devonian reef systems from the Canning Basin, Western Australia: a biomarker and stable isotope approach",
+    "authors": ["S Tulipani", "K Grice", "PF Greenwood", "P Haines", "PE Sauer"],
+    "venue": "Gondwana Res",
+    "year": 2015
+  }, {
+    "title": "Molecular proxies as indicators of freshwater incursion-driven salinity stratification",
+    "authors": ["S Tulipani", "K Grice", "PF Greenwood", "L Schwark", "ME Bottcher"],
+    "year": 2015
+  }, {
+    "title": "Palaeoenvironments and faunal recovery after the end-Permian mass extinction",
+    "authors": ["Twitchett RJ."],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol. 154:27–37",
+    "year": 1999
+  }, {
+    "title": "Rapid and synchronous collapse of marine and terrestrial ecosystems during the end-Permian biotic crisis",
+    "authors": ["RJ Twitchett", "CV Looy", "R Morante", "H Visscher", "PB. Wignall"],
+    "venue": "Geology 29:351",
+    "year": 2001
+  }, {
+    "title": "An unusual distribution of bicadinanes, tricadinanes and oligocadinanes in sediments from the Yacheng gas field, China",
+    "authors": ["BGK van Aarssen", "Z Quanxing", "JW. de Leeuw"],
+    "venue": "Org. Geochem",
+    "year": 1992
+  }, {
+    "title": "Floral changes across the Triassic/Jurassic boundary linked to flood basalt volcanism",
+    "authors": ["B van de Schootbrugge", "TM Quan", "S Lindström", "W Püttmann", "C Heunich"],
+    "year": 2009
+  }, {
+    "title": "End-Triassic calcification crisis and blooms of organic-walled ‘disaster species.",
+    "authors": ["B van de Schootbrugge", "F Tremolada", "Y Rosenthal", "TR Bailey", "S Feist-Burkhardt"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2007
+  }, {
+    "title": "Organic geochemical evidence for global fires at the Cretaceous/Tertiary boundary",
+    "authors": ["MI Venkatesan", "J. Dahl"],
+    "venue": "Nature 338:57–60",
+    "year": 1989
+  }, {
+    "title": "Bivalve network reveals latitudinal selectivity gradient at the end-Cretaceous mass extinction",
+    "authors": ["DA Vilhena", "EB Harris", "CT Bergstrom", "ME Maliska", "PD Ward"],
+    "year": 2013
+  }, {
+    "title": "A newly discovered norisoprenoid, 2,6,15,19tetramethylicosane, in Cretaceous black shales",
+    "authors": ["A Vink", "S Schouten", "S Sephton", "JS. Sinninghe Damsté"],
+    "venue": "Geochim. Cosmochim. Acta 62:965–70",
+    "year": 1998
+  }, {
+    "title": "The terminal Paleozoic fungal event: evidence of terrestrial ecosystem destabilization and collapse",
+    "authors": ["H Visscher", "H Brinkhuis", "DL Dilcher", "WC Elsik", "Y Eshet"],
+    "year": 1996
+  }, {
+    "title": "Sterols in microorganisms",
+    "authors": ["Volkman JK."],
+    "venue": "Appl. Microbiol. Biotechnol. 60:496–506",
+    "year": 2003
+  }, {
+    "title": "Microalgal biomarkers: a review of recent research developments",
+    "authors": ["JK Volkman", "SM Barrett", "SI Blackburn", "MP Mansour", "EL Sikes", "F. Gelin"],
+    "venue": "Org. Geochem. 29:1163–79",
+    "year": 1998
+  }, {
+    "title": "C25 and C30 highly branched isoprenoid alkanes in laboratory cultures of two marine diatoms",
+    "authors": ["JK Volkman", "SM Barrett", "GA. Dunstan"],
+    "venue": "Org. Geochem. 21:407–13",
+    "year": 1994
+  }, {
+    "title": "Geochemical significance of the occurrence of dinosterol and other 4-methyl sterols in a marine diatom",
+    "authors": ["JK Volkman", "SM Barrett", "GA Dunstan", "SW. Jeffrey"],
+    "venue": "Org. Geochem. 20:7–15",
+    "year": 1993
+  }, {
+    "title": "Global events in the Devonian and Carboniferous",
+    "authors": ["Walliser OH."],
+    "venue": "Global Events and Event Stratigraphy in the Phanerozoic, ed. OH Walliser, pp. 225–50. Berlin: Springer Verlag",
+    "year": 1996
+  }, {
+    "title": "Abundance anomalies of aromatic biomarkers in the Permian–Triassic boundary section at Meishan, China—evidence of end-Permian terrestrial ecosystem collapse",
+    "authors": ["C Wang", "H. Visscher"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol. 252:291–303",
+    "year": 2007
+  }, {
+    "title": "A new articulated hybodontoid from Late Permian of northwestern China",
+    "authors": ["NZ Wang", "X Zhang", "M Zhu", "WJ. Zhao"],
+    "venue": "Acta Zool. 90:159–70",
+    "year": 2009
+  }, {
+    "title": "Tricyclic terpanes in Precambrian bituminous sandstone from the eastern Yanshan region, North China",
+    "authors": ["Wang TG", "Simoneit BRT."],
+    "venue": "Chem. Geol. 120:155–70",
+    "year": 1995
+  }, {
+    "title": "Isotopic evidence bearing on Late Triassic extinction events, Queen Charlotte Islands, British Columbia, and implications for the duration and cause of the Triassic/Jurassic mass extinction",
+    "authors": ["PD Ward", "G Garrison", "J Haggart", "DA Kring", "MJ. Beattie"],
+    "venue": "Earth Planet. Sci. Lett. 224:589–600",
+    "year": 2004
+  }, {
+    "title": "Sudden productivity collapse associated with the Triassic-Jurassic boundary mass extinction",
+    "authors": ["PD Ward", "JW Haggart", "ES Carter", "D Wilbur", "HW Tipper", "T. Evans"],
+    "venue": "Science 292:1148–51",
+    "year": 2001
+  }, {
+    "title": "Oxygen-containing aromatic compounds in a Late Permian sediment",
+    "authors": ["JS Watson", "MA Sephton", "CV Looy", "I. Gilmour"],
+    "venue": "Org. Geochem. 36:371–84",
+    "year": 2005
+  }, {
+    "title": "The Great Ordovician Biodiversification Event",
+    "authors": ["BD Webby", "F Paris", "ML Droser", "IG. Percival"],
+    "venue": "New York: Columbia Univ. Press",
+    "year": 2004
+  }, {
+    "title": "Compound-specific carbon isotopes from Earth’s largest flood basalt eruptions directly linked to the end-Triassic mass extinction",
+    "authors": ["JH Whiteside", "PE Olsen", "T Eglinton", "ME Brookfield", "RN. Sambrotto"],
+    "venue": "PNAS 107:6721–25",
+    "year": 2010
+  }, {
+    "title": "Critical intervals in Earth’s history",
+    "authors": ["F Wiese", "J. Reitner"],
+    "venue": "Encyclopedia of Geobiology, ed. V Thiel, J Reitner, pp. 293–306. Heidelberg, Ger.: Springer",
+    "year": 2011
+  }, {
+    "title": "Sedimentology of the Triassic-Jurassic boundary beds in Pinhay Bay (Devon, SW England)",
+    "authors": ["Wignall PB."],
+    "venue": "Proc. Geol. Assoc. 112:349–60",
+    "year": 2001
+  }, {
+    "title": "The End-Permian mass extinction—how bad did it get? Geobiology 5:303–9 www.annualreviews.org • Biomarkers and Mass Extinction Events",
+    "authors": ["Wignall PB"],
+    "year": 2007
+  }, {
+    "title": "Extent, duration, and nature of the Permian-Triassic superanoxic event",
+    "authors": ["Wignall PB", "Twitchett RJ."],
+    "venue": "Geol. Soc. Am. Spec. Pap. 356:395–413",
+    "year": 2002
+  }, {
+    "title": "An organic record of terrestrial ecosystem collapse and recovery at the Triassic–Jurassic boundary in East Greenland",
+    "authors": ["KH Williford", "K Grice", "A Holman", "J. McElwain"],
+    "venue": "Geochim. Cosmochim. Acta 127:251–63",
+    "year": 2014
+  }, {
+    "title": "The molecular and isotopic effects of hydrothermal alteration of organic matter in the Paleoproterozoic McArthur River Pb/Zn/Ag ore deposit",
+    "authors": ["KH Williford", "K Grice", "GA Logan", "J Chen", "D. Huston"],
+    "venue": "Earth Planet. Sci. Lett. 301:382–92",
+    "year": 2011
+  }, {
+    "title": "An extended stable organic carbon isotope record across the Triassic–Jurassic boundary in the Queen Charlotte Islands, British Columbia, Canada",
+    "authors": ["KH Williford", "PD Ward", "GH Garrison", "R. Buick"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol. 244:290–96",
+    "year": 2007
+  }, {
+    "title": "Models for circulation patterns in epicontinental seas applied to Paleozoic facies of North American craton",
+    "authors": ["Witzke BJ."],
+    "venue": "Paleoceanography 2:229–48",
+    "year": 1987
+  }, {
+    "title": "Major wildfires at the K-T boundary",
+    "authors": ["WS Wolbach", "I Gilmour", "E. Anders"],
+    "venue": "Geol. Soc. Am. Spec. Pap. 247:391–400",
+    "year": 1990
+  }, {
+    "title": "A search for soot from global wildfires in central Pacific CretaceousTertiary boundary and other extinction and impact horizon sediments",
+    "authors": ["WS Wolbach", "S Widicus", "FT. Kyte"],
+    "venue": "Astrobiology 3:91–97",
+    "year": 2003
+  }, {
+    "title": "Changes in the global carbon cycle occurred as two episodes during the Permian–Triassic crisis",
+    "authors": ["S Xie", "RD Pancost", "J Huang", "PB Wignall", "J Yu"],
+    "venue": "Geology",
+    "year": 2007
+  }, {
+    "title": "Hopanoids of the methylotrophic bacteria Methylococcus capsulatus and Methylomonas sp",
+    "authors": ["M Zundel", "M. Rohmer"],
+    "venue": "as possible precursors for the C29 and C30 hopanoid chemical fossils. FEMS Microbiol. Lett. 28:61–64",
+    "year": 1985
+  }, {
+    "title": "Prokaryotic triterpenoids",
+    "authors": ["M Zundel", "M. Rohmer"],
+    "venue": "1. 3-Methylhopanoids from Acetobacter sp. and Methylococcus capsulatus. Eur. J. Biochem. 150:23–27",
+    "year": 1985
+  }, {
+    "title": "Prokaryotic triterpenoids",
+    "authors": ["M Zundel", "M. Rohmer"],
+    "venue": "3. The biosynthesis of 2b-methylhopanoids and 3b-methylhopanoids of Methylobacterium organophilum and Acetobacter pasteurianus spp. pasteurianus. Eur. J. Biochem. 150:35–39 612 Whiteside",
+    "year": 1985
+  }],
+  "id": "SP:060a96df9f4057daaadadfeeb5b4704369f2915a",
+  "authors": [{
+    "name": "Jessica H. Whiteside",
+    "affiliations": []
+  }, {
+    "name": "Kliti Grice",
+    "affiliations": []
+  }],
+  "abstractText": "The history of life on Earth is punctuated by a series of mass extinction episodes that vary widely in their magnitude, duration, and cause. Biomarkers are a powerful tool for the reconstruction of historical environmental conditions and can therefore provide insights into the cause and responses to ancient extinction events. In examining the five largest mass extinctions in the geological record, investigators have used biomarkers to elucidate key processes such as eutrophy, euxinia, ocean acidification, changes in hydrological balance, and changes in atmospheric CO2. By using these molecular fossils to understand how Earth and its ecosystems have responded to unusual environmental activity during these extinctions, models can be made to predict how Earth will respond to future changes in its climate. 581 Click here to view this article's online features: • Download figures as PPT slides • Navigate linked references • Download citations • Explore related articles • Search keywords ANNUAL REVIEWS Further A nn u. R ev . E ar th P la ne t. Sc i. 20 16 .4 4: 58 161 2. D ow nl oa de d fr om w w w .a nn ua lr ev ie w s. or g A cc es s pr ov id ed b y U ni ve rs ity o f A ri zo na L ib ra ry o n 02 /2 0/ 19 . F or p er so na l u se o nl y. EA44CH22-Whiteside ARI 10 June 2016 9:35",
+  "title": "Biomarker Records Associated with Mass Extinction Events"
+}

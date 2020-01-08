@@ -1,0 +1,296 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nJournal of Volcanology and Geothermal Research\nj ourna l homepage: www.e lsev ie r .com/ locate / jvo lgeores\nDual stable isotopes of CH4 from Yellowstone hot-springs suggest hydrothermal processes involving magmatic CO2\nJames J. Moran a,⁎, Laura M. Whitmore a, Zackary J. Jay b, Ryan deM. Jennings b, Jacob P. Beam b, Helen W. Kreuzer a, William P. Inskeep b,⁎⁎ a Pacific Northwest National Laboratory, Richland, WA 99352, USA b Thermal Biology Institute, Department of Land Resources and Environmental Sciences, Montana State University, Bozeman, MT 59717, USA\n⁎ Correspondence to: J.J. Moran, Chemical and Biolo Pacific Northwest National Laboratory, P.O. Box 999, MS USA. ⁎⁎ Correspondence to: W. P. Inskeep, Dept. of Land Sciences, PO Box 173120, Montana State University, Boze\nE-mail addresses: james.moran@pnnl.gov (J.J. Moran), (W.P. Inskeep).\nhttp://dx.doi.org/10.1016/j.jvolgeores.2017.05.011 0377-0273/© 2017 Elsevier B.V. All rights reserved.\na b s t r a c t a r t i c l e i n f o\nArticle history: Received 25 October 2016 Received in revised form 12 May 2017 Accepted 13 May 2017 Available online 16 May 2017\nVolcanism and post-magmatism contribute significant annual methane (CH4) fluxes to the atmosphere (on par with other natural sources such as forest fire and wild animal emissions) and have been implicated in past climate-change events. The Yellowstone hot spot is one of the largest volcanic systems on Earth and is known to emit CH4 (as well as carbon dioxide (CO2) and other gases), but the ultimate sources of this CH4 flux have not been elucidated. Here we use dual stable isotope analysis (δ2H and δ13C) of CH4 sampled from ten high-temperature geothermal pools in Yellowstone National Park along with other isotopic and gas analyses to evaluate potential sources of methane. The average δ13C and δ2H values of CH4 emitted from hot springs (26.7 (±2.4) and −236.9 (±12.0) ‰, respectively) are inconsistent with microbial methanogenesis but do not allow distinction between thermogenic and abiotic sources. Correlation between δ13CCH4 and δ13C of dissolved inorganic C (DIC) is consistentwith DIC as the parent C source for the observed CH4, or with equilibration of CH4 and DIC. Methane formation temperatures estimated by isotopic geothermometry based on δ13CCH4 and δ13CCO2 ranged from~250– 350 °C,which is just belowprevious temperature estimates for the hydrothermal reservoir. Further, the δ2HH2O of the thermal springs and themeasured δ2HCH4 values are consistent with equilibration between the source water and the CH4 at the formation temperatures. Though the ultimate origin of the CH4 could be attributed to either abiotic of themorgenic processes with subsequent isotopic equilibration, the C1/C2+ composition of the gases is more consistent with abiotic origins for most of the samples. Thus, our data support the hypothesis that subsurface rock-water interactions are responsible for at least a significant fraction of the CH4 flux from the Yellowstone National Park volcanic system.\n© 2017 Elsevier B.V. All rights reserved.\nKeywords: Methane Stable isotopes Hydrothermal Yellowstone National Park Deep carbon Greenhouse gas"
+  }, {
+    "heading": "1. Introduction",
+    "text": "Methane (CH4) is an important climate forcing gas emitted from active volcanos and/or during post-magmatic processes and is associated with several prior climatic excursions (Jiang et al., 2003; Kopf, 2003; Rampino, 2010; Svensen et al., 2004). Consequently, an understanding of the sources of atmospheric CH4 and factors influencing CH4 cycling are critical for interpreting past and current global climate change and for identifying environmental processes that may contribute to future changes in global CH4 concentrations (Etiope et al., 2007; Schoell, 1988). Atmospheric CH4 concentrations have increased during the last\ngical Signature Science group, IN P7-50, Richland, WA 99354,\nResources and Environmental man, MT 59717, USA. binskeep@montana.edu\n100 years, reflecting overall increases in anthropogenic sources and global climate forcing (Forster et al., 2007). Biotic sources of CH4 (either low-temperature microbial [i.e., methanogenesis] or high-temperature thermogenic) are thought to represent the predominant contributions to atmospheric CH4 (Kirschke et al., 2013). However, the abiotic formation of CH4, which was first recognized as a synthetic process in 1913, has also been identified as a mechanism of CH4 production in natural systems (Sherwood-Lollar et al., 2002). Laboratory experiments coupled with field measurements suggest abiotic formation of CH4 proceeds via several distinctmechanisms under different geochemical conditions (Etiope and Sherwood-Lollar, 2013).\nThe Yellowstone hotspot, inclusive of post-magmatic processes and associated surficial geothermal activity (Huang et al., 2015), and other volcanic systems worldwide, are conducive to numerous different mechanisms of CH4 formation and/or consumption. The discharge of gases from volcanism and geothermal sources has played an important role in Earth's evolutionary history (Kopf, 2003; Svensen et al., 2004), and Yellowstone National Park (YNP) is an excellent model system for\nunderstanding current and potential future impacts to atmospheric processes. Consequently, this geothermal complex provides an important opportunity to characterize dominant CH4 formation pathways that may also provide insight to other volcanic and/or post-magmatic systems. For example, numerous geothermal pools and springs in YNP are rich in archaea, and can contain methanogens that utilize H2 and CO2 to produce CH4 (Inskeep et al., 2013a). Moreover, hydrothermal fluid migration through organic-rich, marine and/or ancient sediments underlying YNP are potential sources of thermogenic CH4 (Holloway et al., 2011; Lorenson and Kvenvolden, 1993). Prior work has identified CH4 as an important component of the gas flux occurring from YNP, and δ13C values ranging from−23.4 to−59.2‰have been reported across a suite of geothermal sites (DesMarais et al., 1981; Gunter andMusgrave, 1971; Lorenson and Kvenvolden, 1993; Lowenstern et al., 2014). Relatively enriched CH4 with δ13C values greater than−30‰ have been observed in thermogenic sources (Schoell, 1988), but have also been documented in hydrothermal systems where reduction of magmatic CO2 is implicated as a major source of CH4 gas (Fiebig et al., 2015; Fiebig et al., 2009; Fiebig et al., 2007; Taran et al., 2010a). Consequently, δ13C values alone do not provide definitive evidence for these two primary CH4 sources.\nWe employed dual stable isotope measurements of CH4 (δ13C and δ2H), gas compositional analysis, and other isotopic signatures (δ13CDIC, δ2HH2O) to evaluate the likely sources of CH4 from different hyperthermal (N70 °C) pools and springs in YNP. These locations were chosen to include a range of geochemical properties (e.g., pH, sulfide, iron, CH4, DOC, DIC) and specific sites where prior metagenome sequencing has provided data on the composition andmetabolic potential of microbial communities present (Inskeep et al., 2013b; Inskeep et al., 2010). We originally hypothesized that CH4 from geothermal discharge in YNP would exhibit isotopic signatures less than −30‰ to −40‰, consistent with thermogenic or abiotic processes, or a possible mixture of these sources. Thermogenic CH4 could result from pyrolysis of organic-rich marine sediments especially on the east side of the caldera (Holloway et al., 2011), or thermal maturation of groundwater-derived dissolved organic C (meteoric) as it recharges the hydrothermal system (Des Marais et al., 1981; Fournier, 1989; Truesdell et al., 1977). Abiotic hydrothermal processes were also hypothesized to be important, considering that many hydrothermal systems in YNP contain relatively high levels of CO2 (Bergfeld et al., 2011) necessary for abiotic methanation. As we describe here, our data are inconsistent with microbial methanogenesis as amajor contributor to the observed CH4flux. Rather, our data support equilibration of CH4 with both DIC and H2O in the hydrothermal fluid at temperatures somewhat below that suggested for the Yellowstone hydrothermal reservoir and are thus consistent with a scenario of deep formation of CH4 by either thermogenic or abiotic processes and equilibration during ascent through the fluid column.\nAdditional gas compositional data are more consistent with abiotic origins of CH4, perhaps with the exception of one sampling site."
+  }, {
+    "heading": "2. Sampling and analytical protocols",
+    "text": "Gas samples were collected directly from geothermal spring dischargewaters (Table 1, S1) using an inverted beaker to trap gas bubbles as theywere released. These beakersweremodified to include a septum to permit transfer of the collected gaswith a syringe into pre-evacuated, 170 mL, baked (500 °C) serum bottles. Approximately 200 mL of gas was collected in each bottle (over-pressurized), followed by addition of 10 mL of spring water and sodium azide (final concentration = 1%) to sterilize the sample. The bottle was then inverted and stored at 4 °C until analysis. The δ13C and δ2H of CH4 samples were analyzed at the University of California Stable Isotope Facility (Davis, CA) with analytical replicates to assess measurement precision and field collection replicates to assess sample-to-sample variation. Briefly, samples were measured using a Precon device coupled to a Thermo Delta V Plus (Bremen, Germany) isotope ratiomass spectrometer (IRMS).Water and CO2 were scrubbed from the samples using an ascarite trap. The CH4 was subsequently cryofocused at liquid nitrogen temperature on a GS-Q column, and finally separated from residual gases on a GS-CarbonPLOT column. Methane underwent combustion or high temperature conversion to CO2 or H2 respectively prior to introduction into the IRMS. Samples were calibrated against a suite of four methane (in hydrocarbon-free air) standards obtained from Isomeric Instruments (Victoria, B.C., Canada). Headspace hydrocarbon gases, for C1/C2+ ratio determination, were quantified using an Agilent 6890A gas chromatograph with a flame ionization detector (GC-FID) and a ValcoPlot HayeSep P column (30mby0.53mm ID).Weused a 9.7mL/min heliumflowwith an initial threeminute hold at 70 °C followed by a 10 °C/min ramp to 150 °C then a 15 °C ramp to 180 °C where we held the temperature for 0.5 min. We used a SCOTTY analyzed gas mixture (10.0 mol% methane, 5.0 mol% nbutane, 5.0 mol% ethane, 5.0 mol% propane, balance helium) and dilutions of this mixture for calibrating the hydrocarbon concentrations.\nDistinct water samples (separate from those used in CH4 gas samples) were obtained for analysis of dissolved inorganic carbon (DIC) in spring discharge waters. DIC samples were filtered (0.2 μm) into baked I-Chem vials, capped without gas-phase headspace, and shipped on ice to the Colorado Plateau Stable Isotope Laboratory (Northern Arizona University, Flagstaff, AZ) for analysis. Samples were processed using an integrated total organic carbon analyzer (O.I. Analytical Model 1010 TOC Analyzer) and isotope ratio mass spectrometer (Finnigan DELTA XL). Long term instrument precisionwith this method is 0.2‰ for δ13C analysis and results from the current study were in excellent agreementwith values obtained at the same sites in other recent studies (Jennings et al., 2017; Jennings et al., 2014). Additional samples\nane gas sampled across geochemically distinct high-temperature systems in Yellowstone\nfor water isotope analysis (δ2H and δ18O) were collected in sealed bottles, filled without airspace, and stored at 4 °C until analysis using a Los Gatos Research (Mountain View, CA, USA) liquid-water isotope analyzer. Each of these samples was analyzed using a minimum of triplicate analytical replicates with data calibrated using a point slope correction based on a suite of isotope standards purchased from Los Gatos Research. In addition, we used a house standard (which has been calibrated against VSMOW and SLAP) to confirm the accuracy of the purchased standards. The precision of replicate runs, estimated using the observed standard deviation, was better than 2‰ and 0.8‰ for δ2H and δ18O respectively. Dissolved gas concentrations were determined using headspace gas chromatography (Inskeep et al., 2005). Briefly, filtered (b0.2 μm) aqueous samples were collected with no headspace in 170 mL, baked serum bottles. Gas analysis (thermal conductivity detection) was conducted using a Varian micro gas chromatograph (Model CP 2900) of an introduced headspace (30 mL) equilibrated with the aqueous phase via shaking for N1 h at room temperature (~25 °C). The amount of CH4(aq) was calculated using the Henry's Law constant for CH4 in H2O; the effective CH4(aq) detection limit using this method was ~10 nM. Total dissolved sulfide, dissolved oxygen, and pHwere determined on site using methods described previously (Inskeep et al., 2005)."
+  }, {
+    "heading": "3. Results",
+    "text": "Average carbon isotope (δ13C) values of CH4 from 10 different geothermal springs (several sampled over multiple seasons) ranged from ~−30 to −20‰ over a wide range of total CH4 concentrations (Fig. 1 and Table 1). Thermal (72–74 °C) source waters of Mammoth Hot Springs (MHS) had the lowest δ13CCH4 values (−30.2‰), while the three sites on the east side of the Yellowstone caldera (Crater Hills, CH; Joseph's Coat, JC; Washburn Springs, WS) exhibited the highest δ13CCH4 values of −20.5 to −24.9‰. The six sites from Norris Geyser Basin (NGB) exhibited consistent δ13CCH4 values averaging −27.6 ± 0.8‰. Thermogenic sources of CH4 typically exhibit δ13CCH4 values of less than−30‰, yet there are numerous examples where thermogenic CH4 produced from various organic deposits (e.g. coals, oils, kerogens) exhibit relatively enriched δ13CCH4 values greater than−30‰, especially during late-stage maturity (Burruss and Laughrey, 2010). Consequently, δ13CCH4 values alone cannot provide conclusive evidence regarding CH4 source because thermogenic and abiotic sources can yield similarly enriched δ13C values. Moreover, other processes such as methanotrophy or substrate limitation (Wang et al., 2015; Whiticar, 1999) may alter the δ13C of CH4 either during or after formation.\nTo further constrain potential mechanisms of CH4 formation, we applied a dual isotope approach by also measuring δ2H of the CH4 samples (Fig. 2). Geothermal CH4 samples analyzed in this study plot in regions of dual isotope space (Schoell plot) generally associated with abiotic CH4 production from CO2 (Etiope and SherwoodLollar, 2013) during rock-water interaction, and/or from volcanic/ magmatic sources.\nWe also used δ13CDIC and δ2HH2O isotopic measurements to explore potential links between 13C and 2Hpools and CH4 samples.We observed a strong correlation (R2 = 0.79) between δ13CCH4 and δ13CDIC values from all the systems except Narrow Gauge in theMammoth Hot Spring region (Fig. 3). Isotopic geothermometry based on δ13CCH4 and δ13CCO2 (Horita, 2001) was used to estimate formation and/or equilibration temperatures of CH4 from these samples. Estimates ranged from 250 to 350 °C and most samples produced values between 300 and 350 °C (Table 2), very similar to the range observed for other examples of hydrothermal CH4 production (Fiebig et al., 2015). Previous independent temperature estimates (Rye and Truesdell, 2007; Truesdell et al., 1977) of the common hydrothermal reservoir underlying Yellowstone National Park, based upon isotopic fractionation, changes in chloride ion concentration within single-stage and continuous subsurface boiling processes, and mixture ratios with meteoric water, converge at 360 °C. Together, these estimates suggest that a large proportion of the total CH4 sampled from geothermal discharge was formed (or underwent isotopic equilibration) near the temperature of the hydrothermal reservoir. Estimates of CH4 formation temperatures using geothermometry assume that δ13CDIC measured in surficial springs do not exhibit fractionation relative to δ13CCO2 at depth. The measured values of δ13CDIC near 0‰ (Table 1) are consistent with δ13CCO2 of volcanic sources (Fiebig et al., 2009) and suggest that surficial δ13CDIC is indicative of δ13CCO2 at depth.\nBiogenic and thermogenic methanation processes impart distinct signatures in the proportion of CH4 to higher hydrocarbons in the resulting gas. For instance, higher ratios of CH4 (C1) versus larger hydrocarbons (C2+= ethane, propane, butane, etc.) are observed (typical C1/ C2+ N 1000) in microbially-produced versus thermogenic CH4 (Pohlman et al., 2009). Values of C1/C2+ from this study (as well as other data from YNP) were all well below C1/C2+ ratios typical for microbial methanogenesis (Fig. 4). Thermogenic sources of CH4 generally yield C1/C2+ ratios below 100, due to the generation of higher-order alkanes during pyrolysis of organic C (Gunter, 1978). The observed C1/ C2+ values from geothermal sources in this study ranged from below 100 (at Washburn Springs), well within the expected ratios typical for thermogenic CH4, to near 1000 (at Joseph's Coat Hot Springs) (Fig. 4).\n(Adapted from Etiope and Sherwood-Lollar, 2013)."
+  }, {
+    "heading": "4. Discussion",
+    "text": "Identification of the source of CH4 gas in these samples is challenging due to the number of processes that may impact isotopic and compositional signatures of CH4, H2O, and DIC. Nevertheless, empirical data collected from a wide range of coal, oil, hydrothermal, microbial, and/or abiotic CH4 sources can provide a guide for initial interpretation, with subsequent evaluation focusing on potential constraining factors during CH4 production. The dual isotope signatures of geothermal CH4 samples from YNP (Fig. 2) fall within an empirically identified isotope space often associated with the abiotic production of CH4 (Etiope and Sherwood-Lollar, 2013; Schoell, 1988). We use this as a starting point to interpret the origin(s) of CH4 in this suite of samples and evaluate the likelihood of abiogenic CH4 production in light of potential alternative explanations including formation by microbial or thermogenic processes."
+  }, {
+    "heading": "4.1. Microbial methanogenesis",
+    "text": "Microbially-produced CH4 generally exhibits depleted δ13C signatures (b−40‰), where hydrogenotrophic methanogenesis produces even more extreme δ13C depletion than acetoclastic methanogenesis (Whiticar et al., 1986). Yet, recent work has demonstrated relatively enriched δ13CCH4 (some with δ13C N −30‰) associated with substrate-limited methanogenesis in extremely saline environments (Kelley et al., 2014; Kelley et al., 2012). Similarly,Wang et al. (2015) observed isotopic enrichment attributable to severe substrate limitation, and δ13C-enrichment has been observed in methanogen lipids (Bradley et al., 2009). Thus, while the observed geothermal δ13CCH4 values were highly enriched (δ13C N −30‰) and not consistent with the majority of measurements for microbial methanogenesis, they do not completely excludemicrobial contributions to CH4 production. Further, δ13CCH4 can be altered through post-production processes and thus the measured δ13CCH4 may not always be representative of isotopic signatures inherited during CH4 production. For example, methanotrophy\ncan result in isotopic enrichment of residual CH4 (Kinnaman et al., 2007; Whiticar, 1999). Methanotrophy typically induces isotopic enrichment in both δ13C and δ2H (Whiticar, 1999) and if we superimpose this isotopic enrichment onto the data points in Fig. 1wefind that the relative depletion signature in δ2HCH4makes it very unlikely that the enriched δ13C values resulted from post-production consumption of microbially-produced CH4. The combination of relative δ13C enrichment juxtaposed with depleted δ2H in CH4 gas samples is difficult to explain viamicrobial methanogenesis or methanotrophic consumption of CH4.\nAdditional evidence argues against a microbial source of the CH4 in YNP gas samples. The C1/C2+ ratios of YNP geothermal gas samples (b1000) are inconsistent with microbial methanogenesis (Pohlman et al., 2009). Further, previous metagenomic studies at these sites (Inskeep et al., 2013a; Inskeep et al., 2010) suggest a low abundance of known methanogens in these geothermal source pools. While it is possible that methanogens are active in the source-pool sediments of some springs sampled, the data suggest that the contribution of microbially-derived CH4 is at most very small relative to the total flux."
+  }, {
+    "heading": "4.2. Abiogenic versus thermogenic origin",
+    "text": "Thermogenic CH4 sources have been characterized extensively in numerous coal, gas and/or oil fields, and δ13CCH4 values often range from−25 to−50‰. It is not uncommon to observe relatively enriched δ13CCH4 signatures (δ13C values N −30‰) associated with certain types of organic sourcematerials (e.g. Cao et al., 2016;Wei et al., 2016), especially in deposits that reflect late stage maturity (Burruss and Laughrey, 2010). Nearly identical δ13CCH4 values of−24 to−26‰were observed in Washburn Spring gas samples obtained ~40 years ago (Gunter and\nperatures.\nMusgrave, 1971), which were then interpreted as being primarily thermogenic based, in part, on the presence of other higher-order (C2+) gases in the samples. Indeed, we also observed ratios of C1/C2+ gases b100 for samples from Washburn Springs (Fig. 4). Thermogenic processes have been implicated in the production of hydrocarbons detected in two different springs on the east side of the caldera (Rainbow and Calcite Springs) in the general vicinity of Washburn Spring (Clifton et al. 1990). Contact between hydrothermal water with marine sedimentary rock containing significant amounts of organic matter and ammonium (Holloway et al., 2011) would be a potential source of thermogenic CH4 gas at Washburn Spring as well as at Joseph's Coat, which is also on the east side of the caldera. Consequently, it is possible that thermogenic sources of CH4 contribute to the isotopic signatures observed in the gas samples from these springs. The predominant source rocks beneath Norris Geyser Basin are rhyolitic with little known organic deposits, likely precluding a similar thermogenic mechanism of CH4 formation at those sites. Alternatively, factors controlling the production of CH4 may not be identical to those controlling production of the observed higherorder alkanes, as has been recently suggested in other hydrothermal settings (Fiebig et al., 2015). Specifically, CH4 production could come from a mixture of organic matter pyrolysis (thermogenic) and magmatic CO2 reduction, while the C2+ gases may be contributed primarily from organic matter sources.\nThe δ2HCH4 values are largely inconsistentwith thermogenic sources for all of the springs sampled. Thermogenic CH4 is typically enriched in 2H (Etiope and Sherwood-Lollar, 2013; Schoell, 1988), whereas our data from geothermal systems show relatively depleted δ2HCH4 values ranging from −220 to −270‰. This depletion would argue in favor of abiotic (e.g., Fischer-Tropsch-type (FTT) reactions; (Foustoukos and Seyfried, 2004; McCollom and Seewald, 2007)) and/or magmatic sources of CH4. Methane produced via abiotic mechanisms (i.e. serpentinization reactions with ultramafic rocks and/or rock-water interactions with igneous crystalline sources) generally exhibits lighter δ2H signatures than observed for thermogenic sources. While recent characterization of CH4-enriched hydrothermal fluids from Mexico showed very heavy δ13C and δ2HCH4 signatures (Taran et al., 2010b), the overall preponderance of depleted δ2HCH4 values for abiotic CH4 likely suggests an abiotic component to the CH4we sampled. The hydrothermal source waters of the Yellowstone volcanic system provide abundant opportunities for water-rock interactions with igneous crystalline sources and this formationmechanism is consistent with the observed δ13C and δ2H from all of the sampling sites.\nAn additional explanation for the observed dual isotope ratios is that CH4 equilibrated with CO2 in the hydrothermal environment during or after its formation. Indeed, the geothermometry used to predict formation temperature is based on the assumption of such an equilibrium. If CO2 and CH4 equilibrated at the predicted formation temperatures shown in Table 2, then CH4 and H2O should also have equilibrated via CH4-H2-H2O isotopic exchange. We used the equations of Horibe and Craig (Horibe and Craig, 1995) to calculate CH4-H2O fractionation factors (α, where α = RH2O/RCH4) at the geothermometric equilibration temperatures calculated from the δ13C data for CH4 and CO2 (Table 2). We then used these fractionation values to predict the δ2H of H2O in equilibrium with each CH4 sample. The resulting δ2H values predicted for H2O in equilibriumwith the various CH4 samples were either within error (based on the standard deviations of the observed δ2HCH4 isotope ratios) or very close to the predicted isotope range and suggest isotopic equilibration between CH4 and subsurface H2O (Table 2), with one exception.\nThe geothermal waters in Yellowstone Park are believed to originate from a common hydrothermal source with T = 360 °C and δ2H = −149‰ to −145‰ (Hurwitz and Lowenstern, 2014; Kharaka et al., 2002; Truesdell et al., 1977). The source water is then modified as it ascends to individual springs via boiling, evaporation, and admixture of meteoric water. These processes could readily account for the relatively\nminor differences in the predicted equilibration δ2HH20 values and the measured surface δ2HH20 values.\nThe single spring that was inconsistent with this model was Narrow Gauge at Mammoth Hot Springs, which showed a predicted δ2HH2O of −166‰. The Mammoth Hot Springs complex contains very high CO2, as a result of hydrothermal fluid contact withMadison limestones. The measured δ13CCH4 and δ13CDIC values at Narrow Gauge did not follow the observed trend line for all other sites, which suggests that the CH4 and CO2 are not in equilibrium. The δ2HH2O value predicted for Narrow Gauge (Table 2) was lower than that of the source H2O, which is also dubious and consistent with the anomalous behavior of δ13CDIC and δ13CCH4. The lowest δ2HH2O value of cold surface water reported in the Yellowstone area is −153‰ (Kharaka et al., 2002), which cannot admix with the geothermal source water to yield an isotope ratio of −166‰. Thus, the model discussed here, based on equilibration between CH4 and hydrothermal fluids, does not appear to be applicable to Narrow Gauge spring."
+  }, {
+    "heading": "4.3. Implications for the origins of methane in Yellowstone National Park",
+    "text": "The evidence presented here rules out microbial methanogenesis as a significant source of CH4 in the sampled springs and supports an abiogenic and/or thermogenic process as the primary source of CH4. Dual isotope (δ13C and δ2H) data are consistent with equilibration with hydrothermal fluid somewhat cooler than the widely accepted estimate (360 °C) for the hydrothermal reservoir underlying the park. Thus, CH4 formation could have occurred at the equilibration temperature or beneath it, in which case the gas ascended through the equilibration zone. Consequently, the dual isotope data alone does not suggest whether the CH4 is primarily abiotic or thermogenic. However, C1/C2+ ratios and underlying geology suggest that the CH4 emitted from springs in Norris Geyser Basin, Crater Hills, and Joseph's Coat formed primarily from magmatic CO2 via abiotic processes, while CH4 emitted from Washburn Spring likely contains contributions from thermogenic processes.\nClearly, the relative contribution of thermogenic CH4 to the overall CH4 flux may vary with each geothermal spring, due to the fact that numerous locations were sampled that exhibit significantly different source rock (and organic material) in contact with ascending hydrothermal fluids (e.g., Norris Geyser Basin vs Washburn). Nevertheless, the relatively narrow range in δ13CCH4 values across these diverse geothermal systems argues for a more uniform process controlling the isotope ratio of CH4 as might be expected from reduction of or equilibration with magmatic CO2."
+  }, {
+    "heading": "Acknowledgements",
+    "text": "This research was supported by the U.S. Department of Energy (DOE), Office of Biological and Environmental Research (BER), as part of the Genome Sciences Program funding to the Pacific Northwest National Laboratory's Foundational Science Focus Area. The Pacific Northwest National Laboratory is operated for DOE by Battelle Memorial Institute under contract DE-AC05-76RL01830. The authors appreciate support from the Yellowstone Center for Resources (National Park Service) for permitting necessary to conduct research at the sites referenced herein (YELL-05068) and appreciate numerous beneficial comments from an anonymous reviewer. W.P.I. also appreciates support from the Montana Agricultural Experiment Station (Project 911300)."
+  }, {
+    "heading": "Appendix A. Supplementary data",
+    "text": "Supplementary data to this article can be found online at http://dx. doi.org/10.1016/j.jvolgeores.2017.05.011."
+  }],
+  "year": 2017,
+  "references": [{
+    "title": "Gas and isotope chemistry of thermal features in Yellowstone National Park, Wyoming",
+    "authors": ["D. Bergfeld", "J.B. Lowenstern", "A.G. Hunt", "Shanks", "W.C.P.I", "W.C. Evans"],
+    "venue": "USGS Scientific Investigations Report,",
+    "year": 2011
+  }, {
+    "title": "Extraordinary C-13 enrichment of diether lipids at the Lost City Hydrothermal Field indicates a carbon-limited ecosystem",
+    "authors": ["A.S. Bradley", "J.M. Hayes", "R.E. Summons"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 2009
+  }, {
+    "title": "Carbon and hydrogen isotopic reversals in deep basin gas: Evidence for limits to the stability of hydrocarbons",
+    "authors": ["R.C. Burruss", "C.D. Laughrey"],
+    "venue": "Org. Geochem",
+    "year": 2010
+  }, {
+    "title": "Geochemical characteristics and implications of shale gas from the Longmaxi Formation, Sichuan Basin, China",
+    "authors": ["C. Cao", "Z. Lv", "L. Li", "L. Du"],
+    "venue": "J. Nat. Gas Geosci",
+    "year": 2016
+  }, {
+    "title": "Molecular carbon isotopic evidence for the origin of geothermal hydrocarbons",
+    "authors": ["D.J. Des Marais", "J.H. Donchin", "N.L. Nehring", "A.H. Truesdell"],
+    "venue": "Nature",
+    "year": 1981
+  }, {
+    "title": "Abiotic methane on Earth",
+    "authors": ["G. Etiope", "B. Sherwood-Lollar"],
+    "venue": "Rev. Geophys",
+    "year": 2013
+  }, {
+    "title": "Natural emissions of methane from geothermal and volcanic sources in Europe",
+    "authors": ["G. Etiope", "T. Fridriksson", "F. Italiano", "W. Winwarter", "J. Theloke"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 2007
+  }, {
+    "title": "Natural evidence for rapid abiogenic hydrothermal generation of CH4",
+    "authors": ["J. Fiebig", "A.B. Woodland", "J. Spangenberg"],
+    "venue": "Oschmann,W.,",
+    "year": 2007
+  }, {
+    "title": "Excess methane in continental hydrothermal emissions is abiogenic",
+    "authors": ["J. Fiebig", "A.B. Woodland", "W. D'Alessandro", "W. Puttmann"],
+    "venue": "Geology 37",
+    "year": 2009
+  }, {
+    "title": "Isotopic patterns of hydrothermal hydrocarbons emitted from Mediterranean volcanoes",
+    "authors": ["J. Fiebig", "S. Hofmann", "F. Tassi", "W. D'Alessandro", "O. Vaselli", "A.B. Woodland"],
+    "venue": "Chem. Geol",
+    "year": 2015
+  }, {
+    "title": "Changes in atmospheric constituents and in radiative forcing",
+    "authors": ["P. Forster", "V. Ramaswamy", "P. Artaxo", "T. Berntsen", "R. Betts", "D.W. Fahey", "J. Haywood", "J. Lean", "D.C. Lowe", "G. Myhre", "J. Nganga", "R. Pinn", "G. Raga", "M. Schulz", "R.V. Dorland"],
+    "venue": "Climate Change",
+    "year": 2007
+  }, {
+    "title": "Geochemistry and dynamics of the Yellowstone-National-Park hydrothermal system",
+    "authors": ["R.O. Fournier"],
+    "venue": "Annu. Rev. Earth Planet. Sci",
+    "year": 1989
+  }, {
+    "title": "Hydrocarbons in hydrothermal vent fluids: the role of chromium-bearing catalysts",
+    "authors": ["D.I. Foustoukos", "W.E. Seyfried"],
+    "venue": "Science",
+    "year": 2004
+  }, {
+    "title": "C1–C4 hydrocarbons in hydrothermal gases",
+    "authors": ["B.D. Gunter"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1978
+  }, {
+    "title": "New evidence on origin of methane in hydrothermal gases",
+    "authors": ["B.D. Gunter", "B.C. Musgrave"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1971
+  }, {
+    "title": "Ammonium in thermal waters of Yellowstone National Park: processes affecting speciation and isotope fractionation",
+    "authors": ["J.M. Holloway", "D.K. Nordstrom", "J.K. Bohlke", "R.B. McCleskey", "J.W. Ball"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 2011
+  }, {
+    "title": "D/H fractionation in the system methane-hydrogen-water",
+    "authors": ["Y. Horibe", "H. Craig"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1995
+  }, {
+    "title": "Carbon isotope exchange in the system CO2-CH4 at elevated temperatures",
+    "authors": ["J. Horita"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 2001
+  }, {
+    "title": "The Yellowstone magmatic system from the mantle plume to the upper crust",
+    "authors": ["H.H. Huang", "F.C. Lin", "B. Schmandt", "J. Farrell", "R.B. Smith", "V.C. Tsai"],
+    "venue": "Science",
+    "year": 2015
+  }, {
+    "title": "Dynamics of the Yellowstone hydrothermal system",
+    "authors": ["S. Hurwitz", "J.B. Lowenstern"],
+    "venue": "Rev. Geophys",
+    "year": 2014
+  }, {
+    "title": "On the energetics of chemolithotrophy in nonequilibrium systems: case studies of geothermal springs in Yellowstone",
+    "authors": ["W.P. Inskeep", "G.G. Ackerman", "W.P. Taylor", "M. Kozubal", "S. Korf", "R.E. Macur"],
+    "venue": "National Park. Geobiology",
+    "year": 2005
+  }, {
+    "title": "Metagenomes from high-temperature chemotrophic systems reveal geochemical controls onmicrobial community structure and function",
+    "authors": ["W.P. Inskeep", "D.B. Rusch", "Z.J. Jay", "M.J. Herrgard", "M.A. Kozubal", "T.H. Richardson", "R.E. Macur", "N. Hamamura", "R.D. Jennings", "B.W. Fouke", "A.L. Reysenbach", "F. Roberto", "M. Young", "A. Schwartz", "E.S. Boyd", "J.H. Badger", "E.J. Mathur", "A.C. Ortmann", "M. Bateson", "G. Geesey", "M. Frazier"],
+    "year": 2010
+  }, {
+    "title": "Phylogenetic and functional analysis of metagenome sequence from high-temperature archaeal habitats demonstrate linkages between metabolic potential and geochemistry",
+    "authors": ["W.P. Inskeep", "Z.J. Jay", "M.J. Herrgard", "M.A. Kozubal", "D.B. Rusch", "S.G. Tringe", "R.E. Macur", "R.D. Jennings", "E.S. Boyd", "J.R. Spear", "F.F. Roberto"],
+    "venue": "Front. Microbiol",
+    "year": 2013
+  }, {
+    "title": "Carbon dioxide fixation by Metallosphaera yellowstonensis and acidothermophilic iron-oxidizing microbial communities from Yellowstone",
+    "authors": ["R.M. Jennings", "L.M. Whitmore", "J.J. Moran", "H.W. Kreuzer", "W.P. Inskeep"],
+    "venue": "National Park. Appl. Environ. Microbiol",
+    "year": 2014
+  }, {
+    "title": "Integration of metagenomic and stable carbon isotope evidence reveals the extent and mechanisms of carbon dioxide fixation in high-temperature microbial communities",
+    "authors": ["R.D. Jennings", "J.J. Moran", "Z.J. Jay", "J.P. Beam", "L.M. Whitmore", "M.A. Kozubal", "H.W. Kreuzer", "W.P. Inskeep"],
+    "venue": "Front. Microbiol",
+    "year": 2017
+  }, {
+    "title": "Stable isotopic evidence for methane seeps in Neoproterozoic postglacial cap carbonates",
+    "authors": ["G.Q. Jiang", "M.J. Kennedy", "N. Christie-Blick"],
+    "venue": "Nature",
+    "year": 2003
+  }, {
+    "title": "Substrate limitation for methanogenesis in hypersaline environments",
+    "authors": ["C.A. Kelley", "J.A. Poole", "A.M. Tazaz", "J.P. Chanton", "B.M. Bebout"],
+    "venue": "Astrobiology",
+    "year": 2012
+  }, {
+    "title": "Trimethylamine and organic matter additions reverse substrate limitation effects on the delta C-13 values of methane produced in hypersaline microbial Mats",
+    "authors": ["C.A. Kelley", "B.E. Nicholson", "C.S. Beaudoin", "A.M. Detweiler", "B.M. Bebout"],
+    "venue": "Appl. Environ. Microbiol",
+    "year": 2014
+  }, {
+    "title": "Isotope and Chemical Compositions of Meteoric and Thermal Waters and Snow From the Greater Yellowstone National Park Region",
+    "authors": ["Y.K. Kharaka", "J.J. Thordsen", "L.D. White"],
+    "venue": "U.S. Geological Survey,",
+    "year": 2002
+  }, {
+    "title": "Carbon and hydrogen isotope fractionation associated with the aerobic microbial oxidation of methane, ethane, propane and butane",
+    "authors": ["F.S. Kinnaman", "D.L. Valentine", "S.C. Tyler"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 2007
+  }, {
+    "title": "Three decades of global methane sources and sinks",
+    "authors": ["M. Rigby", "B. Ringeval", "M. Santini", "M. Schmidt", "D.T. Shindell", "I.J. Simpson", "R. Spahni", "L.P. Steele", "S.A. Strode", "K. Sudo", "S. Szopa", "G.R. van der Werf", "A. Voulgarakis", "M. van Weele", "R.F. Weiss", "J.E. Williams", "G. Zeng"],
+    "venue": "Nat. Geosci",
+    "year": 2013
+  }, {
+    "title": "Global methane emission through mud volcanoes and its past and present impact on the Earth's climate",
+    "authors": ["A.J. Kopf"],
+    "venue": "Int. J. Earth Sci",
+    "year": 2003
+  }, {
+    "title": "A comparison of hydrocarbon gases from natural sources in the Northwestern United States",
+    "authors": ["T.D. Lorenson", "K.A. Kvenvolden"],
+    "venue": "The Future of Energy Gases. U.S. Geological Survey Professional Paper",
+    "year": 1993
+  }, {
+    "title": "Prodigious degassing of a billion years of accumulated radiogenic helium at Yellowstone",
+    "authors": ["J.B. Lowenstern", "W.C. Evans", "D. Bergfeld", "A.G. Hunt"],
+    "venue": "Nature",
+    "year": 2014
+  }, {
+    "title": "Abiotic synthesis of organic compounds in deep-sea hydrothermal environments",
+    "authors": ["T.M. McCollom", "J.S. Seewald"],
+    "venue": "Chem. Rev",
+    "year": 2007
+  }, {
+    "title": "Methane sources and production in the northern Cascadia margin gas hydrate system",
+    "authors": ["J.W. Pohlman", "M. Kaneko", "V.B. Heuer", "R.B. Coffin", "M. Whiticar"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2009
+  }, {
+    "title": "Mass extinctions of life and catastrophic flood basalt volcanism",
+    "authors": ["M.R. Rampino"],
+    "venue": "Proc. Natl. Acad. Sci. U. S. A",
+    "year": 2010
+  }, {
+    "title": "The Question of Recharge to the Deep Thermal Reservoir Underlying the Geysers and Hot Springs of Yellowstone National Park. Publications of the US Geological Survey: Paper 82",
+    "authors": ["R.O. Rye", "A.H. Truesdell"],
+    "year": 2007
+  }, {
+    "title": "Multiple origins of methane in the earth",
+    "authors": ["M. Schoell"],
+    "venue": "Chem. Geol",
+    "year": 1988
+  }, {
+    "title": "Abiogenic formation of alkanes in the Earth's crust as a minor source for global hydrocarbon reservoirs",
+    "authors": ["B. Sherwood-Lollar", "T.D. Westgate", "J.A. Ward", "G.F. Slater", "G. Lacrampe-Couloume"],
+    "venue": "Nature",
+    "year": 2002
+  }, {
+    "title": "Release ofmethane from a volcanic basin as amechanism for initial Eocene global warming",
+    "authors": ["H. Svensen", "S. Planke", "A. Malthe-Sorenssen", "B. Jamtveit", "R. Myklebust", "T.R. Eidem", "S.S. Rey"],
+    "venue": "Nature",
+    "year": 2004
+  }, {
+    "title": "Carbon and hydrogen isotopic compositions of products of open-system catalytic hydrogenation of CO2: implications for abiogenic hydrocarbons in Earth's crust",
+    "authors": ["Y.A. Taran", "G.A. Kliger", "E. Cienfuegos", "A.N. Shuykin"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 2010
+  }, {
+    "title": "Geochemistry of H-2- and CH4-enriched hydrothermal fluids of Socorro Island, Revillagigedo Archipelago, Mexico, Evidence for serpentinization and abiogenic",
+    "authors": ["Y.A. Taran", "N.R. Varley", "S. Inguaggiato", "E. Cienfuegos"],
+    "venue": "methane. Geofluids",
+    "year": 2010
+  }, {
+    "title": "Effects of subsurface boiling and dilution on isotopic compositions of Yellowstone thermal waters",
+    "authors": ["A.H. Truesdell", "M. Nathenson", "R.O. Rye"],
+    "venue": "J. Geophys. Res",
+    "year": 1977
+  }, {
+    "title": "Nonequilibrium clumped isotope signals in microbial methane",
+    "authors": ["D.T. Wang", "D.S. Gruen", "B. Sherwood-Lollar", "Hinrichs", "K.-U", "L.C. Stewart", "J.F. Holden", "A.N. Hristov", "J.W. Pohlman", "P.L. Morrill", "M. Könneke", "K.B. Delwiche", "E.P. Reeves", "C.N. Sutcliffe", "D.J. Ritter", "J.S. Seewald", "J.C. McIntosh", "H.F. Hemond", "M.D. Kubo", "D. Cardace", "T.M. Hoehler", "S. Ono"],
+    "venue": "Science 348,",
+    "year": 2015
+  }, {
+    "title": "Geochemical features and genesis of shale gas in the Jiaoshiba Block of Fuling Shale Gas Field, Chongqing, China",
+    "authors": ["X. Wei", "T. Guo", "R. Liu"],
+    "venue": "J. Nat. Gas Geosci",
+    "year": 2016
+  }, {
+    "title": "Carbon and hydrogen isotope systematics of bacterial formation and oxidation of methane",
+    "authors": ["M.J. Whiticar"],
+    "venue": "Chem. Geol",
+    "year": 1999
+  }, {
+    "title": "Biogenic methane formation in marine and fresh-water",
+    "authors": ["M.J. Whiticar", "E. Faber", "M. Schoell"],
+    "year": 1986
+  }],
+  "id": "SP:67356d0794232c6aa196f179fa09b667d074bc49",
+  "authors": [{
+    "name": "James J. Moran",
+    "affiliations": []
+  }, {
+    "name": "Laura M. Whitmore",
+    "affiliations": []
+  }, {
+    "name": "Zackary J. Jay",
+    "affiliations": []
+  }, {
+    "name": "Ryan deM. Jennings",
+    "affiliations": []
+  }, {
+    "name": "Jacob P. Beam",
+    "affiliations": []
+  }, {
+    "name": "Helen W. Kreuzer",
+    "affiliations": []
+  }, {
+    "name": "William P. Inskeep",
+    "affiliations": []
+  }],
+  "abstractText": "Article history: Received 25 October 2016 Received in revised form 12 May 2017 Accepted 13 May 2017 Available online 16 May 2017 Volcanism and post-magmatism contribute significant annual methane (CH4) fluxes to the atmosphere (on par with other natural sources such as forest fire and wild animal emissions) and have been implicated in past climate-change events. The Yellowstone hot spot is one of the largest volcanic systems on Earth and is known to emit CH4 (as well as carbon dioxide (CO2) and other gases), but the ultimate sources of this CH4 flux have not been elucidated. Here we use dual stable isotope analysis (δH and δC) of CH4 sampled from ten high-temperature geothermal pools in Yellowstone National Park along with other isotopic and gas analyses to evaluate potential sources of methane. The average δC and δH values of CH4 emitted from hot springs (26.7 (±2.4) and −236.9 (±12.0) ‰, respectively) are inconsistent with microbial methanogenesis but do not allow distinction between thermogenic and abiotic sources. Correlation between δCCH4 and δC of dissolved inorganic C (DIC) is consistentwith DIC as the parent C source for the observed CH4, or with equilibration of CH4 and DIC. Methane formation temperatures estimated by isotopic geothermometry based on δCCH4 and δCCO2 ranged from~250– 350 °C,which is just belowprevious temperature estimates for the hydrothermal reservoir. Further, the δHH2O of the thermal springs and themeasured δHCH4 values are consistent with equilibration between the source water and the CH4 at the formation temperatures. Though the ultimate origin of the CH4 could be attributed to either abiotic of themorgenic processes with subsequent isotopic equilibration, the C1/C2+ composition of the gases is more consistent with abiotic origins for most of the samples. Thus, our data support the hypothesis that subsurface rock-water interactions are responsible for at least a significant fraction of the CH4 flux from the Yellowstone National Park volcanic system. © 2017 Elsevier B.V. All rights reserved.",
+  "title": "Dual stable isotopes of CH4 from Yellowstone hot-springs suggest hydrothermal processes involving magmatic CO2"
+}

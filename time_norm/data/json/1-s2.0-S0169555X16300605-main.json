@@ -1,0 +1,652 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nGeomorphology\nj ourna l homepage: www.e lsev ie r .com/ locate /geomorph\nEvolution of continental-scale drainage in response to mantle dynamics and surface processes: An example from the Ethiopian Highlands\nAndrea Sembroni a,⁎, Paola Molin a, Frank J. Pazzaglia b, Claudio Faccenna a, Bekele Abebe c a Department of Science, Roma Tre University, 1 Largo San Leonardo Murialdo, Rome 00146, Italy b Department of Earth and Environmental Sciences, Lehigh University, 31 Williams, Bethlehem, PA 18015, USA c Department of Earth Sciences, School of Earth Sciences, Addis Ababa, Ethiopia\n⁎ Corresponding author at: University of Roma Tre, 1 00146 Rome, Italy.\nE-mail address: andrea.sembroni@uniroma3.it (A. Sem\nhttp://dx.doi.org/10.1016/j.geomorph.2016.02.022 0169-555X/© 2016 Elsevier B.V. All rights reserved.\na b s t r a c t a r t i c l e i n f o\nArticle history: Received 9 September 2015 Received in revised form 7 January 2016 Accepted 20 February 2016 Available online 23 February 2016\nEthiopia offers an excellent opportunity to study the effects and linkage between mantle dynamics and surface processes on landscape evolution. The Ethiopian Highlands (NW Ethiopia), characterized by a huge basaltic plateau, is part of the African Superswell, a wide region of dynamically-supported anomalously high topography related to the rising of the Afar plume. The initiation and steadiness of dynamic support beneath Ethiopia has been explored in several studies. However the presence, role, and timing of dynamic support beneath Ethiopia and its relationship with continental flood basalts volcanism and surface processes are poorly defined. Here, we present a geomorphological analysis of the Ethiopian Highlands supplying new constraints on the evolution of river network. We investigated the general topographic features (filtered topography, swath profiles, local relief) and the river network (river longitudinal profiles) of the study area.We also apply a knickpoint celeritymodel in order to provide a chronological framework to the evolution of the river network. The results trace the long-termprogressive capture of the Ethiopian Highlands drainage system and confirm the long-termdynamic support of the area, documenting its impact on the contrasting development of the Blue Nile and Tekeze basins.\n© 2016 Elsevier B.V. All rights reserved.\nKeywords: Ethiopian Highlands topography River network Knickpoint celerity model Landscape evolution"
+  }, {
+    "heading": "1. Introduction",
+    "text": "Topography is the result of the complex interaction of deep Earth and surface processes. These leave a unique mark on the landscape quantifiable with topographic metrics including local relief, drainage pattern, hypsometry, river longitudinal profiles, channel concavity and steepness indices, and channel slope–basin area relationship (e.g., Wells et al., 1988; Pazzaglia et al., 1998; Wegmann and Pazzaglia, 2002; Tomkin et al., 2003; Molin et al., 2004, 2012; Lock et al., 2006; Wobus et al., 2006; Wegmann et al., 2007; Roy et al., 2009; Scotti et al., 2013). These parameters can be used to quantitatively characterize the feedback between crustal tectonics, mantle dynamics, and geomorphology (Molin et al., 2012).\nEthiopia offers an excellent opportunity to study the effects and linkage between mantle dynamics and surface processes on landscape evolution. Northwestern Ethiopia (Fig. 1) is characterized by a huge basaltic plateau (Ethiopian Highlands) which is part of the African Superswell, a wide region of dynamically-supported anomalously high topography related to the rising of the Afar plume (Davies, 1998; Ebinger and Sleep, 1998; George et al., 1998; Lithgow-Bertelloni and Silver, 1998; Ritsema et al., 1999; Gurnis\nLargo San Leonardo Murialdo,\nbroni).\net al., 2000; Şengör, 2001; Nyblade, 2011; Faccenna et al., 2013). The initiation and steadiness of dynamic support beneath Ethiopia have been explored in several studies. Early ones (Dainelli, 1943; Beydoun, 1960) proposed the impingement of a plume at the base of the lithosphere in the Upper Eocene preceding both the flood basalts event and the main rifting episodes. In contrast, later authors (Mohr, 1967; Baker et al., 1972; McDougall et al., 1975; Merla et al., 1979; Berhe et al., 1987) suggested a more complex Tertiary history of unsteady uplift and volcanism.\nPik et al. (2003), based on thermo-chronological analysis on the Blue Nile drainage network, argued that erosion in the Blue Nile canyon initiated as early as 25–29 Ma and that the elevated plateau physiography has been maintained since the Oligocene.\nA more recent study, focusing on the incision of the 1.6 km deep Gorge of the Blue Nile (Gani et al., 2007), suggests that an uplift of ~2 km occurred episodically in three different phases since 29 Ma: a slowand steadyuplift between 29 and 10Ma (phase I), an increased uplift at 10 Ma (phase II) and a further dramatic uplift at 6 Ma (phase III). Similarly, Ismail and Abdelsalam (2012) carried out a quantitative analysis on Ethiopian Highlands drainage system finding that its evolution was influenced by three tectonic and geological events: (1) the uplift of the plateau caused by the rising of the Afar plume at 30 Ma; (2) the shield volcanoes constructional event at 22 Ma; and (3) the rift-flank uplift on the western escarpments of the Afar Depression and the Main Ethiopian Rift (MER).\nDespite these studies several open questions remain. Of these the presence, role, and timing of dynamic support beneath Ethiopia and its relationship with continental flood basalts volcanism, and the opening of the Afar-MER rift system are particularly timely in light of recent research on regional and continental-scale dynamic topography (Moucha and Forte, 2011; Sembroni, 2015). In particular Sembroni (2015), using geological information and topographic reconstructions, argue that the growth of the Ethiopian plateau is a long-term, probably still active, dynamically-supported process. All these questions and corollary investigations of the feedbacks between dynamic and surface processes can be explored by\ninvestigating how base level fall at the plateau margin propagates through the drainage network. In this respect we analyzed the Blue Nile and Tekeze basins which drain respectively the southern and northern portions of the Ethiopian Highlands. In particular we investigated the general topographic features (filtered topography, swath profiles, local relief) and the river network (river longitudinal profiles). Moreover, we apply a knickpoint celerity approach in order to provide a chronological framework to the evolution of the Ethiopian Plateau river network. The results permitted us to trace the long-term evolution of the Ethiopian Highlands drainage system and to confirm a long-term dynamic support (Sembroni, 2015) of the\nEthiopian Highlands, documenting its impact on the contrasting development of the Blue Nile and Tekeze basins."
+  }, {
+    "heading": "2. Geological setting",
+    "text": "Northwestern Ethiopia is composed of deformed crystalline basement rocks which are part of the Arabian–Nubian Shield (Stern, 1994). These rocks contain north- to east-trending sutures, characterized by lowgrade volcano-sedimentary and mafic–ultramafic metamorphic rocks, sandwiched between medium- to high-grade gneisses and migmatites (Corti, 2009). The basement is overlain by a thick (2–3 km), subhorizontal alternation of Mesozoic continental (sandstones) and marine (limestones and shales) sediments (Fig. 1b) separated by regional unconformities (Blanford, 1869; Dainelli and Marinelli, 1912; Merla and Minucci, 1938; Dainelli, 1943; Levitte, 1970; Dow et al., 1971; Beyth, 1972;Merla et al., 1979; Bosellini et al., 1997). These rocksweredeposited in NW-SE striking tectonic basins associated with the break-up of Gondwanaland started in the Early Permian (Chorowicz et al., 1998; Mege and Korme, 2004; Gani and Abdelsalam, 2006).\nIn the Eocene and Late Oligocene the area was affected by intense magmatic activity which led to the emplacement of continental flood basalts (Trap series). During the Eocene (45 Ma) the activity was mostly centered in southern Ethiopia (Davidson and Rex, 1980; Ebinger et al., 1993; George et al., 1998) but between the Oligocene and Early Miocene (Berhe et al., 1987; Baker et al., 1996; Hofmann et al., 1997; Pik et al., 1998;Ukstins et al., 2002; Coulié et al., 2003) it successivelymovednorthward covering a total area of at least 600,000 km2 (Ethiopian–Yemen flood basalts) and forming a wide plateau with thickness varying from 500 to 1500 m (Mohr and Zanettin, 1988). In particular the southern and central parts of the EthiopianHighlands (BlueNile basin) have basalts ranging from 500 m (medium and lower portions of Blue Nile basin) to 2000 m (Lake Tana region) in thickness. On the other hand, the northern sector (Tekeze basin) is characterized by thinner basalts, typically less than 1000 m. Eruption of the basalts occurred mostly through fissures (Mohr and Zanettin, 1988), locally controlled by Precambrian and Mesozoic tectonic structures (Mege and Korme, 2004). This event coincided with the onset of the Red Sea-Gulf of Aden continental rift systems (29 Ma; Wolfenden et al., 2005), but pre-dates the initiation of the MER (Middle–Late Miocene; Wolfenden et al., 2004; Bonini et al., 2005). The Ethiopian flood basalts have been attributed to melting associated with the activity of one (Afar plume) or two (Afar and East African or Kenyan plumes)mantle plumes impinging the base of the continental lithosphere (e.g., Ebinger and Sleep, 1998; George et al., 1998).\nThe outpouring of these basaltswas interrupted by a period of volcanic quiescence (29–27 Ma) marked by the deposition of continental sediments (intertrappean beds; Abbate et al., 2014). They outcrop all over the basaltic plateau and consist of fluvio-lacustrine deposits a few tens of meters thick (Abbate et al., 2014).\nImmediately after the peak of flood basalts emplacement, several shield volcanoes developed from 30 Ma to about 10 Ma (Kieffer et al., 2004).\nIn the early Miocene (Hagos et al., 2010; Natali et al., 2013) the northernmost sector of Ethiopia experienced renewed intensemagmatic activity with the formation of large intrusive bodies (Adwa Plugs and Mekele Dolerite) (Fig. 1b).\nSince the late Pliocene magmatic and tectonic activities moved mainly into the axial MER and in the Afar depression; however, some volcanic activity persisted on the plateau south of Lake Tana (see Fig. 1b) forming small tuff cones and basaltic lava flows (Chorowicz et al., 1994; Bonini et al., 1997; Wolfenden et al., 2004; Ebinger, 2005; Kendall et al., 2005; Corti, 2008, 2009)."
+  }, {
+    "heading": "3. Geomorphology",
+    "text": "The Ethiopian Highlands are mostly characterized by a flat or gently rolling topography standing at an elevation of more than 2500 m\n(Figs. 2, 3). In particular in the northern sector of the study area several planation surfaces have been evidenced to indicate that this sector underwent long episodes of tectonic quiescence during which erosion processes were able to planate the surface at altitudes not too far from sea level (Coltorti et al., 2007).\nLocally, large shield volcanoes rise 1000–2000 m above the average plateau elevation (Mt. Ras Dashen 4550 m (Fig. 2b); Mt. Guna 4231m.; Mt. Abune Yosef 4190 m; Mt. Choke 4100 m; Mt. Guguftu 3975 m; see Fig. 1).\nFluvial incision is modest except where the Blue Nile and Tekeze form canyons up to 1500 m deep and 70 km wide, dropping ~2000 m from the plateau surface to the Sudan lowlands (500 m a.s.l.). Here extensive fan-delta deposits represent significant long-term sediment sinks of material eroded from the plateau (Woodward et al., 2007). Unsteady delivery of this sediment along theNile, corresponding to the last glacial phase, caused the formation of a Late Pleistocene lake directly upstream the confluence between White Nile and Blue Nile (Lawson, 1927; Ball, 1939; Salama, 1987; Williams et al., 2003; Barrows et al., 2014).\nThe plateau is bordered by two km-high escarpments: the rift western margin to the east and the Tana escarpment to the west (Fig. 1a). The Afar-MER escarpment resulted from active rifting as unloading due to extension triggered the flexural uplift on the rift shoulder (Weissel et al., 1995). In contrast, the Tana escarpment formed by the erosion (up to ~1000 m) of the flood basalts. Such erosion caused the scarp retreat eastward (Grabham and Black, 1925; Minucci, 1938; Dainelli, 1943; Comucci, 1950; Jepsen and Athearn, 1961; Mohr, 1967; Hahn et al., 1977; Chorowicz et al., 1998; Gani et al., 2008) and probably generated a local flexural uplift (Sembroni, 2015). Several numerical models (Tucker and Slingerland, 1994; Kooi and Beaumont, 1994; Petit et al., 2007) demonstrated that erosional unloading can induce flexural uplift.\nThe Blue Nile has a total length of 1450 km, flowing from the Lake Tana to the confluence with the White Nile. It flows from Lake Tana with a NW-SE direction, then it turns around Mt. Choke assuming a WNW-ESE trend (Fig. 1a). Before the junction with Didessa River the trend is NE-SW becoming SE-NW in the Sudan lowlands.\nLake Tana formed since volcanic activity blocked the outlet of a number of rivers in the early Pliocene, ~5 million years ago (Mohr, 1961). In the Pleistocene, before the present connection with the Blue Nile, this basin was alternatively opened and closed because of variable climate (Lamb et al., 2007) and volcanic activity (Grabham and Black, 1925; Minucci, 1938; Jepsen and Athearn, 1961).\nThe Tekeze River is 608 km long and originates from the eastern side of Mt. Abune Yosef, an Oligocene volcano located at the rift shoulder in the northeastern sector of the Ethiopian Highlands. It flows from its source to the west, then it turns around Mt. Ras Dashen (Simien Mts.) assuming a S-N direction and reaches the Sudan lowlands with an ESE-WNW trend. Few data are available on the uniformity and steadiness of erosion of the Ethiopian Plateau. Estimates of ~0.05 mm/a (Garzanti et al., 2006) contrast with fluvial incision concentrated in the Blue Nile and Tekeze valleys (Pik et al., 2003; Gani et al., 2007) that have experienced an average depth of erosion of ~860 m for the Blue Nile basin, broadly in agreement with McDougall et al. (1975). The location of the sink for these volcanogenic sediments is controversial (Macgregor, 2012). Salama (1987, 1997) proposed that the Blue Nile basin in Sudan may have acted as a sink capturing Ethiopian-derived sediment and that the Blue Nile may have once drained to the Sudan Basin."
+  }, {
+    "heading": "4. Methods",
+    "text": "To investigate the relationship between deep and surface processes in Ethiopia, we focused on general topographic features (filtered topography, swath profiles, local relief) and hydrography (river longitudinal profiles). We used two elevation data sources: the ETOPO1 global\nelevation model (www.ngdc.noaa.gov) that, with a resolution of 1 arcminute (~2 km), is suitable for regional scale analysis, and the SRTM (downloaded from http://srtm.csi.cgiar.org) whose pixel size of 90 m allowed a more detailed analysis. To explore topography we used ArcGIS and Matlab softwares."
+  }, {
+    "heading": "4.1. Map of local relief",
+    "text": "We produced, in ArcGIS, local relief maps by subtracting arithmetically a sub-envelope surface (that describes the general pattern of valley bottoms elevations) from an envelope surface (that connects peaks elevations) (Molin et al., 2004). We obtained such surfaces by smoothing\nthe maximum and minimum topography of the SRTM DEM by a 20 km-wide circular moving window. We chose the value of 20 km since it is the average spacing of the main valleys (5th-6th-7th Strahler order with respect to a critical area of ~4 km2). This allowed us to remove small valleys, in effect operating like a low-pass filter that highlights the regional-scale features.\n4.2. Swath profiles\nWe constructed three swath profiles across the study area to describe and quantify the general topographic trendof the EthiopianHighlands. Swath profiles show the trend of maximum,minimum andmean\nelevation into a single plot (Isacks, 1992; Molin et al., 2004; Ponza et al., 2010). We extracted them from the ETOPO1 DEM by MatLab topotoolbox (Schwanghart and Kuhn, 2010), sampling topography every 2 km into observation windows 50 km wide and with a variable length according to the area to be represented."
+  }, {
+    "heading": "4.3. Map of the depth of eroded materials",
+    "text": "We built a map of the depth of eroded material (‘geophysical relief’ of Small and Anderson, 1998) to study the pattern of incision of the Ethiopian Highlands. This map allows for an estimation of the mean\nerosion of the plateau by calculating the average difference in elevation between the present topography (ETOPO1 DEM) and the plateau top surface, removing the volcanoes. In particular the plateau top surface has been reconstructed bymapping plateau remnants and interpolating the obtained points by the nearest-neighbor triangulation algorithm of ArcGIS. Such features are almost flat surfaces (slope b3°) located at an elevation comprised between 2400 and 2600 m and underlain mostly by flood basalts."
+  }, {
+    "heading": "4.4. Smoothed topography",
+    "text": "Regional-scale features of the Ethiopian Highlands topography can display signals of regional tectonics as well as of the dynamic influence of the plume. In order to investigate them we produced three maps smoothing the raw elevation data (ETOPO1 DEM) in frequency domain by a circular low pass filter to attenuate all local scale topographic signals with wavelengths b50 km. Similar methods were previously used in areas such as Yellowstone and the Colorado Plateau (Wegmann et al., 2007; Roy et al., 2009) or such as Apennines and Carpathians (D'Agostino and McKenzie, 1999; Molin et al., 2004, 2012; Faccenna et al., 2011) to isolate mantle-related topographic features. Since the size of these topographic signals is dependent on intensity, scale and depth of the mantle processes that generate them (Braun, 2010), it is important to identify appropriate filter wavelengths (Molin et al., 2012). In detail, we chose three cut-off wavelengths: 50, 150 and 300 km. The first one is considered to be a sort of threshold between crustal related landscape features and mantle process influence (Molin et al., 2004, 2012; Wegmann et al., 2007). The cut-off wavelength of 150 km allowed to eliminate the signals of shield volcanoes, of MER depression and of wide valleys (7° Strahler order at the research scale) such as Blue Nile and Tekeze ones. Thewavelength of 300 kmwas used to capture the plume-related possible signal, since tomography data (Benoit et al., 2006; Bastow et al., 2008, 2011) evidence a ~600 km-wide velocity anomaly.\n4.5. Concavity and steepness indices of river longitudinal profiles\nIn order to investigate the Ethiopian Highlands drainage system we used the SRTM DEM which has an acceptable resolution to study the morphometry of river networks in such a wide study area. Since hydrography is very sensitive to both local and regional tectonic inputs (e.g., Wells et al., 1988; Pazzaglia et al., 1998; Wegmann and Pazzaglia, 2002; Tomkin et al., 2003; Molin et al., 2004; Lock et al., 2006; Wobus et al., 2006; Olivetti et al., 2012), we examined the river network of the two main basins that drain the Ethiopian Highlands: the Blue Nile and Tekeze ones.\nIn both modeling river incision at steady-state and studying empirically transient channel profiles a power law that relates channel slope S and drainage area A, is widely used (Hack, 1957; Flint, 1974; Howard et al., 1994; Sklar and Dietrich, 1998; Whipple and Tucker, 1999; Snyder et al., 2000; Whipple et al., 2000; Schorghofer and Rothman, 2002; Kobor and Roering, 2004):"
+  }, {
+    "heading": "S ¼ ksA θ ð1Þ",
+    "text": "where ks and θ are the steepness and concavity indices. The steepness index has been shown to have a positive correlation with the uplift rate, although it is strongly influenced by geologic setting and climate (e.g., Snyder et al., 2000; Kirby and Whipple, 2001; Wobus et al., 2006; Kirby et al., 2007). Under steady-state conditions, the θ value is expected to fall in a range between 0.4 and 0.6, theoretically ~0.45 (Tarboton et al., 1989; Whipple and Tucker, 1999; Snyder et al., 2000; Kirby and Whipple, 2001; Lague and Davy, 2003; Whipple, 2004; Wobus et al., 2006; Whipple et al., 2007).\nWe extracted the longitudinal profiles of the Blue Nile and Tekeze rivers and of several of their tributaries. To quantify their shape we\ncalculated the steepness and concavity indices that are the y-intercept and the slope respectively of a line regressed through a log–log plot of channel slope vs. drainage area. In detail, we used the Stream Profiler tool (http://www.geomorphtools.org) developed by Whipple et al. (2007). Since θ and ks are auto-correlated, we normalized the steepness index by a reference concavity θref=0.45 (e.g. Wobus et al., 2006). This permitted us to compare river longitudinal profiles despite of the differences in drainage basins size. In order to reveal the general variation in steepness index values along river courses, we extracted themap of the along channel variation in ksn for both Blue Nile and Tekeze basins by Stream Profiler tool.\nTo support this river network study we performed the hypsometric analysis of Blue Nile and Tekeze drainage basins. The results are displayed in the Appendix."
+  }, {
+    "heading": "4.6. Knickpoint celerity model",
+    "text": "We used a knickpoint celerity model, based on a simplified solution of the stream power erosion law (Rosenbloom and Anderson, 1994; Crosby and Whipple, 2006; Berlin and Anderson, 2007), to model knickpoint retreat in response to a level lowering and to compare the incision pattern in the Blue Nile and Tekeze watersheds. We assumed steady, uniform flow and detachment-limited conditions (inwhich sediment transport capacity exceeds sediment supply) (Howard andKerby, 1983). In such condition the bedrock channel erosional process is assumed to be proportional to stream power:\nE ¼ KAmSn ð2Þ\nwhere E is the rate of bedrock erosion, K is a dimensional resistance to erosion (whose dimensions are dependent on the values of m and n) that combines the effects of lithology, climate, and sediment load, A is drainage area, S is channel slope, and m and n are positive nondimensional constants that reflect basin hydrology, hydraulic geometry, and erosion process (Berlin and Anderson, 2007).\nBy assuming that plucking is the dominant erosion process (n=1 in the Eq. (2) [Whipple et al., 2000]) is possible to rewrite the Eq. (2) as:\ndz=dt ¼ KAm dz=dxð Þ ð3Þ\ndx=dt ¼ KAm ð4Þ\nwhere dx/dt is the rate of upstream knickpoint migration, K is the detachment limited erosion coefficient, A is the upstream drainage area, andm is a non-dimensional constant that depends on basin hydrology, channel geometry, and erosion process (Whipple and Tucker, 1999). This expression describes the upstream propagation speed (or celerity) of a knickpoint, not specifying changes in channel width, sediment flux, the effects of stochastic climate events, or the presence of an erosion threshold (Berlin and Anderson, 2007). We used Eq. (4) to model the upstream migration of knickpoints beginning at the confluence with Didessa River (Blue Nile) and at the border between Ethiopia and Sudan (Tekeze), using the dynamic time-step approach described by Crosby and Whipple (2006) and Berlin and Anderson (2007). To constrain the parameters K (detachment-limited erosion coefficient) and m (exponent on drainage area) in the celerity model, we used a twoparameter search (e.g., Stock and Montgomery, 1999; Crosby and Whipple, 2006; Berlin and Anderson, 2007). This allowed us to find the best combination of K and m that predicts the knickpoint locations. On the longitudinal profiles extracted by the Stream Profiler tool we picked the major knickpoints of the Blue Nile and Tekeze tributaries. Then, examining the available geological maps of Ethiopia (scales 1:250,000 [Hailu, 1975; Kazmin, 1976; Garland, 1980; Tsige and Hailu, 2007; Chumburo, 2009; Zenebe and Mariam, 2011] and 1:2,000,000 [Tefera et al., 1996]), we marked knickpoints not related to lithological changes."
+  }, {
+    "heading": "5. Results",
+    "text": "We investigated the topography of the EthiopianHighlands and surrounding areas and the hydrography of the Blue Nile and Tekeze basins upstreamof ~600m, i.e. upstreamof the Sudan lowlands. In the local relief map of the Blue Nile basin (Fig. 3e), the highest values of local relief (240–410 m) are located in the eastern half corresponding with the Blue Nile valley and with those portions of the plateau more deeply incised by the Blue Nile tributaries. The Afar rift margin escarpment is characterized by the same values range. Values comprised between\n160 and 240 m are located in correspondence with the Mt. Choke and Mt. Gish volcanoes, along the Tana escarpment, and in the lower valley of Blue Nile, where highly fractured and bended basement rocks crop out. Low values (b160 m) mostly characterize the plateau around Mt. Choke and Mt. Gish volcanoes, the area surrounding Lake Tana, and the southern sector of the Blue Nile basin.\nThe local relief map of Tekeze basin (Fig. 3f) has the highest values (240–410 m) located in correspondence with the Simiens Mts. (Fig. 2) and the southern Afar rift margin escarpment. Values ranging from 240 to 320 m are in the southeastern sector of the basin where Mt.\nth profiles showing the trends of the maximum, minimum and mean topography of the\nAbune Yosef rises from remnants of the plateau. Values b160 m are located south of Mt. Ras Dashen, in the most downstream portion of the basin and in correspondence with the so-called Mekele outlier; here fractured sub-horizontal Mesozoic sediments intruded by dolerite sills and dikes crop out (Fig. 1b). The Tana escarpment is evidenced by values of local relief between 160 and 240 m.\nSwath profile 1 (Fig. 4b) is oriented W-E and crosses the northern portion of the Tekeze basin up to the Afar depression. Themaximum topography is characterized by plateau remnants (up to 2000 m) to the west, by the northernmost portion of the SimienMts. and by theAfar escarpment (up to 3000 m). The mean and minimum topographies, following mostly fluvial valleys, indicate a regularly decreasing regional slope from the rift margin to the western lowlands. Just the westernmost remnants of the plateau disrupt the trend.\nSwath profile 2 (Fig. 4c), trending W-E, extends from the Tana escarpment to the Afar depression western margin passing through Lake Tana and the most upstream part of the Tekeze basin. It shows the high-standing plateau bordered by the Tana and the rift escarpments. In correspondence with both of them a more elevated plateau edge is apparent (Fig. 4c).\nSwath profile 3 (Fig. 4d) is oriented NW-SE and extends from the lower sector of the Blue Nile basin up to the Ogaden region. It shows a dissected topography with deep valleys and high volcanoes. The deepest (more than 1000 m) gorges correspond with the Blue Nile valley. The maximum topography pattern is dominated by flat areas (the basaltic plateau) standing at ~2500 m. From this surface many volcanoes rise up to more than 3000 m. To the west, the Tana escarpment borders the highlands, whereas to the east theMERmargin abruptly interrupts the plateau. Beyond the rift, the topography decreases progressively to the SE.\nBoth swath profiles 2 and 3 describe the dome-shaped topography of the Ethiopian highlands: the elevation decreases from a maximum of 3000–3500 m down to a minimum of 600–700 m along both sides.\nFig. 5.Erosionmap of the study area resulted from the subtraction of plateau top surface from th have been eliminated from the dataset.\nThe map of the eroded material thickness (Fig. 5) shows that the highest amount of erosion concentrates along the Tana escarpment south-west and north of the lake (1000–2000 m) and along the main trunk streams. Very high values are located in the downstream portion of Blue Nile basin (1250–1750 m). The lowest values (0–400 m) concentrate in the inner portion of the plateau (Fig. 5).\nThe result of the smoothing at awavelength of 50 km (Fig. 6a) shows the dome-shaped topography interrupted by the continental (Afar depression and MER) and oceanic spreading (Red Sea and Gulf of Aden). Regional-scale landforms such as the valleys of Tekeze and BlueNile rivers and the high standing plateau are apparent. The topography filtered at awavelength of 150 km(Fig. 6b) shows the domewith themaximum elevation area stretched in a N-S orientation, being partially parallel to the Afar escarpment, but also crossing the MER south of Addis Ababa. Tomographic data from Benoit et al. (2006) and Bastow et al. (2008, 2011) show a complex low velocity anomaly beneath the study area, although the lowest values at a depth of 150 km are in correspondence with the MER and the N-S topographic high.\nThe 300 km smoothed topography (Fig. 6c) shows the dome-shape topography centered in the Addis Ababa region. The elevation ranges between 0 m (in the Sudanese and Somalian plains) and 1500 m in the Addis Ababa area. Several tomographic studies demonstrated the presence of a low velocity anomaly, coincident with the dome (see Fig. 6b–c), interpreted as upwelling of hot astenospheric material from the core–mantle boundary (Afar plume) (Davies, 1998; Ebinger and Sleep, 1998; Lithgow-Bertelloni and Silver, 1998; Ritsema et al., 1999; Gurnis et al., 2000; Nyblade et al., 2000; Ritsema and van Heijst, 2000; Montagner et al., 2007; Bastow et al., 2008, 2011; Moucha and Forte, 2011; Nyblade, 2011; Faccenna et al., 2013; Hansen andNyblade, 2013).\nWe extracted the longitudinal profiles of the Blue Nile and Tekeze rivers (Fig. 7) and 63 of their tributaries (34 in the Blue Nile basin and 29 in the Tekeze one), calculating the steepness and concavity indices for every profile (Table 1). The BlueNile longitudinal profile is in general\nepresent topography (ETOPO1DEMdatabase). Negative values got from raster calculation,\nconcave-up, but characterized by a relatively low value of concavity (θ = 0.39 ± 0.024). Its shape is quite irregular being composed of three segments separated by twomain knickpoints (Fig. 7a). The uppermost reach is concave and includes Lake Tana. Downstream it is bounded by a knickpoint (at about 1800 m a.s.l.) corresponding with Tis Issat waterfalls (45 m high) and indicating where the Blue Nile climbs into the unincised plateau (Fig. 3e). The middle segment is irregular but in general almost straight and bounded downstream by a knickpoint at\nabout 1500m. The lowermost reach of the river profile is almost straight and characterized by several minor knickpoints (Fig. 7a).\nThe θ values of the Blue Nile tributaries (Fig. 8c) range between 0.1 and 0.6, with a mean value of 0.36 (Table 1). Most of the values are lower than the reference concavity (θref = 0.45) and decrease from the upper to the lower portion of the basin (Fig. 8c). Indeed the Lake Tana inflows aswell as rivers draining the rift shoulder have the highest values of concavity (0.3–0.5).\nThe values of ksn range between 40 and 160 (Table 1). The higher values (N100) mostly correspond with rivers draining the Choke (27- 28-29-30-31) and Guguftu (8-9) volcanoes (Fig. 8a). Excluding these values related to the higher elevation of river sources, ksn N 100 characterizes the rivers draining the southeastern portion of the basin.\nThe Tekeze longitudinal profile shows a concave-up shape (θ = 0.46±0.024) characterized by twomajor knickpoints (Fig. 7b). The upstreamknickpoint, located at an elevation of 1900m, separates the river"
+  }, {
+    "heading": "1 0.44 0.045 64.1",
+    "text": ""
+  }, {
+    "heading": "2 0.32 0.087 91.6",
+    "text": ""
+  }, {
+    "heading": "3 0.51 0.069 99.6",
+    "text": "profile into two main segments. The upstream reach is concave-up and corresponds with the poorly-incised plateau (Fig. 3f); the downstream segment is almost straight and includes the second main kinckpoint that is directly upstream the Tekeze dam, whose construction was finished in 2009.\nWe also calculated the concavity and steepness indices of the Tekeze tributaries (Table 2; Fig. 8b–d). In the downstream left side of the lower basin, rivers 14-15-16 drain the northern continuation of Tana escarpmentwhere basalts are the dominant outcropping rock type. The difference in elevation between the Tekeze as base level and the heads of these tributaries is ~1500 m. The ranges of θ and ksn are 0.62–0.70 and 83.4–105 respectively (Table 2).\nIn the downstream right side of the lower Tekeze basin, rivers 17- 18-19 flowmainly on Triassic sandstones which unconformably overlie the metamorphic basement. Here the topography is smoother than in the downstream left side of the lower Tekeze basin with a maximum difference in elevation between tributaries heads and Tekeze of ~500m. The profiles are smoothly concave (0.31 ≤ θ ≤ 0.41) and characterized by low values of steepness (39.7 ≤ ksn ≤ 62.3) (Fig. 8b–d; Table 2).\nThe rivers draining the volcanoes (Simien Mts., rivers 10-11-12-13; Mt. Guna, rivers 1-2; Mt. Abune Yosef, rivers 27-28-29) have the profile concavities ranging between 0.33 and 0.51, whereas their ksn values are higher than 100 (Fig. 8b-d; Table 2).\nThe profiles of rivers 23-24-25-26, that drain the rift shoulder, have values of θ relatively low (0.15-0.27) whereas the ksn ranges between 48.5 and 98.1 (Fig. 8b–d; Table 2).\nThe southwestern sector of the basin is characterized only by the outcrop of thick flood basalts. Rivers 3-4-5-6-7-8-9 rise in the plateau remnants. The profiles of rivers 6-7-8-9 present θ and ksn values (0.47 b θ b 0.58; 60.1 b ksn b 84; Fig. 8b–d; Table 2) similar to the ones of Lake Tana inflows. More to the southeast the profiles of rivers 3-4-5 show very low values of both concavity and steepness indices (0.15 b θ b 0.26; 48.2 b ksn b 68.7; Fig. 8b–d; Table 2).\nThemaps of the along-channel variation in ksn (Fig. 9) show a correspondence between high values of ksn (which evidence the location of knickpoints and knickzones) and rock type changes, especially along the plateau scarps. Exceptions are two areas: the downstream portion of both Tekeze and Blue Nile basins. They correspond with two sectors of medium/high values of local relief (160–320 m; Fig. 3e-f) and of medium/high values of eroded material (800–1600 m; Fig. 5).\nThe knickpoint celerity model permitted us to find, in the Blue Nile drainage basin, the recurrence of three non-lithological knickpoints at about 1100, 2000 and 2500 m (Fig. 10). The highest one seems to be common to themajority of the rivers analyzedwith the exception of rivers draining the rift shoulder (11-13). The 2000m knickpoint is evident in all the tributaries while the 1100 m one appears only in the lower Blue Nile basin downstream of the Blue Nile gorges.\nThe Tekeze basin shows a different distribution of knickpoints with two main non-lithological knickpoints at 1000 and 2500 m.\nIn order to constrain the knickpoint celerity model we chose three Blue Nile tributaries (rivers 25-26-27; see Fig. 10b). They traverse the same rock types and are confluent within 150 km all on the downstream right side of the Blue Nile River where they are incised into metamorphic bedrock. Each tributary exhibits the three nonlithological knickpoints found throughout the Blue Nile basin (Fig. 10a-b). To fix the knickpoint initiation time in the Blue Nile basin we took as reference the 1100 m knickpoint present in tributary longitudinal profile 25 (Fig. 10b–c). We chose this tributary because Quaternary basalt flow (Mohr, 1961; Tefera et al., 1996), sourced in the Lake Tana area, filled its valley providing a point of relative dating reference for the 1100 m knickpoint. The knickpoint has regressed upstream some 1400 m from the nose of the basalt flow (Fig. 10c), which means that this segment of the knickpoint retreat cannot be older than 2.5 Ma (base of the Quaternary), and may be significantly younger depending on the age of the flow. For example, if the flow is late Pleistocene, a reasonable assumption given its fresh, dark, relatively unweathered appearance, then the 1400 m of retreat would have been younger than late Pleistocene, requiring that the downstream base level fall at theDidessa R. confluence be older than late Pleistocene.\nClearly, the problem is under-constrained, but we proceeded on the assumption that the flow is late Pleistocene in age, forcing the downstream base level fall to be older. We chose 1 and 2 Ma as reasonable middle and early Pleistocene guesses for the time of base-level fall at the Didessa confluence responsible for the formation of the 1100 m knickpoint. These assumptions are reasonable given the major changes in watershed hydrology and White Nile axial valley adjustments to glacio-eustatic and hydro-climatic changes in the Pleistocene that are likely to lead to base-level changes. As we will show below, if we were\nto choose base level falls greater than 2 Ma in age for the 1100 m knickpoint, the model ages for the higher, older knickpoints in the Blue Nile drainage become older than the flood basalts and what we know about the geologic formation of the plateau.\nThe misfit between the modeled and the observed knickpoint locations in the Blue Nile basin was minimized with m = 0.58 and K = 6.57·10-10.\nNo comparable absolute or relative age constraints are present in the Tekeze basin, so we simply extended the assumed knickpoint ages and\nmodeled the parameters derived for the Blue Nile to the Tekeze basin. Assuming 1 Ma as the time of base level fall that produced a knickpoint that has now climbed to 1100m in rivers 25-26-27 predicts a K,m, and t (knickpoint ages) between 1.5 and 1.85 Ma for knickpoints of the same\nelevation in the other tributaries (rivers 5-20-17-13; see Table 3). Although carrying large uncertainties, the predictions are within a factor of 2, which gives us some confidence to apply the same values of K and m to predict the ages of knickpoints that are higher in elevation.\nIn this respect, the 2000m and 2500m knickpoints have model ages of 3.8–6.7 and 8.4–12.2 Ma, respectively (Table 3). These ages doubled when we set 2 Ma as 1100 m knickpoint initiation time (Table 3). The 2500 m knickpoint initiation times for rivers 13 and 17 resulted out of the ranges above-mentioned (see Table 3).\nIn the Tekeze basin we used as base level the foot of the Tana escarpment (about 700 m a.s.l.). We modeled 1000 m and 2500 m knickpoints initiation as synchronous to the 1100 m and 2500 m in the Blue Nile basin respectively. Using the same m and K values we ran four models testing the initiation times of 1 and 2 Ma for the 1000 m knickpoint and the initiation times of 10 and 20 Ma for the 2500 m one (Tables 4-5). In the first model (1000 m knickpoint initiation time of 1 Ma) the ages of 1000 m and 2500 m knickpoints are 0.8–1.2 and 1.3–3.4 Ma, respectively (Table 4). In the second model (1000m knickpoint initiation time of 2Ma) the ages range between 0.7–1.0 and 4.6–10.7 Ma (Table 4). The third model (2500 m knickpoint initiation time of 10 Ma) shows ages of 1.4–2.1 and 4.6– 10.7 Ma (Table 5). In the last model (2500 m knickpoint initiation time of 20 Ma) the age ranges for the two knickpoints are 2.2– 3.3 Ma and 10.8–11.4 Ma, respectively (Table 5). These model results compare well to those in the Blue Nile basin. On the other hand, the Tekeze basin model for the 2500 m knickpoint initiation time seems not to converge on the same ages calculated for the 2500 m knickpoint in the Blue Nile basin."
+  }, {
+    "heading": "6. Discussion",
+    "text": "We analyzed the topography and hydrography of the Ethiopian Highlands and surrounding areas to investigate the influence of surface and deep processes in landscape evolution. Our results defined a domeshaped topography (Figs. 4c–d, 5c) developed in consequence of a regional uplift driven by the impinging of hot astenospheric material at the base of East Africa lithosphere. Indeed, the filtered topography high centered in the Addis Ababa region coincides with a large lowvelocity anomaly associated with the rise of the Afar plume (Fig. 6b–c) (Davies, 1998; Ebinger and Sleep, 1998; Lithgow-Bertelloni and Silver, 1998; Ritsema et al., 1999; Gurnis et al., 2000; Nyblade et al., 2000; Ritsema and van Heijst, 2000; Montagner et al., 2007; Bastow et al., 2008, 2011; Moucha and Forte, 2011; Nyblade, 2011; Faccenna et al., 2013; Hansen and Nyblade, 2013). The obtained maximum elevation value of ~1500 m (Fig. 6c) is in agreement with other works (Dainelli, 1943; Mohr, 1967; McDougall et al., 1975; Menzies et al., 1997; Şengör, 2001; Pik et al., 2003; Gani et al., 2007) which demonstrated that the high standing plateau had experienced up to ~2 km of rock uplift since ~30Ma. The base-level fall generated by this broad uplift drove the drainage integration and the incision of the Ethiopian Highlands. Only the Blue Nile and Tekeze entered into the plateau, whereas all the other rivers are their tributaries or are external to the plateau. These latter ones were inhibited to breach the plateau edge by the\nint initiation times of 10 and 20 Ma.\nflexural uplift of the Tana and Afar-MER escarpments (Weissel et al., 1995; Sembroni, 2015).\nThe analysis of longitudinal profiles of the rivers draining the plateau provided some clues on the activity state of both escarpments. Along the rift escarpment, in the southern portion of Tekeze basin aswell as in the BlueNile basin, the steepness of river profiles is relatively high (80–120) (Fig. 8a, b; Tables 1, 2). Such values could be related to the Quaternary activity of the rift borders faults. This is partially confirmed by the high values of local relief (Fig. 3e, f) that indicate more incision. It is noteworthy that the values of steepness indices (Fig. 8a, b; Tables 1, 2) decrease northward where the fault activity is older (Hayward and Ebinger, 1996; Bonini et al., 2005; Keranen and Klemperer, 2008). Similarly, along the Tana escarpment, river 14 (Fig. 8a, b, Table 2) is very steep (100–120), being the only one with a steepness index higher than 100 and not draining a volcanic edifice. This value is consistent with a river impact by non-uniform rock uplift, related to the erosional unloading at the base of the escarpment (Sembroni, 2015). The presence of uplift on both sides of the plateau preserved the inner portion of the Ethiopian Highlands from erosion. Indeed the area appears poorly incised (see Fig. 5) with a low local relief (b160 m; see Figs. 3e–f) and wide flat surfaces (plateau remnants; see Fig. 2c–d).\nMorphometric analysis suggests different pathways in the incision of the Blue Nile and Tekeze drainage systems. The concavity index values of the Tekeze tributaries are higher than the Blue Nile ones (see Tables 1–2). This indicates a better overall adjustment of the Tekeze tributaries profiles to prevailing uplift, rock-type, and climate, whereas the Blue Nile has experienced a more unsteady base level history. This conclusion is strengthened by the results of the hypsometric analysis of both drainage basins (see Appendix). The Tekeze tributaries have an S-shape curves and low HI, whereas the Blue Nile tributaries have irregular curves and high HI. Similarly, differences are also evident in the landscape configuration. For example, in the Blue Nile basin the rivers deeply incise the flat highlands forming valleys with steep flanks, whereas in the Tekeze basin, rivers erode more laterally shaping wide valleys and progressively reducing the few plateau remnants (Figs. 3c–d, 5). This different evolution of the two basins could be related to two main factors: flood basalts thickness and location of the two basins with respect to the dome center. Indeed, while the Tekeze basin is located in amarginal sector of the dome (Fig. 6),wherefloodbasalts are thin (b1000m), the Blue Nile basin, draining themost elevated portion of the dome (Fig. 6), is characterized by thick basalt deposits (up to 2000 m).\nIn the Blue Nile basin is also included the Lake Tana region, where the landscape is poorly incised. The Lake Tana tributaries show θ values close to the reference value (Fig. 8c; Table 1) suggesting they are in equilibriumwith respect to the lake as a local base level. As a confirmation, the hypsometric curves aswell as the low values of HI indicate that the rivers are not incising but arewidening their valleys (see Appendix). The knickzone 30 km south of the lake (Tis Issat waterfall; see Fig. 10d) is bounded to the Quaternary volcanic activity south and southeast of Lake Tana which partially retarded the lakeward erosion.\nBoth maps of local relief and of the depth of the eroded material (Figs. 3e-f, 5) indicate an increase in incision in the downstream portion of Blue Nile and Tekeze basins. The rivers cutting across these areas show high values of ksn (Fig. 9) and hypsometric curves characterized by a steeper and larger convex segment at lower elevations (see Appendix). Moreover, in both Tekeze and Blue Nile basins, a knickpoint located around 1000–1100 m is present (Fig. 10). All these data point to a recent base-level fall that determined the headward migration of an erosion wave.\nThe knickpoints analysis highlighted three non-lithological knickpoints (at 1100, 2000 and 2500 m) in the Blue Nile basin and two (at 1000 and 2500 m) in the Tekeze one (Fig. 10). We used these data in the knickpoint celerity model to provide a chronological frame to the evolution of the Ethiopian Highlands river network. According to the results of the Blue Nile basin modeling the migration of the\n2500 m knickpoint initiated between 20 and 10 Ma (Table 3), after the emplacement of the flood basalts. Since the elevation of this knickpoint is similar to the mean altitude of the plateau, this feature could record the Ethiopian Highlands main capture. The lack of the 2500 m knickpoint in rivers 11 and 13, draining the rift shoulder, suggests that this area was not part of the basin in the lower Miocene. The initiation time of the 2000 m knickpoint ranges between 10 and 5 Ma (Table 3). Such a period coincides with the global climate change at the passage Miocene–Pliocene (Groot, 1991; Cerling et al., 1997; Hodell et al., 2001; Billups, 2002; Vidal et al., 2002; Fortelius et al., 2006; Jimenez-Moreno et al., 2010; Song et al., 2014). However it is important to note that the knickpoint related to the Messinian base-level fall (Chumakov, 1973; Bini et al., 1978; Finckh, 1978; Rizzini and Dondi, 1978; Rizzini et al., 1978; Barber, 1981; Druckman et al., 1995) reached a maximum distance of 2000 km from the Nile delta (Loget and Van Den Driessche, 2009), ~1000 km far from the Ethiopian Highlands. This evidence, together with the absence of channel slope variation at 2000 m in the Tekeze basin, suggests for a more local input (maybe tectonics) as themain cause of the Blue Nile 2000mknickpoint.\nThe Lake Tana basin rivers (2-3-34 in Fig. 10) preserved the 2500 and 2000 m knickpoints. This means that the area must have been formerly connected to the Blue Nile drainage system. After the second knickpoint migration, the basin became endorheic. The closure of such region is probably related to volcanic events that affected the area in the Quaternary time (Grabham and Black, 1925; Minucci, 1938; Jepsen and Athearn, 1961).\nIn both Blue Nile and Tekeze basins, the 1100 m knickpoint has, according to the celerity model, an age comprised between 2 and 1 Ma (Table 3). Its formation could be related to the strong climate changes that characterized this period (deMenocal, 2004). Other possible reasons may be an increase in the bulge uplift rate or a tectonic event that caused a base-level fall downstream the Ethiopian Highlands.\nBecause of the lack of age constraints on Tekeze basin knickpoints, we supposed that the plateau capture in this basin occurred more or less simultaneously with the Blue Nile basin one. The results of the modeling show a general non-convergence except for the 1000 m knickpoint (Tables 4-5). This is an additional evidence of the different evolutions experienced by the two basins.\nThe celerity model as well as the morphometric analysis indicate a progressive capture of the EthiopianHighlands, enhanced by local or regional processes (tectonics and climate). This result fits with the early (Oligocene) doming and the long-term (up to Quaternary) maintenance of the high-standing topography argued by Sembroni (2015). Such a scenario is in contrast with the pulsed uplift evolution model proposed by Gani et al. (2007). Pulsing cannot be supported by the geodynamics of the region where the topography is the signature of the Afar plume."
+  }, {
+    "heading": "7. Conclusions",
+    "text": "The study of the topographic configuration of the Ethiopian Highlands and the morphometric analysis of the river network permitted us to develop a conceptualmodel for the long-term evolution of the plateau drainage system unraveling the influence of deep and tectonic processes on the highland landscape evolution. The results are the following.\n• The upwelling of hot asthenospheric material from the core–mantle boundary (Afar plume; Davies, 1998; Ebinger and Sleep, 1998; Lithgow-Bertelloni and Silver, 1998; Ritsema et al., 1999; Gurnis et al., 2000; Nyblade et al., 2000; Ritsema and van Heijst, 2000) induced a progressive domal uplift centered in the Addis Ababa area (Figs. 4c–d, 6c). • The landscape of the Ethiopian Highlands appears poorly incised (Fig. 3e–f, 5) and characterized by wide flat surfaces (plateau remnants; Fig. 2c–d) mostly underlain by flood basalts. Only two rivers,\nBlue Nile and Tekeze, could enter into the plateau, whereas all the other rivers are their tributaries or are external to the plateau. These latter ones were inhibited to breach the plateau edge by the flexural uplift of the Tana and Afar-MER escarpments (Weissel et al., 1995; Sembroni, 2015). • The dome-like uplift influenced the evolution of the Ethiopian Highlands river network (Figs. 8–9; Tables 1–2). Indeed, the Blue Nile and Tekeze drainage systems followed different erosion pathways. In detail, the Tekeze drainage system shows a better overall adjustment to prevailing uplift, rock-type, and climate, probably enhanced by a thin basaltic cover and by its location in the northern marginal portion of the bulge (Fig. 6c). On the contrary, the Blue Nile basin has experienced a more unsteady base-level history because it is responding to a higher uplift (indeed it cuts across the center of the bulge; see Fig. 6c) and because it drains areas where the thickest flood basalts crop out. • The knickpoint celerity model evidences three base level changes superimposed on theuplifting bulge (Fig. 10). The oldest one, initiated between 20 and 10Ma, is related to themain plateau capture. The second event, occurred between 10 and 5Ma, is probably connected to a local tectonic event. The last base level change, Quaternary in age and common to both Blue Nile and Tekeze, is probably related to climate changes or to a regional tectonic event. • Our results substantially fit an evolutionary scenario where an early (Oligocene) doming characterizes the area which maintains the high-standing topography for long time (up to the Quaternary) (Sembroni, 2015). The geomorphic system has been slow to respond to that uplift, with the incisional history being a complex response of river incision, probably influenced by climate change, rifting, and rock type. Such a scenario is in contrast with the three stages pulsed uplift evolution model proposed by Gani et al. (2007)."
+  }, {
+    "heading": "Acknowledgments",
+    "text": "The authors want to thank Emanuele Giachetta for the helpful discussions and Giandomenico Fubelli for the logistical support in the field. Finally we wish to give thanks also to Francesco Dramis and Marco Bonini for their comments that improved the manuscript."
+  }, {
+    "heading": "Appendix A. Supplementary data",
+    "text": "Supplementary data to this article can be found online at http://dx. doi.org/10.1016/j.geomorph.2016.02.022."
+  }],
+  "year": 2016,
+  "references": [{
+    "title": "The East Africa Oligocene intertrappean beds: regional distribution, depositional environments and Afro/Arabian mammal dispersals",
+    "authors": ["E. Abbate", "P. Bruni", "M.P. Ferretti", "C. Delmer", "M.A. Laurenzi", "M. Hagos", "O. Bedri", "L. Rook", "M. Sagri", "Y. Libsekal"],
+    "venue": "J. Afr. Earth Sci",
+    "year": 2014
+  }, {
+    "title": "A brief Oligocene period of flood volcanism in Yemen",
+    "authors": ["J. Baker", "L. Snee", "M. Menzies"],
+    "venue": "Earth Planet. Sci",
+    "year": 1996
+  }, {
+    "title": "Contributions to the Geography of Egypt. Government Press, Cairo (308 pp.)",
+    "authors": ["J. Ball"],
+    "year": 1939
+  }, {
+    "title": "Messinian subaerial erosion of the proto-Nile delta",
+    "authors": ["P.M. Barber"],
+    "venue": "Mar. Geol",
+    "year": 1981
+  }, {
+    "title": "A White Nile megalake during the last interglacial",
+    "authors": ["T.T. Barrows", "M.A.J. Williams", "S.C. Mills", "G.A.T. Duller", "L.K. Fifield", "D. Haberlah", "S.G. Tims", "F.M. Williams"],
+    "venue": "period. Geology",
+    "year": 2014
+  }, {
+    "title": "The Ethiopia Afar Geoscientific Lithospheric Experiment (EAGLE): probing the transition from continental rifting to incipient sea floor spreading",
+    "authors": ["I.D. Bastow", "D. Keir", "E. Daly"],
+    "venue": "Geol. Soc. Am. Spec",
+    "year": 2011
+  }, {
+    "title": "Upper mantle seismic structure beneath the Ethiopian hot spot: rifting at the edge of the African low-velocity anomaly",
+    "authors": ["I.D. Bastow", "A.A. Nyblade", "G.W. Stuart", "T.O. Rooney", "M.H. Benoit"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2008
+  }, {
+    "title": "Upper mantle P-wave speed variations",
+    "authors": ["M.H. Benoit", "A.A. Nyblade", "J.C. VanDecar"],
+    "year": 2006
+  }, {
+    "title": "beneath Ethiopia and the origin of the Afar Hotspot",
+    "authors": ["S.M. Berhe", "B. Desta", "M. Nicoletti", "M. Tefera"],
+    "year": 1987
+  }, {
+    "title": "Late Miocene through early Pliocene deep water circulation and climate",
+    "authors": ["Universität", "K. Bonn. Billups"],
+    "year": 2002
+  }, {
+    "title": "Southern Alpine lakes — hypothesis of an erosional",
+    "authors": ["A. Bini", "M.B. Cita", "M. Gaetani"],
+    "year": 1978
+  }, {
+    "title": "Successive orthogonal and oblique",
+    "authors": ["T. Souriot", "M. Boccaletti", "J.P. Brun"],
+    "venue": "Tectonics",
+    "year": 1997
+  }, {
+    "title": "The Mesozoic succession",
+    "authors": ["A. Bosellini", "A. Russo", "P.L. Fantozzi", "G. Assefa", "S. Tadesse"],
+    "venue": "Ethiopian Rift. Tectonics",
+    "year": 1997
+  }, {
+    "title": "Mekelle Outlier (Tigrai Province, Ethiopia)",
+    "authors": ["T.E. Cerling", "J.M. Harris", "B.J. MacFadden", "M.G. Leakey", "J. Quade", "V. Eisenmann"],
+    "venue": "Mem. Sci. Geol",
+    "year": 2010
+  }, {
+    "title": "Global vegetation change through the Miocene/Pliocene",
+    "authors": ["J.R. Ehleringer"],
+    "year": 1997
+  }, {
+    "title": "Northwest to north-northwest",
+    "authors": ["J. Chorowicz", "B. Collet", "F.F. Bonavia", "T. Korme"],
+    "year": 1994
+  }, {
+    "title": "structures and fault slip analysis. Geol",
+    "authors": ["J. Chorowicz", "B. Collet", "F.F. Bonavia", "P. Mohr", "Parrot", "J.-F", "T. Korme"],
+    "venue": "The Tana basin,",
+    "year": 1998
+  }, {
+    "title": "Control of rift obliquity on the evolution and segmentation",
+    "authors": ["G. pp.). Corti"],
+    "year": 2008
+  }, {
+    "title": "Geologia dell’Africa Orientale (3 vols",
+    "authors": ["R. Accad. Ital", "G. Roma. Dainelli", "O. Marinelli"],
+    "venue": "Apennines (Italy). Terra Nova",
+    "year": 1943
+  }, {
+    "title": "Age of volcanism and rifting in south-western Ethiopia",
+    "authors": ["Tipografia Galletti e Cocci", "A. Firenze. Davidson", "D.C. Rex"],
+    "year": 1980
+  }, {
+    "title": "A channelled plume under Africa",
+    "authors": ["G. Davies"],
+    "venue": "Nature 395,",
+    "year": 1998
+  }, {
+    "title": "Cenozoic magmatism in central and east Africa",
+    "authors": ["C. 16–2.21. Ebinger", "N.H. Sleep"],
+    "year": 1998
+  }, {
+    "title": "Mantle convection in the Middle",
+    "authors": ["C. Faccenna", "T.W. Becker", "L. Jolivet", "M. Keskin"],
+    "venue": "nism and faulting in the southern Main Ethiopian rift. J. Geol. Soc. Lond",
+    "year": 2013
+  }, {
+    "title": "Topography of the Calabria subduction zone (southern",
+    "authors": ["C. Piromallo", "A. Billi"],
+    "year": 2011
+  }, {
+    "title": "Are southern Alpine lakes former Messinian Canyons",
+    "authors": ["P.G. 2010TC002694. Finckh"],
+    "year": 1978
+  }, {
+    "title": "Remote sensing analysis of the Gorge of the Nile,Ethiopia with emphasis on Dejen–Gohatsion region",
+    "authors": ["N.D. Gani", "M.G. Abdelsalam"],
+    "venue": "J. Afr. Earth Sci",
+    "year": 2006
+  }, {
+    "title": "Blue Nile incision on the Ethiopian Plateau: pulsed plateau growth, Pliocene uplift, and hominin evolution",
+    "authors": ["N.D. Gani", "M.G. Abdelsalam", "M.R. Gani"],
+    "venue": "GSA Today",
+    "year": 2007
+  }, {
+    "title": "Stratigraphic and structural evolution of the Blue Nile Basin, Northwestern Ethiopian Plateau",
+    "authors": ["N.D.S. Gani", "M.G. Abdelsalam", "S. Gera", "M.R. Gani"],
+    "venue": "Geol. J",
+    "year": 2008
+  }, {
+    "title": "Petrology of Nile River sands (Ethiopia and Sudan): sediment budgets and erosion patterns",
+    "authors": ["E. Garzanti", "S. Andò", "G. Vezzoli", "A.A.A. Megid", "A. El Kammar"],
+    "venue": "Earth Planet. Sci",
+    "year": 2006
+  }, {
+    "title": "Earliest magmatism in Ethiopia: evidence for two mantle plumes in one flood basalt",
+    "authors": ["R. George", "N. Rogers", "S. Kelley"],
+    "venue": "province. Geology",
+    "year": 1998
+  }, {
+    "title": "Report of the Mission to Lake Tana 1920–21",
+    "authors": ["G.W. Grabham", "R.P. Black"],
+    "year": 1925
+  }, {
+    "title": "Palynological evidence for late Miocene, Pliocene and early Pleistocene climate changes in the middle U.S. Atlantic Coastal Plain",
+    "authors": ["J.J. Groot"],
+    "venue": "Quat. Sci. Rev",
+    "year": 1991
+  }, {
+    "title": "Constraining mantle density structure using geological evidence of surface uplift rates: the case of the African Plume",
+    "authors": ["M. Gurnis", "J.X. Mitrovica", "J. Ritsema", "H.J. van Heijst"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2000
+  }, {
+    "title": "Studies of longitudinal profiles in Virginia and Maryland",
+    "authors": ["J.T. Hack"],
+    "year": 1957
+  }, {
+    "title": "Geochemical characteristics of the alkaline basalts and the phonolite–trachyte plugs of the Axum area, northern Ethiopia",
+    "authors": ["M. Hagos", "C. Koeberl", "K. Kabeto", "F. Koller"],
+    "venue": "Aust. J. Earth",
+    "year": 2010
+  }, {
+    "title": "The geology of the Angareb Ring Dike complex, northwestern Ethiopia",
+    "authors": ["G.A. Hahn", "R.G.H. Raynolds", "R.A. Wood"],
+    "venue": "B. Volcanol",
+    "year": 1977
+  }, {
+    "title": "The deep seismic structure of the Ethiopia/Afar hotspot and the African plume",
+    "authors": ["S.E. Hansen", "A.A. Nyblade"],
+    "venue": "Geophys. J. Int. http://dx.doi.org/10.1093/gji/ggt116",
+    "year": 2013
+  }, {
+    "title": "Variations in the along-axis segmentation of the Afar Rift system",
+    "authors": ["N.J. Hayward", "C.J. Ebinger"],
+    "venue": "Tectonics",
+    "year": 1996
+  }, {
+    "title": "Correlation of late Miocene to early Pliocene sequences between the Mediterranean and North Atlantic",
+    "authors": ["D.A. Hodell", "J.H. Curtis", "F.J. Sierro", "M.E. Raymo"],
+    "venue": "Paleoceanography 16,",
+    "year": 2001
+  }, {
+    "title": "Timing of the Ethiopian flood basalt event and implications for plume birth and global change",
+    "authors": ["C. Hofmann", "V. Courtillot", "G. Feraud", "P. Rochette", "G. Yirgu", "E. Ketefo", "R. Pik"],
+    "venue": "Nature 389,",
+    "year": 1997
+  }, {
+    "title": "Channel changes in badlands",
+    "authors": ["A.D. Howard", "G. Kerby"],
+    "venue": "Geol. Soc. Am. Bull",
+    "year": 1983
+  }, {
+    "title": "Modeling fluvial erosion on regional to continental scales",
+    "authors": ["A.D. Howard", "W.E. Dietrich", "M.A. Seidl"],
+    "venue": "J. Geophys. Res. Solid Earth",
+    "year": 1994
+  }, {
+    "title": "Long Term Land Surface Processes: Erosion, Tectonics and Climate History in Mountain Belts",
+    "authors": ["B.L. Isacks"],
+    "venue": "Understanding the Terrestrial Environment. Taylor and Francis,",
+    "year": 1992
+  }, {
+    "title": "Morpho-tectonic analysis of the Tekeze River and the Blue Nile drainage systems on the Northwestern Plateau, Ethiopia",
+    "authors": ["E.H. Ismail", "M.G. Abdelsalam"],
+    "venue": "J. Afr. Earth Sci",
+    "year": 2012
+  }, {
+    "title": "A General Geological Map of the Blue Nile River",
+    "authors": ["D.H. Jepsen", "M.J. Athearn"],
+    "year": 1961
+  }, {
+    "title": "Miocene to Pliocene vegetation reconstruction and climate estimates in the Iberian Peninsula from pollen data",
+    "authors": ["G. Jimenez-Moreno", "S. Fauquette", "Suc", "J.-P"],
+    "venue": "Rev. Palaeobot. Palynol",
+    "year": 2010
+  }, {
+    "title": "Magma assisted rifting in Ethiopia",
+    "authors": ["J.M. Kendall", "G.W. Stuart", "C.J. Ebinger", "I.D. Bastow", "D. Keir"],
+    "venue": "Nature 433,",
+    "year": 2005
+  }, {
+    "title": "Discontinuous and diachronous evolution of the Main Ethiopian Rift: implications for the development of continental rifts",
+    "authors": ["K. Keranen", "S.L. Klemperer"],
+    "venue": "Earth Planet. Sci. Lett. 265,",
+    "year": 2008
+  }, {
+    "title": "Flood and shield basalts from Ethiopia: magmas from the African Superswell",
+    "authors": ["B. Kieffer", "N. Arndt", "H. Lapierre", "F. Bastien", "D. Bosch", "A. Pecher", "G. Yirgu", "D. Ayalew", "D. Weis", "D.A. Jerram", "F. Keller", "C. Meugniot"],
+    "venue": "J. Petrol",
+    "year": 2004
+  }, {
+    "title": "Transient channel incision along Bolinas Ridge, California: evidence for differential rock uplift adjacent to the San Andreas fault",
+    "authors": ["E. Kirby", "C. Johnson", "K. Furlong", "A. Heimsath"],
+    "venue": "J. Geophys. Res",
+    "year": 2007
+  }, {
+    "title": "Systematic variation of bedrock channel gradients in the central Oregon Coast Range: implications for rock uplift and shallow landsliding",
+    "authors": ["J.S. Kobor", "J.J. Roering"],
+    "venue": "Geomorphology",
+    "year": 2004
+  }, {
+    "title": "Escarpment evolution on high-elevation rifted margins: insights derived from a surface processes model that combines diffusion, advection, and reaction",
+    "authors": ["H. Kooi", "C. Beaumont"],
+    "venue": "J. Geophys. Res",
+    "year": 1994
+  }, {
+    "title": "Constraints on the long-term colluvial erosion law by analyzing slope-area relationships at various tectonic uplift rates in the Siwaliks Hills (Nepal)",
+    "authors": ["D. Lague", "P. Davy"],
+    "venue": "J. Geophys. Res",
+    "year": 2003
+  }, {
+    "title": "Late Pleistocene desiccation of Lake Tana, source of the Blue Nile",
+    "authors": ["H.F. Lamb", "C.R. Bates", "P.V. Coombes", "M.H. Marshall", "M. Umer", "S.J. Davies", "E. Dejen"],
+    "venue": "Q. Sci. Rev",
+    "year": 2007
+  }, {
+    "title": "The Valley of the Nile",
+    "authors": ["A.C. Lawson"],
+    "venue": "University of California (Chronicle No",
+    "year": 1927
+  }, {
+    "title": "The Geology of Mekelle. Report on the Geology of the Central Part of Sheet ND 37-11",
+    "authors": ["D. Levitte"],
+    "venue": "Ethiopian Institute of Geological",
+    "year": 1970
+  }, {
+    "title": "Dynamic topography, plate driving forces and the African superswell",
+    "authors": ["C. Lithgow-Bertelloni", "P.G. Silver"],
+    "venue": "Nature 395,",
+    "year": 1998
+  }, {
+    "title": "Late Neogene and Quaternary landscape evolution of the Northern California Coast Ranges: evidence for Mendocino triple junction tectonics",
+    "authors": ["J. Lock", "H. Kelsey", "K. Furlong", "A. Woolace"],
+    "venue": "Geol. Soc. Am",
+    "year": 2006
+  }, {
+    "title": "Wave train model for knickpoint migration",
+    "authors": ["N. Loget", "J. Van Den Driessche"],
+    "venue": "Geomorphology",
+    "year": 2009
+  }, {
+    "title": "The development of the Nile drainage system: integration of onshore and offshore evidence",
+    "authors": ["D.S. Macgregor"],
+    "venue": "Pet. Geosci",
+    "year": 2012
+  }, {
+    "title": "Ages and rates of denudation of trap series basalts at the Blue Nile Gorge, Ethiopia",
+    "authors": ["I. McDougall", "W.H. Morton", "M.A.J. William"],
+    "venue": "Nature 254,",
+    "year": 1975
+  }, {
+    "title": "Dyke swarm emplacement in the Ethiopian Large Igneous Province: not only a matter of stress",
+    "authors": ["D. Mege", "T. Korme"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2004
+  }, {
+    "title": "African climate change and faunal evolution during the Pliocene– Pleistocene",
+    "authors": ["P.B. deMenocal"],
+    "venue": "Earth Planet. Sci",
+    "year": 2004
+  }, {
+    "title": "Volcanic and nonvolcanic rifted margins of the Red Sea and Gulf of Aden: crustal cooling and margin evolution in Yemen",
+    "authors": ["M. Menzies", "K. Gallagher", "A. Yelland", "A.J. Hurford"],
+    "venue": "Geochim. Cosmochim",
+    "year": 1997
+  }, {
+    "title": "1938.Missione geologica nel Tigrai",
+    "authors": ["G. Merla", "E. Minucci"],
+    "venue": "Regia Accademia Italiana, Roma",
+    "year": 1938
+  }, {
+    "title": "Geological map of Ethiopia and Somalia and comment with a map of major landforms (scale 1:2,000,000)",
+    "authors": ["G. Merla", "E. Abbate", "P. Canuti", "M. Sagri", "P. Tacconi"],
+    "year": 1979
+  }, {
+    "title": "Ricerche geologiche nella regione del Tana",
+    "authors": ["E. Minucci"],
+    "venue": "Missione di Studio al Lago Tana. R. Accad. Ital",
+    "year": 1938
+  }, {
+    "title": "The Ethiopian Flood Basalt Province",
+    "authors": ["P. Mohr", "B. Zanettin"],
+    "year": 1988
+  }, {
+    "title": "The geology of Ethiopia. Addis Ababa University Press, Addis Ababa (268 pp.)",
+    "authors": ["P.A. Mohr"],
+    "year": 1961
+  }, {
+    "title": "The Ethiopian Rift System",
+    "authors": ["P.A. Mohr"],
+    "venue": "Bulletin of the Geophysical Observatory of Addis Ababa",
+    "year": 1967
+  }, {
+    "title": "Interaction of mantle dynamics, crustal tectonics and surface processes in the topography of the Romanian Carpathians: a geomorphological approach",
+    "authors": ["P. Molin", "G. Fubelli", "M. Nocentini", "S. Sperini", "P. Ignat", "F. Grecu", "F. Dramis"],
+    "year": 2012
+  }, {
+    "title": "Geomorphic expression of active tectonics in a rapidly deforming forearc, Sila Massif, Calabria, southern Italy",
+    "authors": ["P. Molin", "F.J. Pazzaglia", "F. Dramis"],
+    "venue": "Am. J. Sci",
+    "year": 2004
+  }, {
+    "title": "Mantle upwellings and convective instabilities revealed by seismic tomography and helium isotope geochemistry beneath eastern Africa",
+    "authors": ["J.P. Montagner", "B. Marty", "E. Stutzmann", "D. Sicilia", "M. Cara", "R. Pik", "Leveque", "J.-J", "G. Roult", "E. Beucler", "E. Debayle"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2007
+  }, {
+    "title": "Changes in African topography driven by mantle convection",
+    "authors": ["R. Moucha", "A.M. Forte"],
+    "venue": "Nat. Geosci. Lett. http://dx.doi.org/10.1038/NGEO1235",
+    "year": 2011
+  }, {
+    "title": "The Axum-Adwa basalt-trachyte complex: a late magmatic activity at the periphery of the Afar plume",
+    "authors": ["C. Natali", "L. Beccaluva", "G. Bianchini", "F. Siena"],
+    "venue": "Contrib. Mineral. Petrol",
+    "year": 2013
+  }, {
+    "title": "The upper-mantle low-velocity anomaly beneath Ethiopia, Kenya, and Tanzania: constraints on the origin of the African superswell in eastern Africa and plate versus plume models of mantle dynamics. Geol",
+    "authors": ["A.A. Nyblade"],
+    "year": 2011
+  }, {
+    "title": "Seismic evidence for a deep upper mantle thermal anomaly beneath east Africa",
+    "authors": ["A.A. Nyblade", "T.J. Owens", "H. Gurrola", "J. Ritsema", "C.A. Langston"],
+    "venue": "Geology",
+    "year": 2000
+  }, {
+    "title": "Uplift history of the Sila Massif, southern Italy, deciphered from cosmogenic",
+    "authors": ["V. Olivetti", "A.I. Cyr", "P. Molin", "C. Faccenna", "D.E. Granger"],
+    "year": 2012
+  }, {
+    "title": "Bedrock Fluvial Incision and Longitudinal Profile Development over Geologic Time Scales Determined by Fluvial Terraces",
+    "authors": ["F.J. Pazzaglia", "T.W. Gardner", "D.J. Merritts"],
+    "venue": "River Over Rock: Fluvial Processes in Bedrock ChannelsAmerican Geophysical Union Geophysical Monograph",
+    "year": 1998
+  }, {
+    "title": "Tectonic and climatic controls on rift escarpments: erosion and flexural rebound of the Dhofar passive margin (Gulf of Aden, Oman)",
+    "authors": ["C. Petit", "M. Fournier", "Y. Gunnell"],
+    "venue": "J. Geophys. Res",
+    "year": 2007
+  }, {
+    "title": "The Northwest Ethiopian plateau flood basalts: classification and spatial distribution of magma types",
+    "authors": ["R. Pik", "C. Deniel", "C. Coulon", "G. Yirgu", "C. Hofmann", "D. Ayalew"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 1998
+  }, {
+    "title": "Stability of Upper Nile drainage network (Ethiopia) deduces from (U–Th)/He thermochronometry: implication of uplift and erosion of the Afar plume dome",
+    "authors": ["R. Pik", "B. Marty", "J. Carignan", "J. Lave"],
+    "venue": "Earth Planet. Sci",
+    "year": 2003
+  }, {
+    "title": "Thrust-fold activity at the mountain front of the Northern Apennines (Italy) from quantitative landscape analysis",
+    "authors": ["A. Ponza", "F.J. Pazzaglia", "V. Picotti"],
+    "venue": "Geomorphology",
+    "year": 2010
+  }, {
+    "title": "New seismic model of the upper mantle beneath Africa",
+    "authors": ["J. Ritsema", "H.J. van Heijst"],
+    "venue": "Geology",
+    "year": 2000
+  }, {
+    "title": "Complex shear wave velocity structure imaged beneath Africa and Iceland",
+    "authors": ["J. Ritsema", "H.J. van Heijst", "J.H. Woodhouse"],
+    "venue": "Science 286,",
+    "year": 1999
+  }, {
+    "title": "Erosional surface of Messinian age in the subsurface of the Lombardian Plain (Italy)",
+    "authors": ["A. Rizzini", "L. Dondi"],
+    "venue": "Mar. Geol",
+    "year": 1978
+  }, {
+    "title": "Stratigraphy and sedimentation of a Neogene–Quaternary section in the Nile Delta area",
+    "authors": ["A. Rizzini", "F. Vezzani", "V. Cococcetta", "G. Milad"],
+    "venue": "Mar. Geol",
+    "year": 1978
+  }, {
+    "title": "Hillslope and channel evolution in a marine terraced landscape, Santa Cruz, California",
+    "authors": ["N.A. Rosenbloom", "R.S. Anderson"],
+    "venue": "J. Geophys. Res",
+    "year": 1994
+  }, {
+    "title": "Colorado Plateau magmatism and uplift by warming of heterogeneous lithosphere",
+    "authors": ["M. Roy", "T.H. Jordan", "J. Pederson"],
+    "venue": "Nature 459,",
+    "year": 2009
+  }, {
+    "title": "The evolution of the River Nile, The buried saline rift lakes in Sudan",
+    "authors": ["R.B. Salama"],
+    "venue": "J. Afr. Earth Sci",
+    "year": 1987
+  }, {
+    "title": "Rift Basins of the Sudan",
+    "authors": ["R.B. Salama"],
+    "venue": "Sedimentary Basins of the WorldAfrican Basins",
+    "year": 1997
+  }, {
+    "title": "Acausal relations between topographic slope and drainage area",
+    "authors": ["N. Schorghofer", "D.H. Rothman"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2002
+  }, {
+    "title": "TopoToolbox: a set ofMatlab functions for topographic analysis",
+    "authors": ["W. Schwanghart", "N.J. Kuhn"],
+    "venue": "Environ. Model. Softw",
+    "year": 2010
+  }, {
+    "title": "The influence of surface and tectonic processes on landscape evolution of the Iberian Chain (Spain): quantitative geomorphological analysis and geochronology. Geomorphology http:// dx.doi.org/10.1016/j.geomorph.2013.09.017",
+    "authors": ["V.N. Scotti", "P. Molin", "C. Faccenna", "M. Soligo", "A. Casas-Sainz"],
+    "year": 2013
+  }, {
+    "title": "The Uplift of the Ethiopian Plateau (PhD Thesis",
+    "authors": ["A. Sembroni"],
+    "venue": "University of Roma Tre, Rome, Italy,",
+    "year": 2015
+  }, {
+    "title": "River Longitudinal Profiles and Bedrock Incision Models: Stream Power and the Influence of Sediment Supply",
+    "authors": ["L.S. Sklar", "W.E. Dietrich"],
+    "venue": "Rivers Over Rock: Fluvial Processes in Bedrock Channels. American Geophysical Union Geophysical Monograph",
+    "year": 1998
+  }, {
+    "title": "Pleistocene relief production in Laramide mountain ranges, western",
+    "authors": ["E.E. Small", "R.S. Anderson"],
+    "venue": "United States. Geology",
+    "year": 1998
+  }, {
+    "title": "Landscape response to tectonic forcing: digital elevation model analysis of stream profiles in the Mendocino triple junction region, northern California",
+    "authors": ["N. Snyder", "K.X. Whipple", "G.E. Tucker", "D.J. Merritts"],
+    "venue": "Geol. Soc. Am. Bull",
+    "year": 2000
+  }, {
+    "title": "Middle Miocene to earliest Pliocene sedimentological and geochemical records of climate change in the western",
+    "authors": ["C. Song", "S. Hu", "W. Han", "T. Zhang", "X. Fang", "J. Gao", "F. Wu"],
+    "venue": "Qaidam Basin on the NE Tibetan Plateau. Palaeogeogr. Palaeoclimatol",
+    "year": 2014
+  }, {
+    "title": "Arc assembly and continental collision in the Neoproterozoic East African orogen",
+    "authors": ["R.J. Stern"],
+    "venue": "Annu. Rev. Earth Planet. Sci",
+    "year": 1994
+  }, {
+    "title": "Geologic constraints on bedrock river incision using the stream power law",
+    "authors": ["J.D. Stock", "D.R. Montgomery"],
+    "venue": "J. Geophys. Res",
+    "year": 1999
+  }, {
+    "title": "Scaling and elevation in river networks",
+    "authors": ["D.G. Tarboton", "R.L. Bras", "I. Rodríguez-Iturbe"],
+    "venue": "Water Resour. Res",
+    "year": 1989
+  }, {
+    "title": "Geological Map of Ethiopia",
+    "authors": ["M. Tefera", "T. Cherenet", "W. Haro"],
+    "year": 1996
+  }, {
+    "title": "Quantitative testing of bedrock incision models, Clearwater River, NW Washington State",
+    "authors": ["J.H. Tomkin", "M.T. Brandon", "F.J. Pazzaglia", "J.R. Barbour", "S.D. Willett"],
+    "venue": "J. Geophys. Res",
+    "year": 2003
+  }, {
+    "title": "Geological Map of Bure EIGS",
+    "authors": ["L. Tsige", "E. Hailu"],
+    "year": 2007
+  }, {
+    "title": "Erosional dynamics, flexural isostasy, and long-lived escarpments: a numerical modeling study",
+    "authors": ["G.E. Tucker", "R.L. Slingerland"],
+    "venue": "J. Geophys. Res",
+    "year": 1994
+  }, {
+    "title": "Matching conjugate volcanic rifted margins",
+    "authors": ["I.A. Ukstins", "P.R. Renne", "E. Wolfenden", "J. Baker", "D. Ayalew", "M. Menzies"],
+    "year": 2002
+  }, {
+    "title": "Late Miocene stable isotope stratigraphy of SE Atlantic ODP Site 1085: relation toMessinian events. Mar. Geol",
+    "authors": ["L. Vidal", "T. Bickert", "G. Wefer", "U. Rohl"],
+    "year": 2002
+  }, {
+    "title": "Holocene strath terraces, climate change, and active tectonics: the Clearwater River basin, Olympic Peninsula, Washington State",
+    "authors": ["K.W. Wegmann", "F.J. Pazzaglia"],
+    "venue": "Geol. Soc. Am",
+    "year": 2002
+  }, {
+    "title": "Position of the Snake River watershed divide as an indicator of geodynamic processes in the greater Yellowstone region, western North America",
+    "authors": ["K.W. Wegmann", "B.D. Zurek", "C.A. Regalla", "D. Bilardello", "J.L. Wollenberg", "S.E. Kopczynski", "J.M. Ziemann", "S.L. Haight", "J.D. Apgar", "C. Zhao", "F.J. Pazzaglia"],
+    "venue": "Geosphere",
+    "year": 2007
+  }, {
+    "title": "Erosional development of the Ethiopian Plateau of Northeast Africa from fractal analysis of topography",
+    "authors": ["J. Weissel", "A. Malinverno", "D. Harding"],
+    "year": 1995
+  }, {
+    "title": "Regional variations in tectonic geomorphology along a segmented convergent plate boundary",
+    "authors": ["S.G. Wells", "T.F. Bullard", "C.M. Menges", "P.G. Drake", "P.A. Karas", "K.I. Kelson", "J.B. Ritter", "J.R. Wesling"],
+    "venue": "Pacific coast of Costa Rica. Geomorphology",
+    "year": 1988
+  }, {
+    "title": "Bedrock rivers and the geomorphology of active orogens",
+    "authors": ["K. Whipple"],
+    "venue": "Annu. Rev. Earth Planet. Sci",
+    "year": 2004
+  }, {
+    "title": "Dynamics of the stream-power river incisionmodel: implications for height limits of mountain ranges, landscape response timescales, and research needs",
+    "authors": ["K.X. Whipple", "G.E. Tucker"],
+    "venue": "J. Geophys. Res",
+    "year": 1999
+  }, {
+    "title": "River incision into bedrock: mechanics and relative efficacy of plucking, abrasion, and cavitation",
+    "authors": ["K.X. Whipple", "G.S. Hancock", "R.S. Anderson"],
+    "venue": "Geol. Soc. Am",
+    "year": 2000
+  }, {
+    "title": "New Tools for Quantitative Geomorphology: Extraction and Interpretation of Stream Profiles from Digital Topographic Data. Geological Society of America Annual Meeting (Short Course Guide: http://www.geomorphtools.org, Denver)",
+    "authors": ["K.X. Whipple", "C. Wobus", "B. Crosby", "E. Kirby", "D. Sheehan"],
+    "year": 2007
+  }, {
+    "title": "Tectonics from Topography: Procedures, Promise, and Pitfalls",
+    "authors": ["C. Wobus", "K.X. Whipple", "E. Kirby", "N. Snyder", "J. Johnson", "K. Spyropolou", "B. Crosby", "D. Sheehan"],
+    "venue": "Geol. Soc. Am. S",
+    "year": 2006
+  }, {
+    "title": "Evolution of the southern Red Sea rift: birth of a magmatic margin",
+    "authors": ["E. Wolfenden", "C. Ebinger", "G. Yirgu", "P. Renne", "S.P. Kelley"],
+    "venue": "Geol. Soc. Am",
+    "year": 2005
+  }, {
+    "title": "Evolution of the northern Main Ethiopian rift: birth of a triple junction",
+    "authors": ["E. Wolfenden", "G. Yirgu", "C. Ebinger", "A. Deino", "D. Ayalew"],
+    "venue": "Earth Planet. Sci. Lett. 224,",
+    "year": 2004
+  }, {
+    "title": "The Nile: Evolution, Quaternary River Environments and Material Fluxes",
+    "authors": ["J.C. Woodward", "M.G. Macklin", "M.D. Krom", "M.A.J. Williams"],
+    "year": 2007
+  }, {
+    "title": "Geological Map of Yifag area EIGS",
+    "authors": ["B. Zenebe", "D.H. Mariam"],
+    "year": 2011
+  }],
+  "id": "SP:276781ce600f6ba860ea5fea8afc63ebd1316ca4",
+  "authors": [{
+    "name": "Andrea Sembroni",
+    "affiliations": []
+  }, {
+    "name": "Paola Molin",
+    "affiliations": []
+  }, {
+    "name": "Frank J. Pazzaglia",
+    "affiliations": []
+  }, {
+    "name": "Claudio Faccenna",
+    "affiliations": []
+  }, {
+    "name": "Bekele Abebe",
+    "affiliations": []
+  }],
+  "abstractText": "Article history: Received 9 September 2015 Received in revised form 7 January 2016 Accepted 20 February 2016 Available online 23 February 2016 Ethiopia offers an excellent opportunity to study the effects and linkage between mantle dynamics and surface processes on landscape evolution. The Ethiopian Highlands (NW Ethiopia), characterized by a huge basaltic plateau, is part of the African Superswell, a wide region of dynamically-supported anomalously high topography related to the rising of the Afar plume. The initiation and steadiness of dynamic support beneath Ethiopia has been explored in several studies. However the presence, role, and timing of dynamic support beneath Ethiopia and its relationship with continental flood basalts volcanism and surface processes are poorly defined. Here, we present a geomorphological analysis of the Ethiopian Highlands supplying new constraints on the evolution of river network. We investigated the general topographic features (filtered topography, swath profiles, local relief) and the river network (river longitudinal profiles) of the study area.We also apply a knickpoint celeritymodel in order to provide a chronological framework to the evolution of the river network. The results trace the long-termprogressive capture of the Ethiopian Highlands drainage system and confirm the long-termdynamic support of the area, documenting its impact on the contrasting development of the Blue Nile and Tekeze basins. © 2016 Elsevier B.V. All rights reserved.",
+  "title": "Evolution of continental-scale drainage in response to mantle dynamics and surface processes: An example from the Ethiopian Highlands"
+}

@@ -1,0 +1,607 @@
+{
+  "sections": [{
+    "text": "Background: Volcanic and tectonic activities in conjunction with Quaternary climate are the main events that shaped the geographical distribution of genetic variation of many lineages. Poeciliopsis infans is the only poeciliid species that was able to colonize the temperate highlands of central Mexico. We inferred the phylogenetic relationships, biogeographic history, and historical demography in the widespread Neotropical species P. infans and correlated this with geological events and the Quaternary glacial-interglacial climate in the highlands of central Mexico, using the mitochondrial genes Cytochrome b and Cytochrome oxidase I and two nuclear loci, Rhodopsin and ribosomal protein S7.\nResults: Populations of P. infans were recovered in two well-differentiated clades. The maximum genetic distances between the two clades were 3.3% for cytb, and 1.9% for coxI. The divergence of the two clades occurred ca. 2.83 Myr. Ancestral area reconstruction revealed a complex biogeographical history for P. infans. The Bayesian Skyline Plot showed a demographic decline, although more visible for clade A, and more recently showed a population expansion in the last 0.025 Myr. Finally, the habitat suitability modelling showed that during the LIG, clade B had more areas with high probabilities of presence in comparison to clade A, whereas for the LGM, clade A showed more areas with high probabilities of presence in comparisons to clade B.\nConclusions: Poeciliopsis infans has had a complex evolutionary and biogeographic history, which, as in other co-distributed freshwater fishes, seems to be linked to the volcanic and tectonic activities during the Pliocene or early Pleistocene. Populations of P. infans distributed in lowlands showed a higher level of genetic diversity than populations distributed in highlands, which could be linked to more stable and higher temperatures in lowland areas. The fluctuations in population size through time are in agreement with the continuous fluctuations of the climate of central Mexico.\nKeywords: Endemic fishes, Tecto-volcanism, Quaternary climate, Pliocene, Biogeographical history\n* Correspondence: goodeido@yahoo.com.mx 3Laboratorio de Biología Acuática, Facultad de Biología, Universidad Michoacana de San Nicolás de Hidalgo, Morelia, Michoacán, Mexico 4Laboratorio Nacional de Análisis y Síntesis Ecológica para la Conservación de Recursos Genéticos de México, Escuela Nacional de Estudios Superiores, Unidad Morelia, Universidad Nacional Autónoma de México, Morelia, Michoacán, Mexico Full list of author information is available at the end of the article\n© The Author(s). 2018 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated."
+  }, {
+    "heading": "Background",
+    "text": "Volcanic and tectonic activities since the Miocene have had a substantial influence on the diversification of many New World taxa [1, 2]. Paleoclimatic events since the Pliocene, mainly from the Quaternary to the present; also have influenced the distribution of many organisms by changing the climates in boreal, temperate and tropical zones. Geologic and quaternary climatic events together are the main factors that have shaped the geographical distribution of genetic variation at the species, population, and community levels in several taxa, including fishes [3–11]. The beta diversity of freshwater fishes worldwide, including 80% of all freshwater species described, demonstrates that geographical isolation of drainage basins, combined with Quaternary climate changes, provides a parsimonious explanation for present-day patterns of spatial turnover in the global freshwater fish fauna [12]. Under this context, the geographical location, complex topography, geological dynamism including extensive volcanism since the Miocene and the climatic history of central Mexico, changed during the Quaternary [8, 13], have shaped a biogeographically complex area, characterized by ecological components that have allowed for the coexistence of taxa of Neotropical and Nearctic origins, as well as endemic groups [14, 15]. The biogeographic limits of this area have been largely discussed, and even differ depending on the taxa analyzed [14, 16–18]. In general terms, central Mexico is a high plateau bounded by the Sierra Madre Oriental to the east and by the Sierra Madre Occidental to the west and crossed by the Trans Mexican Volcanic Belt (TMVB) from west to east, with elevations up to 1400–1800 MASL [18], a region also called the Mesa Central by some authors [19]. The region is characterized by a temperate climate, thus allowing for the establishment of fish species, mainly of Neartic origin. The climatic changes during the quaternary have influenced the geographical distribution of genetic lineages of terrestrial organisms in space and time, as is the case of snakes [7], lizards [8, 20, 21], birds [9], small mammals [22–24], and plants [2]. The dynamic geological processes that have occurred since the Miocene have promoted the genesis and destruction of aquatic ecosystems [25] and have been considered as the primary forces that have influenced the biogeography and the complex evolution of several taxa of freshwater organisms [26–32]. However, most of the research has focused on understanding the complex evolutionary history of freshwater fishes of Nearctic origin such as Goodeids [28, 29, 33, 34], Cyprinids [30], Catostomids [35], and a combination of taxa [36]. Only one group of species in the TMVB that are of Neotropical origin, genus Poeciliopsis, has been previously investigated in this manner [26]. The small live-bearing topminnow Poeciliopsis infans (Woolman, 1894) is a member of the family Poeciliidae, which has more than 220 species of tropical preferences [37]. Poeciliopsis infans is the only Neotropical fish species that has colonized the temperate highlands of the TMVB, including the Lerma-Santiago Basin, headwaters of the Ameca, Armeria, Coahuayana, Balsas and Panuco Basins, as well as endorheic lakes in the region (Fig. 1) [38]. Poeciliopsis infans is co-distributed with fishes of Nearctic origin of the families Goodeidae, Catostomidae, Ictaluridae and Cyprinidae [38]. Accordingly, since the members of the Poeciliidae are a group of Neotropical origin, most of them are adapted to tropical habitats. Furthermore, since P. infans is the only poeciliid species living in the temperate highlands of central Mexico, an area dominated by fish species of Neartic origin, we expect that the evolutionary history of P. infans could be explained by recent volcanic and tectonic activities. However, since P. infans is a species evolving in the marginal and temperate areas adjacent to the distribution of all of the other species Poeciliopsis, it may not follow the same patterns as other co-distributed species in the region. We extensively sampled throughout the distribution of P. infans (Teleostomi: Poeciliidae), and gathered mtDNA and nDNA sequences to infer phylogeographic variation, historical biogeography, and historical demography of the widespread P. infans. These data will allow us to examine the influence of geological history and Quaternary glacial-interglacial climatic events, in space and time, in the evolutionary history of Neotropical species evolving in a predominant Nearctic area."
+  }, {
+    "heading": "Methods",
+    "text": ""
+  }, {
+    "heading": "Sample collection",
+    "text": "Two hundred fifty-six specimens of P. infans from throughout the range were collected (Fig. 1 and Table 1) using electrofishing equipment and trawl nets. Tissue samples (fin clips) were preserved in 95% ethanol for DNA extraction, and a maximum of five specimens per site were preserved in 5% formalin. Despite intensive collection efforts, samples were not obtained from some biogeographic regions. Fish and tissue samples were deposited in the fish collection of the Universidad Michoacana de San Nicolas de Hidalgo, Mexico (SEMARNAT registration number MICH-PEC-227-07-09; for voucher numbers see Additional file 1)."
+  }, {
+    "heading": "DNA extraction, PCR amplification and sequencing",
+    "text": "Total genomic DNA was isolated with the Qiagen BioSprint Dneasy Tissue and Blood Kit (Qiagen, Valencia, CA, USA) following the manufacturer’s protocol. Two hundred fifty-six individuals were amplified for Cytochrome b (cytb: 1083 bp) and 249 individuals for Cytochrome\nOxidase Subunit I (coxI: 631 bp), for 1771 bp of mitochondrial sequence data. The first intron, a fragment of second intron, and the second exon of the gene coding for the S7 ribosomal protein (S7: 859 bp), and the gene coding for the Rhodopsin protein (RHO: 845 bp) were amplified for 1704 bp of nuclear sequence data from 201 individuals. For this subset, individuals were chosen in order to represent all biogeographic regions and all the variation shown in mitochondrial dataset. In addition, five sequences of cytb were obtained from GenBank with the following accession numbers: AF412134 of Lerma River, AF412135 of Ameca River, AF412136 of Chapala Lake, AF412137 of Santiago River and AF412138 of Panuco River. Each fragment was individually amplified using the Polymerase Chain Reaction (PCR) in volumes of 12.5 μl, containing 4.25 μl ultrapure water, 0.5 μl of each 0.2 μM primer, 6.25 μl Dream Taq Green PCR Master Mix 2× (Thermo Scientific), and 1 μl (ca. 10–100 ng) of DNA template. The specific PCR protocols of each gene are provided in Additional file 2. The recovered PCR products were purified using ExoSAP-IT (USB Corp.) and submitted to Macrogen Inc. (The Netherlands) for sequencing. Nucleotide sequences were edited and aligned in Mega v.6.06 [39], and the chromatographs were examined by eye. For the nuclear gene (RHO), the heterozygous genotypes were phased using DNAsp v.5. 10 [40] with the algorithm provided by PHASE v.2.0 [41]. Whenever sequences of S7 showed heterozygous positions defined by indels, a manual reconstruction of the two-allele phases was performed following the procedure described by [42]. The obtained sequences were deposited in GenBank under the follow access\nFig. 1 Sampling locations and the biogeographical regions where Poeciliopsis infans is distributed. The colors of the biogeographical regions corresponded with the colors used in the phylogenetic analyses. The codes of the biogeographical regions are as follows: (Mag) Magdalena Lake; (Etz) Etzatlan-San Marcos region; (Ver) Verde River; (Ame) Ameca River; (Ato) Atotonilco Lake as the number 1; (Sma) San Marcos Lake as the number 2; (Say) Sayula Lake as the number 3; (Zap) Zapotlan Lake as the number 4, these four lakes belong to Sayula region; (San) Grande de Santiago River; (Tam) Tamazula River; (Pat) Patzcuaro Lake; (Cha) Chapala Lake; (Bal) Balsas River; (Cot) Cotija Lake; (Lle) Lower Lerma Basin; (Mle) Middle Lerma Basin; (Zac) Zacapu region; and, (Cui) Cuitzeo Lake. The meters above see level (MASL) are indicated with level curves\nnumber: for cytb (MG028009 to MG028278), for coxI (MG028279 to MG028543), for RHO (MG100617 to MG100824) and for S7 (MG366191 to MG366482), (see Additional file 1).\nPhylogenetic analyses and haplotype networks Recombination of the nuclear genes (RHO, P = 1.0; S7, P = 0.23) was tested using the PHI test in Splitstree v.4. 13 [43]. DNA sequences of each of the four genes (cytb, coxI, S7 and RHO) were collapsed to haplotypes using the web-based program ALTER [44]. The phylogenetic analyses were conducted with each gene separately, with concatenated datasets for mitochondrial genes, for concatenated nuclear genes, and for the four genes combined. The phylogenetic analyses with concatenated genes were performed with the available sequences of the nuclear genes (201 specimens), the sequences of mitochondrial genes were adjusted to these number, which were representative of all biogeographic regions and account the variability found in mitochondrial genes. The performance of the phylogenies with the four concatenated genes vs. mitochondrial genes concatenated and vs. nuclear genes concatenated were assessed using Bayes Factors (BF). Bayes Factors were calculated from the estimated harmonic means of likelihood using the sump command in MrBayes. Decisions were made based on the 2ln BF criterion, with BF > or = 10 considered as strong evidence for rejecting the null hypothesis [45]. Model selection based on Akaike information criterion (AIC) and optimal partition settings were performed using PartitionFinder v.1.1.0 [46], and recovered the best partition by assigning substitution models for each gene. The parameters of each model are provided in Additional file 3. Gene trees were constructed with Maximum Likelihood implemented in RAxMLGUI v.1.3.1 [47, 48], using the substitution model implemented for each gene. The GTR +G + I [48] substitution model was used for the concatenated genes matrix and 10,000 bootstrap replicates with the algorithm ML + rapid bootstrap. The relative stability of clades was evaluated by 1000 nonparametric bootstrap replicates [49]. Bayesian Inference was implemented in MrBayes v.3.2.1 [50], with the substitution models for each gene obtained in PartitionFinder. Analyses were run for 10 million generations, with two independent runs implementing four Markov Chain Monte Carlo (MCMC) processes and sampling every 500 generations. We evaluated the chains for convergence with the log-likelihood (-InL) values of the two independent runs using Tracer v.1.5 [51], and discarded 10% as burn-in to construct the consensus tree. Poeciliopsis prolifica was used as outgroup, based on the results of a previous study [26].\nIn order to determine the geographic distribution of haplotypes for all populations of P. infans for nuclear genes, we reconstructed two independent TCS haplotype networks (a phylogenetic network estimation using statistical parsimony) for RHO and S7 sequences using PopArt v.1.7 (http://popart.otago.ac.nz).\nDivergence time estimation and genetic distances The program BEAST v.1.8.1 [52] was used to estimate the most recent common ancestor for clades within P. infans. This analysis was carried out with a subset of 145 sequences that include all different haplotypes for all genes. Because the lack of fossil data for Poeciliopsis, the molecular clock was calibrated using the mutation rate of cytb in teleosts of 0.76–2.2%/million years [53–55]. Since the mutation rate is not available for the other genes, they were included in the analysis without calibration information. The model parameters were unlinked across cytb, coxI, S7 and RHO genes and substitution models were set according to the selected model for each gene by PartitionFinder v. 1.1.0 [46]. We applied a lognormal relaxed clock (Uncorrelated) model on branch length [56]. We selected the tree prior Coalescent: Extended Bayesian Skyline Plot [57], and estimated a starting tree using the random method. A MCMC analysis with 50 million of generations was conducted, and sampled every 1000 generations. We assessed whether parameter values had reached effective sample size and convergence in Tracer v.1.5. [51]. Finally, the maximum clade credibility tree was built, discarding the first 10% of the trees as burnin, using Tree Annotator v.1.8.1. [52]. Uncorrected genetic distances were calculated among the recovered groups in the phylogenetic trees for each mitochondrial gene (cytb, coxI), and between all individuals for S7 and RHO in Mega v.6.06 [39]. A bootstrapping process was performed with 1000 repetitions.\nGenetic diversity and population structure For each gene (cytb, coxI, S7 and RHO), the number of haplotypes (H), polymorphic sites (S), nucleotide (π) and haplotype (h) diversities were obtained to estimate genetic diversity levels in all populations of P. infans. To examine genetic differentiation at different hierarchical levels, as well as geographical patterns of population subdivision, an analysis of molecular variance (AMOVA) was conducted. The AMOVAs were implemented for the four separate genes and groupings according to: 1) inferred clades in phylogenetic analyses, 2) according to the biogeographic regions sensu [28] and, a third analysis was performed without a priori groupings. The analyses were conducted using 10,000 permutations to assess significance values. All genetic diversity analyses and AMOVAs were performed in Arlequin v.3.5.1 [58]."
+  }, {
+    "heading": "Ancestral area reconstruction",
+    "text": "The ancestral area reconstruction for P. infans was estimated using the statistical Dispersal-Vicariance (SDIVA) method [59], and the Dispersal-ExtinctionCladogenesis (DEC) model [60, 61] as implemented in RASP v.3.2 software [62]. These methods use statistical approaches to reconstruct biogeographic history, and allowed us to compare both results. The ultrametric and dichotomous tree obtained for cytb in BEAST was used as the tree topology on which ancestral areas were mapped. For both analyses, the maximum number of areas was limited to two. For these analyses, the distributional area of P. infans was divided into 15 biogeographic regions: (Mag) Magdalena Lake; (Etz) EtzatlánSan Marcos region; (Ver) Verde River; (Ame) Ameca River; (San) Grande de Santiago River; (Tam) Tamazula River; (Pat) Patzcuaro Lake; (Cha) Chapala Lake; (Bal) Balsas River; (Cot) Cotija Lake; (Lle) Lower Lerma River; (Mle) Middle Lerma River; (Zac) Zacapu Lake and (Cui) Cuitzeo Lake, and, within Sayula region are considered the follow Lakes: (Ato) Atotonilco, (Sma) San Marcos, (Say) Sayula and (Zap) Zapotlan [28, 29]."
+  }, {
+    "heading": "Historical demography",
+    "text": "The population size fluctuations through time were tested with a Coalescent Bayesian Skyline Plot (BSP) analysis [63] as implemented in BEAST v.1.8.1 [52]. This analysis only was implemented with sequences of cytb due the higher number of available sequences. The substitution rate was the same as the divergence time analysis and the substitution model was set according to the select model by PartitionFinder v. 1.1.0 [46]. An uncorrelated relaxed clock model was set a priori, and 70 million generations were run, sampled every 1000 generations. Convergence was assessed with Tracer v.1.5 [51]. The first 10% of the states were discarded as burn-in.\nPoeciliopsis infans Distribution modelling To evaluate the concordance between the historical demography obtained in BSP analyses and the potential distribution of P. infans in the past, we carried out a species distribution modelling analyses at different temporal scales [64]. The estimations of the current and past population distribution were inferred with MaxEnt v.3.3. 1 [65]. Geographical coordinates of 162 sites registered in the database of the Colección de Peces de la Universidad Michoacana de San Nicolás de Hidalgo were used as presence data (see Additional file 4). For the environmental data, we used 19 bioclimatic variables downloaded from WORLDCLIM database [66], http://www. worldclim.org, at a resolution of 30 arc-seconds for Last Inter Glacial (LIG) and 2.5 min for Last Glacial Maximum (LGM). The WORLDCLIM variables\nrepresent biologically meaningful summaries of precipitation and temperature in the present (1950–2000), and for the past, the Community Climate System Model (CCSM) for the LGM: 0.025 Myr, and the LIG: 0.15–0. 10 Myr periods. To construct the models, we employed a logistic output [65], and the default settings. The value of the regularization multiplier was tested for 0.5, 1.0, 1. 5 and 2.0, but the highest AUC value was for a regularization multiplier of one, and this value was used in all analyses. The model was run with 100 subsample replicates estimating mean habitat suitability values (S). To evaluate if the performance of all distribution models was better than one, a random model was assessed using 75% of the presence data to run the model and the remaining 25% for statistical testing. In addition, the area under the receiver operating characteristic curve (AUC) was estimated to assess the accuracy of the models. A jackknife test of variables of importance was conducted to evaluate the relative importance of each climate variable [67]. Variables contributing the least to the model or those highly correlated [68] were removed for each model. The correlation of variables was evaluated through the response curves, which reflect the dependencies induced by correlations between the selected variable and other variables."
+  }, {
+    "heading": "Results",
+    "text": "Phylogenetic relationships and haplotype networks The ambiguously aligned positions that showed the sequences of the S7 gene are see in Additional file 5. The BF comparison indicated that the analyses using the four concatenated genes provided a better explanation of the data than the mitochondrial genes concatenated or nuclear genes concatenated (BF of four genes concatenated vs mitochondrial genes concatenated = 1. 87 and BF of four concatenated genes vs nuclear genes concatenated = 2.2). The phylogenetic results for both analyses (Maximum likelihood and Bayesian Inference) recovered two well differentiated and well supported clades for each mitochondrial gene (cytb: 1083 bp and coxI: 631 bp) (Additional files 6 and 7), for the concatenated mitochondrial genes (cytb, coxI: 1771 bp) (Additional file 8), and for all concatenated genes (cytb, coxI, S7 and RHO: 3475 bp; Fig. 2). In general terms, clade A clustered populations of the biogeographic regions of lowlands of TMVB, while; clade B clustered populations of the biogeographic regions of the highlands of the TMVB. However, one sample from Ameca, Magdalena and Sayula regions respectively were grouped in clade B. (Figs. 1 and 2). Clade A clustered individuals of seven biogeographic regions is better in three sub-clades: sub-clade A1 included individuals from the Etzatlan-San Marcos region,\nMagdalena Lake and few individuals of Verde River; subclade A2 clustered individuals of the Ameca, Verde, and Grande de Santiago Rivers and the Atotonilco Lake of the Sayula region; while the sub-clade A3 clustered individuals of the Sayula, San Marcos and Zapotlan Lakes within the Sayula region, as well as samples from the Ameca River basin and Tuxpan River of the Tamazula biogeographic region. These three sub-clades were well supported in the Bayesian inference analysis, but the bootstrap support for sub-clade A1 was low (87%) (Fig. 2). The second clade, clade B, clustered individuals of the Middle and Lower Lerma, Grande de Santiago and Balsas Rivers, as well as Cuitzeo, Patzcuaro, Chapala, Cotija and Zacapu Lakes. Also, three samples corresponding to regions that were clustered in clade A were recovered in clade B and corresponded to Magdalena\nand Atotonilco Lakes, and the Ameca River (Fig. 2). The phylogeny based on each nuclear gene and with both concatenated nuclear genes failed to recover resolved relationships (Additional files 9, 10 and 11). For the haplotype networks based on the nuclear genes, two haplogroups (A and B) were recovered and these are highly congruent with the concatenated gene phylogeny. There are, however, shared haplotypes between them, with RHO network sharing the most haplotypes between groups. The first haplogroup (A), grouped individuals of Ameca, Grande de Santiago, Sayula, Magdalena, Verde and Etzatlan-San Marcos regions, for S7, one individual of the Chapala region was found in this haplogroup. The second haplogroup (B) for both nuclear genes, grouped individuals of the Lower and Middle Lerma, Grande de Santiago, Balsas, Zacapu, Cuitzeo, Patzcuaro, Cotija and Chapala regions. Some individuals of the Sayula region were grouped in the haplogroup B for both genes (see Additional file 12).\nDivergence time estimation and genetic distances The first isolation event in P. infans, separating clades A and B, was estimated to have occurred near the middle Pliocene and middle Pleistocene ca. 2.83 Myr (95% HPD: 1.25–4.41 Myr). The first separation event of the three sub-clades within clade A was estimated to have occurred during the Pleistocene period ca. 0.95 Myr (95% HPD: 0.39–1.5 Myr), whereas the rest of the isolation events were calculated in less of a million of years (Figs. 2 and 3). The uncorrected mean genetic distances (p-distance) calculated between clade B and sub-clades A1, A2 and A3 for the mitochondrial genes ranged from 0.8–3.3% for cytb; and 0.7–1.9% for coxI (Table 2). The minimum genetic distances found for cytb were between sub-clade A1 and sub-clade A2 (0.8%), and the maximum distances were between sub-clade A3 and clade B (3.3%). Based on coxI the minimum genetic distances were observed between sub-clade A2 and sub-clade A3 (0.7%), and the maximum were between sub-clade A1 and clade B (1.9%). Between the three sub-clades of clade A the genetic distances were 0.8–1.1% for cytb and 0.7–1.3% for coxI (Table 2). For nuclear genes the genetic distances between all individuals included both alleles for each sequence, ranged between 0.0–0.5% for RHO and between 0.0–0.6% for S7.\nGenetic diversity and population structure The highest haplotype diversity was found in Cuitzeo (h = 0.81) for cytb and in the Verde River (h = 0.62) for coxI, followed by the Ameca River Basin for both genes (h = 0.75 for cytb and 0.42 for coxI), while, null haplotype diversity were found in the Patzcuaro, Cotija and Balsas regions. Atotonilco Lake, within the Sayula region\nand the Verde River exhibited the highest nucleotide diversity for cytb and coxI (π = 0.006, π = 0.004) respectively (Table 3). For the nuclear genes, the highest haplotype diversity was found in the Atotonilco (h = 0.97), and Ameca (h = 0.9) for S7, and the Middle Lerma (h = 0.73) for RHO. Absence of haplotype diversity was found for the Middle Lerma for S7 and Cuitzeo for RHO. The populations of Atotonilco (π = 0.01) and the Middle Lerma (π = 0.001) exhibited the highest nucleotide diversity for S7 and RHO respectively (Table 4). When the AMOVA was performed without groups a priori, the highest variation for all genes were among populations (cytb: 91.17%, coxI: 96. 07%, S7: 69.5% and RHO: 60.64%) and not within populations. The AMOVA for all genes showed a high percentage of variation when populations were grouped according to the recovered clades and sub-clades from the phylogenetic analyses (cytb: 92.24%, coxI: 91.03%, S7: 45.48% and RHO: 53.21%), but not when populations were grouped according to the biogeographic regions [18] (cytb: 31.31%, coxI: 27.09%, S7: -99.28% and RHO: 53.21) (Tables 5 and 6)."
+  }, {
+    "heading": "Ancestral area reconstruction",
+    "text": "Ancestral area reconstruction using DEC and S-DIVA revealed a complex biogeographical history for P. infans, with several events of dispersal and vicariance (Figs. 3 and 4). Vicariance was most common in ancient events in comparison to dispersal events. For both analyses, the ancestral areas estimated for P. infans were Zacapu Lake and Ameca River, but with low probabilities (6.5% for DEC; 16.7% for S-DIVA). The same explanation for both analyses was found for the biogeographic history of the northwest populations of P. infans clustered in phylogenetic clade A. The biogeographical route for this clade included a dispersal event from the Ameca River toward the Sayula and Etzatlan-San Marcos regions, followed by a vicariant event that separated the populations of Ameca River with respect to Etzatlan-San Marcos and Sayula regions. A more recent dispersal event from the Ameca to the Verde River was recovered (S-DIVA > 50%, DEC > 27% of probabilities). The biogeographical history of the southeastern clade B differs slightly in both biogeographical methods. For both methods, one dispersal event occurred from Zacapu toward Cuitzeo, followed by a vicariant event that separated these two regions. For DEC, dispersal events occurred from Zacapu toward the Lower Lerma and from here to Chapala, while there was also a recent dispersal event from Cuitzeo to the Middle Lerma. The S-DIVA differed with the DEC in that dispersal events from Zacapu were toward Chapala and once both regions were separated, a second dispersal event occurred\nfrom Chapala to the Lower Lerma (S-DIVA 100% and DEC > 60%) (Figs. 3 and 4)."
+  }, {
+    "heading": "Historical demography",
+    "text": "The BSP analyses for cytb for populations of clade A showed a demographic decline for Magdalena Lake, San Marcos, Sayula and Atotonilco Lakes (belonging to Sayula region), Ameca, Grande de Santiago and Etzatlan-San Marcos regions between 0.15 and 0.1 Myrs. More recently, after a demographic decline, a population\nexpansion was detected in the last 0.025 Myr. For the Verde River, a population reduction was detected following a more recent population expansion. For this clade, the regions Zapotlan and Tamazula were not included due to the low number of individuals (Fig. 5). For clade B, all analyzed groups revealed a demographic decline in the last 0.15–0.1 Myr, followed by population expansion around ≤0.18 Myr, as found for clade A. For this clade the Balsas, Cotija and Middle Lerma basins were not included due the low number of samples (Fig. 6).\nPoeciliopsis infans Distribution modelling The habitat suitability modelling for populations of P. infans estimated for current (1965–1978) and past (LIG: 0.15–0.10 Myr, and LGM: 0.025–0.020 Myr) time periods, showed high precision and acceptable predictive power with all models (AUC > 0.96) [69]. For the current conditions, the two variables with the highest gain were BIO3 Isothermality (BIO2/BIO7)*100 and BIO6 Min temperature of coldest month. In the LIG model, the two variables with the highest gain were BIO1 Annual Mean Temperature and BIO16 Precipitation of Wettest Quarter. For the LGM model, the two variables with the highest gain were BIO4 Temperature seasonality (standard deviation*100), and BIO6 Min Temperature of coldest month. The modelling of habitat suitability showed that in the LGM, the habitat suitability for P. infans was better in\nGenetic distances within recovered clades and sub-clades of Poeciliopsis infans based on cytb (to the left of the diagonal) and coxI (to the right of the diagonal) and between recovered groups in phylogenetic analyses based on cytb (above the diagonal) and coxI (below the diagonal) genes\nTable 3 Genetic diversity for each biogeographic region of Poeciliopsis infans based on mitochondrial DNA data (cytb and coxI)\ncytb – coxI\nBiogeographic region N S H π h\nMagdalena 15–12 1–0 2–1 0.000–0.000 0.133–0.000\nAmeca 37–30 18– 5 9–3 0.001–0.001 0.752–0.427\nMiddle Lerma 3–3 3–0 3–1 0.001–0.000 1.000–0.000\nSan Marcos (Sayula) 13–14 3–1 4–2 0.000–0.000 0.525–0.362\nAtotonilco (Sayula) 9–9 34– 0 2–1 0.006–0.000 0.220–0.000\nSayula (Sayula) 15–17 4–2 5–3 0.001–0.000 0.695–0.227\nCuitzeo 15–16 8–2 6–3 0.001–0.000 0.819–0.241\nPatzcuaro 14–14 0–0 1–1 0.000–0.000 0.000–0.000\nZacapu 21–22 8–2 6–2 0.001–0.000 0.557–0.173\nEtzatlan-San Marcos 19–16 7–0 7–1 0.000–0.000 0.608–0.000\nChapala 19–17 2–0 3–1 0.000–0.000 0.292–0.000\nBalsas 5–5 0–0 1–1 0.000–0.000 0.000–0.000\nCotija 11–9 0–0 1–1 0.000–0.000 0.000–0.000\nVerde 19–21 9–9 2–3 0.002–0.004 0.280–0.620\nGrande de Santiago (before SJ)\n12–11 3–1 3–2 0.000–0.000 0.547–0.388\nGrande de Santiago (after SJ)\n10–11 2–1 3–2 0.000–0.000 0.375–0.250\nLower Lerma 13–13 3–4 2–3 0.000–0.001 0.282–0.410"
+  }, {
+    "heading": "N, sample size, S, polymorphic sites, H, number of haplotypes, π, nucleotide",
+    "text": "diversity h, haplotype diversity. SJ = Salto de Juanacatlan"
+  }, {
+    "heading": "S7 – RHO",
+    "text": "San Marcos (Sayula) 24–20 1–1 2–2 0.000–0.000 0.159–0.505\nAtotonilco-Sayula (Sayula)\n18–10 39–2 14–2 0.010–0.000 0.973–0.200\nSayula (Sayula) 20–22 7–2 6–3 0.002–0.000 0.790–0.177\nCuitzeo 24–18 2–0 3–1 0.000–0.000 0.358–0.000\nPatzcuaro 22–10 1–1 2–2 0.000–0.000 0.173–0.466\nZacapu 40–14 4–2 5–2 0.000–0.000 0.315–0.142\nEtzatlan-San Marcos 32–30 10–3 14–3 0.001–0.000 0.774–0.131\nChapala 34–26 8–2 8–3 0.001–0.000 0.711–0.280\nBalsas 10–6 4–1 4–2 0.001–0.000 0.644–0.333\nCotija 22–18 2–1 3–2 0.000–0.000 0.450–0.529\nVerde 14–32 11–1 6–2 0.004–0.000 0.822–0.000\nGrande de Santiago 32–26 15–3 16–4 0.002–0.001 0.834–0.600\nLower Lerma 26–18 15–2 5–3 0.001–0.000 0.461–0.307"
+  }, {
+    "heading": "N, sample size (included the two alleles of each sequence), S, polymorphic",
+    "text": "sites, H, number of haplotypes, π, nucleotide diversity h, haplotype diversity\nthe lowlands, whereas for the LIG, the habitat suitability increased in the highlands (Fig. 7)."
+  }, {
+    "heading": "Discussion",
+    "text": "Biogeographic and evolutionary history of P. infans The recovery of two well-differentiated clades within P. infans (Fig 2 and Additional file 8) indicates a long history of isolation, with subsequent genetic differentiation, which seems to be linked to the intense volcanic and tectonic activity in central Mexico during the Pliocene (Figs. 2 and 3). This pattern previously has been reported, in which the genetic differentiation has been linked with the past configuration of the rivers more than the current hydrology of this region of central Mexico, as is the case for the goodeid, Zoogoneticus quitzeoensis (Bean, 1898), and for species of the cyprinid genus Algansea [30, 33]. Populations of P. infans are largely differentiated by the isolation of watersheds as have occurred in other freshwater fishes with low dispersal ability; however, some geographical features within a river or basin have\nbeen shown to be sufficient to differentiate populations of P. infans [26]. We recovered the samples from the Rio Grande de Santiago Basin grouped in the two main clades for phylogenetic analyses and in the two haplogroups for haplotype networks (A, B). This pattern, in which the samples from the Santiago River were grouped in two clades, previously was found in another study [26]. Specimens from the Rio Grande de Santiago Basin sampled upstream of the falls, el Salto de Juanacatlan, belong to clade B, whereas populations sampled downstream of the falls were grouped within clade A, suggesting that the Salto de Juanacatlan formation, a waterfall 20 m high, has been an important and ancient barrier promoting differentiation between populations. This geologic feature previously has been shown to represent a barrier for fish faunal interchange between the Santiago and Chapala Lake [26, 38]. Ancestral area reconstructions recovered very low marginal probabilities for biogeographical routes from"
+  }, {
+    "heading": "Cytb",
+    "text": ""
+  }, {
+    "heading": "CoxI",
+    "text": "ns = not significant\nthe ancestral areas of all populations of P. infans (DEC = 0.01; S-DIVA = 0.08; Figs. 3 and 4). Therefore, both ancestral area reconstructions were unable to resolve the state of the node separating clade A from clade B, but were able to reconstruct the ancestral areas and biogeographical routes within each clade. Despite these low marginal probabilities, the most plausible event that separated the Ameca River and Lake Zacapu of its ancestral area of distribution was a vicariant event. Our date estimation for the diversification of the two main clades (A and B) was ca. 2.83 Myr (1.25–4.41 Myr), between the middle Pliocene and the early Pleistocene periods (Figs. 3 and 4). The geological activity during the middle Pliocene and early Pleistocene in central Mexico promoted the cladogenesis of clade A from clade B. This deep divergence of the two clades is coincident with the interruption of the ancient connection of the upper Ameca River with drainages in central Mexico by tectonic and volcanic activity at ca. 3–1 Myr [70], (Fig. 3). As a result, this dispersal route could have been blocked at the end of the Pliocene and during the Pleistocene. This occurred when the hydrological systems that shaped the complex Chapala-Lerma Paleosystem (Ameca River, Magdalena, Chapala, Lerma River and the lakes distributed along the Colima graben) became isolated due to volcanic and tectonic activity in the triple junction area, the Ameca and San Marcos faults at ca. 3.5–1.5 Myr (Fig. 3) [71]. The isolation of the region where clade A is distributed during the Pliocene, has also been reported in other freshwater species including the cyprinids Yuriria amatlana Domínguez-Domínguez et al., 2007 and Algansea amecae Pérez-Rodríguez et al., 2009, as well as the goodeid Allotoca goslinei Smith & Miller, 1987 [29, 30, 72, 73]. In addition, other freshwater organisms shown a similar pattern, as Cambarellus chapalanus (Faxon, 1898), which has two divergent genetic groups, one distributed in Chapala Lake and the other in the Ameca River Basin separated at ca. 2.6 Myr [32]. A similar pattern was mentioned before for Poeciliopsis [26], who suggested that the ancestors of the strictly northern clade of Poeciliopsis must have been distributed across the"
+  }, {
+    "heading": "RHO",
+    "text": "ns = not significant\nregion presently occupied by our clade B, which includes Zacapu. The discrepancies between the mitochondrial and nuclear genes are related to the mixture of some individuals of haplogroup A with haplogroup B. In this case, considering the high genetic distances with mitochondrial genes, the divergence times, and the results from the AMOVAs, we suggested that it could be the result of retention of ancestral polymorphisms, as has been shown for other freshwater fishes of central Mexico [74]."
+  }, {
+    "heading": "Biogeography within clade A",
+    "text": "The biogeographic analyses showed a dispersal event between Sayula and the Ameca basin, suggesting an early connection more than a million years ago. This connection was previously found for P. infans between\nthe Ameca River and Atotonilco Lake of the Sayula region [26]. The isolation of the Ameca, Etzatlan-San Marcos, Magdalena and Lakes of the Sayula region, could be due to the formation of the current watersheds during the Pleistocene epoch ca. 0.95 Myr (95% HPD: 0.39–1.5 Myr; Figs. 2 and 3), when the connections of the Ameca River and Atotonilco-Sayula Lakes were disrupted by Pleistocene volcanism and the intense tectonic activity of the so called triple junction [71, 75]. This is also congruent with the presence of Ameca splendens Miller & Fitzsimons, 1971, in the Ameca River and Sayula regions, with a divergence time between the two populations calculated in less than a million of years [29]. Other dispersal events from the Ameca to EtzatlanSan Marcos and Magdalena regions were recovered. The climatic changes during this pluvial-interpluvial period,\nbeginning ca. 0.90 Myr [4, 76], could have promoted this dispersal event when Magdalena Lake was considerably larger and extended to Etzatlan-San Marcos area [77]. After that time, the Ameca was isolated from the Etzatlan-San Marcos and Magdalena regions by a vicariant event ca. 0.72 Myr (DEC = 0.209; S-DIVA = 1.0), which could be associated with the reactivation of the Plan de Barrancas fault during the Quaternary (ca. 1.0 Myr), and with the Amatlán de Cañas half graben (Fig. 3) that was formed ca. 3.4 Myr [13, 70, 78]. Finally, a dispersal event from the Ameca River to the Verde and Santiago Rivers also was found (ca. 0.14 Myr), and this is supported by previous findings suggesting that these populations have been connected until very recently through stream capture of the Ameca and Verde Rivers, which was facilitated by the volcanism in the TepicZacoalco graben [26, 79], (Fig. 3). The biogeographic events that isolated the three recovered sub-clades are supported by the AMOVA analysis, maximizing the ΦCT when samples were grouped into four groups, included the three sub-clades within clade A (Tables 5 and 6), but not when they were grouped according to biogeographic regions as have been proposed for other freshwater fishes, including goodeids and cyprinids [33, 36]. Since goodeids, cyprinids, and P. infans have evolved in spatiotemporal congruence, the differences found in the evolutionary history of P. infans could be related to the biogeographic origin of each group. Poeciliopsis infans has a Neotropical origin, whereas goodeids and cyprinids are of Neartic origin [18]. As a result, we expect that Quaternary climate changes have influenced genetic variation and the distributional patterns of P. infans. Moreover, the genetic diversity was higher for regions clustered in the clade A (lowlands) than for regions grouped in clade B (highlands). This could also be linked to more stable high temperatures in lowland areas, which could also promote the diversification of populations found for this lowland clade (clade A). This pattern has been reported in plants that shown that the habitat and environment changes affect the genetic diversity [80–83], as is the case of Caragana microphylla, a species distributed in two different habitats that shown that populations from the high temperature region had lower genetic diversity than those from medium and low temperature\nregions [81]. The only exception of this pattern is the Magdalena Lake population, which has the lowest genetic diversity within this clade, a pattern that is explained due to the history of instability of this hydrological basin, with extreme and intermittent periods of flooding and drying [84], promoting recurrent events of bottlenecks and loss of genetic diversity. Also, other factors, in addition to the environment, such as life-history traits, breeding systems, dispersal mechanism, geographic variation, range and life span and the histories of populations have affected genetic variation between populations [81–83]."
+  }, {
+    "heading": "Biogeography within clade B",
+    "text": "Our results are in accordance with the proposed connections and isolation between the Cuitzeo and Zacapu regions, which has occurred several times during the Pleistocene [85]. The connection between both regions has been postulated to occur through the ChucandiroHuaniqueo paleo-river, a connection disrupted less than 1 Myr, due to the volcanism of the Tarasco corridor and the activity of the Northeast-Southeast fault system ca. 0.7 to 0.5 Myr [86], (Fig. 3). This disruption has been\nproposed as the cause of the isolation of different fish species between Cuitzeo and Zacapu including the goodeids Skiffia lermae (Meek, 1902), Goodea atripinnis (Jordan, 1880), Alloophorus robustus (Bean, 1892) and Hubbsina turneri (de Buen, 1940) [29, 85], and the cyprinids Algansea tincella (Valenciennes, 1844) and Yuriria alta (Jordan, 1880) [30, 72]. After the isolation of Zacapu and Cuitzeo, the DEC and S-DIVA showed a dispersal event from Cuitzeo towards the middle Lerma River, an event that is in accordance with recent isolation of this hydrological basin with respect to Zacapu and Cuitzeo lakes. This event was previously proposed for the goodeids Hubbsina turneri [85], and Zoogoneticus quitzeoensis (Bean, 1898), that are distributed in Cuitzeo, Zacapu, and the middle Lerma [33], as well as Neotoca bilineata (Bean, 1887) for which a low level of genetic differentiation (mtDNA) was found for populations from Cuitzeo and the middle Lerma [87]. Regarding the second biogeographic route for this clade, which is different for the DEC and S-DIVA analyses, the most plausible route is a dispersal event from Zacapu toward the lower Lerma Basin, followed by\na dispersal event toward Chapala Lake and the Santiago River respectively, as is found in DEC. Zacapu is currently connected with the lower Lerma through the Angulo River, for which P. infans could have dispersed toward Chapala Lake and the Santiago River via the lower Lerma. This information is congruent with the presence of Notropis calientis (Jordan & Snyder, 1899), Yuriria alta, Algansea tincella, Xenotoca variata (Bean, 1887), Chapalichthys encaustus (Jordan & Snyder, 1899), Allotoca dugesii (Bean, 1887) and Moxostoma austrinum Bean, 1880, in the Middle Lerma, Lower Lerma and Grande de Santiago basins, as well as in Chapala Lake region [35, 36]."
+  }, {
+    "heading": "Human mediated dispersion",
+    "text": "In general, we found biogeographic correspondence in the distribution of clades, but incongruences were also found for some populations and areas, as is the case of Balsas, Cotija and Patzcuaro, populations that shown a null genetic and haplotype diversities, with all sampled individuals belong to the most common haplotype of clade B. These results have two possible explanations: 1) a secondary dispersal and colonization event, which is unlikely due to the historical isolation of all of those drainages with respect to contiguous drainages [29, 88], or 2) a founder effect due a dispersal event mediated by humans. Human-based introductions represent the most probable explanation according to the geographic distribution of related haplotypes and the null genetic diversity of Balsas, Cotija and Patzcuaro regions, since for Patzcuaro this species has been reported as a humanmediate introduction [89, 90] (Tables 3 and 4). Several species in the family Poeciliidae have been introduced for mosquito control worldwide and have spread successfully to over 40 countries [91]. Other possible ways of introduction of poeciliids is the release of the organisms by aquarists, through the use of this fish as food source for commercial introduced fish, or accidentally transported with commercially important fishes stocked into water bodies, such a species of tilapia (Oreochromis and Tilapia), which have been widely introduced throughout Mexico [89, 92].\nHistorical demography and distribution modeling Fluctuations in population size shown by BSP in populations of both clades of P. infans agree with the continuous fluctuations of the climate and water levels of hydrological systems in central Mexico due to glacial and interglacial cycles [93]. For clade A, the analysis of historical demography showed a demographic decline at ca 0.15–0.1 Myr, followed by a recent population expansion, estimated to start around 0.025 Myr in most of the populations\nanalyzed (Fig. 5). These genetic based analyses are congruent with the distribution modeling results, in which drainages where clade A is distributed, show restricted areas with high probabilities (≥0.77) to support populations of P. infans during the LIG (0.15–0.10 Myr), localized mainly to a small area within the Ameca region (Fig. 7). Whereas for the LGM (0.025–0.020 Myr), an increase in the areas with high probabilities (≥0.77) to support populations of P. infans is observed, covering most of the present day distribution of clade A populations. This recent population expansion for almost all populations of clade A could explain why the genetic diversity is highest in this clade rather than in the clade B. It is well known that stable populations that persisted from the LGM to the present harbor disproportionately large amounts of unique genetic diversity [94]. The decline in the clade B population seems to starts after 0.075 Myr, followed by a population expansion at ca. ≤0.018 Myr in all the populations analyzed, however, we take with caution the population expansion of some biogeographic regions for both clades, because the size increase is out of the HPD limits (Fig. 6). These results are also congruent with the distribution modeling results, since the distribution modeling during LIG (0.15–0.10 Myr) also showed a high proportion of areas where clade B is distributed with high probabilities (≥0.77) to support populations of P. infans. Whereas for the LGM (0.025–0.020 Myr), a decrease in the area with high probability of presence (≥ 0.77) is observed for areas were clade B is distributed. These results are expected for a species with tropical preferences inhabiting highlands, where temperatures declines of 8.5 °C during LGM have been postulated [95], followed by a expansion of the distribution range when the last ice age ended and an increase of the temperature and water level of hydrological systems have been recorded [93]. It has been shown that the climatic fluctuations were accompanied by a loss of genetic diversity and even extinction of populations that were unable to adapt to these changes and find suitable conditions [96], as could be the case for P. infans that is restricted to basin drainages. This is congruent with the distribution modeling of clade B distributed in highlands of central Mexico, and explains the low genetic diversity found in almost all populations within this clade. Finally, in the present day modeling that represents an Inter-glacial period, it showed an extended distributional area with a probability of presence ≥0.77 in the upper parts of the distributional range for both clades A and B. These results of population expansion in lower areas during Glacial Maximum and in upper areas during Inter Glacial periods are also congruent with the Neotropical origin of P. infans, suggesting that areas that maintain high temperatures are more suitable for\nP. infans. This is also congruent with reports suggesting the displacement of plant communities as a response to the climate cooling, resulting in the migration to low altitudes [97], for which the climate change in glacial cycles could be responsible of the modifications in the composition of the communities favoring more resistant species to the new environmental conditions [93, 97]."
+  }, {
+    "heading": "Conservation implications",
+    "text": "The regions occupied by P. infans have been heavily impacted by habitat loss due to overexploitation, pollution, habitat degradation, and the introduction of non-native species [98–100]. The negative impacts of these anthropogenic activities on native freshwater fishes of central Mexico are well known [33, 101–103]. These activities can exacerbate the loss of genetic diversity, which is especially harmful for a species with a long history of instability due to the natural climatic fluctuations, as is the case of P. infans. This is especially true for those populations distributed in clade B (Tables 3 and 4). For this reason, the establishment of each recovered clade and sub-clade as Operational Conservation Unit (OCU) [104] is necessary in order to conserve the unique genetic pool that each clade represents."
+  }, {
+    "heading": "Conclusions",
+    "text": "The results of this study indicate that P. infans has had a long history of isolation and subsequent genetic differentiation, which appears to be linked to the intense volcanic and tectonic activity in central Mexico. The separation of the two recovered clades appears to have been promoted by the geological activity during the middle Pliocene, and early Pleistocene in central Mexico, ca. 2.83 Myr. Poeciliopsis infans is a co-distributed species with other group of fishes as goodeids and cyprinids, evolving in spatiotemporal congruence. The differences in the recovered biogeographic patterns of P. infans is likely related to the biogeographic origin of each group, since P. infans has Neotropical origin, and goodeids and cyprinids are of Neartic origin. Populations of P. infans distributed in lowlands showed a higher level of genetic diversity than populations distributed in highlands, which could be linked to more stable and higher temperatures in lowland areas. Finally, fluctuations in population size are supported by the continuous fluctuations of the climate and water levels of hydrological systems in central Mexico due to glacial and interglacial cycles."
+  }, {
+    "heading": "Additional files",
+    "text": "Additional file 1: Tissue voucher number, and access number of GenBank. (DOC 416 kb)\nAdditional file 2: Primers, PCR conditions, and References. (DOC 35 kb)\nAdditional file 3: Models selected with Akaike information criterion and the parameters of each gene. (DOC 32 kb)\nAdditional file 4: Geographical coordinates of the 162 sites registers in Colección de Peces de la Universidad Michoacana de San Nicolás de Hidalgo used as presence data for species distribution modelling. (DOC 161 kb)\nAdditional file 5: Ambiguously Aligned Regions for S7. (DOC 49 kb)\nAdditional file 6: The Bayesian inference tree of P. infans from cytb mitochondrial gene (1083 bp). Bayesian posterior probability (> 0.9; above the branches) and maximum likelihood bootstrap values (> 80%; below the branches) are indicated. (DOC 943 kb)\nAdditional file 7: The Bayesian inference tree of P. infans from coxI mitochondrial gene (631 bp). Bayesian posterior probability (> 0.9; above the branches) and maximum likelihood bootstrap values (> 80%; below the branches) are indicated. (DOC 548 kb)\nAdditional file 8: The Bayesian inference tree of P. infans from concatenated sequences of two mitochondrial genes (cytb, coxI; 1771 bp). Bayesian posterior probability (> 0.9; above the branches) and maximum likelihood bootstrap values (> 80%; below the branches) are indicated. (DOC 738 kb)\nAdditional file 9: The Bayesian inference tree of P. infans from RHO nuclear gene (845 bp). Bayesian posterior probability (> 0.9; above the branches) and maximum likelihood bootstrap values (> 80%; below the branches) are indicated. (DOC 469 kb)\nAdditional file 10: The Bayesian inference tree of P. infans from S7 nuclear gene (859 bp). Bayesian posterior probability (> 0.9; above the branches) and maximum likelihood bootstrap values (> 80%; below the branches) are indicated. (DOC 715 kb)\nAdditional file 11: The Bayesian inference tree of P. infans from concatenated sequences of two nuclear genes (S7 and RHO: 1704 bp). Bayesian posterior probability (> 0.9) and maximum likelihood bootstrap values (> 80%) are indicated. (DOC 2382 kb)\nAdditional file 12: Haplotype networks for nuclear genes, a) S7 gene, b) RHO gene. The two recovered haplogroups are show with labels A and B. (DOC 1189 kb)"
+  }, {
+    "heading": "Abbreviations",
+    "text": "mtDNA: Mitochondrial Deoxyribonucleic Acid; nDNA: Nuclear Deoxyribonucleic Acid;; SEMARNAT: Secretaria de Medio Ambiente y Recursos Naturales"
+  }, {
+    "heading": "Acknowledgements",
+    "text": "This work was conducted as part of the doctoral studies of R. G. Beltrán-López, and she was supported with a scholarship from the Consejo Nacional de Ciencia y Tecnología (CONACYT: scolarship number 329883). We thank Isaí Betancourt for his help with sampling, and to Berenice García Andrade and Silvia Perea for their help in laboratory and for their comments to improve this work. We thank three anonymous reviewers for their comments that improved this manuscript."
+  }, {
+    "heading": "Funding",
+    "text": "Funding for this study was provided by the Ministerio de Economía y Competitividad y FEDER, Spain (CGL2016–75262-P) to ID and PRODEM, CIC-UMSNH, Chester Zoo garden and CONACYT sabbatical grant to ODD, as well as funds from the U.S. National Science Foundation (DEB 1354930) to KRP. These funding body do not had a specific role in the design of the study and collection, analyses, and interpretation of data in writing the manuscript."
+  }, {
+    "heading": "Availability of data and materials",
+    "text": "All data generated or analyzed during this study are included in this published article [and its additional files]. The datasets used and/or analyzed during the current study are available from the corresponding author on reasonable request."
+  }, {
+    "heading": "Authors’ contributions",
+    "text": "RGBL, ODD, conceived the ideas; RGBL, ODD, RPR, conducted the fieldwork and collected the specimens; RGBL, ODD, RPR, and ID, analyzed the data and RGBL, ODD, RPR, KP, and ID write the manuscript. All authors have read and approved the manuscript.\nEthics approval and consent to participate The research has been carried out within an appropriate ethical framework. All procedures performed, including field sampling techniques and laboratory protocols, as anesthetised and euthanasia techniques used in this study were reviewed and approved by a committee of Mexican Ministry of Environmental and Natural Resources (SEMARNAT), under collection permit number PPF/DGOPA-262/17. This procedures were also assessed and approved by the Institutional Biosecurity and Bioethics committee of the Institute of Chemical and Biological Research, Universidad Michoacana de San Nicolás de Hidalgo, México. The specimens were anesthetised using tricaine mesylate (MS-222) to anesthetize the fishes, according with the Official Mexican Norm NOM-051-ZOO-1995 and NOM-033-SAG/ZOO-2014 for humanitarian treatment in the mobilization of animals. The study organism is neither protected nor endangered."
+  }, {
+    "heading": "Consent for publication",
+    "text": "Not applicable"
+  }, {
+    "heading": "Competing interests",
+    "text": "The authors declare that they have no competing interests."
+  }, {
+    "heading": "Publisher’s Note",
+    "text": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations."
+  }, {
+    "heading": "Author details",
+    "text": "1Programa Institucional de Doctorado en Ciencias Biológicas, Universidad Michoacana de San Nicolás de Hidalgo, Morelia, Michoacán, Mexico. 2Laboratorio de Ictiología, Centro de Investigaciones Biológicas, Universidad Autónoma del Estado de Morelos, Cuernavaca, Morelos, Mexico. 3Laboratorio de Biología Acuática, Facultad de Biología, Universidad Michoacana de San Nicolás de Hidalgo, Morelia, Michoacán, Mexico. 4Laboratorio Nacional de Análisis y Síntesis Ecológica para la Conservación de Recursos Genéticos de México, Escuela Nacional de Estudios Superiores, Unidad Morelia, Universidad Nacional Autónoma de México, Morelia, Michoacán, Mexico. 5Department of Biological Sciences, Southeastern Louisiana University, Hammond, LA 70402, USA. 6Departamento de Biodiversidad y Biología Evolutiva, Museo Nacional de Ciencias Naturales. CSIC, Madrid, Spain.\nReceived: 15 August 2017 Accepted: 3 April 2018"
+  }],
+  "year": 2018,
+  "references": [{
+    "title": "Comparative phylogeography of pitvipers suggests a consensus of ancient middle American highland biogeography",
+    "authors": ["TA Castoe", "JM Daza", "EN Smith", "MM Sasa", "U Kuch", "JA Campbell"],
+    "venue": "J Biogeogr",
+    "year": 2009
+  }, {
+    "title": "Influence of the geological history of the trans-Mexican Volcanic Belt on the diversification of Nolina parviflora (Asparagaceae: Nolinoideae)",
+    "authors": ["E Ruíz-Sánchez", "S. ChD"],
+    "venue": "J Biogeogr",
+    "year": 2013
+  }, {
+    "title": "Some genetic consequences of ice ages, and their role in divergence and speciation",
+    "authors": ["Hewitt GM"],
+    "venue": "Biol J Linn Soc",
+    "year": 1996
+  }, {
+    "title": "The genetic legacy of the quaternary ice ages",
+    "authors": ["Hewitt GM"],
+    "year": 2000
+  }, {
+    "title": "Genetic consequences of climatic oscillations in the quaternary",
+    "authors": ["Hewitt GM"],
+    "venue": "Philos Trans R Soc B",
+    "year": 2004
+  }, {
+    "title": "Comparative mtDNA phylogeography of neotropical freshwater fishes: testing shared history to infer the evolutionary landscape of lower central America",
+    "authors": ["Bermingham E", "Martin AP"],
+    "venue": "Mol Ecol",
+    "year": 1998
+  }, {
+    "title": "Phylogeography of middle American Gophersnakes: mixed responses to biogeographical barriers across the Mexican transition zone",
+    "authors": ["RW Bryson", "UO García-Vázquez", "BR. Riddle"],
+    "venue": "J Biogeogr",
+    "year": 2011
+  }, {
+    "title": "Diversification in the Mexican horned lizard Phrynosoma orbiculare across a dynamic landscape",
+    "authors": ["RW Bryson", "UO García-Vázquez", "BR. Riddle"],
+    "venue": "Mol Phylogenet Evol",
+    "year": 2012
+  }, {
+    "title": "Diversification across the new world within the ‘blue’ Cardinalids (Aves: Cardinalidae)",
+    "authors": ["RW Bryson", "J Chaves", "BT Smith", "MJ Miller", "K Winker", "JL Pérez-Emán"],
+    "venue": "J Biogeogr",
+    "year": 2014
+  }, {
+    "title": "Phylogenetic relationships of freshwater fishes of the genus Capoeta (Actinopterygii, Cyprinidae) in Iran",
+    "authors": ["HR Ghanavi", "EG González", "I. Doadrio"],
+    "venue": "Ecol Evol",
+    "year": 2016
+  }, {
+    "title": "Cenozoic tectonic and climatic events in southern Iberian peninsula: implications for the evolutionary history of freshwater fish of the genus Squalius (Actinopterygii, Cyprinidae)",
+    "authors": ["S Perea", "M Cobo-Simo", "I. Doadrio"],
+    "year": 2016
+  }, {
+    "title": "Partitioning global patterns of freshwater fish beta diversity reveals contrasting signatures of past climate changes",
+    "authors": ["F Leprieur", "PA Tedesco", "B Hugueny", "O Beauchard", "HH Dürr", "S Brosse"],
+    "year": 2011
+  }, {
+    "title": "The dynamic history of the trans-Mexican Volcanic Belt and the Mexico subduction zone",
+    "authors": ["L Ferrari", "T Orozco-Esquivel", "V Manea", "M. Manea"],
+    "year": 2012
+  }, {
+    "title": "Biogeography of the montane entomofauna of Mexico and central America",
+    "authors": ["G. Halffter"],
+    "venue": "Annu Rev Entomol",
+    "year": 1987
+  }, {
+    "title": "Halffter’s Mexican transition zone (1962-2014), cenocrons and evolutionary biogeography",
+    "authors": ["Morrone JJ"],
+    "venue": "J Zool Syst Evol Res",
+    "year": 2015
+  }, {
+    "title": "Cladistic biogeography of the Mexican transition zone",
+    "authors": ["Marshall CJ", "Liebherr JK"],
+    "venue": "J Biogeogr",
+    "year": 2000
+  }, {
+    "title": "Protocol for studying biotic diversification by taxon pulses",
+    "authors": ["D Halas", "D Zamparo", "DRA. Brooks"],
+    "venue": "J Biogeogr",
+    "year": 2005
+  }, {
+    "title": "La mesa central de México es una provincia biogeográfica? Análisis descriptivo basado en componentes bióticos dulceacuícolas",
+    "authors": ["O Domínguez-Domínguez", "G. Pérez-Ponce de León"],
+    "venue": "Rev Mex Biodivers",
+    "year": 2009
+  }, {
+    "title": "Surface configuration and asociated geology of middle America",
+    "authors": ["West RC"],
+    "venue": "Wanchope R, West RC, editors. Handbook of middle American Indians,",
+    "year": 1964
+  }, {
+    "title": "Phylogeny and evolution of dorsal pattern in the Mexican endemic lizard genus Barisia (Anguidae: Gerrhonotinae)",
+    "authors": ["Laclette JP"],
+    "venue": "J Zool Syst Evol Res",
+    "year": 2005
+  }, {
+    "title": "Relative roles of Neogene vicariance and quaternary climate change on the historical diversification of bunchgrass lizards (Sceloporus scalaris group) in Mexico",
+    "authors": ["RW Bryson", "UO García-Vázquez", "BR. Riddle"],
+    "venue": "Mol Phylogenet Evol",
+    "year": 2012
+  }, {
+    "title": "Molecular systematics of middle American harvest mice Reithrodontomys (Muridae), estimated from mitochondrial cytochrome b gene",
+    "authors": ["E Arellano", "FX González-Cozátl", "DS. Rogers"],
+    "year": 2005
+  }, {
+    "title": "Speciation in the emerald Toucanet (Aulacorhynchus prasinus) complex",
+    "authors": ["F Puebla-Olivares", "E Bonaccorso", "A Espinosa de los Monteros", "KE Omland", "JE Llorente-Bousquets", "AT Peterson"],
+    "venue": "Auk",
+    "year": 2008
+  }, {
+    "title": "Evolutionary diversification and speciation in rodents of the Mexican lowlands: the Peromyscus melanophrys species group",
+    "authors": ["S Castañeda-Rico", "L León-Paniagua", "E Vázquez-Domínguez", "G. NavarroSigüenza"],
+    "venue": "Mol Phylogenet Evol",
+    "year": 2014
+  }, {
+    "title": "Origin SML. Geography of the fishes of Central Mexico. In: Hocutt CH, Wiley EO, editors. The zoogeography of north American freshwater fishes",
+    "authors": ["RR Miller"],
+    "venue": "Wiley-Intersciences publication;",
+    "year": 1986
+  }, {
+    "title": "Historical biogeography of the livebearing fish genus Poeciliopsis (Poeciliidae: Cyprinodontiformes)",
+    "authors": ["M Mateos", "OI Sanjur", "RC. Vrijenhoek"],
+    "year": 2002
+  }, {
+    "title": "Distributional patterns of freshwater taxa (fishes, crustaceans and plants) from the Mexican transition zone",
+    "authors": ["L Huidobro", "JJ Morrone", "JL Villalobos", "F. Álvarez"],
+    "venue": "J Biogeogr",
+    "year": 2006
+  }, {
+    "title": "Historical biogeography of some river basins in Central Mexico evidenced by their goodeine freshwater fishes: a preliminary hypothesis using secondary brooks parsimony analysis (PBA)",
+    "authors": ["O Domínguez-Domínguez", "I Doadrio", "G. Pérez-ponce de León"],
+    "venue": "J Biogeogr",
+    "year": 2006
+  }, {
+    "title": "Historical biogeography of the Goodeinae (Cyprinodontiforms)",
+    "authors": ["O Domínguez-Domínguez", "C Pedraza-Lara", "N Gurrola-Sánchez", "S Perea", "R Pérez-Rodríguez", "I Israde-Alcántara"],
+    "venue": "Uribe MC, Grier HJ, editors. Viviparous Fishes II. New life publications;",
+    "year": 2010
+  }, {
+    "title": "Cyprinidae) of Central Mexico inferred from molecular data",
+    "authors": ["Pérez-Rodríguez R", "Domínguez-Domínguez O. Pérez-ponce de León G", "Doadrio I. Phylogenetic relationships", "biogeography of the genus Algansea Girard (Cypriniformes"],
+    "venue": "BMC Evol Biol. 2009;9:223.  Beltrán-López et al. BMC Evolutionary Biology",
+    "year": 2018
+  }, {
+    "title": "Isolation in habitat refugia promotes rapid diversification in a montane tropical salamander",
+    "authors": ["G Parra-Olea", "JC Windfield", "G Velo-Antón", "KR. Zamudio"],
+    "venue": "J Biogeogr",
+    "year": 2012
+  }, {
+    "title": "Phylogeny and evolutionary patterns in the dwarf crayfish subfamily (Decapoda: Cambarellinae)",
+    "authors": ["C Pedraza-Lara", "I Doadrio", "JW Breinholt", "KA. Crandall"],
+    "venue": "PLoS One",
+    "year": 2012
+  }, {
+    "title": "Evolutionary history of the endangered fish Zoogoneticus quitzeoensis (bean, 1898) (Cyprinodontiformes: Goodeidae) using a sequential approach to phylogeography base don mitochondrial and nuclear DNA data",
+    "authors": ["O Domínguez-Domínguez", "F Alda", "G Pérez-ponce de León", "JL GarcíaGaritagoitia", "I. Doadrio"],
+    "venue": "BMC Evol Biol",
+    "year": 2008
+  }, {
+    "title": "Morphological and genetic comparative analyses of populations of Zoogoneticus quitzeoensis (Cyprinodontiformes: Goodeidae) from Central Mexico, with description of a new species",
+    "authors": ["O Domínguez-Domínguez", "R Pérez-Rodríguez", "I. Doadrio"],
+    "venue": "Rev Mex Biodivers",
+    "year": 2008
+  }, {
+    "title": "The historical biogeography of the southern group of the sucker genus Moxostoma (Teleostei: Catostomidae) and the colonization of Central Mexico",
+    "authors": ["R Pérez-Rodríguez", "O Domínguez-Domínguez", "F Mar-Silva", "G. Doadrio I. Pérezponce de León"],
+    "venue": "Zool J Linnean Soc",
+    "year": 2016
+  }, {
+    "title": "Comparative historical biogeography of three groups of Neartic freshwater fishes across Central Mexico",
+    "authors": ["R Pérez-Rodríguez", "O Domínguez-Domínguez", "I Doadrio", "E Cuevas-García", "G. Pérez-ponce de León"],
+    "venue": "J Fish Biol",
+    "year": 2015
+  }, {
+    "title": "Family Poeciliidae LPHF",
+    "authors": ["RE Reis", "SO Kullander", "F CJJr.", "editors"],
+    "year": 2003
+  }, {
+    "title": "Freshwater Fishes of México",
+    "authors": ["R Miller", "W Minckley", "Mark S"],
+    "venue": "University of Chicago. Estados Unidos de América",
+    "year": 2005
+  }, {
+    "title": "MEGA6: molecular evolutionary genetics analysis version 6.0",
+    "authors": ["K Tamura", "G Stecher", "D Peterson", "A Filipski", "S. Kumar"],
+    "venue": "Mol Biol Evol",
+    "year": 2013
+  }, {
+    "title": "DnaSP v5: a software for comprehensive analysis of DNA polymorphism data",
+    "authors": ["P Librado", "J. Rozas"],
+    "year": 2009
+  }, {
+    "title": "A comparison of Bayesian methods for haplotype reconstruction from population genotype data",
+    "authors": ["M Stephens", "P. Donelly"],
+    "venue": "Am J Hum Genet",
+    "year": 2003
+  }, {
+    "title": "Heterozygous indels as useful tools in the reconstruction of DNA sequences and in the assessment of ploidy level and genomic constitution of hybrid organisms",
+    "authors": ["C Sousa-Santos", "JI Robalo", "MJ Collares-Pereira", "VC. Almada"],
+    "venue": "DNA Seq",
+    "year": 2005
+  }, {
+    "title": "Application of phylogenetic networks in evolutionary studies",
+    "authors": ["DH Huson", "D. Bryant"],
+    "venue": "Mol Biol Evol",
+    "year": 2006
+  }, {
+    "title": "ALTER: program-oriented conversion of DNA and protein alignments",
+    "authors": ["D González-Peña", "D Gómez-Blanco", "M Reboiro-Jato", "F Fernández-Riverola", "D. Posada"],
+    "venue": "Nucleic Acids Res",
+    "year": 2010
+  }, {
+    "title": "Bayes factors",
+    "authors": ["Kass RE", "Raftery AE"],
+    "venue": "J Amer Statist Assoc",
+    "year": 1995
+  }, {
+    "title": "PartitionFinder: combined selection of partitioning schemes and substitution models for phylogenetic analyzes",
+    "authors": ["R Lanfear", "B Calcott", "SY Ho", "S. Guindon"],
+    "venue": "Mol Biol Evol",
+    "year": 2012
+  }, {
+    "title": "RAxMLGUI: a graphical front-end for RAxML",
+    "authors": ["D Silvestro", "I. Michalak"],
+    "venue": "Org Divers Evol",
+    "year": 2012
+  }, {
+    "title": "RAxML version 8: a tool for phylogenetic analysis and postanalysis of large phylogenies",
+    "authors": ["A. Stamatakis"],
+    "year": 2014
+  }, {
+    "title": "Bayes or bootstrap? A simulation study comparing the performance of Bayesian Markov chain Monte Carlo sampling and bootstrapping in assessing phylogenetic confidence",
+    "authors": ["ME Alfaro", "S Zooler", "F. Lutzoni"],
+    "year": 2003
+  }, {
+    "title": "MrBayes 3.2: efficient Bayesian phylogenetic inference and model choice across a large model space",
+    "authors": ["F Ronquist", "M Teslenko", "P Van der Mark", "DL Ayres", "A Darling", "S Höhna"],
+    "venue": "Syst Biol",
+    "year": 2012
+  }, {
+    "title": "Bayesian phylogenetics with BEAUti and the BEAST 1.7",
+    "authors": ["AJ Drummond", "MA Suchard", "D Xie", "A. Rambaut"],
+    "venue": "Mol Biol Evol",
+    "year": 2012
+  }, {
+    "title": "Molecular evidence on the evolutionary and biogeographical patterns of European cyprinids",
+    "authors": ["R Zardoya", "I. Doadrio"],
+    "venue": "J Mol Evol",
+    "year": 1999
+  }, {
+    "title": "Evidence of a cenozoic Betic-Kabilian connection based on freshwater fish phylogeography (Luciobarbus, Cyprinidae)",
+    "authors": ["A Machordom", "I. Doadrio"],
+    "venue": "Mol Phylogenet Evol",
+    "year": 2001
+  }, {
+    "title": "Rapid allopatric speciation in logperch darters (Percidae: Percina)",
+    "authors": ["Near TJ", "Benard MF"],
+    "year": 2004
+  }, {
+    "title": "Relaxed phylogenetics and dating with confidence",
+    "authors": ["AJ Drummond", "SYW Ho", "J Phillips", "A. Rambaut"],
+    "venue": "PLoS Biol",
+    "year": 2006
+  }, {
+    "title": "Bayesian inference of population size history from multiple loci",
+    "authors": ["Heled J", "Drummond AJ"],
+    "venue": "BMC Evol Bio",
+    "year": 2008
+  }, {
+    "title": "Arlequin suite ver 3.5: a new series of programs to perform population genetics analyses under Linux and windows",
+    "authors": ["Excoffier L", "Lischer HE"],
+    "venue": "Mol Ecol Res",
+    "year": 2010
+  }, {
+    "title": "Accounting for phylogenetic uncertainty in biogeography: a Bayesian approach to dispersal–Vicariance analysis of the thrushes (Aves: Turdus)",
+    "authors": ["JAA Nylander", "U Olsson", "P Alström", "I Sanmartín", "A. Baker"],
+    "venue": "Syst Biol",
+    "year": 2008
+  }, {
+    "title": "A likelihood framework for inferring the evolution of geographic range on phylogenetic trees",
+    "authors": ["RH Ree", "BR Moore", "CO Webb", "MJ. Donoghue"],
+    "year": 2005
+  }, {
+    "title": "Maximum-likelihood inference of geographic range evolution by dispersal, local extinction, and cladogenesis",
+    "authors": ["Ree RH", "Smith SA"],
+    "venue": "Syst Biol",
+    "year": 2008
+  }, {
+    "title": "RASP (reconstruct ancestral state in phylogenies): a tool for historical biogeography",
+    "authors": ["Y Yu", "AJ Harris", "C Blair", "J. He"],
+    "year": 2015
+  }, {
+    "title": "Bayesian coalescent inference of past population dynamics from molecular sequences",
+    "authors": ["AJ Drummond", "A Rambaut", "B Shapiro", "OG. Pybus"],
+    "venue": "Mol Biol Evol",
+    "year": 2005
+  }, {
+    "title": "Novel methods improve prediction of species’ distributions from occurrence data. Ecography",
+    "authors": ["J Elith", "CH Graham", "RP Anderson", "M Dudík", "S Ferrier", "A Guisan"],
+    "year": 2006
+  }, {
+    "title": "Maximum entropy modeling of species geographic distributions",
+    "authors": ["SJ Phillips", "RP Anderson", "RE. Schapire"],
+    "venue": "Ecol Model",
+    "year": 2006
+  }, {
+    "title": "Very high resolution interpolated climate surfaces for the global land areas",
+    "authors": ["RJ Hijmans", "SE Cameron", "JL Parra", "PG Jones", "A. Jarvis"],
+    "venue": "Int J Climatol",
+    "year": 2005
+  }, {
+    "title": "Predicting species distributions from small numbers of occurrence records: a test case using cryptic geckos in Madagascar",
+    "authors": ["RG Pearson", "CJ Raxworthy", "M Nakamura", "AT. Peterson"],
+    "venue": "J Biogeogr",
+    "year": 2007
+  }, {
+    "title": "Confronting multicollinearity in ecological multiple regression",
+    "authors": ["Graham MH"],
+    "year": 2003
+  }, {
+    "title": "Validation of species-climate impact models under climate change",
+    "authors": ["MB Araujo", "RG Pearson", "W Thuiller", "M. Erhard"],
+    "venue": "Glob Change Biol",
+    "year": 2005
+  }, {
+    "title": "Late Miocene to quaternary extension and the northern boundary of the Jalisco block, western Mexico. The Tepic-Zacoalco rift revised",
+    "authors": ["L Ferrari", "J. Rosas-Elguera"],
+    "venue": "Geol. Soc. am. Bull. Special Paper",
+    "year": 1999
+  }, {
+    "title": "Tectonic control on the volcanosedimentary sequence of the Chapala graben, western Mexico",
+    "authors": ["J Rosas-Elguera", "J. Urrutia-Fucugauchi"],
+    "venue": "Int Geol Rev",
+    "year": 1998
+  }, {
+    "title": "A new species of the genus Yuriria Jordan & Evermann, 1896 (Actinopterygii, Cyprinidae) from the Ameca basin of the central Mexican plateau. Graellsia",
+    "authors": ["O Domínguez-Domínguez", "A Pompa-Domínguez", "I. Doadrio"],
+    "year": 2007
+  }, {
+    "title": "A new species of Algansea (Actinopterygii: Cyprinidae) from the Ameca River basin, in Central Mexico",
+    "authors": ["R Pérez-Rodríguez", "G Pérez ponce de León", "O Domínguez-Domínguez", "I. Doadrio"],
+    "venue": "Rev Mex Biodivers",
+    "year": 2009
+  }, {
+    "title": "Phylogeny and biogeography of the Poecilia sphenops species complex (Actinopterygii, Poeciliidae) in central America",
+    "authors": ["F Alda", "RG Reina", "I Doadrio", "E. Bermingham"],
+    "year": 2013
+  }, {
+    "title": "Kinematic evolution of the continental active triple junction of the western Mexican Volcanic Belt",
+    "authors": ["V Garduño", "A. Tibaldi"],
+    "venue": "C R Acad Sci",
+    "year": 1991
+  }, {
+    "title": "Global changes during the last 3 million years: climatic controls and biotic responses",
+    "authors": ["Webb T", "Bartlein PJ"],
+    "venue": "Annu Rev Ecol Evol Syst",
+    "year": 1992
+  }, {
+    "title": "Observations on garter snakes of the Thamnophis eques Complex in the lakes of Mexico’s Transvolcanic Belt, with descriptions of new taxa. American museum Novitates",
+    "authors": ["R. Conant"],
+    "year": 2003
+  }, {
+    "title": "Tectonic significance of an earthquake sequence in the Zacoalco half-graben, Jalisco, Mexico",
+    "authors": ["J Pacheco", "C Mortera-Gutiérrez", "H Delgado-Granados", "S Singh", "R Valenzuela", "N Shapiro"],
+    "venue": "J S Am Earth Sci",
+    "year": 1999
+  }, {
+    "title": "Pleistocene to recent alkalic volcanism in the región of Sanganguey volcano, Nayarit, Mexico",
+    "authors": ["Nelson SA", "Carmichael ISE"],
+    "venue": "Contrib Mineral Petrol",
+    "year": 1984
+  }, {
+    "title": "A combined approach using ISSR and ITS analysis for the characterization of Artemisia halodendron from Horqin sandy land, northern China",
+    "authors": ["WD Huang", "XY Zhao", "X Zhao", "HL Zhao", "SK Wang", "J. Lian"],
+    "venue": "Biochem Syst Ecol",
+    "year": 2011
+  }, {
+    "title": "Effects of environmental factors on genetic diversity of Caragana microphylla in Horqin Sandy land, Northeast China",
+    "authors": ["WD Huang", "XY Zhao", "X Zhao", "Y Li", "J. Lian"],
+    "venue": "Ecol. Evol",
+    "year": 2016
+  }, {
+    "title": "A range wide geographic pattern of genetic diversity and population structure of Hexinia polydichotoma (Asteraceae) in Tarim Basin and adjacent areas",
+    "authors": ["Su ZH", "Zhang ML"],
+    "year": 2014
+  }, {
+    "title": "Phylogeography of the genus Podococcus (Palmae/Arecaceae) in central African rain forests: climate stability predicts unique genetic diversity",
+    "authors": ["A Faye", "V Deblauwe", "C Mariac", "R Damien", "B Sonké", "Y Vigouroux", "TLP. Couvreur"],
+    "year": 2016
+  }, {
+    "title": "Phylogeography, historical demography and hábitat suitability modelling of freshwater fishes inhabiting seasonally fluctuating Mediterranean river systems: a case study using the Iberian cyprinid Squalis valentinus",
+    "authors": ["S Perea", "I. Doadrio"],
+    "venue": "Mol Ecol",
+    "year": 2015
+  }, {
+    "title": "La cherehuita Hubbsina turneri De Buen (1941) (Pisces, Goodeidae)",
+    "authors": ["R Moncayo-Estrada", "I Israde-Alcántara", "VH. Garduño-Monroy"],
+    "venue": "Origen, distribución y su uso en la regionalización de la cuenca del Lerma. Hidrobiologica",
+    "year": 2001
+  }, {
+    "title": "Geológica de Michoacán Escala 1:250000",
+    "authors": ["P Corona-Chavez", "I Israde-Alcántara", "MennellaL", "E Arreygue", "B Bigioggero", "Chiesa S", "Carta editors"],
+    "venue": "Universidad Michoacana de San Nicolás de Hidalgo",
+    "year": 1999
+  }, {
+    "title": "Genetic diversity shaped by historical and recent factors in the live-bearing twoline skiffia Neotoca bilineata",
+    "authors": ["CP Ornelas-García", "F Alda", "E Díaz-Pardo", "A Gutiérrez-Hernández", "I. Doadrio"],
+    "venue": "J Fish Biol",
+    "year": 2012
+  }, {
+    "title": "Evolutionary history of the live-bearing endemic Allotoca diazi species complex (Actinopterygii, Goodeinae): evidence of founder effect events in the Mexican Prehispanic period",
+    "authors": ["DK Corona-Santiago", "I Doadrio", "O. Domínguez-Domínguez"],
+    "venue": "PLoS One",
+    "year": 2015
+  }, {
+    "title": "Gonopodial system review and a new fish record of Poeciliopsis infans (Cyprinodontiformes: Poeciliidae) for Lake Patzcuaro, Michoacan, Central Mexico",
+    "authors": ["J Galindo-Villegas", "F. Sosa-Lima"],
+    "venue": "Rev Biol Trop",
+    "year": 2002
+  }, {
+    "title": "Trophic ecology of the exotic Lerma livebearer Poeciliopsis infans (Cyprinodontiformes: Poeciliidae) in the Lago de Pátzcuaro",
+    "authors": ["JP Ramírez-Herrejón", "LS Castañeda-Sam", "R Moncayo-Estrada", "J Caraveo-Patiño", "EF. Balart"],
+    "venue": "Central Mexico. Rev Biol Trop",
+    "year": 2013
+  }, {
+    "title": "History of international introductions of inland aquatic species",
+    "authors": ["Welcomme RA"],
+    "venue": "ICES Mar Sci Symp",
+    "year": 1992
+  }, {
+    "title": "Negative impact on the aquatic ecosystems of the state of Morelos, Mexico from introduced aquarium and other commercial fish",
+    "authors": ["T Contreras-MacBeath", "H Mejía-Mojica", "R. Carrillo-Wilson"],
+    "venue": "Aquarium Sci Conserv",
+    "year": 1998
+  }, {
+    "title": "Evidencias de cambio climático y ambiental en las cuencas de altura del centro de México durante el último máximo glacial",
+    "authors": ["M Caballero", "MS Lozano-García", "L Vázquez-Selem", "B. Ortega"],
+    "venue": "Bol Soc Geol Mex",
+    "year": 2010
+  }, {
+    "title": "Conserving biodiversity under climate change: the rear edge matters",
+    "authors": ["A Hampe", "R. Petit"],
+    "year": 2005
+  }, {
+    "title": "Vázquez-Selem L. Last glacial maximum equilibrium line altitudes in the circum-Caribbean (Mexico, Guatemala, Costa Rica, Colombia, and Venezuela)",
+    "authors": ["MS Lachniet"],
+    "venue": "Quat Int. 2005;138-139:129–44",
+    "year": 2005
+  }, {
+    "title": "Ecological change, range fluctuations and population dynamics during the Pleistocene",
+    "authors": ["Hofreiter M", "Stewart JR"],
+    "venue": "Curr Biol",
+    "year": 2009
+  }, {
+    "title": "Ecosystem responses to climate and disturbances in western Central Mexico during the late Pleistocene and Holocene",
+    "authors": ["S Lozano-García", "E Torres-Rodríguez", "B Ortega", "G Vázquez", "M. Caballero"],
+    "venue": "Paleogeogr Palaeoclimatol Palaeoecol",
+    "year": 2013
+  }, {
+    "title": "Radon behavior in springs and wells around Cuitzeo Lake, Lerma River basin, Mexico",
+    "authors": ["R Alfaro", "V Martínez", "N Segovia", "P Peña", "M López", "M Armienta"],
+    "venue": "Geofís. Int",
+    "year": 2002
+  }, {
+    "title": "Ecological evaluation of local extinction: the case of two genera of endemic Mexican fish",
+    "authors": ["MY De la Vega-Salazar", "E Avila-Luna", "C. Macías-García"],
+    "venue": "Zoogoneticus and Skiffia Biodivers Conserv",
+    "year": 2003
+  }, {
+    "title": "Conservation status of Mexican goodeids: problems, perspectives, and solutions",
+    "authors": ["O Domínguez-Domínguez", "N Mercado-Silva", "J. Lyons"],
+    "venue": "Uribe MC, Grier HJ, editors. Viviparous Fishes. New life publications;",
+    "year": 2005
+  }, {
+    "title": "Validation of a fishbased index of biotic integrity for streams and rivers of Central Mexico",
+    "authors": ["N Mercado-Silva", "JD Lyons", "GS Maldonado", "MM. Nava"],
+    "year": 2002
+  }, {
+    "title": "Human impacts on drainages of the mesa central, Mexico, and its genetic effects on an endangered fish, Zoogoneticus quitzeoensis",
+    "authors": ["O Domínguez-Domínguez", "L Boto", "F Alda", "G Pérez-Ponce de León", "I. Doadrio"],
+    "venue": "Conserv Biol",
+    "year": 2007
+  }, {
+    "title": "Allozymic variation of the endangered killifish Aphanius iberus and its application to conservation",
+    "authors": ["I Doadrio", "A Perdices", "A. Machordom"],
+    "venue": "Env Biol Fish. 1996;45(3):259–71",
+    "year": 2018
+  }],
+  "id": "SP:e8af7ee7afbb346f3a02a434eadda1b471af9bc8",
+  "authors": [{
+    "name": "Rosa Gabriela Beltrán-López",
+    "affiliations": []
+  }, {
+    "name": "Omar Domínguez-Domínguez",
+    "affiliations": []
+  }, {
+    "name": "Rodolfo Pérez-Rodríguez",
+    "affiliations": []
+  }, {
+    "name": "Kyle Piller",
+    "affiliations": []
+  }, {
+    "name": "Ignacio Doadrio",
+    "affiliations": []
+  }],
+  "abstractText": "Background: Volcanic and tectonic activities in conjunction with Quaternary climate are the main events that shaped the geographical distribution of genetic variation of many lineages. Poeciliopsis infans is the only poeciliid species that was able to colonize the temperate highlands of central Mexico. We inferred the phylogenetic relationships, biogeographic history, and historical demography in the widespread Neotropical species P. infans and correlated this with geological events and the Quaternary glacial-interglacial climate in the highlands of central Mexico, using the mitochondrial genes Cytochrome b and Cytochrome oxidase I and two nuclear loci, Rhodopsin and ribosomal protein S7. Results: Populations of P. infans were recovered in two well-differentiated clades. The maximum genetic distances between the two clades were 3.3% for cytb, and 1.9% for coxI. The divergence of the two clades occurred ca. 2.83 Myr. Ancestral area reconstruction revealed a complex biogeographical history for P. infans. The Bayesian Skyline Plot showed a demographic decline, although more visible for clade A, and more recently showed a population expansion in the last 0.025 Myr. Finally, the habitat suitability modelling showed that during the LIG, clade B had more areas with high probabilities of presence in comparison to clade A, whereas for the LGM, clade A showed more areas with high probabilities of presence in comparisons to clade B. Conclusions: Poeciliopsis infans has had a complex evolutionary and biogeographic history, which, as in other co-distributed freshwater fishes, seems to be linked to the volcanic and tectonic activities during the Pliocene or early Pleistocene. Populations of P. infans distributed in lowlands showed a higher level of genetic diversity than populations distributed in highlands, which could be linked to more stable and higher temperatures in lowland areas. The fluctuations in population size through time are in agreement with the continuous fluctuations of the climate of central Mexico.",
+  "title": "Evolving in the highlands: the case of the Neotropical Lerma live-bearing Poeciliopsis infans (Woolman, 1894) (Cyprinodontiformes: Poeciliidae) in Central Mexico"
+}

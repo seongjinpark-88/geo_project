@@ -1,0 +1,860 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nTectonophysics\nj ourna l homepage: www.e lsev ie r.com/ locate / tecto\nThermal and exhumation history of the Coastal Cordillera arc of northern Chile revealed by thermochronological dating\nJoaquim Juez-Larré a,⁎, Nina Kukowski b,1, Tibor J. Dunai a,2, Adrian J. Hartley c,3, Paul A.M. Andriessen a,4\na Faculty of Earth and Life Sciences, Vrije Universiteit Amsterdam, De Boelelaan 1085, 1081 HV Amsterdam, The Netherlands b Institut für Geowissenschaften, Friedrich-Schiller-Universität Jena, Burgweg 11, 07749 Jena, Germany c Department of Geology & Petroleum Geology, University of Aberdeen, Meston Building, Aberdeen AB24 3UE, United Kingdom\n⁎ Corresponding author. TNO (Netherlands Organ Research), Geological Survey of the Netherlands; Advi Economic Affairs, Princetonlaan 6, 3584 CB Utrecht, The 64664.\nE-mail addresses: joaquim.juezlarre@tno.nl (J. Juez-L nina.kukowski@uni-jena.de (N. Kukowski), tdunai@unia.hartley@abdn.ac.uk (A.J. Hartley), paul.andriessen@fal\n1 Tel.: +49 3641 9 48680. 2 Current address: University of Cologne – Centre for A\nGermany. 3 Tel.: +44 122 427 3712. 4 Tel.: +31 20 598 7340.\n0040-1951/$ – see front matter © 2010 Elsevier B.V. A doi:10.1016/j.tecto.2010.06.018\na b s t r a c t a r t i c l e i n f o\nArticle history: Received 13 January 2009 Received in revised form 20 June 2010 Accepted 30 June 2010 Available online 15 July 2010\nKeywords: (U–Th)/He thermochronometry Central Andes Forearc Ridge subduction Erosion Ore deposits\nThe thermal and erosional history of convergent plate boundaries is important for understanding the links between subduction, arc magmatism, genesis of ore deposits, topography and climate of orogenic belts. Unlike the continent–continent collision that formed many of the largest orogenic belts known today, the Central Andes of South America is a unique case where an oceanic-continent collision has given rise to the Earth's longest and second tallest orogenic belt. Over the last thirty years a plethora of models have been suggested in an attempt to explain how a plateau-type orogen formed at the leading edge of western South America. In the Central Andes most research have focussed attention on the study of the evolution of the arc and backarc, since continuous subduction erosion of the forearc has left little trace of the interplate dynamics that initiated the orogenic belt. In this article, we present a new insight into the thermal and exhumation history of the forearc along the Coastal Cordillera of northern Chile based on biotite K–Ar, apatite fissiontrack, and apatite/zircon (U–Th)/He dating. We collected diorite samples in a 2 km thick crustal section at the coastal cliff (~22°S), and a sea level isoelevation profile between 21 and 27°S. Results from all three dating methods show that the cooling of Coastal Cordillera took place shortly after emplacement during a period of rifting in Jurassic times. Cooling took place in two episodes, mainly in Late Jurassic–Early Cretaceous (~118–152 Ma) but also during Late Cretaceous (60–80 Ma) due to the resumption of compression, rift closure, arc uplift, exhumation, eastward migration of magmatic arc activity, and thermal relaxation. The youngest apatite (U–Th)/He ages reveal a cooling event, never reported previously, between 40 and 50 Ma (Eocene). This thermal event affected a N500 km long and N1 km thick section of the Coastal Cordillera in northern Chile. Rock cooling recorded in the Eocene cannot be explained by the thermal effect of the magmatic arc. We explore two scenarios that can provide an explanation for the observed cooling; 1) forearc uplift and exhumation, and 2) changes in plate subduction dynamics. Erosion rates of 0.24 to 0.36 km/Myr, for a period of 10 Myr, are necessary to explain the cooling event. Alternatively, the subduction of a ridge could explain significant cooling by flat slab dewatering. Based on recent sea floor spreading reconstruction, we suggest the subduction of the Farallon–Phoenix ridge as a possible candidate. The subduction of this ridge can account for the cooling event at 40–50 Ma, but also for some important aspects of the Eocene development of the Central Andes; notably the onset of uplift, an abrupt decrease in magmatic activity, and porphyry copper mineralization.\nization for Applied Scientific sory Board of the Ministry of Netherlands. Tel.: + 31 30 25\narré), koeln.de (T.J. Dunai), w.vu.nl (P.A.M. Andriessen).\nccelerator Mass Spectrometry,\nll rights reserved.\n© 2010 Elsevier B.V. All rights reserved."
+  }, {
+    "heading": "1. Introduction",
+    "text": "Processes active at convergent continental margins have shaped the surface of the Earth through geological time (e.g. Doglioni et al., 2007; Murphy et al., 2009). Despite their central role in the plate tectonic paradigm, some of the key evolutionary aspects of subduction-related orogens are still equivocal such as the understanding of the factors governing changes in slab dip, the thermomechanical properties of the overriding plate, and the elements controlling arc magmatism, mineralization, uplift, erosion and climate. This is in large part because of the destructive character of subduction zones,which leads tomuchof\nthe previous history being either removed by subduction erosion or overprintedby later phases of deformation and arcmagmatism(e.g. von Huene and Scholl, 1991; Clift et al., 2003; Oncken et al., 2006). Additional problems include uncertainties in the global plate mosaic, the dearth of datable structures, and the incompleteness of the stratigraphic record (e.g. Sdrolias and Müller, 2006).\nThe Central Andean convergent margin has been a site of almost continuous subduction since at least ~200 Ma (Rutland, 1971). Temporal constraints on the subduction history have been proposed based on plate tectonic reconstructions (e.g. Pardo-Casas and Molnar, 1987; Somoza, 1998; Silver et al., 1998), spatial and geochemical patterns of arc volcanism (e.g. Baker, 1977; Soler and Bonhomme, 1990; Wörner et al., 2000; Kay et al., 2005; Parada et al., 2005; Haschke et al., 2006; Trumbull et al., 2006; Mamani et al., 2010), structural and geophysical characteristics of the Altiplano plateau (e.g. Sandeman et al., 1995; James and Sacks, 1999; Yuan et al., 2000; Götze and Krause, 2002; McQuarrie et al., 2005, Sobolev et al., 2006; Tassara et al., 2006). Changes in interplate dynamics, geometry and properties of the subducting slab, tectonic conditions of the overriding plate and climate change are some of the elements considered to have controlled the onset and evolution of the Andean orogenic belt (e.g. Allmendinger et al., 1997; Gutscher et al., 2000; Yañez et al., 2001; Lamb and Davis, 2003; Sobolev and Babeyko, 2005; Oncken et al., 2006; Schellart et al., 2007; Barnes and Ehlers, 2009; Kay and Coira, 2009). Deformation and uplift that formed the present-day Central Andes is known to begin in the Eocene, reaching a climax in the Miocene (Sempere et al., 1990; Gubbels et al., 1993; Horton, 2005). The overall spatial coincidence of intense Neogene volcanism and the Central Andean plateau has long invited speculation on the relationship between magmatism and deformation (e.g. Trumbull et al., 2006). The thermal effect of arc magmatism in particular is suggested to have significantly preconditioned the upper plate for plateau formation by thermal weakening (Isacks, 1988; James and Sacks, 1999). Yet, unlike the improved understanding gained in the last decades of magmatic arc evolution, and the uplift, deformation and erosion of the backarc of the Central Andes (e.g. Allmendinger et al., 1997; Oncken et al., 2006; Barnes and Ehlers, 2009; Kay and Coira, 2009), the thermal and exhumation history of the forearc is still poorly understood (Juez-Larré et al., 2007). From a structural point of view the Coastal Cordillera today forms a unique natural laboratory where to study the processes that affected the leading edge of a continental–ocean convergent plate boundary, and gave rise to the Andean plateau (Hartley et al., 2000).\nIn this studywe aim to provide new constraints on the thermal and exhumation history of Andean forearc. Our study is the first that applies multiple thermochronological dating techniques (biotite K– Ar, apatite fission track (AFT), and apatite and zircon (U–Th)/He) to magmatic rocks from the Coastal Cordillera of northern Chile (Fig. 1). The use of multiple chronometers allows more constraints to be placed on rock cooling than studies that utilise a single thermochronometer. In addition, the low temperature sensitivity of apatite (U–Th)/He system, typically between ~40° and ~85 °C (Wolf et al., 1998; Ehlers and Farley, 2003), allows the thermal and exhumation history of the upper crust, from basement samples collected systematically along the coastal cliff, to be deciphered with much greater resolution and at much lower temperatures than previous studies. So far apatite fission-track (AFT) thermochronology, with a closure temperature between ~60 and ~110 °C, has been the most widely used method to reconstruct the thermal and exhumation history across the Central Andes. Yet, most studies focussed on the Altiplano, Puna, Sierras Pampeanas and Eastern Cordillera (e.g. Maksaev and Zentilli, 1999; Carrapa et al., 2006, 2009; Coughlin et al., 1998; Deeken et al., 2006; Scheuber et al., 2006; Ege et al., 2007; Barnes et al., 2008). AFT and (U–Th)/He dating along the coastal batholith in central-south Peru provides information on the uplift and erosion induced by the southward subduction of the Nazca Ridge\ncurrently at 15°S (Wipf et al., 2008). Apatite and zircon (U–Th)/He dating from deep canyons in southern Peru reveal uplift of at least 2.4 km of the western margin of the Andes since ca. 9 Ma (Schildgen et al., 2007). 40Ar/39Ar, AFT and zircon/apatite (U–Th)/He data from the Principal Andean Cordillera, between 35 and 38°S, reveal postintrusion thermal relaxation and exhumation (18–15 Ma), and differential exhumation since 7.5 Ma due to the subduction of the Juan Fernandez Ridge (Spikings et al., 2008). The only thermochronological results from the Coastal Cordillera in northern Chile are derived from K–Ar and FT dating (e.g. Diaz et al., 1985; Hervé et al., 1985; Hervé and Marinovic, 1989; Andriessen and Reutter, 1994). Results from these studies yield mostly Mesozoic ages, which show that the major part of the crustal cooling, exhumation and uplift took place during the latest Jurassic and early Cretaceous. Yet all these studies fail to provide strong constraints on the evolution of the western Andean flank prior to and during the onset of Andean orogenesis in Early Cenozoic times. The reconstruction of the evolution of the Coastal Cordillera might provide key constraints to help resolve the “Andean geodynamic paradox” on why and how the Andean plateau developed only during the Cenozoic, whilst subduction has been ongoing since at least the Jurassic."
+  }, {
+    "heading": "2. Geological setting",
+    "text": "NorthChile contains themost complete recordof Andean arc activity to date. Four parallel north–south trending arcs are defined fromwest to east: Coastal Cordillera (195–130 Ma), Central Valley (125–90 Ma), Precordillera (78–37 Ma)andWesternCordillera (26 Ma to recent) (e.g. Scheuber andReutter, 1992;Haschke et al., 2006). The Coastal Cordillera is the oldest and most western arc comprising the remnants of a magmatic arc formed at the birth of the modern Andes (Fig. 1B) (Coira et al., 1982). This arc ismade of Jurassic andesites of LaNegra Formation, and Jurassic–Cretaceous dioritic, and granodioritic plutons (Garcia, 1967), and was emplaced in Paleozoic sedimentary, and Precambrian metamorphic rocks during a period of rifting. Rifting was associated with trench retreat caused by a period of slow South Atlantic sea-floor spreading (Larson and Pitman, 1972; Pankhurst et al., 1988; Aguirre et al., 1999). Lava eruption in shallow marine basins occurred contemporaneously with the intrusion of large shallow plutons (~10 km deep) and numerous dykes (Scheuber and Reutter, 1992; Kramer et al., 2005). Rift closure as a result of the resumption of compression led to the cessation of the Coastal Cordillera arc magmatic activity in the Early Cretaceous (Parada et al., 2005; Scheuber and González, 1999). The present-day lack of a Jurassic forearc in the Coastal Cordillera attests to a continuous eastward migration of the arc associated with subduction erosion in the order of 150–200 km (von Huene and Scholl, 1991; Kukowski and Oncken, 2006).\nThe Coastal Cordillera in northern Chile is cut by a series of faults: NSstriking normal faults, sparse WNW to NE–SW-striking strike-slip faults, and EW-striking reverse faults, the latest only between 19 and 21° 40′S latitude (Scheuber and Andriessen, 1990; Scheuber and González, 1999; González et al., 2003; Allmendinger and González, 2009). Uplift and delineationof the cordillera as a separatemorphotectonicunit (i.e. distinct from the adjacent Central Valley) is considered to have taken place in the Oligocene and continues to the present day (Hartley et al., 2000). The western margin of the cordillera comprises the coastal scarp — a prominent break in slope 700 to 2000 m high — that extends for 900 kmalong the coastline of northernChile (Fig. 1C). Although theorigin of the scarp has been the subject of some debate (Brüggen, 1950; Paskoff 1978, 1980; Armijo and Thiele, 1990), the absence of active fault scarps, and the irregular morphology of the scarp, suggests that it represents a weatheredpaleo-cliffline. Thispaleo-cliff likelydeveloped throughmarine erosion during post-mid-Miocene uplift (Mortimer and Saric 1972; Hartley and Jolley 1995). Onlap of Middle to Upper Miocene marine sediments onto the scarp can be observed in a number of places between 21and27°S innorthernChile (e.g. Paskoff, 1978;Hartleyand Jolley, 1995).\nTo the east, the Coastal Cordillera is separated from the Central Valley by the 1000 km long Atacama Fault Zone (AFZ) (Fig. 1B) (Riquelme et al., 2003). This is not the case north of Antofagasta, where the AFZ lies within the Coastal Cordillera. Where the AFZ is active, prominent scarps up to 3 m high can be observed, elsewhere the eastern margin of the Coastal Cordillera has a gentle topography with an irregular mountain front embayed by the alluvial fill of the Central Valley. The AFZ has a long and complex history stretching from the Jurassic to the present day (e.g. Okada, 1971; Scheuber and Andriessen, 1990; Dewey and Lamb, 1992; González et al., 2003; González and Carrizo, 2003). Since the Mid-Miocene the AFZ has accommodated the differential uplift of the Coastal Cordillera relative to the Central Valley. Late Pliocene movement along the fault zone in the study area is considered to have been predominantly dip-slip with\na small component of dextral strike-slip (Dewey and Lamb, 1992; González et al., 2003; González and Carrizo, 2003). Late Eocene to early Pliocene sediments infill the Central Valley in northern Chile. Deposition took place in a forearc setting comprising alluvial fan and fluvial sediments mostly derived from the Precordillera, and sandflat, playa, evaporite, nitrate and lacustrine deposits (Sáez et al., 1999; Hartley et al., 2000; Hartley and Evenstar, 2009). The contemporaneous depositional climate is described as semiarid with phases of increased aridity (Hartley and Chong, 2002)."
+  }, {
+    "heading": "3. Sampling and methods",
+    "text": "We selected the Coastal Cordillera of northern Chile for our study of the Central Andes because it 1) has a 2 km thick exposed vertical\ncrustal section, 2) is the most distant onshore unit west of the present arc (Haschke et al., 2006), where thermal gradients are elevated, and 3) has one of the lowest erosion rates on Earth since 10 to 25 Ma (Hartley and Chong, 2002; Dunai et al., 2005). We collected diorites along two profiles. The first is a 1900 m vertical profile located a few kilometres north of the town of Tocopilla at 22°S. Since faults can easily be recognised in the field, we designed our sampling strategy for this vertical profile to avoid fault disruption (Fig. 1C). The second profile is an isoelevation profile sampled near sea level (25–200 m) along the base of the coastal cliff from latitude 21 to 27°S (Fig. 1A). Three to four kilograms of dioritic rock samples were required to recover enough apatites, zircons and biotites to carry out thermochronological dating.\nFollowing standard mineral separation techniques (Juez-Larré, 2003), 300 to 400 idiomorphic apatites were handpicked for each sample from the vertical and isoelevation profile. From these apatites, three to six inclusion free apatites were selected for (U–Th)/He dating; the remainder was used for AFT and microprobe analyses. The average diameter of the apatites used was 106±15 μm (±1σ)\n(Tables 1 and 2). Helium was extracted by heating each single apatite in ultra-high vacuum conditions up to 950 °C for 35 min, and measured on a Hal-3F/PIC quadrupole mass spectrometer. U and Th contents were determined by internal spiking (229/233) on an HP 4500 and 7500 ICPMS. Nine aliquots of Durango apatite standard were dated for (U–Th)/He thermochronology yielding an average age of 33±1 Ma (±1σ s.d.) against a reported age of 32±1 Ma (Farley, 2002). The apatite (U–Th)/He thermochronological system is characterized by a transition zone from open to closed chronometer in the temperature range between ~40 and 85 °C, i.e. the isopleths (isotherms) at which 10% and 90% of the helium is diffused out of the crystal at a constant temperature, respectively (Wolf et al., 1998). This zone is known as the Helium Partial Retention Zone (HePRZ). The diffusion isopleths defining the time–temperature conditions are not fixed, and are a function of cooling rate, crystal shape and size, and U– Th distribution in the crystal (e.g. Farley, 2002; Shuster and Farley, 2005).\nOne diorite sample from the top (1800 m) and base (10 m) of the vertical profile in Tocopilla were analysed using zircon (U–Th)/He\n2).\ndating. Two and three aliquots were dated respectively, following the analytical procedures described by Dobson et al. (2008) at S.U.E.R.C. (East Kilbride, UK). Each aliquot contained two to four zircon grains with diameters ~120 μm. Two aliquots of Fish Canyon zircon standard analysed for (U–Th)/He dating yielded an average age of 24±2 Ma (±2σ s.d.), which is close within error to the age of 28±2 Ma reported by Reiners et al. (2004). The zircon (U–Th)/He thermochronometer has a closure temperature of 170–190 °C for typical plutonic cooling rates (10 °C/Myr) and crystal sizes (~120 μm diameter) (Reiners et al., 2004; Reiners, 2005). Unlike the apatite (U–Th)/He system, the determination of the closure temperature for zircon is less accurate due to significant U–Th zonation (Reiners et al., 2002).\nIn this study, AFT dating was carried out for eight diorite samples from the Tocopilla vertical profile. The AFT thermochronometer has a nominal geological closure temperature for the Durango apatite of ~60°–110 °C (Laslett et al., 1987), i.e. the annealing isopleths at which 10% and 90% of the tracks are annealed respectively (Brandon et al., 1998; Gallagher et al., 1998). The temperature range of these annealing isopleths are a function of various factors such as cooling rate, chemistry of apatites, and track orientation with respect to the crystallographic axis (e.g., Donelick et al., 2005). Apatites for fissiontrack samplesweremounted in epoxy and polished, and fission-tracks were revealed by the standardized etching procedure of Carlson et al. (1999). Spontaneous and induced track densities were determined by means of the external detector method (EDM) (Hurford and Green, 1982). Ages were calculated using ζ personal value of 362±38 for apatite and dosimeter glass CN-5 (Hurford and Green, 1983). Confined horizontal lengths and their angle relative to the c-axis weremeasured bymeans of an Olympusmicroscope and the software of Autoscan Ltd. To address the annealing kinetics of fission-track in apatite, twenty c-parallel etch pits (Dpar values) were measured for each grain dated. Time–temperature inverse modelling was conducted with the program HeFTy (Ketcham, 2005) using the annealing model of Ketcham et al. (1999, 2007), with c-axis projection (Donelick et al., 1999; Ketcham et al., 2007) and Dpar values (Carlson et al., 1999), together with results from (U–Th)/He dating. No inverse thermal modelling was attempted for samples in which a reduced number of grains could be dated (i.e. less than 14 grains). Dpar forward modelling, for determination of the annealing isopleths delimiting the time–temperature conditions for the apatite PAZ, was also carried out with the program HeFTy using the annealing model of Ketcham et al. (1999, 2007).\nApatites from ten samples (250 grains) were probed with a JEOL JXA-8800 M microprobe. Polished mounts of apatites were analysed using a defocused spot of 10 μm, a voltage of 15 kV, and a probe current of 25 nA. The intensity of X-rays was compared to that in natural standard minerals of known composition and in standard Durango apatites. The elements measured were: F, Cl, Th, Ce, La, Y, Sr, Fe, Mn, Mg, Na, S, Si and Nd. One of the most important chemical factors controlling annealing that has been described in the literature to date is Cl–F content (Green et al., 1986; Ketcham et al., 1999; Donelick et al., 2005). To improve analytical resolution of these two elements, and minimize the effect of the evaporation phenomenon (Stormer et al., 1993), multiple timed analyses were performed on the same spot using cumulative exposure (4, 7, 15 and 40 s). The initial intensity was obtained by extrapolation to time zero (Juez-Larré, 2003).\nBiotites from the 900 m elevation sample at Tocopilla were analysed using the K–Ar dating technique. The K–Ar system has a closure temperature of ~300 °C (Harrison et al., 1985). The absolute 40Ar* content was calibrated by measuring two HD-B1 biotite standards reproducing within 5% in combination with the absolute 40Ar* content as reported in Hess and Lippolt (1994). Argon was extracted with an argon-ion laser and analysed on a MAP215-50mass spectrometer (Kuiper, 2003). Standard correction for blanks, mass\ndiscrimination, and atmospheric argon were applied. K was analysed in a HP 4500 ICPMS."
+  }, {
+    "heading": "4. Results",
+    "text": "Unlike previous thermochronological studies in the western Andean flank of northern Chile, the range of ages we obtained shows rock cooling not only during Jurassic and Cretaceous times, but also in Eocene times as shown by our (U–Th)/He dating results (Fig. 2; Tables 1 and 2).\nK–Ar ages from biotites indicate that rock cooling below ~300 °C occurred at around 152±1 Ma (Fig. 2). The two zircon (U–Th)/He ages show cooling below 170–190 °C at around 123±7 Ma and 168± 37 Ma. The large age error of the last sample is probably due to U–Th zonation (Table 3). AFT results, from the eight samples from the vertical profile, yield slightly younger ages (118±13 Ma and 145± 16 Ma), which are within error of each other. Fission-track results show long fission-track Mean Track Length (MTL) (13.3–14.4 μm), large Dpar values (4–6 μm), high Cl-content (mostly 1 to 2.5%), and low levels of cationic substitution (b0.5 wt.% of Th, Ce, La, Y, Sr, Fe, Mn,\nMg, Na, S, Si, and Nd) (Figs. 3 and 4). HeFTy inverse modelling results show fast cooling through the AFT Partial Annealing Zone (PAZ) between the Late Jurassic and Early Cretaceous (Fig. 3). Thermal modelling provides no evidence for rock cooling during the Cenozoic. HeFTy forward modelling, using Dpar values as input parameter in the annealing model of Ketcham et al. (1999, 2007), yields temperatures of 75±5 °C and 180±35 °C for the 10% and 90% annealing isopleths delimiting the apatite PAZ, respectively (Fig. 3). These temperatures\nare much higher than those typically estimated for the Durango apatite around 60 to 110±10 °C (Laslett et al., 1987). High chlorine contents and larger Dpar values, than those reported for the Durango standard, can explain the above average resistance to annealing (Fig. 4) (Young et al., 1969; Carlson et al., 1999). A sample with a relatively lower resistance to annealing can be seen at 230 m elevation in the Tocopilla section (Fig. 3). This sample yields the lowest value AFT age (118±7 Ma), MTL (13.3 μm) and chlorine\nar plots (μm/° c-axis). C) Mean Track Length (MTL) (μm). D) Dpar values (μm). Based on\n(i.e. Partial Annealing Zone, PAZ) was calculated per sample using the HeFTy time–\nple the average Dpar was set and the temperature varied. The PAZ's upper (hotter) and\n% and 90% of the original age, respectively. (E) Microprobe analyses of Cl and F in (wt.%)\nan Track Length (HeFTy modelling program; Ketcham, 2005).\ncontent (b1.1%) amongst all samples in the lowest 1000 m of the sampled profile (Figs. 3 and 4). This sample is the only one that fails the P(χ2)-test (Galbraith and Laslett, 1993), indicating a multi-age component with apatites revealing a lower resistance to annealing, and hence a longer residence in the PAZ.\nWeighted average of the (U–Th)/He age was calculated for those samples where 3 or more grain ages overlapped within ±1σ (average\nreproducibility at ~5%), whilst he arithmetic average was taken for the rest of the samples (Fig. 2). Apatite (U–Th)/He results from the vertical profile in Tocopilla reveal two periods of significant rock cooling shown by the two vertical age vs. elevation trends at 40–50 Ma (0 to 1000 m) and 60–80 Ma (1000 to 1900 m) (Fig. 2). We found no correlation between the (U–Th)/He age and the grain size in any of our samples (Table 1). Additionally, uranium distribution within the apatite grains can be described as homogeneous based on the distribution of induced fission-tracks of 235U. Results from the sea level isoelevationprofile yield recurrent (U–Th)/He cooling ages in the range of 38±2 to 52±6Ma, all along the base of the coastal cliff between latitudes 21 and 25°S (Table 2). This spectrum of ages indicates the regional scale of the cooling event recorded at 40–50 Ma, extending over an area of at least 500 km in length. (U–Th)/He ages increase progressively up to 83± 7 Ma between latitudes 25 and 27°S (Table 2)."
+  }, {
+    "heading": "5. Interpretation",
+    "text": "In oceanic-continental plate collision zones such as the Central Andes, crustal thermal regimes and associated surface heat flow are related to the tectonic evolution and physical properties of the lithosphere. For the interpretation of our results we integrated results from studies on Andean geology from the last three decades (Oncken et al., 2006 and reference therein) together with studies concerned with heat-flow and lithospheric thermal modelling in South America (e.g. Henry and Pollack, 1988; Dumitru, 1991; Schmitz, 1994; Hamza and Muñoz, 1996; Springer and Förster, 1998; Schmitz et al., 1999; Springer, 1999; Gutscher, 2002; Hamza et al., 2005). The key challenge is to understand how the lithospheric thermal structure of the Central Andes is related to plate subduction dynamics, arc magmatism and tectonic conditions. Based on our results we divided the thermal history of the forearc in northern Chile into three different episodes."
+  }, {
+    "heading": "5.1. Late Jurassic–Early Cretaceous",
+    "text": "The cooling ages obtained from the biotite K–Ar, zircon (U–Th)/He and AFT dating of diorites from the vertical profile are very similar and within error, revealing a significant period of rock cooling from temperature in excess of N300 °C in Late Jurassic and Early Cretaceous\nack densities (106 tr/cm2) measured on the external mica detector. Spontaneous (σsp)\ntimes (Fig. 2). The vertical age distribution and thermal modelling of five AFT samples with very long MTL indicate cooling through the apatite PAZ (75±5 to 180±35 °C) in less than ~30 Myr (Fig. 3). As previously mentioned, the age dispersion observed between all AFT samples can be attributed to slight variations in annealing kinetics (Figs. 3 and 4). We do not find evidence to believe that the AFT age vs. elevation plot is disrupted by the nearly vertical N–S to NE–SW trending fault system cutting the Coastal Cordillera (Fig. 1B,C). Thus, we can conclude that the vertical age distribution we observe is the direct result of rock cooling.\nThe development of a volcanic arc in the Coastal Cordillera marked the initiation of eastward subduction in the Early Jurassic, and the resultant evolution of the Domeyko Basin (present-day Central Depression) from a rift to back-arc setting (Pichowiak, 1994). Our results indicate that the major part of the cooling of the Coastal Cordillera arc took place shortly after the cessation of arc magmatic activity and during the closure of the rift in the Late Jurassic–Early Cretaceous. Rift closure was the result of the resumption of compression (Parada et al., 2005). In northern Chile compression is indicated by important wrenching involving ductile shear deformation along the Atacama Fault Zone (AFZ). Wrenching was a result of oblique subduction (Scheuber and González, 1999). Therefore it is possible to infer that the cooling we observed in the studied segment of the Coastal Cordillera arc commenced during the exhumation of the arc shortly after arc emplacement and ductile deformation. Cooling was likely favoured by crustal thermal relaxation, and the cessation and eastward migration of the arc activity into the Central Valley. Post-rift thermal subsidence is recorded in the Domeyko back-arc basin by the deposition of a 1000 to 2000 m thick carbonate and siliciclastic marine succession (Chong, 1977; Charrier and Muñoz, 1994; Ardill et al., 1998). Similar patterns of rapid cooling and exhumation are described for others plutons intruded further south as part of the Coastal Cordillera arc (e.g. Scheuber and Andriessen, 1990; Gana and Tosdal, 1996; Parada et al., 2005)."
+  }, {
+    "heading": "5.2. Late Cretaceous",
+    "text": "Samples dated from the upper 900 m of the vertical profile yield Late Cretaceous apatite (U–Th)/He ages, which are slightly younger than those of the AFT systems (Fig. 2). The steep age vs. elevation trend records an additional period of significant cooling between 60 and 80 Ma. These ages show that the upper section of this vertical profile cooled below the apatite (U–Th)/He effective closure temperature, which can vary between ~60 and 80 °C for cooling rates of between 2 and 40 °C/Myr respectively (results from the CLOSURE code of M. Brandon, summarized in Ehlers et al., 2005).\nImportant changes in the deformation regime of the Coastal Cordillera forearc and Central Valley arc took place in the Late Cretaceous. At this time the very high angle of sinistral oblique convergence between the Aluk (Phoenix) and South American plates was replaced by a limited amount of oblique dextral convergence between the Farallon and the South American plates (Scheuber and Reutter, 1992). In the Coastal Cordillera brittle deformation is considered to be related to the formation of a large strike-slip duplex dominated by a NW–SE trending fault system (Taylor et al., 1998; Riquelme et al., 2003). This fault system merged to the east with the NNE–SSW Central Valley Fault Zone where the magmatic arc activity was established. There is evidence that the magmatic arc established in the Central Valley still had a thermal effect on the eastern section of the Coastal Cordillera with the intrusion of andesitic dykes (Hervé and Marinovic, 1989). The arc activity in the Central Valley ceased at ~90 Ma, reappearing in the Precordillera around ~78 Ma (Scheuber and Reutter, 1992; Haschke et al., 2006).\nSimilar to the Jurassic–Early Cretaceous cooling history, we interpret rock cooling in the forearc during the Late Cretaceous as a result of exhumation associated with strike-slip duplex deformation\nand erosion, and the cessation and eastward migration of the Central Valley arc. Unlike the large amount of cooling recorded during the Jurassic–Early Cretaceous, cooling during the Late Cretaceouswas less, and it is only recorded in the upper 900 m of the profile. This is probably because during the Late Cretaceous rock cooling was the result of the final stage exhumation of the Coastal Cordillera arc, which accommodated less (brittle) deformation. This likely led to less significant amounts of erosion. A relatively minor decrease in temperature can be associated with migration of the magmatic arc farther to the east into the Precordillera."
+  }, {
+    "heading": "5.3. Eocene",
+    "text": "A vertical (U–Th)/He age vs. elevation trend, in the lower 1000m section of the vertical profile, shows the shift in age vs. elevation relative to the 60–80 Ma trend (Fig. 2). As for the AFT results, we find no evidence to suggest that the (U–Th)/He vertical age distribution is disrupted by faulting (Fig. 1C). Deformationof the forearc is still ongoing withmany of the faults active at the present-day. However, much of the movement is accommodated by the major N–S Cordillera-bounding faults (Fig. 1B). Vertical displacement on the faults cutting the Coastal Cordillera, particularly the NE–SW trending fault system, is minimal (10–50 m). This can be seen by limited offset of Plio-Pleistocenemarine terraces and other geomorphic markers. No large scale fault disruptions are seen in the (U–Th)/He ages obtained from the isoelevation profile (Table 2). Hencewe interpret the age trend observed as a new period of significant cooling between 40 and 50 Ma.\nIgneous activity in northern Chile occurred between ~78 and ~38 Ma (Haschke et al., 2006). Arc magmatism of Eocene age is known from ~150 km east of the Coastal Cordillera in the area of the present-day Precordillera. In this area magmatism was restricted to the southern part of the Precordillera until the beginning of the Eocene, and it extended only thereafter to the north (Scheuber and Reutter, 1992). Only in the southern segment south of Antofagasta did the arc extend eastwards into the present day Central Valley (Scheuber and Reutter, 1992). Unlike Mesozoic times, we found no evidence for the presence of shallow Eocene arc magmatism at any locality in or close to the Coastal Cordillera forearc that could explain the recurrent Eocene (U–Th)/He age along the 500 km long isoelevation profile. Gravity data provide evidence for high-density bodies beneath the Central Andean Gravity High (CAGH), and vicinity (Coastal Cordillera, Bolivian Altiplano and Argentinean Puna) at depths between 10 and 38 km (Götze and Krause, 2002). Yet, these positive gravity anomalies are mostly identified as the remnants of a Cambrian–Ordovician magmatic arc or Triassic volcanism. Therefore, it is very unlikely that the 40 to 50 Ma cooling event can be connected to a large-scale period of shallow arc magmatism beneath the Coastal Cordillera, or changes in the activity of the magmatic arc in the Precordillera. Conversely, since the 40–50 Ma period of forearc cooling coincides with the initial stages of the Andean orogeny (i.e., Incaic tectonic phase 46 to 37 Ma) (Horton, 2005), we explore two principal components that can provide an explanation for the observed Eocene cooling; 1) forearc uplift and exhumation, and 2) changes in plate subduction dynamics."
+  }, {
+    "heading": "5.3.1. Forearc uplift and exhumation",
+    "text": "If all the cooling recorded by the apatite (U–Th)/He data in the Coastal Cordillera was the result of a period of significant exhumation between 40 and 50 Ma, caused by surface erosion and/or faulting, the age vs. elevation profile would provide a direct estimate of the exhumation rate (Ehlers, 2005). Considering the exhumation of the N1 km section took place in less than 10 Myr, we can make a first estimate of the minimum exhumation rate at 0.1 km/Myr (mm/yr). Although we have no constraints on the initial depth of the profile before 50 Ma, and on when the cooling ceased after 40 Ma, we know that in order to create the vertical age vs. elevation from Tocopilla the\nentire lower section of the profile had to cool down through thewhole HePRZ to a minimum depth of 900 m, which is the thickness of present overburden. Therefore in order to make a better estimate of the range of possible exhumation rates, we need to include in our calculations the effect of the geothermal gradient, and the effective closure temperature or thermal boundaries of the HePRZ for the apatite (U–Th)/He system.\nWe calculated the effect of erosion on rock cooling employing Brandon's code AGE2EDOT (Ehlers et al., 2005). AGE2EDOT uses a single effective closure temperature of the apatite (U–Th)/He to calculate the initial depth and cooling age of a rock sample that is being brought to the near surface by a constant erosion rate. This calculation includes the effect of heat advection, and allows the choice of a geothermal gradient. Results in Fig. 5A show initial depth for the\nffective closure and exposure at the surface based on AGE2EDOT program (Ehlers et al., ient 20 °C/km); square (apatite (U–Th)/He age vs. erosion rate); diamond (initial depth (c) Arndt et al. (1997); (d) Brandon et al. (1998); (#) Values predicted based on input LOSURE program (Ehlers et al., 2005) (For further details on modelling parameters see\nclosure temperature at less than 4.4 and 2.2 km for geothermal gradients of 10 and 20 °C/km, respectively, and for a large range of erosion rates considered. If we take into account that the present overburden for the sample at the base of the profile is ~1900 m, we can conclude that if erosion was responsible for the significant cooling observed in Tocopilla, the geothermal gradient had to be less than ~20 °C/km at ~50 Ma. AGE2EDOT yields very low erosion rates below 0.1 km/Myr for cooling ages between 40 and 50 Myr, and gradients b20 °C/km (Fig. 5A). This would mean a cooling of less than 2 °C/Myr. Yet, these results consider only the impact of erosion on a single sample reaching the surface. In order to investigate the effect of erosion on the entire N1 km vertical age vs. elevation trend, including the present day 900 m overburden instead of the effective closure temperature, we used the diffusion benchmark (isopleths) that defines the HePRZ for the apatite (U–Th)/He system. The program CLOSURE of M. Brandon allows estimates of the temperature for the 10% and 90% diffusion isopleths (Ehlers et al., 2005). We considered the ~53 μm average radius of our apatites, and a time step of 10 Ma, which is the time difference between the cooling event at 60–80 Ma and at 40–50 Ma. Results yield temperatures around 51 and 77 °C for the two diffusion isopleths defining the HePRZ, respectively (Fig. 5B). We observed that assuming shorter time steps (b10 Myr) the temperature of both isopleths increased by ~17 °C, while for longer time steps (11–40 Myr) decreased by ~10 °C. Yet in both cases the difference in temperature between the 10% and 90% diffusion isopleths remained the same, i.e. ~26 °C (Fig. 5B). Based on these results we estimated that the sample at the base of the profile (i.e. at the base of the N1 km cooled section) had to cool down from T~50 Myr=77 °C+(1 km×geothermal gradient) to at least below the 10% diffusion isopleth (T~40 Myr=51 °C) in less than 10 Ma. Based on this amount of cooling, we can determine the minimum amount of erosion required assuming a large range of geothermal gradients (up to 60 °C/km), and a surface temperature of ~15 °C. Acceptable amounts of erosion are those which allow cooling through the HePRZ without erosion of the 1900 m vertical profile, still preserved today in Tocopilla. Similar to results obtained from AGE2EDOT, our calculations show that only in those cases where the geothermal gradient is lower than ~20 °C/km the minimum requirements can be fulfilled (Fig. 6). Higher geothermal gradients lead to significant amounts of excess erosion. We estimate minimum erosion rates of between 0.24 and 0.36 km/Myr, for a 20 and 10 °C/km geothermal gradient respectively, and a maximum period of 10 Myr (Fig. 6). Lower erosion rates, as those obtained by AGE2EDOT, would have produced a shift in the N1 km age vs. elevation trend deviating from the vertical trend we observe.\nIf cooling was the result of 2.4–3.6 km of exhumation in 10 Myr, a period of uplift and erosion had to have taken place in the Coastal Cordillera during the early phases of the Andean orogeny. This would have produced a significant amount of erosion with sediment supplied to the trench and/or the Central Valley. Along the Andean margin the trench is virtually starved of sediments between 10 and 33.5°S (Lamb and Davis, 2003). Yet the present-day sediment infill is merely a snapshot in time, since plate subduction can empty the trench in less than 1 Myr (Bangs and Cande, 1997). On the other hand, there is little stratigraphic evidence in the Central Valley for important periods of erosion during the Eocene (Hartley et al., 2005; Oncken et al., 2006). Significant Eocene uplift and erosion are mostly reported in the Precordillera, Western and Eastern Cordillera with sediments infilling basins such as the Salar de Atacama, Altiplano and Puna (Fig. 7D, E) (Mortimer and Saric, 1975; Benjamin et al., 1987; Isacks, 1988; Lamb et al., 1997; Ege et al., 2007; Deeken et al., 2006; Barnes et al., 2008; Carrapa et al., 2009; Hartley and Evenstar, 2009). In the case of the Salar de Atacama, the accumulation of syntectonic conglomerates and gravels of Loma Amarilla, with a thickness in excess of 2500 m, shows an Incaic transpressional episode, during the uplift in the Cordillera de Domeyko (Precordillera) in the Eocene–\nEarly Oligocene (Hartley et al., 1992; Mpodozis et al., 2005). Yet, Eocene sediments in the Coastal Cordillera are scarce and only found in southernmost Peru and northernmost Chile as sand and gravel sequences of the Moquegua and the Azapa Formation, respectively (Roperch et al., 2006; Sempere et al., 2004). In Peru, these sediments— deposited ~50 Ma — are the oldest sediments showing the early generation of topography in the Western Cordillera. In northernmost Chile (Arica domain) the Azapa Formation consists of ≤500 m of fluvial conglomerates and sandstones that were deposited over most of the Central Valley, and the eastern part of the Coastal Cordillera in Oligocene times (Sempere et al., 2004). A regional study of Cenozoic sedimentation in northern Chile indicates that sediments present in the Central Valley, and on the edge of the Coastal Cordillera, are largely derived from the Precordillera (Hartley and Evenstar, 2009).\nRegarding cooling by fault displacement, the predominance of nearly vertical faults in northern Chile, would have required fast kilometric displacement in order to induce lateral cooling of isolated tectonic blocks (Stüwe et al., 1994). Results from the sea level isoelevation profile, with consistent (U–Th)/He ages around 47± 6 Ma between 21 and 26°S (Table 2), indicate that significant fault displacement in the region of the Coastal Cordillera since the Eocene is unlikely. In contrast to the compressional tectonic of the retroarc area, the Coastal Cordillera appears to have been uplifted and extended regionally. The accretion of subcrustal material beneath the leading edge of the continental plate derived from subduction erosion appears to have controlled regional uplift, undercutting and gravitational collapse and extension of the Coastal Cordillera (Hartley et al., 2000). The 2000-m coastal uplift, canyon incision and escarpment retreat in the Coastal Cordillera, could be an element to be considered for the cooling observed. However, this would imply that the Coastal Cordillera was a topographical high in Eocene times, with a coastal escarpment situated less than 2.4 to 3.6 km to the west relative to the present-day location. This is the lateral distance equivalent to the paleo-depth calculated for cooling caused by vertical exhumation (i.e. erosion). This scenario, although plausible, seems unlikely when considering the higher rates of subduction erosion estimated for northern Chile during Eocene and Miocene times (0.6 to 1 km/Myr) (von Huene and Scholl, 1991; Kukowski and Oncken, 2006) (Fig. 7A), and the fact that coastal escarpment features are estimated to bemore recent (Late Miocene to present) (Paskoff, 1978; Hartley and Jolley, 1995; Allmendinger et al., 2005).\nIn conclusion, rock cooling in the Coastal Cordillera can be interpreted as a result of erosion during the early stages of uplift and deformation of the Andean orogeny. Yet, the minimum erosion rates we obtain (0.24 and 0.36 km/Myr) appear to be high, relative to the processes that have occurred in the Coastal Cordillera during the main phase of Andean uplift. In southern Peru, canyon incision rates of ~0.5 km/Myr are reported for the western margin of the Andes (Altiplano–Puna) plateau in Miocene times (Schildgen et al., 2007), with canyon interfluve erosion rates of less than 0.001–0.05 km/Myr (Kober et al., 2007). The Cenozoic sedimentary record from northern Chile is dominated entirely by sediments deposited under arid to semiarid climate (Dunai et al., 2005; Hartley et al., 2005; Keller et al., 1997; Stille et al., 1996; Haywood et al., 2000; Zachos et al., 2001). The orographic rain-shadow of the Andean Cordillera seems to have reinforced aridity in the west flank during the Miocene (Houston and Hartley, 2003), while increasing the rainfall in the rainy season over the plateau (Ehlers and Poulsen, 2009). The question here is whether uplift and erosion is the sole cause for the rock cooling we observe in the Coastal Cordillera forearc, or do changes in the geothermal gradient also need to be considered? (Fig. 6C)."
+  }, {
+    "heading": "5.3.2. Changes in plate subduction dynamics",
+    "text": "Geothermal gradients in forearc areas can vary as a result of the cooling effect of the cold subducting slab and/or changes in the subduction zone geometry due to fluctuations in plate convergence\nrates, buoyancy forces, mantle rheology and plateau subduction (e.g. Dumitru, 1991; Springer, 1999; van Hunen et al., 2004). In the case of the Central Andes, the Coastal Cordillera is known to have moved closer to the cold slab at a rate of 0.6 to 1 km/Myr as a result of\nsubduction erosion (Fig. 7A). The slab dip of the Nazca plate is assumed to have decreased during the early stage of the Andean orogeny due to a period of accelerated plate convergence between 49 and 36 Ma partly induced by the westward drift of SA pushed by the\nSouth Atlantic ridge (69–35 Ma) (Fig. 7A,B). As a result, a stable flat subduction situation was reached as interpreted from the magmatic lull at ~38 to ~26 Ma (Fig. 7C).\nThermal numerical models reproducing the thermal effect of changes in plate subduction geometry show that changes in subduction dynamics like those mentioned above contribute only a small amount to the thermal field of the uppermost crust of the forearc, since they mostly involve heat diffusion taking many tens of million years before reaching thermal equilibrium (e.g. Dumitru, 1991; Arndt et al., 1997; Springer and Förster, 1998; Springer, 1999; van Hunen et al., 2004). Thus, the role of heat diffusion can be ruled out in favour of processes involving heat advection. We have previously argued that there is no direct evidence for Eocene arc relatedmagmatism beneath the Coastal Cordillera. An important large scale factor involving heat advection, which has not been considered in detail in the evolution of the Central Andes during the Eocene, is the subduction of aseismic or spreading ridges. The Andean western margin has been subject to the subduction and migration of several ridges such as the Farallon–Aluk (Phoenix) ridge during Mesozoic times, and the present-day Nazca–Antarctic ridge (e.g. Zonenshayn et al., 1984; Soler et al., 1989; Gorring et al., 1997; Yañez et al., 2001). Yet, it was not until recently that a new sea floor spreading reconstruction for the Southwest Pacific, based on a new set of paleo-oceanic age grids (Müller et al., 2005), revealed evidence for the subduction of a ridge in northern Chile during the Cenozoic (Sdrolias and Müller, 2006). The ridge is identified as the lingering section of the Farallon–Phoenix plate boundary (see http://www.earthbyte. org).\nThe subduction of a ridge is a phenomenon that can have a great influence on the thermal field of the overriding plate (Groome and Thorkelson, 2009). First, and considering the ridge is active (i.e. spreading), it produces a slab window through which hot asthenospheric mantle upwells at the base of the cold overriding forearc. This causes an important geothermal anomaly that can reach the upper crust (Forsythe et al., 1986; Bangs and Brown, 1995; Sakaguchi, 1996; Murdie et al., 1999; Bradley et al., 2003). At present the subduction of the Nazca–Antarctica spreading ridge in southern Chile (latitude 46°S) produces vigorous hot springs and high heat flow above 200mWm−2 (i.e., 167 °C/km) more than 100 km seaward of the magmatic arc (Bangs and Brown, 1995;Murdie et al., 1999). Extensive Neogene tholeiitic and alkaline lavas southeast of the modern Chile Triple Junction are related to the opening of the “slab window” (Ramos and Kay, 1992; Gorring et al., 1997). A second important phenomenon during the subduction of a spreading or aseismic ridge is the tendency of the slab dip to flatten. Flatting due to the subduction of the ridge thick oceanic crust, and/or the subduction of young and buoyant oceanic crust (i.e. spreading ridge), tends to increase plate coupling (James and Sacks, 1999). In a stable flat slab situation, amphiboles break down to a garnet eclogitic phase in the basaltic slab, losing their water content at depths of ≥45–50 km (Rapp and Watson, 1995). Dewatering is considered to be one of the most efficient convective coolingmechanisms, and accounts for abnormally low heat flow in many subduction zones (e.g. Springer, 1999; Hinz, 1998). In conclusion, the subduction of a spreading or aseismic ridge\nFig. 7. Chronology ofmajor events extracted from previous studies in the Central Andes. Shaded dark grey region marks the period between 40 and 50 Ma. (A) Westward drift of SA (Silver et al., 1998) and arc retreat rate (Oncken et al., 2006). (B) Convergence rate and obliquity between Nazca plate and SA (22°S) (Pardo-Casas and Molnar, 1987; Somoza, 1998). (C) Ages of igneous rocks from the north Chilean arc (21–26°) and evolutionary REE (here as La/Yb) patterns. Grey circles: magmas that produced the copper mineralization of Chuquicamata (Haschke et al., 2006) (D) Bulk minimum and maximum shortening rate (Oncken et al., 2006). (E) Estimated range of integrated erosional and sedimentary mass flux for north Chilean Precordillera and forearc basins (Oncken et al., 2006). (F) Age distribution and tonnage (in mmt: million metric tonnes of copper) of porphyry copper deposits in northern Chile (Clark et al., 1998): (1) Cerro Colorado (38 Ma); (2) Chuquicamata (33–31 Ma); (3) Mocha (58 Ma); (4) Chimborazo (44–39 Ma); (5) Escondida (34 Ma); (6) El Salvador (42–41 Ma); (7) Collahuasi (33 Ma); (8) El Abra (37 Ma); (9) Mansa Mina (33–31 Ma); (10) Potrerillos (36 Ma); (11) Quebrada Blanca (35 Ma); (12) Zaldivar (35–31 Ma).\nfollowed by slab dewatering represents a potential mechanism to trigger rapid crustal cooling.\nIf the possibility of ridge subduction is to be considered for interpretation of the 40–50 Ma cooling event in northern Chile, three main points need to be taken into account. First, the sea floor spreading model of Sdrolias and Müller (2006) predicts that the ridge subducted beneath the continental margin of northern Chile during the Oligocene/Miocene. Conversely, our data suggest earlier subduction before 40–50 Ma (i.e. Eocene); second, the model suggests that the ridge migrated northwards, subducting at an oblique angle relative to the margin. The lack of a (U–Th)/He age progression in our isoelevation profile suggests that ridge subductionmay have been highly oblique and arrived nearly simultaneously along northern Chile within ~10 Ma; third, the seafloor spreading reconstructions suggest that the ridge was not active (aseismic), yet significant thermal activity could have existed in the ridge segment(s) that subducted beneath northern Chile. Part of the discrepancies mentioned above can be due to errors in the cooling ages associated with (U–Th)/He ages, latitudinal changes of SA (b10°) (Somoza and Tomlinson, 2002) and assumptions on the ridge partition derived from sea floor magnetic lines (Lonsdale, 2005)."
+  }, {
+    "heading": "5.3.3. Discussion",
+    "text": "We have explored two scenarios to explain the formation of a N1 km cooled rock column along 500 km of the Coastal cliff of northern Chile during the early phase of the Andean orogeny. One scenario involves uplift and erosion while the other invokes changes in plate dynamics. The scenario involving uplift and erosion of the Coastal Cordillera appears plausible. Yet, erosion rates of 0.24– 0.36 km/Myr for a period of ~10 Ma appears to be high, and there is no contemporaneous sedimentary record, or evidence for formation of a coastal escarpment, to support a period of significant uplift and erosion in the Coastal Cordillera. Moreover the assumption of a constant geothermal gradient might not be entirely valid, since it is likely that the geothermal gradient decreased sometime between the Eocene and present. The current gradient is as low as 10 °C/km (Springer and Förster, 1998). The scenario involving changes in plate dynamics shows that they have little effect on the thermal field of the uppermost crust of the forearc, and that thermal equilibration would take longer than the period between 40 and 50 Ma. Only the subduction of an aseismic or spreading ridge can explain rapid and significant changes in the forearc thermal field, allowing for certain premises that differ from current paleo-plate reconstruction.\nDespite the differences in the arguments supporting each of these two scenarios, they have one element in common. They both suggest that the Coastal Cordillera forearc was tectonically and/or thermally more active during the onset of the Andean orogeny than previously thought. Based on our results we next discuss the implications of assuming the subduction of a ridge. The question is, could the subduction of the Farallon–Phoenix ridge have caused the changes in interplate tectonics necessary to have triggered the onset of uplift of the Central Andes and cessation of the arc magmatism in the Precordillera during Eocene times? The Precordillera arc contains one of the largest concentrations of copper deposits in the world formed during Eocene times. The spatial and temporal distribution of ore deposits in northern Chile and southern Peru does not seem to correspond with progressive subduction processes, instead ore deposits are concentrated in regions that experienced periods of intense metallogenic activity (e.g. Sillitoe, 1974, 1988, 2008; Petersen 1990; Noble and McKee, 1999). Copper and gold mineralizations in convergence margins are often associated with subduction of seamounts, aseismic ridges, hotspots chains and oceanic plateaus (e.g. Cooke et al., 2005; Hollings and Cooke, 2005). Hence the subduction of the Farallon–Phoenix ridge could have important implications for the sequence of events that took place during the initial stages of the Andean orogeny.\nThe subduction of a ridge beneath the Central Andes would have increased interplate coupling via the reduction in slab dip. More importantly, if the ridge was active it would have significantly reduced the mechanical strength of the overriding plate as a result of heating during the passage of the slab window, and cooling during the onset of flat slab dewatering (Fig. 8A–D). The subduction of the ridge would have occurred contemporaneously with the westward acceleration of the SA plate (69–35 Ma) (Silver et al., 1998), resulting in a more sustainable transfer of continuous convergence to generate topography (Fig. 8B,C). Numerical models show that friction along the plate interface can only lead to high topography if the upper plate is moving towards the trench (van Hunen et al., 2000; Hampel and Pfiffner, 2006).\nIn the Central Andes, a major magmatic lull is reported between 38 and 26 Ma (Fig. 7C). Periods of magmatic inactivity in South America has long been related to a stable flat slab due to the subduction of ridges, delay in the basalt to eclogite transition, slab breakoff, and/or variations in absolute plate motions, especially that of the overriding plate (e.g. Haschke et al., 2006; Gutscher et al., 2000; Fukao et al., 2001). The basic elements required to change the subduction style from steep to flat slab are the subduction of a positive topography and/or young and buoyant oceanic crust, and the hydrous weakening of the mantle wedge (van Hunen et al., 2002). Results of numerical thermochemical convection models show that the maximum extent of a flat slab can be about 300 km, yet active overthrusting by the overriding plate can produce flat-slab segments of up to 500 km (van Hunen et al., 2002). Based on these results, we suggest that subduction of the Farallon–Phoenix ridge, and the weakening of the mantle wedge due to slab dewatering, would allow the change in subduction style from steep to flat (Fig. 8B,C). Following subduction of the ridge arm beneath the Coastal Cordillera and the onset of cooling at 50–40 Ma, the convergence rate between the Nazca and SA plates decreased from ~160 mm/yr down to ~60 mm/yr (Fig. 7B). Plate convergence remained low until around the time when arc magmatism resumed in the Western Cordillera at 26 Ma (Fig. 7B). Therefore, the ridge arm would have migrated (subducted) approximately 840 km eastwards during the period between ~40 and 26 Ma. The distance between the Coastal Cordillera and the Western Cordillera arc is presently ~300 km. Taking this distance into account together with the extent of a flat slab of 300 km, or possibly up to 500 km as a result of the contemporaneous westward drift of SA, it appears reasonable to assume that a period of approximately ~14 Myr was needed for the complete subduction of the ridge and the restoration of the steep slab dip (Fig. 8D).\nPorphyry ore deposits in the Central Andes are thought to be associated with subduction of aseismic ridges and oceanic plateaus, flat slabs and crustal thickening (Cooke et al., 2005; Rosenbaum et al., 2005; James and Sacks, 1999; Kay et al., 1999; Kay and Mpodozis, 2001). The subduction of a thickened oceanic crust can lead to the flattening of the slab, thickening of the continental crust, and dewatering and release of their metal contents. Significant amounts of copper are found in oceanic crust (e.g. basic igneous rocks, 100 ppm Cu) and pelagic sediments (e.g., East flank Pacific Rise, 990 ppm Cu) (Sillitoe, 1972; Dasch et al., 1971). Periods of accelerated convergence have been suggested as a factor promoting formation of ore deposits, since they increase the bulk metal content of the subducted oceanic plate (Oyarzun et al., 2001). Yet, this is shown to be insufficient to explain the formation of the giant porphyry copper deposits in northern Chile (Rabbia et al., 2002). The highest concentrations of metals in oceanic crust are found in the upper mantle at divergent plate junctions, associated with basic magmatism (Sillitoe, 1972). The subduction of an oceanic plate edge, being warmed and ablated by mantle flow, can produce sufficient amounts of melts, hot fluids and heat for formation of important ore deposits (Yogodzinski et al., 2001). Melting along the edge of torn plates is possible in cases of ridge subduction and slab-window formation (Rabbia et al., 2002).\nThe Precordillera arc of northern Chile was active between 78 and 38 Ma (Fig. 7C). This arc experienced an important period of copper mineralization between 45 and 30 Ma associated with adakitic magmatism (Fig. 7F). Adakitic magmas are uncommon, and their genesis is linked to melting along the edge of a plate, yet whether the mafic crustal component of adakitic magmatism derives frommelting of the oceanic crust and/or the lower crust is still unclear (Rabbia et al., 2002). The upward migration of brines can lead to partial melting of relatively dry upper mantle or lower crust rocks. The metals in the oceanic crust and pelagic sediments are extracted during partial melting and dewatering. The emplacement of brines in northern Chile was structurally dominated and concentrated in areas of greater deformation along the Precordillera arc (Scheuber and Reutter, 1992). Genesis of the ore deposits is not unique, and a number of examples show that where the subduction of a spreading ridge center occurred, they strongly influenced the thermal evolution of the continental margin and large scale mineralization, such as is the case for gold deposits in southern Alaska (Haeussler et al., 1995; Bradley et al., 2003). Hence, we conclude that the subduction of the Farallon– Phoenix (spreading or aseismic) ridge appears to provide a realistic mechanism for the generation of the huge sulphide ore deposits of northern Chile and southern Peru."
+  }, {
+    "heading": "6. Conclusions",
+    "text": "The thermochronological data we present here provide a complete record of the thermal history of the Coastal Cordillera arc from Late Jurassic to Eocene times. Results show that the onset of cooling took place following arc emplacement and as a result of uplift and exhumation of the arc due to resumption of compression, rift closure, and eastward arc migration in Late Jurassic–Early Cretaceous, and Late Cretaceous times. The youngest apatite (U–Th)/He ages we obtained in a N500 km long and N1 km thick section of the Coastal Cordillera provide for the first time evidence for an important regional cooling event between 50 and 40 Ma. Crustal cooling cannot be accounted for the cessation of shallow arc magmatism, but it is likely to result from changes in uplift and erosion rates, and/or plate dynamics during the first stages of the Andean orogenic cycle.\nIn the case of uplift and erosion, erosion rates between 0.24 and 0.36 km/Myr for up to 10 Myr would have been necessary to create the N1 km cooled zone. These rates appear high, since they are similar to those of Miocene canyon incision in southern Peru. Although a period of uplift or climatically induced exhumation could have taken place in the Coastal Cordillera, this seems unlikely. The scarce geological record does not provide enough evidence to suggest a period of significant erosion. Preservation of the thermochronological evidence in the vertical profile of Tocopilla is suggestive of a low erosional regime associated with an arid climate throughout the Cenozoic. On the other hand lateral cooling caused by tectonic uplift would necessitate the presence of Eocene topography, similar to the present-day coastal cliff, and with an escarpment situated less than 2.4 to 3.6 km to the west. This scenario would have significant implications to the general idea that uplift and deformation was mainly concentrated in the thermally weakened Precordillera arc and backarc during the early phases of the Andean orogeny.\nWe find that the active thermal history of the Andean western margin, and the present-day anomalous low thermal gradient observed in the Coastal Cordillera suggest that the geothermal gradient has most likely varied since the onset of the Andean orogeny. We showed that changes inplatedynamics can significantly affect the thermalfieldof the upper continental crust, yet mechanisms involving heat advection are needed. Besides arc magmatism, ridge subduction is one of the few\nFig. 8. Schematic chronologic evolution of the central Andes highlighting the hypothesized during and, (D) after ridge subduction. (CC) Coastal Cordillera, (CV) Central Valley, (PC) Pr\nmechanisms that can have a strong impact on the thermal field of the forearc. We found that a recent sea floor spreading reconstruction provides evidence for the subduction of the Farallon–Phoenix ridge underneath the Central Andes. Despite uncertainties associated with ridge partitioning, and the angle relative to the continental margin, the subduction of this ridge in northern Chile can explain slab dip changes, the initiation of uplift, the temporary cessation of magmatic arc activity, and the genesis of giant porphyry copper deposits at around 40–50 Ma. The coeval occurrence of ridge subduction with a period of accelerated plate convergence and westward drift of SA could have contributed to the onset of the Andean orogenic cycle, and ultimately influenced the early evolution of the unique plateau-type orogen of the Central Andes."
+  }, {
+    "heading": "Acknowledgements",
+    "text": "Wewant to acknowledge the intrepid Chilean climbers Constanza, Alberto, Rodrigo, Mauricio, Pablo and Ivan, and Arturo, who helped with the sampling of the Tocopilla vertical profile. Thanks to G. González, and K. Boessenkool for their assistance and discussion during the sampling of the sea level isoelevation profile. From the Vrije Universiteit Amsterdam we would like to thank O. Postma, B. Voorhorst, B. van derWagt, R. van Elsas, T. Vogel-Eissens and B. van Os (Univ. Utrecht) for their assistance in the laboratory, K. Kuiper and J. Wijbrans for the K–Ar analysis, W. Lustenhouwer and W. Koot for the Microprobe analysis, and J. Foeken and F. Stuart (S.U.E.R.C.) for the zircon (U–Th)/He analysis. This research was financially supported by the N.W.O (Netherlands Organization for Scientific Research) andwas carried out in the framework of CSAG (Center for System Analysis of Geoprocesses). The zircon (U–Th)/He analysis was financed by the Royal Society of Edinburgh. T. Dunai received some financial support from the Universidad Católica del Norte in Antofagasta. We are especially grateful to R. Allmendinger, J.B. Barnes, and two anonymous reviewers, for their relevant criticism and very useful comments, which helped us improve the final version."
+  }],
+  "year": 2010,
+  "references": [{
+    "title": "Time interval between volcanism and burial metamorphism and rate of basin subsidence in a Cretaceous",
+    "authors": ["L. Aguirre", "G. Feraud", "D. Morata", "M. Vergara", "D. Robinson"],
+    "venue": "Andean extensional basin. Tectonophysics",
+    "year": 1999
+  }, {
+    "title": "Neogene to Quaternary tectonics of the coastal Cordillera, northern Chile",
+    "authors": ["R.W. Allmendinger", "G. González"],
+    "venue": "Tectonophysics",
+    "year": 2009
+  }, {
+    "title": "Theevolutionof theAltiplano– Puna plateau of the central Andes",
+    "authors": ["R.W. Allmendinger", "T.E. Jordan", "S.M. Kay", "B.L. Isacks"],
+    "venue": "Annu. Rev. Earth Planet. Sci",
+    "year": 1997
+  }, {
+    "title": "Trench parallel shortening in the northern Chilean forearc: tectonic and climate implications",
+    "authors": ["R.W. Allmendinger", "G. González", "J. Yu", "G. Hole", "B. Isacks"],
+    "year": 2005
+  }, {
+    "title": "K–Ar and fission-track mineral age determination of igneous rocks related to multiple magmatic arc system along the 23°S lat",
+    "authors": ["P.A.M. Andriessen", "Reutter", "K.-J"],
+    "venue": "Of Chile and NW Argentina",
+    "year": 1994
+  }, {
+    "title": "Sequence stratigraphy of the Mesozoic Domeyko Basin, northern Chile",
+    "authors": ["J. Ardill", "S. Flint", "G. Chong", "H. Wilke"],
+    "venue": "J. Geol. Soc. London",
+    "year": 1998
+  }, {
+    "title": "Active faulting in northern Chile: ramp stacking and lateral decoupling along a subduction plate boundary",
+    "authors": ["R. Armijo", "R. Thiele"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 1990
+  }, {
+    "title": "Thermal and rheological properties of granodioritic rocks from the Cnetral Andes, North Chile",
+    "authors": ["J. Arndt", "T. Bartel", "E. Scheuber", "F. Schilling"],
+    "venue": "Tectonophysics",
+    "year": 1997
+  }, {
+    "title": "Geochronology of the Tertiary volcanic activity in the Andes of North Chile",
+    "authors": ["M.C.W. Baker"],
+    "venue": "Geol. Rundsch",
+    "year": 1977
+  }, {
+    "title": "Regional heat flow in the vicinity of the Chile triple junction constrained by the depth of the bottom-simulating reflection",
+    "authors": ["N.L. Bangs", "K.M. Brown"],
+    "venue": "Proceedings ODP,",
+    "year": 1995
+  }, {
+    "title": "Episodic development of a convergentmargin inferred from structures and processes along the southern Chile",
+    "authors": ["N.L. Bangs", "S.C. Cande"],
+    "venue": "margin. Tectonics",
+    "year": 1997
+  }, {
+    "title": "End member models for Andean plateau uplift",
+    "authors": ["J.B. Barnes", "T.A. Ehlers"],
+    "venue": "Earth Sci. Rev",
+    "year": 2009
+  }, {
+    "title": "Thermochronometer record of central Andean Plateau growth, Bolivia (19.5°S)",
+    "authors": ["J.B. Barnes", "T.A. Ehlers", "N. McQuarrie", "P.B. O'Sullivan", "S. Tawackoli"],
+    "venue": "Tectonics 27,",
+    "year": 2008
+  }, {
+    "title": "Recent rapid uplift in the Bolivian Andes: evidence from fission-track",
+    "authors": ["M.T. Benjamin", "N.M. Johnson", "C.W. Naeser"],
+    "venue": "dating. Geology",
+    "year": 1987
+  }, {
+    "title": "Geologic signature of early Tertiary ridge subduction in Alaska",
+    "authors": ["D. Bradley", "T. Kusky", "P. Haeussler", "R. Goldfarb", "M. Miller", "J. Dumoulin", "S. Nelson", "S. Karl"],
+    "venue": "Geology of a Transpressional Orogen Developed During Ridge–Trench Interaction Along the North Pacific Margin: Geological Society of America Special Paper,",
+    "year": 2003
+  }, {
+    "title": "Late Cenozoic exhumation of the Cascadia accretionary wedge in the Olympic Mountains, northwest Washington State",
+    "authors": ["M.T. Brandon", "M.K. Roden-Tice", "J.I. Garver"],
+    "year": 1998
+  }, {
+    "title": "Fundamentos de la Geología de Chile. Instituto Geográfico Militar, Santiago",
+    "authors": ["J. Brüggen"],
+    "year": 1950
+  }, {
+    "title": "Variability of apatite fission-track annealing kinetics I: experimental results",
+    "authors": ["W.D. Carlson", "R.A. Donelick", "R.A. Ketcham"],
+    "venue": "Am. Mineral",
+    "year": 1999
+  }, {
+    "title": "Cenozoic orogenic growth in the Central Andes: evidence from sedimentary rock provenance and apatite fission-track thermochronology in the Fiambalá Basin, southernmost Puna Plateau margin (NW Argentina)",
+    "authors": ["B. Carrapa", "M.R. Strecker", "E.R. Sobel"],
+    "venue": "Earth Planet. Sci",
+    "year": 2006
+  }, {
+    "title": "Apatite triple dating and white mica",
+    "authors": ["B. Carrapa", "P.G. DeCelles", "P.W. Reiners", "G.E. Gehrels", "M. Sudo"],
+    "year": 2009
+  }, {
+    "title": "Jurassic Cretaceous Palaeogeographic evolution of the Chilean Andes at 23–24°S latitude and 34–35°S latitude: A comparative analysis",
+    "authors": ["R. Charrier", "N. Muñoz"],
+    "venue": "Tectonics of the southern Central Andes. Springer-Verlag,",
+    "year": 1994
+  }, {
+    "title": "Contributions to the knowledge of the Domeyko Range, northern Chile",
+    "authors": ["G.D. Chong"],
+    "venue": "Geol. Rundsch",
+    "year": 1977
+  }, {
+    "title": "Laser probe",
+    "authors": ["A.H. Clark", "D.A. Archibald", "A.W. Lee", "E. Farrar", "C.J. Hodgson"],
+    "year": 1998
+  }, {
+    "title": "Tectonic erosion of the Peruvian forearc, Lima Basin, by subduction and Nazca",
+    "authors": ["P.D. Clift", "I. Pecher", "N. Kukowski", "A. Hampel"],
+    "venue": "Ridge collision. Tectonics",
+    "year": 2003
+  }, {
+    "title": "Tectonic andmagmatic evolution of the Andes of northern Argentina and Chile",
+    "authors": ["B. Coira", "J. Davidson", "C. Mpodozis", "V.A. Ramos"],
+    "venue": "Earth Sci. Rev",
+    "year": 1982
+  }, {
+    "title": "Giant porphyry deposits: characteristics, distribution, and tectonic controls",
+    "authors": ["D.R. Cooke", "P. Hollings", "J.L. Walshe"],
+    "venue": "Econ. Geol",
+    "year": 2005
+  }, {
+    "title": "Apatite fission-track thermochronology of the Sierras Pampeanas, central western Argentina: implications for the mechanism of plateau uplift in the Andes",
+    "authors": ["T.J. Coughlin", "P.B. O'Sullivan", "B.P. Kohn", "R.J. Holcombe"],
+    "venue": "Geology",
+    "year": 1998
+  }, {
+    "title": "Isotopic analysis of metalliferous sediment from the East Pacific Rise",
+    "authors": ["E.J. Dasch", "J.R. Dymond", "G.R. Heath"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 1971
+  }, {
+    "title": "Development of the southern Eastern Cordillera, NW Argentina, constrained by apatite fission track thermochronology: from Early Cretaceous extension to middle Miocene shortening",
+    "authors": ["A. Deeken", "E.R. Sobel", "I. Coutand", "M. Haschke", "U. Riller", "M.R. Strecker"],
+    "venue": "Tectonics 25,",
+    "year": 2006
+  }, {
+    "title": "Active tectonics of the Andes",
+    "authors": ["J.F. Dewey", "S.H. Lamb"],
+    "venue": "Tectonophysics",
+    "year": 1992
+  }, {
+    "title": "Preliminary radiometric ages from the Mejillones Peninsula, Northern Chile",
+    "authors": ["M Diaz", "UG Cordani", "K Kawashita", "L Baeza", "R Venegas", "F Hervé", "F Munizaga"],
+    "venue": "Comunicaciones Univ. Santiago",
+    "year": 1985
+  }, {
+    "title": "U and Th zonation in Fish Canyon Tuff zircons: Implications for a zircon (U–Th)/He standard",
+    "authors": ["K.J. Dobson", "F.M. Stuart", "T.J. Dempster", "EIMF"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 2008
+  }, {
+    "title": "Subduction kinematics and dynamics constraints",
+    "authors": ["C. Doglioni", "E. Carminati", "M. Cuffaro", "D. Scrocca"],
+    "venue": "Earth Sci. Rev",
+    "year": 2007
+  }, {
+    "title": "Variability in apatite fission-track annealing kinetics II: crystallographic orientation effects. Am.Mineral",
+    "authors": ["R.A. Donelick", "R.A. Ketcham", "W.D. Carlson"],
+    "year": 1999
+  }, {
+    "title": "Apatite fission-track analysis",
+    "authors": ["R.A. Donelick", "P.B. O'Sullivan", "R.A. Ketcham"],
+    "venue": "Geochem (Low-Temperature Thermochronology: Techniques, Interpretations and Applications),",
+    "year": 2005
+  }, {
+    "title": "Effects of subduction parameters on geothermal gradients in forearc, with an application to Franciscan subduction in California",
+    "authors": ["T.A. Dumitru"],
+    "venue": "J. Geophys. Res",
+    "year": 1991
+  }, {
+    "title": "Oligocene–Miocene age of aridity in the Atacama Desert revealed by exposure dating of erosion-sensitive",
+    "authors": ["T.J. Dunai", "G. González", "J. Juez-Larré"],
+    "venue": "landsforms. Geology",
+    "year": 2005
+  }, {
+    "title": "Exhumation history of the southern Altiplano plateau (southern Bolivia) constrained by apatite fission-track thermochronology",
+    "authors": ["H. Ege", "E.R. Sobel", "E. Scheuber", "V. Jacobshagen"],
+    "venue": "Tectonics 26,",
+    "year": 2007
+  }, {
+    "title": "Crustal thermal processes and the interpretation of thermochronometer data",
+    "authors": ["T.A. Ehlers"],
+    "venue": "Mineralogical Society of America,",
+    "year": 2005
+  }, {
+    "title": "Apatite (U–Th)/He thermochronology: methods and applications to problems in tectonic and surface processes",
+    "authors": ["T.A. Ehlers", "K.A. Farley"],
+    "venue": "Earth Planet. Sci",
+    "year": 2003
+  }, {
+    "title": "Influence of Andean uplift on climate and paleoaltimetry estimates",
+    "authors": ["T.A. Ehlers", "C.J. Poulsen"],
+    "venue": "Earth Planet. Sci",
+    "year": 2009
+  }, {
+    "title": "U–Th)/He dating: techniques, calibrations and applications",
+    "authors": ["K.A. Farley"],
+    "venue": "Rev. Mineral. Geochem.,",
+    "year": 2002
+  }, {
+    "title": "Pliocene near-trenchmagmatism in southern Chile: a possible manifestation of ridge",
+    "authors": ["R. Forsythe", "E.P. Nelson", "M.J. Carr", "M.E. Kaeding", "M. Herve", "C. Mpodozis", "J.M. Soffia", "S. Harambour"],
+    "venue": "collision. Geology",
+    "year": 1986
+  }, {
+    "title": "Stagnant slabs in the upper and lower mantle transition region",
+    "authors": ["Y. Fukao", "S. Widiyantoro", "M. Obayashi"],
+    "venue": "Rev. Geophys",
+    "year": 2001
+  }, {
+    "title": "Statistical modeling of thermal annealing of fissiontrack ages",
+    "authors": ["R.F. Galbraith", "G.M. Laslett"],
+    "venue": "Nucl. Tracks Radiat. Meas",
+    "year": 1993
+  }, {
+    "title": "Fission-track analysis and its applications to geological problems",
+    "authors": ["K. Gallagher", "R. Brown", "J. Christopher"],
+    "venue": "Annu. Rev. Earth Planet. Sci",
+    "year": 1998
+  }, {
+    "title": "Geochronología U–Pb y K–Ar en intrusivos del paleozoico y",
+    "authors": ["P. Gana", "R.M. Tosdal"],
+    "venue": "Mesozoico de la Cordillera de la Costa, región de Valparaíso, Chile. Rev. Geol. Chile",
+    "year": 1996
+  }, {
+    "title": "Segmentación, cinemática y cronologa relativa de la deformación tardía de la Falla Salar del Carmen",
+    "authors": ["G. González", "D. Carrizo"],
+    "venue": "Sistema de Fallas de Atacama (23°40′S), norte Chile. Rev. Geol. Chile",
+    "year": 2003
+  }, {
+    "title": "The link between forearc tectonics and Pliocene–Quaternary deformation of the Coastal Cordillera, northern Chile",
+    "authors": ["G. González", "J. Cembrano", "D. Carrizo", "A. Macci", "H. Schneider"],
+    "venue": "J. South Amer. Earth Sci",
+    "year": 2003
+  }, {
+    "title": "Neogene Patagonian plateau lavas: continental magmas associated with ridge collision at the Chile triple junction",
+    "authors": ["M.L. Gorring", "S.M. Kay", "P.K. Zeitler", "V.A. Ramos", "D. Rubiolo", "M.I. Fernandez", "J.L. Panza"],
+    "venue": "Tectonics",
+    "year": 1997
+  }, {
+    "title": "The Central Andean gravity high, a relic of an old subduction complex",
+    "authors": ["H.J. Götze", "S. Krause"],
+    "venue": "J. South Amer. Earth Sci",
+    "year": 2002
+  }, {
+    "title": "Thermal annealing of fission-track in apatite: 1. A quantitative description",
+    "authors": ["P.F. Green", "I.R. Duddy", "A.J.W. Gleadow", "P.R. Tingate", "G.M. Laslett"],
+    "venue": "Chem. Geol",
+    "year": 1986
+  }, {
+    "title": "The three-dimensional thermo-mechanical signature of ridge subduction and slabwindowmigration",
+    "authors": ["W.G. Groome", "D.J. Thorkelson"],
+    "venue": "Tectonophysics",
+    "year": 2009
+  }, {
+    "title": "High-level surfaces, plateau uplift and foreland development, Bolivian",
+    "authors": ["T.L. Gubbels", "B.L. Isacks", "E. Farrar"],
+    "venue": "Central Andes. Geology",
+    "year": 1993
+  }, {
+    "title": "Andean subduction styles and their effect on thermal structure and interplate coupling",
+    "authors": ["M.A. Gutscher"],
+    "venue": "J. South Amer. Earth",
+    "year": 2002
+  }, {
+    "title": "Geodynamics of flat subduction: seismicity and tomographic constraints from the Andean",
+    "authors": ["M.A. Gutscher", "W. Spakman", "H. Bijwaard", "E.R. Engdahl"],
+    "venue": "margin. Tectonics",
+    "year": 2000
+  }, {
+    "title": "Link between ridge subduction and gold mineralization in southern",
+    "authors": ["P.J. Haeussler", "D. Bradley", "R. Goldfarb", "L. Snee", "C. Taylor"],
+    "venue": "Alaska. Geology",
+    "year": 1995
+  }, {
+    "title": "Relative importance of trenchward upper plate motion and fricition along the plate interface for the topographic evolution of subductionrelated mountain belts",
+    "authors": ["A. Hampel", "A. Pfiffner"],
+    "venue": "Special Publication,",
+    "year": 2006
+  }, {
+    "title": "Heat flow map of South America",
+    "authors": ["V.M. Hamza", "M. Muñoz"],
+    "venue": "Geothermics",
+    "year": 1996
+  }, {
+    "title": "Numerical and functional representation of regional heat flow in South America",
+    "authors": ["V.M. Hamza", "F.J.S. Silva Dias", "A.J.L. Gomes", "Z.G. Delgadilho Terceros"],
+    "venue": "Phys. Earth Planet",
+    "year": 2005
+  }, {
+    "title": "Late Pliocene age for the Atacama Desert: implications for the desertification of western",
+    "authors": ["A.J. Hartley", "G. Chong"],
+    "venue": "South America. Geology",
+    "year": 2002
+  }, {
+    "title": "Cenozoic stratigraphic development in the north Chilean forearc: implications for basin development and uplift history of the Central Andean margin. Tectonophysics. doi:10.1016/j.tecto.2009.05.013",
+    "authors": ["A.J. Hartley", "L. Evenstar"],
+    "year": 2009
+  }, {
+    "title": "Tectonic implications of Late Cenozoic sedimentation from the Coastal Cordillera of northern Chile (22–24°S)",
+    "authors": ["A.J. Hartley", "E.J. Jolley"],
+    "venue": "J. Geol. Soc. London",
+    "year": 1995
+  }, {
+    "title": "Tectonic controls on the development of a semi-arid, alluvial basin as reflected in the stratigraphy of the Puriclactis Group (Upper Cretaceous–Eocene), northern Chile",
+    "authors": ["A. Hartley", "S. Flint", "P. Turner", "E.J. Jolley"],
+    "venue": "J. South Amer. Earth Sci",
+    "year": 1992
+  }, {
+    "title": "Development of a continental forearc: a Cenozoic example from the Central Andes, northern",
+    "authors": ["A.J. Hartley", "G. May", "G. Chong", "P. Turner", "S.J. Kape", "E.J. Jolley"],
+    "venue": "Chile. Geology",
+    "year": 2000
+  }, {
+    "title": "150 million years of climatic stability: evidence from the Atacama Desert, northern Chile",
+    "authors": ["A. Hartley", "G. Chong", "J. Houston", "A.E. Mather"],
+    "venue": "J. Geol. Soc. London",
+    "year": 2005
+  }, {
+    "title": "Central and southern Andean tectonic evolution inferred from arc magmatism",
+    "authors": ["M. Haschke", "A. Günther", "D. Melnick", "H. Echtler", "Reutter", "K.-J", "E. Scheuber", "O. Oncken"],
+    "venue": "The Andes Active Subduction Orogeny,",
+    "year": 2006
+  }, {
+    "title": "Global scale palaeoclimate reconstruction of the middle Pliocene climate using the UKMO GCM: initial results",
+    "authors": ["A.M. Haywood", "P.J. Valdes", "B.J. Sellwood"],
+    "venue": "Glob. Planet. Change",
+    "year": 2000
+  }, {
+    "title": "Terrestrial heat flow above the Andean subduction zone in Bolivia and Peru",
+    "authors": ["S.G. Henry", "H.N. Pollack"],
+    "venue": "J. Geophys. Res",
+    "year": 1988
+  }, {
+    "title": "Geocronología y evolución del batolito Vicuña Mackena",
+    "authors": ["M. Hervé", "N. Marinovic"],
+    "venue": "Cordillera de la Costa, Sur de Antofagasta (24–25°S). Rev. Geol. Chile",
+    "year": 1989
+  }, {
+    "title": "Geochronologia K–Ar de",
+    "authors": ["J. Juez-Larré"],
+    "venue": "Tectonophysics",
+    "year": 2010
+  }, {
+    "title": "Regional geochemistry of Tertiary igneous rocks",
+    "authors": ["P. Rep. BGR 117.613). Hollings", "D. Cooke"],
+    "year": 2005
+  }, {
+    "title": "A user's guide to fission track dating",
+    "authors": ["Climatol"],
+    "year": 1982
+  }, {
+    "title": "The zeta age calibration of fission track dating. Isot",
+    "authors": ["Planet. Sci. Lett"],
+    "year": 1983
+  }, {
+    "title": "Uplift of the Central Andean Plateau and bending of the Bolivian",
+    "authors": ["Geosci"],
+    "year": 1988
+  }, {
+    "title": "Cenozoic formation of the central Andes: a geophysical",
+    "authors": ["I.S. Sacks"],
+    "venue": "Orocline. J. Geophys. Res",
+    "year": 1999
+  }, {
+    "title": "Central Andean ore deposits linked to evolving shallow",
+    "authors": ["S.M. Kay", "C. Mpodozis"],
+    "year": 2001
+  }, {
+    "title": "subduction systems and thickening crust",
+    "authors": ["S.M", "C. Mpodozis", "B. Coira"],
+    "venue": "GSA Today",
+    "year": 1999
+  }, {
+    "title": "Episodic arc migration, crustal thickening",
+    "authors": ["S.M. Kay", "E. Godoy", "A. Kurtz"],
+    "venue": "Deposits of the Central Andes: Soc. Econ. Geol. Spec. Publ.,",
+    "year": 2005
+  }, {
+    "title": "The Cretaceous/Tertiary boundary event",
+    "authors": ["A. Aleman", "W. Hale-Erlichet"],
+    "year": 1997
+  }, {
+    "title": "Forward and inverse modeling of low-temperature thermo",
+    "authors": ["Micropaleontol"],
+    "year": 2005
+  }, {
+    "title": "Variability of apatite fission-track",
+    "authors": ["R.A. Ketcham", "R.A. Donelick", "W.D. Carlson"],
+    "venue": "Mineralogical Society of America,",
+    "year": 1999
+  }, {
+    "title": "fission-track annealing in apatite",
+    "authors": ["F. Kober", "S. Ivy-Ochs", "F. Schlunegger", "H. Baur", "P.W. Kubik", "R. Wieler"],
+    "venue": "Am. Mineral",
+    "year": 2007
+  }, {
+    "title": "Subduction erosion — the ‘normal’ mode of fore-arc",
+    "authors": ["N. pp. Kukowski", "O. Oncken"],
+    "year": 2006
+  }, {
+    "title": "Cenozoic climate change as a possible cause for the rise",
+    "authors": ["S. chap. 10. Lamb", "P. Davis"],
+    "year": 2003
+  }, {
+    "title": "Cenozoic evolution of the Central Andes",
+    "authors": ["S. Lamb", "L. Hoke", "L. Kennan", "J. Dewey"],
+    "venue": "Andes. Nature",
+    "year": 1997
+  }, {
+    "title": "Thermal annealing",
+    "authors": ["G.M. Laslett", "P.F. Green", "I.R. Duddy", "A.J.W. Gleadow"],
+    "venue": "anomalies and its implications. Bull. Geol. Soc. Am",
+    "year": 1987
+  }, {
+    "title": "Fission track thermochronology of the Domeyko Cordillera, northern Chile: implications for Andean tectonics and porphyry copper metallogenesis",
+    "authors": ["V. Maksaev", "M. Zentilli"],
+    "venue": "Can. Inst. Min. Metall. Petrol",
+    "year": 1999
+  }, {
+    "title": "Geochemical variations in igneous rocks of the CentralAndeanorocline (13°S to18°S): tracingcrustal thickeningandmagmageneration through time and space",
+    "authors": ["M. Mamani", "G. Wörner", "T. Sempere"],
+    "venue": "GSA Bull",
+    "year": 2010
+  }, {
+    "title": "Lithospheric evolution of the Andean fold-thrust belt, Bolivia, and the origin of the Central Andean plateau",
+    "authors": ["N. McQuarrie", "B.K. Horton", "G. Zandt", "S. Beck", "P.G. DeCelles"],
+    "venue": "Tectonophysics 399,",
+    "year": 2005
+  }, {
+    "title": "Landform evolution in the coastal region of Tarapacá Province Chile, Chile",
+    "authors": ["C. Mortimer", "N. Saric"],
+    "venue": "Rev. Géom. Dyn",
+    "year": 1972
+  }, {
+    "title": "Cenozoic studies in northernmost Chile",
+    "authors": ["C. Mortimer", "N. Saric"],
+    "venue": "Geol. Rundsch",
+    "year": 1975
+  }, {
+    "title": "Late Mesozoic to Paleogene stratigraphy of the Salar de Atacama Basin, Antofagasta, northern Chile: implications for the tectonic evolution of the Central Andes",
+    "authors": ["C. Mpodozis", "C. Arriagada", "M. Basso", "P. Roperch", "P. Cobbold", "M. Reich"],
+    "venue": "Tectonophysics 399,",
+    "year": 2005
+  }, {
+    "title": "Reconstruction vanished ocean basins, paper presented at the European Geophysical Union Annual Meeting, Viena",
+    "authors": ["RD Müller", "C Gaina", "M Sdrolias", "C Heine"],
+    "year": 2005
+  }, {
+    "title": "Lightweight, portable digital probe for measuring the thermal gradient in lake bottom sediments with examples from Patagonia",
+    "authors": ["R.E. Murdie", "D.T. Pugh", "P.A. Styles"],
+    "venue": "Geo-Mar. Lett",
+    "year": 1999
+  }, {
+    "title": "Ancient orogens and modern analogues",
+    "authors": ["J.B. Murphy", "J.D. Keppie", "A.J. Hynes"],
+    "venue": "Geol. Soc. London",
+    "year": 2009
+  }, {
+    "title": "The Miocene metallogenic belt of central and northern Peru",
+    "authors": ["D.C. Noble", "E.H. McKee"],
+    "venue": "Geology and Ore Deposits of the Central Andes 7, Society of Economic Geologists Special Publication,",
+    "year": 1999
+  }, {
+    "title": "On the neotectonics of the Atacama fault zone region. Preliminary notes on late Cenozoic faulting and geomorphic development of the Coast Range of northern Chile: University of Tokyo Depart",
+    "authors": ["A. Okada"],
+    "venue": "Geogr. Bull",
+    "year": 1971
+  }, {
+    "title": "Deformation of the Central Andean upper plate system facts, fiction, and constraints for plateau models",
+    "authors": ["O. Oncken", "D. Hindle", "J. Kley", "K. Elger", "P. Victor", "K. Schemmann"],
+    "venue": "In The Andes Active Subduction Orogeny,",
+    "year": 2006
+  }, {
+    "title": "Giant versus porphyry copper deposits of Cenozoic age in northern Chile: adiakitic versus normal calc-alkaline magmatism",
+    "authors": ["R. Oyarzun", "A. Márquez", "J. Lillo", "I. López", "S. Rivera"],
+    "venue": "Miner. Deposita",
+    "year": 2001
+  }, {
+    "title": "Isotope evidence for the origin of Andean granites",
+    "authors": ["R.J. Pankhurst", "M.J. Hole", "M. Brook"],
+    "venue": "Transactions of the Royal Society of Edinburgh: Earth Sci",
+    "year": 1988
+  }, {
+    "title": "Ages and cooling history of the Early Cretaceous Caleu pluton: testimony of switch from a rifted to a compressional continental margin in central Chile",
+    "authors": ["M. Parada", "G. Féraud", "F. Fuentes", "L. Aguirre", "D. Morata", "P. Larrondo"],
+    "venue": "J. Geol. Soc. London",
+    "year": 2005
+  }, {
+    "title": "Relative motion of the Nazca (Farallon) and South American Plates since late Cretaceous",
+    "authors": ["F. Pardo-Casas", "P. Molnar"],
+    "venue": "time. Tectonics",
+    "year": 1987
+  }, {
+    "title": "Sur l'évolution geomorphologique du grand escarpement côtier du désert Chilien",
+    "authors": ["R. Paskoff"],
+    "venue": "Geogr. Phys. Quat",
+    "year": 1978
+  }, {
+    "title": "Late Cenozoic crustal movements and sea-level variations in the coastal area of northern Chile",
+    "authors": ["R. Paskoff"],
+    "venue": "Earth Rheology. : Isostasy and Eustasy. Wiley,",
+    "year": 1980
+  }, {
+    "title": "Geological framework of Andean mineral resources",
+    "authors": ["U. Petersen"],
+    "venue": "Earth Science Series,",
+    "year": 1990
+  }, {
+    "title": "Early Jurassic to early Cretaceous magmatism in the Coastal Cordillera and the Central Depression of North Chile",
+    "authors": ["S. Pichowiak"],
+    "venue": "Tectonics of the Southern Central Andes. Springer-Verlag,",
+    "year": 1994
+  }, {
+    "title": "Discussion on “giant versus small porphyry copper deposits of Cenozoic age in northern Chile: adakitic normal calc-alkaline magmastim",
+    "authors": ["O.M. Rabbia", "L.B. Hernández", "R.W. King", "L. López-Escobar"],
+    "venue": "by Oyarzun et al., (Mineralium Deposita",
+    "year": 2002
+  }, {
+    "title": "Southern Patagonian plateau basalts and deformation: backarc testimony of ridge collision",
+    "authors": ["V.A. Ramos", "S.M. Kay"],
+    "venue": "Tectonophysics",
+    "year": 1992
+  }, {
+    "title": "Dehydratation melting of metabasalt at 8–32 kbar: implications for continental growth and crust–mantle recycling",
+    "authors": ["R.P. Rapp", "E.B. Watson"],
+    "venue": "J. Petrol",
+    "year": 1995
+  }, {
+    "title": "U–Th)/He thermochronometry",
+    "authors": ["P.W. Reiners"],
+    "venue": "Interpretations and Applications. : Rev. Mineral, Geochem,",
+    "year": 2005
+  }, {
+    "title": "He diffusion and (U–Th)/He thermochronometry of zircon: initial results from Fish canyon",
+    "authors": ["P.W. Reiners", "K.A. Farley", "H.J. Hickes"],
+    "venue": "Tuff and Gold Butte. Tectonophysics",
+    "year": 2002
+  }, {
+    "title": "Zircon (U–Th)/He thermochronometry: He diffusion and comparison",
+    "authors": ["P.W. Reiners", "T.L. Spell", "S. Nicolescu", "K.A. Zanetti"],
+    "year": 2004
+  }, {
+    "title": "A geomorphological approach to determining the Neogene to recent tectonic deformation in the Coastal Cordillera of northern Chile (Atacama)",
+    "authors": ["R. Riquelme", "J. Martinod", "G. Hérail", "J. Darrozes", "R. Charrier"],
+    "year": 2003
+  }, {
+    "title": "Counterlockwise rotation of late Eocene–Oligocene fore-arc deposits in southern Peru and its significance for oroclinal bendino in the central Andes",
+    "authors": ["P. Roperch", "T. Sempere", "O. Macedo", "C. Arriagada", "M. Fornari", "C. Tapia", "M. García", "C. Laj"],
+    "venue": "Tectonics 25,",
+    "year": 2006
+  }, {
+    "title": "Subduction of the Nazca Ridge and the Inca Plateau: insights into the formation of ore deposits in Peru",
+    "authors": ["G. Rosenbaum", "D. Giles", "M. Saxon", "P.G. Betts", "R.F. Weinberg", "C. Duboz"],
+    "venue": "Earth Plan Sci",
+    "year": 2005
+  }, {
+    "title": "Andean orogeny and ocean floor spreading",
+    "authors": ["R.W.R. Rutland"],
+    "venue": "Nature",
+    "year": 1971
+  }, {
+    "title": "Late Neogene lacustrine record and palaeogeography in the Quillagua–Llamara basin, Central Andean fore-arc (northern Chile)",
+    "authors": ["A. Sáez", "L. Cabrera", "A. Jensen", "G. Chong"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 1999
+  }, {
+    "title": "High paleogeothermal gradient with ridge subduction beneath the Cretaceous Shimanto accretionary prism, southwest Japan",
+    "authors": ["A. Sakaguchi"],
+    "venue": "Geology 24",
+    "year": 1996
+  }, {
+    "title": "An integrated tectono magmatic model for the evolution of the southern Peruvian Andes (13–20oS) since 55 Ma",
+    "authors": ["H.A. Sandeman", "A.H. Clark", "E. Farrar"],
+    "venue": "Int. Geol. Rev",
+    "year": 1995
+  }, {
+    "title": "Evolution and diversity of subduction zones controlled by slab",
+    "authors": ["W.P. Schellart", "J. Freeman", "D.R. Stegman", "L. Moresi", "D. May"],
+    "venue": "width. Nature",
+    "year": 2007
+  }, {
+    "title": "The kinematic and geodynamic significance of the Atacama Fault Zone, northern Chile",
+    "authors": ["E. Scheuber", "P.A.M. Andriessen"],
+    "venue": "J. Struct. Geol",
+    "year": 1990
+  }, {
+    "title": "Tectonics of the Jurassic–Early Cretaceous magmatic arc of the north Chilean Coastal Cordillera (22°–26°S): a story of crustal deformation along a convergent plate",
+    "authors": ["E. Scheuber", "G. González"],
+    "venue": "boundary. Tectonics",
+    "year": 1999
+  }, {
+    "title": "Magmatic arc tectonics in the Central Andes between 21° and 25°S",
+    "authors": ["E. Scheuber", "Reutter", "K.-J"],
+    "venue": "Tectonophysics",
+    "year": 1992
+  }, {
+    "title": "Exhumation and basin development related to formation of the Central Andean Plateau, 21°S",
+    "authors": ["E. Scheuber", "D. Mertmann", "H. Ege", "P. Silva-González", "C. Heubeck", "K.J. Reutter", "V. Jacobshagen"],
+    "venue": "The Andes Active Subduction Orogeny,",
+    "year": 2006
+  }, {
+    "title": "Uplift of the western margin of the Andean plateau revealed from Canyon incision",
+    "authors": ["T.F. Schildgen", "K.X. Whipple", "K.V. Hodges", "P.W. Reiners", "M.S. Pringle"],
+    "venue": "history, southern Peru. Geology",
+    "year": 2007
+  }, {
+    "title": "A balanced model of the southern",
+    "authors": ["M. Schmitz"],
+    "venue": "Central Andes. Tectonics",
+    "year": 1994
+  }, {
+    "title": "The crustal structure beneath the Central Andean forearc and magmatic arc as derived from seismic studies — the PISCO 94 experiment in northern Chile (21°–23°S)",
+    "authors": ["M. Schmitz", "K. Lessel", "P. Giese", "P. Wigger", "M. Araneda", "J. Bribach", "F. Graeber", "S. Grunewald", "C. Haberland", "S. Lüth", "P. Röwer", "T. Ryberg", "A. Schulze"],
+    "venue": "J. South Amer. Earth Sci",
+    "year": 1999
+  }, {
+    "title": "Controls on back-arc basin formation",
+    "authors": ["M. Sdrolias", "R.D. Müller"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2006
+  }, {
+    "title": "Late Oligocene–Early Miocene major tectonic crisis and related basins in Bolivia",
+    "authors": ["T. Sempere", "G. Hérail", "J. Oller", "M.G. Bonhomme"],
+    "venue": "Geology",
+    "year": 1990
+  }, {
+    "title": "Estratigrafia, geocronología, paleogeografía y paleotectónica de los depósitos de antearco del sur del Peru, paper presented at XII",
+    "authors": ["M Sempere", "M Fornari", "J Acosta", "A Flores", "J Jacay", "D Peña", "P Roperch", "E Taipe"],
+    "venue": "Congreso Peruano de Geología, Soc. Geol. del Peru,",
+    "year": 2004
+  }, {
+    "title": "A plate tectonic model for the origin of porphyry copper deposits",
+    "authors": ["R.H. Sillitoe"],
+    "venue": "Econ. Geol",
+    "year": 1972
+  }, {
+    "title": "Tectonic segmentation of the Andes: implications for magmatism and metallogeny",
+    "authors": ["R.H. Sillitoe"],
+    "venue": "Nature",
+    "year": 1974
+  }, {
+    "title": "Epochs of intrusion-related copper mineralization in the Andes",
+    "authors": ["R.H. Sillitoe"],
+    "venue": "J. South Amer. Earth Sci",
+    "year": 1988
+  }, {
+    "title": "Major gold deposits and belts of the North and South American Cordillera: distribution, tectonomagmatic settings, and metallogenic considerations",
+    "authors": ["R.H. Sillitoe"],
+    "venue": "Econ. Geol",
+    "year": 2008
+  }, {
+    "title": "Coupling of South American and African Plate motion and plate deformation",
+    "authors": ["P.G. Silver", "R.M. Russo", "C. Lithgow-Bertelloni"],
+    "venue": "Science",
+    "year": 1998
+  }, {
+    "title": "What drives orogeny in the Andes? Geology",
+    "authors": ["S.V. Sobolev", "A.Y. Babeyko"],
+    "year": 2005
+  }, {
+    "title": "Mechanism of the Andean orogeny: Insight from the numerical modelling",
+    "authors": ["S.V. Sobolev", "A.Y. Babeyko", "I. Koulakov", "O. Oncken", "T. Vietor"],
+    "venue": "The Andes—Active Subduction Orogeny. : Frontiers in Earth Sciences,",
+    "year": 2006
+  }, {
+    "title": "Relation of magmatic activity to plate dynamics in central Peru from Late Cretaceous to present",
+    "authors": ["P. Soler", "M.G. Bonhomme"],
+    "venue": "Geol. Soc. Am. Spec. Paper,",
+    "year": 1990
+  }, {
+    "title": "Evidence for the subduction and underplating of an oceanic plateau beneath the south Peruvian margin during the late Cretaceous: structural implications",
+    "authors": ["P. Soler", "G. Carlier", "R. Marocco"],
+    "venue": "Tectonophysics",
+    "year": 1989
+  }, {
+    "title": "Updated Nazca (Farallon)–South America relative motions during the last 40 My: implications for mountain building in the central Andean region",
+    "authors": ["R. Somoza"],
+    "venue": "J. South Amer. Earth Sci",
+    "year": 1998
+  }, {
+    "title": "Paleomagnetism in the Precordillera of northern Chile (22°30′S): implications for the history of tectonic rotations in the Central Andes",
+    "authors": ["R. Somoza", "A. Tomlinson"],
+    "venue": "Earth Planet. Sci",
+    "year": 2002
+  }, {
+    "title": "Tectonic response of the central Chilean margin (35–38°S) to the collision and subduction of heterogeneous oceanic crust: a thermochronological study",
+    "authors": ["R. Spikings", "M. Dungan", "J. Foeken", "A. Carter", "L. Page", "F. Stuart"],
+    "venue": "J. Geol. Soc. Lond",
+    "year": 2008
+  }, {
+    "title": "Interpretation of heat-flow density in the Central Andes",
+    "authors": ["M. Springer"],
+    "venue": "Tectonophysics",
+    "year": 1999
+  }, {
+    "title": "Heat flow density across the Central Andean subduction",
+    "authors": ["M. Springer", "A. Förster"],
+    "venue": "zone. Tectonophysics",
+    "year": 1998
+  }, {
+    "title": "Nd Isotope evidence for the evolution of the paleocurrent in the Atlantic and Tethys Oceans during the past 180 Ma",
+    "authors": ["P. Stille", "M. Steinmann", "S.R. Riggs"],
+    "venue": "Earth Planet. Sci",
+    "year": 1996
+  }, {
+    "title": "Variation of F and Cl X-ray intensity due to anisotropic diffusion in apatite during electron microprobe analysis",
+    "authors": ["J.C. Stormer", "M.L. Pierson", "R.C. Tacker"],
+    "venue": "Am. Mineral",
+    "year": 1993
+  }, {
+    "title": "The influence of eroding topography on steadystate isotherms. Application to fission-track analyses",
+    "authors": ["K. Stüwe", "L. White", "R. Brown"],
+    "venue": "Earth Planet. Sci",
+    "year": 1994
+  }, {
+    "title": "Three-dimensional density model of the Nazca plate and the Andean continental margin",
+    "authors": ["A. Tassara", "H.J. Götze", "S. Schmidt", "R. Hackney"],
+    "venue": "J. Geophys. Res. 111,",
+    "year": 2006
+  }, {
+    "title": "Mesozoic fault systems, deformation and fault block rotation in the Andean forearc: a crustal scale strikeslip duplex in the Coastal Cordillera of northern Chile",
+    "authors": ["G.K. Taylor", "J. Grocott", "A. Pope", "D.E. Randall"],
+    "venue": "Tectonophysics 299,",
+    "year": 1998
+  }, {
+    "title": "The time– space distribution of Cenozoic volcanism in the South-Central Andes: a new data compilation and some tectonic implications",
+    "authors": ["R.B. Trumbull", "U. Riller", "O. Oncken", "E. Scheuber", "K. Munier", "F. Hongn"],
+    "venue": "The Andes Active Subduction Orogeny,",
+    "year": 2006
+  }, {
+    "title": "A thermo-mechanical model of horizontal subduction below an overriding plate",
+    "authors": ["J. van Hunen", "A.P. van den Berg", "N.J. Vlaar"],
+    "venue": "Earth Planet Sci",
+    "year": 2000
+  }, {
+    "title": "On the role of subducting oceanic plateaus in the development of shallow flat subduction",
+    "authors": ["J. van Hunen", "A.P. van den Berg", "N.J. Vlaar"],
+    "venue": "Tectonophysics",
+    "year": 2002
+  }, {
+    "title": "Various mechanisms to induce present-day shallow flat subduction and implications for the younger Earth: a numerical parameter study",
+    "authors": ["J. van Hunen", "A.P. van den Berg", "N.J. Vlaar"],
+    "venue": "Phys. Earth Planet",
+    "year": 2004
+  }, {
+    "title": "Observations at convergent margins concerning sediments subduction, subduction erosion, and the growth of continental crust",
+    "authors": ["R.E. von Huene", "D.W. Scholl"],
+    "venue": "Rev. Geophys",
+    "year": 1991
+  }, {
+    "title": "Focused subaerial erosion during ridge subduction: impact on the geomorphology in south-central Peru",
+    "authors": ["M. Wipf", "G. Zeilinger", "D. Seward", "F. Schlunegger"],
+    "venue": "Terra Nova",
+    "year": 2008
+  }, {
+    "title": "A sensitivity analysis of the apatite (U–Th)/He thermochronometer",
+    "authors": ["R. Wolf", "K. Farley", "D. Kass"],
+    "venue": "Chem. Geol",
+    "year": 1998
+  }, {
+    "title": "Magnetic anomaly interpretation across the southern Central Andes (32–34°S): the role of the Juan Fernandez Ridge in the late Tertiary evolution of the margin",
+    "authors": ["G.A. Yañez", "C.R. Ranero", "R. von Huene", "J. Diaz"],
+    "venue": "J. Geophys. Res",
+    "year": 2001
+  }, {
+    "title": "Geochemical evidence for the melting of subducting oceanic lithosphere at plate",
+    "authors": ["G.M. Yogodzinski", "J.M. Lees", "T.G. Churikova", "F. Dorendorf", "G. Wörner", "O.N. Volynets"],
+    "venue": "edges. Nature",
+    "year": 2001
+  }, {
+    "title": "Mineralogy and geochemistry of fluor-apatite from Cerro de Mercado, Durango, Mexico",
+    "authors": ["E.J. Young", "A.T. Meyers", "E.L. Munson", "N.M. Conklin"],
+    "venue": "U.S.G.S. Prof. Pap.,",
+    "year": 1969
+  }, {
+    "title": "Subduction and collision processes in the Central Andes constrained by converted seismic phases",
+    "authors": ["X. Yuan", "S.V. Sobolev", "R. Kind", "O. Oncken", "G. Bock", "G. Asch", "B. Schurr", "F. Graeber", "A. Rudloff", "W. Hanka", "K. Wylegalla", "R. Tibi", "Haberland", "Ch", "A. Rietbrock", "P. Giese", "P. Wigger", "P. Röwer", "G. Zandt", "S. Beck", "T. Wallace", "M. Pardo", "D. Comte"],
+    "venue": "Nature 408,",
+    "year": 2000
+  }, {
+    "title": "Trends, rhythms and aberrations in global climate 65",
+    "authors": ["J.C. Zachos", "M. Pagani", "L. Sloan", "E. Thomas", "K. Billups"],
+    "venue": "Ma to present. Science",
+    "year": 2001
+  }, {
+    "title": "Global paleogeodynamic reconstructions for the last 160 million years",
+    "authors": ["L.P. Zonenshayn", "L.A. Savostin", "A.P. Sedov"],
+    "venue": "Geotectonics",
+    "year": 1984
+  }],
+  "id": "SP:e6de129a451d633efc00b438ef76cfd443c56dee",
+  "authors": [{
+    "name": "Joaquim Juez-Larré",
+    "affiliations": []
+  }, {
+    "name": "Nina Kukowski",
+    "affiliations": []
+  }, {
+    "name": "Tibor J. Dunai",
+    "affiliations": []
+  }, {
+    "name": "Adrian J. Hartley",
+    "affiliations": []
+  }, {
+    "name": "Paul A.M. Andriessen",
+    "affiliations": []
+  }],
+  "abstractText": "⁎ Corresponding author. TNO (Netherlands Organ Research), Geological Survey of the Netherlands; Advi Economic Affairs, Princetonlaan 6, 3584 CB Utrecht, The 64664. E-mail addresses: joaquim.juezlarre@tno.nl (J. Juez-L nina.kukowski@uni-jena.de (N. Kukowski), tdunai@unia.hartley@abdn.ac.uk (A.J. Hartley), paul.andriessen@fal 1 Tel.: +49 3641 9 48680. 2 Current address: University of Cologne – Centre for A Germany. 3 Tel.: +44 122 427 3712. 4 Tel.: +31 20 598 7340.",
+  "title": "Thermal and exhumation history of the Coastal Cordillera arc of northern Chile revealed by thermochronological dating"
+}

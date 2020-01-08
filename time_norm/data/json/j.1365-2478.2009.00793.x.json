@@ -1,0 +1,293 @@
+{
+  "sections": [{
+    "heading": "INTRODUCTIO N",
+    "text": "The recent advances achieved by the Gravity Recovery and Climate Experiment (GRACE) satellite gravity mission allows a global study of the gravity and geoid field over geologically interesting features due to greatly improved accuracy and spatial resolution (e.g., Tapley et al. 2004; Förste et al. 2008). The necessary condition is though that the geological features have a sufficiently great extension that the satellite derived field can be useful. Cratonic or intracratonic basins, or in general the basins termed as ‘large-scale basins’ are a perfect example of\n∗E-mail: berg@units.it\ngeological structures that can be studied on a global basis with the GRACE field, as their size is of 0.5 × 106 km2 and greater. The satellite field is globally available and therefore no restrictions exist on the geographical position of the basins. Previously a global mapping of the gravity field was hampered by the availability of only limited gravity data, in some cases of restricted use and existing only over parts of the basins due to the non-accessibility of remote areas.\nThe formation of a sedimentary basin can be modelled with success where the acting forces are clearly identified, as e.g., rift basins, foreland basins, basins explainable by simple shear models or related to strike slip faulting. Large-scale basins form a separate class of basins that are less well understood\nC© 2009 European Association of Geoscientists & Engineers 559\nand show different characteristics and are often called cratonic or intracratonic basins (e.g., Sleep, Nunn and Chou 1980; Leighton and Kolata 1990; Allen and Allen 2005). This terminology reflects that their evolution is not clearly related to rifting or in general extension but that they are of a large-scale.\nOur study of the gravity field over large-scale basins concentrates on one basin in the North American continent, four basins in the South American continent, three basins of Eurasia and one basin in the African plate (Table 1). The present study presents the starting point of what in the future shall constitute a complete review of large-scale basins and will contribute to the understanding of their mechanisms of origin and evolution.\nThe analysis of the satellite data is done for the gravity anomalies, Bouguer anomalies, geoid undulations and terrain corrected geoid undulations, which all enhance different aspects of the basins and the underlying lithosphere. We therefore map these four fields for the selection of large-scale basins and complete the description with information on basin dimension, duration and age of sedimentation and the crustal thickness."
+  }, {
+    "heading": "THE G RAVITY POTENTIAL F IELD",
+    "text": "Gravity and geoid field data are available at a spatial resolution of 0.5◦ × 0.5◦ using the recent GRACE satellite data\nintegrated with terrestrial gravity measurements. We have adopted the solution of the GFZ Potsdam with coefficients of the spherical harmonic expansion up to degree and order 360 (EIGEN-GL04C; Förste et al. 2008). For the Barents Sea we use a compilation of satellite altimetry and ship-borne gravity data (AGP gravity field; Arctic Gravity Project 2002: Arctic Gravity Project – Data Set Information. http://earthinfo.nga.mil/GandG/wgs84/agp/readme.html)\nThe gravity anomaly is the sum of the gravitational effect of the mass-anomalies underlying the observation point, including topography. The gravity anomaly has values that are comparable to those of the Airy isostatic anomaly, due to the fact that the corrections for topography and for the Airy isostatic root almost cancel each other out. In order to obtain the Airy isostatic anomaly, the Bouguer anomaly is corrected for the gravity effect of the Airy root, leading to a value that is very close to the gravity anomaly, which has neither been corrected for topography, nor for the isostatic root. It follows that the analysis of the gravity anomaly allows to interpret the state of local isostatic compensation. A positive gravity anomaly indicates under-compensation, a negative isostatic anomaly corresponds to over-compensation and zero isostatic anomaly indicates isostatic equilibrium. When considering a sedimentary basin, the basin itself constitutes a load deficit, due to the fact that the density is reduced with respect to the normal crust. A gravity anomaly near to zero thus implies\nC© 2009 European Association of Geoscientists & Engineers, Geophysical Prospecting, 57, 559–571\nthat at some depth the load deficit is compensated by a density increase with respect to the reference crust. Possible compensation mechanisms are a crustal thinning or density increase in the crust and/or upper mantle.\nThe Bouguer anomaly mainly represents crustal sources and in younger crustal areas is a blueprint for crustal thickness variations. In the case of cratonic areas the depth of the base of the crust often shows little variation and thus the Bouguer anomaly reflects density variations in the crust or upper mantle.\nDue to the different distance dependency of the gravity potential, the geoid undulations average the anomalies over a greater area and are representative generally of deeper lying structures with respect to the gravity field. The terrain corrected geoid is the analogue to the Bouguer gravity field and has been reduced from the effect of topographic masses. We define the geoid residual as the geoid variation freed from the 10 lowest harmonics. This guarantees to eliminate those components that presumably are of a deep mantle origin (wavelength greater than 2000 km), without affecting the smaller wavelengths that could be related to the basins. The results will not substantially change if a degree and order different from 10 would be used. If the lower order harmonics are not eliminated, the features correlated to the basins are masked by the high amplitude very long-wavelength components.\nTo obtain the Bouguer anomaly and the terrain corrected residual geoid we must reduce the combined satellite and terrestrial gravity data set for the topographic masses and calculate a topographic correction. The used digital elevation model is the 1-km grid GLOBE (Global Land One-km Base Elevation) released by the National Geophysical Data Center (NGDC) in Boulder, CO. We use the complete digital elevation model for the near field reduction and have computed a coarse grid (0.1◦ resolution) for the far field reduction., which are used in the inner (<10 km) and outer zones (10 to 167 km), respectively. Calculations are computed for a spherical earth, by using the approximation with prisms, following the procedure proposed by Forsberg (1984) and Tscherning, Forsberg and Knudsen (1992). The calculation height for the fields is chosen to be above the highest topography in the area."
+  }, {
+    "heading": "LARGE-SCALE BAS INS – GENERAL FEATURES",
+    "text": "Table 1 shows the selected basins for our study and summarizes their age, areal extension, basin depth and presence of volcanic activity. The location of the different basins is shown in Fig. 1.\nC© 2009 European Association of Geoscientists & Engineers, Geophysical Prospecting, 57, 559–571\nThe Michigan basin is often regarded as a prototype largescale basin and has been relatively well studied (e.g., Watts 2001). For the other basins in South America (Amazon, the Paranà and the Parnaiba basin), Africa (Congo basin) and in the vicinity of the eastern Barents Sea (West Siberian basin and Tarim basin) less information is available and published. The basins show a large variation in their characteristics: e.g., areal extent of the basins ranges from 3.2 × 106 km2 to 0.4 × 106 km2 and the basin depths range from 20 km (Barents Sea) to only 3.5 km (Parnaiba basin). A common observation is volcanic activity at some stage of the basin formation. Only for the Congo basin no volcanic activity is recorded but here information is by far the poorest and the lack of documented volcanic activity could reflect the insufficient information. Volcanic activity is, however, not the primary cause of basin formation, as the timing of onset of the volcanic activity can be intermediate to the sedimentation history of the basin.\nC H A R A C T E R I S T I C S OF T H E G R A V I T Y AND G EOID FIELDS FOR THE S ELECTED L A R G E - S C A L E BA S I N S\nIn the following we discuss the gravity and geoid fields of the basins in detail. For each basin we discuss the gravity anomaly, the Bouguer anomaly, the geoid and the terrain corrected geoid and consider also the size (area and depth) and time extent of sedimentation.\nFor the first basin discussed, East Barents Sea, all four fields are presented in one single graph. For the remaining basins we discuss the fields for each basin separately but group the gravity anomaly, the Bouguer anomaly, the geoid and the terrain corrected geoid together for two basins having common features. This grouping allows a better comparison of the properties of analogous fields, in preference to grouping the four fields for each basin separately. The Amazon-Solimões basin is graphed separately due to its relatively large horizontal extension."
+  }, {
+    "heading": "Eastern Barents basins",
+    "text": "The Eastern Barents Sea basins have a characteristic basin thickness of up to 20 km and an areal extension of 0.4 × 106 km2, including the Northern and Southern Eastern Barents Sea basins. In some studies the Eastern Barents Sea is regarded as a single mega-scale basin. The gravity anomaly field of the Eastern Barents Sea is between −5 and −25 mGal; the Bouguer anomaly associated with anomalies of −10 to +10 mGal (Fig. 2). Towards the Western Barents Sea a slight\nincrease in the gravity values is visible. This correlates with the Moho, which is in a depth of around 38 km below the Southern Eastern Barents Sea basin and around 35 km in the northern part and varying from 30–35 km below the Mesozoic rift basins in the Western Barents Sea (Ritzmann et al. 2007). The crustal thickness is not isostatically compensating the low-density sediments, which would require crustal thinning but on the contrary thickens in correlation with the basin thickness. Towards the east of the Eastern Barents Sea basins, the Moho depth deepens below the island of Novaya Zemlya, which also represents the boundary to the Kara Sea.\nThe geoid shows a slight minimum that correlates with the basin, with a low of −2 m with respect to the surrounding area. The terrain corrected geoid shows very little variation over the basin and a large westward increase of the field.\nResults from subsidence modelling point to a start of the rifting history in the South Barents Basin in the Early Ordovician period (O’Leary et al. 2004), followed by Later Devonian and Permo-Triassic rifting. Thick Mesozoic sedimentary rocks were deposited throughout the entire Eastern Barents Sea and the total thickness of the sedimentary succession in the Barents Sea basins possibly exceeds 20 km. Artyushkov (2005) relates the very large subsidence and sediment accumulation to highdensity material below the Moho as a primary cause. Such high-density material has been found by both isostatic gravity (Ebbing, Braitenberg and Wienecke 2007) and seismological studies (Levshin et al. 2007)."
+  }, {
+    "heading": "West Siberian basin",
+    "text": "The West Siberian basin is one of the largest intracratonic basins of the world, with an areal extent of approximately 3.2 × 106 km2. The basement of the West Siberian basin consists in Baikalian (Late Precambrian), Caledonian (CambrianSilurian) and Variscan (Silurian-Permian) fold systems and is limited in the north by a graben system (Pur-Taz region and Kara Sea). Late Permian evolution is associated with the Siberian flood basalts, which appear to cover the entire basin and intrusives (Vyssotski, Vyssotski and Nezhdanov 2006). The age of the flood basalts is about 250 Ma, with an extrusion time of less than 1 Ma (Reichow et al. 2005). The volcanic eruption was followed by basin-wide subsidence, subsiding the basalts down to 6400 m depth. In comparison, the flood basalts on the East Siberian platform are exposed (e.g., Vyssotski et al. 2006), pointing to different buoyancy between the West Siberian basin and the East Siberian platform. Crustal thickness varies between 36 and 42 km, with a thickness of 40 km in the central part, flanked by lower values\nC© 2009 European Association of Geoscientists & Engineers, Geophysical Prospecting, 57, 559–571\n(38 km) but there is no correlation to the thickness of the sedimentary deposits.\nThe gravity anomaly over the central area of the West Siberian basin is between −5 and −25 mGal (Fig. 3a). Three linear highs clearly emerge in the central part of the basin and are probably associated with structures in the Paleozoic basement (Vyssotski et al. 2006). In particular, we may tentatively interpret the linear positive anomalies with the graben structures proposed by Allen et al. (2006), which are the Khudottey (west), the Koltogor Urengoy (central) and the Khudosey (east) graben. The basin is bounded by positive gravity anomalies: the Urals (+60 mGal), the Kazakh highlands to the south (20 mGal) and the East Siberian platform to the east. The Bouguer field (Fig. 3a) has very similar features to the gravity anomaly in the West Siberian basin: the basin has generally negative anomalies, oscillating around −15 mGal. The Urals and the three positive linear features noticed in the gravity anomalies remain (for further details see Braitenberg\nand Ebbing 2009). There is however, a general decrease of the anomalies towards the SE, leading to the Kazkh high-planes and the Altai ranges. The decrease is surely due to crustal thickening in isostatic response to the increase in topography. The Urals do not show the decrease in Bouguer gravity, which is evidence that the crustal thickness does not respond isostatically to the Ural range. Considering the geoid residual (Fig. 3a), the basin lies in a concentric geoid low. The central part of the basin has a general decrease in the geoid height, with higher values surrounding the basin, e.g., the Urals show a broad geoid high. The terrain corrected geoid (Fig. 3a) is interesting as it repeats the northern positive linear features observed in the gravity field, indicating that these are major features affecting not only the basement but probably also the lower crust. The deepest part of the basin is associated with a geoid minimum. The northern extension of the basin towards the Kara Sea is defined by a definite geoid decrease, dividing this part of the basin from the remainder.\nC© 2009 European Association of Geoscientists & Engineers, Geophysical Prospecting, 57, 559–571"
+  }, {
+    "heading": "Michigan basin",
+    "text": "The Michigan basin has been extensively analysed and modelled in the past (e.g., Sleep and Snell 1976; Nunn 1994). The sediments range in age from Middle Ordovician (462 Ma) to Jurassic (136 Ma) (Nunn 1994). The basin has a circular geometry with a diameter of about 700 km and a depth of up to 4 km. The basin is supposed to be underlain by a volcanic sequence of 8 km thickness, filling an about 70 km wide rift basin (Zhu and Brown 1986). The gravity anomaly for the Michigan basin has a central high flanked by lows (Fig. 3b). The negative gravity values reach a value of about −25 mGal. The central gravity high is persistent in the gravity anomaly and in the Bouguer anomaly. The geoid residual (Fig. 3b) is dominated by long-wavelength features and does not show evident correlations with the position of the Michigan basin."
+  }, {
+    "heading": "Tarim basin",
+    "text": "The Tarim basin lies in northwest China and is surrounded by the Kunlun, Tien Shan and Altyntagh mountains to the south, north and south-east, respectively (Fig. 4a). The Tarim basin extends over an area of near to 0.8 × 106 km2, (Lithospheric\nDynamic Atlas 1989). The Precambrian to Phanerozoic strata locally exceed 15 km in thickness (Yuzhu and Zhihong 1996; Jia et al. 1998; Guo et al. 2005). The basin is underlain by a 45 km deep Moho (data base of the Chinese Academy of Sciences, Institute of Geodesy and Geophysics), which deepens towards the northern, eastern and southern margins of the basin. The Tarim basin is separated to the south from the Kunlun fold belt by the Kunlun mountain frontal suture and the Altyn Tagh deep fault; to the north it is separated from the Tien Shan fold belt and the Turpan-Hami basin by the southern Tien Shan suture and the northern Kurugtagh fault. The basin has a long geologic history, spanning from the Proterozoic to the Quaternary. The Cenozoic basin evolution is influenced by uplift and erosion of the surrounding mountains (Sobel, Hilley and Strecker 2003). The Carboniferous to Permian sequence of the Tarim is believed to be mostly complete and comparable with that of the Urals-Russian platform and central Asia basins (Chen and Shi 2003). The basin comprises an east-west central uplift zone (Bachu uplift) that divides the basin into two depressions during the Carboniferous and Permian. The Permian sedimentary section includes a volcanic unit that comprises basalt, tuffaceous silty mudstone with a thickness of more than 300 m. The basalt layer has been found\nC© 2009 European Association of Geoscientists & Engineers, Geophysical Prospecting, 57, 559–571\nin large areas of the basin in boreholes at a variable depth of 3000 to over 5000 m. The age of the unit has been inferred to be Wordian-Capitanian (Mid-upper Permian) (Chen and Shi 2003).\nThe gravity anomaly (Fig. 4a) of the Tarim basin is in general very negative, between −100 and −180 mGal. The western Tarim basin has a linear gravity high, which may be connected to uplift in the basement (Bachu uplift: Sobel et al. 2003). The negative basin-anomalies form a negative-positive couple with surrounding high mountain ranges, which comprise the Tian Shan (north) and the Kun Lun (south). The positive negative couple, which aligns the steep topographic change, is typical for a topography related to flexure (Braitenberg et al. 2003). The strong negative anomalies over the basin show that it is not in isostatic equilibrium according to Airy-type isostasy, as otherwise the gravity anomaly would have to be near to zero. The Bouguer anomaly (Fig. 4a) is also strongly negative, varying between −100 and −200 mGal, with a sedimentary contribution to the gravity field in the order of −100 mGal (Braitenberg et al. 2003). Here, the Bachu uplift is clearly seen in the Bouguer field. The geoid residual field (Fig. 4a) is between −10 and −20 m and correlates with the basin extension. The geoid excursion between the basin and the surrounding high elevation areas is large and amounts to well over 30 m. The terrain corrected geoid residual (Fig. 4b) shows a relative geoid high throughout the basin with respect to the surrounding high topography areas but\nhas very low absolute values (near to −30 m). The surrounding areas of high topographic relief have very low terrain corrected geoid residual values that reach values of −90 m (e.g., towards Tibet plateau, located to the south of the basin)."
+  }, {
+    "heading": "Congo basin",
+    "text": "The Congo basin, also termed Zaire or Cuvette Zaire (Daly et al. 1991, 1992) (Fig. 4b) is located within the Congo craton in Central Africa. The Congo basin is aligned with other cratonic basins on the African continent (Taoudeni, Chad, Iulmedden basins) along a line roughly parallel to the Atlantic margin but many hundreds of kilometres inboard of it. The Congo basin is nearly circular in shape with a diameter of about 1500 km and an area of about 1.8 × 106 km2. The basin itself is filled with up to 9 km of intra-Cambrian to recent sediments.\nThe Congo basin features a very evident, nearly circular gravity anomaly and geoid residual low. The geoid low is well evident also in the terrain corrected geoid residual, with a decrease in values of over 10 m with respect to the surrounding areas. A regional study of the gravity field over Africa (Hartley, Watts and Fairhead 1996) showed that the Congo basin corresponds to a pronounced isostatic gravity anomaly that persists also at wavelengths greater than 750 km. The large wavelengths point to a mantle source being partly responsible for the anomaly, as the lithosphere at very long\nC© 2009 European Association of Geoscientists & Engineers, Geophysical Prospecting, 57, 559–571\nwavelengths responds to loads approximating the local isostatic model."
+  }, {
+    "heading": "Solimões and Amazon basin",
+    "text": "The Solimões basin is separated from the Amazon basin to the east by an arch termed the Purus Arch. The Solimões basin and the Amazon basin together extend over a length of 2500 km and width of 500 km, with the sediments reaching a thickness of up to 5 km (Milani and Thomaz Filho 2000). The Solimões basin covers an area of more than 0.6 × 106 km2 with a maximum thickness of 4 km and its sedimentary record is constituted by Ordovician, Silurian-Devonian and Devonian-Carboniferous sequences. From Carboniferous onwards the sediments overlay the barrier formed by the Purus Arch and successively the Amazon and Solimões basins became united to a single basin. A regional unconformity separates the Paleozoic record from the younger strata, consisting in the Cretaceous and Cenozoic sequences. During the Late Triassic to Early Jurassic the Paleozoic deposits have been intruded by the Penatecaua magmatics with large volumes of diabase sills and dykes (170–230 Ma) (Milani and Thomaz Filho 2000).\nThe Amazon basin covers an area of about 0.5 × 106 km2 and has a thickness of up to 5 km. To the east, the basin is limited by a Mesozoic rift shoulder (Gurupá Arch), to the west by the Purus Arch. The stratigraphy reveals the alternation of four episodes of relatively high accumulation rates (Ordovician-Early Devonian, Devonian-Early Carboniferous, Middle Carboniferous-Permian and Cretaceous to Cenozoic) succeeded by periods of low sedimentary accumulation rates (Milani and Thomaz Filho 2000). An east-west trending extension allowed the intrusion of magmatic bodies during Late Triassic and Early Jurassic times (Penatecaua magmatics).\nIn the gravity field a low can be observed over the Solimões and Amazon (Fig. 5) with a distinct positive linear feature along the central part of the Amazon basin. The eastern limit of the basin is formed by the Gurupà Arch that emerges as a linear positive gravity feature. The western limit of the basin, formed by the Iquitos Arch, emerges as an additional gravity high (+30 mGal). The Bouguer anomaly map (Fig. 5) also shows a chain of gravity highs of +40 mGal to +90 mGal that runs along the basin roughly coincident with the maximum thickness of sedimentary rocks. The gravity highs are flanked by gravity lows of −40 ± 20 mGal. The general lowering of the gravity field in correspondence of the basin is not visible in\nC© 2009 European Association of Geoscientists & Engineers, Geophysical Prospecting, 57, 559–571\nthe Bouguer gravity field, pointing to a crustal thinning or in a densification of crust or upper mantle. The regional residual geoid (Fig. 5) shows a general geoid low, centred near to 3 degrees southward to the Amazon basin. The residual geoid and terrain corrected geoid residual show distinct signals for the Solimões and Amazon basins, respectively: the Amazon basin has a geoid high, the eastern part of the Solimões basin has a well-defined geoid low and the western part of the Solimões basin, towards the Iquita Arch lies again in a geoid high. This points out to differences in the crustal or lithospheric structure underlying this broad basin. The terrain corrected geoid (Fig. 5) resembles the features already observed in the gravity anomaly and in the Bouguer anomaly."
+  }, {
+    "heading": "Paranà Basin",
+    "text": "The Paranà basin is located in southeastern Brazil and extends into Uruguay, Argentina and Paraguay (Fig. 6a). This large intracratonic basin covers an area of about 1.2 × 106 km2 and is bordered by the cratonic areas of Amazonia, Sao Francisco and Rio della Plata and in the east by the Atlantic continental margin. To the south the basin borders with the ChacoParanà basin, this last one covering an area of close to 0.5 × 106 km2. The Paranà basin is filled with sedimentary and volcanic rocks that range in age from End-Ordovician to\nCretaceous with a maximum thickness about 5.5 km (Milani and Ramos 1998). Basin development started in the early Paleozoic and the initial Ordovician subsidence is dated to 440 Ma. It could have been initiated by a first magmatic pulse that deposited a basalt layer dated 443 ± 10 Ma and documented by a deep borehole (Milani 2004). Another important subsidence stage occurred in Carboniferous-Permian times (starting about 296 Ma). Extensive flood basalts were extruded in most of the basin from 137 Ma to 130 Ma, just prior to the beginning of the rifting in the South Atlantic. The basalt layers (Serra Geral formation and Gondwana III supersequence) reach a maximum thickness of around 1.5 km near the basin centre. Average crustal thickness in the Paranà basin was estimated to be approximately 42 km, thicker than for the topographic elevated areas of the Brasilia belt and Sao Francisco Craton (Assumpção, James and Snoke 2002).\nThe Paranà basin is outlined by a gravity anomaly low (Fig. 6a) of more than −30 mGal, flanked by a gravity high (up to +30 mGal) (Molina et al. 1988). Along the central part of the basin a relative N-S trending gravity high is found that separates the basin into two sub-areas. In the Bouguer anomaly (Fig. 6a) a broad low is found to the NE of the basin in correspondence of the fold-belt bordering the San Francisco craton. The basin is outlined by a definite Bouguer gravity low with values between −60 and −90 mGal. For the Bouguer\nC© 2009 European Association of Geoscientists & Engineers, Geophysical Prospecting, 57, 559–571\nanomaly a linear relative gravity high along the central part of the basin, in correspondence with the maximum thickness of the sediments is found. The basin is bordered to the SE by an increase of the gravity anomaly and the Bouguer gravity, corresponding to the dykes of the Ponta Grossa Arch. Also along the entire western margin and southwards towards the Chaco-Paranà basin a Bouguer gravity increase is found. The basin is well outlined also by the geoid residual undulations (Fig. 6a), which show a relative decrease of 10 m from the basin margins to centre. The terrain-reduced geoid residual (Fig. 6a) also features an increase of values along the central axis of the basin, in correlation with an increased Bouguer anomaly. The fact that the increase in values is found both in gravity and the geoid points to a deep source of the signal.\nThe gravity variations across the basin are not due to crustal thickness variations, as the Moho is flat and relatively deep. The gravity field must be related to density variations in the upper mantle or lower crust. The recent work of An and Assumpção (2006) on the S-wave velocity below the basin (average velocities lower than 3.8 km/s and normal Vp/Vs ratios around 1.73) exclude the presence of a high-density lower crust, pointing to high-density material in the upper, lithospheric mantle that correlates with an increase of seismic velocity as observed from Rayleigh wave studies at a depth of 100–150 km (Feng, Assumpção and Van Der Lee 2004). From this we must conclude that the increased density needed to compensate the basin is located below the Moho."
+  }, {
+    "heading": "Parnaı́ba basin",
+    "text": "The Parnaı́ba basin (Fig. 6b) occupies an area of near to 0.6 × 106 km2 and is a circular sag with a total sedimentary section of near to 3500 m thickness in its depocenter (Almeida et al. 1981; Milani and Thomaz Filho 2000; Almeida, De Brito Neves and Dal Rè Carneiro 2000). The Ferrer-Urbano Santos Arch, a positive flexural feature related to the Mesozoic opening of the equatorial Atlantic Ocean, defines the northern limit of the Parnaı́ba basin. Within the crystalline basement the presence of Late Proterozoic/Early Cambrian NS-trending grabens have been found (Milani and Thomaz Filho 2000) and have been interpreted as the rift sequence that initiated the Parnaı́ba basin. The Transbrasiliano fault zone cuts the eastern/southern portion The stratigraphic framework contains three major Paleozoic and two Mesozoic supersequences. The beginning of the Pennsylvanian sedimentation changes the geometry from a graben-controlled elongated to a circular configuration followed by the Carboniferous-Triassic supersequence. Two main magmatic pulses took place during the\nMesozoic, with intrusive emplacements and volcanic flows, the former being preferentially found in the Devonian supersequence. The first magmatic cycle, from the Triassic-Jurassic, is correlated to the Penatecuaua magmatism of the Solimões and Amazon basin and is related to the rifting of the central Atlantic. The second pulse is dated to the early Cretaceous and is related to the rifting of the South Atlantic. Between the magmatic pulses there is Jurassic sedimentation, followed by the Cretaceous supersequence.\nThe gravity anomaly (Fig. 6b) over the Parnaiba basin is a well-developed low (−10 to −45 mGal), with higher values in the centre of the basin. The gravity anomaly forms a concentric pattern, with less negative values in the centre (lowest values along a concentric ring) and intermediate negative values inboard of the basin margin. This could be an indication of the flexural response of the crustal thickness variation, which in the centre of the basin is closest to the locally compensated isostatic equilibrium. The Bouguer anomaly (Fig. 6b) is nearly uniform in the basin with a value of near to −50 mGal and is characterized by an increase (to −25 mGal) along the border of the basin. The southernmost part of the basin forms an exception to this picture and has more negative Bouguer anomaly values near to −80 mGal. The northern border marked by the Ferrer-Urbano Santos Arch is delineated by a relative gravity high of −25 mGal. The geoid field residual (Fig. 6b) as well as the terrain corrected geoid residual (Fig. 6b) do not show evident features correlated to the basin. Only along the eastern border of the basin the geoid shows a broad increase, located on the eastern geographical protuberance of the South American continent.\nDISCUSS ION AND C OMPARISON OF THE G RAVITY AND G EOID FIELDS\nThe gravity anomaly field for the nine studied basins is generally more subdued than −45 mGal, in particular between −5 and −25 mGal for the East Barents, the West Siberian, the Michigan and the Paranà basin and slightly larger values for the Amazon-Solimões and the Parnaiba basins. This points to the fact that all these basins are near to isostatic equilibrium, as the surplus and deficit of masses along the crustal column cancel, leading to small value of the gravity anomaly. The Tarim and the Congo basins in contrast have a very significant negative gravity anomaly and here differences in the crustal column and maybe also in the upper mantle densities must be assumed. Notably, for these two areas, clear indications for regional uplift are given due to the surrounding mountain building and dynamic topography, respectively.\nC© 2009 European Association of Geoscientists & Engineers, Geophysical Prospecting, 57, 559–571\nThe Bouguer values are slightly negative or even positive (greater than −40 mGal) for all basins, except, again, Congo and Tarim basins. If we consider the presence of at least 3.5 km thick sediments, their contribution to the gravity field is at least 45 mGal (300 kg/m3 density contrast, Bouguer plate approximation). The sediment corrected Bouguer field is thus greater or equal to zero. The crustal thickness is in all cases greater than a normal crustal thickness of 35 km, therefore contributes by a further negative signal of roughly 15 mGal for every 1000 m depth below the normal reference crust. This means that a crust of 40 km thickness contributes to an estimated −73 mGal to the gravity field (assuming a normal density contrast at the Moho of 350 kg/m3 and the Bouguer plate approximation). From this calculation follows that in all the considered basins (except Tarim and Congo basin), a positive mass-anomaly either in the crust or upper mantle is necessary to explain the observed fields.\nThe fact that crustal thinning is absent below the basins, although isostatic equilibrium is achieved, is a typical feature of our large-scale basins. Detailed models have been formulated for the Barents Sea, Paranà, Michigan and Amazon basins (e.g., Nunn and Aires 1988; Haxby, Turcotte and Bird 1976; Ebbing et al. 2007), which show that dense material in the lower crust or upper mantle must contribute to the isostatic equilibrium and counterbalance the fact that the crustal base is flat and in greater depth (up to more than 40 km) than normal continental crust (35 km). We can conclude that the same holds also for the Parnaiba and the West Siberian basin. Among the studied basins, only the Tarim and Congo basins have a definite deviation from isostatic equilibrium, with negative gravity anomaly values and definite geoid residual values correlated with the basins but here, as already mentioned above, regional uplift is observed.\nModels that predict basin formation and imply the presence of the increased density below the basin include a pulse of crustal heating, producing phase changes and subsequent crustal loading (e.g., Haxby et al. 1976; Nunn and Sleep 1984). In all basins we have studied, except the Tarim and Congo basin, such models would be in good agreement with our findings. Taken into account the regional uplift of Tarim and Congo basins, it might be expected that also here a positive density domain can be found in the lower crust or upper mantle, if a common mechanism is underlying the large-scale basin formation. However, an alternative explanation is that the large-scale basins do not represent a homogeneous class of basins and that different mechanism must be found. A clear answer to this question requires more detailed insights into\nthe structure of the studied basins and the interplay between basin formation and regional tectonic mechanisms.\nFor three of the basins (West Siberia, Amazon, Michigan), the data show the presence of linear gravity highs, which can be traced for hundreds of km. In these three basins this feature has been seen from terrestrial data (e.g., Zhu and Brown 1986; Vyssotski et al. 2006) and interpreted as extinct rifts seated below the basins. For the Amazon basin this feature can now be traced over its entire extension, previously not possible, due to lack of measurements in inaccessible areas.\nThe geoid field we find for the Michigan basin is analogous to what we find for the Barents and Parnaiba basins, in that it does not correlate well with the outline of the basin but rather that the basins are located on a generalized slope of this field. The geoid residual and the terrain corrected geoid residual for the remaining basins opens several questions, as the field is spatially correlated with the basins but shows either a relative lowering (Paranà, Tarim, Congo, Solimões) or a relative increase (West Siberian Basin, Amazon, Solimões towards Iquitos Arch). It is interesting that two (Amazon, West Siberian basin) of the three (Amazon, West Siberian, Michigan) basins with linear gravity highs attributed to rifts do reveal also a relative terrain corrected geoid high. This could be due to the fact that the Michigan and East Barents Sea basins are of much reduced areal dimensions compared to the other two."
+  }, {
+    "heading": "CONCLUSIONS",
+    "text": "In this paper we have mapped the gravity anomaly and geoid fields, as well as the terrain corrected counterparts over nine large-scale basins. The gravity field is derived from the GRACE-satellite integrated with terrestrial measurements (Förste et al. 2008). We have characterized the basins in terms of their gravity signals, demonstrating that the satellite-data reveal distinctive features of the basins, as extinct rifts underlying the basins. The benefit of using the GRACE-derived data is global availability at a relatively good resolution (50 km half-wavelength). In poorly accessible areas the GRACEderived field can be used in combination with terrestrial higher-resolution data to identify extensive anomalies and interpret them in terms of the basement and crustal structure.\nApplied to our selection of large-scale basins, the analysis of the satellite data allows us to characterize the basins in terms of isostatic compensation and lithospheric structure. For almost all basins, evidence for high-density material in the lower crust and/or upper mantle is given. This density anomaly is, at least partly, compensating for the low-density sedimentary infill instead of the crustal thinning mechanism. For the basins,\nC© 2009 European Association of Geoscientists & Engineers, Geophysical Prospecting, 57, 559–571\nwhere no clear evidence of a high-density layer is found, the analysis is complicated due to insufficient data and regional tectonics. But all basins have in common that variations in crustal thickness and Moho topography cannot be considered as the main mechanism of compensation of the sedimentary loading. This is a clear difference to rift or extensional basins. The next step to increase our understanding of large-scale basins is to combine our results with mantle tomography to understand a possible coupling between structures in the crust and lithospheric mantle."
+  }, {
+    "heading": "ACKNOWLEDGEME N T S",
+    "text": "We thank Laura Marello for her assistance in the initial stages of the project and Ildikò Nagy for her assistance in the bibliographic search and retrieval of documents. Hans Morten Bjørnseth and Christine Fichler from Statoil initiated our study and supplied us with information on the studied areas. We appreciate the assistance and help of all these persons and especially Statoil for funding the study. We acknowledge the use of the GMT-mapping software of Wessel and Smith (1998). We further thank two anonymous reviewers and Naomi Ussami from University of São Paulo, Brazil, for a critical review of the manuscript."
+  }],
+  "year": 2009,
+  "references": [{
+    "title": "Oblique rift geometry of the West Siberian Basin: Tectonic setting for the Siberian flood basalts",
+    "authors": ["M.B. Allen", "L. Anderson", "R.C. Searle", "M. Buslov"],
+    "venue": "Journal of the Geological Society 163, 901– 904.",
+    "year": 2006
+  }, {
+    "title": "Basin Analysis: Principles and Applications, 2nd edn",
+    "authors": ["P.A. Allen", "J.R. Allen"],
+    "venue": "Blackwell Publishing. ISBN 9780632052073.",
+    "year": 2005
+  }, {
+    "title": "The origin and evolution of the South American platform",
+    "authors": ["F.F.M. Almeida", "B.B. De Brito Neves", "C. Dal Rè Carneiro"],
+    "venue": "Earth Science Reviews 50, 77–111.",
+    "year": 2000
+  }, {
+    "title": "Brazilian structural provinces: an introduction",
+    "authors": ["F.F.M. Almeida", "Y. Hasui", "B.B. De Brito Neves", "R.A. Fuck"],
+    "venue": "Earth Science Reviews 17, 1–29.",
+    "year": 1981
+  }, {
+    "title": "Crustal and upper mantle structure in the intracratonic Paranà basin, SE Brazil, from surface wave dispersion using genetic algorithms",
+    "authors": ["M. An", "M. Assumpção"],
+    "venue": "Journal of South American Earth Sciences 21, 173–184.",
+    "year": 2006
+  }, {
+    "title": "The formation mechanism of the Barents basin",
+    "authors": ["E.V. Artyushkov"],
+    "venue": "Russian Geology and Geophysics 46, 700– 713.",
+    "year": 2005
+  }, {
+    "title": "Crustal thickness in SE Brazilian shield by receiver function analysis: Implications for isostatic compensation",
+    "authors": ["M. Assumpção", "D.E. James", "J.A. Snoke"],
+    "venue": "Journal of Geophysical Research 107. doi:10.1029/2001JB000422",
+    "year": 2002
+  }, {
+    "title": "New insights into the basement structure of the West Siberian Basin from forward and inverse modelling of Grace satellite gravity data",
+    "authors": ["C. Braitenberg", "J. Ebbing"],
+    "venue": "Journal of Geophysical Research. doi:10.1029/2008JB005799.",
+    "year": 2009
+  }, {
+    "title": "Late Paleozoic depositional history of the Tarim basin, northwest China: An integration of biostratigraphic and lithostratigraphic constraints",
+    "authors": ["Z.Q. Chen", "G.R. Shi"],
+    "venue": "AAPG Bulletin 87, 1323–1354.",
+    "year": 2003
+  }, {
+    "title": "Lithospheric Dynamic Atlas of China 1989",
+    "authors": ["China Cartographic Publishing House"],
+    "venue": "China Cartographic Publishing House, Beijing.",
+    "year": 1989
+  }, {
+    "title": "Tectonic evolution of the Cuvette Centrale, Zaire",
+    "authors": ["M.C. Daly", "S.R. Lawrence", "K. Diemu-Tshiband", "Matouana B."],
+    "venue": "Journal of the Geological Society 149, 539–546.",
+    "year": 1992
+  }, {
+    "title": "Late Paleozoic deformation in central Africa: Aresult of a distant collision",
+    "authors": ["M.C. Daly", "S.R. Lawrence", "D. Kimuna", "M. Binga"],
+    "venue": "Nature 350,",
+    "year": 1991
+  }, {
+    "title": "Insights into the lithospheric structure and the tectonic setting of the Barents Sea region from isostatic considerations",
+    "authors": ["J. Ebbing", "C. Braitenberg", "S. Wienecke"],
+    "venue": "Geophysical Journal International 171, 1390–1403.",
+    "year": 2007
+  }, {
+    "title": "Group-velocity tomography and lithospheric s-velocity structure of the South American continent",
+    "authors": ["M. Feng", "M. Assumpção", "S. Van Der Lee"],
+    "venue": "Physics of the Earth and Planetary Interiors 147, 315–331. doi:10.1016/j.pepi.2004.07.008",
+    "year": 2004
+  }, {
+    "title": "A study of terrain reductions, density anomalies and geophysical inversion methods in gravity field modelling",
+    "authors": ["R. Forsberg"],
+    "venue": "Reports of the Department of Geodetic Science and Surveying, No. 355, The Ohio State University, Columbus, Ohio.",
+    "year": 1984
+  }, {
+    "title": "The GeoForschungsZentrum Potsdam/Groupe de Recherche de Geodesie Spatiale satellite-only and combined gravity field models: EIGEN-GL04S1 and EIGEN-GL04C",
+    "authors": ["C. Förste", "R. Schmidt", "R. Stubenvoll", "F. Flechtner", "U. Meyer", "R König"],
+    "venue": "Journal of Geodesy 82, 331–346. doi:10.1007/s00190-007-0183-8",
+    "year": 2008
+  }, {
+    "title": "Geochronology and geochemistry of deep-drill-core samples from the basement of the central Tarim basin",
+    "authors": ["Guo Z.-J.", "Yin A.", "Robinson A.", "Jia C.-Z."],
+    "venue": "Journal of Asian Earth Sciences 25, 45–56.",
+    "year": 2005
+  }, {
+    "title": "Interior cratonic basins of Africa: Relation to continental break-up and role of mantle convection",
+    "authors": ["R.W. Hartley", "P.A. Allen"],
+    "venue": "Basin Research 6, 95–113.",
+    "year": 1994
+  }, {
+    "title": "Isostasy of Africa",
+    "authors": ["R.W. Hartley", "A.B. Watts", "J.D. Fairhead"],
+    "venue": "Earth and Planetary Science Letters 137, 1–18.",
+    "year": 1996
+  }, {
+    "title": "Thermal and mechanical evolution of the Michigan basin",
+    "authors": ["W.F. Haxby", "D.L. Turcotte", "J.M. Bird"],
+    "venue": "Tectonophysics 36, 57–75.",
+    "year": 1976
+  }, {
+    "title": "Structural features of northern Tarim basin: Implications for regional tectonics and petroleum traps",
+    "authors": ["D. Jia", "H. Lu", "D. Cai", "S. Wu", "Y. Shi", "C. Chen"],
+    "venue": "AAPG Bulletin 82, 147–159.",
+    "year": 1998
+  }, {
+    "title": "Selected interior cratonic basins and their place in the scheme of global tectonics",
+    "authors": ["M.W. Leighton", "D.R. Kolata"],
+    "venue": "Memoirs of the American Association of Petroleum Geologists 51, 729–797.",
+    "year": 1990
+  }, {
+    "title": "Surface wave tomography of the Barents Sea and surrounding regions",
+    "authors": ["A.L. Levshin", "J. Schweitzer", "C. Weidle", "N.M. Shapiro", "M.H. Ritzwoller"],
+    "venue": "Geophysical Journal International 170, 441– 459. C",
+    "year": 2007
+  }, {
+    "title": "Some remarks on the development of sedimentary basins",
+    "authors": ["D. McKenzie"],
+    "venue": "Earth and Planetary Science Letters 40, 25–32.",
+    "year": 1978
+  }, {
+    "title": "Comentários sobre a origem e a evolução tectônica da bacia so Paraná",
+    "authors": ["E.J. Milani"],
+    "venue": "In: Geologia do continente Sud-Americano: evolução da obra de Fernando Flávio Marques Almeida (eds V. Mantesso-Neto, A. Bartorelli, C. Dal Ré Carneiro and B. Bley de Brito-Neves), pp. 1–673. Beca Produções Culturais, São Paulo,",
+    "year": 2004
+  }, {
+    "title": "Orogenias paleozòicas no domı̀nio sul – ocidental do Gondwana e os ciclos de subsidència da Bacia do Paranà",
+    "authors": ["E.J. Milani", "V.A. Ramos"],
+    "venue": "Revista Brasileira de Geocièncias 28, 474–484.",
+    "year": 1998
+  }, {
+    "title": "Sedimentary basins of South America",
+    "authors": ["E.J. Milani", "A. Thomaz Filho"],
+    "venue": "In: Tectonic Evolution of South America (eds U.G. Cordani, E.J. Milani, A. Thomaz Filho and D.A. Campos), pp. 389– 449. Rio de Janeiro.",
+    "year": 2000
+  }, {
+    "title": "Deep crustal structure under the Paranà basin (Brazil) from gravity study",
+    "authors": ["E.C. Molina", "N. Ussami", "N.C. Sà", "D. Blitzkow", "O.F.M. Fo"],
+    "venue": "In: The Mesozoic Flood Volcanism of the Paranà Basin: Petrogenetic and Geophysical Aspects (eds E.M. Piccirillo and A.J. Melfi), pp. 271–283. IAG University, Sao Paulo.",
+    "year": 1988
+  }, {
+    "title": "Free thermal convection beneath intracratonic basins: Thermal and subsidence effects",
+    "authors": ["J.A. Nunn"],
+    "venue": "Basin Research 6, 115– 130.",
+    "year": 1994
+  }, {
+    "title": "Gravity anomalies and flexure of the lithosphere at the middle Amazon basin, Brazil",
+    "authors": ["J.A. Nunn", "J.R. Aires"],
+    "venue": "Journal of Geophysical Research 93, 415–428.",
+    "year": 1988
+  }, {
+    "title": "Thermal contraction and flexure of intracratonal basins: A three-dimensional study of the Michigan basin",
+    "authors": ["J.A. Nunn", "N.H. Sleep"],
+    "venue": "Geophysical Journal of the Royal Astronomical Society 76, 587–635.",
+    "year": 1984
+  }, {
+    "title": "Evolution of the Timan–Pechora and South Barents Sea basins",
+    "authors": ["N. O’Leary", "N. White", "S. Tull", "V. Bashilov"],
+    "venue": "Geological Magazine",
+    "year": 2004
+  }, {
+    "title": "On recognition of rift structures in the basement of the West Siberian plate",
+    "authors": ["Pavlov Y.A"],
+    "venue": "Geotectonics 29, 213–223.",
+    "year": 1995
+  }, {
+    "title": "Effective elastic thickness of South America and its implications for intracontinental deformation",
+    "authors": ["M. Perez-Gussinye", "A.R. Lowry", "A.B. Watts"],
+    "venue": "Geochemistry, Geophysics, Geosystems 8, Q05009. doi:10.1029/2006GC001511",
+    "year": 2007
+  }, {
+    "title": "Geochemistry and petrogenesis of basalts",
+    "authors": ["M.K. Reichow", "A.D. Saunders", "R.V. White", "A.I. Al’Mukhamedov", "A.Y. Medvedev"],
+    "year": 2005
+  }, {
+    "title": "A three-dimensional geophysical model of the crust in the Barents Sea region: Model construction and basement characterization",
+    "authors": ["O. Ritzmann", "N. Maercklin", "J.I. Faleide", "H. Bungum", "W.D. Mooney", "S.T. Detweiler"],
+    "venue": "Geophysical Journal International 170, 417–435.",
+    "year": 2007
+  }, {
+    "title": "Platform basins",
+    "authors": ["Sleep N.-H", "Nunn J.-A.", "Chou L."],
+    "venue": "Annual Review of Earth and Planetary Sciences 8, 17–34.",
+    "year": 1980
+  }, {
+    "title": "A deep borehole in the Michigan Basin",
+    "authors": ["N.H. Sleep", "L.L. Sloss"],
+    "venue": "Journal of Geophysical Research 83, 5815–5819.",
+    "year": 1978
+  }, {
+    "title": "Thermal contraction and flexure of mid-continent and Atlantic marginal basins",
+    "authors": ["N.H. Sleep", "N.S. Snell"],
+    "venue": "Geophysical Journal of the Royal Astronomical Society 45, 125–154.",
+    "year": 1976
+  }, {
+    "title": "Geometry of sedimentary basins: Applications to the Devonian of North America and Europe",
+    "authors": ["L.L. Sloss", "W. Scherer"],
+    "venue": "Memoirs of the Geological Society of America 142, 71–88.",
+    "year": 1975
+  }, {
+    "title": "Formation of internally drained contractional basins by aridity-limited bedrock incision",
+    "authors": ["E.R. Sobel", "G.E. Hilley", "M.R. Strecker"],
+    "venue": "Journal of Geophysical Research 108, 2344. doi:10.1029/2002JB001883",
+    "year": 2003
+  }, {
+    "title": "GRACE measurements of mass variability in the Earth system",
+    "authors": ["B.D. Tapley", "S. Bettadpur", "J.C. Ries", "P.F. Thompson", "M.M. Watkins"],
+    "venue": "Science 305, 503. doi:10.1126/science.1099192",
+    "year": 2004
+  }, {
+    "title": "The GRAVSOFT package for geoid determination",
+    "authors": ["C.C. Tscherning", "R. Forsberg", "P. Knudsen"],
+    "venue": "Proceedings of the 1st Continental Workshop on the Geoid in Europe, Prague, May 1992, pp. 327– 334.",
+    "year": 1992
+  }, {
+    "title": "Evolution of the West Siberian Basin",
+    "authors": ["A.V. Vyssotski", "V.N. Vyssotski", "A.A. Nezhdanov"],
+    "venue": "Marine and Petroleum Geology 23, 93– 126.",
+    "year": 2006
+  }, {
+    "title": "Isostasy and Flexure of the Lithosphere",
+    "authors": ["A.B. Watts"],
+    "venue": "Cambridge University Press. ISBN 9780521006002.",
+    "year": 2001
+  }, {
+    "title": "New, improved version of generic mapping tools released",
+    "authors": ["P. Wessel", "W.H.F. Smith"],
+    "venue": "Eos Transactions 79, 579.",
+    "year": 1998
+  }, {
+    "title": "Tectonic evolution and oil and gas of Tarim basin",
+    "authors": ["K. Yuzhu", "K. Zhihong"],
+    "venue": "Journal of Southeast Asian Earth Sciences 13, 317– 325.",
+    "year": 1996
+  }, {
+    "title": "Consortium for continental reflection profiling Michigan Surveys: Reprocessing and results",
+    "authors": ["T. Zhu", "L.R. Brown"],
+    "venue": "Journal of Geophysical Research 91, 11477–11495. C",
+    "year": 1986
+  }],
+  "id": "SP:0378666dc3cdde5c8cd5314b4d7c487d95f6ee0f",
+  "authors": [{
+    "name": "Carla Braitenberg",
+    "affiliations": []
+  }, {
+    "name": "Jörg Ebbing",
+    "affiliations": []
+  }],
+  "abstractText": "The recently released gravity potential field development derived from the Gravity Recovery and Climate Experiment satellite allows an unprecedented opportunity to use the gravity field to make global comparisons of structures of geological interest. The spatial resolution of the gravity field is sufficiently good to map large-scale or intracratonic and cratonic basins, as the areal extent of these basins is 0.5 × 106 km2 and greater. We present the gravity anomaly, Bouguer, geoid and terrain corrected geoid fields for a selection of nine large-scale basins and show that the satellite-derived field can be used to successfully identify distinctive structures of these basins, e.g., extinct rifts underlying the basins and generally the isostatic state. The studied basins are the Eastern Barents Sea, West Siberian, Tarim, Congo, Michigan, Amazon, Solimões, Parnaiba and Paranà basins. We complete the mapping of the gravity field with a description of the basins in terms of areal extension and depth, sedimentary age and presence and age of volcanism. Interpretation of the satellite gravity anomalies and considerations regarding the crustal thickness as known from seismic investigations, allows us to conclude that for the greater part of the basins there is evidence for high-density material in the lower crust and/or upper mantle. This density anomaly is, at least partly, compensating for the low-density sedimentary infill instead of the crustal thinning mechanism. For our selection of basins, crustal thickness variations and Moho topography cannot be considered as mechanisms of compensation of the sedimentary loading, which is a clear difference to well-defined rift basins.",
+  "title": "The GRACE-satellite gravity and geoid fields in analysing large-scale, cratonic or intracratonic basins"
+}

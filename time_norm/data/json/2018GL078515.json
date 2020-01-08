@@ -1,0 +1,203 @@
+{
+  "sections": [{
+    "text": "Plain Language Summary Explosive volcanism induces a global surface cooling, but its regional impact on the densely populated Indian Ocean sector is poorly documented. Here we show that the volcanic eruptions induce a subsurface ocean response in autumn of the eruption’s year, reminiscent to that of a negative Indian Ocean Dipole, an intrinsic climate mode in the Indian Ocean equivalent to El Niño in the Pacific. This subsurface response is driven by equatorial westerly anomalies resulting from the stronger surface cooling over the African landmass than over the ocean. The response is sensitive to the Indian Ocean preconditioning, being larger when the system is preconditioned toward a positive Indian Ocean Dipole development."
+  }, {
+    "heading": "1. Introduction",
+    "text": "The densely populated region surrounding the Indian Ocean (IO) is socioeconomically very sensitive to climate variability. As sea surface temperatures (SSTs) in the IO often exceed the 28°C threshold for deep atmospheric convection (e.g., Graham & Barnett, 1987), small SST perturbations can force a significant atmospheric response. This sensitivity promotes active air-sea interactions, which give rise to the Indian Ocean Dipole (IOD; Murtugudde et al., 2000; Reverdin et al., 1986; Saji et al., 1999; Webster et al., 1999), an intrinsic mode of climate variability in the IO equivalent of El Niño/La Niña Southern Oscillation (ENSO) in the Pacific. A negative IOD (nIOD) is characterized by a surface warming and an anomalously deep thermocline off the west coasts of Java and Sumatra and by a cooling and anomalously shallow thermocline anomalies in the west IO, driven by anomalous westerlies over the central equatorial IO. A positive IOD (pIOD) is characterized by opposite anomalies. IOD events usually develop in boreal summer and peak in autumn. El Niño and La Niña events, respectively, favor pIOD and nIOD, but IOD can also occur independently of ENSO (e.g., Annamalai et al., 2003; Yamagata et al., 2004). The IOD has important implications at regional scale on the IO climate and monsoon (e.g., Schott et al., 2009), tropical cyclones (Xie et al., 2002), oceanic primary production (PP) (Currie et al., 2013), and oxygen (Vallivattathillam et al., 2017), and also at global scale by influencing the Madden-Julian Oscillation (e.g., Izumo, Masson, et al., 2010) and ENSO (e.g., Izumo et al., 2014, 2016; Izumo, Vialard, et al., 2010; Jourdain et al., 2016).\nStratospheric tropical volcanic eruptions induce a temporary global radiative cooling that directly impacts the Earth climate by inducing a surface cooling at the global scale (see Robock, 2000, for a review). This cooling is larger on land than on ocean, resulting in an overall rainfall reduction over the tropical landmass (e.g., Iles & Hegerl, 2014; Joseph & Zeng, 2011; Schneider et al., 2009). The upper ocean cooling translates into an\nIZUMO ET AL. 9150\n• The surface signature differs from that of an IOD, with a cooling larger in the northwest than southeast Indian Ocean as a result of the climatological cloud cover distribution\nSupporting Information: • Supporting Information S1\nCorrespondence to: T. Izumo, takeshi.izumo@ird.fr\nCitation: Izumo, T., Khodri, M., Lengaigne, M., & Suresh, I. (2018). A subsurface Indian Ocean Dipole response to tropical volcanic eruptions. Geophysical Research Letters, 45, 9150–9159. https://doi.org/ 10.1029/2018GL078515\nReceived 25 APR 2018 Accepted 16 AUG 2018 Accepted article online 24 AUG 2018 Published online 6 SEP 2018\n©2018. American Geophysical Union. All Rights Reserved.\nOceanic Heat Content (OHC) decrease (e.g., Church et al., 2005; Gleckler et al., 2006; Mignot et al., 2011; Stenchikov et al., 2009). The climatological cloud cover and oceanic mixed layer depth (MLD) distributions, however, induce a spatially inhomogeneous ocean cooling: for example, a clear sky and a thin MLD induce a larger cooling (McGregor & Timmermann, 2011; Ohba, 2013). Such land/sea thermal contrast and inhomogeneous ocean cooling also result in specific regional climate responses. Notably, Khodri et al. (2017, hereafter K17) demonstrated using dedicated sensitivity experiments that the larger cooling over tropical Africa than over the ocean forces westerlies over the western Pacific, hence favoring an El Niño the year following the eruption.\nWhile the Pacific response to tropical volcanic eruptions has been extensively documented (see K17, and the references therein), there is to date no study focusing on thedetailed responseof the IO to these eruptions. The present study aims to fill this gap by analyzing the Pinatubo-forced sensitivity experiments designed in K17 as well as simulations from the Coupled Model Intercomparison Project phase 5 (CMIP5; Taylor et al., 2012)."
+  }, {
+    "heading": "2. Models, Experimental Strategy, and Methods",
+    "text": ""
+  }, {
+    "heading": "2.1. The IPSL-CM5B LR Model and the Experimental Strategy",
+    "text": "In this study, we use the same set of simulations as in K17 performed with the IPSL-CM5B-LR climate model (cf. supplementary information—hereafter SI, its section S2, for details on the modeling setup). This model couples the LMDZ5B (Hourdin et al., 2013) atmospheric and NEMO3.2 (Madec, 2015) oceanic components and captures the main observed IOD characteristics (Jourdain et al., 2016; Figure S3).\nWe focus on the Pinatubo eruption (15 June 1991), as it is the strongest and best observed tropical stratospheric eruption during the instrumental period. The main set of coupled (CPL hereafter) simulations consists of a pair of three year-long ensemble experiments of 30 members each with (PTUBO) and without (CTL) a Pinatubo-like forcing. These simulations are initialized on 1 June of a selected year from the historical simulation (with neutral ENSO conditions in the absence of volcanic forcing, avoiding any interference with external ENSO forcing).\nThe CPL response to volcanic forcing is assessed by performing the difference between PTUBO and CTL experiments (CPL = PTUBO CTL), internal climate variability being reduced by the ensemble average. Significance and confidence intervals are computed from usual two-tailed Student t tests, each member being an independent degree of freedom.\nWe also analyze the following dedicated atmospheric experiments performed with the atmospheric component of the IPSL-CM5B model (K17). They are forced by the coupled model outputs to assess the dominant mechanisms driving the IO response.\n1. ATM experiments assess the direct effect of volcanic radiative forcing on clouds and atmospheric vapor content (Soden et al., 2002). 2. OCEAN experiments assess the indirect effects of volcanic forcing on the atmospheric response through the SST inhomogeneous cooling. 3. LAND experiments quantify the effect of the stronger cooling over land than over the ocean. An additional sensitivity experiment finally isolates the specific role of the cooling over African landmass (LAND-Africa).\nFinally, the relevance of the two-tier approach is assessed using an experiment including all these three processes (ALL).\n2.2. Linear Continuously Stratified and Slab Ocean Models\nThe equatorial IO dynamical response to wind stress anomalies resulting from each sensitivity experiment is then estimated by forcing a Linear Continuously Stratified (LCS; McCreary, 1980) ocean model of the IndoPacific region (Izumo et al., 2016; Izumo et al., 2018 configuration; cf. SI). This LCS realistically simulates sea surface height (SSH) variations in the Indo-Pacific region (Izumo et al., 2018, 2016; Suresh et al., 2016, 2013), despite being linear and simple.\nA simple slab ocean mixed layer equation using a spatially varying monthly climatological MLD is also used, to simulate the SST thermodynamical response to the eruption-induced shortwave (SW) flux anomalies (see SI), following the approach of McGregor and Timmermann (2011).\nIZUMO ET AL. 9151"
+  }, {
+    "heading": "2.3. CMIP5 Simulations",
+    "text": "The robustness of the response from our single model experiments is further assessed by analyzing historical simulations from the CMIP5 multimodel data set over the 1861–2005 period (supporting information Table S1). As reported in many previous studies (e.g., Jourdain et al., 2016), CMIP5 simulations, in general, accurately capture the IOD seasonality and pattern but overestimate its amplitude. Their response to tropical volcanism is estimated here by compositing the five largest historical tropical eruptions, keeping in mind that these eruptions exhibit different amplitudes and seasonal evolutions (cf. Figure S1).\nWe use the classical Dipole Mode Index (DMI, the SST difference between 50–70°E, 10°N–10°S west and 90– 110°E, 0–10°S east poles; Saji et al., 1999) to identify IOD events, as well as the SSH averaged over the DMI eastern pole box, the SSH being an accurate proxy for OHC and thermocline depth variations (Rebert et al., 1985)."
+  }, {
+    "heading": "3. Results",
+    "text": "Figures 1a and 1c display the surface and ocean subsurface ensemble mean CPL response to the Pinatubo eruption. As expected, there is an overall cooling over the IO region, stronger over land than at the ocean surface. The SST cooling is larger over the northwest than over the southeast IO, leading to a northwestsoutheast anomalous SST gradient (Figure 1a), which translates into a dipolar pattern in terms of relative SST (i.e., SST minus its 20°N–20°S tropical mean; cf. SI, Held & Soden, 2006; K17; Vecchi & Soden, 2007) and precipitation (Figure S2). The equatorial IO is also characterized by significant westerly/northwesterly anomalies, larger in the eastern IO. The SSH and related subsurface oceanic response (Figure 1c) is typical of a nIOD (cf. Figure S3; Currie et al., 2013; Murtugudde et al., 2000), with a downwelling signal along the\nIZUMO ET AL. 9152\ncoast of Java and Sumatra and the Bay of Bengal rim and an upwelling signal in the central and western IO maximum off the equator.\nThe LCS experiment forced by CPL ensemble wind stress (Figure 1d) accurately captures the major SSH signature simulated by the coupled model (Figure 1c), demonstrating that linear ocean dynamics explains most of the coupled model response. There is, however, a positive SSH offset over the entire IO, because the LCS physics cannot simulate in essence the SSH decrease related to the overall upper ocean cooling driven by volcanically induced surface heat flux anomalies (e.g., Church et al., 2005; Gleckler et al., 2006; Stenchikov et al., 2009). The volcanically induced wind stress anomalies easily explain the SSH dipolar pattern: equatorial westerlies indeed induce downwelling equatorial Kelvin waves deepening the thermocline in the eastern IO and westward propagating equatorial Rossby waves shallowing the thermocline in the central and western IO.\nAs the IO subsurface response to volcanic forcing is qualitatively similar to that of a nIOD (hereafter nIOD) but different at the surface, we will term this response as a volcanic subsurface nIOD. This ensemble mean response is about one third to a half of the typical SSH amplitudes during a typical IOD simulated by the IPSL model (Figure S3). It is significant at the 99% level for the DMI east pole SSH. The SST pattern is different from that of a typical IOD (Figure S3), although it projects onto DMI poles (Figures 1a and S2a), leading to a significant negative DMI anomaly of 0.4°C. The subsurface ocean response is largely wind driven (Figures 1c and 1d). We hence analyze the dedicated sensitivity atmospheric experiments described in section 2 to understand the mechanisms responsible for the anomalous equatorial westerlies and related SSH response. The similar wind patterns depicted in CPL and ALL experiments confirm the relevance of this two-tier approach (Figures 1a and 1b). Despite a 30% overestimation of the CPL response at its peak, the temporal evolution of equatorial zonal wind stress (Figure 2a) and SSH (Figure 2c) anomalies in ALL experiment is also not statistically distinguishable from the CPL one as a result of the large inter-member spread. LAND process explains most of the equatorial westerly anomalies and related east IO downwelling (Figures 2b and 2d). OCEAN process also modestly contributes to these westerly and eastern IO downwelling anomalies at the end of summer. Finally, ATM influence is negligible and will not be further discussed. Figure 2e shows the corresponding surface temperature and wind stress patterns in autumn for the LAND experiment. As expected from Figure 2b, LAND experiment exhibits equatorial westerlies similar to those in ALL and CPL experiments in the equatorial region (Figure 1). LAND also displays additional strong northeasterly winds in the Arabian Sea, consistent with the expected thermal wind response to the Arabic peninsula cooling (e.g., Samson et al., 2016).\nApplying the LAND cooling only over tropical Africa (LAND-Africa) results in an equatorial zonal wind (Figures 2b and 2f) and SSH (Figure 2d) evolution similar to the one depicted for LAND, implying that these equatorial westerlies are mainly driven by the African land cooling (K17). These westerly anomalies are, however, shifted northward in this LAND-Africa experiment, most likely because of the absence of the Asian land cooling and related winter monsoon-like circulation anomalies in the eastern Arabian Sea and Bay of Bengal. The African cooling reduces the rainfall and related diabatic heating locally, thereby inducing a Matsuno-Gill response (Gill, 1980; Matsuno, 1966) with an equatorial atmospheric Kelvin wave forcing to the east of the heating anomaly, consistent with K17 finding. Milder—but significant—westerly anomalies developing in the central east equatorial IO in July–August in OCEAN experiment (Figure 2b) are arguably a direct response to the northwest-southeast SST gradient seen in Figures 1a and S2. To summarize, Africa-IO land-sea contrast explains the westerlies and related subsurface nIOD pattern around its peak, but anomalous zonal SST gradients also play a significant role at the early stage of this nIOD.\nTo identify the main driver of the northwest-southeast SST gradient, we performed slab ocean sensitivity experiments forced by the PTUBOminus CTL SW anomalies. They indicate that the inhomogeneous SST cooling largely arises from the climatological cloud cover distribution: the larger climatological cloud cover in the eastern equatorial IO indeed acts to reduce the volcanic SW anomaly at the surface, resulting in a reduced volcano-induced cooling compared to the northwestern IO (Figure S4). The resulting anomalous spatial SST pattern matches qualitatively well with the climatological cloud cover effect.\nWe then investigate the sensitivity of the CPL response to the IO preconditioning, defined as the IOD condition that would happen in autumn in the absence of the Pinatubo eruption (i.e., in the CTL simulation). Such sensitivity has already been discussed for ENSO (K17; Ohba, 2013; Pausata et al., 2016) but not for the IOD. The\nIZUMO ET AL. 9153\ndependence of the IO response to the Indo-Pacific initial preconditioning is assessed by analyzing two other pairs of 30-member ensemble experiments with and without a Pinatubo-like forcing characterized, respectively, by El Niño and La Niña conditions in the Pacific during the eruption’s year (see SI; K17). We gather the three CTL 30-member ensembles into a large 90-member ensemble and then classify them depending on their IOD conditions in autumn of the eruption’s year, gathering members showing a DMI above 0.5°C (21 members), below 0.5°C (49 members), and between 0.5 and 0.5°C (20 members). Classifying members based on ENSO conditions in the Pacific gives qualitatively similar results (with slightly less differenciation), because of the tendency of ENSO and IOD events to co-occur.\nIZUMO ET AL. 9154\nFigure 3 displays the evolution of the DMI (Figures 3a–3c) and eastern SSH (Figures 3d–3f) anomalies in CTL and PTUBO experiments for these three classes (even if the SST response is different from that of an IOD, the DMI is used here to describe the SST asymmetries as it broadly captures the spatial anomalies associated with this SST cooling; Figure S5; using a dedicated index of the northwest-southeast SST gradient gives similar results; Figure S6). In the absence of an IOD in CTL experiment, volcanic eruptions favor a nIOD-like response both at depth (~2 cm SSH anomaly in the eastern IO; Figure 3d) and at the surface ( 0.4°C DMI anomaly; Figure 3a). In the presence of a pIOD in CTL, volcanic eruptions induce a similar subsurface response (~2 cm; Figure 3e) but a larger SST response ( 0.7°C; Figure 3b), which acts to considerably reduce the background pIOD amplitude. In the presence of a nIOD in CTL, volcanic eruptions induce a weaker subsurface response (~1.2 cm; Figure 3f) and no significant SST gradient change (Figure 3c). The asymmetry to IO background conditions is hence larger for the SST gradient than for the subsurface response. The asymmetry of the SST response mainly arises from the IOD eastern pole (Figure S5c) and could be explained by two processes described below in the case of a nIOD background condition. First, because of the nonlinearity of the Clausius-Clapeyron equation, the evaporation negative feedback damps more the volcanically induced relative warming in the eastern pole during a nIOD as SSTs are warmer in the eastern IO. Second, the deep background thermocline in the eastern IO during a nIOD makes the positive thermocline depth anomalies forced by the eruption westerlies less efficient to warm the eastern IO SST. While the asymmetry in the subsurface response is weaker, the presence of a nIOD in CTL experiment makes the subsurface response ~1.5–2 times weaker, shorter, and occuring later (only significant at the 90% level in November–December; not shown). This suggests that the volcanically induced SST gradient could contribute, by forcing additional westerlies, to the subsurface IOD and to its asymmetry. However, our modeling setup cannot precisely quantify this contribution of the ocean-atmosphere coupling.\nThe robustness of the IO response to volcanic forcing derived from our single model analysis is finally assessed by analyzing the multimodel CMIP5 database. Composites of the five historical tropical eruptions in autumn of the eruption’s year in the CMIP5 multimodel ensemble mean (48 models/158 members, cf. SI) show patterns of surface temperature, relative SST, wind stress (Figure 4a; Figure S7), and sea level\nIZUMO ET AL. 9155\ndevelopment, especially for the SST.\nThis volcanic subsurface nIOD is highly statistically significant, but its amplitude is still modest, ~30–50% of a typical IOD in IPSL CM5B. For neutral background conditions, the amplitude of the DMI SST response reaches ~0.4°C, a value comparable to the ENSO response in the same model (0.5°C Niño3.4 relative SST anomalies; K17). Given that the Pinatubo eruption is relatively modest compared to other eruptions over longer geological timescales, we expect the volcanic nIOD to be much stronger for very strong eruptions, for example during the last millennium. Volcanic nIOD amplitude also considerably varies among CMIP models\nand will certainly depend on the model, the volcanic forcing, and the eruption characteristics (strength, season, duration, and latitude; Stevenson et al., 2016). The OCEAN process depends likely also on the volcanically induced El Niño response, which could interfere destructively with the IO local SST response by forcing IO easterlies. Alleviating the dry bias in the eastern IO present in the current CMIP models (e.g., Li et al., 2015) could also increase the SST gradient response by increasing the climatological cloud cover effect (cf. Figure S4) and therefore the OCEAN effect. All these questions highlight the need of similar experiments in other models, as proposed in the coming CMIP6 VolMIP exercise (Zanchettin et al., 2016).\nIZUMO ET AL. 9156\nHere we have demonstrated that a negative subsurface IOD develops in autumn of the eruption’s year. Maher et al. (2015) have interestingly briefly mentioned the tendency for a pIOD-like SSH pattern to develop in autumn of the eruption’s following year in CMIPmodels and attributed this to an indirect response to the concurrent El Niño signal peaking in the Pacific. Indeed, CMIP5 MME IOD temporal evolution indicates both the direct nIOD response in the eruption’s year and the indirect pIOD the following year (Figure S8). Removing ENSO influence through linear regression confirms that the pIOD occurring the year after the eruption is mainly an indirect response to the co-occurring El Niño in the Pacific while the nIOD response during the year of the eruption is not. The direct response in CMIP MME (+0.8 cm SSH in SON of eruption’s year for eastern DMI pole) is of the same order of magnitude as the El Niño-induced pIOD response in following year’s SON ( 1.2 cm; not shown). The volcanic subsurface nIOD does not exhibit a typical IOD signature at the surface, resulting in different climate impacts. The rainfall pattern (and thus atmospheric teleconnections) is indeed partly different (Figures S2b and S7b) from a typical IOD (Figure S3): for example, the strong land cooling over the maritime continent favors a drying, while the nIOD-like relative SST warming (Figures 1a, S2a, and S7a) favors rainfall over the east IO.\nIn contrast, subsurface impacts are similar to that of a typical nIOD. PP response in the CMIP5 models (Figure 4c) is a mirror of SSH/thermocline depth, notably in the east IO, Bay of Bengal, and Arabian Sea. This PP response fits qualitatively well with the PP patterns expected from a typical IOD (e.g., Currie et al., 2013; Lévy et al., 2007; Murtugudde et al., 1999): a clear PP decrease along Sumatra (with 16 out of 18 models agreeing on the sign; MME standardized amplitude of ~20%, but up to ~70% in some models; not shown) and a more widespread but weaker PP increase in the west IO, notably along India west coast (with likely a reduction in coastal anoxia and modulation of the oxygen minimum zone; Vallivattathillam et al., 2017). Concerning the IO OHC, IO equatorial westerlies/nIOD tend to discharge the tropical IO, as shown by idealized switched-on westerlies LCS experiments as in Izumo et al. (2018) study (not shown). El Niño also favors an IO OHC discharge via the Indonesian throughflow (Lee et al., 2015; Sprintall & Révelard, 2014). Hence, a tropical eruption, by favoring this nIOD the eruption’s year, as well as a following El Niño (Figure S8; K17), forces a significant IO OHC discharge starting in the eruption’s year, the negative OHC anomaly lasting then for several years in the IPSL model (not shown).\nUnderstanding the sensitivity of this volcanic nIOD response to the amplitude, latitude, and seasonality of the eruption is the next step forward for improving posteruption climate forecasts."
+  }],
+  "year": 2018,
+  "references": [{
+    "title": "Coupled dynamics in the Indian Ocean: Spring initiation",
+    "authors": ["H. Annamalai", "R. Murtugudde", "J. Potemra", "S.P. Xie", "P. Liu", "B. Wang"],
+    "year": 2003
+  }, {
+    "title": "Oceanic influences on recent continental warming",
+    "authors": ["G.P. Compo", "P.D. Sadershmukh"],
+    "venue": "Climate Dynamics,",
+    "year": 2009
+  }, {
+    "title": "Oscillation impacts on regional chlorophyll anomalies",
+    "authors": ["A. Robock", "C. Ammann"],
+    "venue": "Indian Ocean. Biogeosciences,",
+    "year": 2009
+  }, {
+    "title": "Krakatoa lives: The effect of volcanic",
+    "authors": ["P.J. 447–462. Gleckler", "K. AchutaRao", "J.M. Gregory", "B.D. Santer", "K.E. Taylor", "T.M.L. Wigley"],
+    "year": 2006
+  }, {
+    "title": "Sea surface temperature, surface wind divergence, and convection over tropical oceans",
+    "authors": ["N.E. 2006GL026771 Graham", "T.P. Barnett"],
+    "year": 1987
+  }, {
+    "title": "Robust responses of the hydrological cycle to global warming",
+    "authors": ["I.M. Held", "B.J. Soden"],
+    "venue": "Journal of Climate,",
+    "year": 2006
+  }, {
+    "title": "Influence of Indian Ocean Dipole and Pacific recharge on",
+    "authors": ["T. Izumo", "M. Lengaigne", "J. Vialard", "Luo", "J.-J", "T. Yamagata", "G. Madec"],
+    "year": 2014
+  }, {
+    "title": "On the physical interpretation of the lead relation between warm water",
+    "authors": ["T. Izumo", "M. Lengaigne", "J. Vialard", "I. Suresh", "Y. Planton"],
+    "venue": "El Niño: Interdecadal robustness. Climate Dynamics,",
+    "year": 2018
+  }, {
+    "title": "Low and high frequency Madden-Julian",
+    "authors": ["T. Izumo", "S. Masson", "J. Vialard", "C. de Boyer Montegut", "S.K. Behera", "G Madec"],
+    "year": 2010
+  }, {
+    "title": "Oscillations in austral summer—Interannual variations",
+    "authors": ["T. Izumo", "J. Vialard", "H. Dayan", "M. Lengaigne", "I. Suresh"],
+    "venue": "Climate Dynamics,",
+    "year": 2016
+  }, {
+    "title": "Influence of the Indian Ocean Dipole on",
+    "authors": ["T. Izumo", "J. Vialard", "M. Lengaigne", "C. de Boyer Montegut", "S.K. Behera", "Luo", "J.-J"],
+    "venue": "Indian Ocean Dipole and Basin influences on El Niño. Climate Dynamics,",
+    "year": 2010
+  }, {
+    "title": "Seasonally modulated tropical drought induced by volcanic aerosol",
+    "authors": ["El Nino"],
+    "venue": "Nature Geoscience,",
+    "year": 2011
+  }, {
+    "title": "Further insights on the influence of the Indian Ocean dipole on",
+    "authors": ["N.C. Jourdain", "M. Lengaigne", "J. Vialard", "T. Izumo", "A.S. Gupta"],
+    "venue": "Climate Dynamics,",
+    "year": 2016
+  }, {
+    "title": "ENSO from observations and CMIP5 models",
+    "authors": ["M. Khodri", "T. Izumo", "J. Vialard", "S. Janicot", "C. Cassou", "M Lengaigne"],
+    "venue": "Journal of Climate,",
+    "year": 2017
+  }, {
+    "title": "cooling tropical Africa",
+    "authors": ["S. K", "W. Park", "M.O. Baringer", "A.L. Gordon", "B. Huber", "Y. Liu"],
+    "venue": "Nature Communications,",
+    "year": 2015
+  }, {
+    "title": "during the warming hiatus",
+    "authors": ["F. Lehner", "A.P. Schurer", "G.C. Hegerl", "C. Deser", "T.L. Frölicher"],
+    "venue": "Nature Geoscience,",
+    "year": 2016
+  }, {
+    "title": "Ocean’s phytoplankton blooms",
+    "authors": ["S.P. Xie", "Y. Du"],
+    "venue": "Journal of Geophysical Research,",
+    "year": 2007
+  }, {
+    "title": "Quasi-geostrophic motions in the equatorial area",
+    "authors": ["T. Matsuno"],
+    "venue": "Journal of the Meteorological Society of Japan,",
+    "year": 1966
+  }, {
+    "title": "Impact of strong tropical volcanic eruptions on ENSO simulated in a coupled",
+    "authors": ["M. 1999JC900135 Ohba", "H. Shiogama", "T. Yokohata", "M. Watanabe"],
+    "year": 2013
+  }, {
+    "title": "Volcanic eruptions and climate",
+    "authors": ["N. H", "B.N. Goswami", "P.N. Vinayachandran", "T. Yamagata"],
+    "venue": "Ocean. Quarterly Journal of the Royal Meteorological Society,",
+    "year": 2000
+  }, {
+    "title": "Tropical Indian Ocean variability in the IPCC twentieth-century climate",
+    "authors": ["N.H. 360–363. Saji", "S.P. Xie", "T. Yamagata"],
+    "year": 2006
+  }, {
+    "title": "Roles of land surface albedo and horizontal resolution",
+    "authors": ["G. Samson", "S. Masson", "F. Durand", "P. Terray", "S. Berthet", "S. Jullien"],
+    "year": 2016
+  }, {
+    "title": "Climate response to large, high-latitude and low-latitude",
+    "authors": ["D.P. Schneider", "C.M. Ammann", "B.L. Otto-Bliesner", "D.S. Kaufman"],
+    "year": 2009
+  }, {
+    "title": "Indian Ocean circulation and climate variability",
+    "authors": ["F.A. 2008JD011222 Schott", "S.P. Xie", "J.P. McCreary"],
+    "venue": "Reviews of Geophysics,",
+    "year": 2009
+  }, {
+    "title": "The weak temperature gradient approximation and balanced tropical moisture",
+    "authors": ["J. Nilsson", "L.M. Polvani"],
+    "year": 2001
+  }, {
+    "title": "Global cooling after the eruption of Mount Pinatubo: A test of climate",
+    "authors": ["B.J. Soden", "R.T. Wetherald", "G.L. Stenchikov", "A. Robock"],
+    "venue": "Atmospheric Sciences,",
+    "year": 2002
+  }, {
+    "title": "Volcanic signals in oceans",
+    "authors": ["G. Stenchikov", "T.L. Delworth", "V. Ramaswamy", "R.J. Stouffer", "A. Wittenberg", "F. Zeng"],
+    "year": 2009
+  }, {
+    "title": "Dominant role of winds near Sri Lanka",
+    "authors": ["I. Suresh", "J. Vialard", "T. Izumo", "M. Lengaigne", "W. Han", "J. McCreary", "P.M. Muraleedharan"],
+    "venue": "Journal of Climate",
+    "year": 2016
+  }, {
+    "title": "Origins of wind-driven intraseasonal sea",
+    "authors": ["I. 2016GL069976 Suresh", "J. Vialard", "M. Lengaigne", "W. Han", "J. McCreary", "F. Durand", "P.M. Muraleedharan"],
+    "year": 2013
+  }, {
+    "title": "An overview of CMIP5 and the experiment design",
+    "authors": ["K.E. 2013GL058312 Taylor", "R.J. Stouffer", "G.A. Meehl"],
+    "venue": "Bulletin of the American Meteorological",
+    "year": 2012
+  }, {
+    "title": "Positive Indian Ocean Dipole events prevent anoxia off the west coast of India",
+    "authors": ["P. Vallivattathillam", "S. Iyyappan", "M. Lengaigne", "C. Ethé", "J. Vialard", "M Levy"],
+    "venue": "Biogeosciences,",
+    "year": 2017
+  }, {
+    "title": "Global warming and the weakening of the tropical circulation",
+    "authors": ["G.A. Vecchi", "B.J. Soden"],
+    "venue": "Journal of Climate,",
+    "year": 2007
+  }, {
+    "title": "Coupled dynamics in the Indian Ocean during 1997–1998",
+    "authors": ["P.J. Webster", "A. Moore", "J. Loschnigg", "M. Leban"],
+    "year": 1999
+  }, {
+    "title": "Origin and predictability of south Indian Ocean climate variability",
+    "authors": ["Xie", "S.-P", "H. Annamalai", "F. Schott", "McCreary", "J.P. Jr."],
+    "venue": "Journal of Climate,",
+    "year": 2002
+  }, {
+    "title": "Coupled ocean–atmosphere variability in the tropical Indian Ocean",
+    "authors": ["T. Yamagata", "S.K. Behera", "Luo", "J.-J", "S. Masson", "M.R. Jury", "S.A. Rao"],
+    "year": 2004
+  }, {
+    "title": "The Model Intercomparison Project on the climatic response to Volcanic forcing (VolMIP): Experimental design and forcing input data. GeoScientific Model Development discussion paper, MS No.: gmd-2016-68. Special Issue: Coupled Model Intercomparison Project Phase 6 (CMIP6) Experimental Design and Organization",
+    "authors": ["D. Zanchettin", "M. Khodri", "C. Timmreck", "M. Toohey", "A. Schmidt", "Gerber", "E. P"],
+    "year": 2016
+  }],
+  "id": "SP:1c3a3300a1d543783feee44c7d3b4b5ed448e3fd",
+  "authors": [{
+    "name": "Takeshi Izumo",
+    "affiliations": []
+  }, {
+    "name": "Myriam Khodri",
+    "affiliations": []
+  }, {
+    "name": "Matthieu Lengaigne",
+    "affiliations": []
+  }, {
+    "name": "Iyyappan Suresh",
+    "affiliations": []
+  }],
+  "abstractText": "The impacts of explosive volcanism on the densely populated Indian Ocean (IO) region remain elusive. Dedicated sensitivity experiments indicate that tropical volcanic eruptions induce a stronger surface cooling over Africa than of ocean, promoting westerlies in the equatorial IO. These westerlies drive a subsurface response reminiscent to that of a negative IO Dipole (IOD) during autumn in the year of eruption. The eruption also drives an enhanced cooling over the northwestern IO as a direct response to climatological cloud cover distribution. The resulting anomalous zonal sea surface temperature gradient contributes to enhance equatorial westerly anomalies in summer. The response is sensitive to the IO preconditioning, being larger when the system is favorable to a positive IOD development. Volcanic eruptions also induce a subsurface IOD-like response in the multimodel database from the Coupled Model Intercomparison Project Phase 5 as well as a primary productivity decrease in the eastern IO. Plain Language Summary Explosive volcanism induces a global surface cooling, but its regional impact on the densely populated Indian Ocean sector is poorly documented. Here we show that the volcanic eruptions induce a subsurface ocean response in autumn of the eruption’s year, reminiscent to that of a negative Indian Ocean Dipole, an intrinsic climate mode in the Indian Ocean equivalent to El Niño in the Pacific. This subsurface response is driven by equatorial westerly anomalies resulting from the stronger surface cooling over the African landmass than over the ocean. The response is sensitive to the Indian Ocean preconditioning, being larger when the system is preconditioned toward a positive Indian Ocean Dipole development.",
+  "title": "A Subsurface Indian Ocean Dipole Response to Tropical Volcanic Eruptions"
+}

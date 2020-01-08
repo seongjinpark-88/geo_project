@@ -1,0 +1,334 @@
+{
+  "sections": [{
+    "text": "Volcanic signals in oceans\nGeorgiy Stenchikov,1,2 Thomas L. Delworth,3 V. Ramaswamy,3 Ronald J. Stouffer,3 Andrew Wittenberg,3 and Fanrong Zeng3\nReceived 24 December 2008; revised 19 May 2009; accepted 17 June 2009; published 22 August 2009.\n[1] Sulfate aerosols resulting from strong volcanic explosions last for 2–3 years in the lower stratosphere. Therefore it was traditionally believed that volcanic impacts produce mainly short-term, transient climate perturbations. However, the ocean integrates volcanic radiative cooling and responds over a wide range of time scales. The associated processes, especially ocean heat uptake, play a key role in ongoing climate change. However, they are not well constrained by observations, and attempts to simulate them in current climate models used for climate predictions yield a range of uncertainty. Volcanic impacts on the ocean provide an independent means of assessing these processes. This study focuses on quantification of the seasonal to multidecadal time scale response of the ocean to explosive volcanism. It employs the coupled climate model CM2.1, developed recently at the National Oceanic and Atmospheric Administration’s Geophysical Fluid Dynamics Laboratory, to simulate the response to the 1991 Pinatubo and the 1815 Tambora eruptions, which were the largest in the 20th and 19th centuries, respectively. The simulated climate perturbations compare well with available observations for the Pinatubo period. The stronger Tambora forcing produces responses with higher signal-to-noise ratio. Volcanic cooling tends to strengthen the Atlantic meridional overturning circulation. Sea ice extent appears to be sensitive to volcanic forcing, especially during the warm season. Because of the extremely long relaxation time of ocean subsurface temperature and sea level, the perturbations caused by the Tambora eruption could have lasted well into the 20th century.\nCitation: Stenchikov, G., T. L. Delworth, V. Ramaswamy, R. J. Stouffer, A. Wittenberg, and F. Zeng (2009), Volcanic signals in oceans, J. Geophys. Res., 114, D16104, doi:10.1029/2008JD011673."
+  }, {
+    "heading": "1. Introduction",
+    "text": "[2] The perturbations forced by volcanic eruptions were long used to study mechanisms of short-term climate variability associated with atmospheric processes like Arctic Oscillation (AO), monsoon responses, and precipitation anomalies [Oman et al., 2006; Shindell et al., 2004; Stenchikov et al., 2004, 2006; Trenberth and Dai, 2007]. The present study focuses on the impact of volcanic activity on the world’s oceans. Oceans cover 72% of the Earth’s surface and, because of their large thermal capacity, play a major role in the evolution of the climate system, integrating and processing Earth’s energy imbalances [Hansen et al., 2005]. However, the global observation data sets allowing an estimate of the trend in ocean heat content, as an important indicator of the ongoing climate change, have only recently been made available for in-depth analysis [Barnett et al., 2001, 2005; Carton et al., 2005; Delworth et\nal., 2005; Gregory et al., 2006; Levitus et al., 2001, 2005; Meehl et al., 2005; Sun and Hansen, 2003; Willis et al., 2004]. [3] Observations and model simulations show how the combined ocean warming effect of the relatively steadily developing anthropogenic forcings is offset by the sporadic coolings caused by major explosive volcanic eruptions that extend far beyond the duration of volcanic forcing [Church et al., 2005; Delworth et al., 2005; Gleckler et al., 2006b]. Church et al. [2005] demonstrate the reasonable agreement between decadal-scale simulated and observation-based heat content and steric height responses from the upper 300 m ocean layer. Gleckler et al. [2006b] quantify the ocean cooling from volcanic eruptions by comparing two multimodel ensembles of simulations conducted for the IPCC AR4 project, one with and another without volcanic forcing. They find that individual perturbations are longer lasting than reported by Church et al. [2005], and the cumulative volcanic effect on ocean heat content reaches 4 1023 J by year 2000, one order of magnitude larger (in absolute value) than in Church et al. [2005]. This discrepancy in cumulative effect could be explained in part by different climate sensitivities of the models chosen by Gleckler et al. [2006b] for volcanic and nonvolcanic subsets. [4] Delworth et al. [2005] conduct a series of simulations covering the period 1860 to 2000, consistent with the\nJOURNAL OF GEOPHYSICAL RESEARCH, VOL. 114, D16104, doi:10.1029/2008JD011673, 2009\n1Division of Mathematical and Computer Sciences and Engineering and Division of Chemical and Life Sciences and Engineering, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia.\n2Formerly at Department of Environmental Sciences, Rutgers University, New Brunswick, New Jersey, USA.\n3NOAA Geophysical Fluid Dynamics Laboratory, Princeton, New Jersey, USA.\nCopyright 2009 by the American Geophysical Union. 0148-0227/09/2008JD011673\nD16104 1 of 13\nframework of the IPCC AR4. The simulations used the Geophysical Fluid Dynamics Laboratory (GFDL) CM2.1 model, and consisted of simulations incorporating observed changes in radiative forcing agents, as well as additional simulations with only subsets of the forcing changes. Figure 1a shows the ensemble mean ocean heat content anomalies in the 0–3000 m depth range for a subset of the runs from Delworth et al. [2005] which were calculated accounting for all the time-varying forcing agents: well mixed greenhouse gases, anthropogenic aerosols, stratospheric and tropospheric ozone, land use, solar irradiance, and volcanic aerosols (ALL) and for volcanic and solar forcings only (NATURAL). However, the solar effect for this period is small compared to the volcanic effect. The yellow shading shows ±2 standard deviations (2s) of ocean heat content estimated from a 2000 year control run of the\nD16104 STENCHIKOV ET AL.: VOLCANIC SIGNALS IN OCEANS\n2 of 13\nD16104\nclimate model with forcings fixed at the 1860 level. Delworth et al. [2005] have shown that the ALL ensemble compares well with available observations [Carton and Santorelli, 2008; Domingues et al., 2008; Levitus et al., 2005; Willis et al., 2004]. Both ALL and NATURAL anomalies are highly statistically significant and far exceed the 2s CONTROL variability. The cumulative cooling effect of natural forcings appears to be quite significant reaching 1023 J by year 2000, which is right between the estimates obtained by Church et al. [2005] and Gleckler et al. [2006b], and offsets about one third of ALL – NATURAL ocean warming. The volcanic signal exceeds two standard deviations of unforced variability (yellow shading) throughout the entire run since the Krakatau eruption in 1883. The ocean heat content tends to recover in about 100 years (Figure 1a). But the relaxation was interrupted by the series of strong eruption in the second part of the 20th century starting from the Mt. Agung eruption in 1963. This suggests that the observed frequency and strength of the Earth’s explosive volcanism in the 19th and 20th centuries [Simkin, 1993] was sufficient to produce a ‘‘quasipermanent’’ signature in the global oceans. [5] The above studies, despite quantitative uncertainties, agree qualitatively on the long duration and significance of volcanic subsurface ocean impact. They suggest that the volcanic signature in the world’s oceans could provide important new insights in climate sensitivity mechanisms, and that better quantification of volcanic cooling from the big eruptions in the recent two centuries might help to better understand the current climate trends. Therefore it seems promising to conduct focused volcanic case studies to systematically explore various ocean thermal and dynamic responses to volcanic forcing, concentrating on their amplitude, mechanisms, and relaxation time. [6] For this purpose the two strongest explosive eruptions of the 19th and 20th centuries have been chosen: the Mt. Pinatubo eruption in the Philippines at 15.1 N, 120.4 E in June 1991 and the Mt. Tambora eruption in April 1815 in Sumbawa Island, in Indonesia at 8.3 S, 118.0 E. The Mt. Pinatubo eruption occurred in the satellite era and is the best observed significant explosive event [Baran and Foot, 1994; Barnes and Hoffman, 1997; Bluth et al., 1992, 1997; Lambert et al., 1993; Minnis et al., 1993; Read et al., 1993]. During this eruption about 17 Tg (1 Tg = 1012 g) of SO2 were injected into the lower stratosphere and subsequently converted into sulfate aerosols. The radiative forcing for this event is best constrained by instrumental observations from the spaceborne platforms [Ginoux et al., 2006; Stenchikov et al., 1998], therefore the Pinatubo eruption is used as a test bed for the impact response analysis both for atmospheric responses in the authors’ previous studies and for ocean impacts in the present study. [7] The Tambora eruption of 1815 produced a notorious ‘‘year without a summer’’ in 1816 causing famine in the UK and Europe, which were recovering after the Napoleonic wars [Stommel and Stommel, 1983; Stothers, 1984]. According to the recent reconstruction by Self et al. [2004], the magnitude of the SO2 injection by the Tambora eruption was about three times of Pinatubo but not ten times, as was previously assumed [Stothers, 1984]. [8] Pinatubo-size eruptions occur about once in a century, while Tambora-size events happen only once in 500–1000 years [Simkin, 1993]. The rationale of considering both Pinatubo and Tambora case studies relies on the idea that more observations exist for the Pinatubo case that allow better testing of the modeling framework. At the same time Tambora, with its 3 times stronger forcing, produces a larger signal and allows estimation of how the responses scale with respect to the magnitude of forcing. [9] Most recent explosive events like Pinatubo in 1991, El Chichon in 1982, Agung in 1963, Santa Maria in 1902, and even presumably Tambora in 1815 [Brönnimann et al., 2007] occurred in El Niño years. The paleodata analysis also suggests a statistical link between volcanic eruptions and El Niño that has yet to be explained [Adams et al., 2003]. The phase of ENSO at the time of eruption affects (not necessarily linearly) the climate response to volcanic forcing [Santer et al., 2001; Yang and Schlesinger, 2002] and has to be realistically accounted for. Therefore, in the design of the volcanic forcing experiments for this study the perturbation experiments were initialized from selected points in a long control integration. These starting points were chosen based upon the phase of the model’s own ENSO, so as to mimic the same phase of ENSO as seen in the observations. Ensembles of simulations with those initial conditions were then conducted, but imposing the volcanic forcing. [10] The primary scientific questions that this study attempts to address are as follows: (1) How did the Pinatubo and Tambora eruptions affect atmospheric and oceanic temperature? How does volcanic cooling affect sea level? How sensitive is the sea ice extent to volcanic forcing? How well do models reproduce these effects? (2) What is the fate of the subsurface cold waters formed after major volcanic eruptions and what are the characteristic relaxation time scales of the volcanic cooling signals in the oceans? What are the relaxation mechanisms? Could volcanic signals accumulate? Does the magnitude of the response of different components of climate system scale linearly with respect to volcanic forcing? [11] This article is organized as follows. Section 1 (the current section) reviews the relevant background, including previous observational and model studies of volcanic effects. Section 2 introduces the model and experimental setup. Section 3 considers the results obtained for the atmospheric, oceanic, and ice components. Section 4 summarizes the results and conclusions."
+  }, {
+    "heading": "2. Model and Experimental Setup",
+    "text": "[12] The present study uses CM2.1, the recent GFDL coupled climate model described in detail by Delworth et al. [2006] (http://nomads.gfdl.noaa.gov/CM2.X/references/). This coupled model is composed of four component models: atmosphere, land, sea ice, and ocean. The atmospheric model has a grid spacing of 2.5 longitude by 2 latitude and 24 vertical levels. The dynamical core is based on the finite volume scheme of Lin [2004]. The radiation code allows for explicit treatment of numerous radiatively important trace gases and a variety of natural and anthropogenic aerosols. However, indirect aerosol effects on climate are not considered. The land model is described by Milly and Shmakin [2002]. The ocean model [Gnanadesikan et al., 2006; Griffies et al., 2005] has a nominal grid spacing of\nD16104 STENCHIKOV ET AL.: VOLCANIC SIGNALS IN OCEANS\n3 of 13\nD16104\n1 in latitude and longitude, with meridional grid spacing decreasing in the tropics to 1/3 near the equator, and uses a tripolar grid to avoid polar filtering over the Arctic. The model has 50 vertical levels, including 22 levels with 10 m thickness each in the top 220 m. The ocean-atmosphere coupling is conservative. Flux adjustments are not used. The model internally generates ENSO with reasonable frequency and amplitude [Wittenberg et al., 2006]. The sea ice model is a dynamical model with three vertical layers and five ice thickness categories. It uses the elastic-viscousplastic rheology to calculate ice internal stresses, and a modified Semtner three-layer scheme for thermodynamics [Winton, 2000]. [13] The present study uses two long control runs calculated in the course of the GFDL IPCC AR4 project, using CM2.1 as a basis for its volcanic case study. One run is conducted for 2000 years with the climate forcing agents held fixed at 1860 conditions. The second run is calculated for 300 years using constant 1990 forcings. Those control experiments are referred to here as 1860 and 1990 controls. The 1860 control is used for the Tambora experiments, and 1990 control is used to initiate the Pinatubo runs. A moderate size El Niño developed in 1991 at the time of the Mt. Pinatubo eruption. The phase of ENSO in 1815 at the time of the Tambora eruption is uncertain. For example, Chenoweth [1996] reports that the La Niña in the winter of 1815/16 was preceded and followed by El Niño events in the winters of 1814/15 and 1816/17. However, Brönnimann et al. [2007] characterize 1815/16 as an El Niño year. But in any case, Tambora and Pinatubo eruptions overlapped with the El Niño, therefore it was decided to use the El Niño initial conditions for both series of the experiments. This choice also helps to better evaluate the sensitivity of the model responses (not compromised by the different ENSO phases) to the magnitude of volcanic forcing. The control runs were therefore analyzed selecting the years when NINO3.4 index in October exceeds its mean value by more than one standard deviation. Then the coupled oceanatmosphere fields were chosen for 0000 UTC on 1 January of those years as initial conditions. A series of ten 20-year ensemble runs for each volcanic eruption was then conducted, and these are referred to as the Pinatubo and Tambora ensembles. Each run in both ensembles starts from an individual El Niño state which adds to the variability within the ensembles. Runs with La Niña and neutral initial conditions were also calculated. However, they did not alter qualitatively the results obtained in the course of this particular study and therefore were not included in the current discussion. [14] Volcanic radiative perturbations are calculated interactively within the model based on the set of the aerosol optical characteristics as discussed by Stenchikov et al. [1998, 2006]. In this study, Pinatubo aerosols globally decrease the incoming net radiative flux at the top of the atmosphere by about 3 W/m2 at maximum that is consistent with most of the IPCC-AR4 models [Stenchikov et al., 2006]. This radiative perturbation dominated all other forcings for at least two years. Figure 1d shows the total globally averaged optical depth of volcanic aerosols generated by the Pinatubo eruption for a few wavelengths. The largest optical thickness reaching 0.15 is in the visible wavelength range (0.55 mm). The ultraviolet (UV) optical depth at 0.25 mm is slightly smaller than the visible one but relaxes more slowly than the visible optical depth because it is associated with the smallest particles with the longest residence time. The optical depth in the near-IR at 1 mm is smaller than in visible and UV but remains fairly significant. The aerosol radiative effect in the near-IR plays an important role because about half of the solar radiation comes in this wave band. Moreover, sulfate aerosols begin to absorb slightly in the near-IR band, heating the lower stratosphere. However, the largest lower stratospheric heating rates are produced by the IR aerosol absorption even though the IR optical depth is about one order of magnitude smaller than the visible optical depth [Stenchikov et al., 1998]. Mt. Pinatubo erupted on 15 June 1991. The Tambora eruption occurred on 10 April 1815. The instrumental observations of stratospheric aerosols for the Tambora period are not available. Therefore, to mimic the effect of Tambora, the Pinatubo optical depth was tripled according to Self et al. [2004] and the beginning of the eruption shifted to April, in a similar way to that employed by Shindell et al. [2004]. The optical depth was input to the model as a monthly mean. [15] To improve signal-to-noise ratio the response of the climate system to volcanic forcing was calculated as the ensemble mean over the volcano runs minus the ensemble mean over the corresponding segments of the long control runs in this analysis. The variability within ensembles was used to estimate the statistical significance of the climate signals."
+  }, {
+    "heading": "3. Results",
+    "text": "[16] This section discusses the results of both the Pinatubo and Tambora simulations. The focus is on the analysis of the following variables: sea surface temperature, ocean heat content, thermosteric height, ocean subsurface temperature, salinity, meridional overturning circulation, sea ice extent and ice mass. The atmospheric temperature response is used to conduct a comparison with observations and to contrast the atmospheric and oceanic relaxation times. To the best of the authors’ knowledge this is the most complete set of variables ever used for evaluating volcanic signals in the ocean which also provides a comprehensive characterization of long-term volcanic impacts on climate. [17] Figures 1b (for Pinatubo) and 1c (for Tambora) depict the global and ensemble average anomaly of the all components of the ocean surface energy balance: short wave, long wave, sensible heat, and latent heat fluxes. The yellow shading shows 2s variability of the total energy flux calculated using corresponding ensembles of perturbed runs. Positive anomaly corresponds to ocean warming. The process is driven by the decrease of the net solar flux by about 3 and 9 W/m2 for the Pinatubo and Tambora runs, respectively. The magnitude of the solar flux anomaly scales linearly with respect to the aerosol optical depth. It reaches a maximum in about half a year after each eruption and vanishes in about 3 years. For the ocean total heat content the only stabilizing surface flux during almost the entire first decade appears to be the latent heat flux in Figures 1b and 1c. The ocean numerical model conserves energy. The total ocean water heating/cooling is defined by the total surface energy flux and, to a lesser extent, by a sea ice formation in\nD16104 STENCHIKOV ET AL.: VOLCANIC SIGNALS IN OCEANS\n4 of 13\nD16104\nhigh latitudes. The total energy flux becomes positive at about the same time the net solar flux anomaly vanishes. It is quite variable on monthly and interannual scales but its decadal averages are positive, e.g., averaging over the last decade of simulations gives total ocean energy flux anomaly of 0.15 and 0.06 W/m2 for Tambora and Pinatubo, respectively. This positive anomaly of energy input drives recovery of the negative perturbations of the ocean heat content. [18] The present study first demonstrates how the model tropospheric and stratospheric temperature responses to volcanic forcing compare with observations. This is easier to do for Pinatubo because the aerosols were well observed and the climate responses were relatively well documented. However, Pinatubo erupted in an El Niño year and both volcanic and Sea Surface Temperature (SST) effects overlapped at least in the troposphere. Since it is difficult to exactly reproduce the observed El Niño in the model, this study compares simulated and observed responses after extracting the El Niño contribution from the tropospheric temperature. Santer et al. [2001] developed an iterative regression procedure to separate a volcanic effect from an El Niño signal using microwave sounding unit (MSU) brightness temperature observations from the lower tropospheric channel 2LT [Christy et al., 2000]. Here the present study takes advantage of the Santer et al. [2001] analysis and uses the same fine-resolution MSU weighting function as in Santer et al. [2001] to calculate the MSU weights for the model’s vertical resolution. The same approach is then applied in Figure 1f to calculate the globally averaged synthetic 2LT temperature for the Pinatubo ensemble runs using improved RSS data. [19] The simulated tropospheric anomaly in Figure 1e is calculated with respect to the 1990 ensemble control (i.e., the mean over the corresponding control segments that have the same developing El Niños as in the perturbed runs). It is probably an ideal way to remove El Niño effect from simulations, because it subtracts exactly that El Niño signal which would have developed in the model if the volcanic eruption did not occur. This procedure, however, works well only for the initial El Niño when perturbed runs ‘‘remember’’ their oceanic initial conditions. In Figure 1e the synthetic ENSO-subtracted anomaly is compared with the observed anomaly from Santer et al. [2001] with ENSO removed statistically. The simulated and observed Pinatubo anomalies compare well in Figure 1e. Yellow shading shows 2s variability for the 10-member ensemble mean. It is further referred to as 2s ensemble mean variability. The observed MSU 2LT anomaly itself has an error bar of ±0.1 K [Santer et al., 2001]. Thus, the simulated Pinatubo signal in the lower tropospheric temperature reaches 0.7 K; it is statistically significant at 99% confidence level and the difference between simulated and observed responses is mostly below the variability range. The lower tropospheric temperature anomaly, linked to SST shown in Figures 2a and 2d, reduces below the noise level in about 7 years. [20] For the lower stratosphere a similar comparison was conducted as for the lower troposphere but ENSO was not removed because its effect in the lower stratosphere is fairly small. Figure 1f compares the simulated synthetic MSU channel 4 temperature for the lower stratosphere with the MSU 4 observations. The stratospheric warming is produced by aerosol IR and near-IR absorption. Ramaswamy et al. [2006] discussed that the MSU lower stratospheric temperature tends to level in a few years after the Pinatubo eruption; therefore the anomalies are calculated in Figure 1f with respect to the 1994–1999 mean both in the model and in the observation. The yellow shading shows the ±2s ensemble mean variability. The simulated signal compares well with observation, albeit slightly overestimating the stratospheric warming in the second year after the eruption because simulations do not account for the easterly phase of quasibiennial oscillation (QBO) that reduced the stratospheric temperature in 1992 [Stenchikov et al., 1998]. The atmospheric response in the lower stratosphere is mainly decoupled from SST and follows the volcanic forcing. It disappears, as expected, in 3 years when volcanic radiative forcing vanishes. [21] In contrast to the atmospheric temperature responses, the ocean heat content and the steric height (calculated following Levitus [1982] using simulated seawater density anomalies) remain outside the noise level for the period of the simulation. Figures 2b, 2c, 2e, and 2f show anomalies of the global ocean heat content and the steric height for the Tambora and Pinatubo ensembles calculated for the wholedepth ocean and for the upper 300-m layer. Shading depicts the ‘‘two-sigma’’ ensemble mean variability. The ocean integrates the surface total energy flux. Since the volcanic aerosols and associated cooling persist for about 3 years, the anomalies in Figures 2b and 2e reach their maximum value about the time when the volcanic radiative forcing vanishes. The ocean heat content and the steric height responses scale roughly linearly with respect to forcing. [22] In the first decade, the relaxation is mostly driven by the direct ocean-atmosphere interaction. This process is relatively fast and it takes about 10 years for the Sea Surface Temperature (SST) (Figure 2a and 2d) and troposphere (Figure 1e) to almost return to their unperturbed climate states. However, when a significant portion of an ocean cold anomaly penetrates to depth, the pace of the vertical energy exchange decreases and relaxation slows down. In the second decade, the relaxation in part is driven by the processes of ocean vertical mixing that includes seasonal convection, Ekman pumping, mixing in subtropical gyres, upwelling/downwelling, and overturning. The entire relaxation process might take more than a century, and that length of time is sufficiently long for another strong eruption to occur. Therefore the volcanic cooling signal in the ocean is significant at the present frequency of the Earth’s explosive volcanism. The ocean heat content anomaly in the CM2.1 NATURAL runs reaches the average value of 5 1022 J in about a century and oscillates around this level forced by the stochastic volcanic perturbations (Figure 1a). [23] The 300-m layer relaxes significantly faster than the whole ocean, as could be expected. The intersection of above-300-m and below-300-m curves show that it takes more than 10 years for half of the negative ocean heat content anomaly to penetrate in the layer below 300 m (Figures 2b and 2e). It is much faster than for penetration of a steady warming signal [Hansen et al., 2005] because sporadic strong volcanic cooling intensifies vertical mixing processes in ocean especially turbulent diffusion, seasonal convection, and overturning [Stouffer, 2004]. This means that quasiperiodic volcanic forcing applied to a climate\nD16104 STENCHIKOV ET AL.: VOLCANIC SIGNALS IN OCEANS\n5 of 13\nD16104\nsystem might produce a different vertical ocean thermal structure than a negative constant forcing with the same averaged intensity. Therefore employing a realistic quasiperiodic volcanic forcing to produce equilibrium initial conditions as was discussed by Gregory et al. [2006] might help to better initialize climate simulations. For the same reasons it is also important to make a realistic assumption about future volcanic effects on the Earth’s radiative balance, e.g., for the 21st century, because volcanic forcing could offset some portion of future ocean warming and sea level rise. [24] The maximum heat content and sea level decrease in the Pinatubo simulation is 5 1022 J and 9 mm, respectively (Figures 2e and 2f). Most of the signal comes from the top 300-m layer for the first 10 years and then the whole ocean signal prevails. There is a range of uncertainty associated with these effects. Church et al. [2005] report weaker 300-m layer observed responses than the present study; 3 1022 J and 5 mm, respectively. However, it is difficult to extract anomalies from observations. The observed steric height of Church et al. [2005] is calculated based on the ocean temperature change records [Ishii et al., 2003; Levitus et al., 2005]. Its anomalies are obtained by subtracting a smoothed quadratic fit to the steric height function from the steric height. This might affect magnitude and duration of the volcanic signals. For example, the observed Pinatubo steric height anomaly of Church et al. [2005] relaxes to zero in less than a decade, most likely because the Pinatubo period is at the very end of the\nD16104 STENCHIKOV ET AL.: VOLCANIC SIGNALS IN OCEANS\n6 of 13\nD16104\nconsidered time interval of 1960–2000. This effectively shortens the duration of volcanic impacts reported by Church et al. [2005], as was mentioned by Gleckler et al. [2006a, 2006b]. [25] It should be mentioned that the observed thermosteric height anomaly after the Pinatubo eruption is disproportionally weak compared to anomalies caused by the Agung and El Chichón eruptions [Antonov et al., 2005]. Gleckler et al. [2006a] suggested that the relatively rapid and weak response to Pinatubo was because the eruption occurred against the backdrop of rapid ocean warming, but none of the models capture this disproportion [Church et al., 2005; Delworth et al., 2005; Gregory et al., 2006; Sun and Hansen, 2003]. The discrepancy between the models and observations could be caused by model deficiencies and/or inadequate radiative forcing. For example, Church et al. [2005] simulated Pinatubo steric height signal that is slightly weaker than that found in the present study, albeit their radiative solar ‘‘volcanic’’ cooling is on the high end of the forcing estimates used in the IPCC AR4 simulations [Stenchikov et al., 2006]. In response the stronger forcing is compensated by a weaker sensitivity of their climate model. [26] The Tambora ocean cooling in the simulations of the present study (Figures 2b and 2c) results in the 25 mm maximum sea level decrease which agrees well with Gregory et al. [2006]. For the Pinatubo period their maximum sea level drop is 6 mm which is 30% less than that of the present study and close to that of Church et al. [2005]. However, as was mentioned above, to make a meaningful comparison between the models both the responses and the forcing have to be compared. For example, Pinatubo solar forcing reported by Church et al. [2005] is almost twice as large compared to that used in the simulations of the present study [Stenchikov et al., 2006]. The volcanic forcing used by Gregory et al. [2006] and by Tett et al. [2007] is close to that used in the simulations of the present study. The Pinatubo and Tambora results show that the steric height anomalies scale linearly with respect to volcanic forcing. Therefore, for comparison, responses have to be scaled proportionally to forcing. [27] The short wave cooling from volcanic aerosol (Figures 1b and 1c) results in a significant negative sea surface temperature anomaly, reaching 1 and 0.4 K in the Tambora and Pinatubo ensembles, respectively (Figures 2a and 2d), that develops during the first 3 years until volcanic aerosols vanish. Cold surface water is gradually transferred into the deeper ocean layers by diffusion, Ekman pumping, upwelling/downwelling, seasonal convection, mixing in the wind-driven gyres, and large-scale overturning circulation. [28] Figures 3d and 3h show globally averaged ocean temperature anomalies as a function of depth and time for the Tambora and Pinatubo runs, respectively. The negative ocean temperature anomaly of 0.005 K spreads from the surface to the depth of about 2000 and 3000 m in 15 years for the Pinatubo and Tambora runs, respectively. In the Pinatubo runs a positive temperature anomaly forms at 4000 m, while overall stronger cooling in the Tambora runs prevents this effect. The depth of the subsurface negative ocean temperature anomaly begins to recover at the very end of the Pinatubo runs in Figure 3h. The recovery is not seen yet in the Tambora runs (Figure 3d). It takes more than a decade, both in the Tambora and Pinatubo runs, to form the bottom cold waters. [29] To better understand the redistribution and the fate of the cold water, Figure 3 shows the zonal and annual mean ocean temperature anomaly for the Tambora (Figures 3a and 3b) and Pinatubo (Figures 3e and 3f) runs as a function of depth and latitude for the beginning (Figures 3a and 3e) and for the end (Figures 3b and 3f) of the simulation. It can be seen that in 3 years after each eruption, at the time of maximum decrease of the ocean heat content, positive temperature anomalies up to 0.2 K in the Tambora and 0.1 K in Pinatubo runs form in the tropical 1500-m ocean layer. They might be caused by perturbations of winddriven subtropical gyres, decrease of the upwelling intensity, and/or shift of a thermocline, but further analysis is needed to quantify these mechanisms. At 40 S and 40 N cold water begins to penetrate to depth. Because the Pinatubo and Tambora radiative impacts are relatively symmetrical in both hemispheres initially, the annual mean temperature anomaly is fairly hemispherically symmetric. However, in 20 years (Figures 3b and 3f) the world’s ocean response in the Southern and Northern hemispheres becomes asymmetric. The cooling signal penetrates to the bottom 5000 m in the high southern latitudes but in the high northern latitudes a warming signal is seen in the deep ocean. The response patterns in both the Tambora and Pinatubo runs are similar, the amplitude is larger in the Tambora runs. [30] The Atlantic Meridional Overturning Circulation (AMOC) increases in response to the volcanic forcing (see Figure 4). The maximum increase is 2.7 Sv (1 Sv = 106 m3 s 1) for the Tambora case, and 1.8 Sv for the Pinatubo case. The AMOC has inherent decadal time scales of adjustment, and is thus at maximum some 5–15 years after the volcanic eruptions [Delworth et al., 2006]. The AMOC response to the amplitude of the volcanic forcing is more nonlinear than the temperature response. The mechanism of the increase is similar to that described by Delworth and Dixon [2006], where an increase in the AMOC is attributable to increasing aerosols from human activity. A volcanically induced cooling leads to reduced precipitation and river runoff at high latitudes of the Northern Hemisphere [Trenberth and Dai, 2007], thereby leading to more saline (and hence denser) upper ocean conditions in the higher latitudes of the Northern Hemisphere. These conditions destabilize the water column, making them more prone to ocean convection. Cooling of the upper ocean that reaches 1 K and 0.4 K globally for Tambora and Pinatubo, respectively, also increases the upper ocean density, with a similar destabilizing impact. The increased ocean convection tends to enhance the AMOC. An increase in AMOC could also cause, in part, the asymmetry of the ocean temperature response in the high northern and southern latitudes. The ensemble mean AMOC anomaly exceeds 2s ensemble mean variability in the greater part of the region hatched in Figure 4 and is therefore highly statistically significant. [31] Figures 3c and 3g show the zonal mean of salinity as a function of depth and latitude for the Tambora and Pinatubo runs. Both cases show an increase of salinity in the middle and high northern latitudes in the region of the deep-water formation. This is consistent with a reduction of\nD16104 STENCHIKOV ET AL.: VOLCANIC SIGNALS IN OCEANS\n7 of 13\nD16104\nD16104 STENCHIKOV ET AL.: VOLCANIC SIGNALS IN OCEANS\n8 of 13\nD16104\nprecipitation [Trenberth and Dai, 2007] and the strengthening of the AMOC. Saltier water at high northern latitudes can then sink at higher temperature. [32] It is known that volcanic impacts force a stratosphere-troposphere dynamic interaction affecting tropospheric winds in both hemispheres [Miller et al., 2006; Stenchikov et al., 2006]. Aerosol absorption causes warming in the tropical lower stratosphere reaching 8 K in the Tambora and 3 K in the Pinatubo runs. The increase of the equator-pole temperature gradient tends to strengthen the\nD16104 STENCHIKOV ET AL.: VOLCANIC SIGNALS IN OCEANS\n9 of 13\nD16104\npolar vortex manifested by low-temperature anomalies at the north and south poles in boreal and astral winters, respectively. This causes a poleward shift of the tropospheric jets increasing winds in the lower troposphere and strengthening ocean stirring in high latitudes [Stenchikov et al., 2006; Toggweiler and Russell, 2008]. The poleward shift of tropospheric jets and an enhanced positive phase of the Arctic Oscillation, associated with the change of wind stress distribution, also lead to an AMOC increase [Delworth and Dixon, 2000]. The current models often underestimate the climate variability of the high-latitude atmospheric circulation and its response to volcanic forcing [Knutson et al., 2006; Miller et al., 2006; Stenchikov et al., 2006]. The zonal mean wind stress driving the ocean averaged for the first 5 years of the Pinatubo run increases at 30 S and 30 N, decreases at 50 S and 50 N where the cores of the southern and northern tropospheric jets locate, and increases poleward from those regions at 70 S and 70 N manifesting a slight poleward shift of the jets as was found by Stenchikov et al. [2006] in the IPCC model responses to volcanic forcing. The ocean wind stress anomaly in the Pinatubo runs is fairly weak (of the order of 2– 3%). However, the model climate is very sensitive to changes of ocean wind stress [Delworth and Dixon, 2006]. [33] The sea ice in the Arctic responds vigorously to global warming [Walsh, 1978] (http://www.cgd.ucar.edu/ cas/guide/Data/walsh.html), therefore it is important to better understand what factors could most affect it. Here the sensitivity of the Northern Hemisphere sea ice extent and mass to volcanic forcing is tested. Sea ice response could affect atmosphere-ocean interaction in high latitudes. For example, increase of sea ice decelerates the AMOC by weakening air-seawater interaction but increases surface albedo. Figure 5 shows the anomaly of the northern hemispheric mean annual maximum and minimum ice extent (Figures 5a and 5c) and mass (Figures 5b and 5d) for the Tambora (left column) and Pinatubo (right column) runs. The maximum sea ice extent anomalies reach 0.8 106 km2 in the Tambora run and 0.6 106 km2 in the Pinatubo run; it takes at least 5 years to develop. So sea ice extent responds more strongly not to the radiative forcing, but to ocean temperature and circulation. Accordingly, in the Pinatubo case the sea ice extent relaxes to the unperturbed level after a decade, and in the Tambora run it remains at 0.6 106 km2 level until the end of the run because ocean cooling remains significant. The sea ice response is marginally significant for the Pinatubo case (see 1s shading in Figures 5c and 5d). In the Tambora runs the signal-to-noise ratio is much larger (Figures 5a and 5b) which suggests that the casual relation between volcanic forcing and sea ice response might be genuine. Overall, these results suggest that large volcanic eruptions, such as Pinatubo, can have a meaningful impact on sea ice extent. Thus, any interpretation of observed changes of sea ice needs to take into account the nature and timing of volcanic eruptions. [34] The minimum ice extent is more sensitive to radiative cooling and ocean temperature, therefore its anomaly is stronger than the anomaly of the maximum ice extent reaching 1.6 106 km2 and 0.9 106 km2 in the Tambora\nD16104 STENCHIKOV ET AL.: VOLCANIC SIGNALS IN OCEANS\n10 of 13\nD16104\nand Pinatubo runs, respectively. It builds up in 3 years when the strongest ocean cooling develops and then declines for about 10 years. The minimum and maximum ice extent scale less than linearly with respect to radiative forcing because they are affected by ocean circulation change that by itself is nonlinear. The maximum and minimum ice mass (Figures 5b and 5d) appears to depend on radiative forcing more directly. Both minimum and maximum mass perturbations scale almost linearly with respect to the radiative forcing. The maximum (minimum) ice mass anomaly reaches 2.9(2.0) 1015 kg and 1.0(0.6) 1015 kg in the Tambora and Pinatubo runs, respectively. Variation of the sea ice mass affects ocean heat content. The anomalies of ocean heat content in Figures 2b and 2e account for this effect. To compare ice-melting effect with the surface energy exchange in Figure 1b, the amount of energy required for melting the maximum excess mass of sea ice during the second decade in the Pinatubo runs (Figure 5d) is calculated. Averaged over time and ocean surface it appears to be equivalent to about 0.02 W/m2 in comparison with 0.06 W/m2 of total surface flux anomaly calculated for the same period. It might play a larger role regionally at high latitudes and in particular years when significant melting occurs."
+  }, {
+    "heading": "4. Summary and Conclusions",
+    "text": "[35] The long-term ocean response to volcanic forcing was studied using the GFDL climate model. The interaction of volcanic impact with El Niño was included in the design of the numerical experiments. The effects were evaluated using 10-member ensemble averages to help reduce sampling errors. The coupled atmosphere-ocean-land-sea ice system reverts to its stable state after a small perturbation to the radiative balance. The process has multiple time scales. After a volcanic eruption, when a significant portion of an ocean cold anomaly penetrates to the deeper ocean layers, the pace of the vertical energy exchange in the ocean decreases and the relaxation slows down. The time scales are set by the mixing of the heat anomaly into the ocean and the adjustment time scale of the ocean itself. The ocean relaxation takes about a century and is characterized by multiple time scales (see Figure 1a). Although the results presented in this study compare reasonably well with observations and simulations conducted with other models, the quantitative discrepancies remain. The discussed longterm oceanic signals depend on dissipative and mixing ocean processes that might make the results model specific. A further multimodel analysis, focused on quantification of the ocean heat uptake mechanisms and reconciliation of model results with observations, would be needed to clarify those issues. [36] Another complication is associated with the deep ocean temperature drift [Delworth et al., 2006]. At present it is a problem for almost all coupled climate model simulations because it takes too much time to equilibrate the deep ocean. In this study the drift is removed from the anomalies by subtracting control runs from the perturbed runs with the same drift as was done by Delworth et al. [2005] and Gleckler et al. [2006a]. Because the deep ocean temperature drift develops very slowly, the effect of divergence of the ‘‘control’’ and ‘‘perturbed’’ drifts is negligible\nin the 20-year simulations, although these could become more significant in a few hundred years because of nonlinear interaction between the forcing and the drift. Therefore very long runs might be suspect. The ocean drift is more pronounced in the deep ocean. Figures 3a, 3b, 3e, and 3f show that its effect is not significant in the simulations because the ocean temperature anomaly develops from the top to the bottom, suggesting it is produced by volcanic forcing, not by drift. [37] This study finds that all surface and atmospheric perturbations have relatively short relaxation times. Ocean heat content and associated thermosteric height anomaly after initial 10-year adjustment changed very slowly because when a significant portion of an ocean cold anomaly penetrates to the deeper ocean layers, the pace of the vertical energy exchange in the ocean decreases and the relaxation slows down but does not stop. The Southern and the Northern Oceans respond asymmetrically to the radiative cooling, with a tendency for cooling of the deep waters in the Southern Ocean and warming in the deep waters of the Northern Ocean. This asymmetry is caused in part by the increase in AMOC, and involves the redistribution of ocean salinity, the forced positive phase of the Arctic Oscillation during the few years following a volcanic eruption, and a significant increase of sea ice extent and volume in the Northern Hemisphere. Volcanic eruptions produce longterm impacts on the ocean’s subsurface temperature and steric height that accumulate at the current frequency of explosive volcanic events. For example, since 1860 the accumulated averaged volcanic ocean heat content anomaly reaches about 5–10 1022 J by year 2000 comparable to 1/3 of the anthropogenic ocean warming effect [Delworth et al., 2005]. [38] The results of this study are summarized as follows. [39] 1. Radiative forcing produced by explosive volcanic events that have occurred in the historic period lasts for about 3 years. The volcanically induced tropospheric temperature anomalies reduce below noise after approximately 7 years. The sea ice responds on the decadal time scale. Deep ocean temperature, sea level, salinity, and AMOC have relaxation time of several decades to a century. This suggests that the Tambora subsurface temperature and sea level perturbations may have lasted well into the 20th century, interfering with the effects of the devastating Krakatau, Santa Maria, and Katmai eruptions which occurred in 1883, 1902, and 1912, respectively, producing a cumulative impact on the deep ocean thermal structure in the 20th century. [40] 2. The quasiperiodic nature of volcanic cooling facilitates ocean vertical mixing and might have an important effect on the thermal structure of the deep ocean. Therefore it has to be realistically implemented in climate models for calculating ‘‘quasiequilibrium’’ initial conditions, climate reconstructions, and for future climate projections. [41] 3. The decrease of ocean steric height in the present study’s simulations, caused by the Pinatubo eruption, reaches 9 mm in comparison with 5 mm estimated by Church et al. [2005]. In the Tambora simulations of the present study the sea level decreases by 25 mm which compares well with Gregory et al. [2006]. The ocean heat content decreases in the Tambora and Pinatubo runs by 15 1022 J and 5 1022 J, respectively. The vertical distribution of the temperature change signal is asymmetric at high latitudes.\nD16104 STENCHIKOV ET AL.: VOLCANIC SIGNALS IN OCEANS\n11 of 13\nD16104\n[42] 4. Atmospheric temperature anomalies forced by the Pinatubo eruption in the troposphere and lower stratosphere are well reproduced by the model but observed sea level and ocean heat content anomalies are overestimated. This discrepancy is seen in all other model simulations and might be caused by an unaccounted internal ocean variability and/or unknown forcing. [43] 5. The maximum sea ice extent and ice mass increase in the Tambora (Pinatubo) runs by 0.9 106 km2 (0.5 106 km2) and 2.9 1015 kg (1.0 1015 kg), respectively. This corresponds to 5% (3%) and 15% (5%) of the model CONTROL maximum extent and mass increase in the Tambora (Pinatubo) run. The simulated minimum ice extent is more sensitive to volcanic forcing than the maximum ice extent. [44] 6. The Atlantic AMOC strengthens in the Tambora and Pinatubo runs by 2.7 and 1.8 Sv that corresponds to 11% and 8% compared to the control, respectively. The ocean heat content, steric height, and sea ice mass perturbations scale linearly with respect to volcanic forcing. The AMOC and sea ice extent anomalies scale less than linearly.\n[45] Acknowledgments. We are grateful for comments and suggestions from K. Dixon, I. Held, J. Lanzante, S. Malyshev, B. Santer, D. Schwarzkopf, R. Toggweiler, and M. Winton. G.S. was supported in part by NASA grant NNG05GB06G, NSF grant ATM-0730452, and the UCAR Visiting Scientist Program."
+  }],
+  "year": 2009,
+  "references": [{
+    "title": "Proxy evidence for an El Nino– like response to volcanic forcing",
+    "authors": ["Adams", "J. B"],
+    "venue": "Nature, 426,",
+    "year": 2003
+  }, {
+    "title": "Thermosteric sea level rise, 1955–2003",
+    "authors": ["Antonov", "J. I"],
+    "venue": "Geophys. Res. Lett., 32,",
+    "year": 2005
+  }, {
+    "title": "A new application of the operational sounder HIRS in determining a climatology of sulfuric acid aerosol from the Pinatubo eruption",
+    "authors": ["A.J. Baran", "J. S"],
+    "venue": "Foot",
+    "year": 1994
+  }, {
+    "title": "Lidar measurements of stratospheric aerosol over Mauna Loa Observatory",
+    "authors": ["J.E. Barnes", "D.J. Hoffman"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 1997
+  }, {
+    "title": "Detection of anthropogenic climate change in the world’s oceans",
+    "authors": ["Barnett", "T. P"],
+    "venue": "Science, 292,",
+    "year": 2001
+  }, {
+    "title": "Penetration of human-induced warming into the world’s oceans",
+    "authors": ["Barnett", "T. P"],
+    "venue": "Science, 309,",
+    "year": 2005
+  }, {
+    "title": "Global tracking of the SO2 clouds from the June",
+    "authors": ["Bluth", "G.J. S"],
+    "venue": "Mount Pinatubo eruptions, Geophys. Res. Lett.,",
+    "year": 1992
+  }, {
+    "title": "Stratospheric loading of sulfur from explosive volcanic eruptions",
+    "authors": ["Bluth", "G.J. S"],
+    "venue": "J. Geol.,",
+    "year": 1997
+  }, {
+    "title": "ENSO influence on Europe during the last centuries, Clim",
+    "authors": ["S Brönnimann"],
+    "venue": "Dyn., 28,",
+    "year": 2007
+  }, {
+    "title": "Global decadal upper-ocean heat content as viewed in nine analyses",
+    "authors": ["J.A. Carton", "A. Santorelli"],
+    "venue": "J. Clim.,",
+    "year": 2008
+  }, {
+    "title": "Sea level rise and the warming of the oceans in the Simple Ocean Data Assimilation (SODA) ocean reanalysis",
+    "authors": ["Carton", "J. A"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2005
+  }, {
+    "title": "Ships logbooks and ‘‘the year without a summer,’",
+    "authors": ["M. Chenoweth"],
+    "venue": "Bull. Am. Meteorol. Soc.,",
+    "year": 1996
+  }, {
+    "title": "MSU tropospheric temperatures: Dataset construction and radiosonde comparisons",
+    "authors": ["Christy", "J. R"],
+    "venue": "J. Atmos. Oceanic Technol.,",
+    "year": 2000
+  }, {
+    "title": "Significant decadal-scale impact of volcanic eruptions on sea level and ocean heart content",
+    "authors": ["J Church"],
+    "venue": "Nature, 438,",
+    "year": 2005
+  }, {
+    "title": "Implications of the recent trend in the Arctic/North Atlantic Oscillation for the North Atlantic thermohaline circulation",
+    "authors": ["T.L. Delworth", "K.W. Dixon"],
+    "venue": "J. Clim.,",
+    "year": 2000
+  }, {
+    "title": "Have anthropogenic aerosols delayed a greenhouse gas– induced weakening of the North Atlantic thermohaline circulation",
+    "authors": ["T.L. Delworth", "K.W. Dixon"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2006
+  }, {
+    "title": "The impact of aerosols on simulated ocean temperature, heat content, and sea level in the 20th century, Geophys",
+    "authors": ["Delworth", "T. L"],
+    "venue": "Res. Lett., 32,",
+    "year": 2005
+  }, {
+    "title": "GFDL’s CM2 global coupled climate models. Part I: Formulation and simulation characteristics",
+    "authors": ["Delworth", "T. L"],
+    "venue": "J. Clim.,",
+    "year": 2006
+  }, {
+    "title": "Improved estimates of upper-ocean warming and multi-decadal sea-level",
+    "authors": ["C Domingues"],
+    "venue": "rise, Nature,",
+    "year": 2008
+  }, {
+    "title": "Evaluation of aerosol distribution and optical depth in GFDL coupled model",
+    "authors": ["P Ginoux"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2006
+  }, {
+    "title": "Krakatoa lives: The effect of volcanic eruptions on ocean heat content and thermal expansion, Geophys",
+    "authors": ["Gleckler", "P. J"],
+    "venue": "Res. Lett., 33,",
+    "year": 2006
+  }, {
+    "title": "Krakatoa’s signature persists in the ocean",
+    "authors": ["Gleckler", "P. J"],
+    "venue": "Nature, 439,",
+    "year": 2006
+  }, {
+    "title": "GFDL’s CM2 global coupled climate models. Part II: The baseline ocean simulation",
+    "authors": ["A Gnanadesikan"],
+    "venue": "J. Clim.,",
+    "year": 2006
+  }, {
+    "title": "Simulated global-mean sea level change over the last half-millennium",
+    "authors": ["J Gregory"],
+    "venue": "J. Clim.,",
+    "year": 2006
+  }, {
+    "title": "Formulation of an ocean model for global climate simulations",
+    "authors": ["Griffies", "S. M"],
+    "venue": "Ocean Sci.,",
+    "year": 2005
+  }, {
+    "title": "Earth’s energy imbalance",
+    "authors": ["J Hansen"],
+    "venue": "Confirmation and implications,",
+    "year": 2005
+  }, {
+    "title": "Historical ocean subsurface temperature analysis with error estimates, Mon",
+    "authors": ["M Ishii"],
+    "venue": "Weather Rev.,",
+    "year": 2003
+  }, {
+    "title": "Assessment of twentieth-century regional surface temperature trends using the GFDL CM2 coupled models",
+    "authors": ["Knutson", "T. R"],
+    "venue": "J. Clim.,",
+    "year": 2006
+  }, {
+    "title": "Measurements of the evolution of the Mt. Pinatubo aerosol cloud by ISAMS",
+    "authors": ["A Lambert"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 1993
+  }, {
+    "title": "Climatological atlas of the world ocean",
+    "authors": ["S. Levitus"],
+    "venue": "NOAA Prof. Pap.,",
+    "year": 1982
+  }, {
+    "title": "Anthropogenic warming of Earth’s climate",
+    "authors": ["S Levitus"],
+    "year": 2001
+  }, {
+    "title": "Warming of the world ocean, 1955–2003",
+    "authors": ["S Levitus"],
+    "venue": "Geophys. Res. Lett., 32,",
+    "year": 2005
+  }, {
+    "title": "A ‘‘vertically Lagrangian’’ finite-volume dynamical core for global models, Mon",
+    "authors": ["Lin", "S.-J"],
+    "venue": "Weather Rev.,",
+    "year": 2004
+  }, {
+    "title": "How much more global warming and sea level rise",
+    "authors": ["G Meehl"],
+    "venue": "Science, 307,",
+    "year": 2005
+  }, {
+    "title": "Forced variations of annular modes in the 20th century IPCC AR4",
+    "authors": ["Miller", "R. L"],
+    "venue": "simulations, J. Geophys. Res.,",
+    "year": 2006
+  }, {
+    "title": "Global modeling of land water and energy balances. Part I: The land dynamics (LaD) model",
+    "authors": ["P.C.D. Milly", "A. B"],
+    "venue": "Shmakin",
+    "year": 2002
+  }, {
+    "title": "Radiative climate forcing by the Mt",
+    "authors": ["P Minnis"],
+    "venue": "Pinatubo eruption,",
+    "year": 1993
+  }, {
+    "title": "High-latitude eruptions cast shadow over the African monsoon and the flow of the Nile",
+    "authors": ["L Oman"],
+    "venue": "Geophys. Res. Lett., 33,",
+    "year": 2006
+  }, {
+    "title": "Anthropogenic and natural influences in the evolution of lower stratospheric cooling",
+    "authors": ["V Ramaswamy"],
+    "venue": "Science, 311,",
+    "year": 2006
+  }, {
+    "title": "Microwave Limb Sounder measurements of stratospheric SO2 from the Mt",
+    "authors": ["Read", "W. G"],
+    "venue": "Pinatubo volcano, Geophys. Res. Lett.,",
+    "year": 1993
+  }, {
+    "title": "Accounting for the effect of volcanoes and ENSO in comparisons of modeled and observed temperature trends",
+    "authors": ["Santer", "B. D"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2001
+  }, {
+    "title": "Magma volume, volatile emissions, and stratospheric aerosols from the 1815 eruption of Tambora",
+    "authors": ["S Self"],
+    "venue": "Geophys. Res. Lett., 31,",
+    "year": 2004
+  }, {
+    "title": "Dynamic winter climate response to large tropical volcanic eruptions since 1600",
+    "authors": ["D Shindell"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2004
+  }, {
+    "title": "Terrestrial volcanism in space and time, Annu",
+    "authors": ["T. Simkin"],
+    "venue": "Rev. Earth Planet. Sci.,",
+    "year": 1993
+  }, {
+    "title": "Radiative forcing from the 1991 Mount Pinatubo volcanic eruption",
+    "authors": ["Stenchikov", "G. L"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1998
+  }, {
+    "title": "Arctic Oscillation response to the 1991 Pinatubo eruption in the SKYHI GCM with a realistic quasi-biennial oscillation",
+    "authors": ["G Stenchikov"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2004
+  }, {
+    "title": "Arctic Oscillation response to volcanic eruptions in the IPCC AR4 climate models",
+    "authors": ["G Stenchikov"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2006
+  }, {
+    "title": "Volcano Weather—The Story of 1816: The Year Without a Summer",
+    "authors": ["H. Stommel", "E. Stommel"],
+    "year": 1983
+  }, {
+    "title": "The Great Tambora eruption in 1815 and its aftermath",
+    "authors": ["R. Stothers"],
+    "venue": "Science, 224,",
+    "year": 1984
+  }, {
+    "title": "Time scales of climate response",
+    "authors": ["R.J. Stouffer"],
+    "venue": "J. Clim.,",
+    "year": 2004
+  }, {
+    "title": "Climate simulations for 1951–2050 with a coupled atmosphere-ocean model",
+    "authors": ["S. Sun", "J.E. Hansen"],
+    "venue": "J. Clim.,",
+    "year": 2003
+  }, {
+    "title": "The impact of natural and anthropogenic forcings on climate and hydrology since 1550",
+    "authors": ["Tett", "S.F. B"],
+    "venue": "Clim. Dyn., 28,",
+    "year": 2007
+  }, {
+    "title": "Ocean circulation in a warming climate",
+    "authors": ["J.R. Toggweiler", "J. Russell"],
+    "venue": "Nature, 451,",
+    "year": 2008
+  }, {
+    "title": "Effect of Mount Pinatubo volcanic eruption on the hydrological cycle as analog of geoengineering",
+    "authors": ["K. Trenberth", "A. Dai"],
+    "venue": "Geophys. Res. Lett., 34,",
+    "year": 2007
+  }, {
+    "title": "A data set on Northern Hemisphere sea ice extent, Glaciol",
+    "authors": ["J.E. Walsh"],
+    "venue": "Data Rep. GD-2,",
+    "year": 1978
+  }, {
+    "title": "Interannual variability in upper ocean heat content, temperature, and thermosteric expansion on global scales",
+    "authors": ["Willis", "J. K"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2004
+  }, {
+    "title": "A reformulated three-layer sea ice",
+    "authors": ["M. Winton"],
+    "venue": "model, J. Atmos. Oceanic Technol.,",
+    "year": 2000
+  }, {
+    "title": "GFDL’s CM2 global coupled climate models. Part III: Tropical Pacific climate and ENSO",
+    "authors": ["Wittenberg", "A. T"],
+    "venue": "J. Clim.,",
+    "year": 2006
+  }, {
+    "title": "On the surface and atmospheric temperature changes following the 1991 Pinatubo volcanic eruption: A GCM study",
+    "authors": ["F. Yang", "M. Schlesinger"],
+    "venue": "J. Geophys. Res",
+    "year": 2002
+  }],
+  "id": "SP:269c45bfebf6d02cf3c9bf3938d6891bc45edc67",
+  "authors": [{
+    "name": "Georgiy Stenchikov",
+    "affiliations": []
+  }, {
+    "name": "Thomas L. Delworth",
+    "affiliations": []
+  }, {
+    "name": "V. Ramaswamy",
+    "affiliations": []
+  }, {
+    "name": "Ronald J. Stouffer",
+    "affiliations": []
+  }, {
+    "name": "Andrew Wittenberg",
+    "affiliations": []
+  }, {
+    "name": "Fanrong Zeng",
+    "affiliations": []
+  }],
+  "abstractText": "[1] Sulfate aerosols resulting from strong volcanic explosions last for 2–3 years in the lower stratosphere. Therefore it was traditionally believed that volcanic impacts produce mainly short-term, transient climate perturbations. However, the ocean integrates volcanic radiative cooling and responds over a wide range of time scales. The associated processes, especially ocean heat uptake, play a key role in ongoing climate change. However, they are not well constrained by observations, and attempts to simulate them in current climate models used for climate predictions yield a range of uncertainty. Volcanic impacts on the ocean provide an independent means of assessing these processes. This study focuses on quantification of the seasonal to multidecadal time scale response of the ocean to explosive volcanism. It employs the coupled climate model CM2.1, developed recently at the National Oceanic and Atmospheric Administration’s Geophysical Fluid Dynamics Laboratory, to simulate the response to the 1991 Pinatubo and the 1815 Tambora eruptions, which were the largest in the 20th and 19th centuries, respectively. The simulated climate perturbations compare well with available observations for the Pinatubo period. The stronger Tambora forcing produces responses with higher signal-to-noise ratio. Volcanic cooling tends to strengthen the Atlantic meridional overturning circulation. Sea ice extent appears to be sensitive to volcanic forcing, especially during the warm season. Because of the extremely long relaxation time of ocean subsurface temperature and sea level, the perturbations caused by the Tambora eruption could have lasted well into the 20th century.",
+  "title": "Volcanic signals in oceans"
+}

@@ -1,0 +1,1501 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nEarth-Science Reviews\nj ourna l homepage: www.e lsev ie r .com/ locate /earsc i rev\nInvited review\nAlong-arc, inter-arc and arc-to-arc variations in volcanic gas CO2/ST ratios reveal dual source of carbon in arc volcanism\nAlessandro Aiuppa a,b,⁎, Tobias P. Fischer c, Terry Plank d, Philippe Robidoux a, Rossella Di Napoli a a Dipartimento DiSTeM, Università di Palermo, Italy b Istituto Nazionale di Geofisica e Vulcanologia, Sezione di Palermo, Italy c Department of Earth and Planetary Sciences, New Mexico University, USA d Lamont-Doherty Earth Observatory, Columbia University, USA\n⁎ Corresponding author at: Dipartimento DiSTeM, Univ E-mail address: alessandro.aiuppa@unipa.it (A. Aiuppa\nhttp://dx.doi.org/10.1016/j.earscirev.2017.03.005 0012-8252/© 2017 Elsevier B.V. All rights reserved.\na b s t r a c t a r t i c l e i n f o\nArticle history: Received 4 January 2017 Received in revised form 8 March 2017 Accepted 14 March 2017 Available online 18 March 2017\nSome 300–600 Tg of volatiles are globally vented each year by arc volcanism. Such arc gas emissions have contributed to past and present-day evolution of the Earth atmosphere and climate by recyclingmineral-bound volatiles subducted along active slabs. Carbon dioxide (CO2) and total sulphur (ST) are, after water, the major components of volcanic arc gases. Understanding their relative abundances (e.g., the CO2/ST ratio) in arc volcanic gases is important to constrain origin and recycling efficiency of these volatiles along the subduction factory, and to better constrain the global arc volcanic CO2flux. Here,we review currently available information on global variations of volcanic arc CO2/ST gas ratios.We analyse a dataset of N2000 published volcanic arc gas measurements that comprise (i) low-temperature hydrothermal gas emissions, in which ST is dominated by hydrothermal hydrogen sulphide (H2S), and (ii) high temperature “magmatic” gases rich in sulphur dioxide (SO2). We show that the global CO2/ST population of hydrothermal gases is mainly controlled by S loss to hydrothermal fluids/ rocks.We then select a subset of high-temperature (≥450 °C) arc gaseswhich, being less affected by S hydrothermal loss, can be used to infer the “deep” source of volatiles. Using a subset of time-averaged high-T gas compositions for 56 arc volcanoes, we identify sizeable along-arc and inter-arc variations in the “magmatic” arc gas CO2/ST ratio, which we ascribe to distinct volatile origins in the magma generation/storage zone. In the attempt to resolve the slab vs. crustal contributions to arc gas budgets, we explore the global association between volcanic gas CO2/ST ratios and non-volatile (trace elements) tracers in arc magmas. For the first time in a global study,wefind evidence for higher carbon output (CO2/ST) in arcswhere carbonate sediment subducts on the seafloor. Indeed,most arc volcanoes exhibit gas vs. trace element relationships that are explainedby addition of slabsedimentmelts ± fluids to themantle wedge.We also identify a subset of CO2-rich arc volcanoeswith unusually high CO2/ST ratios (Etna, Stromboli, Vulcano Island, Popocatépetl, Soufriere of St Vincent, Bromo and Merapi), which we interpret as the product of magma-limestone interactions in the upper crust. Evidence for this process comes from carbonate xenoliths and/or carbonate basement that characterise these volcanic systems. Although the mean global CO2/ST ratio of arc gas (~2.5) reflects a predominant source from subducted sediment, limestone-assimilation-derived C may account for a substantial (~19–32%) fraction of the present-day global arc budget, and may have contributed to elevated atmospheric CO2 levels and warmer climate in Earth's past. Our global CO2/ST vs. trace element association paves the way to identifying the gas signature of volcanoes (or arc segments) for which gas information is currently missing, and so improve our current global volcanic arc CO2 flux inventory.\n© 2017 Elsevier B.V. All rights reserved.\nContents\n1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25 2. CO2/ST ratios in volcanic arc gas: reviewing the literature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26 3. An updated volcanic gas CO2/ST ratio dataset. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26\nersità di Palermo, Italy. ).\n3.1. Exploring the dataset . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28 3.2. Temperature dependence: the effect of scrubbing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29 3.3. Degassing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31\n4. The CO2/ST ratio signature of high-temperature arc gases . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31 4.1. The Central America Volcanic Arc (CAVA) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34 4.2. Japan and the northwest Pacific . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34 4.3. Indonesia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35 4.4. Along-arc and arc-to-arc variations globally. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36\n5. Volcanic gas CO2/ST ratios vs. trace element tracers. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36 5.1. Carbon and sulphur from the slab . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37 5.2. Crustal fluids as source of C-rich volcanic gases . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39\n6. General discussion and conclusions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40 Acknowledgements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41 References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41"
+  }, {
+    "heading": "1. Introduction",
+    "text": "Over timescales of millions to billions of years, transport of volatiles in and out the Earth's interior is primarily regulated by subduction (Peacock, 1990). At convergent margins, active slabs inject volatiles into the mantle through subducted sediments (Plank and Langmuir, 1993, 1998; Plank, 2014), altered oceanic crust (AOC; Alt et al., 1993; Jarrard, 2003) and serpentinized lithospheric mantle (Rupke et al., 2004; Alt et al., 2012, 2013). De-volatilisation (Kerrick and Connolly, 2001a, 2001b; Schmidt and Poli, 2014) of these slab materials during high-pressure metamorphism returns volatiles back to the hydrosphere-atmosphere via mantle wedge melting and arc volcanism. Probing the source, fate and cycling of volatiles throughout the subduction factory is therefore key to understanding the evolution of our planet through geological time (Huybers and Langmuir, 2009; Canfield, 2004; Dasgupta et al., 2004; Dasgupta, 2013). Cycling of arc volatiles is, for example, thought to have regulated atmospheric CO2 levels, temperature fluctuations, oxygen rise, and biosphere evolution over the planet history (Edmond and Huh, 2003; Pagani et al., 2005; Gaillard et al., 2011; Johnston et al., 2011; Lee et al., 2013).\nVolatiles recycled during slab-mantle wedge interactions are released to the surface via arc volcanism. The hydrous nature of arc volcanic gases (Fischer and Chiodini, 2015) and magmas (Wallace, 2005) provide clear evidence for effective recycling of subducted H2O via dehydratation reactions in the slab (Kerrick and Connolly, 2001a, 2001b; Schmidt and Poli, 2014). A slab origin for arc H2O is also suggested by isotope signature of volcanic gases (Taran et al., 1989; Giggenbach, 1992), magmatic hornblendes (Taran et al., 1997a; Deering et al., 2012), and melt inclusions (Shaw et al., 2008).\nIn contrast, the origin of carbon (C) and sulphur (S), the two next abundant volatiles in arc magmas/gases, remains more debated. These volatiles are vented by high-temperature arc gas emissions in the form of carbon dioxide (CO2) and sulphur dioxide (SO2) gas, plus minor proportions of hydrogen sulphide (H2S) and molecular S (S2) (Gerlach and Nordie, 1975; see recent reviews in Oppenheimer et al., 2011, 2014). The isotope compositions ofmagmatic gas CO2 and SO2 require some level of slab-derived fluid contribution (Sano and Marty, 1995; de Hoog et al., 2001; Hilton et al., 2002; Sano and Fischer, 2013; Kagoshima et al., 2015). However, the large compositional heterogeneity of subductedmaterialsmakes C and S inputfluxes at arc trenches not accurately known (Jarrard, 2003; Freundt et al., 2014; Plank, 2014). In addition, it remains unclear whether and to what extent the devolatilization mechanisms within the down-going slab can effectively recycle C and S to arc magmatism (Manning, 2004; Gorman et al., 2006; Dasgupta and Hirschmann, 2010; Manning et al., 2013; Jégo and Dasgupta, 2013, 2014; Ague and Nicolescu, 2014). Probably the clearest evidence for a significant slab-fluid contribution to arc magmatism is provided by the 3He-normalised isotopic compositions\nand concentrations of arc C and S (Sano and Marty, 1995; Hilton et al., 2002; Oppenheimer et al., 2014; Fischer and Chiodini, 2015; Kagoshima et al., 2015). The isotopic approach may be complicated, however, by interactions between magmas and C-rich crustal sediments (limestones) that, as recent experimental evidence suggests, can contribute large volumes of CO2-rich bubbles (Iacono-Marziano et al., 2009; Deegan et al., 2010; Carter and Dasgupta, 2015; Blythe et al., 2015). Slab-derived and crustal sedimentary C (and S) are likely to have overlapping isotopic signatures (Bebout, 2014), andmay therefore be impossible to resolve isotopically, precluding an accurate estimate of crustal contribution to emitted arc gases and the atmosphere.\nCharactering global variations in volcanic arc gas CO2/ST ratios is key to improving our understanding of arc volatile genesis (Aiuppa et al., 2014). This is because the potential involved sources, e.g., the depleted mantle (CO2/ST of 0.3–0.8; Saal et al., 2002), subducted sediments/ crust (CO2/ST of 1–100; Freundt et al., 2014 and references therein) and CO2-rich fluids from limestone de-carbonatation (CO2/ST ≫ 100), all exhibit distinct CO2/ST signatures. For example, along-arc variations in volcanic gas CO2/ST ratios in the Nicaragua-Costa Rica segment of the Central American Volcanic Arc (CAVA) have recently been interpreted as due to increased contributions from slab-derived fluids in Nicaragua (CO2/ST ~ 3), relative to more-MORB-like magmatic volatile signature in Costa Rica (CO2/ST ~ 0.5–1.0) (Aiuppa et al., 2014).\nImproved knowledge of arc gas CO2/ST ratios is also mandatory for better quantification of the volcanic arc CO2 output. Measurement of the volcanic CO2 flux has required, in fact, a combination of simultaneously detected volcanic gas CO2/SO2 ratios and remotely sensed SO2 fluxes (Fischer, 2008; Burton et al., 2013; Oppenheimer et al., 2014; Fischer and Chiodini, 2015; Aiuppa, 2015). As such, while methods for directly measuring CO2 flux are being improved (Aiuppa et al., 2013, 2015a; Pedone et al., 2014a, 2014b; Queißer et al., 2016), we are still fundamentally limited by CO2/ST measurements. Specifically, several of the top volcanic arc emitters (Carn et al., 2016) have not yet been measured for their CO2/ST ratios, owing to their remote location, inaccessibility, or high level of volcanic activity. In addition, observations remain sparse, sporadic and incomplete even atmost of the few tens of arc volcanoes for which CO2/ST (and CO2 flux) information is available (Burton et al., 2013; Aiuppa, 2015). Because of the paucity of available data, estimates of the global volcanic arc CO2 output range widely in the literature (0.3–12.3·1012 mol/yr; see Burton et al., 2013). As completeness of the volcanic gas CO2/ST dataset is being improved by new observations, and also thanks to new research initiatives such as the Deep Earth Carbon Degassing (DECADE) project of the Deep Carbon Observatory (https://en.wikipedia.org/wiki/Deep_Earth_Carbon_ Degassing_Project), synthesis and systematization of available information is key to refining the arc CO2 output budget.\nIn this work, we attempt at systematically reviewing the available volcanic gas information in the geochemical literature, with the objective of characterising the global arc gas CO2/ST ratio variability. We\ninitially analyse a dataset of N2000 individual gas measurements from ~180 arc volcanoes to identify the factors that control the CO2/ST ratio range seen at each volcano. We show that the majority of the so-far analysed gas samples, being low in temperature (≪450 °C), have their CO2/ST ratios controlled by sulphur partitioning into the liquid hydrothermal system or gas scrubbing reactions in a shallow subsurface environment (Symonds et al., 2001), and as such cannot be used to track volatile origin at depth. We therefore focus on a subset of higher temperature (≥450 °C) arc gases (from ~50 arc volcanoes) to recognise source-related along-arc and inter-arc variations in volcanic gas chemistry. In so doing, we update and refine previous attempts to identify the CO2/ST ratio signature of individual arc segments (Hilton et al., 2002; Fischer, 2008; Taran, 2009; Shinohara, 2013). Finally, we combine, for the first time globally, volatile (volcanic gas CO2/S ratios) vs. non-volatile (trace elements) compositional information for arc magmas, to obtain novel constraints on the origin of C and S in arc magmas. We conclude that the global association of gas and trace elements helps resolve the slab vs. crustal contributions to arc gas budgets."
+  }, {
+    "heading": "2. CO2/ST ratios in volcanic arc gas: reviewing the literature",
+    "text": "Attempts to define the CO2/ST ratios of arc volcanic gases first appeared in the geological literature in the late 1980s–early 1990s. Although direct collection of fumaroles had started much earlier (Shepherd, 1925, 1938; Jaggar, 1940; Matsuo, 1960), it was only later that trends in volcanic gas composition were studied systematically (Gerlach and Nordie, 1975; Gerlach, 1980, 1982; Allard, 1983; Giggenbach, 1996).\nMarty et al. (1989) used the relatively few published volcanic gas results available at that time tofirst set the average volcanic arc gas CO2/ST ratio at ~1.5 ± 1.0 (Table 1; all ratios quoted here and below are on molar basis). From this, a total arc carbon flux of 0.3 × 1012 mol/yr was obtained.\nOnly three years later, Williams et al. (1992) used a larger volcanic gas compilation (200 analyses from 30 volcanoes worldwide) to argue that volcanic gas CO2/ST ratios are actually more variable than indicated in Marty et al. (1989). In their study, Williams et al. (1992) quoted a CO2/SO2 ratio range of 0.05 to 923, but also specified that 80% of the ratios available at that timewere between 1 and 10. Importantly,Williams et al. (1992) alsomade the first attempts to distinguish the volcanic gas CO2/SO2 signatures of quiescent and eruptive volcanoes. They suggested that CO2/SO2 ratios increase from ~1.5 to 29 as degassing strength declines, and increase from 1.3 to 7.4 as explosivity declines from VEI 5–7 to VEI 0 eruptions.WhileWilliams et al. (1992) estimated the global arc CO2/SO2 average at 2.8–3.5 (Table 1), strongly degassing volcanoes (either quiescent or erupting) were confirmed to have low (1.3 to 1.5) CO2/SO2 ratios, matching well with the global average of ~1.5 ± 1.0 in Marty et al. (1989). The global volcanic CO2 output was estimated at 1.5 ± 1.0 × 1012 mol/yr (Williams et al., 1992), not far from estimates of Gerlach and Present-day (1991) and Brantley and Koepenick (1995) (1.8 × 1012 mol/yr and 2–3 × 1012 mol/yr, respectively: both based on extrapolation of measured CO2 fluxes from individual volcanoes). For comparison, Sano and Williams (1996) estimated a volcanic arc CO2 output of 3.1 × 1012 mol/yr, based on the arc 3He flux and observed CO2/3He ratios in volcanic gases.\nIn the mid-1990s, two review-type articles were published on the chemistry of volcanic gases (Symonds et al., 1994; Giggenbach, 1996). Although not explicitly discussing the CO2/ST signature of volcanic arc gases, these studies summarized progress made in volcanic gas studies. With volcanic gas datasets growing in number and quality, first attempts to investigate the arc-to-arc variability in volcanic gas CO2/ST ratios finally became possible (Hilton et al., 2002; Fischer and Marty, 2005; Fischer, 2008).\nHilton et al. (2002) used ~700 individual analyses of arc-related volcanic and hydrothermal gases to calculate the characteristic (median) volcanic gas CO2/ST ratios for 10 arc segments (see Table 1). These\nwere found to spread over a wide range, from 1.7 (Kamchatka-Kuriles) to 104.5 (Philippines) (Table 1). The same authors also combined their inferred CO2/ST ratios with SO2 flux output budgets from individual arcs, which they obtained by extrapolating data in the global SO2 flux database of Andres and Kasgnoc (1998) using the power-law approach of Brantley and Koepenick (1995). This approach resulted in the first individual arc-resolved CO2 output budgets and recycling efficiencies (i.e., the fraction of subducted carbon recycled by arc magmatism). The authors cautioned, however, that the predominance of lowtemperature (hydrothermal) samples in their dataset could have resulted in their “arc gas averages” over-estimating the individual “magmatic” gas signatures and, consequently, the calculated arc CO2 outputs. As possible evidence of this effect, the global arc averaged CO2/ST ratio of Hilton et al. (2002) was a factor N 2 higher than in previous studies (5.1, Table 1). Yet, the global arc CO2 output they estimated (1.6 × 1012 mol/yr) was in linewith previous assessments, and the resulting estimates of S (450–2250 ppm) and CO2 (3500–7600 ppm) concentrations in undegassed sub-arc mantle melts (Fischer and Marty, 2005) were consistent with the arc magma melt inclusion record (Wallace, 2005).\nFischer (2008) continued on the above approach, but questioned on use of “median arc CO2/ST ratios” (as in Hilton et al., 2002 and Fischer and Marty, 2005). He suggested that using median ratios may lead to significant errors in calculated individual arc CO2 budgets, particularly for those arcs with sparse and incomplete gas datasets, and/or dominated by weak, low-temperature emanations (that have excessively high CO2/ST ratios). Because the majority of the arc segments meet these unfortunate circumstances, he proposed new representative individual arc representative CO2/ST ratios, based upon high-temperature volcanic gas data only (Table 1). However, the “arc means” of Fischer (2008), while lower than those of Hilton et al. (2002) for several arc segments (e.g., Aleutians, Kamchatka-Kuriles, Japan, Philippines), were not for some others, e.g., Italy, Andes, Indonesia, Central America. The global arc mean CO2/ST ratio of Fischer (2008) (6.1) was even higher than in Hilton et al. (5.1), as was his quoted global arc CO2 output (1.9 × 1012 mol/yr). The case of Italy is particularly emblematic: the very high ratio (17.9) proposed by Fischer (2008) was based upon composition of the weak (≪50 tons/day SO2) Vulcano Island emissions, while neglecting the far stronger (N300–5000 tons/day SO2) open-vent plume emissions from Etna and Stromboli, because compositional records were unfortunately not available at that time.\nThe example above clearly demonstrated that measuring openvent crater emissions from mafic arc volcanoes was key to improved arc CO2/ST gas inventories. Shinohara (2013) made the case clear in Japan. He showed that directly sampled fumaroles from Japan have highly scattered CO2/ST ratios, from b0.5 to N20. He argued instead that open-vent degassing volcanoes, whose crater plumes had become by that time measurable thanks to advent of the Fourier Transform Infra-Red spectrometry (FTIR; Francis et al., 1998) and the Multicomponent Gas Analyser System (Multi-GAS; Aiuppa et al., 2005; Shinohara, 2005), all exhibited CO2/ST ratios in a very narrow range (0.4–2; mean, 0.85). He also pointed out that since only six of such strongly degassing volcanoes contribute the vast majority (N95%) of the total Japanese arc gas budget, their compositions control the arc CO2 budget (Table 1). The author finally extrapolated his conclusions to global-scale volcanism, and argued that when the composition of top open-vent emitters is considered, instead of that of weak, directly sampled fumaroles, the global arc gas CO2/ST ratio and CO2 output reduce to ~2 and 1.2 × 1012 mol/yr, respectively (Table 1)."
+  }, {
+    "heading": "3. An updated volcanic gas CO2/ST ratio dataset",
+    "text": "We extracted from the geological literature chemical data for N2000 individual gasmeasurements from ~180 arc volcanoes and their related\nhydrothermal systems (Table S1). As is typical of arc settings (Fischer, 2008; Oppenheimer et al., 2014; Fischer and Chiodini, 2015; Aiuppa, 2015), these gases are dominated by H2O (typically ≫90 mol%). Interpretation of the magmatic H2O signature in volcanic gases/plumes is complicated by recurrent contributions from shallow meteoric fluids circulating within volcanic edifices (Goff and McMurtry, 2000; Fischer and Chiodini, 2015), and by analytical limitations in resolving a volcanic H2O signal from the ambient atmosphere levels in volcanic plumes (Aiuppa et al., 2008, 2010a, 2014). In contrast, CO2/ST ratios in volcanic gases/plumes are more directly related to degassing of the source magmas (Aiuppa et al., 2014) and are more accurately detected in plumes (Gerlach et al., 1998).\nFig. 1 shows the location of the targeted volcanic/hydrothermal systems, while data provenance is listed in the caption of Table 1 (and in Table S1). Results cover the majority of the arc systems active today, but also define amajor information gap in the southwest Pacific (Sumatra, Papua New Guinea-Solomon, Tonga). Our database extends previous compilations (e.g., Hilton et al., 2002) with new results published in the 2002–2015 period. Additionally, we not only include results of direct sampling of fumaroles, as in previous work, but also take into account CO2/ST ratio measurements in plumes, taken with either airborne (e.g., Werner et al., 2008, 2013) or ground-based (Aiuppa, 2015) techniques. Doing this, we implicitly target the volcanic gas CO2/ST ratio signature of open-vent volcanoes, which are inaccessible to direct sampling but contribute the majority of the “magmatic” arc gas budget (Shinohara, 2013). In this way, our database differs from previous efforts in the magnitude and variety of gas manifestations explored to constrain the global variability of volcanic arc gas composition. We caution, however, that this database is still far from exhaustive, and we hope it will inspire further, shared contributions from the entire volcanic gas community."
+  }, {
+    "heading": "3.1. Exploring the dataset",
+    "text": "Our dataset (Table S1) includes gas manifestations that are the most diverse in location and degassing style. We consider: (i) “cold”\ngas (T≪ 100 °C, and as low as 12 °C) from the periphery of volcanic systems (e.g., see results in Fischer et al., 2007 for Central America), from bubbling springs or from diffuse soil emanations; (ii) “hydrothermal” gas vents (T ~ 100 °C) from active solfataras; (iii) hydrothermal steam emissions from geothermal drillings (bottom hole temperatures of N100 °C and b350 °C); (iv) fumaroles from volcano summits and flanks (covering awide range of temperatures, depending onmagmatic vs. hydrothermal fluid contributions; Fischer and Chiodini, 2015); and (v) airborne or ground-based measurements of high temperature (N450 °C) magmatic plumes.\nFor simplicity, we sort the gas population into three categories: (i) hydrothermal gases (T b 250 °C), in which fluid contributions are mostly derived from boiling hydrothermal aquifers (Giggenbach, 1980; Chiodini and Marini, 1998); (ii) magmatic gases (T ≥ 450 °C, and as high as 1135 °C), mostly derived from sourcemagmas withminimal effects of hydrothermal re-equilibration (Symonds et al., 1994, 2001); and (iii) “mixed” gases, being a mixture of the two former, and in which scrubbing of magmatic S to hydrothermal rocks and fluids is still likely to occur (the boiling temperature of liquid sulphur is ~455 °C). Fig. 2 demonstrates that the first category (hydrothermal gases) is the most represented in the database, with 1131 measurements, while high-temperature magmatic gases are represented by a few hundred samples.\nVolcanic gas CO2/ST ratios in our dataset span six orders of magnitude (Fig. 2a), ranging from 0.17 to 243,000, although the vast majority of ratios lies between 0.5 and 500. The mean and median CO2/ST ratios are 270 and ~18, respectively (Table 1). Hydrothermal and magmatic gases show distinct CO2/ST ratio distributions (Fig. 2). Hydrothermal gases exhibit a polymodal distribution, with modes at ~20–40 and ~160 and the majority of the values between ~60 and ~300. The hydrothermal CO2/ST ratio population appears as negatively skewed, with some values as low as ~1 (Fig. 2a). Magmatic (+mixed) gases, instead, are characterised by symmetric, close-to-log-normal distribution of CO2/ST ratios, with a mode at ~5, most data ranging between 0.2 and 250. The mean magmatic arc gas CO2/ST ratio is ~2.5 (Table 1)."
+  }, {
+    "heading": "3.2. Temperature dependence: the effect of scrubbing",
+    "text": "The compositional dissimilarity of hydrothermal and magmatic gases reflects the strong temperature dependence of the gas CO2/ST ratio (Fig. 3). As already seen at the scale of individual arc segments (Aiuppa et al., 2013, 2014, 2015b), the global population of arc gases exhibits a general exponential trend of decreasing CO2/ST ratios with increasing temperature (Fig. 3). Although there is significant scatter, the lower-to-upper range for each temperature class (as identified by the grey shaded area in Fig. 3) becomes narrower upon increasing temperature. At the upper end of the population (N1000 °C) CO2/ST ratios are substantially lower, and less dispersed (range: 0.2–10), than in hydrothermal fluids (e.g., 0.2 to 8500 at ~100 °C) (Fig. 3).\nThe high CO2/ST ratio signature of hydrothermal fluids, relative to their hotter magmatic counterparts, is due to magmatic S scrubbing by hydrothermal reactions (Symonds et al., 2001). At any hydrothermal condition, S ismore reactive than CO2, and is therefore preferentially sequestered at depth by hydrothermal minerals and fluids (Symonds et al., 2001). The ultimate effect of hydrothermal S scrubbing is to produce surface gas emissions that are colder, more water-rich (Fig. 4), and with much higher CO2/ST (and CO2/HCl) ratios, than the pristine source magmatic gas. This process was first simulated numerically by Symonds and Reed (1993), Doukas and Gerlach (1995), Symonds et al. (2001, 2003a), and Gerlach et al. (2008). More recently, Marini and Gambardella (2005), Ilyinskaya et al. (2015), and Di Napoli et al.\n(2016) used the EQ3/6 software package tomodel magmatic gas scrubbing at near-surface conditions (0.1MPa) and over awide-range of temperatures. These reaction path models were found to satisfactorily reproduce the high CO2/ST ratio signature of hydrothermal gases in Iceland (Di Napoli et al., 2016). In the attempt to generalize these conclusions to hydrothermal systems in arc setting, we show in Figs. 3 and 4a the results of sets of EQ3/6 model runs. In these simulations, a “mean” magmatic arc gas (H2O = 95.8 mol%, CO2 = 3 mol%; SO2 = 1.2 mol%; Fig. 4) was allowed to react with meteoric water at temperatures ranging between 14 and 250 °C, and in the presence of a solid reactant (we used a basaltic-andesite in this specific case). Model set-up and assumptions are as in Di Napoli et al. (2016), and we refer to this paper for calculation details. We stress that the calculations here were not initialized at conditions (e.g., rock composition, porosity andmineralogy, reaction kinetics) specific to any of the hydrothermal systems in our dataset, but instead are illustrative of general trends (i.e., no attempt ismade to reproduce in detail the natural data trends). Ourmodel calculations reproduce well the distinct CO2/ST signatures of hydrothermal and magmatic gases (Figs. 3 and 4a). The gas phase that separates from model solutions after magmatic gas-water-silicate reactions have reached equilibrium is richer in CO2 (CO2/ST ratios from ~30 at 250 °C up to ~106 at 14 °C) than the feeding magmatic arc gas (CO2/ST = 2.5) (Fig. 3). Gases derived from the scrubbing models range in composition from CO2-rich (b100 °C) to H2O-rich (at 200–250 °C), depending on model reaction temperature (Fig. 4a), but are invariably poor in S. Our\ncalculations, therefore, reproduce well the S-depleted composition of the majority of hydrothermal gas samples in our dataset, which plot along the H2O-CO2 axis (Fig. 4a).\nFig. 3 also reveals that a number of high-temperature, directlysampled fumaroles from felsic dome-building volcanoes (e.g., Usu, Unzen and Showa-Shinzan in Japan, Mt. St. Helens in the United States; see Symonds et al., 1994 for data provenance), exhibit CO2/ST ratios that are higher than ratios in mafic to intermediate volcanoes of comparable temperatures. The same fumarole samples (from Usu, Unzen, Showa-Shinzan and Mt. St. Helens) are unusually H2O-rich\n(see Fig. 4a). Such characteristics point to hydrothermal, rather than magmatic, signature of gases, in spite of the high discharge temperatures. A common feature of these fumarole samples is that they were taken from weakly degassing, low-flux gas vents on-top of cooling lava domes, time after their emplacement/eruption. We argue that the relatively low flux of these gas manifestations, combined with the pervasive meteoric circulation that develops on fractured, cooling lava domes (Gerlach and Casadevall, 1986; Symonds et al., 1996), determined these unusually high CO2/ST ratio compositions. The lack of magmatic input, and low residual volatile content in the degassed domes\ne global dataset (Table S1). Symbols for gas samples are as in Fig. 3. Hydrothermal gases are\ns define a compositional field (green area in the figure) toward more S-rich compositions.\nea labelled “felsic” identifies a cluster of high-temperature gas samples from some silicic,\nt typically display H2O-enriched compositions (likely due to a combination of S scrubbing\nsitions of gases formed by scrubbing of the magmatic arc gas “mean” by aqueous solutions\nppa et al., 2016 and references cited therein) and Stromboli (Aiuppa et al., 2010a and ref-\netti and Papale (2004), and show the pressure-dependent evolution of the magmatic gas\nconditions. The two model lines, taken from Aiuppa et al. (2016), were obtained using\nx conditions (NNO buffer), but with distinct parental melt CO2 contents (black line: CO2\n1 MPa) Rayleigh-type open-system degassing (crystallization-driven). See Aiuppa et al.\n(both justified by sampling beingmade in a post emplacement/eruption phase), likely also concurred to the observed “hydrothermal” gas signature."
+  }, {
+    "heading": "3.3. Degassing",
+    "text": "As shown above, the large intra- and inter-volcano CO2/ST ratio heterogeneity observed at quiescent volcano-hydrothermal systems primarily reflects time- and space-dependent variations in the extent of magmatic gas scrubbing. At such volcanoes, therefore, the temporal changes in gas composition are chiefly determined by episodes of magma degassing, which affect the magmatic vs. hydrothermal contributions to the total fluid budget (e.g., Chiodini et al., 2003, 2012, 2015; Vaselli et al., 2010).\nMagmatic gas scrubbing reactions become irrelevant at more active high-temperature volcanic systems, where the CO2/ST gas signature is primarily controlled by volatile content and degassing history of the sourcemagma (e.g., Edmonds, 2008). The advent of increasingly sophisticated multi-component saturation models (Papale, 1999; Newman and Lowenstern, 2002; Moretti et al., 2003; Moretti and Papale, 2004; Witham et al., 2012; Burgisser et al., 2015), has recently paved the way to predicting the composition of the gas phase that coexists with silicate melts over a range of magmatic pressures, temperatures, and compositions. These models have been used to reconstruct the degassing path at a number of arc volcanoes, demonstrating good agreement betweenmodel-derivedmagmatic gas compositions and observed (volcanic gas) compositions (Spillaeart et al., 2006; Aiuppa et al., 2007, 2010a; Burton et al., 2007; Edmonds et al., 2010; Allard, 2010; de Moor et al., 2016a).\nTwo model output examples are shown in Fig. 4b, in which the saturation code of Moretti and Papale (2004) was used to calculate the pressure-dependent evolution of the magmatic gas phase separated by Etna's hawaiites, in either open- or closed-system conditions (model lines are from Aiuppa et al., 2016). For any starting P-T-X magma condition, themagmatic gas phasewill evolve uponmagma ascent and decompression from CO2-rich at high pressure to S-rich at\nnear-surface conditions (Fig. 4b; Aiuppa et al., 2007, 2016). These model predictions offer quantitative background to interpret the observed variations in volcanic gas composition seen at Etna (Figs. 4b, 5), whereby: (i) high CO2/ST gases are typically released prior to eruption, due to fast, non-equilibrium ascent of deeply-sourced CO2-rich bubbles from decompressing magmas (Shinohara et al., 2008a); while (ii) low CO2/ST gases are typically released during syn-eruptive degassing of surface-emplaced magma (see Fig. 5; data from Aiuppa et al., 2007, 2010b, 2016; Patanè et al., 2013). Ascent of deeply rising gas is also thought to give rise to CO2-rich gas vented during Hawaiian (Allard et al., 2005; La Spina et al., 2015) and Strombolian (Oppenheimer et al., 2006; Burton et al., 2007; Allard et al., 2016) explosions.\nQualitatively similar model gas evolutions have been obtained for other arc volcanoes of distinct temperature, melt composition and volatile content (Edmonds, 2008, Aiuppa et al., 2010a; de Moor et al., 2016a). This implies that pre-eruptive increase of the volcanic gas CO2/ST ratio may be a general process, as it has been observed recently at a variety of arc volcanoes (Aiuppa et al., 2009, 2010c; Surono et al., 2012; Werner et al., 2012, 2013; de Moor et al., 2016a)."
+  }, {
+    "heading": "4. The CO2/ST ratio signature of high-temperature arc gases",
+    "text": "As discussed above, the number of arc volcanoes for which CO2/ST gas ratios are available is vast (Fig. 2). However, the majority of these gases are low in temperature, and show highly scattered CO2/ST ratios that reflect extensive gas-water-rock reactions at hydrothermal conditions (Fig. 3). Investigating the origin of C and S in arc setting requires, therefore, focus on high-temperature (T N 444.6 °C, the boiling temperature of liquid S) gases and/or open-ventmagmatic plume emissions, in which the effect of hydrothermal reactions is negligible.\nWe identify 56 arc volcanoes worldwide for which hightemperature gas compositions are available (Fig. 6 and Table 2). These gas compositions were extracted from a variety of sources (see Table 2 for data provenance), andwere obtained either fromdirect sampling of high-temperature (≥450 °C) fumaroles (e.g., Fischer and Chiodini, 2015) or frommeasurements of volcanic gas plume compositionswith in-situMulti-GAS instruments (Aiuppa, 2015) or airborne gas analysers (Werner et al., 2013). In all the volcanic systems investigated, the high emission temperatures imply limited or no interaction with hydrothermal systems. The prevalence of SO2 over H2S is also supportive of lack of hydrothermal re-equilibration, although themagmatic gas SO2/H2S ratio is function of both temperature and redox conditions and can be low (but normally N1) at “reduced” magmatic conditions (Gerlach and Nordie, 1975; Oppenheimer et al., 2011). We also specifically focus onmafic to intermediate arc volcanoes (basaltic to andesitic), in which volatile abundances are most closely related to parental melt and source mantle compositions (Fig. 4a, see also Aiuppa, 2015). Many of the volcanoes in the database exhibit open-vent activity, but examples of volcanic domes are included if associated to strong gas emissions (Soufrière of Guadeloupe) and recent eruptive activity (e.g., Redoubt, Bezymianny, Soufriere Hills, St. Helens). The Satsumaiwojima dome, although silicic in composition, is included for the same motivations, in contrast to weakly degassing, cooling lava domes, that are not considered (see discussion above for Usu, Unzen, Showa-Shinzan).\nFor each volcano, we averaged the available gas data to obtain mean ± 1SD (1 standard deviation) CO2/SO2 ratios (Table 2). With these mean values, we effectively integrate the “time-averaged” degassing behaviour of each volcano. Specifically, this procedure minimises the weight of the high CO2/SO2 ratio gases typically observed prior to eruption, and which reflect transient phases of preeruptive degassing of deep-rising bubble-rich magma (Fig. 5). We are well aware that CO2 and S are separately extracted from melts during magma ascent and decompression (Fig. 4b), owing to contrasting solubilities (e.g., Moretti et al., 2003; Edmonds, 2008). We\nnote, however, that such sequential degassing steps do average out in the long-term, as magmas are convectively transported from their deep (CO2-degassing favoured) to near-surface (S-degassing favoured) storage zones (Aiuppa et al., 2007; Shinohara, 2008; Shinohara et al., 2008a; Blundy et al., 2010). Mafic to intermediate volcanoes, as those contained in our dataset (Table 2), typically erupt more than once in a decade (the repose intervals between their generally mild - VEI ≤ 2 - eruptions are normally b10 years; Siebert et al., 2015). Over timescales of years/decades, therefore, we posit that time-averaged volcanic gas compositions will most closely approach the CO2/S proportions in the primary undegassed magma and that of the magma source (Allard et al., 1994; Allard, 2010). In a number of cases (e.g., Etna, Stromboli, and several others), our mean ± 1SD are based upon years of continuous observations with permanent instrumentation. These long-term\nNotes to Table 2 Volcanic gas data used to calculate the mean CO2/ST ratios listed in the table were obtained usi GAS; AR: Airborne measurements; FTIR: Fourier Transform Infra-Red Spectroscopy. Results ar (PL). For each volcano, themean ratio value and its standard deviation (SD) are listed. Themaxi or thermal observations. ID: Volcano identification number (see Fig. 6 for location). Gas data sou ddSymonds et al., 1994; eTamburello et al., 2014; fTamburello et al., 2015; gShinohara andWitter et al., 2016b; mDelorme et al., 1981; nGranieri et al., 2015; oAllard, 1983; pPoorter et al., 1991; q sTaran et al., 1995; tTaran, 2009 (and references therein); uAiuppa et al., 2012; ũChaplygin et al., yLyons et al., 2016; £Varley and Taran, 2003; $Moussallam et al., 2016; %Allard et al., 2015; %%Mé et al., 1998; àEdmonds et al., 2010; èEdmonds et al., 2014; +Martin et al., 2010; €Menyailov et a 2011 (and references therein); øGerlach et al., 1997; æGoff et al., 1998; çGoff et al., 2001; þRobe (see Fischer and Chiodini (2015) for data provenance). Trace element ratios (Ba/La, U/Th and Sr volcanics. Data were extracted from the earthchem portal, plus a number of additional w information_ref.doc”).\nobservations, encompassing a number of eruptive cycles (Fig. 5), are thus likely to capture the representative time-averaged behaviour of the volcano. Elsewhere, we base our averages on spot observations or occasional direct sampling of fumaroles, and we caution that these sporadic measurements can introduce some level of uncertainty that can only be quantified through additional measurements in the future.\nOur compilation (Table 2) demonstrates that CO2/ST ratios in high-temperature volcanic arc gases vary globally from 0.2 to 9.2, and exhibit a positively skewed, non-Gaussian distribution (Fig. 6c) with a mode in the 1–1.5 interval. The median and mean CO2/ST ratio values in our dataset are 1.6 and 2.5, respectively (Table 1), and are therefore consistent with the recently proposed mean arc gas ratio of ~2 (Shinohara, 2013). Based on the global distribution of CO2/ST ratios (Fig. 6c), we group the 56 volcanoes\nng a variety of complementary gas techniques: DS: Direct Fumarole Sampling; MG: Multie from two different sample types: high-t fumaroles (FUM) and open-vent crater plumes mumdischarge temperature (Max. T, in °C) is eithermeasured or ɸinferred based on visual rce: aWerner et al., 2011; bWerner et al., 2012; cWerner et al., 2013; dSymonds et al., 1990; , 2005; hThis study; kBrantley et al., 1992; iAiuppa et al., 2014; jFischer et al., 2015; ldeMoor Giggenbach, 1996; rShinohara, 2013 (and references therein; including ṝSaito et al., 2002); 2015; vTaran et al., 1987; wZelenski et al., 2014; αZelenski et al., 2015; zFischer et al., 1998; trich et al., 2011; &Enciso et al., 2015; °Fischer et al., 1997; §Allard et al., 2014; #Hammouya l., 1986a; @Elkins et al., 2006; ¥Gerlach and Casadevall, 1986; ©Aiuppa, 2015; ¶Allard et al., rge et al., 2009. Where available, carbon isotope information (δ13C) was also implemented /Nd) listed in the table aremass ratios (mean+ 1SD) fromwhole-rock analysis of erupted ork from the literature (see reference list in the Supplementary file “Supplementary\nin 3 categories (see Table 2): Group 1 (CO2/ST ratios ≤ 2); Group 2 (2 b CO2/ST ratios ≤ 4); and Group 3 (CO2/ST ratios N 4). The 3 groups exhibit distinct CO2/ST ratio populations (Fig. 7). We believe that the CO2/ST ratio difference between the 3 Groups is real\n(e.g. not due to dataset incompleteness), and in any case larger than the intra-volcano variability. For example, Group 1 Poás volcano (Fig. 7a) has undergone frequent eruptive (phreatic) cycles during 1981–2015 (the period over which gas information is\ncompilation is based upon a selection of published and novel gas information. Only high-T dmagmatic gas signature).When available, C (δ13C) isotope informationwas also included"
+  }, {
+    "heading": "900 2.9 2.6 €, @ −2.6 111.0 6.8 0.9 0.09 32.9 17.6",
+    "text": "available; Brantley et al., 1992; Fischer et al., 2015; de Moor et al., 2016b); still, the volcanic gas CO2/ST ratio systematically remained b2, and most often b1 (Fig. 7a). In contrast, high-temperature (N700 °C) volcanic gases have frequently been studied at Group 2 volcano Momotombo, in Nicaragua, since the 1980s (Menyailov et al., 1986a), typically obtaining higher CO2/ST ratios (average, 2.9 ± 2.6; Fig. 7b). Over the same temporal interval, Stromboli volcano, in Italy, has systematically vented CO2-rich gas (Fig. 7c), as characteristic of Group 3 volcanoes (Allard et al., 1994; Aiuppa et al., 2010a, 2010c).\nThe global coverage of our high-temperature volcanic arc gas dataset is extremely heterogeneous (Fig. 6a). The majority of the available results are from better-studied arc segments (Fig. 8) such as Central America (cfr 4.1) and Japan-Kamchatka-Kuriles (cfr 4.2), while limited information is available for the south-west Pacific (e.g., Indonesia; cfr. 4.3), where unfortunately the largest number of degassing volcanoes are clustered. Our results of Table 2 are averaged to identify the “mean” and “median” individual arc CO2/ST ratios listed in Table 1."
+  }, {
+    "heading": "4.1. The Central America Volcanic Arc (CAVA)",
+    "text": "The CAVA has been a primary target for volcanic gas observations (see Fischer et al., 2007 for a review). Due to substantial along-arc variations in geometry, age, thermal regime and extent of serpentinization of the subducting slab (Protti et al., 1995; Abers et al., 2003), the CAVA is the site of systematic variations in magma petrogenesis (e.g., Carr et al., 1990), andwork has been done in the attempt to identify similar alongarc variations in volcanic gas composition and isotope signature (see review of Fischer et al., 2007). The compositional features of magmatic gases in the Costa Rica–Nicaragua segment of CAVA have been carefully examined from direct sampling of fumaroles (Menyailov et al., 1986a; Brantley et al., 1992; Fischer et al., 2002; Shaw et al., 2003; Zimmer et al., 2004; Elkins et al., 2006; De Leeuw et al., 2007; Fischer et al., 2007), or from remote (Burton et al., 2000; Martin et al., 2010; Conde\net al., 2014) or in-situ (Aiuppa et al., 2014; de Moor et al., 2016a, 2016b) plume studies. In contrast, the compositional signature of high temperature volcanic gases in Guatemala and El Salvador is far less characterised, and compositional data exist for only 3 volcanoes (see Table 2).\nTaken together (Fig. 8a), results are supportive of a more C-rich volcanic gas signature in Nicaragua (Group 2), relative to nearby CAVA arc segments (Group 1: CO2/ST of ~0.5–1.9) (see Table 2). The CO2-richer (CO2/ST of ~2.7–4) composition of Nicaraguan gas is consistent with higher CO2 contents recorded in glass inclusions (Wehrmann et al., 2011) and sedimentary isotopic signatures of N2 and CO2 in gas manifestations (Fischer et al., 2002, 2007). Aiuppa et al. (2014) recently demonstrated that the high CO2/ST gas ratios inNicaragua (Fig. 8a) scalewell to increases in trace-element slab fluid proxies (e.g., Ba/La ratios) in the magmas (Carr et al., 1990, 2003; Patino et al., 2000; Sadofsky et al., 2008). This further suggests that CO2-rich volcanism in Nicaragua reflects efficient C extraction by fluids formed along a “wet” (serpentinized) slab and/or subduction of a substantial section of marine carbonates (Plank et al., 2002).\nAveraging results from high temperature “magmatic gases” in Table 2, we obtain mean CO2/ST ratios of 2.0 ± 1.1 (CAVA) to 2.5 ± 2.1 (CAVA + Mexico; Table 1). This characteristic mean CO2/ST signature of CAVA volcanism lies within the 1.0–3.4 range found in previous regional studies (Hilton et al., 2002; Mather et al., 2006; Fischer, 2008; Table 1).\n4.2. Japan and the northwest Pacific\nFig. 8b is a map of the time-averaged (“mean”) CO2/ST compositions of high-temperature magmatic gas samples from the JapanKurile-Kamchatka segment of the Pacific Ring of Fire (data from Table 2).\nFor Japan, themap only shows compositional data for six persistently degassing volcanoes (see Table 2). These were recognised by Shinohara (2013) as the strongest gas sources in Japan, contributing N95% of the total arc volatile budget. The high-temperature gas samples collected at Japanese silicic volcanoes Usu, Unzen and Showa-Shinzan are not considered here, owing to their unusually S-poor (and H2Orich; Fig. 4a) compositions (see Fig. 3 and related discussion). We believe the low gas fluxes that prevailed during post-emplacement/ eruption degassing at these domes are responsible for the “scrubbed” gas compositions observed (cfr. 3.2). In contrast, gas fluxes are more sustained at the Satsuma-iwojima rhyolitic dome (included in Table 2), and correspond to magmatic (rather than hydrothermal) gas compositions. Fig. 8b confirms (Shinohara, 2013) the relatively uniform, CO2-poor compositions (0.4–2; mean, 0.85) of Japanese volcanic gas samples, all belonging to our Group 1.\nFig. 8b and c additionally show that a carbon-poor (Group 1) gas signature is not exclusive of Japan, but rather a distinctive feature of the entire northern segment of the Pacific Ring of Fire (Taran, 2009; Werner et al., 2011). The Kamchatka-Kurile arc has been, in spite of its remote location, the target of extensive work from Russian geochemists since the 1970s (Menyailov, 1975; Menyailov and Nikitina, 1980). The available data were recently summarized in Taran (2009), who reviewed volcanic gas information from 23 volcanoes of the Kamchatka-Kurile arc. He found that, while hydrothermal manifestations span a wide range of compositions (CO2/ST ratios from 0.7 to 16; see also Aiuppa et al., 2012), high-temperature gases all cluster at a CO2/ST ratio of ~1, that he proposed as representative of the magmatic volatiles in the region (Table 1). Only the compositions of these high-temperature data are shown in Figs. 6 and 8b (see also Table 2).\nSimilarly, in the Aleutian-arc and the Cascade-Range, very high CO2/ST ratios (4.5–297; Symonds et al., 2003a, 2003b) have been typically observed during repose periods. Given the glaciated nature of most volcanoes, and the very high precipitations, scrubbing of\nmagmatic volatiles by meteoric fluids (within meteoric/hydrothermal systems at depth) prevails, and masks the original magmatic gas signature (Symonds et al., 2003b). It is only during unrest phases and eruptions that magmatic gases were found to freely vent at the surface, and therefore measurable with airborne techniques (Doukas and McGee, 2007; McGee et al., 2010; Werner et al., 2012, 2013). Werner et al. (2011) reviewed the CO2 and SO2 degassing records of several actual and ‘failed’ eruptions in the Cook Inlet region (south central Alaska). They found that high (≫2) CO2/SO2 ratios were typically observed at these volcanoes early during the unrest/ eruption sequences, possibly due to a combined effect of deep magmatic degassing and gas scrubbing. In contrast, with time, all (unrest/eruption) events were found to converge to a common CO2/ST gas ratio between 0.5 and 2, which the authors considered as representative of the bulk magmatic volatile content in the source magmas. The inferred “magmatic” CO2/ST gas ratios of Aleutian volcanoes (Table 2 and Fig. 8c) are calculated averaging the “erupting gas compositions” in Werner et al. (2011, 2012, 2013). The soobtained “mean” CO2/ST ratio for the Alaska-Aleutian arc is 1.2 (Table 1). For comparison, high-temperature magmatic gases from Mt. St. Helens (Table 2) support a CO2-rich (Group 3) signature for the Cascade volcanic arc (see inset in Fig. 8c)."
+  }, {
+    "heading": "4.3. Indonesia",
+    "text": "Indonesia, with the Sunda-Banda arc extending from Sumatra (in the northwest) to Timor (in the southeast) and also including the Sulawesi-Halmahera arcs in the northeast (Fig. 8d), is home of 140 identified active volcanoes (Global Volcanism Program, http://www.volcano.si.edu/), ~100 of which have erupted in the recent history (Simkin and Siebert, 1994). However, published volcanic gas analyses are available for only b20 Indonesian volcanoes (see compilation in Pfeffer, 2007), and the majority of the available data are for low-temperature emanations from dormant (solfatara stage) volcanoes (Poorter et al., 1991; Delmelle et al., 2000; Clor et al., 2005). Because of this paucity of information, the magmatic gas CO2/ST ratio signature of Indonesian volcanism is not well constrained, and regional volcanic gas flux inventories remain very inaccurate (Table 1).\nCompositional data from high-temperature gases are available for only five volcanoes (Fig. 8d). These results support unusually C-rich (Group 3) signature of high-temperature Java gases. These have CO2/ST ratios (of ~4 to ~6) at the upper end of the arc volcanic gas range (Fischer, 2008), and well above the “mean arc” CO2/ST ratio (of ~2) of Shinohara (2013) (Table 1). The peculiar C-rich\ncomposition of gases in Java was well represented in the Indonesia arc averages of Hilton et al. (2002) (CO2/ST ratio of 4.3) and Fischer (2008) (CO2/ST ratio of 5.0) (Table 1). Lower CO2/ST ratios (b3 and as low as 0.4) are observed in volcanic gases west, north, and southeast of Java (Fig. 8d), suggesting that along-arc variations in gas chemistry can be important in Indonesia."
+  }, {
+    "heading": "4.4. Along-arc and arc-to-arc variations globally",
+    "text": "Globally, our results demonstrate large and systematic inter-arc and along-arc variations in CO2/ST ratios (Figs. 6, 9). In the eastern segment of the Pacific Ring of Fire (Fig. 9a), CO2/ST ratios progressively increase northward from Chile to Colombia, peak in the Nicaragua segment of CAVA (Figs. 6a, 8a), and then decrease again to low values (b2) in Alaska. This pattern parallels CO2 variations in sediments subducted at the corresponding trenches (Plank, 2014; Fig. 9a). Similarly, in the western segment of the Pacific Ring of Fire (Fig. 9b), a band of volcanic arcs, stretching from KurilKamchatka in the NW to Marianas/Japan further south, consistently exhibit CO2-poor volcanic gases (CO2/ST b 2) and subducting sediments. Further south, in the Vanuatu-New Zealand transect of the arc, the increasingly high CO2/ST gas signatures again parallel increases in the CO2 sedimentary input (Fig. 9b).\nOverall, these systematic trends point to a first order control of subducted sediment composition on volcanic gas compositions at Group 1–2 volcanoes. Where sediments are increasingly biogenic in nature (Plank, 2014), such as in the high biological productivity zones of Colombia-CAVA (as revealed by high Sr-Ba contents in sediments; Fig. 9c–d), volcanic gases are more CO2-rich (Group 2). In contrast, in the western Pacific, where terrigenous and biosiliceous (CO2-Sr-Bapoor) sediments prevail (Plank, 2014), volcanic gases tend to be systematically CO2-poor (Group 1).\nWe also identify a number of arc volcanoes and segments (Group 3; Fig. 9) whose volcanic gas CO2-enrichment is disproportionally high, and inconsistent with the low CO2 sedimentary input. This distinctive CO2-rich signature reflects a different fluid source. Below, we use correlations between gas (CO2/ST ratios) andwhole-rock trace-element compositions of source magmas to discriminate among possible fluid components."
+  }, {
+    "heading": "5. Volcanic gas CO2/ST ratios vs. trace element tracers",
+    "text": "The global link between volcanic gas CO2/ST ratios and the subducted sediment CO2 content (Fig. 9) suggests dominant slab-fluid contribution to Group 1–2 volcanoes. In contrast, Group 3 volcanoes require a distinct C source, with crustal limestone assimilation being a possible candidate (Carter and Dasgupta, 2015, 2016). One methodology to effectively resolve slab vs. crustal volatiles is to compare the CO2/ST proportions in volcanic gases to the trace element signatures of the corresponding source magmas. Arc magmas typically exhibit high levels (relative to the depleted mantle, DMM) of a suite of fluid-mobile trace elements that reflect involvement of slab-derived fluids in their generation zone (e.g., Hawkesworth et al., 1993). If volatiles and trace elements share a common origin in the slab, then some extent of correlation between gas (CO2/ST ratios) and trace element tracers is to be expected (Aiuppa et al., 2014).\nA variety of trace element ratios have been used to identify slab fluid contributions in arc magmas (Pearce and Peate, 1995; Elliott, 2003; Portnyagin et al., 2007; Sadofsky et al., 2008; Ruscitto et al., 2012), including ratios between Large Ion Lithophile Elements (LILE; such as Ba, K and Sr) and Light Rare Earth Elements (LREE) or Th and U. Here, we use the trace element ratios Ba/La, Sr/Nd and U/Th as geochemical proxies for the incorporation of C-bearing slab fluids into arc magmas (Fig. 10). Subducted sediments typically exhibit higher Ba/La, Sr/Nd and U/Th values than the Depleted Middle oceanic ridge Mantle (DMM; Workman and Hart, 2005), because Ba, Sr and U are enriched in the carbonate- or organic carbon-rich biogenic sediments formed in high biological productivity zones of the globe (Plank and Langmuir, 1993, 1998; Plank, 2014). During sedimentmelting at slab P-T-X conditions (see below), Ba/La, Sr/Nd and U/Th ratios can be fractionated owing to the higher affinity of Ba, Sr and U for the melt relative to LREE and Th, which are more effectively retained in the solid residuum (Hermann and Rubatto, 2009; Skora et al., 2015). The Ba-Sr-U-rich signature of a slab-contaminated mantle wedge is transferred to arc magmas, owing to the similar incompatible behaviour of these elements during mantle partial melting (Saal et al., 2002).\nFig. 10 shows themeanvolcanic gas CO2/ST ratios vs. the Ba/La, Sr/Nd and U/Th ratios in the corresponding magmas for each of the 56 volcanoes in our high-temperature dataset (Table 2). Group 1 volcanoes (with CO2/ST b 2) exhibit little change in gas CO2/ST ratios with\nincreasing Ba/La, Sr/Nd andU/Th ratios;many volcanoeswithin Group 1 overlap with CO2/ST estimates for the depleted mantle (0.3–0.8; Saal et al., 2002), and thus show little evidence for excess CO2 derived\nfrom the subducted slab. Group 1 volcanoes generally correspond to regions with little carbon subducted in sediment (Fig. 9), and thus their low CO2/ST puts limits on carbon potentially derived from other slab sources such as AOC or serpentinite. In Group 2, which only includes volcanoes with C-rich sediments in their trenches (Figs. 6, 9), the correlation between gas and trace element ratios is much stronger, and CO2/ ST ratios asymptotically converge to higher values of 3–4. In contrast, Group 3 volcanoes exhibit high (N4) CO2/ST gases, and have low trace element ratios that do not correlate with CO2/ST. The distinct gas vs. trace element dependence between Groups 2 and 3 volcanoes is also clear at the scale of individual arc segments (Fig. 11)."
+  }, {
+    "heading": "5.1. Carbon and sulphur from the slab",
+    "text": "The correlation between gas and trace-element compositions in Group 2 requires a common origin of volatiles and trace elements. Sediments are the most important hosts of incompatible trace elements in the slab (Plank, 2014), and the incorporation of sedimentderived slab fluids (including melts) into the mantle wedge is commonly invoked to explain the higher Ba/La, Sr/Nd and U/Th in arc magmas, relative to DMM (e.g., Sadofsky et al., 2008). We therefore propose, based on the gas vs. trace element correlations (Fig. 10), that sediment-derived slab fluids are the dominant C and S sources to Group 2 magmatic systems.\nWe make use of results of melting experiments on carbonated sediments at P-T-H2O slab conditions (Skora et al., 2015) to calculate the\nL1: slabmelt formed bymelting of a C-rich sediment (16wt% CO2); trace element and *CO2 content inmelt from Skora et al. (2015); §melt S content from Jégo andDasgupta (2013, 2014). L2: slabmelt formed bymelting of an intermediate C-rich sediment (6wt% CO2); trace element and *CO2melt contents from Skora et al. (2015); §S content is assumed to be determined by mixingwith a S-rich aqueous fluid from AOC, typically containing 2.5 wt% S (Jégo andDasgupta, 2013, 2014). The presence of two coexisting fluid phases (melt+ aqueous fluid) has been reported in melting experiments on carbonated sediments (Skora et al., 2015), in contrast to C-free sediment melting in which one super-critical fluid seems to prevail (Hermann and Rubatto, 2009). L3: slab melt formed bymelting of a GLOSS-type sediment (#3 wt% CO2; Plank and Langmuir, 1998). Trace element as in L2. **CO2 content derived assuming a CO2/S mass ratio of 2 and a §melt S content from Jégo and Dasgupta (2013, 2014). L4: slabmelt formed bymelting of a C-poor terrigenous sediment. Trace elements fromHermann and Rubatto (2009). Pelagic sediments with dominantly terrigenous signatures are likely to contain 1 wt% CO2 at most ($Li and Bebout, 2005). We assume a maximum CO2 content of 0.2 wt% for the slab melts formed in these virtually CO2-free conditions **assuming a CO2/S mass ratio of 2 and a melt §S content from Jégo and Dasgupta (2013, 2014) (same as L3). L5: slab melt formed by AOC melting. Trace elements are from Kessel et al. (2005). L6: aqueous fluid derived from AOC. Trace elements are from Kessel et al. (2005). **CO2 content derived assuming a CO2/S mass ratio of 2 and an aqueous fluid §S content from Jégo and Dasgupta (2013, 2014).\nfractions of slab-melts that, injected into themantlewedge, are required to produce the arc magma C-LILE enrichment (Fig. 10d). We focus on slabmelts (Table 3) in view of recent evidence for solidus temperatures being reached in H2O-fluxed modern top-slabs (Plank et al., 2009; Syracuse et al., 2010; Cooper et al., 2012), and because melts are far more effective carriers of trace elements than aqueous slab-fluids (Kessel et al., 2005; Hermann et al., 2013; Spandler and Pirard, 2013; Skora et al., 2015). Initial experiments andmodel calculations indicated an overall thermal stability of subducted carbonates at sub-arc depths (Kerrick and Connolly, 2001a, 2001b; Thomsen and Schmidt, 2008), suggesting that a substantial fraction of subducted C can escape recycling into slab fluids, and ultimately enter the deep mantle (Dasgupta et al., 2004, 2013; Dasgupta and Hirschmann, 2010; Thomson et al., 2016). However, recent work has also shown that C extraction from carbonated sediments and eclogites can largely be enhanced if hydrous fluids are made available from de-volatilization of the underlying serpentinized mantle (Rupke et al., 2004; Kessel et al., 2005; Kerrick and Connolly, 2001a; Kerrick, 2002; Hermann et al., 2006; Hermann and Spandler, 2008; Alt et al., 2012, 2013). In such “wet” slab environments, CO2 extraction from subducting slabs can occur via either de-carbonation (Gorman et al., 2006), dissolution into aqueous fluid produced by breakdown of hydrous minerals (Ague and Nicolescu, 2014), or slab melting (Hermann and Martin, 2013; Skora et al., 2015). In a H2O-fluxed slab, CO2 transport via silicate (Skora et al., 2015) or carbonatitic (Poli, 2015)melts could be enhanced, in particular. The positive relationship of CO2 enrichment in volcanic gases (relative to S) and LILE in Group 2 arc magmas (Fig. 10) is strongly suggestive of a common source of C and LILE in subduction environments. We therefore assume that C extraction from slabs primarily occurs via\nhydrous melting of carbonated meta-pelites that are the main sinks for both C and LILE.\nThe volatile and trace element signature of slab melts has been investigated in high P-T experiments conducted on a variety of subducted litho-types (Table 3). We consider the results of melting experiments of carbonatedmeta-pelites (CO2= 16wt%; Skora et al., 2015) as themost appropriate to infer composition of the slabmelt component determining the C-rich signature of Group 2 volcanoes.We hereafter refer to this C-rich slab melt as L1 (Table 3), and the procedure used to estimate its volatile/trace element composition is detailed below.We caution, however, that quantitativemodeling is complicated by actual melt composition being a complex function of P-T-H2O-fO2 slab conditions, protholith nature, mineralogy of the solid residuum, and element-specific fluid/ solid partitioning that are inaccurately known for volatiles. C and S abundances in slabfluids have yet to be fully characterised, in particular.\nMelting experiments of carbonate-bearingmeta-pelite demonstrate 30–100% of the original carbonate can be removed from the protholith by silicate melts in H2O-fluxed slabs (Hermann and Martin, 2013; Skora et al., 2015). The silicic (SiO2 63–65 wt%) hydrous (H2O ~ 20 wt%) melts seen to form in experiments with C-bearing (6–16 wt%) sediments contain ~5 wt% CO2 at sub-arc slab conditions (~3–4 GPa and ~800–900 °C; Skora et al., 2015), and this value is taken here as representative of slab melt L1 (Table 3).\nS behaviour in the slab is less well characterised, as subducted sediments and AOC are by themselves highly heterogeneous in their S contents (Alt and Burdett, 1992; Alt et al., 1993). However, bulk sediment S contents, from ~850 ppm in the W Pacific (Alt and Burdett, 1992) to ~1900 ppm offshore CAVA (Kimura et al., 1997; Freundt et al., 2014), encompass the AOC average of ~1000 ppm (Alt et al., 1993; Alt and\nShanks, 2011). No experiment has beenmade, at least to the best of our knowledge, specifically targeting S partitioning during sediment melting. However, the same silicate C-rich melts of Skora et al. (2015) do contain b1500 ppm S. This limited S transport capacity of silicate melts formed at slab conditions has been confirmed in a set of experiments on sea-water altered MORB (Jégo and Dasgupta, 2013, 2014), with an eclogitic mineral assemblage that is not dissimilar from that of slab meta-pelites (Hermann and Rubatto, 2009). The sulphur content in these silicate melts was found to be redox dependent, from b0.05 wt% at FMQ and sulphide saturation, up to 0.15–0.3 wt% at deltaFMQ N 2.5 and anhydrite saturation (at 950–1050 °C). In view of the prevalence of sulphates over sulphides in modern subducted sediments (Canfield, 2004), and the positive δ34S signature of arc magmas and gases (de Hoog et al., 2001; de Moor et al., 2013; Kagoshima et al., 2015), we accept the inferred S content of 0.1 wt% for oxidised melts formed at relevant slab temperatures of ≤900 °C (Jégo and Dasgupta, 2014). This S content is therefore used for our L1 slab melt (Table 3).\nThe trace element content (Table 3) of slab melt L1 is inferred based upon results of melting experiments on carbonated sediments (Skora et al., 2015). In these carbon-rich systems, the presence of epidote and carbonate in the melting residue leads to distinctive trace element melt signature compared to carbonate-free systems (Table 3). Carbonrich melts (L1–L2 in Table 3) have far larger Ba/La and Sr/Nd ratios than melts formed in carbon-free conditions (L4 in Table 3; see also Fig. 12), owing to distinct accessory mineral control on LREE (epidote/ carbonates in carbon-rich systems vs. monazite/allanite in CO2-poor systems; Plank, 2005; Hermann and Rubatto, 2009; Skora et al., 2015). The high Ba and Sr contents in carbon-rich melts also reflect the low modal abundance of phengite (Ba control) and high carbonate abundance (Sr control) in the mineral assemblage.\nWe finally use the inferred L1 composition (Table 3) to calculate the effects of the addition of a C-rich slab melt on the trace-element and CO2, S budgets of arc magmas. The case is illustrated by the slab-melt addition line (add line) marked in Fig. 10 as SL1. This line was obtained by stepwise addition of increasing fractions of slab melt L1 to a DMM (composition fromWorkman and Hart, 2005). These calculations demonstrate that addition of a 1–5 wt% hydrous silicate melt, containing ~0.1% S and ~5 wt% CO2 (our inferred slab melt L1; Table 3), to a DMM can explain the compositional signature of Group 2 volcanoes (Fig. 10).\nInterpretation of the slab fluids/melts that concur to determine the composition of C-poor (Group 1) volcanoes is more problematic. We stress that melts formed by melting of CO2-poor terrigenous sediments (end-member slab-fluid L4; from Hermann and Rubatto, 2009) cannot account for the Ba-Sr-K-rich signature of arc magmas (see Figs. 10, 12). Similarly, melts delivered by AOC melting (L5, from Kessel et al., 2005; Fig. 12) are Ba- and U-poor, and cannot account for the composition of Group 1 (and Group 3, see below) arc magmas. We argue, instead, that aqueous fluids delivered by sub-solidus temperature devolatilization of AOC (L6 in Table 3) are sufficiently LILE- and U-rich (Figs. 10, 12), andmay thusmake the high Ba/La and Sr/Nd slab component involved in the generation of Group 1 magmas. This is supported by the global arc dataset. One might expect AOC C-bearing fluids to dominate in regions where sediments are C-poor. Such regions yield Group 1 volcanoes, uniformly low in CO2/S (Fig. 6), suggesting that AOC fluids are low in CO2/S (Table 3). Alternatively, low CO2/S arc systems may originate from mixtures of C-rich melts and AOC aqueous fluids (that do contain up to 2.5 wt% S; Jégo and Dasgupta, 2013, 2014), or by melts originating from melting of a GLOSS-like (GLObal Subducting Sediment) sediment with intermediate C (3 wt%; Plank and Langmuir, 1998). A tentative guess for compositions of these fluids (referred as L2 and L3, respectively) is illustrated in Fig. 10 and Table 3.\nClearly, morework needs to be done to clearly identifying the nature of slab melts/fluids.With the current available information, we propose that the distinct gas vs. trace element associations of Group 1 and 2 reflect dissimilar slab source contributions (respectively, AOC ± sediments and carbonated sediments)."
+  }, {
+    "heading": "5.2. Crustal fluids as source of C-rich volcanic gases",
+    "text": "The CO2-rich volatile signature of Group 3 volcanoes (Figs. 6, 9) is inconsistent with a slab-sediment derivation, unless the naturally delivered fluids are more LILE-poor (and C-rich) than experiments would suggest (Fig. 10). Similarly, melts delivered by AOC melting (Fig. 12) are Ba- and U-poor, and cannot account for the composition of Group 3 arcmagmas. The aqueousfluids, delivered by sub-solidus temperature de-volatilization of AOC, would in principle be sufficiently LILE- and Urich (Fig. 12), but are unlikely to carry C at the required wt% level (Manning et al., 2013). We propose, instead, that de-carbonation/ assimilation of upper crustal sediments (Watkinson and Wyllie, 1964; Iacono-Marziano et al., 2009) is the cause for C-rich arc gases. Our hypothesis is supported by recent experimental results demonstrating that carbon-rich, calcic melts can be produced bymagma-limestone interactions (Deegan et al., 2010; Blythe et al., 2015; Carter and Dasgupta, 2015).\nGroup3 volcanoes (except La Soufrière of St Vincent) sit on km-thick carbonate-bearing sedimentary basements (Fig. 6) and show large, documented geological, petrological and geochemical evidence formagmalimestone interactions. Assimilation of limestones at Popocatepétl volcano has been invoked to explain the rapid outburst of CO2-rich plume gases, as measured by FTIR (Goff et al., 2001), and is supported by the presence of metamorphosed carbonate xenoliths in the eruptive sequence (Obenholzner et al., 1998). These are thought to derive from a 3 km-thick sedimentary basement, composed of a sequence of Cretaceous marine carbonate, shale, and evaporates (Goff et al., 2001). Similarly, geological, petrological and geochemical evidence for limestone assimilation exists in Central Java, where volcanoes (e.g., Merapi) sit\non N10 km thick sedimentary basement and often erupt calc-silicate xenoliths (Chadwick et al., 2007; Deegan et al., 2010; Troll et al., 2012; Borisova et al., 2013). C-rich sedimentary formations are also widespread around Mt. Etna, and several km of limestone makes up the volcano's basement (Branca et al., 2011). Crustal sedimentary xenoliths are not uncommon on Etna (Michaud, 1995) and, although being largely siliceous in nature, imply recurrent interactions between ascending magmas and sedimentary flyshoid units through which limestone successions are interspersed (Clocchiatti et al., 1988; Tonarini et al., 2001; Corsaro et al., 2007). This evidence, combined with anomalously positive carbon isotope composition of plumes and fumaroles (Chiodini et al., 2011), supports limestone as an additional C source in the emitted gases. Although no limestone outcrop is reported on the surroundings of La Soufriére on St. Vincent (Lesser Antilles), it has been proposed (Devine and Sigurdsson, 1980) that calcareous sedimentswere deposited on the submerged St. Vincent arc crest prior to the volcano build-up. Calcic hornfels containing wollastonite, ferrosalite and anorthite crystals are common in ejecta from the La Soufriére 1902 and 1979 eruptions, and were interpreted as resulting from thermo-metamorphic transformations of tuffitic limestones at the magma chamber margins (Davidson, 1987; Carron and Guen De Kerneizon, 1991; Bezard et al., 2014). It was additionally proposed that the resulting release of thermo-metamorphic CO2 could also have impacted eruption dynamics (Carron and Guen De Kerneizon, 1991). High rates of assimilation of upper crustal sediments have also been invoked to explain the ‘continental’ isotopic (Sr, Nd, Hf and Pb) signature, and low LILE/HFSE compositions, of mafic (non picritic; Bouvier et al., 2010) lavas/pyroclasts from La Soufriere of St. Vincent, and other volcanoes of the Southern Antilles (Davidson and Wilson, 2011; Bezard et al., 2014).\nBased on the evidence above, incorporation of external CO2, produced by magma-limestone interactions in the crustal plumbing systems of these volcanoes, has been hypothesised earlier (e.g., Goff et al., 2001; Troll et al., 2012), but has remained difficult to prove isotopically. Crustal vs. slab contributions remain, in fact, inadequately resolved on isotopic\nbasis (Fig. 13). We find, instead, that the distinctive volatile vs. trace element association of Groups 1–2 and 3 volcanoes (Fig. 10) effectively resolve crustal vs. slab sediment fluid contributions to arc magmas.\nWe model the incorporation of crustal-derived fluids into arc magmas (see crustal fluid add lines in Fig. 10) by stepwise addition of: (i) a pure CO2 gas phase, formed by metamorphic (de-carbonatation) reactions in the crust (DE in Fig. 10), and (ii) a CO2-rich fluid formed by assimilation of crustal limestones (add lines A1 to A3). The assimilation curves A1, A2 and A3 were calculated by step-wise addition of increasing weight fractions of limestones to arc magma with DMM-like volatile and trace element signature. We use measured maximum (A1), mean (A2) and minimum (A3) trace-element and volatile (C, S) abundances inMesozoic/Cenozoic Sicilian limestones (Table 4) to explore the full possible range of limestone compositions. We propose, based on mass-balance calculations, that addition to a typical MORBtype Group 1 arc magma (with ~0.1 wt% CO2 and ~0.2 wt% S; Wallace, 2005) of 1–2 wt% pure-CO2 gas from crustal limestone decarbonatation, or 10–20 wt% limestone assimilation, would result in the Group 3 high CO2/ST compositions (Fig. 10). We also infer, based on the above mass fractions and compositions of end-members DE to A1–A3, that 90–95% of the C outgassed from Group 3 volcanoes might be crustal in origin (in both the de-carbonation and assimilation scenario). Group3 includes two top volcanic C emitters (Etna andPopocatepétl), which CO2 fluxes have been estimated at respectively 0.14 ∙1012 and 0.24 ∙1012 mol C/yr (see compilation in Burton et al., 2013). Other Group 3 volcanoes are weaker CO2 sources (data from Burton et al., 2013 and Aiuppa, 2015), but do raise the cumulative CO2 output from Group 3 volcanoes to 0.4 ∙1012 mol C/yr. From this, using the 90–95% proportions inferred above, we assess that magma-limestone interactions at Group 3 volcanoesmaybe sourcing0.36 to 0.38 ∙1012mol C/yr. Finally, considering that the most recent estimates converge to a total arc CO2 flux of 1.2 to 1.9 ∙1012 mol/yr (Hilton et al., 2002; Fischer, 2008; Shinohara, 2013), we conclude that magma- limestone interactions may contribute 19–32% of what currently outgassed by arc volcanism globally."
+  }, {
+    "heading": "6. General discussion and conclusions",
+    "text": "Resolving the origin of volcanic arc gases is hampered by complex interplays between near-surface (scrubbing, degassing) and source-related (slab composition and de-volatilization) processes. Characterising the source of arc C is additionally complicated by magma-host rock interactions in the crust, whichmay contribute an additional but unknown fraction of the global arc budget.\nWe have here reviewed our current understanding of processes that control the global arc gas CO2/ST ratio variability. Our results suggest the\nrole played by magmatic gas scrubbing on the CO2/ST signature of lowtemperature (b450 °C) arc gases (Figs. 2–4). Inclusion of such lowtemperature samples in global datasets leads to arc-averaged CO2/ST ratios that are excessively high, both globally and at the scale of individual arcs (Table 1). Also, these low-temperature manifestations contribute little to the arc volatile budget, which appears to be dominated by a few strong, persistent volcanic gas sources (Mori et al., 2013; Shinohara, 2013) at least in arcs where such extensive measurements of both high- and low-temperature manifestations have been made. We recommend, therefore, that gases from these persistently active volcanoes (Fig. 6), typically emitted at high-temperature (Table 2), are used to infer the “magmatic” CO2/ST signature of arc segments (Table 1). Our “magmatic” CO2/ST ratio averages (Table 1) identify both CO2-rich (e.g., Italy, Java) and CO2-poor (e.g. the Japan-Kamchatka-Kuriles-Aleutians) arc segments, suggesting distinct volatile sources.\nWe have also presented, for thefirst time globally, a systematic analysis of the gas vs. trace element associations in arc volcanoes (Fig. 10). Our analysis supports the use of volcanic gas CO2/ST ratios to derive information on volatile source and behaviour in the magma generation zone. Only high-temperature (N450 °C) magmatic gases, in which the effect of scrubbing is minimal, should be used to address questions of volatile source (Table 2). The fact that no correlation has previously been observed between CO2 contents in arc magmas and trace element tracers (e.g., Wehrmann et al., 2011)maymerely reflect the infidelity of the glass inclusion record, due to pre-entrapment volatile loss to amagmatic vapour (Wallace and Gerlach, 1994; Wallace et al., 1995, 2015; Wallace and Edmonds, 2011). Volcanic gases integrate volatile release over deep-to-shallow magma degassing paths (Edmonds, 2008; Oppenheimer et al., 2014), and are inherentlymore appropriate for correlation of magmatic volatiles with petrologic parameters commonly used to trace subduction input.\nThe global CO2/ST ratio vs. trace element association suggests dual sources of C in arc volcanism.We propose that CO2-poor and intermediate CO2-rich arc gases, vented by LILE-enriched Group 1 andGroup 2 arc volcanoes, are mainly sourced by slab de-volatilization (Fig. 10). The distinct CO2/ST ratio compositions exhibited by these two groups correlate well with subducted sediment compositions at respective trenches (Figs. 6, 9), e.g. Group 2 volcanoes correspond to arc segments where CO2-rich sediments are currently being subducted (Figs. 6, 9). This is the first global study that finds a direct connection between carbon subduction on the seafloor and the carbon content of volcanic output. Due to the difficulty in quantifying carbon fluxes and sources, such relationships have been elusive in the past, but our focus on gas ratios (and volcanic rock trace element ratios) provides a new fruitful approach for tracing recycled carbon.We conclude that Group 2 volcanoes aremainly sourced by de-volatilization of C-rich sediments, while AOC and/or (Cpoorer) sediments are increasingly involved in volatile generation at Group 1 volcanoes/arcs.\nOur results also provide first observational evidence for recent experimental work (Iacono-Marziano et al., 2009; Deegan et al., 2010; Blythe et al., 2015; Carter and Dasgupta, 2015) that underpins magma-limestone interaction in the genesis of present-day Ca-C-rich mafic arc magmas. The C-rich, LILE-poor composition of Group 3 volcanoes (Fig. 10) is, in fact, supportive of the decarbonatation/assimilation hypothesis. We calculate that magma-limestone interactions at today's Group 3 volcanoes could be sourcing ~0.36 to 0.38 ∙1012 mol C/yr. This corresponds to ~19–32 of what currently outgassed by arc volcanism globally, implying a predominant C source from the slab (e.g., 68–81% of C from Group 1–2 volcanoes). A major role played by subducted sediments is also supported by amean global CO2/S ratio of arc gas (of ~2.5; Table 1) that is close to Group 2 volcanoes.\nOur observations provide independent support for long-term climate change models (Lee et al., 2013) calling upon magmatic assimilation of crustal limestones as cause for the high volcanic CO2 outgassing, increased atmospheric CO2 levels, and warmer climates at the Cretaceous-Palaeogene transition (e.g., Pagani et al., 2005). Group 3\nvolcanoes are not exclusively located on continental crust, however, implying that island arc volcanism may also have contributed additional crustal CO2 in the late Cretaceous, by incorporation of shallow carbonate platforms ringing the Tethys Ocean (Johnston et al., 2011). Group 2 volcanoes may also have become more dominant sources of atmospheric CO2 during past episodes of massive carbonate subduction (Edmond and Huh, 2003).\nThis study provides a new and straightforward approach for discriminating slab vs. upper plate sources of volcanic CO2, and identifies the small number of volcanoes (n b 10) worldwide that show convincing evidence for carbonate assimilation in the arc crust. In this way, future work can focus on these fundamentally different sources of CO2 in subduction zone volcanism. One additional implication of our results is that the global associations between gas and trace elements (Fig. 10) could be used to predict, based on available whole-rock compositional data, the CO2/ST gas signature of volcanoes (or arc segments) for which gas information in currently missing. Filling this gap of information, particularly for the strongly degassing volcanoes of south-east Asia and Southern America (Carn et al., 2016; Fioletov et al., 2016) that have yet not been measured for gas, is necessary for improved assessment of the global volcanic arc CO2 fluxes.\nSupplementary data to this article can be found online at http://dx. doi.org/10.1016/j.earscirev.2017.03.005."
+  }, {
+    "heading": "Acknowledgements",
+    "text": "This researchwas supported through funding from the Deep Carbon Observatory Deep Earth Carbon Degassing program and from the European Research Council (FP7/ERC grant agreement no. 305377). We wish to thank Y. Taran and an anonymous reviewer for useful comments and suggestions, and A. Gomez-Tuena and T. Horscroft for inviting this review article."
+  }],
+  "year": 2017,
+  "references": [{
+    "title": "Carbon dioxide released from subduction zones by fluidmediated reactions",
+    "authors": ["J.J. Ague", "S. Nicolescu"],
+    "venue": "Nat. Geosci",
+    "year": 2014
+  }, {
+    "title": "Geochemical model of a magmatic–hydrothermal system at the Lastarria volcano, northern Chile",
+    "authors": ["F. Aguillera", "F. Tassi", "T. Darrah", "S. Moune", "O. Vaselli"],
+    "venue": "Bull. Volcanol",
+    "year": 2012
+  }, {
+    "title": "Gas geochemistry of the magmatic-hydrothermal fluid reservoir in the CopahueCaviahue volcanic complex (Argentina)",
+    "authors": ["M. Agusto", "F. Tassi", "A.T. Caselli", "O. Vaselli", "D. Rouwet", "B. Capaccioni", "S. Caliro"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2013
+  }, {
+    "title": "Volcanic gas monitoring",
+    "authors": ["A. Aiuppa"],
+    "year": 2015
+  }, {
+    "title": "Terminal Strombolian activity at Etna's central craters during summer 2012: the most CO2rich volcanic gas ever recorded at Mount Etna",
+    "authors": ["A. Aiuppa", "E. Lo Coco", "M. Liuzzo", "G. Giudice", "G. Giuffrida", "R. Moretti"],
+    "venue": "Geochem. J",
+    "year": 2016
+  }, {
+    "title": "2015a. New ground-based lidar enables volcanic CO2 flux measurements",
+    "authors": ["A. Aiuppa", "L. Fiorani", "S. Santoro", "S. Parracino", "M. Nuvoli", "G. Chiodini", "C. Minopoli", "G. Tamburello"],
+    "venue": "http://dx.doi.org/10.1038/srep13614",
+    "year": 2015
+  }, {
+    "title": "2015b. First determination of magma-derived gas emissions from Bromo volcano, eastern Java (Indonesia)",
+    "authors": ["A. Aiuppa", "P. Bani", "Y. Moussallam", "R. Di Napoli", "P. Allard", "H. Gunawan", "M. Hendrasto", "G. Tamburello"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2015
+  }, {
+    "title": "Gas measurements from the Costa RicaNicaragua volcanic segment suggest possible along-arc variations in volcanic gas chemistry",
+    "authors": ["A. Aiuppa", "P. Robidoux", "G. Tamburello", "V. Conde", "B. Galle", "G. Avard", "E. Bagnato", "J.M. De Moor", "M. Martínez", "A. Muñóz"],
+    "venue": "Earth Planet. Sci",
+    "year": 2014
+  }, {
+    "title": "First observations of the fumarolic gas output from a restless caldera: implications for the current period of unrest",
+    "authors": ["A. Aiuppa", "G. Tamburello", "R. Di Napoli", "C. Cardellini", "G. Chiodini", "G. Giudice", "F. Grassa", "M. Pedone"],
+    "venue": "Campi Flegrei. Geochem. Geophys. Geosyst",
+    "year": 2013
+  }, {
+    "title": "First volatile inventory for Gorely volcano, Kamchatka",
+    "authors": ["A. Aiuppa", "G. Giudice", "M. Liuzzo", "G. Tamburello", "P. Allard", "S. Calabrese", "I. Chaplygin", "A.J.S. McGonigle", "Y. Taran"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2012
+  }, {
+    "title": "A model of degassing for Stromboli volcano",
+    "authors": ["A. Aiuppa", "A. Bertagnini", "N. Métrich", "R. Moretti", "A. Di Muro", "M. Liuzzo", "G. Tamburello"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2010
+  }, {
+    "title": "Patterns in the recent 2007–2008 activity of Mount Etna volcano investigated by integrated geophysical",
+    "authors": ["A. Aiuppa", "A. Cannata", "F. Cannavò", "G. Di Grazia", "F. Ferrari", "G. Giudice", "S. Gurrieri", "M. Liuzzo", "M. Mattia", "P. Montalto", "D. Patanè", "G. Puglisi"],
+    "year": 2010
+  }, {
+    "title": "Unusually large magmatic CO2 gas emissions prior to a basaltic",
+    "authors": [],
+    "year": 2010
+  }, {
+    "title": "The 2007 eruption of Stromboli volcano: insights from real-time",
+    "authors": ["P. Papale"],
+    "year": 2009
+  }, {
+    "title": "Total volatile flux from Mount Etna",
+    "authors": ["G. Salerno", "H. Shinohara", "M. Valenza"],
+    "year": 2008
+  }, {
+    "title": "Forecasting Etna eruptions by real-time observation",
+    "authors": ["H. Shinohara", "M. Valenza"],
+    "year": 2007
+  }, {
+    "title": "Chemical mapping of a fumarolic",
+    "authors": ["A. Aiuppa", "C. Federico", "G. Giudice", "S. Gurrieri"],
+    "venue": "of volcanic gas composition. Geology",
+    "year": 2005
+  }, {
+    "title": "Fluid geochemistry of the San Vicente",
+    "authors": ["M.L. Carapezza", "F. Parello"],
+    "year": 1997
+  }, {
+    "title": "The origin of hydrogen, carbon, sulphur, nitrogen and rare gases in volca",
+    "authors": ["P. Allard"],
+    "venue": "VII University",
+    "year": 1983
+  }, {
+    "title": "Forecasting Volcanic Events",
+    "authors": ["P. Allard", "M. Burton", "G. Sawyer", "P. Bani"],
+    "year": 2016
+  }, {
+    "title": "Prodigious emission",
+    "authors": ["G. Sawyer", "F. Parello", "E. Bagnato", "B. Pelletier", "E. Garaebiti"],
+    "year": 2015
+  }, {
+    "title": "Steam and gas emission rate from La",
+    "authors": ["G. Hammouya", "G. Tamburello"],
+    "year": 2014
+  }, {
+    "title": "Volatile and magma supply to standard eruptive",
+    "authors": ["P. Allard", "N. Métrich", "J.C. Sabroux"],
+    "venue": "ply during degassing unrest. Chem. Geol",
+    "year": 2011
+  }, {
+    "title": "Sulphur output and",
+    "authors": ["P. 1038/nature03246. Allard", "J. Carbonnelle", "N. Métrich", "H. Loyer", "P. Zettwoog"],
+    "year": 1994
+  }, {
+    "title": "Microbial sulfate reduction and the sulfur budget for a com",
+    "authors": ["J.C. org/10.1038/368326a0. Alt", "W.C. Shanks"],
+    "year": 2011
+  }, {
+    "title": "Sulfur in Pacific deep-sea sediments (Leg",
+    "authors": ["J.C. Alt", "J.W. Burdett"],
+    "venue": "Planet. Sci. Lett",
+    "year": 1992
+  }, {
+    "title": "The role of serpentinites in cycling of carbon",
+    "authors": ["Schwarzenbach", "E.M"],
+    "year": 2013
+  }, {
+    "title": "Recycling of water, carbon, and sulfur during subduction",
+    "authors": ["J.C. 40–54. Alt", "Garrido", "C.J"],
+    "year": 2012
+  }, {
+    "title": "Cycling of sulfur in subduction",
+    "authors": ["Lett", "J.C. 50–60. Alt", "W.C. Shanks", "M.C. Jackson"],
+    "year": 1993
+  }, {
+    "title": "A time-averaged inventory of subaerial volcanic sulfur",
+    "authors": ["Lett", "R.J. 477–494. Andres", "A.D. Kasgnoc"],
+    "year": 1998
+  }, {
+    "title": "Chemical and isotopic cycling in subduction zones",
+    "authors": ["Chem. Geol"],
+    "year": 2014
+  }, {
+    "title": "Chemical and isotopic features of cold and thermal fluids discharged",
+    "authors": ["A. Rizzo"],
+    "year": 2016
+  }, {
+    "title": "Les mécanismes de condensation des gaz volcaniques (chimie",
+    "authors": ["A. Bernard"],
+    "year": 1985
+  }, {
+    "title": "A case for CO2-rich arc magmas",
+    "authors": ["J.D. Blundy", "K.V. Cashman", "A.C. Rust", "F. Witham"],
+    "venue": "Planet. Sci. Lett",
+    "year": 2010
+  }, {
+    "title": "Highly explosive 2010Merapi eruption",
+    "authors": ["P. Parseval", "Metaxian", "J.-P"],
+    "venue": "Surono,",
+    "year": 2013
+  }, {
+    "title": "Fluid inputs to magma sources of St",
+    "authors": ["Res", "A.S. 193–208. Bouvier", "E. Deloule", "N. Métrich"],
+    "year": 2010
+  }, {
+    "title": "Lengai and the skewed distribution of passive volcanic fluxes. Geology",
+    "authors": ["T. Brombach", "L. Marini", "Hunziker", "J.-C"],
+    "year": 2000
+  }, {
+    "title": "Simulating the behavior of volatiles",
+    "authors": ["A. 477–490. Burgisser", "M. Alletti", "B. Scaillet"],
+    "year": 2015
+  }, {
+    "title": "Deep carbon emissions from volcanoes",
+    "authors": ["G.M. Sawyer", "D. Granieri"],
+    "year": 2013
+  }, {
+    "title": "Remote sensing of CO2",
+    "authors": ["M.R. Burton", "C. Oppenheimer", "L.A. Horrocks", "P.W. Francis"],
+    "year": 2000
+  }, {
+    "title": "Multi-decadal satellite measurements of global vol",
+    "authors": ["L. Clarisse", "A.J. Prata"],
+    "year": 2016
+  }, {
+    "title": "Incompatible element and isotopic",
+    "authors": ["M.J. Carr", "M.D. Feigenson", "E.A. Bennett"],
+    "venue": "canic degassing. J. Volcanol. Geotherm. Res",
+    "year": 1990
+  }, {
+    "title": "Volcanism and geochemistry",
+    "authors": ["M.J. Carr", "M.D. Feigenson", "L.C. Patino", "J.A. Walker"],
+    "venue": "American arc. Contrib. Mineral. Petrol",
+    "year": 2003
+  }, {
+    "title": "Carbon dioxide release through metamor",
+    "authors": ["Ser", "153–174. Carron", "J.-P", "M. Guen De Kerneizon"],
+    "year": 1991
+  }, {
+    "title": "Hydrous basalt-limestone interaction at crustal",
+    "authors": ["Vincent", "Lesser Antilles. Bull"],
+    "venue": "Soc. Geol. Fr",
+    "year": 2015
+  }, {
+    "title": "Effect of melt composition on crustal carbonate assimila",
+    "authors": ["L.B. Carter", "R. Dasgupta"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2016
+  }, {
+    "title": "The chemistry of gases emanating from Mount St",
+    "authors": ["L.P. Greenland"],
+    "year": 1981
+  }, {
+    "title": "Sulfur dioxide and particles in quiescent volcanic",
+    "authors": ["R.L. Chuan", "J.P. Friend"],
+    "year": 1984
+  }, {
+    "title": "Hydrothermal gas equilibria: the H2O-H2-CO2-CO-CH4 system",
+    "authors": ["G. Chiodini", "L. Marini"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1998
+  }, {
+    "title": "Evidence of thermal-driven processes triggering the 2005–2014 unrest at Campi Flegrei caldera",
+    "authors": ["G. Chiodini", "J. Vandemeulebrouck", "S. Caliro", "L. D'Auria", "P. De Martino", "A. Mangiacapra", "Z. Petrillo"],
+    "venue": "Earth Planet. Sci",
+    "year": 2015
+  }, {
+    "title": "Early signals of new volcanic unrest at Campi Flegrei caldera? Insights from geochemical data and physical",
+    "authors": ["G. Chiodini", "S. Caliro", "P De Martino"],
+    "venue": "simulations. Geology",
+    "year": 2012
+  }, {
+    "title": "First 13C/12C isotopic characterisation of volcanic plume CO2",
+    "authors": ["G. Chiodini", "S. Caliro", "A. Aiuppa", "R. Avino", "D. Granieri", "R. Moretti", "F. Parello"],
+    "venue": "Bull. Volcanol",
+    "year": 2011
+  }, {
+    "title": "Fumarolic and diffuse soil degassing west of Mount Epomeo, Ischia, Italy",
+    "authors": ["G. Chiodini", "R. Avino", "T. Brombach", "S. Caliro", "C. Cardellini", "S. De Vita", "F. Frondini", "D. Granirei", "E. Marotta", "G. Ventura"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2004
+  }, {
+    "title": "Magma degassing as a trigger of bradyseismic events: the case of Phlegrean Fields (Italy)",
+    "authors": ["G. Chiodini", "M. Todesco", "S. Caliro", "C. Del Gaudio", "G. Macedonio", "M. Russo"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2003
+  }, {
+    "title": "Fluid geochemistry of Montserrat Island, West Indies",
+    "authors": ["G. Chiodini", "R. Cioni", "A. Frullani", "M. Guidi", "L. Marini", "F. Prati", "B. Raco"],
+    "venue": "Bull. Volcanol",
+    "year": 1996
+  }, {
+    "title": "Fluid geochemistry of Nisyros island, Dodecanese, Greece",
+    "authors": ["G. Chiodini", "R. Cioni", "C. Leonis", "L. Marini", "B. Raco"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 1993
+  }, {
+    "title": "Geochemistry of fluids associated with the 1995–96 eruption of Mt Ruapehu, New Zealand: signatures and processes in the magmatic-hydrothermal system",
+    "authors": ["B.W. Christenson"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 2000
+  }, {
+    "title": "Cyclic processes and factors leading to phreatic eruption events: insights from the 25 September 2007 eruption through Ruapehu Crater Lake, New Zealand",
+    "authors": ["B.W. Christenson", "A.G. Reyes", "R. Young", "A. Moebis", "S. Sherburn", "J. Cole-Baker", "K. Britten"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 2010
+  }, {
+    "title": "The role of selective alkali contamination in the evolution of recent historic lavas of Mt",
+    "authors": ["R. Clocchiatti", "J.L. Joron", "M. Treuil"],
+    "venue": "Etna. J. Volcanol. Geotherm. Res",
+    "year": 1988
+  }, {
+    "title": "Volatile and N isotope chemistry of the Molucca Sea collision zone: tracing source components along the Sangihe Arc, Indonesia",
+    "authors": ["L.E. Clor", "T.P. Fischer", "D.R. Hilton", "Z.D. Sharp", "U. Hartono"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2005
+  }, {
+    "title": "Measurements of volcanic SO2 and CO2 fluxes by combined DOAS, Multi-GAS and FTIR observations: a case study from Turrialba and Telica volcanoes",
+    "authors": ["V. Conde", "P. Robidoux", "G. Avard", "B. Galle", "A. Aiuppa", "A. Muñoz", "G. Giudice"],
+    "venue": "Int. J. Earth Sci",
+    "year": 2014
+  }, {
+    "title": "Global variations in H2O/Ce I: slab surface temperatures beneath volcanic arcs",
+    "authors": ["L.B. Cooper", "D. Ruscitto", "T. Plank", "P.J. Wallace", "E. Syracuse", "C.E. Manning"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2012
+  }, {
+    "title": "Petrologic evidence of a complex plumbing system feeding the July–August 2001 eruption of Mt. Etna, Sicily, Italy",
+    "authors": ["R.A. Corsaro", "L. Miraglia", "M. Pompilio"],
+    "venue": "Bull. Volcanol",
+    "year": 2007
+  }, {
+    "title": "Preliminary geochemical and thermodynamic assessment of the geothermal resources, Sulphur Springs area",
+    "authors": ["F. D'Amore", "J.R. Rivera", "D. Giusti", "R. Rossi"],
+    "venue": "St Lucia, W.I. Appl. Geochem",
+    "year": 1990
+  }, {
+    "title": "Ingassing, storage, and outgassing of terrestrial carbon through geologic time",
+    "authors": ["R. Dasgupta"],
+    "venue": "Rev. Mineral. Geochem",
+    "year": 2013
+  }, {
+    "title": "Carbon-dioxide-rich silicate melt in the Earth's upper mantle",
+    "authors": ["R. Dasgupta", "A. Mallik", "K. Tsuno", "A.C. Withers", "G. Hirth", "M.M. Hirschmann"],
+    "venue": "Nature",
+    "year": 2013
+  }, {
+    "title": "The deep carbon cycle and melting in Earth's interior",
+    "authors": ["R. Dasgupta", "M.M. Hirschmann"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2010
+  }, {
+    "title": "Deep global cycling of carbon constrained by the solidus of anhydrous carbonated eclogite under upper mantle conditions",
+    "authors": ["R. Dasgupta", "M.M. Hirschmann", "A.C. Withers"],
+    "venue": "Earth Planet. Sci",
+    "year": 2004
+  }, {
+    "title": "Crustal contamination versus subduction zone enrichment: example from the Lesser Antilles and implications for mantle source compositions of island arc volcanic rocks",
+    "authors": ["J.P. Davidson"],
+    "venue": "Geochim. Cosmochim",
+    "year": 1987
+  }, {
+    "title": "Differentiation and source processes at Mt Pelée and the Quill; active volcanoes in the Lesser Antilles Arc",
+    "authors": ["J.P. Davidson", "M. Wilson"],
+    "venue": "J. Petrol",
+    "year": 2011
+  }, {
+    "title": "Sulfur isotope systematics of basaltic lavas from Indonesia: implications for the sulfur cycle in subduction zones",
+    "authors": ["J.C.M. de Hoog", "B.E. Taylor", "M.J. van Bergen"],
+    "venue": "Earth Planet. Sci",
+    "year": 2001
+  }, {
+    "title": "The He-CO2 isotope and relative abundance characteristics of geothermal fluids in El Salvador and Honduras: new constraints on volatile mass balance of the Central American Volcanic Arc",
+    "authors": ["G.A. De Leeuw", "D.R. Hilton", "T.P. Fischer", "J.A. Walker"],
+    "venue": "Earth Planet. Sci",
+    "year": 2007
+  }, {
+    "title": "Turmoil at Turrialba Volcano (Costa Rica): degassing and eruptive processes inferred from high-frequency gas monitoring",
+    "authors": ["J.M. de Moor", "A. Aiuppa", "G. Avard", "H. Wehrmann", "N. Dunbar", "C. Muller", "G. Tamburello", "G. Giudice", "M. Liuzzo", "R. Moretti", "V. Conde", "B. Galle"],
+    "venue": "J. Geophys. Res. B: Solid Earth",
+    "year": 2016
+  }, {
+    "title": "2016b. Short-period volcanic gas precursors to phreatic eruptions: insights from Poás Volcano, Costa Rica",
+    "authors": ["J.M. de Moor", "A. Aiuppa", "J. Pacheco", "G. Avard", "C. Kern", "M. Liuzzo", "M. Martínez", "G. Giudice", "T.P. Fischer"],
+    "venue": "Earth Planet. Sci",
+    "year": 2016
+  }, {
+    "title": "Sulfur degassing at Erta Ale (Ethiopia) and Masaya (Nicaragua) volcanoes: implications for degassing processes and oxygen fugacities of basaltic systems",
+    "authors": ["de Moor", "J.M"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2013
+  }, {
+    "title": "Magma-carbonate interaction processes and associated CO2 release at Merapi",
+    "authors": ["F.M. Deegan", "V.R. Troll", "C. Freda", "V. Misiti", "J.P. Chadwick", "C.L. McLeod", "J.P. Davidson"],
+    "year": 2010
+  }, {
+    "title": "Hornblende, cummingtonite, and biotite hydrogen isotopes: direct evidence of slab-derived fluid flux in silicic magmas of the Taupo Volcanic Zone, New Zealand",
+    "authors": ["C.D. Deering", "T.W. Horton", "D.M. Gravley", "J.W. Cole"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2012
+  }, {
+    "title": "Geochemistry of the magmatic-hydrothermal system of Kawah Ijen volcano, East Java, Indonesia",
+    "authors": ["P. Delmelle", "A. Bernard", "Kusakabe", "T. Fischer", "B. Takano"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 2000
+  }, {
+    "title": "Garnet-fassaite calc-silicate nodule from La Soufrière",
+    "authors": ["J. Devine", "H. Sigurdsson"],
+    "venue": "St. Vincent. Am. Mineral",
+    "year": 1980
+  }, {
+    "title": "Reaction path models of magmatic gas scrubbing",
+    "authors": ["R. Di Napoli", "A. Aiuppa", "B. Bergsson", "E. Ilyinskaya", "M.A. Pfeffer", "S.R. Guðjónsdóttir", "M. Valenza"],
+    "venue": "Chem. Geol",
+    "year": 2016
+  }, {
+    "title": "First Multi-GAS based characterisation of the Boiling Lake volcanic gas (Dominica, Lesser Antilles)",
+    "authors": ["R. Di Napoli", "A. Aiuppa", "P. Allard"],
+    "venue": "Ann. Geophys",
+    "year": 2013
+  }, {
+    "title": "A compilation of gas emission-rate data from volcanoes of Cook Inlet (Spurr, Crater Peak, Redoubt, Iliamna, and Augustine) and Alaska Peninsula (Douglas, Fourpeaked, Griggs, Mageik, Martin, Peulik, Ukinrek Maars, and Veniaminof), Alaska, from 1995–2006",
+    "authors": ["M.P. Doukas", "K.A. McGee"],
+    "venue": "U.S. Geol. Surv. Open File Rep. 2007–1400,",
+    "year": 2007
+  }, {
+    "title": "Sulfur dioxide scrubbing during the 1992 eruptions of Crater Peak, Mount Spurr volcano, Alaska",
+    "authors": ["M.P. Doukas", "T.M. Gerlach"],
+    "venue": "U.S. Geol. Surv",
+    "year": 1995
+  }, {
+    "title": "Changes in gas composition prior to a minor explosive eruption at Masaya Volcano, Nicaragua",
+    "authors": ["H.J. Duffell", "C. Oppenheimer", "D.M. Pyle", "B. Galle", "A.J.S. McGonigle", "M.R. Burton"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 2003
+  }, {
+    "title": "Lithologic composition of the Earth's continental surfaces derived from a new digital map emphasizing riverine material transfer",
+    "authors": ["H.H. Dürr", "M. Meybeck", "S. Dürr"],
+    "venue": "Glob. Biogeochem. Cycles 19:1–23,",
+    "year": 2005
+  }, {
+    "title": "Non-steady state carbonate recycling and implications for the evolution of atmospheric pCO2",
+    "authors": ["J.M. Edmond", "Y. Huh"],
+    "venue": "Earth Planet. Sci",
+    "year": 2003
+  }, {
+    "title": "Pre-eruptive vapour and its role in controlling eruption style and longevity at Soufriere Hills Volcano",
+    "authors": ["M Edmonds"],
+    "venue": "The Eruption of Soufrière Hills Volcano,",
+    "year": 2014
+  }, {
+    "title": "New geochemical insights into volcanic degassing",
+    "authors": ["M. Edmonds"],
+    "venue": "Philos. Trans. R. Soc. A Math. Phys. Eng. Sci",
+    "year": 2008
+  }, {
+    "title": "Excess volatiles supplied by mingling of mafic magma at an andesite arc volcano",
+    "authors": ["M. Edmonds", "A. Aiuppa", "M. Humphreys", "R. Moretti", "G. Giudice", "R.S. Martin", "R.A. Herd", "T. Christopher"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2010
+  }, {
+    "title": "Tracing nitrogen in volcanic and geothermal volatiles from the Nicaraguan volcanic front",
+    "authors": ["L.J. Elkins", "T.P. Fischer", "D.R. Hilton", "Z.D. Sharp", "S. McKnight", "J. Walker"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 2006
+  }, {
+    "title": "Tracers of the slab",
+    "authors": ["T. Elliott"],
+    "venue": "Inside the Subduction Factory. American Geophysical Union Geophysical Monograph",
+    "year": 2003
+  }, {
+    "title": "Iniciativa de monitoreo e investigación de la desgasificación del carbono profundo: DCO-DECADE",
+    "authors": ["H. Enciso", "T. Fischer", "A. Aiuppa", "G. Garzòn"],
+    "venue": "Proceedings CONICCA",
+    "year": 2015
+  }, {
+    "title": "Analysis of gas samples from the summit crater",
+    "authors": ["W.C. Evans", "N.G. Banks", "L.D. White"],
+    "venue": "The 1980 Eruptions of Mt. St. Helens. USGS Prof. Paper, Washington",
+    "year": 1981
+  }, {
+    "title": "Isotopic patterns of hydrothermal hydrocarbons emitted from Mediterranean volcanoes",
+    "authors": ["J. Fiebig", "S. Hofmann", "F. Tassi", "W. D'Alessandro", "O. Vaselli", "A.B. Woodland"],
+    "venue": "Chem. Geol",
+    "year": 2015
+  }, {
+    "title": "A global catalogue of large SO2 sources and emissions derived from the Ozone Monitoring Instrument",
+    "authors": ["V.E. Fioletov", "C.A. McLinden", "N. Krotkov", "C. Li", "J. Joiner", "N. Theys", "S. Carn", "M.D. Moran"],
+    "venue": "Atmos. Chem. Phys",
+    "year": 2016
+  }, {
+    "title": "Fluxes of volatiles (H2O, CO2, N2, Cl, F) from arc volcanoes",
+    "authors": ["T.P. Fischer"],
+    "venue": "Geochem. J",
+    "year": 2008
+  }, {
+    "title": "Volcanic, magmatic and hydrothermal gas discharges. Encyclopaedia of Volcanoes, second ed.:pp",
+    "authors": ["T.P. Fischer", "G. Chiodini"],
+    "year": 2015
+  }, {
+    "title": "Volatiles in the sub-arc mantle: insights from volcanic and hydrothermal gas emissions",
+    "authors": ["T.P. Fischer", "B. Marty"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2005
+  }, {
+    "title": "Temporal variations in fumarole gas chemistry at Poás volcano",
+    "authors": ["T.P. Fischer", "C. Ramirez", "R. Mora-Amador", "D.R. Hilton", "J.D. Barnes", "Z.D. Sharp", "M. Le Brun", "J.M. de Moor", "P.H. Barry", "E. Füri", "A.M. Shaw"],
+    "venue": "Costa Rica. J. Volcanol. Geotherm",
+    "year": 2015
+  }, {
+    "title": "Gas geochemistry of volcanic and hydrothermal fluids of Central America",
+    "authors": ["T.P. Fischer", "A.M. Shaw", "D.R. Hilton"],
+    "venue": "Central America: Geology, Resources and Hazards",
+    "year": 2007
+  }, {
+    "title": "Subduction and recycling of nitrogen along the Central",
+    "authors": ["T.P. Fischer", "D.R. Hilton", "M.M. Zimmer", "A.M. Shaw", "Z.D. Sharp", "J.A. Walker"],
+    "venue": "American margin. Science",
+    "year": 2002
+  }, {
+    "title": "Fluxes and sources of volatiles discharged from Kudryavy, a subduction zone volcano, Kurile Islands",
+    "authors": ["T.P. Fischer", "W.F. Giggenbach", "Y. Sano", "S.N. Williams"],
+    "venue": "Earth Planet. Sci",
+    "year": 1998
+  }, {
+    "title": "The chemical and isotopic composition of fumarolic gases and spring discharges from Galeras Volcano, Colombia",
+    "authors": ["T.P. Fischer", "N.C. Sturchio", "J. Stix", "G.B. Arehart", "D. Counce", "S.N. Williams"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 1997
+  }, {
+    "title": "Remote measurements of volcanic gas compositions by solar occultation spectroscopy",
+    "authors": ["P. Francis", "M.R. Burton", "C. Oppenheimer"],
+    "venue": "Nature",
+    "year": 1998
+  }, {
+    "title": "Volatile (H2O, CO2, Cl, S) budget of the Central American subduction zone",
+    "authors": ["A. Freundt", "I. Grevemeyer", "W. Rabbel", "T.H. Hansteen", "C. Hensen", "H. Wehrmann", "S. Kutterolf", "R. Halama", "M. Frische"],
+    "venue": "Int. J. Earth",
+    "year": 2014
+  }, {
+    "title": "Atmospheric oxygenation caused by a change in volcanic degassing pressure",
+    "authors": ["F. Gaillard", "B. Scaillet", "N.T. Arndt"],
+    "venue": "Nature 478,",
+    "year": 2011
+  }, {
+    "title": "Evidence of magma intrusion at Fourpeaked volcano, Alaska in 2006–2007 from a rapid-response seismic network and volcanic gases",
+    "authors": ["M. Gardine", "M. West", "C. Werner", "M. Doukas"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 2011
+  }, {
+    "title": "Investigation of volcanic gas analyses and magma outgassing from Erta Ale lava lake, Afar, Ethiopia",
+    "authors": ["T.M. Gerlach"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 1980
+  }, {
+    "title": "Interpretation of volcanic gas data from tholeiitic and Alkaline Mafic Lavas",
+    "authors": ["T.M. Gerlach"],
+    "venue": "Bull. Volcanol",
+    "year": 1982
+  }, {
+    "title": "CO2 emissions from volcanos",
+    "authors": ["T. Gerlach", "M. Present-day"],
+    "venue": "Eos Trans. AGU",
+    "year": 1991
+  }, {
+    "title": "Evaluation of gas data from high-temperature fumaroles at Mount St. Helens 1980–1982",
+    "authors": ["T.M. Gerlach", "T.J. Casadevall"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 1986
+  }, {
+    "title": "Carbon-Oxygen-Hydrogen-Sulphur gaseous systems",
+    "authors": ["T.M. Gerlach", "B.E. Nordie"],
+    "venue": "Am. J. Sci",
+    "year": 1975
+  }, {
+    "title": "Emission rates of CO2, SO2, and H2S, scrubbing, and pre-eruption excess volatiles at Mount St. Helens, 2004–2005",
+    "authors": ["T.M. Gerlach", "K.A. McGee", "M.P. Doukas"],
+    "venue": "US Geol. Surv. Prof. Pap",
+    "year": 2008
+  }, {
+    "title": "Rates of volcanic CO2 degassing from airborne determinations of SO2 emission rates and plume CO2/SO2: test study at Pùu Òò cone, Kilauea volcano",
+    "authors": ["T.M. Gerlach", "K.A. McGee", "A.J. Sutton", "T. Elias"],
+    "venue": "Hawaii. Geophys. Res. Lett",
+    "year": 1998
+  }, {
+    "title": "Application of the LI-COR CO2 analyzer to volcanic plumes: a case study, volcàn Popocatépetl",
+    "authors": ["T.M. Gerlach", "H. Delgado", "K.A. McGee", "M.P. Doukas", "J.J. Venegas", "L. Cardenas"],
+    "venue": "J. Geophys. Res",
+    "year": 1997
+  }, {
+    "title": "Chemical composition of volcanic gases",
+    "authors": ["W.F. Giggenbach"],
+    "venue": "Monitoring and Mitigation of Volcano Hazard,",
+    "year": 1996
+  }, {
+    "title": "Variations in the chemical and isotopic composition of the fluids discharged from the Taupo volcanic zone, New Zealand",
+    "authors": ["W.F. Giggenbach"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 1995
+  }, {
+    "title": "Isotopic shifts in waters from geothermal and volcanic systems along convergent plate boundaries and their origin",
+    "authors": ["W.F. Giggenbach"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 1992
+  }, {
+    "title": "Redox-processes governing the chemistry of fumarolic gas discharges from White Island, New Zealand",
+    "authors": ["W.F. Giggenbach"],
+    "venue": "Appl. Geochem",
+    "year": 1987
+  }, {
+    "title": "Chemical surveillance of active volcanoes in New Zealand",
+    "authors": ["W.F. Giggenbach"],
+    "year": 1983
+  }, {
+    "title": "Geothermal gas equilibria",
+    "authors": ["W.F. Giggenbach"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1980
+  }, {
+    "title": "Evaluation of results from second and third IAVCEI field workshop on volcanic gases, Mt",
+    "authors": ["W.F. Giggenbach", "S. Matsuo"],
+    "venue": "Usu, Japan and White Island, New Zealand. Appl. Geochem",
+    "year": 1991
+  }, {
+    "title": "Formation of acid volcanic brines through interaction of magmatic gases, seawater, and rock within the White Island volcanic hydrothermal system, New Zealand",
+    "authors": ["W.F. Giggenbach", "H. Shinohara", "M. Kusakabe", "T. Ohba"],
+    "venue": "SEG Spec. Publ",
+    "year": 2003
+  }, {
+    "title": "Evaluation of results from the fourth and fifth IAVCEI field workshops on volcanic gases, Vulcano island, Italy and Java, Indonesia",
+    "authors": ["W.F. Giggenbach", "D. Tedesco", "Y. Sulistiyo", "A. Caprai", "R. Cioni", "R. Favara", "T.P. Fischer", "J.I. Hirabayashi", "M. Korzhinsky", "M. Martini", "I. Menyailov", "H. Shinohara"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2001
+  }, {
+    "title": "The chemistry of fumarolic vapor and thermal spring discharges from the Nevado del Ruiz volcanic-magmatic-hydrothermal system",
+    "authors": ["W.F. Giggenbach", "N. Garcia", "P.A. Londono", "L. Rodrigez", "N. Rojas", "M.I. Calvache"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 1990
+  }, {
+    "title": "Tritium and stable isotopes of magmatic waters",
+    "authors": ["F. Goff", "G.M. McMurtry"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 2000
+  }, {
+    "title": "Passive infrared remote sensing evidence for large, intermittent CO2 emissions at Popocatepetl",
+    "authors": ["F. Goff", "S.P. Love", "Warren", "R.G"],
+    "venue": "Chem. Geol",
+    "year": 2001
+  }, {
+    "title": "Geochemical surveillance of magmatic volatiles at Popocatepetl volcano, Mexico",
+    "authors": ["F. Goff", "C.J. Janik", "H. Delgado", "C. Werner", "D. Counce", "J.A. Stimac", "C. Siebe", "S.P. Love", "S.N. Williams", "T. Fischer", "L. Johnson"],
+    "venue": "Bull. Geol. Soc. Am",
+    "year": 1998
+  }, {
+    "title": "Emission of gas and atmospheric dispersion of SO2 during the December 2013 eruption at San Miguel volcano (El Salvador",
+    "authors": ["D. Granieri", "G. Salerno", "M. Liuzzo", "A. La Spina", "G. Giuffrida", "T. Caltabiano", "G. Giudice", "E. Gutierrez", "F. Montalvo", "M.R. Burton", "P. Papale"],
+    "venue": "Central America). Geophys. Res. Lett",
+    "year": 2015
+  }, {
+    "title": "Pre- and syn-eruptive geochemistry of volcanic gases from Soufriere Hills of Montserrat",
+    "authors": ["G. Hammouya", "P. Allard", "P. Jean-Baptiste", "F. Parello", "M. Semet", "S. Young"],
+    "venue": "West Indies. Geophys. Res. Lett",
+    "year": 1998
+  }, {
+    "title": "Dynamics of carbon dioxide emissions, crystallization, and magma ascent: hypotheses, theory, and applications to volcano monitoring at Mount St",
+    "authors": ["P.M. Harris", "W.I. Rose"],
+    "venue": "Helens. Bull. Volcanol",
+    "year": 1996
+  }, {
+    "title": "Emission rates of CO2 from plumemeasurements",
+    "authors": ["D.M. Harris", "Sato", "Motoaki", "T.J. Casadevall", "W.I. Rose", "T.J. Bornhorst"],
+    "year": 1981
+  }, {
+    "title": "The new global lithological map database GLiM: a rep",
+    "authors": ["J. pp. 201–207. Hartmann", "N. Moosdorf"],
+    "year": 2012
+  }, {
+    "title": "Mantle and slab",
+    "authors": ["C.J. Hawkesworth", "K. Gallagher", "J.M. Herget", "F. McDermott"],
+    "year": 2012
+  }, {
+    "title": "Experimental Constraints on Carbon Recycling in Subducted",
+    "authors": ["J. 1029/2011JB008524. Hermann", "L. Martin"],
+    "year": 2013
+  }, {
+    "title": "Sediments and Altered Oceanic Crust",
+    "authors": ["D. Rubatto"],
+    "year": 2013
+  }, {
+    "title": "sediment melts in subduction zones. Chem. Geol",
+    "authors": ["J. Hermann", "C. Spandler"],
+    "year": 2008
+  }, {
+    "title": "Deep fluids in subducted continental crust",
+    "authors": ["Zheng", "Y.-F", "D. Rubatto"],
+    "venue": "J. Petrol",
+    "year": 2013
+  }, {
+    "title": "Aqueous fluids and hydrousmelts",
+    "authors": ["J. Hermann", "C. Spandler", "A. Hack", "A.V. Korsakov"],
+    "year": 2006
+  }, {
+    "title": "Noble gases and volatile recycling",
+    "authors": ["D.R. Hilton", "T. Fischer", "B. Marty"],
+    "venue": "subduction zones. Lithos",
+    "year": 2002
+  }, {
+    "title": "Airborne lidar detection",
+    "authors": ["P.V. 2138/rmg.2002.47.9. Hobbs", "L.F. Radke", "D.J. Coffman", "T.J. Casadevall"],
+    "year": 1991
+  }, {
+    "title": "Stable gas plume composition",
+    "authors": ["L. Horrocks", "M. Burton", "P. Francis", "C. Oppenheimer"],
+    "venue": "Aviation Safety. U.S. Geological Survey Circular",
+    "year": 1999
+  }, {
+    "title": "The fate of sulfur during fluid-present melting of subducting",
+    "authors": ["S. Jégo", "R. Dasgupta"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2002
+  }, {
+    "title": "basaltic crust at variable oxygen fugacity",
+    "authors": ["S. Jégo", "R. Dasgupta"],
+    "venue": "J. Petrol",
+    "year": 2013
+  }, {
+    "title": "Decarbonation efficiency in subduction",
+    "authors": ["F.K.B. Johnston", "A.V. Turchyn", "M. Edmonds"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 2011
+  }, {
+    "title": "Gas and water geochemistry",
+    "authors": ["E.P. 013. Joseph", "N. Fournier", "J.M. Lindsay", "T.P. Fischer"],
+    "year": 2011
+  }, {
+    "title": "Sulphur geodynamic cycle",
+    "authors": ["Res", "T 1–14. Kagoshima"],
+    "venue": "Sci. Rep. 5:8330",
+    "year": 2015
+  }, {
+    "title": "Metamorphic devolatization of subducted marine",
+    "authors": ["D.M. 118–131. Kerrick"],
+    "venue": "Serpentinite seduction. Science",
+    "year": 2002
+  }, {
+    "title": "Trace element signature",
+    "authors": ["R. Kessel", "M.W. Schmidt", "P. Ulmer", "T. Pettke"],
+    "venue": "Planet. Sci. Lett",
+    "year": 2005
+  }, {
+    "title": "Open-path FTIR spectroscopy of magma degassing processes during eight lava fountains on Mount Etna",
+    "authors": ["A. La Spina", "M. Burton", "P. Allard", "S. Alparone", "F. Muré"],
+    "venue": "Earth Planet. Sci",
+    "year": 2015
+  }, {
+    "title": "A new method for sampling and analysing volcanic sublimates: application to Merapi Volcano",
+    "authors": ["F. Le Guern", "A. Bernard"],
+    "venue": "Java. J. Volcanol. Geotherm. Res",
+    "year": 1982
+  }, {
+    "title": "Continental arc–island arc fluctuations, growth of crustal carbonates, and long-term climate change",
+    "authors": ["Lee", "C.-T.A"],
+    "venue": "Geosphere",
+    "year": 2013
+  }, {
+    "title": "Carbon and nitrogen geochemistry of sediments in the Central American convergent margin: insights regarding paleo-productivity and carbon and nitrogen subduction fluxes",
+    "authors": ["L. Li", "G.E. Bebout"],
+    "venue": "J. Geophys. Res",
+    "year": 2005
+  }, {
+    "title": "Longperiod seismicity and very-long-period infrasound driven by shallow magmatic degassing at Mount Pagan, Mariana Islands",
+    "authors": ["J.J. Lyons", "M.M. Haney", "C. Werner", "P. Kelly", "M. Patrick", "C. Kern", "F. Trusdell"],
+    "venue": "J. Geophys. Res",
+    "year": 2016
+  }, {
+    "title": "The chemistry of subduction-zone fluids",
+    "authors": ["C.E. Manning"],
+    "venue": "Earth Planet. Sci. Lett. 223,",
+    "year": 2004
+  }, {
+    "title": "The chemistry of carbon in aqueous fluids at crustal and upper-mantle conditions: experimental and theoretical constraints",
+    "authors": ["C.E. Manning", "E.L. Shock", "D.A. Sverjensky"],
+    "venue": "Rev. Mineral. Geochem",
+    "year": 2013
+  }, {
+    "title": "Geochemical modeling of magmatic gas scrubbing",
+    "authors": ["L. Marini", "B. Gambardella"],
+    "venue": "Ann. Geophys",
+    "year": 2005
+  }, {
+    "title": "Guagua Pichincha volcano, Ecuador: fluid geochemistry in volcanic surveillance",
+    "authors": ["L. Marini", "A. Agostini", "R. Cioni", "M. Guidi", "O. Leon"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 1991
+  }, {
+    "title": "A total volatile inventory for Masaya Volcano, Nicaragua",
+    "authors": ["R.S. Martin", "G.M. Sawyer", "L. Spampinato", "G.G. Salerno", "C. Ramirez", "E. Ilyinskaya", "M.L.I. Witt", "T.A. Mather", "I.M. Watson", "J.C. Phillips", "C. Oppenheimer"],
+    "venue": "J. Geophys. Res",
+    "year": 2010
+  }, {
+    "title": "Helium isotopes and CO2 in volcanic gases of Japan",
+    "authors": ["B. Marty", "A. Jambon", "Y. Sano"],
+    "venue": "Chem. Geol",
+    "year": 1989
+  }, {
+    "title": "A reassessment of current volcanic emissions from the central American arc with specific examples from Nicaragua",
+    "authors": ["T.A. Mather", "D.M. Pyle", "V.I. Tsanev", "A.J.S. McGonigle", "C. Oppenheimer", "A.G. Allen"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 2006
+  }, {
+    "title": "On the origin of volcanic gases",
+    "authors": ["S. Matsuo"],
+    "venue": "J. Earth Sci",
+    "year": 1960
+  }, {
+    "title": "Chemical nature of volcanic gases of Usu volcano in Japan",
+    "authors": ["S. Matsuo", "J. Ossaka", "J. Hirabayashi", "T. Ozawa", "K. Kimishima"],
+    "venue": "Bull. Volcanol",
+    "year": 1982
+  }, {
+    "title": "Isotopic and chemical compositions of volcanic gases from Satsuma-Iwojima, Japan",
+    "authors": ["S. Matsuo", "T. Suzuoki", "M. Kusakabe", "H. Wada", "M. Suzuki"],
+    "venue": "Geochem. J",
+    "year": 1974
+  }, {
+    "title": "CO2 and He degassing at El Chichón volcano, Chiapas, Mexico: gas flux, origin and relationship with local and regional tectonics",
+    "authors": ["A. Mazot", "D. Rouwet", "Y. Taran", "S. Inguaggiato", "N. Varley"],
+    "venue": "Geochemistry of Volcanic Fluids. Bulletin of Volcanology Vol. 73,",
+    "year": 2011
+  }, {
+    "title": "Emission of SO2, CO2, and H2S from Augustine Volcano, Alaska, 2002–2008",
+    "authors": ["K.A. McGee", "M.P. Doukas", "R.G. McGimsey", "C.A. Neal", "R.L. Wessels"],
+    "venue": "Eruption of Augustine Volcano. U.S. Geol. Surv. Prof. Paper",
+    "year": 2010
+  }, {
+    "title": "Prediction of eruptions using changes in compositions of volcanic gases",
+    "authors": ["I.A. Menyailov"],
+    "venue": "Bull. Volcanol",
+    "year": 1975
+  }, {
+    "title": "Chemistry and metal content of magmatic gases: the new Tolbachik volcanoes (Kamchatka)",
+    "authors": ["I.A. Menyailov", "L.P. Nikitina"],
+    "venue": "Bull. Volcanol",
+    "year": 1980
+  }, {
+    "title": "Temperature increase and chemical change of fumarolic gases at Momotombo volcano, Nicaragua, in 1982–1985: are these indicators of a possible eruption",
+    "authors": ["I.A. Menyailov", "L.P. Nikitina", "V.N. Shaper", "V.P. Pilipenko"],
+    "venue": "J. Geophys. Res",
+    "year": 1986
+  }, {
+    "title": "Chemical composition and content of metals in gas emanations from the Alaid Volcano crater during 1981 eruption",
+    "authors": ["I.A. Menyailov", "L.P. Nikitina", "V.N. Shapar", "A.M. Rozhkov", "A.Z. Miklishanskii"],
+    "venue": "J. Volc. Seismol",
+    "year": 1986
+  }, {
+    "title": "Results of geochemical monitoring of the activity of Ebeko volcano (Kurile Islands) used for eruption prediction",
+    "authors": ["I.A. Menyailov"],
+    "venue": "J. Geodyn",
+    "year": 1985
+  }, {
+    "title": "Magma and volatile supply to postcollapse volcanism and block resurgence in Siwi Caldera (Tanna Island, Vanuatu Arc)",
+    "authors": ["N. Métrich", "P. Allard", "A. Aiuppa", "P. Bani", "A. Bertagnini", "H. Shinohara", "F. Parello", "A. Di Muro", "E. Garaebiti", "O. Belhadj", "D. Massare"],
+    "venue": "J. Petrol",
+    "year": 2011
+  }, {
+    "title": "Crustal xenoliths in recent hawaiites fromMount Etna, Italy- evidence for alkali exchanges during magma-wall rock interaction",
+    "authors": ["V. Michaud"],
+    "venue": "Chem. Geol",
+    "year": 1995
+  }, {
+    "title": "Variations in chemical and isotopic compositions of fumarolic gases from Showashinzan volcano, Hokkaido, Japan",
+    "authors": ["Y. Mizutani", "T. Sugiura"],
+    "venue": "Geochem. J",
+    "year": 1982
+  }, {
+    "title": "On the oxidation state and volatile behaviour in multicomponent gas–melt equilibria",
+    "authors": ["R. Moretti", "P. Papale"],
+    "venue": "Chem. Geol. 213:265–280",
+    "year": 2004
+  }, {
+    "title": "A model for the saturation of C-O-H-S fluids in silicate melts",
+    "authors": ["R. Moretti", "P. Papale", "G. Ottonello"],
+    "venue": "Volcanic degassing. Geol. Soc. Lond. Spec. Publ",
+    "year": 2003
+  }, {
+    "title": "Time-averaged SO2 fluxes of subductionzone volcanoes: Example of a 32-year exhaustive survey for Japanese volcanoes",
+    "authors": ["T. Mori", "H. Shinohara", "K. Kazahaya", "Hirabayashi", "J.-I", "T. Matsushima", "M. Ohwada", "M. Odai", "H. Iino", "M. Miyashita"],
+    "venue": "J. Geophys. Res. Atmos",
+    "year": 2013
+  }, {
+    "title": "Trail by Fire Activity Report, Part 1: Perù",
+    "authors": ["Y. Moussallam", "N. Peters", "A. Curtis", "I. Schipper", "P. Bani", "T. Barnie", "A. Aiuppa", "G. Tamburello"],
+    "year": 2016
+  }, {
+    "title": "VOLATILECALC: a silicate melt-H2O-CO2 solution model written in VISUAL BASIC for excel",
+    "authors": ["S. Newman", "J.B. Lowenstern"],
+    "venue": "Comput. Geosci. 28:597–604. http://dx. doi.org/10.1016/S0098-3004(01)00081-4",
+    "year": 2002
+  }, {
+    "title": "Minerals Indicating Contact Metamorphism as an Essential Co-Process of Past and Recent Volcanic Activity at Popocatepetl Volcano, Mexico",
+    "authors": ["J.H. Obenholzner", "C. Siebe", "D. Counce"],
+    "venue": "Proceed. Wksp on Volcanic Hazards,",
+    "year": 1998
+  }, {
+    "title": "Magma degassing process during the eruption of Mt. Unzen, Japan in 1991 to 1995: modeling with the chemical composition of volcanic gas",
+    "authors": ["T. Ohba", "J. Hirabayashi", "K. Nogami", "M. Kusakabe", "M. Yoshida"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 2008
+  }, {
+    "title": "Volcanic degassing: process and impact",
+    "authors": ["C. Oppenheimer", "T.P. Fischer", "B. Scaillet"],
+    "venue": "Treatise on Geochemistry, The Crust, second ed",
+    "year": 2014
+  }, {
+    "title": "Sulfur degassing from volcanoes: source conditions, surveillance, plume chemistry and earth system impacts",
+    "authors": ["C. Oppenheimer", "B. Scaillet", "R.S. Martin"],
+    "year": 2011
+  }, {
+    "title": "Rapid FTIR sensing of volcanic gases released by Strombolian explosions at Yasur volcano, Vanuatu",
+    "authors": ["C. Oppenheimer", "P. Bani", "Calkins", "J.A"],
+    "venue": "Appl. Phys. B Lasers Opt",
+    "year": 2006
+  }, {
+    "title": "Marked decline in atmospheric carbon dioxide concentrations during the Paleogene",
+    "authors": ["M. Pagani", "J.C. Zachos", "K.H. Freeman", "B. Tipple", "S. Bohaty"],
+    "venue": "Science 309:600–603",
+    "year": 2005
+  }, {
+    "title": "Modeling of the solubility of a two-component H2O-CO2 fluid in silicate liquids",
+    "authors": ["P. Papale"],
+    "venue": "Am. Mineral",
+    "year": 1999
+  }, {
+    "title": "Insights into magma and fluid transfer at Mount Etna by a multiparametric approach: a model of the events leading to the 2011 eruptive cycle",
+    "authors": ["D. Patanè", "A. Aiuppa", "M Aloisi"],
+    "venue": "J. Geophys. Res. B: Solid Earth",
+    "year": 2013
+  }, {
+    "title": "Local and regional variations in Central American arc lavas controlled by variations in subducted sediment input",
+    "authors": ["L.C. Patino", "M.J. Carr", "M.D. Feigenson"],
+    "venue": "Contrib. Mineral. Petrol. 138:265–283",
+    "year": 2000
+  }, {
+    "title": "Fluid processes in subduction",
+    "authors": ["S.M. Peacock"],
+    "venue": "zones. Science",
+    "year": 1990
+  }, {
+    "title": "Tectonic implications of the composition of volcanic arc magmas",
+    "authors": ["J.A. Pearce", "D.W. Peate"],
+    "venue": "Annu. Rev. Earth Planet. Sci",
+    "year": 1995
+  }, {
+    "title": "Volcanic CO2 flux measurement at Campi Flegrei by tunable diode laser absorption spectroscopy",
+    "authors": ["M. Pedone", "A. Aiuppa", "G. Giudice", "F. Grassa", "C. Cardellini", "G. Chiodini", "M. Valenza"],
+    "venue": "Bull. Volcanol",
+    "year": 2014
+  }, {
+    "title": "Tunable diode laser measurements of hydrothermal/volcanic CO2 and implications for the global CO2 budget",
+    "authors": ["M. Pedone", "A. Aiuppa", "G. Giudice", "F. Grassa", "V. Francofonte", "B. Bergsson", "E. Ilyinskaya"],
+    "venue": "Solid Earth",
+    "year": 2014
+  }, {
+    "title": "The Relative Influences of Volcanic and Anthropogenic Emissions on Air Pollution in Indonesia as Studied with a Regional Atmospheric Chemistry and Climate Model",
+    "authors": ["M.A. Pfeffer"],
+    "venue": "PhD Thesis, Max Planck Institute for Meteorology, University of Hamburg",
+    "year": 2007
+  }, {
+    "title": "The chemical composition of subducting sediments",
+    "authors": ["T. Plank"],
+    "venue": "Treatise on Geochemistry, The Crust, second ed",
+    "year": 2014
+  }, {
+    "title": "Constraints from thorium/lanthanum on sediment recycling at subduction zones and the evolution of continents",
+    "authors": ["T. Plank"],
+    "venue": "J. Petrol",
+    "year": 2005
+  }, {
+    "title": "Nicaraguan volcanoes record paleoceanographic changes accompanying closure of the Panama",
+    "authors": ["T. Plank", "V. Balzer", "M. Carr"],
+    "venue": "gateway. Geology",
+    "year": 2002
+  }, {
+    "title": "The chemical composition of subducting sediment and its consequences for the crust and mantle",
+    "authors": ["T. Plank", "C.H. Langmuir"],
+    "venue": "Chem. Geol",
+    "year": 1998
+  }, {
+    "title": "Tracing trace elements from sediment input to volcanic output at subduction",
+    "authors": ["T. Plank", "C.H. Langmuir"],
+    "venue": "zones. Nature",
+    "year": 1993
+  }, {
+    "title": "Emerging geothermometers for estimating slab surface temperatures",
+    "authors": ["T. Plank", "J.B. Cooper", "C.E. Manning"],
+    "venue": "Nat. Geosci",
+    "year": 2009
+  }, {
+    "title": "Carbonmobilized at shallow depths in subduction zones by carbonatitic liquids",
+    "authors": ["S. Poli"],
+    "venue": "Nat. Geosci",
+    "year": 2015
+  }, {
+    "title": "Constraints on mantle melting and composition and nature of slab components in volcanic arcs from volatiles (H2O, S, Cl, F) and trace elements in melt inclusions from the Kamchatka Arc",
+    "authors": ["M. Portnyagin", "K. Hoernle", "P. Plechov", "N. Mironov", "S. Khubunaya"],
+    "venue": "Earth Planet. Sci",
+    "year": 2007
+  }, {
+    "title": "Chemical and isotopic compositions of volcanic gases from the east sunda and Banda arcs, Indonesia",
+    "authors": ["R.P.E. Poorter", "J.C. Varekamp", "R.J. Poreda", "M.J. Van Bergen", "R. Kreulen"],
+    "venue": "Geochim. Cosmochim",
+    "year": 1991
+  }, {
+    "title": "Correlation between the age of the subducting Cocos plate and the geometry of the Wadati-Benioff zone under Nicaragua and Costa Rica",
+    "authors": ["M. Protti", "F. Gundel", "K. McNally"],
+    "venue": "Geol. Soc. Am. Spec. Pap 295,",
+    "year": 1995
+  }, {
+    "title": "A new frontier in CO2 fluxmeasurements using a highly portable DIAL laser system",
+    "authors": ["M. Queißer", "D. Granieri", "M. Burton"],
+    "venue": "Sci. Rep",
+    "year": 2016
+  }, {
+    "title": "Evolution versus cooling of gaseous volcanic emissions from Momotombo Volcano, Nicaragua: thermochemical model and observations",
+    "authors": ["J.P. Quisefit", "J.P. Toutain", "G. Bergametti", "M. Javoy", "B. Cheynet", "A. Person"],
+    "venue": "Geochim. Cosmochim",
+    "year": 1989
+  }, {
+    "title": "Mafic magma recharge supplies high CO2 and SO2 gas fluxes from Popocatépetl volcano",
+    "authors": ["J. Roberge", "H. Delgado-Granados", "P.J. Wallace"],
+    "venue": "Mexcio. Geology",
+    "year": 2009
+  }, {
+    "title": "Evidence for dike emplacement beneath Iliamna Volcano, Alaska",
+    "authors": ["D.C. Roman", "J.A. Power", "S.C. Moran", "K.V. Cashman", "M.P. Doukas", "C.A. Neal", "T.M. Gerlach"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2004
+  }, {
+    "title": "Major and trace element geochemistry of El Chichón volcano-hydrothermal system (Chiapas, Mexico) in 2006–2007: implications for future geochemical monitoring",
+    "authors": ["D. Rouwet", "S. Bellomo", "L. Brusca", "S. Inguaggiato", "M. Jutzeler", "R. Mora", "A. Mazot", "R. Bernard", "M. Cassidy", "Y. Taran"],
+    "venue": "Geofis. Int",
+    "year": 2009
+  }, {
+    "title": "Fluid-volcano interaction in an active stratovolcano: the crater lake system of Poás volcano, Costa Rica",
+    "authors": ["G.L. Rowe Jr.", "S.L. Brantley", "M. Fernandez", "J.F. Fernandez", "A. Borgia", "J. Barquero"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 1992
+  }, {
+    "title": "Global variations in H2O/Ce: 2. Relationships to arc magma geochemistry and volatile fluxes",
+    "authors": ["D.M. Ruscitto", "P.J. Wallace", "L.B. Cooper", "T. Plank"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2012
+  }, {
+    "title": "Vapour under-saturation in primitive mid-ocean-ridge basalt and the volatile content of Earth's upper mantle",
+    "authors": ["A.E. Saal", "E. Hauri", "C.H. Langmuir", "M.R. Perfit"],
+    "venue": "Nature 419,",
+    "year": 2002
+  }, {
+    "title": "Subduction cycling of volatiles and trace elements through the Central American volcanic arc: evidence from melt inclusions",
+    "authors": ["S. Sadofsky", "M. Portnyagin", "K. Hoernle", "P. van den Bogaard"],
+    "venue": "Contrib. Mineral. Petrol",
+    "year": 2008
+  }, {
+    "title": "Successive sampling of fumarolic gases at Satsuma-Iwojima and Kuju volcanoes, southwest Japan: evaluation",
+    "authors": ["G. Saito", "H. Shinohara", "K. Kazahaya"],
+    "year": 2002
+  }, {
+    "title": "24–47 variations and precision of the gas sampling and analytical techniques",
+    "authors": ["A. Aiuppa"],
+    "venue": "Earth-Science Reviews",
+    "year": 2017
+  }, {
+    "title": "The analysis and interpretation of noble gases in modern hydrothermal systems. In: Burnard, P. (Ed.), The Noble Gases as Geochemical Tracers",
+    "authors": ["Y. Sano", "T.P. Fischer"],
+    "venue": "Advances in Isotope Geochemistry:pp",
+    "year": 2013
+  }, {
+    "title": "Fluxes of mantle and subducted carbon along convergent plate boundaries",
+    "authors": ["Y. Sano", "S.N. Williams"],
+    "venue": "Geophys. Res. Lett",
+    "year": 1996
+  }, {
+    "title": "Origin of carbon in fumarolic gas from island",
+    "authors": ["Y. Sano", "B. Marty"],
+    "venue": "arcs. Chem. Geol",
+    "year": 1995
+  }, {
+    "title": "Gas and aerosol emissions from Villarrica volcano, Chile",
+    "authors": ["G.M. Sawyer", "G.G. Salerno", "J.S. Le Blond", "R.S. Martin", "L. Spampinato", "T.J. Roberts", "T.A. Mather", "M.L.I. Witt", "V.I. Tsanev", "C. Oppenheimer"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2011
+  }, {
+    "title": "Contrasting He-C relationships in Nicaragua and Costa Rica: insights into C cycling through subduction zones",
+    "authors": ["A.M. Shaw", "D.R. Hilton", "T.P. Fischer", "J.A. Walker", "G.E. Alvarado"],
+    "venue": "Earth Planet. Sci",
+    "year": 2003
+  }, {
+    "title": "Hydrogen isotopes in Mariana arc melt inclusions: implications for subduction dehydration and the deepEarth water cycle",
+    "authors": ["A.M. Shaw", "E.H. Hauri", "T.P. Fischer", "D.R. Hilton", "K.A. Kelley"],
+    "venue": "Earth Planet. Sci",
+    "year": 2008
+  }, {
+    "title": "Devolatilization during subduction",
+    "authors": ["M.W. Schmidt", "S. Poli"],
+    "venue": "Treatise on Geochemistry, The Crust, second ed",
+    "year": 2014
+  }, {
+    "title": "The gases in rocks and some related problems",
+    "authors": ["E.S. Shepherd"],
+    "venue": "Am. J. Sci",
+    "year": 1938
+  }, {
+    "title": "The analysis of gases obtained from volcanoes and rocks",
+    "authors": ["E.S. Shepherd"],
+    "venue": "J. Geol",
+    "year": 1925
+  }, {
+    "title": "Volatile flux from subduction zone volcanoes: insights from a detailed evaluation of the fluxes from volcanoes in Japan",
+    "authors": ["H. Shinohara"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2013
+  }, {
+    "title": "Excess degassing from volcanoes and its role on eruptive and intrusive activity",
+    "authors": ["H. Shinohara"],
+    "venue": "Rev. Geophys",
+    "year": 2008
+  }, {
+    "title": "A new technique to estimate volcanic gas composition: plume measurements with a portable multi-sensor system",
+    "authors": ["H. Shinohara"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2005
+  }, {
+    "title": "Volcanic gases emitted during mild Strombolian activity of Villarrica volcano, Chile",
+    "authors": ["H. Shinohara", "J.B. Witter"],
+    "venue": "Geophys. Res. Lett. 32, L20308",
+    "year": 2005
+  }, {
+    "title": "Evolution of volcanic gas composition during repeated culmination of volcanic activity at Kuchinoerabujima volcano, Japan",
+    "authors": ["H. Shinohara", "J. Hirabayashi", "K. Nogami", "M. Iguchi"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 2011
+  }, {
+    "title": "Magma-hydrothermal system interaction inferred from volcanic gas measurements obtained during 2003–2008 at Meakandake volcano, Hokkaido, Japan",
+    "authors": ["H. Shinohara", "N. Matsushima", "K. Kazahaya", "M. Ohwada"],
+    "venue": "Bull. Volcanol",
+    "year": 2011
+  }, {
+    "title": "Variation of H2O/CO2 and CO2/SO2 ratios of volcanic gases discharged by continuous degassing of Mount Etna volcano, Italy",
+    "authors": ["H. Shinohara", "A. Aiuppa", "G Giudice"],
+    "venue": "J. Geophys. Res. 113,",
+    "year": 2008
+  }, {
+    "title": "Origin of volcanic gases discharging from a cooling lava dome of Unzen volcano, Japan",
+    "authors": ["H. Shinohara", "T. Ohba", "K. Kazahaya", "H. Takahashi"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2008
+  }, {
+    "title": "Geochemistry of volcanic gases and hot springs of Satsuma-Iwojima, Japan: following Matsuo",
+    "authors": ["H. Shinohara", "W.F. Giggenbach", "K. Kazahaya", "J.W. Hedenquist"],
+    "venue": "Geochem. J",
+    "year": 1993
+  }, {
+    "title": "Earth's volcanoes and their eruptions: an overview",
+    "authors": ["L. Siebert", "E. Cottrell", "E. Venzke", "B. Andrews"],
+    "year": 2015
+  }, {
+    "title": "Volcanoes of the World. second ed",
+    "authors": ["T. Simkin", "L. Siebert"],
+    "year": 1994
+  }, {
+    "title": "Global seafloor topography from satellite altimetry and ship depth soundings",
+    "authors": ["W.H.F. Smith", "D.T. Sandwell"],
+    "venue": "Science",
+    "year": 1997
+  }, {
+    "title": "Element recycling from subducting slabs to arc crust: a review",
+    "authors": ["C. Spandler", "C. Pirard"],
+    "venue": "Lithos 170-171,",
+    "year": 2013
+  }, {
+    "title": "S-Cl-F degassing pattern of water-rich alkali basalt: modelling and relationship with eruption styles on Mount Etna Volcano",
+    "authors": ["N. Spillaeart", "N. Metrich", "P. Allard"],
+    "venue": "Earth Planet. Sci. Lett. 248:772–786",
+    "year": 2006
+  }, {
+    "title": "Geochemistry of the acid Kawah Putih lake, Patuha Volcano, West Java, Indonesia",
+    "authors": ["T. Sriwana", "M.J. Van Bergen", "S. Sumarti", "J.C. Varekamp", "B. Takano", "B.J.H. Van Os", "M.J. Leng"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 2000
+  }, {
+    "title": "Stable isotope ratios of volcanic steam from White Island, New Zealand",
+    "authors": ["M.K. Stewart", "J.R. Hulston"],
+    "venue": "Bull. Volcanol",
+    "year": 1975
+  }, {
+    "title": "The crater lake and hydrothermal system of Mount Pinatubo, Philippines: evolution in the decade after eruption",
+    "authors": ["J.A. Stimac", "F. Goff", "D. Counce", "A.C.L. Larocque", "D.R. Hilton", "U. Morgenstern"],
+    "venue": "Bull. Volcanol",
+    "year": 2004
+  }, {
+    "title": "The hydrothermal system of Volcan Puracé, Colombia",
+    "authors": ["N.C. Sturchio", "S.N. Williams", "Y. Sano"],
+    "venue": "Bull. Volcanol",
+    "year": 1993
+  }, {
+    "title": "The hydrothermal system of Nevado del Ruiz volcano, Colombia",
+    "authors": ["N.C. Sturchio", "S.N. Williams", "N.P. Garcia", "A.C. Londono"],
+    "venue": "Bull. Volcanol",
+    "year": 1988
+  }, {
+    "title": "The 2010 explosive eruption of Java'sMerapi volcano - a ‘100-year",
+    "authors": ["M. Surono", "P. Jousset", "J. Pallister", "M. Boichu", "M.F. Buongiorno", "A. Budisantoso", "F. Costa", "S. Andreastuti", "F. Prata", "D. Schneider", "L. Clarisse", "H. Humaida", "S. Sumarti", "C. Bignami", "J. Griswold", "S. Carn", "C. Oppenheimer", "F. Lavigne"],
+    "venue": "event. J. Volcanol. Geotherm. Res",
+    "year": 2012
+  }, {
+    "title": "Calculation of multicomponent chemical equilibria in gas-solid-liquid systems: calculation methods, thermochemical data and applications",
+    "authors": ["R.B. Symonds", "M.H. Reed"],
+    "year": 1993
+  }, {
+    "title": "Scrubbing masks magmatic degassing during repose at Cascade-Range and AleutianArc volcanoes",
+    "authors": ["R.B. Symonds", "C.J. Janik", "W.C. Evans", "B.E. Ritchie", "D. Counce", "R.J. Poreda", "M. Iven"],
+    "venue": "U.S. Geol. Surv. Open File Rep. 03–435",
+    "year": 2003
+  }, {
+    "title": "Mantle and crustal sources of carbon, nitrogen, and noble gases in Cascade-Range and Aleutian-Arc volcanic gases",
+    "authors": ["R.B. Symonds", "R. Poreda", "W.C. Evans", "C.J. Janik", "B.E. Ritchie"],
+    "venue": "U.S. Geol. Surv. Open File Rep. 03–436",
+    "year": 2003
+  }, {
+    "title": "Magmatic gas scrubbing: implications for volcano monitoring",
+    "authors": ["R.B. Symonds", "T.M. Gerlach", "M.H. Reed"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 2001
+  }, {
+    "title": "Long-term geochemical surveillance of fumaroles at Showa-Shinzan dome, Usu Volcano, Japan",
+    "authors": ["R.B. Symonds", "Y. Mizutani", "P.H. Griggs"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 1996
+  }, {
+    "title": "Volcanic-gas studies: methods, results and applications",
+    "authors": ["R.B. Symonds", "W.I. Rose", "G.J.S. Bluth", "T.M. Gerlach"],
+    "venue": "Rev. Mineral",
+    "year": 1994
+  }, {
+    "title": "Evaluation of gases, condensates, and SO emissions from Augustine volcano, Alaska: the degassing of a Cl-rich volcanic system",
+    "authors": ["R.B. Symonds", "W.I. Rose", "T.M. Gerlach", "P.H. Briggs", "R.S. Hermon"],
+    "venue": "Bull. Volcanol",
+    "year": 1990
+  }, {
+    "title": "The global range of subduction zone thermal models",
+    "authors": ["E.M. Syracuse", "P.E. van Keken", "G.A. Abers"],
+    "venue": "Phys. Earth Planet",
+    "year": 2010
+  }, {
+    "title": "Intense magmatic degassing through the lake of Copahue volcano, 2013–2014",
+    "authors": ["G. Tamburello", "M. Agusto", "A. Caselli", "F. Tassi", "O. Vaselli", "S. Calabrese", "D. Rouwet", "B. Capaccioni", "R. Di Napoli", "C Cardellini"],
+    "venue": "J. Geophys. Res. Solid Earth",
+    "year": 2015
+  }, {
+    "title": "Gas emissions from five volcanoes in northern Chile and implications for the volatiles budget of the Central Volcanic Zone",
+    "authors": ["G. Tamburello", "T.H. Hansteen", "S. Bredemeyer", "A. Aiuppa", "F. Tassi"],
+    "venue": "Geophys. Res",
+    "year": 2014
+  }, {
+    "title": "Systematics of water isotopic composition and chlorine content in arc-volcanic gases",
+    "authors": ["Y.A. Taran", "M. Zelenski"],
+    "venue": "Geol. Soc. Lond., Spec. Publ. 410",
+    "year": 2014
+  }, {
+    "title": "Geochemistry of volcanic and hydrothermal fluids and volatile budget of Kamchatka-Kuriles subduction zone",
+    "authors": ["Y.A. Taran"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 2009
+  }, {
+    "title": "Chemistry and mineralogy of high temperature gas discharges from Colima volcano, México. Implications for the magmatic gasatmosphere interaction",
+    "authors": ["Y.A. Taran", "A. Bernard", "J.C. Gavilanes"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2001
+  }, {
+    "title": "Geochemistry of the volcano-hydrothermal system of El Chichón volcano, Chiapas, Mexico",
+    "authors": ["Y.A. Taran", "T.B. Fischer", "B.G. Pokrovsky", "Y. Sano", "J.L. Macías", "M.A. Armienta"],
+    "venue": "Bull. Volcanol",
+    "year": 1998
+  }, {
+    "title": "Hydrogen isotopes in hornblendes and biotites from Quaternary volcanic rocks of the Kamchatka-Kurile arc",
+    "authors": ["Y.A. Taran", "B.G. Pokrovsky", "O.N. Volynets"],
+    "venue": "Geochem. J",
+    "year": 1997
+  }, {
+    "title": "Fumarolic activity of Avachinsky and Koryaksky volcanoes, Kamchatka",
+    "authors": ["Y.A. Taran", "C.B. Connor", "V.N. Shapar", "A.A. Ovsyannikov", "A.A. Bilichenko"],
+    "venue": "Bull. Volcanol",
+    "year": 1997
+  }, {
+    "title": "Geochemistry of magmatic gases from Kudriavy volcano, Iturup, Kuril Islands",
+    "authors": ["Y.A. Taran", "J.W. Hedenquist", "M.A. Korzhinsky", "S.I. Tkachenko", "K.I. Shmulovich"],
+    "venue": "Geochim. Cosmochim",
+    "year": 1995
+  }, {
+    "title": "Chemical and isotopic composition of magmatic gases from the 1988 eruption of Klyuchevskoy volcano, Kamchatka",
+    "authors": ["Y.A. Taran", "A.M. Rozhkov", "E.K. Serafimova", "A.D. Esikov"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 1991
+  }, {
+    "title": "Isotopic composition and origin of water in andesitic magmas",
+    "authors": ["Y.A. Taran", "B.G. Pokrovsky", "Y.M. Doubik"],
+    "venue": "Dokl. Acad. Sci. USSR 304,",
+    "year": 1989
+  }, {
+    "title": "Water isotopic composition of fumarolic gases from some Kamchatkan volcanoes",
+    "authors": ["Y.A. Taran", "T.P. Kirsanova", "E.A. Vakin", "A.D. Esikov", "A.L. Cheshko"],
+    "venue": "Izv. Acad. Nauk. USSR Geol",
+    "year": 1987
+  }, {
+    "title": "Volatile organic compounds (VOCs) in air from Nisyros Island (Dodecanese Archipelago, Greece): natural versus anthropogenic sources",
+    "authors": ["F. Tassi", "F. Capecchiacci", "L. Giannini", "G.E. Vougioukalakis", "O. Vaselli"],
+    "venue": "Environ. Pollut",
+    "year": 2013
+  }, {
+    "title": "Gas discharges from four remote volcanoes in northern Chile (Putana, Olca, Irruputuncu and Alitar): a geochemical survey",
+    "authors": ["F. Tassi", "F. Aguilera", "O. Vaselli", "T. Darrah", "E. Medina"],
+    "venue": "Ann. Geophys",
+    "year": 2011
+  }, {
+    "title": "Fluid geochemistry of hydrothermal systems in the Arina-Parinacota, Tarapacà and Antofagasta regions (northern Chile)",
+    "authors": ["F. Tassi", "F. Aguilera", "T. Darrah", "O. Vaselli", "B. Capaccioni", "R.J. Poreda", "A. Delgado Huertas"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2010
+  }, {
+    "title": "The magmatic- and hydrothermal-dominated fumarolic system at the Active Crater of Lascar volcano, northern Chile",
+    "authors": ["F. Tassi", "F. Aguilera", "O. Vaselli", "E. Medina", "D. Tedesco", "A. Delgado Huertas", "R.J. Poreda", "S. Kojima"],
+    "venue": "Bull. Volcanol",
+    "year": 2009
+  }, {
+    "title": "Scrubbing processes and chemical equilibria controlling the composition of light hydrocarbons in natural gas discharges:an example from the geothermal fields of Salvador",
+    "authors": ["F. Tassi", "O. Vaselli", "B. Capaccioni", "G. Montegrossi", "F. Barahona", "A. Caprai"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2007
+  }, {
+    "title": "Chemical composition of fumarolic gases and spring discharges from El Chichòn volcano, Mexico: causes and implications of the changes detected over the period 1998–2000",
+    "authors": ["F. Tassi", "O. Vaselli", "B. Capaccioni", "J.L. Macias", "A. Nencetti", "G. Montegrossi", "G. Magro"],
+    "venue": "J. Volcanol. Geotherm. Res",
+    "year": 2003
+  }, {
+    "title": "Melting of carbonaceous pelites at 2.5–5.0 GPa, silicate–carbonatitie liquid immiscibility, and potassium-carbon metasomatism of the mantle",
+    "authors": ["T.B. Thomsen", "M.W. Schmidt"],
+    "venue": "Earth Planet. Sci",
+    "year": 2008
+  }, {
+    "title": "Slab melting as a barrier to deep carbon subduction",
+    "authors": ["A.R. Thomson", "M.J. Walter", "S.C. Kohn", "R.A. Brooker"],
+    "venue": "Nature",
+    "year": 2016
+  }, {
+    "title": "Subduction-like fluids in the genesis of Mt. Etna magmas: evidence from boron isotopes and fluid mobile elements",
+    "authors": ["S. Tonarini", "P. Armienti", "M. D'Orazio", "F. Innocenti"],
+    "venue": "Earth Planet. Sci",
+    "year": 2001
+  }, {
+    "title": "Crustal CO2 liberation during the 2006 eruption",
+    "authors": ["V.R. Troll", "D.R. Hilton", "E.M. Jolis", "J.P. Chadwick", "L.S. Blythe", "F.M. Deegan", "L.M. Schwarzkopf", "M. Zimmer"],
+    "year": 2012
+  }, {
+    "title": "24–47 earthquake events at Merapi volcano, Indonesia",
+    "authors": ["A. Aiuppa"],
+    "venue": "Earth-Science Reviews",
+    "year": 2017
+  }, {
+    "title": "Degassing processes of Popocatépetl and Volcán de Colima, Mexico",
+    "authors": ["N.R. Varley", "Y. Taran"],
+    "venue": "Geol. Soc. Lond., Spec. Publ",
+    "year": 2003
+  }, {
+    "title": "Evolution of fluid geochemistry at the Turrialba volcano (Costa Rica",
+    "authors": ["O. Vaselli", "F. Tassi", "E. Duarte", "E. Fernandez", "R.J. Poreda", "A. Delgado Huertas"],
+    "venue": "Bull. Volcanol",
+    "year": 2010
+  }, {
+    "title": "Volatiles in subduction zonemagmas: concentrations and fluxes based on melt inclusions and volcanic gas data",
+    "authors": ["P.J. Wallace"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2005
+  }, {
+    "title": "The sulfur budget inmagmas: evidence frommelt inclusions, submarine glasses, and volcanic gas emissions",
+    "authors": ["P.J. Wallace", "M. Edmonds"],
+    "venue": "Rev. Mineral. Geochem",
+    "year": 2011
+  }, {
+    "title": "Magmatic vapor source for sulfur dioxide released during volcanic eruptions: evidence",
+    "authors": ["P.J. Wallace", "T.M. Gerlach"],
+    "venue": "fromMount Pinatubo. Science",
+    "year": 1994
+  }, {
+    "title": "Volatiles inmagmas",
+    "authors": ["P.J. Wallace", "T. Plank", "M. Edmonds", "E.H. Hauri"],
+    "year": 2015
+  }, {
+    "title": "Quantification of pre-eruptive exsolved gas contents in silicic magmas",
+    "authors": ["P.J. Wallace", "A.T. Anderson", "A.M. Davis"],
+    "venue": "Nature",
+    "year": 1995
+  }, {
+    "title": "The limestone assimilation hypothesis",
+    "authors": ["D. Watkinson", "P. Wyllie"],
+    "venue": "Nature",
+    "year": 1964
+  }, {
+    "title": "Volcanic CO2 output at the Central American subduction zone inferred frommelt inclusions in olivine crystals from mafic tephras",
+    "authors": ["H. Wehrmann", "K. Hoernle", "M. Portnyagin", "M. Wiedenbeck", "K. Heydolph"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2011
+  }, {
+    "title": "Degassing associated with the 2009 Eruption of Redoubt Volcano, Alaska",
+    "authors": ["C. Werner", "P.J. Kelly", "M. Doukas", "T. Lopez", "M. Pfeffer", "R. McGimsey", "C. Neal"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2013
+  }, {
+    "title": "Deep magmatic degassing versus scrubbing: elevated CO2 emissions and C/S in the lead-up to the 2009 eruption of Redoubt Volcano, Alaska",
+    "authors": ["C. Werner", "W.C. Evans", "Kelly", "P.J"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2012
+  }, {
+    "title": "Gas emissions from failed and actual eruptions from Cook Inlet Volcanoes, Alaska, 1989–2006",
+    "authors": ["C. Werner", "M. Doukas", "P. Kelly"],
+    "venue": "Bull. Volcanol",
+    "year": 2011
+  }, {
+    "title": "Variability of passive gas emissions, seismicity, and deformation during crater lake growth at White Island Volcano",
+    "authors": ["C. Werner", "T. Hurst", "B. Scott", "S. Sherburn", "B.W. Christenson", "K. Britten", "J. Cole-Baker", "B. Mullan"],
+    "venue": "New Zealand,",
+    "year": 2008
+  }, {
+    "title": "Global carbon dioxide emission to the atmosphere by volcanoes",
+    "authors": ["S.N. Williams", "S.J. Schaefer", "M.L. Calvache", "D. Lopez"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1992
+  }, {
+    "title": "SolEx: a model for mixed COHSCL-volatile solubilities and exsolved gas compositions in basalt",
+    "authors": ["F. Witham", "J. Blundy", "S.C. Kohn", "P. Lesne", "J. Dixon", "S.V. Churakov", "R. Botcharnikov"],
+    "venue": "Comput. Geosci",
+    "year": 2012
+  }, {
+    "title": "Mercury and halogen emissions from Masaya and Telica volcanoes, Nicaragua",
+    "authors": ["M.L.I. Witt", "T.A. Mather", "D.M. Pyle", "A. Aiuppa", "E. Bagnato", "V.I. Tsanev"],
+    "venue": "J. Geophys. Res. Solid Earth",
+    "year": 2008
+  }, {
+    "title": "Major and trace element composition of the depleted MORB mantle (DMM)",
+    "authors": ["R.K. Workman", "S.R. Hart"],
+    "venue": "Earth Planet. Sci",
+    "year": 2005
+  }, {
+    "title": "Geochemistry of volcanic and hydrothermal gases of Mutnovsky volcano, Kamchatka: evidence for mantle, slab and atmosphere contributions to fluids of a typical arc volcano",
+    "authors": ["M. Zelenski", "Y. Taran"],
+    "venue": "Bull. Volcanol",
+    "year": 2011
+  }, {
+    "title": "Emissions of trace elements during the 2012–2013 effusive eruption of Tolbachik volcano, Kamchatka: enrichment factors, partition coefficients and aerosol contribution",
+    "authors": ["M. Zelenski", "N. Malik", "Y. Taran"],
+    "venue": "J. Volcanol. Geotherm",
+    "year": 2014
+  }, {
+    "title": "High emission rate of sulfuric acid from Bezymianny volcano, Kamchatka",
+    "authors": ["M. Zelenski", "Y. Taran", "B. Galle"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2015
+  }, {
+    "title": "Nitrogen systematics and gas fluxes of subduction zones: insights from Costa Rica arc volatiles",
+    "authors": ["M.M. Zimmer", "T.P. Fischer", "D.R. Hilton", "G. Alvarado", "Z.D. Sharp", "J.A. Walker"],
+    "venue": "Geochem. Geophys. Geosyst. 5:Q05J11",
+    "year": 2004
+  }],
+  "id": "SP:a6bb91f2c785cb1a3fa76cb1b744eda43bfd2801",
+  "authors": [{
+    "name": "Alessandro Aiuppa",
+    "affiliations": []
+  }, {
+    "name": "Tobias P. Fischer",
+    "affiliations": []
+  }, {
+    "name": "Terry Plank",
+    "affiliations": []
+  }, {
+    "name": "Philippe Robidoux",
+    "affiliations": []
+  }, {
+    "name": "Rossella Di Napoli",
+    "affiliations": []
+  }],
+  "abstractText": "Article history: Received 4 January 2017 Received in revised form 8 March 2017 Accepted 14 March 2017 Available online 18 March 2017 Some 300–600 Tg of volatiles are globally vented each year by arc volcanism. Such arc gas emissions have contributed to past and present-day evolution of the Earth atmosphere and climate by recyclingmineral-bound volatiles subducted along active slabs. Carbon dioxide (CO2) and total sulphur (ST) are, after water, the major components of volcanic arc gases. Understanding their relative abundances (e.g., the CO2/ST ratio) in arc volcanic gases is important to constrain origin and recycling efficiency of these volatiles along the subduction factory, and to better constrain the global arc volcanic CO2flux. Here,we review currently available information on global variations of volcanic arc CO2/ST gas ratios.We analyse a dataset of N2000 published volcanic arc gas measurements that comprise (i) low-temperature hydrothermal gas emissions, in which ST is dominated by hydrothermal hydrogen sulphide (H2S), and (ii) high temperature “magmatic” gases rich in sulphur dioxide (SO2). We show that the global CO2/ST population of hydrothermal gases is mainly controlled by S loss to hydrothermal fluids/ rocks.We then select a subset of high-temperature (≥450 °C) arc gaseswhich, being less affected by S hydrothermal loss, can be used to infer the “deep” source of volatiles. Using a subset of time-averaged high-T gas compositions for 56 arc volcanoes, we identify sizeable along-arc and inter-arc variations in the “magmatic” arc gas CO2/ST ratio, which we ascribe to distinct volatile origins in the magma generation/storage zone. In the attempt to resolve the slab vs. crustal contributions to arc gas budgets, we explore the global association between volcanic gas CO2/ST ratios and non-volatile (trace elements) tracers in arc magmas. For the first time in a global study,wefind evidence for higher carbon output (CO2/ST) in arcswhere carbonate sediment subducts on the seafloor. Indeed,most arc volcanoes exhibit gas vs. trace element relationships that are explainedby addition of slabsedimentmelts ± fluids to themantle wedge.We also identify a subset of CO2-rich arc volcanoeswith unusually high CO2/ST ratios (Etna, Stromboli, Vulcano Island, Popocatépetl, Soufriere of St Vincent, Bromo and Merapi), which we interpret as the product of magma-limestone interactions in the upper crust. Evidence for this process comes from carbonate xenoliths and/or carbonate basement that characterise these volcanic systems. Although the mean global CO2/ST ratio of arc gas (~2.5) reflects a predominant source from subducted sediment, limestone-assimilation-derived C may account for a substantial (~19–32%) fraction of the present-day global arc budget, and may have contributed to elevated atmospheric CO2 levels and warmer climate in Earth's past. Our global CO2/ST vs. trace element association paves the way to identifying the gas signature of volcanoes (or arc segments) for which gas information is currently missing, and so improve our current global volcanic arc CO2 flux inventory. © 2017 Elsevier B.V. All rights reserved.",
+  "title": "Along-arc, inter-arc and arc-to-arc variations in volcanic gas CO2/ST ratios reveal dual source of carbon in arc volcanism"
+}

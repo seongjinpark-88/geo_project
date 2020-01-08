@@ -1,0 +1,412 @@
+{
+  "sections": [{
+    "text": "1CIBIO, Centro de Investigação em Biodiversidade e Recursos Genéticos da Universidade do Porto, Campus Agrário de Vairão, R. Padre Armando Quintas, 4485-661 Vairão, Portugal, 2Departamento de Zoologia e Antropologia, Faculdade de Ciências da Universidade do Porto Pr. Gomes Teixeira, 4099-002 Porto, Portugal, 3Institute of Evolutionary Biology (CSIC-UPF), Passeig Marı́tim de la Barceloneta, 37-49, E-08003 Barcelona, Spain\n*Correspondence: Salvador Carranza, Institute of Evolutionary Biology (CSIC-UPF), Passeig Marı́tim de la Barceloneta, 37-49, E-08003 Barcelona, Spain. E-mail: salvador.carranza@ibe.upf-csic.es\nAim To reassess the relationships between Tarentola geckos from the Cape Verde Islands by including specimens from all islands in the range. To determine the variation within forms by sequencing over 400 specimens, thereby allowing the discovery of cryptic forms and resolving some of the issues raised previously. This extensive sampling was also used to shed light on distributions and to explain genetic diversity by comparing the ages and ecological and geological features of the islands (size, elevation and habitat diversity).\nLocation The Cape Verde Islands: an oceanic archipelago belonging to the Macaronesian biogeographic region, located around 500 km off Senegal.\nMethods A total of 405 new specimens of Tarentola geckos were collected from nine islands with very different geological histories, topography, climate and habitats. Mitochondrial cytochrome b (cyt b) gene and 12S rRNA partial sequences were obtained and analysed using phylogenetic methods and networks to determine molecular diversity, demographic features and phylogeographic patterns.\nResults The phylogenetic relationships between all known forms of Cape Verdean Tarentola specimens were estimated for the first time, the relationships between new forms were assessed and previously hypothesized relationships were re-examined. Despite the large sample size, low intraspecific diversity was found using a 303-bp cyt b fragment. Star-like haplotype networks and statistical tests suggest the past occurrence of a rapid demographic and geographical expansion over most of the islands. Genetic variability is positively correlated with size, elevation and habitat diversity of the islands, but is not linearly related to the age of the islands. Biogeographical patterns have, in general, high concordance with phylogenetic breaks and with the three eco-geographical island groups. Volcanism and habitat diversity, both tightly linked with island ontogeny, as postulated by the general dynamic model of oceanic island biogeography, as well as present and historical size of the islands appear to be the main factors explaining the genetic diversity of this group.\nMain conclusions The Tarentola radiation was clarified and is clearly associated with the geological and ecological features of the islands. Two factors may account for the low intraspecific variation: (1) recent volcanic activity and high ecological stress, and (2) poor habitat diversity within some islands. More studies are needed to align taxonomy with phylogenetic relationships, whereas GIS modelling may help to predict precise species distributions.\nKeywords 12S, biogeography, Cape Verde Islands, cyt b, geckos, island radiation, Macaronesia, phylogeny, Tarentola.\nª 2010 Blackwell Publishing Ltd www.blackwellpublishing.com/jbi 1047 doi:10.1111/j.1365-2699.2009.02254.x"
+  }, {
+    "heading": "INTRODUCTION",
+    "text": "Islands can be used as model systems to study evolution and phylogeography, and in this context are often referred to as ‘natural laboratories’. In particular, oceanic archipelagos, such as the Galapagos, Hawaii, Madeira and the Canary Islands, allow the testing of various evolutionary hypotheses. As gene flow between islands is practically non-existent, allowing fixation of genetic variation, differentiation of populations can occur through geographical isolation. If the ages of the islands are known, the phylogeography of taxa in archipelagos can be analysed within a known timeframe. Additionally, the investigation and protection of endemic island species is particularly important as they typically have a relatively higher risk of extinction (Frankham, 1997) and remote islands possess large numbers of endemics (Whittaker, 1998).\nMany factors, including area, island shape, habitat diversity, distance to the mainland and to other islands, geological events, taxon biology and human influence are known to affect biodiversity on islands (Fattorini, 2009). Recently, Whittaker et al. (2008) published a development of the classic dynamic equilibrium theory of island biogeography introduced by\nMacArthur & Wilson (1963, 1967), known as the general dynamic model (GDM) of oceanic island biogeography, which combines the former relationships with island ontogeny. This model is more applicable to remote hotspot oceanic archipelagos, where immigration rates are very low, and postulates that ‘middle-aged’ islands have maximum realized species richness and potential carrying capacity.\nThe Cape Verde Islands are an oceanic archipelago located approximately 500 km off the West African coast. The archipelago was formed by a volcanic hotspot (Plesner et al., 2002) and has never been connected to the mainland (Mitchell-Thomé, 1976). It has ten main islands, plus several islets, which are topologically divided into north-western, eastern and southern islands (Fig. 1). They are arranged in a horse-shoe shape with the concavity facing westwards. The islands are between 6 and 26 million years (Myr) old and the youngest ones are on the westernmost tips of the arc (see Stillman et al., 1982; Mitchell et al., 1983; Plesner et al., 2002; Torres et al., 2002). Some of the islands of the north-western group (São Vicente, Santa Luzia, Branco and Raso islets), and possibly also Boavista and Maio, were most likely to have been linked during sea-level fluctuations in the Pleistocene.\n1048 Journal of Biogeography 37, 1047–1060 ª 2010 Blackwell Publishing Ltd\nElsewhere, the water channels are very deep, so it is highly improbable that the other islands were ever connected by land (Morris, 1989). Their sizes and topographies vary dramatically: Santiago is the largest (around 1000 km2) and Raso islet (<6 km2) among the smallest; Fogo is the highest (approximately 2800 m a.s.l.) and Santa Maria islet the flattest.\nAlthough Darwin, during his voyage on the Beagle, considered the Cape Verde Islands to be ‘utterly sterile’ (Darwin, 1845), he made note of the lizards in the more humid valleys. There are approximately 27 currently recognized native lizard taxa, all of which are endemic to the Cape Verdes and can be divided into three genera: the Chioninia skinks and the Tarentola and Hemidactylus geckos. The genus Tarentola is biogeographically interesting because it arrived on the Cape Verde Islands approximately 7 million years ago (Ma) from a propagule that dispersed from the western Canary Islands situated 1500 km to the north (Carranza et al., 2000). The endemic Tarentola species have been studied phylogenetically (Carranza et al., 2000, 2002; Jesus et al., 2002) and relationship estimates indicated possible cryptic species and paraphyly of some species. However, not all the islands of the archipelago were sampled in these previous studies and therefore not all taxa were included. Moreover, those studies were based on a small number of samples per taxon and per island, so intraspecific variation was not assessed. Such information is valuable as the genus Tarentola on the Canary Islands shows considerable intraspecific variation, possibly associated with island sizes, volcanic activity, ecological niche availability, or a combination of these factors (Gübitz et al., 2005). The study of intraspecific variation may uncover additional cryptic lineages and therefore prove highly relevant for any conservation assessment (Schwartz et al., 2006).\nThe aim of the present study was to reassess the relationships between Tarentola geckos (Reptilia: Gekkonidae) from the Cape Verde Islands by including specimens from all islands where they are found, including distinct subspecies that have never previously been analysed. Likewise, sequencing over 400 new specimens would allow variations within forms to be determined. The expectation was that this more complete sampling would resolve some of the issues raised in earlier phylogenetic works whilst decreasing the possibility that any cryptic forms have been overlooked. Extensive intra-island sampling would also shed light on possible barriers to gene flow within species and would allow genetic diversity to be compared in terms of the age and geological and ecological features of the islands (size, elevation and habitat diversity)."
+  }, {
+    "heading": "MATERIALS AND METHODS",
+    "text": "Sampling and gathering of the molecular data set\nThe ten islands of the Cape Verde archipelago were prospected between 2006 and 2008 (mid-May to mid-July). The sampling stations were chosen randomly and stratified according to the different habitats existing on each island, based on agro-ecological and vegetation zoning maps (see Appendix S1 in Supporting Information) and the number of sites per\nhabitat, according to its area. This allowed most of the variability between and within each habitat – elevation, vegetation, climate and geographic position – to be covered by the different sampling stations. The sampled area (440 stations of 1 · 1 km2) corresponds to around 11% of the area of the country. Each station was sampled along transects for an average of 35 min, depending on the difficulty of the terrain, by two observers walking parallel to each other (total sampling time 263 h).\nA total of 405 new specimens of Tarentola were included in the genetic analyses. Specimens were identified in the field using diagnostic characters published by Joger (1984, 1993) and Schleich (1987), digital photographs were taken and a piece of tail was removed and stored in 96% ethanol. Sampled animals were released afterwards. The identification codes, localities and GenBank accession numbers of the new samples used are listed in Appendix S2.\nTotal genomic DNA was extracted from small pieces of tail using standard methods (Harris et al., 1998). The cytochrome b (cyt b) and 12S rRNA mitochondrial (mtDNA) genes were amplified. The polymerase chain reaction (PCR) primers used in amplification and sequencing were 12Sa and 12Sb for the 12S rRNA, and cyt b1 and cyt b2 (Kocher et al., 1989; Palumbi, 1996) for the first fragment and cyt b 2F and CB3-3¢ (Palumbi, 1996) for the second fragment of the cyt b gene. Thermocycling was performed following Carranza et al. (2000). Amplified mtDNA fragments were sequenced from both strands.\nThe first fragment of the cyt b gene [cyt b1 and cyt b2 primers, 303 base pairs (bp)] from 459 individuals was used to identify all lineages by network analysis and to assess intraspecific variation. These 459 sequences comprised 405 new sequences and 54 GenBank sequences from 276 sites on nine islands and four islets across the Cape Verde archipelago (no specimens of Tarentola were found on Sal Island). The first and second fragments of the cyt b gene (684 bp) plus the 12S rRNA (403 bp), in total 1087 bp, from 70 individuals were used for the phylogenetic analyses, including all previously published sequences and 13 new ones in order to include representatives from all taxa and lineages."
+  }, {
+    "heading": "Data analyses",
+    "text": "Phylogenetic analyses\nDNA sequences were aligned using ClustalX (Thompson et al., 1997) with default parameters. All the 70 cyt b sequences had the same length, therefore no gaps were postulated. Although some gaps were postulated in order to resolve length differences in the 12S rRNA gene fragment, all positions could be unambiguously aligned and were therefore included in the analyses.\nTwo methods of phylogenetic analysis, namely maximum likelihood (ML) and Bayesian analysis (BI), were employed for the two independent partitions (cyt b and 12S) and the combined data set, respectively, and their results were compared. jModeltest v.0.1.1 (Posada, 2008) was used to select\nJournal of Biogeography 37, 1047–1060 1049 ª 2010 Blackwell Publishing Ltd\nthe most appropriate model of sequence evolution for the ML and BI of the independent partitions and the combined data sets, under the Akaike information criterion. The models selected were: GTR+I+G for the cyt b partition and combined data set and GTR+G for the 12S rRNA partition.\nBayesian analyses were performed using MrBayes v.3.0b4 (Huelsenbeck & Ronquist, 2001). The analyses were run for 2 · 106 generations, with sampling intervals of 100 generations, to produce 20,000 trees. After verifying that stationarity had been reached by plotting )ln L against generation time, the first 4000 trees in the cyt b + 12S data set were discarded and independent majority rule consensus trees generated from the remaining (post-‘burn-in’) trees.\nMaximum likelihood analyses were performed using phyml (Guindon & Gascuel, 2003), with model parameters fitted to the data by likelihood maximization. The reliability of the ML trees was assessed by bootstrap analysis (Felsenstein, 1985), with 1000 replications.\nAny topological incongruence between partitions was tested using the incongruence length difference (ILD) test (Michkevich & Farris, 1981; Farris et al., 1994), with 10,000 heuristic searches performed after removing all invariable characters (Cunningham, 1997). A reciprocal 70% bootstrap proportion (Mason-Gamer & Kellogg, 1996) or a 95% posterior probability (PP) threshold was also used to test for incongruence between data sets. Topological constraints to test alternative topologies were constructed using MacClade v.4.0 (Maddison & Maddison, 1992) and compared with optimal topologies using the Shimodaira–Hasegawa (SH) test (Shimodaira &\nHasegawa, 1999) implemented in paup* 4.0b10 (Swofford, 1998).\nPopulation genetics, demographic analyses and correlations\nNetwork approaches are more effective than classical phylogenetic ones for representing intraspecific evolution (Posada & Crandall, 2001). Therefore, the genealogical relationships between groups were assessed with haplotype networks constructed using statistical parsimony (Templeton et al., 1992), implemented in the program tcs v.1.21 (Clement et al., 2000), with a connection limit of 95%. Genetic differentiation between populations belonging to the same network was calculated using the Snn statistic (Hudson, 2000) implemented in the program DnaSP v.5 (Rozas et al., 2003) (Appendix S3). Independent networks and those island populations which were part of a network but presented significant Snn values were considered distinct evolutionarily significant units (ESUs), following Fraser & Bernatchez (2001).\nHaplotype (Hd) and nucleotide diversity (p) values, number of haplotypes (h) and segregating sites (S) were also calculated using DnaSP v.5 (Table 1). A series of analyses were carried out to test for the hypothesis of a rapid expansion and to estimate the time since expansion. Fu’s FS statistic (Fu, 1997) was calculated to test for deviations from the neutral Wright– Fisher model consistent with a population expansion under the neutrality hypothesis, using coalescent simulations in DnaSP (based on the segregating sites and assuming no recombination, with 10,000 replicates and 0.95 as confidence interval).\nTo characterize the expansion pattern further, Arlequin v.3.1 (Excoffier et al., 2005) was used to determine the historical demography of the population using mismatch distributions and the models of Rogers & Harpending (1992) and Rogers (1995). Recent growth is expected to generate a unimodal distribution of pairwise differences between sequences (Rogers & Harpending, 1992). The distribution is compared with that expected under a model of population expansion (Rogers, 1995), calculating the estimator expansion time (s) and the initial and final h (h0 and h1, respectively), according to Schneider & Excoffier (1999). Monte Carlo simulations of 1000 random samples assessed the fit of the mismatch distribution to the theoretical distribution under an expansion scenario. The sum of squared deviations between observed and expected mismatch distributions was used as a test statistic, with the P-value representing the probability of obtaining a simulated sum of squared deviations (SSD) larger than or equal to the observed one (Table 1). The s parameter is an estimate of time after expansion (t) in mutational units. Thus, if the divergence rate per nucleotide per year (s = 2 l, where l is the substitution rate per lineage) and the number of nucleotides of the fragment analysed (l) are known, it is possible to calculate the age when the expansion occurred using the expression s = 2 llt (modified from Harpending et al., 1993).\nSpearman’s rank correlations (Table 2) were calculated to establish comparisons between the number of sequences (N), haplotype diversity (Hd), number of ESUs and geographical and ecological characteristics of the islands (Appendix S4) – size (area, perimeter), elevation (maximum, medium and median), location (latitude and longitude of the centroid of the island) and habitat diversity (number of habitats). Longitude is an estimate of the age of the islands for this archipelago. Haplotype diversity was considered rather than haplotype number, as the former is independent of sample size. Correlations between these variables were considered if the Spearman rank correlation coefficient (q) was ‡0.60 and P < 0.05 and calculated using the jmp package (SAS Institute, Cary, NC, USA). The geographical variables were obtained using the geographic information system (GIS) ArcMap 9.0 (ESRI, 2004) with elevations being derived from a digital elevation model (Jarvis et al., 2006) and habitat diversity by adapting the information available in the agro-ecological and vegetation zoning maps presented in Appendix S1.\nEstimation of divergence times and mutation rate (l)\nThe computer program r8s v.1.6.4 was used to estimate divergence times between lineages (Sanderson, 2002). The outgroup sequence of Tarentola americana (Gray, 1831) was eliminated from the tree prior to the analysis. Smoothing of rate variation along the tree was performed with the Langley & Fitch (1974) and penalized likelihood (Sanderson, 2002) methods. Sixteen smoothing factors with log10 from )2 to 5.5 were used for the penalized likelihood method. The lowest v2 cross-validation score, as calculated by r8s, was used to select the best method. A parametric bootstrap analysis, in which 1000 Monte Carlo simulations of alignments with the same length as the complete data sets were generated with Seq-Gen (Rambaut & Grassly, 1997), using the phylogenetic tree and model parameters previously obtained, was performed to account for the error involved in the calibration of the Tarentola phylogeny. This allowed the stochastic errors of date estimates associated with sampling a finite number of base pairs to be evaluated (Sanderson & Doyle, 2001; Lalueza-Fox et al., 2005).\nTwo calibration points were used to estimate absolute rates. The first of these was based on the assumption that divergence between Tarentola boettgeri hierrensis Joger & Bischoff, 1983 and Tarentola boettgeri bischoffi Joger, 1984 began approximately 1 Ma (see Carranza et al., 2000). The second calibration point was based on the assumption that Tarentola delalandii (Duméril & Bibron, 1836) from north Tenerife colonized the island of La Palma 2 Ma (Ancochea et al., 1994; Gübitz et al., 2000). The ML phylogenetic tree from Fig. 2 was also used with the same calibration points as stated above, but using the Langley–Fitch algorithm, to infer the average mutation rate (l) for the genus Tarentola."
+  }, {
+    "heading": "RESULTS",
+    "text": ""
+  }, {
+    "heading": "Phylogenetic analyses",
+    "text": "Independent ML and BI analyses of the two genes (cyt b and 12S) produced trees that differed in some minor arrangements of taxa or individual samples. These differences had low bootstrap and posterior probability support in all cases (<70% and 95%, respectively). It was therefore considered that there\nJournal of Biogeography 37, 1047–1060 1051 ª 2010 Blackwell Publishing Ltd\nFi g\nu re\n2 M\nax im\nu m\nli ke\nli h\no o\nd (M\nL )\ntr ee\nin fe\nrr ed\nu si\nn g\nth e\nG T\nR +\nI+ G\nm o\nd el\no f\nse q\nu en\nce ev\no lu\nti o\nn (l\no g\nli ke\nli h\no o\nd =\n) 64\n68 .8\n96 )\nsh o\nw in\ng re\nla ti\no n\nsh ip\ns an\nd es\nti m\nat ed\nti m\nes o\nf d\niv er\nge n\nce\no f\nen d\nem ic\nC ap\ne V\ner d\ne T\nar en\nto la\nta xa\nan d\nth ei\nr re\nla ti\nve s\nfr o\nm th\ne C\nan ar\ny Is\nla n\nd s.\nT h\ne tr\nee is\nro o\nte d\nu si\nn g\nT ar\nen to\nla am\ner ic\nan a.\nB o\no ts\ntr ap\nsu p\np o\nrt va\nlu es\nab o\nve 60\n% fo\nr th\ne M\nL an\nal ys\nis\nar e\nsh o\nw n\nb el\no w\nn o\nd es\n.P o\nst er\nio r\np ro\nb ab\nil it\ny (P\nP )\nva lu\nes h\nig h\ner th\nan 95\n% fo\nr th\ne B\nay es\nia n\nan al\nys is\nar e\nre p\nre se\nn te\nd b\ny an\nas te\nri sk\n(* )\nan d\nar e\nsh o\nw n\nab o\nve n\no d\nes .I\nta li\nc n\nu m\nb er\ns in\nso m\ne se\nle ct\ned n\no d\nes\n(h ig\nh li\ngh te\nd w\nit h\na fi\nll ed\nci rc\nle )\nin d\nic at\ne th\ne es\nti m\nat ed\nag e\no f\nth e\nsp ec\nia ti\no n\nev en\nt o\nf th\nat n\no d\ne in\nm il\nli o\nn s\no f\nye ar\ns ag\no ,\nfo ll\no w\ned b\ny th\ne st\nan d\nar d\nd ev\nia ti\no n\no b\nta in\ned w\nit h\np ar\nam et\nri c\nb o\no ts\ntr ap\nu si\nn g\nth e\no ri\ngi n\nal to\np o\nlo gy\n(s ee\nM at\ner ia\nls an\nd M\net h\no d\ns) .\nSe q\nu en\nce s\nd o\nw n\nlo ad\ned fr\no m\nG en\nB an\nk ar\ne sh\no w\nn in\nth e\nfi gu\nre w\nit h\nth ei\nr re\nsp ec\nti ve\nG en\nB an\nk ac\nce ss\nio n\nn u\nm b\ner s\nfo r\nth e\ncy to\nch ro\nm e\nb\nan d\n12 S\nrR N\nA ge\nn es\nse p\nar at\ned b\ny a\nd as\nh .\nF o\nr lo\nca li\nty d\nat a\nan d\nG en\nB an\nk ac\nce ss\nio n\nn u\nm b\ner s\n(r an\ngi n\ng fr\no m\nG Q\n38 06\n99 to\nG Q\n38 11\n29 )\no f\nth e\nn ew\nse q\nu en\nce s\nse e\nA p\np en\nd ix\nS2 .\nL et\nte rs\nim m\ned ia\nte ly\nto th\ne ri\ngh t\no f\nis la\nn d\nn am\nes co\nrr es\np o\nn d\nto th\ne 15\nev o\nlu ti\no n\nar il\ny si\ngn ifi\nca n\nt u\nn it\ns (E\nSU s)\nre co\ngn iz\ned in\nth e\np re\nse n\nt w\no rk\nan d\nsh o\nw n\nin F\nig .\n3. C\no lo\nu re\nd d\no ts\nco rr\nes p\no n\nd to\nta xa\nsh o\nw n\nin F\nig .\n1.\n1052 Journal of Biogeography 37, 1047–1060 ª 2010 Blackwell Publishing Ltd\nwere no major topological conflicts between the two gene partitions (Mason-Gamer & Kellogg, 1996). The ILD test (P > 0.60) similarly showed that the two independent data sets were not incongruent. In total, the combined data set included 1087 bp (684 bp from cyt b and 403 bp from 12S rRNA), of which 674 positions were variable and 637 parsimony-informative (522 and 515 for cyt b and 152 and 122 for 12S rRNA, respectively).\nThe results of the ML and BI phylogenetic analyses of the combined cyt b + 12S rRNA data sets are shown in Fig. 2 and support the hypothesis that Tarentola from the Cape Verde archipelago is a clade that originated as a result of a single transoceanic dispersal event from the Canary Islands.\nThe combined tree of the ML and BI analyses shows four major groups (see Fig. 2): (a) the Tarentola darwini Joger, 1984 – Tarentola ‘rudis’ boavistensis Joger, 1993 group, not well supported; (b) the Tarentola caboverdiana Schleich, 1984 group, with subspecies from São Vicente (T. caboverdiana sustituta Joger, 1984), Santa Luzia and Raso islet (T. caboverdiana raziana Schleich, 1984) and Santo Antão (T. caboverdiana caboverdiana Schleich, 1984); (c) the T. caboverdiana nicolauensis Schleich, 1984 group; and (d) the Tarentola gigas (Bocage, 1896) – Tarentola rudis Boulenger, 1906 group; the latter three are very well supported.\nThe phylogeny indicates that T. rudis is polyphyletic, with T. ‘rudis’ boavistensis, which is endemic to the island of Boavista, being more closely related to T. darwini from São Nicolau, Fogo and Santiago than to the remaining species of T. rudis. To test this result further, the log likelihood of the ML tree presented in Fig. 2 ()6468.9) was compared with the log likelihood of a ML tree constrained so that T. rudis was monophyletic ()6501.7). The results of the SH test showed that the constrained tree had a significantly worse log likelihood value than the unconstrained solution (Diff )ln L = 32.8; P < 0.005), hence the tree from Fig. 2, where T. rudis is polyphyletic, is preferred.\nTarentola caboverdiana, T. gigas and T. rudis form a very well-supported clade, which is sister to group ‘a’ formed by T. darwini and T. ‘rudis’ boavistensis. The phylogenetic analyses show that T. caboverdiana is paraphyletic, with the subspecies from São Nicolau (T. caboverdiana nicolauensis – group ‘c’) being more closely related to T. rudis and T. gigas (group ‘d’) than to the remaining subspecies of T. caboverdiana (T. c. caboverdiana, T. c. raziana and T. c. substituta – group ‘b’). However, the results of the SH test showed that the log likelihood of the constrained tree in which T. caboverdiana was forced to be monophyletic ()6474.3) was not significantly worse than the ‘best’ tree presented in Fig. 2 (Diff )ln L = 5.4; P > 0.40).\nThe three lineages of T. darwini within group ‘a’, are very divergent, thus indicating that populations from Fogo, São Nicolau and Santiago have been evolving in isolation for several million years. The bootstrap and PP values that support the monophyletic status of T. darwini are very low (Fig. 2).\nThe three subspecies of T. caboverdiana from group ‘b’ form a robust monophyletic assemblage that is further subdivided into the population from Santo Antão (T. c. caboverdiana) and the populations from São Vicente (T. c. substituta) and the Desertas group, Santa Luzia, Raso and Branco (T. c. raziana).\nWithin group ‘d’, T. gigas and T. rudis from the southern islands form a very well-supported clade. Tarentola gigas appears in the phylogeny as a sister taxon to T. r. rudis from Santiago, although support for this assemblage is low. A constraint analysis in which T. rudis from the southern islands was forced to be monophyletic produced a tree with a log likelihood almost identical to the log likelihood of the unconstrained tree presented in Fig. 2 (Diff )ln L = 0.314; P > 0.79), thus indicating that the apparent paraphyletic status of T. rudis recovered in Fig. 2 is not well supported by our data. It is also shown that populations of T. rudis protogigas Joger, 1984 and T. rudis hartogi Joger, 1993 from the southern islands of Fogo, Brava and Rombos islets form a clade apart from T. rudis maioensis Schleich, 1984 from Maio.\nPopulation genetics and demographic analyses\nA 303-bp fragment of the cyt b gene was analysed for 459 sequences of Tarentola, corresponding to 276 localities from the nine islands and four islets across the Cape Verde archipelago where the genus is extant (no specimens were found on Sal). Over the whole data set, 105 polymorphic sites and 120 haplotypes were identified. Eight independent networks could be inferred based on the connection limit of 95%. The phylogenetic lineages leading to these independent networks are highlighted in Fig. 2 and the networks themselves are shown in Fig. 3. The significant Snn comparison tests (Appendix S3) indicate that northern and southern populations from Santiago (a4North, a4South), the three island populations of T. caboverdiana from network ‘b’ (b1, b2 and b3), and five populations from network ‘d’ (d1, d2, d3, d4 and d5) are genetically differentiated and should be considered as independent units in the demographic analyses (see below). The mtDNA analyses therefore highlighted the existence of 15 independent ESUs in Tarentola from the Cape Verde archipelago. The number of individuals sampled (n), number of haplotypes (h), nucleotide diversity (p), haplotype diversity (Hd), segregating sites (S) and other relevant data for each of these ESUs are listed in Table 1.\nAs expected from the star-like topologies of some of the networks, seven cases (a2, a3, a4South, b1, b2, b3 and c) were detected from the 15 ESUs identified in Fig. 3 in which Fu’s FS test was significantly negative, thus indicating that these populations could have experienced a demographic expansion event. To characterize the expansion pattern further, a model of sudden demographic growth was fitted to the pairwise sequence mismatch distribution of the seven populations. In six of these cases, the mismatch distributions were not significantly different from the sudden expansion model of Rogers & Harpending (1992). The results of Fu’s FS test, the squared deviation statistic (SSD) and other relevant demographic parameters are listed in Table 1. The mutation rate\nJournal of Biogeography 37, 1047–1060 1053 ª 2010 Blackwell Publishing Ltd\n1054 Journal of Biogeography 37, 1047–1060 ª 2010 Blackwell Publishing Ltd\ninferred from the ML tree using r8s (see Materials and Methods) was 3.7 · 10)8 per site, per year, therefore the approximate onset of expansion for the six populations was estimated (Table 1) assuming a generation time of 1 year for Cape Verdean Tarentola (R. Vasconcelos, pers. obs.).\nCorrelations between the genetic variability parameters and the geographical characteristics of the islands showed that the haplotype diversity and the habitat diversity present in each island are strongly and positively correlated to the area and elevations but not to the latitudinal or longitudinal location of the island, and therefore are not linearly related to the age of the islands (Table 2). Also the number of habitats was positively and significantly correlated with the haplotype diversity present in the islands, whereas the number of ESUs per island was not correlated with any of these geographical or ecological characteristics."
+  }, {
+    "heading": "DISCUSSION",
+    "text": "Phylogeography of Tarentola from the Cape Verdes\nMore than one species of Cape Verdean Tarentola, a wellsupported clade, is found on some of the islands (Schleich, 1987), and some species are paraphyletic (Carranza et al., 2000). To clarify the distribution and phylogeographic patterns, three new forms were included in this study: two new taxa, T. rudis maioensis and T. caboverdiana caboverdiana (endemic subspecies from Maio and Santo Antão, respectively), and T. rudis protogigas, which also occurs on Brava, from a previously unsampled island (Fogo). With the addition of these new data, the phylogenetic tree presented in Fig. 2 now includes representatives of all known taxa from all the islands where this genus occurs. Most branches are now better supported and the relationships between the three new forms are revealed. Knowledge of a complete and robust phylogeny for the Cape Verdean Tarentola is also essential for future conservation of these endemic geckos as it defines the ESUs to be protected in the projected protected areas.\nThe results indicate that T. caboverdiana nicolauensis, which previously appeared as a sister taxon to T. c. raziana and T. c. substituta, T. rudis and T. gigas, is probably unrelated to the other specimens of T. caboverdiana present in the northwestern group, which form a well-supported group. Currently, T. c. nicolauensis appears to be most closely related to the T. rudis–T. gigas complex. It is also apparent that the T. rudis protogigas and T. rudis hartogi populations (from the southern islands of Fogo, Brava and Rombos islets) form a\nwell-supported clade. In addition it is shown that T. r. maioensis from Maio, which belongs to the southern group but is ecologically and geologically closer to the eastern group, forms another clade that is weakly supported as a sister taxon of the latter. Furthermore, it is apparent that the detection of T. ‘gigas’ on São Nicolau by Jesus et al. (2002) was a misinterpretation due to the previous lack of samples from Maio Island – it is in fact a specimen of T. r. maioensis (Fig. 3). This highlights the importance of a complete sampling to perform phylogenetic analyses.\nThe agreement between the phylogenetic structure within the different clades in this group and the three ecogeographical regions of the archipelago is also strongly evident. Thus, group ‘a’ is subdivided into three units, each of which is assigned to one of the eastern, north-western and southern regions (see Fig. 1). Some Tarentola species, such as T. caboverdiana, which only appears in the north-western islands group, and T. rudis, which is present in all southern islands, are exclusive to one of these regions, as is the case with Chioninia and Hemidactylus endemic reptiles, two other radiations in this archipelago (Carranza et al., 2001; Arnold et al., 2008).\nAccording to the new phylogenetic hypothesis and inferred dates (Fig. 2), Tarentola colonized the Cape Verde archipelago from the western Canary Islands approximately 7.73 ± 1.8 Ma. The most parsimonious explanation is that the first island to be colonized was São Nicolau, which is part of the north-western island group (Fig. 1). As São Nicolau consisted of two independent units until 4.7–2.6 Ma, when they were finally united by volcanic activity (Duprat et al., 2007), we hypothesize that the first speciation event that separated the ancestor of group ‘a’ (T. darwini + T. ‘rudis’ boavistensis) and the ancestor of groups ‘b’, ‘c’ and ‘d’ (T. caboverdiana + T. rudis from the southern islands, plus T. gigas from Raso and Branco) approximately 5.99 ± 1.6 Ma took place by allopatric speciation on this island. The ancestor of T. caboverdiana went on to colonize all the remaining north-western islands, whereas the ancestor of group ‘a’ colonized the eastern island of Boavista and the southern islands of Santiago and Fogo. The topology presented in Fig. 2 also suggests that another colonization event took place from São Nicolau to Branco, Raso or Santa Luzia approximately 3.49 ± 1.2 Ma. This event gave rise to T. gigas, which nowadays only survives on the islets of Branco and Raso, where it coexists with the much smaller T. caboverdiana. The ancestor of the four subspecies of T. rudis present on all the southern islands arrived approximately 2.53 ± 0.9 Ma, also from the north.\nFigure 3 Networks corresponding to cytochrome b sequence variation in endemic Cape Verde Tarentola geckos. Lines represent a mutational step, dots missing haplotypes and circles haplotypes. The circle area is proportional to the number of individuals. Dotted circles represent probable ancestral haplotypes and * represents individuals with ambiguous identification. For correspondences of sample and location codes, see Appendix S2. (a) Tarentola ‘rudis’ boavistensis from Boavista (1), Tarentola darwini from São Nicolau (2), Fogo (3) and Santiago (4); (b) Tarentola caboverdiana from São Vicente (1), Santa Luzia, Branco and Raso islets (2) and Santo Antão (3); (c) Tarentola caboverdiana nicolauensis from São Nicolau; (d) Tarentola gigas from Branco and Raso (1), Tarentola rudis from Santiago (2), Fogo (3), Brava (4), Rombos islets (5), and Maio (6). Coloured dots correspond to taxa shown in Fig. 1.\nJournal of Biogeography 37, 1047–1060 1055 ª 2010 Blackwell Publishing Ltd"
+  }, {
+    "heading": "Distribution of the genetic diversity",
+    "text": "As the network analyses showed that not even the populations considered to belong to the same species could be linked together, it can be concluded, following Hart & Sunday (2007), that cryptic taxa have probably been overlooked. Geckos are often morphologically conservative (Harris et al., 2004), although mtDNA variation in Tarentola from the Cape Verde Islands is high between species relative to other reptiles from the same islands (Jesus et al., 2002), such as the endemic Chioninia skinks (Brehm et al., 2001).\nThis sampling confirmed that a population of the very distinct T. darwini form is indeed present on São Nicolau after a unique individual was reported by Carranza et al. (2000). Joger (1984) first reported the finding of T. darwini on São Nicolau, although Schleich (1987) considered this doubtful as Joger himself considered two of three animals found to be doubtfully assigned. This form therefore probably represents a new species. Extensive sampling identified its distribution, which is restricted to the eastern part of the island (Fig. 1).\nExamination of the networks within T. darwini shows little evidence for structuring within islands, except on Santiago. Here there are two geographically well delimited subgroups, one in the north and another one in the south of the island (a4North and a4South in Figs 2 and 3), which appear to be genetically differentiated according to the Snn test (Appendix S3) and are considered here as independent ESUs.\nAs explained above, the presence of the two allopatric Tarentola species on São Nicolau (T. darwini and T. caboverdiana) can be explained by allopatric speciation, whereas the presence of two Tarentola species on Santiago (T. rudis and T. darwini) can be explained by two independent colonization events from the north, following the direction of the main currents and trade winds. Future GIS modelling of the species distributions may shed light on which factors constrain the current range of different species on the same island. The two species from Santiago are both morphologically and genetically distinct and occur in sympatry in the south of the island. This was first noticed by Schleich (1987) and is confirmed here, ruling out the parapatry suggested by Joger (1984). Ten of the 149 individuals sequenced, which had been assigned to T. rudis based on their morphology, presented T. darwini type mtDNA. This implies that limited hybridization may be occurring and that the movement of mtDNA across the species boundary may be unidirectional. However, detailed analyses of nuclear markers and morphological characters will be needed to confirm this.\nThe network analysis suggests that the presence of T. r. maioensis on São Nicolau is possibly due to an introduction, as it presents a haplotype only one mutational step away from that found in Maio (Fig. 3d6). Furthermore, despite extensive sampling, no other individual of that taxon was found on this island and the individual was found on the coast at Ponta Cachorro. Analogously, the two individuals of T. c. nicolauensis from São Vicente cited by Jesus et al. (2002) also seem to be the result of recent introductions as they present haplotypes\ncommon to those found on São Nicolau (Fig. 3c) and because they were found in Mindelo, which is a major port. Another possible introduction is of T. c. substituta (endemic to São Vicente) on Santo Antão, in Sinagoga, a fishing village (Fig. 3b). However, the presence of a common haplotype between T. c. substituta and T. c. caboverdiana (Fig. 3b) in this latter case could also be explained by the fact that Santo Antão and its neighbouring islands (São Vicente, Santa Luzia, Raso and Branco islets) were very close together during the Pleistocene sea-level falls, thus allowing gene flow between them. Geckos are often introduced from one island to another, for example the introduction of T. mauritanica from the island of Madeira to Porto Santo, in the same archipelago (Jesus et al., 2008), or the two independent introductions of Hemidactulus angulatus on Cape Verde from two different African sources (Arnold et al., 2008). Island endemics can even be introduced to the mainland, as in the case of T. delalandii from the Canaries to Cantabria (Gómez, 2006), thus highlighting the need to consider this factor when assessing phylogeographic patterns of these species."
+  }, {
+    "heading": "Biogeographical patterns",
+    "text": "Deep molecular divergences between reptile lineages of the same island have been reported in Tenerife and Gran Canaria, Canary Islands (e.g. Chalcides sexlineatus and Chalcides viridanus: Pestano & Brown, 1999; Brown et al., 2000; Carranza et al., 2008; Tarentola delalandii and Tarentola boettgeri: Nogales et al., 1998; Gübitz et al., 2005; Gallotia galloti and Gallotia intermedia/Gallotia goliath: Thorpe et al., 1996; MacaMeyer et al., 2003). The main proposals to explain this pattern are geographical or ecological isolation, in other words, multiple geological origins and marked ecological differences between regions on the islands that enhanced opportunities to evolve allopatrically (Thorpe & Malhotra, 1996). Likewise, homogeneity at the molecular level on the smaller islands of Fuerteventura, Lobos and Lanzarote has been explained by the absence of geographical barriers and ecological similarity within these islands (Nogales et al., 1998). Since the Cape Verde archipelago belongs to the same biogeographical region and presents islands of different sizes, a similar pattern of divergent new lineages following the extensive sampling would be expected for the larger and more mountainous islands, as it has been demonstrated that both area and elevation positively affect speciation rates (Rosenzweig, 1995; Hobohm, 2000). However, within the same form, different mitochondrial lineages were found only on Santiago. Furthermore, half of the median-joining networks revealed a ‘star-like’ haplotype network (Fig. 3) and presented strongly negative FS (Fu, 1997) and significant SDD values, thus indicating that rapid recent expansions (Slatkin & Hudson, 1991) preceded by strong bottlenecks occurring all over the archipelago (Table 1).\nDemographic analyses further demonstrate that six out of the seven expansion events inferred from our data set occurred between 55,000 and 147,000 years ago. One possible explanation is that these expansions occurred after volcanic eruptions that\n1056 Journal of Biogeography 37, 1047–1060 ª 2010 Blackwell Publishing Ltd\ndecimated the fauna. Indeed, volcanism younger than 1.1 Ma has occurred on several of the islands: São Vicente (0.3 Ma), Fogo (in 1995, with 26 volcanic eruptions since the 15th century), Santiago, Sal (0.4 Ma), Santo Antão (0.09 Ma) and São Nicolau (0.1 Ma) (Plesner et al., 2002; Torres et al., 2002; Knudsen et al., 2003; Schlüter, 2006, Ch. 4; Duprat et al., 2007). However, such events have not occurred recently on Maio or Boavista, for example (Stillman et al., 1982; Mitchell et al., 1983), and these present low intraspecific mitochondrial divergences too. Thus, recent volcanism could be a factor, although not the only factor, involved. Half of the Cape Verde Islands (Santiago, Fogo, Brava, Santo Antão and São Nicolau) have steep mountain areas, one reaching almost 3000 m, thus the presence of geographical barriers is unquestionable, especially since Tarentola species are typically found in dry areas at elevations below 1500 m (Barbadillo et al., 1999; R. Vasconcelos, pers. obs.). On the other hand, reduced ecological differences within an island were shown by the low number of ‘floristic altitudinal zones’ (used by many authors as an indicator of the macro habitat diversity), which is always lower than three for all islands (Duarte et al., 2007). This could explain why two mtDNA lineages with geographic structure were observed only on Santiago, the biggest island of the archipelago. This island also presents the highest number of ESUs and one of the highest haplotype diversities, followed by Santo Antão, which is the second biggest island (Appendix S4). Both these islands exhibit a strong orography because erosion processes did not have enough time to flatten and aridify them as markedly as the older eastern islands and Maio, thus allowing an elevational ecological gradient. Moreover, based on the agro-ecological and vegetation zoning maps (Appendix S1) and observations on the terrain (Appendix S4), these islands present a relatively high habitat diversity (both climatic and topographic); this contrasts with their arid and semi-arid low and older eastern counterparts, where severe pluriannual droughts occur periodically and have been recorded since the 16th century (Langworthy & Finan, 1997). This is also probably why Tarentola was found in low densities on Boavista (R. Vasconcelos & A. Perera, pers. obs.), the third biggest island, and why this species is apparently not present on Sal (Carranza et al., 2000; R. Vasconcelos, pers. obs.), even though an undetermined Tarentola species was reported from there by Angel (1935, 1937) and Mertens (1955). If those records are correct, we could even hypothesize an extinction scenario on this extremely arid island. Thus, the relatively fewer ecological niches and high ecological pressure in the Cape Verde Islands with respect to the Canaries have produced strong bottlenecks, which mean that Tarentola presents mtDNA networks with recent coalescent times.\nThe above findings are congruent with the general dynamic model (GDM) of oceanic island biogeography postulated by Whittaker et al. (2008). This model predicts that speciation rates peak when an island reaches its maximum area and elevational range, meaning that the maximum habitat diversity, and therefore the maximum opportunity for within-island allopatry, occurs during ‘middle age’ of the island. As only a snapshot of this archipelago can be analysed simultaneously,\nthe Cape Verdes’ ‘middle age’ corresponds to those islands that are in the mature phase of ontogeny, such as Santiago. The model also predicts that representatives on old, declining islands, such as Boavista, Sal and Maio, should gradually be lost because of loss of habitat, as could be the case of Tarentola from Sal. Furthermore, the model predicts that composite islands such as São Nicolau should have provided more opportunity for within-island allopatry, and should therefore contain sister species, as was found to be the case.\nIn conclusion, the Tarentola radiation has been clarified and the phylogenetic relationships found to be associated with historical island sizes, oceanic currents and trade winds, and distances between the three island groups. Two factors account for the low specific and intraspecific variation observed on each island of the Cape Verdes: (1) the recent volcanic activity and high ecological stress that could lead to population extinctions, and (2) the poor habitat diversity within some islands that could restrain opportunities for allopatric diversification. Some geological and ecological features of the islands, such as area, elevation and number of habitats have been found to be positively correlated with genetic diversity. The relationship between genetic diversity and age of the islands fits the predictions of the GDM of oceanic island biogeography."
+  }, {
+    "heading": "ACKNOWLEDGEMENTS",
+    "text": "R.V. is grateful to S. Rocha, M. Fonseca, J. C. Brito and A. Perera from CIBIO, J. Motta, H. Abella and A. Nevsky for help during fieldwork; to J. César, D. Andrade, O. Freitas, J. Gonçalves, J. Lenine, C. Dias, I. Delgado and staff from Ministério da Agricultura e Ambiente (MAA) and to I. Gomes and all staff from Instituto Nacional de Investigação e Desenvolvimento Agrário (INIDA) for logistical aid and to J. Roca for laboratory assistance. Research was supported by grants from Fundação para a Ciência e Tecnologia (FCT): SFRH/BD/25012/2005 (to R.V.), PTDC/BIA-BDE/74288/2006 (to D.J.H.); from the Ministerio de Educación y Ciencia, Spain: CGL2009-11663/BOS, Grup de Recerca Emergent of the Generalitat de Catalunya: 2009SGR1462, and an Intramural Grant from the Consejo Superior de Investigaciones Cientı́ficas, Spain: 2008301031 (to S.C.). Samples were obtained according to license no. 07/2008 by Direcção Geral do Ambiente, MAA, Cape Verdean Government."
+  }],
+  "year": 2010,
+  "references": [{
+    "title": "Constructive and destructive episodes in the building of a young oceanic island, La Palma, Canary Islands, and genesis of the Caldera de Taburiente",
+    "authors": ["E. Ancochea", "F. Hernan", "A. Cendrero", "J.M. Cantagrel", "J.M. Fuster", "E. Ibarolla", "J. Coello"],
+    "venue": "Journal of Volcanology and Geothermal",
+    "year": 1994
+  }, {
+    "title": "Lézards des Îles du Cap Vert, rapportés par M. le Professeur Chevalier. Description d’espèces nouvelles",
+    "authors": ["F. Angel"],
+    "venue": "Bulletin du Museum d’Histoire Naturelle,",
+    "year": 1935
+  }, {
+    "title": "Systematics, biogeography and evolution of the endemic Hemidactylus geckos (Reptilia, Squamata, Gekkonidae) of the Cape Verde Islands: based on morphology and mitochondrial and nuclear DNA",
+    "authors": ["E.N. Arnold", "R. Vasconcelos", "D.J. Harris", "J.A. Mateo", "S. Carranza"],
+    "year": 2008
+  }, {
+    "title": "Anfibios y reptiles de la Penı́nsula Ibérica, Baleares y Canarias",
+    "authors": ["L.J. Barbadillo", "J.I. Lacomba", "V. Pérez-Mellado", "V. Sancho", "L.F. López-Jurado"],
+    "year": 1999
+  }, {
+    "title": "Relationships of scincid lizards Mabuya (Reptilia: Scincidae) from the Cape Verde Islands based on mitochondrial and nuclear DNA sequences",
+    "authors": ["A. Brehm", "J. Jesus", "M. Pinheiro", "D.J. Harris"],
+    "venue": "Molecular Phylogenetics and Evolution,",
+    "year": 2001
+  }, {
+    "title": "Mitochondrial DNA evolution and population history of the Tenerife skink Chalcides viridanus",
+    "authors": ["R.P. Brown", "R. Campos-Delgado", "J. Pestano"],
+    "venue": "Molecular Ecology,",
+    "year": 2000
+  }, {
+    "title": "Long-distance colonization and radiation in gekkonid lizards, Tarentola (Reptilia: Gekkonidae), revealed by mitochondrial DNA sequences",
+    "authors": ["S. Carranza", "E.N. Arnold", "J.A. Mateo", "L.F. López-Jurado"],
+    "venue": "Proceedings of the Royal Society B: Biological Sciences,",
+    "year": 2000
+  }, {
+    "title": "Parallel gigantism and complex colonization patterns in the Cape Verde scincid lizards Mabuya and Macroscincus (Reptilia: Scincidae) revealed by mitochondrial DNA sequences",
+    "authors": ["S. Carranza", "E.N. Arnold", "J.A. Mateo", "L.F. López-Jurado"],
+    "venue": "Proceedings of the Royal Society B: Biological",
+    "year": 2001
+  }, {
+    "title": "Relationships and evolution of the North African geckos, Geckonia and Tarentola (Reptilia: Gekkonidae), based on mitochondrial and nuclear DNA sequences",
+    "authors": ["S. Carranza", "E.N. Arnold", "J.A. Mateo", "P. Geniez"],
+    "venue": "Molecular Phylogenetics and Evolution,",
+    "year": 2002
+  }, {
+    "title": "Radiation, multiple dispersal and parallelism in the skinks, Chalcides and Sphenops (Squamata: Scincidae), with comments on Scincus and Scincopus and the age of the Sahara Desert",
+    "authors": ["S. Carranza", "E.N. Arnold", "P. Geniez", "J. Roca", "J.A. Mateo"],
+    "venue": "Molecular Phylogenetics and Evolution,",
+    "year": 2008
+  }, {
+    "title": "TCS: a computer program to estimate gene genealogies",
+    "authors": ["M. Clement", "D. Posada", "K.A. Crandall"],
+    "venue": "Molecular Ecology,",
+    "year": 2000
+  }, {
+    "title": "Is congruence between data partitions a reliable predictor of phylogenetic accuracy? Empirically testing an iterative procedure for choosing among phylogenetic methods",
+    "authors": ["C.W. Cunningham"],
+    "venue": "Systematic Biology,",
+    "year": 1997
+  }, {
+    "title": "Plant species richness in the Cape Verde Islands",
+    "authors": ["M.C. Duarte", "F. Rego", "M.M. Romeiras", "I. Moreira"],
+    "year": 2007
+  }, {
+    "title": "The volcanic and geochemical development of São Nicolau, Cape Verde Islands: constraints from field",
+    "authors": ["H.I. Duprat", "J. Friis", "P.M. Holm", "T. Grandvuinet", "R.V. Sørensen"],
+    "year": 2007
+  }, {
+    "title": "Arlequin ver. 3.0: an integrated software package for population genetics data analysis",
+    "authors": ["L. Excoffier", "G. Laval", "S. Schneider"],
+    "venue": "Evolutionary Bioinformatics Online,",
+    "year": 2005
+  }, {
+    "title": "On the general dynamic model of oceanic island biogeography",
+    "authors": ["S. Fattorini"],
+    "venue": "Journal of Biogeography,",
+    "year": 2009
+  }, {
+    "title": "Confidence-limits on phylogenies – an approach using the bootstrap",
+    "authors": ["J. Felsenstein"],
+    "venue": "Evolution,",
+    "year": 1985
+  }, {
+    "title": "Do island populations have less genetic variation than the mainlaind populations? Heredity",
+    "authors": ["R. Frankham"],
+    "year": 1997
+  }, {
+    "title": "Adaptive evolutionary conservation: towards a unified concept for defining conservation units",
+    "authors": ["D.J. Fraser"],
+    "venue": "Molecular Ecology,",
+    "year": 2001
+  }, {
+    "title": "Statistical tests of neutrality of mutations against population growth, hitchhiking and background",
+    "authors": ["Y.X. Fu"],
+    "venue": "selection. Genetics,",
+    "year": 1997
+  }, {
+    "title": "Salamanquesas canarias (Tarentola delalandii) en Cantabria",
+    "authors": ["J.M. Gómez"],
+    "venue": "Boletı́n de la Asociación Herpetológica Española,",
+    "year": 2006
+  }, {
+    "title": "Phylogeography and natural selection in the Tenerife gecko Tarentola delalandii: testing historical and adaptive hypotheses",
+    "authors": ["T. Gübitz", "R.S. Thorpe", "A. Malhotra"],
+    "venue": "Molecular Ecology,",
+    "year": 2000
+  }, {
+    "title": "The dynamics of genetic and morphological variation on volcanic islands",
+    "authors": ["T. Gübitz", "R.S. Thorpe", "A. Malhotra"],
+    "venue": "Proceedings of the Royal Society B: Biological Sciences,",
+    "year": 2005
+  }, {
+    "title": "A simple, fast and accurate algorithm to estimate large phylogenies by maximum likelihood",
+    "authors": ["S. Guindon", "O. Gascuel"],
+    "venue": "Systematic Biology,",
+    "year": 2003
+  }, {
+    "title": "Genetic structure of ancient human populations",
+    "authors": ["H.C. Harpending", "S.T. Sherry", "A.R. Rogers", "M. Stoneking"],
+    "venue": "Current Anthropology,",
+    "year": 1993
+  }, {
+    "title": "Relationships of the lacertid lizards (Reptilia: Lacertidae) estimated from mitochondrial DNA sequences and morphology",
+    "authors": ["D.J. Harris", "E.N. Arnold", "R.H. Thomas"],
+    "venue": "Proceedings of the Royal Society B: Biological Sciences,",
+    "year": 1998
+  }, {
+    "title": "Complex estimates of evolutionary relationships in Tarentola mauritanica (Reptilia: Gekkonidae) derived from mitochondrial DNA sequences",
+    "authors": ["D.J. Harris", "V. Batista", "P. Lymberakis", "M.A. Carretero"],
+    "venue": "Molecular Phylogenetics and Evolution,",
+    "year": 2004
+  }, {
+    "title": "Things fall apart: biological species form unconnected parsimony networks",
+    "authors": ["M.W. Hart", "J. Sunday"],
+    "venue": "Biological Letters,",
+    "year": 2007
+  }, {
+    "title": "Plant species diversity and endemism on islands and archipelagos, with special reference to the Macronesian",
+    "authors": ["C. Hobohm"],
+    "venue": "Islands. Flora,",
+    "year": 2000
+  }, {
+    "title": "A new statistic for detecting genetic differentiation",
+    "authors": ["R.R. Hudson"],
+    "year": 2000
+  }, {
+    "title": "Holefilled seamless SRTM data, Version 3. International Centre for Tropical Agriculture (CIAT), Colombia",
+    "authors": ["A. Jarvis", "H.I. Reuter", "A. Nelson", "E. Guevara"],
+    "year": 2006
+  }, {
+    "title": "Relationships of Tarentola (Reptilia: Gekkonidae) from the Cape Verde Islands estimated from DNA sequence",
+    "authors": ["J. Jesus", "A. Brehm", "D.J. Harris"],
+    "venue": "data. AmphibiaReptilia,",
+    "year": 2002
+  }, {
+    "title": "First record of Tarentola mauritanica (Linnaeus, 1758",
+    "authors": ["J. Jesus", "A.I. Freitas", "A. Lemos", "R. Gonçalves", "A. Brehm"],
+    "venue": "on Porto Santo Island. Herpetozoa,",
+    "year": 2008
+  }, {
+    "title": "Taxonomische revision der Gattung Tarentola (Reptilia, Gekkonidae)",
+    "authors": ["U. Joger"],
+    "venue": "Bonner Zoologische Beiträge,",
+    "year": 1984
+  }, {
+    "title": "On two collections of reptiles and amphibians from the Cape Verde Islands, with descriptions of three new taxa",
+    "authors": ["U. Joger"],
+    "venue": "Courier Forschungsinstitut Senckenberg,",
+    "year": 1993
+  }, {
+    "title": "Paleomagnetic evidence from Cape Verde Islands basalts for fully reversed excursions in the Brunhes Chron",
+    "authors": ["M.F. Knudsen", "N. Abrahamsen", "P. Riisager"],
+    "venue": "Earth and Planetary Science Letters,",
+    "year": 2003
+  }, {
+    "title": "Dynamics of mitochondrial DNA evolution in animals: amplification and sequencing with conserved primers",
+    "authors": ["T.D. Kocher", "R.K. Thomas", "A. Meyer", "S.V. Edwards", "S. Pääbo", "F.X. Villablanca", "A.C. Wilson"],
+    "venue": "Proceedings of the National Academy of Sciences USA,",
+    "year": 1989
+  }, {
+    "title": "Molecular dating of caprines using ancient DNA sequences of Myotragus balearicus, an extinct endemic Balearic mammal",
+    "authors": ["C. Lalueza-Fox", "J. Castresana", "L. Samprieto", "T. Marquès-Bonet", "J.A. Alcover", "J. Bertranpetit"],
+    "venue": "BMC Evolutionary Biology,",
+    "year": 2005
+  }, {
+    "title": "An examination of the constancy of the rate of molecular evolution",
+    "authors": ["C.H. Langley", "W.M. Fitch"],
+    "venue": "Journal of Molecular Evolution,",
+    "year": 1974
+  }, {
+    "title": "Waiting for rain – agriculture and ecological imbalance in Cape Verde",
+    "authors": ["M. Langworthy", "T.J. Finan"],
+    "venue": "Lynne Rienner Publishers,",
+    "year": 1997
+  }, {
+    "title": "Status and relationships of the extinct giant Canary Island lizard Gallotia goliath (Reptilia: Lacertidae), assessed using ancient mtDNA from its mummified remains",
+    "authors": ["N. Maca-Meyer", "S. Carranza", "J.C. Rando", "E.N. Arnold", "V.M. Cabrera"],
+    "venue": "Biological Journal of the Linnean Society,",
+    "year": 2003
+  }, {
+    "title": "An equilibrium theory of insular",
+    "authors": ["R.H. MacArthur", "E.O. Wilson"],
+    "venue": "zoogeography. Evolution,",
+    "year": 1963
+  }, {
+    "title": "The theory of island biogeography",
+    "authors": ["R.H. MacArthur", "E.O. Wilson"],
+    "year": 1967
+  }, {
+    "title": "MacClade, version 3: analysis of phylogeny and character evolution",
+    "authors": ["W.P. Maddison", "D.R. Maddison"],
+    "year": 1992
+  }, {
+    "title": "Testing for phylogenetic conflict among molecular data sets in the tribe Triticeae (Gramineae)",
+    "authors": ["R.J. Mason-Gamer", "E.A. Kellogg"],
+    "venue": "Systematic Biology,",
+    "year": 1996
+  }, {
+    "title": "Die Eidechsen der Kapverden",
+    "authors": ["R. Mertens"],
+    "venue": "Commentationes Biologicae,",
+    "year": 1955
+  }, {
+    "title": "The implications of congruence in Menidia",
+    "authors": ["M.F. Michkevich", "J.S. Farris"],
+    "venue": "Systematic Zoology,",
+    "year": 1981
+  }, {
+    "title": "On dating the magmatism of Maio, Cape Verde Islands",
+    "authors": ["J.G. Mitchell", "M.J. LeBas", "J. Zielonka", "H. Furnes"],
+    "venue": "Earth and Planetary Science Letters,",
+    "year": 1983
+  }, {
+    "title": "Geology of the middle Atlantic islands",
+    "authors": ["R.C. Mitchell-Thomé"],
+    "venue": "Science Publishers,",
+    "year": 1976
+  }, {
+    "title": "Navigational chart number 366 ‘Arquipélago de Cabo Verde",
+    "authors": ["R.O. Morris"],
+    "venue": "Hydrographic Society,",
+    "year": 1989
+  }, {
+    "title": "Evolution and biogeography of the genus Tarentola (Sauria: Gekkonidae) in the Canary Islands, inferred from mitochondrial DNA sequences",
+    "authors": ["M. Nogales", "M. López", "J. Jiménez-Asensio", "J.M. Larruga", "M. Hernández", "P. González"],
+    "venue": "Journal of Evolutionary Biology,",
+    "year": 1998
+  }, {
+    "title": "Nucleic acids, II: the polymerase chain reaction. Molecular systematics (ed",
+    "authors": ["S.R. Palumbi"],
+    "venue": "Sinauer Associates,",
+    "year": 1996
+  }, {
+    "title": "Geographical structuring of mtDNA in Chalcides sexlineatus within the island of Gran Canaria",
+    "authors": ["J. Pestano", "R.P. Brown"],
+    "venue": "Proceedings of the Royal Society B: Biological Sciences,",
+    "year": 1999
+  }, {
+    "title": "jModelTest: phylogenetic model averaging",
+    "authors": ["D. Posada"],
+    "venue": "Molecular Biology and Evolution,",
+    "year": 2008
+  }, {
+    "title": "Evaluation of methods for detecting recombination from DNA sequences: computer simulations",
+    "authors": ["D. Posada", "K.A. Crandall"],
+    "venue": "Proceedings of the National Academy of Sciences USA,",
+    "year": 2001
+  }, {
+    "title": "Seq-Gen: an application for the Monte Carlo simulation of DNA sequence evolution along phylogenetic trees",
+    "authors": ["A. Rambaut", "N.C. Grassly"],
+    "venue": "Computer Applications in the Biosciences,",
+    "year": 1997
+  }, {
+    "title": "Genetic evidence for a Pleistocene population",
+    "authors": ["A.R. Rogers"],
+    "venue": "expansion. Evolution,",
+    "year": 1995
+  }, {
+    "title": "Population growth makes waves in the distribution of pairwise genetic differences",
+    "authors": ["A.R. Rogers", "H. Harpending"],
+    "venue": "Molecular Biology and Evolution,",
+    "year": 1992
+  }, {
+    "title": "Species diversity in space and time",
+    "authors": ["M.L. Rosenzweig"],
+    "year": 1995
+  }, {
+    "title": "DnaSP, DNA polymorphism analyses by the coalescent and other methods",
+    "authors": ["J. Rozas", "J.C. Sánchez-DelBarrio", "X. Messeguer", "R. Rozas"],
+    "year": 2003
+  }, {
+    "title": "Estimating absolute rates of molecular evolution and divergence times: a penalized likelihood approach",
+    "authors": ["M.J. Sanderson"],
+    "venue": "Molecular Biology and Evolution,",
+    "year": 2002
+  }, {
+    "title": "Sources of error and confidence intervals in estimating the age of angiosperms from rbcL and 18S rDNA data",
+    "authors": ["M.J. Sanderson", "J.A. Doyle"],
+    "venue": "American Journal of Botany,",
+    "year": 2001
+  }, {
+    "title": "Geological atlas of Africa with notes on stratigraphy, tectonics, economic geology, geohazards and geosites of each country",
+    "authors": ["T. Schlüter"],
+    "year": 2006
+  }, {
+    "title": "Estimation of demographic parameters from the distribution of pairwise differences when the mutation rates vary among sites: application to human mitochondrial DNA",
+    "authors": ["S. Schneider", "L. Excoffier"],
+    "year": 1999
+  }, {
+    "title": "Genetic monitoring as a promising tool for conservation and management",
+    "authors": ["M.K. Schwartz", "G. Luikart", "R.S. Waples"],
+    "venue": "Trends in Ecology and Evolution,",
+    "year": 2006
+  }, {
+    "title": "Multiple comparisons of log-likelihoods with applications to phylogenetic inference",
+    "authors": ["H. Shimodaira", "M. Hasegawa"],
+    "venue": "Molecular Biology and Evolution,",
+    "year": 1999
+  }, {
+    "title": "Pairwise comparisons of mitochondrial DNA sequences in stable and exponentially growing populations",
+    "authors": ["M. Slatkin", "R.R. Hudson"],
+    "year": 1991
+  }, {
+    "title": "The geological history of Maio, Cape Verde Islands",
+    "authors": ["C.J. Stillman", "H. Furnes", "M.J. LeBas", "A.H.F. Robertson", "J. Zielonka"],
+    "venue": "Journal of the Geological Society of London,",
+    "year": 1982
+  }, {
+    "title": "PAUP*: phylogenetic analysis using parsimony (*and other methods), v4.0",
+    "authors": ["D.L. Swofford"],
+    "venue": "Sinauer Associates,",
+    "year": 1998
+  }, {
+    "title": "A cladistic analysis of phenotypic associations with haplotypes inferred from restriction endonuclease mapping and DNA sequence data",
+    "authors": ["A.R. Templeton", "K.A. Crandall", "C.F. Sing"],
+    "venue": "III. Cladogram estimation",
+    "year": 1992
+  }, {
+    "title": "The CLUSTAL_X windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools",
+    "authors": ["J.D. Thompson", "T.J. Gibson", "F. Plewniak", "F. Jeanmourgin", "D.G. Higgins"],
+    "venue": "Nucleic Acids Research,",
+    "year": 1997
+  }, {
+    "title": "Molecular and morphological evolution within small islands",
+    "authors": ["R.S. Thorpe"],
+    "venue": "Philosphical Transactions of the Royal Society B: Biological Sciences,",
+    "year": 1996
+  }, {
+    "title": "Matrix correspondence tests on the DNA phylogeny of the Tenerife lacertid elucidate both historical causes and morphological adaptation",
+    "authors": ["R.S. Thorpe", "H. Black", "A. Malhotra"],
+    "venue": "Systematic Biology,",
+    "year": 1996
+  }, {
+    "title": "Enquadramento geocronológico pelo método K/Ar das principais sequências vulcano-estratigráficas da ilha do Sal — Cabo Verde",
+    "authors": ["P.C. Torres", "L.C. Silva", "A. Serralheiro", "C. Tassinari", "J. Munhá"],
+    "venue": "Garcia de Orta, Série Geológica,",
+    "year": 2002
+  }, {
+    "title": "Island biogeography: ecology, evolution, and conservation",
+    "authors": ["R.J. Whittaker"],
+    "year": 1998
+  }, {
+    "title": "A general dynamic theory of oceanic island biogeography",
+    "authors": ["R.J. Whittaker", "K.A. Triantis", "R.J. Ladle"],
+    "venue": "Journal of Biogeography,",
+    "year": 2008
+  }],
+  "id": "SP:5946bd75d27cb8f7dcc8a7b3464c6ba4fb877df8",
+  "authors": [{
+    "name": "Raquel Vasconcelos",
+    "affiliations": []
+  }, {
+    "name": "Salvador Carranza",
+    "affiliations": []
+  }, {
+    "name": "D. James Harris",
+    "affiliations": []
+  }],
+  "abstractText": "CIBIO, Centro de Investigação em Biodiversidade e Recursos Genéticos da Universidade do Porto, Campus Agrário de Vairão, R. Padre Armando Quintas, 4485-661 Vairão, Portugal, Departamento de Zoologia e Antropologia, Faculdade de Ciências da Universidade do Porto Pr. Gomes Teixeira, 4099-002 Porto, Portugal, Institute of Evolutionary Biology (CSIC-UPF), Passeig Marı́tim de la Barceloneta, 37-49, E-08003 Barcelona, Spain",
+  "title": "Insight into an island radiation: the Tarentola geckos of the Cape Verde archipelago"
+}
