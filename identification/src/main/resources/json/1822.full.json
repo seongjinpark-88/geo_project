@@ -1,0 +1,215 @@
+{
+  "sections": [{
+    "text": "Role of eruption season in reconciling model and proxy responses to tropical volcanism"
+  }, {
+    "heading": "Samantha Stevensona,1, John T. Fasulloa, Bette L. Otto-Bliesnera, Robert A. Tomasa, and Chaochao Gaob",
+    "text": "aClimate & Global Dynamics Laboratory, National Center for Atmospheric Research, Boulder, CO 80305; and bCollege of Environmental & Resource Science, Zhejiang University, Hangzhou, Zhejiang 310058, People’s Republic of China\nEdited by Mark A. Cane, Lamont Doherty Earth Observatory of Columbia University, Palisades, NY, and approved January 3, 2017 (received for review July 29, 2016)\nThe response of the El Niño/Southern Oscillation (ENSO) to tropical volcanic eruptions has important worldwide implications, but remains poorly constrained. Paleoclimate records suggest an “El Niño-like” warming 1 year following major eruptions [Adams JB, Mann ME, Ammann CM (2003) Nature 426:274–278] and “La Niñalike” cooling within the eruption year [Li J, et al. (2013) Nat Clim Chang 3:822–826]. However, climate models currently cannot capture all these responses. Many eruption characteristics are poorly constrained, which may contribute to uncertainties in model solutions—for example, the season of eruption occurrence is often unknown and assigned arbitrarily. Here we isolate the effect of eruption season using experiments with the Community Earth System Model (CESM), varying the starting month of two large tropical eruptions. The eruption-year atmospheric circulation response is strongly seasonally dependent, with effects on European winter warming, the Intertropical Convergence Zone, and the southeast Asian monsoon. This creates substantial variations in eruption-year hydroclimate patterns, which do sometimes exhibit La Niña-like features as in the proxy record. However, eruption-year equatorial Pacific cooling is not driven by La Niña dynamics, but strictly by transient radiative cooling. In contrast, equatorial warming the following year occurs for all starting months and operates dynamically like El Niño. Proxy reconstructions confirm these results: eruption-year cooling is insignificant, whereas warming in the following year is more robust. This implies that accounting for the event season may be necessary to describe the initial response to volcanic eruptions and that climate models may be more accurately simulating volcanic influences than previously thought.\nclimate dynamics | ENSO | volcanic eruptions | paleoclimate | hydroclimate\nLarge tropical volcanic eruptions strongly influence climate(1, 2), with important social and economic consequences (3– 5). An important climatic response to eruptions is their effect on the El Niño/Southern Oscillation (6–8): Within the eruption year, previous work indicates that the tropical response appears La Niña-like (9, 10), with enhanced El Niño likelihood the following year (6, 11). However, debate remains regarding the significance of and mechanisms for these responses (7, 8, 12, 13), as well as the degree to which they depend on the characteristics of the eruption [i.e., hemispheric loading (13–15), strength (8), or initial conditions (12)]. Understanding all of these factors is crucial for assessing the potential risks associated with future large eruptions.\nClimate models provide a dynamically consistent framework within which to investigate the mechanisms for El Niño/Southern Oscillation (ENSO) responses to volcanism and as such are invaluable tools. To date, however, models cannot reproduce all features of the proxy record following eruptions: The eruption year is subject to particularly large model/proxy disagreement (9, 13). Understanding the source of the disagreement is key to resolving outstanding questions regarding the physics of the eruption-year response [i.e., the degree to which the Asian monsoon is affected by eruptions or the importance of the “ocean\ndynamical thermostat” (16)]. There are large uncertainties associated with various aspects of volcanic aerosol forcing [i.e., overall magnitude, hemispheric symmetry, and eruption timing (17–20)]. For the eruption year itself, the season of eruption occurrence is also expected to be a crucial factor, adding a further layer of uncertainty. The eruption season is unknown for many events, and in such cases assumptions must be made. In the reconstruction used in the Community Earth System Model (CESM) Last Millennium Ensemble (LME) (18, 21), for example, the default starting month is April, resulting in an April start date for the majority of eruptions. This has potentially significant implications for interpreting model/proxy offsets within the eruption year.\nHere we present sensitivity studies using the CESM to test the effects of varying eruption month; CESM has one of the most accurate ENSO representations of all models in its class (Fig. S1), making it ideal for these purposes. Although subject to caveats common to general circulation models, including the possibility of compensating errors in feedback processes (22, 23), model performance is quite good, as is the representation of remote teleconnections (13)."
+  }, {
+    "heading": "Eruption-Year Atmospheric Circulation Anomalies",
+    "text": "We have used the methods laid out in ref. 18 to construct forcing profiles appropriate for the eruptions of Tambora in 1815 and Samalas in 1257 (note that this event occurs in 1258 in ref. 18), being the two largest tropical eruptions during the last millennium. Because this dataset tends to overestimate the forcing associated with large eruptions (20), these ensembles should be considered an upper limit on the eruption-year response expected for strong events. We note that although these\nSignificance\nThe starting month of many historical tropical volcanic eruptions is unknown and often assumed constant in long model simulations. Here we use model simulations to show that the season of eruptions strongly affects both atmospheric circulation and the El Niño/Southern Oscillation within the eruption year and that this could explain some of the mismatches between model simulations and paleoclimate reconstructions. The response 1 year later depends much less on eruption season, and proxy reconstructions are also more consistent. Our results imply that models may actually be correctly representing eruption-year tropical climate responses and that the season of eruptions should be considered when evaluating the mechanisms for volcanic effects on climate.\nAuthor contributions: S.S., J.T.F., and B.L.O.-B. designed research; S.S. and R.A.T. performed research; C.G. contributed new reagents/analytic tools; S.S. and R.A.T. analyzed data; and S.S., J.T.F., and B.L.O.-B. wrote the paper.\nThe authors declare no conflict of interest.\nThis article is a PNAS Direct Submission. 1To whom correspondence should be addressed. Email: samantha@ucar.edu.\nThis article contains supporting information online at www.pnas.org/lookup/suppl/doi:10. 1073/pnas.1612505114/-/DCSupplemental.\n1822–1826 | PNAS | February 21, 2017 | vol. 114 | no. 8 www.pnas.org/cgi/doi/10.1073/pnas.1612505114\nEA RT\nH ,A\nTM O\nSP H\nER IC , A N D PL A N ET A RY SC IE N CE\nS\nparticular eruptions are large compared with the historical era, the mechanisms for their influence on ENSO do not appear to differ fundamentally based on their size. The responses to eruptions of varying sizes in the CESM are discussed further in ref. 13. Validation of the CESM response to aerosol forcing has also been performed using the Pinatubo eruption, and satellite estimates of the net top-of-atmosphere imbalance fall within the 1σ range across ensemble members throughout the course of the eruption (24).\nIdealized eruptions begin in January, April, July, and October, and the CESM was run multiple times; the Tambora eruption was simulated 10 times and Samalas 5 times, for a total of 15 ensemble members for each starting month. The aerosol distributions vary significantly between seasonal ensembles: For January and April eruptions, aerosol loading peaks more rapidly in the high northern latitudes relative to the high southern latitudes, whereas the reverse is true for July and October eruptions (Fig. S2). The overall radiative forcing is likewise latitudinally dependent based on season (Fig. S3), although its behavior is not identical to the aerosol loading itself, due to modulations of the incident solar radiation during different portions of the seasonal cycle. However, in the tropics the zonal-mean aerosol concentrations and the associated radiative forcing are nearly identical across ensembles.\nThe circulation and precipitation patterns excited by these eruptions differ profoundly, even at latitudes with comparable aerosol loading. There is an overall northward migration of the Intertropical Convergence Zone (ITCZ) during the 6 mo immediately following all eruptions (Fig. 1 A–D), which is considerably larger in the January and April ensembles. The equatorial temperature anomalies are also larger in these cases, suggesting that the ITCZ migration enhancement is driven by increased equatorial cooling due to the lower overall cloud cover during boreal summer and associated shortwave anomaly penetration (Fig. 1 E–H and Figs. S4 and S5). This behavior is quite distinct from the changes in midlatitude temperature anomalies; the Asian continent and North America cool significantly more for eruptions in January and October, likely a result of land surface feedbacks (i.e., the snow/albedo feedback) during boreal winter. The warm response over Europe/northern Asia is markedly stronger for July and October eruptions, potentially a preferential effect on sea ice and associated feedbacks during boreal fall/winter (1, 2). Southeast Asian drying is strongest for January and April\nPrecipitation/wind anomalies: 0-5 months\nSurface temperature anomalies: 0-5 months\nb) Aprila) January\n60oS\n30oS\n0o\n30oN\n60oN\nc) July\n-2\n-1\n0\n1\n2 d) October\ne) January\nf) April\ng) July\nh) October\n-4\n-2\n0\n2\n4\n60o 180oW 60oE W 60oW 180oW 60oE 60oW 180oW 60oE 60oW 180oW 60oE\n60oS\n30oS\n0o 30oN\n60oN\nFig. 1. Atmospheric circulation and precipitation responses to tropical eruptions in the CESM. (A–D) Precipitation anomaly (mm · d−1; colors) and surface wind stress anomaly (N ·m−2; arrows) 0–5 mo following Tambora and Samalas eruptions in January, April, July, and October, respectively. (E–H) Same as A–D, for surface air temperature (◦C). In E–H, stippling indicates regions where the anomalies are insignificant relative to internal variability at 90% based on a Wilcoxon rank-sum test.\neruptions as the forcing coincides most strongly with the monsoon season in these cases. The western United States sees the strongest pluvials in the July and October ensembles (Fig. 1 C and D): This is due to westerly onshore flow driven by acceleration of the subtropical jet during boreal winter (13) and is therefore expected to be largest for eruptions occurring later in the year."
+  }, {
+    "heading": "Tropical Pacific Eruption Response",
+    "text": "Although some equatorial Pacific cooling does occur within the eruption year in these ensembles, the patterns of temperature change do not strongly resemble the canonical “horseshoe” sea surface temperature (SST) anomaly pattern associated with true La Niña events (Fig. 1 E–H). Additionally, the significance of the net cooling is quite low for all ensembles except January. The temporal evolutions of the initial cooling differ substantially (Fig. S6): In the January ensemble, cooling occurs immediately but terminates quickly, whereas cooling in the July and October ensembles is both more delayed and prolonged. The April ensemble shows the smallest eruptionyear response, with negligible equatorial cooling at any time. The mechanism for these responses is shown using a mixedlayer heat budget (Materials and Methods) in Fig. 2. The lefthand side of Fig. 2A shows a comparison of the “Year 0” eruption response with La Niña events from the LME 850 control (denoted by blue and green arrows, respectively): Within the eruption year, cooling is dominated by surface heat flux in all ensembles (Fig. 2A), rather than the advective signature associated with La Niña (25, 26). Consistent with this conclusion, sea surface height also shows little response within the eruption year (Fig. S7). During the eruption year, the surface heat flux anomaly is in turn dominated by shortwave flux reductions due to aerosol absorption, compensated to varying degrees by latent heat anomalies associated with reduced evaporation (Fig. 2 B and C). This compensation is larger in the western Pacific due to the higher mean cloud cover in this region; the net effect is for enhanced cooling in the eastern Pacific and an increase in the zonal SST gradient. Some cancellation of the surface-driven cooling also results from ocean dynamical processes, which are highly seasonally dependent. Cool anomalies are mixed into the subsurface in all ensembles, reflected by the heating tendency due to mixing/diffusion, and meridional advection is generally positive (Fig. 2A). The zonal advective tendencies differ\nStevenson et al. PNAS | February 21, 2017 | vol. 114 | no. 8 | 1823\nsignificantly across ensembles and tend to be more positive for the January and April ensembles due to the climatological relaxation of the trades during boreal spring/summer (Fig. S5).\nFig. 2A, Right shows heat budget composites for the year following eruptions (red arrow) and for El Niño events within the LME 850 control (green arrow). These budgets show that in the CESM, volcanically induced El Niño initiation during the posteruption year is related primarily to basin recharge dynamics (8, 28), indicated by the strong contribution from meridional advection to the heating tendency in Fig. 2A. The initial equatorially enhanced SST cooling during the eruption year creates a negative off-equatorial wind stress curl (Fig. S8), and the resulting Sverdrup transport onto the equator creates heating via meridional advection. Mass convergence also inhibits equatorial upwelling and, because this mechanism is stronger in the eastern Pacific, tends to create heating via the zonal advective feedback as well. Comparing the Year +1 response with the heat budget for developing El Niño events in the LME 850 control simulation then shows that this mechanism is not unique to the volcanic response (Fig. 2A, Right). The effect of volcanic aerosol forcing on El Niño development appears to be an increase in surfacedriven cooling and larger advective heating in all dimensions,\nrelated to larger overall temperature gradients. The increased likelihood of El Niño events following eruptions in the CESM is thus not due to fundamentally altered ENSO dynamics, but to the preferential excitation of the El Niño phase via the curl of the wind stress."
+  }, {
+    "heading": "Comparison with Proxy Reconstructions",
+    "text": "Our results suggest that a consideration of eruption season has the potential to reduce previously identified model/proxy discrepancies. For example, in the CESM the La Niña-like cold eruption-year SST is not a robust feature, and the cooling lasts only for a few months after the eruption (Fig. S6). If this behavior occurs in the real world as well, then it would be difficult to detect using proxy reconstructions of boreal winter conditions. To test this hypothesis, we have combined NINO3.4 SST anomaly (SSTA) reconstructions from a variety of marine and terrestrial sources (10, 29–31) and present the responses to tropical volcanic eruptions of the past millennium (Table S1) in Fig. 3 A and B, which are compared with the corresponding composites from the Tambora/Samalas seasonal CESM ensembles. None of the reconstructions based on marine proxies show a change in SSTA during the winter following the eruption significant\n1824 | www.pnas.org/cgi/doi/10.1073/pnas.1612505114 Stevenson et al.\nEA RT\nH ,A\nTM O\nSP H\nER IC , A N D PL A N ET A RY SC IE N CE\nS\n0\n0.2\n0.4\n0.6 0.8 CESM Simulations January April July October\n-3 -2 -1 0 1 2 3 0\n0.5\n1 Proxy Reconstructions Tierney et al. 2015: Marine Wilson et al. 2010: Marine Li et al. 2013: Terrestrial Emile-Geay et al. 2013: Marine\n0\n0.1\n0.2\n0.3 CESM Simulations JanuaryApril\nJuly October\n-4 -2 0 2 4 6 0\n0.5\n1\n1.5 Proxy Reconstructions Tierney et al. 2015: Marine\nWilson et al. 2010: Marine Li et al. 2013: Terrestrial Emile-Geay et al. 2013: Marine\nP ro\nb. d\nen s.\nP ro\nb. d\nen s.\nSSTA ( C)\nSSTA ( C)\nNINO3.4 SSTA: winter of Year +1\n1 NINO3.4 SSTA: eruption-year winter\n88oW 96oW\nNADA\n104oW 112oW 120oW 20oN\n25oN\n30oN\n35oN\n40oN\n45oN\n-3\n-2\n-1\n0\n1\n2\n3\n135oE 120oE 105oE 90oE 75oE 60oE\n10oS\n0o\n10oN\n20oN\n30oN\n40oN\nMADA\nSimulated soil moisture anomaly: 0-5 months post-eruption\n60oN\n45oN\n30oN\n15oN\n0\n15oS\nApril eruptions July eruptions\n60oW 110oW 160oW 150oE 100oE 60oW 110oW 160oW 150oE 100oE\n-0.05\n-0.04\n-0.03\n-0.02\n-0.01\n0\n0.01\n0.02\n0.03\n0.04\n0.05\nP ro\nb. d\nen s.\nP ro\nb. d\nen s.\nReconstructed PDSI anomaly: JJA +0A C\nDB\nFig. 3. Comparison of CESM simulations against proxy reconstructions. (A) NINO3.4 SST anomaly during the winter of the eruption year for the CESM simulations [December–January–February (DJF); Top] and for several marine and terrestrially derived reconstructions (various definitions; Bottom). (B) Same as A, for the winter of the year following the eruption (Year +1). (C) Palmer Drought Severity Index anomaly for the boreal summer of the eruption year, derived from the Monsoon Asia Drought Atlas (32) (Left) and the North American Drought Atlas (33) (Right). (D) Zero- to 30-cm soil moisture anomaly averaged over the period 0–5 mo after the eruption, for CESM simulations with eruptions in April (Left) and July (Right). All CESM anomalies are computed relative to the 30 y before the eruption; in D, stippling indicates regions where the anomalies are insignificant relative to internal variability at 90% based on a Wilcoxon rank-sum test.\nabove 90%, defined using a Wilcoxon rank-sum test (Fig. 3A, Bottom). The cooling in the CESM simulations (Fig. 3A, Top) is also insignificant and comparable in magnitude to the proxy reconstructions; in other words, eruption-year SST responses in the CESM agree well with observations, despite previously documented hydroclimate discrepancies (9, 13). Notably, the tendency toward enhanced heating in the year following eruptions is robust across all eruption seasons in the CESM, and the proxy reconstructions likewise show a more consistent warming pattern during Year +1 (Fig. 3B). This result is subject to caveats related to model physics and uncertainties in other eruption characteristics, but does suggest nonetheless that the lack of seasonal sensitivity in the CESM El Niño response—and the strong sensitivity in eruption-year cooling—may be real features of the climate response to tropical eruptions.\nFig. 3 C and D further demonstrate the importance of eruption season for interpreting model/proxy disagreements in hydroclimate. In the North American Drought Atlas (33) and Monsoon Asia Drought Atlas (32), “La Niña-like” patterns appear in the composite of the June–July–August (JJA) Palmer Drought Severity Index (PDSI) over all tropical eruption years since 1600 (10) (Fig. 3C). When soil moisture is composited over the same epochs in the CESM, the anomalies oppose these tendencies and appear generally “El Niño-like,” and the same is true for the present seasonal ensembles (Fig. S9), particularly those early in the year; this is consistent with previously documented model behavior (9, 13) and could be interpreted as demonstrating that the eruption-year hydroclimate response is “incorrect” relative to the proxy record. However, examining the immediate (0–5 mo) response, rather than averaging over boreal summer, suggests that La Niña-like anomalies can, in fact, be generated by the CESM (Fig. S10). In Fig. 3D, April eruptions generate negative soil moisture anomalies over much of western North America, and slight wetting is present over southeast Asia.\nAnomalies for the July eruption suite differ substantially, with the sign of anomalies reversed over North America/southeast Asia compared with the April case. Capturing the JJA hydroclimate anomalies seen in the proxy record may thus require both eruptions to occur in the correct starting month and ensuring that the duration of the relevant anomalies is realistic—an effort beyond the scope of the present study."
+  }, {
+    "heading": "Discussion and Conclusions",
+    "text": "Our results provide important insight into the uncertainties associated with interpreting model performance using the proxy record. Because some properties of the ENSO response are sensitive to eruption seasonality, some component of known model/proxy differences during the eruption year may relate to a lack of information regarding variations in starting month between eruptions. This is a step toward reconciliation of model and proxy evidence and illustrates the importance of testing the sensitivity of responses to uncertainties in climate forcing. The distinct behavior of marine- and terrestrial-based reconstructions also highlights the need to consider the mechanisms for SST and hydroclimate variability separately and cautions against the strict use of volcanic eruptions whose starting date is ambiguous to validate climate models. Mitigating these complicating factors will allow climate model simulations to provide both more physically correct simulation of climate variability and more reliable estimates of the risks associated with potential future large eruptions."
+  }, {
+    "heading": "Materials and Methods",
+    "text": "The mixed-layer heat budget was derived following (34)\n∂T′\n∂t = Q′ − ū · ∇T′ − u′ · ∇T̄ − u′ · ∇T′ + u′ · ∇T′\n− w′ (TMLD − Tsub)\nH − w̄\nT′MLD − T ′ sub\nH − w′\n(T′MLD − T ′ sub)\nH , [1]\nStevenson et al. PNAS | February 21, 2017 | vol. 114 | no. 8 | 1825\nwhere the entrainment velocity w is computed assuming a spatially and temporally variable mixed-layer depth\nw = ∂H\n∂t + ~u · ∇H + wH. [2]\nwH indicates the vertical velocity immediately below the mixed layer, and the shortwave radiation penetrating the mixed layer is computed following refs. 26 and 35:\nQpen = Qsw (0.58e −H 0.35 + 0.42e −H 23 ). [3]\nThe mixed-layer depth definition used here is that of ref. 36, which assumes that the mixed layer is the shallowest layer where the local, interpolated buoyancy gradient is equal to the maximum gradient between the surface and any arbitrary depth within the water column.\nAll overbars indicate the 12-mo climatology in the relevant variable, and anomalies are computed relative to that climatology. Monthly mean output is used for all variables.\nACKNOWLEDGMENTS. This work is supported by a National Science Foundation (NSF) Decadal and Regional Climate Prediction Using Earth System Models (EaSM) award through the NSF Division of Atmospheric and Geospace Sciences (AGS) Award 1243125. The CESM project is supported by the NSF and the Office of Science (Biological and Environmental Research program) of the US Department of Energy. Computing resources were provided by the Climate Simulation Laboratory at the National Center for Atmospheric Research’s Computational and Information Systems Laboratory sponsored by the NSF and other agencies. C.G. is supported by the National Key Basic Research Program of China (Award 2015CB953601).\n1. Robock A (2000) Volcanic eruptions and climate. Rev Geophys 38(2):191–219. 2. Schneider DP, Ammann CM, Otto-Bliesner BL, Kaufman DS (2009) Climate response\nto large, high-latitude and low-latitude volcanic eruptions in the Community Climate System Model. J Geophys Res 114:D15101. 3. Stothers RB (2000) Climatic and demographic consequences of the massive volcanic eruption of 1258. Clim Change 45:361–374. 4. Stommel HM, Stommel E (1983) Volcano Weather: The Story of 1816, the Year Without A Summer (Seven Seas, Newport, RI). 5. Stothers RB (1984) The great Tambora eruption in 1815 and its aftermath. Science 224:1191–1198. 6. Adams JB, Mann ME, Ammann CM (2003) Proxy evidence for an El Niño-like response to volcanic forcing. Nature 426:274–278. 7. Emile-Geay J, Seager R, Cane MA, Cook ER, Haug GH (2008) Volcanoes and ENSO over the past millennium. J Clim 21:3134–3148. 8. McGregor S, Timmermann A (2011) The effect of explosive tropical volcanism on ENSO. J Clim 24:2178–2191. 9. Anchukaitis KJ, et al. (2010) Influence of volcanic eruptions on the climate of the Asian monsoon region. Geophys Res Lett 37:L22703. 10. Li J, et al. (2013) El Niño modulations over the past seven centuries. Nat Clim Chang 3:822–826. 11. Wahl ER, Diaz HF, Smerdon JE, Ammann CM (2014) Late winter temperature response to large tropical volcanic eruptions in temperate western North America: Relationship to ENSO phases. Glob Planet Change 122:238–250. 12. Ohba M, Shiogama H, Yokohata T, Watanabe M (2013) Impact of strong tropical volcanic eruptions on ENSO simulated in a coupled GCM. J Clim 26:5169–5182. 13. Stevenson S, Otto-Bliesner B, Fasullo J, Brady E (2016) “El Niño-like” hydroclimate responses to last millennium volcanic eruptions. J Clim 29:2907–2921. 14. Colose CM, LeGrande AN, Vuille M (2016) Hemispherically asymmetric volcanic forcing of tropical hydroclimate and water isotopologue variability during the last millennium. Earth Syst Dynam 7:681–696. 15. Pausata FSR, Chafik L, Caballero R, Battisti DS (2015) Impacts of high-latitude volcanic eruptions on ENSO and AMOC. Proc Natl Acad Sci USA 112(45):13784–13788. 16. Clement AC, Seager R, Cane MA, Zebiak SE (1996) An ocean dynamical thermostat. J Clim 9:2190–2196. 17. Ammann CM, Meehl GA, Washington WM, Zender CS (2003) A monthly and latitudinally varying volcanic forcing dataset in simulations of 20th century climate. Geophys Res Lett 30(12):1657. 18. Gao CC, Robock A, Ammann C (2008) Volcanic forcing of climate over the past 1500 years: An improved ice core-based index for climate models. J Geophys Res 113:D23111.\n19. Crowley TJ, et al. (2008) Volcanism and the Little Ice Age. PAGES Newsl 16:22–23. 20. Sigl M, et al. (2015) Timing and climate forcing of volcanic eruptions for the past\n2,500 years. Nature 523:543–549. 21. Otto-Bliesner BL, et al. (2016) Climate variability and change since 850 C.E.: An ensem-\nble approach with the Community Earth System Model (CESM). Bull Am Meteorol Soc 97(5):735–754. 22. Bellenger H, Guilyardi E, Leloup J, Lengaigne M, Vialard J (2014) ENSO representation in climate models: From CMIP3 to CMIP5. Clim Dyn 42(7-8):1999–2018. 23. Lloyd J, Guilyardi E, Weller H (2012) The role of atmosphere feedbacks during ENSO in the CMIP3 models. Part III: The shortwave flux feedback. J Clim 25:4275– 4293. 24. Fasullo JT, Nerem RS, Hamlington B (2016) Is the detection of accelerated sea level rise imminent? Sci Rep 6:31245. 25. Wang W, McPhaden MJ (2001) Surface layer temperature balance in the equatorial Pacific during the 1997-98 El Niño and 1998-99 La Nina. J Clim 14:3393–3407. 26. Huang B, Xue Y, Zhang D, Kumar A, McPhaden MJ (2010) The NCEP GODAS ocean analysis of the tropical Pacific mixed layer heat budget on seasonal to interannual time scales. J Clim 23(18):4901–4925. 27. Capotondi A (2013) ENSO diversity in the NCAR CCSM4 climate model. J Geophys Res Oceans 118:4755–4770. 28. Jin FF (1997) An equatorial ocean recharge paradigm for ENSO. Part I: Conceptual model. J Atmos Sci 54:811–829. 29. Wilson R, et al. (2010) Reconstructing ENSO: The influence of method, proxy data, climate forcing and teleconnections. J Quat Sci 25(1):62–78. 30. Tierney JE, et al. (2015) Tropical sea surface temperatures for the past four centuries reconstructed from coral archives. Paleoceanography 30(3):226–252. 31. Emile-Geay J, Cobb K, Mann M, Wittenberg. AT (2013) Estimating tropical Pacific SST variability over the past millennium. Part 1: Methodology and validation. J Clim 26:2302–2328. 32. Cook ER, et al. (2010) Asian monsoon failure and megadrought during the last millennium. Science 328(5977):486–489. 33. Cook ER, Woodhouse CA, Eakin CM, Meko DM, Stahle DW (2004) Long-term aridity changes in the western United States. Science 306(5698):1015–1018. 34. Graham FS, et al. (2014) Effectiveness of the Bjerknes stability index in representing ocean dynamics. Clim Dyn 43:2399–2414. 35. Pacanowski RC, Griffies SM (1999) MOM 3.0 Manual (NOAA/Geophysical Fluid Dynamics Laboratory, Princeton, NJ), Laboratory Rep 4. 36. Large WG, Danabasoglu G, Doney SC, McWilliams JC (1997) Sensitivity to surface forcing and boundary layer mixing in a global ocean model: Annual-mean climatology. J Phys Oceanogr 27:2418–2447.\n1826 | www.pnas.org/cgi/doi/10.1073/pnas.1612505114 Stevenson et al."
+  }],
+  "year": 2017,
+  "references": [{
+    "title": "Climate response to large, high-latitude and low-latitude volcanic eruptions in the Community Climate System Model",
+    "authors": ["DP Schneider", "CM Ammann", "BL Otto-Bliesner", "DS Kaufman"],
+    "venue": "J Geophys Res 114:D15101",
+    "year": 2009
+  }, {
+    "title": "Climatic and demographic consequences of the massive volcanic eruption of 1258",
+    "authors": ["RB Stothers"],
+    "venue": "Clim Change",
+    "year": 2000
+  }, {
+    "title": "Volcano Weather: The Story of 1816, the Year Without A Summer (Seven",
+    "authors": ["HM Stommel", "E Stommel"],
+    "year": 1983
+  }, {
+    "title": "The great Tambora eruption in 1815 and its aftermath",
+    "authors": ["RB Stothers"],
+    "venue": "Science",
+    "year": 1984
+  }, {
+    "title": "Proxy evidence for an El Niño-like response to volcanic forcing",
+    "authors": ["JB Adams", "ME Mann", "CM Ammann"],
+    "venue": "Nature",
+    "year": 2003
+  }, {
+    "title": "Volcanoes and ENSO over the past millennium",
+    "authors": ["J Emile-Geay", "R Seager", "MA Cane", "ER Cook", "GH Haug"],
+    "venue": "J Clim 21:3134–3148",
+    "year": 2008
+  }, {
+    "title": "The effect of explosive tropical volcanism on ENSO",
+    "authors": ["S McGregor", "A Timmermann"],
+    "venue": "J Clim 24:2178–2191",
+    "year": 2011
+  }, {
+    "title": "Influence of volcanic eruptions on the climate of the Asian monsoon region",
+    "authors": ["KJ Anchukaitis"],
+    "venue": "Geophys Res Lett 37:L22703",
+    "year": 2010
+  }, {
+    "title": "El Niño modulations over the past seven centuries",
+    "authors": ["J Li"],
+    "venue": "Nat Clim Chang 3:822–826",
+    "year": 2013
+  }, {
+    "title": "Late winter temperature response to large tropical volcanic eruptions in temperate western North America: Relationship to ENSO phases",
+    "authors": ["ER Wahl", "HF Diaz", "JE Smerdon", "CM Ammann"],
+    "venue": "Glob Planet Change",
+    "year": 2014
+  }, {
+    "title": "Impact of strong tropical volcanic eruptions on ENSO simulated in a coupled GCM",
+    "authors": ["M Ohba", "H Shiogama", "T Yokohata", "M Watanabe"],
+    "venue": "J Clim 26:5169–5182",
+    "year": 2013
+  }, {
+    "title": "El Niño-like” hydroclimate responses to last millennium volcanic eruptions",
+    "authors": ["S Stevenson", "B Otto-Bliesner", "J Fasullo", "E Brady"],
+    "venue": "J Clim 29:2907–2921",
+    "year": 2016
+  }, {
+    "title": "Hemispherically asymmetric volcanic forcing of tropical hydroclimate and water isotopologue variability during the last millennium",
+    "authors": ["CM Colose", "AN LeGrande", "M Vuille"],
+    "venue": "Earth Syst Dynam 7:681–696",
+    "year": 2016
+  }, {
+    "title": "Impacts of high-latitude volcanic eruptions on ENSO and AMOC",
+    "authors": ["FSR Pausata", "L Chafik", "R Caballero", "DS Battisti"],
+    "venue": "Proc Natl Acad Sci USA",
+    "year": 2015
+  }, {
+    "title": "An ocean dynamical thermostat",
+    "authors": ["AC Clement", "R Seager", "MA Cane", "SE Zebiak"],
+    "venue": "J Clim 9:2190–2196",
+    "year": 1996
+  }, {
+    "title": "A monthly and latitudinally varying volcanic forcing dataset in simulations of 20th century climate",
+    "authors": ["CM Ammann", "GA Meehl", "WM Washington", "CS Zender"],
+    "venue": "Geophys Res Lett 30(12):1657",
+    "year": 2003
+  }, {
+    "title": "Volcanic forcing of climate over the past 1500 years: An improved ice core-based index for climate models",
+    "authors": ["CC Gao", "A Robock", "C Ammann"],
+    "venue": "J Geophys Res 113:D23111",
+    "year": 2008
+  }, {
+    "title": "Volcanism and the Little Ice Age",
+    "authors": ["TJ Crowley"],
+    "venue": "PAGES Newsl",
+    "year": 2008
+  }, {
+    "title": "Timing and climate forcing of volcanic eruptions for the past 2,500 years",
+    "authors": ["M Sigl"],
+    "venue": "Nature",
+    "year": 2015
+  }, {
+    "title": "Climate variability and change since 850 C.E.: An ensemble approach with the Community Earth System Model (CESM)",
+    "authors": ["BL Otto-Bliesner"],
+    "venue": "Bull Am Meteorol Soc 97(5):735–754",
+    "year": 2016
+  }, {
+    "title": "ENSO representation in climate models: From CMIP3 to CMIP5",
+    "authors": ["H Bellenger", "E Guilyardi", "J Leloup", "M Lengaigne", "J Vialard"],
+    "venue": "Clim Dyn 42(7-8):1999–2018",
+    "year": 2014
+  }, {
+    "title": "The role of atmosphere feedbacks during ENSO in the CMIP3 models. Part III: The shortwave flux feedback",
+    "authors": ["J Lloyd", "E Guilyardi", "H Weller"],
+    "venue": "J Clim",
+    "year": 2012
+  }, {
+    "title": "Is the detection of accelerated sea level rise imminent",
+    "authors": ["JT Fasullo", "RS Nerem", "B Hamlington"],
+    "year": 2016
+  }, {
+    "title": "Surface layer temperature balance in the equatorial Pacific during the 1997-98 El Niño and 1998-99 La Nina",
+    "authors": ["W Wang", "MJ McPhaden"],
+    "venue": "J Clim 14:3393–3407",
+    "year": 2001
+  }, {
+    "title": "The NCEP GODAS ocean analysis of the tropical Pacific mixed layer heat budget on seasonal to interannual time scales",
+    "authors": ["B Huang", "Y Xue", "D Zhang", "A Kumar", "MJ McPhaden"],
+    "venue": "J Clim 23(18):4901–4925",
+    "year": 2010
+  }, {
+    "title": "An equatorial ocean recharge paradigm for ENSO. Part I: Conceptual model",
+    "authors": ["FF Jin"],
+    "venue": "J Atmos Sci 54:811–829",
+    "year": 1997
+  }, {
+    "title": "Reconstructing ENSO: The influence of method, proxy data, climate forcing and teleconnections",
+    "authors": ["R Wilson"],
+    "venue": "J Quat Sci 25(1):62–78",
+    "year": 2010
+  }, {
+    "title": "Tropical sea surface temperatures for the past four centuries reconstructed from coral archives",
+    "authors": ["JE Tierney"],
+    "venue": "Paleoceanography",
+    "year": 2015
+  }, {
+    "title": "Estimating tropical Pacific SST variability over the past millennium. Part 1: Methodology and validation",
+    "authors": ["J Emile-Geay", "K Cobb", "M Mann", "Wittenberg"],
+    "venue": "J Clim 26:2302–2328",
+    "year": 2013
+  }, {
+    "title": "Asian monsoon failure and megadrought during the last millennium",
+    "authors": ["ER Cook"],
+    "venue": "Science",
+    "year": 2010
+  }, {
+    "title": "Long-term aridity changes in the western United States",
+    "authors": ["ER Cook", "CA Woodhouse", "CM Eakin", "DM Meko", "DW Stahle"],
+    "venue": "Science",
+    "year": 2004
+  }, {
+    "title": "Effectiveness of the Bjerknes stability index in representing ocean dynamics",
+    "authors": ["FS Graham"],
+    "venue": "Clim Dyn 43:2399–2414",
+    "year": 2014
+  }, {
+    "title": "MOM 3.0 Manual (NOAA/Geophysical Fluid Dynamics Laboratory, Princeton, NJ)",
+    "authors": ["RC Pacanowski", "SM Griffies"],
+    "venue": "Laboratory Rep",
+    "year": 1999
+  }, {
+    "title": "Sensitivity to surface forcing and boundary layer mixing in a global ocean model: Annual-mean climatology",
+    "authors": ["WG Large", "G Danabasoglu", "SC Doney", "JC McWilliams"],
+    "venue": "J Phys Oceanogr",
+    "year": 1997
+  }],
+  "id": "SP:ebd4229940699fae64bf1295a67d982583205d84",
+  "authors": [{
+    "name": "Samantha Stevenson",
+    "affiliations": []
+  }, {
+    "name": "John T. Fasullo",
+    "affiliations": []
+  }, {
+    "name": "Bette L. Otto-Bliesner",
+    "affiliations": []
+  }, {
+    "name": "Robert A. Tomas",
+    "affiliations": []
+  }, {
+    "name": "Chaochao Gao",
+    "affiliations": []
+  }, {
+    "name": "Mark A. Cane",
+    "affiliations": []
+  }],
+  "abstractText": "The response of the El Niño/Southern Oscillation (ENSO) to tropical volcanic eruptions has important worldwide implications, but remains poorly constrained. Paleoclimate records suggest an “El Niño-like” warming 1 year following major eruptions [Adams JB, Mann ME, Ammann CM (2003) Nature 426:274–278] and “La Niñalike” cooling within the eruption year [Li J, et al. (2013) Nat Clim Chang 3:822–826]. However, climate models currently cannot capture all these responses. Many eruption characteristics are poorly constrained, which may contribute to uncertainties in model solutions—for example, the season of eruption occurrence is often unknown and assigned arbitrarily. Here we isolate the effect of eruption season using experiments with the Community Earth System Model (CESM), varying the starting month of two large tropical eruptions. The eruption-year atmospheric circulation response is strongly seasonally dependent, with effects on European winter warming, the Intertropical Convergence Zone, and the southeast Asian monsoon. This creates substantial variations in eruption-year hydroclimate patterns, which do sometimes exhibit La Niña-like features as in the proxy record. However, eruption-year equatorial Pacific cooling is not driven by La Niña dynamics, but strictly by transient radiative cooling. In contrast, equatorial warming the following year occurs for all starting months and operates dynamically like El Niño. Proxy reconstructions confirm these results: eruption-year cooling is insignificant, whereas warming in the following year is more robust. This implies that accounting for the event season may be necessary to describe the initial response to volcanic eruptions and that climate models may be more accurately simulating volcanic influences than previously thought.",
+  "title": "Role of eruption season in reconciling model and proxy responses to tropical volcanism"
+}

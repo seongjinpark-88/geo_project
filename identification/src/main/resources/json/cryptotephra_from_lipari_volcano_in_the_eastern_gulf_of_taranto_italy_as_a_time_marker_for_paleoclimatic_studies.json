@@ -1,0 +1,409 @@
+{
+  "sections": [{
+    "text": "We present the first tephroanalysis based on geochemical fingerprinting of volcanic glass shards from eastern Apulian shelf sediments in the Gulf of Taranto (Italy). High sedimentation rates in the gulf are ideal for high-resolution paleoclimate studies, which rely on accurate age models. Cryptotephrostratigraphy is a novel tool for the age assessment of marine sediment cores in the absence of discrete tephra layers. High-resolution quantitative analysis of glass shard abundance in the uppermost 45 cm of a gravity core identified two cryptotephras. Microprobe analysis of glass shards supported by an accelerator mass spectrometry 14C–based age model identified the pronounced primary cryptotephra at 36 cm bsf (below sea floor) as the felsic AD 776 Monte Pilato Eruption on the island of Lipari, whereas the thinner, mafic tephra layer at 1.5 cm bsf is associated with the AD 1944 eruption of Somma-Vesuvius. Identifying these tephra layers provides an additional, 14C-independent, stratigraphic framework for further paleoclimatic studies allowing us to link Mediterranean climate and hydrology to orbital variation and large-scale atmospheric processes. Our results underline the importance of qualitative tephrostratigraphy in a highly geodynamic region, where solely quantitative approaches have demonstrated to bear a high potential for false correlations between tephra layers and eruptions.\nKeywords: Central Mediterranean Sea; Shelf sediments; Late Holocene; Marine tephrochronology; Italian volcanism"
+  }, {
+    "heading": "INTRODUCTION",
+    "text": "Precise age models are of paramount importance for paleoclimatic and paleoenvironmental reconstructions based on marine sediment cores. This is especially true when correlating signatures of climate oscillations to external forcing mechanisms such as solar irradiance or Milankovitch cycles. Tephrochronostratigraphy is an effective dating method because ash layers can be cross-correlated between all types of sedimentary environments including terrestrial, marine, and lacustrine archives (e.g., Keller et al., 1978; Paterne et al., 1986; Wulf et al., 2004; Kutterolf et al., 2008, 2016; Neugebauer et al., 2017). Furthermore, in the Mediterranean, tephroanalysis on historical time scales bears minimal temporal uncertainty compared with other common dating methods (accelerator mass spectrometry [AMS] 14C dating), because historic documentation exists for major eruptions\nof the past ~2000 yr (e.g., Arnò et al., 1987). The Gulf of Taranto provides an ideal setting for high-resolution paleoclimatic studies (Taricco et al., 2008, 2009, 2015; Zonneveld et al., 2012; Goudeau et al., 2013, 2014) because it is especially susceptible to both climate variability and humaninduced changes in land use, eutrophication, and pollution on the Italian mainland. High amounts of nutrients and suspended sediments from the Po and other Italian rivers are transported northwest to southeast along the Adriatic coast and result in unusually high sedimentation rates in the Gulf of Taranto. Its location downwind of the highly explosive Italian volcanic province suggests the use of tephrostratigraphy to accurately date marine sediment cores (Fig. 1C). Several eruptions of Mt. Vesuvius, the Phlegrean Fields, the Eolian Islands, and the Palinuro seamount have emplaced pronounced distal tephra layers in this region (e.g., Siani et al., 2004; Wulf et al., 2008). However, in contrast to thick ash deposits from the eastern Mediterranean Sea that are identifiable by distinct color and grain-size changes (e.g., Guichard et al., 1993; Kuzucuoglu et al., 1998; Wulf et al., 2002), there are no macroscopically visible tephra layers in the uppermost sediments of the Gulf of Taranto most likely *Corresponding author at: Center for Earth System Research and Sustainability, Institute of Geology, University of Hamburg, Bundesstrasse 55, 20146 Hamburg, Germany. E-mail address: valerie.menke@uni-hamburg.de (V. Menke).\n520\nhttps://doi.org/10.1017/qua.2018.2 Downloaded from https://www.cambridge.org/core. University of Arizona, on 20 Feb 2019 at 21:28:40, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.\nbecause there were no eruptions during the past several hundred years that were strong enough to transport large amounts of pyroclasts (e.g., Goudeau et al., 2014; this study). Macroscopic tephra recognition in distal marine or lacustrine sediments as well as soils and ice cores gets more difficult farther away from the source because particle size and amount diminish with distance (Lowe and Hunt, 2001). These “hidden” distal tephras (Dugmore, 1989) have been named cryptotephras (from the Greek word kryptein, meaning “to hide”) and are a relatively new focus for tephrochronological studies in northern Europe, Scandinavia, New Zealand, and elsewhere (e.g., Davies et al., 2002, 2004, 2007; Turney et al., 2004; Wohlfarth et al., 2006; Pyne-O’Donnell et al., 2014; Neugebauer et al., 2017). When concentrated in horizons, they can provide valuable insights into eruptive histories as well as significant marker horizons in distal environments where distinct layers are absent. In the recent past, some authors have microscopically counted the number density of pyroxene grains in sediments from the Gulf of Taranto and aimed at identifying tephra\nlayers and their source eruptions solely based on ash particle abundance (e.g., Castagnoli et al., 1990; Bonino et al., 1993; Taricco et al., 2009). Pyroxene minerals crystalize within the magma chamber (Schmincke and Sumita, 2013) and can be transported with other pyroclastic material over long distances (Paterne et al., 1988), so peaks in pyroxene grain abundance have been used in the past to tune the sediment record to historical eruptions of the Campanian area. Although this may be a promising first assessment for tephra abundance, it bears a high degree of uncertainty because pyroxene grains (1) can be reworked, (2) can be derived from several eruptions simultaneously, and (3) can usually not be allocated to specific eruptions by petrographic features alone, or (4) a hiatus in the sediment record can lead to a pyroxene peak being assigned to the wrong eruption. Instead, geochemical fingerprinting of glass shards is a widely used tool to confidently identify the source of ash deposits (e.g., Lowe, 2011; Schindlbeck et al., 2016; Neugebauer et al., 2017), even when using their major element compositions alone (Zanchetta et al., 2011).\nhttps://doi.org/10.1017/qua.2018.2 Downloaded from https://www.cambridge.org/core. University of Arizona, on 20 Feb 2019 at 21:28:40, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.\nIn this study, we present a continuous microprobe analysis of glass shards from high-resolution stratigraphic samples of the uppermost 50 cm of a sediment core from the Gulf of Taranto (Fig. 1B). Furthermore, we determine the glass shard abundance within the background sediment to evaluate the nature and systematics of the cryptotephra in a semiquantitative-compositional approach. The combination of quantitative determination of glass shard abundance and geochemically based fingerprinting of the respective glasses allows for a reliable correlation of tephra layer(s) to eruptions in this region. This provides an additional stratigraphic framework for further paleoclimatic studies."
+  }, {
+    "heading": "GEOLOGIC AND ENVIRONMENTAL SETTING",
+    "text": "Italy is a highly geodynamic region because of its location on the active plate boundary where both the African plate and the Apulian microplate are being subducted under the Eurasian plate (Fig. 1A), leading to frequent earthquakes and the only currently active volcanoes in mainland Europe (e.g., D’Antonio et al., 1996; Wortel and Spakman, 2000). Numerous explosive eruptions of the Italian volcanic province have been recorded throughout the Quaternary (Paterne et al., 1990; Keller et al., 1996; Beccaluva et al., 2007; Bourne et al., 2010; Tomlinson et al., 2015). During the Holocene, some of the most active areas were the Phlegrean Fields including the island of Ischia, the Somma-Vesuvius, the Etna on Sicily, and the Aeolian Islands with the volcanoes Lipari, Grande Vossa, and Stromboli (Fig. 1C). The eastward flowing subtropical jet modulates large-scale atmospheric circulation patterns over the study area influencing the transport of eruptive material carried to 10 to 20 km height by plinian and subplinian eruptions (Newhall and Self, 1982; Dee et al., 2011). Observational data show that the predominant wind direction close to the surface is northwest to southeast, following the large-scale circulation (Fig. 1D) (May, 1982) resulting in a preferentially southeastward dispersal of pyroclastic material as evident in several tephra layers found in marine sediment cores from the central and eastern Mediterranean Sea (Paterne et al., 1988, 1990; Barberi et al., 1990; Keller et al., 1996; Zanchetta et al., 2011). Similar dispersal pathways are also predicted in model data and observed in historic eruptions (e.g., Costa et al., 2006). The Gulf of Taranto, located at the southern tip of Italy in the central Mediterranean Sea, is positioned southeastward of the Italian volcanic arc. The primary water masses controlling the oceanography in the Gulf of Taranto are (1) the West Adriatic Current (WAC) fed by suspension-rich freshwater from the Po River before moving counterclockwise along the western Adriatic coastline into the gulf (Lipizer et al., 2014) and (2) the Levantine Intermediate Water, which enters the basin from the Levantine Sea at depths between 200 and 600m (Turchetto et al., 2007) (Fig. 1B). Because of high nutrient content and suspended loads, relatively high sedimentation rates between 0.52mm/yr to 2.81mm/yr have been reported for the shallow eastern Apulian shelf, making it\na favorable location for high-resolution climate change studies (e.g., Zonneveld et al., 2012; Goudeau et al., 2013) that are in need of precise age models."
+  }, {
+    "heading": "MATERIAL AND METHODS",
+    "text": "Core sampling and sediment composition\nThe gravity core GeoB15403-4 (39°45.42′N, 17°53.53′E; 170m water depth) was recovered from the eastern Apulian shelf in the Gulf of Taranto during the R/V Poseidon cruise 411 in April 2011 (Fig. 1B). The 5.245-m-long core was sampled at 2.5mm resolution with the present study investigating the uppermost 50 cm at a 1 cm sampling space. Maximum oxygen penetration depth was identified by distinct color changes at 6 cm. This is consistent with maximum oxygen penetration observed in multicores from the same station, suggesting negligible sediment loss during core recovery. Freeze-dried sediment samples were wet sieved, and the 63–125 µm fraction was dried at 40°C for tephroanalysis. This fraction has been demonstrated to be the most promising for getting analyzable tephra particles from primary eruptive events (e.g., Kutterolf et al., 2008; Schindlbeck et al., 2016). The investigated core interval consists of homogenous, nannofossil-rich grayish to green mud with an undisturbed sediment surface and abundant particles in the fine-sand fraction. Sediment in the coarser fraction consists of sedimentary lithic clasts; biogenic particles such as foraminifers, gastropods, pteropods, bivalves, and sponge spicules; siliciclastic components including quartz, feldspar, pyroxene, amphibole, biotite, and spinel; and varying amounts of pyroclasts in the form of transparent and brownish and highly vesicular transparent glass shards (Fig. 2A and B)."
+  }, {
+    "heading": "Analytical techniques",
+    "text": "We analyzed glass shards from the grain-size fraction 63–125 µm of 50 sediment samples with an electron microprobe (EMP) for major and minor elements following the procedure of Kutterolf et al. (2011) (Supplementary Table 1). EMP analyses were conducted on epoxy-embedded and polished samples with a JEOL JXA 8200 wavelength dispersive EMP at GEOMAR, Kiel, using 15 kV accelerating voltage, a beam defocused to 5 µm, with a beam current of 6 nA and counting times of 30 to 60 s for most major elements and 60 to 100 s for the minor elements. Natural and synthetic glasses and minerals were used as standards for calibration. Accuracy was monitored by standard measurements on Lipari obsidian (rhyolite) (Hunt and Hill, 2001) and Smithsonian basaltic standard VGA. This is commonly used as VGA and refers to Basaltic glass sample A-99 Makaopuhi Lava Lake (Supplementary Table 2). When available, 15 glass shards were measured per sample by scanning throughout the entire epoxy-embedded sample area. After every 60 individual measurements, 2 to 4 standard measurements (always 2 for the Lipari standard, and if mafic glass was identified, also 2 for the VGA standard) follow to\nhttps://doi.org/10.1017/qua.2018.2 Downloaded from https://www.cambridge.org/core. University of Arizona, on 20 Feb 2019 at 21:28:40, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.\nverify the stability of the measuring program. The resulting standard deviation is <0.5% for major and <3% for most minor elements (Supplementary Table 3). All analyses were normalized to 100% to eliminate the effects of variable postdepositional hydration and minor deviations in the electron beam focus. Because variable submarine alteration (Kutterolf et al., 2007) causes elemental exchange at the surface and rims of single glass shards first (e.g., Schacht, 2005), microanalyses aimed at the center of glass shards. For a semiquantitative estimation of pyroclast abundance, we point counted the 63–125 µm fraction of each sample that comprised more than 14 glass shards identified by microprobe analysis (Supplementary Table 4). We used a regular net on top of the respective BSE (Backscattered electron) pictures of each analyzed sample to create a grid. Particles that intersected the grid were categorized as glass shard or nonglass shard. If the intersection targeted epoxy, no point was counted. At least 400 points were counted to derive a statistically significant estimation (e.g., Van der Plas and Tobi, 1965) of respective volume percentages of the pyroclast and nonpyroclast fractions. Samples including fewer than 10 glass shards were identified during EMP work and were not\ncounted. Based on the point counting results of samples where only 14 glass shards were identified during EMP work, and which account only for 1 to 1.5 vol%, these samples were estimated to contain less than 1 vol% of glass shards.\nAMS 14C–based age model\nFor the establishment of an AMS 14C–based age model for GeoB15403-4, we selected surface-dwelling planktonic foraminifera from a total of 11 samples along the core (Table 1). Dating was performed at Beta Analytic Inc. (Miami, FL, USA). Radiocarbon dates were converted to calendar years using the MARINE13 database (Reimer et al., 2013) with a Delta R value of 73± 34. Delta R was calculated using the MarineChrono reservoir database through an interpolation of data points close to the core locations."
+  }, {
+    "heading": "RESULTS",
+    "text": ""
+  }, {
+    "heading": "Geochemistry",
+    "text": "Major element analysis of 503 glass shards revealed contributions of minor basaltic/andesitic and trachyte-basaltic, as\nTable 1. Results of the accelerator mass spectrometry (AMS) 14C dating of planktonic foraminifera in GeoB15403-4.\nDepth (mm)\nRadiocarbon age (BP)\nCalendar years (2σ cal BP)\nCalendar years (2σ cal AD) Data\n0.00 −61 2011 Sediment surface 211.25 1380± 30 839± 101 1111.0± 101 AMS 14C dating 881.25 2320± 30 1846.5± 122.5 103.5± 122.5 AMS 14C dating 1248.75 2710± 30 2316± 142 −366.0± 142 AMS 14C dating 1598.75 3410± 30 3191± 138 −1241.0± 138 AMS 14C dating 1845 4020± 30 3947± 132 −1997.0± 132 AMS 14C dating 1983.75 4270± 30 4277± 133 −2327.0± 133 AMS 14C dating 2181.25 5470± 30 5767± 116 −3817.0± 116 AMS 14C dating 2391.25 6290± 30 6656.5± 124.5 −4706.5± 124.5 AMS 14C dating 2635.00 8350± 40 8807.5± 170.5 −6857.5± 170.5 AMS 14C dating 2868.75 9920± 30 10,808± 169 −8858.0± 169 AMS 14C dating 4061.25 29,550± 110 33,286.5± 356.5 −31,336.5± 356.5 AMS 14C dating\nhttps://doi.org/10.1017/qua.2018.2 Downloaded from https://www.cambridge.org/core. University of Arizona, on 20 Feb 2019 at 21:28:40, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.\nwell as major rhyolitic magmatic, compositions to the sediments (Fig. 3A). In Figure 3, the glass shard compositions are plotted with provenance fields of Mediterranean volcanic arcs and in particular with compositional fields of eruptions from the Aeolian Islands for comparison. All analyzed glass shards fall within the potassium-rich high-K calc-alkaline series or the shoshonitic series (Fig. 3B). The majority of the investigated glass shards cluster at potassium concentrations >4 wt% with SiO2 contents of 47 wt% or 75 wt%, respectively (Figs. 3B, 4A, and 5A). Very few exceptions (5 out of 503 glass shards) have potassium concentrations <4 wt% (Fig. 3B). The majority (~95%) of the glass shards have a rhyolitic composition and have major element concentrations that cluster around 13 wt% Al2O3, 4 wt% Na2O, 1.5 wt% FeOt, 0.7 wt% CaO, and 0.1 wt% TiO2 (Fig. 5; Supplementary Table 1). The tephritic to trachy-basaltic glass shards, concentrated in the first 6 cm of the sediment, contain average compositions of ~17.8 wt% Al2O3, ~10.4 wt% CaO, ~9.5 wt% FeOt, ~4 wt% MgO, ~3.6 wt% Na2O, and ~1.2 wt% TiO2 (Fig. 4A; Supplementary Table 1)."
+  }, {
+    "heading": "Ash abundance",
+    "text": "Although the brownish, trachy-basaltic, basaltic, and andesitic glass shards are limited to the uppermost 6 cm of the core, the transparent, rhyolithic glass shards occur unequally distributed throughout the entire investigated interval (Fig. 4A). The overall abundance of glass shards within the upper 20 cm of sediment stayed below 1.5 vol%, with the exception of two samples at 1.5 cm bsf (below sea floor) (4.5 vol%) and 2.5 cm bsf (2.4 vol%) that contain trachy-basaltic–dominated glass shard compositions (Fig. 4B). Between 20 cm bsf and 36 cm bsf there is a continuous increase of glass shard abundance, exclusively of rhyolitic composition, up to 44 vol% (36 cm bsf). Between 36 cm bsf and 38 cm bsf, the tephra abundance decreases sharply back to a <1.5 vol% presence of glass shards in the sediments where it remains until the end of the investigated sediment interval (Fig. 4B)."
+  }, {
+    "heading": "Age model",
+    "text": "Results of the AMS 14C dating on plankton foraminifera are given in Table 1. The 14C-based age model for GeoB15403-4\nhttps://doi.org/10.1017/qua.2018.2 Downloaded from https://www.cambridge.org/core. University of Arizona, on 20 Feb 2019 at 21:28:40, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.\nwas established through linear interpolation and gives an age of 55,600 yr BP for the base of the whole core (Fig. 6A). The investigated core interval (0–50 cm) has a basal age of 1305 yr BP. Sedimentation rates decrease within this section from 66.5 cm/kyr in the older part to 23.5 cm/kyr in the youngest samples (Fig. 6B)."
+  }, {
+    "heading": "DISCUSSION",
+    "text": ""
+  }, {
+    "heading": "Compositional homogeneity",
+    "text": "It is important to assess whether the observed glass shards form homogenous (only from one eruption and source) or heterogeneous (reworked from several eruptions and sources) assemblages. The overall geochemistry of the glass shards indicates very homogenous major elemental concentrations in two clusters (Figs. 3, 4, and 5). Based solely on the compositional homogeneity, we can infer that (within the limitations of investigating only one grain-size fraction) the interval between 20 and 38 cm contains a primary cryptotephra with a peak in glass shard abundance at 36 cm bsf. Only in four samples within the first 6 cm bsf can bimodal\ncompositions be observed, whereas all other samples until 41 cm bsf show very confined homogenous rhyolithic glass shard compositions. The only exceptions are a few single outliers in three samples. These homogenous element concentrations argue for cryptotephras originating from single specific eruptions respectively, which allows for the stratigraphic assignment of historic eruptive events. Below 42 cm, the ash abundance significantly decreases and the glass shard composition is heterogeneous."
+  }, {
+    "heading": "Provenance of the cryptotephras",
+    "text": "So far, the appearance of volcanic material in the Gulf of Taranto has been attributed to volcanic eruptions based on peaks in pyroxene abundances inferred from the density variations within the sediments (e.g., Bonino et al., 1993; Taricco et al. 2009; Vivaldo et al. 2009). The authors argue that the proximity to the Campanian volcanic region, as well as the prevailing westerly winds, provided a complete and nearly temporally linear record of the eruptive history within the sediments of the Ionian Sea. According to this and the AMS 14C–based age model of core GeoB15403-4 (Fig. 7),\nhttps://doi.org/10.1017/qua.2018.2 Downloaded from https://www.cambridge.org/core. University of Arizona, on 20 Feb 2019 at 21:28:40, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.\nthe observed glass shard maximum centered around 36 cm bsf should be associated with the AD 1301 Ischia eruption. The ideal test for the provenance and assignment to a specific eruption is the geochemical fingerprint analysis of volcanic\nglass shards. Glass shards from Ischia are less silica rich at higher alkali contents (trachytes) than the high-silica glass shards (rhyolites) in sediments below 6 cm bsf of GeoB15403-4. Comparing the compositional signals with the\nhttps://doi.org/10.1017/qua.2018.2 Downloaded from https://www.cambridge.org/core. University of Arizona, on 20 Feb 2019 at 21:28:40, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.\nrespective provenance fields (Tomlinson et al., 2015), the assignment of the observed glass shards in the upper 42 cm of core GeoB15403-4 to an Ischia eruption can thus be excluded (Figs. 3 and 5C). In the first 6 cm of the sediment core, the glass shards reveal a tephritic composition, which is also very different from the Ischia volcanic products. To confine the possible origin of the glass shards, we further compare the geochemical compositions of the analyzed glass shards with provenance data of the Mediterranean volcanic provinces (e.g., Keller et al., 1978; Tomlinson et al., 2015; Albert et al., 2017). Already within the basic classification diagrams of Figure 3 (total alkali vs. silica, potassium vs. silica) it becomes clear that possible provenance regions are very distinct. The trachytic composition of the glass shards within the first 6 cm and a peak in 1.5 cm depth bsf only fits to the\nSomma-Vesuvius eruptions at ages younger than 1000 yr BP (Table 2). The increase of silica-unsaturated, high-alkali glasses found in Somma-Vesuvius eruptions between AD 79 and AD 1944 is the best fit for the glass compositions of this study (Piochi et al., 2006; Di Renzo et al., 2007 and references therein). Additionally, according to estimated sedimentation rates of 2.5mm/10 yr, the AD 1944 eruption bears the highest potential to be the source eruption for the glass shards at 1.5 cm bsf. The geochemical fingerprint of the glass shard peak at 36 cm bsf unambiguously identifies Lipari as the source (Figs. 3 and 5). Representative compositional data from eruptions from Lipari (Albert et al., 2017) and the very detailed eruptive catalogue of Lucchi et al. (2013) reveal that only the last eruption cycle (9a, b, c) on Lipari (Lami, Monte\nhttps://doi.org/10.1017/qua.2018.2 Downloaded from https://www.cambridge.org/core. University of Arizona, on 20 Feb 2019 at 21:28:40, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.\nTable 2. Averaged results of the electron microprobe analysis from this study, respective standard measurements, their intrasample/standard deviations, and terrestrial reference data given in the literature for the eligible correlative Lipari deposit and the Vesuvius 1944 eruption. STD, standard deviation; TAS, total alkalis.\nReference Eruptive unit/core Source/depth in core # Analysis Na2O K2O FeO SiO2 TiO2 MgO CaO MnO Al2O3 TAS Analysis total\nLipari This study Cryptotephra GeoB15403-4 357.5–360 cm bsf (main layer) 15 3.85 5.22 1.66 75.17 0.09 0.03 0.81 0.07 13.09 9.07 95.80\nIntrasample deviation 0.17 0.07 0.10 0.18 0.02 0.02 0.05 0.05 0.09 0.14 1.15 Average of all glass shards 475 3.92 5.19 1.64 75.21 0.09 0.04 0.84 0.07 13.00 9.11 95.59 Intracryptotephra deviation 0.14 0.18 0.11 0.25 0.03 0.02 0.05 0.04 0.19 0.20 1.73\nAlbert et al. (2017) Monte Pilato 2 (upper) Tephra Lipari 15 3.86 5.14 1.47 75.55 0.08 0.02 0.74 0.07 13.07 8.99 97.32 STD in % (intrasample variation) 0.13 0.08 0.09 0.20 0.02 0.01 0.03 0.04 0.16 0.15 1.11 Albert et al. (2017) Monte Pilato 1 (lower) Tephra Lipari 15 4.06 5.05 1.46 75.73 0.07 0.03 0.72 0.06 12.82 9.12 96.48 STD in % (intrasample variation) 0.17 0.10 0.09 0.43 0.02 0.02 0.05 0.04 0.33 0.18 0.60 Albert et al. (2017) Lami Tephra Lipari 55 4.08 5.32 1.53 74.95 0.09 0.04 0.73 0.07 13.19 9.41 96.38 STD in % (intrasample variation) 0.13 0.10 0.09 0.20 0.03 0.02 0.04 0.03 0.10 0.14 1.31 Vesuvius This study Cryptotephra GeoB15403-4 1.25–1.5 cm bsf (main layer) 10 3.58 5.05 9.53 47.77 1.18 4.10 10.27 0.16 17.77 8.63 95.21\nSTD in % (intrasample variation) Intrasample deviation 0.30 0.79 0.55 0.46 0.07 0.35 0.70 0.05 0.46 0.72 2.27 Marianelli et al. (1999) Vesuvius 1944 eruption Vesuvius 3.81 4.86 10.14 47.45 1.17 3.73 9.34 0.17 17.69 8.67 98.73 Standardmeasurements Hunt and Hill (2001) Lipari STD yes 3.97 5.16 1.53 75.12 0.10 0.05 0.75 0.07 12.98 98.98 This study Standard measurements 28 3.96 5.23 1.58 75.19 0.10 0.03 0.76 0.06 13.07 98.14\nSTD in % (intrasample variation) 2.70 1.71 7.37 0.29 24.95 51.21 3.86 70.56 1.47 0.73 1σ error in % (compared to Hunt\nand Hill [2001]) −0.14 1.35 3.27 0.09 −3.84 −30.92 2.13 −10.66 0.70 −0.84\n528 V .M enke et al.\nhttps://doi.org/10.1017/qua.2018.2 D ow nloaded from https://w w w .cam\nbridge.org/core. U niversity of Arizona, on 20 Feb 2019 at 21:28:40, subject to the Cam bridge Core term s of use, available at https://w w w .cam bridge.org/core/term s.\nPilato, Vallone del Gabellotto eruptions) produced tephra glass compositions that correlate with the analyzed glass shards of core GeoB15403-4. Based on the AMS 14C age model and the derived sedimentation rate of 23.5 cm/ka for the studied core section (Fig. 7), the ~8.5 ka Vallone del Gabellotto eruption can be ruled out as the responsible source for the tephra peak at 36 cm depth bsf. In addition, the clearly defined glass shard peak and the homogenous geochemical composition contradicts reworking of a potential Vallone del Gabellotto marine ash layer. This leaves two eruptions from Lipari as candidates for the eruptive products in the sediments: the AD 1220 Lami eruption and the AD 776 Monte Pilato eruption. Although both eruptions have very similar geochemical compositions, several arguments favor the AD 776 Monte Pilato eruption as the volcanic event that is responsible for the cryptic tephra layer in 36 cm bsf of core GeoB15403-4 (Table 2). According to our age model, an age of 1180 yr BP would be assigned to 36 cm bsf, which fits better to the uncorrected 14C age of 1241 ± 31 yr BP for the Monte Pilato eruption than an age of 780 yr BP recalculated for the AD 1220 Lami eruption. Second, the AD 1220 Lami eruption is characterized by slightly lower SiO2 and higher K2O contents than the Monte Pilato eruption, which is in accordance with the majority of the measurements from the main part of the cryptotephra layer in 36 cm bsf (Fig. 5B, black filled symbols). Third, whereas the origin and size of the AD 776 Monte Pilato eruption is well constrained (Albert et al., 2012, 2017; Forni et al., 2013), the Lami “eruption” is much more controversial. It has been questioned whether the Lami deposits are assigned to the older Monte Pilato eruption (Davi et al., 2009) or not (Forni et al., 2013). If the glass shards in our sediments are to be associated with the Lami eruption, coinciding with the AD 1300 Rocche Rosse coulee, sedimentation rates of >45 cm/ka would be required for the upper part of core GeoB15403-4. Similar or even higher sedimentation rates have been reported from adjacent sediment cores of the Gulf of Taranto (e.g., Zonneveld and Siccha, 2016), which leaves some uncertainty in the final assignment of the cryptic tephra at site GeoB15403-4. The fourth argument concerns the size of the Lami and Monte Pilato eruptions. Compared with the up to 150-mthick pumiceous pyroclastics of the Monte Pilato eruption (Forni et al., 2013), the Lami eruption is only represented by a 10-m-thick pyroclastic succession. Additionally “Lami deposits” are composed of variably sorted tuff-breccias with pumices, lithic clasts, diffused obsidian clasts, and breadcrust pumiceous bombs, as well as intercalated, variably stratified, medium sorted lapilli layers and massive tuff layers (Forni et al., 2013). These observations suggest that the AD 776 Monte Pilato eruption had at least a subplinian character (Albert et al., 2012, 2017), whereas the Lami succession is associated with a Vulcanian eruption at most (Davi et al., 2009; Forni et al., 2013; Albert et al., 2017). The necessary size to inject volcanic matter high into the atmosphere, where it can be transported with the prevailing winds over long distances, is thus only given for the AD 776 Monte Pilato\neruption. This interpretation is additionally supported by the occurrence of several centimeter-thick ash layers of the Monte Pilato eruption at distal outcrops on Vulcano, Stromboli, and Panera, which are located between Lipari and the Gulf of Taranto (Lucchi et al., 2008, 2013; Bertagnini et al., 2011). These data suggest that the AD 776 Monte Pilato eruption is the volcanic event that produced the cryptotephra found at 36 cm bsf in sediment core GeoB15403-4 from the Gulf of Taranto.\nImplications for further paleoclimate studies\nPaleoclimate studies of Holocene marine sediments on decadal to centennial time scales require accurate age models, which cannot always be provided solely by radiocarbon dating because of uncertainties of local reservoir effects and biological factors (e.g., habitat differences of planktonic foraminifera). In the eastern Mediterranean Sea, tephrochronology provides an additional tool for a reliable age assessment of sediment cores and allows for an optimal correlation of regional paleoclimatic events (e.g., Vinci, 1985). Several efforts have been made to cross-correlate Holocene tephra layers from the central and eastern Mediterranean basin (Zanchetta et al., 2011 and references therein). The widely distributed tephra layers of Y-5 and Y-6 (De Vivo et al., 2001; Margari et al., 2007; Vogel et al., 2010) provide important marker horizons of the late Pleistocene for the central and eastern Mediterranean basin. Volcanic eruptions of the Holocene are numerous and chronically well resolved in the sedimentary record of sites proximal to the eruption centers. However, the existing tephrostratigraphic schemes are currently still disconnected (Zanchetta et al., 2011), and the potential of cryptotephras is not yet fully utilized. We therefore propose to include tephroanalysis as a common method when conducting paleoclimatic studies on highresolution sediment cores from the central and eastern Mediterranean Sea. Previous studies on pyroxene grain abundance proved useful in recording late Holocene cryptotephras in the Gulf of Taranto (e.g., Castagnoli et al., 1990). However, the identification of volcanic eruptions solely based on tephra particle abundance remains ambiguous. In this context, our new results highlight the importance of geochemical fingerprinting of volcanic glass shards. The detailed chronological framework obtained from this study provides an ideal background for further paleoclimate studies conducted on the sediments of GeoB15403-4. It provides new temporal constraints for this area that have previously not been recognized and may therefore provoke revisiting of some marine sediment records of the past. This is particularly relevant for regions such as the Gulf of Taranto located downwind of several highly active volcanic provinces with numerous eruptions during the past 2000 yr. The Gulf of Taranto serves as a depositional center for Italian riverine suspension load, which is transported southward along the WAC. Thus, Holocene sediments of the Gulf of Taranto provide an excellent archive for the study of regional decadal-scale\nhttps://doi.org/10.1017/qua.2018.2 Downloaded from https://www.cambridge.org/core. University of Arizona, on 20 Feb 2019 at 21:28:40, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.\nhydrologic changes and climate linkages between the Mediterranean and North Atlantic regions, given that the studied sediment cores can be accurately dated (e.g., Taricco et al., 2015; Menke, V., Ehrmann, W., Milker, Y., Brzelinski, S., Möbius, J., Mikolajewicz, U., Zolitschka, B., Zonneveld, K., Emeis, K.C., Schmiedl, G., unpublished manuscript)."
+  }, {
+    "heading": "CONCLUSIONS",
+    "text": "Quantitative analysis of pyroclast contents in sediment samples of gravity core GeoB15403-4 from the Gulf of Taranto identified two cryptotephras. Electron microprobe analysis indicates homogenous element concentrations allowing us to disregard potential uncertainties like sediment reworking or multiple possible eruption sources at the time of deposition. Geochemical fingerprinting of glass shards from the upper 6 cm and the peak at 1.5 cm depth points to Somma-Vesuvius eruptions occurring before 1000 yr BP. Based on the increase of silica under saturated, high-alkali glasses of SommaVesuvius eruptions between AD 79 and AD 1944 and the timeframe given by our 14C-based age model, we argue for the AD 1944 eruption to be the source for this ash layer. The pronounced peak of rhyolitic glass shards at 36 cm suggests a primary cryptotephra. Elemental composition reveals the volcanoes of the island Lipari as source. Based on the geochemical composition, the eruption type, and our 14C age model, we argue for the AD 776 Monte Pilato eruption to have emplaced this cryptotephra. Our study shows that tephroanalysis provides an important tool for the age assessment of marine sediment cores. Specifically, geochemical fingerprinting proves to be a crucial method ensuring the correct source identification of cryptotephras. Our results will improve the stratigraphic framework for sediments from the high-accumulation areas of the Gulf of Taranto, providing the basis for decadal-scale hydrologic and paleoclimatic reconstructions."
+  }, {
+    "heading": "ACKNOWLEDGMENTS",
+    "text": "We thank the chief scientist K.A.F. Zonneveld, the master and crew of R/V Poseidon. We thank Kai Fockenberg and Mario Thöner for preparing and calibrating the microprobe measurements. This study was supported by the Deutsche Forschungsgemeinschaft, grant SCHM1180/18 and the “School of Integrated Climate System Science (SICSS)” of the Cluster of Excellence “Integrated Climate System Analysis and Prediction (CliSAP).”"
+  }, {
+    "heading": "SUPPLEMENTARY MATERIAL",
+    "text": "To view supplementary material for this article, please visit https://doi.org/10.1017/qua.2018.2"
+  }],
+  "year": 2018,
+  "references": [{
+    "title": "2017. Glass geochemistry of pyroclastic deposits from the Aeolian Islands in the last 50 ka: a proximal database for tephrochronology",
+    "authors": ["P.G. Albert", "E.L. Tomlinson", "V.C. Smith", "F. Di Traglia", "M. Pistolesi", "A. Morris", "P. Donato", "R. De Rosa", "R. Sulpizio", "J. Keller"],
+    "venue": "Journal of Volcanology and Geothermal",
+    "year": 2017
+  }, {
+    "title": "Mapping the tephra fallout risk: an example from Vesuvius, Italy",
+    "authors": ["F. Barberi", "G. Macedonio", "M. Pareschi", "R. Santacroce"],
+    "venue": "Nature 344,",
+    "year": 1990
+  }, {
+    "title": "Intraplate lithospheric and sublithospheric components in the Adriatic domain: nephelinite to tholeiite magma generation in the Paleogene Veneto volcanic province, southern Alps",
+    "authors": ["L. Beccaluva", "G. Bianchini", "C. Bonadiman", "M. Coltorti", "L. Milani", "L. Salvini", "F. Siena", "R. Tassinari"],
+    "venue": "Geological Society of America",
+    "year": 2007
+  }, {
+    "title": "Paroxysmal activity at Stromboli: lessons from the past",
+    "authors": ["A. Bertagnini", "A. Di Roberto", "M. Pompilio"],
+    "venue": "Bulletin of Volcanology",
+    "year": 2011
+  }, {
+    "title": "Radiometric and tephroanalysis dating of recent Ionian Sea cores. Il",
+    "authors": ["G. Bonino", "G.C. Castagnoli", "E. Callegari", "Zhu", "G.-M"],
+    "venue": "Nuovo Cimento C",
+    "year": 1993
+  }, {
+    "title": "Distal tephra record for the last ca 105,000 years from core PRAD 1-2 in the central Adriatic Sea: implications for marine tephrostratigraphy",
+    "authors": ["A. Bourne", "J. Lowe", "F. Trincardi", "A. Asioli", "S. Blockley", "S. Wulf", "I. Matthews", "A. Piva", "L. Vigliotti"],
+    "venue": "Quaternary Science Reviews",
+    "year": 2010
+  }, {
+    "title": "The carbonate profile of two recent Ionian Sea cores: evidence that the sedimentation rate is constant over the last millennia",
+    "authors": ["G.C. Castagnoli", "G. Bonino", "F. Caprioglio", "A. Provenzale", "M. Serio", "Z. Guang‐Mei"],
+    "venue": "Geophysical Research Letters",
+    "year": 1990
+  }, {
+    "title": "A three-dimensional Eulerian model for transport and deposition of volcanic ashes",
+    "authors": ["A. Costa", "G. Macedonio", "A. Folch"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2006
+  }, {
+    "title": "Petrogenesis of Italian alkaline lavas deduced from Pb‐Sr‐Nd isotope relationships",
+    "authors": ["M. D’Antonio", "G.R. Tilton", "L. Civetta"],
+    "venue": "Earth Processes: Reading the Isotopic Code. Geophysical Monograph",
+    "year": 1996
+  }, {
+    "title": "A LA-ICP-MS study of minerals in the Rocche Rosse magmatic enclaves: evidence of a mafic input triggering the latest silicic eruption of Lipari Island (Aeolian Arc, Italy)",
+    "authors": ["M. Davì", "R. De Rosa", "D. Barca"],
+    "venue": "Journal of Volcanology and Geothermal Research",
+    "year": 2009
+  }, {
+    "title": "Towards a European tephrochronological framework for Termination 1 and the Early Holocene",
+    "authors": ["S.M. Davies", "N.P. Branch", "J.J. Lowe", "C.S. Turney"],
+    "venue": "Philosophical Transactions of the Royal Society of London A: Mathematical, Physical and Engineering Sciences",
+    "year": 2002
+  }, {
+    "title": "Cryptotephra sedimentation processes within two lacustrine sequences from west central Sweden",
+    "authors": ["S.M. Davies", "M. Elmquist", "J. Bergman", "B. Wohlfarth", "D. Hammarlund"],
+    "venue": "Holocene",
+    "year": 2007
+  }, {
+    "title": "Were there two Borrobol Tephras during the early Lateglacial period: implications for tephrochronology? Quaternary",
+    "authors": ["S.M. Davies", "B. Wohlfarth", "S. Wastegård", "M. Andersson", "S. Blockley", "G. Possnert"],
+    "venue": "Science Reviews",
+    "year": 2004
+  }, {
+    "title": "The ERA‐Interim reanalysis: configuration and performance of the data assimilation system.Quarterly",
+    "authors": ["P. Bauer"],
+    "venue": "Journal of the Royal Meteorological Society",
+    "year": 2011
+  }, {
+    "title": "New constraints on the pyroclastic eruptive history of the Campanian volcanic plain (Italy)",
+    "authors": ["B. De Vivo", "G. Rolandi", "P. Gans", "A. Calvert", "W. Bohrson", "F. Spera", "H. Belkin"],
+    "venue": "Mineralogy and Petrology",
+    "year": 2001
+  }, {
+    "title": "Magmatic history of Somma–Vesuvius on the basis of new geochemical and isotopic data from a deep borehole (Camaldoli della Torre)",
+    "authors": ["V. Di Renzo", "M. Di Vito", "I. Arienzo", "A. Carandente", "L. Civetta", "M. D’antonio", "F. Giordano", "G. Orsi", "S. Tonarini"],
+    "venue": "Journal of Petrology",
+    "year": 2007
+  }, {
+    "title": "Icelandic volcanic ash in Scotland",
+    "authors": ["A. Dugmore"],
+    "venue": "Scottish Geographical Magazine",
+    "year": 1989
+  }, {
+    "title": "Stratigraphy and geological evolution of the Lipari volcanic complex (central Aeolian archipelago)",
+    "authors": ["F. Forni", "F. Lucchi", "A. Peccerillo", "C. Tranne", "P. Rossi", "M. Frezzotti"],
+    "venue": "Geological Society, London,",
+    "year": 2013
+  }, {
+    "title": "Provenance of surface sediments along the southeastern Adriatic coast off Italy: an overview",
+    "authors": ["Goudeau", "M.-L.S", "Grauel", "A.-L", "S.M. Bernasconi", "G.J. de Lange"],
+    "venue": "Estuarine, Coastal and Shelf Science",
+    "year": 2013
+  }, {
+    "title": "The Glacial–Interglacial transition and Holocene environmental changes in sediments from the Gulf of Taranto, central Mediterranean.Marine Geology",
+    "authors": ["Goudeau", "M.-L.S", "Grauel", "A.-L", "C. Tessarolo", "A. Leider", "L. Chen", "S.M. Bernasconi", "G.J. Versteegh", "K.A. Zonneveld", "W. Boer", "C. Alonso-Hernandez"],
+    "year": 2014
+  }, {
+    "title": "The recent crustal stress field in central Europe: trajectories and finite element modeling",
+    "authors": ["G. Grünthal", "D. Stromeyer"],
+    "venue": "Journal of Geophysical Research: Solid Earth",
+    "year": 1992
+  }, {
+    "title": "Tephra from the Minoan eruption of Santorini in sediments of the Black Sea",
+    "authors": ["F. Guichard", "S. Carey", "M. Arthur", "H. Sigurdsson", "M. Arnold"],
+    "venue": "Nature 363,",
+    "year": 1993
+  }, {
+    "title": "Tephrological implications of beam size —sample‐size effects in electron microprobe analysis of glass shards",
+    "authors": ["J.B. Hunt", "P.G. Hill"],
+    "venue": "Journal of Quaternary Science",
+    "year": 2001
+  }, {
+    "title": "Late Quaternary tephrochronological correlation between deep-sea sediments and the land record in the central Mediterranean",
+    "authors": ["J. Keller", "M. Kraml", "A. Scheld"],
+    "venue": "30th International Geological Congress, Beijing,",
+    "year": 1996
+  }, {
+    "title": "Explosive volcanic activity in the Mediterranean over the past 200,000 yr as recorded in deep-sea sediments",
+    "authors": ["J. Keller", "W. Ryan", "D. Ninkovich", "R. Altherr"],
+    "venue": "Geological Society of America Bulletin",
+    "year": 1978
+  }, {
+    "title": "Eruptive history and magmatic evolution of the 1.9 kyr plinian dacitic Chiltepe Tephra from Apoyeque volcano in west-central Nicaragua",
+    "authors": ["S. Kutterolf", "A. Freundt", "C. Burkert"],
+    "venue": "Bulletin of Volcanology",
+    "year": 2011
+  }, {
+    "title": "Pacific offshore record of plinian arc volcanism in Central America: 2. Tephra volumes and erupted masses",
+    "authors": ["S. Kutterolf", "A. Freundt", "W. Peréz"],
+    "venue": "Geochemistry, Geophysics, Geosystems",
+    "year": 2008
+  }, {
+    "title": "Late Pleistocene to Holocene temporal succession and magnitudes of highly-explosive volcanic eruptions in west-central Nicaragua",
+    "authors": ["S. Kutterolf", "A. Freundt", "W. Perez", "H. Wehrmann", "Schmincke", "H.-U"],
+    "venue": "Journal of Volcanology and Geothermal Research",
+    "year": 2007
+  }, {
+    "title": "A 400-ka tephrochronological framework for Central America",
+    "authors": ["S. Kutterolf", "J. Schindlbeck", "F. Anselmetti", "D. Ariztegui", "M. Brenner", "J. Curtis", "D. Schmid", "D. Hodell", "A. Mueller", "L. Pérez"],
+    "year": 2016
+  }, {
+    "title": "Identification and dating of tephra layers from Quaternary sedimentary sequences of Inner Anatolia, Turkey",
+    "authors": ["C. Kuzucuoglu", "Pastre", "J.-F", "S. Black", "T. Ercan", "M. Fontugne", "H. Guillou", "C. Hatté", "M. Karabiyikoglu", "P. Orth", "A. Türkecan"],
+    "venue": "Journal of Volcanology and Geothermal Research",
+    "year": 1998
+  }, {
+    "title": "A Classification of Igneous Rocks and Glossary of Terms: Recommendations of the International Union of Geological Sciences, Subcommission on the Systematics",
+    "authors": ["R.W.B. Le Maitre", "P. Dudek", "A. Keller", "J. Lameyre", "J. Le Bas", "M. Sabine", "P. Schmid", "R. Sorensen", "H. Streckeisen", "A. Woolley"],
+    "year": 1989
+  }, {
+    "title": "Qualified temperature, salinity and dissolved oxygen climatologies in a changing Adriatic Sea",
+    "authors": ["M. Lipizer", "E. Partescano", "A. Rabitti", "A. Giorgetti", "A. Crise"],
+    "venue": "Ocean Science",
+    "year": 2014
+  }, {
+    "title": "Tephrochronology and its application: a review",
+    "authors": ["D.J. Lowe"],
+    "venue": "Quaternary Geochronology",
+    "year": 2011
+  }, {
+    "title": "A summary of terminology used in tephra-related studies",
+    "authors": ["D.J. Lowe", "J.B. Hunt"],
+    "venue": "Les Dossiers de l’Archéo-Logis",
+    "year": 2001
+  }, {
+    "title": "Regional stratigraphic correlations across the Aeolian archipelago (southern Italy)",
+    "authors": ["F. Lucchi", "J. Keller", "C. Tranne"],
+    "venue": "Geological Society, London,",
+    "year": 2013
+  }, {
+    "title": "Stratigraphy and significance of Brown Tuffs on the Aeolian Islands (southern Italy)",
+    "authors": ["F. Lucchi", "C. Tranne", "G. De Astis", "J. Keller", "R. Losito", "W. Morche"],
+    "venue": "Journal of Volcanology and Geothermal Research",
+    "year": 2008
+  }, {
+    "title": "Mediterranean tephra stratigraphy revisited: results from a long terrestrial sequence on Lesvos Island, Greece",
+    "authors": ["V. Margari", "D. Pyle", "C. Bryant", "P. Gibbard"],
+    "venue": "Journal of Volcanology and Geothermal Research",
+    "year": 2007
+  }, {
+    "title": "Shallow and deep reservoirs involved in magma supply of the 1944 eruption of Vesuvius",
+    "authors": ["P. Marianelli", "N. Métrich", "A. Sbrana"],
+    "venue": "Bulletin of Volcanology",
+    "year": 1999
+  }, {
+    "title": "Climatological Flux Estimates in the Mediterranean Sea",
+    "authors": ["P.W. May"],
+    "venue": "Part I. Winds and Wind Stresses. Defense Technical Information",
+    "year": 1982
+  }, {
+    "title": "Implications of S1 tephra findings in Dead Sea and Tayma palaeolake sediments for marine reservoir age estimation and palaeoclimate synchronisation",
+    "authors": ["I. Neugebauer", "S. Wulf", "M.J. Schwab", "J. Serb", "B. Plessen", "O. Appelt", "A. Brauer"],
+    "venue": "Quaternary Science Reviews",
+    "year": 2017
+  }, {
+    "title": "The volcanic explosivity index (VEI) an estimate of explosive magnitude for historical volcanism",
+    "authors": ["C.G. Newhall", "S. Self"],
+    "venue": "Journal of Geophysical Research: Oceans",
+    "year": 1982
+  }, {
+    "title": "Explosive activity of the south Italian volcanoes during the past 80,000 years as determined by marine tephrochronology",
+    "authors": ["M. Paterne", "F. Guichard", "J. Labeyrie"],
+    "venue": "Journal of Volcanology and Geothermal Research",
+    "year": 1988
+  }, {
+    "title": "Tyrrhenian Sea tephrochronology of the oxygen isotope record for the past 60,000 years",
+    "authors": ["M. Paterne", "F. Guichard", "J. Labeyrie", "P. Gillot", "Duplessy", "J.-C"],
+    "venue": "Marine Geology",
+    "year": 1986
+  }, {
+    "title": "Fluctuations of the Campanian explosive volcanic activity (south Italy) during the past 190,000 years, as determined by marine tephrochronology",
+    "authors": ["M. Paterne", "J. Labeyrie", "F. Guichard", "A. Mazaud", "F. Maitre"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 1990
+  }, {
+    "title": "Geochemistry of Eocene calc-alkaline volcanic rocks from the Kastamonu area, northern Turkey",
+    "authors": ["A. Peccerillo", "S.R. Taylor"],
+    "venue": "Contributions to Mineralogy and Petrology",
+    "year": 1976
+  }, {
+    "title": "The magma feeding system of Somma-Vesuvius (Italy) strato-volcano: new inferences from a review of geochemical and Sr, Nd, Pb and O isotope data",
+    "authors": ["M. Piochi", "B. De Vivo", "R. Ayuso"],
+    "venue": "Developments in Volcanology",
+    "year": 2006
+  }, {
+    "title": "The Glacier Peak Tephra: a continental-scale latest Pleistocene time horizon. American Geophysical Union, Fall Meeting, Abstract V31C-4762",
+    "authors": ["S. Pyne-O’Donnell", "L. Cwynar", "J. Vincent", "R. Spear", "D. Froese"],
+    "year": 2014
+  }, {
+    "title": "IntCal13 and Marine13 radiocarbon age calibration curves 0–50,000 years cal BP",
+    "authors": ["P.J. Reimer", "E. Bard", "A. Bayliss", "J.W. Beck", "P.G. Blackwell", "C.B. Ramsey", "Buck", "C.E"],
+    "venue": "Radiocarbon",
+    "year": 2013
+  }, {
+    "title": "Alteration of Volcanic Glasses in Marine Sediments: Laboratory Experiments and Field Studies. PhD dissertation, Christian-Albrechts Universität zu Kiel, Kiel, Germany",
+    "authors": ["U. Schacht"],
+    "year": 2005
+  }, {
+    "title": "Late Cenozoic tephrostratigraphy offshore the southern Central American Volcanic Arc: 1. Tephra ages and provenance",
+    "authors": ["J.C. Schindlbeck", "S. Kutterolf", "A. Freundt", "G. Alvarado", "K.L. Wang", "S. Straub", "S. Hemming", "M. Frische", "J. Woodhead"],
+    "year": 2016
+  }, {
+    "title": "Fire in the sea—growth and destruction of submarine",
+    "authors": ["Schmincke", "H.-U", "M. Sumita"],
+    "venue": "volcanoes. Geology",
+    "year": 2013
+  }, {
+    "title": "Tephrostratigraphy study for the last 18,000 14 C years in a deep-sea sediment sequence for the South Adriatic",
+    "authors": ["G. Siani", "R. Sulpizio", "M. Paterne", "A. Sbrana"],
+    "venue": "Quaternary Science Reviews",
+    "year": 2004
+  }, {
+    "title": "Sequence of eruptive events in the Vesuvio area recorded in shallow-water Ionian Sea sediments",
+    "authors": ["C. Taricco", "S. Alessio", "G. Vivaldo"],
+    "venue": "Nonlinear Processes in Geophysics",
+    "year": 2008
+  }, {
+    "title": "Two millennia of climate variability in the central Mediterranean",
+    "authors": ["C. Taricco", "M. Ghil", "S. Alessio", "G. Vivaldo"],
+    "venue": "Climate of the Past",
+    "year": 2009
+  }, {
+    "title": "A high-resolution δ18O record and Mediterranean climate variability",
+    "authors": ["C. Taricco", "G. Vivaldo", "S. Alessio", "S. Rubinetti", "S. Mancuso"],
+    "venue": "Climate of the Past",
+    "year": 2015
+  }, {
+    "title": "The major and trace element glass compositions of the productive Mediterranean volcanic sources: tools for correlating distal tephra layers in and around Europe",
+    "authors": ["E.L. Tomlinson", "V.C. Smith", "P.G. Albert", "E. Aydar", "L. Civetta", "R. Cioni", "E. Çubukçu", "R. Gertisser", "R. Isaia", "M.A. Menzies"],
+    "venue": "Quaternary Science",
+    "year": 2015
+  }, {
+    "title": "Particle transport in the Bari canyon (southern Adriatic Sea)",
+    "authors": ["M. Turchetto", "A. Boldrin", "L. Langone", "S. Miserocchi", "T. Tesi", "F. Foglini"],
+    "venue": "Marine Geology",
+    "year": 2007
+  }, {
+    "title": "Tephrochronology of Last Termination sequences in Europe: a protocol for improved analytical precision and robust correlation procedures",
+    "authors": ["C.S. Turney", "J.J. Lowe", "S.M. Davies", "V. Hall", "D.J. Lowe", "S. Wastegård", "W.Z. Hoek", "B. Alloway"],
+    "year": 2004
+  }, {
+    "title": "A chart for judging the reliability of point counting results",
+    "authors": ["L. Van der Plas", "A. Tobi"],
+    "venue": "American Journal of Science",
+    "year": 1965
+  }, {
+    "title": "Distribution and chemical composition of tephra layers from eastern Mediterranean abyssal sediments",
+    "authors": ["A. Vinci"],
+    "venue": "Marine Geology",
+    "year": 1985
+  }, {
+    "title": "Accurate dating of Gallipoli Terrace (Ionian Sea) sediments: historical eruptions and climate records",
+    "authors": ["G. Vivaldo", "C. Taricco", "S. Alessio", "M. Ghil"],
+    "venue": "PAGES: Past Global. Changes",
+    "year": 2009
+  }, {
+    "title": "A tephrostratigraphic record for the last glacial–interglacial cycle from Lake Ohrid, Albania and Macedonia",
+    "authors": ["H. Vogel", "G. Zanchetta", "R. Sulpizio", "B. Wagner", "N. Nowaczyk"],
+    "venue": "Journal of Quaternary Science",
+    "year": 2010
+  }, {
+    "title": "Constraining the age of Lateglacial and early Holocene pollen zones and tephra horizons in southern Sweden with Bayesian probabilitymethods",
+    "authors": ["B. Wohlfarth", "M. Blaauw", "S. Davies", "M. Andersson", "S. Wastegård", "A. Hormes", "G. Possnert"],
+    "venue": "Journal of Quaternary Science",
+    "year": 2006
+  }, {
+    "title": "Subduction and slab detachment in the Mediterranean-Carpathian region",
+    "authors": ["M. Wortel", "W. Spakman"],
+    "venue": "Science",
+    "year": 2000
+  }, {
+    "title": "Tephrochronology of the 100 ka lacustrine sediment record of Lago Grande di Monticchio (southern Italy)",
+    "authors": ["S. Wulf", "M. Kraml", "A. Brauer", "J. Keller", "J.F. Negendank"],
+    "venue": "Quaternary International",
+    "year": 2004
+  }, {
+    "title": "Towards a detailed distal tephrostratigraphy in the central Mediterranean: the last 20,000 yrs record of Lago Grande di Monticchio",
+    "authors": ["S. Wulf", "M. Kraml", "J. Keller"],
+    "venue": "Journal of Volcanology and Geothermal Research",
+    "year": 2008
+  }, {
+    "title": "Marine tephra from the Cape Riva eruption (22 ka) of Santorini in the Sea of Marmara",
+    "authors": ["S. Wulf", "M. Kraml", "T. Kuhn", "M. Schwarz", "M. Inthorn", "J. Keller", "I. Kuscu", "P. Halbach"],
+    "venue": "Marine Geology",
+    "year": 2002
+  }, {
+    "title": "Tephrostratigraphy, chronology and climatic events of the Mediterranean basin during the Holocene: an overview.Holocene",
+    "authors": ["G. Zanchetta", "R. Sulpizio", "N. Roberts", "R. Cioni", "W.J. Eastwood", "G. Siani", "B. Caron", "M. Paterne", "R. Santacroce"],
+    "year": 2011
+  }, {
+    "title": "The use of dinoflagellate cysts to separate human-induced from natural variability in the trophic state of the Po River discharge plume over the last two centuries",
+    "authors": ["K.A. Zonneveld", "L. Chen", "R. Elshanawany", "H.W. Fischer", "M. Hoins", "M.I. Ibrahim", "D. Pittauerova", "G.J. Versteegh"],
+    "venue": "Marine Pollution Bulletin",
+    "year": 2012
+  }, {
+    "title": "Dinoflagellate cyst based modern analogue technique at test—a 300 year record from the Gulf of Taranto (eastern Mediterranean)",
+    "authors": ["K.A. Zonneveld", "M. Siccha"],
+    "year": 2016
+  }],
+  "id": "SP:ec11fe686d20a94a9e52a404a2780ebdbac81bbb",
+  "authors": [{
+    "name": "Valerie Menke",
+    "affiliations": []
+  }, {
+    "name": "Steffen Kutterolf",
+    "affiliations": []
+  }, {
+    "name": "Carina Sievers",
+    "affiliations": []
+  }, {
+    "name": "Julie Christin Schindlbeck",
+    "affiliations": []
+  }, {
+    "name": "Gerhard Schmiedl",
+    "affiliations": []
+  }],
+  "abstractText": "We present the first tephroanalysis based on geochemical fingerprinting of volcanic glass shards from eastern Apulian shelf sediments in the Gulf of Taranto (Italy). High sedimentation rates in the gulf are ideal for high-resolution paleoclimate studies, which rely on accurate age models. Cryptotephrostratigraphy is a novel tool for the age assessment of marine sediment cores in the absence of discrete tephra layers. High-resolution quantitative analysis of glass shard abundance in the uppermost 45 cm of a gravity core identified two cryptotephras. Microprobe analysis of glass shards supported by an accelerator mass spectrometry C–based age model identified the pronounced primary cryptotephra at 36 cm bsf (below sea floor) as the felsic AD 776 Monte Pilato Eruption on the island of Lipari, whereas the thinner, mafic tephra layer at 1.5 cm bsf is associated with the AD 1944 eruption of Somma-Vesuvius. Identifying these tephra layers provides an additional, C-independent, stratigraphic framework for further paleoclimatic studies allowing us to link Mediterranean climate and hydrology to orbital variation and large-scale atmospheric processes. Our results underline the importance of qualitative tephrostratigraphy in a highly geodynamic region, where solely quantitative approaches have demonstrated to bear a high potential for false correlations between tephra layers and eruptions.",
+  "title": "Cryptotephra from Lipari Volcano in the eastern Gulf of Taranto (Italy) as a time marker for paleoclimatic studies"
+}

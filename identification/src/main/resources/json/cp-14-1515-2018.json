@@ -1,0 +1,441 @@
+{
+  "sections": [{
+    "text": "from methane hydrate or terrestrial organic carbon reservoirs, whereas we find no support for a tipping point in deep ocean temperature."
+  }, {
+    "heading": "1 Background",
+    "text": "The Palaeocene–Eocene Thermal Maximum (PETM) at ∼ 56 Ma is considered a potential example of passing a tipping point in the carbon–climate system at which a smooth change in forcing triggered a large response (Lenton, 2013). Palaeorecords across the PETM indicate that an abrupt release of isotopically light carbon (between 2000 and 13 000 Pg C, best estimate ∼ 3000 Pg C) into the ocean–atmosphere system occurred in under∼ 5 kyr, accompanied by global warming of ∼ 5 ◦C, a 2.5 ‰ to 3.0 ‰ benthic δ13C excursion, and significant ocean acidification (Dickens, 2011; Dickens et al., 1995; Dunkley Jones et al., 2013; Frieling et al., 2017; Kirtland Turner et al., 2017; Littler et al., 2014; McInerney and Wing, 2011; Sluijs et al., 2007b; Zachos et al., 2005, 2008, Zeebe et al., 2009, 2016). It has been hypothesised that gradual warming during the late Palaeocene (Fig. 1) eventually crossed a tipping point, either through an internal process or an external perturbation such as volcanism (Svensen et al., 2004), which triggered the extensive dissociation of a carbon cycle “capacitor” such as methane hydrates in ocean sediments (Dickens, 2011; Dickens et al., 1995; Minshull et al., 2016), permafrost soil carbon (DeConto et al., 2012), or organic carbon from a source such as peat (Cui et al.,\nPublished by Copernicus Publications on behalf of the European Geosciences Union.\n2011; Kurtz et al., 2003) that benthic δ13C records and modelling indicate accumulated earlier in the Palaeocene (Dickens, 2011; Komar et al., 2013; Kurtz et al., 2003). This in turn led to a rapid increase in atmospheric CO2 (pCO2) and the subsequent amplification of global warming and carbon release in a positive feedback loop that shifted the Earth system to a warmer state for ∼ 100 kyr. An alternative hypothesis is that a very large external perturbation of volcanic carbon caused the PETM (Gutjahr et al., 2017) with a smaller role for amplifying feedbacks within the carbon cycle and therefore no significant role for a tipping point.\nThe PETM was followed by the early Eocene climatic optimum (EECO; Fig. 1) containing subsequent hyperthermal events such as Eocene Thermal Maximum 2 (ETM2) at ∼ 54 Ma and ETM3 at∼ 53 Ma, which are potentially paced by orbital eccentricity forcing interacting with long-term warming and discharging methane hydrate deposits to produce threshold responses past repeated tipping points (Archer et al., 2009; Kirtland Turner et al., 2014; Komar et al., 2013; Littler et al., 2014; Lourens et al., 2005; Lunt et al., 2011; Stap et al., 2010; Westerhold et al., 2007; Westerhold and Rohl, 2009). However, the PETM occurred in a different orbital setting to the later events, suggesting that the PETM required an additional external “push”, while the latter hyperthermals were eccentricity-paced tipping points (Littler et al., 2014). This push could have come from the emissions of the contemporaneous North Atlantic Volcanic Province (NAVP) eruptions both before and during the PETM (Frieling et al., 2016; Gutjahr et al., 2017; Storey et al., 2007; Svensen et al., 2004). Methane release from hydrate dissociation may also have been significantly limited or delayed by sediment transport processes, potentially limiting its role as a positive feedback (Minshull et al., 2016).\nMany complex systems have been found to include tipping points, thresholds beyond which even small changes in condition can trigger the system to abruptly transition into a new equilibrium state (Dakos et al., 2015; Held and Kleinen, 2004; Lenton, 2013; Lenton et al., 2008; van Nes et al., 2016; Scheffer et al., 2001, 2009). Theory suggests that, prior to reaching such a tipping point, a system will exhibit “critical slowing down” of its dynamics – meaning a slowing recovery rate in response to perturbations – which can be detected as increasing trends in autocorrelation and variability in time series data (Carpenter and Brock, 2006; Dakos et al., 2008, 2012a; Kéfi et al., 2013; Lenton, 2011; Lenton et al., 2012a; Scheffer et al., 2009). Changes in skewness and kurtosis may also occur (although skewness can increase or decrease depending on the nature of the alternative stable state and potential wells), and if internal variability is high, a system can “flicker” between different states before undergoing a more permanent shift between them (Dakos et al., 2012a, 2013; Scheffer et al., 2009; Wang et al., 2012). Previous work has suggested that these indicators, which can be used as “early warning signals” (EWSs) or more generally as metrics of resilience (the capacity of a system to recover from distur-\nbance and return to its reference state; Grimm and Wissel, 1997; Holling, 1973; Scheffer et al., 2001), may be detectable prior to some abrupt climate transitions in the palaeorecord (Dakos et al., 2008; Lenton, 2011), including the Eocene– Oligocene transition and during several Pleistocene climate shifts (Dakos et al., 2008; Lenton, 2011; Lenton et al., 2012a, b). However, autocorrelation and variance can also increase prior to non-catastrophic transitions, with or without bifurcations in phase space (Kéfi et al., 2013), or under some specific circumstances even decrease (Boettiger and Hastings, 2012b; Dakos et al., 2012b; Livina et al., 2012). Hence, here increasing autocorrelation and variance is viewed more broadly as indicating declining resilience of a system (i.e. weakening negative feedbacks and greater sensitivity to small shocks), whether or not a critical transition is imminent. Other potential issues with detecting changing system resilience in palaeorecords include infrequent sampling rate, dating uncertainties, the possibility of producing false positives or negatives, and the extent to which these methods are dependent on subjective parameter choices (Boettiger et al., 2013; Boettiger and Hastings, 2012a; Lenton, 2011) (see Methods for further discussion).\nHere we test the hypothesis that the PETM and ETM2 are examples of tipping points being reached in the carbon– climate system following long-term destabilisation (e.g. of a sensitive carbon cycle capacitor rich in isotopically light carbon) by looking for declining resilience preceding them using published methodologies (Dakos et al., 2008, 2012a, Lenton et al., 2012a, b). Whilst a signal of declining resilience cannot prove the existence of a tipping point, its absence would tend to falsify the tipping point hypothesis. Palaeorecords suffer from greater dating uncertainties and a less frequent sampling rate than is possible with modern climate data, making robust time series analysis more challenging. Hence, sufficiently long and high-resolution palaeorecords available across the late Palaeocene and early Eocene were required in order to enable significant results to be obtained. To this end we use the ∼ 7.7 Myr benthic δ18O and δ13C palaeorecords from ODP Site 1262 in the South Atlantic (Littler et al., 2014) and subdivide the datasets into prePETM and post-PETM bins, as well as subdividing the postPETM bin into pre-ETM2 and post-ETM2 bins, for separate analyses. These isotope records track the long-term global state of high-latitude climate and the carbon cycle, respectively (Zachos et al., 2001, 2008), and are therefore appropriate data choices for detecting the resilience of the global carbon–climate system, which in turn determines the longterm resilience of the whole Earth system as its key slowtimescale components.\nA major limitation of the available palaeorecords is that their resolution is of the order of ∼ 3 kyr, which only allows us to monitor changes in the dynamics of the slowest parts of the carbon cycle and climate system (i.e. > 10 kyr). For the carbon cycle these could include the silicate weathering feedback, which is hypothesised to act as the main long-\nClim. Past, 14, 1515–1527, 2018 www.clim-past.net/14/1515/2018/\nterm negative feedback on atmospheric CO2 and therefore climate change (Berner, 1991; Berner et al., 1983; Kump and Arthur, 1997; Urey, 1952; Walker et al., 1981; Walker and Kasting, 1992), the strength of the biological pump and carbon burial rates in the ocean (Boscolo-Galazzo et al., 2018; Chamberlin, 1898; Derry and France-Lanord, 1996; FranceLanord and Derry, 1997; Hay, 1985; John et al., 2014), and\nmedium-term fluctuations in the storage capacity of carbon reservoirs such as the deep ocean, methane hydrates, permafrost, or soil carbon (Batjes, 1996; Buffett and Archer, 2004; Cui et al., 2011; DeConto et al., 2012; Dickens et al., 1995; Klinger et al., 1996; Tarnocai et al., 2009). For the climate system, slow processes could include substantial reorganisations of ocean circulation (Hofmann and Rahmstorf,\nwww.clim-past.net/14/1515/2018/ Clim. Past, 14, 1515–1527, 2018\n2009; Rahmstorf, 2002; Stocker and Wright, 1991; Stommel, 1961) and the growth or collapse of large ice sheets (although no substantial ice sheets existed at this time) (DeConto et al., 2008; DeConto and Pollard, 2003; Pagani et al., 2011; Pollard and DeConto, 2009). Any shorter-term drivers of instability closer to the event, for example changes in ocean and atmospheric dynamics or precursor warming on millennial timescales (Secord et al., 2010; Sluijs et al., 2007a), will be missed and could thus constitute “missed alarms”. As a result, in this study we focus only on the long-term processes in the global carbon–climate system prior to and across the PETM and ETM2.\nWe use multiple indicators, including autoregressive coefficient at lag 1 (AR(1)) and detrended fluctuation analysis h value (DFA-h) (Lenton et al., 2012b; Livina and Lenton, 2007) to reveal slowing down, and standard deviation (SD) and non-parametric drift–diffusion–jump (DDJ) model function metrics (Dakos et al., 2012a) to reveal increasing variability. An overall increasing trend in AR(1) or DFA-hwould show the slow parts of the climate or carbon systems were recovering more slowly from regular perturbations, while\nincreasing SD or variance as measured by the DDJ model would show each system was being perturbed further from their current state. Together they indicate a system being destabilised and becoming less resilient to being knocked into a new state. Skewness and kurtosis are also measured to provide further context (see the Supplement) as both may change in the presence of more extreme values. Sensitivity analyses are conducted in order to ensure detected signals are robust across different methodologies and parameter choices (see Methods and the Supplement)."
+  }, {
+    "heading": "2 Methods",
+    "text": ""
+  }, {
+    "heading": "2.1 Rolling window metrics",
+    "text": "For the rolling window metrics we follow the methodology first outlined in a climate context by Held and Kleinen (2004) and subsequently used by other studies, including Dakos et al. (2008, 2012a), Lenton et al. (2012a, b), Livina and Lenton (2007), and the Early Warning Signals Toolbox developed based on this work (documented at\nClim. Past, 14, 1515–1527, 2018 www.clim-past.net/14/1515/2018/\nhttp://www.early-warning-signals.org (last access: 15 October 2018) and available in as the earlywarnings package in R; R Foundation for Statistical Computing, 2016). After selecting the dataset and for the pre-PETM analysis terminating it just prior to the hypothesised transition to avoid biasing the analysis, the data are first interpolated (using linear interpolation by default with the interp1 function in MATLAB; The MathWorks Inc., 2016) to provide the equidistant data points required for rigorous statistical analysis and assumed by the AR(1) model. However, interpolation itself can introduce statistical artefacts into the analysis as, by definition, the addition of interpolated data points increases self-similarity and thus autocorrelation in the dataset. In palaeorecords this tends to result in an artificial increase in autocorrelation in parts of the dataset with either sparser data points or complete gaps in the data, but in this record there is no marked systematic shift in data time steps (Fig. S5). As a result we also analyse non-interpolated data in order to assess the sensitivity of our results to interpolation. Following this, the data are then detrended by subtracting the smoothed dataset, estimated with a Gaussian kernel smoothing function (using the\nksmooth function in R), in order to remove any long-term trends as these are not the focus of the analysis. This makes the dataset stationary – a necessary prerequisite for time series analysis – but this also somewhat reduces the value of lag 1 autocorrelation in the results. Bandwidth is an important consideration in this process and is adjusted heuristically for the datasets in order to best remove long-term trends but leaving short-term fluctuations, in this case giving a Gaussian kernel bandwidth of 0.1. This removes long-term secular trends and orbital cyclicity (> 100 kyr) (Figs. 2, 3a and b), leaving only the short-term noise that reveals the resilience of the underlying longer-term (> 10 kyr) processes.\nAn autoregressive model of order 1 (AR(1)) is fitted to the data within a rolling window (using the generic_ews function of the earlywarnings package in R). The AR(1) model is of the form xt+1 = α1xt+εt , fitted by an ordinary least-squares method with a Gaussian random error and a constant time step. Following previous studies the default window size is set at half the length of the dataset, but as part of our sensitivity testing we also repeat our analyses for window sizes between 25 % and 75 % (Figs. S1–S4). The choice of window\nwww.clim-past.net/14/1515/2018/ Clim. Past, 14, 1515–1527, 2018\nlength is a trade-off between dataset resolution and the reliability of the estimate of the indicator, with a short window allowing shorter-term changes in indicators to be tracked at the cost of lower estimate reliability and vice versa. On the same rolling window the absolute skewness, kurtosis, and standard deviation of the dataset are also calculated (also using the generic_ews function of the earlywarnings toolbox in R). Detrended fluctuation analysis h value (DFA-h) was also used as an alternative measure to AR(1) for short-term memory and critical slowing down in the dataset bins (performed using the DFA function of the fractal package in R). DFA extracts the fluctuation function over a window s, and if the data are long-term power-law correlated, the fluctuation function F (s) increases as a power law: F (s)∝ sh, where h is the DFA fluctuation exponent (Peng et al., 1994) and reaches value 1.5 at a critical transition (Lenton et al., 2012b; Livina and Lenton, 2007).\nFinally, the likelihood of there being a real trend in the results is calculated by estimating the non-parametric Kendall rank-correlation statistic (τ ), which measures the strength of an indicator’s tendency to increase ( 0) or decrease ( 0) against the null hypothesis of randomness (∼ 0) (also using the generic_ews function of the earlywarnings toolbox in R). However, this statistic is most robust when the trend is consistent over a long period, while increasing but oscillating trends or trends only at the very end of the record can produce weak or even negative values despite a clearly visible trend (Dakos et al., 2012a). We calculate a p value for each metric by bootstrapping our detrended datasets to generate 1000 surrogate records (or ARIMA model-generated for AR(1) and DFA-h) with equivalent mean and variance, re-calculating the metric and Kendall τ value for each, and finding the proportion of Kendall τ values equal to or greater than that of the original palaeorecord (Dakos et al., 2008)."
+  }, {
+    "heading": "2.2 Binned metrics",
+    "text": "As well as performing rolling window time series analysis, we also measure AR(1), SD, skewness, and kurtosis on data (detrended but not interpolated) binned into preand post-event bins and excluding the events themselves to provide simple before–after comparisons of changes across the events. To this end the datasets (n= 2302) were binned into pre-PETM (n= 1331), post-PETM (n= 921), PETM to ETM2 (n= 593), and post-ETM2 (n= 240) bins, excluding data points from during each event so as to avoid biasing by extreme or missing data. A p value is calculated for each metric using a permutation test (i.e. by reshuffling and repartitioning the before–after event data into the same-sized bins 1000 times and comparing the metrics’ resultant before– after differences with the observed metric before–after difference), except for AR(1) and DFA-h for which we instead use AR(1) model-derived surrogate data to compare against (i.e. by generating 1000 surrogate datasets with the same AR(1) value, mean, and variance as the before-event bin over the\nlength of the after-event bin and comparing this distribution to the observed after-event AR(1) value)."
+  }, {
+    "heading": "2.3 Non-parametric drift–diffusion–jump model",
+    "text": "A model-based alternative to the time series analysis methods (whether rolling window or bin based) above is to fit a general non-parametric drift–diffusion–jump model to the dataset with as a surrogate for an unknown data-generating process (Carpenter and Brock, 2011; Cox and Ross, 1976; Dakos et al., 2012a; Johannes, 2004). In this model functions are estimated for drift, diffusion, and jump processes using non-parametric regression; drift measures the local rate of change, diffusion measures the standard deviation of the relatively small shocks that occur at each time step, and jumps are large intermittent shocks. The conditional variance of the data is also estimated from the non-parametric regression and represents the variance of the data from their conditional expectation estimated using kernel regression. We use the ddjnonparam_ews function in the earlywarnings package on R, with the default options of a bandwidth of 0.6 and 500 points for computing the kernel. We use raw data for this analysis, with no detrending or interpolation and without log transforming the data first. In interpreting the results we focus on the general long-term trends in the estimated terms as many of the shorter-term fluctuations potentially represent model overfitting."
+  }, {
+    "heading": "2.4 Limitations",
+    "text": "Despite positive results in some palaeoclimate EWS studies (Lenton, 2011), there are several potential issues with searching for resilience indicators in palaeorecords. Palaeorecords suffer from greater dating uncertainties and a less frequent sampling rate than is possible with modern climate data, making robust time series analysis more challenging. Most indicators also do not reveal exact information about the nature of the transition itself, with increasing slowing down and variability detected prior to both catastrophic and noncatastrophic transitions featuring a bifurcation in phase space and even before non-catastrophic transitions without a bifurcation (Kéfi et al., 2013). Concerns have also been raised over the likelihood of producing false positives (when EWSs appear to indicate an impending transition which never occurs) or false negatives (i.e. a “missed alarm” when EWSs may be entirely absent prior to a known critical transition) and the extent to which these methods are dependent on subjective parameter choices (Boettiger et al., 2013; Lenton, 2011). There is a risk that selecting and analysing known or suspected critical transitions in the palaeoclimate record is particularly liable to false positives, as positive indicators at the transitions could potentially have occurred purely by chance rather than due to systemic instability (Boettiger and Hastings, 2012a). However, it has been argued that EWSs can be reliably detected if both increasing autocorrelation\nClim. Past, 14, 1515–1527, 2018 www.clim-past.net/14/1515/2018/\nand variance are seen prior to the transition rather than one of these indicators alone (Ditlevsen and Johnsen, 2010). Detecting multiple, consistent, and robust signals from the indicators can be indicative of decreasing system resilience even if a catastrophic transition is not reached or is instead triggered by an external perturbation rather than internal processes (Dakos et al., 2015)."
+  }, {
+    "heading": "3 Results and discussion",
+    "text": ""
+  }, {
+    "heading": "3.1 Rolling window metrics",
+    "text": "Rolling window metrics prior to the PETM reveal a sudden increase in AR(1) and SD after∼ 58.2 Ma in the interpolated benthic δ18O record associated with a step in the data (and the benthic δ13C record peaking), which despite a temporary drop in DFA-h suggests some degree of destabilisation of the slow climate system prior to the PETM (Figs. 2 and S1). However, the subsequent decline of standard deviation after ∼ 57 Ma (likely to partially be the result of earlier extreme data points from ∼ 58.5–59.5 Ma leaving the rolling window) does not support a tipping point involving deep ocean temperature at the PETM, which is also indicated by the nonsignificant bootstrapped p values for the metrics of both interpolated and non-interpolated data. The non-interpolated DFA-h metric does show a significant increase (p = 0.015), which would suggest systemic slowing down, but this does not match the non-interpolated AR(1) metric. Alternatively, these results could represent a “missed alarm” as the shorterterm climate dynamics that might be critical to the dynamics of the tipping point are not sufficiently resolved by the available data.\nThe benthic δ13C record shows clearer evidence of declining resilience in the slow components of the carbon cycle, with long-term increases in AR(1), DFA-h, and SD in the run-up to the PETM with steps at ∼ 58.2 and ∼ 57.3 Ma which are consistent across the sensitivity analyses (absolute skewness also increases, while kurtosis declines up to the PETM; Fig. S1). Bootstrapped p values indicate that the δ13C SD trend is significant (p = 0.002) for the interpolated data, while the δ13C AR(1) and DFA-h trends are significant (p = 0.024 and p = 0.021, respectively) for the noninterpolated data. This supports a long-term slowing down in benthic δ13C in the late Palaeocene, which may reflect a gradually forced destabilisation of the global carbon cycle prior to the PETM.\nRolling window analysis across the whole of the late Palaeocene–early Eocene (LPEE) interval suggest but cannot prove systemic changes in carbon cycle and climate (in)stability across both the PETM and ETM2 (Figs. 3 and S2). Between the PETM and ETM2 δ18O AR(1) and DFA-h increase up until ∼ 200 kyr before ETM2 and SD experiences a small temporary increase followed by a larger decrease. In contrast, all metrics for δ13C experience a rapid jump during the PETM and then remain relatively stable until ETM2. Following ETM2, δ18O AR(1) and DFA-h increase significantly while SD increases slightly, whereas for δ13C all metrics (as well as absolute skewness and kurtosis; Fig. S2) consistently increase. However, the bootstrapped p values indicate that none of these trends are significant for the interpolated data, but that for the non-interpolated data the increases in AR(1) and DFA-h for both δ18O and δ13C are highly significant (p = 0 to 0.001). This indicates that there is some evidence for slowing down – but not for increased\nwww.clim-past.net/14/1515/2018/ Clim. Past, 14, 1515–1527, 2018\nvariability – in both the δ18O and δ13C data and therefore the long-term climate system and carbon cycle across the LPEE interval into the Eocene, but this is dependent on not interpolating the data prior to the analysis. It should also be recognised that the abrupt shifts in δ13C at the PETM and ETM2 are not fully removed by detrending prior to the analysis; hence, they are at least partly responsible for the upward steps in the indicators at the events."
+  }, {
+    "heading": "3.2 Binned metrics",
+    "text": "To address the issue of large excursions failing to be removed by detrending for the rolling window metrics, as well as the issue of data gaps caused by dissolution at the peak of each event (Littler et al., 2014), we calculate aggregate metrics (i.e. no rolling windows) on the binned data (excluding data from within the events) (Table 1). The binned metrics show significant increases in AR(1) across both the PETM and ETM2 for δ18O and δ13C, with DFA-h also significantly increasing across the PETM and ETM2 for δ18O and across ETM2 for δ13C. SD significantly falls in the interval between the PETM and ETM2 and then significantly increases across ETM2 for both datasets, but the significant increase for δ13C for the all data after the PETM is likely to be biased by the inclusion of extreme data points within ETM2. These results are consistent with the rolling window metrics, except for δ13C SD, which in the rolling window metrics is higher between PETM and ETM2 than before the PETM and is likely to be the result of excluding the extreme data values during the PETM itself in the binned analysis (with SD beginning to drop just before the ETM2 in the rolling window analysis once the PETM leaves the window). These results indicate both the long-term climate system and carbon cycle slowed down to some extent after both the PETM and ETM2 (but became less variable following the PETM itself until ETM2), providing support for the slow parts of global carbon–climate system being progressively destabilised through the LPEE interval and into the Eocene by both of the hyperthermal events but not for any tipping points."
+  }, {
+    "heading": "3.3 Non-parametric drift–diffusion–jump model",
+    "text": "Fitting a non-parametric drift–diffusion–jump model to the datasets provides independent model-based metrics to compare to the rolling window metrics, with terms for the conditional variance measuring variance from dataset’s conditional mean (estimated by kernel regression), diffusion measuring the standard deviation of regular small shocks at every time step, and jump intensity measuring either irregular large shocks or flickering (Carpenter and Brock, 2011; Dakos et al., 2012a) (Fig. 4). For benthic δ18O this model reveals an overall increase in conditional variance and diffusion and a reduction in jump intensity ∼ 2 Myr before the PETM, followed by a slight decrease in conditional variance after the PETM and intermittent spikes in jump intensity and condi-\ntional variance during and following ETM2. This suggests the climate shifted to a state with higher variability featuring regular small shocks∼ 2 Myr prior to the PETM and became slightly less variable following the PETM, but featured larger irregular shocks during and after ETM2. While this suggests some degree of climate instability in the ∼ 2 Myr before the PETM and following ETM2, there is no evidence of a critical transition in the climate system at the PETM or ETM2 themselves. In contrast, the benthic δ13C model reveals decreasing diffusion and increasing conditional variance and jump intensity in the 1.5 Myr run-up to the PETM, indicating increasing total variability driven by large irregular shocks and consistent with a critical transition being approached in the carbon cycle at the PETM (Dakos et al., 2012a). Conditional variance and jump intensity remain high and diffusion remains low for ∼ 1 Myr after the PETM, before reversing ∼ 300 kyr before ETM2 except for brief spikes in both diffusion and jump intensity during and after ETM2. This indicates that variability in the carbon cycle remained high and driven by large shocks for ∼ 1 Myr after the PETM, but that variability mostly shifted towards smaller regular shocks prior to and after ETM2. This difference in the sources of variance prior to each event (the PETM is preceded by elevated jump intensity and overall conditional variance, whereas ETM2 is preceded by increased diffusion and decreased jump intensity) suggests potentially differing carbon cycle dynamics and drivers prior to each event. The shift in variability before ETM2 also slightly precedes the biotic turnover detected in both marine and terrestrial records in the ∼ 200 kyr prior to ETM2, despite there being no obvious shift in the palaeorecords that may have driven this turnover (Westerhold et al., 2018). Overall the δ13C DDJ results are consistent with elevated carbon cycle instability following the PETM, but suggest that ETM2 was not preceded by the same dynamics as the PETM."
+  }, {
+    "heading": "4 Conclusions",
+    "text": "In summary, both rolling window metrics before and across the PETM, binned metrics, and non-parametric drift– diffusion–jump models indicate that there was a decline in variability – suggesting a loss of resilience – in the slow components of the carbon cycle before the PETM. Following both the PETM and ETM2 there is also evidence of slowing down in both the long-term carbon cycle and climate system, indicating that both events led to a long-standing destabilisation of the carbon–climate system. In contrast, while there is some evidence for destabilisation in the δ18O data prior to and after the PETM, there is no clear evidence of a critical transition in the climate system at this time. Minimal lag between δ18O and δ13C in the late Palaeocene indicates close coupling between climate and the carbon cycle prior to the PETM (Littler et al., 2014), so the observed instability in the climate system is likely to have been induced\nClim. Past, 14, 1515–1527, 2018 www.clim-past.net/14/1515/2018/\nby the contemporaneous destabilisation of the carbon cycle. Furthermore, ETM2 appears to be preceded by different carbon cycle dynamics to the PETM, which fits with the suggestion that the PETM required an extra “push” unlike the later eccentricity-paced hyperthermals, which might represent more classical tipping points (Littler et al., 2014). These results are consistent with the hypothesis of a gradual destabilisation of the long-term carbon cycle in the ∼ 1.5 Myr preceding the PETM (starting at ∼ 57.5 Ma, intensifying after ∼ 56.5 Ma) associated with increasing pCO2 concentrations and the warming seen in the benthic δ18O record from ∼ 58.2 Ma. This coincides with the North Atlantic Volcanic Province (NAVP) eruptions between 61 and 57 Ma and their associated volcanic and thermogenic CO2 and methane emissions, with subsequent large-scale eruptions from∼ 56.1 Ma (possibly preceded by some degree of cryptic degassing coinciding with the intensified carbon cycle destabilisation from ∼ 56.5 Ma; e.g. Armstrong McKay et al., 2014) potentially triggering or prolonging the PETM (Frieling et al., 2016; Storey et al., 2007; Svensen et al., 2004). This time also coincides with a dramatic long-term decrease in organic carbon storage following a large build-up as indicated by the down-\nturn in benthic δ13C from ∼ 58 Ma (Fig. 1), either as a result of large-scale methane hydrate or peat dissociation and oxidation in response to warming (Dickens, 2011; Komar et al., 2013; Kurtz et al., 2003) or a reduction in marine biological pump strength as higher temperatures lead to increased respiration rates of particulate organic carbon (Boscolo-Galazzo et al., 2018; John et al., 2014). This weakening of the organic carbon burial feedback in response to volcanism-driven warming could be the primary driver of the observed geological carbon cycle destabilisation in the ∼ 1.5 Myr prior to the PETM and may have in turn prolonged the duration of the PETM itself. Reconstructed silicate weathering feedback strength fell by ∼ 40 % in the ∼ 3 Myr after the PETM due to reduced continental weatherability (Caves et al., 2016; van der Ploeg et al., 2018), potentially allowing the carbon– climate system to remain destabilised and susceptible to further shocks long after the PETM and ETM2 as observed. The hypothesis of a carbon cycle tipping point at the PETM survives our tests (although they cannot directly confirm it or rule out an external trigger). In contrast, the hypothesis of a tipping point in deep ocean temperature (as recorded by the δ18O record considered) is not supported. A large external\nwww.clim-past.net/14/1515/2018/ Clim. Past, 14, 1515–1527, 2018\nperturbation, e.g. a massive, abrupt injection of volcanic carbon from the NAVP during the PETM (Gutjahr et al., 2017; Storey et al., 2007) or the suggestion of a meteorite strike (Schaller et al., 2016), could have played a role in triggering the PETM, but we find clear evidence that the carbon cycle had already been getting progressively more unstable and thus more vulnerable to being pushed beyond a tipping point and remained so in its aftermath.\nData availability. The data used for the plots and analysis of the global Palaeocene and Eocene benthic isotope stack (Zachos et al., 2001, 2008) and the ODP Site 1262 benthic isotopes (Littler et al., 2014, with ages adjusted as per Westerhold et al., 2015) are available via their published sources.\nSupplement. The supplement related to this article is available online at: https://doi.org/10.5194/cp-14-1515-2018-supplement.\nAuthor contributions. DIAM and TML designed the study; DIAM performed the analyses; DIAM and TML wrote the paper.\nCompeting interests. The authors declare that they have no conflict of interest.\nAcknowledgements. This work was supported by an EPSRC/ReCoVER Early Career Research Project Award (number: RFFECR 002) and an NERC Studentship to DIAM (number: NE/J500112/1) hosted at Ocean and Earth Science at the University of Southampton, with revised analyses performed at Stockholm Resilience Centre. TML was supported by a Royal Society Wolfson Research Merit Award and the NERC “JET” large grant (NE/N018508/1). We are grateful to Kate Littler for the data used in this study and for discussing our results and to Toby Tyrrell, Paul A. Wilson, and James G. Dyke for feedback on preliminary results, drafts, and interpretations.\nThe article processing charges for this open-access publication were covered by Stockholm University.\nEdited by: Yannick Donnadieu Reviewed by: Valerie N. Livina and Pierre Maffre"
+  }],
+  "year": 2019,
+  "references": [{
+    "title": "Ocean methane hydrates as a slow tipping point in the global carbon cycle, P",
+    "authors": ["D. Archer", "B. Buffett", "V. Brovkin"],
+    "venue": "Natl. Acad. Sci. USA,",
+    "year": 2009
+  }, {
+    "title": "Estimating the impact of the cryptic degassing of Large Igneous Provinces: A mid-Miocene case-study",
+    "authors": ["D.I. Armstrong McKay", "T. Tyrrell", "P.A. Wilson", "G.L. Foster"],
+    "venue": "Earth Planet. Sc. Lett.,",
+    "year": 2014
+  }, {
+    "title": "Total carbon and nitrogen in the soils of the world, Eur",
+    "authors": ["N.H. Batjes"],
+    "venue": "J. Soil Sci.,",
+    "year": 1996
+  }, {
+    "title": "A model for atmospheric CO2 over Phanerozoic time, Am",
+    "authors": ["R.A. Berner"],
+    "venue": "J. Sci.,",
+    "year": 1991
+  }, {
+    "title": "The carbonatesilicate geochemical cycle and its effect on atmospheric carbon dioxide over the past 100 million years",
+    "authors": ["R.A. Berner", "A.C. Lasaga", "R.M. Garrels"],
+    "venue": "Am. J. Sci.,",
+    "year": 1983
+  }, {
+    "title": "Early warning signals and the prosecutor’s fallacy",
+    "authors": ["C. Boettiger", "A. Hastings"],
+    "venue": "Proc. Biol. Sci.,",
+    "year": 2012
+  }, {
+    "title": "Quantifying limits to detection of early warning for critical transitions",
+    "authors": ["C. Boettiger", "A. Hastings"],
+    "venue": "J. R. Soc. Interface,",
+    "year": 2012
+  }, {
+    "title": "Early warning signals: The charted and uncharted territories",
+    "authors": ["C. Boettiger", "N. Ross", "A. Hastings"],
+    "venue": "Theor. Ecol.,",
+    "year": 2013
+  }, {
+    "title": "Temperature dependency of metabolic rates in the upper ocean: A positive feedback to global climate change",
+    "authors": ["F. Boscolo-Galazzo", "K.A. Crichton", "S. Barker", "P.N. Pearson"],
+    "venue": "Glob. Planet. Change,",
+    "year": 2018
+  }, {
+    "title": "Global inventory of methane clathrate: sensitivity to changes in the deep ocean",
+    "authors": ["B. Buffett", "D. Archer"],
+    "venue": "Earth Planet. Sc. Lett.,",
+    "year": 2004
+  }, {
+    "title": "Rising variance: a leading indicator of ecological transition",
+    "authors": ["S.R. Carpenter", "W.A. Brock"],
+    "venue": "Ecol. Lett.,",
+    "year": 2005
+  }, {
+    "title": "Early warnings of unknown nonlinear shifts: A nonparametric approach, Ecology",
+    "authors": ["S.R. Carpenter", "W.A. Brock"],
+    "year": 2011
+  }, {
+    "title": "Cenozoic carbon cycle imbalances and a variable weathering feedback, Earth Planet",
+    "authors": ["J.K. Caves", "A.B. Jost", "K.V. Lau", "K. Maher"],
+    "year": 2016
+  }, {
+    "title": "The valuation of options for alternative stochastic processes",
+    "authors": ["J.C. Cox", "S.A. Ross"],
+    "venue": "J. Financ. Econ.,",
+    "year": 1976
+  }, {
+    "title": "Slow release of fossil carbon during the Palaeocene–Eocene Thermal Maximum",
+    "authors": ["Y. Cui", "L.R. Kump", "A.J. Ridgwell", "A.J. Charles", "C.K. Junium", "A.F. Diefendorf", "K.H. Freeman", "N.M. Urban", "I.C. Harding"],
+    "venue": "Nat. Geosci.,",
+    "year": 2011
+  }, {
+    "title": "Slowing down as an early warning signal for abrupt climate change, P",
+    "authors": ["V. Dakos", "M. Scheffer", "E.H. van Nes", "V. Brovkin", "V. Petoukhov", "H. Held"],
+    "venue": "Natl. Acad. Sci. USA,",
+    "year": 2008
+  }, {
+    "title": "Robustness of variance and autocorrelation as indicators of critical slowing",
+    "authors": ["V. Dakos", "E.H. van Nes", "P. D’Odorico", "M. Scheffer"],
+    "venue": "down, Ecology,",
+    "year": 2012
+  }, {
+    "title": "Flickering as an early warning",
+    "authors": ["V. Dakos", "E.H. Nes", "M. Scheffer"],
+    "venue": "signal, Theor. Ecol.,",
+    "year": 2013
+  }, {
+    "title": "Resilience indicators: prospects and limitations for early warnings of regime shifts",
+    "authors": ["V. Dakos", "S.R. Carpenter", "E.H. van Nes", "M. Scheffer"],
+    "venue": "Philos. T. R. Soc. Lon. B,",
+    "year": 2013
+  }, {
+    "title": "Rapid Cenozoic glaciation of Antarctica induced by declining atmospheric CO2",
+    "authors": ["R.M. DeConto", "D. Pollard"],
+    "year": 2003
+  }, {
+    "title": "Thresholds for Cenozoic bipolar glaciation",
+    "authors": ["R.M. DeConto", "D. Pollard", "P.A. Wilson", "H. Pälike", "C.H. Lear", "M. Pagani"],
+    "year": 2008
+  }, {
+    "title": "Past extreme warming events linked to massive carbon release from thawing",
+    "authors": ["R.M. DeConto", "S. Galeotti", "M. Pagani", "D. Tracy", "K. Schaefer", "T. Zhang", "D. Pollard", "D.J. Beerling"],
+    "venue": "permafrost, Nature,",
+    "year": 2012
+  }, {
+    "title": "Neogene growth of the sedimentary organic carbon",
+    "authors": ["L.A. Derry", "C. France-Lanord"],
+    "venue": "reservoir, Paleoceanography,",
+    "year": 1996
+  }, {
+    "title": "Down the Rabbit Hole: toward appropriate discussion of methane release from gas hydrate systems during the Paleocene-Eocene thermal maximum and other past hyperthermal events",
+    "authors": ["G.R. Dickens"],
+    "venue": "Clim. Past,",
+    "year": 2011
+  }, {
+    "title": "Dissociation of oceanic methane hydrate as a cause of the carbon isotope excursion at the end of the Paleocene, Paleoceanography",
+    "authors": ["G.R. Dickens", "J.R.O. Neil", "D.K. Rea", "R.M. Owen"],
+    "year": 1995
+  }, {
+    "title": "Tipping points: Early warning and wishful thinking",
+    "authors": ["P.D. Ditlevsen", "S.J. Johnsen"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2010
+  }, {
+    "title": "Climate model and proxy data constraints on ocean warming across the PaleoceneEocene Thermal Maximum",
+    "authors": ["T. Dunkley Jones", "D.J. Lunt", "D.N. Schmidt", "A. Ridgwell", "A. Sluijs", "P.J. Valdes", "M. Maslin"],
+    "venue": "Earth-Sci. Rev.,",
+    "year": 2013
+  }, {
+    "title": "Organic carbon burial forcing of the carbon cycle from Himalayan erosion",
+    "authors": ["C. France-Lanord", "L.A. Derry"],
+    "venue": "Nature, 390,",
+    "year": 1997
+  }, {
+    "title": "Thermogenic methane release as a cause for the long duration of the PETM, P",
+    "authors": ["J. Frieling", "H.H. Svensen", "S. Planke", "M.J. Cramwinckel", "H. Selnes", "A. Sluijs"],
+    "venue": "Natl. Acad. Sci",
+    "year": 2016
+  }, {
+    "title": "Extreme warmth and heat-stressed plankton in the tropics during the Paleocene-Eocene Thermal Maximum",
+    "authors": ["J. Frieling", "H. Gebhardt", "M. Huber", "O.A. Adekeye", "S.O. Akande", "Reichart", "G.-J", "J.J. Middelburg", "S. Schouten", "A. Sluijs"],
+    "venue": "Sci. Adv.,",
+    "year": 2017
+  }, {
+    "title": "Babel, or the ecological stability discussions: an inventory and analysis of terminology and a guide for avoiding confusion, Oecologia",
+    "authors": ["V. Grimm", "C. Wissel"],
+    "year": 2005
+  }, {
+    "title": "Very large release of mostly volcanic carbon during the Palaeocene–Eocene",
+    "authors": ["L. G"],
+    "venue": "Thermal Maximum,",
+    "year": 2017
+  }, {
+    "title": "Potential Errors in Estimates of Carbonate Rock Accumulating Through Geologic Time, in: The Carbon Cycle and Atmospheric CO2",
+    "authors": ["W.W. Hay"],
+    "venue": "Natural Variations Archean to Present,",
+    "year": 1985
+  }, {
+    "title": "Detection of climate system bifurcations by degenerate fingerprinting",
+    "authors": ["H. Held", "T. Kleinen"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2004
+  }, {
+    "title": "On the stability of the Atlantic meridional overturning circulation",
+    "authors": ["M. Hofmann", "S. Rahmstorf"],
+    "venue": "P. Natl. Acad. Sci. USA,",
+    "year": 2009
+  }, {
+    "title": "Resilience and Stability of Ecological Systems, Annu",
+    "authors": ["C.S. Holling"],
+    "venue": "Rev. Ecol. Syst.,",
+    "year": 1973
+  }, {
+    "title": "The Statistical and Economic Role of Jumps in Continuous-Time Interest Rate Models",
+    "authors": ["M. Johannes"],
+    "venue": "J. Finance,",
+    "year": 2004
+  }, {
+    "title": "Temperature-dependent remineralization and carbon cycling in the warm Eocene oceans",
+    "authors": ["E.H. John", "J.D. Wilson", "P.N. Pearson", "A. Ridgwell"],
+    "venue": "Palaeogeogr. Palaeocl.,",
+    "year": 2014
+  }, {
+    "title": "Early warning signals also precede non-catastrophic transitions, Oikos",
+    "authors": ["S. Kéfi", "V. Dakos", "M. Scheffer", "E.H. Van Nes", "M. Rietkerk"],
+    "year": 2012
+  }, {
+    "title": "Persistence of carbon release events through the peak of early Eocene global warmth",
+    "authors": ["S. Kirtland Turner", "P.F. Sexton", "C.D. Charles", "R.D. Norris"],
+    "venue": "Nat. Geosci.,",
+    "year": 2014
+  }, {
+    "title": "A probabilistic assessment of the rapidity of PETM onset",
+    "authors": ["S. Kirtland Turner", "P.M. Hull", "L.R. Kump", "A. Ridgwell"],
+    "venue": "Nat. Commun.,",
+    "year": 2017
+  }, {
+    "title": "The Potential Role of Peatland Dynamics in Ice-Age Initiation",
+    "authors": ["L.F. Klinger", "J.A. Taylor", "L.G. Franzen"],
+    "venue": "Quaternary Res.,",
+    "year": 1996
+  }, {
+    "title": "Understanding long-term carbon cycle trends: The late Paleocene through the early",
+    "authors": ["N. Komar", "R.E. Zeebe", "G.R. Dickens"],
+    "venue": "Eocene, Paleoceanography,",
+    "year": 2006
+  }, {
+    "title": "Global Chemical Erosion during the Cenozoic: Weatherability Balances the Budgets, in: Tectonic uplift and climate change, edited by: Ruddiman",
+    "authors": ["L.R. Kump", "M.A. Arthur"],
+    "year": 1997
+  }, {
+    "title": "Early Cenozoic decoupling of the global carbon and sulfur",
+    "authors": ["A.C. Kurtz", "L.R. Kump", "M.A. Arthur", "J.C. Zachos", "A. Paytan"],
+    "venue": "cycles, Paleoceanography,",
+    "year": 2003
+  }, {
+    "title": "Early warning of climate tipping points, Nat",
+    "authors": ["T.M. Lenton"],
+    "venue": "Clim. Change,",
+    "year": 2011
+  }, {
+    "title": "Environmental Tipping Points, Annu",
+    "authors": ["T.M. Lenton"],
+    "venue": "Rev. Environ. Res.,",
+    "year": 2013
+  }, {
+    "title": "Tipping elements in the www.clim-past.net/14/1515/2018",
+    "authors": ["T.M. Lenton", "H. Held", "E. Kriegler", "J.W. Hall", "W. Lucht", "S. Rahmstorf", "H.J. Schellnhuber"],
+    "year": 2018
+  }, {
+    "title": "Reduced carbon cycle resilience Earth’s climate system, P",
+    "authors": ["D.I. Armstrong McKay", "T.M. Lenton"],
+    "venue": "Natl. Acad. Sci. USA,",
+    "year": 2008
+  }, {
+    "title": "Climate bifurcation during the last deglaciation",
+    "authors": ["T.M. Lenton", "V.N. Livina", "V. Dakos", "M. Scheffer"],
+    "venue": "Clim. Past,",
+    "year": 2012
+  }, {
+    "title": "Early warning of climate tipping points from critical slowing down: comparing methods to improve robustness, Philos",
+    "authors": ["T.M. Lenton", "V.N. Livina", "V. Dakos", "E.H. van Nes", "M. Scheffer"],
+    "venue": "Trans. A. Math. Phys. Eng. Sci.,",
+    "year": 2012
+  }, {
+    "title": "A highresolution benthic stable-isotope record for the South Atlantic: Implications for orbital-scale changes in Late Paleocene–Early Eocene climate and carbon cycling, Earth Planet",
+    "authors": ["K. Littler", "U. Röhl", "T. Westerhold", "J.C. Zachos"],
+    "year": 2014
+  }, {
+    "title": "A modified method for detecting incipient bifurcations in a dynamical system, Geophys",
+    "authors": ["V.N. Livina", "T.M. Lenton"],
+    "venue": "Res. Lett.,",
+    "year": 2006
+  }, {
+    "title": "An independent test of methods of detecting system states and bifurcations in time-series",
+    "authors": ["V.N. Livina", "P.D. Ditlevsen", "T.M. Lenton"],
+    "venue": "data, Phys. A Stat. Mech. Appl.,",
+    "year": 2011
+  }, {
+    "title": "Astronomical pacing of late Palaeocene to early Eocene global warming",
+    "authors": ["L.J. Lourens", "A. Sluijs", "D. Kroon", "J.C. Zachos", "E. Thomas", "U. Röhl", "J. Bowles", "I. Raffi"],
+    "year": 2005
+  }, {
+    "title": "A model for orbital pacing of methane hydrate destabilization during the Palaeogene",
+    "authors": ["D.J. Lunt", "A. Ridgwell", "A. Sluijs", "J. Zachos", "S. Hunter", "A. Haywood"],
+    "venue": "Nat. Geosci.,",
+    "year": 2011
+  }, {
+    "title": "The Paleocene-Eocene Thermal Maximum: A Perturbation of Carbon Cycle, Climate, and Biosphere with Implications for the Future",
+    "authors": ["F.A. McInerney", "S.L. Wing"],
+    "venue": "Annu. Rev. Earth Pl. Sc.,",
+    "year": 2011
+  }, {
+    "title": "Mechanistic insights into a hydrate contribution to the Paleocene-Eocene carbon cycle perturbation from coupled thermohydraulic simulations, Geophys",
+    "authors": ["T.A. Minshull", "H. Marín-Moreno", "D.I. Armstrong McKay", "P.A. Wilson"],
+    "venue": "Res. Lett.,",
+    "year": 2016
+  }, {
+    "title": "Modelling West Antarctic ice sheet growth and collapse through the past five million years, Nature",
+    "authors": ["D. Pollard", "R.M. DeConto"],
+    "year": 2009
+  }, {
+    "title": "Ocean circulation and climate during the past",
+    "authors": ["S. Rahmstorf"],
+    "venue": "years, Nature,",
+    "year": 2002
+  }, {
+    "title": "Early-warning signals for critical transitions",
+    "authors": ["M. Scheffer", "J. Bascompte", "W.A. Brock", "V. Brovkin", "S.R. Carpenter", "V. Dakos", "H. Held", "E.H. van Nes", "M. Rietkerk", "G. Sugihara"],
+    "venue": "https://doi.org/10.1038/nature08227,",
+    "year": 2009
+  }, {
+    "title": "Continental warming preceding the PalaeoceneEocene thermal maximum, Nature",
+    "authors": ["R. Secord", "P.D. Gingerich", "K.C. Lohmann", "K.G. MacLeod"],
+    "year": 2010
+  }, {
+    "title": "Environmental precursors to rapid light carbon injection",
+    "authors": ["A. Sluijs", "H. Brinkhuis", "S. Schouten", "S.M. Bohaty", "C.M. John", "J.C. Zachos", "G.J. Reichart", "J.S. Sinninghe Damsté", "E.M. Crouch", "G.R. Dickens"],
+    "venue": "at the Palaeocene/Eocene boundary,",
+    "year": 2007
+  }, {
+    "title": "The Palaeocene-Eocene Thermal Maximum super greenhouse: Biotic and geochemical signatures, age models and mechanisms of global change, Geol",
+    "authors": ["A. Sluijs", "G.J. Bowen", "H. Brinkhuis", "L.J. Lourens", "E. Thomas"],
+    "venue": "Soc. Spec. Publ.,",
+    "year": 2007
+  }, {
+    "title": "High-resolution deep-sea carbon and oxygen isotope records of Eocene Thermal Maximum 2 and H2",
+    "authors": ["L. Stap", "L.J. Lourens", "E. Thomas", "A. Sluijs", "S. Bohaty", "J.C. Zachos"],
+    "year": 2010
+  }, {
+    "title": "Rapid transitions of the ocean’s deep circulation induced by changes in surface water",
+    "authors": ["T.F. Stocker", "D.G. Wright"],
+    "venue": "fluxes, Nature,",
+    "year": 1991
+  }, {
+    "title": "Thermohaline Convection with Two Stable Regimes",
+    "authors": ["H. Stommel"],
+    "venue": "Tellus, 13,",
+    "year": 1961
+  }, {
+    "title": "Timing and duration of volcanism in the North Atlantic Igneous Province: Implications for geodynamics and links to the Iceland",
+    "authors": ["M. Storey", "R.A. Duncan", "C. Tegner"],
+    "year": 2007
+  }, {
+    "title": "Release of methane from a volcanic basin as a mechanism for initial Eocene global warming",
+    "authors": ["H. Svensen", "S. Planke", "A. Malthe-Sørenssen", "B. Jamtveit", "R. Myklebust", "T. Rasmussen Eidem", "S.S. Rey"],
+    "year": 2004
+  }, {
+    "title": "Soil organic carbon pools in the northern circumpolar permafrost region",
+    "authors": ["C. Tarnocai", "J.G. Canadell", "E.A.G. Schuur", "P. Kuhry", "G. Mazhitova", "S. Zimov"],
+    "venue": "Global Biogeochem. Cy.,",
+    "year": 2008
+  }, {
+    "title": "The planets, their origin and development, Yale",
+    "authors": ["H.C. Urey"],
+    "year": 1952
+  }, {
+    "title": "Middle Eocene greenhouse warming facilitated by diminished weathering",
+    "authors": ["R. van der Ploeg", "D. Selby", "M.J. Cramwinckel", "Y. Li", "S.M. Bohaty", "J.J. Middelburg", "A. Sluijs"],
+    "venue": "feedback, Nat. Commun.,",
+    "year": 2018
+  }, {
+    "title": "Effects of fuel and forest conservation on future levels of atmospheric carbon dioxide",
+    "authors": ["J.C.G. Walker", "J.F. Kasting"],
+    "venue": "Palaeogeogr. Palaeocl.,",
+    "year": 1992
+  }, {
+    "title": "A negative feedback mechanism for the long-term stabilization of Earth’s surface temperature",
+    "authors": ["J.C.G. Walker", "P.B. Hays", "J.F. Kasting"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1981
+  }, {
+    "title": "Flickering gives early warning signals of a critical transition to a eutrophic lake",
+    "authors": ["R. Wang", "J.A. Dearing", "P.G. Langdon", "E. Zhang", "X. Yang", "V. Dakos", "M. Scheffer"],
+    "year": 2012
+  }, {
+    "title": "High resolution cyclostratigraphy of the early Eocene – new insights into the origin of the Cenozoic cooling trend",
+    "authors": ["T. Westerhold", "U. Röhl"],
+    "venue": "Clim. Past,",
+    "year": 2009
+  }, {
+    "title": "Astronomical calibration of the geological timescale: Closing the middle Eocene gap",
+    "authors": ["T. Westerhold", "U. Röhl", "T. Frederichs", "S.M. Bohaty", "J.C. Zachos"],
+    "venue": "Clim. Past,",
+    "year": 2015
+  }, {
+    "title": "Trends, rhythms, and aberrations in global climate 65",
+    "authors": ["J.C. Zachos", "M. Pagani", "L. Sloan", "E. Thomas", "K. Billups"],
+    "venue": "Ma to present,",
+    "year": 2001
+  }, {
+    "title": "Rapid acidification of the ocean during the Paleocene-Eocene",
+    "authors": ["J.C. Zachos", "U. Röhl", "S.A. Schellenberg", "A. Sluijs", "D.A. Hodell", "D.C. Kelly", "E. Thomas", "M. Nicolo", "I. Raffi", "L.J. Lourens", "H. McCarren", "D. Kroon"],
+    "venue": "thermal maximum,",
+    "year": 2005
+  }, {
+    "title": "An early Cenozoic perspective on greenhouse warming and carbon-cycle dynamics, Nature",
+    "authors": ["J.C. Zachos", "G.R. Dickens", "R.E. Zeebe"],
+    "year": 2008
+  }, {
+    "title": "Carbon dioxide forcing alone insufficient to explain Palaeocene– Eocene Thermal Maximum warming",
+    "authors": ["R.E. Zeebe", "J.C. Zachos", "G.R. Dickens"],
+    "venue": "Nat. Geosci.,",
+    "year": 2009
+  }, {
+    "title": "Anthropogenic carbon release rate unprecedented during the past 66 million years",
+    "authors": ["R.E. Zeebe", "A. Ridgwell", "J.C. Zachos"],
+    "venue": "Nat. Geosci.,",
+    "year": 2016
+  }],
+  "id": "SP:68b3b3a25c66c00303f1c6725f3e35b358140432",
+  "authors": [{
+    "name": "David I. Armstrong McKay",
+    "affiliations": []
+  }, {
+    "name": "Timothy M. Lenton",
+    "affiliations": []
+  }],
+  "abstractText": "Several past episodes of rapid carbon cycle and climate change are hypothesised to be the result of the Earth system reaching a tipping point beyond which an abrupt transition to a new state occurs. At the Palaeocene–Eocene Thermal Maximum (PETM) at ∼ 56 Ma and at subsequent hyperthermal events, hypothesised tipping points involve the abrupt transfer of carbon from surface reservoirs to the atmosphere. Theory suggests that tipping points in complex dynamical systems should be preceded by critical slowing down of their dynamics, including increasing temporal autocorrelation and variability. However, reliably detecting these indicators in palaeorecords is challenging, with issues of data quality, false positives, and parameter selection potentially affecting reliability. Here we show that in a sufficiently long, high-resolution palaeorecord there is consistent evidence of destabilisation of the carbon cycle in the ∼ 1.5 Myr prior to the PETM, elevated carbon cycle and climate instability following both the PETM and Eocene Thermal Maximum 2 (ETM2), and different drivers of carbon cycle dynamics preceding the PETM and ETM2 events. Our results indicate a loss of “resilience” (weakened stabilising negative feedbacks and greater sensitivity to small shocks) in the carbon cycle before the PETM and in the carbon–climate system following it. This pre-PETM carbon cycle destabilisation may reflect gradual forcing by the contemporaneous North Atlantic Volcanic Province eruptions, with volcanism-driven warming potentially weakening the organic carbon burial feedback. Our results are consistent with but cannot prove the existence of a tipping point for abrupt carbon release, e.g. from methane hydrate or terrestrial organic carbon reservoirs, whereas we find no support for a tipping point in deep ocean temperature.",
+  "title": "Reduced carbon cycle resilience across the Palaeocene–Eocene Thermal Maximum"
+}

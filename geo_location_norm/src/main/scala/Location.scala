@@ -1,5 +1,8 @@
 package location_norm
 
+import java.io.File
+import java.io._
+
 import org.json4s._
 import org.json4s.jackson.JsonMethods._
 import org.json4s.jackson.Serialization
@@ -11,10 +14,11 @@ object GeoLocationExample extends App {
 	// create the processor
 	val geonorm = new org.clulab.geonorm.GeoLocationNormalizer(new org.clulab.geonorm.GeoNamesIndex(java.nio.file.Paths.get("./geonames-index")))
 
-	val jsonSource = io.Source.fromURL(getClass.getResource("/frequency.json"))
+	// val jsonSource = io.Source.fromURL(getClass.getResource("/new_new_interlim_result.json"))
+	val jsonSource = io.Source.fromFile(args(0))
 	val json = parse(jsonSource.reader()).extract[mutable.HashMap[String, mutable.HashMap[String, Any]]]
 	jsonSource.close()
-	println(Serialization.write(json)
+	// println(Serialization.write(json))
 
 //	println(Serialization.write(json("geoheritages_in_the").get("location")))
 //	val newMap = parse(Serialization.write(json("geoheritages_in_the").get("location"))).extract[mutable.HashMap[String, Int]]
@@ -23,16 +27,33 @@ object GeoLocationExample extends App {
 
 	for (k <- json.keysIterator){
 		val location_map = mutable.HashMap[String, Int]().withDefaultValue(0)
-		val newMap = parse(Serialization.write(json(k).get("location"))).extract[mutable.HashMap[String, Int]]
-		for (loc <- newMap.keysIterator) {
-			val new_site = geonorm(loc).head._1.name
-			location_map(new_site) += newMap(loc)
+		// val freq_map = mutable.HashMap[String, Int]().withDefaultValue(0)
+		// val id_map = mutable.HashMap[String, Int]()
+		// val location_map = mutable.HashMap[String, mutable.Map[String, Int]]().withDefaultValue(mutable.Map[String, Int]().withDefaultValue(0))
+		// val location_map = mutable.HashMap[String, info_map]()
+
+		if (json(k) contains "location"){
+			val newMap = parse(Serialization.write(json(k).get("location"))).extract[mutable.HashMap[String, Int]]
+			for (loc <- newMap.keysIterator) {
+				val new_site = geonorm(loc).head._1.name
+				// val new_id = geonorm(loc).head._1.id
+				location_map(new_site) += newMap(loc)
+				// location_map(new_site)("frequency") += newMap(loc)	
+				// info_map(new_site) += 
+				// location_map(new_site)("id") = new_id.toInt
+			}
+			json(k) -= "location"
+			json(k) += (("location", location_map))
 		}
-		json(k) -= "location"
-		json(k) += (("location", location_map))
 	}
 
 	println(pretty(render(parse(Serialization.write(json)))))
+
+	// val writer = new FileWriter("new_new_result.json", true)
+	val writer = new FileWriter(args(1))
+	writer.write(pretty(render(parse(Serialization.write(json)))))
+	writer.close()
+	
 }
 
 

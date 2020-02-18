@@ -1,0 +1,654 @@
+{
+  "sections": [{
+    "text": "Estimating the partial pressure of atmospheric oxygen (pO2) in the geological past has been challenging because of the lack of reliable proxies. Here we develop a technique to estimate paleo-pO2 using the stable carbon isotope composition (d\n13C) of plant resins—including amber, copal, and resinite—from a wide range of localities and ages (Triassic to modern). Plant resins are particularly suitable as proxies because their highly cross-linked terpenoid structures allow the preservation of pristine d13C signatures over geological timescales. The distribution of d13C values of modern resins (n = 126) indicates that (a) resin-producing plant families generally have a similar fractionation behavior during resin biosynthesis, and (b) the fractionation observed in resins is similar to that of bulk plant matter. Resins exhibit a natural variability in d13C of around 8& (d13C range: 31& to 23&, mean: 27&), which is caused by local environmental and ecological factors (e.g., water availability, water composition, light exposure, temperature, nutrient availability). To minimize the effects of local conditions and to determine long-term changes in the d13C of resins, we used mean d13C values (d13Cresinmean) for each geological resin deposit. Fossil resins (n = 412) are generally enriched in\n13C compared to their modern counterparts, with shifts in d13Cresinmean of up to 6&. These isotopic shifts follow distinctive trends through time, which are unrelated to post-depositional processes including polymerization and diagenesis. The most enriched fossil resin samples, with a d13Cresinmean between 22& and 21&, formed during the Triassic, the mid-Cretaceous, and the early Eocene. Experimental evidence and theoretical considerations suggest that neither change in pCO2 nor in the d\n13C of atmospheric CO2 can account for the observed shifts in d13Cresinmean. The fractionation of\n13C in resin-producing plants (D13C), instead, is primarily influenced by atmospheric pO2, with more fractionation occurring at higher pO2. The enriched d13C resin mean values suggest that atmospheric pO2 during most of the Mesozoic and Cenozoic was considerably lower (pO2 = 10–20%) than today (pO2 = 21%). In addition, a correlation between the d13Cresinmean and the marine d\n18O record implies that pO2, pCO2, and global temperatures were inversely linked, which suggests that intervals of low pO2 were generally accompanied by high pCO2 and elevated global temperatures. Intervals with the lowest inferred pO2, including the mid-Cretaceous and the early Eocene, were preceded by large-scale volcanism during the emplacement of large igneous provinces (LIPs). This suggests that the influx of mantle-derived volcanic CO2 triggered an initial phase of warming, which led to an increase in oxidative weathering, thereby further increasing greenhouse forcing. This process resulted in the rapid decline of atmospheric pO2 during the mid-Cretaceous and the early Eocene greenhouse periods. After the cessation in LIP volcanism and the decrease in oxidative weathering rates, atmospheric pO2 levels continuously increased over tens of millions of years, whereas CO2 levels and temperatures continuously declined. These findings suggest that atmospheric pO2 had a considerable impact on the evolution of the climate on Earth, and that the d13C of fossil resins can be used as a novel tool to assess the changes of atmospheric compositions since the emergence of resin-producing plants in the Paleozoic. 2013 Elsevier Ltd. All rights reserved.\n0016-7037/$ - see front matter 2013 Elsevier Ltd. All rights reserved. http://dx.doi.org/10.1016/j.gca.2013.07.011\n⇑ Corresponding author at: Institute of Mineralogy and Petrography, University of Innsbruck, Innsbruck, Austria. Tel.: +43 512 492 5519. E-mail address: ralf.tappert@uibk.ac.at (R. Tappert)."
+  }, {
+    "heading": "1. INTRODUCTION",
+    "text": "Our knowledge of the composition of the atmosphere through time and of its impact on climate change and the evolution of life is based on evidence preserved in the fossil record. For the Pleistocene and Holocene, a direct and continuous record of the partial pressures and isotopic compositions of atmospheric gases is preserved in the form of air vesicles entrapped in polar ice sheets (e.g., Petit et al., 1999). With increasing age, the record of atmospheric compositions becomes less directly accessible, and inferences about the composition of the atmosphere in the geological past rely on indirect measures or proxies. The quality of such information depends directly on the ability of proxies to reliably capture the composition of ancient atmospheres.\nAttempts have been made to reconstruct atmospheric pCO2 and pO2 using mass balance calculations and flux modeling (Berner, 1999; Berner and Kothavala, 2001; Berner et al., 2007). Other approaches to estimate the paleopCO2 have utilized the density of stomata on fossil leaf cuticles (Retallack, 2001, 2002; Beerling and Royer, 2002) and the carbon stable isotopic composition of pedogenic carbonates (Cerling and Hay, 1986; Ekart et al., 1999; Bowen and Beerling, 2004). One of the richest sources of information on ancient atmospheric compositions comes from the marine sedimentary record, in particular from the stable isotope composition (d13C, d18O, d11B) of biogenic carbonates (e.g., Clarke and Jenkyns, 1999; Pearson and Palmer, 2000; Royer et al., 2001; Zachos et al., 2001). This information has been used to infer changes in the isotopic composition of atmospheric CO2 through time and to derive paleo-temperature estimates. More recently, the d13C of marine phytoplankton biomarkers have been used to estimate the pCO2 of Cenozoic atmospheres (Pagani et al., 2005). Additional constraints on the composition of ancient atmospheres were obtained from the marine record using the biochemical cycles of sulfur (Berner, 2006; Halevy et al., 2012).\nFor terrestrial environments, attempts to estimate paleopCO2 have frequently exploited the d\n13C of fossil organic matter, primarily plant organic matter (Strauss and Peters-Kottig, 2003; Jahren et al., 2008). A range of plant constituents have been targeted for d13C analysis, including wood, foliage, and cellulose extracts, as well as the coals to which they contribute (Stuiver and Braziunas, 1987; Gröcke, 1998, 1999, 2002; Lücke et al., 1999; Peters-Kottig et al., 2006; Poole and Van Bergen, 2006; Poole et al., 2006; Bechtel et al., 2008). However, three key issues need to be addressed when plant organic matter is used for stable carbon isotopic analyses in geochemical and chemostratigraphic studies:\n(1) Plants are composed of a complex range of organic compounds, including polysaccharides (e.g., cellulose), lignin, lipids, cuticular waxes, and photosynthates. Due to differential fractionation of carbon isotopes during biosynthesis, the isotopic composition of individual plant fractions typically differ from each other and from that of the bulk plant (Park and\nEpstein, 1960; Brugnoli and Farquhar, 2000). In addition, some plant groups use distinctive metabolic pathways that fundamentally affect their isotopic composition. For example, C4 and CAM plants are generally more enriched in 13C compared to C3 plants (O’Leary, 1988; Farquhar et al., 1989). Therefore, if stable isotopes are used in chemostratigraphic studies, it is crucial to determine the organic composition of the material under investigation and its botanical source. (2) Environmental and ecological factors can play an important role in the isotopic fractionation of plants, and individual isotope values of fossil or modern plant material may reflect local instead of large-scale environmental conditions. (3) Plant constituents can undergo substantial compositional changes during and after burial and diagenesis. These changes have the potential to alter the isotopic composition of the fossil plant material, to the extent of preventing a meaningful paleoenvironmental interpretation.\nTo determine environmentally mediated changes in the d13C of fossil plant organic matter through time, we analyzed modern and fossil resins from a wide range of localities and ages. Compared to other terrestrial plant constituents, resins have chemical properties that make them particularly suitable as proxies of environmental changes over geological time. Resins can polymerize into highly cross-linked hydrocarbons that have considerable preservation potential in the geological record (Fig. 1). This means that a reliable terrestrial stable isotope history can potentially be reconstructed well into the Paleozoic, considering that the earliest known fossil resins are from the Carboniferous (White, 1914; Bray and Anderson, 2009).\nUnlike many other fossil plant organic constituents, resins can often be assigned to a specific source plant family, and only a few plant families produce significant amounts of preservable resins, all of which have C3 metabolism. Furthermore, resins are chemically conservative, which means that the composition of the resins did not change significantly as plants evolved. These factors limit not only the chemical variability of fossil resins, but also any potential family-specific biases, which could influence the isotopic composition of fossil resins in chemostratigraphic studies.\nAlthough large samples of gem-quality fossil resins, or amber, are found in fewer than 50 locations worldwide, small pieces (<5 mm) of non-precious resin, which are sometimes referred to as resinites, are found frequently, and are often associated with coal deposits (Stach et al., 1982). Previous studies of the carbon isotopic composition of resins were limited because they were conducted on only a few localities, and in most cases, using only a few samples (Nissenbaum and Yakir, 1995; Murray et al., 1998; Nissenbaum et al., 2005; McKellar et al., 2008; DalCorso et al., 2011). Our study is the first attempt to integrate the d13C data of resins from a wide range of localities and ages, and to determine their potential as proxies for changes in atmosphere composition through geological time."
+  }, {
+    "heading": "2. SAMPLES AND METHODS",
+    "text": "In total, 538 d13C measurements were conducted on modern (n = 126) and fossil resins (n = 412) from various locations worldwide, ranging in age from recent to Triassic (Fig. 2, Table 1). Analytical work was performed on hardened resins that were visibly free of inclusions and vesicles. Modern resins were collected primarily from the trunks of native trees growing under a range of climatic conditions (i.e., tropical to subarctic), although specimens from cultivars were also analyzed in some cases. We restricted the sampling of modern resins to representatives of the families Pinaceae (Pseudotsuga, Picea, Pinus), Cupressaceae (Metasequoia, Thuja), Araucariaceae (Agathis), and Fabaceae (Hymenaea), as these families represent the most important resin producers in modern environments and the fossil record (Langenheim, 2003).\nThe fossil resin samples include many small, non-precious varieties, in addition to genuine ambers. To simplify the terminology, all fossil resins are referred to herein as amber, with the exception of sub-recent resins (>200 years\nold), which are referred to as copal. The sample set includes specimens from many well-known deposits (e.g., Baltic amber, Bitterfeld amber, Dominican amber, Myanmar or Burmese amber, and Lebanese amber), but also material from newly discovered occurrences (Table 1).\nFor many amber deposits, the age of amber formation can be tightly constrained (±2 Ma or better) by independent stratigraphic controls or radiometric dating (Table 1). However, for some of the deposits, the age constraints are more provisional, especially for localities that show evidence of re-working or re-deposition (e.g., Baltic and Bitterfeld ambers). For these deposits, the age estimates have relatively large uncertainties ( ±4 Ma).\nTo examine the chemical composition of the resins, representative samples of modern and fossil resins from each locality were analyzed using micro-Fourier transform infrared (FTIR) spectroscopy. The resulting absorption spectra were used to (1) classify the resins into distinct compositional groups (see below), and (2) determine the botanical affinity of the fossil resins. Particular emphasis was placed on identifying the botanical source of fossil resins from\npreviously undescribed localities. Absorption spectra were collected between 4000 and 650 cm 1 (wavenumbers) using a Thermo Nicolet Nexus 470 FTIR spectrometer equipped with a Nicolet Continuum IR microscope, with a spectral resolution of 4 cm 1. A total of 200 interferograms were collected and co-added for each spectrum. Spectra were collected from inclusion-free, freshly broken resin chips placed on an infrared-transparent NaCl disc. To avoid the effects of oversaturation of the spectra, sample thickness was kept below 5 lm. Depending on the quality of the sample, the spot size was set to values between 50 50 and 100 100 lm (square aperture). Further details concerning the FTIR analytical procedures are presented in Tappert et al. (2011).\nThe stable carbon isotope compositions of the resins were determined using a Finnigan MAT 252 dual inlet mass spectrometer at the University of Alberta. Samples of untreated resin ( 1–5 mg) were combusted together with 1 g CuO as an oxygen source in a sealed and evacuated quartz tube at 800 C for 12 h. The d13C analyses were normalized to NBS-18 and NBS-19, and the results are given with respect to V-PDB (Coplen et al., 1983). Instrumental precision and accuracy was on the order of ±0.02&. Repeated analyses of individual samples were within ±0.1&."
+  }, {
+    "heading": "3. RESULTS",
+    "text": ""
+  }, {
+    "heading": "3.1. Infrared spectroscopy",
+    "text": "The comparison of infrared spectra from modern and fossil resins (Fig. 3) shows that resins, irrespective of their age and botanical origin, produce spectra that are very similar. This similarity is due to the dominance of diterpenoids in the composition of the resins. However, some variability in the spectra exists and differences in the position and height of specific absorption features can be used to distinguish different resin types. These subtle spectroscopic differences primarily reflect variations in the structure of the\ndominant terpenoid structures, but they can also be influenced by the presence of additional organic components and the degree of polymerization.\nFour compositional types of resins are distinguished in this study. These resin types were produced by specific plant families and are, accordingly, classified into the following four categories:\n(1) Pinaceous resins are exclusively produced by conifers belonging to the family Pinaceae. The infrared spectra of pinaceous resins are characterized by distinctive absorption peaks at 1460 and 1385 cm 1\n(Fig. 3). The amplitude of the peak at 1460 cm 1 is generally lower than the peak at 1385 cm 1. Another trait is the absence or the weak development of a peak at 2848 cm 1. This peak is typically well developed in cupressaceous-araucarian resins (see below). Further details about the spectral characteristics of pinaceous resins can be found in Tappert et al. (2011). Based on results of gas chromatography– mass spectrometry (GC–MS), pinaceous resins consist primarily of diterpenoids that are based on pimarane and abietane structures (Langenheim, 2003). (2) Cupressaceous-araucarian resins are mainly produced by conifers of the families Cupressaceae and Araucariaceae, but also by Sciadopitys verticillata, the sole extant member of the family Sciadopytaceae (Wolfe et al., 2009). The infrared spectra of cupressaceous-araucarian resins are characterized by distinctive absorption peaks at 1448, 887, and 791 cm 1\n(Fig. 3). In fossil resins, the 887 cm 1 peak is often reduced or absent as a result of the fossilization process. The amplitude of the absorption peak at 1385 cm 1 is typically lower than that of the adjacent peak at 1448 cm 1. Further details about the spectral characteristics of cupressaceous-araucarian resins and their distinction from pinaceous resins can be found in Tappert et al. (2011). Cupressaceous-araucarian\nresins consist primarily of diterpenoids that are based on labdane skeletal structures, such as communic acid polymers (Thomas, 1970; Anderson et al., 1992). (3) Fabalean resins are produced by the tropical angiosperm Hymenaea (Fabaceae, Fabales). The infrared spectra of these resins superficially resemble spectra from pinaceous and cupressaceous-araucarian representatives (Fig. 3). Similar to pinaceous resins, fabalean resins produce an absorption peak at 1460 cm 1, but the amplitude of the 1385 cm 1 peak is lower or equivalent to the 1460 cm 1 peak. A distinctive feature of fabalean resin spectra is the lack of strong absorption features between 970 and 1050 cm 1. Fabalean resins also produce an absorption peak at 887 cm 1. Like cupressaceous-araucarian resins, fabalean resins are primarily based on labdane structured diterpenoids, with zanzibaric and ozic acid polymers being typical components (Cunningham et al., 1983). (4) Dipterocarpaceous resins are produced by members of the angiosperm family Dipterocarpaceae, which is a family of diverse and widespread tropical rainforest trees. The infrared spectra of dipterocarpaceous resins are quite distinct from other resin spectra (Fig. 3). The most characteristic spectroscopic features are the distinctive absorption triplet between 1360 and 1400 cm 1, and an additional absorption peak at 1050 cm 1. Dipterocarpaceous resins are primarily based on sesquiterpenoids, such as cadinene, but triterpenoids can also be present (Anderson et al., 1992). The resin produced by dipterocarpaceous trees is colloquially referred to as Dammar.\nSome of the resins, including Baltic amber and resins from Ellesmere Island, were found to produce an additional and distinctive spectral feature at 1160 cm 1, which is associated with a broad shoulder or a broad peak between 1200 and 1300 cm 1 (Fig. 3). These spectral features generally relate to the presence of esterified succinic acid (succinate) as an additional component in the resin (Beck et al., 1965; Beck, 1986). Although succinate has been identified in some pinaceous resins—namely in resins from Pseudolarix amabilis and in some fossil resins of Pseudolarix-affinity from the Canadian Arctic (Anderson and LePage, 1995; Poulin and Helwig, 2012)—it is the hallmark constituent of Baltic amber, which itself is a cupressaceous-araucarian resin. The presence of succinate has important implications in the assessment of the botanical source of fossil resins, and consequently, succinate-bearing resins are marked separately in Table 1.\nMost of the fossil resins analyzed for this study are of cupressaceous-araucarian type. Along with fabalean resins (e.g., Dominican and Mexican ambers), cupressaceous-araucarian resins make up the most productive commercial amber deposits (Table 1). The predominance of these resins in the fossil record is due to their terpenoid composition because labdane-based resins polymerize rapidly and are highly resistant to chemical breakdown (Fig. 1B).\nAlthough pinaceous resins are produced in extremely high abundance in northern-hemisphere forests, their preservation potential in the fossil record is limited. The main constituent of pinaceous resins—diterpenes with pimarane and abietane skeletal structures—do not possess the functional groups required to form stable polymers. Therefore, they are prone to decomposition. Nevertheless, under favorable conditions, even pinaceous resins can persist for millions of years (Wolfe et al., 2009).\nIn accordance with previous studies (Langenheim and Beck, 1965; Broughton, 1974; Tappert et al., 2011), all resins of a given type produce very similar FTIR absorption spectra, irrespective of whether the samples are modern or fossil, which indicates that chemical transformations during burial and maturation are minor. This observation is important because it supports the premise that resins can resist isotopic exchange over geological timescales."
+  }, {
+    "heading": "3.2. Carbon stable isotopes",
+    "text": ""
+  }, {
+    "heading": "3.2.1. Modern resins",
+    "text": "The d13C values of modern resins analyzed in this study range from 31.2& to 23.6&. These values are consistent with previously published d13C analyses of modern resins from comparable plant taxa (Nissenbaum and Yakir, 1995; Murray et al., 1998; Nissenbaum et al., 2005). The d13C values of the modern resins follow a near Gaussian distribution, with a mean value of 26.9& (Fig. 4). It is notable that resins from individual plant families have similar d13C distributions and similar mean d13C values (Fig. 5). This indicates that the isotopic fractionation that occurs during resin biosynthesis is nearly identical for the plant families considered in this study, despite differences in the terpenoid profile of individual resin types.\nFig. 4 also shows the carbon isotopic compositions of bulk leaf material from modern C3-plants using data compiled by Körner et al. (1991), Diefendorf et al. (2010), and Kohn (2010). The leaf material was sampled from a wide range of plant taxa growing under diverse climatic conditions, from alpine and polar to tropical. Therefore, the isotopic composition should approximate the average composition of modern C3 plant organic matter. However, samples from extremely dry environments and samples that were potentially influenced by the canopy effect (see below) were excluded. It is notable that the isotope values of the leaf material ( 32.8& to 22.2&, mean: 27.1&) and the distribution of isotope values are very similar to those reported for modern resins. In conclusion, we find no consistent differences between the distributions of d13C values in modern leaves and modern resins."
+  }, {
+    "heading": "3.2.2. Fossil resins",
+    "text": "Carbon isotope values of fossil resins were found to range from 28.4& to 18.2&, which means that some fossil resins are more enriched in 13C compared to their modern counterparts. Data for individual samples are shown in Fig. 6. Similar to modern resins, the fossil resins at each deposit produce a range of d13C values. These ranges are similar to those observed for modern resins (i.e., 8&) provided that a comparable number of samples\nWollemia nobilis -modern-\nTiger Mountain aber (USA) -Middle Eocene-\nEllesmere Island amber (Canada) -Middle Eocene-\nGenesee amber (Canada) -Early Paleocene-\nPseudolarix amabilis -modern-\nDominican amber -Late Oligocene-Early Miocene-\nHymenaea courbaril -modern-\nShorea rubriflora -modern-\nMalaysian amber -Middle Miocene-\nPinaceous resins\nCupressaceousaraucarian resins\nFabalean resins\nDipterocarpaceous resins\nWavenumbers (cm )-1 80010001200140016001800200022002400260028003000320034003600\n887\n1460\n1385 7911050\nsuccinate region\n1160 1448 2848 fo(\necnabrosbA )ytiralcroftsef\nMexican amber -Early Miocene-\nSingle bonds (x-H)\nO-H C-H\nDouble bonds Single bonds/Skeletal vibrations\nC=C, C=O C-O, C-C\nFig. 3. Micro-FTIR spectra of different resin types distinguished in this study (selected modern and fossil examples). Dashed lines mark spectral features discussed in the text. Yellow backgrounds highlight the most distinctive spectral regions. Characteristic spectral regions for molecular vibrations relevant to resins are marked in blue. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)\nwere analyzed. For some of the amber deposits, only a small number of samples were analyzed due to sample availability. Consequently, the range of isotope values for these deposits tends to be narrower. Despite differences in the number of samples for different deposits, a considerable shift in d13C between deposits is observed (Figs. 6 and 7).\nTo quantify the isotopic shift through time, and to minimize the effect of sample size, we used the mean d13C values of the fossil resins (d13Cresinmean) as a representative measure for each deposit (Table 2).\nThe d13Cresinmean of subrecent Colombian copal ( 27.5&) is nearly identical to modern resins, but with increasing age,\nresins become continuously more enriched in 13C and consequently less negative in their d13Cresinmean values. This trend towards more enriched isotopic compositions in fossil resins continues through the Neogene and into the middle Eocene. Some of the most productive amber deposits, including the Dominican (d13Cresinmean = 24.8&) and the Baltic (d13Cresinmean = 23.5&) amber deposits, formed during this time interval. Eocene ambers from Tiger Mountain (Washington, USA) and Ellesmere Island (Nunavut, Canada) are more than 5.3& enriched in 13C compared to modern resins, with a d13Cresinmean of 21.7& and 21.6&, respectively. The latter are the isotopically most enriched Cenozoic resins in the present sample set.\nThe early Eocene is characterized by a dramatic shift towards more depleted resin isotope compositions, as demonstrated by amber from the Tadkeshwar coal field of India (d13Cresinmean = 25.8&), and amber preserved in the Panda kimberlite pipe in Canada (d13Cresinmean = 24.8&). The earliest Eocene amber from the Chickaloon Formation in Alaska marks a return to slightly more 13C-enriched compositions, with a d13Cresinmeanof 23.6&.\nPaleocene amber from Evansburg (d13Cresinmean ¼ 22:3&) and Genesee (d13Cresinmean ¼ 23:1&) in Alberta, Canada, are more enriched than their early Eocene counterparts. However, from the Paleocene into the Late Cretaceous (Campanian), resin compositions become increasingly more\nFr eq\nue nc\ny\ndepleted in 13C. The most depleted Cretaceous resins with a d13Cresinmean of 23.9& were found in the Horseshoe Canyon Formation (late Campanian) of southern and central Alberta. From the late Campanian and into the Early Cretaceous, this trend reverses and the d13Cresinmean shifts to more 13C-enriched compositions, as shown by the coeval Grassy Lake and Cedar Lake amber (d13Cresinmean ¼ 23:6&), and the New Jersey Raritan amber (d13Cresinmean ¼ 22:1&) (Fig. 7).\nResins that formed between the Cenomanian and Barremian are characterized by even more enriched d13Cresinmean compositions. During this time interval, Burmese amber (d13Cresinmean ¼ 21:3&), Spanish amber (d13C resin mean ¼\n21:4&), and Lebanese amber (d13Cresinmean ¼ 21:1&) were formed. The oldest Cretaceous amber samples were recovered from the Wealden Group of England (UK). Although the d13Cresinmean ( 22.8&) of the Wealden amber is more depleted than that of the Burmese, Spanish, and Lebanese amber, its d13Cresinmean is not well constrained because only two samples were available for analysis.\nPre-Cretaceous ambers were limited to samples from the Triassic (Carnian) Heiligkreuzkofel Formation of the Dolomites, Italy. With a d13Cresinmean of 20.9&, these ambers are the most 13C-enriched in the current sample set. In accordance with previously published d13C values of amber from the same locality (d13Cresinmean ¼ 20:12&; DalCorso et al., 2011), our results confirm that these Triassic resins are > 6& more 13C-enriched relative to modern resins."
+  }, {
+    "heading": "4. DISCUSSION",
+    "text": "4.1. Influences on the d13C of modern plants"
+  }, {
+    "heading": "4.1.1. Local environmental factors",
+    "text": "Experimental studies, including growth chamber experiments, have shown that plant d13C is influenced by a wide range of local environmental factors, such as water availability, water composition (e.g., salinity, nutrients), light exposure, local temperature, altitude, humidity, presence\nof parasites, etc. (Park and Epstein, 1960; Guy et al., 1980; O’Leary, 1981; Körner et al., 1991; Arens and Jahren, 2000; Edwards et al., 2000; Dawson et al., 2002; Gröcke, 2002; McKellar et al., 2011) (Fig. 8). Each of these factors has a direct influence on the efficiency of fractionation in plants during photosynthesis, and each can cause an isotopic shift on the order of several permil in the d13C of a plant.\nEvery plant community will produce a range of d13C values because the environmental conditions (i.e., growth conditions) for each plant are unique. However, each plant taxon has its own range of growth conditions under which 13C fractionation is maximized. The observation that the d13C of modern resins follows a Gaussian distribution (Fig. 4), suggests that the majority of the resin-producing plants grew under conditions that were intermediate between optimal (i.e., most efficient fractionation) and poor (i.e., least efficient fractionation). Therefore, the relative d13C values of plant matter within a local plant community can be viewed primarily as a measure of the growth conditions.\nFor most plants, including the copious resin producers, it can be assumed that the metabolized CO2 was sourced from isotopically undisturbed air, which had a d13C composition approximating a global atmospheric average. However, local isotopic effects can alter the d13C of the CO2 in the ambient air. Limited air circulation, for example, can lead to a reprocessing of respired air, which is depleted in 13C (i.e., canopy effect). Metabolizing this depleted air causes the d13C of plants to shift towards more negative values. In extreme cases, it can result in a depletion in 13C of plant matter of >6& (Medina and Minchin, 1980). The canopy effect primarily affect plants in the understory of dense tropical rainforests. Among the plant families considered in this study, however, only the Dipterocarpaceae grow in such dense rainforest environments, and only the Miocene amber from Borneo and the Eocene amber from Tadkeshwar, India, are of dipterocarpacean origin."
+  }, {
+    "heading": "4.1.2. Regional and global environmental factors",
+    "text": "The results of recent studies on the global distribution of d13C values in bulk leaf matter indicate that the fractionation of 13C in plants is not only influenced by local environmental factors, but also by regional precipitation patterns (Diefendorf et al., 2010; Kohn, 2010; Fig. 8). It was found that the average d13C of bulk leaf matter and the calculated fractionation values (D13C) show some correlation with the mean annual precipitation (MAP) at a given location. The 13C fractionation thereby increases with increasing MAP (Diefendorf et al., 2010; Kohn, 2010). However, the correlation is strongly influenced by plants that were sampled from very dry environments (MAP < 500 mm/year), in which 13C fractionation is reduced, and those sampled from tropical rainforests\n(MAP > 2000 mm/year), in which fractionation is increased. For plants that grew in environments with an intermediate MAP, average D13C values only show a weak correlation with MAP. Since most of the resin-producing plant families investigated here grow typically in environments with intermediate MAP, the effect of MAP on their D13C can be considered minor. This notion is supported by the observation that the d13Cresinmean values of resins from different modern plant families investigated in this study are very similar. However, the Dipterocarpaceae represent an exception, because they commonly grow in areas with high MAP. Therefore, they are predisposed towards increased 13C fractionation. This ecological preference may explain the low d13C values of dipterocarpaceous resins observed by Murray et al. (1998).\nThe d13C of atmospheric CO2 (d13C resin mean) has a direct impact on the d13C of plant organic matter, and analyses of gas inclusions in ice cores (Francey et al., 1999) and of cor-\nalline carbonates (Swart et al., 2010) indicate that the global average d13Cresinmean has evolved by at least 1& (from around 6.5& to < 7.5&) over the last 200 years. This rapid\nchange in d13Cresinmean is generally linked to the increasing influx of anthropogenic CO2 from fossil fuel combustion, which is depleted in 13C (Suess effect). Although the postindustrial decrease in d13Cresinmean has been detected in the d13C of bulk plant material (e.g., tree rings; Loader et al., 2003), it was not possible to identify a similar shift in d13Cresinmean between modern and pre-industrial resins (i.e., Colombian copal), possibly due to the relatively small number of copal samples analyzed."
+  }, {
+    "heading": "4.1.3. Compositional factors",
+    "text": "In addition to the isotopic variability that is caused by environmental factors, some plant compounds are isotopically distinct from bulk plant matter. Cellulose, for example, is slightly more enriched in 13C ( 2–3&), whereas lignin is slightly more depleted ( 3–4&) compared to the bulk plant (Park and Epstein, 1960; Benner et al., 1987; Schleser et al., 1999; Brugnoli and Farquhar, 2000) (Fig. 9). The fractionation that causes the isotopic deviation of these plant compounds, consequently, must occur after the initial photosynthetic fixation of CO2 by ribulose-1,5bisphosphate carboxylase oxygenase (Rubisco). Unlike cellulose and lignin, the d13C values of plant resins overlap with those of primary plant metabolites, such as leaf sugars and bulk leaf tissues (Fig. 9), which indicates that fractionation during resin biosynthesis (i.e., after the initial CO2 fixation) is minor, typically < 1& (Diefendorf et al., 2012). This conclusion is important because it suggests that d13Cresinmean d13C bulk plant mean , and shifts in d\n13Cresinmean reflect shifts in the d13Cbulk plantmean of C3 plants through time.\nThe observation that the d13C of individual plant compounds can deviate from the d13C of the bulk plant, needs to be considered whenever non-specific plants remains are used in chemostratigraphic studies, since differential preservation of the individual compounds can result in considerable shifts in d13C. For example, mean d13C values of bulk organic matter (i.e., coal, coalified tissues, and cuticles) from the Cretaceous and earliest Cenozoic (Strauss and Peters-Kottig, 2003) are 2.5& lower compared to d13Cresinmean values from the same time interval. This difference can be readily explained by the preferential preservation of 13C-depleted lignin and the breakdown of 13C-enriched cellulose in fossil wood, from which the d13Cresinmean is unaffected."
+  }, {
+    "heading": "4.2. Causes for the shift in 13Cresinmean through time",
+    "text": "The different types of modern resins investigated in this study show a very similar distribution of d13C values (Fig. 5), which indicates that the structure of their terpenoid constituents has little or no effect on their d13C. This conclusion, however, contradicts claims that systematic differences in the fractionation behavior between gymnosperms and angiosperms exist, with plant matter from angiosperms, including resins, generally being enriched in 13C by 2–3& (Diefendorf et al., 2012). Although it is conceivable that certain plant taxa are prone to isotopic biases, due to their ecological preferences (e.g., dipterocarpaceous trees growing in areas with high MAP and closed canopy conditions), there is no conclusive evidence that the fractionation behavior of C3 plants is affected by their phylogenetic position.\nThe tendency of fossil resins to be isotopically more enriched in 13C compared to modern resins could be interpreted as diagenetic overprinting. After exudation, resins generally lose a fraction of their terpenoid constituents— mainly volatile mono- and sesquiterpenes—in addition to water, whereas the non-volatile fractions polymerize rapidly. Once initial polymerization has occurred, any additional maturation of the resins during fossilization causes only minor structural changes (Lambert et al.,\n2008; Tappert et al., 2011). These changes are unlikely to influence the d13C of the resins significantly. In fact, if an isotopic exchange had taken place during diagenesis, fossil resins from different localities should show an erratic distribution of the d13Cresinmean arising from different diagenetic conditions at each locality, but this is not observed. Furthermore, if resins displayed a tendency to become unstable and prone to carbon isotopic exchange through time, they should become continuously more enriched in 13C with increasing age, which is also not the case. Diagenetic resetting should also diminish the natural variability in d13C of resins, and this would result in samples from individual localities converging on similar d13C values instead of retaining their original range of d13C values.\nAs previously mentioned, an important factor that influences the d13C of plant organic matter, including resins, is the carbon isotopic composition of the CO2 in the atmosphere (d13CatmCO2 ). A shift in d\n13CatmCO2 , in fact, would result in a comparable shift in the d13C of plant organic matter. Although changes in d13CatmCO2 have been invoked to explain the d13C variations observed in fossil plant organic matter (Arens et al., 2000; Jahren, 2002; Strauss and Peters-Kottig, 2003; Hasegawa et al., 2003; Jahren et al., 2008), subsequent studies have questioned whether changes in d13CatmCO2 alone can be responsible the observed d13C variability (e.g., Gröcke, 2002; Beerling and Royer, 2002; Lomax et al., 2012; Schubert and Jahren, 2012). If changes in d13CatmCO2 were to be the primary cause for the d\n13C variability of fossil plant organic matter, shifts in d13Cresinmean should correlate with independent proxies for d13Cresinmean, including those that are based on the d13C of marine carbonates (e.g., calcareous tests of benthic foraminifera) (Zachos et al., 2001; Tipple et al., 2010). However, the comparison of the marine d13C record with the resin record shows very little similarity (Fig. 11). A notable exception is the pronounced decline in d13C values, which started in the late Paleocene and lasted well into the early Eocene ( 57– 52 Ma, Fig. 11). This decline, which coincides with times of peak Cenozoic temperatures (i.e., Early Eocene climatic optimum, EECO), is discernible in both the marine and the resin d13C record and it is only interrupted by short-lived negative excursions in d13C and d18O (e.g., Paleocene Eocene Thermal Maximum, PETM) (Zachos et al., 2008).\nThe cause for the rapid change in atmosphere composition during the PETM and other similar short-lived (<20 ka) events remains a matter of debate (McInerney and Wing, 2011), but the observation that these events are associated with negative excursions in d13C and d18O indicates that a considerable amount of 13C-depleted CO2 was added to the atmosphere during these intervals, causing peak warming (hyperthermals). Proposed mechanisms to create such a rapid influx of 13C-depleted CO2 into the atmosphere include the dissociation and oxidation of methane hydrates in marine sediments (Sloan et al., 1992; Dickens et al., 1995, 1997), the release of thermogenic CH4 from sediments through magmatism and its subsequent oxidation (Svensen et al., 2004; Westerhold et al., 2009), an increase in oxidation of organic matter caused by the drying of epicontinental seas (Higgins and Schrag, 2006), the release and oxidation of CH4 stored in polar permafrost\n(DeConto et al., 2012), and the rapid burning of Paleocene terrestrial carbon (Kurtz et al., 2003). Since the effects of these processes are considered to be short-lived, they are unlikely to be responsible for the more gradual decline in the d13C between the late Paleocene and early Eocene. Therefore, other, more fundamental processes, such as changes in the rate of oxidation of organic matter, must be invoked as driving forces for this d13C decline.\nDespite the exceptional d13C excursions in the early Paleogene, the shifts in d13C of benthic foraminifera through the Cenozoic are only moderate ( 2&) even at their extremes. In fact, between the Middle Eocene and the Miocene, d13C values of marine carbonates remain relatively constant, with only minor shifts of 61&. The shifts in d13Cresinmean over the same time interval are approximately 6&, and they record a long-term trend towards more negative values (Fig. 11). In summary, changes in d13CatmCO2 may influence the d13C of plant organic matter to some extent, but their influence is insufficient to account for the magnitude of the observed shifts in d13Cresinmean.\nFurther comparison of the d13Cresinmean with the marine stable isotope record shows that for much of the Cenozoic, negative shifts in d13Cresinmean broadly correlate with positive shifts of a similar magnitude in the d18O of marine carbonates (Fig. 11). The only pronounced exception is the late Paleocene to early Eocene isotopic decline, which resulted in a shift in both d13Cresinmean and d\n18O to more negative values. The marine d18O record is primarily a temperature record; with less negative d18O values reflecting higher average ocean surface temperatures and consequently higher global temperatures (Emiliani, 1955; Bemis et al., 1998). The correlation between the marine d18O and the d13Cresinmean record, therefore, indicates that resins that formed during intervals of high global temperatures tend to be more enriched in 13C. Since high global temperatures are generally linked to high atmospheric pCO2 (Royer, 2006), variations in atmospheric pCO2 seem to be an obvious alternative to explain shifts in the d13C of plant matter, including resins.\nThe results of recent growth experiments under controlled pCO2 and water/moisture availability suggest a hyperbolic increase of plant fractionation (D13C) with increasing pCO2 (Schubert and Jahren, 2012). These results are consistent with most previous studies on 13C fractionation in plants, which also reported positive correlations between D13C and pCO2 (Park and Epstein, 1960; Beerling and Woodward, 1993; Treydte et al., 2009). However, some studies found negative correlations or no correlations (Beerling, 1996; Jahren et al., 2008). The discrepancy between these studies is most likely the result of differences in the control of the growth conditions (i.e., water availability, light exposure, etc.) because variations in the growth conditions can mask the isotopic effect caused by increasing pCO2.\nIrrespective of the extent of the pCO2 impact, the observation that 13C fractionation in plants increases with increasing pCO2 cannot account for the d\n13C shifts in the resin record (Fig. 7). In the resin record, the least depleted d13Cresinmean compositions occur precisely during intervals with predicted high atmospheric pCO2. We conclude, once again, that some other process must be responsible for the shifts in d13Cresinmean.\n)a M ( egA\nAnother important factor of the atmosphere that influences the isotopic fractionation in plants is the oxygen content. Preliminary experimental studies on C3 plants indicate that fractionation of carbon during photosynthesis will increase if the pO2 in the ambient air is significantly higher than modern values (pO2 = 21%), resulting in plant bio-\nmass that is isotopically more depleted in 13C (Berner et al., 2000). However, the opposite effect (i.e., a decrease in fractionation) has been observed under lower than modern pO2 in ambient air (Beerling et al., 2002). This means that plants growing under low O2 conditions will be more enriched in 13C than those growing under high\nO2 conditions. The strong influence of O2 on the carbon isotope fractionation in C3 plants is consistent with theoretical considerations of leaf-gas exchange processes and the fixation of CO2 by plants. During photosynthesis, atmospheric CO2 is converted in a carboxylation reaction through the enzyme Rubisco to energy-rich metabolites, such as glucose. At the same time, atmospheric O2 competes with CO2 for reaction sites on Rubisco. The reaction of Rubisco with O2 (oxygenation) partially offsets photosynthesis and results in the release of CO2 in the process of photorespiration. With higher atmospheric pO2, more oxygen is used through photorespiration, which leads to an increase of CO2 within the plant cell and hence an increase in 13C fractionation. The relationship between 13Cfractionation in plants (D13C) and pCO2 has been described in general terms by Farquhar et al. (1982) as:\nD13C ¼ aþ ðb aÞci=ca ð1Þ\nwhere ci denotes the intercellular pCO2, and ca the pCO2 in the ambient atmosphere. The factors a and b represent fractionations that occur during diffusion through the stomata (a = 4.4&) and during fixation of CO2 by Rubisco (b = 27&), respectively.\nThe observed effect of atmospheric pO2 on the d 13C of plant tissues means that the d13C of plant organic matter should be explored as a proxy for pO2 in ancient atmospheres (paleo-oxybarometer). Given that the d13C distributions of modern plant organic matter and resins are very similar (Fig. 4), we conclude that amber has all the prerequisite qualities to be used as a pO2-proxy.\nTo estimate pO2 from plant d 13C it is necessary to quantify the 13C fractionation in the plant at varying atmospheric pO2. This information is typically derived from experimental work on plants in growth chambers under controlled pO2 conditions. However, only a few studies to date have attempted to systematically determine the influence of pO2 on plant fractionation, and the results of these studies show large discrepancies (e.g., compare Smith et al., 1976; Berry et al., 1972 and Beerling et al., 2002). These discrepancies may also be the result of differences in the control of the experimental growth conditions, similar to those observed in the CO2 growth experiments, since even small variations in the growth conditions (water and nutrient availability, light exposure etc.) can mask the effects of varying pO2. Irrespective of the cause of the discrepancies, none of the proposed relationships that are based on experimental data (e.g., Berner et al., 2000; Beerling et al., 2002) can account for the magnitude of the shifts in d13Cresinmean. In fact, calculated pO2 values for most of the Cretaceous and early Paleocene would be close to 0% if the relationship between pO2 and D\n13C proposed by Berner et al. (2000) and Beerling et al. (2002) was applied to fossil resins. More realistic pO2 values would require much larger empirical scaling factors than those proposed by these authors.\nDue to the inconsistencies in the experimental determination of the 13C fractionation factor, we used a direct relationship between resin-derived D13C and atmospheric pO2 as a first order approximation. Under this assumption, the fractionation effect from photorespiration is proportional to the pO2 in the ambient air. The use of a scaling\nfactor, in this case, is not necessary. A direct relationship may not be extended to extremely low values (pO2 < 10%), but we believe a direct relationship is a reasonable assumption for moderate pO2 levels as long as physiological adaptations of plants (e.g., changes in metabolism) do not come into play. In our model, paleo-pO2 at the time of resin formation can be estimated as:\npO2 ¼ D13Cresin dD13CpCO2\nD13C pOmodern2 ð2Þ\nwhere D13Cresin denotes the 13C fractionation of resin-bearing plants at the time of resin formation, and D13C represents the carbon isotope fractionation of plants in the current atmosphere (pOmodern2 ¼ 21%; pCO modern 2 ¼ 0:039%), which is approximately 21&. Based on Farquhar et al. (1982), D13Cresin can be calculated as:\nD13C13resin ¼ ðd13CatmCO2 d 13Cmeanresin Þ 1000 1000þ d13Cmeanresin\nð3Þ\nIn this equation, d13CatmCO2 denotes the isotopic composition of CO2 in the ambient air. For modern plants, d13CatmCO2 can be directly measured. For samples from the geological past, values for d13CatmCO2 were calculated from the d13C and d18O of benthic foraminiferal tests, following the approach of Tipple et al. (2010). The d18O composition is thereby used to correct for the temperature-dependency of the fractionation between dissolved inorganic carbon and CO2. For the Cenozoic, the d\n13C and d18O data to calculate d13CatmCO2 were taken from Zachos et al. (2001). For the late and mid-Cretaceous, d13C and d18O values from benthic foraminifera were taken from Li and Keller (1999) (late Campanian) and Huber et al. (1995) (Campanian–Albian). Due to the lack of high-quality stable isotope data from benthic foraminifera for the Early Cretaceous and the Triassic, we used average d13C and d18O values from compilations of Weissert and Erba (2004) and Korte et al. (2005), which are based on bulk carbonate rocks and carbonaceous macrofossils. Although this approach introduces some additional uncertainties, most of the error on the d13CatmCO2 calculations is due to uncertainties in the exact age placement of the fossil resin samples.\nThe factor dD13CpCO2 in Eq. (2) denotes the change of D13C at varying pCO2 relative to the fractionation at modern pCO2. As previously mentioned, the influence of pCO2 on plant fractionation has recently been investigated in growth experiments under systematically controlled growth conditions by Schubert and Jahren (2012). These authors observed a hyperbolic relationship between the fractionation in C3 plants and pCO2, and formulated a best-fit function, using their own and previously published data. Based on this best-fit function proposed by Schubert and Jahren (2012), we calculated dD13CpCO2 as:\ndD13CpCO2 ¼ ð28:26Þð0:21ÞðpCO2 þ 25Þ 28:26þ ð0:21ÞðpCO2 þ 25Þ D13C ð4Þ\nwhereby pCO2 is given in ppm. Although there is a general consensus that the pCO2 for most of the Cenozoic and Mesozoic was higher than at present, considerable dispute remains about the absolute pCO2 values in the geological\npast. To address the uncertainties in the paleo-pCO2 estimates and their impact on the pO2 results, we calculated dD13CpCO2 using pCO2 values derived by three independent approaches: (1) mass balance calculations (GEOCARB III, Berner and Kothavala, 2001), (2) the abundance of stomata on leaf surfaces (Retallack, 2001), and (3) the d13C of pedogenic carbonates (Ekart et al., 1999). Despite considerable differences in the proposed pCO2 levels between these three models, the calculated pO2 values show only minor deviations (<±1.5%) for most of the Cenozoic and Mesozoic. Larger discrepancies (<±3%) are restricted to the Paleocene and early Eocene (Fig. 10). This indicates that most of the uncertainty in the calculated pO2 values rests on the accuracy of the relationship between D13C and pCO2 as determined by Schubert and Jahren (2012)."
+  }, {
+    "heading": "4.2.1. Mesozoic and Cenozoic pO2 evolution",
+    "text": "A compilation of the calculated variations in pO2 through time is compared to d13Cresinmean, the marine stable isotope record, and important environmental events in Fig. 11. It is apparent from this compilation that for most of the Cenozoic and Mesozoic pO2 was considerably lower compared to today. This is consistent with a reduced 13C frac-\ntionation (i.e., higher d13Cresinmean values) of resin-producing plants in the geological past. The particularly high d13Cresinmean values of early to mid-Cretaceous amber samples suggest that the pO2 at the time of their formation was as low as 10–11% (Fig. 11). Such low pO2 levels are regarded to be below the limit of combustion and seem to contradict the presence of charcoal in Cretaceous sedimentary sequences (Jones and Chaloner, 1991; Belcher and McElwain, 2008). However, the presence of charcoal in sedimentary rocks itself does not preclude low atmospheric pO2, since the charring process (i.e., pyrolysis) only occurs under low-O2 conditions. Furthermore, experiments to establish the lower limit of atmospheric pO2 required for combustion did not consider certain factors that influence the combustion in nature, such as the effect of wind, which may lower the required pO2 considerably.\nDespite some uncertainties about absolute pO2 values, our low-pO2 estimates for the mid-Cretaceous are consistent with pO2 estimates based on the abundance and mass balance of carbon and pyritic sulfur in sedimentary rocks during that same time interval (Berner and Canfield, 1989; Berner, 2006, Fig. 12). Our results, on the other hand, question recently proposed paleo-pO2 estimates that are\nbased on the abundance of charcoal in the fossil record, which predict a higher-than-modern pO2 for the Cretaceous and the Cenozoic (Glasspool and Scott, 2010; Brown et al., 2012, Fig. 12).\nAs previously mentioned, shifts in the Cenozoic d13Cresinmean broadly resemble those in the marine d18O record, with the exception of the negative d13Cresinmean excursion in the early Paleogene (Fig. 11). This indicates that changes in plant fractionation, i.e., changes that are linked to varying pO2, may also be linked to changes in global temperatures, and thus pCO2. In fact, our pO2 estimates for the Cretaceous and Cenozoic show moderate to strong negative correlations with pCO2 estimates derived by independent methods (Fig. 13). These correlations suggest that times of low pO2, on a broad scale, were characterized by high pCO2 and high global temperatures, and vice versa.\nFor the Early Cretaceous, it appears that an early phase of low pO2 (12–13% O2) was followed by an interval of even lower pO2 levels (10–11% O2) during the Aptian to Turonian. This phase of extremely-low pO2 coincides with the mid-Cretaceous greenhouse—a time interval characterized by high atmospheric pCO2, high global temperatures, and extensive ocean anoxic events (Jenkyns, 1980; Huber et al., 1995; Wilson and Norris, 2001; Leckie et al., 2002). From the Turonian to the end of the Cretaceous, atmospheric pO2 continuously rose to >15%, whereas pCO2 and global temperatures declined.\nThe early Paleogene appears to have been characterized by moderate pO2 levels in the atmosphere (14–18% O2), which declined to a Cenozoic minimum of 12% O2 immediately after the EECO (Fig. 11). The EECO marks the time of highest global temperatures and pCO2 during the Ceno-\nzoic, as indicated by the exceptionally light d18O composition of marine carbonates deposited during that time (Fig. 11). As previously mentioned, the time interval just prior to the EECO (i.e., late Paleocene to early Eocene) was marked by a steady decline in the d13C of marine carbonates and in d13Cresinmean, indicating an increased influx of 13C-depleted CO2 into the atmosphere and an associated decrease in d13CatmCO2 that lasted for 5 million years. In view of our pO2 estimates, this continuous influx of\n13C-depleted CO2 was most likely the result of an increase in the rate of oxidation (oxidative weathering), caused by the rising global temperatures and by elevated pO2 levels during that time interval. The increased rate of oxidative weathering would have dramatically accelerated the oxidation of organic matter and let to a further increase in pCO2 and greenhouse forcing. At the same time, it would have resulted in a continuous depletion of O2 in the atmosphere, which would explain the low pO2 following the EECO.\nAfter the height of the early Eocene greenhouse phase, atmospheric pO2 went into a long-term phase of continuous recovery until it reached modern levels. The recovery in pO2 was most likely the result of a decreased rate of oxidative weathering and an associated increase in carbon burial. This phase was also characterized by a continuous decrease in pCO2 and global temperatures, which culminated in the glacial inception in the southern and northern hemispheres during the terminal Paleogene."
+  }, {
+    "heading": "4.2.2. Volcanism and its effects on pO2",
+    "text": "It is noteworthy that the intervals with lowest resininferred pO2 during the Cretaceous and the Cenozoic were preceded by episodes of intense volcanism and the\nith previously proposed models that are based on mass balance rcoal in the rock record (Glasspool and Scott, 2010).\ncirehpso mtA\n)v mpp(\nO Cp\nemplacement of some of the largest known igneous provinces (LIPs). These include the Ontong-Java Plateau and the Parana-Etendeka Province (Early Cretaceous), as well as the Deccan and North Atlantic Provinces (Late Cretaceous to Paleocene) (Fig. 11, Larson and Erba, 1999). The emplacement of these LIPs was associated with the expulsion of vast amounts of mantle-derived volcanic gases, which are typically dominated by H2O and CO2, but also contain sulfur dioxide (SO2) and other trace gases (Symonds et al., 1994). The expulsion of such large quantities of volcanic gases, particularly of CO2, provides a valid mechanism to cause a rapid increase in atmospheric pCO2 and an associated increase of greenhouse forcing and global temperatures during these time intervals. Although there is still some dispute over the long-term effect of volcanogenic CO2 emissions (Self et al., 2005), the hypothesis that LIP magmatism contributed to changes in atmospheric composition and global climate is supported by the marine d13C record, which indicates that the late Paleocene decline of d13C was preceded by a notable rise in d13C values that started in the mid-Paleocene. This rise in d13C coincides with phases of intense volcanism in the Deccan area of India, and in the North Atlantic Igneous Province (Fig. 11). Marine carbonates deposited at that time reached d13C values of around +2& (Fig. 11; Zachos et al., 2001). These unusually positive values are consistent with a strong influx of mantle-derived CO2 into the atmosphere because mantle CO2 is enriched in\n13C relative to CO2 derived from organic matter and has a rather restricted d13C range ( 8 to 3&, mean: 5&) (Exley et al., 1986; Javoy and Pineau, 1991).\nAlthough the episodes of LIP volcanism in the Early Cretaceous and the Late Cretaceous/Paleocene may have not been sufficient to sustain long-term greenhouse conditions, they may have served as a trigger for the subsequent increase of oxidative weathering. This, in turn, would have provided a feedback for the further rise in pCO2 and the\nprolonged greenhouse episodes that followed the LIP volcanism. In this scenario, the elevated pO2 that prevailed before the onset of the LIP volcanism (i.e., in the Early and Late Cretaceous) would have been an important factor that determined the extent of the subsequent greenhouse phases.\nAfter the cessation of LIP volcanism and the end of the greenhouse periods in the Cretaceous and the Cenozoic, atmospheric pO2 was at its minimum, but slowly increased over the following tens of millions of years, as the result of a decrease in oxidative weathering (associated with an increase in carbon burial) and the absence of the CO2-influx from LIP magmatism. After the mid-Cretaceous, the cycle of increasing pO2 and decreasing pCO2 lasted for 40 million years, but was interrupted by renewed LIP volcanism at the end of the Cretaceous. The Cenozoic decline of pCO2 and increase in pO2, on the other hand, continued uninterrupted for 50 million years from the Middle Eocene into modern times. The prolonged absence of largescale volcanism during that time period may have been a prerequisite for pCO2 and global temperatures to decrease sufficiently to allow sea ice to form on the polar oceans, ultimately triggering the onset of glaciation in both hemispheres in the latest Paleogene."
+  }, {
+    "heading": "4.2.3. Effects of pO2 on animal evolution",
+    "text": "Although it has been proposed that atmospheric pO2 has a profound effect on the physiology and evolution of animals, and that gigantism in animals is linked to high pO2 (Graham et al., 1995; Clapham and Karr, 2012), our data preclude such a link for the evolution of giant theropod and sauropod dinosaurs. Considering the low pO2 that prevailed during the Cretaceous and, at least, part of the Triassic, it is more reasonable to assume that a high primary photosynthetic productivity (i.e., food availability) caused by high pCO2 and high global temperatures was the key factor in the evolution of dinosaurs and their tendency to\ndevelop large body sizes. A similar conclusion can be drawn for the Eocene radiation of large placental mammals, which has previously been linked to high pO2 levels as well (Falkowski et al., 2005). Based on our data, however, this time interval was also characterized by low pO2."
+  }, {
+    "heading": "5. CONCLUSIONS AND FUTURE DIRECTIONS",
+    "text": "Due to their ability to polymerize into highly resistant organic macromolecules that are demonstrably representative of whole-plant carbon fractionation, resins can preserve pristine isotopic signatures over geological time. This makes them ideal natural biomarkers for chemostratigraphic studies. As with all plant organic constituents, the d13C of C3 plant resins is influenced by a range of local environmental and ecological factors, which result in considerable isotopic variability. The variability seen in resins is directly comparable to that of primary plant biomass, which suggests that the d13C of resins can be used as a measure of the d13C of bulk plant organic matter. To minimize statistical biases caused by variations in the growth conditions of individual plants, it is necessary to analyze sufficiently large sample populations and to compare their mean isotopic values (d13Cresinmean). This is particularly important for the comparison of resins of different ages. Since major diagenetic influences on the d13C of fossil resins are negligible, variations in d13Cresinmean can be related to long-term global environmental changes. In fact, our present compilation and analysis of d13C values from exhaustively sampled resins, which is the largest data set of its kind, strongly suggests that the pO2 of ancient atmospheres is reliably represented in the isotopic composition of these secondary metabolites.\nResins can be used as proxies of atmospheric composition for much of the Cenozoic and Mesozoic, and perhaps even into the Paleozoic, given that resin-producing plants have existed since at least the Carboniferous. Resins from different localities, different botanical sources, and different ages are directly comparable because they consist of similar macromolecules, and they are resistant to post-depositional isotopic exchange. These advantages are complemented by the fact that the analysis of resins does not require extensive sample treatment, which limits biases introduced by laboratory procedures. Therefore, resins can provide a consistent and highly resolved terrestrial d13C record, particularly when samples from stratigraphically and chronologically well-characterized sedimentary units are analyzed.\nTo improve our understanding of the fractionation behavior of plant organic matter in relation to atmospheric composition, it is also necessary to conduct additional, systematically controlled growth chamber experiments on a wider range of plants, including resin-producing plant taxa. This information will help to more accurately quantify compositional changes of the atmosphere that occurred throughout Earth’s history. Additional constraints on the composition of ancient atmospheres may also be gained by combining isotopic information with careful analysis of biological inclusions within amber—e.g., insects, plants, and fungi—which are frequently preserved with exquisite detail."
+  }, {
+    "heading": "ACKNOWLEDGMENTS",
+    "text": "We are grateful to Jim Basinger, Madelaine Böhme, Xavier Delclòs, Michael Engel, George Mustoe, Philip Perkins, Guido Roghi, Alexander Schmidt, and Chris Williams for generously providing samples used in this study. Thomas Stachel is thanked for providing access to the FTIR spectrometer housed in his laboratory. We also thank Stacey Gibb and Gabriela Gonzalez for assistance at various stages, and we would like to thank the three anonymous reviewers, whose constructive comments have improved this publication considerably. Much of this research was supported by the Natural Science and Engineering Research Council of Canada (Discovery awards to A.P. Wolfe and K. Muehlenbachs, Postdoctoral fellowship to R.C. McKellar). J. Ortega was supported by the Ministerio de Economı́a y Competitividad, Fulbright España, and FECYT."
+  }],
+  "year": 2013,
+  "references": [{
+    "title": "A new fossil resin with biological inclusions in lower Cretaceous deposits from Alava (Northern Spain, Basque-Cantabrian Basin)",
+    "authors": ["J. Alonso", "A. Arillo", "E. Barron", "C. Corral J", "J. Grimalt", "F. Lopez J", "R. Lopez", "X. Martinez-Delclos", "V. Ortuno", "E. Penalver", "R. Trincao P"],
+    "venue": "J. Paleontol",
+    "year": 2000
+  }, {
+    "title": "The nature and fate of natural resins in the geosphere—XII. Investigation of C-ring aromatic diterpenoids in Raritan amber by pyrolysis–GC-matrix isolation FTIR-MS",
+    "authors": ["B. Anderson K"],
+    "venue": "Geochem. Trans",
+    "year": 2006
+  }, {
+    "title": "The nature and fate of natural resins in the geosphere—III. Re-evaluation of the structure and composition of Highgate Copalite and Glessite",
+    "authors": ["B. Anderson K", "E. Botto R"],
+    "venue": "Org. Geochem",
+    "year": 1993
+  }, {
+    "title": "Analysis of fossil resins from Axel Heiberg Island, Canadian Arctic. In Amber, Resinite, and Fossil Resins",
+    "authors": ["B. Anderson K", "A. LePage B"],
+    "year": 1995
+  }, {
+    "title": "The nature and fate of natural resins in the geosphere—II. Identification, classification and nomenclature of resinites",
+    "authors": ["B. Anderson K", "E. Winans R", "E. Botto R"],
+    "venue": "Org. Geochem",
+    "year": 1992
+  }, {
+    "title": "Carbon isotope excursion in atmospheric CO2 at the Cretaceous-Tertiary boundary: evidence from terrestrial sediments",
+    "authors": ["C. Arens N", "H. Jahren A"],
+    "venue": "Palaios",
+    "year": 2000
+  }, {
+    "title": "Can C3 plants faithfully record the carbon isotopic composition of atmospheric carbon",
+    "authors": ["C. Arens N", "H. Jahren A", "R. Amundson"],
+    "venue": "dioxide? Paleobiology",
+    "year": 2000
+  }, {
+    "title": "Lebanese amber",
+    "authors": ["D. Azar", "R. Gèze", "F. Acra"],
+    "year": 2010
+  }, {
+    "title": "Biomarker and carbon isotope variation in coal and fossil wood of Central Europe through the Cenozoic",
+    "authors": ["A. Bechtel", "R. Gratzer", "F. Sachsenhofer R", "J. Gusterhuber", "A. Lücke", "W. Püttmann"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2008
+  }, {
+    "title": "Spectroscopic investigation of amber",
+    "authors": ["W. Beck C"],
+    "venue": "Appl. Spec. Rev",
+    "year": 1986
+  }, {
+    "title": "The infrared spectra of amber and the identification of Baltic amber",
+    "authors": ["W. Beck C", "E. Wilbur", "S. Meret", "D. Kossove", "K. Kermani"],
+    "venue": "Archaeometry",
+    "year": 1965
+  }, {
+    "title": "13C discrimination by fossil leaves during the late-glacial climate oscillation 12–10 ka BP: measurements and physiological controls",
+    "authors": ["J. Beerling D"],
+    "venue": "Oecologia",
+    "year": 1996
+  }, {
+    "title": "Fossil plants as indicators of the Phanerozoic global carbon cycle",
+    "authors": ["J. Beerling D", "L. Royer D"],
+    "venue": "Ann. Rev. Earth Planet. Sci",
+    "year": 2002
+  }, {
+    "title": "Ecophysiological responses of plants to global environmental change since the last glacial maximum",
+    "authors": ["J. Beerling D", "I. Woodward F"],
+    "venue": "New Phytol",
+    "year": 1993
+  }, {
+    "title": "Carbon isotope evidence implying high O2/CO2 ratios in the Permo-Carboniferous atmosphere",
+    "authors": ["J. Beerling D", "A. Lake J", "A. Berner R", "J. Hickey L", "W. Taylor D", "L. Royer D"],
+    "venue": "Geochim. Cosmochim",
+    "year": 2002
+  }, {
+    "title": "Limits for combustion in low O2 redefine paleoatmospheric predictions for the Mesozoic",
+    "authors": ["M. Belcher C", "C. McElwain J"],
+    "year": 2008
+  }, {
+    "title": "Reevaluation of the oxygen isotopic composition of planktonic foraminifera: experimental results and revised paleotemperature",
+    "authors": ["E. Bemis B", "J. Spero H", "J. Bijma", "W. Lea D"],
+    "venue": "equations. Paleoceanography",
+    "year": 1998
+  }, {
+    "title": "Depletion of 13C in lignin and its implications for stable carbon isotope studies",
+    "authors": ["R. Benner", "L. Fogelt M", "K. Sprague E", "E. Hodsong R"],
+    "venue": "Nature 329,",
+    "year": 1987
+  }, {
+    "title": "Atmospheric oxygen over Phanerozoic time",
+    "authors": ["A. Berner R"],
+    "venue": "Proc. Natl. Acad. Sci. U.S.A",
+    "year": 1999
+  }, {
+    "title": "GEOCARBSULF: a combined model for Phanerozoic atmospheric O2 and CO2",
+    "authors": ["A. Berner R"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 2006
+  }, {
+    "title": "A new model for atmospheric oxygen over Phanerozoic time",
+    "authors": ["A. Berner R", "E. Canfield D"],
+    "venue": "Am. J. Sci",
+    "year": 1989
+  }, {
+    "title": "GEOCARB III: a revised model of atmospheric CO2 over Phanerozoic time",
+    "authors": ["A. Berner R", "Z. Kothavala"],
+    "venue": "Am. J. Sci",
+    "year": 2001
+  }, {
+    "title": "Isotope fractionation and atmospheric oxygen: implications for Phanerozoic O2 evolution",
+    "authors": ["A. Berner R", "T. Petsch S", "A. Lake J", "J. Beerling D", "N. Popp B", "S. Lane R", "A. Laws E", "B. Westley M", "N. Cassar", "I. Woodward F", "P. Quick W"],
+    "venue": "Science 287,",
+    "year": 2000
+  }, {
+    "title": "Effect of oxygen concentration during growth on carbon isotope discrimination in C3 and C4 species of Atriplex",
+    "authors": ["A. Berry J", "H. Troughton J", "O. Björkman"],
+    "venue": "Carnegie Inst. Washington Yearb",
+    "year": 1972
+  }, {
+    "title": "An integrated model for soil organic carbon and CO2: implications for paleosol carbonate pCO2 paleobarometry",
+    "authors": ["J. Bowen G", "J. Beerling D"],
+    "venue": "Global Biogeochem. Cycles",
+    "year": 2004
+  }, {
+    "title": "Identification of Carboniferous (320 million years old) class Ic amber",
+    "authors": ["S. Bray P", "B. Anderson K"],
+    "venue": "Science 326,",
+    "year": 2009
+  }, {
+    "title": "Conceptual framework for geographicbotanical affinities of fossil resin",
+    "authors": ["L. Broughton P"],
+    "venue": "Can. J. Earth Sci",
+    "year": 1974
+  }, {
+    "title": "Cretaceous wildfires and their impact on the Earth system",
+    "authors": ["E. Brown S. A", "C. Scott A", "J. Glasspool I", "E. Collinson M"],
+    "venue": "Cretaceous Res",
+    "year": 2012
+  }, {
+    "title": "Photosynthetic fractionation of carbon isotopes",
+    "authors": ["E. Brugnoli", "D. Farquhar G"],
+    "venue": "Kluwer Academic,",
+    "year": 2000
+  }, {
+    "title": "An isotopic study of paleosol carbonates from Olduvai Gorge",
+    "authors": ["E. Cerling T", "L. Hay R"],
+    "venue": "Quat. Res",
+    "year": 1986
+  }, {
+    "title": "Environmental and biotic controls on the evolutionary history of insect body size",
+    "authors": ["E. Clapham M", "A. Karr J"],
+    "venue": "Proc. Natl. Acad. Sci. U.S.A",
+    "year": 2012
+  }, {
+    "title": "New oxygen isotope evidence for long-term Cretaceous climatic change in the Southern Hemisphere",
+    "authors": ["J. Clarke L", "C. Jenkyns H"],
+    "venue": "Geology",
+    "year": 1999
+  }, {
+    "title": "Comparison of stable isotope reference samples",
+    "authors": ["B. Coplen T", "C. Kendall", "J. Hopple"],
+    "venue": "Nature",
+    "year": 1983
+  }, {
+    "title": "Geology of an amber locality in the Hukawng Valley",
+    "authors": ["D. Cruickshank R", "K. Ko"],
+    "venue": "Northern Myanmar. J. Asian Earth Sci",
+    "year": 2003
+  }, {
+    "title": "13C NMR and IR analyses of structure, aging and botanical origin of Dominican and Mexican ambers. Phytochem",
+    "authors": ["A. Cunningham", "D. Gay I", "C. Oehlschlager A", "H. Langenheim J"],
+    "year": 1983
+  }, {
+    "title": "Carbon-isotope variability of Triassic amber, as compared with wood and leaves (Southern Alps, Italy)",
+    "authors": ["J. DalCorso", "N. Preto", "E. Kustatscher", "P. Mietto", "G. Roghi", "C. Jenkyns H"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2011
+  }, {
+    "title": "Stable isotopes in plant ecology",
+    "authors": ["E. Dawson T", "S. Mambelli", "H. Plamboeck A", "H. Templer P", "P. Tu K"],
+    "venue": "Ann. Rev. Ecol. Syst",
+    "year": 2002
+  }, {
+    "title": "Past extreme warming events linked to massive carbon release from thawing permafrost",
+    "authors": ["M. DeConto R", "S. Galeotti", "M. Pagani", "D. Tracy", "K. Schaefer", "T. Zhang", "D. Pollard", "J. Beerling D"],
+    "venue": "Nature 484,",
+    "year": 2012
+  }, {
+    "title": "A blast of gas in the latest Paleocene; simulating first-order effects of massive dissociation of oceanic methane",
+    "authors": ["R. Dickens G", "M. Castillo M", "G. Walker J. C"],
+    "venue": "hydrate. Geology",
+    "year": 1997
+  }, {
+    "title": "Dissociation of oceanic methane hydrate as a cause of the carbon isotope excursion at the end of the Paleocene",
+    "authors": ["R. Dickens G", "R. O’Neil J", "K. Rea D", "M. Owen R"],
+    "venue": "Paleoceanography",
+    "year": 1995
+  }, {
+    "title": "Distribution and carbon isotope patterns of diterpenoids and triterpenoids in modern temperate C3 trees and their geological significance",
+    "authors": ["F. Diefendorf A", "H. Freeman K", "L. Wing S"],
+    "venue": "Geochim. Cosmochim",
+    "year": 2012
+  }, {
+    "title": "Global patterns in leaf",
+    "authors": ["F. Diefendorf A", "E. Mueller K", "L. Wing S", "L. Koch P", "H. Freeman K"],
+    "year": 2010
+  }, {
+    "title": "13C discrimination and implications for studies of past and future climate",
+    "authors": ["D. Edwards T. W", "W. Graf", "P. Trimborn", "W. Stichler", "J. Lipp", "D. Payer H"],
+    "venue": "Proc. Natl. Acad. Sci",
+    "year": 2000
+  }, {
+    "title": "A 400 million year carbon isotope record of pedogenic carbonate: implications for paleoatmospheric carbon dioxide",
+    "authors": ["D. Ekart D", "E. Cerling T", "P. Montanez I", "N. Tabor"],
+    "venue": "Am. J. Sci",
+    "year": 1999
+  }, {
+    "title": "Pleistocene temperatures",
+    "authors": ["C. Emiliani"],
+    "venue": "J. Geol",
+    "year": 1955
+  }, {
+    "title": "Carbon isotope systematics of a mantle hotspot: a comparison of Loihi seamount and MORB glasses",
+    "authors": ["A. Exley R", "P. Mattey D", "A. Clague D", "T. Pillinger C"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 1986
+  }, {
+    "title": "The rise of oxygen over the past 205 million years and the evolution of large placental mammals",
+    "authors": ["G. Falkowski P", "E. Katz M", "J. Milligan A", "K. Fennel", "S. Cramer B", "P. Aubry M", "A. Berner R", "J. Novacek M", "M. Zapol W"],
+    "venue": "Science 309,",
+    "year": 2005
+  }, {
+    "title": "Carbon isotope discrimination and photosynthesis",
+    "authors": ["D. Farquhar G", "R. Ehleringer J", "T. Hubick K"],
+    "venue": "Ann. Rev. Plant Physiol. Plant Mol. Biol",
+    "year": 1989
+  }, {
+    "title": "On the relationship between carbon isotope discrimination and the intercellular carbon dioxide concentration in leaves",
+    "authors": ["D. Farquhar G", "H. O’Leary M", "A. Berry J"],
+    "venue": "Aust. J. Plant Physiol",
+    "year": 1982
+  }, {
+    "title": "A 1000-year high precision record",
+    "authors": ["J. Francey R", "E. Allison C", "M. Etheridge D", "M. Trudinger C", "G. Enting I", "M. Leuenberger", "L. Langenfelds R", "E. Michel", "P. Steele L"],
+    "year": 1999
+  }, {
+    "title": "Die Bernsteinlagerstätte Bitterfeld, nur ein",
+    "authors": ["R. Fuhrmann"],
+    "year": 2005
+  }, {
+    "title": "Phanerozoic concentrations of atmospheric oxygen reconstructed from sedimentary charcoal",
+    "authors": ["J. Glasspool I", "C. Scott A"],
+    "venue": "Nat. Geosci",
+    "year": 2010
+  }, {
+    "title": "Implications of the Late Paleozoic oxygen pulse for physiology and evolution",
+    "authors": ["B. Graham J", "R. Dudley", "N. Aguilar", "C. Gans"],
+    "venue": "Nature 375,",
+    "year": 1995
+  }, {
+    "title": "Occurrence, chemical characteristics, and paleontology of the fossil resins from New Jersey",
+    "authors": ["D. Grimaldi", "W. Beck C", "J. Boon J"],
+    "venue": "Am. Mus. Novit. 2948,",
+    "year": 1989
+  }, {
+    "title": "Fossiliferous Cretaceous amber from Myanmar (Burma): its rediscovery, biotic diversity, and paleontological significance",
+    "authors": ["D. Grimaldi", "S. Engel M", "P. Nascimbene"],
+    "venue": "Am. Mus. Novit. 3361,",
+    "year": 2002
+  }, {
+    "title": "Carbon-isotope analyses of fossil plants as a chemostratigraphic and palaeoenvironmental",
+    "authors": ["R. Gröcke D"],
+    "venue": "tool. Lethaia",
+    "year": 1998
+  }, {
+    "title": "Carbon-isotope composition of Lower Cretaceous fossil wood: ocean–atmosphere chemistry and relation to sea-level change",
+    "authors": ["R. Gröcke D"],
+    "venue": "Geology",
+    "year": 1999
+  }, {
+    "title": "The carbon isotope composition of ancient CO2 based on higher-plant organic matter",
+    "authors": ["R. Gröcke D"],
+    "venue": "Philos. Trans. R. Soc. Lond. Ser. A",
+    "year": 2002
+  }, {
+    "title": "Shifts in carbon isotope ratios of two C3 halophytes under natural and artificial conditions",
+    "authors": ["D. Guy R", "M. Reid D", "R. Krouse H"],
+    "venue": "Oecologia",
+    "year": 1980
+  }, {
+    "title": "Sulfate burial constraints on the Phanerozoic sulfur cycle",
+    "authors": ["I. Halevy", "E. Peters S", "W. Fischer W"],
+    "venue": "Science 337,",
+    "year": 2012
+  }, {
+    "title": "Upper Cretaceous stable carbon isotope stratigraphy of terrestrial organic matter from Sakhalin, Russian Far East: a proxy for the isotopic composition of paleoatmospheric CO2",
+    "authors": ["T. Hasegawa", "M. Pratt L", "H. Maeda", "Y. Shigeta", "T. Okamoto", "T. Kase", "K. Uemura"],
+    "venue": "Paleogeogr. Paleoclimatol. Paleoecol",
+    "year": 2003
+  }, {
+    "title": "Beyond methane: towards a theory for the Paleocene–Eocene Thermal Maximum",
+    "authors": ["A. Higgins J", "P. Schrag D"],
+    "venue": "Earth Planet. Sci",
+    "year": 2006
+  }, {
+    "title": "Middle–Late Cretaceous climate of southern high latitudes: stable isotopic evidence for minimal equatorial-to-pole thermal gradients",
+    "authors": ["T. Huber B", "A. Hodell D", "P. Hamilton C"],
+    "venue": "Geol. Soc. Am",
+    "year": 1995
+  }, {
+    "title": "Age and paleogeographical origin of Dominican amber",
+    "authors": ["A. Iturralde-Vinent M", "E. MacPhee R. D"],
+    "venue": "Science",
+    "year": 1996
+  }, {
+    "title": "The biogeochemical consequences of the midCretaceous superplume",
+    "authors": ["H. Jahren A"],
+    "venue": "J. Geodyn",
+    "year": 2002
+  }, {
+    "title": "Prediction of atmospheric",
+    "authors": ["H. Jahren A", "C. Arens N", "A. Harbeson S"],
+    "year": 2008
+  }, {
+    "title": "The volatiles record of a popping rock from the mid-Atlantic ridge at 14 N: chemical and isotopic composition of gas trapped in the vesicles",
+    "authors": ["M. Javoy", "F. Pineau"],
+    "venue": "Earth Planet. Sci",
+    "year": 1991
+  }, {
+    "title": "Cretaceous anoxic events: from continents to oceans",
+    "authors": ["C. Jenkyns H"],
+    "venue": "J. Geol. Soc. Lond",
+    "year": 1980
+  }, {
+    "title": "Fossil charcoal, its recognition and palaeoatmospheric significance",
+    "authors": ["P. Jones T", "G. Chaloner W"],
+    "venue": "Paleogeogr. Paleoclimatol. Paleoecol",
+    "year": 1991
+  }, {
+    "title": "Carbon isotope discrimination by plants follows latitudinal and altitudinal trends",
+    "authors": ["C. Körner", "D. Farquhar G", "C. Wong S"],
+    "venue": "Oecologia",
+    "year": 1991
+  }, {
+    "title": "Carbon isotope compositions of terrestrial C3 plants as indicators of (paleo)ecology and (paleo)climate",
+    "authors": ["J. Kohn M"],
+    "venue": "Proc. Natl. Acad",
+    "year": 2010
+  }, {
+    "title": "D13C and d18O values of Triassic brachiopods and carbonate rocks",
+    "authors": ["C. Korte", "W. Kozur H", "J. Veizer"],
+    "year": 2005
+  }, {
+    "title": "Early Cenozoic decoupling of the global carbon and sulfur cycles",
+    "authors": ["C. Kurtz A", "R. Kump L", "A. Arthur M", "C. Zachos J", "A. Paytan"],
+    "venue": "Paleoceanography",
+    "year": 2003
+  }, {
+    "title": "Resins from Africa and South America: criteria for distinguishing between fossilized and recent resin based on NMR spectroscopy. In Amber, Resinites, and Fossil Resins",
+    "authors": ["Lambert J. B", "Johnson S. C", "Poinar", "G.O. Jr."],
+    "venue": "American Chemical Society,",
+    "year": 1995
+  }, {
+    "title": "Chemical signatures of fossilized resins and recent plant exudates",
+    "authors": ["B. Lambert J", "A. Santiago-Blay J", "B. Anderson K"],
+    "venue": "Angew. Chem. Int. Ed",
+    "year": 2008
+  }, {
+    "title": "Infrared spectra as a means of determining botanical sources of amber",
+    "authors": ["H. Langenheim J", "W. Beck C"],
+    "year": 1965
+  }, {
+    "title": "Onset of the mid-Cretaceous greenhouse in the Barremian–Aptian: igneous events and the biological, sedimentary, and geochemical responses",
+    "authors": ["L. Larson R", "E. Erba"],
+    "venue": "Paleoceanography",
+    "year": 1999
+  }, {
+    "title": "Oceanic anoxic events and plankton evolution: biotic response to tectonic forcing during the mid-Cretaceous",
+    "authors": ["M. Leckie R", "J. Bralower T", "R. Cashman"],
+    "venue": "Paleoceanography 17,",
+    "year": 2002
+  }, {
+    "title": "Variability in Late Cretaceous climate and deep waters: evidence from stable isotopes",
+    "authors": ["L. Li", "G. Keller"],
+    "venue": "Mar. Geol",
+    "year": 1999
+  }, {
+    "title": "Comparison of stable carbon isotope ratios in the whole wood, cellulose and lignin of oak tree rings",
+    "authors": ["J. Loader N", "I. Robertson", "D. McCarroll"],
+    "venue": "Paleogeogr. Paleoclimatol. Paleoecol",
+    "year": 2003
+  }, {
+    "title": "An experimental evaluation of the use of C3",
+    "authors": ["H. Lomax B", "A. Knight C", "A. Lake J"],
+    "year": 2012
+  }, {
+    "title": "Environmental history of the German Lower Rhine Embayment during the Middle Miocene as reflected by carbon isotopes in brown coal",
+    "authors": ["A. Lücke", "G. Helle", "H. Schleser G", "I. Figueiral", "V. Mosbrugger", "P. Jones T", "P. Rowe N"],
+    "venue": "Paleogeogr. Paleoclimatol. Paleoecol",
+    "year": 1999
+  }, {
+    "title": "The Paleocene–Eocene thermal maximum: a perturbation of carbon cycle, climate, and biosphere with implications for the future",
+    "authors": ["A. McInerney F", "L. Wing S"],
+    "venue": "Annu. Rev. Earth Planet. Sci",
+    "year": 2011
+  }, {
+    "title": "Canadian amber",
+    "authors": ["C. McKellar R", "P. Wolfe A"],
+    "venue": "In Biodiversity of Fossils in Amber (ed. D. Penney). Siri Scientific Press,",
+    "year": 2010
+  }, {
+    "title": "Insect outbreaks produce distinctive carbon isotope signature in defensive resins and fossiliferous ambers",
+    "authors": ["C. McKellar R", "P. Wolfe A", "K. Muehlenbachs", "R. Tappert", "S. Engel M", "T. Cheng", "A. Sanchez-Azofeifa G"],
+    "venue": "Proc. R. Soc. Lond. Ser. B",
+    "year": 2011
+  }, {
+    "title": "Correlation between Grassy Lake and Cedar Lake ambers using infrared spectroscopy, stable isotopes, and palaeoentomology",
+    "authors": ["C. McKellar R", "P. Wolfe A", "R. Tappert", "K. Muehlenbachs"],
+    "venue": "Can. J. Earth Sci",
+    "year": 2008
+  }, {
+    "title": "Stratification of d13C values of leaves in Amazonian rain forests",
+    "authors": ["E. Medina", "P. Minchin"],
+    "venue": "Oecologia",
+    "year": 1980
+  }, {
+    "title": "Carbon isotope biogeochemistry of plant resins and derived hydrocarbons",
+    "authors": ["P. Murray A", "D. Edwards", "M. Hope J", "J. Boreham C", "E. Booth W", "A. Alexander R", "E. Summons R"],
+    "venue": "Org. Geochem",
+    "year": 1998
+  }, {
+    "title": "Eocene amber from the Pacific coast",
+    "authors": ["E. Mustoe G"],
+    "year": 1985
+  }, {
+    "title": "The land plant",
+    "authors": ["W. Peters-Kottig", "H. Strauss", "H. Kerp"],
+    "year": 2006
+  }, {
+    "title": "Do stable carbon isotopes of brown coal woods",
+    "authors": ["F. P"],
+    "year": 2006
+  }, {
+    "title": "Physiognomic and chemical",
+    "authors": ["I. Poole", "F. Van Bergen P"],
+    "venue": "Paleoclimatol. Paleoecol",
+    "year": 2006
+  }, {
+    "title": "Class Id resinite from Canada",
+    "authors": ["J. 175–195. Poulin", "K. Helwig"],
+    "year": 2012
+  }, {
+    "title": "Riesenbernsteine in Sarawak, Nord-Borneo",
+    "authors": ["D. Schlee", "H. Chan P"],
+    "venue": "Lapis",
+    "year": 1992
+  }, {
+    "title": "Carbon isotope behaviour in wood and cellulose during artificial aging",
+    "authors": ["H. Schleser G", "J. Frielingsdorf", "A. Blair"],
+    "venue": "Chem. Geol",
+    "year": 1999
+  }, {
+    "title": "The effect of atmospheric CO2 concentration on carbon isotope fractionation in C3 land plants",
+    "authors": ["A. Schubert B", "H. Jahren A"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 2012
+  }, {
+    "title": "Gas fluxes from flood basalt eruptions",
+    "authors": ["S. Self", "T. Thordarson", "M. Widdowson"],
+    "venue": "Elements",
+    "year": 2005
+  }, {
+    "title": "Possible methane-induced warming in the Early Eocene",
+    "authors": ["C. Sloan L", "G. Walker J. C", "J. Moore T. C", "K. Rea D", "C. Zachos J"],
+    "venue": "Nature 357,",
+    "year": 1992
+  }, {
+    "title": "Influence of carbon source, oxygen concentration, light intensity, and temperature on 12C/13C ratios in plant tissues",
+    "authors": ["N. Smith B", "J. Oliver", "C. McMillan"],
+    "venue": "Bot. Gaz",
+    "year": 1976
+  }, {
+    "title": "Systematic, palaeoecology, and palaeobiogeography of the insect fauna from Mexican amber",
+    "authors": ["M. Solórzano Kraemer M"],
+    "venue": "Palaeontographica A",
+    "year": 2007
+  }, {
+    "title": "Stach’s Textbook of Coal Petrology",
+    "authors": ["E. Stach", "T. Mackowsky M", "M. Teichmüller", "H. Taylor G", "D. Chandra", "R. Teichmüller"],
+    "venue": "Gebruder Thonet, Berlin",
+    "year": 1982
+  }, {
+    "title": "The Paleozoic to Mesozoic carbon cycle revisited: the carbon isotopic composition of terrestrial organic matter",
+    "authors": ["H. Strauss", "W. Peters-Kottig"],
+    "venue": "Geochem. Geophys. Geosyst. 4,",
+    "year": 2003
+  }, {
+    "title": "Tree cellulose 13C/12C isotope ratios and climatic change",
+    "authors": ["M. Stuiver", "F. Braziunas T"],
+    "venue": "Nature",
+    "year": 1987
+  }, {
+    "title": "Release of methane from a volcanic basin as a mechanism for initial Eocene global warming",
+    "authors": ["H. Svensen", "S. Planke", "A. Malthe-Sorenssen", "B. Jamtveit", "R. Myklebust", "R. Eidem T", "S. Rey S"],
+    "venue": "Nature 429,",
+    "year": 2004
+  }, {
+    "title": "The 13C Suess effect in scleractinian corals mirror changes in the anthropogenic CO2 inventory of the surface oceans",
+    "authors": ["K. Swart P", "L. Greer", "E. Rosenheim B", "S. Moses C", "J. Waite A", "A. Winter", "E. Dodge R", "K. Helmle"],
+    "venue": "Geophys. Res",
+    "year": 2010
+  }, {
+    "title": "Volcanic-gas studies: methods, results, and applications",
+    "authors": ["B. Symonds R", "I. Rose W", "S. Bluth G. J", "M. Gerlach T"],
+    "venue": "Rev. Mineral. Geochem",
+    "year": 1994
+  }, {
+    "title": "Characterizing modern and fossil gymnosperm exudates using micro-Fourier transform infrared spectroscopy",
+    "authors": ["R. Tappert", "P. Wolfe A", "C. McKellar R", "C. Tappert M", "K. Muehlenbachs"],
+    "venue": "Int. J. Plant Sci",
+    "year": 2011
+  }, {
+    "title": "Modern and fossil plant resins",
+    "authors": ["R. Thomas B"],
+    "year": 1970
+  }, {
+    "title": "Carbon isotope ratio of Cenozoic CO2: a comparative evaluation of available geochemical proxies",
+    "authors": ["J. Tipple B", "R. Meyers S", "M. Pagani"],
+    "venue": "Paleoceanography 25,",
+    "year": 2010
+  }, {
+    "title": "Radiometric age of the Chickaloon formation of south-central Alaska: location of Paleocene–Eocene boundary",
+    "authors": ["M. Triplehorn D", "L. Turner D", "W. Naeser C"],
+    "venue": "Geol. Soc. Am. Bull",
+    "year": 1984
+  }, {
+    "title": "Impact of climate and CO2 on a millennium-long tree-ring carbon isotope record",
+    "authors": ["S. Treydte K", "C. Frank D", "M. Saurer", "G. Helle", "H. Schleser G", "J. Esper"],
+    "venue": "Geochim. Cosmochim",
+    "year": 2009
+  }, {
+    "title": "Volcanism, CO2 and palaeoclimate: a Late Jurassic–Early Cretaceous carbon and oxygen isotope record",
+    "authors": ["H. Weissert", "E. Erba"],
+    "venue": "J. Geol. Soc. Lond",
+    "year": 2004
+  }, {
+    "title": "Latest on the absolute age of the Paleocene–Eocene Thermal Maximum (PETM): new insights from exact stratigraphic position of key ash layers +19 and 17",
+    "authors": ["T. Westerhold", "U. Rohl", "K. McCarren H", "C. Zachos J"],
+    "venue": "Earth Planet. Sci",
+    "year": 2009
+  }, {
+    "title": "Resins in Paleozoic plants and in coals of high rank",
+    "authors": ["D. White"],
+    "venue": "US Geol. Surv. Prof. Paper",
+    "year": 1914
+  }, {
+    "title": "Warm tropical ocean surface and global anoxia during the mid-Cretaceous period",
+    "authors": ["A. Wilson P", "D. Norris R"],
+    "venue": "Nature 412,",
+    "year": 2001
+  }, {
+    "title": "Pristine Early Eocene wood buried deeply in kimberlite from Northern Canada",
+    "authors": ["P. Wolfe A", "Z. Csank A", "V. Reyes A", "C. McKellar R", "R. Tappert", "K. Muehlenbachs"],
+    "venue": "PLoS ONE 7:e45537",
+    "year": 2012
+  }, {
+    "title": "An early Cenozoic perspective on greenhouse warming and carbon-cycle dynamics",
+    "authors": ["J. Zachos", "R. Dickens G", "E. Zeebee R"],
+    "venue": "Nature 451,",
+    "year": 2008
+  }, {
+    "title": "Trends, rhythms, and aberrations in global climate 65 Ma to present",
+    "authors": ["J. Zachos", "M. Pagani", "L. Sloan", "E. Thomas", "K. Billups"],
+    "venue": "Science 292,",
+    "year": 2001
+  }],
+  "id": "SP:4fac261018dcf9900dea6dd7b8aedade7556f510",
+  "authors": [{
+    "name": "Ralf Tappert",
+    "affiliations": []
+  }, {
+    "name": "Ryan C. McKellar",
+    "affiliations": []
+  }, {
+    "name": "Alexander P. Wolfe",
+    "affiliations": []
+  }, {
+    "name": "Michelle C. Tappert",
+    "affiliations": []
+  }, {
+    "name": "Jaime Ortega-Blanco",
+    "affiliations": []
+  }, {
+    "name": "Karlis Muehlenbachs",
+    "affiliations": []
+  }],
+  "abstractText": "Estimating the partial pressure of atmospheric oxygen (pO2) in the geological past has been challenging because of the lack of reliable proxies. Here we develop a technique to estimate paleo-pO2 using the stable carbon isotope composition (d C) of plant resins—including amber, copal, and resinite—from a wide range of localities and ages (Triassic to modern). Plant resins are particularly suitable as proxies because their highly cross-linked terpenoid structures allow the preservation of pristine dC signatures over geological timescales. The distribution of dC values of modern resins (n = 126) indicates that (a) resin-producing plant families generally have a similar fractionation behavior during resin biosynthesis, and (b) the fractionation observed in resins is similar to that of bulk plant matter. Resins exhibit a natural variability in dC of around 8& (dC range: 31& to 23&, mean: 27&), which is caused by local environmental and ecological factors (e.g., water availability, water composition, light exposure, temperature, nutrient availability). To minimize the effects of local conditions and to determine long-term changes in the dC of resins, we used mean dC values (d13C mean) for each geological resin deposit. Fossil resins (n = 412) are generally enriched in C compared to their modern counterparts, with shifts in d13C mean of up to 6&. These isotopic shifts follow distinctive trends through time, which are unrelated to post-depositional processes including polymerization and diagenesis. The most enriched fossil resin samples, with a d13C mean between 22& and 21&, formed during the Triassic, the mid-Cretaceous, and the early Eocene. Experimental evidence and theoretical considerations suggest that neither change in pCO2 nor in the d C of atmospheric CO2 can account for the observed shifts in d13C mean. The fractionation of C in resin-producing plants (DC), instead, is primarily influenced by atmospheric pO2, with more fractionation occurring at higher pO2. The enriched dC resin mean values suggest that atmospheric pO2 during most of the Mesozoic and Cenozoic was considerably lower (pO2 = 10–20%) than today (pO2 = 21%). In addition, a correlation between the d13C mean and the marine d O record implies that pO2, pCO2, and global temperatures were inversely linked, which suggests that intervals of low pO2 were generally accompanied by high pCO2 and elevated global temperatures. Intervals with the lowest inferred pO2, including the mid-Cretaceous and the early Eocene, were preceded by large-scale volcanism during the emplacement of large igneous provinces (LIPs). This suggests that the influx of mantle-derived volcanic CO2 triggered an initial phase of warming, which led to an increase in oxidative weathering, thereby further increasing greenhouse forcing. This process resulted in the rapid decline of atmospheric pO2 during the mid-Cretaceous and the early Eocene greenhouse periods. After the cessation in LIP volcanism and the decrease in oxidative weathering rates, atmospheric pO2 levels continuously increased over tens of millions of years, whereas CO2 levels and temperatures continuously declined. These findings suggest that atmospheric pO2 had a considerable impact on the evolution of the climate on Earth, and that the dC of fossil resins can be used as a novel tool to assess the changes of atmospheric compositions since the emergence of resin-producing plants in the Paleozoic. 2013 Elsevier Ltd. All rights reserved. 0016-7037/$ see front matter 2013 Elsevier Ltd. All rights reserved. http://dx.doi.org/10.1016/j.gca.2013.07.011 ⇑ Corresponding author at: Institute of Mineralogy and Petrography, University of Innsbruck, Innsbruck, Austria. Tel.: +43 512 492 5519. E-mail address: ralf.tappert@uibk.ac.at (R. Tappert). R. Tappert et al. / Geochimica et Cosmochimica Acta 121 (2013) 240–262 241",
+  "title": "Stable carbon isotopes of C3 plant resins and ambers record changes in atmospheric oxygen since the Triassic"
+}

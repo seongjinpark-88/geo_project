@@ -1,0 +1,851 @@
+{
+  "sections": [{
+    "text": "Outside polar latitudes, features corresponding to surface thaw have yet to be identified on Mars. The youthful gully landforms observed at mid-high latitude [Malin, M., Edgett, K., 2000. Science 288, 2330–2335] are the nearest candidate, but the source (and nature) of the gully carving agent remains controversial [e.g., Musselwhite, D.S., Swindle, T.D., Lunine, J.I., 2001. Geophys. Res. Lett. 28, 1283–1285; Mellon, M.T., Phillips, R.J., 2001. J. Geophys. Res. 106, 1–15; Knauth, L.P., Burt, D.M., 2002. Icarus 158, 267–271; Costard, F., Forget, F., Mangold, N., Peulvast, J.P., 2002. Science 295, 110–113; Christensen, P.R., 2003. Nature 422, 45–48; Treiman, A.H., 2003. J. Geophys. Res. 108]. At higher obliquity than the present epoch, near-surface ground ice should be present globally [Mellon, M.T., Jakosky, B.M., 1995. J. Geophys. Res. 100 (E6), 11781–11799], populated by condensation of atmospheric water vapour in the top few metres of the regolith, or emplaced as dusty ice sheets reaching down towards the equator. The latitudinal restriction of these gullies to regions poleward of ±30◦ appears to argue against a thaw component to their formation—since ground ice is present and stable at all latitudes at high obliquity, the current (low) obliquity regime should result in ground ice thaw at low latitudes, where insolation and daytime temperatures are currently greatest, and this is not observed. A previously undescribed meltwater sequence in the Cerberus plains, at 20◦ N/187◦ E, shows that comparable, but much more continuous, and mappable melting and surface runoff have occurred in the geologically recent past at near-equatorial latitudes on Mars. Polygonal ground in the Cerberus plains is seen by the Mars Global Surveyor Mars Orbiter Camera (MOC) to suffer sequential, regional-scale volatile-loss consistent with thaw of near-surface ground ice under periglacial conditions. This degradation is continuously sampled by a single MOC strip, showing an icy landscape undergoing thaw modification and collapse, and may form the first evidence of equatorial wet-based glaciation during late Amazonian time, with indications of melting within the last million years. The dissolution and re-formation of polygonal ground links this landform to freeze–thaw processes, providing the conclusion to a question that has been the subject of debate for three decades—whether Mars’ polygonal grounds require ice to form—and a consistent explanation for the fate of the water that carved the great outflow channels, much of which may still reside as ground ice in the regolith. This thaw occurs in the Cerberus Formation; deposits that are considered to be magmatic in origin, and the type formation for late-stage, “plains-style” volcanism on Mars [Keszthelyi, L., McEwen, A.S., Thordarson T., 2000. J. Geophys. Res. 105, 15027–15049]. By superposing large numbers of small impact craters, polygonal ground in the Cerberus plains sustains previous suggestions of a non-magmatic origin for this and other landforms in the region [Page, D.P., Murray, J.B., 2006. Icarus 183, 46–54]. Together, these periglacial landforms document evidence of climate change much younger than is currently recognised by crater counts, with important implications for age constraints on young surfaces and absolute age determinations by this method. It is tentatively suggested that this melting may be occurring today, with a striking correspondence between permafrost thaw in the Cerberus plains, the high atmospheric methane flux currently observed over this region [Mumma, M.J., Novak, R.E., DiSanti, M.A., Bonev, B.P., Dello Russo, N., 2004. Bull. Am. Astron. Soc. 36, 1127; Krasnopolsky, V.A., Maillard, J.P., Owen, T.C., 2004. Icarus 172, 537–547; Formisano, V., Atreya, S., Encrenaz, T., Ignatiev, N., Giuranna, M., 2004. Science 306, 1758–1761], and the only latitude zone on Mars—equatorward of 30◦ N—where melting of ground ice is thought possible in the current climate [Haberle, R.M., McKay, C.P., Schaeffer, J., Cabrol, N.A., Grin, E.A., Zent, A.P., Quinn, R., 2001. J. Geophys. Res. 106 (E10), 23317–23326; Lobitz, B., Wood, B.L., Averner, M.M., McKay, C.P., 2001. Proc. Natl. Acad. Sci. 98, 2132–2137]. Low-latitude polygonal ground as transient, and hydrologically active over wide areas transforms our understanding of the recent climatic evolution of Mars, supporting models of atmospheric water-ice migration [Mischna, M., Richardson, M.I., Wilson, R.J., McCleese, D.J., 2003. J. Geophys. Res. 108 (E6). 5062], complex, volatile stratigraphies [Clifford, S.M., Parker, T.J., 2001. Icarus 154, 40– 79], and hypothesised, geologically recent ‘ice ages’ [Head, J.W., Mustard, J.F., Kreslavsky, M.A., Milliken, R.E., Marchant, D.R., 2003. Nature 426, 797–802]. The temporal coincidence of glacial epochs on the Earth and Mars during the Quaternary and latest Amazonian would suggest a coupled system linking both [Sagan, C., Young, A.T., 1973. Nature 243, 459].\nE-mail address: d.p.page@open.ac.uk.\n0019-1035/$ – see front matter © 2007 Elsevier Inc. All rights reserved. doi:10.1016/j.icarus.2007.01.005\n© 2007 Elsevier Inc. All rights reserved.\nKeywords: Mars, climate; Geological processes; Cratering; Ices; Volcanism"
+  }, {
+    "heading": "1. Introduction",
+    "text": "The general understanding of the current martian climate is that the planet is globally covered in permafrost (Clifford, 1993; Mellon and Phillips, 2001; Baker et al., 2005), and that melting of ground ice occurs rarely, if at all (Haberle et al., 2001). The only features that attest to the possibility of surface thaw are the youthful gully landforms at mid-high latitudes, but these (apparently) water-carved channels remain the subject of debate amid uncertainty over the prospects for liquid water on modern Mars (Hecht, 2002). Groundwater seepage (Malin and Edgett, 2000), breakout of liquid CO2 (Musselwhite et al., 2001), geothermal heating of aquifers shallow (Mellon and Phillips, 2001) and deep (Heldmann and Mellon, 2004), eutectic brines (Knauth and Burt, 2002), dry landslides (Treiman, 2003) and melting of snowpack (Christensen, 2003) and near surface ground ice (Costard et al., 2002) at high obliquity have all been postulated for gully formation, but thus far, unequivocal evidence of ground ice thaw in sub-polar latitudes has remained elusive.\nNow, archive and recent Mars Orbiter Camera (MOC) imagery of polygonally patterned grounds in the Cerberus plains (Fig. 1a) has revealed a number of features that are strongly suggestive of recent, perhaps even ongoing, ground ice thaw at low martian latitudes. Small-scale polygonally patterned grounds in the northern plains of Mars have historically been used as a geomorphological indicator of past and present distributions of ground ice (Lucchitta, 1983; Mellon, 1997; Siebert and Kargel, 2001), their effectiveness borne out by the results from the Gamma Ray (GRS) and Neutron Spectrometers (NS), onboard Mars Odyssey, that indicate large stores of subsurface ice [as water-equivalent-hydrogen (WEH)] at high latitudes (Boynton et al., 2002; Feldman et al., 2002, 2004a). There have been few suggestions that this might also be the case for the lower latitudes, where there is little evidence of ground ice (Boynton et al., 2002), and patterned ground is considered to be volcanic in origin (McEwen et al., 1998). One such patterned ground is the Cerberus Formation: flat-lying, plains-forming deposits of polygonally surfaced ground, usually interstitial to large, fractured plates that show indications of once having been mobile, part of the volcanic province dominated by Elysium Mons and the Cerberus Fossae. These characteristics have been interpreted (variously) as late Amazonian palaeolakes (Jöns, 1990; Scott et al., 1995), fluvial sediments (Scott and Tanaka, 1986; Tanaka, 1986; Scott and Chapman, 1995), and pack ice (Brakenridge, 1993; Rice et al., 2002; Murray et al., 2005) but are more generally regarded as volcanic in origin (Greeley and Guest, 1987; Plescia, 1990; Keszthelyi et al., 2000; Hartmann and Berman, 2000; Burr et al., 2002a; Tanaka et al., 2005), and a product of lava flows that issued from the eruptive fissures of the Cerberus Fossae."
+  }, {
+    "heading": "1.1. The nature of the problem",
+    "text": "The Cerberus fissures have been identified as the source of repeated volcanic and aqueous flood events (Burr et al., 2002a; Plescia, 2003), and instances of putative magma–ice interaction occur across the region (Lanagan et al., 2001). Despite this, nowhere does this patterned ground display the common indicators of a volcanic origin [i.e., fissure vents, spatter cones, shield extrusives, or obvious pyroclastics (Berman and Hartmann, 2002; Plescia, 2003)]. Neither are there realistic sources for the vast amounts of ponded lava required (Chapman, 1999). Similarly, beyond the observation that these deposits are strikingly reminiscent of pressure-ridged, pack-ice floes, and are extraordinarily flat, there is no conclusive evidence that they have an aqueous origin. A main proof: that there is a demonstrable fall in water level within flooded craters (Murray et al., 2005) is difficult to sustain; perhaps these craters never completely filled, and the ‘stranded’ rafts perched on their rims were compressively emplaced.\nThese deposits (and likewise, the young martian gullies) illustrate one of the main problems of interpreting surface geology from space: how a number of features might, almost equally plausibly, result in fundamentally different explanations, even in the presence of supporting data (see Mustard, 2002). Radar mapping (Harmon et al., 1992) shows that the deposits of the Cerberus Formation have a surface roughness comparable to lava, but with the exception of the contained platy rafts, this polygonal ground does not differ from other such patterned grounds on Mars that are widely considered to have a permafrost origin (Baker, 2001; Mangold, 2005). The polygonal fracture of the patterned substrate is common to both permafrozen ground and cooling lava alike (Lachenbruch, 1962), and the characteristic ‘lobate margins,’ frequently given as one of the main determinants of a volcanic origin (Keszthelyi et al., 2000; Plescia, 1990), are not the sole preserve of lava flow but are equally typical of mudflow, and cold-climate, gelifluction processes (Washburn, 1980). This lack of diagnostic features is significant, as the hypothesised volcanic origin for these deposits—crusted lava rafts floating at the surface of vast flows akin to continental flood basalts on Earth (Plescia, 1990)—has prevailed, and the Cerberus Formation has become the referent for widespread, late-stage sheet volcanism on Mars (Keszthelyi et al., 2000). How this view came to be established is discussed in more detail in Appendices A.1 and A.2. As the type area in this respect, and source for the patterned grounds of the Athabasca Valles, Elysium basin, Marte Vallis, and western Amazonis Planitia, the origin of polygonal ground here is central to the geological and geophysical evolution of this entire region, if not the entire planet (e.g., Hartmann and Berman, 2000)."
+  }, {
+    "heading": "1.2. A stratigraphical solution",
+    "text": "This paper presents stratigraphical and morphological evidence for the disequilibrium distribution of ground ice at low martian latitudes; that polygonal grounds here are periglacial, secondary in nature, have their origins in geologically recent freeze–thaw activity, and are much younger than previously supposed. Stratigraphical relationships between surface landforms are discerned from space with rather less difficulty than rock type, and the principles of stratigraphical superposition are one of the few certainties that field geology can rely on. Accordingly, the superposition of landforms relative to small impact craters is used to test the secondary arguments in this account, thereby addressing the principal criticism of morphology as a guide to the presence and state of subsurface water on Mars: that interpretations are generally non-unique, and the information they convey difficult to constrain temporally (e.g., Chyba et al., 2006). That such superposition relationships exist is not just\ngood fortune, but the expected manifestation of periglaciation itself—a testable hypothesis that suggests its own means of confirmation. Simply put, lava flows and their associated landforms have their geomorphological characteristics established in the time it takes them to crystallise; thereafter, they are only subject to modification by erosion or burial. In contrast, periglacial landforms and landscapes are the product of continuous, often repetitious, constructional and degradational processes; as such, they interact stratigraphically with post-depositional structures, such as impact craters, in a way that lava flows cannot. This assertion and its implications for recent Mars history are explored in this paper."
+  }, {
+    "heading": "2. Description",
+    "text": "Patterned ground in Marte Vallis is identical to that of Elysium Planitia (i.e., plains-forming deposits of polygonally surfaced ground associated with large, fractured plates), but its\nstate of preservation is significantly different. MOC E05-03487 (Fig. 2), at 20◦ N/187◦ E, shows signs that deposits along the margin of this outflow channel have undergone wastage in situ. There is no doubt that these are the ‘lavas’ of the Cerberus Formation, as they are platy, polygonally patterned (on a <50 m scale), display lobate margins, pressure-ridging perpendicular to flow, and thin, irregular ridges [the lava “squeeze-ups” of Keszthelyi et al. (2000) and Hartmann and Berman (2000)]. Where this polygonal surface suffers loss, it displays abundant closed basins and hollows, either randomly distributed, or arranged along erosional fronts. The indication is that this wastage was not a result of any surface transport, or erosive agent, but melting of ground ice. A continuous N–S transect along this 80-km-long MOC strip (Fig. 2) illustrates. In the north, polygonal ground degrades along a broad, convolute NE– SW directed front (‘A’), exposing a lightly cratered surface beneath. Where this surficial loss is extensive, networks of dendritic channels (‘B’), 10–20 m across, develop at the retreating front and converge towards the south. The drainage pattern is riverine, confluent along the proximal-medial reaches of the channel, and shows a degree of stream order. Two third-order streams (with first- and second-order tributaries) supply one trunk stream and can be traced continuously south for more than 15 km, forming a number of distal channel branches, each associated with deposition on (‘C’) or erosion of (‘D’) the polygonal ground surface. A number of relief inversions occur along the length of this channel complex, typically ahead of branch points, where there are indications of channel abandonment (‘D’), the streams becoming filled with debris. Five hundred metres SE of the channel terminus, a 3-km crater breached on its western flank acts as a bay for platy deposits—unmistakable, as the fractured rafts (‘E’) are easily refitted, and are degraded at their contact with the patterned ground (‘F ’). A 200-m-wide, sinuous lobate deposit (‘H ’) emerges from this ponded area, braiding in its middle reaches (‘J ’), and meanders across the surface (‘K’) to disappear 10 km to the south in a 3-km stretch of polygonal ground (‘L’). Flow reappears on the other side of this plain (with no evidence of overland passage) as a number of streams combine to form a 1-km-wide braided network (‘M’). Isolated, closed basins of approximately uniform depth progressively merge into a continuous front (‘N ’) parallel to the northern margin of the Marte Vallis outflow channel (‘O’), both the pits and platy rafts becoming indistinct in the contact zone. A single pit contains a number of ∼10 m boulders (‘P ’), but the pits otherwise lack debris. The southern bank of the outflow channel reverts back to ridged polygonal ground (‘Q’) displaying superposed lobate flows (‘R’) and irregular ridges (‘S’). The surface of MOC E05-03487 contains 131 craters, 15– 150 m in diameter (a density of 0.55 craters/km2), just two of these greater than 100 m across (125 m (‘Y ’) and 150 m (‘Z’)). At resolution, none of the channelled or pitted features shows any superposed impact craters.\nMOC E05-03487 lies within a gap of ∼7 km between Mars Orbiter Laser Altimeter (MOLA) tracks ap16991 and ap12539, approximately 1 to 2 km distant from both (see Fig. 1c). Elevation data in such gaps are filled by interpolation (Tanaka et al., 2005), so any plot of the surface topography of Fig. 2\nwill only be approximate. Nevertheless, a plot of interpolated MOLA data for MOC E05-03487 (Fig. 1d) picks out the topographic signatures of many of the larger structures (i.e., ‘N ’ and ‘O’), and slopes gently north, reflecting the regional topographic gradient. The along-track profiles either side of MOC E05-03487 also demonstrate this regional gradient, so there is reason to have confidence in the interpolated profile, at least in terms of its overall trend. A 10-m contour map (Fig. 1c, lower) shows that the ejecta of the large impact crater to the west (Fig. 1b) does not influence topography locally—all three profiles lie within 7 m elevation along the length of the dendritic network ‘B’–‘D,’ flow converging (i.e., draining) to the south for over 20 km. Even with interpolated data, this appears to represent drainage uphill. The consequences of this are considered further in Section 4.5, but there is generally only one depositional environmental setting where hydrostatic head is sufficient to drive confluent, dendritic flow against gravity—beneath an ice sheet or glacier."
+  }, {
+    "heading": "2.1. Volatile-loss and surface runoff",
+    "text": "The patterned, pressure-ridged and platy morphology is common to the deposits in Amazonis and Elysium Planitiae. Assuming similar formative processes, any interpretation of these deposits must account for the following observations. The channels (‘B’) of Fig. 2 were carved by water. They are dendritic, with well-developed tributary head regions, and increase in width distally (i.e., discharge increases as new tributaries join the main stream): all distinct from the sapping of groundwater, and incompatible with lava channels (Gulick and Baker, 1990). These features do not reflect exposure of a paleohydrological system, as runoff affects the current land surface (‘G’), destroying the polygonal pattern [and precludes fluvial erosion of ash-mantled lavas, as polygonal ground is solid rock, if volcanic (e.g., Lanagan and McEwen, 2003)]. Continuity of runoff and high drainage density are indicative of well-integrated, mature drainage and an impermeable substrate, and are atypical of lavas, which favour infiltration over runoff (Carr and Malin, 2000). Lava plains provide the most permeable natural terrains on Earth, and are likely to be even more significant on Mars, since processes that reduce permeability, such as weathering to clays, are restricted by the limited aqueous alteration on this planet (Bibring et al., 2005; Yen et al., 2005). There is no indication that the deposits of the northern plains are susceptible to solution, as soluble minerals, such as carbonates, are not present in rock-forming quantities (Bandfield et al., 2003). While the erosion and pitting undoubtedly represent limited percolation through porous regolith, this is not a product of water flow through solid rock. The implication is that the deposits are themselves volatile-rich, and have undergone degradation and reworking in response to external forces. The degree of melting and the resultant landform sequence suggests that these forces are climatic.\nTo facilitate the stratigraphical and chronological discussions to follow, the geomorphology of these deposits is considered first. A secondary hypothesis for polygonal ground formation in this region is then described and discussed in the context\nof surface ages derived by crater counts, evidence for ongoing thaw, other indications of recent climate change, and other Mars data sets (i.e., spectral, thermal inertial and compositional—see Appendix A.1). Lastly, these are brought together to make the case for parallel climate change on the Earth and Mars."
+  }, {
+    "heading": "3. Geomorphology",
+    "text": ""
+  }, {
+    "heading": "3.1. Polygon growth and a candidate crater lake",
+    "text": "Three features, unique to permafrost terrain, serve to define freeze–thaw activity in the terrestrial environment: polygon growth and intrusive frost mounds (or ‘pingos’), associated with permafrost aggradation, and thermokarst, related to permafrost degradation, or ground ice thaw. Where these three occur in association, the presence of permafrost and an ‘active layer’ (the zone of annual freezing and thawing above permafrost) can be inferred (Dylik, 1964; French, 1996). The surface texture of the Cerberus plains region is distinctly polygonal, suggestive of icy or frozen ground. The polygons in Fig. 2 are remarkably consistent in size, ∼30–40 m across, and show evidence of freeze–thaw origins, as (i) runoff causes the polygonal sculpture to be lost (‘G’), and (ii) this sculpture reforms on post-depositional surfaces (‘I ’), so these are transient structures, removing any prospect that such patterned ground signifies thermal contraction in lava (e.g., Lanagan and McEwen, 2003). Freeze–thaw activity would explain both the polygonal pattern, by thermal-contraction-cracking, and the continuity of drainage, as terrestrial permafrost only melts seasonally to a depth of 2 m (Eyles and Eyles, 1992), the lower, frozen zone aiding runoff and mass wasting by limiting downward infiltration of water. In arid regions, such fractures also fill with windblown sand, but the loss of the polygonal sculpture confirms that it is ice- rather than sand-wedges (Péwé, 1959) that underlie these martian polygons and that they are formed in ice-rich regolith, their size consistent with the dimensions of thermal-contraction-crack polygons forming in arctic regions today (French and Demitroff, 2001).\nA putative ‘crater lake’ (at ‘E’) shows the fractured, refitting pattern typical of the platy deposits in Elysium. Degradation of the platy rafts (‘F ’) grades into polygon loss at the rim breach (‘G’), and is continuous with flow into the exit channel. This channelised deposit thickens distally into a convex flow lobe (‘H ’) that, less than 1 km downstream from the zone of polygon loss (‘G’), itself becomes polygonally patterned (‘I ’) (detail, Fig. 3). Post-depositional polygon growth characterises patterned ground formation in permafrost areas (Lewkowicz, 1994), but has no parallel in volcanic processes. It cannot be determined whether these polygons are active today, but there is no doubt that they are secondary in origin, and that polygonal ground has been lost at the crater breach. Together, these are most consistent with freeze–thaw activity.\nTerrestrial polygonal ground forms on timescales of 103–104 years (Mellon, 1997), and persists at the surface for 105–106 years (Marchant et al., 2002), so polygon re-formation would constrain the age of this surface. Caution must apply regarding the potential relevance of these age estimates to Mars, but\nages of less than 1 Ma are substantially younger than those derived by crater counts for patterned ground in Marte Vallis, of 10–100 Ma (Berman and Hartmann, 2002). A ‘thaw age’ of 105–106 years would agree with geomorphological evidence for melting ground ice elsewhere in the northern plains (Costard et al., 2002; Page and Murray, 2006), modelled ground ice accumulations (Mellon and Jakosky, 1995; Mischna et al., 2003), and thermal cycling of surface materials deposited during periods of high obliquity (Mustard et al., 2001; Head et al., 2003).\nMorphologically, the lobate structure (‘H ’) is similar to viscous flow features observed at mid-latitudes on Mars (Milliken et al., 2003), but here emanates directly from the region of\npolygon loss (‘G’) and degraded platy deposits (‘F ’) within the crater, so liquid rather than viscous flow is implied. It is doubtful that diurnal or seasonal melt alone could generate the volume of water required to produce such a deposit, but breakout of unfrozen water might. One form of deposition consistent with this scenario is a ‘jökulhlaup’—a catastrophic outburst flood produced by the sudden drainage of an ice-dammed lake (Maizels, 1997). In ice-covered lakes on Earth, ice-jams impede discharge until thaw reopens the flow connection and drains the lake, resulting in characteristically broad exit spillways (Mackay, 1992). Downstream of ‘H ,’ flow becomes erosional once more and meanders for a further 3 km, through a single point bar (‘K’), before emerging into pitted outwash (at ‘L’). It may be that the fine, angular continuation of ‘K’ is beaded stream flow—a characteristic pattern that results where thaw follows ice-wedge margins (Black, 1976)—but this is at the limit of resolution. A terrestrial analogue for this crater lake is the modern ice-covered impact structure of Lake El’gygytgyn, in Siberia (inset 1, Fig. 2). This Synthetic Aperture Radar view shows summer ice break-up and lead formation, closely matching the pattern of fracture in the martian example."
+  }, {
+    "heading": "3.2. Thermokarst and ablation hollows",
+    "text": "Isolated, closed basins are observed throughout these plainsforming materials, but are especially well developed to the south, where numerous enclosed pits (‘N ’) coalesce into a broad subsidence zone along the Marte Vallis outflow channel margin (‘O’). This parallels the terrain modification of terrestrial thermokarst processes, where melting ground ice, often at polygon intersections, causes surface collapse, individual basins coalescing to form large lakes (or alases). Thermokarst failure is primarily a result of the thermal disequilibrium that follows changes in active layer depth, and can be geomorphological (e.g., erosion of insulating overburden, proximity of standing bodies of water), or climatic in nature, but the driving force is always thermal, and such erosion is peculiar to regions underlain by permafrost (French, 1996). The pits in Marte Vallis show some alignment along their long axes, but this owes more to the angle of coalescence, merging along strike (NE–SW) of the outflow channel, than any preferred orientation of individual basins. Coalescence distinguishes the pits from aeolian deflation structures (Costard and Kargel, 1995; Ghatan et al., 2003), their uniform depth consistent with a lowered active layer (French, 1996).\nThis same erosional profile is evident in MOC E17-00257 (Fig. 4), 20 km to the west of Fig. 2, where dendritic networks derived from the pits drain towards the outflow channel margin. With an average length of <300 m, individual pits in Figs. 2 and 4 cannot be reliably detected in MOLA data (e.g., Smith et al., 1998). However, kilometre-scale, channelmarginal subsidence (‘N ’) is apparent in Fig. 1d, allowing an estimate of depth to be made. Mindful of the interpolated nature of this figure, this suggests that this feature has subsided by ∼3 m (i.e., −3503 to −3506 m), the depth of penetration of the seasonal thermal wave (Mellon and Phillips, 2001), and\nthe degree of subsidence expected for active-layer formation. However, such a depth is less than the image resolution of both MOC strips [Fig. 2 (4.49 m) and Fig. 4 (6.29 m)] and the apparent depth of the pits, so this topographic feature cannot be linked to any visible landform. This association of polygonal terrain and pitted relief also occurs in Chryse and Utopia Planitiae, and led Siebert and Kargel (2001) to favour permafrozen, ice-wedged ground, decomposed to thermokarst, for its formation. During late-stage thermokarst thaw on Earth, permafrost aggradation resumes, and polygonal ground re-forms (as has occurred in the pits in Utopia Planitia). The polygons in Figs. 2 and 4 do not extend into the pit floors, which are also uncratered, so these may be some of the youngest landforms here. Whether this indicates formation by sublimation or basal melting is unclear, but the size of these basins (100–300 m), and their elliptical-reniform aspect, typify thaw lakes on Earth (see inset 2, Fig. 2).\nCold-climate, periglacial deposits are recognised by a twofold subdivision of glacial facies, and examples of these overlapping glacio-fluvial and -lacustrine sub-environments are evident in MOC E05-03487. In the north, polygonal ground suffers surface loss through ablation, the ground, where affected, eroded without apparent residuum. Ponding of the runoff in an\nopen crater forms pack ice. Later thaw has fractured this surface, forming a circumferential moat (cf. inset 1, Fig. 2), erased adjacent polygonal ground, and formed a lobate depositional apron on exit. Meltwater streams pass via this ice-covered lake into spillway-fed, pitted outwash proximal to a zone of merged thermokarst pits bordering an ice-rafted channel. There is no indication of what underlies this polygonal ground, beyond being ice-rich in the subsurface; that is, whether this is till-mantled ice or icy regolith, but as these facies are observed beside each other at the present time, they can be related with some certainty. Drainage form and continuity, migrating in and out of the surface plane, is consistent with a supra-permafrost aquifer, reflecting enhanced horizontal runoff above an impermeable ice table. These deposits are preserved as a continuous morphological sequence, corresponding to the glacial ‘suites of landforms’ of Kargel et al. (1995), and comparable to those of terrestrial periglacial facies (Brodzikowski and Van Loon, 1987). Moreover, they show the same instability and movement towards atmospheric equilibrium as equivalent erosional landforms in near-glacial environments on Earth.\nWhether the lake (of ‘E’) originally froze all the way to its base, or an unfrozen layer (or talik) exists beneath, the thermal influence of this body of water ice on the adjacent polygonal ground (‘G’) has been substantial. This same influence is envisaged for the Marte Vallis outflow channel crossing (‘O’), where the warming effect brought about by the passing flow has been sufficient to initiate large-scale melting in the permafrost and the development of thermokarst topography parallel to the northern bank (‘N ’). Fluvial thermokarst (channel ‘backwearing,’ or thermal erosion) is associated with earlier outflow channel widening in Ares Vallis (Costard and Baker, 2001), and the presence of later, more mature thermokarst [i.e., combined thermal erosion and thermal melting (subsidence)] in Marte Vallis is notable in itself, but for such distinctive thaw features, terminal to a continuous meltwater sequence, to develop within deposits that are currently regarded as magmatic has major implications for the geological and climatic evolution of the entire northern plains."
+  }, {
+    "heading": "4. Discussion",
+    "text": ""
+  }, {
+    "heading": "4.1. Low-latitude ground ice",
+    "text": "There are two polygon-forming environments on Earth that are potentially analogous to Mars: the Antarctic polar desert, and the lower-latitude permafrost zone. For purposes of comparison, a major distinction between these two is temperature, with seasonal thaw only possible in the warmer, sub-polar climate of the latter. In the Antarctic Dry Valleys, polygons of similar size (<50 m) to those of the Cerberus plains region occur over buried glacial ice, coeval sublimation and thermal contraction gradually concentrating englacial debris at the surface without melting (Marchant et al., 2002). At lower latitudes, in the zone of continuous–discontinuous permafrost, thermal contraction stresses in ice-rich ground are aided by freeze– thaw action, repetition of the process over many years giving rise to decametre-scale, ice-wedged, polygonal networks\n(Lachenbruch, 1962). An advantage of a dry, sublimationdominated analogue for the martian environment is that there is no requirement for liquid water at the surface, such ‘sublimation polygons’ formed in the absence of a seasonal active layer being favoured by many investigators (e.g., Head et al., 2003; Kreslavsky et al., 2007).\nPolygonal ground on Mars, as modelled by Mellon (1997), forms poleward of 20◦–30◦ latitude as a result of thermalcontraction-cracking of permafrozen ground under current conditions, and requires no climate change (beyond seasonal variation) to develop. This model showed that, for the given latitude limits, if ground ice is present, polygonal fractures should result, although the contribution that thaw makes to polygonal networks (due to ice-wedge growth within the fractures) could not be confirmed. The ‘freeze’ element of freeze–thaw activity has been documented for mid-high latitudes on geomorphological grounds (Lucchitta, 1983; Siebert and Kargel, 2001), but the Cerberus plains are the only area outside polar latitudes where thaw of polygonal ground has been observed. None of the landforms currently attributed to periglacial activity, such as sublimation residuals (Head et al., 2003), dissected mantles (Mustard et al., 2001) or viscous flow features (Milliken et al., 2003) imply melting, although the presence of ground ice is assumed, but thaw of polygonal ground indicates a direct relationship between this landform and the presence of ground ice. This does not yet confirm a role for freeze–thaw cycling in formation of Mars’ polygonal grounds (Section 4.4), but it does indicate that Mars’ small-scale polygons have the same permafrost origins as their terrestrial counterparts, a matter of debate for three decades (Mangold et al., 2004 and references therein).\nWhile questions remain as to whether transient thaw is (Hecht, 2002; Haberle et al., 2001) or is not (Mellon and Phillips, 2001; Costard et al., 2002; Mangold et al., 2004) possible in the current martian climate, diurnal and seasonal temperature changes are still expected to result in polygonal features in ice-rich regolith. This is consistent with the polygon re-formation in Fig. 3, renewed permafrost aggradation just one expectation of a secondary, periglacial origin for lowlatitude polygonal ground. A global survey of martian polygonal grounds (Mangold, 2005) excluded those of the Athabasca Valles because these were believed to be significantly impact cratered, and not geologically young. As the following sections will show, age appearances based on impact craters can be deceptive."
+  }, {
+    "heading": "4.2. A secondary origin for polygonal ground in the Cerberus plains",
+    "text": "Platy, polygonally patterned ground in Elysium Planitia, Athabasca and Marte Valles is identical in morphology (Figs. 5a–5d), and presumably shaped by the same (periglacial) processes. Implicit in the ‘pack ice’ interpretation of Murray et al. (2005) is the view that the platy deposits are the product of ice floes (or remnants thereof), and the Elysium plains a frozen ocean. Floating ice would imply that polygonal ground in the inter-plate regions (Figs. 5a–5c, ‘PO’) was once open wa-\nter, yet this is unlikely to be the case in MOC E05-03487, where polygonal ground is fluvially dissected, channel-marginal, and displays all the hallmarks of terrigenous (i.e., derived from sources on land) sedimentation (e.g., Figs. 2 and 5d, ‘PO’). Rather than a frozen ocean covering the Cerberus region, the platy deposits in Elysium and Amazonis Planitiae may be lacustrine pondings [as suggested by the crater lake (‘E’)], forming a series of flooded basins linked by the Marte Vallis outflow channel, with polygonal ground in the inter-plate (Figs. 5a–5c) and channel-marginal areas (Fig. 5d), a periglacial veneer. It is doubtful that such contrasting depositional environments would develop identical primary deposits, and there is every indication, given the thermal link established for the polygonal ground in MOC E05-03487, that the polygonal element of platy, patterned ground is secondary in origin, these areas the sites of\ngeologically recent volatile-loss and surface turnover. Transient polygonal ground would explain calculated age differences [of up to 2 Ma (Murray et al., 2005)—see Section 4.3] between the plate and (younger) inter-plate regions in Elysium, difficult to reconcile with a volcanic origin (or indeed, an oceanic one), but consistent with ‘dynamic’ polygons. This is not so different from the view of Rice et al. (2002), that such deposits are the dried remnants of hyper-concentrated floods or mudflows (which would also be expected to suffer desiccation and thermal-contraction-cracking). However, the crater lake (‘E’) would suggest that, in this area at least, the platy deposits are the product of ponded meltwater, frozen and dust-mantled, with permafrost degradation forming one source of this water.\nA secondary, periglacial origin predicts that polygonal ground (and other cold-climate features, such as pingos) will\nsuperpose pre-existing landforms. Where these landforms are of post-depositional origin, such as impact craters, this will rule out a primary (volcanic) origin for the polygonal ground. This superposition is evident across Elysium and Amazonis Planitia, where polygonal ground and pingos crosscut large numbers of small impact craters (Figs. 6 and 7). These pingo-like landforms are generally considered to be ‘rootless cones,’ the product of explosive magma–ice interaction—a view that stems from interpretation of the platy substrate as lava (Lanagan et al., 2001; Fagents et al., 2002). Without this assumption, the stratigraphical relations of these conical landforms are more consistent with intrusive frost mounds (or pingos), an icy origin for the intra-channel patterned grounds of the Athabasca and Marte Valles avoiding the elaborate alternation of lava flows and water (e.g., Burr et al., 2002a; Plescia, 2003) needed to explain many of the features of these flood channel systems.\nPage and Murray (2006) describe a cluster of ∼400 cones in platy, patterned ground in Athabasca Valles (Fig. 6). The relative age-relations where this cluster intersects a small impact crater, cutting the rim in two places (Fig. 6c), preclude an origin by lava–ice interaction. The cones superpose the crater rim (so postdate cratering), yet the platy ‘lavas’ supposedly responsible for ice volatilisation and cone formation lie beneath the crater (therefore, precede impact). This association of patterned ground and ‘rootless’ cones is central to accounts of repeated volcanic and aqueous flood events (Berman and Hartmann, 2002; Burr et al., 2002b), and widespread, inflated lava flows (Keszthelyi et al., 2000; Thordarson, 2000; Greeley and Fagents, 2001) in the Cerberus plains region during late Amazonian time. No combination of magma-ice interactions can explain this superposition, whereas intrusive frost mounds, permafrost aggradation, and periglaciation, can.\nFig. 7. Polygonal ground superposing impact craters in Amazonis Planitia. (a, c) MOC R23-00683, resolution 3.53 m per pixel. (b) MOC R14-01144, resolution 4.73 m per pixel. North to top in all, illumination from W, centred on 18◦ N/197.3◦ E. Scale bar = 100 m (a–d all shown to same scale). (d) Earth analogue: polygonal ground formed radial to thermokarst ponds, Hudson Bay Lowlands, Manitoba (NAPL, Canada). Note growth of polygonal ground up to crater rims in (a) to (c) (cutting the rim in all three) and polygonal ground formed radial to thermokarst-like basin in (c) (cf. (d)) with central pingo feature (and impact crater superposed by polygonal ground to upper left). In purely superpositional terms, the order of events in (c) is (i) deposition of substrate, (ii) impact cratering, (iii) thermokarst, and (iv) polygonal ground and pingo formation. The ground was probably polygonally fractured before thermokarst formation [multiple episodes of polygon growth interspersed with thaw, with later polygon development radial to the thermokarst (see Section 4.4)]. (e) MOC R23-00683, properties as for (a) and (c). (f) MOC S09-02331, illumination from SE, resolution 3.19 m per pixel, centred on 18◦ N/197.2◦ E (also image context for 8c, 8d). (g) MOC M11-01536, illumination from SW, resolution 4.47 m per pixel, centred on 21◦ N/200◦ E. (h) MOC R14-01144, properties as for (b). Note large numbers of impact craters embayed by polygonal ground, regular association of pingos and thermokarst, discontinuous polygonal ground development ((e) and (f), see Sections 4.3 and 5.1), and minor fluvial channels in inter-plate regions (h). Note also the small-scale thaw lakes forming within the low-centred terrestrial polygons of (d). Pingo growth in such lakes would account for the intra-polygon pingos observed in proximal Athabasca Valles by Page and Murray (2006) (Fig. 4g, therein). As judged by illumination, most of the Cerberus polygons also appear raised-edged (e.g., Figs. 7 and 8), suggesting seasonal thermal expansion (e.g., French, 1996).\nContributory evidence for this secondary origin is found within outliers of the Cerberus Formation (i.e., units Ach and Achp of Scott and Tanaka, 1986), in western Amazonis Planitia, where small-scale polygonal ground is seen superposing large numbers of impact craters (Figs. 7a–7h). This figure (7c) also shows pingos, identical to those of the Athabasca Valles, formed within thermokarst-like basins that exhibit a similar control on polygon development—just as is seen in terrestrial thaw lakes (Fig. 7d). The main observation here (and in Page and Murray, 2006) is that such polygonal grounds superpose landforms that are themselves post-depositional in origin, forming within the rim and most proximal crater ejecta—structurally and ballistically emplaced pre-impact surface material (Melosh, 1989)—and simply cannot be an original depositional feature. To suggest otherwise would run contrary to current understanding of impact crater excavation (see Page and Murray, 2006 and references therein), and the central tenet of stratigraphical superposition (in a terrestrial or planetary context). That is, that crosscutting relationships between geological structures provide the relative ages of formation of those structures. These are primary stratigraphical characteristics, independent of geomorphological interpretation, and proof of a secondary origin for polygonal ground wherever such superposition is found.\nIf deposits thought to be pristine, young lavas are actually periglacial in origin, then this should be reflected in crater counts, which will show deficiencies of smaller crater sizes. This is seen in every published crater count on young flows in Athabasca and Marte Valles (e.g., Hartmann and Berman, 2000; Hartmann and Neukum, 2001; Burr et al., 2002a; Berman and Hartmann, 2002), where the size–frequency distributions in the steep, small-crater branch are consistently shallower than the age isochrons. This has been attributed to burial of smaller craters by successively thinner lava flows (Hartmann and Berman, 2000), or a crater population dominated by secondary impacts (McEwen, 2003). However, it is also what\nwould be expected in volatile-rich terrain if, as can be seen in Figs. 7e–7h, smaller craters were being selectively removed by periglacial activity (see also Appendix A.2)."
+  }, {
+    "heading": "4.3. Absolute ages in volatile-rich terrains",
+    "text": "One of the most challenging aspects of a climatic origin for low latitude patterned grounds is that of age. When such deposits are widely agreed to be anywhere between 10 to 100 million years old on the basis of crater counts (e.g., Hartmann and Neukum, 2001; Berman and Hartmann, 2002; Burr et al., 2002a; McEwen et al., 2005), possibly even as much as 1700 million years old (Plescia, 2003), what scope is there for proposing that they reflect the result of climate change on timescales of tens to hundreds of thousands of years, or less? Even suggestions that these deposits represent a ‘frozen ocean’ (Murray et al., 2005) acknowledge an age of 4 million years or more, based on crater counts, yet all is not quite what it seems with this method of ‘absolute’ age determination. I contend that what is being recorded by crater counts on these young surfaces is maximum age only, and that minimum age—the most recent activity—is systematically missed. The reasons for this are not surprising—any notion that a surface can be younger than the craters (apparently) superimposed upon it seems absurd, yet, if we think about what superposition is actually telling us: that polygonal ground is transitory, secondary in origin, and postdates many impact craters, then it is little surprise that the most recent surface activity has gone unrecognised.\nTo explain, reconsider Figs. 2 and 7. The mass wasting in Fig. 2 indicates that polygonal ground in this region is, like the dissected mid-latitude mantle, an unconformable, surficial mantling. This is seen in the north of this figure (around ‘X’), where a number of small (20–50 m) impact craters are exhumed from beneath the ablating polygonal ground. It has already been demonstrated in Fig. 7 that the polygonal sculpture\nFig. 7. (continued)\nis a late-stage feature that crosscuts impact craters, but this superposition has implications for chronology as well as genesis. A crater count of these surfaces would give their age in the accepted sense, but this would not record the last event to contribute to their formation—the growth of the polygonal sculpture—that so clearly postdates impact cratering. It may well be that these deposits are many millions of years old, as indicated by counts of accumulated craters, but the polygonal pattern, usually thought to reflect the age of formation of the deposits themselves, is a secondary overprint. Impacts that are formed in pre-existing polygonal ground should crosscut and have ejecta that embay that polygonal ground, yet wherever impact craters and the polygonal sculpture are in close contact, the opposite is usually observed. This is best illustrated in Fig. 7e, where of the 50 craters that display such contact relationships, 48 (96%) show the polygons to be developed right up to the crater rim [in many instances, cutting the rim (Figs. 7a–7c)]. Similar numbers (i.e., >90%) are repeated throughout the area (see Figs. 7f–7h). With such a high percentage of craters postdated by polygon formation, it is clear that if we are interested in the timescale of recent climate change on Mars, as reflected\nin such deposits, then crater counts cannot help, and that qualitatively at least, these deposits must be substantially younger than they are currently thought to be.\nFor the youngest terrains, this process becomes self-defeating, as the activity we wish to measure postdates the very indicators used for measurement. In the context of recent climate change, this observation alone must outweigh the influence of all other factors, including primary vs secondary cratering (Neukum et al., 2006; McEwen, 2006), cumulative exposure age (Schultz, 2002), or crater retention age (Hartmann and Neukum, 2001). Furthermore, age derived in this manner may actually hinder recognition of the climate signal by overestimating (minimum) surface dates. For example, McEwen et al. (2005) have argued that the presence of large numbers of secondary craters in the Cerberus plains do not justify correlation of youthful geological activity with recent orbital cycles (Head et al., 2003), or sustain evidence for recent climate change on Mars (Mustard et al., 2001). However, such craters (secondary, or otherwise) only record the age of the substrate, and not later periglacial modification by formation of polygonal ground, so the opposite—recent climate change—can be inferred, particu-\nFig. 7. (continued)\nlarly given the truncation of these same craters by pingos [e.g., Fig. 6 (and Page and Murray, 2006)]. It does not matter if such modified craters are excluded from counts, as polygonal ground formation will almost certainly be time-transgressive. That is, polygon growth will not proceed everywhere, simultaneously, but will have a patchy distribution (as seen in Figs. 7e–7f), controlled by local regolith properties [e.g., porosity, composition, ice content (Clifford, 1998)].\nA single occurrence of these superposition relationships might arguably be regarded as a local aberration, but multiple instances of different landforms (i.e., polygonal ground, pingos) crosscutting impact craters across a wide geographical area (Elysium and Amazonis Planitiae) cannot. How significant the age disparity between substrate and periglacial overprint can be is demonstrated by the thawed pingos of Adventdalen, in Svalbard. These pingos are Postglacial, and less than 10 thousand years old (Christiansen, 2005), but form in weak Jurassic shales more than 145 million years old (Ross et al., 2005). To only focus on the age of the substrate is to overlook the entire Quaternary Ice Age.\nThis secondary processing presents a simpler explanation for the 1–2 Ma age difference between the plates and the younger lanes of the ‘frozen ocean’ in Elysium (Murray et al., 2005), freeze–thaw activity in the polygonal (inter-plate) regions removing craters, and decreasing apparent age. Thus, a frozen body of water of uniform age, yet many millions of years old, can still be present without the requirement that this be liquid within the last 106 years. Ultimately, a secondary origin for a cratered surface implies that crater counts cannot be relied on, particularly for diameters <100 m, the dominant size distribution in Figs. 2 and 7, and common for late Amazonian terrains (McEwen et al., 2005). What can be said with certainty is that freeze–thaw activity in the Cerberus Formation postdates many of the largest (Fig. 2, ‘Z’) and smallest [Fig. 2 (‘X’) and Fig. 7] craters here, extending minimum ages towards the present, and raises the prospect that thaw might even be ongoing."
+  }, {
+    "heading": "4.4. Evidence for present-day thaw",
+    "text": "The presence of pingo-like landforms in various states of growth and decay was taken by Page and Murray (2006) to indi-\nFig. 7. (continued)\ncate geologically recent hydrological cycling in the channels of the Athabasca Valles. ‘Pingos’ are ephemeral, ice-cored structures maintained solely by hydrostatic or hydraulic pressure, unfrozen zones (or taliks) in the subsurface required for their formation (Gurney, 1998). As transient, hydrological features, they do not survive over geological timescales—other than remnant ‘pingo scars’ showing their former locations, there are no known pre-Quaternary examples on Earth (e.g., see Mackay, 1998 and references therein). Their thaw in the terrestrial environment has been documented on a decadal timescale (Mackay, 1998), and provides an excellent illustration—and analogy for the degradation of Mars’ pingo-like landforms—of the major process that contributes to their collapse, namely headwall retreat of the exposed ice core (i.e., thermokarst collapse). Fig. 8a shows ‘Pingo 19,’ an example of pingo formation in a residual thermokarst pond from the Canadian arctic coast. This photograph was taken in 1980, approximately two years after the ice core was exposed to thaw, and shows the vertical thaw face (white) retreating upslope towards the pingo centre. The headwall retreated 30 m between 1979 and 1985, giving an indication of the rapidity with which pingo ice can respond to\nthaw (Mackay, 1988). Compare this image with the examples of Figs. 8b–8g (and Fig. 7c) from Elysium and Amazonis Planitia. Note the contextual similarities—a single mound formed at the centre of a thermokarst basin in patterned ground, and the presence of a single thaw slump in each, connecting the exposed core to the periphery [these slumps have previously been interpreted as the nested summit craters of volcanic, rootless cones (e.g., Lanagan et al., 2001)].\nThis sequence of polygonal ground thaw, thermokarst formation and pingo growth in the resulting depressions is observed in the terrestrial thermokarst type area of Yakutia, in Siberia. Once a thaw lake shallows, permafrost forms at its floor so that the underlying talik, previously surrounded to the sides and below by permafrost, becomes completely enclosed. Continued permafrost aggradation and pore water expulsion increase hydrostatic pressure, causing doming of the permafrost surface, and pingo formation. Eventual rupture and thaw of the exposed ice core result in the association of thermokarst and thawed pingos seen in Figs. 7 and 8. On Mars (Fig. 7c), as on Earth (Fig. 7d), further contraction cracking of the substrate is influenced by formation of thermokarst, the random orthogo-\nFig. 7. (continued)\nnal geometry of the fractures in Fig. 7c (and Figs. 7f and 7h) becoming radial to the basin margin, seemingly preserving a full freeze–thaw cycle. The entire thaw lake cycle, from birth to destruction, takes <104 years (Black, 1969). The presence of active pingos on Mars would imply hydrological cycling within the last 103 years, if terrestrial examples are any comparison (e.g., Mackay, 1998).\nIs such freeze–thaw cycling possible in the current climate? Using a validated general circulation model, Haberle et al. (2001) determined a number of regions where the minimum conditions for the existence of liquid water are met in the current climate [i.e., temperature and pressure above the triple point (273 K, 6.1 mbar), but below the boiling point]. For pure water, three “favourable” regions exist in the northern plains between 0◦ and 30◦ N (Fig. 9), where surface temperature and pressure exceed the triple point for more than 20 sols per martian year, and solar-heated, icy soil might lead to thaw—the Amazonis, Arabia and Cerberus plains. Using Viking Lander 2 pressure data, Lobitz et al. (2001) also derived locations\nwhere liquid water would be stable under current conditions. In both modelled cases, only the northern plains equatorward of ∼40◦ N and the southern hemisphere impact basins of Hellas and Argyre, allow for the presence of liquid water. One intriguing result of the Haberle model is that ground temperatures in the northern plains never exceed 273 K poleward of 30◦ N; even though surface pressure exceeds 6 mbar, the temperature never gets warm enough to support liquid water. This would explain one of the most puzzling aspects of permafrost melting in the Cerberus region: why, for all the confirmed ground ice and proposed thermal cycling at mid-high latitudes, this surface thaw and runoff are seemingly confined to low, near-equatorial latitudes.\nThe presence of these favoured zones is not universally acknowledged. Assuming average surface properties for Mars, Mellon and Phillips (2001) calculated mean annual surface temperature as a function of latitude for a range of obliquities and found that temperature did not exceed 222 K for any latitude. Costard et al. (2002) also calculated surface tempera-\nFig. 7. (continued)\nture on Mars for various latitudes, obliquities and slopes, and concluded that the only latitudes where the daily mean temperature has been above the melting point of water are above 30◦. In both cases, special conditions are required for liquid water to be generated at the surface. Despite these differing conclusions—e.g., Hecht (2002) concluding that transient melting of ground ice could occur nearly anywhere on the planet under present conditions—there is some suggestion that suitably ‘special’ conditions already exist. Speculating on the broad spatial correlation between polygonal ground in the Cerberus plains and the elevated concentration of atmospheric methane currently observed over this region (Mumma et al., 2004; Krasnopolsky et al., 2004; Formisano et al., 2004), permafrost thaw might release volatiles other than water. Under pressure, methane forms a solid clathrate with water—methane hydrate—that is prone to decomposition when depressurised, but is otherwise stable at all latitudes down to the martian equator (Max and Clifford, 2000). This is most interesting in the context of surface thaw in the Cerberus plains as degradation of permafrost would provide a mechanism for clathrate release, its presence greatly lowering the thermal conductiv-\nity of ground ice, producing meltwater that is easily stable under current martian surface conditions (Kargel et al., 2000; McMenamin and McGill, 2006).\nLike the pingos, the short lifespan of atmospheric methane on Mars ( 103 years) would suggest ongoing thaw, if permafrost-sourced; further, high methane fluxes commonly following permafrost thaw on Earth are usually biogenic in origin (e.g., Liblik et al., 1997). If such an association appears unwarranted, thaw in the upper few metres of the regolith would be unlikely to affect the release of sustained or deep-seated geological sources of methane (e.g., Atreya et al., 2007). Hence, unless thaw and the local methane enhancement over this region are unrelated, release of methane from within the permafrost of the Cerberus plains is a consistent explanation. Clathrate destabilisation during the current ‘interglacial’ has been suggested as a means of releasing martian methane older than 103 years (Prieto-Ballesteros et al., 2006), but even if conclusions of millennial-scale climate change (i.e., pingo genesis) in the Cerberus plains are misplaced, the case for geologically recent freeze–thaw activity in this region is compelling, and merits further investigation. After all, it is the proposition that there is (or\nmay once have been) life on Mars that we test by searching for water."
+  }, {
+    "heading": "4.5. Other indications of recent climate change",
+    "text": "Processes unique to terrestrial periglacial environments include the formation of polygonal ground, thermokarst, and intrusive ice forms such as pingos (Dylik, 1964). On Mars, al-\nternative explanations exist for such features in isolation, but together (e.g., Figs. 7 and 8) they are fully diagnostic of nearglacial conditions, and their presence supports theories of a widespread martian ‘ice age’ during the late Amazonian (Head et al., 2003). That such conditions were formerly present near the equator is suggested by the presence of ‘paleo-pack ice’ in Elysium Planitia (Murray et al., 2005), and a proglacial origin for those deposits, proximal to a northern ice sheet, now seems plausible. Cold-based glaciers on the flanks of the Tharsis Montes (Head and Marchant, 2003), also of this age, may be contemporary. If glacial conditions characterised the Cerberus plains during this time, we might expect subglacial landforms such as eskers, stratified ridges of sand and gravel inferred to be the casts of subglacial channels (Brennand, 2000), to be exposed by meltback of the ice. Being essentially fluvial in form, subglacial channels are difficult to distinguish from the deposits of surficial rivers, but for one characteristic feature: they are pressurised by the weight of the overlying ice—and can flow uphill. As measured by MOLA, the elevation of the dendritic drainage in Fig. 2 (‘B’–‘D’) shows a steady ascent, north to south, of 13 m, from −3548 to −3535 m. Hydrothermal activity can drive groundwater up gradient, but progressive stream capture and dendritic drainage against gravity is a defining characteristic of pressurised, subglacial streamflow (Röthlisberger, 1972; Shreve, 1972). In this case, the channels (‘B’) would represent ‘tunnel channels’ incised into the substrate and the (former) overlying ice, and their contained distal deposits (‘D’), eskers. These MOLA data (interpolated) suggest that this runoff is the result of deglaciation, but this remains only a possibility, albeit one testable with the stereo imagery and automated photogrammetry of HRSC or HiRISE.\nThis polygonal ground is morphologically distinct from the dissected mantle described by Mustard et al. (2001) for higher mid-latitudes (>30◦ N), although both are icy, and undergoing decay. There are good grounds for suspecting that they share the same periglacial origins (if not accumulation of their volatile fraction: see Appendix A.2), differing only in the degree of preservation of recognisable periglacial landforms in the Cerberus plains. Mellon and Jakosky (1995) calculated the percentage of time during the past million years that ground ice at this latitude has been stable with respect to sublimation, ∼20–30%, this value increasing with increasing latitude. This is the amount of time ice has had to do geomorphological work, modifying surface geology, and a latitudinal gradient in the extent and development of periglacial features is expected. Such a gradient would explain the difference between the amorphous mid-latitude mantle and the pristine periglacial features of the Cerberus plains. The greater stability and residency time of ground ice in the regolith at mid-latitude relative to the lowerlatitude Cerberus region should produce a range in preservation of periglacial landforms, increasing equatorward, and this appears to be what is seen. It was also suggested that such features should have small horizontal scale, a product of the smaller vertical scale of thermal cycling at low latitudes. Periglacial landforms in the Cerberus plains—polygonal ground, pingos and thermokarst—are all of a scale smaller than equivalent features at higher latitudes [for examples, see Siebert and Kargel\n(2001), Costard and Kargel (1995), and Farrand et al. (2005), respectively].\nWhile the geographical correlation between mid-high latitude polygonal grounds and the distribution of ground ice detected by the GRS-NS has been noted by a number of studies (e.g., Head et al., 2003; Mangold et al., 2004), atmospheric supply and recharge of ground ice would tend to populate terrains that straddle the equator (Mischna et al., 2003). The presence of two low-latitude hydrogen reservoirs in the Medusae Fossae and Arabia Terra were considered by Feldman et al. (2004b) to support atmospheric water redistribution (over subsurface aquifer). Yet, in considering the spatial relations between patterned ground and ground ice detected by the NS, the ‘absence’ of polygonal ground at low latitude led Mangold et al. (2004) to conclude that either the thermal properties of the uppermost regolith in this region differ from those assumed by present models, or that this hydrogen is in the form of hydrated minerals rather than water ice. The identification by the GRS of substantial quantities of WEH at high latitudes is unambiguous (Boynton et al., 2002), and as for those latitudes, ice, rather than hydrated minerals, might be the only phase to reasonably associate with polygonal ground in the Cerberus region, given the clear indications of thaw. A periglacial origin for polygonal ground in the 0◦–20◦ N latitude zone effectively addresses the issues raised by Mangold, and lends further support to hypothesised, climatically driven water sources during the late Amazonian.\nIn describing the cold-based mountain glaciers of the Tharsis Montes, Head and Marchant (2003) found no evidence that might be associated with wet-based glaciers, such as eskers, sinuous channels, lake deposits or braided streams. Similarly, the volatile-driven resurfacing of the northern plains described\nby Tanaka et al. (2002) saw no evidence for substantial liquid water at the surface in the form of fluvial, lacustrine, or wetbased glacial activity. It is not yet clear if the degradation of the Cerberus Formation is the product of periglaciation alone, or whether glaciation is also involved, but it is apparent from Fig. 2 that many of these features (perhaps all) are present in Marte Vallis."
+  }, {
+    "heading": "5. Further discussion",
+    "text": ""
+  }, {
+    "heading": "5.1. Implications for martian chronology",
+    "text": "The superposition relationships discussed in this account raise fundamental questions about Mars’ cratering chronology. If the main point of crater counting is to allow chronological measurement of “all martian stratigraphic units” (Hartmann, 2005), then stratigraphical observations in the Cerberus plains reveal that this strategy fails for the latest Amazonian. This is not a failure of method; rather, surface change on a timescale too short for the majority of impacts to register [and illustrates why the counting of smaller craters cannot be divorced from geology, and should not be automated (e.g., Kim and Muller, 2003)]. However, this is not just a question of an age revision to be accommodated by reduced crater retention age, as the young flows of the Cerberus region are presumed to contain a production population of impact craters (e.g., Hartmann and Neukum, 2001) that, in part, forms the reference against which the age isochrons for the whole of Mars are compared (see Appendix A.2). Nevertheless, it may be that this represents an opportunity to improve understanding of recent martian chronology, as this surface change can potentially provide a more precise time-marker than impact craters alone. As stated by Hartmann\nand Neukum (2001), the major goal of chronological studies is to derive absolute dates for the relative stratigraphical periods defined by Tanaka (1986). That is, derive geochronological units from their (material) chronostratigraphical referents. While the lower or maximum ages of such units might be well constrained by crater counts, minimum age is not accurately represented by impact craters if these are postdated by polygonal ground formation.\nThe solution to this issue lies with the polygonal ground itself. Growth of the polygonal sculpture will be time-transgressive (or diachronous), but is a climatically controlled process that represents an isochronous (or equal aged) event—a chronostratigraphical marker that will form wherever surface conditions are favourable—irrespective of the number of impact craters—and one that should be applicable globally. As pointed out by Ager (1993), what is diachronous locally becomes virtually synchronous geologically, and “something” has evidently happened in the Cerberus plains region to cause this superposition. If we are really concerned with absolute dating, then it is this event that should be measured, and not just the impact craters that so clearly precede it. Terrestrial polygonal ground forms on timescales of 103–104 years, and persists at the surface for 105–106 years (see Section 3.1), so we have a potential age of formation between one thousand and one million years before present, with thaw degradation, as evidenced by the pingo-like landforms, towards the lower end of that scale. There is nothing ‘absolute’ about these ages, but I submit that they are a more accurate reflection of the age of the latest activity within these deposits than those derived by crater counts. In truth, ages of the order of 100s of thousands of years can be reconciled with the lowest age estimates from MOC counts of small craters [of a few millions of years (Hartmann and Berman, 2000)], given the factor 10 uncertainty for diameters <100 m (Hartmann, 2005), but a distinction must be made between formation (or unit) age, and age of climatic overprint.\nHartmann (2005), in a robust and valid defence of the crater counting method, asks us to consider crater isochrons in terms of orders of magnitude; to acknowledge the value of distinguishing the 107 year surface from the 108 and 109 year surfaces, to better understand gross planetary morphology. I suggest that the formation of periglacial landforms, in conjunction with crater counts, offers us the prospect of distinguishing surfaces on the scale of <106 years. We know the rate of formation (and destruction) of such landforms on the Earth, and can use this to check minimum ages derived from small crater counts. Ironically, the modification of smaller craters that leads investigators to avoid using them for age constraint (e.g., see McEwen et al., 2005) is the same process that permits this. All the indications are that these deposits are periglacial, and geologically young. Resolution of their age has potentially profound consequences—this landscape need only have evolved over the past few million years to be temporally comparable to the last terrestrial ice age (e.g., Hays et al., 1976)."
+  }, {
+    "heading": "5.2. Source of the water",
+    "text": "Thaw is possible on Mars under contemporary conditions (Hecht, 2002), and water can readily flow for many hours with-\nout significant re-freezing (Carr, 1983). Transient meltwater, present for only a few hours per day (e.g., Haberle et al., 2001), might then have been sufficient to carve the dendritic drainage system in MOC E05-03487, but there are no plausible climatic conditions, presently discussed in the literature, whose occurrence would allow the thaw of ground ice indicated by the more sizable discharge from the crater lake (‘E’). It is suggested that catastrophic release of subsurface water is responsible, a thawinduced outburst flood produced by release of unfrozen water, perhaps a sub-lake talik under the same hydrostatic pressure responsible for pingo formation throughout this area.\nWhile there is no geological evidence for associating patterned ground in the Cerberus plains with a specific orbital period in late Amazonian history (e.g., Laskar et al., 2002), a permafrozen regolith operating on short-order obliquity cycles would effectively form its own water source. Sublimative and thaw losses during periods of lower obliquity would be offset by ground ice exchange with the poles at high obliquity, requiring neither warmer, wetter climates (Siebert and Kargel, 2001), exotic, non-aqueous fluids (Hoffman, 2000), hydrothermal processes (Gulick, 1998), nor recharge of nearsurface aquifers (Malin and Edgett, 2000) to initiate and maintain episodic surface runoff.\nPermafrost melting and discharge of subsurface water represent potential fluid sources for the platy deposits of the Cerberus plains. Such a regionally extensive regolith source may be a necessity, as platy, patterned grounds are not confined to the Cerberus region, occurring also in Chryse, Utopia, and Amazonis Planitiae [see Williams and Malin (2004), Siebert and Kargel (2001), and Fuller and Head (2002), respectively], and does not require that these all be sourced from eruptive fissures, such as the Cerberus Fossae. Estimates of the volumes of water required to form the great outflow channels suggest that Mars may possess a global inventory of water equivalent to an ocean >500 m deep, averaged over the planet surface (Carr, 1986). Most of this water [90–95% (Carr, 1996)] is unaccounted for. As the peak in outflow channel activity [2–3 Ga (Tanaka, 1986)] postdates the period when most planetary water loss is thought to have been active, much of this may still reside as ice and sub-permafrost groundwater within the northern plains today (Clifford, 1993; Scott et al., 1995; Carr, 1996; Clifford and Parker, 2001; Fairén et al., 2003; Murray et al., 2005). Surface thaw in the Cerberus region presents a persuasive argument for this prospect.\nAs with the youthful gullies, permafrost thaw, pingos, outburst floods and ice-filled outflow channels challenge perceptions of what it has been possible for water to do on Mars in the latest Amazonian. It would be remarkable indeed if this landscape “evolved locally to generate surprisingly detailed copies of what on Earth is readily produced by the long-term action of water and ice” (Baker, 2001)."
+  }, {
+    "heading": "6. Conclusions",
+    "text": "Polygonal ground in the Cerberus plains is dynamic and secondary in origin, its thaw in Marte Vallis linking this landform to thermal contraction processes in ice-rich regolith. Meltwa-\nter streams derived from this thaw can be continuously traced for over 15 km [an order of magnitude greater than other geologically recent surface runoff on Mars (e.g., Malin and Edgett, 2000)], pond in an enclosed lake, and connect distinct associations of process-related thaw features. Polygonal ground takes part in this runoff, preserving evidence of freeze–thaw cycling—the first such for Mars. This degradation is only partial, so it is possible that a large metastable ground ice mass, in diffusive disequilibrium with the current atmosphere, remains.\nThe spatial arrangement of these deposits parallels those of terrestrial periglacial environments; were a sequence exhibiting these proximal to distal relationships developed on Earth, there would be little hesitation in ascribing an ice-marginal, periglacial origin (e.g., see Baker et al., 2003). This explanation is consistently extended to other examples of patterned ground [i.e., the superposition of putative ‘rootless cones’ and platy deposits in the Athabasca Valles (Page and Murray, 2006)], as the predicted expression of recognised periglacial phenomena, and questions the view of platy, patterned ground as magmatic— the principal evidence for geologically recent flood volcanism on Mars (Keszthelyi et al., 2000; Berman and Hartmann, 2002; Plescia, 2003). This may be why low latitude patterned grounds receive so little attention (e.g., Mangold et al., 2004). Although climatic controls are described for such deposits at higher latitudes, it is at low latitude that they are seen in process of change (as might be expected, for this is where they are least stable).\nThe premise of a periglacial origin for the Cerberus Formation is formed by analogy to the terrestrial environment. This interpretation and the hypothesis proposed for secondary landform generation is inductive in nature and not binding, but the morphological inductions (the association of ice-related landforms) and the stratigraphical inductions (the superposition relationships) are consilient. That is, these differing classes of observations converge in unified periglacial explanation, and are a test of the truth of this hypothesis—one that is consistent with observed stratigraphical relationships where volcanism is not. By implication, superposition of large numbers of small impact craters also places these landforms in the appropriate (i.e., geologically recent) temporal setting—a prime example of the explanatory surprises that are generated by consilient hypotheses (Gould, 2003; Baker, 2003).\nThe spatial correlation between regions of “favourable” melting, the high atmospheric methane flux and surface thaw in the Cerberus plains adds a climatic element to this convergence, and while the evidence for ongoing melting is largely inferred, permafrost degradation does effectively reconcile thaw at low latitudes with the preponderance of cold-based features seen at mid-high latitudes (i.e., glaciers, viscous flow lobes and lineated valley fill) elsewhere in the northern plains. Whatever the ultimate control on martian climate, the most recent evidence of ground ice thaw would be expected at low latitude, where insolation and daytime temperatures are currently greatest (and where, at low obliquity, the conditions favour ice melting, not accumulation). Sublimation may produce polygonal ground; it may even produce surface pitting; it cannot produce kilometrescale dendritic runoff and intrusive frost mounds. The conclusion of geologically recent hydroclimatic change at low latitude\nis certainly more complex (and problematic) than outlined here, but may help resolve open questions over the nature and source of the agent that carved the youthful gullies at higher latitudes (see Heldmann and Mellon, 2004), and the “water-generated landforms and landscapes of Mars (that) have proven especially difficult to unite under a single working hypothesis” (Baker, 2001).\nThe platy deposits embayed within the crater lake (‘E’) are clearly intraformational. Their thaw and fracture visibly affect (at ‘G’–‘I ’), and therefore postdate, the polygonal substrate. Fracturing of these and identical platy deposits in Elysium Planitia do not uniquely identify ‘pack ice,’ but when this also forms the source of unequivocal meltwater features, then an icy origin becomes harder to dismiss. Unless processes operate on Mars that are able to replicate such cold-climate features, in form and spatial arrangement (with direct, well-understood terrestrial analogues), these cannot be lavas, and a significant episode of martian geological history must be reconsidered. The periglacial origin determined for polygonal ground in the Cerberus plains, and the widespread association of platy, polygonal, thermokarstic terrain in Chryse, Utopia and Amazonis Planitia, have implications of global extent. The designation of ‘glaciomarine facies’ (at Fig. 2, ‘O’) considers the Marte Vallis to be a paleo-seaway connecting the platy deposits of the Elysium and Amazonis plains. MOC E05-03487 is proximal to where this outflow channel empties into the Amazonis basin, and the inner contact considered by Parker et al. (1993) to be the shoreline of a former northern polar ocean.\nThis is no subset of the geomorphological evidence; platy, patterned ground is abundant and easily recognised, planetwide at these latitudes, and this freeze–thaw visible along the distal length of the Marte Vallis and out into the Amazonis plain (e.g., MOCs E05-03487, E17-00257, M03-06377, E02-01361, R23-00683, M11-01536, M22-01079, R14-01144, R15-00973, S09-02331, R14-00254). The similarity of the thermokarst to pitted, polygonal terrain in Mars’ south polar region, where there is no doubt of its origin (Malin et al., 2001), is striking. Although the substrates differ substantially, a major volatile component is required for formation in both, and recent climate change, the probable cause.\nThat plains-forming deposits in the northern plains of Mars have suffered geologically recent thaw modification, possibly related to deglaciation, has implications that reach far beyond martian climate change. The evidence from the Cerberus region is that the coincidence of climate change on the Earth and Mars is even closer than suspected (e.g., Head et al., 2003), and may continue to this day. As originally suggested by Sagan and Young (1973), parallel climate change on these two planets— an ice age Mars coincident with Earth’s glacial Quaternary period—would imply a dominant external influence in longerterm climate change on our own planet."
+  }, {
+    "heading": "Acknowledgments",
+    "text": "Critical, constructive reviews by Steven Clifford and James Dohm improved the manuscript greatly, as did informal comments on an earlier draft by Monica Grady, John Murray and Matt Balme."
+  }, {
+    "heading": "Appendix A",
+    "text": "A.1. Other Mars data sets\nThe more usual interpretation of the northern-latitudes is that they are volcanic; a view substantiated with data from the Mars Global Surveyor Thermal Emission Spectrometer (TES) (Bandfield et al., 2000). How generally this view is applied can be summarised by the following paragraph [from a review of the predecessor of this paper (i.e., Page and Murray, 2006)], regarding the deposits of the Cerberus Formation: “The thermal inertia and spectral data are consistent with a mafic lava flow with a dust coating. So are the GRS compositional data. As are the Earth-based radar data. And theoretical modelling shows that lava could indeed form these features. The entire suite of data collected over the last three decades from Mars is consistent with these being lava surfaces.” A year does not pass without reference to the correct identification of these deposits as ‘the youngest lava flows on Mars’ (e.g., McEwen et al., 1998; McEwen, 1999; Hartmann and Berman, 2000; Hartmann and Neukum, 2001; Fagents et al., 2002; Lanagan and McEwen, 2003; Lanagan, 2004; Wilcox and Hamilton, 2005), yet how many pause to wonder how safe this identification is? Its morphological basis is equivocal, at best: “The platy-ridged material is interpreted to be lava because it is bounded by lobatemargins characteristic of lava flows” (Keszthelyi et al., 2000). While some have questioned this view (e.g., Rice et al., 2002; Williams and Malin, 2004; Murray et al., 2005), its general acceptance generates one of the great extrapolations of modern Mars science: that the planet has experienced flood volcanism, on a scale large enough to resurface large areas of the northern plains, well within the last 1% of its history. As the evidence in the present account is at odds with what is a widely held view, let us consider each of the spectral, thermal inertial and compositional data sets in turn.\nData from the TES describe two broad spectral signatures distributed approximately north–south of the planetary dichotomy: a Surface Type 2 (ST2) that (variously) defines the surface composition of the northern plains as andesitic (Bandfield et al., 2000), or aqueously altered basaltic (Wyatt and McSween, 2002), and a basaltic Surface Type 1 (ST1) in the southern highlands. The susceptibility of the TES to bright surface dust at low latitudes is well documented (Mellon et al., 2000; Wyatt et al., 2004), this globally homogeneous dust layer obscuring the signature of the underlying bedrock from spectral analysis. The Cerberus plains lie within a large, equatorial ‘blind spot,’ clearly visible in published maps of emissivity and thermal inertia (e.g., Jakosky et al., 2000; Ruff and Christensen, 2002; Putzig et al., 2005), and it is this that has allowed the view of these deposits as dust-coated lava flows to be maintained, particularly where windows of igneous composition are apparent within the dust (Wilcox and Hamilton, 2005). Using high-resolution TES data to identify areas of particulate basalt within this ‘dusty’ region, Rogers and Christensen (2003) found the Cerberus plains around 9◦–14◦ N/149◦–162◦ E [Cerberus Fossae and the proximal Athabasca Valles (e.g., Fig. 10)] to have thermal inertia values (∼250 to\n>300 J/m2 K s1/2) indicative of particle sizes within the range of silt to coarse sand (200–800 µm). Nowhere were values consistent with bedrock [∼2400 J/m2 K s1/2 (e.g., Jakosky, 1979)].\nThis large area of low thermal inertia may be consistent with loose surface dust (Mellon et al., 2000), but the higher spatial resolution of the Thermal Emission Imaging System (THEMIS), onboard Mars Odyssey, reveals distinct thermal differences between the plate and inter-plate (i.e., polygonally patterned) regions. This is the case for both day- and night-time infrared observations (Figs. 10a and 10b), the latter a proxy for thermal inertia, and more indicative of intrinsic thermal and material properties (Fergason and Christensen, 2003), so the consistent division of these deposits into platy and polygonal areas tells us something about the different processes that affect them. In the nighttime brightness image (Fig. 10b), plates appear dark (cool) and polygonal areas light (warm), indicating that the plates have lower thermal inertia, relative to their polygonal surroundings, and are composed of, or mantled by, finergrained materials. This thermal variation has been attributed to dust trapping in the inter-plate regions (Keszthelyi et al., 2006), yet these are the areas of highest (relative) thermal inertia: not what would be expected if this were the case. It is known\nfrom thermal studies of terrestrial permafrost that regions of thaw penetration have high thermal inertia [associated with surmounting the 0 ◦C/273 K ‘barrier’ at the triple point (Viterbo et al., 1999)]. In this context, the greater (relative) thermal inertia of the polygonal ground is consistent with freeze–thaw cycling and enhanced volatile-loss in these areas. There is little doubt that the Cerberus region is dusty [or that this is changeable over short timescales (e.g., Geissler, 2005)], but neither the spectral nor the thermal inertial data can be said to indicate that the deposits of the Cerberus plains are lava.\nAn igneous component to these deposits there may well be (Wilcox and Hamilton, 2005), but that is not the same as saying these are lava flows. Volcanogenic sediment, however, is a different matter. The initial results of a more silicic composition for the younger deposits of the northern plains (ST2) are also interpreted as low-temperature aqueously altered basalts weathered under icy conditions during periods of higher obliquity (Wyatt et al., 2004). The dominantly igneous mineralogy of ST2 and the clear basaltic component from MER Mini-TES in the dark soils at Gusev and Meridiani (Yen et al., 2005) imply only limited aqueous alteration in the northern plains, but deposition of sediment does not always involve water. Tharsis magmatism during the late Amazonian (Fairén et al., 2003; Hynek et al., 2003; Tanaka, 2000) could have supplied volcanic air fall (or tephra) to the Cerberus region, providing nucleation sites for the condensation of atmospheric water vapour in the process. The easily eroded deposits of the Medusae Fossae Formation (MFF) are a prime candidate for such icy air fall, particularly as these directly overlie the Cerberus Formation in southern Elysium Planitia, are the location of the large near-equatorial hydrogen reservoir identified by the GRS-NS (Feldman et al., 2004b), and contain features of subglacial origin (Page, in preparation).\nAlthough the compositional (GRS) data cannot be said to support a volcanic origin for the Cerberus plains (composition does not equal lithology), if ground ice is as abundant as this account suggests, then why is it not visible? The lack of a hydrogen signal here would seem a strong argument against this interpretation, were it not for the expectation that ground ice at this latitude should lie beyond the detection depth of this instrument. The fast- and epithermal-neutron count rates measured by the GRS-NS are usually understood in terms of a two-layer model, suggesting that most WEH at low latitudes is buried below a relatively desiccated layer (e.g., Feldman et al., 2004a). That is, a high-hydrogen (ice-rich) zone below a low-hydrogen (ice-free) soil that thickens equatorward, until the ice is too deep to be detected (Boynton et al., 2002). Ground ice that is in diffusive equilibrium with atmospheric water vapour at midhigh latitudes (Mellon et al., 2004) is in diffusive disequilibrium at near-equatorial latitudes (Feldman et al., 2004b), so the ice table recedes with decreasing latitude (a corollary of this disequilibrium is that ground ice in the Cerberus plain can only be archaic if atmospheric, else subsurface in origin). Yet, a drop in ground ice content away from the poles is not expected from climate models [quite the opposite (e.g., Mischna et al., 2003)], water ice being stable at all latitudes during periods of higher obliquity (Mellon and Jakosky, 1995), or through-\nout a global subsurface aquifer (Clifford, 1993). The thickness of the ice-free layer is presumed to exceed 1 m equatorward of ±45◦ (Boynton, W.V., personal communication, 2006), but the instruments of the GRS package are only sensitive to the upper metre of the regolith, so if this is itself desiccated, as would be expected at this low latitude, ice can no longer be detected from orbit (Feldman et al., 2004a). That a hydrogen signal is detected in the Medusae Fossae, at even lower latitude, is not explained, but as the MFF suffers substantial wind erosion (forming yardangs), it seems entirely reasonable that this volatile should be visible.\nBasaltic sediment deposited from air fall as a volcanic dust/ice mixture is consistent with patterned ground as ice-rich, even without spectral masking (which would probably show these deposits to be ST2). It is valid for describing the ST2 spectrum (Wyatt and McSween, 2002), and fits with both the regional thermal inertial and spectral data, particularly as TES spectra are thought to represent fine-grained particulate material, rather than bedrock (Christensen et al., 2000). It is similarly compatible with the GRS-NS and radar data, the enhanced backscatter of which is only an indication of surface roughness (Harmon et al., 1992), and not a proxy for lithology. Finally, icy volcanogenic air fall would provide the required global-scale formation mechanism for ST2 [to account for local occurrences of Type 2 material in the southern highlands (Bandfield, 2002; Rogers and Christensen, 2003; Wyatt et al., 2004)], without the attendant problems of creating vast amounts of andesite, or aqueously altered basalt, in the absence of magmatic or surface water [see Wyatt and McSween (2003) and Hamilton et al. (2003) for discussion].\nBy contrast, and occupying the mineralogical middle ground between the ‘dry silicic’ and ‘aqueous mafic’ interpretations of TES data, the latest near-infrared hyperspectral imagery from the OMEGA instrument onboard Mars Express shows primary iron-bearing igneous constituents, such as olivine and pyroxene, to be weak or absent in the northern plains (ST2), enrichment in hydrated phases also lacking (Mustard et al., 2005; Bibring et al., 2006). Wide areas of the northern lowlands with no mafic signature are inconsistent with ‘plains-style’ volcanism, but both observations are uniform with the cold-climate, secondary origin advanced here. The deposits of the Cerberus Formation are the ‘younger channel and flood-plain materials,’ units Ach and Achp, of Scott and Tanaka (1986) and Tanaka et al. (1992). The latest geological mapping of the northern plains (Tanaka et al., 2005) now maps these same deposits as a large field of lava flows (the ‘Cerberus Fossae 3’ unit, AEc3), citing reported evidence of volcanic origin (i.e., Keszthelyi et al., 2000; Plescia, 2003; Lanagan, 2004). From the periglacial perspective of this account, the original mapping of these deposits (as alluvial) accords better with the observed geomorphological and stratigraphical relationships.\nA.2. Consilience and hypothesis testing\nThe nature of low latitude patterned grounds in the Cerberus plains is a question that has brought every Mars data set into play, and if much of these data have been interpreted as con-\nsistent with a volcanic origin, as inferred from morphology (Plescia, 1990), lava flow modelling (Keszthelyi et al., 2000), and radar data (Harmon et al., 1992), they are not exclusively so. Baker (2001), in outlining the inductive process of Whewell (1840), states that: “Ultimately in geomorphological investigation, one chooses the working hypothesis that is most fruitful with regard to connection to other lines of scientific inquiry, while still providing consistency and coherence in explaining the whole complex of available observations.” Inductive reasoning yields one major type of conclusion: consilience, where seemingly unrelated observations can be made to cohere in one (and only one) possible way. This single co-ordinating explanation for the joint existence of otherwise incoherent observations is the distinctive feature of consilience; it does not constitute a formal proof, but a test of the validity of a working hypothesis. The hypothesis in the present account is that the plains-forming deposits of the Cerberus Formation are periglacial, based on form and context of landforms relative to the known terrestrial environment. This analogy leads to a second hypothesis (partially a product of the first), that polygonal ground in this region is secondary; an (expected) consequence of periglaciation that should itself experience cyclical degradation and reaggradation. Unlike the first hypothesis, this is a definite claim that, true or false, can be tested by stratigraphical superposition. In every described instance, i.e., Figs. 2, 6 and 7, this test shows that polygonal ground, and other periglacial features such as pingos postdate the substrate in which they occur.\nIt is axiomatic in geology that ‘if A crosscuts B, then A must be younger than B’—a methodological prerequisite on which much geological reasoning depends. This is why impact craters (the ‘B’ of this example) were used to test the secondary arguments in this account, as they are the single surface landform that can be said with complete confidence to be post-depositional. Either the features that superpose impact craters in the Cerberus plains are formed after impact, or our understanding of the way in which hypervelocity impact craters form (e.g., Shoemaker, 1963; Maxwell, 1977; Melosh, 1989) is incorrect. The principles of superposition do not necessitate such a conclusion, but when expressed by multiple and varied examples over a wide geographical area, they do predict a high probability of it being true. Geological formations and the landforms they contain are bound by these principles; if our theories do not make stratigraphical sense, then they cannot be correct.\nPlanetary geology must frequently work without the most fundamental unit of geological information: lithology. If we are to have confidence in the geoscientific validity of inferences drawn from planetary image data, then such formational and temporal constraints as superposition offers should be used to test initial hypotheses. If not, the danger is that the system of multiple working hypotheses is displaced by one of the ‘ruling theory’ (Chamberlin, 1897). This is nowhere clearer than in the Cerberus plains where lava flow modelling, radar data, crater counts, young meteorite ages and formative models of associated landforms are all taken to confirm the general theory of plains-forming volcanism without producing any further geological evidence for it. Where ‘hard’ geological evidence does\nexist—the basaltic shergottite meteorites—it lacks provenance, and has no more than an implied connection to the Cerberus region. By adopting this general theory as an unproblematic premise for further inquiry, what began as a geomorphological interpretation has become established, assuming the status of paradigm alluded to earlier, with such deposits now used as the basis for testing other theories, forming “. . . a perfect surface for recording the production function diameter distribution of impact craters,” and “. . . a test of isochron shape” (Hartmann and Neukum, 2001). The production functions on such ‘perfect’ surfaces reflect an ideal size–frequency distribution of craterforming projectiles before changes due to degradational and obliterative processes (Ivanov, 2001; Ivanov et al., 2002), so the distinction between primary and secondary terrains could not be more significant.\nThese production functions are based on an assumption that objects striking Mars have the same size–frequency distribution as those that cratered the Moon, and are dominated by primary impacts (Neukum et al., 2001; Hartmann and Neukum, 2001). To this must be added a further assumption: that the substrate against which the age isochrons are tested has been correctly identified (as lava). This last assumption is almost universally accepted, and is the mainspring of martian impact crater chronology, yet in the case of the Cerberus plains, it is also the one with the least empirical support. Differences in the frequency and statistics of impact craters on surfaces in this region that should be approximately the same age have been ascribed to an incomplete understanding of the small-crater production functions (Plescia, 2005; McEwen, 2006). However, crater chronology is only as good as the lithological assumptions that are its basis. Would successive refinements of isochron shape (see Hartmann, 1999, 2005; Berman and Hartmann, 2002) largely to reconcile flattening of the production function for small-craters in this region (Hartmann and Berman, 2000; Hartmann and Neukum, 2001; Berman and Hartmann, 2002; Burr et al., 2002a; McEwen, 2003; McEwen et al., 2005) have occurred if the deposits of the Cerberus plains were really the pristine young lava flows they are thought to be? On the basis of the degradation visible in Figs. 2–8, it is difficult to imagine deposits less suited to preserve a production population of impact craters (Hartmann and Neukum, 2001), act as an isochronological reference (Hartmann, 2005), or assess the relative contributions of primary and secondary impacts to the martian cratering record (McEwen et al., 2005; Barlow, 2006). From their earliest modelling onwards, the condition that such theoretical emphasis requires that hypotheses be falsifiable (Popper, 1959) was never applied to these deposits, for there was never any question that they were anything other than lavas (see Keszthelyi et al., 2000, 2004, 2006), and what should have been a hypothesis to be tested became merely a proposition to be confirmed. An un-testable hypothesis is not an effective working hypothesis (e.g., Zimbelman, 2001), so let us say that the volcanic model, to be correct, led to one observable consequence for future study: that its surface landforms, being the product of emplacement and lithification of lava flows, should all be demonstrably primary in origin. They are not. The model is rejected, and something new has been\nlearned about these deposits, if only that the number of viable working hypotheses can be reduced."
+  }],
+  "year": 2007,
+  "references": [{
+    "title": "The Nature of the Stratigraphical Record",
+    "authors": ["D.V. Ager"],
+    "year": 1993
+  }, {
+    "title": "Methane and related trace species on Mars: Origin, loss, implications for life and habitability",
+    "authors": ["S.K. Atreya", "P.R. Mahaffy", "Wong", "A.-S"],
+    "venue": "Planet. Space Sci",
+    "year": 2007
+  }, {
+    "title": "Icy martian mysteries",
+    "authors": ["V.R. Baker"],
+    "venue": "Nature 426,",
+    "year": 2003
+  }, {
+    "title": "Very recent hydroclimatic change on Mars",
+    "authors": ["V.R. Baker", "J.M. Dohm", "J.C. Ferris"],
+    "venue": "Lunar Planet. Sci. XXXIV. Abstract",
+    "year": 2003
+  }, {
+    "title": "Global mineral distributions on Mars",
+    "authors": ["J.L. Bandfield"],
+    "venue": "J. Geophys. Res",
+    "year": 2002
+  }, {
+    "title": "A global view of martian surface compositions from MGS-TES",
+    "authors": ["J.L. Bandfield", "V.E. Hamilton", "P.R. Christensen"],
+    "venue": "Science",
+    "year": 2000
+  }, {
+    "title": "Spectroscopic identification of carbonate minerals in the martian dust",
+    "authors": ["J.L. Bandfield", "T.D. Glotch", "P.R. Christensen"],
+    "venue": "Science",
+    "year": 2003
+  }, {
+    "title": "The production rate and distribution of secondary craters on Mars. In: Workshop on Surface Ages and Histories: Issues in Planetary Chronology",
+    "authors": ["N.G. Barlow"],
+    "year": 2006
+  }, {
+    "title": "Recent fluvial, volcanic, and tectonic activity on the Cerberus plains of Mars",
+    "authors": ["D.C. Berman", "W.K. Hartmann"],
+    "venue": "Icarus 159,",
+    "year": 2002
+  }, {
+    "title": "Mars surface diversity as revealed by the OMEGA/Mars Express observations",
+    "authors": ["Bibring", "J.-P"],
+    "venue": "Science",
+    "year": 2005
+  }, {
+    "title": "Global mineralogical and aqueous Mars history derived from OMEGA/Mars",
+    "authors": ["Bibring", "J.-P", "Y. Langevin", "J.F. Mustard", "F. Poulet", "R. Arvidson", "A. Gendrin", "B. Gondet", "N. Mangold", "P. Pinet", "F. Forget"],
+    "venue": "Express data",
+    "year": 2006
+  }, {
+    "title": "Thaw depressions and thaw lakes: A review",
+    "authors": ["R.F. Black"],
+    "venue": "Biuletyn Peryglacjalny",
+    "year": 1969
+  }, {
+    "title": "Features indicative of permafrost",
+    "authors": ["R.F. Black"],
+    "venue": "Annual Review of Earth and Planetary Sciences,",
+    "year": 1976
+  }, {
+    "title": "Distribution of hydrogen in the near surface of Mars: Evidence for subsurface ice deposits",
+    "authors": ["W.V. Boynton"],
+    "year": 2002
+  }, {
+    "title": "Modern shelf ice, equatorial Aeolis quadrangle, Mars",
+    "authors": ["G.R. Brakenridge"],
+    "venue": "Lunar Planet. Sci. XXIV,",
+    "year": 1993
+  }, {
+    "title": "Deglacial meltwater drainage and glaciodynamics: Inferences from Laurentide eskers, Canada",
+    "authors": ["T.A. Brennand"],
+    "venue": "Geomorphology",
+    "year": 2000
+  }, {
+    "title": "A systematic classification of glacial and periglacial environments, facies and deposits",
+    "authors": ["K. Brodzikowski", "A.J. Van Loon"],
+    "venue": "Earth Sci. Rev",
+    "year": 1987
+  }, {
+    "title": "Repeated aqueous flooding from the Cerberus Fossae: Evidence for very recently extant, deep groundwater on Mars",
+    "authors": ["D.M. Burr", "J.A. Grier", "A.S. McEwen", "L.P. Keszthelyi"],
+    "venue": "Icarus 159,",
+    "year": 2002
+  }, {
+    "title": "Recent aqueous floods from the Cerberus Fossae, Mars",
+    "authors": ["D.M. Burr", "A.S. McEwen", "S.E.H. Sakimoto", "2002b"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2001
+  }, {
+    "title": "Stability of streams and lakes on Mars",
+    "authors": ["M.H. Carr"],
+    "venue": "Icarus",
+    "year": 1983
+  }, {
+    "title": "Mars: A water-rich planet",
+    "authors": ["M.H. Carr"],
+    "venue": "Icarus",
+    "year": 1986
+  }, {
+    "title": "Water on Mars",
+    "authors": ["M.H. Carr"],
+    "year": 1996
+  }, {
+    "title": "Meter-scale characteristics of martian channels and valleys",
+    "authors": ["M.H. Carr", "M.C. Malin"],
+    "venue": "Icarus 146,",
+    "year": 2000
+  }, {
+    "title": "Elysium basin lava flows: New interpretations based on MOC data",
+    "authors": ["M.G. Chapman"],
+    "venue": "Lunar Planet. Sci. XXX",
+    "year": 1999
+  }, {
+    "title": "Committee on Preventing the Forward Contamination of Mars",
+    "authors": ["C.F. Chyba"],
+    "year": 2006
+  }, {
+    "title": "A model for the hydrologic and climatic behaviour of water on Mars",
+    "authors": ["S.M. Clifford"],
+    "venue": "J. Geophys. Res",
+    "year": 1993
+  }, {
+    "title": "Mars: The effect of stratigraphic variations in regolith diffusive properties on the evolution and vertical distribution of equatorial ground ice",
+    "authors": ["S.M. Clifford"],
+    "venue": "Lunar Planet. Sci. XXIX. Abstract",
+    "year": 1998
+  }, {
+    "title": "The evolution of the martian hydrosphere: Implications for the fate of a primordial ocean and the current state of the northern plains",
+    "authors": ["S.M. Clifford", "T.J. Parker"],
+    "venue": "Icarus 154,",
+    "year": 2001
+  }, {
+    "title": "Thermokarst landforms and processes in Ares Vallis, Mars",
+    "authors": ["F. Costard", "V.R. Baker"],
+    "venue": "Geomorphology",
+    "year": 2001
+  }, {
+    "title": "Formation of recent martian debris flows by melting of near-surface ground ice at high obliquity",
+    "authors": ["F. Costard", "F. Forget", "N. Mangold", "J.P. Peulvast"],
+    "year": 2002
+  }, {
+    "title": "Formation of recent martian gullies through melting of extensive water-rich snow deposits",
+    "authors": ["P.R. Christensen"],
+    "venue": "Nature",
+    "year": 2003
+  }, {
+    "title": "Identification of a basaltic component on the martian surface from Thermal Emission Spectrometer data",
+    "authors": ["P.R. Christensen", "J.L. Bandfield", "M.D. Smith", "V.E. Hamilton", "R.N. Clark"],
+    "venue": "J. Geophys. Res",
+    "year": 2000
+  }, {
+    "title": "Thermal regime of ice-wedge cracking in Adventdalen, Svalbard",
+    "authors": ["H.H. Christiansen"],
+    "venue": "Permafrost Periglacial Process",
+    "year": 2005
+  }, {
+    "title": "Eléments essentials de la notion de ‘périglaciaire",
+    "authors": ["J. Dylik"],
+    "venue": "Biuletyn Peryglacjalny",
+    "year": 1964
+  }, {
+    "title": "Glacial depositional systems",
+    "authors": ["N. Eyles", "C.H. Eyles"],
+    "venue": "Geological Association of Canada, St. John’s,",
+    "year": 1992
+  }, {
+    "title": "Rootless cones on Mars: A consequence of lava-ground ice interaction",
+    "authors": ["S.A. Fagents", "P. Lanagan", "R. Greeley"],
+    "venue": "Volcano–Ice Interaction on Earth and Mars. In: Geol. Soc. Spec. Publ.,",
+    "year": 2002
+  }, {
+    "title": "Episodic flood inundations of the northern plains of Mars",
+    "authors": ["A.G. Fairén", "J.M. Dohm", "V.R. Baker", "M.A. de Pablo", "J. Ruiz", "J.C. Ferris", "R.C. Anderson"],
+    "venue": "Icarus 165,",
+    "year": 2003
+  }, {
+    "title": "Pitted cones and domes on Mars: Observations in Acidalia Planitia and Cydonia Mensae using MOC, THEMIS and TES data",
+    "authors": ["W.H. Farrand", "L.R. Gaddis", "K. Keszthelyi"],
+    "venue": "J. Geophys. Res",
+    "year": 2005
+  }, {
+    "title": "Global distribution of neutrons from Mars: Results from Mars Odyssey",
+    "authors": ["W.C. Feldman"],
+    "venue": "Science",
+    "year": 2002
+  }, {
+    "title": "Global distribution of near-surface hydrogen on Mars",
+    "authors": ["W.C. Feldman"],
+    "venue": "J. Geophys. Res",
+    "year": 2004
+  }, {
+    "title": "Recharge mechanism of near-equatorial hydrogen on Mars: Atmospheric redistribution or sub-surface aquifer",
+    "authors": ["W.C. Feldman", "J.W. Head", "S. Maurice", "T.H. Prettyman", "R.C. Elphic", "H.O. Funsten", "D.J. Lawrence", "R.L. Tokar", "D.T. Vaniman"],
+    "venue": "Geophys. Res. Lett. 31,",
+    "year": 2004
+  }, {
+    "title": "Thermal inertia using THEMIS infrared data",
+    "authors": ["R.L. Fergason", "P.R. Christensen"],
+    "venue": "Lunar Planet. Sci. XXXIV. Abstract",
+    "year": 2003
+  }, {
+    "title": "Detection of methane in the atmosphere of Mars",
+    "authors": ["V. Formisano", "S. Atreya", "T. Encrenaz", "N. Ignatiev", "M. Giuranna"],
+    "year": 2004
+  }, {
+    "title": "The Periglacial Environment, second ed",
+    "authors": ["H. French"],
+    "year": 1996
+  }, {
+    "title": "Cold-climate origin of the enclosed depressions and wetlands (‘Spungs’) of the Pine Barrens, Southern New Jersey, USA",
+    "authors": ["H.M. French", "M. Demitroff"],
+    "venue": "Permafrost Periglacial Process",
+    "year": 2001
+  }, {
+    "title": "Amazonis Planitia: The role of geologically recent volcanism and sedimentation in the formation of the smoothest plains on Mars",
+    "authors": ["E.R. Fuller", "J.W. Head"],
+    "venue": "J. Geophys. Res",
+    "year": 2002
+  }, {
+    "title": "Three decades of martian surface changes",
+    "authors": ["P.E. Geissler"],
+    "venue": "J. Geophys. Res",
+    "year": 2005
+  }, {
+    "title": "Cavi Angusti, Mars: Characterisation and assessment of possible formation mechanisms",
+    "authors": ["G.J. Ghatan", "J.W. Head", "S. Pratt"],
+    "venue": "J. Geophys. Res",
+    "year": 2003
+  }, {
+    "title": "The Hedgehog, the Fox, and the Magister’s Pox",
+    "authors": ["S.J. Gould"],
+    "venue": "Harmony Books,",
+    "year": 2003
+  }, {
+    "title": "Icelandic pseudocraters as analogs to some volcanic cones on Mars",
+    "authors": ["R. Greeley", "S.A. Fagents"],
+    "venue": "J. Geophys. Res",
+    "year": 2001
+  }, {
+    "title": "Geologic map of the eastern equatorial region of Mars. USGS miscellaneous investigation series MAP I-1802-B",
+    "authors": ["R. Greeley", "J.E. Guest"],
+    "year": 1987
+  }, {
+    "title": "Magmatic intrusions and a hydrothermal origin for fluvial valleys on Mars",
+    "authors": ["V.C. Gulick"],
+    "venue": "J. Geophys. Res",
+    "year": 1998
+  }, {
+    "title": "Origin and evolution of valleys on martian volcanoes",
+    "authors": ["V.C. Gulick", "V.R. Baker"],
+    "venue": "J. Geophys. Res",
+    "year": 1990
+  }, {
+    "title": "Aspects of the genesis and geomorphology of pingos: Perennial permafrost mounds",
+    "authors": ["S.D. Gurney"],
+    "venue": "Prog. Phys. Geogr",
+    "year": 1998
+  }, {
+    "title": "On the possibility of liquid water on present-day Mars",
+    "authors": ["R.M. Haberle", "C.P. McKay", "J. Schaeffer", "N.A. Cabrol", "E.A. Grin", "A.P. Zent", "R. Quinn"],
+    "venue": "J. Geophys. Res",
+    "year": 2001
+  }, {
+    "title": "Volcanism or aqueous alteration on Mars? Nature",
+    "authors": ["V.E. Hamilton", "P.R. Christensen", "J.L. Bandfield"],
+    "year": 2003
+  }, {
+    "title": "Mars radar mapping: Strong backscatter from the Elysium basin and outflow channel",
+    "authors": ["J.K. Harmon", "M.P. Sulzer", "P.J. Perllat"],
+    "venue": "Icarus 95,",
+    "year": 1992
+  }, {
+    "title": "Martian cratering VI: Crater count isochrons and evidence for recent volcanism from Mars Global Surveyor",
+    "authors": ["W.K. Hartmann"],
+    "venue": "Meteorit. Planet. Sci",
+    "year": 1999
+  }, {
+    "title": "Martian cratering. 8. Isochron refinement and the chronology of Mars",
+    "authors": ["W.K. Hartmann"],
+    "venue": "Icarus 174,",
+    "year": 2005
+  }, {
+    "title": "Elysium Planitia lava flows: Crater count chronology and geological implications",
+    "authors": ["W.K. Hartmann", "D.C. Berman"],
+    "venue": "J. Geophys. Res",
+    "year": 2000
+  }, {
+    "title": "Cratering chronology and the evolution of Mars",
+    "authors": ["W.K. Hartmann", "G. Neukum"],
+    "venue": "Chronology and Evolution of Mars. In: Space Sci. Rev.,",
+    "year": 2001
+  }, {
+    "title": "Variations in the Earth’s orbit: Pacemaker of the ice ages",
+    "authors": ["J.D. Hays", "J. Imbrie", "N.J. Shackleton"],
+    "venue": "Science",
+    "year": 1976
+  }, {
+    "title": "Cold-based mountain glaciers on Mars",
+    "authors": ["J.W. Head", "D.R. Marchant"],
+    "venue": "Western Arsia Mons. Geology",
+    "year": 2003
+  }, {
+    "title": "Metastability of liquid water on Mars",
+    "authors": ["M.H. Hecht"],
+    "venue": "Icarus 156,",
+    "year": 2002
+  }, {
+    "title": "Observations of martian gullies and constraints on potential formation mechanisms",
+    "authors": ["J.L. Heldmann", "M.T. Mellon"],
+    "venue": "Icarus 168,",
+    "year": 2004
+  }, {
+    "title": "White Mars: A new model for Mars’ surface and atmosphere based on",
+    "authors": ["N. Hoffman"],
+    "year": 2000
+  }, {
+    "title": "Explosive volcanism in the Tharsis region: Global evidence in the martian geologic record",
+    "authors": ["B.M. Hynek", "R.J. Philips", "R.E. Arvidson"],
+    "venue": "J. Geophys. Res",
+    "year": 2003
+  }, {
+    "title": "Mars/Moon cratering rate ratio estimates",
+    "authors": ["B.A. Ivanov"],
+    "venue": "Lunar Planet. Sci. XXXII. Abstract",
+    "year": 2001
+  }, {
+    "title": "The comparison of size–frequency distributions of impact craters and asteroids and the planetary cratering rate",
+    "authors": ["B.A. Ivanov", "G. Neukum", "W.F. Bottke", "W.K. Hartmann"],
+    "year": 2002
+  }, {
+    "title": "The effects of nonideal surfaces on the derived thermal properties of Mars",
+    "authors": ["B.M. Jakosky"],
+    "venue": "J. Geophys. Res",
+    "year": 1979
+  }, {
+    "title": "The thermal inertia of Mars from the Mars Global Surveyor Thermal Emission Spectrometer",
+    "authors": ["B.M. Jakosky", "M.T. Mellon", "H.H. Kieffer", "P.R. Christensen", "E.S. Varnes", "S.W. Lee"],
+    "venue": "J. Geophys. Res",
+    "year": 2000
+  }, {
+    "title": "Das Relief des Mars, Versuch einer zusammenfassenden Übersicht",
+    "authors": ["Jöns", "H.-P"],
+    "venue": "Teil III. Geolog. Rundschau",
+    "year": 1990
+  }, {
+    "title": "Evidence of ancient continental glaciation in the martian northern plains",
+    "authors": ["J.S. Kargel", "V.R. Baker", "J.E. Begét", "J.F. Lockwood", "T.L. Péwé", "J.S. Shaw", "R.G. Strom"],
+    "venue": "J. Geophys. Res",
+    "year": 1995
+  }, {
+    "title": "Formation and dissociation of clathrate hydrates on Mars: Polar caps, northern plains, and highlands",
+    "authors": ["J.S. Kargel", "K.L. Tanaka", "V.R. Baker", "G. Komatsu", "D.R. Macayeal"],
+    "venue": "Lunar Planet. Sci. XXXI. Abstract",
+    "year": 2000
+  }, {
+    "title": "Terrestrial analogs and thermal models for martian flood lavas",
+    "authors": ["L. Keszthelyi", "A.S. McEwen", "T. Thordarson"],
+    "venue": "J. Geophys. Res",
+    "year": 2000
+  }, {
+    "title": "Icelandic analogs to martian flood lavas",
+    "authors": ["L. Keszthelyi", "T. Thordarson", "A.S. McEwen", "H. Haack", "M.N. Guilbaud", "S. Self", "M. Rossi"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2004
+  }, {
+    "title": "Impact crater detection on optical images and DEMS",
+    "authors": ["Kim J.R", "Muller J.-P"],
+    "venue": "ISPRS WG IV/9: Extraterrestrial Mapping Workshop “Advances in Planetary Mapping,” Tucson. Abstract",
+    "year": 2003
+  }, {
+    "title": "Eutectic brines on Mars: Origin and possible relation to young seepage features",
+    "authors": ["L.P. Knauth", "D.M. Burt"],
+    "venue": "Icarus 158,",
+    "year": 2002
+  }, {
+    "title": "Detection of methane in the martian atmosphere: Evidence for life",
+    "authors": ["V.A. Krasnopolsky", "J.P. Maillard", "T.C. Owen"],
+    "venue": "Icarus 172,",
+    "year": 2004
+  }, {
+    "title": "Periods of active permafrost layer formation during the geological history of Mars: Implications for circum-polar and mid-latitude surface processes",
+    "authors": ["M.A. Kreslavsky", "J.W. Head", "D.R. Marchant"],
+    "venue": "Planetary and Space Sciences Special Issue on Polar Processes,",
+    "year": 2007
+  }, {
+    "title": "Mechanics of thermal contraction cracks and icewedge polygons in permafrost, U.S",
+    "authors": ["A.H. Lachenbruch"],
+    "venue": "Geological Survey Special Paper",
+    "year": 1962
+  }, {
+    "title": "Geologic history of the Cerberus plains, Mars",
+    "authors": ["P.D. Lanagan"],
+    "venue": "Ph.D. thesis,",
+    "year": 2004
+  }, {
+    "title": "Cerberus plains volcanism: Constraints on temporal emplacement of the youngest flood lavas on Mars",
+    "authors": ["P.D. Lanagan", "A.S. McEwen"],
+    "venue": "Lunar Planet. Sci. XXX",
+    "year": 2003
+  }, {
+    "title": "Rootless cones on Mars indicating the presence of shallow equatorial ground ice in recent times",
+    "authors": ["P.D. Lanagan", "A.S. McEwen", "L.P. Keszthelyi", "T. Thordarson"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2001
+  }, {
+    "title": "Orbital forcing of the martian polar layered deposits",
+    "authors": ["J. Laskar", "B. Levrard", "J. Mustard"],
+    "venue": "Nature",
+    "year": 2002
+  }, {
+    "title": "Ice-wedge rejuvenation, Fosheim Peninsula, Ellesmere Island, Canada",
+    "authors": ["A.G. Lewkowicz"],
+    "venue": "Permafrost Periglacial Process",
+    "year": 1994
+  }, {
+    "title": "Methane emissions from wetlands in the zone of discontinuous permafrost: Fort Simpson, Northwest Territories, Canada",
+    "authors": ["L.K. Liblik", "T.R. Moore", "J.L. Bubier", "S.D. Robinson"],
+    "venue": "Global Biogeochem. Cycles",
+    "year": 1997
+  }, {
+    "title": "Use of spacecraft data to derive regions on Mars where liquid water would be stable",
+    "authors": ["B. Lobitz", "B.L. Wood", "M.M. Averner", "C.P. McKay"],
+    "venue": "Proc. Natl. Acad. Sci. USA",
+    "year": 2001
+  }, {
+    "title": "Permafrost on Mars: Polygonally fractured ground",
+    "authors": ["B.K. Lucchitta"],
+    "venue": "Proceedings of 4th International Conference on Permafrost",
+    "year": 1983
+  }, {
+    "title": "Pingo collapse and paleoclimatic reconstruction",
+    "authors": ["J.R. Mackay"],
+    "venue": "Can. J. Earth Sci",
+    "year": 1988
+  }, {
+    "title": "Lake stability in an ice-rich permafrost environment: Examples from the western arctic coast",
+    "authors": ["J.R. Mackay"],
+    "venue": "NHRI Symp. No. 6,",
+    "year": 1992
+  }, {
+    "title": "Pingo growth and collapse, Tuktoyaktuk Peninsula area, Western Arctic Coast, Canada: A long-term field study",
+    "authors": ["J.R. Mackay"],
+    "venue": "Géogr. Phys. Quat",
+    "year": 1998
+  }, {
+    "title": "Jökulhlaup deposits in proglacial areas",
+    "authors": ["J. Maizels"],
+    "venue": "Quat. Sci. Rev",
+    "year": 1997
+  }, {
+    "title": "Evidence for recent groundwater seepage and surface runoff on Mars",
+    "authors": ["M. Malin", "K. Edgett"],
+    "venue": "Science",
+    "year": 2000
+  }, {
+    "title": "Observational evidence for an active surface reservoir of solid carbon dioxide on Mars",
+    "authors": ["M.C. Malin", "M.A. Caplinger", "S.D. Davis"],
+    "venue": "Science 294,",
+    "year": 2001
+  }, {
+    "title": "High latitude patterned grounds on Mars: Classification, distribution and climatic control",
+    "authors": ["N. Mangold"],
+    "venue": "Icarus 174,",
+    "year": 2005
+  }, {
+    "title": "Spatial relationships between patterned ground and ground ice detected by the Neutron Spectrometer on Mars",
+    "authors": ["N. Mangold", "S. Maurice", "W.C. Feldman", "F. Costard", "F. Forget"],
+    "venue": "J. Geophys. Res. 109,",
+    "year": 2004
+  }, {
+    "title": "Formation of patterned ground and sublimation till over Miocene glacier ice in Beacon Valley, southern Victoria",
+    "authors": ["D.R. Marchant", "A.R. Lewis", "W.M. Phillips", "E.J. Moore", "R.A. Souchez", "G.H. Denton", "D.E. Sugden", "N. Potter", "G.P. Landis"],
+    "year": 2002
+  }, {
+    "title": "The state, potential distribution, and biological implications of methane in the martian crust",
+    "authors": ["M.D. Max", "S.M. Clifford"],
+    "venue": "J. Geophys. Res",
+    "year": 2000
+  }, {
+    "title": "A simple model of cratering, ejection, and the overturned flap",
+    "authors": ["D.E. Maxwell"],
+    "year": 1977
+  }, {
+    "title": "Secondary cratering on Mars: Implications for age dating and surface properties",
+    "authors": ["A.S. McEwen"],
+    "venue": "Lunar Planet. Sci. XXXIV. Abstract",
+    "year": 2003
+  }, {
+    "title": "Cratering age considerations for young terranes in the inner Solar System. In: Workshop on Surface Ages and Histories: Issues in Planetary Chronology",
+    "authors": ["A.S. McEwen"],
+    "year": 2006
+  }, {
+    "title": "Mars Global Surveyor tests the Elysium Basin controversy: It’s lava, not lake sediments",
+    "authors": ["A.S. McEwen", "K.S. Edgett", "M.C. Malin", "L. Keszthelyi", "P. Lanagan"],
+    "venue": "Geol. Soc. Am. Prog",
+    "year": 1998
+  }, {
+    "title": "The rayed crater Zunil and interpretations of small impact craters on Mars",
+    "authors": ["A.S. McEwen", "B.S. Preblich", "E.P. Turtle", "N.A. Artemieva", "M.P. Golombek", "M. Hurst", "R.A. Kirk", "D.M. Burr", "P.R. Christensen"],
+    "venue": "Icarus 176,",
+    "year": 2005
+  }, {
+    "title": "Martian glacial melt and atmospheric methane",
+    "authors": ["D.S. McMenamin", "G.E. McGill"],
+    "venue": "Lunar Planet. Sci. XXXVII. Abstract",
+    "year": 2006
+  }, {
+    "title": "Small-scale polygonal features on Mars: Seasonal thermal contraction cracks in permafrost",
+    "authors": ["M.T. Mellon"],
+    "venue": "J. Geophys. Res",
+    "year": 1997
+  }, {
+    "title": "The distribution and behaviour of martian ground ice during past and present epochs",
+    "authors": ["M.T. Mellon", "B.M. Jakosky"],
+    "venue": "J. Geophys. Res",
+    "year": 1995
+  }, {
+    "title": "Recent gullies on Mars and the source of the liquid water",
+    "authors": ["M.T. Mellon", "R.J. Phillips"],
+    "venue": "J. Geophys. Res",
+    "year": 2001
+  }, {
+    "title": "Highresolution thermal inertia mapping from the Mars Global Surveyor Thermal Emission Spectrometer",
+    "authors": ["M.T. Mellon", "B.M. Jakosky", "H.H. Kieffer", "P.R. Christensen"],
+    "venue": "Icarus 148,",
+    "year": 2000
+  }, {
+    "title": "The presence and stability of ground ice in the southern hemisphere of Mars",
+    "authors": ["M.T. Mellon", "W.C. Feldman", "T.H. Prettyman"],
+    "venue": "Icarus 169,",
+    "year": 2004
+  }, {
+    "title": "Impact Cratering: A Geologic Process",
+    "authors": ["H.J. Melosh"],
+    "venue": "Oxford Monographs on Geology and Geophysics,",
+    "year": 1989
+  }, {
+    "title": "Viscous flow features on the surface of Mars: Observations from high resolution Mars Orbiter Camera (MOC) images",
+    "authors": ["R.E. Milliken", "J.F. Mustard", "D.L. Goldsby"],
+    "venue": "J. Geophys. Res",
+    "year": 2003
+  }, {
+    "title": "On the orbital forcing of martian water and CO2 cycles: A general circulation model study with simplified volatile schemes",
+    "authors": ["M. Mischna", "M.I. Richardson", "R.J. Wilson", "D.J. McCleese"],
+    "venue": "J. Geophys. Res",
+    "year": 2003
+  }, {
+    "title": "Detection and mapping of methane and water on Mars",
+    "authors": ["M.J. Mumma", "R.E. Novak", "M.A. DiSanti", "B.P. Bonev", "N. Dello Russo"],
+    "venue": "Bull. Am. Astron. Soc",
+    "year": 2004
+  }, {
+    "title": "Evidence from the Mars Express High Resolution Stereo Camera for a frozen sea close to Mars",
+    "authors": ["J.B. Murray", "Muller", "J.-P", "G. Neukum", "E. Hauber", "W.J. Markiewicz", "J.W. Head", "B.H. Foing", "D.P. Page", "K.L. Mitchell", "G. Portyankina"],
+    "venue": "equator. Nature",
+    "year": 2005
+  }, {
+    "title": "Liquid CO2 breakout and the formation of recent small gullies on Mars",
+    "authors": ["D.S. Musselwhite", "T.D. Swindle", "J.I. Lunine"],
+    "venue": "Geophys. Res",
+    "year": 2001
+  }, {
+    "title": "A wet and altered Mars",
+    "authors": ["J.F. Mustard"],
+    "venue": "Nature",
+    "year": 2002
+  }, {
+    "title": "Evidence for recent climate change on Mars from the identification of youthful near-surface ground ice",
+    "authors": ["J.F. Mustard", "C.D. Cooper", "M.K. Rifkin"],
+    "venue": "Nature 412,",
+    "year": 2001
+  }, {
+    "title": "Olivine and pyroxene diversity in the crust of Mars",
+    "authors": ["J.F. Mustard", "F. Poulet", "A. Gendrin", "Bibring", "J.-P", "Y. Langevin", "B. Gondet", "N. Mangold", "G. Belluci", "F. Altieri"],
+    "year": 2005
+  }, {
+    "title": "Cratering records in the inner Solar System in relation to the lunar reference system",
+    "authors": ["G. Neukum", "B.A. Ivanov", "W.K. Hartmann"],
+    "venue": "Chronology and Evolution of Mars. In: Space Sci. Rev.,",
+    "year": 2001
+  }, {
+    "title": "The characteristics of the impact crater production size–frequency distributions on the Solar System planetary bodies, their relationships to asteroidal and cometary impacts, and the question of secondary-cratering contributions. In: Workshop on Surface Ages and Histories: Issues in Planetary Chronology",
+    "authors": ["G. Neukum", "S.C. Werner", "B.A. Ivanov"],
+    "year": 2006
+  }, {
+    "title": "Stratigraphical and morphological evidence for pingo genesis in the Cerberus plains",
+    "authors": ["D.P. Page", "J.B. Murray"],
+    "venue": "Icarus 183,",
+    "year": 2006
+  }, {
+    "title": "Coastal geomorphology of the martian northern plains",
+    "authors": ["T.J. Parker", "R.S. Gorsline", "R.S. Saunders", "D.C. Pieri", "D.M. Schneeberger"],
+    "venue": "J. Geophys. Res",
+    "year": 1993
+  }, {
+    "title": "Sand-wedge polygons (tessellations) in the McMurdo Sound region, Antarctica—A progress report",
+    "authors": ["T.L. Péwé"],
+    "venue": "Am. J. Sci",
+    "year": 1959
+  }, {
+    "title": "Recent flood lavas in the Elysium region of Mars",
+    "authors": ["J.B. Plescia"],
+    "venue": "Icarus",
+    "year": 1990
+  }, {
+    "title": "Cerberus Fossae, Elysium, Mars: A source for lava and water",
+    "authors": ["J.B. Plescia"],
+    "venue": "Icarus 164,",
+    "year": 2003
+  }, {
+    "title": "Small-diameter martian craters: Applicability for chronology—Or not",
+    "authors": ["J.B. Plescia"],
+    "venue": "Lunar Planet. Sci. XXXVI. Abstract",
+    "year": 2005
+  }, {
+    "title": "The Logic of Scientific Discovery",
+    "authors": ["K.R. Popper"],
+    "venue": "Basic Books,",
+    "year": 1959
+  }, {
+    "title": "Interglacial clathrate destabilisation on Mars: Possible contributing source of its atmospheric methane",
+    "authors": ["O. Prieto-Ballesteros", "J.S. Kargel", "A.G. Fairén", "D.C. Fernández-Remolar", "J.M. Dohm", "R. Amils"],
+    "venue": "Geology",
+    "year": 2006
+  }, {
+    "title": "Global thermal inertia and surface properties of Mars from the MGS mapping mission",
+    "authors": ["N.E. Putzig", "M.T. Mellon", "K.A. Kretke", "R.E. Arvidson"],
+    "venue": "Icarus 173,",
+    "year": 2005
+  }, {
+    "title": "Morphology of fresh outflow channel deposits on Mars",
+    "authors": ["J.W. Rice", "T.J. Parker", "A.J. Russel", "O. Knudsen"],
+    "venue": "Lunar Planet. Sci. XXXIII. Abstract",
+    "year": 2002
+  }, {
+    "title": "Age relationship of basaltic and andesitic surface compositions on Mars: Analysis of high-resolution TES observations of the northern hemisphere",
+    "authors": ["D. Rogers", "P.R. Christensen"],
+    "venue": "J. Geophys. Res",
+    "year": 2003
+  }, {
+    "title": "Ground penetrating radar investigations of open system pingos, Adventdalen, Svalbard",
+    "authors": ["N. Ross", "C. Harris", "H. Christiansen", "P. Brabham"],
+    "venue": "Norw. J. Geogr",
+    "year": 2005
+  }, {
+    "title": "Water pressure in intra- and subglacial channels",
+    "authors": ["H. Röthlisberger"],
+    "venue": "J. Glaciol",
+    "year": 1972
+  }, {
+    "title": "Bright and dark regions on Mars: Particle size and mineralogical characteristics based on Thermal Emission Spectrometer data",
+    "authors": ["S.W. Ruff", "P.R. Christensen"],
+    "venue": "J. Geophys. Res",
+    "year": 2002
+  }, {
+    "title": "Solar neutrinos, martian rivers, and praesepe",
+    "authors": ["C. Sagan", "A.T. Young"],
+    "venue": "Nature 243,",
+    "year": 1973
+  }, {
+    "title": "Uncovering Mars",
+    "authors": ["P.H. Schultz"],
+    "venue": "Lunar Planet. Sci. XXXIII. Abstract",
+    "year": 2002
+  }, {
+    "title": "Geologic and topographic maps of the Elysium paleolake basin, Mars. USGS miscellaneous investigation series MAP I-2397",
+    "authors": ["D. Scott", "M.G. Chapman"],
+    "year": 1995
+  }, {
+    "title": "Geologic map of the western equatorial region of Mars. USGS miscellaneous investigation series MAP I-1802-A",
+    "authors": ["D. Scott", "K.L. Tanaka"],
+    "year": 1986
+  }, {
+    "title": "Map of Mars showing channels and possible paleolake basins. USGS miscellaneous investigation series MAP I-2461",
+    "authors": ["D.H. Scott", "J.M. Dohm", "J.W. Rice"],
+    "year": 1995
+  }, {
+    "title": "Impact mechanics at Meteor Crater, Arizona",
+    "authors": ["E.M. Shoemaker"],
+    "venue": "The Moon Meteorites and Comets IV. Univ. of Chicago Press,",
+    "year": 1963
+  }, {
+    "title": "Movement of water in glaciers",
+    "authors": ["R.L. Shreve"],
+    "venue": "J. Glaciol",
+    "year": 1972
+  }, {
+    "title": "Small-scale martian polygonal terrain: Implications for liquid surface water",
+    "authors": ["N.M. Siebert", "J.S. Kargel"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2001
+  }, {
+    "title": "Topography of the Northern Hemisphere of Mars from the Mars Orbiter Laser Altimeter",
+    "authors": ["D.E. Smith"],
+    "venue": "Science 279,",
+    "year": 1998
+  }, {
+    "title": "The stratigraphy of Mars",
+    "authors": ["K.L. Tanaka"],
+    "venue": "J. Geophys. Res. (Suppl.)",
+    "year": 1986
+  }, {
+    "title": "Dust and ice deposition in the martian geologic record",
+    "authors": ["K.L. Tanaka"],
+    "venue": "Icarus 144,",
+    "year": 2000
+  }, {
+    "title": "Geologic map of the Elysium region of Mars. USGS miscellaneous investigation series MAP I-2147",
+    "authors": ["K. Tanaka", "M.G. Chapman", "D.H. Scott"],
+    "year": 1992
+  }, {
+    "title": "Resurfacing of the northern plains of Mars by shallow, subsurface volatile-driven activity",
+    "authors": ["K.L. Tanaka", "J.A. Skinner", "T.M. Hare", "T. Joyal", "A. Wenker"],
+    "venue": "Lunar Planet. Sci. XXXIII. Abstract",
+    "year": 2002
+  }, {
+    "title": "Geologic map of the Northern Plains of Mars. USGS miscellaneous investigation series MAP I-2888",
+    "authors": ["K.L. Tanaka", "J.A. Skinner", "T.M. Hare"],
+    "year": 2005
+  }, {
+    "title": "Rootless eruptions and Cone Groups in Iceland: Products of authentic explosive water to magma interactions",
+    "authors": ["T. Thordarson"],
+    "venue": "In: Volcano–Ice Interactions on Earth and Mars. Abstract",
+    "year": 2000
+  }, {
+    "title": "Geologic settings of martian gullies: Implications for their origins",
+    "authors": ["A.H. Treiman"],
+    "venue": "J. Geophys. Res",
+    "year": 2003
+  }, {
+    "title": "The representation of soil moisture freezing and its impact on the stable boundary layer",
+    "authors": ["P. Viterbo", "A. Beljaars", "Mahfouf", "J.-F", "J. Teixeira"],
+    "venue": "Q. J. R. Meteorolog",
+    "year": 1999
+  }, {
+    "title": "Geocryology. A Survey of Periglacial Processes and Environments",
+    "authors": ["A.L. Washburn"],
+    "year": 1980
+  }, {
+    "title": "THEMIS observations of compositional variation in Elysium Planitia",
+    "authors": ["B.B. Wilcox", "V.E. Hamilton"],
+    "venue": "Lunar Planet. Sci. XXXVI. Abstract",
+    "year": 2005
+  }, {
+    "title": "Evidence for late stage fluvial activity in Kasei Valles, Mars",
+    "authors": ["R.M.E. Williams", "M.C. Malin"],
+    "venue": "J. Geophys. Res",
+    "year": 2004
+  }, {
+    "title": "Spectral evidence for weathered basalt as an alternative to andesite in the northern lowlands of Mars",
+    "authors": ["M.B. Wyatt", "H.Y. McSween"],
+    "venue": "Nature 417,",
+    "year": 2002
+  }, {
+    "title": "Volcanism or aqueous alteration on Mars",
+    "authors": ["M.B. Wyatt", "H.Y. McSween"],
+    "venue": "Nature 421,",
+    "year": 2003
+  }, {
+    "title": "Global geologic context for rock types and surface alteration",
+    "authors": ["M.B. Wyatt", "H.Y. McSween", "K.L. Tanaka", "J.W. Head"],
+    "venue": "on Mars. Geology",
+    "year": 2004
+  }, {
+    "title": "An integrated view of the chemistry and mineralogy of martian soils",
+    "authors": ["A.S. Yen"],
+    "venue": "Nature 436,",
+    "year": 2005
+  }, {
+    "title": "Image resolution and evaluation of genetic hypotheses for planetary landscapes",
+    "authors": ["J.R. Zimbelman"],
+    "venue": "Geomorphology",
+    "year": 2001
+  }],
+  "id": "SP:c165b4a893422c49427d27e88565fb63c9a174a3",
+  "authors": [{
+    "name": "David P. Page",
+    "affiliations": []
+  }],
+  "abstractText": "Outside polar latitudes, features corresponding to surface thaw have yet to be identified on Mars. The youthful gully landforms observed at mid-high latitude [Malin, M., Edgett, K., 2000. Science 288, 2330–2335] are the nearest candidate, but the source (and nature) of the gully carving agent remains controversial [e.g., Musselwhite, D.S., Swindle, T.D., Lunine, J.I., 2001. Geophys. Res. Lett. 28, 1283–1285; Mellon, M.T., Phillips, R.J., 2001. J. Geophys. Res. 106, 1–15; Knauth, L.P., Burt, D.M., 2002. Icarus 158, 267–271; Costard, F., Forget, F., Mangold, N., Peulvast, J.P., 2002. Science 295, 110–113; Christensen, P.R., 2003. Nature 422, 45–48; Treiman, A.H., 2003. J. Geophys. Res. 108]. At higher obliquity than the present epoch, near-surface ground ice should be present globally [Mellon, M.T., Jakosky, B.M., 1995. J. Geophys. Res. 100 (E6), 11781–11799], populated by condensation of atmospheric water vapour in the top few metres of the regolith, or emplaced as dusty ice sheets reaching down towards the equator. The latitudinal restriction of these gullies to regions poleward of ±30◦ appears to argue against a thaw component to their formation—since ground ice is present and stable at all latitudes at high obliquity, the current (low) obliquity regime should result in ground ice thaw at low latitudes, where insolation and daytime temperatures are currently greatest, and this is not observed. A previously undescribed meltwater sequence in the Cerberus plains, at 20◦ N/187◦ E, shows that comparable, but much more continuous, and mappable melting and surface runoff have occurred in the geologically recent past at near-equatorial latitudes on Mars. Polygonal ground in the Cerberus plains is seen by the Mars Global Surveyor Mars Orbiter Camera (MOC) to suffer sequential, regional-scale volatile-loss consistent with thaw of near-surface ground ice under periglacial conditions. This degradation is continuously sampled by a single MOC strip, showing an icy landscape undergoing thaw modification and collapse, and may form the first evidence of equatorial wet-based glaciation during late Amazonian time, with indications of melting within the last million years. The dissolution and re-formation of polygonal ground links this landform to freeze–thaw processes, providing the conclusion to a question that has been the subject of debate for three decades—whether Mars’ polygonal grounds require ice to form—and a consistent explanation for the fate of the water that carved the great outflow channels, much of which may still reside as ground ice in the regolith. This thaw occurs in the Cerberus Formation; deposits that are considered to be magmatic in origin, and the type formation for late-stage, “plains-style” volcanism on Mars [Keszthelyi, L., McEwen, A.S., Thordarson T., 2000. J. Geophys. Res. 105, 15027–15049]. By superposing large numbers of small impact craters, polygonal ground in the Cerberus plains sustains previous suggestions of a non-magmatic origin for this and other landforms in the region [Page, D.P., Murray, J.B., 2006. Icarus 183, 46–54]. Together, these periglacial landforms document evidence of climate change much younger than is currently recognised by crater counts, with important implications for age constraints on young surfaces and absolute age determinations by this method. It is tentatively suggested that this melting may be occurring today, with a striking correspondence between permafrost thaw in the Cerberus plains, the high atmospheric methane flux currently observed over this region [Mumma, M.J., Novak, R.E., DiSanti, M.A., Bonev, B.P., Dello Russo, N., 2004. Bull. Am. Astron. Soc. 36, 1127; Krasnopolsky, V.A., Maillard, J.P., Owen, T.C., 2004. Icarus 172, 537–547; Formisano, V., Atreya, S., Encrenaz, T., Ignatiev, N., Giuranna, M., 2004. Science 306, 1758–1761], and the only latitude zone on Mars—equatorward of 30◦ N—where melting of ground ice is thought possible in the current climate [Haberle, R.M., McKay, C.P., Schaeffer, J., Cabrol, N.A., Grin, E.A., Zent, A.P., Quinn, R., 2001. J. Geophys. Res. 106 (E10), 23317–23326; Lobitz, B., Wood, B.L., Averner, M.M., McKay, C.P., 2001. Proc. Natl. Acad. Sci. 98, 2132–2137]. Low-latitude polygonal ground as transient, and hydrologically active over wide areas transforms our understanding of the recent climatic evolution of Mars, supporting models of atmospheric water-ice migration [Mischna, M., Richardson, M.I., Wilson, R.J., McCleese, D.J., 2003. J. Geophys. Res. 108 (E6). 5062], complex, volatile stratigraphies [Clifford, S.M., Parker, T.J., 2001. Icarus 154, 40– 79], and hypothesised, geologically recent ‘ice ages’ [Head, J.W., Mustard, J.F., Kreslavsky, M.A., Milliken, R.E., Marchant, D.R., 2003. Nature 426, 797–802]. The temporal coincidence of glacial epochs on the Earth and Mars during the Quaternary and latest Amazonian would suggest a coupled system linking both [Sagan, C., Young, A.T., 1973. Nature 243, 459]. E-mail address: d.p.page@open.ac.uk. 0019-1035/$ – see front matter © 2007 Elsevier Inc. All rights reserved. doi:10.1016/j.icarus.2007.01.005 84 D.P. Page / Icarus 189 (2007) 83–117 © 2007 Elsevier Inc. All rights reserved.",
+  "title": "Recent low-latitude freeze–thaw on Mars"
+}

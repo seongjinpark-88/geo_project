@@ -1,0 +1,973 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nEarth-Science Reviews\njournal homepage: www.elsevier.com/locate/earscirev\nGeochemical fingerprints of glacially eroded bedrock from West Antarctica: Detrital thermochronology, radiogenic isotope systematics and trace element geochemistry in Late Holocene glacial-marine sediments\nPatric Simões Pereiraa,b,⁎, Tina van de Flierdtb, Sidney R. Hemmingc,d, Samantha J. Hammonde, Gerhard Kuhnf, Stefanie Brachfeldg, Cathleen Dohertyh, Claus-Dieter Hillenbrandi\naGrantham Institute for Climate Change and the Environment, Imperial College London, South Kensington Campus, London SW7 2AZ, UK bDepartment of Earth Science and Engineering, Imperial College London, South Kensington Campus, London SW7 2AZ, UK c Department of Earth and Environmental Sciences, Columbia University, Lamont-Doherty Earth Observatory, Palisades, NY 10964, USA d Department of Earth and Environmental Sciences, Columbia University, New York, NY 10027, USA e Department of Environment, Earth and Ecosystems, The Open University, Walton Hall, Milton Keynes MK7 6AA, UK fAlfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung, Marine Geosciences, Bremerhaven 27568, Germany g Department of Earth and Environmental Studies, Montclair State University, Montclair, NJ 07043, USA h Environmental and Occupational Health Sciences Institute, Rutgers University, Piscataway, NJ 08854, USA i British Antarctic Survey, High Cross, Madingley Road, Cambridge CB3 0ET, UK\nA R T I C L E I N F O\nKeywords: Geochemical provenance West Antarctic Ice Sheet Subglacial geology Sediment transport pathways\nA B S T R A C T\nGeochemical provenance studies of glacial-marine sediments provide a powerful approach to describe subglacial geology, sediment transport pathways, and past ice sheet dynamics. The marine-based West Antarctic Ice Sheet (WAIS) is considered highly vulnerable to ocean warming and sea level rise that is likely to cause its rapid and irreversible retreat. Studies of its past response to climate change are hence essential for projecting its future behaviour. The application of radiogenic and trace element provenance studies for past ice sheet reconstructions requires surveying the geographic variability of geochemical compositions of glaciomarine sediments. In this study, we characterize the provenance of the detrital fraction of 67 Late Holocene marine sediment samples collected off the Pacific margin of West Antarctica (60°W to 160°W), including 40Ar/39Ar ages of individual hornblende and biotite grains (> 150 μm), as well as Sr and Nd isotope and trace element composition of the fine-grained (< 63 μm) sediment fraction. Overall, this approach allows differentiating West Antarctica into five source regions: the Antarctic Peninsula, Bellingshausen Sea, Amundsen Sea, Wrigley Gulf-Hobbs Coast and Sulzberger Bay. Minor geochemical variability is found within each individual sector due to local variability in onland geology. 40Ar/39Ar ages of iceberg-rafted hornblende and biotite grains record primarily Carboniferous to Lates Quaternary ages (~0 to 380Ma), with a notable age peak of ~100Ma, associated with plutonic intrusions or deformation events during the mid-Cretaceous. Permian-Jurassic 40Ar/39Ar ages are widespread in the Amundsen Sea sector, marking episodes of large-volume magmatism along the long-lived continental margin. Metasedimentary rocks and Late Cenozoic alkali basalts in West Antarctica cannot be detected using detrital hornblende and biotite 40Ar/39Ar ages due to the absence or small grain-size (i.e.< 150 μm) of these minerals in such rocks. These sources can however be readily recognized by their fine-grained geochemical composition. In addition, geographic trends in the provenance from proximal to distal sites provide insights into major sediment transport pathways. While the transport of fine-grained detritus follows bathymetric cross-shelf troughs, the distribution of iceberg-rafted grains shows influence by transport in the Antarctic Coastal Current. Our study provides the first systematic geochemical characterisation of sediment provenance off West Antarctica, and highlights the importance of combining multiple provenance approaches in different size fractions of glacialmarine sediments, and paves the way to investigate past WAIS dynamics.\nhttps://doi.org/10.1016/j.earscirev.2018.04.011 Received 17 November 2017; Received in revised form 20 April 2018; Accepted 30 April 2018\n⁎ Corresponding author at: Grantham Institute for Climate Change and the Environment, Imperial College London, South Kensington Campus, London SW7 2AZ, UK. E-mail address: p.simoes-pereira14@imperial.ac.uk (P. Simões Pereira).\nEarth-Science Reviews 182 (2018) 204–232\nAvailable online 04 May 2018 0012-8252/ © 2018 Elsevier B.V. All rights reserved.\nT"
+  }, {
+    "heading": "1. Introduction",
+    "text": "The West Antarctic Ice Sheet (WAIS) holds enough ice to raise global sea-level by 4.3 m if completely melted (Fretwell et al., 2013). Its base rests largely on surfaces of bedrock and sedimentary strata that are well below sea level with an inland-deepening slope, making the WAIS vulnerable to changing environmental conditions (e.g. Oppenheimer, 1998), particularly to ocean warming and sea-level rise via the marine ice sheet instability hypothesis (e.g. Rignot and Jacobs, 2002; Schoof, 2007; Katz and Worster, 2010; Jacobs et al., 2011; Joughin and Alley, 2011; Pritchard et al., 2012) and/or marine ice cliff instability (DeConto and Pollard, 2016; Wise et al., 2017). This vulnerability is confirmed by modern observational data, which show thinning of ice shelves, acceleration of ice stream flow, and overall mass loss in the Pacific sector of the WAIS (Payne et al., 2004; Rignot et al., 2008; Pritchard et al., 2009, 2012; Shepherd et al., 2012; Mouginot et al., 2014). Most of the current retreat occurs in the Amundsen Sea sector, which drains approximately ~35% of the WAIS. High rates of mass loss originate from the Pine Island and Thwaites glaciers, with potential collapse being hypothesised to occur in as little as ~400 years (Oppenheimer, 1998 and references therein; Vaughan et al., 2011; Joughin et al., 2014). The proposed mechanism for collapse is an irreversible retreat of the grounding line (Schoof, 2007; Katz and Worster, 2010), facilitated by the landward dipping bed under the WAIS. Thereby, the bathymetric setting of the continental shelf may trigger initial retreat by allowing relatively warm Circumpolar Deep Water that is upwelling onto the shelf to enter sub-ice shelf cavities through cross-shelf troughs carved by past ice stream advances (e.g. Walker et al., 2007, 2013; Jenkins et al., 2010, 2016).\nWhile modern and historical processes leading to ice-sheet loss are increasingly well studied and understood (e.g. Hillenbrand et al., 2017; Smith et al., 2017; Turner et al., 2017), reconstructions of the past stability of the WAIS are still sparse (e.g. Scherer et al., 1998; Hillenbrand et al., 2002, 2009a; Pollard and DeConto, 2009; Naish et al., 2009; Vaughan et al., 2011). One promising tool to learn about past ice stability has been to study the provenance of marine detrital sediments. Radiogenic isotope fingerprinting and dating has been successfully applied to reconstruct ice sheet history in the Northern Hemisphere (e.g. Gwiazda et al., 1996; Hemming et al., 1998; Hemming and Hajdas, 2003; Peck et al., 2007; Downing et al., 2013; Reyes et al., 2014) and around East Antarctica (e.g. Williams et al., 2010; Pierce et al., 2011, 2014, 2017; Cook et al., 2013, 2014, 2017). Geochemical (i.e. radiogenic isotope composition) studies of glacially derived sediments with a West Antarctic provenance have so far been restricted to the Ross Sea (Farmer et al., 2006; Licht and Palmer, 2013; Licht et al., 2014), glacial till samples from distinct ice streams (Farmer and Licht, 2016; Licht et al., 2014; Welke et al., 2016), and only a few marine sediment core top analyses along the West Antarctic margin (Walter et al., 2000; Roy et al., 2007; van de Flierdt et al., 2007; Hemming et al., 2007).\nIn this study, we close this gap and describe the detailed geochemical provenance of glacially derived Late Holocene sediments along the Pacific margin of West Antarctica. Our primary motivation is to identify isotopic and geochemical fingerprints for individual WAIS sectors, and to characterize its subglacial geology building on the pioneering work of Roy et al. (2007), van de Flierdt et al. (2007) and Hemming et al. (2007). Paramount to such studies is the knowledge of the geological history of the exposed and subglacial bedrock (Figs. 1, 2) and its overall geochemical variability. Outcrop studies, integrated with airborne and field geophysical campaigns have significantly increased our knowledge of the hidden bedrock below the Antarctic Ice Sheet (e.g. Ferraccioli et al., 2009; Smith et al., 2013; Jordan et al., 2013a, 2013b; Aitken et al., 2014). Investigations of sediments that are shed from Antarctica can also contribute to understanding subglacial geology as well as providing the groundwork for using this approach to document the past history of the ice sheets. Here we present results on\nthe geochemical signature of 67 surface sediment samples using 40Ar/39Ar ages of individual hornblende and biotite grains (> 150 μm or> 63 μm), and strontium (Sr) and neodymium (Nd) isotope ratios and trace element compositions of the fine-grained fraction (< 63 μm). We present these results in the context of published studies of the geology and geochemistry of West Antarctica from field observations and geophysical investigations. By combining different provenance tools, we characterize source sectors of glacigenic detritus, a vital precondition for unravelling the history of the WAIS by tracing downcore provenance changes in marine sediment records. We place a particular emphasis on the Amundsen Sea sector, and relate our new sediment provenance results to specific ice drainage signatures, as well as pathways and transport mechanisms that may deliver sediments to their sites of deposition."
+  }, {
+    "heading": "2. Regional Framework of West Antarctica",
+    "text": ""
+  }, {
+    "heading": "2.1. Tectonic history",
+    "text": "The Antarctic continent preserves a geological record from ~3.5 Ga to present. Most known Precambrian rocks are found in East Antarctica (see Boger, 2011 for a recent review), while West Antarctica generally has a younger, largely Phanerozoic, geological history. West Antarctica consists of four micro-continental blocks: the Antarctic Peninsula, Ellsworth-Whitmore Mountains, Thurston Island and Marie Byrd Land (Dalziel and Elliot, 1982) (Figs. 1, 2).\nThe ‘birth’ of West Antarctica is largely associated with the onset of the accretionary Terra Australis (Ross) Orogeny (~510Ma). The Terra Australis Orogeny took place after suturing of West Gondwana (South American and South African shields) and the Australo-Antarctic plates (Kuunga Orogen), which shifted the locus of active subduction from between the pre-collision complexes of Gondwana towards the ProtoPacific margin (Cawood, 2005). This orogenic event resulted in deformation of passive margin sediments, formation of back-arc basins with quiescent sedimentation (Ellsworth-Whitmore Mountains, Fig. 1), and led to arc-type plutonism and subsequent crustal accretion onto the Gondwana margin (Cawood, 2005; Boger, 2011).\nConvergence along the Pacific margin of Gondwana led to deposition and subsequent accretion of Cambrian-Ordovician turbiditic sequences, and intrusion of Devonian-Carboniferous (~375–345Ma) granitoids. Relicts of these Early Palaeozoic rocks are found in the Ross province of Marie Byrd Land (Pankhurst et al., 1998; Mukasa and Dalziel, 2000), on Thurston Island (Pankhurst et al., 1993; Riley et al., 2017) and in the Eastern Domain of the Antarctic Peninsula (Millar et al., 2002), considered as the innermost and oldest arc-terranes in West Antarctica (Vaughan and Storey, 2000) (Figs. 1, 2).\nDuring the late Carboniferous, collision of Gondwana with Laurentia terminated the Terra Australis Orogeny, which was followed by the Gondwanide Orogeny (Fig. 1). This transition marked the initiation of a series of magmatic arc terranes, largely calc-alkaline granodiorite, diorite, and monzogranite intrusions in the Central Domain (Amundsen Province) of Marie Byrd Land and in the Central Domain of the Antarctic Peninsula during the Late Palaeozoic-Mesozoic. Notable episodes of magmatism occurred during the late Triassicearly Jurassic (236–199Ma), mid-Jurassic (~180–160Ma) and Early to Late Cretaceous (~140–80) (Leat et al., 1995; Storey et al., 1996). Though initially disconnected from Antarctica, these terranes became accreted to the continent by the end of the Cretaceous.\nThe outermost terrane belt in West Antarctica, the Western Domain of the Antarctic Peninsula (Vaughan and Storey, 2000) is composed of Carboniferous to Late Cretaceous accretionary sedimentary rocks such as those found on Alexander Island (Fig. 2). This terrane accreted to the West Antarctic margin by 103–107Ma, leading to back-arc plutonism and metamorphism of the Western and Central Domain in the midCretaceous (Wendt et al., 2008; Vaughan et al., 2012a).\nGondwana break-up led to extensive extrusion of Jurassic volcanic\nrocks documented by outcrops in the Antarctic Peninsula, and resulted in rifting away of Zealandia in the Cretaceous (Weaver et al., 1992; Pankhurst et al., 2000; Korhonen et al., 2010). Plutonism on West Antarctica continued until the Cenozoic with a diachronous eastward cessation of subduction (Larter and Barker, 1991; Leat et al., 1995; Larter et al., 2002; Cunningham et al., 2002; Mukasa and Dalziel, 2000). This was followed and accompanied by the extrusion of the widespread Late Cenozoic alkali basalts (e.g. Futa and LeMasurier, 1983; Hole and LeMasurier, 1994), which crop out extensively in central West Antarctica, especially the Marie Byrd Land volcanic province (e.g. LeMasurier and Rex, 1991)."
+  }, {
+    "heading": "2.2. Oceanography",
+    "text": "The dominant oceanographic feature off (West) Antarctica is the eastward flowing Antarctic Circumpolar Current (ACC), which is driven by the West Wind Drift, creating a clockwise flow around the Antarctic continent (Orsi et al., 1995; Sokolov and Rintoul, 2009). In the eastern Pacific sector of West Antarctica the Southern Boundary of the ACC (SBACC) follows approximately the shelf break (Sokolov and Rintoul, 2009), but the SBACC runs slightly north of it in the eastern Amundsen Sea and deviates further away from the continent towards the Ross Sea (Orsi et al., 1995; Walker et al., 2013) (Fig. 2). Wind stress and buoyancy forcing drive the westward flowing Antarctic Coastal Current, which spans the area between the SBACC and the coast (e.g. Stammerjohn et al., 2015; Kim et al., 2016a), creating a westward flowing surface current (Fig. 2). This general circulation pattern is complicated by local winds and large cyclonic gyres, such as in the Bellingshausen Sea (Fig. 2) and the Ross Sea. On the shelf of the Bellingshausen Sea, for instance, significant quantities of icebergs initially drift westwards with the coastal current but are then directed northwards near Thurston Island eventually joining the eastward flowing ACC (Gladstone et al., 2001; Sokolov and Rintoul, 2009). In the Pacific\nsector of the Southern Ocean, deep warm water upwells onto the continental shelf (Fig. 2 inset), locally protrudes towards the coast via bathymetric cross-shelf troughs, which were eroded by WAIS advances during past ice ages, and causes the bases of floating ice shelves to melt (e.g. Walker et al., 2007; Thoma et al., 2008; Jenkins et al., 2010; Arneborg et al., 2012; Randall-Goodwin et al., 2015). In the Amundsen Sea Embayment (ASE) the resulting glacial meltwater is detected in the mid-layer of the water column at about 400–500 m and flows northward along incised troughs towards the shelf break (e.g. Kim et al., 2016b).\nThe velocities of ocean currents measured and/or modelled in the surface and deep waters of our study area are on average ca. ≤5 cm/s, with a maximum of 22 cm/s (Assmann et al., 2005; Wåhlin et al., 2010, 2012, 2013, 2016; Jacobs et al., 2011, 2013; Arneborg et al., 2012; Carvajal et al., 2013; Walker et al., 2013; Ducklow et al., 2015; Kim et al., 2015; Randall-Goodwin et al., 2015). Exceptions to this are the westward flowing Antarctic Coastal Current in front of the Dotson Ice Shelf, and a local current within the Amundsen Polyna. The former current reaches a speed up to 40 cm/s in a narrow layer at 70 m water depth (Kim et al., 2016a), but this speed decreases to below 22 cm/s when integrated over the entire water column (Randall-Goodwin et al., 2015). The latter Amundsen Polynya current is characterized by a flow speed≤27 cm/s detected at 430 m water depth north of the Dotson and westernmost Getz ice shelves (Kim et al., 2016a). These velocities will become important when discussing transport pathways of detrital mineral grains later on."
+  }, {
+    "heading": "3. Approach and samples",
+    "text": "3.1. Approach to provenance fingerprinting\nAnalysis of the provenance of marine detrital sediments requires the consideration of a variety of glaciological and geological factors (see\n(caption on next page)\nreview by Licht and Hemming, 2017). Glacial influence on provenance records is exerted by preferential subglacial erosion of specific substrates. Glacial-marine transport and depositional processes in the ocean can furthermore introduce sorting and hence affect mineral assemblages in sediments. Geologically, onland bedrock needs to provide sufficient geochemical heterogeneity in order to produce distinct isotopic fingerprints. In addition, different rock types and mineral components are prone to be disproportionately represented in different grain-size fractions. Plutonic and high-grade metamorphic rocks, for instance, are rich in coarse-grained minerals, and are therefore likely to be over-represented in the coarse fraction of marine sediments. In contrast, sedimentary rocks consist of recycled continental material, and typically show a finer texture as well as depletion in minerals that are less resistant to chemical and physical weathering, such as hornblende and biotite (e.g. Pierce et al., 2014). Erosion of sedimentary rocks would lead to enrichment of these minerals in the fine fraction of glacial-marine sediments.\nTo limit the risk of neglecting or over-representing a particular rock type, we apply different geochemical tracers and analyse two different size-fractions of the same sediment sample. We investigate 40Ar/39Ar ages of ice-rafted (> 150 μm) hornblende and biotite grains, as well as Sr and Nd isotope and trace element compositions of fine-grained (< 63 μm) detritus. Dating of individual grains from marine sediments has been shown to provide powerful insights into the thermo-metamorphic history of the parent rocks. In the Southern Ocean, detailed studies on the provenance of East Antarctic glacial-marine sediments have shed light on previously documented as well as undiscovered geological provinces below the ice (e.g. Roy et al., 2007; Cook et al., 2014, 2017; Pierce et al., 2014, 2017). Even though most studies so far have focused on 40Ar/39Ar analysis of hornblende grains, recent work has elegantly demonstrated how biotite can provide complementary information on source rock metamorphism (Pierce et al., 2011, 2014). Both minerals are major rock-forming constituents and are present in a variety of lithologies. The advantage of using the dual dating approach relies on the fact that different lithologies might contain different amounts of hornblende and biotite grains. Additionally, hornblende and biotite minerals have different closure temperatures for argon of ~550°C and ~300°C, respectively (Harrison, 1982; Harrison et al., 1985) and hence reflect different points on the cooling path following a major extrusive or tectono-metamorphic event. The distinct attributes between both chronometers can be exploited to extract information on the source rock, only if both minerals originate from the same source. In the marine environment, however, selective transport pathways may compromise such coupling. Critical factors to consider are ocean current speeds, which determine the grain sizes and types of detrital mineral grains being eroded, transported, or deposited and hydraulic equivalence (i.e settling behaviour) of the different mineral types, which determines preferential transport and deposition of one mineral grain type over another.\nIn order to overcome the potential bias created by using mineral tracers, which rely on the existence of rocks containing these minerals, we also chose to investigate Sr and Nd isotopic compositions and trace element geochemistry of fine-grained (< 63 μm) detritus. Fine-grained\nmaterial can be eroded from any type of geology, and its radiogenic isotope composition depends on the age and lithology of the source formation (Taylor and McLennan, 1995). Hence, fine-grained Sr and Nd isotopic compositions have the potential to record an integrated signature of bedrock eroded under an ice stream or ice margin (Hemming et al., 1998; Farmer et al., 2003, 2006; Colville et al., 2011; Pierce et al., 2011; Cook et al., 2013, 2017; Farmer and Licht, 2016). Samarium (Sm) and Nd are not fractionated during continental erosion due to their nearly equal incorporation in most rock forming minerals. Neodymium model ages, based on the long-lived 147Sm to 143Nd decay system, are thus effective at reconstructing the mantle extraction age of precursor material of sediments (Goldstein and Hemming, 2003). Different minerals tend to have very similar Sm/Nd ratios (e.g. Bayon et al., 2009; Garçon et al., 2013; Rickli et al., 2014), making it unlikely that Nd isotopic compositions in sediments are majorly influenced by sedimentary sorting and/or weathering. In contrast, comminution of minerals with variable Rb/Sr ratios can produce grain-size effects in the 87Sr/86Sr ratio, particularly due to the enrichment of clay minerals and biotite in the fine-grained fraction (e.g. Eisenhauer et al., 1999; Goldstein and Hemming, 2003). Additionally, 87Sr/86Sr ratios can be fractionated during continental weathering due to the different solubility of the parent isotope 87Rb compared to the daughter isotope 87Sr (e.g. Blum and Erel, 1997)."
+  }, {
+    "heading": "3.2. Samples and site selection",
+    "text": "For this study, we selected 67 proximal to distal seafloor surface sediment samples from the Pacific margin of West Antarctica. In total, 59 samples were provided from core repositories of the British Antarctic Survey (Cambridge), the Alfred-Wegener Institute for Polar and Marine Research (Bremerhaven), and the Antarctic Marine Geology Research Facility at the Florida State University (formerly at Tallahassee, FL). We additionally complemented our sample selection by eight samples previously studied by Roy et al. (2007), which we picked for 40Ar/39Ar age analysis of biotite grains, not carried out in the original study.\nTable 1 provides a full description of the site locations and water depths, coring devices, and sample depths. Sites proximal to individual major ice streams were selected to identify the geochemical fingerprint of each ice drainage basin and therefore to constrain subglacial geology (Fig. 2). Distal sites were selected to test whether provenance signatures from the terminus of an active ice stream can be traced offshore, with the future goal to reconstruct ice history through time by analysing down-core records. Most sampling sites are located in the ASE, the modern-day locus of major ice stream retreat (e.g. Rignot et al., 2008, 2014), and proposed site of substantial WAIS retreat in the past (e.g. Vaughan et al., 2011).\nMost sediment samples used in this study are seafloor surface samples collected with box and multiple corers, and thus are of modern or at least Late Holocene age, which has been confirmed by AMS 14C dating and/or 210Pb analyses for several of these samples (Hillenbrand et al., 2010a, 2010b, 2013; Smith et al., 2011, 2014). Other samples were chosen solely due to their geographical position. Even though no chronological constraints were available for some of those samples, e.g.\nFig. 2. Simplified geological map of West Antarctica, including major geological units discussed in the text (Futa and LeMasurier, 1983; Storey et al., 1988; Pankhurst et al., 1993; McCarron and Smellie, 1998; Mukasa and Dalziel, 2000; Ferraccioli et al., 2002; Korhonen et al., 2010; Burton-Johnson and Riley, 2015). Thin blue dotted lines on the continent represent divides between major ice drainage basins, and brown dotted lines mark approximate boundaries between tectonic domains (Pankhurst et al., 1998; Vaughan and Storey, 2000). Grey dashed line on the continental shelf outlines bathymetric troughs, dashed black lines indicate the approximate location of the shelf break, and dotted line offshore marks position of the Southern Boundary of the Antarctic Circumpolar Current (SBACC; Orsi et al., 1995). Sites of surface sediments analysed in this study are shown as grey circles and numbers refer to their position in Table 1. Abbreviations: Abb – Abbot Ice Shelf; AS: Amundsen Sea; Cos – Cosgrove Ice Shelf; Dot – Dotson Ice Shelf; Ed. VII – Edward VII Peninsula: EWM – Ellsworth-Whitmore Mountains; FR – Ford Ranges; JM – Jones Mts; HN – Haag Nunataks; HM – Hudson Mts; MM –Mt Murphy; MP –Mount Petras; MT –Mt Takahe; SSI – South Shetland Islands.; TI – Thurston Island; WAIS – West Antarctic Ice Sheet; WC – Walgreen Coast. Inset: Digital elevation model of Antarctica (Bamber et al., 2009) with major crustal blocks of West Antarctica (Dalziel and Elliot, 1982). White contours denote bedrock above modern sea-level (Fretwell et al., 2013). Blue arrows denote main surface ocean currents (Gladstone et al., 2001; Assmann et al., 2005; Murphy et al., 2013) and orange arrows denote deep (i.e. down to ca. 1000 m water depth) currents (Holland et al., 2010; Assmann et al., 2013; Murphy et al., 2013; Ha et al., 2014). Palaeo-ice streams are shown in grey.\nTa bl e 1 3 9 A r/\n4 0 A r ag\nes an\nal ys ed\nin ic era ft ed\n(> 15\n0 μm\nor >\n63 μm\n) ho\nrn bl en\nde an\nd bi ot it e gr ai ns\nfr om\nsu rf ac e se di m en\nts off\nW es t A nt ar ct ic a.\nC or e Si te\nSi te\nlo ca ti on\nC or e de\npt h (c m )\nSe ct or\na Si ze\nfr ac ti on\nG ea r\nLa ti tu td e\nLo ng\nit ud\ne W at er\nde pt h (m\n) H or nb\nle nd\ne gr ai ns\nBi ot it e gr ai ns\nR ef er en\nce b\n1 D F8\n6– 48\n28 –3\n4 A P\npi st on\nco re r\n-6 2. 68\n-5 9. 74\n12 34\n2 D F8\n5– 53\n39 –4\n4 A P\n> 15\n0 μm\npi st on\nco re r\n-6 4. 56\n-6 3. 16\n20 1\n55 th is\nst ud y 3 PD 88 –1 11 G ra b3 7 Su rf ac e A P su rf ac e gr ab -6 5. 14 -6 3. 97 24 0 4 PD 88 –1 11 G ra b4 1 Su rf ac e A P su rf ac e gr ab -6 5. 23 -6 4. 09 20 0 5 EL T0 5– 22 4– 6 A P > 15 0 μm pi st on co re r -6 5. 95 -7 0. 25 37 3 91 7 R oy\net al ., 20\n07 ;t hi s st ud y 6 D F8 5– 82 28 –3 3 A P > 15 0 μm pi st on co re r -6 8. 24 -6 7. 50 27 5 39 th is st ud y 7 PS 25 24 –1 0– 1 A P bo x co re r -6 8. 49 -7 2. 72 45 8 8 EL T0 5– 20 2– 4 A P > 15 0 μm tr ig ge r co re -6 7. 18 -7 4. 78 29 26 37 7 R oy et al ., 20 07 ;t hi s st ud y 9 BC 47 0 0– 2 BS bo x co re r -6 9. 09 -7 6. 39 67 0 10 EL T4 2– 09 0– 2 BS > 15 0 μm pi st on co re r -6 9. 99 -8 0. 39 56 7 30 19 R oy et al ., 20 07 ;t hi s st ud y 11 BC 36 1 0– 1 BS > 15 0 μm bo x co re r -7 1. 99 -7 6. 55 63 3 38 38 th is st ud y 12 G C 36 2 0– 1 BS bo x co re r -7 2. 60 -8 0. 83 84 6 13 BC 36 4 0– 1 BS 63 μm -2 m m bo x co re r -7 2. 98 -8 3. 44 10 10 20 th is st ud y 14 BC 36 9 0– 2 BS 15 0 μm -2 m m bo x co re r -7 1. 58 -8 2. 86 58 7 47 44 th is st ud y 15 BC 45 9 0– 1 BS > 15 0 μm bo x co re r -7 0. 61 -8 6. 25 67 6 61 46 th is st ud y 16 PS 25 43 –3 0– 1 BS m ul ti -c or er -7 0. 95 -8 9. 36 53 7 17 EL T1 1– 19 0– 2 A SE > 15 0 μm tr ig ge r co re r -7 0. 42 -9 9. 25 38 08 63 16 R oy et al ., 20 07 ;t hi s st ud y 18 EL T1 1– 18 2– 4 A SE > 15 0 μm pi st on co re r -7 0. 14 -1 02 .8 2 37 86 24 5 R oy et al ., 20 07 ;t hi s st ud y 19 EL T1 1– 17 2– 4 A SE > 15 0 μm tr ig ge r co re r -7 0. 17 -1 06 .6 4 34 56 6 5 R oy et al ., 20 07 ;t hi s st ud y 20 PS 58 /2 54 –2 0– 2 A SE > 15 0 μm m ul ti -c or er -6 9. 31 -1 08 .4 5 40 16 14 7 th is st ud y 21 PS 75 /1 92 –2 0– 1 A SE gi an t bo x co re r -7 1. 74 -1 03 .3 3 79 3 22 PS 69 /2 55 –3 0– 1 A SE 15 0 μm -2 m m gi an t bo x co re r -7 1. 80 -1 04 .3 6 65 4 31 th is st ud y 23 PS 69 /2 51 –1 0– 1 A SE gi an t bo x co re r -7 2. 11 -1 04 .8 1 57 3 24 D F8 5– 10 9 11 –1 7 A SE > 15 0 μm pi st on co re r -7 2. 49 -1 04 .4 8 56 7 30 th is st ud y 25 BC 45 1 0– 1 A SE 15 0 μm -2 m m bo x co re r -7 1. 87 -1 06 .0 4 56 8 49 51 th is st ud y 26 BC 45 5 0– 1 A SE > 15 0 μm bo x co re r -7 1. 07 -1 05 .0 8 80 7 54 44 th is st ud y 27 BC 48 5 0– 3 A SE 15 0 μm -2 m m bo x co re r -7 2. 73 -1 07 .2 9 69 2 15 26 th is st ud y 28 D F8 5 96 –1 83 –8 8 A SE > 15 0 μm pi st on co re r -7 3. 30 -1 03 .6 2 78 6 30 th is st ud y 29 PS 69 /2 99 –1 0– 1 A SE 15 0 μm -2 m m gi an t bo x co re r -7 3. 44 -1 03 .6 5 71 8 24 57 th is st ud y 30 BC 48 2 0– 2 A SE bo x co re r -7 3. 89 -1 06 .2 7 11 13 31 BC 47 6 0– 2 A SE bo x co re r -7 4. 48 -1 04 .4 2 11 20 32 PS 75 /1 59 –1 0– 1 A SE 63 μm -2 m m gr av it y co re r -7 4. 80 -1 02 .3 6 10 46 1 th is st ud y 33 PS 75 /1 68 –1 0– 1 A SE 63 μm -2 m m gr av it y co re r -7 4. 61 -1 05 .8 7 65 2 9 th is st ud y 34 BC 44 2 0– 1 A SE 15 0 μm -2 m m bo x co re r -7 1. 68 -1 13 .0 1 60 8 47 53 th is st ud y 35 BC 44 3 0– 1 A SE 15 0 μm -2 m m bo x co re r -7 1. 28 -1 13 .4 6 17 89 55 39 th is st ud y 36 PS 69 /2 81 –3 0– 1 A SW gi an t bo x co re r -7 4. 33 -1 10 .2 1 21 3 37 N BP 07 –0 2 SM G 6 Su rf ac e A SW su rf ac e gr ab -7 4. 21 -1 11 .9 0 34 3 38 BC 42 0 0– 2 A SW > 15 0 μm bo x co re r -7 4. 14 -1 12 .8 6 80 6 24 15 th is st ud y 39 N BP 00 –0 1 K C 24 13 –1 9 A SW ka st en co re r -7 4. 17 -1 13 .1 8 30 1 40 BC 42 1 0– 1 A SW > 15 0 μm bo x co re r -7 3. 62 -1 13 .7 1 83 3 32 21 th is st ud y 41 BC 41 2 0– 1 A SW 63 μm -2 m m bo x co re r -7 3. 92 -1 15 .8 6 11 28 19 33 th is st ud y 42 N BP 00 –0 1 PC 22 5– 10 A SW pi st on co re r -7 4. 06 -1 15 .4 6 11 71 43 N BP 00 –0 1 K C 21 5– 10 A SW > 15 0 μm ka st en co re r -7 4. 03 -1 15 .8 4 10 49 35 th is st ud y 44 N BP 07 –0 2 SM G 5 Su rf ac e A SW su rf ac e gr ab -7 4. 02 -1 17 .3 0 35 0 45 PS 69 /2 75 –2 0– 1 A SW > 15 0 μm gi an t bo x co re r -7 3. 89 -1 17 .5 5 15 17 11 37 th is st ud y 46 BC 40 7 0– 2 A SW > 15 0 μm bo x co re r -7 3. 21 -1 15 .2 4 81 5 6 18 th is st ud y 47 PS 69 /2 83 –5 0– 1 A SW 15 0 μm -2 m m gi an t bo x co re r -7 2. 76 -1 15 .3 8 61 2 52 44 th is st ud y 48 BC 43 1 0– 1 A SW > 15 0 μm bo x co re r -7 2. 30 -1 18 .1 6 51 2 45 42 th is st ud y 49 BC 43 3 0– 1 A SW 15 0 μm -2 m m bo x co re r -7 1. 56 -1 18 .3 1 17 22 43 41 th is st ud y 50 BC 49 2 0– 1 A SW > 15 0 μm bo x co re r -7 1. 15 -1 19 .9 6 20 73 26 th is st ud y 51 EL T3 3– 12 2– 6 A SW > 15 0 μm pi st on co re r -7 0. 00 -1 20 .1 7 26 15 27 18 R oy et al ., 20 07 ;t hi s st ud y 52 EL T3 3– 11 0– 2 A SW > 63 μm pi st on co re r -7 0. 10 -1 22 .2 6 36 39 10 R oy et al ., 20 07 53 PS 25 45 –1 0– 1 A SW gi an t bo x co re r -7 3. 16 -1 21 .9 5 63 6 54 N BP 00 –0 1 K C 17 7– 13 A SW ka st en co re r -7 3. 79 -1 23 .5 3 89 1 (c on tin ue d on ne xt\npa ge )\nshelf samples from Sulzberger Bay, the stratigraphic position of these samples near the seafloor surface assures that they are most likely not older than Late Holocene, which is evident from AMS 14C ages of such samples in the Bellingshausen, Amundsen and Ross Seas and on the western Antarctic Peninsula margin (The RAISED Consortium, 2014). We followed this approach to avoid the potential influence of past changes in erosion or sediment transport/deposition on the provenance of the studied sediments.\nAs detailed in Section 2, current speeds in the study area are typically ≤22 cm/s. This flow velocity is too low to move sand particles (≥63 μm), which would require current speeds exceeding 26–29 cm/s (e.g. McCave et al., 2017). Large sheeted (flaky) biotite grains have a hydraulic equivalence to smaller (bulky) hornblende grains according to Komar et al. (1984) and Garzanti et al. (2008, 2009). These studies concluded that coarse grained (> 150 μm) biotite grains are hydraulically equivalent to quartz grains with a size exceeding ~75 μm. Such grains would not be moved by the ocean currents typical for the West Antarctic margin, allowing interpretation of biotite grains> 150 μm as subglacial debris, which was released by grounded ice directly at the coast or transported by icebergs further offshore, alongside hornblende grains> 150 μm. Several samples, however, have been picked for hornblende and biotite grains from the 63–150 μm fraction due to a low amount of grains in these samples. Due to the weak ocean currents in the study area, bulky hornblende grains from the 63–150 μm fraction are likely unaffected by hydrodynamic sorting and provide the same lithologic information as the coarser> 150 μm size fraction. Sediment samples from sites 13 and 41 (Table 1, Fig. 2) were, however, picked for biotite grains from the 63–150 μm fraction only. These results will hence be discussed separately (i.e. potential for selective mineral transport by ocean currents)."
+  }, {
+    "heading": "4. Analytical procedures",
+    "text": "Sediment samples were freeze-dried, weighed, and wet sieved through a 63-micron sieve. The sand fraction (> 63 μm) was subsequently dry sieved at 150 μm to obtain the>150 μm fraction (Table 1). The fine-grained (< 63 μm) fraction was separated by gravitational settling, after which the clear supernatant was discarded, and sediment was dried in an oven at 60°C. Approximately 1g of< 63 μm sediment was leached with buffered acetic acid to remove calcium carbonate, followed by 0.02M hydroxylamine hydrochloride solution to extract Fe-Mn oxyhydroxide coatings (Rutberg et al., 2000). Finally, the dried residue from leaching was thoroughly homogenised using an agate mortar.\nHornblende and biotite grains were hand-picked from the coarse (> 150 μm) fraction for 40Ar/39Ar age analysis on 43 of the 67 samples. Picking was extended to include the> 63 μm fraction only if too few grains were available in the>150 μm fraction. Eight samples were exclusively picked from the 63–150 μm fraction, of which seven were picked for hornblende grains and two for biotite grains (Table 1; Appendix S1). Fresh (i.e. glassy or black) grains were hand-picked from the coarse fraction with weathering being relatively minor or negligible (see also Licht and Hemming, 2017). Single grains and monitor standards (Fish Canyon sanidine) were irradiated at the USGS reactor in Denver, CO. Calibration for the neutron flux was based on J-values calculated to normalize Fish Canyon sanidine ages to 28.201+/- 0.046Ma (Kuiper et al., 2008). 40Ar/39Ar ages were calculated from measurements of gas released using a single-step CO2 laser fusion at the Argon Geochronology for the Earth Sciences (AGES) laboratory at Lamont-Doherty Earth Observatory. Argon isotope ratios were corrected for atmospheric argon (40Ar/36Ar= 298.6, Lee et al., 2006), procedural blanks and mass discrimination from frequent measurements of blanks and air pipettes. Nuclear interference corrections were made based on the values reported by Dalrymple et al. (1981).\nRadiogenic isotope (Sr, Nd) and trace element analyses were carried out on two separate aliquots (~50mg) from the residual and leachedTa\nbl e 1 (c on\ntin ue d)\nC or e Si te\nSi te\nlo ca ti on\nC or e de\npt h (c m )\nSe ct or\na Si ze\nfr ac ti on\nG ea r\nLa ti tu td e\nLo ng\nit ud\ne W at er\nde pt h (m\n) H or nb\nle nd\ne gr ai ns\nBi ot it e gr ai ns\nR ef er en\nce b\n55 N BP\n99 –0\n2 PC\n21 8–\n13 W H\n> 15\n0 μm\npi st on\nco re r\n-7 4. 08\n-1 27\n.7 9\n70 2\n9 5\nth is\nst ud y 56 N BP 99 –0 2 TC 23 0– 3 W H tr ig ge r w ei gh t co re r -7 3. 78 -1 27 .8 6 72 6 57 N BP 00 –0 1 PC 14 1– 3 W H > 15 0 μm pi st on co re r -7 3. 11 -1 28 .3 2 59 1 51 th is st ud y 58 PS 75 /1 33 –1 0– 1 W H > 15 0 μm gi an t bo x co re r -7 4. 34 -1 33 .0 8 47 4 19 40 th is st ud y 59 PS 75 /1 30 –2 0– 1 W H > 15 0 μm gi an t bo x co re r -7 4. 45 -1 34 .1 5 79 3 22 40 th is st ud y 60 D F8 3- II I BC 28 2– 4 SB > 63 μm bo x co re r -7 6. 83 -1 52 .4 8 10 24 18 th is st ud y 61 N BP 96 –0 1 PC 12 0– 3 SB (g ia nt ) pi st on co re r -7 6. 74 -1 52 .8 5 88 1 62 N BP 96 –0 1 TC 13 0– 3 SB tr ig ge r w ei gh t co re r -7 6. 65 -1 53 .3 6 73 9 63 N BP 99 –0 2 G ra b2 0 Su rf ac e SB su rf ac e gr ab -7 6. 41 -1 54 .8 2 45 8 64 D F8 3 PC 31 0– 3 SB > 63 μm pi st on co re r -7 6. 60 -1 54 .1 0 71 3 5 th is st ud y 65 D F8 3- II I BC 26 A 1– 3 SB > 63 μm bo x co re r -7 6. 95 -1 55 .6 2 13 53 3 th is st ud y 66 N BP 96 –0 1 JT C 11 0– 3 SB tr ig ge r w ei gh t co re r -7 6. 78 -1 55 .4 4 39 2 67 D F8 3- II I BC 33 3. 5– 5. 5 SB bo x co re r -7 6. 63 -1 56 .4 0 77 0 a A P: A nt ar ct ic Pe ni ns ul a se ct or , BS :B el lin gs ha us en Se a, A SE: ea st er n A m un ds en Se a, A SW : w es te rn A m un ds en Se a, W H :W ri gl ey G ul fH ob bs C oa st ,S B: Su lz be rg er Ba y. b Se e A pp en di x S1 fo r co m pl et e da ta se t.\n(i.e. detrital)< 63 μm sediment fraction. Aliquots were weighed into pre-cleaned Savillex vials and dissolved in a mixture of HF (2ml), HNO3 (1ml) and HClO4 (0.8 ml) for three to four days on a hotplate until no visible particles remained. After digestion, one set of aliquots were dried and taken up in acid for the three-stage ion exchange chromatography in preparation for Sr and Nd isotope analysis. The Sr fraction was extracted from the sample matrix using Eichrom’s Sr Spec resin in\nHNO3 medium (similar to Hemming et al., 2007, modified from Pin and Bassin, 1992). The sample matrix was collected from this step and rare earth elements (REEs) were subsequently separated from the sample matrix using a cation exchange resin (AG50W-X8) in HCl medium (following the specific method of Struve et al., 2016). The Nd fraction was subsequently separated from the other REEs using Ln-Spec resin in HCl medium (modified after Pin and Zalduegui, 1997).\nDried Sr cuts were re-dissolved in 6M HCl, loaded as 1μl aliquots on degassed tungsten filaments, and covered by 1μl of TaCl5 activator solution. Strontium isotopes were measured using a Trition Thermal Ionisation Mass Spectrometer (TIMS) in the Mass Spectrometry and Isotope Geochemistry laboratories at Imperial College London (MAGIC). Measured 87Sr/86Sr ratios were corrected for mass bias using an exponential law and assuming a 88Sr/86Sr ratio of 8.375. Repeated SRM987 standard measurements over the duration of three months yielded an 87Sr/86Sr ratio of 0.710261± 13 (2 S.D., n= 31), in agreement with the published value for SRM987 of 0.710252± 13 (2 S.D., n= 88; Weis et al., 2006). Strontium blanks were typically below 200 pg (n=5), except for one batch that yielded a blank of 460 pg Sr.\nNeodymium isotope ratios were analysed on a Nu Plasma HR MCICP-MS in the MAGIC laboratories. Neodymium isotope ratios were corrected for instrumental mass bias using a 146Nd/144Nd ratio of 0.7219 and an exponential law. Measured 143Nd/144Nd ratios for all samples are reported after correcting for the average JNdi 143Nd/144Nd ratio of the session to the accepted value of 0.512115 (Tanaka et al., 2000). Blanks for the Nd procedure were typically below 10 pg (n= 3) but always below 40 pg (n= 1). Repeat measurements of the USGS BCR-2 standard over multiple runs during the course of this study yielded 143Nd/144Nd ratios of 0.512637± 14 (2 S.D., n= 43) and 87Sr/86Sr ratios of 0.705011±13 (2 S.D., n= 12), in agreement with published values of by Weis et al. (2006).\nAliquots for trace element analysis were dried and transported to the Open University in Milton Keynes, and made up to a 1000-fold dilution of the original sample weight with MQ H2O, such that the final solutions were in a 0.45 M HNO3 matrix. Trace element analyses were conducted at the Open University, using an Agilent 8800 ICP-QQQ. The ICP-QQQ has a collision / reaction (ORS) cell, which allows for targeted removal of interference ions. Most elements reported here are measured using no gas (if interferences are not an issue) or He gas in the collision reaction cell, with the exception of the REE, which were measured in mass shift mode, using O2 in the cell. Analyses were calibrated against five USGS reference materials (BIR-1, W-2, DNC-1, BHVO-2, AGV-1) at the start of each measurement session. An internal standard was added on line to monitor and correct for instrument drift. In addition, a monitor block, consisting of the reference material BCR-2, a repeated unknown, and a nitric solution, was run every five to seven unknowns, to assess the drift correction and monitor the precision and accuracy of analyses. Oxide formation (measured as CeO+ / Ce+) was kept low at< 1.0% in no gas, or< 0.6% in He gas mode, and doubly charged species (Ce++ / Ce+) at< 1.5% and<1.0%, respectively. Detection limits of trace elements were typically 2–50ppt in solution for light elements and ≤2ppt for mid to heavy elements (Rb–U). Overall, precision on repeated BCR-2 standard measurements (n= 12) was usually below 5%, while accuracy checks were below 10% (except for Ti at 18%)."
+  }, {
+    "heading": "5. Results",
+    "text": ""
+  }, {
+    "heading": "5.1. 40Ar/39Ar ages of individual hornblende and biotite grains",
+    "text": "40Ar/39Ar ages for 1281 hornblende and 864 biotite grains are reported in Table 1 and Appendix S1 and illustrated in Fig. 3 for each geographical sector. From east to west, the sectors are: Antarctic Peninsula (AP sector, 60–75°W), Bellingshausen Sea (BS sector, 75–90°W), Amundsen Sea (AS sector, 90–125°W), Wrigley Gulf-Hobbs Coast (WH sector, 125–150°W) and Sulzberger Bay (SB sector, 150–160°W). Our results include 178 hornblende 40Ar/39Ar ages previously reported by Roy et al. (2007)."
+  }, {
+    "heading": "5.1.1. Antarctic Peninsula (AP, 60–75°W, core sites 1–8)",
+    "text": "In the AP sector we find a continuous hornblende 40Ar/39Ar age spectrum from 0 to ~320Ma with three major peaks at 14Ma, 55Ma and ~90Ma, and some scattered older grains of ~480–1000Ma and\n~1600–2000Ma (n=222; Fig. 3a). Significantly fewer biotite grains (n= 14) were analysed for 40Ar/39Ar ages (Table 1). Three minor age clusters occur in the 23–83Ma age interval, with three peak ages of ~27Ma, ~50Ma and ~77Ma (Fig. 3b). Two single grains record ages of 360–380Ma."
+  }, {
+    "heading": "5.1.2. Bellingshausen Sea (BS, 75–90°W, core sites 9–16)",
+    "text": "In the BS sector a continuous hornblende 40Ar/39Ar age spectrum spans from 0–260Ma, but with a dominant cluster between ~75 and 140Ma, a peak of ~110Ma, and one older grain at 510Ma (n= 176; Fig. 3c). Biotite 40Ar/39Ar ages (n=167) yield a similar age range, predominantly from 0 to ~280Ma, with the majority of grain ages in the interval between 75 and 135Ma, and with peaks at ~99Ma and ~108Ma. One older grain dates back to 480Ma (Fig. 3d). The finer sand size-fraction (63 − 150 μm) of site 13 was picked for biotite grains, and hence the 40Ar/39Ar ages for this sample could be influenced by ocean current transport because biotite grains of this size can be affected by relatively weak ocean currents with flow speeds as observed in the Bellingshausen Sea. However, age distribution observed at site 13 shows no pattern deviating from that of other core samples in the BS sector, with the majority of the ages ranging from 94–120Ma (Appendix S1)."
+  }, {
+    "heading": "5.1.3. Amundsen Sea (AS, 90–125°W, core sites 17–54)",
+    "text": "The AS sector is the main focus of this study and a total of 756 hornblende grains and 598 biotite grain ages are reported for this sector. A continuous hornblende 40Ar/39Ar age spectrum from 0 to ~380Ma shows two noticeable peaks at ~101Ma and ~250Ma. A significant number of grains with ages ranging from 140 to ~210Ma are found, which are notably absent from the other sectors. A minor age peak is observed at ~353Ma. Though significantly smaller in number, older hornblende grains also appear in these sediments (n=20), with age clusters of 400–550Ma, 640–800Ma, 1120–1360Ma, 1700–1850Ma and 2600–2800Ma (Fig. 3e, Appendix S1). Biotite 40Ar/39Ar ages (n=598) spread from 0 to ~300Ma, with a prominent peak at ~100Ma, and secondary peaks at ~170 and 240Ma. Nine older grains yield ages of ~330–375Ma, ~450 and 890Ma (Fig. 3f). The apparent modern (~0Ma) age peaks observed in both minerals in the AS sector seem suspicious as the corresponding grains were primarily picked from core 49 situated on the upper continental slope, and are not detected in other sectors (Fig. 2). Biotite grains from site 41 were picked from a smaller size-fraction (Table 2) and hence could potentially be influenced by ocean current transport due to fast flow speeds detected off the Dotson Ice Shelf (Kim et al., 2016a). However, 40Ar/39Ar ages from this sample do not reveal any pattern deviating from that of 40Ar/39Ar ages in nearby core samples (Appendix S1). We hence consider differential sorting of biotite and hornblende mineral grains of the same size fraction to be negligible in our study area."
+  }, {
+    "heading": "5.1.4. Wrigley Gulf-Hobbs Coast (WH, 125–150°W, core sites 55–59)",
+    "text": "A total of 101 hornblende ages obtained from the WH sector record well defined 40Ar/39Ar ages with populations around 0–20Ma and 65–140Ma, and age probability peaks at ~0Ma and ~100Ma as well as three scattered ages of ~210Ma, 300Ma and 610Ma (Fig. 3g). Biotite 40Ar/39Ar ages (n= 85) cover a similar age range from 0 to ~150Ma, with some scattered ages of ~180Ma, but the dominant age probability peak at 101Ma is slightly older than the one defined by the hornblende grains. A second minor age peak is detected around ~53Ma, which is absent in the hornblende age spectrum (Fig. 3h)."
+  }, {
+    "heading": "5.1.5. Sulzberger Bay (SB, 150–160°W, cores 60–67)",
+    "text": "Most hornblende 40Ar/39Ar ages (n= 26) from the SB sector range from 0 to ~135Ma, and show a well-defined age probability peak at ~100Ma. Minor age peaks occur at ~48Ma and ~5Ma and three individual grains yield ages of ~170Ma, 350Ma and 510Ma (Fig. 3i). No biotite grains were picked/analysed from this sector.\nTa bl e 2 Sr an\nd N d is ot op\ne co\nm po\nsi ti on\ns of\nth e de\ntr it al\nfr ac ti on\n(< 63\nμm ) an\nd cl ay\nm in er al\nas se m bl ag\nes (<\n2 μm\n) of\nsu rf ac e se di m en\nts off\nW es t A nt ar ct ic a.\nC or e Si te\nSi te\nlo ca ti on\nSe ct or\na 8 7 R b/\n8 6 Sr\nb 8 7 Sr /8\n6 Sr\n(± 2 S. E. )\n1 4 7 Sm\n/1 4 4 N db\n1 4 3 N d/\n1 4 4 N d (±\n2 S. E. )\nε N d\n± 2 S. D .c\nT D M (M\na) d\nR ef .e\nIl l( % )\nSm e (%\n) K ln (%\n) C hl (%\n) R ef .e\n1 D F8\n6– 48\n⁎ A P\n0. 51\n27 51\n± 8\n2. 20\n0. 36\n2 D F8\n5– 53\nA P\n3 PD\n88 –1\n11 G ra b3\n7⁎ A P\n0. 51\n27 25\n± 9\n1. 69\n0. 36\n4 PD\n88 –1\n11 G ra b4\n1⁎ A P\n0. 51\n27 19\n± 9\n1. 57\n0. 36\n5 EL\nT0 5–\n22 A P\n0. 70\n52 81\n± 5\n0. 13\n66 0. 51\n26 85\n± 10\n0. 92\n92 0\n2, 3\n6 D F8\n5– 82\nA P\n7 EL\nT0 5–\n20 A P\n0. 70\n81 98\n± 7\n0. 13\n41 0. 51\n24 69\n± 18\n-3 .3 0\n13 04\n2, 3\n8 PS\n25 24\n–1 A P\n1. 42\n3 0. 70\n89 26\n± 5\n0. 11\n79 0. 51\n24 53\n± 8\n-3 .6 1\n0. 21\n11 09\n1 58\n8 0\n34 4\n9 BC\n47 0\nBS 1. 62\n8 0. 71\n01 00\n± 4\n0. 11\n79 0. 51\n24 05\n± 8\n-4 .5 5\n0. 28\n11 85 1 10 EL T4 2– 09 BS 0. 12 55 0. 51 24 20 ± 9 -4 .2 5 12 61 2 11 BC 36 1 BS 1. 70 6 0. 70 97 14 ± 5 0. 11 60 0. 51 23 92 ± 16 -4 .8 0 0. 32 11 83\n1 44\n20 5\n31 5\n12 G C 36\n2 BS\n1. 92\n0 0. 71\n11 65\n± 5\n0. 11\n73 0. 51\n23 49\n± 6\n-5 .6 4\n0. 29\n12 67\n1 52\n19 6\n23 5\n13 BC\n36 4\nBS 1. 84\n6 0. 71\n31 89\n± 5\n0. 11\n42 0. 51\n22 67\n± 6\n-7 .2 4\n0. 30\n13 53\n1 66\n7 2\n25 5\n14 BC\n36 9\nBS 1. 54\n7 0. 71\n03 20\n± 4\n0. 11\n52 0. 51\n23 59\n± 9\n-5 .4 4\n0. 24\n12 24\n1 46\n20 3\n30 5\n15 BC\n45 9\nBS 1. 39\n9 0. 71\n05 39\n± 4\n0. 11\n36 0. 51\n23 21\n± 10\n-6 .1 8\n0. 28\n12 62\n1 52\n16 6\n26 6 (G\nC 37 2) 16 PS 25 43 –3 BS 1. 88 9 0. 71 23 97 ± 5 0. 11 23 0. 51 22 85 ± 7 -6 .8 9 0. 21 13 01 1 59 14 4 23 4 17 EL T1 1– 19 A SE 0. 70 79 28 ± 6 0. 12 71 0. 51 24 70 ± 10 -3 .2 8 11 97 2, 3 18 EL T1 1– 18 A SE 0. 70 97 90 ± 5 0. 12 13 0. 51 23 99 ± 5 -4 .6 6 12 39 2, 3 19 EL T1 1– 17 A SE 0. 71 06 16 ± 8 0. 12 57 0. 51 24 00 ± 16 -4 .6 4 12 99 2, 3 20 PS 58 /2 54 –2 A SE 1. 65 8 0. 70 87 04 ± 4 0. 11 85 0. 51 24 86 ± 6 -2 .9 6 0. 30 10 64 1 33 38 12 17 7 21 PS 75 /1 92 –2 A SE 1. 72 6 0. 71 01 62 ± 5 0. 11 27 0. 51 24 08 ± 8 -4 .4 9 0. 21 11 21 1 22 PS 69 /2 55 –3 A SE 1. 54 1 0. 70 99 71 ± 5 0. 11 35 0. 51 24 02 ± 8 -4 .6 1 0. 24 11 39 1 41 27 14 18 7 23 PS 69 /2 51 –1 A SE 2. 04 1 0. 71 12 26 ± 6 0. 11 23 0. 51 23 96 ± 8 -4 .7 1 0. 21 11 33 1 41 25 16 18 7 24 D F8 5– 10 9 A SE 25 BC 45 1 A SE 2. 25 5 0. 71 16 52 ± 5 0. 11 31 0. 51 24 29 ± 10 -4 .0 7 0. 28 10 92 1 46 23 16 14 7 26 BC 45 5 A SE 1. 70 3 0. 71 03 84 ± 5 0. 11 17 0. 51 24 15 ± 9 -4 .3 4 0. 28 10 99 1 45 24 16 15 7 re pe at f 0. 71 03 65 ± 5 0. 51 24 15 ± 7 -4 .3 5 0. 16 27 BC 48 5 A SE 2. 78 9 0. 71 34 36 ± 4 0. 11 41 0. 51 24 25 ± 9 -4 .1 6 0. 28 11 10 1 46 19 19 15 7 28 D F8 5 96 –1 A SE 29 PS 69 /2 99 –1 A SE 1. 19 3 0. 70 79 47 ± 5 0. 11 18 0. 51 24 70 ± 8 -3 .2 8 0. 24 10 18 1 41 26 7 25 7 30 BC 48 2 A SE 3. 30 3 0. 71 52 35 ± 4 0. 11 18 0. 51 23 99 ± 9 -4 .6 7 0. 28 11 25 1 44 19 23 15 7 31 BC 47 6 A SE 3. 90 3 0. 71 87 95 ± 6 0. 11 16 0. 51 23 29 ± 10 -6 .0 3 0. 28 12 26 1 52 16 17 16 7 32 PS 75 /1 59 –1 A SE 4. 65 9 0. 72 39 59 ± 5 0. 11 00 0. 51 22 67 ± 8 -7 .2 4 0. 21 12 99 1 33 PS 75 /1 68 –1 A SE 3. 55 7 0. 71 69 04 ± 6 0. 10 96 0. 51 24 06 ± 8 -4 .5 2 0. 21 10 90 1 50 13 21 16 7 (P S6 9/ 29\n2– 3)\n34 BC\n44 2\nA SE\n1. 94\n6 0. 71\n04 17\n± 4\n0. 11\n31 0. 51\n24 65\n± 9\n-3 .3 7\n0. 28\n10 39\n1 47\n18 19\n16 7\n35 BC\n44 3\nA SE\n1. 71\n2 0. 71\n01 81\n± 5\n0. 11\n35 0. 51\n24 54\n± 8\n-3 .5 8\n0. 28\n10 59\n1 47\n20 18\n16 7\n36 PS\n69 /2\n81 –3\nA SW\n2. 05\n8 0. 70\n95 04\n± 6\n0. 11\n16 0. 51\n25 42\n± 8\n-1 .8 7\n0. 28\n90 9\n1 42\n14 29\n15 7\n37 N BP\n07 –0\n2⁎ A SW\n0. 51\n25 12\n± 8\n-2 .4 6\n0. 32\n38 BC\n42 0\nA SW\n2. 08\n4 0. 71\n01 25\n± 5\n0. 11\n67 0. 51\n25 19\n± 6\n-2 .3 2\n0. 29\n99 2\n1 47\n13 18\n22 7\n39 N BP\n00 –0\n1 K C 24\n⁎ A SW\n0. 51\n26 60\n± 9\n0. 43\n0. 37\n40 BC\n42 1\nA SW\n2. 20\n5 0. 71\n00 11\n± 5\n0. 11\n24 0. 51\n24 99\n± 8\n-2 .7 1\n0. 28\n98 1\n1 43\n22 19\n16 7\n41 BC\n41 2\nA SW\n2. 10\n9 0. 70\n96 82\n± 5\n0. 11\n48 0. 51\n24 96\n± 9\n-2 .7 6\n0. 28\n10 08\n1 40\n21 20\n19 7\n42 N BP\n00 –0\n1 PC\n22 ⁎\nA SW\n0. 51\n25 17\n± 10\n-2 .3 5\n0. 29\n43 N BP\n00 –0\n1 K C 21\n⁎ A SW\n0. 51\n24 95\n± 8\n-2 .7 9\n0. 29\n44 N BP\n07 –0\n2⁎ A SW\n0. 51\n24 86\n± 8\n-2 .9 7\n0. 32\n45 PS\n69 /2\n75 –2\nA SW\n2. 44\n6 0. 71\n01 15\n± 5\n0. 11\n44 0. 51\n25 17\n± 8\n-2 .3 5\n0. 29\n97 3\n1 43\n20 20\n16 7\n46 BC\n40 7\nA SW\n2. 27\n5 0. 70\n99 03\n± 4\n0. 11\n34 0. 51\n25 09\n± 7\n-2 .5 2\n0. 24\n97 5\n1 43\n18 22\n18 7\nre pe at\n0. 71\n00 41\n± 5\n0. 51\n25 04\n± 9\n-2 .6 2\n0. 21\n47 PS\n69 /2\n83 –5\nA SW\n2. 18\n0 0. 70\n98 81\n± 4\n0. 11\n33 0. 51\n24 92\n± 7\n-2 .8 6\n0. 20\n10 00\n1 43\n20 19\n18 7\n48 BC\n43 1\nA SW\n1. 74\n6 0. 70\n89 59\n± 4\n0. 11\n36 0. 51\n24 88\n± 8\n-2 .9 2\n0. 28\n10 08\n1 46\n17 19\n18 7\n49 BC\n43 3\nA SW\n1. 84\n8 0. 70\n98 45\n± 4\n0. 11\n28 0. 51\n25 05\n± 7\n-2 .5 9\n0. 28\n97 6\n1 43\n17 21\n18 7\n50 BC\n49 2\nA SW\n1. 69\n7 0. 70\n97 11\n± 5\n0. 11\n4 0. 51\n25 26\n± 7\n-2 .1 8\n0. 29\n95 4 1 51 EL T3 3– 12 A SW 0. 71 28 46 ± 6 0. 11 88 0. 51 23 58 ± 8 -5 .4 6 12 72\n2, 3\n52 EL\nT3 3–\n11 A SW\n0. 70\n90 86\n± 6\n0. 11\n87 0. 51\n25 02\n± 10\n-2 .6 5\n10 40\n2, 3\n(c on\ntin ue d on\nne xt\npa ge )\nTa bl e 2 (c on\ntin ue d)\nC or e Si te\nSi te\nlo ca ti on\nSe ct or\na 8 7 R b/\n8 6 Sr\nb 8 7 Sr /8\n6 Sr\n(± 2 S. E. )\n1 4 7 Sm\n/1 4 4 N db\n1 4 3 N d/\n1 4 4 N d (±\n2 S. E. )\nε N d\n± 2 S. D .c\nT D M (M\na) d\nR ef .e\nIl l( % )\nSm e (%\n) K ln (%\n) C hl (%\n) R ef .e\n53 PS\n25 45\n–1 A SW\n1. 80\n9 0. 70\n82 76\n± 7\n0. 11\n44 0. 51\n25 53\n± 8\n-1 .6 6\n0. 21\n91 8\n1 39\n28 23\n10 4\n54 N BP\n00 –0\n1 K C 17\n⁎ W H\n0. 51\n26 53\n± 8\n0. 29\n0. 32\n55 N BP\n99 –0\n2 PC\n21 ⁎\nW H\n0. 51\n26 10\n± 7\n-0 .5 4\n0. 32\n56 N BP\n99 –0\n2 TC\n23 W H\n1. 01\n2 0. 70\n56 56\n± 5\n0. 11\n56 0. 51\n26 67\n± 10\n0. 57\n0. 24\n75 2\n1 37\n27 20\n17 1\n57 N BP\n00 –0\n1 PC\n14 W H\n1. 04\n5 0. 70\n59 17\n± 4\n0. 11\n55 0. 51\n26 54\n± 9\n0. 32\n0. 24\n77 0\n1 37\n25 20\n18 1\n58 PS\n75 /1\n33 –1\nW H\n1. 08\n1 0. 70\n61 22\n± 4\n0. 11\n51 0. 51\n27 03\n± 8\n1. 26\n0. 30\n69 3\n1 36\n28 14\n21 1\n59 PS\n75 /1\n30 –2\nW H\n0. 89\n1 0. 70\n58 89\n± 4\n0. 11\n58 0. 51\n26 97\n± 5\n1. 14\n0. 29\n70 7 1 60 D F8 3- II I BC 28 SB 7. 14 2 0. 74 11 88 ± 4 0. 11 33 0. 51 20 85 ± 8 -1 0. 79 0. 24 16 16 1 61 N BP 96 –0 1 PC 12 SB 7. 49 2 0. 74 34 25 ± 4 0. 11 31 0. 51 20 77 ± 9 -1 0. 95 0. 24 16 23 1 62 N BP 96 –0 1 TC 13 SB 8. 26 5 0. 74 70 45 ± 5 0. 11 27 0. 51 20 63 ± 8 -1 1. 22 0. 24 16 39 1 63 N BP 99 –0 2 G ra b2 0 SB 0. 51 20 58 ± 7 -1 1. 31 0. 32 64 D F8 3 PC 31 SB 8. 32 4 0. 74 79 28 ± 5 0. 11 29 0. 51 20 30 ± 8 -1 1. 86 0. 24 16 91 1 65 D F8 3- II I BC 26 A SB 8. 01 0 0. 74 25 76 ± 4 0. 11 19 0. 51 20 96 ± 9 -1 0. 58 0. 24 15 76 1 66 N BP 96 –0 1 JT C 11 SB 8. 22 4 0. 74 92 75 ± 4 0. 11 18 0. 51 20 50 ± 10 -1 1. 47 0. 24 16 43 1 re pe at 0. 74 95 34 ± 6 0. 51 26 33 ± 8 -1 1. 52 0. 16 67 D F8 3- II I BC 33 SB 7. 97 6 0. 74 19 31 ± 4 0. 11 28 0. 51 20 80 ± 8 -1 0. 89 0. 24 16 16 1 a Se e Ta bl e 1. b C al cu la te d fr om el em en ta l co m po st io n of th e sa m e sa m pl e (T ab le 3) . c St an da rd de vi at io n ba se d on th e re pr od uc ib ili ty of th e 1 4 3 N d/ 1 4 4 N d ra ti o of th e JN di st an da rd du ri ng ea ch ru n: 0. 51 22 24 ± 14 (n = 24 ), 0. 51 21 16 ± 12\n(n =\n17 ), 0. 51\n21 44\n± 12\n(n =\n13 ), 0. 51\n21 57\n± 10\n(n =\n12 ),\n0. 51\n21 06\n± 12\n(n =\n32 ), 0. 51\n21 49\n± 11\n(n =\n27 ) an\nd 0. 51\n21 42\n± (n\n= 16 ). d N d m od el ag es re la ti ve to pr es en t de pl et ed m an tl e (D M ) us in g a on est ag\ne ev\nol ut io n m od\nel :1\n4 7 Sm\n/1 4 4 N d =\n0. 21\n36 ;1\n4 3 N d/\n1 4 4 N d =\n0. 51\n31 5.\ne (1 ) th is\nst ud\ny; (2 ) R oy\net al ., 20\n07 ;( 3)\nH em\nm in g et\nal ., 20\n07 ;( 4)\nH ill en\nbr an\nd et\nal ., 20\n02 ;( 5)\nH ill en\nbr an\nd et\nal ., 20\n09 ; (6 ) H ill en\nbr an\nd et\nal ., 20\n10 ; (7 ) Eh\nrm an\nn et\nal ., 20\n11 .\nf R ep\nea t va\nlu es\nre pr es en\nt fu ll pr oc\ned ur al\nre pl ic at s of\nsa m pl e po\nw de\nrs (i .e .f ro m\ndi ge\nst io n,\nth ro ug\nh io n ex ch\nan ge\nch ro m at og\nra ph\ny, to\nm as s sp ec tr om\net ry ).\n⁎ Sa\nm pl es\nde no\nte d w it h a st ar\nw er e an\nal ys ed\nat LD EO\nfo r th ei r N d is ot op\nic co\nm po\nsi ti on\nus in g si m ila\nr m et ho\ndo lo gi es\nto th os e de\nsc ri be\nd in\nth e m ai n te xt ,b\nut ru n on\na A X IO\nM M C -I C PM S (s ee\nva n de\nFl ie rd te\nta l.,\n20 08 , fo r m or e de ta ils on m et ho do lo gy ).\n5.2. Neodymium and strontium isotope composition of fine-grained detrital sediments\nIn total, 66 and 54 samples were analysed for their detrital Nd and Sr isotopic composition respectively. The Nd isotope results are expressed as epsilon values (εNd), which denotes the deviation from a chondritic value of 0.512638 in parts per 10,000 (Jacobsen and Wasserburg, 1980). Neodymium and Sr isotope results from the study of Roy et al. (2007) on eight additional distal samples are included in the following results and subsequent discussion (Table 2).\nOverall, detrital continental margin sediments off West Antarctica have Nd isotopic compositions ranging from −12 to +2 and 87Sr/86Sr ratios from 0.7493 to 0.7057 (Fig. 4, Table 2). The values are anticorrelated as expected from global trends, and are distinct for individual sectors. The highest Nd isotope values and the lowest Sr isotope ratios are found in the WH sector (εNd=−0.5 to 1.3, 87Sr/86Sr= 0.7056 to 0.7061), in the westernmost sample from the AS sector (site 54; εNd=0.3) and in the easternmost samples from the AP sector (site 1 and 3–5: εNd=0.9 to 2.2; 87Sr/86Sr ~0.7053). The other end of the data range is defined by samples from SB, i.e. offshore from western Marie Byrd Land (Fig. 2), with Nd isotopic compositions of −11.9 to −10.6 and 87Sr/86Sr= 0.7411 to 0.7493. Detrital shelf sediments from the AS sector reveal intermediate values, but with distinctly different values in the eastern and western AS. In the eastern AS, lower Nd and higher radiogenic Sr values (εNd ~-7.3, 87Sr/86Sr ~ 0.7240) are found in a sample taken in front of Pine Island Glacier (site 32, Table 2, Fig. 2). Along the eastern flank of the AS sector the isotopic fingerprints of the samples change systematically northwards across the shelf to higher Nd and lower Sr isotopic compositions (site 20: εNd ~-3.3, 87Sr/86Sr ~ 0.7079). A uniform signature is observed in the western AS sector, where shelf sediments yield Nd and Sr isotopic compositions of εNd ~-2.9 to −1.7 and 87Sr/86Sr ~0.7082 to 0.7101 (n=17), except sample from site 39 proximal to Dotson Ice Shelf (εNd= 0.4; 87Sr/86Sr was not measured) and site 51 on the lower continental slope (εNd ~-5.5; 87Sr/86Sr= 0.7128). Detrital surface sediments from the BS extend from the values recorded in the western AS and on the eastern AS shelf towards lower Nd and higher Sr values, along a steeper slope (εNd=−7.3 to −4.2, 87Sr/86Sr= 0.7097 to 0.7132, n= 8; Fig. 4). General anti-correlation of Nd and Sr isotopes in fine-grained detrital sediments off West Antarctica, in addition to the\nextremely uniform values observed in the western AS from ice proximal to ice distal (ocean) locations, indicate that both isotope systematics are predominantly governed by provenance and not by sedimentary sorting or weathering.\n5.3. Trace element composition of fine-grained detrital sediments\nTrace element compositions, including full REE patterns, were analysed on the<63 μm fraction of 44 detrital seafloor sediment samples. The data are reported in Table 3 and are illustrated in midocean ridge basalt (MORB)-normalized spider diagrams (Fig. 5). Overall, detrital sediments show compositions comparable to Post-Archean Average Shale (PAAS) (McLennan, 2001). Some elements, however, deviate from PAAS. Zirconium (Zr) concentrations show considerable scatter (Fig. 5), while the elemental ratio of the two high-field strength elements Zr and yttrium (Y) are high in sediments from the WH sector (Zr/Y ~10.5) and low in sediments from the SB sector (Zr/Y ~4) as well as in sediments proximal to Pine Island and Thwaites glaciers (Zr/Y ~5). Similarly, high Sr over thorium (Th) ratios of 25–30 are observed in WH, at site 29 on the AS (Sr/Th ~25) and in the AP sector (site 8, Sr/Th ~27), with the latter sector being mostly characterized by very low thorium (Table 3). The ratio of Th over scandium (Sc), which generally describes the relative contribution of basic and felsic rocks (Taylor and McLennan, 1995), is elevated in the samples from sites 32 and 33 proximal to Pine Island and Thwaites glaciers (1.5–2.0), but low in WH (~0.8–1), sites 8 to 11 from the AP and BS sectors (0.6–0.8) and in one distal sample from site 20 in the AS sector (0.6). Europium anomalies are moderately negative (Eu/Eu*=0.5–0.9) in most samples, and correlate well with Th/Sc (R2= 0.67; Fig. 6) and Sr/Th ratios (R2= 0.87) (Table 3)."
+  }, {
+    "heading": "6. Provenance of glacial-marine sediments",
+    "text": "In this section we evaluate the provenance signature of coarse and fine-grained detrital sediment from the seafloor in conjunction with onshore geochemical (Sr and Nd isotope values) and geochronological data (K-Ar and 40Ar/39Ar ages on hornblende, biotite, mica grains and whole rock samples, U/Pb zircon ages, and Rb-Sr whole rock ages) compiled from the literature (Appendix S2). Knowledge of the regional tectonic history of West Antarctica is a prerequisite in order to relate offshore 40Ar/39Ar mineral ages to bedrock sources, particularly in areas where 40Ar/39Ar cooling ages are scarce and comparison with other geochronological data is required. Overall, offshore 40Ar/39Ar ages match those reported for outcrops onland, recording largely the erosion of syn-tectonic Palaeozoic to Cenozoic plutons emplaced onto the former magmatic arc along the Gondwana margin, with distinctive thermal age peaks at ~245Ma, ~170Ma, ~100Ma and 50–90Ma. Onshore U-Pb ages on zircons on crystalline bedrock are sparse, but fall in the range of our offshore 40Ar/39Ar data, reflecting West Antarctica’s active margin settings. In addition to the thermochronological ages, fine-grained Sr and Nd isotope and trace element fingerprints from the< 63 μm sediment fraction record an integrated signal of the erosion of major outcropping lithologies. The observed fingerprint in marine sediments allows to distinguish between glaciomarine sediments supplied by five major source sectors on West Antarctica. The integrated signal allows furthermore to identify erosion of volcanic and sedimentary rocks, which are inherently difficult to detect using hornblende and biotite 40Ar/39Ar ages (i.e. ‘mineralogical or grain-size bias’)."
+  }, {
+    "heading": "6.1. Antarctic Peninsula (AP)",
+    "text": ""
+  }, {
+    "heading": "6.1.1. Provenance of ice-rafted detritus",
+    "text": "Outcrops of young Late Cretaceous (< 90Ma) to Cenozoic igneous rocks have been documented on the Antarctic Peninsula, especially along the western coasts of Graham and Palmer Land and on Alexander\nTa bl e 3 Tr ac e el em\nen t co\nm po\nsi ti on\nof de\ntr it al\n< 63\nμm su rf ac e se di m en\nts off\nW es t A nt ar ct ic a (i n pp\nm ).\nC or e Si te\nSi te\nlo ca ti on\nSe ct or (a )\nLi Sc\nTi V\nC r\nM n\nC o\nN i\nC u\nZn R b\nSr Y\nZr C s\nBa La\nC e\nPr\n1 D F8\n6– 48\nA P\n2 D F8\n5– 53\nA P\n3 PD\n88 –1 11 G ra b3\n7* A P\n4 PD\n88 –1 11 G ra b4\n1* A P\n5 EL\nT0 5–\n22 A P\n6 D F8\n5– 82\nA P\n7 EL\nT0 5–\n20 A P\n8 PS\n25 24\n–1 A P\n54 15\n41 23\n10 8\n50 66\n1 12\n21 34\n13 7\n12 2\n24 7\n21 84\n5 63\n4 22\n.8 50\n.6 5. 4\n9 BC\n47 0\nBS E\n47 14\n39 54\n90 44\n54 2\n9 17\n16 14\n4 12\n0 21\n3 23\n96 6\n96 6\n26 .8\n57 .7\n6. 1\n10 EL\nT4 2–\n09 BS E 11 BC 36 1 BS\nE 40\n15 41\n15 94\n43 61\n2 11\n18 23\n13 1\n12 9\n21 8\n22 98\n6 88\n3 27\n.5 59\n.7 6. 0\n12 G C 36\n2 BS\nE 40\n14 41\n51 90\n42 63\n4 11\n22 22\n12 8\n14 6\n22 0\n25 10\n1 6\n11 31\n31 .0\n65 .0\n6. 7\n13 BC\n36 4\nBS E\n19 8\n26 75\n51 31\n41 8\n6 16\n21 72\n10 8\n16 9\n19 65\n3 56\n6 24\n.3 50\n.1 5. 3\n14 BC\n36 9\nBS E\n41 14\n43 29\n85 40\n59 6\n10 19\n23 12\n5 13\n3 24\n9 24\n10 8\n6 15\n68 30\n.7 66\n.0 6. 8\n15 BC\n45 9\nBS E\n32 13\n43 00\n74 37\n52 3\n8 13\n19 95\n11 8\n24 5\n25 11\n6 5\n13 12\n34 .3\n70 .7\n7. 7\n16 PS\n25 43\n–3 BS\nE 33\n11 35\n11 70\n36 55\n9 10\n27 19\n10 1\n14 8\n22 6\n23 96\n5 74\n8 32\n.0 69\n.7 7. 0\n17 EL\nT1 1–\n19 A SE -E 18 EL T1 1– 18 A SE -E 19 EL T1 1– 17 A SE -E 20 PS 58 /2 54 –2 A SE\n-E 36\n19 45\n28 90\n51 54\n6 11\n25 10\n5 12\n5 10\n9 19\n0 19\n14 6\n5 64\n6 23\n.0 52\n.8 5. 2\n21 PS\n75 /1\n92 –2\nA SE\n-E 38\n12 46\n77 80\n41 46\n8 9\n15 20\n10 3\n13 7\n23 1\n25 14\n6 6\n10 25\n35 .5\n76 .3\n7. 8\n22 PS\n69 /2\n55 –3\nA SE\n-E 38\n13 47\n81 79\n45 47\n0 9\n17 22\n96 14\n0 26\n3 26\n15 2\n6 13\n43 34\n.9 76\n.8 8. 1\n23 PS\n69 /2\n51 –1\nA SE\n-E 39\n12 47\n59 79\n41 47\n9 9\n16 20\n10 3\n14 8\n20 9\n28 16\n3 7\n72 7\n38 .4\n82 .3\n8. 4\n24 D F8\n5– 10\n9 A SE -E 25 BC 45 1 A SE\n-E 42\n14 48\n84 86\n49 52\n1 10\n19 24\n11 3\n16 5\n21 1\n29 18\n1 9\n10 32\n41 .2\n90 .4\n9. 3\n26 BC\n45 5\nA SE\n-E 36\n13 47\n55 81\n48 48\n0 9\n16 24\n10 1\n14 4\n24 5\n27 17\n8 7\n15 40\n40 .1\n84 .6\n8. 8\nre pe at\n37 12\n45 69\n81 45\n48 3\n9 15\n24 10\n0 14\n2 25\n0 28\n19 5\n6 15\n14 40\n.3 85\n.7 8. 8\n27 BC\n48 5\nA SE\n-E 47\n14 49\n24 89\n49 54\n4 11\n21 27\n12 4\n18 0\n18 7\n32 19\n4 11\n97 9\n46 .0\n98 .5\n10 .1\n28 D F8\n5 96\n–1 A SE -E 29 PS 69 /2 99 –1 A SE\n-E 31\n13 43\n93 88\n50 56\n4 10\n16 18\n10 7\n12 7\n30 8\n21 11\n1 5\n66 2\n31 .1\n65 .8\n6. 9\n30 BC\n48 2\nA SE\n-E 43\n11 42\n84 74\n41 50\n9 9\n20 23\n10 2\n15 9\n13 9\n26 14\n4 10\n67 6\n38 .7\n80 .3\n8. 4\n31 BC\n47 6\nA SE\n-E 50\n14 47\n45 84\n54 52\n1 11\n23 24\n11 2\n20 3\n15 0\n30 13\n7 12\n73 2\n47 .0\n96 .7\n10 .3\n32 PS\n75 /1\n59 –1\nA SE\n-E 58\n13 46\n24 81\n53 47\n4 10\n24 18\n10 1\n21 3\n13 3\n30 13\n4 12\n71 1\n44 .5\n91 .9\n9. 8\n33 PS\n75 /1\n68 –1\nA SE\n-E 58\n13 54\n04 83\n47 50\n6 10\n19 15\n10 9\n21 0\n17 1\n36 21\n0 12\n61 5\n55 .0\n11 3. 1\n12 .0\n34 BC\n44 2\nA SE\n-E 42\n13 56\n84 90\n52 48\n9 11\n21 24\n11 7\n15 1\n22 4\n29 21\n9 8\n11 01\n42 .7\n92 .6\n9. 5\n35 BC\n44 3\nA SE\n-E 41\n14 53\n19 86\n51 50\n7 11\n21 35\n11 3\n14 6\n24 7\n29 19\n7 8\n20 80\n40 .6\n88 .7\n8. 9\n36 PS\n69 /2\n81 –3\nA SE\n-W 48\n13 58\n32 94\n46 57\n4 14\n23 19\n12 8\n16 3\n23 0\n34 26\n3 11\n59 8\n50 .9\n10 4. 5\n11 .1\n37 N BP\n07 –0\n2 A SE -W 38 BC 42 0 A SE\n-W 47\n17 61\n13 11\n9 62\n76 2\n16 28\n25 13\n4 15\n2 21\n1 31\n20 0\n9 66\n4 41\n.7 88\n.7 9. 3\n39 N BP\n00 –0 1 K C 24\nA SE\n-W\n40 BC\n42 1\nA SE\n-W 48\n16 56\n13 10\n6 57\n60 8\n13 24\n28 14\n0 15\n2 20\n0 28\n20 2\n9 64\n1 41\n.6 87\n.8 9. 1\n41 BC\n41 2\nA SE\n-W 49\n14 53\n95 11\n1 50\n72 2\n14 25\n33 14\n1 14\n6 20\n1 28\n17 9\n9 65\n8 40\n.4 85\n.6 9. 2\n42 N BP\n00 –0 1 K C 22\nA SE\n-W\n43 N BP\n00 –0 1 K C 21\nA SE\n-W\n44 N BP\n07 –0\n2 A SE -W 45 PS 69 /2 75 –2 A SE\n-W 57\n15 55\n61 12\n0 53\n54 2\n13 26\n37 17\n9 16\n5 19\n5 29\n21 4\n11 74\n7 43\n.5 95\n.1 9. 6\n46 BC\n40 7\nA SE\n-W 58\n15 58\n15 11\n6 53\n68 7\n14 26\n27 17\n5 15\n5 19\n8 28\n19 2\n10 62\n2 41\n.1 90\n.8 9. 4\nre pe at\n61 15\n57 09\n11 6\n53 65\n9 14\n26 26\n17 0\n15 9\n18 7\n28 19\n4 9\n59 7\n41 .8\n90 .2\n9. 1\n(c on\ntin ue d on\nne xt\npa ge )\nTa bl e 3 (c on\ntin ue d)\nC or e Si te\nSi te\nlo ca ti on\nSe ct or (a )\nLi Sc\nTi V\nC r\nM n\nC o\nN i\nC u\nZn R b\nSr Y\nZr C s\nBa La\nC e\nPr\n47 PS\n69 /2\n83 –5\nA SE\n-W 50\n14 58\n19 10\n1 52\n60 8\n13 26\n28 14\n9 15\n2 20\n2 27\n21 1\n9 59\n5 40\n.2 90\n.2 9. 0\n48 BC\n43 1\nA SE\n-W 43\n15 57\n26 10\n3 53\n61 0\n14 24\n27 13\n0 14\n6 24\n1 26\n19 4\n8 79\n9 40\n.1 88\n.7 8. 9\n49 BC\n43 3\nA SE\n-W 46\n15 55\n03 98\n44 59\n2 12\n22 41\n13 9\n15 2\n23 8\n29 25\n2 9\n22 12\n42 .3\n98 .4\n9. 2\n50 BC\n49 2\nA SE\n-W 43\n15 52\n59 93\n47 58\n1 12\n22 48\n12 9\n14 1\n24 0\n26 23\n5 8\n29 72\n36 .7\n88 .1\n8. 1\n51 EL\nT3 3–\n12 A SE -W 52 EL T3 3– 11 A SE -W 53 PS 25 45 –1 A SE\n-W 54\n14 58\n68 98\n47 66\n7 14\n27 37\n16 0\n14 6\n23 3\n25 17\n4 8\n54 6\n36 .5\n80 .2\n8. 1\n54 N BP\n00 –0 1 K C 17\nA SE\n-W\n55 N BP\n99 –0 2 PC\n21 W G\n56 N BP\n99 –0 2 TC\n23 W G\n25 13\n86 95\n94 64\n59 3\n16 25\n23 12\n5 98\n28 1\n22 24\n3 4\n47 9\n32 .3\n71 .0\n7. 4\n57 N BP\n00 –0 1 PC\n14 W G\n31 13\n77 12\n91 59\n62 9\n14 24\n27 12\n6 10\n3 28\n4 24\n23 7\n4 51\n3 34\n.3 77\n.1 7. 5\n58 PS\n75 /1\n33 –1\nW G\n31 11\n67 16\n76 45\n60 0\n10 18\n16 11\n4 10\n7 28\n7 26\n30 8\n4 65\n3 37\n.9 82\n.9 8. 5\n59 PS\n75 /1\n30 –2\nW G\n32 12\n67 36\n94 52\n67 4\n15 24\n19 11\n3 10\n6 34\n4 22\n22 7\n4 61\n8 35\n.3 75\n.2 7. 8\n60 D F8\n3- II I\nBC 28\nSB E\n76 15\n45 22\n98 78\n38 0\n13 34\n22 11\n5 21\n9 89\n26 11\n9 17\n58 8\n42 .5\n88 .6\n9. 6\n61 N BP\n96 –0 1 PC\n12 SB\nE 71\n15 45\n16 98\n81 37\n8 13\n35 21\n12 9\n22 3\n87 26\n11 7\n17 61\n7 42\n.9 90\n.7 9. 8\n62 N BP\n96 –0 1 TC\n13 SB\nE 71\n15 43\n02 10\n2 83\n36 5\n13 35\n22 11\n5 21\n9 77\n23 11\n0 16\n59 3\n43 .0\n89 .4\n9. 7\n63 N BP\n99 –0 2 G ra b2\n0 SB\nE\n64 D F8\n3 PC\n31 SB\nE 66\n14 41\n00 98\n81 32\n9 12\n32 22\n10 8\n21 2\n74 23\n11 1\n15 56\n8 42\n.2 88\n.9 9. 6\n65 D F8\n3- II I\nBC 26\nA SB\nE 81\n16 43\n43 10\n4 81\n39 2\n13 32\n23 11\n9 25\n7 93\n22 96\n20 67\n4 40\n.3 84\n.7 9. 1\n66 N BP\n96 –0 1 JT C 11\nSB E\n81 16\n44 74\n10 1\n79 37\n4 13\n31 22\n10 9\n25 8\n91 25\n94 19\n62 0\n45 .5\n95 .7\n10 .7\nre pe at\n97 15\n42 12\n10 1\n74 39\n1 12\n31 23\n11 3\n26 2\n85 29\n10 8\n19 59\n2 48\n.2 10\n0. 8\n10 .8\n67 D F8\n3- II I\nBC 33\nSB E\n78 16\n45 18\n10 1\n80 38\n5 13\n33 21\n11 9\n25 4\n92 23\n10 6\n20 66\n9 44\n.3 92\n.2 10\n.1\nC or e Si te\nN d\nSm Eu\nG d\nTb D y\nH o\nEr Y b\nLu H f\nPb Th\nU Sr /T\nh Sr /Z\nr Zr /Y\nTh /S\nc C e/ C e* (b )\nEu / Eu *( b)\n1 2 3 4 5 6 7 8 20\n.9 4. 1\n0. 9\n3. 5\n0. 6\n3. 3\n0. 7\n2. 1\n1. 9\n0. 3\n2. 2\n11 .4\n9. 0\n1. 7\n27 .3 5\n2. 95\n3. 98\n0. 60\n1. 05\n0. 77\n9 23\n.6 4. 6\n1. 0\n3. 9\n0. 6\n3. 6\n0. 8\n2. 2\n2. 2\n0. 3\n2. 6\n11 .9\n11 .0\n1. 9\n19 .4 2\n2. 21\n4. 26\n0. 78\n1. 04\n0. 71\n10 11 23\n.3 4. 5\n1. 0\n3. 8\n0. 6\n3. 5\n0. 7\n2. 1\n2. 2\n0. 3\n2. 8\n18 .0\n11 .7\n1. 8\n18 .6 1\n2. 22\n4. 45\n0. 80\n1. 06\n0. 73\n12 25\n.8 5. 0\n1. 1\n4. 2\n0. 7\n3. 9\n0. 8\n2. 3\n2. 4\n0. 4\n2. 7\n20 .3\n13 .3\n1. 9\n16 .5 2\n2. 19\n4. 01\n0. 92\n1. 03\n0. 70\n13 20\n.1 3. 8\n0. 8\n3. 2\n0. 5\n3. 0\n0. 6\n1. 8\n1. 9\n0. 3\n1. 8\n15 .1\n10 .1\n1. 3\n16 .7 3\n2. 59\n3. 48\n1. 20\n1. 02\n0. 70\n14 26\n.1 5. 0\n1. 1\n4. 2\n0. 7\n3. 8\n0. 8\n2. 3\n2. 2\n0. 3\n3. 0\n17 .0\n11 .7\n1. 9\n21 .2 3\n2. 31\n4. 56\n0. 84\n1. 05\n0. 73\n15 29\n.0 5. 5\n1. 1\n4. 5\n0. 7\n4. 0\n0. 8\n2. 4\n2. 5\n0. 4\n3. 2\n17 .1\n12 .0\n2. 0\n20 .4 0\n2. 11\n4. 64\n0. 93\n1. 00\n0. 69\n16 26\n.8 5. 0\n1. 1\n4. 1\n0. 6\n3. 8\n0. 8\n2. 3\n2. 1\n0. 3\n2. 6\n24 .8\n10 .2\n1. 6\n22 .1 4\n2. 36\n4. 18\n0. 91\n1. 07\n0. 75\n(c on\ntin ue d on\nne xt\npa ge )\nTa bl e 3 (c on\ntin ue d)\nC or e Si te\nN d\nSm Eu\nG d\nTb D y\nH o\nEr Y b\nLu H f\nPb Th\nU Sr /T\nh Sr /Z\nr Zr /Y\nTh /S\nc C e/ C e* (b )\nEu / Eu *( b)\n17 18 19 20 19\n.8 3. 9\n0. 8\n3. 2\n0. 5\n3. 0\n0. 6\n1. 8\n1. 9\n0. 3\n3. 4\n20 .1\n10 .5\n1. 5\n18 .0 3\n1. 30\n7. 71\n0. 56\n1. 11\n0. 72\n21 29\n.4 5. 5\n1. 1\n4. 5\n0. 7\n4. 0\n0. 8\n2. 4\n2. 4\n0. 4\n3. 7\n18 .1\n13 .5\n2. 2\n17 .1 3\n1. 58\n5. 83\n1. 11\n1. 06\n0. 69\n22 30\n.7 5. 8\n1. 1\n4. 7\n0. 7\n4. 2\n0. 9\n2. 6\n2. 5\n0. 4\n4. 2\n19 .4\n14 .1\n2. 4\n18 .6 3\n1. 72\n5. 90\n1. 12\n1. 05\n0. 67\n23 31\n.8 5. 9\n1. 1\n4. 8\n0. 8\n4. 4\n0. 9\n2. 7\n2. 5\n0. 4\n4. 2\n21 .0\n15 .6\n2. 5\n13 .4 5\n1. 29\n5. 85\n1. 30\n1. 06\n0. 64\n24 25 34\n.8 6. 5\n1. 1\n5. 2\n0. 8\n4. 7\n1. 0\n2. 8\n2. 9\n0. 4\n4. 6\n26 .0\n19 .7\n2. 8\n10 .7 3\n1. 17\n6. 29\n1. 45\n1. 06\n0. 60\n26 33\n.1 6. 1\n1. 1\n4. 9\n0. 8\n4. 4\n0. 9\n2. 6\n2. 6\n0. 4\n4. 7\n21 .0\n18 .4\n2. 6\n13 .3 5\n1. 38\n6. 57\n1. 42\n1. 03\n0. 61\n33 .4\n6. 2\n1. 2\n5. 1\n0. 8\n4. 6\n0. 9\n2. 7\n2. 7\n0. 4\n4. 9\n21 .8\n15 .0\n2. 5\n27 37\n.5 7. 1\n1. 2\n5. 7\n0. 9\n5. 2\n1. 1\n3. 1\n3. 1\n0. 5\n4. 8\n28 .0\n22 .8\n3. 5\n8. 21\n0. 96\n6. 08\n1. 62\n1. 05\n0. 57\n28 29 26\n.8 4. 9\n1. 1\n4. 0\n0. 6\n3. 6\n0. 7\n2. 1\n2. 1\n0. 3\n3. 0\n18 .8\n12 .5\n2. 0\n24 .5 6\n2. 79\n5. 15\n0. 96\n1. 03\n0. 76\n30 31\n.6 5. 8\n1. 0\n4. 6\n0. 7\n4. 1\n0. 9\n2. 4\n2. 5\n0. 4\n3. 8\n24 .2\n19 .5\n2. 8\n7. 14\n0. 97\n5. 63\n1. 70\n1. 02\n0. 57\n31 38\n.6 7. 1\n1. 2\n5. 7\n0. 9\n5. 0\n1. 0\n3. 0\n3. 0\n0. 4\n3. 9\n27 .6\n23 .9\n3. 5\n6. 30\n1. 10\n4. 50\n1. 67\n1. 01\n0. 59\n32 36\n.8 6. 7\n1. 2\n5. 5\n0. 9\n5. 0\n1. 0\n3. 0\n2. 8\n0. 4\n3. 6\n27 .1\n19 .6\n3. 1\n6. 79\n0. 99\n4. 46\n1. 50\n1. 01\n0. 60\n33 44\n.5 8. 1\n1. 3\n6. 6\n1. 0\n6. 0\n1. 2\n3. 5\n3. 3\n0. 5\n5. 1\n30 .6\n24 .8\n3. 6\n6. 90\n0. 81\n5. 84\n1. 98\n1. 01\n0. 54\n34 35\n.6 6. 7\n1. 2\n5. 3\n0. 8\n4. 8\n1. 0\n2. 8\n2. 9\n0. 4\n5. 5\n24 .2\n17 .2\n2. 6\n13 .0 7\n1. 02\n7. 50\n1. 28\n1. 06\n0. 63\n35 33\n.7 6. 3\n1. 2\n5. 2\n0. 8\n4. 6\n1. 0\n2. 7\n2. 8\n0. 4\n5. 0\n22 .1\n15 .7\n2. 5\n15 .7 5\n1. 26\n6. 87\n1. 14\n1. 07\n0. 63\n36 41\n.9 7. 7\n1. 3\n6. 2\n1. 0\n5. 7\n1. 1\n3. 2\n3. 0\n0. 5\n6. 4\n33 .0\n19 .9\n3. 1\n11 .5 5\n0. 88\n7. 68\n1. 52\n1. 01\n0. 58\n37 38 35\n.3 6. 8\n1. 2\n5. 5\n0. 9\n5. 1\n1. 1\n3. 0\n3. 0\n0. 4\n4. 8\n28 .0\n18 .7\n2. 7\n11 .2 5\n1. 05\n6. 46\n1. 09\n1. 03\n0. 62\n39 40 34\n.6 6. 4\n1. 2\n5. 3\n0. 8\n4. 6\n0. 9\n2. 7\n2. 7\n0. 4\n5. 0\n28 .3\n19 .5\n2. 8\n10 .2 3\n0. 99\n7. 09\n1. 25\n1. 04\n0. 61\n41 35\n.2 6. 7\n1. 2\n5. 4\n0. 8\n4. 6\n1. 0\n2. 6\n2. 6\n0. 4\n4. 7\n32 .9\n18 .5\n2. 6\n10 .8 5\n1. 12\n6. 39\n1. 28\n1. 02\n0. 61\n42 43 44 45 36\n.1 6. 8\n1. 2\n5. 4\n0. 8\n4. 8\n1. 0\n2. 8\n2. 7\n0. 4\n5. 2\n28 .8\n20 .5\n3. 9\n9. 52\n0. 91\n7. 26\n1. 33\n1. 07\n0. 58\n46 36\n.0 6. 7\n1. 2\n5. 5\n0. 9\n4. 8\n1. 0\n2. 8\n2. 6\n0. 4\n4. 7\n33 .8\n17 .9\n3. 1\n11 .0 4\n1. 03\n6. 74\n1. 20\n1. 06\n0. 60\n34 .7\n6. 5\n1. 2\n5. 3\n0. 8\n4. 7\n0. 9\n2. 7\n2. 6\n0. 4\n4. 6\n32 .9\n17 .1\n2. 9\n47 33\n.9 6. 4\n1. 2\n5. 1\n0. 8\n4. 6\n0. 9\n2. 7\n2. 5\n0. 4\n5. 1\n30 .8\n16 .8\n2. 5\n12 .0 5\n0. 96\n7. 94\n1. 18\n1. 09\n0. 62\n48 33\n.9 6. 4\n1. 2\n5. 1\n0. 8\n4. 4\n0. 9\n2. 5\n2. 6\n0. 4\n4. 9\n29 .4\n17 .8\n2. 4\n13 .5 9\n1. 25\n7. 33\n1. 17\n1. 08\n0. 64\n49 34\n.6 6. 5\n1. 2\n5. 2\n0. 8\n4. 8\n1. 0\n2. 8\n2. 8\n0. 4\n6. 0\n24 .7\n16 .9\n2. 4\n14 .0 3\n0. 94\n8. 64\n1. 15\n1. 15\n0. 63\n50 30\n.2 5. 7\n1. 1\n4. 6\n0. 7\n4. 2\n0. 9\n2. 5\n2. 5\n0. 4\n5. 7\n20 .6\n14 .0\n2. 1\n17 .1 5\n1. 02\n9. 18\n0. 91\n1. 18\n0. 65\n51 52 53 30\n.7 5. 8\n1. 1\n4. 7\n0. 7\n4. 1\n0. 8\n2. 4\n2. 3\n0. 3\n4. 2\n27 .4\n15 .1\n2. 2\n15 .4 0\n1. 34\n6. 98\n1. 04\n1. 07\n0. 63\n54 55 56 28\n.3 5. 4\n1. 3\n4. 6\n0. 7\n4. 1\n0. 8\n2. 3\n2. 1\n0. 3\n5. 6\n20 .7\n9. 9\n1. 6\n28 .4 2\n1. 16\n10 .8 8\n0. 77\n1. 06\n0. 82\n57 29\n.0 5. 5\n1. 3\n4. 7\n0. 7\n4. 2\n0. 8\n2. 4\n2. 2\n0. 3\n5. 4\n24 .5\n11 .3\n1. 7\n25 .0 7\n1. 20\n9. 76\n0. 88\n1. 10\n0. 77\n58 32\n.8 6. 2\n1. 5\n5. 0\n0. 8\n4. 3\n0. 9\n2. 4\n2. 3\n0. 3\n6. 9\n18 .6\n11 .2\n1. 8\n25 .6 3\n0. 93\n11 .8 2\n1. 05\n1. 06\n0. 82\n59 30\n.2 5. 8\n1. 3\n4. 6\n0. 7\n3. 9\n0. 8\n2. 2\n2. 1\n0. 3\n4. 9\n20 .0\n11 .2\n1. 6\n30 .7 9\n1. 52\n10 .3 1\n0. 92\n1. 04\n0. 77\n60 36\n.9 6. 9\n1. 2\n5. 4\n0. 8\n4. 5\n0. 9\n2. 6\n2. 5\n0. 4\n3. 2\n17 .7\n17 .7\n2. 2\n5. 03\n0. 75\n4. 61\n1. 20\n1. 01\n0. 60\n61 37\n.5 7. 0\n1. 2\n5. 4\n0. 8\n4. 5\n0. 9\n2. 6\n2. 5\n0. 4\n3. 2\n22 .7\n18 .1\n2. 3\n4. 78\n0. 74\n4. 49\n1. 19\n1. 02\n0. 60\n62 37\n.2 6. 9\n1. 2\n5. 2\n0. 7\n4. 0\n0. 8\n2. 3\n2. 2\n0. 3\n3. 0\n18 .1\n18 .3\n2. 3\n4. 20\n0. 70\n4. 77\n1. 19\n1. 01\n0. 59\n63 64 36\n.7 6. 9\n1. 2\n5. 2\n0. 8\n4. 1\n0. 8\n2. 3\n2. 4\n0. 3\n3. 1\n19 .3\n17 .5\n2. 2\n4. 24\n0. 67\n4. 76\n1. 25\n1. 02\n0. 61\n65 34\n.8 6. 4\n1. 1\n4. 9\n0. 7\n3. 9\n0. 8\n2. 2\n2. 1\n0. 3\n2. 7\n19 .5\n21 .4\n2. 4\n4. 35\n0. 97\n4. 40\n1. 35\n1. 01\n0. 58\n66 40\n.5 7. 5\n1. 1\n5. 6\n0. 8\n4. 5\n0. 9\n2. 5\n2. 3\n0. 3\n2. 7\n20 .5\n21 .7\n3. 6\n4. 21\n0. 97\n3. 75\n1. 36\n1. 00\n0. 54\n41 .1\n7. 6\n1. 2\n6. 0\n0. 9\n4. 8\n1. 0\n2. 7\n2. 5\n0. 4\n2. 9\n23 .2\n20 .6\n2. 3\n67 38\n.2 7. 1\n1. 1\n5. 3\n0. 8\n4. 3\n0. 9\n2. 4\n2. 3\n0. 4\n3. 0\n17 .9\n22 .4\n2. 6\n4. 12\n0. 88\n4. 50\n1. 43\n1. 00\n0. 56\nIsland (Leat et al., 1995; McCarron and Smellie, 1998; Ryan, 2005; Fig. 2, Appendix S2), recording the latest stage of the eastward-propagating cessation of ocean crust subduction under the Antarctic plate. Of particular interest are igneous rocks of ~12–14Ma (particularly of hornblende-bearing mafic dykes), 20–21, 47–68Ma and ~85Ma, which crop out along the coast of Marguerite Bay on the west side of the Antarctic Peninsula, and at the northern tip of Alexander Island (Fig. 2 e.g. Ryan, 2007; Appendix S2), and which could explain the majority of the mineral grain ages observed in the shelf sediments. The extensively outcropping metasedimentary rocks of Carboniferous to Cretaceous age on Alexander Island are depleted in amphiboles and micas (Pierce et al., 2014) and hence not captured in the offshore 40Ar/39Ar age record. The signature of these sedimentary rocks is however observed by qualitative petrographic analysis and fine-grained Sr and Nd isotope fingerprints. In particular, site 8 sediments contain quarzitic clasts (quartz, feldspars), fine-grained dark lithic clasts (mudstone?), and lithic clasts with a fine-grained pink matrix. This is consistent with erosion of the metasedimentary formation on Alexander Island, which is largely composed of feldspathic sandstone, siltstone and black mudstones (Burn, 1984), as well as igneous rocks (lava, tuffs) similar to the Tertiary volcanics present on the island (Care, 1983).\n6.1.2. Provenance of fine-grained detritus Outcrops of Cretaceous to Cenozoic plutonic and volcanic (< 97Ma) rocks are characterised by radiogenic Nd and Sr isotopic compositions (εNd ~-2 to 5; 87Sr/86Sr ~0.703–0.708; Pankhurst et al., 1988; McCarron and Smellie, 1998; Riley et al., 2001, 2003; Ryan, 2005, Fig. 4, Appendix S2), which are distinct from Jurassic to Cretaceous granitoids in the Antarctic Peninsula and the Amundsen Sea region (εNd: −8 to 0; 87Sr/86Sr ~0.703–0.715) (Fig. 4; Appendix S2). The Antarctic Peninsula Volcanic Group and/or nearby granitoids hence seem to be the likely source for the fine-grained detritus with relatively radiogenic values observed at site 1–4, most proximal to the Graham Land coast (Fig. 2; Table 2). Sites 7 and 8 are located near to the Alexander Island, where extensive occurrences of arkosic sedimentary rocks (Fig. 2, Doubleday et al., 1993) are characterized by less radiogenic Nd isotope values (εNd: −8 to −3; Fig. 3; Adams et al., 2005). The agreement between onshore data and our new offshore data indicate a local source for the marine sediments in the AP sector. We note, however, that a mixture between the granitic and volcanic rocks, which crop out on Alexander Island, could yield a similar isotopic fingerprint."
+  }, {
+    "heading": "6.2. Bellingshausen Sea (BS)",
+    "text": ""
+  }, {
+    "heading": "6.2.1. Provenance of ice-rafted detritus",
+    "text": "Bedrock exposures along the BS coast are extremely rare (Fig. 2) and limited to outcrops of some Cretaceous igneous rocks (Rb-Sr whole rock ages of 113 to 128Ma; Pankhurst and Rowley, 1991) and MioceneQuaternary volcanic rocks (Smellie, 1999; Hathway, 2001). Aeromagnetic investigations detected the ‘Pacific Margin Anomaly’ in the coastal region flanking the BS, notably in its eastern sector (Ferraccioli et al., 2006), which has been linked to mafic and intermediate basement rocks 40Ar/39Ar dated at 129–141Ma by (Maslanyj and Storey, 1990; Vaughan et al., 1998). Hornblende and biotite 40Ar/39Ar ages, extracted from our marine sediment samples, record a dominant age\ninterval of 74 to ~140Ma with well-defined age peaks of ~110Ma and ~99–108Ma, respectively. Onland source rock candidates for such ages are mid-Cretaceous felsic plutons intruding metasedimentary rocks in eastern Palmer Land (Fig. 2; 40Ar/39Ar dated to 95–119Ma; Vaughan et al., 2012b), and/or older terranes which have been affected by the amphibolite-grade thermo-metamorphic Palmer Land event at 103–107Ma (Wendt et al., 2008; Vaughan et al., 2012a). We suggest that this Palmer Land thermal event potentially affected large parts of the coast around the Bellingshausen Sea. Supporting evidence for this idea comes from the absence of mafic intrusion ages (i.e. Pacific Margin Anomaly; 129–141Ma) in the sedimentary record of the eastern BS sector. Furthermore, distinctively different geologies along the eastern and western coasts of the Bellingshausen Sea seem not to be reflected in the iceberg-rafted component of the offshore sediments, which show a narrow range of 40Ar/39Ar age populations in both hornblende and biotite grains between sites 11 and 13 indicating regional thermal resetting (Appendix S2; Fig. 2).\n6.2.2. Provenance of fine-grained detritus Surface sediments in the BS are characterized by lower Nd isotopic composition for a given 87Sr/86Sr value compared to the other sectors (εNd=−7.3 to −4.2, 87Sr/86Sr= 0.7097 to 0.7132; Fig. 4). Volcanic rocks of the Antarctic Peninsula Volcanic Group, situated inland of the BS coast (Figs. 2, 4), could provide the less radiogenic Nd isotopic compositions, but are Jurassic in age (~160–190Ma) and have high 87Sr/86Sr values (Riley et al., 2001). The Cenozoic alkali basalts have very high Nd and low Sr isotope values and thus are unlikely to explain the observed signature in the shelf sediments (Fig. 4). Furthermore, clay mineral data from shelf sediments in the BS sector (Table 2) make it unlikely that volcanic source rock from along the BS coast contribute significantly to the observed provenance of the glacial-marine sediments, because enhanced smectite contents (indicative of supply of volcanic detritus) are restricted to samples from the easternmost BS sector along the west coast of Alexander Island (Hillenbrand et al., 2009b). More negative εNd values, as well as felsic trace element patterns (high Th/Sc, Eu/Eu* and low Sr/Zr and Zr/Y), are consistent indicators of a more evolved source (e.g. McLennan et al., 1993), notably in the western BS sector. This observation is in agreement with the clay mineral composition of marine sediments along the southern coast of the BS (Hillenbrand et al., 2009b), which is characterised by high illite and low smectite contents (sites 11 to 12), indicating a granitic or gneissic source (Fig. 5). Felsic bedrock in the southern hinterland of the BS has indeed been inferred from aeromagnetic observations, with ilmenite-rich intrusions in the west contrasting with magnetite-rich counterparts to the east responsible for the Pacific Margin Anomaly (Ferraccioli et al., 2006)."
+  }, {
+    "heading": "6.3. Amundsen Sea",
+    "text": ""
+  }, {
+    "heading": "6.3.1. Provenance of ice-rafted detritus",
+    "text": "Ice-rafted hornblende and biotite grains in sediments from the AS are distinct from other sectors on the Pacific margin of West Antarctica because of the significant presence of 40Ar/39Ar ages> 140Ma (Fig. 3e, f). Predominant hornblende age peaks are ~100–110Ma, ~140–210Ma, ~250Ma and ~350Ma, and ~100–110Ma, ~170 and ~240Ma for biotite grains (Fig. 7). Similar age populations have been detected in coastal outcrops of mainly calc-alkaline igneous and metaigneous granitoid rocks around the ASE by using a variety of dating methods (Pankhurst et al., 1993, 1998; Mukasa and Dalziel, 2000; Kipf et al., 2012; Riley et al., 2017; Appendix S2).\nIn detail, sites proximal to the coast reveal a different provenance between the Walgreen Coast in the western AS, and the coast extending from Thurston Island towards Pine Island Bay in the eastern AS (Fig. 2). Sites 22 and 24–29 along the eastern AS coast are characterized by a large number of grains with ages from 140–210Ma, while grains from sites proximal to the Walgreen Coast (sites 38, 40–41 and 45) lack such\nages (Fig. 7). Ice-rafted debris (IRD) supplied by icebergs calved from of the Abbot and Cosgrove Ice Shelves (Fig. 2), as well as from Pine Island and/or Thwaites glaciers (sites 32–33) are likely sources for the observed 40Ar/39Ar ages of 140–210Ma. The unique geological signature of the Thurston Island block, with its characteristic Jurassic ages, was already specified by Pankhurst et al. (1993), based on biotite and hornblende K-Ar ages (~150Ma) and is also present in our offshore record.\nPeak Cretaceous ages for both hornblende and biotite grains are slightly but distinctively (~10Ma) different between the eastern and western ASE (Fig. 7). Hornblende and biotite grains supplied from the Walgreen Coast (western ASE) record ages of 108–110Ma, while erosion along the eastern ASE coast sheds grains with a pronounced ~100Ma age peak (Fig. 7). This difference in mineral age population between the western and eastern Amundsen Sea sectors can be related to the diachronous eastward cessation of subduction, and therefore a progression of calc-alkaline magmatism from Marie Byrd Land towards Thurston Island (Mukasa and Dalziel, 2000). Finally, a minor ~353Ma age peak is visible in ice-rafted hornblende grains, particularly at sites 18, 22 and 25–27 proximal to Thurston Island, but not in biotite grains (Fig. 2, 7; Appendix S1). Matching ages can be identified onland from a granodioritic orthogneiss formation cropping out on the eastern side of Thurston Island, which has been dated by zircon U-Pb to ~349Ma (Riley et al., 2017). Material from these outcrops could either be carried by icebergs into the eastern AS sector via the Antarctic Coastal Current, or similar outcrops could be located below ice streams feeding the Abbot Ice Shelf, which eventually calves into the eastern ASE.\nRocks cropping out along the Walgreen Coast have Cretaceous (~100–130Ma, zircon U-Pb and 40Ar/39Ar plateau) and Late Palaeozoic ages (~250Ma and ~350–500Ma, zircon U-Pb) (Pankhurst et al., 1998; Mukasa and Dalziel, 2000; Kipf et al., 2012). These ages are mostly found in the grains of the proximal offshore sediments, except for the 350–500Ma age interval, which may be absent due to the limited onshore occurrence of rocks of that age and the limited amount of grains analysed in the marine sediments.\nOne striking observation when comparing the geological map (Fig. 2) with the marine detrital mineral grain ages (Fig. 3) is the notable absence of ages that can be related to outcropping Late Cenozoic alkali basalt volcanoes (e.g. Hudson Mountains, Mount Murphy and Mount Takahe, Fig. 2), with the exception of site 49 from the continental slope. Explanations for this observation could either involve the limited extent of such lithologies below the erosive ice drainage compared to the igneous batholith, or the fact that hornblende and biotite grains are not present or are too fine-grained to be detected in the coarse (i.e.> 150 μm) fraction of marine samples, and hence not reflected in the 40Ar/39Ar age spectrum.\n6.3.2. Provenance of fine-grained detritus Similar to the 40Ar/39Ar ages of the ice-rafted grains, the Sr and Nd isotopic composition of the fine-grained sediments in the AS can be separated into an eastern and western sub-sector, broadly delimited by the extent of the Pine Island and Cosgrove-Abbot troughs in the East and the Dotson-Getz Trough in the West, which are incised into the continental shelf (Larter et al., 2014; Figs. 2, 4). Sediments in the western AS are characterized by a very homogeneous Sr and Nd isotope signature (εNd ~-2.9 to −1.8 and 87Sr/86Sr ~0.7082 to 0.7101), which correlates with the isotopic signature of Mesozoic granites and granodiorites observed in coastal outcrops (Fig. 4, 9). We note that sites 36 to 45 are located proximal to the Dotson Ice Shelf and various parts of the Getz Ice Shelf along the Walgreen Coast. The glaciers feeding into these ice shelves drain distinct, separate basins, but nevertheless the offshore sediment samples record very similar Sr and Nd isotope fingerprints. Site 39marks an exception to this general pattern (Fig. 2, 9), because it is characterized by distinctively higher εNd values, potentially due to a much localised source. Supply of material eroded from Palaeozoic granites seems to be a minor contributor to the fine-grained detritus,\nsimilar to what was observed for the IRD fraction from sites in this area. In the eastern AS, sediment recovered just in front of Pine Island Glacier (site 32) shows a different and distinct radiogenic isotope fingerprint (εNd=−7.2; 87Sr/86Sr= 0.7240; Table 2). This unradiogenic signature is unlikely to be related to proximal outcropping young volcanic rocks, which have more radiogenic (higher) εNd and lower Sr isotope ratios (εNd ~5; 87Sr/86Sr ~0.703; Hart et al., 1997). Seismic reflection and airborne potential field data provide evidence for a mixed bed below Pine Island Glacier, consisting of unconsolidated and consolidated sedimentary strata, basement rocks and igneous intrusives (Smith et al., 2013). Rocks similar to the Palaeozoic sedimentary outcrops on western Marie Byrd Land could be one candidate to contribute to the observed signature (Fig. 4). Petrographic studies on coarsegrained clasts (> 2mm) in seafloor surface sediments in a nearby core (PS75/215–1), however, found a largely granitic source for this IRD (Lindow et al., 2016). It is unclear whether the IRD originated from below Pine Island Glacier or from granitic islands cropping out in Pine Island Bay. Overall, given the presence of igneous basement and granitic IRD in shelf sediments proximal to Pine Island Glacier, we suggest that the distinctively low εNd values and high 87Sr/86Sr ratios in fine-grained detrital sediments at site 32 represent a significant input from evolved granites, which experienced significant crustal assimilation during mantle extraction (Fig. 4), or sedimentary infill eroded from this source. Such granites crop out further inland in the Jones Mountains and in the Ellsworth-Whitmore Mountains (Fig. 2, Pankhurst et al., 1993; Millar and Pankhurst, 1987). This interpretation is further supported by trace metal compositions showing low Th/Sc and Eu/Eu* (Fig. 6), and high Th/Zr ratios (see Table 3 for values). Such ratios are indicative of felsic rocks such as evolved granites or granites that encountered more crustal assimilation (e.g. McLennan et al., 1993; Taylor and McLennan, 1995).\nAlong the eastern flank of the AS sector, εNd values become consistently lower with increasing distance from inner Pine Island Bay, while 87Sr/86Sr values become higher, and eventually overlap with the composition of the local Mesozoic granites (Figs. 4, 9). A logical interpretation of this pattern is increasing input of material from the eastern coast of the ASE (between Thurston Island and Pine Island Glacier), where extensive Mesozoic granites are exposed (Figs. 4 and 9)."
+  }, {
+    "heading": "6.4. Wrigley Gulf-Hobbs Coast",
+    "text": ""
+  }, {
+    "heading": "6.4.1. Provenance of ice-rafted detritus",
+    "text": "The Hobbs Coast is characterized by granitoid outcrops with zircon U-Pb ages of ~115Ma at Mt. Petras (Figs. 2, 8), and similar ages elsewhere along the Ruppert Coast in migmatitic, anorogenic, and Itype granitoids (Mukasa and Dalziel, 2000). This age is well reflected in the 40Ar/39Ar ages of coarse hornblende and biotite grains in marine sediments from the WH sector with a dominance of ages between 90 and 130Ma, and slightly younger peak ages of ~100Ma and ~101Ma, respectively (Fig. 3g,h). Older Palaeozoic granitoids crop out along the Ruppert Coast and in the Ford Ranges. It is however, unlikely that such rocks are present below the drainage basin of the western Getz Ice Shelf, as they are rich in hornblende and biotite grains recording undisturbed K-Ar mineral ages of 324–375Ma (Adams, 1987), which we do not find in the age population of our grains. A secondary biotite 40Ar/39Ar age peak of ~53Ma detected at site 58 is more difficult to explain, as rocks of suitable ages are unknown from the local geology. Previous studies on IRD from sites 58 and 59 have focused on apatite fission track (AFT) thermochronology (Spiegel et al., 2016) and found widespread AFT ages of 60 to 80Ma. AFT thermochronology is based on the analysis of lattice damage caused by the spontaneous fission of radiogenic 238U. This method has a lower closure temperature of ~120°C, and Spiegel et al. (2016) correlated AFT ages of 60 to 80Ma with Cretaceous granitoids, which makes them an unlikely source for ~53Ma old biotite grains. Basement rocks with (post-) Miocene AFT cooling ages (~20Ma) on the other hand were interpreted by Spiegel et al. (2016) to reflect an unknown source under the Getz Ice Shelf drainage basin. This source is not found in proximal outcrops, but is likely to be composed of granitic and/or diorite material given the petrographic data on IRD (> 2mm) from the same site. These rocks could account for our observed ~53Ma 40Ar/39Ar age in the biotite population.\nA small number of young hornblende ages (< 10Ma, n=9) are found in the detrital sediments, tracing the erosion of young alkali basalts. Erosion of these volcanic rocks is further confirmed by petrographic IRD analysis carried out by Spiegel et al. (2016), revealing the contribution of ~40% from volcanogenic clasts that can be associated with the local alkali basalts. Given the extent of outcropping Cenozoic volcanic rocks in the hinterland of the WH sector (Fig. 2), the relative absence of a significant young age peak in our data signifies that these\nvolcanic rocks are likely to contain hornblende and biotite grains that are too small to be detected in coarse marine samples (i.e picked from>150 μm fraction).\n6.4.2. Provenance of fine-grained detritus The fine-grained detritus of the WH sector (and site 54 in the western AS, Fig. 2) has high εNd values and low 87Sr/86Sr ratios (Fig. 4), which can be explained by the two major lithologies cropping out along the Hobbs and Ruppert Coasts, the Late Cenozoic alkali basalts and\nCretaceous calc-alkaline granites (Fig. 2). Mixing calculations between these two end-members suggests a ~30% contribution from alkali basalts and ~70% contribution from Cretaceous granites to the sediments (average Mesozoic granitoids vs. average Late Cenozoic alkali basalts, Appendix S2). This assessment is in agreement with the petrographic IRD analysis by Spiegel et al. (2016) and further supported by trace element compositions of our detrital sediment samples, which indicate a mixture between a Mesozoic granitic end-member and Cenozoic alkali basalts (Fig. 4b). In detail, high Sr/Th (~28) and Zr/Y ratios (~10.5;\nTable 3) and slightly elevated Eu/Eu* ratios relative to the other studied sectors (~0.8) are all consistent with a significant contribution from mafic alkali basalts to the detrital composition of the seafloor sediments."
+  }, {
+    "heading": "6.5. Sulzberger Bay",
+    "text": ""
+  }, {
+    "heading": "6.5.1. Provenance of ice-rafted debris",
+    "text": "During the mid-Cretaceous, rifting of Zealandia from western Marie Byrd Land led to the intrusion of extensive anorogenic granitoids with K-Ar ages of ~98–105Ma (Richard et al., 1994; Adams et al., 1995). These rocks are predominantly exposed in the Ford Ranges and on Edward VII Peninsula, where they crop out alongside Palaeozoic granodiorites (i.e. Ford Granodiorite Suite) and Cambrian-Ordovician metasedimentary rocks (i.e. Swanson Formation) (Weaver et al., 1992; Adams et al., 1995, Fig. 2). The Ford Granodiorite Suite contains coarse hornblende and biotite grains with zircon U-Pb and K-Ar hornblende and biotite ages of 320–370Ma (Adams, 1987; Pankhurst et al., 1998). Predominant hornblende 40Ar/39Ar ages of 90 to 130Ma (peak age: ~100Ma; n=26) in marine sediments in SB indicate limited erosion from the Ford Granodiorite Suite, with the exception of two grains with ages of 347Ma and 510Ma (Appendix S1). A more likely source for the IRD in the SB sector is hence Edward VII Peninsula (Fig. 2). This conclusion seems in contrast to aeromagnetic investigations of the area, which inferred a larger extent for the Ford Granodiorite Suite on Edward VII Peninsula (Ferraccioli et al., 2002). Overall, however, our age distribution is in agreement with the ages of local A-type granites, the thermal overprinting ages and the absence of hornblende grains in the sedimentary Swanson Formation (Adams et al., 1995, see Pierce et al., 2014, for a discussion on durability of hornblende grains in the sedimentary cycle), which crops out extensively on Edward VII Peninsula.\n6.5.2. Provenance of fine-grained sediments In contrast to the IRD signature, low Nd (εNd: −11.9 to −10.5) and high Sr isotope values (87Sr/86Sr: 0.7411 to 0.7493) in the fine-grained detritus in the SB sector show a strong affinity to the metasedimentary Swanson Formation (εNd: −13.4 to −10.5 and 87Sr/86Sr: 0.7264 to 0.7618) (Pankhurst et al., 1998; Korhonen et al., 2010; Fig. 3). In detail, Nd isotopic compositions are slightly higher and Nd model ages are slightly younger (~1600Ma, Table 2) than documented for the Swanson Formation on land (1650–1800Ma; Appendix S2). An additional source is therefore needed to explain the observed signatures, which is readily found in the local A-type granites intruding the Swanson Formation on Edward VII Peninsula (Weaver et al., 1992). A mixture between Palaeozoic sediments from the Swanson Formation and Cretaceous anorogenic granitoids in the marine detrital sediments from the SB sector is further suggested by low Sr/Th ratios (4–5) and characteristic low Eu anomalies (Eu/Eu* ~ 0.6), and is consistent with coarse and fine-grained geochemical signatures in marine sediments from the area."
+  }, {
+    "heading": "7. Comparison of different provenance proxies",
+    "text": ""
+  }, {
+    "heading": "7.1. 40Ar/39Ar ages in hornblende vs biotite grains",
+    "text": "Combined analyses of 40Ar/39Ar ages from hornblende and biotite grains in detrital sediments allows for more detailed provenance\nanalysis due to the different closure temperatures of both minerals (~550°C and 300°C, respectively). In the case of East Antarctica, partial or total resetting of lower temperature thermochronometers has been observed in several sectors. For example, in detrital sediments from the Wilkes Land sector (90°E to 135°E), a characteristic ~1494Ma peak age is found in hornblende grains, but is absent from the biotite grains. This observation has been linked to partial resetting of biotite grain ages during the Grenville orogeny (Pierce et al., 2014).\nIn West Antarctica, coastal geology is dominated by Andean-style plutonism of Permian or younger age, resulting in large diorite, granodiorite, monzogranite and syenite intrusions, which in many cases are not overprinted by any major younger tectono-metamorphic events (except for the regional Palmer Land Event at 103–107Ma). If marine sediment sites are proximal enough to the continental source areas, which carry both large hornblende and biotite grains, as is the case for many of the West Antarctic plutonites, and if the erosional pathway from source to sink does not separate the two mineral phases by differential current sorting, combined biotite-hornblende 40Ar/39Ar data sets may be used to broadly support provenance interpretations by inferred cooling rates. We think that a case can be made as large parts of our data set meet these criteria. Overall, probability peaks of hornblende grain ages are similar to or slightly older than those of biotite grains around West Antarctica (Fig. 3). Both minerals record a dominant Cretaceous age peak (100–110Ma) in all sectors, apart from the AP sector (Fig. 3). This age interval is particularly well defined in most of the sectors and peak ages between both mineral systems vary by as little as ~2Ma in the detrital marine sediments (e.g. AS sector; Fig. 7). Because magmatic activity has been largely episodic (e.g. Pankhurst et al., 1993; Leat et al., 1995), we suggest that these ages point towards regional sources from the same lithological unit (i.e. batholith). Derived cooling rates for the Cretaceous source rocks would be extremely fast (~>100°C per million years between 550 and 350°C). To our knowledge, there are no detailed investigations on the cooling rates of Cretaceous I-type granitoids from West Antarctica. Concordant ages between zircon U-Pb ages, and reliable 40Ar/39Ar, K-Ar and Rb-Sr data have nonetheless been observed for intrusive I-type granites on Palmer Land (Pankhurst and Rowley, 1991; Flowerdew et al., 2005; Vaughan et al., 2012b). Thermochronological investigations on Cretaceous Atype granites in the Ford Ranges (‘Byrd Coast Granites’; Fig. 2) have revealed cooling rates of> 100°C/Ma, associated with granitic intrusion into the shallow crust (Richard et al., 1994). In South America, the emplacement of large Cretaceous plutonic rocks was coeval with the build-up of the Cretaceous batholith on West Antarctica. The midCretaceous plutonic complex in the Coastal Range of central Chile show similar rapid cooling of gabbro to granodiorite suites (93 to 95Ma based on coupled 40Ar/39Ar hornblende, biotite and plagioclase ages), and similar crystallization ages of the same batholith (95–97Ma; zircon U-Pb ages; (Parada et al., 2005; Ferrando et al., 2014). Another comparison can be made for the eastern AS, where detrital hornblende grains yield well-defined ages of ~257Ma and biotite grains record a younger age of 240Ma (Fig. 7). This age difference would imply an approximate cooling rate of ~15°C per million years for the PermianTriassic source rocks. This result is consistent with cooling rates of similarly aged dioritic to granodioritic rocks from Thurston Island (~12.5°C/Ma based on K/Ar and 40Ar/39Ar on hornblende and biotite; Pankhurst et al., 1993) and calc-alkaline diorites of the Median Batholith in New Zealand (~20°C per million years, Mortimer et al., 1999), which formed the continuation of the Amundsen Sea province prior to the onset of rifting (Bradshaw et al., 1997; Vaughan and Storey, 2000).\nOffshore from the Walgreen Coast, pre-Cretaceous (> 140Ma) biotite grains are relatively rare compared to hornblende grains (Fig. 7). This observation is explained either by the presence of intermediate to mafic sources which carry more hornblende than biotite (i.e. granodiorite and diorite; Pierce et al., 2014), or by thermal resetting of biotite ages during the Cretaceous. Permian diorite and granodiorite outcrops of ~243Ma and ~283Ma (zircon U-Pb, Mukasa and Dalziel, 2000)\nhave been identified in the Kohler Range, which is fed by ice streams flowing towards the Walgreen Coast, and could hence indicate a (minor) mineralogical bias towards biotite in the area.\nIn several locations, a marked distinction between the two chronometers is observed in the offshore record. In addition to the previously mentioned exotic biotite ages of ~53Ma in the WH sector, hornblende ages of ~350Ma, which are absent in the biotite record, were found in the eastern AS sector (Fig. 7). Comparison with the proximal geology relate these ages to the emplacement of a granodioritic-orthogneiss on Thurston Island (Rb-Sr whole rock: ~309Ma, Pankhurst et al., 1993; zircon U-Pb: ~349Ma, Riley et al., 2017). These gneisses show evidence for realignment and recrystallization of biotite crystals, indicating that a thermal event is likely to have affected the cooling ages of these crystals, possibly during later intrusions of the widespread Permian-Triassic plutonic rocks (~240Ma)."
+  }, {
+    "heading": "7.2. Fine-grained sediment provenance derived from radiogenic isotopes and trace elements versus clay mineralogy",
+    "text": "Along the Pacific margin of West Antarctica, most of the previous provenance work has focussed on the analysis of mineral assemblages in the clay fraction (< 2 μm), which was published by Hillenbrand and Ehrmann (2002), Hillenbrand et al. (2003, 2009b) and Ehrmann et al. (2011). In this study, we expanded the existing clay mineral data set by analysing additional samples from the Wrigley Gulf-Hobbs Coast sector (Table 2). We here show that the combined study of clay mineralogy and fine-grained sediment fingerprints provides complimentary information on their onshore source.\nIn the AP and BS sectors, high illite content in shelf sediments (45–70 %) has been found offshore from the eastern tip of Alexander Island, as well as in the western part of the BS sector (Table 2; Hillenbrand and Ehrmann, 2002; Hillenbrand et al., 2003). The high abundance of illite in these areas was suggested to originate from granitic and gneissic sources. Assumption of a granitic-gneissic source on Alexander Island is based on the presence of plutonic rocks in the eastern part of the island (i.e. the Rouen Mountains; Care, 1983) and the dominance of quartz-mica schistose/gneissic pebbles believed to be derived from the Rouen Mts. in subglacial tills recovered in cores from the nearby shelf (Kennedy and Anderson, 1989). However, erosion of these Tertiary rocks would produce a more radiogenic isotopic fingerprint in the fine-grained material of site 6 than what is observed (εNd ~ 2 and 87Sr/86Sr ~ 0.705; McCarron and Smellie, 1998) (Fig. 4). We suggest that the extensively outcropping accretionary sedimentary rocks on Alexander Island (LeMay Formation), which was shown to have high illite content (e.g. Underwood and Pickering, 1996) and Nd isotope values of ~ −8 to −3 (Fig. 4), are the more likely source rocks for the fine-grained fraction.\nThe trace element fingerprint (e.g. Th/Sc, Eu/Eu*) of shelf sediments in the BS reveals a mafic eastern sector and a felsic western sector (Fig. 6). This finding is confirmed by the clay mineral composition of the sediments that contain up to 66% illite and only 7% smectite in the western part of this sector, while in the eastern part of the sector 44% illite and 20% smectite are found (Hillenbrand et al., 2009b). In addition, these observations agree with geophysical surveys, which suggested a felsic composition of the hinterland of the western BS (i.e. Central Domain Eastern Zone; Ferraccioli et al., 2006). Shelf sediments further offshore record a mixed signature between these end-members (Hillenbrand et al., 2009b), which is consistent with our new data. For example, site 15 (εNd=−6.2, Th/Sc=0.93 and illite= 52%) shows detrital contribution from both end-members (Tables 2 and 3). Based on the clay mineral assemblage in the BS, Hillenbrand et al. (2003) proposed sediment material being carried northward by wind- and tidedriven currents without significant influence of the westward-driven coastal current. This fits with our observations, implying a similar sediment transport for the fine-grained sediment (< 63 μm).\nIn the AS sector, high kaolinite content in shelf sediments (up to 30\n%) has been suggested to originate from pre-Oligocene sedimentary rocks beneath the Pine Island and Thwaites glaciers (Hillenbrand et al., 2003; Ehrmann et al., 2011), probably sourced from the Byrd Subglacial Basin (Fig 2). Such sedimentary rocks do not crop out in the hinterland of the AS (Fig. 2), making their geochemical signature elusive. The comparison between clay mineralogy and the fine-grained geochemistry yields clear correlations between kaolinite content and trace elements (not shown in figures). For example, hafnium (Hf), zirconium (Zr), and Nd exhibit a positive correlation with kaolinite content (R2= 0.67, 0.62 and 0.62, respectively), while a negative correlation can be observed between kaolinite content and Sr/Zr ratios (R2= 0.83). In general, kaolinite is associated with chemical weathering of bedrock under warm and humid conditions (Biscaye, 1965), and if it is found in Antarctica today, it is assumed to be derived from pre-Oligocene sedimentary strata as it cannot form under glacial conditions (e.g. Ehrmann et al., 1992). High Field Strength Elements (HFSEs) such as Zr or Hf, on the other hand, tend to be immobile during chemical weathering and remain in the residues of weathering while lithophile elements (i.e. Sr) are preferentially leached away. Hence, it is tempting to suggest that correlation between kaolinite and Sr/Zr is related to the presence of weathered outcrops in the hinterland. However, we do not observe a relationship between kaolinite and 87Sr/86Sr ratios, making glacial weathering a less likely candidate, and instead favour a provenance change as an explanation for Sr concentrations and isotopic compositions."
+  }, {
+    "heading": "8. Geochemical signature of ice drainage basins and influence of marine sediment transport",
+    "text": "Detailed geochemical characterization of the sediment provenance offshore from individual ice drainage basins gives valuable information on the integrated signature of subglacial geology and dispersal of glacially eroded detritus onto the shelf and further into the deep sea. It also provides the necessary modern day understanding how to use provenance analyses for palaeo-ice sheet reconstructions from marine downcore records (e.g. for East Antarctica; Cook et al., 2013, 2017; Pierce et al., 2017). The relatively young geological history of West Antarctica means that individual ice drainage basins will show less pronounced geochemical differences when compared to East Antarctica (e.g. Pierce et al., 2011, 2014) or the North Atlantic (e.g. Hemming, 2004). For instance, Pb analyses of K-feldspars grains have been shown to be a valuable tool for distinguishing erosional inputs from West and East Antarctic source terranes (Flowerdew et al., 2012). However, Pb isotopic values are remarkably uniform on West Antarctica due to the exclusively mantle-derived sources for the exposed crystalline bedrock (Mukasa and Dalziel, 2000; Flowerdew et al., 2012). Our multi-proxy approach nevertheless allows us to distinguish distinct ice drainage basins within West Antarctica as well as sediment transport pathways."
+  }, {
+    "heading": "8.1. Coarse-grained detrital sediment signature and potential transport pathways",
+    "text": "The modern IRD in the Southern Ocean is supplied by melting of calved icebergs. Ice-rafting has been described as the main mechanism for the transport of coarse detritus from the Antarctic continent to the pelagic realm as ocean currents can only transport finer sediments (e.g. Diekmann and Kuhn, 1999). The westward flowing Antarctic Coastal Current is of particular relevance, as it dominates the transport of icebergs in proximity to the coast (e.g. Stammerjohn et al., 2015; Kim et al., 2016a; Fig. 8). We find a strong contrast in IRD provenance patterns between the AP and the BS sectors (Figs. 3, 8). Relatively young ages observed in the AP sector are sourced from the west coast of the Antarctic Peninsula, where outcrops of magmatic rocks of Late Cretaceous to Cenozoic ages produced by the eastward migration of the active subduction of the (proto-) Pacific plate under West Antarctica during that time are widespread (Leat et al., 1995). This can be\nexplained by the fact that most icebergs from the Antarctic Peninsula are deflected northwards into the ACC by cyclonic gyres on the shelf before reaching the BS sector (e.g. Hofmann et al., 1996; Smith et al., 1999; cf. Hillenbrand et al., 2003) (Fig. 8).\nIn the BS sector, the 40Ar/39Ar hornblende and biotite ages are relatively uniform in proximal and distal sediments and record sources with a strong mid-Cretaceous thermo-metamorphic event related to suturing between the western/central domains with the eastern domain of the Antarctic Peninsula (Fig. 1). These ages are not found in the AP sector. A large cyclonic gyre in the southern Bellingshausen Sea deflects the coastal current along the eastern flank of Thurston Island (~95°W) (Gladstone et al., 2001; Assmann et al., 2005; cf. Hillenbrand et al., 2003), injecting most of the icebergs into the ACC. Some westward IRD transport may also occur within the Antarctic Coastal Current, but this is difficult to trace due to the ubiquitous nature of mid-Cretaceous thermochronological ages around West Antarctica (Fig. 8, Appendix S1).\nMost of the outcrops in the AS sector are located around Thurston Island and along the Walgreen Coast, where ice streams are feeding into the Abbott and Cosgrove and the Dotson and Getz ice shelves, respectively (Fig. 2). Proximal ice-rafted grains in these two areas show similar mid-Cretaceous and Permian-Triassic ages (~100Ma and ~250Ma), but are distinct from the other sectors by the presence of grains with Jurassic ages (140–210Ma), which mainly occur offshore from the Abbott and Cosgrove ice shelves (Fig. 7, 8). Although the numbers of grains analysed in samples just offshore from Pine Island Glacier (n=1) and Thwaites Glacier (n=9) are low, they also include grains of Jurassic ages (Appendix S1). This shows that the main source for Jurassic hornblende and biotite grains to the AS sector (and offWest Antarctica) originates from the Cosgrove and Abbott ice shelves and from the Pine Island and Thwaites glaciers. In addition, surface currents in the ASE are influenced by the Antarctic Coastal Current. This current is overall weak (~1.0 cm s−1) within the embayment, but appears strongest near the coastline (Assmann et al., 2005; Stammerjohn et al., 2015; Kim et al., 2016a). We observe Jurassic grains at sites on the continental slope and rise offshore from Dotson-Getz Trough (sites 50–52). We suggest that icebergs that drift generally westwards within the ASE (e.g. Mazur et al., 2017) transport the Jurassic grains from the eastern ASE to these locations, which are all situated south of the southern boundary of the ACC (Figs. 2, 8).\nIn general, IRD in samples from the continental slope and rise in the Amundsen Sea shows a larger age population (~30–80Ma) than IRD on the continental shelf (Fig. 8). This feature is particularly pronounced around 70°S latitude. Source areas for grains of this age range could be either the western AP or the Hobbs Coast (sites 58–59) (Figs. 3, 8), both of which would require iceberg drift in opposing directions. Support for an AP provenance comes from petrographic observations on PlioPleistocene ice-rafted cobbles at DSDP Leg 35 Site 324 (located offshore from site 17) that show a provenance from Alexander Island (Tucholke et al., 1976; Veevers and Saeed, 2013). An argument against a far-travelled signal from the AP, however, is the lack of significant numbers of hornblende and biotite grains of this age range in the BS, as well as the existence of the large gyre in the BS, which carries most of the icebergs north-east towards the ACC (e.g. Assmann et al., 2005) (Fig. 8). Oceanographic observations indicate that sites at around 70°S in the Amundsen Sea are located within the eastward flow of the ACC (Orsi et al., 1995; Stammerjohn et al., 2015). This suggests that the source of the ~30–80Ma old grains at the corresponding sites lies to the west. Indeed, our samples from the Hobbs Coast shelf show a well-defined ~50Ma age peak, which indicates this area as the potential source for these young detrital grains (Fig 3h). The corresponding sites are located proximal to the westernmost Getz Ice Shelf. While the ~54Ma age is unknown from onshore outcrops, it could represent a hidden source under the ice (cf. Spiegel et al., 2016). At present, icebergs calving from the westernmost Getz Ice Shelf drift westwards with the Antarctic Coastal Current towards the Ross Sea and are injected into the ACC\noffshore from Sulzberger Bay (Merino et al., 2016; Tournadre et al., 2016)."
+  }, {
+    "heading": "8.2. Fine-grained detrital sediment signature and potential transport pathways",
+    "text": "In the modern Southern Ocean, coarse grained terrigenous debris is typically transported by icebergs, which follow wind-driven surface currents. Fine-grained sediments are also transported by these icebergs, but suspended particulates can additionally be transported by meltwater plumes, tidal, thermohaline, and geostrophic currents, as well as gravitational downslope processes such as turbidity currents (e.g. Aitken and Bell, 1998; Pudsey and Camerlenghi, 1998; Diekmann and Kuhn, 1999). Similar to the sand provenance signature, the geochemical fingerprint of the studied proximal fine-grained glacial-marine sediments off West Antarctica matches the nearby coastal geology very well, excluding a significant contribution of dust, which plays a more important role for the deposition of fine-grained detritus in the SubAntarctic Pacific sector of the Southern Ocean (e.g. Lamy et al., 2014). The fingerprint of sediments can be traced offshore, revealing the transport pathway of fine grains across the continental shelves.\nIn the AP sector, similarities in the radiogenic isotope fingerprint of site 7 on the shelf and site 8 located on the continental rise suggest seaward transport of detrital particles originating from the metasedimentary rocks on Alexander Island (Table 2, Fig. 9). Such a transport pathway across the western Antarctic Peninsula continental shelf has been described before for fine-grained terrigenous detritus (Hillenbrand and Ehrmann, 2002). In the BS, proximal sites denote felsic and mafic sources in both its western and eastern parts, consistent with aeromagnetic observations in the area (Ferraccioli et al., 2006; Bingham et al., 2002). Following the Belgica palaeo-ice stream Trough northwards, sediments record a mixing signature between these two areas, which has previously been attributed by wind- and tidal-driven currents (Hillenbrand et al., 2003, 2009).\nA good example of bathymetrically constrained dispersal of finegrained detritus is observed in the AS sector. Provenance of sediments proximal to the Pine Island and Thwaites glaciers is distinct, pointing to a felsic source or igneous rock with a geochemical signature of enhanced crustal assimilation underneath these two major ice drainage basins. Progressive northward change in sediment provenance along the eastern AS requires that sediment with this distinct fingerprint is transported northwards, and diluted along the way with PalaeozoicMesozoic source rocks along the eastern flank of the ASE (Fig. 9). The fact that samples from Dotson-Getz Trough show a uniform fine-grained fingerprint indicates that no significant cross shelf transport of finegrained particles from further east or west occurred, as this would be recognizable in the radiogenic isotope signature of the samples. A candidate for the observed undiluted northward sediment transport is the northward return flow of upwelled Circumpolar Deep Water, after interacting with the base of the ice shelves, as Antarctic Surface Water (Jenkins et al., 2016). Observation from autonomous underwater vehicles found melt-laden outflow from ice shelves in the ASE to carry suspended sediment, which is sourced from the sediment-laden base of the ice shelves (Jenkins et al., 2016; Miles et al., 2016). This sedimentladen meltwater reaches the mid-depths of the water column and is transported northwards along the bathymetric troughs (e.g. Kim et al., 2016b). Release of this suspended particulate matter occurs notably along its main transport pathway, explaining the consistent provenance signatures of fine-grained sediment along the cross-shelf troughs in the ASE.\n8.3. The geochemical fingerprint of West Antarctic provenance regions in the Pacific sector of the Southern Ocean\nAn integrated provenance approach allows for a characterization of subglacial sources from individual ice drainage basins along the Pacific\nmargin of West Antarctica. Figure 10 presents provenance characteristics compiled from our new data set and previously published studies for five different West Antarctic sectors. An erosional source from the Antarctic Peninsula is best identified by a predominance of 40Ar/39Ar\nages spanning 30–90Ma in coarse-grained IRD and a very radiogenic fingerprint of fine-grained detrital sediments (εNd up to +0.9 and 87Sr/86Sr ratios down to 0.705). The only other West Antarctic area that exhibits similar characteristics is the Hobbs Coast, where most biotite\nand hornblende 40Ar/39Ar ages are, however, older (90–140Ma) and Nd model ages are younger (700 to 770Ma). Both areas are also relatively far apart from each other, which should not impede their respective identification in down-core studies on marine sediment cores collected proximal to these source regions. The Bellingshausen Sea sector shows a predominance of IRD 40Ar/39Ar ages around ~110Ma, which are similar to those from the Wrigley Gulf-Hobbs Coast sector (~100Ma), but the fine-grained detritus in the former sector has lower Nd values and higher 87Sr/86Sr ratios (εNd=−4.3 to −7.2; 87Sr/86Sr= 0.710–0.713), as well as significantly older Nd model ages (1180–1350Ma). The oldest protolith ages in West Antarctica are indicated by Nd model ages of 1570 to 1700Ma in Sulzberger Bay, which also stands out by the unradiogenic isotope fingerprint of fine-grained detrital sediments (εNd< -10.6; 87Sr/86Sr> 0.741).\nFinally, a more detailed picture starts emerging for the Amundsen\nSea sector, the locus of major glacial ice loss in Antarctica today. While both the eastern and western AS sub-sectors are characterized by hornblende and biotite ages of ~110Ma and 240–260Ma, ages of 140 to 210Ma are more prevalent in the eastern ASE. Furthermore, source rocks to the eastern ASE seem to extend to older Nd model ages (up to 1300Ma, εNd=−7.2) than in the western ASE (900–1000Ma, εNd=−1.7 to −2.9). Further studies are required to reveal whether this observation points to a distinct bedrock source under Pine Island Glacier, a result with major implications for tracing past WAIS retreat and collapse."
+  }, {
+    "heading": "9. Conclusions",
+    "text": "We here report for the first time a detailed geochemical approach to unraveling different provenance sectors along the Pacific margin of\nWest Antarctica. By investigating the fingerprints of fine-grained terrigenous detritus and coarse-grained ice-rafted debris in ice-sheet proximal to distal marine sediments of Late Holocene age, we draw the following conclusions:\n(1) Thermochronological 40Ar/39Ar dating on individual mineral grains highlights the Phanerozoic history of West Antarctica. Hornblende and biotite ages can be readily associated with extensively outcropping granites and granodiorites and allow us to distinguish the following sectors: Antarctic Peninsula (~52 and ~74Ma), Bellingshausen Sea, Wrigley Gulf-Hobbs Coast and Sulzberger Bay sectors (~100–110Ma) and Amundsen Sea sector (~100–110Ma and ~140 to 360Ma). 40Ar/39Ar dating of hornblende and biotite grains is less suitable for detecting Late Cenozoic alkali basalts and metasedimentary units around West Antarctica (i.e. mineralogical or grain-size bias). (2) Strontium (Sr) and neodymium (Nd) isotopic compositions in finegrained detrital sediments match the coastal geology, and observed geochemical variability can be readily related to genetic and lithological differences in source rocks. Data range from radiogenic values around the (young) Antarctic Peninsula (εNd=−3.6 to +0.9; 87Sr/86Sr= 0.705–0.709) to less radiogenic values around the Sulzberger Bay, where mantle extraction ages point to a much older protolith (up to 1700Ma). An exciting finding is a potentially distinct geological source (i.e. Cretaceous granites that experienced extensive crustal assimilation) beneath Pine Island Glacier, which was identified in the radiogenic isotope composition of fine-grained sediments near its calving front. While major Palaeozoic to Mesozoic geological units in West Antarctica are identified in the provenance of the marine sediments, the fine fraction analyses prove particularly useful in detecting Late Cenozoic alkali basalts and metasedimentary rocks, as well as distinguishing A-type granites and granites with pronounced crustal assimilation signatures. (3) Despite an overall small variation of trace element compositions in marine detrital sediments off West Antarctica, they nevertheless complement isotopic provenance analyses and are broadly indicative of mafic and felsic source rocks. Significant variability within individual ice drainage basins may prove useful for provenance studies on the local to regional scale, as indicated by contrasting hinterland geology between the eastern and western Bellingshausen Sea, the eastern and western Amundsen Sea embayment, Wrigley Gulf-Hobbs Coast and Sulzberger Bay. (4) Combined provenance studies on different size fractions of detrital sediments enable monitoring of modern sediment transport pathways. For example, the occurrence of ~140–210Ma old ice-rafted grains in the western Amundsen Sea sector, which originate from the eastern coast of the Amundsen Sea Embayment, highlights the modern pathway of wind-driven iceberg trajectories within the area. On the other hand, fine-grained sediments can additionally be transported by currents, as exemplified by an evolving radiogenic isotope signature from Pine Island Bay towards the shelf break.\nOur study highlights the importance of integrated studies for identifying the geochemical fingerprints of individual ice drainage basins around West Antarctica. Such modern-day studies do not only provide the basis for any attempts to reconstruct ice drainage patterns and ice sheet extent in West Antarctica during the past, but also allow valuable insights into the geology under the ice. Towards this end it would be beneficial to conduct future work on building a large and comprehensive onshore and offshore data base of U-Pb zircon ages."
+  }, {
+    "heading": "Acknowledgments",
+    "text": "P. Simões Pereira acknowledges the Kristian Gerhard Jebsen Foundation for supporting his PhD scholarship. S. Brachfeld and C. Doherty acknowledge support from National Science Foundation grant\n0348274. We thank B. Coles and K. Kreissig for their assistance in the lab, W. Ehrmann for analysing the clay mineral assemblages on several samples and T. Riley for constructive discussions. We also thank the shipboard scientific parties, captains, officers and crews of the various expeditions. The careful and constructive comments of the two anonymous reviewers are gratefully acknowledged. This research used samples provided by the Antarctic Marine Geology Research Facility (AMGRF) formerly at Florida State University."
+  }, {
+    "heading": "Appendix A. Supplementary data",
+    "text": "Supplementary data to this article can be found online at https:// doi.org/10.1016/j.earscirev.2018.04.011."
+  }],
+  "year": 2018,
+  "references": [{
+    "title": "Geochronology of granite terranes in the Ford Ranges",
+    "authors": ["C.J. Adams"],
+    "venue": "Marie Byrd Land, West Antarctica. N. Z. J. Geol. Geophys",
+    "year": 1987
+  }, {
+    "title": "Geochronology of Cretaceous granites and metasedimentary basement on Edward VII Peninsula",
+    "authors": ["C.J. Adams", "D. Seward", "S.D. Weaver"],
+    "venue": "Marie Byrd Land, West Antarctica. Antarct. Sci",
+    "year": 1995
+  }, {
+    "title": "Nd and Sr isotopic signatures of metasedimentary rocks around the South Pacific margin and implications for their provenance",
+    "authors": ["C.J. Adams", "R.J. Pankhurst", "R. Maas", "I.L. Millar"],
+    "venue": "Terrane Processes at the Margins of Gondwana",
+    "year": 2005
+  }, {
+    "title": "Holocene glacimarine sedimentation and macrofossil palaecology in the Canadian High Arctic: environmental controls",
+    "authors": ["A.E. Aitken", "T.J. Bell"],
+    "venue": "Mar. Geol",
+    "year": 1998
+  }, {
+    "title": "The subglacial geology of Wilkes Land, East Antarctica",
+    "authors": ["A.R.A. Aitken", "D.A. Young", "F. Ferraccioli", "P.G. Betts", "J.S. Greenbaum", "T.G. Richter", "J.L. Roberts", "D.D. Blankenship", "M.J. Siegert"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2014
+  }, {
+    "title": "Persistent inflow of warm water onto the central Amundsen shelf",
+    "authors": ["L. Arneborg", "A.K. Wåhlin", "G. Björk", "B. Liljebladh", "A.H. Orsi"],
+    "venue": "Nat. Geosci",
+    "year": 2012
+  }, {
+    "title": "Amundsen Sea ice production and transport",
+    "authors": ["K.M. Assmann", "H.H. Hellmer", "S.S. Jacobs"],
+    "venue": "J. Geophys. Res",
+    "year": 2005
+  }, {
+    "title": "Variability of circumpolar deep water transport onto the Amundsen Sea continental shelf through a shelf break trough",
+    "authors": ["K. Assmann", "A. Jenkins", "D. Shoosmith", "D. Walker", "S.S. Jacobs", "K. Nicholls"],
+    "venue": "J. Geophys. Res",
+    "year": 2013
+  }, {
+    "title": "Reassessment of the potential sea-level rise from a collapse of the West Antarctic",
+    "authors": ["J.L. Bamber", "R.E.M. Riva", "B.L.A. Vermeersen", "A.M. LeBrocq"],
+    "venue": "Ice Sheet. Science",
+    "year": 2009
+  }, {
+    "title": "Hf and Nd isotopes in marine sediments: constraints on global silicate weathering",
+    "authors": ["G. Bayon", "K.W. Burton", "G. Soulet", "N. Vigier", "B. Dennielou", "J. Etoubleau", "E. Ponzevera", "C.R. German", "R.W. Nesbitt"],
+    "venue": "Earth Planet. Sci",
+    "year": 2009
+  }, {
+    "title": "Inland thinning of West Antarctic Ice Sheet steered along subglacial rifts",
+    "authors": ["R.G. Bingham", "F. Ferraccioli", "E.C. King", "R.D. Larter", "H.D. Pritchard", "A.M. Smith", "D.G. Vaughan"],
+    "venue": "Nature 487,",
+    "year": 2002
+  }, {
+    "title": "Mineralogy and sedimentation of recent deep-sea clay in Atlantic Ocean and adjacent seas and oceans",
+    "authors": ["P.E. Biscaye"],
+    "year": 1965
+  }, {
+    "title": "Rb-Sr isotope systematics of a granitic soil chronosequence: the importance of biotite weathering",
+    "authors": ["J. Blum", "Y. Erel"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1997
+  }, {
+    "title": "Antarctica — Before and after Gondwana",
+    "authors": ["S.D. Boger"],
+    "venue": "Gondwana Res",
+    "year": 2011
+  }, {
+    "title": "New Zealand Superterranes recognized in Marie Byrd Land and Thurston Island",
+    "authors": ["J.D. Bradshaw", "R.J. Pankhurst", "S.D. Weaver", "B.C. Storey", "R.J. Muir", "T.R. Ireland"],
+    "venue": "The Antarctic Region: Geological Evolution and Processes,",
+    "year": 1997
+  }, {
+    "title": "The geology of the LeMay Group, Alexander Island",
+    "authors": ["R.W. Burn"],
+    "venue": "Sci. Rep. Br. Antarct. Surv",
+    "year": 1984
+  }, {
+    "title": "Autochthonous v. accreted terrane development of continental margins: a revised in situ tectonic history of the Antarctic Peninsula",
+    "authors": ["A. Burton-Johnson", "T.R. Riley"],
+    "venue": "J. Geol",
+    "year": 2015
+  }, {
+    "title": "The petrology of the Rouen Mountains, northern Alexander Island",
+    "authors": ["B.W. Care"],
+    "venue": "Br. Antarct. Surv. Bull",
+    "year": 1983
+  }, {
+    "title": "Terra Australis Orogen: Rodinia breakup and development of the Pacific and Iapetus margins of Gondwana during the Neoproterozoic and Paleozoic",
+    "authors": ["P.A. Cawood"],
+    "venue": "Earth Sci. Rev",
+    "year": 2005
+  }, {
+    "title": "Sr-Nd-Pb isotope evidence for ice-sheet presence on Southern Greenland during the last interglacial",
+    "authors": ["E.J. Colville", "A.E. Carlson", "B.L. Beard", "R.G. Hatfield", "J.S. Stoner", "A.V. Reyes", "D.J. Ullman"],
+    "venue": "Science",
+    "year": 2011
+  }, {
+    "title": "Expedition 318 Scientists, I.O.D.P",
+    "authors": ["C.P. Cook", "T. van de Flierdt", "T. Williams", "S.R. Hemming", "M. Iwai", "M. Kobayashi", "F.J. Jimenez-Espejo", "C. Escutia", "J.J. González", "Khim", "B.-K", "R.M. McKay", "S. Passchier", "S. Bohaty", "C.R. Riesselman", "L. Tauxe", "S. Sugisaki", "A.L. Galindo", "M.O. Patterson", "F. Sangiorgi", "E.L. Pierce", "H. Brinkhuis"],
+    "year": 2013
+  }, {
+    "title": "Sea surface temperature control on the distribution of far-travelled Southern Ocean ice-rafted detritus during the Pliocene",
+    "authors": ["C.P. Cook", "D.J. Hill", "T. van de Flierdt", "T. Williams", "S.R. Hemming", "A.M. Dolan", "E.L. Pierce", "C. Escutia", "D. Harwood", "G. Cortese", "J.J. Gonzales"],
+    "venue": "Paleoceanography 29",
+    "year": 2014
+  }, {
+    "title": "Glacial erosion of East Antarctica in the Pliocene: a comparative study of multiple marine sediment provenance tracers",
+    "authors": ["C.P. Cook", "S.R. Hemming", "T. van de Flierdt", "E.L. Pierce Davis", "T. Williams", "A.L. Galindo", "F.J. Jimenez-Espejo", "C. Escutia"],
+    "venue": "Chem. Geol",
+    "year": 2017
+  }, {
+    "title": "Tectonic evolution of the Pacific margin of Antarctica 2. Structure of Late Cretaceous–early Tertiary plate boundaries in the Bellingshausen Sea from seismic reflection and gravity data",
+    "authors": ["A.P. Cunningham", "R.D. Larter", "P.F. Barker", "K. Gohl", "F.O. Nitsche"],
+    "venue": "J. Geophys. Res. Solid Earth",
+    "year": 2002
+  }, {
+    "title": "Irradiation of samples for 40Ar/39Ar dating using the Geological Survey TRIGA reactor. In: U.S. Geological Survey Professional Paper 1176",
+    "authors": ["G.B. Dalrymple", "E.C. Alexander Jr.", "M.A. Lanphere", "G.P. Kraker"],
+    "year": 1981
+  }, {
+    "title": "West Antarctica: problem child of Gondwanaland",
+    "authors": ["I.W.D. Dalziel", "D.H. Elliot"],
+    "venue": "Tectonics 1",
+    "year": 1982
+  }, {
+    "title": "Contribution of Antarctica to past and future sea-level rise",
+    "authors": ["R.M. DeConto", "D. Pollard"],
+    "venue": "Nature 531,",
+    "year": 2016
+  }, {
+    "title": "Provenance and dispersal of glacial–marine surface sediments in the Weddell Sea and adjoining areas, Antarctica: ice-rafting versus current transport",
+    "authors": ["B. Diekmann", "G. Kuhn"],
+    "venue": "Mar. Geol",
+    "year": 1999
+  }, {
+    "title": "40Ar/39Ar hornblende provenance clues about Heinrich event 3 (H3)",
+    "authors": ["G.E. Downing", "S.R. Hemming", "A. Jost", "M. Roy"],
+    "venue": "Geol. Soc. Lond., Spec. Publ.,",
+    "year": 2013
+  }, {
+    "title": "Particle flux on the continental shelf in the Amundsen Sea Polynya and western Antarctic Peninsula",
+    "authors": ["H.W. Ducklow", "S.E. Wilson", "A.F. Post", "S.E. Stammerjohn", "M. Erickson", "S.H. Lee", "K.E. Lowry", "R.M. Sherrell", "P.L. Yager"],
+    "venue": "Elem. Sci. Anth",
+    "year": 2015
+  }, {
+    "title": "Significance of clay mineral assemblages in the Antarctic Ocean",
+    "authors": ["W.U. Ehrmann", "M. Melles", "G. Kuhn", "H. Grobe"],
+    "venue": "Mar. Geol",
+    "year": 1992
+  }, {
+    "title": "Provenance changes between recent and glacial-time sediments in the Amundsen Sea embayment, West Antarctica: clay mineral assemblage evidence",
+    "authors": ["W.U. Ehrmann", "Hillenbrand", "C.-D", "J.A. Smith", "A.G.C. Graham", "G. Kuhn", "R.D. Larter"],
+    "venue": "Antarct. Sci",
+    "year": 2011
+  }, {
+    "title": "Grain size separation and sediment mixing in Arctic Ocean sediments: evidence from the strontium isotope systematic",
+    "authors": ["A. Eisenhauer", "H. Meyer", "V. Rachold", "T. Tütken", "B. Wiegand", "B.T. Hansen", "R.F. Spielhagen", "F. Lindemann", "H. Kassens"],
+    "venue": "Chem. Geol",
+    "year": 1999
+  }, {
+    "title": "Generation and fate of glacial sediments in the central Transantarctic Mountains based on radiogenic isotopes and implications for reconstructing past ice dynamics",
+    "authors": ["G.L. Farmer", "K. Licht"],
+    "venue": "Quat. Sci",
+    "year": 2016
+  }, {
+    "title": "Provenance of Late Quaternary ice-proximal sediments in the North Atlantic: Nd, Sr and Pb isotopic evidence",
+    "authors": ["G.L. Farmer", "D. Barber", "J. Andrews"],
+    "venue": "Earth Planet. Sci",
+    "year": 2003
+  }, {
+    "title": "Isotopic constraints on the provenance of fine-grained sediment in LGM tills from the Ross Embayment, Antarctica",
+    "authors": ["G.L. Farmer", "K. Licht", "R.J. Swope", "J. Andrews"],
+    "venue": "Earth Planet. Sci",
+    "year": 2006
+  }, {
+    "title": "Aeromagnetic signatures over western Marie Byrd Land provide insight into magmatic arc basement, mafic magmatism and structure of the Eastern Ross Sea",
+    "authors": ["F. Ferraccioli", "E. Bozzo", "D. Damaske"],
+    "venue": "Rift flank. Tectonophysics",
+    "year": 2002
+  }, {
+    "title": "New aerogeophysical view of the Antarctic Peninsula: more pieces, less puzzle",
+    "authors": ["F. Ferraccioli", "P.C. Jones", "A.P.M. Vaughan", "P.T. Leat"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2006
+  }, {
+    "title": "Aeromagnetic exploration over the East Antarctic Ice Sheet: a new view of the Wilkes Subglacial",
+    "authors": ["F. Ferraccioli", "E. Armadillo", "T. Jordan", "E. Bozzo", "H. Corr"],
+    "venue": "Basin. Tectonophysics",
+    "year": 2009
+  }, {
+    "title": "A paleomagnetic and magnetic fabric study of the Illapel Plutonic Complex, Coastal Range, central Chile: implications for emplacement mechanism and regional tectonic evolution during the mid-Cretaceous",
+    "authors": ["R. Ferrando", "P. Roperch", "D. Morata", "C. Arriagada", "G. Ruffet", "M.L. Córdova"],
+    "venue": "J. S. Am. Earth Sci",
+    "year": 2014
+  }, {
+    "title": "Age and tectonic significance of the Lassiter Coast Intrusive Suite, eastern Ellsworth Land, Antarctic Peninsula",
+    "authors": ["M.J. Flowerdew", "I.L. Millar", "A.P.M. Vaughan", "R.J. Pankhurst"],
+    "venue": "Antarct. Sci",
+    "year": 2005
+  }, {
+    "title": "Distinguishing East and West Antarctic sediment sources using the Pb isotope composition of detrital K-feldspar",
+    "authors": ["M.J. Flowerdew", "S. Tyrrell", "T.R. Riley", "M.J. Whitehouse", "R. Mulvaney", "P.T. Leat", "H.R. Marschall"],
+    "year": 2012
+  }, {
+    "title": "Bedmap2: improved ice bed, surface and thickness datasets for Antarctica",
+    "authors": ["P Fretwell"],
+    "venue": "Cryosphere",
+    "year": 2013
+  }, {
+    "title": "Nd and Sr isotopic studies on Cenozoic mafic lavas from West Antarctica - another source for continental alkali basalts",
+    "authors": ["K. Futa", "W.E. LeMasurier"],
+    "venue": "Contrib. Mineral. Petrol",
+    "year": 1983
+  }, {
+    "title": "The mean composition of ocean ridge basalts",
+    "authors": ["A. Gale", "C.A. Dalton", "C.H. Langmuir", "Y. Su", "J.G. Schilling"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2013
+  }, {
+    "title": "Continental sedimentary processes decouple Nd and Hf isotopes",
+    "authors": ["M. Garçon", "C. Chauvel", "C. France-Lanord", "P. Huyghe", "J. Lavé"],
+    "venue": "Geochim. Cosmochim. Acta 121,",
+    "year": 2013
+  }, {
+    "title": "Settling-equivalence of detrital minerals and grain-size dependence of sediment composition",
+    "authors": ["E. Garzanti", "S. Andò", "G. Vezzoli"],
+    "venue": "Earth Planet. Sci. Lett. 273,",
+    "year": 2008
+  }, {
+    "title": "Grain-size dependence of sediment composition and environmental bias in provenance studies",
+    "authors": ["E. Garzanti", "S. Andò", "G. Vezzoli"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2009
+  }, {
+    "title": "Iceberg trajectory modelling and meltwater injection in the Southern Ocean",
+    "authors": ["R.M. Gladstone", "G.R. Bigg", "K.W. Nicholls"],
+    "venue": "J. Geophys. Res",
+    "year": 2001
+  }, {
+    "title": "Long-lived isotopic tracers in oceanography, paleoceanography, and ice-sheet dynamics. In: Treatise on Geochemistry",
+    "authors": ["S.L. Goldstein", "S.R. Hemming"],
+    "year": 2003
+  }, {
+    "title": "Provenance of icebergs during Heinrich event 3 and the contrast to their sources during other Heinrich episodes",
+    "authors": ["R.H. Gwiazda", "S.R. Hemming", "W.S. Broecker"],
+    "venue": "Paleoceanography",
+    "year": 1996
+  }, {
+    "title": "Circulation and Modification of warm deep water on the Central Amundsen Shelf",
+    "authors": ["H.K. Ha", "A.K. Wåhlin", "T.W. Kim", "S.H. Lee", "J.H. Lee", "H.J. Lee", "C.S. Hong", "L. Arneborg", "G. Björk", "O. Kalén"],
+    "venue": "J. Phys. Oceanogr",
+    "year": 2014
+  }, {
+    "title": "Diffusion of 40Ar in hornblende",
+    "authors": ["T.M. Harrison"],
+    "venue": "Contrib. Mineral. Petrol",
+    "year": 1982
+  }, {
+    "title": "Diffusion of 40Ar in biotite: temperature, pressure and compositional effects",
+    "authors": ["T.M. Harrison", "I. Duncan", "I. Dougall"],
+    "venue": "Geochim. Cosmochim",
+    "year": 1985
+  }, {
+    "title": "Hobbs Coast Cenozoic volcanism: implications for the West Antarctic rift system",
+    "authors": ["S.R. Hart", "J. Blusztajn", "W.E. LeMasurier", "D.C. Rex"],
+    "venue": "Chem. Geol",
+    "year": 1997
+  }, {
+    "title": "Sims Island: first data from a Pliocene alkaline volcanic centre in eastern Ellsworth Land",
+    "authors": ["B. Hathway"],
+    "venue": "Antarct. Sci",
+    "year": 2001
+  }, {
+    "title": "Heinrich events: massive late Pleistocene detritus layers of the North Atlantic and their global climate imprint",
+    "authors": ["S.R. Hemming"],
+    "venue": "Rev. Geophys. 42,",
+    "year": 2004
+  }, {
+    "title": "Ice-rafted detritus evidence from Ar-40/Ar-39 ages of individual hornblende grains for evolution of the eastern margin of the Laurentide ice sheet since 43 C-14",
+    "authors": ["S.R. Hemming", "I. Hajdas"],
+    "venue": "ky. Quat. Int",
+    "year": 2003
+  }, {
+    "title": "Provenance of Heinrich layers in core V28-82, northeastern Atlantic: Ar-40/Ar-39 ages of ice-rafted hornblende, Pb isotopes in feldspar grains, and Nd-Sr-Pb isotopes in the fine sediment fraction",
+    "authors": ["S.R. Hemming", "W.S. Broecker", "W.D. Sharp", "G.C. Bond", "R.H. Gwiazda", "J.F. McManus", "M. Klas", "I. Hajdas"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 1998
+  }, {
+    "title": "Strontium isotope tracing of terrigenous sediment dispersal in the Antarctic Circumpolar Current: Implications for constraining frontal positions",
+    "authors": ["S.R. Hemming", "T. van de Flierdt", "S.L. Goldstein", "A.M. Franzese", "M. Roy", "G. Gastineau", "G. Landrot"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2007
+  }, {
+    "title": "Distribution of clay minerals in drift sediments on the continental rise west of the Antarctic Peninsula, ODP Leg 178, Sites 1095 and 1096",
+    "authors": ["Hillenbrand", "C.-D", "W. Ehrmann"],
+    "venue": "Proc. ODP Sci. Results. 178",
+    "year": 2002
+  }, {
+    "title": "No evidence for a Pleistocene collapse of the West Antarctic Ice Sheet from continental margin sediments recovered in the Amundsen Sea",
+    "authors": ["Hillenbrand", "C.-D", "D.K. Fütterer", "H. Grobe", "T. Frederichs"],
+    "venue": "Geo-Mar. Lett",
+    "year": 2002
+  }, {
+    "title": "Distribution of clay minerals and proxies for productivity in surface sediments of the Bellingshausen and Amundsen seas (West Antarctica) - Relation to modern environmental conditions",
+    "authors": ["Hillenbrand", "C.-D", "H. Grobe", "B. Diekmann", "G. Kuhn", "D.K. Fütterer"],
+    "venue": "Mar. Geol",
+    "year": 2003
+  }, {
+    "title": "Record of a Mid-Pleistocene depositional anomaly in West Antarctic continental margin sediments: an indicator for icesheet collapse",
+    "authors": ["Hillenbrand", "C.-D", "G. Kuhn", "T. Frederichs"],
+    "venue": "Quat. Sci. Rev",
+    "year": 2009
+  }, {
+    "title": "Clay mineral provenance of sediments in the southern Bellingshausen Sea reveals drainage changes of the West Antarctic Ice Sheet during the Late Quaternary",
+    "authors": ["Hillenbrand", "C.-D", "W. Ehrmann", "R.D. Larter", "S. Benetti", "J.A. Dowdeswell", "C. Ó Cofaigh", "A.G.C. Graham", "H. Grobe"],
+    "venue": "Mar. Geol",
+    "year": 2009
+  }, {
+    "title": "The sedimentary legacy of a palaeo-ice stream on the shelf of the southern Bellingshausen Sea: clues to West Antarctic glacial history during the Late Quaternary",
+    "authors": ["Hillenbrand", "C.-D", "R.D. Larter", "J.A. Dowdeswell", "W. Ehrmann", "C. Ó Cofaigh", "S. Benetti", "A.G.C. Graham", "H. Grobe"],
+    "venue": "Quat. Sci. Rev",
+    "year": 2010
+  }, {
+    "title": "Age assignment of a diatomaceous ooze deposited in the western Amundsen Sea Embayment after the Last Glacial Maximum",
+    "authors": ["Hillenbrand", "C.-D", "J.A. Smith", "G. Kuhn", "O. Esper", "R. Gersonde", "R.D. Larter", "B. Maher", "S.G. Moreton", "T.M. Shimmield", "M. Korte"],
+    "venue": "J. Quat. Sci",
+    "year": 2010
+  }, {
+    "title": "Grounding-line retreat of the West Antarctic Ice Sheet from inner Pine Island Bay",
+    "authors": ["Hillenbrand", "C.-D", "G. Kuhn", "J.A. Smith", "K. Gohl", "A.G.C. Graham", "R.D. Larter", "J.P. Klages", "R. Downey", "S.G. Moreton", "M. Forwick", "D.G. Vaughan"],
+    "year": 2013
+  }, {
+    "title": "2017. West Antarctic Ice Sheet retreat drive by Holocene warm water intrusions",
+    "authors": ["Hillenbrand", "C.-D", "J.A. Smith", "D.A. Hodell", "M. Greaves", "C.R. Poole", "S. Kender", "M. Williams", "T.J. Andersen", "P.E. Jernas", "H. Elderfield", "J.P. Klages", "S.J. Roberts", "K. Gohl", "R.D. Larter", "G. Kuhn"],
+    "venue": "Nature 547,",
+    "year": 2017
+  }, {
+    "title": "Water mass distribution and circulation west of the Antarctic Peninsula and including bransfield strait",
+    "authors": ["E.E. Hofmann", "J.M. Klinck", "C.M. Lascara", "D.A. Smith"],
+    "year": 1996
+  }, {
+    "title": "Tectonic controls on the geochemical compositions of Cenozoic mafic alkaline volcanic rocks from West Antarctica",
+    "authors": ["M.J. Hole", "W.E. LeMasurier"],
+    "venue": "Contrib. Mineral. Petrol",
+    "year": 1994
+  }, {
+    "title": "Ice and ocean processes in the Bellingshausen Sea",
+    "authors": ["P.R. Holland", "A. Jenkins", "D.M. Holland"],
+    "venue": "Antarctica. J. Geophys. Res",
+    "year": 2010
+  }, {
+    "title": "Stronger ocean circulation and increased melting under Pine Island Glacier ice shelf",
+    "authors": ["S.S. Jacobs", "A. Jenkins", "C.F. Giulivi", "P. Dutrieux"],
+    "venue": "Nat. Geosci",
+    "year": 2011
+  }, {
+    "title": "Getz ice shelf melting response to changes in ocean forcing",
+    "authors": ["S.S. Jacobs", "C. Giulivi", "P. Dutrieux", "E. Rignot", "F. Nitsche", "J. Mouginot"],
+    "venue": "J. Geophys. Res",
+    "year": 2013
+  }, {
+    "title": "Sm–Nd isotopic evolution of chondrites",
+    "authors": ["S.B. Jacobsen", "G.J. Wasserburg"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 1980
+  }, {
+    "title": "Observations beneath Pine Island Glacier in West Antarctica and implications for its retreat",
+    "authors": ["A. Jenkins", "P. Dutrieux", "S.S. Jacobs", "S.D. McPhail", "J.R. Perrett", "A.T. Webb", "D. White"],
+    "venue": "Nat. Geosci",
+    "year": 2010
+  }, {
+    "title": "Decadal ocean forcing and Antarctic ice sheet response: Lessons from the Amundsen Sea",
+    "authors": ["A. Jenkins", "P. Dutrieux", "S.S. Jacobs", "E.J. Steig", "G.H. Gudmundsson", "J.A. Smith", "E.J. Heywood"],
+    "venue": "Oceanography",
+    "year": 2016
+  }, {
+    "title": "Crustal architecture of the Wilkes Subglacial Basin in East Antarctica, as revealed from airborne gravity data",
+    "authors": ["T.A. Jordan", "F. Ferraccioli", "E. Armadillo", "E. Bozzo"],
+    "venue": "Tectonophysics",
+    "year": 2013
+  }, {
+    "title": "Inland extent of the Weddell Sea Rift imaged by new aerogeophysical data",
+    "authors": ["T.A. Jordan", "F. Ferraccioli", "N. Ross", "H.F.J. Corr", "P.T. Leat", "R.G. Bingham", "D.M. Rippin", "A. le Brocq", "M.J. Siegert"],
+    "venue": "Tectonophysics 585,",
+    "year": 2013
+  }, {
+    "title": "Stability of the West Antarctic ice sheet in a warming world",
+    "authors": ["I. Joughin", "R. Alley"],
+    "venue": "Nat. Geosci",
+    "year": 2011
+  }, {
+    "title": "Marine Ice Sheet Collapse Potentially Under Way for the Thwaites Glacier Basin, West Antarctica",
+    "authors": ["I. Joughin", "B.E. Smith", "B. Medley"],
+    "year": 2014
+  }, {
+    "title": "Stability of ice-sheet grounding lines",
+    "authors": ["R.F. Katz", "M.G. Worster"],
+    "venue": "Proc. R. Soc. A",
+    "year": 2010
+  }, {
+    "title": "Glacial-marine sedimentation and quaternary glacial history of Marguerite Bay, Antarctic Peninsula",
+    "authors": ["D.S. Kennedy", "J.B. Anderson"],
+    "venue": "Quat. Res",
+    "year": 1989
+  }, {
+    "title": "Sinking particle flux in the sea ice zone of the Amundsen Shelf, Antarctica",
+    "authors": ["M. Kim", "J. Hwang", "H. Kim", "D. Kim", "E. Yang", "H.W. Ducklow", "H.S. La", "S.H. Lee", "J. Park"],
+    "venue": "Deep-Sea Res",
+    "year": 2015
+  }, {
+    "title": "Variability of the Antarctic Coastal current in the Amundsen Sea",
+    "authors": ["Kim", "C.-S", "T.-W", "Cho", "K.-H", "H.K. Ha", "S.H. Lee", "H.-C", "Lee", "J.-H"],
+    "venue": "Estuar. Coast. Shelf Sci",
+    "year": 2016
+  }, {
+    "title": "The distribution of glacial meltwater in the Amundsen Sea, Antarctica, revealed by dissolved helium and neon",
+    "authors": ["I. Kim", "D. Hahm", "T.S. Rhe", "T.W. Kim", "Kim", "C.-S", "S.H. Lee"],
+    "venue": "Journal of Geophysical Research: Oceans",
+    "year": 2016
+  }, {
+    "title": "Granitoids and dykes of the Pine Island Bay region, West Antarctica",
+    "authors": ["A. Kipf", "N. Mortimer", "R. Werner", "K. Gohl", "P. van de Bogaard", "F. Hauff", "K. Hoernle"],
+    "venue": "Antarct. Sci",
+    "year": 2012
+  }, {
+    "title": "Grain-size analyses of mica within sediments and the hydraulic equivalence of mica and quartz",
+    "authors": ["P.D. Komar", "J. Baba", "B. Cui"],
+    "venue": "J. Sediment. Petrol",
+    "year": 1984
+  }, {
+    "title": "Synchronizing rock clocks of earth history",
+    "authors": ["K.F. Kuiper", "A. Deino", "F.J. Hilgen", "W. Krijgsman", "P.R. Renne", "J.R. Wijbrans"],
+    "venue": "Science",
+    "year": 2008
+  }, {
+    "title": "Increased dust deposition in the pacific Southern ocean during glacial periods",
+    "authors": ["F. Lamy", "R. Gersonde", "G. Winckler", "O. Esper", "A. Jaeschke", "G. Kuhn", "J. Ullermann", "A. Martinez-Garcia", "F. Lambert", "R. Kilian"],
+    "venue": "Science 343,",
+    "year": 2014
+  }, {
+    "title": "Effects of ridge crest-trench interaction on AntarcticPhoenix Spreading: Forces on a young subducting plate",
+    "authors": ["R.D. Larter", "P.F. Barker"],
+    "venue": "J. Geophys. Res. Solid Earth",
+    "year": 1991
+  }, {
+    "title": "Tectonic evolution of the Pacific margin of Antarctica 1. Late Cretaceous tectonic reconstructions",
+    "authors": ["R.D. Larter", "A.P. Cunningham", "P.F. Barker", "K. Gohl", "F.O. Nitsche"],
+    "venue": "J. Geophys. Res. Solid Earth",
+    "year": 2002
+  }, {
+    "title": "Reconstruction of changes in the Amundsen Sea and Bellingshausen Sea sector of the West Antarctic Ice Sheet since the Last Glacial Maximum",
+    "authors": ["Larter", "R.D"],
+    "venue": "Quat. Sci",
+    "year": 2014
+  }, {
+    "title": "On the Antarctic Peninsula batholith",
+    "authors": ["P.T. Leat", "J.H. Scarrow", "I.L. Millar"],
+    "venue": "Geol. Mag",
+    "year": 1995
+  }, {
+    "title": "A redetermination of the isotopic abundances of atmospheric Ar",
+    "authors": ["Lee", "J.-Y", "K. Marti", "J.P. Severinghaus", "K. Kawamura", "Yoo", "H.-S", "J.B. Lee", "J.S. Kim"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 2006
+  }, {
+    "title": "The Marie Byrd Land volcanic province and its relation to the Cainozoic West Antarctic rift system",
+    "authors": ["W.E. LeMasurier", "D.C. Rex"],
+    "year": 1991
+  }, {
+    "title": "Analysis of Antarctic glacigenic sediment provenance through geochemical and petrologic applications",
+    "authors": ["K.J. Licht", "S.R. Hemming"],
+    "venue": "Quat. Sci. Rev",
+    "year": 2017
+  }, {
+    "title": "Erosion and transport by Byrd Glacier, Antarctica during the Last Glacial Maximum",
+    "authors": ["K.J. Licht", "E.F. Palmer"],
+    "venue": "Quat. Sci. Rev",
+    "year": 2013
+  }, {
+    "title": "The U-Pb detrital zircon signature of West Antarctic ice stream tills in the Ross embayment, with implications for Last Glacial Maximum ice flow reconstructions",
+    "authors": ["K.J. Licht", "A.J. Hennessy", "B.M. Welke"],
+    "venue": "Antarct. Sci",
+    "year": 2014
+  }, {
+    "title": "Exhumation history along the eastern Amundsen Sea coast, West Antarctica, revealed by low-temperature thermochronology",
+    "authors": ["J. Lindow", "P.J.J. Kamp", "S.B. Mukasa", "M. Kleber", "F. Lisker", "K. Gohl", "G. Kuhn", "C. Spiegel"],
+    "venue": "Tectonophysics",
+    "year": 2016
+  }, {
+    "title": "Isoplot 3.00: A Geochronological Toolkit for Microsoft Excel",
+    "authors": ["K.R. Ludwig"],
+    "venue": "Berkeley Geochronology",
+    "year": 2003
+  }, {
+    "title": "Regional aeromagnetic anomalies in Ellsworth land: Crustal structure and Mesozoic microplate boundaries within West Antarctica",
+    "authors": ["M.P. Maslanyj", "B.C. Storey"],
+    "venue": "Tectonics",
+    "year": 1990
+  }, {
+    "title": "An object-based SAR image iceberg detection algorithm applied to the Amundsen Sea",
+    "authors": ["A.K. Mazur", "A.K. Wåhlin", "A. Krężel"],
+    "venue": "Remote Sens. Environ",
+    "year": 2017
+  }, {
+    "title": "Tectonic implications of fore-arc magmatism and generation of high-magnesian andesites: Alexander Island, Antarctica",
+    "authors": ["J.J. McCarron", "J.L. Smellie"],
+    "venue": "J. Geol. Soc. Lond",
+    "year": 1998
+  }, {
+    "title": "Relation of sortable silt grain-size to deep-sea current speeds: Calibration of the ‘Mud Current Meter",
+    "authors": ["I.N. McCave", "D.J.R. Thornalley", "I.R. Hall"],
+    "venue": "Deep-Sea Res",
+    "year": 2017
+  }, {
+    "title": "Relationships between the trace element composition of sedimentary rocks and upper continental crust",
+    "authors": ["S.M. McLennan"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2001
+  }, {
+    "title": "Geochemical approaches to sedimentation, provenance and tectonics",
+    "authors": ["S.M. McLennan", "S.R. Hemming", "D.K. McDaniel", "G.N. Hanson"],
+    "year": 1993
+  }, {
+    "title": "Antarctic icebergs melt over the Southern Ocean: Climatology and impact on sea ice",
+    "authors": ["N. Merino", "J. Le Sommer", "G. Durand", "N.C. Jourdain", "G. Madec", "P. Mathiot", "J. Tournadre"],
+    "venue": "Ocean Model",
+    "year": 2016
+  }, {
+    "title": "Rb-Sr geochronology of the region between the Antarctic Peninsula and the Transantarctic Mountains: Haag Nunataks and Mesozoic granitoids",
+    "authors": ["I.L. Millar", "R.J. Pankhurst"],
+    "venue": "Geophys. Monogr. Ser",
+    "year": 1987
+  }, {
+    "title": "Basement chronology of the Antarctic Peninsula: recurrent magmatism and anatexis in the Palaeozoic Gondwana Margin",
+    "authors": ["I.L. Millar", "R.J. Pankhurst", "C.M. Fanning"],
+    "venue": "J. Geol. Soc. Lond",
+    "year": 2002
+  }, {
+    "title": "Geology and thermochronometry of the east edge of the Median Batholith (Median Tectonic Zone): a new perspective on Permian to Cretaceous crustal growth of New Zealand",
+    "authors": ["N. Mortimer", "P. Gans", "A. Calvert", "N. Walker"],
+    "venue": "Island Arc",
+    "year": 1999
+  }, {
+    "title": "Sustained increase in ice discharge from the Amundsen Sea Embayment, West Antarctica",
+    "authors": ["J. Mouginot", "E. Rignot", "B. Scheuchl"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2014
+  }, {
+    "title": "Antarctica: Evolution of Gondwana’s Pacific margin constrained by zircon U-Pb geochronology and feldspar common-Pb isotopic compositions",
+    "authors": ["S.B. Mukasa", "I.W.D. Dalziel", "2000. Marie Byrd Land", "West"],
+    "venue": "GSA Bull",
+    "year": 2000
+  }, {
+    "title": "Comparison of the structure and function of Southern Ocean regional ecosystems: the Antarctic Peninsula and South Georgia",
+    "authors": ["E.J. Murphy", "E.E. Hofmann", "J.L. Watkins", "N.M. Johnston", "A. Piñones", "T. Ballerini", "S.L. Hill", "P.N. Trathan", "G.A. Tarling", "R.A. Cavanagh", "E.F. Young", "S.E. Thorpe", "P. Fretwell"],
+    "venue": "J. Mar",
+    "year": 2013
+  }, {
+    "title": "Obliquity-paced Pliocene West Antarctic",
+    "authors": ["T Naish"],
+    "venue": "Ice Sheet oscillations. Nature",
+    "year": 2009
+  }, {
+    "title": "Global warming and the stability of the West Antarctic",
+    "authors": ["M. Oppenheimer"],
+    "venue": "Ice Sheet. Nature",
+    "year": 1998
+  }, {
+    "title": "On the meridional extent and fronts of the Antarctic Circumpolar Current",
+    "authors": ["A.H. Orsi", "T. Whitworth", "W.D. Nowlin"],
+    "venue": "Deep-Sea Research Part I-Oceanographic Research Papers",
+    "year": 1995
+  }, {
+    "title": "Rb-Sr study of Cretaceous plutons from southern Antarctic Peninsula and eastern Ellsworth Land, Antarctica",
+    "authors": ["R.J. Pankhurst", "P.D. Rowley"],
+    "year": 1991
+  }, {
+    "title": "Isotope evidence for the origin of Andean granites",
+    "authors": ["R.J. Pankhurst", "M.J. Hole", "M. Brook"],
+    "venue": "R. Soc. Edinburgh Trans",
+    "year": 1988
+  }, {
+    "title": "The Pre-Cenozoic Magmatic History of the Thurston Island Crustal Block, West Antarctica",
+    "authors": ["R.J. Pankhurst", "I.L. Millar", "A.M. Grunow", "B.C. Storey"],
+    "venue": "J. Geophys. Res",
+    "year": 1993
+  }, {
+    "title": "Geochronology and geochemistry of pre-Jurassic superterranes in Marie Byrd Land, Antarctica",
+    "authors": ["R.J. Pankhurst", "S.D. Weaver", "J.D. Bradshaw", "B.C. Storey", "T.R. Ireland"],
+    "venue": "J. Geophys. Res. Solid Earth",
+    "year": 1998
+  }, {
+    "title": "Episodic Silicic Volcanism in Patagonia and the Antarctic Peninsula: Chronology of Magmatism Associated with the Break-up of Gondwana",
+    "authors": ["R.J. Pankhurst", "T.R. Riley", "C.M. Fanning", "S.P. Kelley"],
+    "venue": "J. Petrol",
+    "year": 2000
+  }, {
+    "title": "Ages and cooling history of the Early Cretaceous Caleu pluton: testimony of a switch from a rifted to a compressional continental margin in central Chile",
+    "authors": ["M.A. Parada", "G. Féraud", "F. Fuentes", "L. Aguirre", "D. Morata", "P. Larrondo"],
+    "venue": "J. Geol. Soc. Lond",
+    "year": 2005
+  }, {
+    "title": "Recent dramatic thinning of largest West Antarctic ice stream triggered by oceans",
+    "authors": ["A.J. Payne", "A. Vieli", "A.P. Shepherd", "D.J. Wingham", "E. Rignot"],
+    "venue": "Geophys. Res. Lett. 31,",
+    "year": 2004
+  }, {
+    "title": "The relationship of Heinrich events and their European precursors over the past 60 ka BP: a multi-proxy ice-rafted debris provenance study in the North East Atlantic",
+    "authors": ["V.L. Peck", "I.R. Hall", "R. Zahn", "F. Grousset", "S.R. Hemming", "J.D. Scourse"],
+    "venue": "Quat. Sci. Rev",
+    "year": 2007
+  }, {
+    "title": "Characterizing the sediment provenance of East Antarctica's weak underbelly: The Aurora and Wilkes sub-glacial basins",
+    "authors": ["E.L. Pierce", "T. Williams", "T. van de Flierdt", "S.R. Hemming", "S.L. Goldstein", "S.A. Brachfeld"],
+    "venue": "Paleoceanography 26. http://dx",
+    "year": 2011
+  }, {
+    "title": "A comparison of detrital U–Pb zircon, 40Ar/39Ar hornblende, 40Ar/39Ar biotite ages in marine sediments off East Antarctica: Implications for the geology of subglacial terrains and provenance studies",
+    "authors": ["E.L. Pierce", "S.R. Hemming", "T. Williams", "T. van de Flierdt", "S.N. Thomson", "P.W. Reiners", "G.E. Gehrels", "S.A. Brachfeld", "S.L. Goldstein"],
+    "venue": "Earth Sci",
+    "year": 2014
+  }, {
+    "title": "Evidence for a dynamic East Antarctic ice sheet during the mid-Miocene climate transition",
+    "authors": ["E.L. Pierce", "T. van de Flierdt", "T. Williams", "S.R. Hemming", "C.P. Cook", "S. Passchier"],
+    "venue": "Earth Planet. Sci. Lett. 478,",
+    "year": 2017
+  }, {
+    "title": "Evaluation of a strontium-specific extraction chromatographic method for isotopic analysis in geological-materials",
+    "authors": ["C. Pin", "C. Bassin"],
+    "venue": "Anal. Chim. Acta",
+    "year": 1992
+  }, {
+    "title": "Sequential separation of light rare-earth elements, thorium and uranium by miniaturized extraction chromatography: Application to isotopic analyses of silicate rocks",
+    "authors": ["C. Pin", "J.F.S. Zalduegui"],
+    "venue": "Anal. Chim. Acta",
+    "year": 1997
+  }, {
+    "title": "Modelling West Antarctic Ice Sheet growth and collapse through the past five million years",
+    "authors": ["D. Pollard", "R.M. DeConto"],
+    "venue": "Nature 458,",
+    "year": 2009
+  }, {
+    "title": "Extensive dynamic thinning on the margins of the Greenland and Antarctic ice",
+    "authors": ["H.D. Pritchard", "R.J. Arthern", "D.G. Vaughan", "L.A. Edwards"],
+    "venue": "sheets. Nature",
+    "year": 2009
+  }, {
+    "title": "Antarctic ice-sheet loss driven by basal melting of ice shelves",
+    "authors": ["H.D. Pritchard", "S. Ligtenberg", "H. Fricker", "D. Vaughan", "M.R. van den Broeke", "L. Padman"],
+    "venue": "Nature",
+    "year": 2012
+  }, {
+    "title": "Glacial–interglacial deposition on a sediment drift on the Pacific margin of the Antarctic Peninsula",
+    "authors": ["C.J. Pudsey", "A. Camerlenghi"],
+    "venue": "Antarct. Sci",
+    "year": 1998
+  }, {
+    "title": "Freshwater distributions and water mass structure in the Amundsen Sea Polynya region, Antarctica",
+    "authors": ["E. Randall-Goodwin", "M.P. Meredith", "A. Jenkins", "P.L. Yager", "R.M. Sherrell", "E.P. Abrahamsen", "R. Guerrero", "X. Yuan", "R.A. Mortlock", "K. Gavahan", "Alderkamp", "A.-C", "H. Ducklow", "R. Robertson", "S.E. Stammerjohn"],
+    "venue": "Elem Sci Anth",
+    "year": 2015
+  }, {
+    "title": "Neodymium and hafnium boundary contributions to seawater along the West Antarctic continental margin",
+    "authors": ["J. Rickli", "M. Gutjahr", "D. Vance", "M. Fischer Gödde", "Hillenbrand", "C.-D", "G. Kuhn"],
+    "venue": "Earth Planet. Sci",
+    "year": 2014
+  }, {
+    "title": "Rapid Bottom Melting Widespread near Antarctic",
+    "authors": ["E. Rignot", "S.S. Jacobs"],
+    "venue": "Ice Sheet Grounding Lines. Science",
+    "year": 2002
+  }, {
+    "title": "Recent Antarctic ice mass loss from radar interferometry and regional climate modelling",
+    "authors": ["E. Rignot", "J.L. Bamber", "M.R. van den Broeke", "C. Davis", "Y. Li", "W.J. van de Berg", "E. van Meijgaard"],
+    "venue": "Nat. Geosci",
+    "year": 2008
+  }, {
+    "title": "Widespread, rapid grounding line retreat of Pine Island, Thwaites, Smith, and Kohler glaciers, West Antarctica",
+    "authors": ["E. Rignot", "J. Mouginot", "M. Morlighem", "H. Seroussi", "B. Scheuchl"],
+    "venue": "Geophys. Res",
+    "year": 2014
+  }, {
+    "title": "Origins of Large Volume Rhyolitic Volcanism in the Antarctic Peninsula and Patagonia by Crustal Melting",
+    "authors": ["T.R. Riley", "P.T. Leat", "R.J. Pankhurst", "C. Harris"],
+    "venue": "J. Petrol",
+    "year": 2001
+  }, {
+    "title": "Thinning of the Antarctic Peninsula lithosphere through the Mesozoic: evidence from Middle Jurassic basaltic lavas",
+    "authors": ["T.R. Riley", "P.T. Leat", "S.P. Kelley", "I.L. Millar", "M.F. Thirlwall"],
+    "venue": "Lithos",
+    "year": 2003
+  }, {
+    "title": "A revised geochronology of Thurston Island, West Antarctica, and correlations along the proto-Pacific margin of Gondwana",
+    "authors": ["T.R. Riley", "M.J. Flowerdew", "R.J. Pankhurst", "P.T. Leat", "I.L. Millar", "C.M. Fanning", "M.J. Whitehouse"],
+    "venue": "Antarct. Sci",
+    "year": 2017
+  }, {
+    "title": "40)Ar/(39)Ar ages of hornblende grains and bulk Sm/Nd isotopes of circum-Antarctic glacio-marine sediments: Implications for sediment provenance in the Southern Ocean",
+    "authors": ["M. Roy", "T. van de Flierdt", "S.R. Hemming", "S.L. Goldstein"],
+    "venue": "Chem. Geol",
+    "year": 2007
+  }, {
+    "title": "Reduced North Atlantic Deep Water flux to the glacial Southern Ocean inferred from neodymium isotope",
+    "authors": ["R.L. Rutberg", "S.R. Hemming", "S.L. Goldstein"],
+    "venue": "ratios. Nature",
+    "year": 2000
+  }, {
+    "title": "Mesozoic to Cenozoic Igneous Rocks from Northwestern Graham Land: Constraints on the Tectonomagmatic Evolution of the Antarctic Peninsula (PhD thesis)",
+    "authors": ["C.J. Ryan"],
+    "year": 2005
+  }, {
+    "title": "Pleistocene collapse of the West Antarctic ice",
+    "authors": ["R.P. Scherer", "A. Aldahan", "S. Tulaczyk", "G. Possnert", "H. Engelhardt", "B. Kamb"],
+    "venue": "sheet. Science",
+    "year": 1998
+  }, {
+    "title": "Ice sheet grounding line dynamics: Steady states, stability, and hysteresis",
+    "authors": ["C. Schoof"],
+    "venue": "J. Geophys. Res",
+    "year": 2007
+  }, {
+    "title": "A reconciled estimate of ice-sheet mass balance",
+    "authors": ["A Shepherd"],
+    "venue": "Science",
+    "year": 2012
+  }, {
+    "title": "Lithostratigraphy of Miocene-Recent, alkaline volcanic fields in the Antarctic Peninsula and eastern Ellsworth Land",
+    "authors": ["J.L. Smellie"],
+    "venue": "Antarct. Sci",
+    "year": 1999
+  }, {
+    "title": "Surface Lowering of the Ice Ramp at Rothera Point, Antarctic Peninsula, in Response to Regional Climate Change",
+    "authors": ["A.M. Smith", "D.G. Vaughan", "C.S.M. Doake", "A.C. Johnson"],
+    "venue": "Ann. Glaciol",
+    "year": 1999
+  }, {
+    "title": "Deglacial history of the West Antarctic Ice Sheet in the western Amundsen Sea Embayment",
+    "authors": ["J.A. Smith", "Hillenbrand", "C.-D", "G. Kuhn", "R.D. Larter", "A.G.C. Graham", "W. Ehrmann", "S.G. Moreton", "M. Forwick"],
+    "venue": "Quat. Sci. Rev",
+    "year": 2011
+  }, {
+    "title": "Influence of subglacial conditions on ice stream dynamics: Seismic and potential field data from Pine Island Glacier, West Antarctica",
+    "authors": ["A.M. Smith", "T.A. Jordan", "F. Ferraccili", "R.G. Bingham"],
+    "venue": "J. Geophys. Res. Solid Earth",
+    "year": 2013
+  }, {
+    "title": "Sub-ice-shelf sediments record history of twentieth-century retreat of Pine Island Glacier",
+    "authors": ["J.A. Smith", "T.J. Andersen", "M. Shortt", "A.M. Gaffney", "M. Truffer", "T.P. Stanton", "R. Bindschadler", "P. Dutrieux", "A. Jenkins"],
+    "venue": "Nature 541,",
+    "year": 2017
+  }, {
+    "title": "Circumpolar structure and distribution of the Antarctic Circumpolar Current fronts: 1",
+    "authors": ["S. Sokolov", "S.R. Rintoul"],
+    "venue": "Mean circumpolar paths. J. Geophys. Res. 114,",
+    "year": 2009
+  }, {
+    "title": "Tectonomorphic evolution of Marie Byrd Land – Implications for Cenozoic rifting activity and onset of West Antarctic glaciation",
+    "authors": ["C. Spiegel", "J. Lindow", "P.J.J. Kamp", "O. Meisel", "S.B. Mukasa", "F. Lisker", "G. Kuhn", "K. Gohl"],
+    "year": 2016
+  }, {
+    "title": "Seasonal sea ice",
+    "authors": ["M. Raphael", "E. Randall-Goodwin", "R.M. Sherrell", "P.L. Yager"],
+    "year": 2015
+  }, {
+    "title": "Geodynamic evolution of the Antarctic",
+    "authors": ["B.C. Storey", "A.P.M. Vaughan", "I.L. Millar"],
+    "year": 1996
+  }, {
+    "title": "Neodymium isotopes",
+    "authors": ["L.I. Bradtmiller", "M.E. Auro", "K.J. Mohamed", "N.J. White"],
+    "year": 2016
+  }, {
+    "title": "The geochemical evolution of the continental crust",
+    "authors": ["Chem. Geol"],
+    "year": 1995
+  }, {
+    "title": "Modelling Circumpolar Deep Water",
+    "authors": ["M. Thoma", "A. Jenkins", "D. Holland", "S. Jacobs"],
+    "year": 2008
+  }, {
+    "title": "Antarctic icebergs",
+    "authors": ["N. Bouhier", "F. Girard-Ardhuin", "F. Rémy"],
+    "year": 2016
+  }, {
+    "title": "Atmosphere-ocean-ice interactions in the Amundsen Sea",
+    "authors": ["T.J. Bracegirdle"],
+    "year": 2017
+  }, {
+    "title": "Clay-mineral provenance, sediment dispersal",
+    "authors": ["M.B. 2016RG000532. Underwood", "K.T. Pickering"],
+    "year": 1996
+  }, {
+    "title": "Potential seaways",
+    "authors": ["Lett", "D.G. 143–155. Vaughan", "D.K.A. Barnes", "P.T. Fretwell", "R.G. Bingham"],
+    "year": 2011
+  }, {
+    "title": "Evidence for a two-phase",
+    "authors": ["G. Eagles", "M.J. Flowerdew"],
+    "year": 2012
+  }, {
+    "title": "Inflow of warm Circumpolar Deep",
+    "authors": ["A.K. Wåhlin", "X. Yuan", "G. Björk", "C. Nohr"],
+    "venue": "Gondwana Res",
+    "year": 2010
+  }, {
+    "title": "Variability of warm deep water inflow in a submarine trough",
+    "authors": ["S.H", "C. Stranne"],
+    "year": 2013
+  }, {
+    "title": "Granites of Edward VII Peninsula, Marie Byrd Land: anorogenic magmatism related to Antarctic-New Zealand rifting",
+    "authors": ["S.D. Weaver", "C.J. Adams", "R.J. Pankhurst", "I.L. Gibson"],
+    "venue": "Trans. R. Soc. Edinb. Earth Sci",
+    "year": 1992
+  }, {
+    "title": "High-precision isotopic characterization of USGS reference materials by TIMS and MC-ICP-MS",
+    "authors": ["D. Weis", "B. Kieffer", "C. Maerschalk", "J. Barling", "J. de Jong", "G.A. Williams", "D. Hanano", "W. Pretorius", "N. Mattielli", "J.S. Scoates", "A. Goolaerts", "R.M. Friedman", "J.B. Mahoney"],
+    "venue": "Geochem. Geophys. Geosyst",
+    "year": 2006
+  }, {
+    "title": "Metamorphic rocks in the Antarctic Peninsula region",
+    "authors": ["A.S. Wendt", "A.P.M. Vaughan", "A. Tate"],
+    "venue": "Geol. Mag",
+    "year": 2008
+  }, {
+    "title": "Evidence for iceberg armadas from East Antarctica in the Southern Ocean during the late Miocene and early Pliocene",
+    "authors": ["T. Williams", "T. van de Flierdt", "S.R. Hemming", "E. Chung", "M. Roy", "S.L. Goldstein"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2010
+  }, {
+    "title": "Evidence of marine icecliff instability in Pine Island Bay from iceberg-keel plough marks",
+    "authors": ["M.G. Wise", "J.A. Dowdeswell", "M. Jakobsson", "R.D. Larter"],
+    "venue": "Nature 550,",
+    "year": 2017
+  }],
+  "id": "SP:4a497202ece3d72a3f79886af918209bb1b0d8f8",
+  "authors": [{
+    "name": "Patric Simões Pereiraa",
+    "affiliations": []
+  }, {
+    "name": "Tina van de Flierdt",
+    "affiliations": []
+  }, {
+    "name": "Sidney R. Hemming",
+    "affiliations": []
+  }, {
+    "name": "Samantha J. Hammond",
+    "affiliations": []
+  }, {
+    "name": "Gerhard Kuhn",
+    "affiliations": []
+  }, {
+    "name": "Stefanie Brachfeld",
+    "affiliations": []
+  }, {
+    "name": "Cathleen Doherty",
+    "affiliations": []
+  }, {
+    "name": "Claus-Dieter Hillenbrand",
+    "affiliations": []
+  }],
+  "abstractText": "Geochemical provenance studies of glacial-marine sediments provide a powerful approach to describe subglacial geology, sediment transport pathways, and past ice sheet dynamics. The marine-based West Antarctic Ice Sheet (WAIS) is considered highly vulnerable to ocean warming and sea level rise that is likely to cause its rapid and irreversible retreat. Studies of its past response to climate change are hence essential for projecting its future behaviour. The application of radiogenic and trace element provenance studies for past ice sheet reconstructions requires surveying the geographic variability of geochemical compositions of glaciomarine sediments. In this study, we characterize the provenance of the detrital fraction of 67 Late Holocene marine sediment samples collected off the Pacific margin of West Antarctica (60°W to 160°W), including Ar/Ar ages of individual hornblende and biotite grains (> 150 μm), as well as Sr and Nd isotope and trace element composition of the fine-grained (< 63 μm) sediment fraction. Overall, this approach allows differentiating West Antarctica into five source regions: the Antarctic Peninsula, Bellingshausen Sea, Amundsen Sea, Wrigley Gulf-Hobbs Coast and Sulzberger Bay. Minor geochemical variability is found within each individual sector due to local variability in onland geology. Ar/Ar ages of iceberg-rafted hornblende and biotite grains record primarily Carboniferous to Lates Quaternary ages (~0 to 380Ma), with a notable age peak of ~100Ma, associated with plutonic intrusions or deformation events during the mid-Cretaceous. Permian-Jurassic Ar/Ar ages are widespread in the Amundsen Sea sector, marking episodes of large-volume magmatism along the long-lived continental margin. Metasedimentary rocks and Late Cenozoic alkali basalts in West Antarctica cannot be detected using detrital hornblende and biotite Ar/Ar ages due to the absence or small grain-size (i.e.< 150 μm) of these minerals in such rocks. These sources can however be readily recognized by their fine-grained geochemical composition. In addition, geographic trends in the provenance from proximal to distal sites provide insights into major sediment transport pathways. While the transport of fine-grained detritus follows bathymetric cross-shelf troughs, the distribution of iceberg-rafted grains shows influence by transport in the Antarctic Coastal Current. Our study provides the first systematic geochemical characterisation of sediment provenance off West Antarctica, and highlights the importance of combining multiple provenance approaches in different size fractions of glacialmarine sediments, and paves the way to investigate past WAIS dynamics. https://doi.org/10.1016/j.earscirev.2018.04.011 Received 17 November 2017; Received in revised form 20 April 2018; Accepted 30 April 2018 ⁎ Corresponding author at: Grantham Institute for Climate Change and the Environment, Imperial College London, South Kensington Campus, London SW7 2AZ, UK. E-mail address: p.simoes-pereira14@imperial.ac.uk (P. Simões Pereira). Earth-Science Reviews 182 (2018) 204–232 Available online 04 May 2018 0012-8252/ © 2018 Elsevier B.V. All rights reserved. T",
+  "title": "Geochemical fingerprints of glacially eroded bedrock from West Antarctica: Detrital thermochronology, radiogenic isotope systematics and trace element geochemistry in Late Holocene glacial-marine sediments"
+}

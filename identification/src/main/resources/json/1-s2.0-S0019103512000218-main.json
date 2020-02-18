@@ -1,0 +1,289 @@
+{
+  "sections": [{
+    "text": "Contents lists available at SciVerse ScienceDirect\nIcarus\njournal homepage: www.elsevier .com/locate / icarus\nMars’ atmospheric 40Ar: A tracer for past crustal erosion\nF. Leblanc a,⇑, E. Chassefière b,c, C. Gillmann d, D. Breuer e a LATMOS/IPSL, CNRS, Université Pierre et Marie Curie, 4 Place Jussieu 75005, Paris, France b Laboratoire IDES, UMR8148, Université Paris-Sud, Bât. 504, Orsay F-91405, France c CNRS, Orsay F-91405, France d Institut für Geophysik, Department of Earth Sciences, NO H 25, Sonneggstrasse 5, 8092 Zürich, Switzerland e Institute of Planetary Research, German Aerospace Center (DLR), Rutherfordstraße 2,12489 Berlin, Germany\na r t i c l e i n f o\nArticle history: Received 13 November 2011 Revised 11 January 2012 Accepted 14 January 2012 Available online 25 January 2012\nKeywords: Atmospheres, Composition Mars, Atmosphere Atmospheres, Evolution\n0019-1035/$ - see front matter 2012 Elsevier Inc. A doi:10.1016/j.icarus.2012.01.006\n⇑ Corresponding author. E-mail address: francois.leblanc@latmos.ipsl.fr (F.\na b s t r a c t\nNoble gas 40Ar may be used as a tracer of the past evolution of volatiles in Mars’ crust, mantle and atmosphere. 40Ar is formed by the radioactive decay of 40K in the mantle and in the crust and is released from the mantle to the atmosphere due to volcanism and from the crust by erosion such as eolian and hydrothermal erosion. Furthermore, 40Ar can escape from the atmosphere into space via atmospheric escape mechanisms. The evolution of the atmospheric abundance of 40Ar thus depends on these three processes whose efficiencies vary with time.\nIn the present study we reconsider atmospheric escape mechanism efficiencies and describe various possible scenarios of the evolution of 40Ar with a model describing the three main reservoirs of 40Ar, the mantle, crust and atmosphere. First, we show that atmospheric escape, which is stronger in the early evolution, does not significantly influence the present abundance of the atmospheric 40Ar. In the early evolution the atmospheric concentration of 40Ar is very low as the outgassing of 40Ar from the mantle occurs relatively late in the martian evolution. Thus, the atmospheric 40Ar concentration is essentially a tracer of Mars’ outgassing history and not of the escape processes. Second, using the results of the most recent published crustal formation models, the calculated present 40Ar atmospheric abundance is smaller than its observed value. This discrepancy may be explained by a significant 40Ar supply from the crust by erosion (16–30% of the 40Ar content of the upper first 10 km of crust). The knowledge of the fraction of crustal 40Ar outgassed to the atmosphere is an important constraint for any future global modelling of past Mars’ hydrothermal activity aiming at better characterizing the role of subsurface aqueous alteration processes in Mars climate evolution. One of the main sources of the uncertainty of these results is the present uncertainty in the measured atmospheric 40Ar value (±20%). More precise measurements of 40Ar and 36Ar in the martian atmosphere are therefore required to better constrain the model.\n2012 Elsevier Inc. All rights reserved."
+  }, {
+    "heading": "1. Introduction",
+    "text": "The Viking 1 and 2 landers measured the 40Ar/36Ar and 36Ar/38Ar abundance ratios. The ratio of 36Ar/38Ar was estimated to vary from 4 to 7 – a value close to the terrestrial ratio (equal to 5.32; Biemann et al., 1976) – whereas the 40Ar/36Ar ratio was estimated to be equal to 3000 ± 500 that is 10 times larger than Earth’s ratio (Biemann et al., 1976; Owen and Biemann, 1976). This ratio was also measured in the Shergottite glass as being equal to 1900. The latter value suggests a lower martian atmospheric 40Ar/36Ar ratio about 1 Gyr ago, when this meteorite formed (Bogard et al., 2001). Bogard et al. (2001) suggested that this isotopic ratio is an indication that the outgassing of Mars’ interior is relatively inefficient with respect to the Earth, with only 2% of the\nll rights reserved.\nLeblanc).\ntotally produced 40Ar being in the martian atmosphere (contrary to 50% on Earth, Bender et al., 2008). The 38Ar/36Ar was also measured in the SNC meteorite as being 30% larger than in the Earth’s atmosphere (Pepin, 1991), suggesting that isotopic fractionation occurred in the past history of Mars. The 38Ar/36Ar ratio could be an indication of a strong atmospheric escape into space occurring during the very early stage of Mars (early Noachian).\nThe Viking missions also measured the 40Ar abundance in the present day martian atmosphere as being equal to 1.6% in a 7 mbar atmosphere of CO2 (Nier and McElroy, 1977; Owen et al., 1977). The abundance of 40Ar in EETA 79001 was estimated to be similar to Mars’ present atmosphere (Owen et al., 1977; Nier and McElroy, 1977). EETA 79001 is a SNC meteorite which trapped gases are estimated to be representative of Mars’ atmosphere 180 Myr ago (glass phase). The Gamma Ray spectrometer on Mars Odyssey characterized the seasonal variations of the mixing ratio of 40Ar in the atmosphere. Up to a factor 6 variation of this mixing ratio\nwas observed in the South polar latitudes with a maximum 40Ar mixing ratio at the end of Southern autumn and beginning of Southern winter (Sprague et al., 2004). These variations are attributed to the global circulation of CO2 and the condensation of CO2 on the South pole during the Southern winter inducing an increase of the 40Ar mixing ratio. Sprague et al. (2007) also showed that no similar variation occurs in the Northern hemispheres. The differences between the Southern and Northern hemisphere are explained by the difference in topography and by the difference of the winter and autumn periods.\nContrary to 36Ar and 38Ar, which are non-radiogenic species, 40Ar is formed from the radioactive decay of 40K with a half-life of 1.2 Gyr. As a consequence, 40Ar was outgassed in Mars’ atmosphere much later than the primitive 38Ar and 36Ar isotopes. 40Ar is probably a tracer of the cumulative past outgassing rather than of Mars’ past atmospheric escape, which was essentially intense during the Noachian (Chassefière and Leblanc, 2004). 40Ar may also be a good tracer of any crustal activity. Hodges and Hoffman (1974) reported evidence of a correlation between the increase of the 40Ar abundance in the lunar exosphere and the Moonquakes (Binder, 1980). For the Earth, Hamano and Ozima (1978) and Ozima and Podosek (1983) developed one of the first models to consider the evolution of 40Ar taking into account the three main reservoirs, i.e., the mantle, the crust and the atmosphere. Such an approach was later applied to Venus by Volkov and Frenkel (1993) who concluded that only weak Venus volcanic activity could explain the present isotopic Ar abundances in Venus’ atmosphere. For Mars, Pepin (1994) developed a similar model for the evolution of the noble gases and concluded that all isotopes of Ar have been significantly lost from the atmosphere at the early stage of Mars.\nIn this paper, we reexamine the evolution of Mars’ 40Ar atmospheric abundance. We adopt the approach of Pepin (1994) but further assume updated scenarios of crustal formation and the evolution of atmospheric escape. The evolution of the martian crust has been constrained by Hauck and Phillips (2002), Breuer and Spohn (2006) and more recently by Morschhauser et al. (2011) by thermo-chemical evolution models. These models can explain the observed strong crustal production in the early evolution of Mars, i.e., more than 80% of the crust was formed by the end of the Noachian (e.g., Nimmo and Tanaka, 2005), assuming stagnant lid convection throughout its history. Morschhauser et al. (2011) revised the crustal formation model by using recent laboratory data on the behavior of iron-rich olivine and by including the possibility of crustal recycling. Since crustal recycling is not compatible with the SNC geochemical characteristics (e.g., Jagoutz, 1991), the possible ranges of initial upper mantle temperature and reference viscosity were constrained as well as the presence of a primordial crust by considering the present crust abundance in K and Th (Taylor et al., 2006). The best fitting scenario of crustal formation was determined assuming a primordial crust of 30 km followed by a rapid phase of crust formation, leading to 93% of the present crust 500 Myr after the formation of Mars, and an average present-day crustal thickness of 59 km. This scenario is also in agreement with isotopic measurements of the martian meteorites, which suggest an early differentiation of the planet (Debaille et al., 2007). Using Morschhauser et al. (2011) crust formation scenario, Grott et al. (2011) calculated a total of 0.9 to 1 bar of CO2 outgassed in the martian atmosphere since Mars’ formation and between 17 and 67 m of global water layer. Most of this outgassing occurred in the first 500 Myr. Chassefière and Leblanc (2011a) also suggested a possible scenario for Mars’ atmospheric evolution, starting from a significantly thick atmosphere with a pressure of the order of 1 bar at the end of the Noachian (Bibring et al., 2006). Following Chassefière and Leblanc (2011a), there should have been mechanisms leading to the trapping of most of the atmospheric CO2 in the martian crust since atmospheric escape cannot explain Mars’\npresent thin atmosphere. Atmospheric CO2 could have been recycled through an active hydrological subsurface system and could have been permanently trapped in the crust by forming carbonates. The temporal evolution of the carbonate formation rate could be similar to the temporal evolution of magma activity.\nIn the following, we describe the approach used to describe the fate of the martian 40Ar (Section 2), the past atmospheric escape (Section 3) and the possible origin of the atmospheric 40Ar (Section 4). We then discuss the sensitivity of our results in Section 5 and conclude in Section 6."
+  }, {
+    "heading": "2. The martian crustal, mantle and atmospheric 40Ar",
+    "text": "In order to obtain the evolution of 40Ar in Mars, we consider the three main reservoirs of 40Ar and 40K: the mantle, the crust and the atmosphere. All possible sources, sinks and the exchanges between these reservoirs are illustrated in Fig. 1.\nFor the exchanges between the mantle and the crust, the evolution of the 40Ar and 40K reservoirs is calculated from the scenario of crustal formation by Morschhauser et al. (2011). The model by Morschhauser et al. (2011) considers both extrusive and intrusive crustal productions with the best fitting model showing crustal formation up to 1 Gyr after Mars’ formation – in this model crustal formation after 1 Gyr has not been considered as it has a small rate and would occur only locally. Greeley and Schneid (1991) provide an estimate of the extrusive formation rate based on photogeological mapping of Viking data for the time period between 3.8 Gyr and present. Assuming that the intrusive formation rate is a factor of 8.5 higher than the intrusive rate they also estimate the entire crustal formation rate. Greeley and Schneid (1991) emphasize that their crustal formation rate may be significantly underestimated before 3.8 Gyr because intense resurfacing, which occurred up to the end of the Noachian, does not allow mapping and analyzing earlier lava flows. Thus, our model of crustal formation will take into account Morschhauser et al. (2011) for the early period and Greeley and Schneid (1991) after. We further assume as in the model by Morschhauser et al. (2011) that a primordial crust has formed as a consequence of a solidifying magma ocean. This crust is enriched by radioactive elements relative to the primordial mantle by a factor of 5. This enrichment factor has been shown to be best compatible with the observed surface concentration of radioactive elements (Taylor et al., 2006) but values between 1 and 10\nare also possible. For such enriched primordial crust with a thickness of 30 km, the primordial mantle is depleted by 12% of the 40K (assuming a core radius of 1550 km).\nFor the exchanges between the mantle and the atmosphere, the evolution with time of the CO2 outgassing rate was calculated by Grott et al. (2011). However, as in Morschhauser et al. (2011), the model by Grott et al. (2011) was not built to describe the outgassing during the late Noachian, Hesperian and Amazonian periods. After 2 Gyr, the cumulative outgassing is indeed largely negligible with respect to the early phase of Mars. Craddock and Greeley (2009) calculated the outgassing rate from Greeley and Schneid (1991). Our model takes into account the two estimates, i.e. by Grott et al. (2011) and Craddock and Greeley (2009) to build a scenario of outgassing for the whole evolution of Mars. As in the model for the Earth by Hamano and Ozima (1978), we suppose that 40Ar is enriched in the magma and released entirely into the atmosphere – transport of 40Ar from the mantle into the crust is neglected. This approach assumes a maximal release of 40Ar into the atmosphere as part of it might remain in the crust material during the crustal formation.\nFor the exchanges between the atmosphere and the space, the loss rate of the atmosphere into space can be estimated from Chassefière and Leblanc (2011a). Mars’ atmosphere could have been lost into space by its interaction with the solar wind inducing sputtering of the atmosphere and ion escape or with the solar radiation flux inducing ionization followed by subsequent escape and exothermic photo-chemistry. Among all these possibilities, sputtering is the only process able to induce 40Ar escape (Johnson et al., 2000). Indeed, escape energy for 40Ar is equal to 5.1 eV whereas the most abundant suprathermal photo-chemical reaction in the upper martian atmosphere, the Oþ2 dissociative recombination, produces hot O particles with energy up to 3 eV (Cipriani et al., 2007). 40Ar atmospheric escape induced by sputtering can be quantitatively estimated by using the sputtering escape rate of CO2 as shown in Section 3. We will also calculate the CO2 atmospheric content taking into account all atmospheric escape channels of C atoms into space (Chassefière and Leblanc, 2004). Our assumption is that CO2 is the main component of Mars’ atmosphere along its history. For that, we suppose that when one carbon atom escapes into space, the two remaining oxygen atoms either escape or are recycled into the crust, so that the composition of Mars’ atmosphere remains similar along its whole history.\nFor the exchanges from the atmosphere into the crust, Chassefière and Leblanc (2011a) showed that CO2 atmospheric evolution cannot lead to the present thin atmosphere if no crustal trapping mechanism for CO2 is assumed. Therefore, a sink of atmospheric CO2 into the ground is introduced. As in Chassefière and Leblanc (2011a), the history of the loss of CO2 into the ground is related to the temporal evolution of the extrusive volcanism rate, considered as an indicator of the subsurface hydrothermal activity, the crust carbonation rate being assumed to be proportional to the magma extrusion rate. The exact nature of the mechanism leading to CO2 trapping in the crust does not play a key role in our modelling. We will neglect any loss of 40Ar from the atmosphere into the crust (Hiyagon and Ozima, 1986).\nBeside the exchange of 40Ar between the reservoirs, two effects need to be constrained in order to fully describe the evolution of 40Ar: the cumulative amount of CO2 lost into the ground during Mars’ history and the efficiency of crustal erosion to outgas 40Ar from the crust. The cumulative amount of CO2 lost into the ground is determined in that way that the calculated present atmospheric pressure is equal to the observed 7 mbar. The crustal erosion 40Ar outgassing is fitted in order to obtain the observed atmospheric content which is equal to 1.6% of 40Ar concentration in the atmosphere or 0.76 10 9 kg per kg of Mars (Nier and McElroy, 1977; Owen et al., 1977).\nAfter having defined the different exchanges between the three reservoirs of Fig. 1, our model being time dependent, we need to define the state of Mars reservoirs at a given time. At the beginning of the Solar System, Mars did not contain 40Ar but an initial quantity of 40K. Following Wänke and Dreibus (1994), we assume a concentration of 305 ppm of K and 0.038 ppm of 40K in the present primitive mantle. The enriched K abundance at Mars’ surface measured by the Gamma Ray spectrometer on board Mars Odyssey (Taylor et al., 2006) is consistent with Wänke and Dreibus (1994) composition. The concentration of 40Ar can be calculated by the decay of 40K by:\n½40Ar ¼ ½40K ð1 expð k40K DtÞÞ a ð1Þ\nwhere Dt is the time interval, k40K the decay rate of 40K per year (=5.54 10 10 in year 1), a the fraction of 40K that decays into 40Ar (=0.105). The radioactive decay of 40K into 40Ar and 40Ca is the main sink of 40K. As we start our calculation 100 Myr after the beginning of Mars’ formation, 4.5 Gyr ago, Eq. (1) implies that the content of 40K was at that time 0.44 ppm from which 42 ppb of 40Ar formed since 4.4 Gyr. The 40Ar that could have formed before 100 Myr is neglected. Table 1 summarizes the main assumptions of our model of Fig. 1 exchanges."
+  }, {
+    "heading": "3. Calculation of the escape rate of 40Ar",
+    "text": "In order to calculate the effect of sputtering on Mars’ atmosphere, we use the model described in Leblanc and Johnson (2002), a 1D test-particle Monte-Carlo approach describing the energy deposition of incident energetic neutral particles into a multispecies atmosphere. Collisions between the main martian species (CO2, CO, O and C) and the incident neutral particles (O atoms) are described by a combination of molecular dynamic approach and potential of interaction based on laboratory experiments (Johnson et al., 2000). We use atmospheric models from Krasnopolsky (2002) for solar minimum and maximum conditions (Fig. 2).\nThe flux of pick-up ions reimpacting Mars’ atmosphere was originally calculated by Luhmann and Kozyra (1991) and Luhmann et al. (1992) for various Mars’ epochs and based on a gas-dynamic description of Mars’ interaction with the solar wind. More recently, Modolo et al. (2005) used a 3D hybrid model of Mars’ interaction with the solar wind to recalculate the flux of pick-up ions at solar minimum and maximum conditions (Fig. 3).\nTable 2 summarizes the results on the respective loss rates of CO2 and 40Ar from Mars’ atmosphere under the effect of incident pick-up ions.\nAs shown in Table 2, there is an apparent close relation between the ratio of the efficiency of sputtering to eject CO2 with respect to 40Ar and the ratio between their concentrations at the exobase. Namely we have the following relation:\nFlux40Ar ¼ FluxCO2 nð40ArÞ=nðCO2Þ ¼ FluxCO2 ½40Ar =½CO2 ð2Þ\nwhere n(40Ar) and n(CO2) are the respective densities of 40Ar and CO2 at the exobase (which approximate altitude is given between brackets in Table 2, lines 5 and 6) and [40Ar] and [CO2] are the concentrations of 40Ar and CO2 at the exobase.\nThis conclusion can be compared with the one of Johnson et al. (2000) who calculated the efficiency of sputtering to eject 40Ar and CO2, the yield, that is, the ratio between the number of incident particles and the number of ejected atmospheric ones, as:\nY40Ar=YCO2 ¼ ½40Ar =½CO2 Ues40Ar=UesCO2 ð3Þ\nwith Y40Ar and Ues40Ar the yield and escape energy at the exobase of 40Ar. Ues40Ar = 5.25 eV and UesCO2 = 5.775 eV. Since the flux of incident particles inducing the sputtering of both CO2 and 40Ar particles is the same, we have Y40Ar/YCO2 = Flux40Ar/FluxCO2 = [40Ar]/[CO2]/1.1\nwhich is almost equivalent to Eq. (2). Eq. (2) provides therefore a good approximation of the relative efficiency of sputtering to eject 40Ar atoms with respect to CO2 molecules."
+  }, {
+    "heading": "4. Origins of the atmospheric 40Ar",
+    "text": "In order to reconstruct the possible evolution of the three 40Ar reservoirs as described in Fig. 1 and Table 1, we have used the scenario of evolution for the CO2 outgassing rate in Fig. 4a (thick solid line). The crustal CO2 loss rate time evolution and escape rate are also plotted in Fig. 4a. The CO2 crustal loss rate (dashed line) is not at the right scale since it is fitted for each calculation. The formation of the crust along Mars’ history is plotted in Fig. 4b (thick solid line). In order to estimate the temporal evolution of the crust\nerosion, we use the evolution of the extrusive volcanism as explained in Section 2 (Chassefière and Leblanc, 2011a). Following Morschhauser et al. (2011), 2757 106 km3 of crust were formed since 100 Myr, which should be compared to the 398 106 km3 of crust formed from magma extrusive + intrusive volcanism since 3.5 Gyr ago following Greeley and Schneid (1991). Morschhauser et al. (2011) described a best scenario of crust formation starting from a primordial crust of 30 km, with a 43.5 km thickness 100 Myr after Mars’ formation and a final thickness of 59 km. With Greeley and Schneid (1991) subsequent volcanism estimate, the final crust thickness, calculated in our model, is equal to 60.4 km. This value represents the upper limit of the martian crustal thickness that has been constrained from various studies including analysis of localized admittance spectra (McGovern et al., 2002, 2004), analysis of geoid-to-topography ratios (Wieczorek and Zuber, 2004), viscous relaxation studies (Nimmo and Stevenson, 2001), and geochemical analysis of the martian meteorites (Norman, 1999, 2002). From these, a range of crustal thicknesses of 50 ± 12 km was found to be consistent with all studies (Neumann et al., 2004; Wieczorek and Zuber, 2004).\nThere are three main factors that can significantly impact any scenario of evolution of the martian 40Ar:\n– crust formation and associated outgassing rate, – 40K enrichment in the extrusive and intrusive volcanism\nmaterials, – atmospheric escape.\nAs described in Table 1, we consider the time evolution of the crustal formation described in Fig. 4b, an enrichment of 40K in the lavas by a factor 5 (e = 5) and the time evolution of the outgassing rate and of the atmospheric escape displayed in Fig. 4a. The percentage of 40Ar from the mantle that is trapped in the crust is set to 0% (c = 0).\nFig. 5 displays the evolution of Mars’ atmosphere following this nominal case. Mars’ atmospheric pressure 100 Myr after its formation is equal to 0.4 bar to which 0.8 bar are added by subsequent outgassing due to Mars’ volcanism. After the entire evolution 0.08 bar escape into space and 1.07 bar are trapped in the crust.\nThe present 40Ar atmospheric content can be reproduced with 6.7% of the crustal 40Ar released in the atmosphere (Fig. 5a and b). Without crustal erosion, the outgassing of the mantle leads to an atmospheric content in 40Ar 65% smaller than observed (therefore more than the 20% error bar on the Viking measurements): from the 41.6 ppb of 40Ar produced during Mars’ history, 7.4 ppb remained trapped in the crust, whereas 33.9 ppb are in the mantle and 0.27 ppb in the atmosphere. The amount of 40K in the mantle and crust quickly decreases by radioactive decay. The evolution of the CO2 atmosphere is significantly impacted by the 80 mbar of CO2 lost to space when considering the present 7 mbar of atmosphere. Contrary to CO2, the late enrichment of the atmosphere in 40Ar, not earlier than 900 Myr after the formation of Mars, does not allow an efficient escape of 40Ar into space. Indeed, sputtering\nshould have been efficient essentially during the first Gyr (Chassefière and Leblanc, 2004). In the present evolution scenario of the escape rate due to sputtering, we do not consider the presence of an intrinsic magnetic dynamo strong enough to influence the interaction of the solar wind with Mars’ atmosphere. Such a magnetic field is thought to have collapsed around 4.1 Gyr ago (e.g., Lillis et al., 2008). A magnetic field strong enough to change Mars’ interaction with the solar wind may have significantly decreased the loss rate due to sputtering so that 40Ar loss to space should have been even less than obtained here. Large impacts on Mars may have contributed to a substantial atmospheric loss during the Noachian (Brain and Jakosky, 1998). However, as for sputtering, atmospheric escape due to meteoritic bombardment is thought to be significant during the first Gyr at a time during which the 40Ar abundance in the atmosphere was small. Moreover, the most recent work on the effect of large impactors on a Mars-type atmosphere concluded that the efficiency of these impacts to eject its atmosphere is probably much less than previously thought (Pham et al., 2009)."
+  }, {
+    "heading": "5. Discussion",
+    "text": "As indicated above, crustal formation and the associated outgassing rate, the enrichment of 40K in the magma and thus the crust, and atmospheric escape can impact the scenario of Fig. 5.\nCO2 outgassing rate has no impact on the final 40Ar atmospheric content. Indeed, following our scenario, CO2 and 40Ar outgassing rate are fully decoupled, 40Ar being released by the crustal formation whereas CO2 outgassing being dependent on several parameters other than crustal formation only (Grott et al., 2011). In the same way, CO2 loss into the ground intensity and time history should not impact our results as long as CO2 loss into the ground is decoupled from the atmospheric 40Ar evolution. We also supposed that the atmospheric content and structure did not change significantly during the last 3.5–4 Gyr (Bibring et al., 2006), so that only the present mixing ratio of 40Ar with respect to CO2 in the thermosphere is important when calculating the escape rate of 40Ar. As a consequence, only exchanges between the mantle and the crust (lines 1 and 2 of Table 1), between the mantle and the atmosphere (line 4 of Table 1) and between the atmosphere and the space (lines 7 and 8 in Table 1) may play a role in Mars’ 40Ar atmospheric abundance evolution. The exchange between the crust and the atmosphere is the last parameter to be constrained in our approach (line 6 in Table 1).\nFor the exchanges between the mantle and the crust, different variations of the nominal case were considered:\n– For a two times smaller crust formation rate with respect to the nominal outgassing rate described Fig. 4b, 5.6% of the 40Ar in the crust are needed to reproduce the present atmospheric abundance. The final crustal thickness is then 52 km. – A 10 times smaller crustal formation rate leads to an 40Ar atmospheric content of less than 0.07 ppb and to a final crust thickness of 45 km. Recognizing that after 100 Myr of crustal formation, the crust is already 43 km thick (Morschhauser et al., 2011), this scenario corresponds to a negligible crustal formation after 100 Myr. – For a two times larger crustal formation rate, with a final crustal thickness of 77.4 km, the atmosphere concentration in 40Ar is still 52% smaller than the observed value by Viking. This implies that without crustal erosion even larger crustal formation rates are needed to retrieve Mars’ atmospheric content, which is not consistent with the estimate of Mars’ present crustal thickness (Neumann et al., 2004; Wieczorek and Zuber, 2004).\nIn all of our simulations, we assume the enrichment factor for 40K into the melt relative to the mantle material to be 5. Such an assumption leads to the enrichment of 40K into the crust and, after\nits radioactive decay, of 40Ar. In the case of no enrichment of 40K in the melt, it is possible to reproduce the present 40Ar atmospheric abundance only if 28% of the crustal 40Ar, i.e., 0.36 ppb, is outgassed otherwise the atmospheric 40Ar abundance is 50% smaller than observed. The mantle keeps most of the 40K and 40Ar, with 40.0 ppb of 40Ar and 36 ppb of 40K remaining in the mantle. A constant enrichment factor equal to 10 leads to an atmosphere with only 0.21 ppb 40Ar and 4.1% of the crustal 40Ar needs to be released to retrieve the present atmospheric concentration.\nFor the exchanges between the mantle and the atmosphere, in the nominal case described in Section 4, we assume that all 40Ar in the melt outgasses entirely into the atmosphere during crustal formation. A less conservative assumption would be to consider that only the 40Ar from the extrusive volcanism is released into the atmosphere whereas the intrusive contribution remained trapped in the crust. In that case, considering the extrusive/intrusive ratio estimated by Greeley and Schneid (1991) as being equal to 8.5, the factor c in Eq. (A4) is equal to 0.9, i.e., 90% of the 40Ar in the melt is trapped into the crust during its formation. In that case, only 0.16 ppb of 40Ar is released in the atmosphere (i.e. only 20% of the observed value) and more than 8% of the crustal 40Ar needs to be supplied to the atmosphere to retrieve Mars’ present abundance.\nFor the exchanges between the atmosphere and the space, we calculate the evolution of the 40Ar atmospheric abundance for two extreme cases:\n– With a total escape rate multiplied by a factor 10, only 4% of the atmospheric 40Ar escape. 840 mbar of CO2 are lost to space but essentially during the first Gyr. Here again, 7.2% of the crustal 40Ar needs to be extracted, a value that is not significantly different from the nominal case value. – In the case of a total escape divided by a factor 10, less than 10 mbar of CO2 escaped to space and 6.9% of the crustal 40Ar needs to be outgassed.\nSputtering is a process which is very badly constrained by our present understanding of Mars’ interaction with the solar wind (Chaufray et al., 2007). Chassefière and Leblanc (2004) estimated that order of magnitude uncertainties on the sputtering rate and its variability are realistic. Since sputtering is the only process by which 40Ar can be lost into space, we also ran a case with a sputtering rate increased by a factor 10. In that case, 150 mbar of CO2 are lost to space. Only 3% of variation of the final atmospheric 40Ar abundance can be seen between cases with and without escape to space. 7.2% of the crustal 40Ar needs to be outgassed to get the present 40Ar abundance. It is only when the loss rate of 40Ar due to sputtering is increased by a factor 100 that a significant decrease by 30% of the atmospheric 40Ar is seen. Such a high sputtering rate leads also to the loss of 0.83 bar of CO2 and of 11.4% of the crustal 40Ar released in the atmosphere.\nEven the temporal evolution of the escaping rate is poorly constrained. The time evolution displayed in Fig. 4a is based on Chassefière and Leblanc (2011b). It is significantly different than the one originally proposed by Chassefière et al. (2007), who suggested a much faster decrease of the escaping rate with time, with a very strong escaping rate during the first Gyr (roughly 10 times larger at 100 Myr than proposed in Fig. 4a but with a faster decrease and a similar level of escaping rate from 1.8 Gyr up to present time). Such an evolution was based on consideration on the dependency of the escaping rate with respect to the solar EUV flux following a power law to the 7. Based on Chaufray et al. (2007), this dependency was later revised to a dependency following a power law to the 1.4 (Chassefière and Leblanc, 2011b). In the case of a variation of the escaping rate following a power law to the 7, we find that 580 mbar of CO2 escaped since 100 Myr as well as 0.08 ppb of\n40Ar, that is 10% of the present atmospheric abundance. In that case, 7.8% of the crustal 40Ar is outgassed in order to reproduce the present value of 0.76 ppb.\nAt the end, a different initial composition of Mars may explain Mars’ present 40Ar atmospheric abundance. At Earth, the reason why only half of the terrestrial 40Ar is in the atmosphere is still a subject of debate (Bender et al., 2008). One possible explanation is given by Lassiter (2004) who argue that the real quantity of 40Ar produced on Earth might be up to two times smaller than commonly supposed. In that case, 60–90% of the Earth 40Ar would be in the atmosphere. Assuming a smaller global reservoir of 40Ar on Mars, as suggested by Lassiter (2004), would imply even stronger crustal erosion than presently calculated.\nTable 3 summarizes the different possible scenarios considered. Both the enrichment factor of 40K in the crust and the crustal formation rate have a significant impact on the present atmospheric abundance of 40Ar. Escape into space has only a marginal effect. It is only when very large escape rates are considered that a significant escape of atmospheric 40Ar abundance occurs with a maximum of 0.8 ppb (sputtering rate multiplied by 100, see Table 3).\nThe uncertainty on the measurement of the present 40Ar atmospheric abundance is of ±20% (Owen et al., 1977), that is, 0.76 ± 0.15 ppb. In the considered cases, a release between 0.36 ppb (low enrichment in 40K of the mantle material forming the crust) and 0.8 ppb (extreme escape rate) of 40Ar from the crust is needed. This is significantly more than the present uncertainty on Mars’ atmospheric content in 40Ar and supports the finding that crustal erosion is necessary to explain the 40Ar concentration observed. It is noted that only a crustal formation, which shows a much larger crustal production during the last 3 Gyr, may be able to explain the observed atmospheric abundance of 40Ar. However, this is inconsistent with the observed crustal production rates indicating that most of the crust has been produced in the early evolution of Mars (e.g., Greeley and Schneid, 1991; Nimmo and Tanaka, 2005)."
+  }, {
+    "heading": "6. Conclusions",
+    "text": "The sources of the martian atmospheric 40Ar are outgassing from the mantle and crustal erosion. The only sink of the atmospheric 40Ar is escape to space. In this paper, we assume various scenarios of crustal formation and atmospheric escape to space in order to constrain the origin of Mars’ 40Ar atmosphere. We\nconclude that Mars’ atmospheric 40Ar could not have escaped significantly into space, or only at the very beginning of Mars’ formation. Indeed, Mars’ atmosphere starts to be enriched in 40Ar about 900 Myr after Mars’ formation, i.e., at a time when escape to space already significantly decreased (as also pointed out by Pepin, 1994). As a consequence, the present atmospheric 40Ar is essentially the cumulative amount of 40Ar that has been outgassed all along Mars’ history.\nStarting from the most recent scenarios of crustal formation (Morschhauser et al., 2011) and of CO2 outgassing (Grott et al., 2011), the present 40Ar atmospheric abundance cannot be reproduced. Only 0.27 ppb of 40Ar is outgassed in Mars’ atmosphere which is much less than the measured value of 0.76 ± 0.15 ppb. Crustal erosion needs to be included to retrieve Mars’ present atmospheric 40Ar abundance and a release of 7 ± 2% of the crustal 40Ar is needed. Assuming that the upper 10 km of the crust are influenced by crustal erosion, 22 ± 7% of the 40Ar within this upper layer has been outgassed into the atmosphere during Mars’ history. This result is in agreement with Pepin (1994) who calculated from Greeley and Schneid (1991) estimate of the average extrusive and intrusive magma generations since the late Noachian, that 10% of a 40 km thick crust should have been outgassed since 3.7 Gyr ago. The knowledge of the fraction of crustal 40Ar outgassed to the atmosphere is an important constraint for any future global modelling of Mars’ hydrothermal activity and its evolution aiming at better characterizing the role of subsurface aqueous alteration processes in Mars’ climate evolution at the Noachian–Hesperian transition and at later epochs. The atmospheric 40Ar is therefore essentially the product of the past cumulative outgassing of Mars’ mantle and crust.\nIt is difficult to provide a more accurate estimate of the cumulative crustal erosion rate also because of the relatively large uncertainty in the present atmospheric 40Ar abundance. Hopefully, Mars Science Laboratory mission will provide new absolute and more precise measurements of this abundance that will allow us to better constrain the related outgassing and crustal erosion. On the other hand, the 40Ar/36Ar ratio in the Shergottite glass was measured to be equal to 1900, that is, between 25% and 50% smaller than the measured ratio in the present martian atmosphere (Bogard et al., 2001). According to our results of Mars’ escape, atmospheric escape cannot have significantly impacted Ar isotopic fractionation during the last 1 Gyr, i.e., the estimate age of Shergottite glass. Therefore, there is a strong and puzzling contradiction between our present knowledge of Mars’ atmospheric escape for the last 1 Gyr, the estimate crystallization age of Shergottite and/or the measured 40Ar/36Ar ratio in Mars’ atmosphere and/or the Shergottite age. Here, also new and more accurate measurements of this ratio will give strong constraints on this issue."
+  }, {
+    "heading": "Acknowledgments",
+    "text": "This work was partially funded by EPOV/CNRS and by ETH Zurich postdoctoral fellowship program."
+  }, {
+    "heading": "Appendix A. Appendix",
+    "text": "Following the assumption described in Section 2, the time evolution of the different reservoirs of 40Ar described in Fig. 1 can be calculated from the following equations.\nd½40K m dt ¼ k40K ½40K m ½40K m Pc e=Vm ðA1Þ\nwith [40K]m the concentration of 40K in the mantle at time t and k40K the decay rate of 40K per year. Vm is the volume of the mantle at time t. Pc is the crustal production rate by extrusive and intrusive\nvolcanism in km3 per year and e the enrichment factor of 40K (enrichment of 40K into the melt that forms the crust relative to the mantle material). Pc can be decomposed into two contributions, extrusive Pc(ext) and intrusive Pc(int) with a proportionality between these two contributions assuming a factor of 8.5 (Greeley and Schneid, 1991).\nd½40K c dt ¼ k40K ½40K c ½40K m Pc e=Vm ðA2Þ\nwith [40K]c the concentration of 40K atoms in the crust at time t.\nd½40Ar m dt ¼ k40K ½40K m a ½40Ar m Pc=Vm ðA3Þ\nwith [40Ar]m the concentration of 40Ar atoms in the mantle at time t.\nd½40Ar c dt\n¼ k40K ½40K c aþ ½40Ar m Pc c=Vm ½40Ar c PcðextÞ b=Vc ðA4Þ\nwith [40Ar]c the concentration of 40Ar in the crust at time t, c the percentage of mantle 40Ar which remains trapped in the crust during crustal formation, Vc the crust volume and b the efficiency of crust erosion to deplete the crust of its 40Ar. The third term describes the crust erosion leading to 40Ar crustal outgassing. It is set to be proportional to the extrusive crust formation rate but rescaled for each run by estimating b in order to retrieve the present 40Ar atmospheric content. Therefore, in our calculation, only the temporal evolution of Pc(ext) is important (which is the same temporal evolution as Pc following Greeley and Schneid, 1991).\nThe atmospheric content can be calculated from:\ndNaðCO2Þ dt ¼ fdegðCO2Þ fLossðCÞ fCarbðCO2Þ ðA5Þ\nwith Na(CO2) the number of CO2 in the atmosphere at time t, fdeg(CO2) the number of CO2 molecules degassed per year, floss(C) the number of C atoms lost per year and fcarb(CO2) the number of CO2 lost per year in the crust.\nd½40Ar a dt ¼ ½40Ar m Pc ð1 cÞ=Vm þ ½40Ar c PcðextÞ\nb=V c fLoss sputtðCO2Þ ½40Ar a ðA6Þ\nwith [40Ar]a the concentration in the atmosphere of 40Ar, [40Ar]a = - Na(40Ar)/Na(CO2), and fLoss_sputt(CO2) the number of CO2 molecules lost per year by sputtering. The pressure of CO2 and 40Ar in Mars’ atmosphere can then be calculated from:\nPaðCO2Þ ¼ NaðCO2Þ mCO2 gMars=ð4p R 2 MarsÞ 10 6 ðA7Þ\nPað40ArÞ ¼ Nað40ArÞ m40Ar gMars=ð4p R 2 MarsÞ 10 6 ðA8Þ\nwith Pa(CO2) the CO2 pressure in bar, mCO2 the mass of a molecule of CO2 (=7.36 10 23 g), Pa(40Ar) the partial pressure of 40Ar, RMars Mars radius (=3.390 108 cm), gMars the surface gravity acceleration of Mars (317 cm/s2) and m40Ar the mass of 40Ar."
+  }],
+  "year": 2012,
+  "references": [{
+    "title": "Global mineralogical and aqueous Mars history derived from OMEGA/Mars",
+    "authors": ["J.P. Bibring"],
+    "venue": "Express data. Science",
+    "year": 2006
+  }, {
+    "title": "The atmosphere of Mars near surface: Isotope ratios and upper limits on",
+    "authors": ["K Biemann"],
+    "venue": "Noble gases. Science",
+    "year": 1976
+  }, {
+    "title": "Shallow Moonquakes: Argon release mechanism",
+    "authors": ["A.B. Binder"],
+    "venue": "Geophys. Res. Letters",
+    "year": 1980
+  }, {
+    "title": "Martian volatiles: Isotopic composition, origin and evolution",
+    "authors": ["D.D. Bogard", "R.N. Clayton", "K. Marti", "T. Owen", "G. Turner"],
+    "venue": "Chronol. Evol. Mars",
+    "year": 2001
+  }, {
+    "title": "Atmospheric loss since the onset of the martian geologic record: Combined role of impact erosion and sputtering",
+    "authors": ["D.A. Brain", "B.M. Jakosky"],
+    "venue": "J. Geophys. Res",
+    "year": 1998
+  }, {
+    "title": "Viscosity of the martian mantle and its initial temperature: Constraints from crust formation history and the evolution of the magnetic field",
+    "authors": ["D. Breuer", "T. Spohn"],
+    "venue": "Icarus",
+    "year": 2006
+  }, {
+    "title": "Mars atmospheric escape and evolution; interaction with the solar wind",
+    "authors": ["E. Chassefière", "F. Leblanc"],
+    "venue": "Planet. Space Sci",
+    "year": 2004
+  }, {
+    "title": "Methane release and the carbon cycle on Mars, Planet",
+    "authors": ["E. Chassefière", "F. Leblanc"],
+    "venue": "Space Sci. Planet. Space Sci",
+    "year": 2011
+  }, {
+    "title": "Constraining methane release due to serpentinization by the observed D/H ratio on Mars",
+    "authors": ["E. Chassefière", "F. Leblanc"],
+    "venue": "Earth Planet. Sci",
+    "year": 2011
+  }, {
+    "title": "The combined effects of escape and magnetic field histories at Mars",
+    "authors": ["E. Chassefière", "F. Leblanc", "B. Langlais"],
+    "venue": "Planet. Space Sci",
+    "year": 2007
+  }, {
+    "title": "Mars solar wind interaction: Formation of the martian corona and atmospheric loss to space",
+    "authors": ["J.Y. Chaufray", "R. Modolo", "F. Leblanc", "G. Chanteur", "R.E. Johnson", "J.G. Luhmann"],
+    "venue": "J. Geophys. Res",
+    "year": 2007
+  }, {
+    "title": "Martian corona: Nonthermal sources of hot heavy species",
+    "authors": ["F. Cipriani", "F. Leblanc", "J.J. Berthelier"],
+    "venue": "J. Geophys. Res. 112, E07001",
+    "year": 2007
+  }, {
+    "title": "Minimum estimates of the amount and timing of gases released into the martian atmosphere from volcanic eruptions",
+    "authors": ["R.A. Craddock", "R. Greeley"],
+    "venue": "Icarus",
+    "year": 2009
+  }, {
+    "title": "Coupled 142Nd–143Nd evidence for a protracted magma ocean in Mars",
+    "authors": ["V. Debaille", "A.D. Brandon", "Q.Z. Yin", "B. Jacobsen"],
+    "venue": "Nature 450,",
+    "year": 2007
+  }, {
+    "title": "Magma generation on Mars: Amounts, rates, and comparisons with Earth, Moon and Venus",
+    "authors": ["R. Greeley", "B.D. Schneid"],
+    "venue": "Science",
+    "year": 1991
+  }, {
+    "title": "Volcanic outgassing of CO2 and H2O on Mars",
+    "authors": ["M. Grott", "A. Morschhauser", "D. Breuer", "E. Hauber"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2011
+  }, {
+    "title": "Earth-atmosphere evolution model based on argon isotopic data",
+    "authors": ["Y. Hamano", "M. Ozima"],
+    "venue": "Adv. Earth Planet. Sci",
+    "year": 1978
+  }, {
+    "title": "Thermal and crustal evolution of Mars",
+    "authors": ["S.A. Hauck II", "R.J. Phillips"],
+    "venue": "J. Geophys. Res",
+    "year": 2002
+  }, {
+    "title": "Partition of noble gases between olivine and basalt melt",
+    "authors": ["H. Hiyagon", "M. Ozima"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1986
+  }, {
+    "title": "Episodic release",
+    "authors": ["R.R. Hodges", "J.H. Hoffman"],
+    "year": 1974
+  }, {
+    "title": "Chronology of SNC meteorites",
+    "authors": ["R.E", "D. Schnellenberger", "M.C. Wong"],
+    "venue": "Moon. Fifth Lunar Conference,",
+    "year": 1991
+  }, {
+    "title": "Mars’ upper atmosphere and ionosphere at low, medium and high solar activities: Implications for evolution of water",
+    "authors": ["V.A. Krasnopolsky"],
+    "venue": "J. Geophys. Res",
+    "year": 2002
+  }, {
+    "title": "Role of recycled oceanic crust in the potassium and argon budget of the Earth: Toward a resolution of the ‘‘missing argon’",
+    "authors": ["J.C. Lassiter"],
+    "venue": "problem. Geochem. Geophys. Geosyst",
+    "year": 2004
+  }, {
+    "title": "Role of molecules in pick-up ion sputtering of the martian atmosphere",
+    "authors": ["F. Leblanc", "R.E. Johnson"],
+    "venue": "J. Geophys. Res. – Planets",
+    "year": 2002
+  }, {
+    "title": "Rapid decrease in martian crustal magnetization in the Noachian era: Implications for the dynamo and climate of early Mars",
+    "authors": ["R.J. Lillis", "H.V. Frey", "M. Manga"],
+    "venue": "Geophys. Res. Lett. 35,",
+    "year": 2008
+  }, {
+    "title": "Dayside pickup oxygen precipitation at Venus and Mars-spatial distributions energy deposition and consequences",
+    "authors": ["J.G. Luhmann", "J.U. Kozyra"],
+    "venue": "J. Geophys. Res",
+    "year": 1991
+  }, {
+    "title": "Evolutionary impact of sputtering of the martian atmosphere by O pick-up ions",
+    "authors": ["J.G. Luhmann", "R.E. Johnson", "M.H.G. Zhang"],
+    "venue": "Geophys. Res. Lett. 19,",
+    "year": 1992
+  }, {
+    "title": "Localized gravity/topography admittance and correlation spectra on Mars: Implications for regional and global evolution",
+    "authors": ["P.J. McGovern"],
+    "venue": "J. Geophys. Res",
+    "year": 2002
+  }, {
+    "title": "Correction to ‘‘localized gravity/topography admittance and correlation spectra on Mars: Implications for regional and global evolution’",
+    "authors": ["P.J. McGovern"],
+    "venue": "J. Geophys. Res. 109,",
+    "year": 2004
+  }, {
+    "title": "Influence of the solar activity on the martian plasma environment",
+    "authors": ["R. Modolo", "G.M. Chanteur", "E. Dubinin", "A.P. Matthews"],
+    "venue": "Ann. Geophys",
+    "year": 2005
+  }, {
+    "title": "Crustal recycling, mantle dehydration and the thermal evolution of Mars",
+    "authors": ["A. Morschhauser", "M. Grott", "D. Breuer"],
+    "venue": "Icarus",
+    "year": 2011
+  }, {
+    "title": "Crustal structure of Mars from gravity and topography",
+    "authors": ["G.A. Neumann", "M.T. Zuber", "M.A. Wieczorek", "P.J. McGovern", "F.G. Lemoine", "D.E. Smith"],
+    "venue": "J. Geophys. Res. 109,",
+    "year": 2004
+  }, {
+    "title": "Composition and structure of Mars upper atmosphere: Results from the neutral mass spectrometers on Viking 1 and 2",
+    "authors": ["A.O. Nier", "M.B. McElroy"],
+    "venue": "J. Geophys. Res",
+    "year": 1977
+  }, {
+    "title": "Estimates of martian crustal thickness from viscous relaxation of topography",
+    "authors": ["F. Nimmo", "D.J. Stevenson"],
+    "venue": "J. Geophys. Res",
+    "year": 2001
+  }, {
+    "title": "Early crustal evolution of Mars",
+    "authors": ["F. Nimmo", "K. Tanaka"],
+    "venue": "Annu. Rev. Earth Planet. Sci",
+    "year": 2005
+  }, {
+    "title": "The composition and thickness of the crust of Mars estimated from rare Earth elements and neodymium-isotopic composition of martian meteorites",
+    "authors": ["N.D. Norman"],
+    "venue": "Meteorit. Planet. Sci",
+    "year": 1999
+  }, {
+    "title": "Thickness and composition of the martian crust revisited: Implications of an ultradepleted mantle with a Nd isotopic composition like that of QUE94201",
+    "authors": ["M.D. Norman"],
+    "venue": "Lunar Planet. Sci",
+    "year": 2002
+  }, {
+    "title": "Composition of the atmosphere at the surface of Mars: Detection of argon-36 and preliminary analysis",
+    "authors": ["T. Owen", "K. Biemann"],
+    "year": 1976
+  }, {
+    "title": "The composition of the atmosphere at the surface of Mars",
+    "authors": ["T. Owen", "K. Biemann", "D.R. Rushneck", "J.E. Biller", "D.W. Howarth", "A.L. LaFleur"],
+    "venue": "J. Geophys. Res",
+    "year": 1977
+  }, {
+    "title": "Noble Gas Geochemistry",
+    "authors": ["M. Ozima", "F.A. Podosek"],
+    "year": 1983
+  }, {
+    "title": "On the origin and early evolution of Terrestrial planet atmospheres and meteoritic volatiles",
+    "authors": ["R.O. Pepin"],
+    "venue": "Icarus",
+    "year": 1991
+  }, {
+    "title": "Evolution of the martian atmosphere",
+    "authors": ["R.O. Pepin"],
+    "venue": "Icarus 111,",
+    "year": 1994
+  }, {
+    "title": "Effects of meteorite impacts on the atmospheric evolution of Mars",
+    "authors": ["L.B.S. Pham", "O. Karatekin", "V. Dehant"],
+    "venue": "Astrobiology",
+    "year": 2009
+  }, {
+    "title": "Mars’ south polar ar enhancement: A tracer for south polar seasonal meridional mixing",
+    "authors": ["A.L. Sprague"],
+    "venue": "Science",
+    "year": 2004
+  }, {
+    "title": "Mars’ atmospheric argon: Tracer for understanding martian atmospheric circulation and dynamics",
+    "authors": ["A.L. Sprague"],
+    "venue": "J. Geophys. Res. 112,",
+    "year": 2007
+  }, {
+    "title": "Bulk composition and early differentiation of Mars",
+    "authors": ["Taylor", "G.J"],
+    "venue": "J. Geophys. Res. 111,",
+    "year": 2006
+  }, {
+    "title": "The modeling of Venus’ outgassing in terms of K",
+    "authors": ["V.P. Volkov", "M.Y. Frenkel"],
+    "venue": "Ar system. Earth Moon Planet",
+    "year": 1993
+  }, {
+    "title": "Chemistry and accretion history of Mars",
+    "authors": ["H. Wänke", "G. Dreibus"],
+    "venue": "Philos. Trans. R. Soc. Lond",
+    "year": 1994
+  }, {
+    "title": "The thickness of the martian crust: Improved constraints from geoid-to-topography ratios",
+    "authors": ["M.A. Wieczorek", "M.T. Zuber"],
+    "venue": "J. Geophys. Res. 109 (E1),",
+    "year": 2004
+  }],
+  "id": "SP:7f431d2f465cff1ae995c0ce251ea394d8178b5b",
+  "authors": [{
+    "name": "F. Leblanc",
+    "affiliations": []
+  }, {
+    "name": "E. Chassefière",
+    "affiliations": []
+  }, {
+    "name": "C. Gillmann",
+    "affiliations": []
+  }, {
+    "name": "D. Breuer",
+    "affiliations": []
+  }],
+  "abstractText": "Noble gas Ar may be used as a tracer of the past evolution of volatiles in Mars’ crust, mantle and atmosphere. Ar is formed by the radioactive decay of K in the mantle and in the crust and is released from the mantle to the atmosphere due to volcanism and from the crust by erosion such as eolian and hydrothermal erosion. Furthermore, Ar can escape from the atmosphere into space via atmospheric escape mechanisms. The evolution of the atmospheric abundance of Ar thus depends on these three processes whose efficiencies vary with time. In the present study we reconsider atmospheric escape mechanism efficiencies and describe various possible scenarios of the evolution of Ar with a model describing the three main reservoirs of Ar, the mantle, crust and atmosphere. First, we show that atmospheric escape, which is stronger in the early evolution, does not significantly influence the present abundance of the atmospheric Ar. In the early evolution the atmospheric concentration of Ar is very low as the outgassing of Ar from the mantle occurs relatively late in the martian evolution. Thus, the atmospheric Ar concentration is essentially a tracer of Mars’ outgassing history and not of the escape processes. Second, using the results of the most recent published crustal formation models, the calculated present Ar atmospheric abundance is smaller than its observed value. This discrepancy may be explained by a significant Ar supply from the crust by erosion (16–30% of the Ar content of the upper first 10 km of crust). The knowledge of the fraction of crustal Ar outgassed to the atmosphere is an important constraint for any future global modelling of past Mars’ hydrothermal activity aiming at better characterizing the role of subsurface aqueous alteration processes in Mars climate evolution. One of the main sources of the uncertainty of these results is the present uncertainty in the measured atmospheric Ar value (±20%). More precise measurements of Ar and Ar in the martian atmosphere are therefore required to better constrain the model. 2012 Elsevier Inc. All rights reserved.",
+  "title": "A tracer for past crustal erosion"
+}

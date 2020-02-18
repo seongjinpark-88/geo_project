@@ -1,0 +1,914 @@
+{
+  "sections": [{
+    "text": "lable at ScienceDirect\nContents lists avai\nQuaternary Science Reviews\njournal homepage: www.elsevier .com/locate/quascirev\nInvited review\nLast millennium Northern Hemisphere summer temperatures from tree rings: Part II, spatially resolved reconstructions\nKevin J. Anchukaitis a, b, c, *, Rob Wilson d, c, Keith R. Briffa e, Ulf Büntgen f, g, h, Edward R. Cook c, Rosanne D'Arrigo c, Nicole Davi c, i, Jan Esper j, David Frank b, g, Bj€orn E. Gunnarson k, Gabi Hegerl l, Samuli Helama m, Stefan Klesse b, g, Paul J. Krusic k, c, n, Hans W. Linderholm o, Vladimir Myglan p, Timothy J. Osborn e, Peng Zhang o, Milos Rydval d, q, Lea Schneider r, Andrew Schurer l, Greg Wiles s, Eduardo Zorita t\na School of Geography and Development, University of Arizona, Tucson, AZ, USA b Laboratory of Tree-Ring Research, University of Arizona, Tucson, AZ, USA c Lamont-Doherty Earth Observatory of Columbia University, Palisades, NY, USA d School of Geography and Geosciences, University of St Andrews, UK e Climatic Research Unit, School of Environmental Sciences, University of East Anglia, Norwich, UK f Department of Geography, University of Cambridge, Cambridge, UK g Swiss Federal Research Institute WSL, Birmensdorf, Switzerland h Global Change Research Centre and Masaryk University Brno, Czechia i Department of Environmental Science, William Paterson University, Wayne, NJ, USA j Department of Geography, Gutenberg University, Mainz, Germany k Department of Physical Geography, Stockholm University, Stockholm, Sweden l School of GeoSciences, University of Edinburgh, Edinburgh, UK m Natural Resources Institute Finland, Rovaniemi, Finland n Navarino Environmental Obs., Messinia, Greece o Department of Earth Sciences, University of Gothenburg, G€oteborg, Sweden p Siberian Federal University, Krasnoyarsk, Russia q Faculty of Forestry and Wood Sciences, Czech University of Life Sciences Prague, Czechia r Department of Geography, Justus Liebig University, Giessen, Germany s Tree Ring Lab, The College of Wooster, Wooster, OH, USA t Institute of Coastal Research, Helmholtz-Zentrum Geesthacht (HZG), Hamburg, Germany\na r t i c l e i n f o\nArticle history: Received 27 August 2016 Received in revised form 20 February 2017 Accepted 21 February 2017 Available online 8 March 2017\nKeywords: Tree-rings Northern Hemisphere Last millennium Common Era Summer temperatures Reconstruction Spatial\n* Corresponding author. School of Geography and Arizona, Tucson, AZ, USA.\nE-mail address: kanchukaitis@email.arizona.edu (K\nhttp://dx.doi.org/10.1016/j.quascirev.2017.02.020 0277-3791/© 2017 Elsevier Ltd. All rights reserved.\na b s t r a c t\nClimate field reconstructions from networks of tree-ring proxy data can be used to characterize regionalscale climate changes, reveal spatial anomaly patterns associated with atmospheric circulation changes, radiative forcing, and large-scale modes of ocean-atmosphere variability, and provide spatiotemporal targets for climate model comparison and evaluation. Here we use a multiproxy network of tree-ring chronologies to reconstruct spatially resolved warm season (MayeAugust) mean temperatures across the extratropical Northern Hemisphere (40-90 N) using Point-by-Point Regression (PPR). The resulting annual maps of temperature anomalies (750e1988 CE) reveal a consistent imprint of volcanism, with 96% of reconstructed grid points experiencing colder conditions following eruptions. Solar influences are detected at the bicentennial (de Vries) frequency, although at other time scales the influence of insolation variability is weak. Approximately 90% of reconstructed grid points show warmer temperatures during the Medieval Climate Anomaly when compared to the Little Ice Age, although the magnitude varies spatially across the hemisphere. Estimates of field reconstruction skill through time and over space can guide future temporal extension and spatial expansion of the proxy network.\n© 2017 Elsevier Ltd. All rights reserved.\nDevelopment, University of\n.J. Anchukaitis)."
+  }, {
+    "heading": "1. Introduction",
+    "text": "Global and hemispheric temperature anomalies reflect the\ninfluence of both internal variability in the climate system as well as the consequences of changes in radiative forcing, such as insolation, volcanic eruptions, and greenhouse gas concentrations. Surface temperature is determined by the planetary energy balance and serves as a symptom of perturbations to that balance, but also contains variability due to natural climate system dynamics. Rising global mean surface temperature is a key diagnostic for the influence of increasing greenhouse gases on the Earth's climate system. Yet changes in incoming solar radiation, orbital (Milankovich) changes, albedo and land use alterations, and natural and anthropogenic aerosols also influence surface temperatures. Different radiative forcing mechanisms as well as internal modes of coupled ocean-atmosphere variability may have distinct fingerprints on temperature anomalies across different spatial, temporal, and seasonal scales (Hegerl et al., 1997; Rind et al., 1999; Shindell et al., 2001b; Hegerl et al., 2003; Rind et al., 2004; Shindell et al., 2003, 2004; Hegerl et al., 2006, 2007; Shindell and Faluvegi, 2009; Shindell, 2014; Shindell et al., 2015). Surface temperature anomalies are therefore controlled by the superposition of various external radiative and internal dynamical influences on the climate system. Detection and attribution of the causes of temperature fluctuations, as well as the prediction of future regional-scale changes, thus depend on accurate quantification and understanding of spatial and temporal variations in surface temperature (Hegerl et al., 1997; Stott and Tett, 1998; Meehl et al., 2004; Lean and Rind, 2008; Stott and Jones, 2009; Stott et al., 2010; Solomon et al., 2011; Hegerl and Stott, 2014).\nPaleoclimate reconstructions of past temperature extend knowledge of climate system variability beyond that available from the limited instrumental observational record. They offer longer timescales over which to observe a more complete range of variability in solar and volcanic forcing, extended opportunities to characterize internal climate system fluctuations at decadal and longer timescales, and the potential to separate forced and unforced responses to better understand their magnitude and spatiotemporal patterns (Hegerl et al., 2003, 2007). Spatiallyexplicit reconstructions provide additional opportunities to refine our understanding of fundamental climate system characteristics, diagnose the influence of different forcings on various aspects of the climate system, and provide insight into both regional climate changes and the response of large-scale modes of oceanatmosphere variability (Seager et al., 2007; Cook et al., 2010a, b; Hegerl and Russon, 2011; Phipps et al., 2013; PAGES 2k-PMIP3 group, 2015; Goosse, 2016). Comparisons between paleoclimatic data and models also provide out-of-sample tests of the general circulation models (GCMs) used for future climate projections and can indicate where the modeled forced response or internal variability requires further evaluation and continued refinement. Such comparisons may help constrain the probable range of model parameters or identify the forcing configurations most consistent with past climate variability (Edwards et al., 2007; Anchukaitis et al., 2010; Schmidt, 2010; Hegerl and Russon, 2011; Brohan et al., 2012; Schurer et al., 2013; Schmidt et al., 2014; Harrison et al., 2015; Tingley et al., 2015).\nReconstructions of last millennium and Common Era surface temperatures have focused predominantly on single time-series to represent continental- to global-scale variations in mean annual or growing season temperatures aggregated over space (Frank et al., 2010; Masson-Delmotte et al., 2013; PAGES2k, 2013; Stoffel et al., 2015; Smerdon and Pollack, 2016) while fewer have used climate field reconstruction (CFR) methods (Fritts, 1991; Cook et al., 1994; Evans et al., 2001; Tingley et al., 2012) to quantify past temperature anomalies simultaneously through time and across space (c.f. Mann et al., 1998; Tingley and Huybers, 2013; Wang et al., 2015). Spatial field reconstructions offer the benefit of characterizing\nregional-scale climate changes, can reveal spatial anomaly patterns or fingerprints associated with atmospheric circulation, radiative forcing, and large-scalemodes of ocean-atmosphere variability, and provide complete spatiotemporal targets for GCM evaluation (Evans et al., 2001; Anchukaitis and McKay, 2014; Kaufman, 2014; Schmidt et al., 2014).\nHere, we develop and evaluate a climate field reconstruction of extratropical Northern Hemisphere summer temperatures using an updated network of temperature-sensitive tree-ring proxy chronologies and existing temperature reconstructions back to 750 CE (Wilson et al., 2016). We are motivated by two fundamental challenges to the development of skillful large-scale last millennium temperature reconstructions revealed over the last two decades (c.f. Frank et al., 2010; Smerdon and Pollack, 2016): First, biases arising from characteristics of the proxies themselves; second, uncertainties arising from the choice of reconstruction methodologies.\nTree-ring proxies provide precise annual dating and are broadly distributed across extra-tropical land areas, making them one of the most widely used proxies for climate reconstructions of the Common Era (Hughes, 2002; Jones et al., 2009; Smerdon and Pollack, 2016). Yet despite these advantages, certain challenges or limitations exist: they preferentially reflect growing season temperature conditions, they require some manner of processing to remove non-climatic age or tree geometry related growth trends, and there exist a wide range of climate responses amongst the more than two thousand tree-ring chronologies currently archived in public repositories (Briffa,1995, 2000; Briffa et al., 2002, 2004; St. George, 2014; St. George and Ault, 2014). A decade ago, D'Arrigo et al. (2006) and Wilson et al. (2007) used small high-latitude networks of tree-ring proxy chronologies to reconstruct mean annual Northern Hemisphere temperatures. These and subsequent efforts have illuminated several extant challenges: a relatively limited number of unambiguously temperature-sensitive chronologies, a predominance of ring-width chronologies in comparison to the more temperature-sensitive wood density measurements (D'Arrigo et al., 1992; Schweingruber et al., 1993; Briffa et al., 2004; Frank et al., 2007; D'Arrigo et al., 2009; Esper et al., 2015; Wilson et al., 2016), and the influence of non-stationarity in climate/tree growth associations (‘divergence’; Briffa et al., 1998b; Wilson et al., 2007; D'Arrigo et al., 2008), a particular problem for North American treeline tree-ring width chronologies (Jacoby and D'Arrigo, 1995; Andreu-Hayles et al., 2011; Anchukaitis et al., 2013) and many previously collected wood density chronologies (Briffa et al., 2002). Since the publication of D'Arrigo et al. (2006) and Wilson et al. (2007), dozens of new tree-ring chronologies and local temperature reconstructions have become available, including many new and updated latewood density (MXD) measurement series that do not appear to exhibit any divergence (c.f. D'Arrigo et al., 2009; Esper et al., 2010; Anchukaitis et al., 2013). We draw on these new, published, and updated data here to develop a spatial reconstruction of past summer temperature stretching back to 750 CE. This work extends the non-spatial hemisphere mean reconstruction published by Wilson et al. (2016).\nMethodologies for last millennium climate reconstructions have been extensively investigated and tested over the last two decades (Mann and Rutherford, 2002; Rutherford et al., 2003; Zorita et al., 2003; von Storch et al., 2004; Esper et al., 2005; Mann et al., 2005, 2007; Li et al., 2010; Lee et al., 2008; Smerdon et al., 2008, 2010, 2011; Wang et al., 2015; Smerdon and Pollack, 2016). However, neither reduced space, empirical orthogonal regression methods (c.f. Fritts, 1991; Cook et al., 1994; Mann et al., 1998) nor most variants of regularized expectation maximization (RegEM Schneider, 2001; Rutherford et al., 2003; Mann et al., 2009) explicitly consider the location of the proxies relative to the\n1 https://www.ncdc.noaa.gov/paleo[HYPHEN]search/study/19743.\nreconstruction target, and therefore reconstructions of individual grid points can be significantly influenced by distant proxy sites. While there is potential value in taking into account large-scale teleconnections between the climate in a remote region and the local conditions controlling proxy formation (Evans et al., 2001, 2002), the potential disadvantage to these approaches is that they rely implicitly on the existence, stability, and persistence of those teleconnections (Gershunov and Barnett, 1998; Rimbu et al., 2003; Anchukaitis et al., 2006; Wilson et al., 2010; Lehner et al., 2012; Gallant et al., 2013; Ortega et al., 2015; Wise, 2015; Lewis and LeGrande, 2015), assume the time-stability of large-scale covariance patterns, and risk admitting distal predictors with spurious relationships to local temperatures. However, several methods exist which do account for the spatial distribution and relationship of the proxy predictor network to the target field (Cook et al., 1999; Tingley and Huybers, 2010; Steiger et al., 2014). Here we use Pointby-Point regression (PPR; Cook et al., 1999) to develop, for the first time, a hemisphere-scale spatial temperature reconstruction. For an extensive review of the full range of climate field reconstruction methods, see Tingley et al. (2012).\nWe seek a spatial reconstruction of past temperatures that utilizes a predictor network with a clear biophysical and statistical relationship with temperature. We therefore apply the expert knowledge of the original developers of the individual chronologies and reconstructions, relying on their experience with respect to climate signal evaluation and statistical treatment (c.f. Esper et al., 2016). PPR is a well-established, transparent, and spatially-explicit methodology for climate field reconstruction. The result of PPR here is a gridded map of summer temperature anomalies for each year of the last ~1200 years with associated validation skill metrics in both space and time. An additional benefit of PPR is that limiting the grid point reconstructions to proximal predictors and avoiding assumptions about the global covariance structure ensures that distant grid points remain independent of one another. The spatial features of the field can therefore be examined and compared without concern that they arise from use of the same predictors.\nWe compare our results against radiative forcing over the last millennium (Schmidt et al., 2012), diagnosing the potential role of volcanic eruptions and insolation variability in shaping the Northern Hemisphere extratropical warm season temperature response across space and time. Our field reconstruction can serve as a resource for understanding temperature variability in the past, for comparison with other proxy records of environmental and climate change, and to provide context for coupled human-natural systems response to climate variability (e.g. Buckley et al., 2010; Büntgen et al., 2011, 2016; Pederson et al., 2014). Our reconstruction also provides a spatiotemporal target appropriate for formal detection and attribution of the influence of different sources of radiative forcing on the Earth's climate system."
+  }, {
+    "heading": "2. Materials and methods",
+    "text": ""
+  }, {
+    "heading": "2.1. Tree-ring series",
+    "text": "Tree-ring based reconstructions of large-scale climate variability, whether a single mean time series or a spatial climate field reconstruction, require selecting potential proxy predictors from themany thousands of chronologies that have been developed over the last century of tree-ring research (St. George, 2014). The majority of these chronologies were not collected or developed with the intended purpose of temperature reconstruction and do not contain a primary temperature signal. It is therefore necessary to apply some selection procedure, lest chronologies lacking temperature information overwhelm the predictor set with ‘noise’ associated with soil moisture, archaeological selection, ecological\nprocesses, or spurious non-temperature signals. Two broad categories of approach have been used for initial predictor selection: statistical screening and expert assessment. In statistical screening (c.f. Mann et al., 2008), proxy series are assessed for their correlations against local or regional observational temperature data, with those data passing some significance, sign, or effect size threshold then admitted to the pool of potential predictors. While this approach clearly has merit as an objective and automated approach, it virtually guarantees the selection of a proportion of proxies without a realistic biophysical or substantial statistical association with the climate variable targeted for reconstruction. A second approach utilizes expert assessment of individual chronologies based on an understanding of whether a proxy has the requisite ecological, biological, geographical, and climatological characteristics to serve as a reasonable temperature proxy. Although this approach is not completely isolated from statistical considerations, the advantage is that it strongly reduces the likelihood that a non-temperature proxy or nonsense predictor will enter into a temperature reconstruction model. Expert assessment can include not only climate signal and ecological criteria, but also the methods used to develop the proxy series (e.g. Esper et al., 2016). A potential disadvantage to this approach is that it is partially subjective and therefore different investigators could make different selections for the predictor pool. Hybrid approaches that combine simple mechanistic or physiological assessment with statistical evaluation have also been applied (c.f. Tierney et al., 2015).\nHere, we follow Wilson et al. (2016) and use as our predictor series only published tree-ring chronologies and temperature reconstructions that demonstrate an established and biophysically reasonable association with local temperatures. These include both tree-ring chronologies as well as existing temperature reconstructions from Northern Hemisphere high-latitude and highaltitude locations, where dendrochronological and ecological principles suggest the most limiting factor for growth is temperature (Fritts, 1976). We exclude from consideration chronologies south of 40 N to avoid confounding climate signals associated with moisture-sensitive trees (St. George, 2014) and we also reject chronologies known to demonstrate evidence of the ‘divergence problem’ (Briffa et al., 1998b; D'Arrigo et al., 2008, 2009; Wilson et al., 2007), a problem previously observed to affect North American Picea glauca tree-ring width chronologies (D'Arrigo et al., 1992, 2009; Andreu-Hayles et al., 2011; Esper et al., 2012) andmanyMXD chronologies developed in the 1970s and 1980s. We require that our predictors extend back to at least 1750 CE and completely forward to 1988 CE. The predictors retain the detrending and standardization choices of the original authors. The resulting dataset is designated N-TREND2015 and is composed of a mixture of tree-ring width (TRW), MXD (Schweingruber et al., 1978), and blue intensity (BI; McCarroll et al., 2002) data. N-TREND2015 is archived and publicly available1 and is the same dataset used in Part 1 of this study (Wilson et al., 2016). N-TREND is intended to be a ‘living dataset’ that will grow or be modified as new proxies become available or are updated. Details of the predictor time series used here and in Wilson et al. (2016) are available in Table 1. As shown in Fig. 1, the NTREND-2015 network reflects a mix of proxy types, dominated by MXD or BI (43 series, vs. 11 composed of treering width data only). A total of 54 series are available from 1750 to 1988 CE, the time period of full (denoted ‘BEST’) coverage of the network. The number of sites drops precipitously toward the present, down to 34 by 1990 CE and to 25 series by 2000 CE, with only 3 sites remaining by 2011. There are 23 series at 1000 CE and 4\nremain at 750 CE, the limits of our reconstruction. While all the tree-ring chronologies and reconstructions have significant and substantial correlations with local temperatures in one or more months, locations that include MXD and BI data overall have higher correlations compared to sites composed of tree-ring width data alone (Fig. 2; see also Wilson et al. (2016))."
+  }, {
+    "heading": "2.2. Observational data",
+    "text": "Our target field (predictand) for our temperature reconstruction is the interpolated hybrid (surface and satellite information) version of HadCRUT4 from Cowtan and Way (2014). The original HadCRUT4 (Morice et al., 2012) consists of monthly temperature anomalies relative to the mean of the 1961 to 1990 CE period on a regular 5 latitude/longitude grid and combines CRUTEM4 (Jones et al., 2012) over land with HADSST3 (Kennedy et al., 2011a, b) for the oceans. Use of the Cowtan and Way (2014) dataset provides several advantages . First, this dataset seeks to compensate for observational coverage bias and provides gridded estimates of monthly temperature at high latitudes, including portions of our target reconstruction region north of 40 N. Second, it is spatially and temporally complete, allowing us to use the same calibration and validation periods for our reconstruction at every location in the field, which in turn permits straightforward comparisons of reconstruction skill. Following Wilson et al. (2016), we use May through August (MJJA) mean temperature anomalies as our target variable, as this season provides a network-wide balance across the diverse site-local monthly or seasonal climate responses of the individual predictor series (Wilson et al., 2016)."
+  }, {
+    "heading": "2.3. Reconstruction and statistical methodology",
+    "text": "As a prelude to our climate field reconstruction, we assess the spatial characteristics of the temperature signal across our network. We first calculate the Pearson Product Moment correlation between each series and the local gridded MJJA temperatures from Cowtan and Way (2014) as a measure of the correspondence between tree growth and local gridded temperatures. We also calculate, for each site, the field correlation between the individual predictor series and the entire MJJA and annual mean temperature field, using both the original data as well as first-differenced series. For assessing the association between the target field and the predictor network, we follow Schneider et al. (2015) and compute the median correlation coefficient between the temperature record at each grid box and all the predictor time series within 2000 km of the centroid (see below; Briffa and Jones, 1993; Jones et al., 1997; Cook et al., 2013). We perform this procedure for both the best replicated part of our predictor network (1750e1988 CE) and at 1000 CE in the midst of the Medieval epoch. Collectively, these statistical assessments provide an evaluation of the climate signal embedded in the predictor network through time and space.\nWe use Point-by-Point Regression (PPR; Cook et al., 1999) to reconstruct the MJJA surface temperature anomaly field north of 40 N using our predictor network of tree-ring proxy chronologies and temperature reconstructions. We follow the method as developed, tested, and described by Cook et al. (1999, 2010a, 2013). PPR incorporates the spatial structure of the predictor network and predictand field and confines the potential region of influence of the predictors to a distance estimated from the underlying correlation structure of the temperature field. PPR proceeds by calculating a nested multivariate regression model for each grid point in the target field with the predictors restricted to those within some radius from the grid point centroid. We adopted a dynamic search radius for each grid point in the target field, first identifying predictor series within 1000 km. If no chronologies were found within 1000 km, the radius was allowed to expand in 500 km increments up to amaximum of 2000 km to find predictors. These distances are based on the decorrelation decay as a function of distance in the target field data (Cowtan and Way, 2014) and are also consistent with the findings of other studies (Briffa and Jones, 1993; Jones et al., 1997; Cook et al., 2013). If no predictors were found within\nFig. 3. Local correlations between tree-ring proxy chronologies and local temperature data. seasonal or monthly window (see Wilson et al., 2016; their Table 1). (B) Correlations betwe Cowtan and Way (2014) used here.\n2000 km, then no climate reconstruction was produced for that grid point. In evaluating our methods, we found that this dynamic search radius provides an optimal balance betweenmaximizing the number of grid points available for reconstruction while allowing the local predictor series in data-dense regions (for instance, Fennoscandia and western Europe) to provide the paleoclimate information for their neighborhood of grid points.\nA multivariate regression model was calibrated for each grid point and its associated predictors over the period 1945 to 1988 CE (the latest date for which all chronologies had data) and then validated on withheld observational data over the period 1901 to 1944 CE (Michaelson, 1987). We also checked the sensitivity of our reconstruction to this choice of calibration and validation periods by swapping them and assessing cross-validation. As the number of predictor series declines back through time, the model is newly calibrated and validated at each change in sample depth. In our reconstruction, we use the individual series themselves as predictors as opposed to the leading principal components (PCs). In our sensitivity tests of the PPR method, we discovered that using PCs from a relatively sparse network of chronologies and reconstructions, combined with the expansive target field, created clearly artificial inhomogeneities or discontinuities when predictor numbers declined. Using the individual predictor time series themselves in a stepwise regression model with an adjusted R2\nentry rule (Meko, 1997) ameliorated such discontinuities. Model skill was assessed using the calibration R2c (adjusted for the number of predictors), the validation R2v , the Reduction of Error (RE) and the Coefficient of Efficiency (CE) (c.f. Cook et al., 1999; Wilson et al., 2006). In addition to the annual maps of reconstructed temperatures, we calculate an extratropical Northern Hemisphere mean MJJA time series using a latitude-weighted average of all the reconstructed grid cells where reconstructed values are available back to at least 1000 CE and RE is greater than zero.\nFollowing Masson-Delmotte et al. (2013), we calculated the difference between reconstructed Medieval Climate Anomaly (MCA) and Little Ice Age (LIA) temperatures by taking the difference between the mean values over the field for 950 to 1250 CE (MCA) and 1450 to 1850 CE (LIA). As there is no single accepted definition of these two periods (Hughes and Diaz, 1994; Bradley et al., 2001; Matthews and Briffa, 2005; Seager et al., 2008; Mann et al., 2009), we also tested the sensitivity of the calculated MCA-LIA to\n(A) Correlations reported by the original authors for local correlations with the optimal en each proxy series and the local May through August (MJJA) temperature data from\ndifferences in the time definition of these periods. We estimated the temperature response to tropical explosive volcanism (Robock, 2000; Ammann and Naveau, 2003) by calculating the composite mean anomaly using superposed epoch analysis (e.g. Haurwitz and Brier, 1981). Event years were extracted from updated estimates of Common Era volcanic forcing from Sigl et al. (2015), here selecting those years corresponding to an estimated maximum negative event forcing (in W m 2) with a magnitude at least as large as Krakatoa in 1883."
+  }, {
+    "heading": "3. Results",
+    "text": ""
+  }, {
+    "heading": "3.1. Network climate signal",
+    "text": "All our predictor series show significant and typically high correlations with local summer temperatures over one or several months (Figs. 2 and 3; Wilson et al. (2016)). At sites where the\nhighest local summer temperature signal in the series is confined to one or two months e for example, at Yakutia in Russia e local correlations with the broader MJJA season are lower (r ¼ 0.52, p < 0.05 for July vs. r ¼ 0.09, p > 0.05 for MJJA at Yakutia). The highest individual monthly/seasonal site local temperature correlations (Wilson et al., 2016) range from r¼ 0.39 to r¼ 0.84 (mean r¼ 0.63), while correlations with local MJJA temperatures range from r ¼ 0.04 to r ¼ 0.78 (mean r ¼ 0.43). The highest correlations with local MJJA temperatures are in Fennoscandia and north central Russia, with strong local temperature signals also evident in Scotland, the Alps, the Pyrenees, the Altai, and Japan. In North America, MXD chronologies from western Canada and the northern treeline have the strongest MJJA signals. Tree-ring width only chronologies in North America have a generally weaker association with their local MJJA instrumental temperature than MXD or mixed proxy sites (D'Arrigo et al., 1992; Jacoby and D'Arrigo, 1995; D'Arrigo et al., 2009; Andreu-Hayles et al., 2011; Anchukaitis et al., 2013).\nJJA mean temperature field from Cowtan and Way (2014). Labels correspond with the m. Only Pearson Product Moment correlation coefficients (r) significant at p < 0.05 as\nField correlations between the predictor series and the full MJJA temperature field (Fig. 4) suggest that the chronologies and temperature reconstructions reflect climate variability over many hundreds or thousands of kilometers, with some exceptions at those sites where the local proxy response to MJJA is already weak (e.g. locations in east Asia, Yakutia, and ring width-only chronologies from the North American treeline). The spatial extent of the large-scale correlation structure is partially related to the common positive trends in predictors and temperatures during the 20th century, as temporarily removing these trends by first differencing both the field and the predictors (Fig. 5) reduces the regions of positive correlations to between 500 and 2000 km. In some case e e.g. the Idaho (USA) chronology e a significant interannual correlation with the MJJA\ntemperature field is entirely absent, indicating the summer association there is driven by common trends and a narrow local monthly temperature response. Annual temperatures are often a target for temperature reconstruction (e.g. Esper et al., 2002; D'Arrigo et al., 2006; Mann et al., 2008, 2009); however, correlations with the annual temperature field herein are uniformly lower and many chronologies show no significant association with annual mean temperatures (Fig. 6). In general, higher correlations with annual mean temperatures are observed for those sites with higher local correlations with MJJA temperatures (rMJJA;annual ¼ 0:73, p < 0.01). The association between the annual signal and the best (highest) monthly or seasonal local climate correlations is weaker (rbest;annual ¼ 0:44, p < 0.01), indicating it is not a strong climate signal alone that corresponds\nJJA mean temperature field from Cowtan and Way (2014) after first-differencing each rom Table 1. Around each site the black range ring indicates a radius of 2000 km. Only autocorrelation (Trenberth, 1984) are plotted.\nwith a useful annual proxy, but rather a strong and broad seasonal climate response.\nFig. 7 shows the statistical relationships between the predictand target field and predictor network. Grid points in Asia, Fennoscandia, and Northern Europe have 15 or more proxy sites that can serve as predictors over the best replicated epoch (1750e1988 CE). In northwestern North America as many as 10 predictors are within 2000 km of the grid centroids. In contrast, grid points in southern Europe and eastern North America have many fewer predictors available, in some cases only a single series. For the best replicated portion of the reconstruction, 1750 to 1988 CE, the median correlation between observational MJJA temperatures at each grid point and the predictors within 2000 km of that grid point range from r ¼ 0.19 in northeastern Russia to r ¼ 0.66 in Fennoscandia. In\ngeneral, themedian grid correlations are highest where they are colocated with one or more chronologies (e.g. interior British Columbia) and regions with clusters of strong MJJA temperature proxies (e.g. Fennoscandia, the Alps and Pyrenees, northern North American treeline). By 1000 CE, when the number of predictors is reduced to 23, with only 3 of these in North America, the possible reconstruction domain is reduced as substantially fewer predictors are available for each grid point reconstruction. Nevertheless, grid median correlations between observed temperatures and the available predictors remain significant and of similar magnitude to the better replicated recent portion of the reconstruction. This is because predictors with strong temperature signals remain in the Alps, Icefields in British Columbia, the Gulf of Alaska, Fennoscandia, northern Russia, and the Altai. The reconstruction at 1000 CE and\nnual mean temperature field from Cowtan and Way (2014) after first-differencing each om Table 1. Around each site the black range ring indicates a radius of 2000 km. Only autocorrelation (Trenberth, 1984) are plotted.\nearlier therefore relies on a reduced number of predictors, but those that remain contain a significant and substantial temperature signal."
+  }, {
+    "heading": "3.2. Field reconstruction, calibration, and validation",
+    "text": "The full NTREND spatial reconstruction consists of 1239 yearly fields of MJJA temperature anomalies covering up to a potential 792 grid points each year (40e90 N, 180 to 180 E). Fig. 8 shows the length of the reconstructed temperature series at each grid point in our domain. In practice the number of grid points with a value in each year of the reconstruction is less than that potential maximum, as the full network can only support reconstruction at 85% (n ¼ 701) of the total grid cells in the domain, declining to 51% (n ¼ 401) by 1000 CE and 24% (n ¼ 190) by 750 CE. The shortest reconstructions are for ocean grid points in the northwestern Atlantic and northeastern Pacific, where in both cases a single and relatively short chronology is the only source of proxy information. Other relatively short portions of the field reconstruction include the central northern treeline in Canada, Japan, northeastern Russia, and the southernmost part of the Eurasian domain in the Mediterranean. By contrast, along the Eurasian treeline in central northern Russia, throughout the Nordic region, and in western Europe, it is possible to reconstruct more than a millennium of past temperatures.\nFig. 9 shows reconstruction skill (the adjusted R2c , R 2 v , RE, and CE) for the best replicated (n ¼ 54) period of the predictor network, 1750 to 1988 CE. Significant skill is observed over the entire domain, but is clearly highest closest to those predictors with the highest correlations to MJJA temperatures, especially where MXD or BI data are available. Grid cells more distal from the predictor network, including cells over the oceans, or where only a single or relatively weak predictor is available, show lower explained variance and in some cases lack positive RE and CE scores. Validation R2v scores are lower but largely mirror the calibration R2c , with the exception of the eastern Mediterranean and Black Sea region, east Asia, and western parts of Central Asia. A similar phenomenon of lower R2v was observed by Cook et al. (2013) for Asia, due at least in part to the lack of instrumental climate data from these regions during the reconstruction model validation period (Jones et al., 2012; Harris et al., 2013; Cook et al., 2013; Cowtan and Way, 2014). Lack of instrumental data likely confounds out-of-sample validation in the eastern Mediterranean prior to the 1930s (c.f. Touchan et al., 2014). Skillful regions with RE and CE scores greater than 0 are more spatially confined but likewise show skill with respect to these metrics in regions where chronologies are present or abundant, with the exception once again of the regions mentioned previously. R2c values range from ~0.0 to 0.78, R 2 v values range from ~0.0 to 0.76, RE up to 0.72, and CE up to 0.70. A cross-\ng sites within 2000 km for each grid point in the target field (Cowtan and Way, 2014), dicate the location of the available tree-ring sites during in each time period. Panels (B) ent correlation between the MJJA temperatures at that grid point and all the tree-ring d at 1000 CE (D), respectively (see Schneider et al., 2015).\nvalidation (not shown) interchanging the time periods used for calibration and validation reveals that the reconstruction's skill characteristics are largely insensitive to the choice of these periods.\nFig. 9. Reconstruction skill for the best replicated (modern) nest. Panels show spatial patt adjusted calibration R2, the validation R2, the reduction of error (RE), and the coefficient of\nBy 1000 CE, the reduction in the number of predictors and a contraction in their spatial distribution influences both the number of grid points reconstructed and the spatial patterns of skill (Fig. 10). The loss of the northern treeline MXD chronologies in North America reduces the reconstructed regions of the continent in the west to coastal Alaska, the Pacific Northwest, Interior British Columbia and parts of Alberta, and in the east to Quebec, Newfoundland, and Labrador. Likewise, the loss of the Scottish and Pyrenees chronologies no longer allows for reconstruction of temperatures over the British Isles and the Iberian peninsula. The lack of Japanese, coastal Russia, and east Asia series at 1000 CE leads to a contraction of the reconstructed spatial domain in the east. However, skillful temperature reconstructions persist over parts of northwestern North America, Fennoscandia, northern Russia, the Alps, and the Altai. R2c values range from ~0.0 to 0.73, R 2 v values range from ~0.0 to 0.70, RE up to 0.65, and CE up to 0.61. Interchanging the calibration and validation periods has a minor influence on field skill at 1000 CE, with n ¼ 229 grid points with RE>0 RE> 0 for a late calibration (1945e1988 CE), and n¼ 213 for an early calibration (1901e1944 CE).\nFig.11 shows domain-wide reconstruction and skill metrics over time. For the time span of the full predictor network (1750e1988 CE), we can reconstruct a temperature anomaly value for 88.5% of the grid points (n ¼ 701) in our extratropical Northern Hemisphere domain. Of those 701 grid points, 63% have RE > 0, and 37% have CE > 0. These skill percentages remain remarkably stable (RE, 56%e 65%; CE, 34%e37%) even as the number of reconstructed grid points with a reconstructed value declines back through time, a consequence of the shrinking predictor network. Only when the number of reconstructed grid points declines precipitously in the earliest 10th century, falling to 38% of the target domain in 905 CE, do the percent of grid points with RE and CE greater than zero increase\nerns of skill metrics for the best replicated nest (1750e1988 CE), as evaluated for the efficiency (CE). Available tree-ring sites during this nest are indicated by black circles.\nsubstantially. These patterns indicate that the reduction in the number of reconstructed grid cells comes at the cost of locations with already marginal skill scores, while the core reconstruction regions associated with sensitive predictor series persist through much of the length of the reconstruction back to 750 CE."
+  }, {
+    "heading": "3.3. Large-scale mean temperature anomalies and climate forcing",
+    "text": "We computed a mean summer temperature anomaly series from our domain by calculating a latitude-weighted mean of all gridded values where a reconstruction is available back to 1000 CE and RE is greater than zero (Fig. 12). This time series is highly and significantly correlated with the comparable observational temperature anomalies averaged over those same grid points (1850e1988, n ¼ 139, r ¼ 0.78 , p ≪ 0.001). The mean series indicates a broad warm period from at least 750 CE to the early 1400s, with maximum values centered around the late 900s, the late 1000s and 1100s, and the individual warmest years of the Medieval epoch in 790, 990, 995, 1014, 1016, and 1168 CE. 1168 CE is the warmest year in our reconstruction (750e1988 CE), although matched by values in the middle of the 20th century and then exceeded during the comparable filtered instrumental record in the early 21st century. Temperatures decline in the late 13th century, coincident with a series of tropical volcanic eruptions (Crowley, 2000; Gao et al., 2008; Schmidt et al., 2012; Sigl et al., 2015) and the Wolf solar irradiance minimum, before warming again during the 14th century. Temperatures then decline sharply in the early 1400s, slightly before the significant volcanic eruptions in the 1450s (Gao et al., 2006; Sigl et al., 2015) and the Sp€orer solar irradiance minimum (1460e1550 CE). The mid-1400s through the mid-1800s show cooler conditions during the LIA (Matthews and Briffa, 2005; Masson-Delmotte et al., 2013), with local minima in the 1450s, the late 1500s and earliest 1600s, the late 1600s, and the early 1800s. Many of the field-mean coldest years in the reconstruction, including 1259, 1453, 1601, 1643, 1783, 1810, 1817, and 1836 CE are associated with or follow closely after major tropical or\nNorthern Hemisphere volcanic eruptions (Briffa et al., 1998a; Sigl et al., 2015). In several instances extremely cold years in our\nreconstruction occur or persist at least one or two years after eruptions (e.g. 1643 and 1644, 1816 and 1817, 1836 and 1837 CE), consistent with the findings of Esper et al. (2013b). The coldest year in our reconstruction is 1601 CE, which also agrees with a prior temperature reconstruction based solely on MXD data by Briffa et al. (1998a), and which follows the eruption of Huaynaputina in Peru in 1600 CE (Verosub and Lippman, 2008). Our ten coldest years include at least 2 (1699 and 1867 CE) that do not appear to be associated with a known volcanic eruption (Briffa et al., 1998a).\nOur filtered time series is highly and significantly correlated (750e1988 CE, n ¼ 1239, r ¼ 0.71, p ≪ 0.01) with the index reconstruction from Wilson et al. (2016) and perhaps unsurprisingly has many of the same features - a broad warm period during the Medieval period until the early 1400s, the LIA from the 15th through early 19th century, warming out of the LIA, a warm mid20th century, cool 1970s, and recent warming (Fig. 13a). There are epochs where our mean time series and that of Wilson et al. (2016) are less strongly correlated (Fig. 13b); interestingly, the rapid returns to higher correlation values appear to be associated with the timing of major individual or clusters of volcanic events, suggesting that strong radiative forcing due to volcanismmay impose a common spatial forcing, causing the Wilson et al. (2016) mean index reconstruction and the spatial mean from our climate field reconstruction to converge.\nOur Northern Hemisphere extratropical time series shows associations with large-scale radiative forcing changes during the last millennium (Fig. 14; Schmidt et al., 2012). Colder periods in the late 13th and early 14th, mid-15th, and 19th century occur at the same time as large explosive volcanic eruptions and solar minima (Mann et al.,1998; Crowley, 2000; Shindell et al., 2001a, 2003;Wagner and\nthe filtered weighted global mean MJJA temperature reconstructed here (black). Time ted in (B). The full overall correlation between the two series (750e1988 CE, r ¼ 0.71) is\nFig. 15. Wavelet coherence (Torrence and Compo, 1998; Grinsted et al., 2004) between our variability from Vieira and Solanki (2010). Arrows indicate the phase of the relationship and f to the right of the plot. Values above the cone of influence (COI; black curve) are potential\nZorita, 2005; Ammann et al., 2007; Breitenmoser et al., 2012; Anchukaitis et al., 2013; PAGES2k, 2013). Warming after the middle of the 19th century is consistent with a reduced number of volcanic eruptions, increasing insolation, and the rapid rise in greenhouse gases (Andronova and Schlesinger, 2000; Zwiers and Weaver, 2000; Gillett et al., 2012; Jones et al., 2013; Estrada et al., 2013). Although the timing of several epochs of colder temperatures appear to align with solar minima e for instance, the late 13th/early 14th century and the Wolf Minimum or the mid-15th century Sp€orer Minimum e the correlations between our hemisphere mean reconstruction and estimates of past solar variability (Schmidt et al., 2012) are low (range, r ¼ 0.10 to r ¼ 0.29, p < 0.01). At centennial timescales, however, there is evidence that solar variability may play a more substantial role. Wavelet coherence (Fig. 15; Grinsted et al., 2004) between our hemisphere mean reconstruction and last millennium total solar irradiance estimates assembled by Schmidt et al. (2012) shows high and stable coherence and consistent phasing at bi-centennial time scales (194e222 year periods), which bracket and include the ~206 year ‘de Vries’ (or Suess) solar cycle (Stuiver and Braziunas, 1993; Wagner et al., 2001) and are likely related to the reconstructed temperature response to the major solar minima. The spectral signal of the bicentennial de Vries cycle has been recognized in numerous treering chronologies and temperature reconstructions (c.f. Raspopov et al., 2008; Breitenmoser et al., 2012; Ogurtsov et al., 2016), and Emile-Geay et al. (2013) also identified bi-centennial periodicity in a reconstruction of eastern tropical Pacific sea surface temperatures. Phase relationships between our hemisphere mean temperature and the total solar irradiance time series suggest a decadalscale lag of ~11 years (range, 5e20 years), with solar changes leading temperature anomalies, consistent with both climate modeling and prior analysis of tree-ring chronologies and solar variability (Rind et al., 1999; Waple et al., 2002; Breitenmoser et al., 2012). Both the hemisphere mean as well as the spatial grid point sensitivity to solar variability (C/Wm 2) are extremely uncertain in this analysis, however, as this quantity is highly sensitive to the choice of solar reconstruction (Schmidt et al., 2012).\nMedieval Climate Anomaly (MCA; 950 to 1250 CE) temperatures compared against those during the Little Ice Age (LIA; 1450 to 1850 CE) show warmer temperature during the MCA at ~90% of the grid points with minimally skillful (RE > 0) reconstructed values available back to 950 CE (Fig. 16). Colder Medieval temperatures are reconstructed over parts of the Altai and Central Asia, and are associated with tree-ring width chronologies from Mongolia that show reduced growth in the 900s and 1100s, despite warmer conditions in the 11th century (Davi et al., 2015) and an MXD chronology from the Altai displaying a cold Medieval epoch and\nNorthern Hemisphere mean MJJA temperature anomaly time series and solar forcing or clarity are plotted only where coherence exceeds 0.65. In-phase signals point directly ly influenced by edge effects at that time period and scale.\nwarm LIA (Schneider et al., 2015). Other grid cells that show a colderMedieval period tend to be distal from the predictor network e for instance in central Greenland e and must be treated with caution. Defining a different MCA or LIA in this case has relatively little effect on the percentage of grids showing warmer vs. colder conditions, as the cooler Central Asia grid cells andmarginal cells in Greenland, central Canada, the southern Caspian Sea, and the northeastern Pacific remain irrespective of the specific date range applied. The precise boundaries for both MCA and LIA are, in any case, both arbitrary and uncertain (Hughes and Diaz, 1994; Bradley et al., 2001; Matthews and Briffa, 2005; Seager et al., 2008). The cause of apparently extremely high (~3 C) Medieval temperatures in several grid points in northeastern North America is discussed below.\nComposite mean MJJA temperature anomaly fields following major volcanic eruptions show coherent, broad-scale cooling associated with large tropical eruptions (Fig. 17). 96% of grid points show composite mean colder temperatures compared to the three years prior to the 20 large eruptions considered here. Similar to the MCA-LIA difference discussed above, regions that apparently have an overall composite warming response to volcanic eruptions are largely on themargins of the reconstruction domain, away from the predictor grid, and over the ocean, central Greenland, and the southern Caspian Sea. The coldest grid point composite mean is 1.61 C, and the mean composite response across all grid points and all eruptions is 0.44 C. Closer examination of individual eruption events (not shown) finds that for some regions, postvolcanic cooling may persist for several years and maximum cold anomalies may be 1 or 2 years after the year of the eruption itself, consistent with observations of other regional temperature reconstructions (D'Arrigo et al., 2013; Cook et al., 2013; Esper et al., 2013b; Davi et al., 2015; Linderholm et al., 2015; Schneider et al., 2015; Wilson et al., 2016). If we consider large Northern Hemisphere high-latitude eruptions only (Fig. 18), the large-scale response is likewise toward cold anomalies overall: 89% of grid\npoints have a composite anomaly less than zero. Over the entire field the mean composite response is 0.39 C and the maximum cold composite anomaly is 2.31 C. There is also spatial structure to the temperature anomalies, with the coldest composite conditions over Alaska and the Bering Strait, northeastern North America, parts of western Europe, and central northern Russia, suggestive of a dynamical, in addition to direct radiative, influence\nof large-magnitude high latitude eruptions (Robock, 2000; Oman et al., 2005; Stenchikov et al., 2006; Schneider et al., 2009; Zanchettin et al., 2012; Pausata et al., 2015). However, the number of radiatively significant high latitude eruptions considered here is smaller (n¼ 5), and therefore this structure may appear due to the limited sample size."
+  }, {
+    "heading": "4. Discussion",
+    "text": ""
+  }, {
+    "heading": "4.1. Proxy data and predictor network",
+    "text": "Our results here demonstrate that a relatively small (n ¼ 54) network of proxy sites (Table 1, Fig. 1) with well-established physically and ecologically reasonable climate signals (Figs. 3 and 7) can be used to reconstruct the large-scale summer temperature history of the extratropical Northern Hemisphere (Figs. 8e10, 12). While restricting the reconstruction to the higher latitudes of one hemisphere and to only the growing season does not provide a global annual estimate of temperature, it nonetheless accurately reflects the geographic and biological signal that dominates the predictors. Moreover, we have demonstrated here that the reconstruction preserves the signature and influence of external forcing on the global energy balance. Skill in our reconstruction is, perhaps not surprisingly, greatest in those locations where high quality temperature-sensitive proxies are available (Figs. 9 and 10), and declines at increasing distances from the predictors themselves. It is clear we could realize substantial benefits in terms of increased reconstruction skill and spatial extent by developing MXD and BI chronologies from currently undersampled regions as well as extending the length of existing MXD and BI chronologies. Although large and useful multiproxy datasets have resulted from community efforts by the paleoclimate community (PAGES2k, 2013), our analysis here demonstrates that a relatively small welldistributed network of highly sensitive millennium-length tree ring chronologies provide skillful reconstructions over a large extratropical region. Encouragingly, this means that rapid and important gains could be made from the addition of a relatively small number of new sites and the temporal extension and recollection of current sites known to contain a strong climate signal. In particular, a greater number of longMXD and BI chronologies are critically needed from North America (Figs. 1 and 10). Fulfilling this need will require a collaborative and concerted effort to locate subfossil materials and to measure density proxies, but the potential gain for Northern Hemisphere temperature reconstructions of the Common Era would be substantial. MXD contains a stronger temperature signal than TRW alone and is better able to accurately resolve rapid temperature changes associated with volcanic eruptions (Fig. 2; Frank et al., 2007; D'Arrigo et al., 2013; Esper et al., 2015). Continuing advances in blue intensity (BI) measurements suggest some of the benefits of wood density analysis can be realized without the expense and difficulty of analyzing MXD itself (Campbell et al., 2007; Wilson et al., 2014; Rydval et al., 2014; Bj€orklund et al., 2014, 2015) although the low-frequency characteristics of BI still require additional exploration.\nDetrending and standardization issues for long chronologies remain an ongoing challenge and persistent source of uncertainty (e.g. Cook et al., 1995; Briffa and Melvin, 2011; Melvin and Briffa, 2008; Esper et al., 2012, 2016; Matskovsky and Helama, 2014; Matskovsky and Helama, 2016). One surprising feature of the epochal comparison between the MCA and LIA is the large (>3 C) difference calculated for northeastern North America. This feature is due to a single predictor, a black spruce (Picea mariana) tree-ring width RCS chronology developed by Gennaretti et al. (2014). Other, non-tree ring proxies from the region suggest a lower amplitude of cooling between the MCA and the LIA, although issues related to\ntime uncertainty, transfer function calibration, and different seasonal climate signals complicate exact comparisons. A compilation of Holocene paleoenvironmental data for the Arctic (Sundqvist et al., 2014) suggests a range of values for MCA to LIA cooling in northeastern North America and Greenland of 0e1.5 C, which is at least a degree less than the magnitude inferred from the Quebec MXD record. Alkenone SST reconstructions near Nova Scotia (Keigwin et al., 2003) suggest a cooling of approximately 0.7 C. The multiproxy PAGES Arctic2k reconstruction (McKay and Kaufman, 2014) has a whole-Arctic reconstructed MCA-LIA difference of 0.64 C for the same time periods used here. Finally, and perhaps most importantly, a tree-ring oxygen isotope temperature reconstruction from the same site in Quebec (Naulier et al., 2015) shows a substantially smaller estimated MCA-LIA difference of 0.4 C. It seems likely that, despite the care taken in applying regional curve standardization to the Quebec black spruce samples (Autin et al., 2015) as well as its suitability with respect to other chronology metrics (Esper et al., 2016), artifacts remain in this tree-ring width chronology that unintentionally but artificially amplify the difference between MCA and LIA temperatures in this region.\nMore generally, detrending, the removal of non-climatic trends, and therefore the retention of low frequency variability, remains an important source of uncertainty in the amplitude of past temperatures reconstructed from tree rings (Cook, 1987; Briffa et al., 1996), even when conservative detrending techniques have been applied. While regional curve standardization and signal free methods have been shown to be able to retain the full spectrum of low- and medium-frequency variability, they are also subject to their own uncertainties and assumptions (Melvin, 2004; Melvin and Briffa, 2008; Briffa and Melvin, 2011; Anchukaitis et al., 2013; Briffa et al., 2013). It is in most cases not possible to know from calibration and validation statistics which detrending method yields the true or most accurate low frequency signal (Cook, 1987; Cook and Kairi uk stis, 1990; Wilson et al., 2007). Possible approaches to this problem include both ensemble and simulation-based methods (e.g. Esper et al., 2007; D'Arrigo et al., 2011; Anchukaitis et al., 2013), although these have not yet been applied to large and heterogeneous tree-ring proxy networks."
+  }, {
+    "heading": "4.2. Radiative forcing and temperature history",
+    "text": "Our reconstruction demonstrates coherent responses to radiative forcing in time and space (Figs. 14e18). Temporal features of the reconstruction are associated with changes in solar irradiance, large and/or clustered tropical volcanic eruptions, and the anthropogenic rise inwell-mixed greenhouse gases. Temperatures decline across the field during the Sp€orer and Maunder Minima, in particular, likely compounded in both cases by a series of volcanic eruptions. Temperatures remained cold during the early 1600s, at least in part due to the eruption of Huaynaputina in Peru in 1600 CE (Verosub and Lippman, 2008). 1601 CE is the coldest year of our entire reconstruction, as it was in the 600-year temperature reconstruction by Briffa et al. (1998a) and the hemisphere mean reconstruction by Wilson et al. (2016). 1601 CE was also one of the coldest years in the Bayesian field reconstruction by Tingley and Huybers (2013), as was 1453 CE, which is the 4th coldest year in our study, associated with the eruption of Kuwae, Vanuatu (but see Plummer et al., 2012; Cole-Dai et al., 2013). Interestingly, Tingley and Huybers (2013) find 1642 CE amongst their coldest years, whereas in our reconstruction it is 1643 CE that is exceptionally cold (5th coldest in our reconstruction). In Wilson et al. (2016), 1641,1642, and 1643 CE are all amongst the coldest 15 years of their reconstruction. Tingley and Huybers (2013) also find that 1695 CE was anomalously cold, whereas here it is indeed cold but unremarkable ( 0.60 C, 284th coldest). These differences highlight\nextant uncertainties likely related to different reconstruction methods, spatial skill and averaging, and the use of different proxies (D'Arrigo et al., 2013; Esper et al., 2015), but also demonstrate that there is no evidence for a one-to-one correspondence between inferred volcanic forcing from ice cores and themagnitude of hemisphere-scale cooling. For instance, the eruption of Huaynaputina in 1600 is believed to have caused a smaller negative radiative forcing anomaly than eruptions in 1458, 1641, 1809, and 1815 CE, let alone the large Medieval eruption of Samalas (1257 CE) (Verosub and Lippman, 2008; Lavigne et al., 2013; Sigl et al., 2015). Our finding here of a large-scale, coherent cooling in response to explosive volcanism is yet further evidence (Anchukaitis et al., 2012; Brohan et al., 2012; D'Arrigo et al., 2013; Esper et al., 2013b,a; St. George et al., 2013; Büntgen et al., 2014; Jull et al., 2014; Esper et al., 2015; Sigl et al., 2015; Stoffel et al., 2015; Wilson et al., 2016) against the hypothesis that tree-ring proxies are missing the volcanic cooling signal due to undetected absent rings (Mann et al., 2012, 2013).\nLow frequency coherence between solar variability and our reconstruction appears to be a stable characteristic through time (Figs. 14 and 15), likely linked to reconstructed cold anomalies during solar Grand Minima. Because variations in total solar irradiance are relatively small, on the order of a few tenths of aWm 2, the mechanism that could result in a detectable cooling remains uncertain. The most likely connection is via changes in large-scale Northern Hemisphere circulation, which favor colder temperature over continents (e.g. Shindell et al., 2001a, 2003; Swingedouw et al., 2010) and thus would be captured in our reconstruction. Nevertheless, while variability in solar forcing may be important on bicentennial and perhaps at continental scales, fingerprinting suggests that the solar effect in the hemisphere-scale anomalies is otherwise relatively small and that volcanic forcing is more important overall in determining pre-industrial temperature trajectories (Schurer et al., 2014; McGregor et al., 2015). There is no sign in our reconstruction of a discernible temperature response to the shorter 11 and 22 year sunspot cycle (Schwabe/Hale), which is consistent with other investigations of the insolation signal in tree rings (e.g. Briffa, 1994). There are a number of possible reasons for the absence of this signal. Internal climate system variability is substantially stronger at interannual and decadal time scales, which may prevent statistical detection of solar influences with similar frequencies, but still allow it at the centennial scale when the magnitude of internal variability is smaller than the forced signal. Short-term climate anomalies caused by explosive volcanism could also disrupt detection of a decadal solar signal. The temperature response to solar variability at lower frequencies may also reflect slow temperature feedbacks that enhance its direct effect.\nOver those grid points available back to 950 CE with minimum level of reconstruction skill (RE > 0), ~90% showwarmer conditions during the MCA than during the LIA, with a field median difference of 0.32 C. Removing likely individual grid point outliers (Greenland\nand northeastern North America, see above) results in a slightly smaller epochal field median difference (0.30 C) and a range of grid point values of 0.64 to þ1.05 C. Mann et al. (2009) calculated a 0.24 C global summer mean difference between MCA and LIA, but the difference in season, spatial domain and geographic extent, and the ‘fragility’ (Wang et al., 2015) of reconstructing a cold Medieval tropical Pacific make any direct comparison difficult. Calculating the MCA-LIA epochal difference using the spatial mean time series (Fig. 12) gives a value of 0.36 C, approximately in the middle of the distribution for other large-scale Northern Hemisphere reconstructions, and within the higher end of the range of values from climate model simulations (Fern andez-Donado et al., 2013; Wilson et al., 2016)."
+  }, {
+    "heading": "5. Conclusions and future work",
+    "text": "We have reconstructed the extratropical Northern Hemisphere MJJA temperature anomaly field back to 750 CE using a network of temperature-sensitive predictors. The reconstruction shows significant field skill associated with proximity to the predictors, particularly where proxy density data are available. In other words, we observe the highest reconstruction skill and smallest errors where we have the most sensitive tree-ring proxies, whereas larger errors and lower skill are associatedwith grid points distal from the predictor network or where only tree-ring width data are available, particularly in North America. These observations will be used to guide future sampling and proxy development priorities, including the development of new sites, efforts to increase the number of MXD and BI series, and the extension in time of existing high quality chronologies.\nOur field reconstruction reveals coherent responses to changes in radiative forcing over the last 1200 years, including the influence of solar and volcanic forcing. Future research with our field reconstruction will use fingerprint detection (Hegerl et al., 2007; Schurer et al., 2013, 2014) to quantitatively assess the role of forcing and internal variability, including identification of spatial patterns linked to large-scale modes of variability and specific forcing agents. Formal, quantitative comparison between our reconstruction and paleoclimate model simulations (Schmidt et al., 2012; Kageyama et al., 2016) will be used to assess climate model performance and to investigate the dynamical context for reconstructed spatial temperature anomalies. Using proxy system models (Evans et al., 2013), the NTREND network could also be applied within an offline data assimilation framework (Steiger et al., 2014; Hakim et al., 2016). Finally, our spatially-explicit reconstructions can be used to explore and understand the possible role of past temperature variability e especially due to volcanic eruptions e in contributing to historical societal dynamics, resilience, and change (McCormick et al., 2007; Ludlow et al., 2013; Sigl et al., 2015; Büntgen et al., 2016)."
+  }, {
+    "heading": "Acknowledgements",
+    "text": "The N-TREND consortium is not itself funded, but many individuals acknowledge relevant projects, grants, and support; KJA: National Science Foundation Paleoclimate Perspectives on Climate Change NSF AGS-1501856 and NSF AGS-1501834; RW: UK Natural Environment Research Council (NERC - NE/K003097/1) and Leverhulme Trust project (F/00 268/BG); KRB and TO: NERC (Belmont Forum/JPI-Climate: INTEGRATE project NE/P006809/1); KRB also thanks Gaurav Kapur FRCR and Colin Watts FRCS for time; UB: Czech project ‘Building up a multidisciplinary scientific team focused on drought’ No. CZ.1.07/2.3.00/20.0248; EC: National Science Foundation Paleoclimate Perspectives on Climate Change AGS-1502224; RD: National Science Foundation Paleoclimate Perspectives on Climate Change AGS-1159430, AGS-1502150, and AGS1502224; SH: Academy of Finland; GH and AS: ERC advanced grant TITAN (EC-320691), NCAS GH specifically with a Royal Society Wolfson Research Merit Award (WM130060); GH and AS: PACMEDY, NE/P006752/1; HL: The Swedish Science Council (VR) (2012- 5246); MR: The Carnegie Trust for the Universities of Scotland; GW: NSF AGS-1502186. The N-TREND project website, along with the archived TR chronologies and temperature reconstructions can be found at https://www.ncdc.noaa.gov/cdo/f?p¼519:1:0::::P1_ study_id:19743 and additional information is available at https:// ntrenddendro.wordpress.com/. Lamont-Doherty Earth Observatory contribution #8093."
+  }],
+  "references": [{
+    "title": "Solar influence on climate during the past millennium: results from transient simulations with the NCAR Climate System Model",
+    "authors": ["C.M. Ammann", "F. Joos", "D.S. Schimel", "B.L. Otto-Bliesner", "R.A. Tomas"],
+    "venue": "Proc. U. S. Natl. Acad",
+    "year": 2007
+  }, {
+    "title": "Statistical analysis of tropical explosive volcanism occurrences over the last 6 centuries",
+    "authors": ["C.M. Ammann", "P. Naveau"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2003
+  }, {
+    "title": "PAGES2k: advances in climate field reconstructions",
+    "authors": ["K. Anchukaitis", "N. McKay"],
+    "venue": "PAGES Mag",
+    "year": 2014
+  }, {
+    "title": "Tree-ring-reconstructed summer",
+    "authors": ["B.M. Buckley", "G.C. Jacoby", "E.R. Cook"],
+    "year": 2013
+  }, {
+    "title": "Forward modeling of regional scale tree-ring",
+    "authors": ["H.D. Mayer", "M.A. Cane"],
+    "year": 2006
+  }, {
+    "title": "Varying boreal forest response to Arctic environmental change",
+    "authors": ["S. Goetz"],
+    "year": 2011
+  }, {
+    "title": "Causes of global temperature changes",
+    "authors": ["M.E. Schlesinger"],
+    "year": 2000
+  }, {
+    "title": "Biases in RCS tree ring chronologies due to sampling heights of trees",
+    "authors": ["Y. egin"],
+    "venue": "Dendrochronologia 36,",
+    "year": 2015
+  }, {
+    "title": "July temperature during the second millennium reconstructed from Idaho tree rings",
+    "authors": ["F. Biondi", "D.L. Perkins", "D.R. Cayan", "M.K. Hughes"],
+    "venue": "Geophys. Res. Lett",
+    "year": 1999
+  }, {
+    "title": "Using adjusted Blue Intensity data to attain high-quality summer temperature information: a case study from Central Scandinavia",
+    "authors": ["J. orklund", "B.E. Gunnarson", "K. Seftigen", "P. Zhang", "H.W. Linderholm"],
+    "venue": "Holocene 25,",
+    "year": 2015
+  }, {
+    "title": "Blue intensity and density from northern Fennoscandian tree rings, exploring the potential to improve summer temperature reconstructions with earlywood information",
+    "authors": ["J.A. orklund", "B.E. Gunnarson", "K. Seftigen", "J. Esper", "H.W. Linderholm"],
+    "venue": "Clim. Past 10,",
+    "year": 2014
+  }, {
+    "title": "Applied Smoothing Techniques for Data Analysis",
+    "authors": ["A.W. Bowman", "A. Azzalini"],
+    "year": 1997
+  }, {
+    "title": "The scope of medieval warming",
+    "authors": ["R.S. Bradley", "K.R. Briffa", "T.J. Crowley", "M.K. Hughes", "P.D. Jones", "M.E. Mann"],
+    "venue": "Science 292,",
+    "year": 2001
+  }, {
+    "title": "Annual climate variability in the Holocene: interpreting",
+    "authors": [],
+    "year": 2000
+  }, {
+    "title": "Treering variables as proxy-climate indicators: problems with low-frequency signals, in: climatic variations and forcing mechanisms of the last 2000 years",
+    "authors": ["W. en", "S.G. Shiyatov"],
+    "venue": "Springer Nat. 9e41. http://dx.doi.org/10.1007/978-3-642-61113-1_2. URL: https://doi.org/10.1007%2F978-3-642-61113-1_2",
+    "year": 1996
+  }, {
+    "title": "Influence of volcanic eruptions on Northern Hemisphere summer temperature over the past 600 years",
+    "authors": ["K.R. Briffa", "P.D. Jones", "F.H. Schweingruber", "T.J. Osborn"],
+    "venue": "Nature 393,",
+    "year": 1998
+  }, {
+    "title": "A closer look at regional curve standardization of tree-ring records: justification of the need, a warning of some pitfalls, and suggested improvements in its application",
+    "authors": ["K.R. Briffa", "T.M. Melvin"],
+    "year": 2011
+  }, {
+    "title": "Reassessing the evidence for treegrowth and inferred temperature change during the Common Era in Yamalia, northwest Siberia",
+    "authors": ["K.R. Briffa", "T.M. Melvin", "T.J. Osborn", "R.M. Hantemirov", "A.V. Kirdyanov", "V.S. Mazepa", "S.G. Shiyatov", "J. Esper"],
+    "venue": "Quat. Sci. Rev. 72,",
+    "year": 2013
+  }, {
+    "title": "Large-scale temperature",
+    "authors": ["T.J. Osborn", "F.H. Schweingruber"],
+    "year": 2004
+  }, {
+    "title": "Trees tell of past climates: but are",
+    "authors": ["E.A. Vaganov", "H. Grudd"],
+    "year": 1998
+  }, {
+    "title": "Climate as a contributing factor",
+    "authors": ["A. Wichienkeeo", "T. Minh", "T. Hong"],
+    "year": 2010
+  }, {
+    "title": "demise of Angkor, Cambodia",
+    "authors": ["U. Büntgen", "D.C. Frank", "D. Nievergelt", "J. Esper"],
+    "venue": "Proc. Natl. Acad. Sci. 107,",
+    "year": 2006
+  }, {
+    "title": "Filling the Eastern European gap in millennium-long tempera",
+    "authors": ["J. Kyncl"],
+    "year": 2013
+  }, {
+    "title": "Cooling and societal",
+    "authors": ["J. Luterbacher", "L. Wacker", "W. Tegel", "A.V. Kirdyanov"],
+    "year": 2016
+  }, {
+    "title": "Extraterrestrial confirmation of tree-ring dating",
+    "authors": ["J. Esper"],
+    "venue": "Nat. Clim",
+    "year": 2014
+  }, {
+    "title": "Spatial regression methods",
+    "authors": ["E.R. Cook", "K.R. Briffa", "P.D. Jones"],
+    "year": 1994
+  }, {
+    "title": "constructions for the continental United States",
+    "authors": ["E.R. Cook", "R. Seager", "R.R. Heim", "R.S. Vose", "C. Herweijer", "C.A. Woodhouse"],
+    "venue": "J. Clim. 12,",
+    "year": 2010
+  }, {
+    "title": "Volcanism and the little ice age",
+    "authors": ["R. D'Arrigo", "K.J. Anchukaitis", "B. Buckley", "E.R. Cook", "R. Wilson"],
+    "venue": "PAGES News 16,",
+    "year": 2011
+  }, {
+    "title": "Interannual to multidecadal",
+    "authors": ["B. Buckley", "S. Kaplan", "J. Woollett"],
+    "year": 2003
+  }, {
+    "title": "Tree-ring width and maximum latewood",
+    "authors": ["R. 219e228. D'Arrigo", "G. Jacoby", "R. Free"],
+    "year": 1992
+  }, {
+    "title": "Volcanic cooling signal in tree ring",
+    "authors": ["R. Wilson", "K.J. Anchukaitis"],
+    "year": 2013
+  }, {
+    "title": "On the ‘Divergence Problem’ in Northern Forests: a review of the tree-ring evidence and possible causes",
+    "authors": ["R. D'Arrigo", "R. Wilson", "B. Liepert", "P. Cherubini"],
+    "venue": "Glob. Planet. Change 60, 289e305",
+    "year": 2008
+  }, {
+    "title": "Tree-ring reconstructed temperature index for coastal northern Japan: implications for western North Pacific variability",
+    "authors": ["R. D'Arrigo", "R. Wilson", "G. Wiles", "K. Anchukaitis", "O. Solomina", "N. Davi", "C. Deser", "E. Dolgova"],
+    "venue": "Int. J. Climatol",
+    "year": 2015
+  }, {
+    "title": "Tree growth and inferred temperature variability at the North American Arctic treeline",
+    "authors": ["R.D. D'Arrigo", "G.C. Jacoby", "B.M. Buckley", "J. Sakulich", "D. Frank", "R. Wilson", "A. Curtis", "K.J. Anchukaitis"],
+    "venue": "Glob. Planet. Change",
+    "year": 2009
+  }, {
+    "title": "On the long-term context for late twentieth century warming",
+    "authors": ["R.D. D'Arrigo", "R. Wilson", "G.C. Jacoby"],
+    "venue": "J. Geophys. Res",
+    "year": 2006
+  }, {
+    "title": "A long-term context (931e2005 C.E.) for rapid warming over Central Asia",
+    "authors": ["N. Davi", "R. D'Arrigo", "G. Jacoby", "E. Cook", "K. Anchukaitis", "B. Nachin", "M. Rao", "C. Leland"],
+    "venue": "Quat. Sci. Rev",
+    "year": 2015
+  }, {
+    "title": "Boreal temperature variability inferred from maximum latewood density and tree-ring width data, Wrangell Mountain region, Alaska",
+    "authors": ["N.K. Davi", "G.C. Jacoby", "G.C. Wiles"],
+    "venue": "Quat. Res",
+    "year": 2003
+  }, {
+    "title": "An antarctic view of beryllium-10 and solar activity for the past millennium",
+    "authors": ["G. Delaygue", "E. Bard"],
+    "venue": "Clim. Dynam 36,",
+    "year": 2011
+  }, {
+    "title": "Estimating 750 years of temperature variations and uncertainties in the Pyrenees by tree-ring reconstructions and climate simulations. Clim",
+    "authors": ["E. errez"],
+    "venue": "Past 8,",
+    "year": 2012
+  }, {
+    "title": "Using the past to constrain the future: how the palaeorecord can improve estimates of global warming",
+    "authors": ["T.L. Edwards", "M. Crucifix", "S.P. Harrison"],
+    "venue": "Prog. Phys. Geogr",
+    "year": 2007
+  }, {
+    "title": "Estimating central equatorial Pacific SST variability over the past millennium. Part II: reconstructions and implications",
+    "authors": ["J. Emile-Geay", "K.M. Cobb", "M.E. Mann", "A.T. Wittenberg"],
+    "venue": "J. Clim",
+    "year": 2013
+  }, {
+    "title": "Testing the hypothesis of post-volcanic missing rings in temperature sensitive dendrochronological data",
+    "authors": ["J. Esper", "U. Büntgen", "J. Luterbacher", "P.J. Krusic"],
+    "venue": "Dendrochronologia 31,",
+    "year": 2013
+  }, {
+    "title": "Low-frequency signals in long treering chronologies for reconstructing past temperature variability",
+    "authors": ["J. Esper", "E.R. Cook", "F.H. Schweingruber"],
+    "venue": "Science 295,",
+    "year": 2002
+  }, {
+    "title": "Northern European summer temperature variations over the Common Era from integrated treering density records",
+    "authors": ["J. Esper", "E. Düthorn", "P.J. Krusic", "M. Timonen", "U. Büntgen"],
+    "venue": "J. Quat. Sci",
+    "year": 2014
+  }, {
+    "title": "Trends and uncertainties in Siberian indicators of 20th century warming",
+    "authors": ["J. Esper", "D. Frank", "U. Büntgen", "A. Verstege", "R.M. Hantemirov", "A.V. Kirdyanov"],
+    "venue": "Glob. Change Biol",
+    "year": 2010
+  }, {
+    "title": "Longterm drought severity variations in Morocco",
+    "authors": ["J. Esper", "D. Frank", "U. Büntgen", "A. Verstege", "J. Luterbacher", "E. Xoplaki"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2007
+  }, {
+    "title": "Orbital forcing of tree-ring data",
+    "authors": ["J. Esper", "D.C. Frank", "M. Timonen", "E. Zorita", "R.J.S. Wilson", "J. Luterbacher", "S. Holzkamper", "N. Fischer", "S. Wagner", "D. Nievergelt", "A. Verstege", "U. Buntgen"],
+    "venue": "Nat. Clim. Change",
+    "year": 2012
+  }, {
+    "title": "Ranking of tree-ring based temperature reconstructions of the past millennium",
+    "authors": ["J. Esper", "P.J. Krusic", "F.C. Ljungqvist", "J. Luterbacher", "M. Carrer", "E. Cook", "N.K. Davi", "C. Hartl-Meier", "A. Kirdyanov", "O Konter"],
+    "venue": "Quat. Sci",
+    "year": 2016
+  }, {
+    "title": "European summer temperature response to annually dated volcanic eruptions over the past nine centuries",
+    "authors": ["J. Esper", "L. Schneider", "P.J. Krusic", "J. Luterbacher", "U. Büntgen", "M. Timonen", "F. Sirocko", "E. Zorita"],
+    "venue": "Bull. Volcanol",
+    "year": 2013
+  }, {
+    "title": "Signals and memory in tree-ring width and density data",
+    "authors": ["B.R. one", "U. Büntgen"],
+    "venue": "Dendrochronologia 35,",
+    "year": 2015
+  }, {
+    "title": "Climate: past ranges and future changes",
+    "authors": ["J. Esper", "R.J.S. Wilson", "D.C. Frank", "A. Moberg", "H. Wanner", "J. Luterbacher"],
+    "venue": "Quat. Sci. Rev",
+    "year": 2005
+  }, {
+    "title": "Statistically derived contributions of diverse human influences to twentieth-century temperature changes",
+    "authors": ["B. opez"],
+    "venue": "Nat. Geosci",
+    "year": 2013
+  }, {
+    "title": "Applications of proxy system modeling in high resolution paleoclimatology",
+    "authors": ["M. Evans", "S. Tolwinski-Ward", "D. Thompson", "K. Anchukaitis"],
+    "venue": "Quat. Sci. Rev. 76,",
+    "year": 2013
+  }, {
+    "title": "Pacific sea surface temperature field reconstruction from coral",
+    "authors": ["M.N. Evans", "A. Kaplan", "M.A. Cane"],
+    "year": 2002
+  }, {
+    "title": "Globality and optimality in climate field reconstructions from proxy data",
+    "authors": ["M.N. Evans", "A. Kaplan", "M.A. Cane", "R. Villalba"],
+    "year": 2001
+  }, {
+    "title": "Large-scale temperature response to external forcing in simulations and reconstructions of the last millennium",
+    "authors": ["P. Yiou", "E. Zorita"],
+    "venue": "Clim. Past 9,",
+    "year": 2013
+  }, {
+    "title": "Warmer early instrumental measurements versus colder reconstructed temperatures: shooting at a moving target",
+    "authors": ["R. ohm", "M. Maugeri", "J. Esper"],
+    "venue": "Quat. Sci. Rev",
+    "year": 2007
+  }, {
+    "title": "A noodle, hockey stick, and spaghetti plate: a perspective on high-resolution paleoclimatology",
+    "authors": ["D. Frank", "J. Esper", "E. Zorita", "R. Wilson"],
+    "venue": "WIREs Clim. Chg 1,",
+    "year": 2010
+  }, {
+    "title": "Tree Rings and Climate",
+    "authors": ["H.C. Fritts"],
+    "year": 1976
+  }, {
+    "title": "Reconstructing Large-scale Climatic Patterns from Tree-ring Data: a Diagnostic Analysis",
+    "authors": ["H.C. Fritts"],
+    "year": 1991
+  }, {
+    "title": "Nonstationary Australasian teleconnections and implications for paleoclimate reconstructions",
+    "authors": ["A.J. Gallant", "S.J. Phipps", "D.J. Karoly", "A.B. Mullan", "A.M. Lorrey"],
+    "venue": "J. Clim",
+    "year": 2013
+  }, {
+    "title": "Volcanic forcing of climate over the past 1500 years: an improved ice-core-based index for climate models",
+    "authors": ["C. Gao", "A. Robock", "C.M. Ammann"],
+    "venue": "J. Geophys. Res",
+    "year": 2008
+  }, {
+    "title": "The 1452 or 1453 AD Kuwae eruption signal derived frommultiple ice core records: greatest volcanic sulfate event of the past 700 years",
+    "authors": ["C.C. Gao", "A. Robock", "S. Self", "J.B. Witter", "J.P. Steffenson", "H.B. Clausen", "M.L. SiggaardAndersen", "S. Johnsen", "P.A. Mayewski", "C. Ammann"],
+    "year": 2006
+  }, {
+    "title": "Application of the cross wavelet",
+    "authors": ["J.C. Moore", "S. Jevrejeva"],
+    "year": 2004
+  }, {
+    "title": "The last millennium climate reanalysis project: framework",
+    "authors": ["W.A. Perkins"],
+    "year": 2016
+  }, {
+    "title": "Updated high-resolution grids",
+    "authors": ["I. 1002/2016jd024751. Harris", "P.D. Jones", "T.J. Osborn", "D.H. Lister"],
+    "year": 2013
+  }, {
+    "title": "Evaluation of CMIP5 palaeo-simulations to improve",
+    "authors": ["M. Kageyama"],
+    "year": 2015
+  }, {
+    "title": "From past to future warming",
+    "authors": ["G. 2074e2079. Hegerl", "P. Stott"],
+    "venue": "Science 343,",
+    "year": 2014
+  }, {
+    "title": "Multi-fingerprint detection and attribution analysis",
+    "authors": ["J. Waszkewitz"],
+    "year": 1997
+  }, {
+    "title": "Climate change detection and attribution: beyond mean",
+    "authors": ["F. Zwiers"],
+    "year": 2006
+  }, {
+    "title": "Using the past to predict the future",
+    "authors": ["G.C. Hegerl", "T. Russon"],
+    "venue": "J. Clim. 19,",
+    "year": 2011
+  }, {
+    "title": "Dendrochronology in climatology - the state of the art",
+    "authors": [],
+    "year": 2002
+  }, {
+    "title": "Was there a ‘Medieval Warm Period",
+    "authors": ["drochronologia", "M.K. 95e116. Hughes", "H.F. Diaz"],
+    "year": 1994
+  }, {
+    "title": "Tree ring width and density evidence of climatic",
+    "authors": ["locene", "G.C. 629e634. Jacoby", "R.D. D'Arrigo"],
+    "year": 1995
+  }, {
+    "title": "Long-term temperature trends and tree growth in the Taymir",
+    "authors": ["D.C. Frank"],
+    "year": 2000
+  }, {
+    "title": "High-resolution palaeoclimatology of the last millennium",
+    "authors": ["E. Xoplaki"],
+    "year": 2009
+  }, {
+    "title": "Estimating sampling errors in large-scale",
+    "authors": ["T.J. Osborn", "K.R. Briffa"],
+    "year": 1997
+  }, {
+    "title": "Excursions in the 14 C record at A.D",
+    "authors": ["M.W. Salzer", "G.S. Burr", "S.W. Leavitt"],
+    "year": 2014
+  }, {
+    "title": "PMIP4-CMIP6: the contribution of the paleoclimate",
+    "authors": ["Q. Zhang", "T. Zhou"],
+    "year": 2016
+  }, {
+    "title": "Holocene carbon emissions as a result of anthropogenic",
+    "authors": ["K.K. Goldewijk"],
+    "year": 2011
+  }, {
+    "title": "A community-driven framework for climate reconstructions",
+    "authors": ["D. Kaufman"],
+    "year": 2014
+  }, {
+    "title": "A 1600-year history of the Labrador",
+    "authors": ["L.D. Keigwin", "J.P. Sachs", "Y. Rosenthal"],
+    "venue": "Eos. Trans. Am. Geophys. Union 95,",
+    "year": 2003
+  }, {
+    "title": "Synoptic drivers",
+    "authors": ["M. Ziehmer", "G. Rousakis", "V. Trouet", "D. Frank"],
+    "year": 2015
+  }, {
+    "title": "How natural and anthropogenic influences alter global",
+    "authors": ["J.L. pnas.1307520110. Lean", "D.H. Rind"],
+    "year": 2008
+  }, {
+    "title": "Evaluation of proxy-based millennial",
+    "authors": ["F.W. Zwiers", "M. Tsao"],
+    "year": 2008
+  }, {
+    "title": "The value of multiproxy reconstruction of past",
+    "authors": ["D. Nychka", "C. Ammann"],
+    "year": 2010
+  }, {
+    "title": "Fennoscandia revisited: a spatially improved tree-ring reconstruction of summer temperatures for the last 900 years",
+    "authors": ["J. orklund", "K. Seftigen", "B.E. Gunnarson", "M. Fuentes"],
+    "venue": "Clim. Dynam",
+    "year": 2015
+  }, {
+    "title": "Medieval Irish chronicles reveal persistent volcanic forcing of severe winter cold events, 431e1649 CE",
+    "authors": ["F. Ludlow", "A.R. Stine", "P. Leahy", "E. Murphy", "P.A. Mayewski", "D. Taylor", "J. Killen", "M.G. Baillie", "M. Hennessy", "G. Kiely"],
+    "venue": "Environ. Res. Lett",
+    "year": 2013
+  }, {
+    "title": "Global-scale temperature patterns and climate forcing over the past six centuries",
+    "authors": ["M.E. Mann", "R.S. Bradley", "M.K. Hughes"],
+    "venue": "Nature 392,",
+    "year": 1998
+  }, {
+    "title": "Underestimation of volcanic cooling in tree-ring-based reconstructions of hemispheric temperatures",
+    "authors": ["M.E. Mann", "J.D. Fuentes", "S. Rutherford"],
+    "venue": "Nat. Geosci",
+    "year": 2012
+  }, {
+    "title": "Climate reconstruction using ’pseudoproxies",
+    "authors": ["M.E. Mann", "S. Rutherford"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2002
+  }, {
+    "title": "Discrepancies between the modeled and proxy-reconstructed response to volcanic forcing",
+    "authors": ["M.E. Mann", "S. Rutherford", "A. Schurer", "S.F. Tett", "J.D. Fuentes"],
+    "year": 2013
+  }, {
+    "title": "Testing the fidelity",
+    "authors": ["Res. Atmos", "M.E. 7617e7627. Mann", "S. Rutherford", "E. Wahl", "C. Ammann"],
+    "year": 2005
+  }, {
+    "title": "Robustness of proxy-based",
+    "authors": ["M.E. 4097e4107. Mann", "S. Rutherford", "E. Wahl", "C. Ammann"],
+    "year": 2007
+  }, {
+    "title": "Global signatures and dynamical origins",
+    "authors": ["C. Ammann", "G. Faluvegi", "F. Ni"],
+    "year": 2009
+  }, {
+    "title": "Direct transformation of tree-ring measurements",
+    "authors": ["S. Helama"],
+    "year": 2016
+  }, {
+    "title": "Testing long-term summer temperature",
+    "authors": ["V.V. 439e449. Matskovsky", "S. Helama"],
+    "year": 2014
+  }, {
+    "title": "The ‘little ice age’: Re-evaluation of an evolving",
+    "authors": ["K.R. Briffa"],
+    "year": 2005
+  }, {
+    "title": "Robust global ocean cooling trend",
+    "authors": ["K. Thirumalai", "H.L. Filipsson", "V. Ersek"],
+    "year": 2015
+  }, {
+    "title": "An extended Arctic proxy temperature database",
+    "authors": ["N.P. 1038/ngeo2510. McKay", "D.S. Kaufman"],
+    "year": 2014
+  }, {
+    "title": "Combinations of natural and anthropogenic forcings",
+    "authors": ["C. Tebaldi"],
+    "year": 2004
+  }, {
+    "title": "Historical Growth Rates and Changing Climatic Sensitivity",
+    "authors": ["ardisation. Dendrochronologia", "T.M. 71e86. Melvin"],
+    "year": 2004
+  }, {
+    "title": "Cross-validation in statistical climate forecast models",
+    "authors": ["J. Kingdom. Michaelson"],
+    "venue": "J. Clim",
+    "year": 1987
+  }, {
+    "title": "A millennial summer temperature reconstruction for northeastern Canada using oxygen isotopes in subfossil trees. Clim",
+    "authors": ["Y. egin"],
+    "venue": "Past 11,",
+    "year": 2015
+  }, {
+    "title": "Possible solarclimate imprint in temperature proxies from the middle and high latitudes of North America",
+    "authors": ["M. Ogurtsov", "S. Veretenenko", "M. Lindholm", "R. Jalkanen"],
+    "venue": "Adv. Space Res",
+    "year": 2016
+  }, {
+    "title": "Climatic response to high-latitude volcanic eruptions",
+    "authors": ["L. Oman", "A. Robock", "G. Stenchikov", "G.A. Schmidt", "R. Ruedy"],
+    "venue": "J. Geophys. Res",
+    "year": 2005
+  }, {
+    "title": "A model-tested North Atlantic Oscillation reconstruction for the past millennium",
+    "authors": ["P. Ortega", "F. Lehner", "D. Swingedouw", "V. Masson-Delmotte", "C.C. Raible", "M. Casado", "P. Yiou"],
+    "venue": "Nature 523,",
+    "year": 2015
+  }, {
+    "title": "Impacts of high-latitude volcanic eruptions on ENSO and AMOC",
+    "authors": ["F.S.R. Pausata", "L. Chafik", "R. Caballero", "D.S. Battisti"],
+    "venue": "Proc. Natl. Acad. Sci. 112,",
+    "year": 2015
+  }, {
+    "title": "Contrasted dynamics of northern Labrador tree lines caused by climate change and migrational lag",
+    "authors": ["S. Payette"],
+    "venue": "Ecology 88,",
+    "year": 2007
+  }, {
+    "title": "Pluvials, droughts, the Mongol Empire, and modern Mongolia",
+    "authors": ["N. Pederson", "A.E. Hessl", "N. Baatarbileg", "K.J. Anchukaitis", "N.D. Cosmo"],
+    "venue": "Proc. Natl. Acad. Sci. 111,",
+    "year": 2014
+  }, {
+    "title": "Paleoclimate dataemodel comparison and the role of climate forcings over the past 1500 years",
+    "authors": ["S.J. Phipps", "H.V. McGregor", "J. Gergis", "A.J. Gallant", "R. Neukom", "S. Stevenson", "D. Ackerley", "J.R. Brown", "M.J. Fischer", "T.D. Van Ommen"],
+    "venue": "J. Clim",
+    "year": 2013
+  }, {
+    "title": "An independently dated 2000-yr volcanic record from Law Dome, East Antarctica, including a new perspective on the dating of the 1450s CE eruption of Kuwae, Vanuatu",
+    "authors": ["C.T. Plummer", "M.A.J. Curran", "T.D. van Ommen", "S.O. Rasmussen", "A.D. Moy", "T.R. Vance", "H.B. Clausen", "B.M. Vinther", "P.A. Mayewski"],
+    "venue": "Clim. Past 8,",
+    "year": 2012
+  }, {
+    "title": "A reconstruction of global agricultural areas and land cover for the last millennium",
+    "authors": ["J. Pongratz", "C. Reick", "T. Raddatz", "M. Claussen"],
+    "venue": "Glob. Biogeochem. Cycles",
+    "year": 2008
+  }, {
+    "title": "The influence of the de Vries (~ 200-year) solar cycle on climate variations: results from the Central Asian Mountains and their global link",
+    "authors": ["T. om", "X. Shao"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2008
+  }, {
+    "title": "Shift in ENSO teleconnections",
+    "authors": ["J. atzold"],
+    "year": 2003
+  }, {
+    "title": "Simulated time-dependent climate response",
+    "authors": ["2. Rind", "Lean", "Healy"],
+    "year": 1999
+  }, {
+    "title": "solar radiative forcing since 1600",
+    "authors": ["D. Rind", "D. Shindell", "J. Perlwitz", "J. Lerner", "P. Lonergan", "J. Lean", "C. McLinden"],
+    "venue": "Geophys. Res. Lett. 104,",
+    "year": 2004
+  }, {
+    "title": "Volcanic eruptions and climate",
+    "authors": ["S. Rutherford", "M.E. Mann", "T.L. Delworth", "R.J. Stouffer"],
+    "venue": "Maunder Minimum and the present. J. Clim. 17, 906e929. Robock, A.,",
+    "year": 2000
+  }, {
+    "title": "Blue intensity for dendroclimatology",
+    "authors": ["R. Wilson"],
+    "year": 2014
+  }, {
+    "title": "Reconstructing 800 years of summer",
+    "authors": ["S.G. Moreton", "C.V. Wood", "R. Wilson"],
+    "year": 2017
+  }, {
+    "title": "Using palaeo-climate comparisons to constrain",
+    "authors": ["L.B. Tremblay", "P. Yiou"],
+    "year": 2014
+  }, {
+    "title": "Revising midlatitude summer temperatures back to A.D",
+    "authors": ["J. Esper"],
+    "year": 2015
+  }, {
+    "title": "Analysis of incomplete climate data: Estimation of mean values",
+    "authors": [],
+    "year": 2001
+  }, {
+    "title": "and covariance matrices and imputation of missing values",
+    "authors": ["A.P. Schurer", "G.C. Hegerl", "M.E. Mann", "S.F. Tett", "S.J. Phipps"],
+    "venue": "J. Clim. 14,",
+    "year": 2013
+  }, {
+    "title": "Small influence of solar variability",
+    "authors": ["A.P. 6954e6973. Schurer", "S.F.B. Tett", "G.C. Hegerl"],
+    "year": 2014
+  }, {
+    "title": "A tree-ring densitometric transect",
+    "authors": ["F. 1038/ngeo2040. Schweingruber", "K. Briffa", "P. Nogler"],
+    "year": 1993
+  }, {
+    "title": "The X-ray technique as applied to dendroclimatology",
+    "authors": ["O. aker", "L. Drew", "E. Sch€ar"],
+    "venue": "Tree-Ring Bull",
+    "year": 1978
+  }, {
+    "title": "Tropical Pacific forcing of North American medieval megadroughts: testing the concept with an atmosphere model forced by coral-reconstructed SSTs",
+    "authors": ["R. Seager", "R. Burgman", "Y. Kushnir", "A. Clement", "E. Cook", "N. Naik", "J. Miller"],
+    "venue": "J. Clim",
+    "year": 2008
+  }, {
+    "title": "Blueprints for medieval hydroclimate",
+    "authors": ["R. Seager", "N. Graham", "C. Herweijer", "A.L. Gordon", "Y. Kushnir", "E.R. Cook"],
+    "venue": "Quat. Sci. Rev",
+    "year": 2007
+  }, {
+    "title": "Climate response to regional radiative forcing during the twentieth century",
+    "authors": ["D. Shindell", "G. Faluvegi"],
+    "venue": "Nat. Geosci",
+    "year": 2009
+  }, {
+    "title": "Inhomogeneous forcing and transient climate sensitivity",
+    "authors": ["D.T. Shindell"],
+    "venue": "Nat. Clim. Change",
+    "year": 2014
+  }, {
+    "title": "Spatial patterns of radiative forcing and surface temperature response",
+    "authors": ["D.T. Shindell", "G. Faluvegi", "L. Rotstayn", "G. Milly"],
+    "venue": "J. Geophys. Res",
+    "year": 2015
+  }, {
+    "title": "Dynamic winter climate response to large tropical volcanic eruptions since 1600",
+    "authors": ["D.T. Shindell", "G.A. Schmidt", "M.E. Mann", "G. Faluvegi"],
+    "venue": "J. Geophys. Res. Atmos",
+    "year": 2004
+  }, {
+    "title": "Solar forcing of regional climate change during the Maunder Minimum",
+    "authors": ["D.T. Shindell", "G.A. Schmidt", "M.E. Mann", "D. Rind", "A. Waple"],
+    "venue": "Science 294,",
+    "year": 2001
+  }, {
+    "title": "Volcanic and solar forcing of climate change during the preindustrial era",
+    "authors": ["D.T. Shindell", "G.A. Schmidt", "R.L. Miller", "M.E. Mann"],
+    "venue": "J. Clim",
+    "year": 2003
+  }, {
+    "title": "Northern Hemisphere winter climate response to greenhouse gas, ozone, solar, and volcanic forcing",
+    "authors": ["D.T. Shindell", "G.A. Schmidt", "R.L. Miller", "D. Rind"],
+    "venue": "J. Geophys. Res. - Atmos",
+    "year": 2001
+  }, {
+    "title": "Timing and climate forcing of volcanic eruptions",
+    "authors": ["M. Sigl", "M. Winstrup", "J.R. McConnell", "K.C. Welten", "G. Plunkett", "F. Ludlow", "U. Büntgen", "M. Caffee", "N. Chellman", "D. Dahl-Jensen", "H. Fischer", "S. Kipfstuhl", "C. Kostick", "O.J. Maselli", "F. Mekhaldi", "R. Mulvaney", "R. Muscheler", "D.R. Pasteris", "J.R. Pilcher", "M. Salzer", "S. Schüpbach", "J.P. Steffensen", "B.M. Vinther", "T.E. Woodruff"],
+    "year": 2015
+  }, {
+    "title": "Erroneous model field representations in multiple pseudoproxy studies: corrections and implications",
+    "authors": ["J.E. Smerdon", "A. Kaplan", "D.E. Amrhein"],
+    "venue": "J. Clim. 23,",
+    "year": 2010
+  }, {
+    "title": "On the origin of the standardization sensitivity in RegEM climate field reconstructions",
+    "authors": ["J.E. Smerdon", "A. Kaplan", "D. Chang"],
+    "venue": "J. Clim",
+    "year": 2008
+  }, {
+    "title": "Spatial performance of four climate field reconstruction methods targeting the Common Era",
+    "authors": ["J.F. alez-Rouco", "M.N. Evans"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2011
+  }, {
+    "title": "Reconstructing Earth's surface temperature over the past 2000 years: the science behind the headlines",
+    "authors": ["J.E. Smerdon", "H.N. Pollack"],
+    "venue": "Wiley Interdiscip. Rev. Clim. Change. http://dx.doi.org/10.1002/wcc.418",
+    "year": 2016
+  }, {
+    "title": "Distinguishing the roles of natural and anthropogenically forced decadal climate variability",
+    "authors": ["A. Solomon", "L. Goddard", "A. Kumar", "J. Carton", "C. Deser", "I. Fukumori", "A. Greene", "G. Hegerl", "B. Kirtman", "Y.M.N. Kushnir", "D. Smith", "D. Vimont", "T. Delworth", "G.A. Meehl", "T. Stockdale"],
+    "venue": "Bull. Am. Meteorol. Soc",
+    "year": 2011
+  }, {
+    "title": "An overview of tree-ring width records across the Northern Hemisphere",
+    "authors": ["S. St. George"],
+    "venue": "Quat. Sci. Rev. 95, 132e150",
+    "year": 2014
+  }, {
+    "title": "The imprint of climate within Northern Hemisphere trees",
+    "authors": ["S. St. George", "T.R. Ault"],
+    "venue": "Quat. Sci. Rev",
+    "year": 2014
+  }, {
+    "title": "The rarity of absent growth rings in Northern Hemisphere forests outside the American Southwest",
+    "authors": ["S. St. George", "T.R. Ault", "M.C.A. Torbenson"],
+    "venue": "Geophys. Res. Lett. 40,",
+    "year": 2013
+  }, {
+    "title": "Assimilation of timeaveraged pseudoproxies for climate reconstruction",
+    "authors": ["N.J. Steiger", "G.J. Hakim", "E.J. Steig", "D.S. Battisti", "G.H. Roe"],
+    "venue": "J. Clim",
+    "year": 2014
+  }, {
+    "title": "Total solar irradiance during the Holocene",
+    "authors": ["C. ohlich"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2009
+  }, {
+    "title": "Arctic Oscillation response to volcanic eruptions in the IPCC AR4 climate models",
+    "authors": ["G. Stenchikov", "K. Hamilton", "R.J. Stouffer", "A. Robock", "V. Ramaswamy", "B. Santer", "H.F. Graf"],
+    "venue": "J. Geophys. Res",
+    "year": 2006
+  }, {
+    "title": "Estimates of volcanic-induced cooling in the Northern Hemisphere over the past 1,500 years",
+    "authors": ["M. Stoffel", "M. Khodri", "C. Corona", "S. Guillet", "V. Poulain", "S. Bekki", "J. Guiot", "B.H. Luckman", "C. Oppenheimer", "N. Lebas", "M. Beniston", "V. Masson-Delmotte"],
+    "venue": "Nat. Geosci",
+    "year": 2015
+  }, {
+    "title": "Detection and attribution of climate change: a regional perspective",
+    "authors": ["P.A. Stott", "N.P. Gillett", "G.C. Hegerl", "D.J. Karoly", "D.A. Stone", "X. Zhang", "F. Zwiers"],
+    "venue": "Wiley Interdiscip. Rev. Clim. Change",
+    "year": 2010
+  }, {
+    "title": "Variability of high latitude amplification of anthropogenic warming",
+    "authors": ["P.A. Stott", "G.S. Jones"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2009
+  }, {
+    "title": "Arctic Holocene proxy climate database: new approaches to assessing geochronological accuracy",
+    "authors": ["H.S. Sundqvist", "D.S. Kaufman", "N.P. McKay", "N.L. Balascio", "J.P. Briner", "L.C. Cwynar", "H.P. Sejrup", "H. Sepp€a", "D.A. Subetto", "J.T. Andrews", "Y. Axford", "J. Bakke", "H.J.B. Birks", "S.J. Brooks", "A. de Vernal", "A.E. Jennings", "F.C. Ljungqvist", "K.M. Rühland", "C. Saenger", "J.P. Smol", "A.E. Viau"],
+    "year": 2014
+  }, {
+    "title": "Recent white spruce dynamics at the subarctic",
+    "authors": ["J.M. 0803-5. Szeicz", "G.M. MacDonald"],
+    "year": 1995
+  }, {
+    "title": "Tropical sea surface temperatures",
+    "authors": ["C.P. Saenger", "H.C. Wu", "J. Zinke"],
+    "year": 2015
+  }, {
+    "title": "Recent temperature extremes at high northern",
+    "authors": ["P. Huybers"],
+    "year": 2013
+  }, {
+    "title": "A practical guide to wavelets",
+    "authors": ["G. Compo"],
+    "venue": "Bull. Am. Meteorol. Soc",
+    "year": 1998
+  }, {
+    "title": "Spatial Patterns",
+    "authors": ["J. Stephan", "I. Mitsopoulos", "A. Christou", "D.M. Meko"],
+    "year": 2014
+  }, {
+    "title": "Global impacts of the 1600 eruption of Peru's",
+    "authors": ["2. Verosub", "K.L", "Lippman"],
+    "year": 2008
+  }, {
+    "title": "Presence of the solar de vries cycle",
+    "authors": ["G.M. Raisbeck", "F. Yiou"],
+    "year": 2001
+  }, {
+    "title": "The influence of volcanic, solar and CO2 forcing on",
+    "authors": ["S. 1029/2000gl006116. Wagner", "E. Zorita"],
+    "year": 2005
+  }, {
+    "title": "Long-term patterns of solar irradiance forcing in model experiments and proxy-based surface temperature reconstructions",
+    "authors": ["A. Waple", "M.E. Mann", "R.S. Bradley"],
+    "venue": "Clim. Dynam",
+    "year": 2002
+  }, {
+    "title": "Surface air temperature variability reconstructed with tree rings for the Gulf of Alaska over the past 1200 years. Holocene 24, 198e208. http:// dx.doi.org/10.1177/0959683613516815",
+    "authors": ["G.C. Wiles", "R.D. D'Arrigo", "D. Barclay", "R.S. Wilson", "S.K. Jarvis", "L. Vargo", "D. Frank"],
+    "year": 2014
+  }, {
+    "title": "2016. Last millennium northern hemisphere summer temperatures from tree rings: Part I: the long term context. Quat",
+    "authors": ["R. Wilson", "K. Anchukaitis", "K.R. Briffa", "U. Büntgen", "E. Cook", "R. D'Arrigo", "N. Davi", "J. Esper", "D. Frank", "B. Gunnarson", "G. Hegerl", "S. Helama", "S. Klesse", "P.J. Krusic", "H.W. Linderholm", "V. Myglan", "T.J. Osborn", "M. Rydval", "L. Schneider", "A. Schurer", "G. Wiles", "P. Zhang", "E. Zorita"],
+    "year": 2016
+  }, {
+    "title": "Reconstructing ENSO: the influence of method, proxy data, climate forcing and teleconnections",
+    "authors": ["R. Wilson", "E. Cook", "R. D'Arrigo", "N. Riedwyl", "M.N. Evans", "A. Tudhope", "R. Allan"],
+    "venue": "J. Quat. Sci",
+    "year": 2010
+  }, {
+    "title": "A matter of divergence: tracking recent warming at hemispheric scales using tree ring data",
+    "authors": ["R. Wilson", "R.D. D'Arrigo", "B.M. Buckley", "U. Büntgen", "J. Esper", "D. Frank", "B. Luckman", "S. Payette", "R. Vose", "D. Youngblut"],
+    "venue": "J. Geophys. Res",
+    "year": 2007
+  }, {
+    "title": "Blue Intensity for dendroclimatology: the BC blues: a case study from British Columbia, Canada",
+    "authors": ["R. Wilson", "R. Rao", "M. Rydval", "C. Wood", "L.A. Larsson", "B.H. Luckman"],
+    "venue": "Holocene 24, 1428e1438",
+    "year": 2014
+  }, {
+    "title": "Twohundred-fifty years of reconstructed and modeled tropical temperatures",
+    "authors": ["R. Wilson", "A. Tudhope", "P. Brohan", "K.R. Briffa", "T.J. Osborn", "S. Tett"],
+    "venue": "J. Geophys. Res. 111,",
+    "year": 2006
+  }, {
+    "title": "Tropical pacific and northern hemisphere influences on the coherence of pacific decadal oscillation reconstructions",
+    "authors": ["E.K. Wise"],
+    "venue": "Int. J. Climatol",
+    "year": 2015
+  }, {
+    "title": "Maximum June-July temperatures in the southwest Yukon over the last 300 years reconstructed from tree rings",
+    "authors": ["D. Youngblut", "B. Luckman"],
+    "venue": "Dendrochronologia 25,",
+    "year": 2008
+  }, {
+    "title": "Bi-decadal variability excited in the coupled oceaneatmosphere system by strong tropical volcanic eruptions",
+    "authors": ["D. Zanchettin", "C. Timmreck", "H.F. Graf", "A. Rubino", "S. Lorenz", "K. Lohmann", "K. Krüger", "J.H. Jungclaus"],
+    "venue": "Clim. Dyn. 39,",
+    "year": 2012
+  }, {
+    "title": "2016. 1200 years of warm-season temperature variability in central Scandinavia inferred from tree-ring density",
+    "authors": ["J. orklund", "D. Chen"],
+    "venue": "Clim. Past 12,",
+    "year": 2016
+  }, {
+    "title": "Testing the Mann et al. [1998] approach to paleoclimate reconstructions in the context of a 1000-yr control simulation with the ECHO-G",
+    "authors": ["F. alez-Rouco", "S. Legutke"],
+    "venue": "Coupled Climate Model. J. Clim",
+    "year": 2003
+  }, {
+    "title": "The causes of 20th century warming",
+    "authors": ["F.W. Zwiers", "A.J. Weaver"],
+    "venue": "Science 290,",
+    "year": 2000
+  }],
+  "id": "SP:84c3550952e3f9aca1307047d42d6a2713f27225",
+  "authors": [{
+    "name": "Kevin J. Anchukaitis",
+    "affiliations": []
+  }, {
+    "name": "Rob Wilson",
+    "affiliations": []
+  }, {
+    "name": "Keith R. Briffa",
+    "affiliations": []
+  }, {
+    "name": "Ulf Büntgen",
+    "affiliations": []
+  }, {
+    "name": "Edward R. Cook",
+    "affiliations": []
+  }, {
+    "name": "Rosanne D'Arrigo",
+    "affiliations": []
+  }, {
+    "name": "Nicole Davi",
+    "affiliations": []
+  }, {
+    "name": "Jan Esper",
+    "affiliations": []
+  }, {
+    "name": "David Frank",
+    "affiliations": []
+  }, {
+    "name": "orn E. Gunnarson",
+    "affiliations": []
+  }, {
+    "name": "Gabi Hegerl",
+    "affiliations": []
+  }, {
+    "name": "Samuli Helama",
+    "affiliations": []
+  }, {
+    "name": "Stefan Klesse",
+    "affiliations": []
+  }, {
+    "name": "Paul J. Krusic",
+    "affiliations": []
+  }, {
+    "name": "Hans W. Linderholm",
+    "affiliations": []
+  }, {
+    "name": "Vladimir Myglan",
+    "affiliations": []
+  }, {
+    "name": "Timothy J. Osborn",
+    "affiliations": []
+  }, {
+    "name": "Peng Zhang",
+    "affiliations": []
+  }, {
+    "name": "Milos Rydval",
+    "affiliations": []
+  }, {
+    "name": "Lea Schneider",
+    "affiliations": []
+  }, {
+    "name": "Andrew Schurer",
+    "affiliations": []
+  }, {
+    "name": "Greg Wiles",
+    "affiliations": []
+  }, {
+    "name": "Eduardo Zorita",
+    "affiliations": []
+  }],
+  "abstractText": "Climate field reconstructions from networks of tree-ring proxy data can be used to characterize regionalscale climate changes, reveal spatial anomaly patterns associated with atmospheric circulation changes, radiative forcing, and large-scale modes of ocean-atmosphere variability, and provide spatiotemporal targets for climate model comparison and evaluation. Here we use a multiproxy network of tree-ring chronologies to reconstruct spatially resolved warm season (MayeAugust) mean temperatures across the extratropical Northern Hemisphere (40-90 N) using Point-by-Point Regression (PPR). The resulting annual maps of temperature anomalies (750e1988 CE) reveal a consistent imprint of volcanism, with 96% of reconstructed grid points experiencing colder conditions following eruptions. Solar influences are detected at the bicentennial (de Vries) frequency, although at other time scales the influence of insolation variability is weak. Approximately 90% of reconstructed grid points show warmer temperatures during the Medieval Climate Anomaly when compared to the Little Ice Age, although the magnitude varies spatially across the hemisphere. Estimates of field reconstruction skill through time and over space can guide future temporal extension and spatial expansion of the proxy network. © 2017 Elsevier Ltd. All rights reserved. Development, University of .J. Anchukaitis).",
+  "title": "Last millennium Northern Hemisphere summer temperatures from tree rings: Part II, spatially resolved reconstructions"
+}

@@ -33,6 +33,7 @@ def run_kfold():
 
     devel_data = []
     prediction = []
+    test_sent = []
 
     print("==============")
     print("START training")
@@ -57,6 +58,8 @@ def run_kfold():
         # get texts and labels from the development data
         devel_examples = classify.read_data("test.txt")
         devel_labels, devel_texts = zip(*devel_examples)
+
+        test_sent.extend(devel_texts)
 
         # create the feature extractor and label encoder
         to_features_svm = classify.TextToFeatures(train_texts, binary = False)
@@ -121,6 +124,11 @@ def run_kfold():
     print("Micro F1: ", f1_score(devel_data, prediction, average = 'micro'))
     print("Macro F1: ", f1_score(devel_data, prediction, average = 'macro'))
 
+    with open("../data/prediction_result.txt", "a") as output:
+        for i in range(0, len(prediction)):
+            res = "%s\t%s\n" % (prediction[i], test_sent[i])
+            print(res)
+            output.write(res)
 run_kfold()
 
 def run_error_anal():

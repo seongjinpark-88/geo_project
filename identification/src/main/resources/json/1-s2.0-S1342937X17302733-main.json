@@ -1,0 +1,629 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nGondwana Research\nj ourna l homepage: www.e lsev ie r .com/ locate /gr\nHigh-precision U-Pb zircon ages for explosive volcanism calibrating the NW European continental Autunian stratotype\nPierre Pellenard a,⁎, Georges Gand a,b, Mark Schmitz c, Jean Galtier d, Jean Broutin e, Jean-Sébastien Stéyer e a Biogéosciences, UMR 6282, CNRS, Université Bourgogne Franche-Comté, 6 Bd Gabriel, 21000 Dijon, France b Société d'Histoire Naturelle et des Amis du Muséum d'Autun, France c Department of Geosciences, Boise State University, 1910 University Drive, Boise, ID, USA d UMR CNRS AMAP, CIRAD, TA-A51/PS2, Université Montpellier-2, Bd de la Lironde, 34398 Montpellier cedex 05, France e UMR 7207 Centre de Recherches sur la Paléobiodiversité et les Paléoenvironnements, CNRS-MNHN-UPMC, 8 rue Buffon, 75005 Paris, France\n⁎ Corresponding author. E-mail address: Pierre.Pellenard@u-bourgogne.fr (P. P\nhttp://dx.doi.org/10.1016/j.gr.2017.07.014 1342-937X/© 2017 International Association for Gondwa\na b s t r a c t a r t i c l e i n f o\nArticle history: Received 24 March 2017 Received in revised form 11 July 2017 Accepted 11 July 2017 Available online 2 August 2017\nHandling Editor: R.D. Nance\nVolcanismwas intense inwestern European basins during the Late Carboniferous–Early Permian transition, related to the late Variscan extension and associated magmatism. In the Autun Basin, explosive eruptions, expressed as highly weathered distal ashfall deposits (tonsteins), were preserved in lacustrine to swamp environments. The analysis of eleven tonsteins, confirmed as non-reworked volcanic horizons, indicates a highly explosive acidic calc-alkaline volcanism, with active volcanic centres probably linked to Massif Central or Vosges–Black Forest magmatism. New accurate CA-ID-TIMS U–Pb ages are obtained from four of these tonsteins, recorded within the lower Autunian (Igornay and Muse Fms), which defines the lower part of the Autunian stratotype in the Autun Basin. The middle part of the Igornay Fm is dated at 299.9 ± 0.38 Ma, the Lally oil-shale bed is dated at 298.91 ± 0.08 Ma and the upper part of the Muse oil-shale bed is dated between 298.05 ± 0.19 and 298.57 ± 0.16 Ma. For the first time, a numerical calibration of the regional continental Autunian stage in its stratotype is proposed, thus allowing correlation with global marine stages defined in the Urals, and highlighting a late Gzhelian/early Asselian age for the lower Autunian. The tonstein in the Lally oil-shale appears to demarcate the Carboniferous– Permian boundarywithin the±100 kyr resolution of the U-Pb ages in both the Autun and southern Uralian basins. Comparison with other European domains confirms that these new ages are consistent with well-known macrofloral assemblages, characteristic of the Autunian.\n© 2017 International Association for Gondwana Research. Published by Elsevier B.V. All rights reserved.\nKeywords: Autunian stratotype Carboniferous–Permian transition U-Pb geochronology Tonsteins Floral biozonation"
+  }, {
+    "heading": "1. Introduction",
+    "text": "The Late Carboniferous–to Early Permianwas a period ofmajor global climatic upheavals, with an increase of atmospheric pCO2 in the context of a transition from icehouse to greenhouse conditions, associated with the development of a long period of aridity during the Early Permian (Schneider et al., 2006; Montañez et al., 2007; Tabor and Poulsen, 2008;Michel et al., 2015; Gulbranson et al., 2015). Palaeoclimate proxies from continental basins are of prime importance for quantifying synoptic and secular variability, but are often hindered by the scarcity of available reliable stratigraphic frameworks (Tabor and Poulsen, 2008). In western European basins, the Late Pennsylvanian–Early Permian transition is expressed in the rock recordmainly as detrital fluvio-lacustrine environments. These deposits include sequences of coal seams and “bituminous shales” (i.e. claystones rich in organic matter), frequently interstratified with volcanoclastic material (Bruguier et al., 2003; Schneider et al.,\nellenard).\nna Research. Published by Elsevier B.\n2006; Gand et al., 2013; Michel et al., 2015; Luthardt et al., 2016; Opluštil et al., 2016a, 2016b, 2017a). The regional continental Autunian Stage, historically defined in the Autun Basin (Autunian stratotype), is roughly equivalent to the lower part of the Rotliegend Group, wellknown in northern European basins (Menning et al., 2006; McCann, 2008). On the basis of macroflora and palynomorphs, the entire regional continental Autunian Stage is attributed by many authors to the late Gzhelian–Artinskian global Stages. In more detail, the lower part of the regional continental Autunian Stage (lower Autunian) may be placed into the Upper Gzhelian global Stage (Upper Pennsylvanian), while the upper part into the Asselian to Sakmarian stages or even into the Artinskian Stage (e.g. Doubinger, 1956; Feys and Greber, 1972; Bouroz and Doubinger, 1977; Doubinger and Elsass, 1979; Châteauneuf and Farjanel, 1989; Broutin et al., 1999; Gand et al., 2013). This stratigraphic range is in agreementwith the Subcommission on Carboniferous Stratigraphy (SCCS), as reported by Heckel and Clayton (2006), and the current Geologic Time Scale 2012 and Concise Geologic Time Scale 2016 (Davydov et al., 2012; Henderson et al., 2012; Ogg et al., 2016). However, this attribution has been challenged by Wagner and Álvarez-Vázquez (2010), on the basis of Carboniferous megafloral zonation, placing the\nV. All rights reserved.\nentire Autunian in the Gzhelian Stage and considering the lower Autunian and the middle-upper Autunian as belonging to the European regional Stephanian Stage.\nIn this study, we investigate thin volcanic ash layers (tuffs) interbedded in shale and siltstone deposits from the lower Autunian (Igornay and Muse Formations) of the Autun Basin (northern Massif Central, France), in order to 1) refine the chronostratigraphy of the continental sedimentary deposits of the Autunian stratotype, including macrofloral and microfloral zonations, 2) establish correlations with other continental and marine Carboniferous–Permian units, 3) document the volcanism recorded in Western Europe during the Carboniferous–Permian. These interbedded volcanic ash layers, completely weathered to clay during diagenesis, are preserved as tonsteins (i.e. thin kaolinite-rich claystone layers), used by mining geologists for regional correlations (e.g. Bouroz, 1967; Spears, 2012). In the Autun Basin, explosive volcanism was first suspected by Doubinger and Elsass (1975) and Elsass-Damon (1977), and subsequently confirmed by Marteau (1983) and Frere (1982a), through studies of outcrops and cores. Nevertheless, no radioisotopic age has been successfully obtained from these volcanic layers to date prior to this study (Châteauneuf and Farjanel, 1989; McCann, 2008). The precise nature and source of the volcanic deposits interstratified in the Igornay and Muse Fms are discussed herein. New accurate ages are provided from zircons preserved in four tonsteins, using the very precise chemical abrasion isotope dilution thermal ionization mass spectrometry (CA-ID-TIMS)U–Pbmethod. Newdata are comparedwith other published radioisotopic ages and volcanic events recorded in adjacent Permian European basins. Finally, a new chronostratigraphic framework for the regional continental Autunian Stage is proposed, in coherence with the current Carboniferous–Permian global time scale (Schmitz and Davydov, 2012; Gradstein et al., 2012; Ogg et al., 2016) and recent works on continental Permian strata from other European domains (i.e. Michel et al., 2015; Schneider and Scholze, 2016; Opluštil et al., 2016a, 2016b, 2017a, 2017b)."
+  }, {
+    "heading": "2. Geological setting",
+    "text": ""
+  }, {
+    "heading": "2.1. The Autun Basin",
+    "text": "The Autun Basin is an east–west-oriented sedimentary basin located in the Morvan, northern Massif Central (France). It is bounded by Devonian–Carboniferous volcanoclastic strata to the north and a granite batholith to the south (Fig. 1a). This basin is a small half-graben (30 km × 15 km, 260 km2) limited to the south by the extensional Autun fault, active during Permian sedimentation, in an extensive geodynamic context (Marteau, 1983; Châteauneuf and Farjanel, 1989). This post-orogenic (late Variscan) extension affectedmany French Permian basins, including Blanzy-Le Creusot, Aumance, Lodève, Saint Affrique and the Provence (Toutin, 1980; Châteauneuf and Farjanel, 1989; Faure, 1995; Faure et al., 2009). In the east of the Autun Basin, the Autunian unit is in unconformity with the underlying Stephanian deposits, as well as Hercynian granite basement and volcanic units (Feys and Greber, 1972; Farjanel et al., 1983; Marteau, 1983; Feys, 1991, Fig. 1b). The Autunian unit is mainly composed of siliciclastic sediments, with intercalated “bituminous” oil-shale beds typical of fluvio-lacustrine sedimentation (Fig. 1b–c). The Autunian stratoype, divided into lower and upper Autunian (i.e. regional substage and sensu Pruvost, 1942), is very thick (~1200 m) due to major subsidence imposed by synsedimentary faulting. Middle Triassic sandstones overlie the Permian deposits in the centre of the basin (Fig. 1b–c). The Autun Basin is known for its coalmeasures, exploited from 1774 in the Epinac area, but also for the discovery in 1811 of a “fish layer” at the base of the Muse oil-shale bed (see Brignon, 2014 for history) which still yields thousands of complete actinopterygian fishes, such as Aeduella blainvillei (e.g. Gand et al., 2011). Current knowledge of the geography and stratigraphy of the basin was mainly acquired during the mining inventory of this basin by the Bureau de Recherches Géologiques et Minières (BRGM), based on\nnumerous borehole cores, field studies and surface mapping (e.g. Marteau, 1983; Châteauneuf and Farjanel, 1989; Chèvremont et al., 1999). The geological synthesis by Marteau (1983) provides accurate structural, stratigraphic, and sedimentological data on the Carboniferous–Permian deposits of the Autun Basin."
+  }, {
+    "heading": "2.2. Stratigraphy of the Autunian stratotype",
+    "text": "The stratigraphic nomenclature of the Stephanian andAutunian units is inherited from previous summaries by Delafond (1889) and Pruvost (1942), used thereafter by many French geologists (Doubinger, 1968a, 1968b; Feys and Greber, 1972; Marteau, 1983; Marteau and Feys, 1989; Châteauneuf et al., 1992). The term “Autunien” was first used by the “Comité de la Nomenclature géologique” in Gaudry, 1883, while Delafond (1889) defined a Permian “bituminous” shale formation, including several productive oil-shale beds (OSB), later used as key stratigraphic marker beds (Figs. 1c, 2). Following Marteau (1983) and Chèvremont et al. (1999), the lower Autunian unit comprises the Igornay andMuse Formations (Fms), where tonsteins have been collected, while the upper Autunian unit corresponds to the Surmoulin, Millery and Curgy Fms (Fig. 2). In the eastern part of the basin, the Igornay Fm (historically “Assise d'Igornay”), ranging in thickness from250m to 400m, is composed of the Moloy Member (Mb) including coal beds, the Igornay Mb including the Igornay OSB, and the Lally Lower Sandstone Mb (“Grès de Lally Inférieurs”). The Muse Fm (300–400 m) is composed of the Lally Upper Sandstone Mb (“Grès de Lally Supérieurs”, including the Lally OSB), and the Muse Mb (including the Muse OSB). The Surmoulin Fm (250 m) is characterised by two oil-shale beds: the “Grande Couche de Surmoulin” OSB, and the “Couche Satellite de Surmoulin” OSB. The Millery Fm (250 m) is composed of the Télots Mb (including ten OSBs), and the Boghead Mb, characterised by a boghead algal coal bed. After nearly one century of studies, discussing the macrofloral and palynological content of the Autun-Epinac Basin, the boundary between the Stephanian and the lower Autunian cannot be clearly defined on the basis of palynology alone. Using palynological zonation, Doubinger and Elsass (1979) proposed a late Stephanian age for the Moloy coal beds and the Igornay OSB, but an Autunian age for the base of the Lally Sandstone Mbs. In the marine series of the Donetz Basin (Russia), the first inflated fusulinaceans referable to Schwagerina (i.e. Sphaeroschwagerina gigas) have historically defined the base of the Asselian Stage, before the precise recognition of the conodont Streptognathodus isolatuswas used for the position of the Asselian GSSP at Aidaralash Creek, northern Kazakhstan (Davydov et al., 1998; Davydov et al., 2010; Henderson et al., 2012). As the Vittatina (pollen) acme zone is present in both the marine Donetz and the continental Autun basins, Doubinger and Elsass (1979) proposed an Asselian age for the Lally Lower Sandstone Mbs. In contrast, Marteau (1983) used structural and stratigraphic evidence such as the unconformity between the Mt.-Pelé Fm and the Moloy Mb of the Igornay Fm, to place the Stephanian-Autunian boundary lower in the Autunian stratotype (Fig. 2). The rank and content of the coal, more mature in the Stephanian than in the Autunian coal measures, are reliable additional features used to discriminate the two regional substages. In this paper, we therefore assume that the Moloy Mb and associated coal beds, belonging to the Igornay Fm, are the first Autunian sediments (Fig. 2)."
+  }, {
+    "heading": "3. Material and methods",
+    "text": ""
+  }, {
+    "heading": "3.1. Material from the Muse and Bois des Grands Miens sections",
+    "text": "The Muse section is located in the north of the Autun Basin (Fig. 1b– c). It mostly shows bituminous shales corresponding to the Muse OSB, overlying the Lally Upper Sandstone Mb (Figs. 2, 3). These bituminous shale deposits have been known since the 19th century for kerogene production, for an exceptional fossilized fish layer (“Couche à Poissons”, see Brignon, 2014), and for the discovery of the first temnospondyls of\nthe Autun Basin, namely the large Onchiodon (“Actinodon”) frossardi (Gaudry, 1866) Werneburg and Steyer, 1999 and the small “Protriton petrolei” = Apateon pedestris (Gaudry, 1875) Schoch, 1992 (see Steyer et al., 1997 for history). The section consists of 3.50 m of mainly grey to black fissile claystone to siltstone and occasionally fine sandstone beds. From 2010, palaeontological excavations of the Muse section have been organised in order to find more faunal and floral elements and to document in detail their taphonomic and stratigraphic context (Gand et al., 2011, 2012). These excavations covered an area of 72 m2, 1 to 3 m deep, thus revealing the 3D geometry of deposits (Fig. 3). Ten thin pale or deep ochre clayey layers, interstratifiedwithin claystone and siltstone, are identified as “gore” (a local term used by miners of the Massif Central), generally interpreted as weathered ashfall deposits. Eight of them are continuous plastic layers (GI to GVIII), while two (GV′ and GVI′) are more discontinuous and very thin (Figs. 3, 4a–b). All layers were sampled with caution, excluding enclosed sediments or impurities, in order to confirm their volcanogenic nature and characterise them in terms of petrography, mineralogy, and major and trace element geochemistry (samples Mu1 to Mu8; Tables 1-3). The enclosed siliciclastic sediments were also sampled and analysed with the same methods in order to accurately discriminate volcanic ash layers from detrital sediment, and to take into account possible contamination by reworked detrital material within tonsteins. These enclosed sediments (MuE1,MuE2, MuE4, MuE7, MuE8)were sampled immediately above or below the relevant “gore” layers (i.e. analysed samples Mu1, Mu2, Mu4, Mu7, Mu8). Sufficient material (~2 kg) was sampled to extract zircon crystals for radioisotopic measurements from layers GI, GII, and GVII because of their stratigraphic position and thickness, and their mineralogical and geochemical features as discussed in Section 4.1.\nThe Bois des Grands Miens section is located at 1.5 km to the NE of Muse (Fig. 1b–c) and corresponds to an ancient mining excavation, where the Lally OSB is clearly identified, including four grey to ochre continuous tonsteins interbedded in bituminous shales and a fifth discontinuous horizon (Fig. 4c). Four of them have been properly sampled (samples La2 to La5) for mineralogical and geochemical investigations (Tables 1–3). Due to its thickness and mineralogical features, sample La3 has been selected to extract zircon crystals for radio-isotopic measurements."
+  }, {
+    "heading": "3.2. Material from the Igornay borehole",
+    "text": "The Igornay borehole, in the northern part of the Autun Basin (Fig. 1), drilled south-east of the village of Igornay in 1965, was firstly studied by Marteau (1983) and detailed in this study. It comprises 200m of detrital sediments belonging to the Igornay Fm, and encompassing the Igornay OSB (Figs. 2, 5). Sediments consist ofmicroconglomerate, sandstone, siltstone and shale, including rhythmic facies interpreted as varve deposits, and some gravity flow deposits (slumps, mass flow, debris flow and associated sand injectites). All these facies are typical of deltaic, fluvial and lacustrine palaeoenvironments. The Igornay OSB (148–155 m) consists of shale deposits, containing some fish scales, with total organic matter content reaching 15%. After careful examination of the lower part of the core (145–200 m), a tonstein layer was found at 177.35 m (Fig. 5). It corresponds to a thin (2–3 cm) clayey horizon with two distinctive parts (Fig. 4d), marked by a lower pale pink mineralised part (IgA) and an upper pale grey part (IgB). Both parts were carefully sampled for petrographic (thin sections under optical microscopy and SEM), mineralogical (XRD) and geochemical investigations."
+  }, {
+    "heading": "3.3. Petrographic, mineralogical and geochemical analyses",
+    "text": "Petrographic, mineralogical and geochemical analyses were performed on 13 potential tonsteins and 6 enclosed sediments (Tables 1– 3). Conjunctive use of these methods allows: 1) accurate discrimination between tonsteins and siliciclastic sediments, 2) an estimation of tonstein contamination, 3) evaluation of the volcanic chemical features of ashfalls. Optical microscopy investigations were performed under a polarised microscope Leica MZ205c at the Biogéosciences Laboratory (University of Burgundy) for thin-section observations of the Igornay tonstein and smear slide observations of extracted zircons for Muse tonsteins. Scanning electronmicroscopywas pursued at the ARCEN platform of the LICB Laboratory (University of Burgundy) with a JEOL JSM 6400F Field Emission SEM, equipped with an Oxford INCA Energy 300 X-ray Energy Dispersive Spectrometer (EDS) system. Mineralogical investigations used X-ray Diffraction (XRD) for bulk rock and for the clay-size fraction (b2 μm) at the Biogéosciences Laboratory (University of Burgundy). Clay minerals were identified in oriented mounts of noncalcareous clay-size fraction, following the analytical procedure of Moore and Reynolds (1997). After removing carbonate using 0.2 N HCl, clays were deflocculated by successive washing with distilled water. Particles finer than 2 μm were concentrated by centrifugation.\nDiffractograms were obtained using a Bruker D4 Endeavor diffractometerwith CuKα radiation, LynxEye detector andNi filter, under 40 kV voltage and 25 mA intensity. Three XRD runs were performed, after airdrying (AD), ethylene-glycol solvation (EG), and heating at 490 °C for 2 h. The goniometer performed a scan from 2.5° to 28.5° 2θ for each run. Identification and semi-quantitative estimates of clay mineralogy were made according to the position and the area of the (001) basal reflections on the three XRD pattern (Moore and Reynolds, 1997). Major and trace elements (44 chemical elements) were quantified by inductively coupled plasma optical emission spectrometry (ICP-OES) and inductively coupled plasma mass spectrometry (ICP-MS) on ten samples of tonsteins and four enclosed sediments at the CRPG (Centre de Recherche Pétrographiques et Géochimiques, University of Lorraine; Table 2)."
+  }, {
+    "heading": "3.4. CA-ID-TIMS U–Pb analysis",
+    "text": "Zircon extractionwas performed for selected tonsteins (G I, G VII, La3, IgA) at the Biogéosciences laboratory (University of Burgundy) and at the Isotope Geology Laboratory (Boise University) using respectively conventional and ultrasonic disaggregation methods (Hoke et al., 2014). Following annealing in quartz crucibles in a muffle furnace at\n900 °C for 60 h, single zircon crystals selected on the basis of clarity and euhedral prismatic morphology (Fig. 6a) were chemically abraded (Mattinson, 2005) in a single step in concentrated HF at 190 °C for 12 h, and processed for isotope dilution thermal ionization mass spectrometry (ID-TIMS). Further details of ID-TIMS analysis are described by Davydov et al. (2010) and Schmitz and Davydov (2012). U-Pb dates and uncertainties were calculated using the algorithms of Schmitz and Schoene (2007), and the U decay constants of Jaffey et al. (1971). The weighted mean age error includes analytical uncertainties based on counting statistics, mass fractionation correction, spike and blank subtraction, and 230Th disequilibrium correction, and is appropriate when comparing to other 206Pb/238U ages obtained with spikes cross-calibrated with the EARTHTIME gravimetric standards. When comparing our dates with those derived from other decay schemes (e.g. 40Ar/39Ar, 187Re-187Os), the uncertainties in tracer calibration (0.03%; Condon et al., 2007; McLean et al., 2015) and U decay constants (0.108%; Jaffey et al., 1971) should be added to the internal error in quadrature. Quoted errors are thus of the form ±X(Y)[Z], where X is solely analytical\nuncertainty, Y is the combined analytical and tracer uncertainty, and Z is the combined analytical, tracer and 238U decay constant uncertainty."
+  }, {
+    "heading": "4. Results",
+    "text": ""
+  }, {
+    "heading": "4.1. Tonstein characterisation",
+    "text": ""
+  }, {
+    "heading": "4.1.1. Macroscopic observations, petrography and mineralogy",
+    "text": "In the Muse outcrop, tonstein layers G I–VIII occur as relatively thin continuous ochre clayey and plastic horizons (Figs. 3, 4a–b; Table 1). GIV is the thickest, ranging from 2 to 10 cm (Fig. 3). The tonstein layers GV′ and GVI′ (Fig. 3) are discontinuous (see Material above) and very thin (b0.5 cm). All these tonsteins contrast with the enclosing dark shales and are locally affected by secondary mineralisation such as iron oxide deposits and jarosite (Fig. 4a, b). The same features are observed for tonsteins of the Bois des Grands Miens section where thickness of levels La1 to La5 range from 1 to 5 cm (Fig. 4c, Table 1). In the Igornay borehole, the tonstein is a thin (b3 cm) pink to pale-grey horizon with\nsome calcite and barite mineralisation, contrasting with the enclosing fine grey sandstones (Fig. 4d). Thin-section and SEM observations of tonsteins reveal an abundant clayey matrix (Fig. 6d) with rare silt-size particles, but without recognisable volcanic glass shards, and including some calcite-barite mineralisations. Smear slides and SEM observations ofmost tonsteins reveal the presence of high temperature β-quartz, feldspar and kaolinite macro-crystals or leverierrite (Fig. 6b, c). The bulk mineralogy of tonsteins is characterised by abundant clay minerals, such as kaolinite andR1 type illite-smectitemixed-layer, quartz and goethite (Table 1). GIII and GIV differ from the others, as they display illite and K-feldspar (orthoclase-microcline) and more abundant quartz. The clay mineralogy from XRD diagrams shows that almost tonsteins are mainly composed of random R1 type illite-smectite mixed-layer clays, rectorite (regular illite-smectite mixed-layer) and kaolinite, while traces of illite, vermiculite or complex chlorite-vermiculite (CV) mixed-layers are present (Fig. 7; Table 2). Again, samples Mu3 (GIII) and Mu4 (GIV) differ fromother samples and have a claymineralogical signature similar\nto enclosed sediments, i.e. mainly composed of illite and mixed-layer clay minerals (IS and CV) and more abundant quartz (Fig. 7; Table 2). Taking into account these mineralogical data, among the ten horizons identified at Muse, GIII and GIV do not correspond to altered ashfall deposits, but some other type of siliciclastic deposits or very reworked volcanic material."
+  }, {
+    "heading": "4.1.2. Elemental geochemistry (major and trace elements)",
+    "text": "The tonsteins fromMuse and Bois des Grands Miens sections, except for samplesMu3 (GIII), Mu4 (GIV) andMu8 (GVIII), are characterised by high values for Al2O3/SiO2 (N0.5), and Al2O3/TiO2 (N50), compared to detrital enclosed sediments (Table 3). This is easily explained by the high content in clay minerals (enriched in Al2O3), and the low quartz and K-feldspar contents within tonsteins. Fe2O3 contents are generally higher in tonsteins, but is clearly linked to secondary mineralisation. The same features are visible in the tonstein from the Igornay core (IgA and IgB samples), even though the high content in CaO is due to\nsecondary calcite mineralisation. Therefore Al2O3/SiO2 and Al2O3/TiO2 ratios, combined with clay mineralogy, constitute excellent chemical proxies to discriminate tonstein from detrital claystone and thus evaluate contamination.\nConcerning trace and rare earth elements (REE), the tonsteins from Muse, Grands Bois des Miens and Igornay are systematically marked by positive anomalies in Hf and Zr and more occasionally in Ta, Th, and As, while negative anomalies in Cr, Cu, Eu, Nb, Ni, Rb, U, V, and W are common, compared to enclosed detrital sediments (Table 3). Barium is generally slightly depleted in tonsteins, except for sample IgB where its content is particularly high (32,000 ppm) due to barite mineralisation. The REE patterns from tonsteins are different from those from detrital claystone and are marked by a well-defined Eu anomaly. Only sample IgA shows a peculiar pattern with a slight depletion in light REE (Fig. 8)."
+  }, {
+    "heading": "4.2. U–Pb zircon geochronology",
+    "text": "Among the 14 tonstein horizons identified, four were selected for dating using the CA-ID-TIMS U–Pbmethod. AtMuse, the two best candidates were Mu1 (GI) and Mu7 (GVII) as they are composed of very pure volcanogenic material (i.e. absence or minor presence of clastic grains observed by XRD, Fig. 7, Tables 2–3) and are respectively at the base and top of the section. At Bois des Grands Miens, the best candidate was tonstein La3 considering thickness and mineralogical features (Tables 2–3). The single tonstein observed at Igornay was dated, as it was the sole opportunity to obtain an age at the base of the Autunian unit and also because this level is devoid of detrital components (Fig. 7, Tables 2 and 3). Six zircon crystals from the sample Mu1 (tonstein GI of Muse) were selected for analysis on the basis of consistent, sharply prismatic morphology and optical clarity (Fig. 6a). Of these, five were successfully analysed and yielded concordant and equivalent U–Pb isotope ratios (Table 4, Fig. 9), with a weighted mean 206Pb/238U date of 298.05±0.19(0.24)[0.39]Ma (n=5;MSWD=0.65). Six zircon crystals from the sampleMu 7 (tonstein GVII of Muse) were selected for analysis on the same basis of consistent, sharply prismatic morphology and optical clarity (Fig. 6a). Of these, four were successfully analysed and yielded concordant and equivalent U–Pb isotope ratios (Table 4, Fig. 9), with a weighted mean 206Pb/238U date of 298.57 ± 0.16 (0.22)[0.38] Ma (n = 4; MSWD = 0.18). Seven zircon crystals from the tonstein\nonsteins and enclosed detrital sediments discussed in the text. Enclosed sediment (MuE1–\nLa3 in the Lally OSBwere selected on the basis of high aspect and optical clarity (Fig. 6a). Six successful analyses yielded concordant and equivalent U-Pb isotope ratios (Table 4, Fig. 9) with a weighted mean 206Pb/238U date of 298.91 ± 0.08(0.17)[0.36] Ma (n = 6; MSWD =\n0.81). Six zircon crystals were selected for the tonstein of Igornay (IgA) (Fig. 7a). Of these, five were successfully analysed and yielded concordant and equivalent U–Pb isotope ratios (Table 4, Fig. 9),with aweighted mean 206Pb/238Udate of 299.91±0.16(0.22)[0.38]Ma (n=5;MSWD=\n0.50). Given the consistency of results, these weighted mean dates are interpreted as ages of igneous crystallization, which closely estimate the eruption and depositional age of ashfall deposits."
+  }, {
+    "heading": "5. Discussion",
+    "text": ""
+  }, {
+    "heading": "5.1. Explosive volcanism in the Autun Basin",
+    "text": "Volcanic activity dating from the Carboniferous–Permian transition (Stephanian-Autunian) is frequently recorded in sedimentary basins in\nFig. 7.XRD diagrams realised on orientedmounts for the clay-size fraction (b2 μm). Diagram (a and corresponds to a very pure tonstein; diagram (b) shows the clay mineralogy of the Mu1 diagrams (c) shows the close mineralogical features of the ochre horizons (Mu2 and Mu4) R1contents and the lower illite content. Mu4 sample displays high proportion of vermiculite. B marked quartz peak highlighted the detrital nature of components.\nFrance (e.g. Bouroz, 1966; Monnier, 1989) and elsewhere in Europe (e.g. Benek et al., 1996; Breitkreuz et al., 2007, 2009; McCann, 2008; Timmerman, 2008). Ashfall deposits have been described 1) in the southern part of the Massif Central in the Stephanian deposits of the Alès, Bertholène, Roujan-Neffies, Jaujac and Graissessac basins (Frere, 1984; Bruguier et al., 2003), and in the upper Autunian deposits of the Lodève Basin (Nmila et al., 1992; Michel et al., 2015); 2) in the central part of theMassif Central, in the Stephanian deposits of theMeissex-Singles Basin (Robert, 1985); 3) in the northern part of the Massif Central (including the Morvan area), in the Stephanian deposits of the Blanzy-\n) shows the claymineralogy of the IGa sample (Igornay)with abundant kaolinite and IS R1,\nsample (GI, Muse) with similar pattern but more regular IS R1 interpreted as allevardite;\nwith enclosed sediments (Mues1). Mu2 sample contrasts by its high kaolinite and IS\ny contrast, enclosed sediment samples have more illite, poorly-defined IS R1 and a well-\nMontceau Basin (Frere, 1982b), in the Stephano-Autuniandeposits of the Lucenay-les-Aix/La Machine Basin (Cula, 1983), and in the Autunian deposits of the Aumance/Bourbon-l'Archambault Basin (Paquette, 1980). Ignimbrites, breccias and tuffs have also been identified in the western Morvan including the Blismes tuffs interstratified with middle to late Stephanian sediments, and the Montreuillon ignimbrite unit dated to the upper Autunian (Carpéna et al., 1984). In the Autun Basin, explosive volcanic events were reported by Doubinger and Elsass (1975) and Elsass-Damon (1977), and studied in detail by Frere (1982a) and Marteau (1983). However, no exhaustive analysis of these volcanic materials has so far been conducted, and no geochemical data or radioisotopic data have been obtained from this basin."
+  }, {
+    "heading": "5.1.1. Ashfall deposit preservation",
+    "text": "Volcanic glass shards in the ashfall deposits of the Autun Basin have been completely weathered into clay minerals mainly dominated by kaolinite and IS R1 (random or regular mixed-layerminerals, i.e. rectorite). This type ofmineralogical transformation, consisting of glass shard devitrification and claymineral neoformation, occurs rapidly during early diagenesis (Fisher and Schmincke, 1984; Bohor and Triplehorn, 1993). Kaolinite-rich volcanic deposits (tonsteins) are commonly observed in continental freshwater environments, including coal-bearing sequences, where lowpHand low ionic activity are key factors for kaolinite development (Bohor and Triplehorn, 1993; Spears, 2012). Smectite may sometimes be encountered in tonsteins, notably in contexts where freshwater mixed with seawater or where higher ionic activity occurred (Spears, 2012). Deposit thickness can also produce favourable conditions\nfor smectite neoformation, by an increase in pH and autoalkalisation (see Bohor and Triplehorn, 1993). During late diagenesis, when sediments reach the mature oil-window, and then the overmature gas-window, smectite and kaolinite are commonly transformed into illite-rich mixed-layer phases, and then into pure illite (Środoń, 1976; Spears, 2012). The presence of IS R1 and rectorite (regular IS R1) in our samples (between 23 and 82%, Table 3) indicates that smectitemust have formed during early diagenesis coevally with kaolinite, in shallow swamp or lacustrine environments enriched in organic matter. The precise origin of this smectite remains unsure, but may be link to ashfall deposit thickness. Transformation of smectite by illitisation during late burial diagenesis, is coherent with the coal rank and Tmax values (430–440 °C) measured in the Muse and Igornay Fms (Marteau, 1983). Illite content calculated in the IS R1 layers (60–70% for Muse and 70–80% for Igornay, Table 3) is also consistent with Tmax values (cf. Dellisanti et al., 2010). Thesemineralogical data are compatiblewith an increase of temperature with depth, as N400 m of sediments separate the tonsteins of these two formations. Calculated %I ISwould implyminimum temperatures of 160° in the basin (Šucha et al., 1993), which is consistent with organic matter maturity (start of the oil-window) and the relatively weak burial of the basin (Marteau, 1983).\nMineralogical and geochemical data can be combined to discriminate between tonsteins and siliciclastic sediments, and also to decipher contamination by reworking. Illite, chlorite (including chlorite-vermiculite mixed-layers), vermiculite and quartz are common detrital phases in enclosed claystones, so their presence in tonsteins is interpreted as reworked material (Table 2), even if part of the quartz may also come\nfrom the alteration of volcanogenic material characteristic of felsic magma (cf Fig. 6b). Tonsteins GVIII (Mu8 sample) and La5 are partly contaminated by detrital components (minor amounts of illite and vermiculite) as also indicated by the geochemical data, with a high proportion of SiO2 and, consequently, a low Al2O3/SiO2 ratio for sample Mu8 and singular trace element geochemical signature for sample La5 (Table 3). This contamination probably results from the relative thinness of these two levels, which could therefore be more easily reworked or mixed by bioturbation and potentially affected by late mineralisation. Using trace elements to interpret volcanism seems injudicious for such contaminated levels. Nine tonsteins (Mu1, Mu2, Mu5, Mu6, Mu7, La2, La3, La4, IgAB) however present little contamination and can reliably be used for discussion of their volcanic origin (nature and source). They are characterised by Eu negative anomalies in the REE pattern, contrasting with enclosed sediments (Fig. 8). Horizons GIII (Mu3 sample) and GIV (Mu4 sample) from Muse display very uncommon mineralogical and geochemical signatures for tonsteins and are quite similar to detrital enclosed shales (Tables 2 and 3). Despite their macroscopic aspect, similar to other tonsteins in outcrop, they cannot be considered as tonsteins deriving from volcanic ashfalls. Enrichments in Fe2O3, As, Mo, Pb, Sb, Zn for these levels and the high proportion of vermiculite rather suggest intense fluid circulations, possibly associated with starved sedimentation episodes or erosion surfaces in the lacustrine environment of the Muse OSB.\nFinally, eleven tonsteins are very distinctive, six in theMuseOSB, four in the Lally OSB and one in the Igornay Fm. These tonsteins and probably other have also been mentioned by Marteau (1983) in the Lally OSB, Lally Lower Sandstones Mb and base of the Igornay Fm, in boreholes drilled in the Autun Basin (Chamboy, Chevrey and Varolles). At least 14 potential tonsteins had been reported in the lower Autunian, but only four, whose mineralogy and zircon typology were studied by Frere (1982a), had seen their volcanic origin confirmed. Tonstein deposits, resulting from volcanic ashfalls, provide evidence of aerial or subaerial volcanic activity. They mostly correspond to a minimum number of major volcanic events, as more regular and frequent volcanic events may have occurred yet not been preserved as distinct horizons. Record in the sedimentation of these numerous tonsteins therefore indicates that aerial explosive volcanism was intense throughout the lower Autunian in the Autun Basin."
+  }, {
+    "heading": "5.1.2. Nature and sources of volcanism",
+    "text": "Glass shards and labile phenocrysts have mostly been replaced by clay minerals linked to the intense weathering of ash layers during early diagenesis. Major elements and mobile trace elements therefore cannot be used to characterise the volcanism. Whole-rock immobile trace elements and REE can often provide access to the geochemical fingerprint of highly altered volcanic ash layers (Bohor and Triplehorn, 1993; Wray, 1999; Pellenard et al., 2003; Spears, 2012; Pellenard et al., 2013; Huff, 2016). The volcanic diagram of Winchester and Floyd (1977), based on Nb/Y vs Zr/TiO2, shows that most of the tonsteins have a consistent chemistry plotting in a dacitic to rhyolitic field (Fig. 8a). Only Mu8 and La5 plot in the trachyandesite field but, as previously stated, these tonsteins are marked by detrital components and therefore appears unreliable. The intermediate to felsic chemical nature (i.e. dacitic-rhyodacitic-rhyolitic) is frequent for aerial explosive volcanism and common for tonsteins in coal-bearing sediments (Bouroz, 1967; Fisher and Schmincke, 1984; Spears, 2012). This geochemical feature is also consistentwith 1) petrographic observations showing high-temperature β-quartz morphology (Fig. 6b) and rare preserved biotite and 2) the negative Eu anomaly observed in REE (Fig. 8d) as often described in acidic volcanism (Wray, 1999). Volcano-tectonic diagrams of Wood (1980), based on Hf/3-Th-Ta, and of Pearce et al. (1984) based on Ta vs Yb (values normalised to 15% Al2O3), also show consistent grouped data characterised by a calc-alkaline chemistry except for Mu8 and La5 (Fig. 8b). The geodynamic context of the volcanism is more uncertain as data overlap groups defining volcanic arcs and within-plate domains\n(Fig. 8c) but could suggest post-collisional features. Relatively similar geochemical characteristics of tonsteins from the Autun Basin thus indicate calc-alkaline acidic magmas linked to post-collisional volcanism.\nThe question of volcanic sources is problematic as they may be eroded and generally several hundreds or thousands of kilometres distant in the case of explosive volcanism or phreatomagmatism (Fisher and Schmincke, 1984). The only coeval lavas and associated pyroclastic deposits close to the study area are 250m of ignimbrite and tuff intercalated with organic matter-rich shales from the Blismes and Montreuillon units in the Morvan area (Fig. 1a; Carpéna et al., 1984; Monnier and Stussi, 1984). These two volcanic units are separated by sediments (Pontdes Amours Fm) dated to the base of the Autunian by palynological assemblages. The first ignimbrite unit (Blismes complex), attributed to the late Stephanian based on palynology, was dated at 291 ± 7 Ma by fission tracks, and the second ignimbrite unit (Montreuillon complex), attributed to the lower Autunian based on palynology, was dated at 267 ± 5 Ma (Carpéna et al., 1984). These felsic deposits correspond to sub-alkaline potassic volcanism on the basis of geochemical analyses of major elements (Carpéna et al., 1984;Monnier and Stussi, 1984), yet dispersion of values clearly indicates alteration by late fluid circulations and hydrothermalism. This volcanism is probably linked to the extensional fault regime (Carpéna et al., 1984; Monnier and Stussi, 1984) associated to the late Variscan post-orogenic paroxysmal activity affecting the Morvan and more generally the French Massif Central during the Late Carboniferous and Early Permian (Faure, 1995; Faure et al., 2009; Laurent et al., 2017). The proximity (b50 km), coeval age of emission and compatible nature of this volcanism make it a suitable candidate source for the ashfall deposits recorded in the Autun Basin, which would be consistent with a post-orogenic geodynamic context and post-collisional magmatism linked to the late Variscan evolution. Other possible sources for the emission of pyroclastic material and aerial transport from vents could be the northern Vosges (eastern France) and the central and northern Black Forest (south-western Germany), which are at a plausible distance (200–250 km) for the deposition of multicentimetre-thick ashfalls in the Autun Basin. Massive rhyolite and rhyolite breccias (N1000 m) of Permian age have indeed been identified in a borehole near Nancy (eastern France), and Permian felsic to intermediate pyroclastic rocks, while basalts are known from boreholes in the Upper Rhine Graben, east of the German Saar-Nahe Basin (Châteauneuf and Farjanel, 1989; Timmerman, 2008). Interestingly, Königer and Lorenz (2002) and Königer et al. (2002) described tonsteins in the Saar-Nahe Basin (Meisenheim Fm, lower Rotliegend) dated at 297 ± 3.2 Ma by the U–Pb zircon SHRIMPmethod, with very similar geochemical features to the Autunian tonsteins. The most reliable source for the ash layers in their study was considered to be the Black Forest and Vosges Massifs area. No clear evidence of volcanic vents has so far been highlighted and more distal sources could also be proposed. However, a review of volcanism during the Late Carboniferous–Early Permian in the European domain (Timmerman, 2008) suggests that the major late Variscan evolution associated with an extensional-transtensional regime, inducing strike-slip faulting, subsidence and graben formation, was coeval to magmatism and probably responsible for explosive volcanism recorded in contemporaneous sedimentary basins."
+  }, {
+    "heading": "5.2. Age model of the lower Autunian",
+    "text": "The CA–ID–TIMS U–Pb zircon ages obtained from the four tonsteins are IgA (Igornay) 299.91 ± 0.38 Ma, La3 (Bois des Grands Miens) 298.91 ± 0.08 Ma, GVII (Muse) 298.57 ± 0.38 Ma, and GI (Muse) 298.05 ± 0.39 Ma (Table 5, Fig. 9). These igneous mineral ages are interpreted as closely estimating the age of deposition of ash layers in the sediments, as supported by their adherence to stratigraphic superposition. They are in the range of radioisotopic ages encompassing the Gzhelian/Asselian boundary and consequently the Carboniferous–Permian boundary (Ramezani et al., 2007; Davydov et al., 2010; Schmitz and Davydov, 2012), whose numerical age was fixed at 298.9 ± 0.2 Ma\nNotes: *All weighted mean ages at the 95% confidence interval, as calculated from the internal 2σ errors. Uncertainties are quoted as analytical (analytical + tracer) [analytical + tracer + decay constant]. †Mean squared weighted deviations.\n(GTS 2012, cf. Henderson et al., 2012). As a consequence, the lower Autunian clearly spans the latest Gzhelian into the earliest Asselian in the Autun Basin, where the regional Autunian stratotype is historically defined (Figs. 10, 11). The Lally OSB near the base of the Muse Fm, provides therefore a convenient marker for the Carboniferous–Permian boundary, given the radioisotopic age of 298.9 ± 0.1 Ma for its enclosed tonstein. An Asselian age could be inferred for the entire Muse Fm, considering both thickness of sediment of this formation reaching 400 m in the deepest part of the basin and the duration (3.4 Myr) of the Asselian Stage (Gradstein et al., 2012; Ogg et al., 2016). Conversely the Igornay Fm must be ascribed to the late Gzhelian (Figs. 10, 11).\nThese new radioisotope ages in the type setting of the Autun Basin imply that the Stephanian/Autunian boundarymust be placed in the uppermost Carboniferous (Pennsylvanian), if as proposed by Delafond (1889), Pruvost (1942) and Marteau (1983), the Stephanian/Autunian is placed at the base of the Igornay Fm., on the basis of biostratigraphic, petrographic and structural evidence (Fig. 11). By contrast Doubinger and Elsass (1979) have proposed that the boundary should be placed at the onset of the Lally Lower Sandstones Fm on the basis of palynological assemblages. In this case, we have to consider that the Gzhelian/ Asselian boundary and the regional continental Stephanian/Autunian\nFig. 10.Macrofloral zonation in the Autun Basin compared with new radioisotopic data and lith highlight it appearance before the Autunian units and persistence during thewhole Autunian un or is uncertain.\nstage boundary would be very close, i.e. located in the Lally OSB just above the top of the Lally Lower SandstonesMb (Figs. 10, 11). Regardless of this choice, the new U-Pb ages provided here from tonsteins of the Igornay and Muse Fms clearly indicate that a large part of the Autunian must be ascribed to Permian (early Asselian for the upper part of the lower Autunian). This first numerical age model of the Autunian stratotype refutes the proposition of Wagner and Álvarez-Vázquez (2010) to place the whole of the Autunian in the Pennsylvanian (Fig. 12). This new age model, based on high resolution U-Pb zircon ages, provides the first accurate correlation of the Carboniferous–Permian boundary in the continental Autunian stratotype with the GSSP of the Carboniferous-Permian boundary in the Ural Mountains (Davydov et al., 1998; Henderson et al., 2012), and with other European continental basins (Fig. 12)."
+  }, {
+    "heading": "5.3. Consequences for Autunian macro-flora and fauna in NW Europe",
+    "text": ""
+  }, {
+    "heading": "5.3.1. Floral assemblages in the Autun Basin during the Carboniferous– Permian transition",
+    "text": "As stated above, the regional continental Autunian Stagewas defined from fossiliferous beds in the AutunBasin. These deposits lie in unconformity above theMont Pelé Fm, which was attributed to the Stephanian B byDoubinger (1970), based on amegafloral assemblage that is very similar to that of theGruner beds in the Saint-Etienne Basin (Fig. 10). This assemblage (dominated by the genera Alethopteris, Cordaites, Pecopteris, Annularia, Calamites, Callipteridium, and Dicranophyllum) has middle Stephanian characteristics, as found in Spanish sections and attributed to the Saberian Substage (Wagner and Álvarez-Vázquez, 2010). Similar floral assemblages are known in the Slany Fm of the Kladno-Rakovnik, central Bohemian Basin and dated between 302.9 Ma and 301.6 Ma, according to newprecise U–Pb ages (Opluštil et al., 2016a). This time interval corresponds to the early Gzhelian of the global chronostratigraphic chart (GTS 2012; Davydov et al., 2012). Extrabasinal plant taxa (i.e. conifers and callipterids), long considered as adequate markers of the Carboniferous–Permian boundary, are now known to have existed much earlier and to have coexisted during the Early Permian (Broutin et al., 1986; Broutin et al., 1990). This is the case for walchian conifers\nostratigraphy. Autunia conferta serving to define the Autunia conferta zone appear in red to its. Dashed line correspond to formationswere the taxon has not been previously reported\nrecognised in the Kasimovian of the Donetz Basin, in the early Gzhelian of the Saint-Etienne and Saar-Nahe basins, in the Slany Fm of Bohemia, or from the early Stephanian in Morocco (Hmich et al., 2006), as well as the callipterid Autunia conferta recognised from the early Stephanian in the Souss Basin (Hmich et al., 2006) and in the Mont Pelé Fm (Stephanian B) of the Autun Basin (Doubinger, 1970) (Fig. 10).\nIn the Autun Basin, the lower Autunian starts with the base of the Igornay Fm, including the Moloy Coal Bed (Fig. 10). According to Broutin et al. (1999), the macroflora described in the Igornay Fm shares a majority of taxa with the underlying Mont Pelé Fm (late Stephanian), as for example the callipterids Autunia conferta (Fig. 10), but is also characterised by biostratigraphically significant new plants, including the callipterids Rhachiphyllum schenkii, the conifers Walchia piniformis, W. goeppertiana, and Culmitzschia frondosa, as well as Callipteridium gigas, C. rochei, Odontopteris dufresnoyi, O. subcrenulata, O. obtusa, Taeniopteris jejunata, T. multinervis and Lesleya delafondii (Fig. 10). As emphasised by Bouroz and Doubinger (1977), most of these taxa are also known in the Beaubrun (four callipterid taxa) and Bellevue beds of Saint-Etienne (Doubinger et al., 1995). This suggests that the Igornay Fm could be correlated with the late Stephanian (i.e. Stephanian C), which would be consistent with the late Gzhelian age provided here by the dating of the tonstein IgA at 299.9 Ma in the Igornay Fm, below the Igornay OSB. Plant assemblages of a similar age are known in the basal part of the Liné Fm of the Kladno-Rakovnik, central Bohemian Basin, in the Donetz Basin (Opluštil et al., 2016a, 2017b), as well as in the Georgenthal Fm of the Thuringian Forest Basin (Barthel, 2008). The Igornay flora corresponds to the Autunia confertamegafloral zone, coeval to the Stephanian C or to the lower Autunian Substage defined in Spain by Wagner (1984) and also marking the first diversification of conifers. Surprisingly, Wagner and Álvarez-Vázquez (2010) proposed a “Higher Autunian” (i.e. middle and upper Autunian, therefore corresponding to the Muse p.p., Surmoulin and Millery Fms of the Autun Basin), characterised by a new Annularia spicata zone plotted at the top of the Pennsylvanian (Gzhelian Stage). They thus considered that the whole Autunian regional stage belongs to the Pennsylvanian. Their proposition, based onmegafloral biozones, is no longer coherent with the new radioisotope ages provided in this study, which demonstrate that the Autunian (lower and upper) is mostly Permian (except for the Igornay Fm).\nThe Muse Fm is considered as the upper part of the lower Autunian. Theflora of theMuse Fm includesmore than half of the species occurring in the latest Stephanian, with pteridosperms and pecopterids dominating, but with an increase in callipterids and the first occurrences of\nAutunia naumanni, Rhachiphyllum lyratifolia, Lodevia sp. as well as Taeniopteris doubingeri Remy (1975) and Sphenozamites rochei (Broutin et al., 1999; Gand et al., 2015; Fig. 10). Radioisotopic ages obtained from tonstein La3 (298.91 Ma) in the Lally OSB and from tonsteins GI (298.05 Ma) and GVII (298.57 Ma) in the Muse OSB indicate that the Muse Fm is clearly early Asselian. Interestingly, Doubinger and Elsass (1979) suggested correlating themassive increase in the pollen Vittatina at the base of the Lally Lower SandstonesMbwith the first level yielding Schwagerina in the marine series of the Ural Mountains and the Donetz Basin, traditionally considered as the basal Asselian stratotype, which is consistent with our radioisotopic data. The Muse Fm floral assemblage was probably contemporaneous with the assemblage from the Klobuky Horizon of the Liné Fm (Kladno-Rakovnik, central Bohemian Basin), where callipterids were first recorded in the Bohemian Basin (Opluštil et al., 2016a), and also with assemblages from the upper part of the Chvalec Fm and most of the Broumov Fm, Intra-Sudetic Basin (Opluštil et al., 2016b, 2017b). Great diversification of callipterids and conifers (with a larger number of taxa), has been reported in the Boskovice Basin (Opluštil et al., 2017a, 2017b), in proximity to coals just below the dated Carboniferous–Permian boundary, and above, in the basal (early Asselian) Padochov Formation. A similar diversification of callipterids and conifers is also known in the Ilmenau and Manebach Fms (basal Rotliegend) of Thuringia (Barthel, 2006, 2007, 2008) and should therefore be contemporaneous with the palaeoflora identified in theMuse Fm. As noted byOpluštil et al. (2017a), theAutunia conferta - Annularia spicata biozone boundary, is poorly constrained in the Bohemian and Sudetic Basins, yet approximately around 298.5 and 298.0 Ma (Fig. 12). This megafloral zone boundary should therefore be close to the Muse OSB, considering radioisotope ages measured in this study. However, Annularia spicata has never been recorded in the Autun Basin (Fig. 10). Interestingly, the Boskovice Basin has recorded an aridification from the Late Gzhelian to the Asselian, marked by the transition from grey coal-bearing strata to fluvial red beds interrupted by grey lacustrine horizons (Opluštil et al., 2017a, 2017b). During the Gzhelian/Asselian transition and the Asselian of the Autun Basin (lower Autunian and upper Autunian p.p.) no red bedswere deposited, but rather sandstones intercalated with oil-shale beds, following the Gzhelian coal-rich sedimentation (Mont Pelé Fm). It is noteworthy that despite probable common palaeoclimate trends in these relatively close European Basins, local palaeogeographic and palaeoenvironmental conditions may have affected the composition and preservation of floral assemblages. Such conditions could explain the absence from the Autun Basin of several taxa generally used for floral zonation. This disparity in\nfloral assemblages considerably complicates synchronic comparison between continental basins of first appearance or disappearance data for macrofloral markers. Such phenomena are even observed for very close continental basins when palaeoenvironmental conditions are not the same, highlighting the difficulty of using only macrofloral or microfloral zonation for interbasinal correlations.\nAs emphasised by Broutin et al. (1999), the upper Autunian floral assemblage of the AutunBasin (i.e. Surmoulin andMillery Fms) contains no more than a third of the species characteristic of the Stephanian, including sigillarians, sphenopsids, pecopterids, medullosans, neuropterids, odontopterids and cordaitaleans, while new taxa of callipterids (Lodevia bibractensis) and conifers (Ernestiodendron filiciforme, Otovicia hypnoides, Gomphostrobus) occurred (Fig. 10). In addition, the new Trichopitys heterophylla, Baiera raymondii and Pterophyllum cambrayi have affinities with two new groups, ginkgophytes and cycadophytes. With our precise identification of the Carboniferous–Permian boundary in the Autun Basin, most of the deposits belonging to the Muse Fm are now dated to the early Asselian, and the overlying Surmoulin and Millery Fms are also lower Permian in age. Unfortunately, no radioisotopic age is yet available for the upper Autunian in the Autun Basin. A recent study in the Lodève Basin (Southern France) provided a new Sakmarian age (293.85 Ma) from tonsteins near the top of the Tuilières-Loiras Fm (Michel et al., 2015), lying just under beds with a flora similar to that of the Millery Fm of the upper Autunian of the Autun Basin (Galtier and Broutin, 1995). In the Lodève Basin, the Autunian is considered to extend to the top of the Viala Fm (Broutin et al., 1992), i.e. around 290 Ma (Fig. 12), according to Michel et al. (2015). These data suggest that in the Lodève Basin, the upper Autunian includes the entire Sakmarian (Fig. 12), with a duration of about 5.5 Myr (Gradstein et al., 2012; Ogg et al., 2016).\nThe new precise radioisotopic data provided by this study are in agreement with 1) the lower Autunian floral assemblages already described in the Autun Basin, 2) the official Carboniferous chronostratigraphic chart and numerical calibration of the Permian (Heckel and Clayton, 2006; Henderson et al., 2012; Schmitz and Davydov,\n2012), 3) the floral calibration in continental western European basins (Broutin et al., 1999; Opluštil et al., 2016a, 2017b) and 4) recent dating in the Czech Republic (Opluštil et al., 2016a, 2016b, 2017a). The proposal ofWagner and Álvarez-Vázquez (2010) to include themiddle and upper Autunian as terminal substages of the Pennsylvanian–Late Carboniferous is therefore no longer acceptable."
+  }, {
+    "heading": "5.3.2. Faunal assemblages in the Autun Basin during the Carboniferous– Permian transition",
+    "text": "Numerous vertebrates and invertebrates have been found in the Autun Basin since the 19th century, and particularly in the Muse OSB since 1811 (see Steyer et al., 1997 and Brignon, 2014 for history). The first inventories were established by Delafond (1889) and Heyler (1969). Despite numerous taxa found in the Autunian stratotype, apparently none bears a reliable biostratigraphic value except the two branchiopod crustaceans Estheria (Lioestheria) lallyensis Depéret & Mazeran 1912 from the Igornay Fm, and Estheria tenella from the Muse Fm (Feys, 1960; Châteauneuf et al., 1980; Fig. 11). Estheria (Lioestheria) lallyensiswas synonymised by Holub and Kozur (1981) with Lioestheria paupera (Fritsch 1901). The Lioestheria paupera–Pseudestheria palaeoniscorum assemblage zone of Schneider and Scholze (2016) has a long range, from the early Asselian to the Middle Sakmarian. Unfortunately, the question remains open as to whether the type material of E. lallyensis comes from the Lower or Upper Lally Sandstone Mbs, and therefore if it is late Ghzelian or early Asselian in age. Estheria tenella was synonymised with Megasitum tenellum (Bronn, 1850) by Kozur and Sittig (1981). Megasitum tenellum is known from the Sulzbach Subformation of the Kraichgau Basin, Baden-Baden, and ranges from the late Sakmarian to the Artinskian, which makes its occurrence in the Muse Fm more than questionable (cf Fig. 12).\nA German amphibian zonation was tentatively erected by Werneburg (1989) and later used for European Carboniferous–Permian correlation attempts (e.g. Werneburg and Schneider, 2006; Schneider and Werneburg, 2012). Among the zones defined by Werneburg (1989), one is characterised by the occurrence of both Apateon\ndracyiensis and Melanerpeton sembachense, which are present in the Muse Fm of the Autun Basin (Muse OSB, Dracy-Saint-Loup) and in the Ilmenau Fm of the Thuringian Forest Basin. This zone, latest Gzhelian to early Asselian in age (Schneider and Lucas, 2015), is consistent with our early Asselian age obtained with the precise U–Pb method (Fig. 11). However, such biostratigraphic correlations based on amphibian temnospondyl taxa should be further explored, as the reliability of this zonation is still the object of debate (Steyer, 2000, 2004; Werneburg and Schneider, 2004).\nSimilarly, Schneider and Werneburg (2006, 2012) also proposed a zonation based on blattid wings for the same period. Their insect zone nr. 7, considered Early to Middle Asselian in age (Schneider et al., 2013), contains the following taxa “Sysciophlebia baltea form H”, Spiloblattina homigtalensis, and Syscioblatta slusiensis. The presence of Sysciophlebia balteata identified in the Muse Fm is consistent with an early Asselian age for the Muse OSB, according to our radiometric dates."
+  }, {
+    "heading": "6. Conclusion",
+    "text": "An accurate refinement of the stratigraphic framework of the Autunian stratotype is proposedwith the discovery and dating of several tonstein layers preserved in the sedimentation of the continental Autunian deposits from the Autun Basin. It constitutes a reference for other continental basin encompassing the Carboniferous–Permian in Western Europe. These newdata document also the explosive volcanism activity occurring during the Carboniferous–Permian in continental series.\nSeveral little-reworked ashfalls weathered into tonsteins, preserved in swamp/lacustrine environments in the Autun Basin, are related to active aerial explosive volcanism. Such paroxysmal volcanic events are relatively frequent in the Autun Basin, but discrete ash may have fallen regularly, becoming mixed with detrital sediments during quiescent volcanic phases. Careful mineralogical and geochemical analysis have been applied to confirm the volcanic origin of the deposits and to measure contamination due to reworking. Tonsteins provide a similar geochemical fingerprint, attesting to calc-alkaline intermediate-to-acidic volcanism. Identifying the source of such deposits is complex, but they could well be related to volcanic activity in the Massif Central (i.e. Morvan-Blismes-Montreuillon complexes) or in the Black Forest and Vosges Massifs area, the nearest volcanic vents known to have been active during Carboniferous–Permian times. This volcanism common in most of the Carboniferous–Permian basins of Western Europe is related to Variscan late-orogenic magmatism.\nFor the first time, precise CA-ID-TIMS U–Pb dating from zircons of four tonsteins yields numerical attributions for stratigraphic units of the continental Autunian stratotype. The upper part of the lower Autunian (e.g. the Muse Fm above the Lally oil-shale bed) is early Asselian in age, while the base (e.g. the Igornay Fm.) is late Gzhelian. The Carboniferous–Permian boundary is placed in the Lally oil-shale bed of the lower Muse Fm on the basis of a tonstein dated at 298.9 ± 0.1 Ma. This accurate age fix the Carboniferous–Permian boundary in the continental Autunian stratotype allowing very precise correlations between continental and marine series encompassing the Carboniferous–Permian. These radioisotopic ages and the position of the Carboniferous–Permian boundary are consistent with palaeontological data based on macroflora, palynomorphs, insects and amphibians from the Autun Basin and elsewhere in Europe. Themost accurate biostratigraphy is obtained from macroflora, while palynomorph data remain more dependent on depositional environment and climatic factors. The Autunian stratotype of Autun should no longer be attributed to the regional continental Stephanian Stage and to the subsequent Late Pennsylvanian, as previously suggested, but should be seen as a regional continental stage, encompassing the very end of the Carboniferous Period and the earliest Permian."
+  }, {
+    "heading": "Acknowledgements",
+    "text": "We are grateful to P. Legendre (Total), I. VanWaveren (Naturalis Biodiversity Centre of Leiden), the Tellus-Syster program of the Institut National des Sciences de l'Univers and the Société d'Histoire Naturelle d'Autun for financial supports. The authors thank also Mr. Grillot, Mayor of Dracy-St-Loup and Ms. Kunz, 1st Assistant, for their material support, and L. Bruneau, L. Glé, E. Arnoux andM. Ferrand for their assistance in the laboratory and in the field. Many thanks to C. Chateau-Smith for English proofreading. The authors thank J.W. Schneider, S. Opluštil and an anonymous reviewer for their helpful comments."
+  }],
+  "year": 2017,
+  "references": [{
+    "title": "Die Rotliegendflora des Thüringer Waldes",
+    "authors": ["M. Barthel"],
+    "venue": "Teil 1–6. Veröffentlichungen Naturhistorisches Museum Schleusingen",
+    "year": 2006
+  }, {
+    "title": "Die Rotliegendflora des Thüringer Waldes",
+    "authors": ["M. Barthel"],
+    "venue": "Teil 1–6. Veröffentlichungen Naturhistorisches Museum Schleusingen",
+    "year": 2007
+  }, {
+    "title": "Die Rotliegendflora des Thüringer Waldes",
+    "authors": ["M. Barthel"],
+    "venue": "Teil 1–6. Veröffentlichungen Naturhistorisches Museum Schleusingen",
+    "year": 2008
+  }, {
+    "title": "Tonsteins: altered volcanic ash layers in coal-bearing sequences. Geological Society of America, Special Paper 285",
+    "authors": ["B.F. Bohor", "D.M. Triplehorn"],
+    "year": 1993
+  }, {
+    "title": "Fréquence des manifestations volcaniques au Carbonifère supérieur en France",
+    "authors": ["A. Bouroz"],
+    "venue": "Comptes Rendus Académie Sciences série D",
+    "year": 1966
+  }, {
+    "title": "Corrélations des tonsteins d'origine volcanique entre les bassins houillers de Sarre-Lorraine et du Nord-Pas-de-Calais",
+    "authors": ["A. Bouroz"],
+    "venue": "Comptes Rendus Académie Sciences série D",
+    "year": 1967
+  }, {
+    "title": "Report on the Stephanian-Autunian boundary and on the contents of upper Stephanian and Autunian in their stratotypes",
+    "authors": ["A. Bouroz", "J. Doubinger"],
+    "venue": "Symposium on Carboniferous Stratigraphy. Geological Survey,",
+    "year": 1977
+  }, {
+    "title": "Far Eastern Avalonia: its chronostratigraphic structure revealed by SHRIMP zircon ages from Upper Carboniferous to Lower Permian volcanic rocks (drill cores from Germany, Poland, and Denmark)",
+    "authors": ["C. Breitkreuz", "A. Kennedy", "M. Geißler", "B.C. Ehling", "J. Kopp", "A. Muszynski", "A. Protas", "S. Stouge"],
+    "year": 2007
+  }, {
+    "title": "Chronological evolution of an intrusive/extrusive system: the Late Paleozoic Halle Volcanic Complex in the northeastern Saale Basin (Germany)",
+    "authors": ["C. Breitkreuz", "B.C. Ehling", "S. Sergeev"],
+    "venue": "Zeitschrift der Deutschen Gesellschaft für Geowissenschaften",
+    "year": 2009
+  }, {
+    "title": "Les recherches paléoichthyologiques et géologiques sur le gisement permien de Muse près d'Autun (Saône-et-Loire) au début du XIXème siècle",
+    "authors": ["A. Brignon"],
+    "venue": "Bulletin de la Société Géologique de France",
+    "year": 2014
+  }, {
+    "title": "Conséquences de la coexistence de flores à caractères stéphanien et autunien dans les bassins limniques d'Europe occidentale",
+    "authors": ["J. Broutin", "J. Doubinger", "J. Langiaux", "D. Primey"],
+    "venue": "Mémoires. Société Géologique de France",
+    "year": 1986
+  }, {
+    "title": "Le renouvellement des flores au passage Carbonifère Permien. Approches stratigraphique, biologique, sédimentologique",
+    "authors": ["J. Broutin", "J. Doubinger", "G. Farjanel", "P. Freytet", "H. Kerp", "J. Langiaux", "M.L. Lebreton", "S. Sebban", "S. Satta"],
+    "venue": "C. R. Acad. Sci. Paris. vol",
+    "year": 1990
+  }, {
+    "title": "The Lodève Basin",
+    "authors": ["J. Broutin", "J.J. Châteauneuf", "G. Mathis"],
+    "venue": "Cahiers de Micropaléontologie, Nouvelle Série",
+    "year": 1992
+  }, {
+    "title": "L'Autunien d'Autun reste-t-il une référence pour les dépôts continentaux du Permien inférieur d'Europe? Apport des données paléobotaniques",
+    "authors": ["J. Broutin", "J.J. Châteauneuf", "J. Galtier", "A. Ronchi"],
+    "venue": "Géologie de la France",
+    "year": 1999
+  }, {
+    "title": "Application of in situ zircon geochronology and accessory phase chemistry to constraining basin development during post-collisional extension: a case study from the French Massif Central",
+    "authors": ["O. Bruguier", "J.F. Becq-Giraudon", "M. Champenois", "E. Deloule", "J. Ludden", "D. Mangin"],
+    "venue": "Chemical Geology",
+    "year": 2003
+  }, {
+    "title": "Le volcanisme acide de l'ouest-Morvan dans son cadre géologique: caractérisation géochimique, structurale et chronologique de mise en place",
+    "authors": ["J. Carpéna", "J. Doubinger", "R. Guérin", "J. Juteau", "M. Monnier"],
+    "venue": "Bulletin de la Société Géologique de France",
+    "year": 1984
+  }, {
+    "title": "Sondages stratigraphiques dans le bassin d'Autun: étude préliminaire",
+    "authors": ["J.J. Châteauneuf", "G. Farjanel", "R.R. Feys", "P. Marteau"],
+    "venue": "Bulletin de la Société d'Histoire Naturelle d'Autun",
+    "year": 1980
+  }, {
+    "title": "The Autun permian basin, the autunian stratotype",
+    "authors": ["J.J. Châteauneuf", "G. Farjanel", "G. Pacaud", "J. Broutin"],
+    "venue": "Cahiers de Micropaleontologie",
+    "year": 1992
+  }, {
+    "title": "Notice explicative de la carte géologique d'Epinac-Les-Mines au 1:50000",
+    "authors": ["P. Chèvremont", "C. Rémond", "P. Marteau", "L. Clozier", "D. Thiéblemont", "D. Jauffret", "F. Bugnon", "J.P. Thèvenot"],
+    "venue": "Bureau de recherches géologiques et minières, Orléans",
+    "year": 1999
+  }, {
+    "title": "EARTHTIME; isotopic tracers and optimized solutions for high-precision U–Pb IDTIMS geochronology",
+    "authors": ["D. Condon", "B. Schoene", "S. Bowring", "R. Parrish", "N. McLean", "S. Noble", "Q. Crowley"],
+    "venue": "Eos, Transactions American Geophysical Union",
+    "year": 2007
+  }, {
+    "title": "Les gores du gisement de charbon stéphano-autunien de Lucenay-les-Aix (Nièvre). (Dissertation). University of Dijon",
+    "authors": ["P. Cula"],
+    "year": 1983
+  }, {
+    "title": "Proposal of Aidaralash as global stratotype section and point (GSSP) for base of the Permian",
+    "authors": ["V.I. Davydov", "B.F. Glenister", "C. Spinosa", "S.M. Ritter", "V.V. Chemykh", "B.R. Wardlaw", "W.S. Snyder"],
+    "venue": "System. Episodes",
+    "year": 1998
+  }, {
+    "title": "High-precision U–Pb zircon age calibration of the global Carboniferous time scale andMilankovitch-band cyclicity in the Donets Basin, eastern Ukraine",
+    "authors": ["V.I. Davydov", "J.L. Crowley", "M.D. Schmitz", "V.I. Poletaev"],
+    "year": 2010
+  }, {
+    "title": "The Carboniferous Period",
+    "authors": ["V.I. Davydov", "D. Korn", "M.D. Schmitz"],
+    "venue": "The Geologic Time Scale",
+    "year": 2012
+  }, {
+    "title": "Use of Tmax as a thermal maturity indicator in orogenic successions and comparison with clay mineral evolution",
+    "authors": ["F. Dellisanti", "G.A. Pini", "F. Baudin"],
+    "venue": "Clay Minerals",
+    "year": 2010
+  }, {
+    "title": "Contribution à l'étude des flores autuno-stéphaniennes",
+    "authors": ["J. Doubinger"],
+    "venue": "Mémoires de la Société géologique de France",
+    "year": 1956
+  }, {
+    "title": "Contribution à l'étude palynologique du Permo-Carbonifère de l'Autunien",
+    "authors": ["J. Doubinger"],
+    "venue": "Bulletin de la Société d'Histoire Naturelle d'Autun",
+    "year": 1968
+  }, {
+    "title": "Contribution à l'étude palynologique du Permo-Carbonifère de l'Autunien",
+    "authors": ["J. Doubinger"],
+    "venue": "Bulletin de la Société d'Histoire Naturelle d'Autun",
+    "year": 1968
+  }, {
+    "title": "Réflexions sur la flore du Mont-Pelé, bassin d'Autun",
+    "authors": ["J. Doubinger"],
+    "venue": "Colloque sur la stratigraphie du Carbonifère, les congrès et colloques de l'Université de Liège",
+    "year": 1970
+  }, {
+    "title": "Nouvelles données minéralogiques et palynologiques sur les sédiments permiens du bassin d'Autun",
+    "authors": ["J. Doubinger", "F. Elsass"],
+    "venue": "Bulletin de la Société d'Histoire Naturelle d'Autun",
+    "year": 1975
+  }, {
+    "title": "Le bassin permo-carbonifère d'Autun. Nouvelles données stratigraphiques et palynologiques",
+    "authors": ["J. Doubinger", "P. Elsass"],
+    "venue": "Bulletin de la Société d'Histoire Naturelle d'Autun",
+    "year": 1979
+  }, {
+    "title": "Les schistes bitumineux du bassin d'Autun: pétrographie, minéralogie, cristallochimie, pyrolyse. (Doctoral dissertation)",
+    "authors": ["F.E. Elsass-Damon"],
+    "year": 1977
+  }, {
+    "title": "Le Stéphanien et l'Autunien du bassin d'Autun (France). Nouvelles données stratigraphiques",
+    "authors": ["G. Farjanel", "R. Feys", "P. Marteau"],
+    "venue": "Comptes Rendus 10 Congrès International du Carbonifère, Madrid",
+    "year": 1983
+  }, {
+    "title": "Late orogenic carboniferous extensions in the Variscan French Massif Central",
+    "authors": ["M. Faure"],
+    "venue": "Tectonics",
+    "year": 1995
+  }, {
+    "title": "A review of the pre-Permian geology of the Variscan French Massif Central",
+    "authors": ["M. Faure", "J.M. Lardeaux", "P. Ledru"],
+    "venue": "Comptes Rendus Geoscience",
+    "year": 2009
+  }, {
+    "title": "Sur Estheria tenella et les Estheria du Permien inférieur",
+    "authors": ["R. Feys"],
+    "venue": "Bulletin de la Société géologique de France",
+    "year": 1960
+  }, {
+    "title": "Carte géologique à 1/50 000 d'Autun",
+    "authors": ["R. Feys"],
+    "venue": "Bureau de Recherche Géologique et Minière",
+    "year": 1991
+  }, {
+    "title": "L'Autunien et le Saxonien en France",
+    "authors": ["R. Feys", "C. Greber"],
+    "venue": "Rotliegend. Essays on European Lower Permian,",
+    "year": 1972
+  }, {
+    "title": "Etude de quatre niveaux de gores autuniens du sondage de Chambois 1 (Bassin d'Autun). (Dissertation)",
+    "authors": ["I. Frere"],
+    "venue": "University of Dijon",
+    "year": 1982
+  }, {
+    "title": "Les gores du faisceau de Montceau Bassin de Blanzy-Montceau, Saône-etLoire (Faciès - minéralogie - corrélations)",
+    "authors": ["I. Frere"],
+    "venue": "(Dissertation). University of Dijon",
+    "year": 1982
+  }, {
+    "title": "Le bassin stéphanien des Cévennes(Gard): dynamique du remplissage, place du charbon, cinérites. (Doctoral dissertation)",
+    "authors": ["I. Frere"],
+    "venue": "University of Dijon",
+    "year": 1984
+  }, {
+    "title": "Reprise de fouilles paléontologiques dans un gîte bourguignon célèbre: les “schistes bitumineux” de l'Autunien de Muse (Bassin d'Autun)",
+    "authors": ["G. Gand", "J.S. Steyer", "D. Chabard"],
+    "venue": "Bourgogne Nature",
+    "year": 2011
+  }, {
+    "title": "Les fouilles paléontologiques deMuse: bilan 2011, projets",
+    "authors": ["G. Gand", "J.S. Steyer", "D. Chabard"],
+    "venue": "Bulletin de la Société d'Histoire Naturelle d'Autun",
+    "year": 2012
+  }, {
+    "title": "Discovery of an Autunian macroflora and lithostratigraphic re-investigation on the western border of the Lodève Permian basin (Mont Sénégra, Hérault, France)",
+    "authors": ["G. Gand", "J. Galtier", "J. Garric", "P.A. Teboul", "P. Pellenard"],
+    "venue": "Paleoenvironmental implications. Comptes Rendus Palevol",
+    "year": 2013
+  }, {
+    "title": "Le stratotype autunien (Permien) du bassin d'Autun: résultats préliminaires des travaux réalisés en 2014 sur les niveaux de la couche de Muse (Saône-et-Loire, France)",
+    "authors": ["G. Gand", "J.S. Steyer", "P. Pellenard", "O. Béthoux", "G. Odin", "V. Rouchon", "I. VanWaveren", "G. de Ploeg", "D. Chabard"],
+    "venue": "Bulletin de la Société d'Histoire Naturelle d'Autun",
+    "year": 2015
+  }, {
+    "title": "The Geologic Time Scale",
+    "authors": ["F.M. Gradstein", "J.G. Ogg", "M. Schmitz", "G. Ogg"],
+    "year": 2012
+  }, {
+    "title": "Late Pennsylvanian aridification on the southwestern margin of Gondwana (Paganzo Basin, NW Argentina): a regional expression of a global climate perturbation",
+    "authors": ["E.L. Gulbranson", "I.P. Montanez", "N.J. Tabor", "C.O. Limarino"],
+    "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
+    "year": 2015
+  }, {
+    "title": "The Carboniferous System. Use of the new official names for the subsystems, series, and stages",
+    "authors": ["P.H. Heckel", "G. Clayton"],
+    "venue": "Geologica Acta",
+    "year": 2006
+  }, {
+    "title": "The Permian Period",
+    "authors": ["C.M. Henderson", "V.I. Davydov", "B.R. Wardlaw", "F.M. Gradstein"],
+    "venue": "The Geologic Time Scale",
+    "year": 2012
+  }, {
+    "title": "Vertébrés de l'Autunien de France",
+    "authors": ["D. Heyler"],
+    "venue": "Cahiers de Paléontologie CNRS,",
+    "year": 1969
+  }, {
+    "title": "New continental Carboniferous and Permian faunas of Morocco - implications for biostratigraphy, palaeobiogeography and palaeoclimate",
+    "authors": ["D. Hmich", "J.W. Schneider", "H. Saber", "S. Voigt", "M. El Wartiti"],
+    "year": 2006
+  }, {
+    "title": "An ultrasonic method for isolating nonclay components from clay-rich material",
+    "authors": ["G.D. Hoke", "M.D. Schmitz", "S.A. Bowring"],
+    "venue": "Geochemistry, Geophysics, Geosystems",
+    "year": 2014
+  }, {
+    "title": "Die Korrelation des Rotliegenden Europas",
+    "authors": ["V. Holub", "H. Kozur"],
+    "venue": "Geologische und Paläontologische Mitteilungen Innsbruck",
+    "year": 1981
+  }, {
+    "title": "K-bentonite: a review",
+    "authors": ["W. Huff"],
+    "venue": "American Mineralogist",
+    "year": 2016
+  }, {
+    "title": "Precision measurement of half-lives and specific activities of 235U and 238U",
+    "authors": ["A.H. Jaffey", "K.F. Flynn", "L.E. Glendenin", "W.C. Bentley", "A.M. Essling"],
+    "venue": "Physical Review C",
+    "year": 1971
+  }, {
+    "title": "Rare-earth element geochemistry of standard sediments: a study using inductively coupled plasma spectrometry",
+    "authors": ["I. Jarvis", "K.E. Jarvis"],
+    "venue": "Chemical Geology",
+    "year": 1985
+  }, {
+    "title": "Geochemistry, tectonomagmatic origin and chemical correlation of altered Carboniferous–Permian fallout ash tuffs in southwestern Germany",
+    "authors": ["S. Königer", "V. Lorenz"],
+    "venue": "Geological Magazine",
+    "year": 2002
+  }, {
+    "title": "Origin, age and stratigraphic significance of distal fallout ash tuffs from the Carboniferous–Permian continental Saar–Nahe Basin (SW Germany)",
+    "authors": ["S. Königer", "V. Lorenz", "H. Stollhofen", "R.A. Armstrong"],
+    "venue": "International Journal of Earth Sciences",
+    "year": 2002
+  }, {
+    "title": "Das “Estheria” tenella-Problem und zwei neue conchostracenArten aus dem Rotliegenden von Sulzbach (Senke von Baden-Baden, Nordscharzwald)",
+    "authors": ["H. Kozur", "E. Sittig"],
+    "venue": "Geologische und PaläontologischeMitteilungen Innsbruck",
+    "year": 1981
+  }, {
+    "title": "Protracted, coeval crust and mantle melting during Variscan late-orogenic evolution: U–Pb dating in the eastern French Massif Central",
+    "authors": ["O. Laurent", "S. Couzinié", "A. Zeh", "O. Vanderhaeghe", "J.F. Moyen", "A. Villaros", "V. Gardien", "C. Chelle-Michou"],
+    "venue": "International Journal of Earth Sciences",
+    "year": 2017
+  }, {
+    "title": "Palaeoclimatic and site-specific conditions in the Early Permian fossil forest of Chemnitz. Sedimentological, geochemical and palaeobotanical evidence",
+    "authors": ["L. Luthardt", "R. Rößler", "J.W. Schneider"],
+    "year": 2016
+  }, {
+    "title": "Le bassin permo-carbonifère d'Autun. Stratigraphie, Sédimentologie et aspects structuraux. (Doctoral dissertation). University of Dijon",
+    "authors": ["P. Marteau"],
+    "year": 1983
+  }, {
+    "title": "Le bassin d'Autun. Synthèse géologique des bassins permiens français",
+    "authors": ["P. Marteau", "R. Feys"],
+    "venue": "Mémoires du BRGM",
+    "year": 1989
+  }, {
+    "title": "Zircon U–Pb chemical abrasion (“CA-TIMS”) method: combined annealing andmulti-step partial dissolution analysis for improved precision and accuracy of zircon ages",
+    "authors": ["J.M. Mattinson"],
+    "venue": "Chemical Geology",
+    "year": 2005
+  }, {
+    "title": "The geology of Central Europe: volume 1: Precambrian and Palaeozoic",
+    "authors": ["T. McCann"],
+    "venue": "Geological Society of London",
+    "year": 2008
+  }, {
+    "title": "Evaluating uncertainties in the calibration of isotopic reference materials and multi-element isotopic tracers (EARTHTIME tracer calibration part II)",
+    "authors": ["N.M. McLean", "D.J. Condon", "B. Schoene", "S.A. Bowring"],
+    "venue": "Geochimica et Cosmochimica",
+    "year": 2015
+  }, {
+    "title": "Global time scale and regional stratigraphic reference scales of central and west Europe, east Europe, Tethys, south China, and North America as used in the Devonian",
+    "authors": ["M. Menning", "A.S. Alekseev", "B.I. Chuvashov", "V.I. Davydov", "F.X. Devuyst", "H.C. Forke", "T.A. Grunt", "L. Hance", "P.H. Heckel", "N.G. Izokh", "Y.G. Jin", "P.J. Jones", "G.V. Kotlyar", "H.W. Kozur", "T.I. Nemyrovska", "J.W. Schneider", "X.D. Wang", "K. Weddige", "D. Weyer"],
+    "year": 2006
+  }, {
+    "title": "Chronostratigraphy and paleoclimatology of the Lodève Basin, France: evidence for a pan-tropical aridification event across the Carboniferous–Permian boundary",
+    "authors": ["L.A. Michel", "N.J. Tabor", "I.P. Montañez", "M.D. Schmitz", "V.I. Davydov"],
+    "year": 2015
+  }, {
+    "title": "Le volcanisme et le thermalisme permiens de France",
+    "authors": ["M. Monnier"],
+    "venue": "BRGM vol",
+    "year": 1989
+  }, {
+    "title": "Le bassin de Montreuillon (Nord Morvan): élément d'une association volcano-plutonique subalcaline hercynienne. Données géochimiques",
+    "authors": ["M. Monnier", "J.M. Stussi"],
+    "venue": "Comptes Rendus de l'Académie des Sciences Série",
+    "year": 1984
+  }, {
+    "title": "X-Ray Diffraction and the Identification and Analysis",
+    "authors": ["D.M. Moore", "R.C. Reynolds"],
+    "year": 1997
+  }, {
+    "title": "Découverte de nouveaux",
+    "authors": ["A. Nmila", "B. Cabanis", "S. Leroy", "O. Henriot", "V. Mathis"],
+    "year": 1992
+  }, {
+    "title": "A Concise Geologic Time Scale 2016",
+    "authors": ["J.G. Ogg", "G. Ogg", "F.M. Gradstein"],
+    "year": 2016
+  }, {
+    "title": "Geological Time Scale based on new U–Pb ages. Earth-Science Reviews",
+    "authors": ["S. Opluštil", "M. Schmitz", "V. Kachlík", "S. Štamberg"],
+    "year": 2016
+  }, {
+    "title": "2017b. A 25 million year",
+    "authors": ["S. Opluštil", "Z. Šimunek", "J. Pšenicka", "J. Bek", "M. Libertín"],
+    "venue": "Basin (Czech Republic). Bulletin of Geosciences",
+    "year": 2017
+  }, {
+    "title": "Le bassin autunien de l'Aumance (Allier)",
+    "authors": ["Y. Paquette"],
+    "year": 1980
+  }, {
+    "title": "Trace element discrimination diagrams for the tectonic interpretation of granitic rocks",
+    "authors": ["J.A. Pearce", "N.B. Harris", "A.G. Tindle"],
+    "venue": "Journal of Petrology",
+    "year": 1984
+  }, {
+    "title": "Characterization and correlation of Upper Jurassic (Oxfordian) bentonite deposits in the Paris Basin and the Subalpine Basin, France",
+    "authors": ["P. Pellenard", "J.F. Deconinck", "W.D. Huff", "J. Thierry", "D. Marchand", "D. Fortwengler", "A. Trouiller"],
+    "venue": "Sedimentology",
+    "year": 2003
+  }, {
+    "title": "The first 40Ar-39Ar date from Oxfordian ammonite-calibrated volcanic layers (bentonites) as a tie-point for the Late Jurassic",
+    "authors": ["P. Pellenard", "S. Nomade", "L. Martire", "De Oliveira", "Ramalho F", "F. Monna", "H. Guillou"],
+    "venue": "Geological Magazine",
+    "year": 2013
+  }, {
+    "title": "Etude géologique du bassin Permo-Carbonifère d'Autun. BRGM",
+    "authors": ["P. Pruvost"],
+    "year": 1942
+  }, {
+    "title": "Highprecision U–Pb zircon age constraints on the Carboniferous–Permian boundary in the southern Urals stratotype",
+    "authors": ["J. Ramezani", "M. Schmitz", "V. Davydov", "S. Bowring", "W. Snyder", "C. Northrup"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2007
+  }, {
+    "title": "Le Bassin stéphanien de Messeix-Singles (Puy-de-Dôme)",
+    "authors": ["P. Robert"],
+    "venue": "(Doctoral dissertation). University of Dijon",
+    "year": 1985
+  }, {
+    "title": "Quantitative radiometric and biostratigraphic calibration of the global Pennsylvanian–Early Permian time scale",
+    "authors": ["M.D. Schmitz", "V.I. Davydov"],
+    "venue": "Geological Society of America Bulletin",
+    "year": 2012
+  }, {
+    "title": "Derivation of isotope ratios, errors and error correlations for U–Pb geochronology using 205Pb-235U-(233U)-spiked isotope dilution thermal ionization mass spectrometric data",
+    "authors": ["M.D. Schmitz", "B. Schoene"],
+    "year": 2007
+  }, {
+    "title": "Late Carboniferous-Permian-Early Triassic nonmarinemarine correlation: call for global cooperation",
+    "authors": ["J.W. Schneider", "S.G. Lucas"],
+    "venue": "Permophiles",
+    "year": 2015
+  }, {
+    "title": "Late Pennsylvanian to Early Triassic conchostracan biostratigraphy - a preliminary approach",
+    "authors": ["J.W. Schneider", "F. Scholze"],
+    "venue": "Geological Society,",
+    "year": 2016
+  }, {
+    "title": "Insect biostratigraphy of the Euamerican continental Late Pennsylvanian and Early Permian",
+    "authors": ["J.W. Schneider", "R. Werneburg"],
+    "venue": "Geological Society Special Publication,",
+    "year": 2006
+  }, {
+    "title": "Biostratigraphie des Rotliegend mit Insekten und Amphibien",
+    "authors": ["J.W. Schneider", "R. Werneburg"],
+    "venue": "Deutsche Stratigraphische Kommission: Stratigraphie von Deutschland X. Rotliegend. Teil I: Innervariscische Becken. - Schriftenr. Dt. Ges. Geowiss, Heft",
+    "year": 2012
+  }, {
+    "title": "Permian climate development in the northern peri-Tethys area - the Lodève basin, French Massif Central, compared in a European and global context",
+    "authors": ["J.W. Schneider", "F. Körner", "M. Roscher", "U. Kroner"],
+    "year": 2006
+  }, {
+    "title": "The Early Permian age of the Dunkard Group, Appalachian basin, U.S.A., based on spiloblattinid insect biostratigraphy",
+    "authors": ["J.W. Schneider", "S.G. Lucas", "J.E. Barrick"],
+    "venue": "International Journal of Coal Geology",
+    "year": 2013
+  }, {
+    "title": "Comparative ontogeny of early Permian branchiosaurid amphibians from southwestern Germany",
+    "authors": ["R.R. Schoch"],
+    "venue": "Developmental stages. Palaeontographica",
+    "year": 1992
+  }, {
+    "title": "The origin of tonsteins, an overview, and links with seatearths, fireclays and fragmental clay rocks",
+    "authors": ["D.A. Spears"],
+    "venue": "International Journal of Coal Geology",
+    "year": 2012
+  }, {
+    "title": "Mixed-layer smectite/illites in the bentonites and tonsteins of the Upper Silesian Coal Basin",
+    "authors": ["J. Środoń"],
+    "venue": "Prace Mineralogiczne",
+    "year": 1976
+  }, {
+    "title": "Approximation of terrestrial lead isotope evolution by a two-stage model",
+    "authors": ["J.S. Stacey", "J.D. Kramers"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 1975
+  }, {
+    "title": "Are European Paleozoic amphibians good stratigraphic markers",
+    "authors": ["J.S. Steyer"],
+    "venue": "Bulletin de la Société Géologique de France",
+    "year": 2000
+  }, {
+    "title": "Phylogenetic or stratophenetic systematics? Comment of R.Werneburg: the Branchiosaurid amphibians from the Lower Permian of Buxières-les-Mines, Bourbon l'Archambault Basin (Allier, France) and their biostratigraphic significance",
+    "authors": ["J.S. Steyer"],
+    "venue": "Bulletin de la Société Géologique de France",
+    "year": 2004
+  }, {
+    "title": "Les amphibiens du Paléozoïque et du Trias français: historique et inventaire",
+    "authors": ["J.S. Steyer", "G. Gand", "J.M. Pouillon"],
+    "venue": "Bulletin de la Société d'Histoire naturelle d'Autun",
+    "year": 1997
+  }, {
+    "title": "Smectite to illite conversion in bentonites and shales of the East Slovak Basin",
+    "authors": ["V. Šucha", "I. Kraus", "H. Gerthofferova", "J. Petes"],
+    "venue": "Serekova,M.,",
+    "year": 1993
+  }, {
+    "title": "Palaeoclimate across the Late Pennsylvanian–Early Permian tropical palaeolatitudes: a review of climate indicators, their distribution, and relation to palaeophysiographic climate factors",
+    "authors": ["N.J. Tabor", "C.J. Poulsen"],
+    "year": 2008
+  }, {
+    "title": "Palaeozoic magmatism. In: McCann (Ed.), The Geology of Central Europe Volume 1: Precambrian and Palaeozoic",
+    "authors": ["M.J. Timmerman"],
+    "year": 2008
+  }, {
+    "title": "Le Permien continental de la Provence orientale (France). (Doctoral dissertation)",
+    "authors": ["N. Toutin"],
+    "year": 1980
+  }, {
+    "title": "Megafloral zones of the Carboniferous",
+    "authors": ["R.H. Wagner"],
+    "venue": "Compte Rendu 9 Congrès International du Carbonifère, Washington and Champaign-Urbana",
+    "year": 1984
+  }, {
+    "title": "The Carboniferous floras of the Iberian Peninsula: a synthesis with geological connotations",
+    "authors": ["R.H. Wagner", "C. Álvarez-Vázquez"],
+    "venue": "Review of Palaeobotany and Palynology",
+    "year": 2010
+  }, {
+    "title": "Labyrinthodontier (Amphibia) aus dem Oberkarbon und Unterperm Mitteleuropas - Systematik, Phylogenie und Biostratigraphie",
+    "authors": ["R. Werneburg"],
+    "venue": "Freiberger Forschungshefte C",
+    "year": 1989
+  }, {
+    "title": "Stratophenetic approach? An answer to J.S. Steyer, 2004: phylogenetic or stratophenetic systematics",
+    "authors": ["R. Werneburg", "J.W. Schneider"],
+    "venue": "Bulletin de la Société Géologique de France",
+    "year": 2004
+  }, {
+    "title": "Amphibian biostratigraphy of the European PermoCarboniferous",
+    "authors": ["R. Werneburg", "J.W. Schneider"],
+    "venue": "Geological Society Special Publication,",
+    "year": 2006
+  }, {
+    "title": "Redescription of the holotype of Actinodon frosssardi (Amphibia, Temnospondyli) from the Lower Permian of the Autun",
+    "authors": ["R. Werneburg", "J.S. Steyer"],
+    "venue": "Basin (France). Geobios",
+    "year": 1999
+  }, {
+    "title": "Geochemical discrimination of different magma series and their differentiation products using immobile elements",
+    "authors": ["J.A. Winchester", "P.A. Floyd"],
+    "venue": "Chemical Geology",
+    "year": 1977
+  }, {
+    "title": "The application of a Th Hf Ta diagram to problems of tectonomagmatic classification and to establishing the nature of crustal contamination of basaltic lavas of the British Tertiary Volcanic Province",
+    "authors": ["D.A. Wood"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 1980
+  }, {
+    "title": "Identification and long-range correlation of bentonites in Turonian– Coniacian (Upper Cretaceous) chalks of northwest Europe",
+    "authors": ["D.S. Wray"],
+    "venue": "Geological Magazine",
+    "year": 1999
+  }],
+  "id": "SP:95e403958237bd8484c11c9429dd5271b6b90b63",
+  "authors": [{
+    "name": "Pierre Pellenard",
+    "affiliations": []
+  }, {
+    "name": "Georges Gand",
+    "affiliations": []
+  }, {
+    "name": "Mark Schmitz",
+    "affiliations": []
+  }, {
+    "name": "Jean Galtier",
+    "affiliations": []
+  }, {
+    "name": "Jean Broutin",
+    "affiliations": []
+  }, {
+    "name": "Jean-Sébastien Stéyer",
+    "affiliations": []
+  }],
+  "abstractText": "a Biogéosciences, UMR 6282, CNRS, Université Bourgogne Franche-Comté, 6 Bd Gabriel, 21000 Dijon, France b Société d'Histoire Naturelle et des Amis du Muséum d'Autun, France c Department of Geosciences, Boise State University, 1910 University Drive, Boise, ID, USA d UMR CNRS AMAP, CIRAD, TA-A51/PS2, Université Montpellier-2, Bd de la Lironde, 34398 Montpellier cedex 05, France e UMR 7207 Centre de Recherches sur la Paléobiodiversité et les Paléoenvironnements, CNRS-MNHN-UPMC, 8 rue Buffon, 75005 Paris, France",
+  "title": "High-precision U-Pb zircon ages for explosive volcanism calibrating the NW European continental Autunian stratotype"
+}

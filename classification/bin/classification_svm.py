@@ -60,9 +60,6 @@ def run_kfold():
 
         # make predictions on the development data
         predicted_indices = classifier.predict(to_features(devel_texts))
-        # assert np.array_equal(predicted_indices, predicted_indices.astype(bool))
-
-        # print(list(to_labels.le.classes_))
 
         # measure performance of predictions
         devel_indices = to_labels(devel_labels)
@@ -91,7 +88,6 @@ def run_kfold():
         os.remove("train.txt")
         os.remove("test.txt")
         i += 1
-        # exit()
 
     print("\n\n================\n\n")
     print("FINAL REPORT")
@@ -117,9 +113,7 @@ def run_error_anal():
 
     # make predictions on the development data
     predicted_indices = classifier.predict(to_features(devel_texts))
-    # assert np.array_equal(predicted_indices, predicted_indices.astype(bool))
-
-    # print(list(to_labels.le.classes_))
+    
 
     # measure performance of predictions
     devel_indices = to_labels(devel_labels)
@@ -141,15 +135,9 @@ def run_error_anal():
     print("Micro F1: ", f1_score(devel_indices, predicted_indices, average = 'micro'))
     print("Macro F1: ", f1_score(devel_indices, predicted_indices, average = 'macro'))
 
-
-    # print(classifier.classifier.coef_[:,:3])
-    # print(to_features.vectorizer.get_feature_names()[:3])
-    # print(np.shape(np.vstack((to_features.vectorizer.get_feature_names(),classifier.classifier.coef_))))
-    # print(np.shape(np.vstack((to_features.vectorizer.get_feature_names(),classifier.classifier.coef_)).transpose()))
     result_weight = np.vstack((to_features.vectorizer.get_feature_names(),classifier.classifier.coef_)).transpose()
 
     feature_weights = classifier.classifier.coef_.tolist()
-    # print(np.shape(feature_weights[0]))
 
 
     vocab_list = to_features.vectorizer.get_feature_names()
@@ -180,18 +168,8 @@ def run_error_anal():
         result = str(rank) + "\t" + neg + "\t" + ns + "\t" + sup + "\t" + unl + "\n"
         outFile.write(result)
 
-    outFile.close()
+    outFile.close()   
 
-    # np.savetxt("../data/weight_result.txt", result_weight, delimiter="\t", 
-    #     fmt='%s',
-    #     header="feature\tnegative\tsupport\tunrelated")
-
-    # print(len(to_features.vectorizer.vocabulary_))
-    # print(to_features.vectorizer.get_feature_names())
-    # plot_coefficients(classifier.classifier, to_features.vectorizer.get_feature_names())
-    
-
-
-# run_error_anal()
+run_error_anal()
  
 

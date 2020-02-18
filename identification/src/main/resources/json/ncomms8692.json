@@ -1,0 +1,350 @@
+{
+  "sections": [{
+    "heading": "ARTICLE",
+    "text": "Received 18 Dec 2014 | Accepted 29 May 2015 | Published 9 Jul 2015\nSignificant radiative impact of volcanic aerosol in the lowermost stratosphere Sandra M. Andersson1, Bengt G. Martinsson1, Jean-Paul Vernier2,3, Johan Friberg1, Carl A.M. Brenninkmeijer4,\nMarkus Hermann5, Peter F.J. van Velthoven6 & Andreas Zahn7\nDespite their potential to slow global warming, until recently, the radiative forcing associated\nwith volcanic aerosols in the lowermost stratosphere (LMS) had not been considered. Here\nwe study volcanic aerosol changes in the stratosphere using lidar measurements from the\nNASA CALIPSO satellite and aircraft measurements from the IAGOS-CARIBIC observatory.\nBetween 2008 and 2012 volcanism frequently affected the Northern Hemisphere strato-\nsphere aerosol loadings, whereas the Southern Hemisphere generally had loadings close to\nbackground conditions. We show that half of the global stratospheric aerosol optical depth\nfollowing the Kasatochi, Sarychev and Nabro eruptions is attributable to LMS aerosol. On\naverage, 30% of the global stratospheric aerosol optical depth originated in the LMS during\nthe period 2008–2011. On the basis of the two independent, high-resolution measurement\nmethods, we show that the LMS makes an important contribution to the overall volcanic\nforcing.\nDOI: 10.1038/ncomms8692 OPEN"
+  }, {
+    "heading": "1 Department of Physics, Lund University, P.O. Box 118, Lund 22100, Sweden. 2 Science Systems and Applications, Inc., Parkway, Suite 200, Hampton, Virginia",
+    "text": "23666, USA. 3 NASA Langley Research Center, 11 Langley Boulevard, Hampton, Virginia 23681, USA. 4 Max Planck Institute for Chemistry, Department of Atmospheric Chemistry, Hahn-Meitner Weg 1, Mainz 55128, Germany. 5 Leibniz Institute for Tropospheric Research, Department of Experimental Aerosol and Cloud Microphysics, Permoserstrasse 15, Leipzig 04318, Germany. 6 Royal Netherlands Meteorological Division of Chemistry and Climate, Climate Research, P.O. Box 201, De Bilt 3730AE, The Netherlands. 7 Institute for Meteorology and Climate Research, Atmospheric Trace Gases and Remote Sensing, Karlsruhe Institute of Technology (KIT), P.O. Box 3640, Karlsruhe 76021, Germany. Correspondence and requests for materials should be addressed to B.G.M. (email: bengt.martinsson@nuclear.lu.se).\nNATURE COMMUNICATIONS | 6:7692 | DOI: 10.1038/ncomms8692 | www.nature.com/naturecommunications 1\n& 2015 Macmillan Publishers Limited. All rights reserved.\nE arly 21th century global warming has been overestimated by almost all simulations of historical climate change in the latest phase of the Coupled Model Intercomparison Project (CMIP5)1,2. This divergence between simulated and observed warming rates could be evidence of serious model errors in the climate sensitivity to anthropogenic greenhouse gas increases3, or to systematic model deficiencies in representing natural internal variability4,5. It has been shown that tropical Pacific cooling due to increased subduction and upwelling6,7 and variations in solar2 and volcanic aerosol forcing5,8 contribute to the discrepancy because they are not realistically described in CMIP5 simulations of recent climate change. Volcanic eruptions induce ‘persistent variability’ in the stratospheric aerosol layer8–10. Sulfur dioxide from volcanic eruptions forms sulfate particles that reflects sunlight back to space, exerting a cooling effect11. The CMIP5 historical simulations did not account for observed increases in volcanic aerosol loadings after the year 2000.\nMost satellite-based estimates of global stratospheric aerosol optical depth (AOD) rely on occultation and other limb viewing measurements made at altitudes above the 380 K potential temperature level (on average, above 15-km altitude)9,10,12. These data have been used in a wide range of different climate studies, but do not include the lowermost stratosphere (LMS)5,8,13–15. The LMS lies between the 380 K potential temperature level (at B17-km altitude in the tropics and 14 km at mid-latitudes) and the underlying tropopause (coinciding with the 380 K potential temperature level in the tropics and at B10 (11) km at mid-latitudes in winter (summer)), and constitutes over 40% of the stratospheric mass16. The stratosphere above 380 K potential temperature is connected to the troposphere by an upward flow across the tropical tropopause via the Brewer– Dobson circulation. At mid- and high latitudes, the LMS receives seasonally varying fractions of subsiding stratospheric air from higher altitudes, and is also affected by tropospheric air crossing the extratropical tropopause. These flow patterns cause characteristic concentration gradients of trace gases17,18 and aerosols19. Volcanic aerosols reach the LMS either by direct injection in the extratropics or by transport from above via the Brewer–Dobson circulation18.\nGlobal estimates of the contribution from volcanism to stratospheric aerosols have historically been performed by limb viewing satellite instruments, such as SAGE II20 (Stratospheric Aerosol and Gas Experiment), GOMOS21 (Global Ozone Monitoring by Occultation of Stars) and presently OSIRIS22 (Optical Spectrograph and Infrared Imaging System). Their long line of sight is obscured by the occurrence of clouds close to the tropopause and by dense volcanic clouds. These problems make it difficult to use OSIRIS for observations below 380 K potential temperature23,24, and also limit the use of SAGE II25.\nRecently, it has been suggested that the LMS contributes significantly to stratospheric AOD24. For the time period from 2000 to 2013, Ridley et al.26 estimated that 30–70% of the total stratospheric AOD was from volcanic aerosols in the LMS. The latter study made use of ground-based lidar retrievals, the Aerosol Robotic Network (AERONET) of sun photometers, and balloonborne measurements. The lack of vertically resolved aerosol information in the AERONET measurements limits their ability to reliably partition the tropospheric and stratospheric contributions to the AOD.\nThe results presented here rely on independent observational measurements from two different sources. The first source is the nadir viewing lidar on the Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observation (CALIPSO)27 satellite. This instrument measures from the stratosphere down to the ground with high vertical resolution, thus enabling aerosol observations in the upper troposphere (UT) and LMS. The second source of\ninformation is from analyses of aerosol samples collected by the IAGOS-CARIBIC program (In-service Aircraft for a Global Observing System—Civil Aircraft for the Regular Investigation of the atmosphere Based on an Instrument Container), a passenger aircraft-based observatory28. IAGOS-CARIBIC was operational for most of the period 1999–2013, permitting study of the LMS in the Northern Hemisphere (NH). The global stratosphere up to 35-km altitude was investigated with CALIPSO during the period 2008 to early 2012, which covers several of the larger volcanic eruptions. We use the 2008 Kasatochi eruption to study the detailed post-eruption vertical structure of the LMS aerosol. Our study attempts to quantify the radiative influence of the LMS aerosol relative to the radiative impact of total stratospheric AOD (measured at a wavelength of 532 nm). In contrast to previous work, we explicitly resolve the vertical ‘fine structure’ of the aerosol loadings after a series of volcanic eruptions. During the period 2008–2011, volcanic activity was most pronounced in the NH. The Southern Hemisphere (SH) was generally close to background conditions during this period, showing radiative properties that can be explained by stratospheric circulation and stratosphere–troposphere exchange."
+  }, {
+    "heading": "Results",
+    "text": "IAGOS-CARIBIC observations. IAGOS-CARIBIC observations are performed regularly at altitudes of 9–12 km, which is in the free troposphere in the tropics and in the UT/LMS in the extratropics. Measurements during intercontinental flights provided sampling of the LMS in the NH. The majority of these samples (90%) were collected between 30 N and 65 N. To identify volcanic influence on aerosol sampled in the LMS, we use S/O3, the ratio of particulate elemental sulfur to in situ ozone. This is a powerful tracer29 because the (non-volcanic) background S/O3 ratio is set high in the stratosphere before transport into the LMS. The S/O3 time series in the LMS (Fig. 1), obtained from near-monthly intercontinental IAGOS-CARIBIC flights, show clear evidence of influence from volcanic eruptions (Table 1). After a period of little volcanic influence during 1999–2002, large S/O3 ratios (increases of up to a factor of 16 relative to background) were measured following three extratropical eruptions between 2008 and 2011. Elevated S/O3 is also associated with a number of tropical eruptions between 2005 and 2012 (ref. 30). The effects of tropical eruptions on the mid- to high-latitude LMS region appear a few months to more than a year after the eruptions, due to the time required for transport from the tropics18. In 2013, the LMS aerosol concentrations again approached the background levels of 1999–2002.\nVolcanic aerosol from the eruption of Kasatochi in August 2008 (see insert in Fig. 1) was first measured by the CARIBIC observatory over eastern Europe 1 week after the eruption29. Samples collected within 2 months after the eruption showed large variation in their S/O3 ratios, while those collected after longer than 2 months were more homogeneous as a result of mixing in the atmosphere. Elevated S/O3 ratios indicate that the LMS was influenced by Kasatochi at least until March 2009, seven months after the eruption. The S/O3 ratios increased again following multiple eruptions of the Redoubt volcano in March/ April 2009.\nCALIPSO observations. While the majority of CARIBIC measurements are made at cruise altitude (between 9 and 12 km), CALIPSO scans the entire stratospheric aerosol column. The distribution of aerosol produced by the eruption of Kasatochi is clearly shown by the scattering ratio (the ratio of the measured scattering to the modelled molecular scattering), an optical equivalent to the mixing ratio (Fig. 2). The eruption injected ash\n2 NATURE COMMUNICATIONS | 6:7692 | DOI: 10.1038/ncomms8692 | www.nature.com/naturecommunications\n& 2015 Macmillan Publishers Limited. All rights reserved.\nand gases into two layers: one above 15 km that eventually spread over the entire NH, and one below 15 km in the NH LMS and extratropical UT. During the first few weeks after the eruption, the amount of aerosol increased due to the conversion of SO2 into sulfate particles31,32. The volcanic particles produced in the LMS had almost vanished by November 2008 through export to the troposphere, from where they were efficiently removed. The LMS volcanic aerosol concentrations increased again after subsidence of the upper cloud (Fig. 2), thus explaining the elevated S/O3 ratios observed by CARIBIC in December 2008 (see inset in Fig. 1).\nMost of the aerosol from the Kasatochi eruption is found in the lower volcanic cloud. This is clear from examining aerosol\nscattering averaged over the extratropics (Fig. 3), which is optically equivalent to the aerosol concentration. The lower volcanic cloud had a relatively short but very large effect on the aerosol concentrations in the LMS, lasting B2.5 months. The subsequent effect from the upper branch prolonged the volcanic influence on the LMS."
+  }, {
+    "heading": "Discussion",
+    "text": "In addition to the Kasatochi eruption, the Sarychev and Nabro eruptions (Table 1) clearly increased the global stratospheric AOD between 2008 and mid-2012, both above and below 15-km altitude (Fig. 4a). At least four other volcanic eruptions also had\nGr (Grimsvötn) and Na (Nabro), see Table 1 for details. The inset gives details for the Kasatochi eruption.\nNATURE COMMUNICATIONS | 6:7692 | DOI: 10.1038/ncomms8692 | www.nature.com/naturecommunications 3\n& 2015 Macmillan Publishers Limited. All rights reserved.\nsome influence on the stratospheric aerosol loading in this period. The contribution of the LMS to total stratospheric aerosol is evident from a comparison of the global AOD calculated for the 15–35-km altitude range (the range used in almost all previous studies) and the total AOD between the tropopause to 35 km (Fig. 4a). For August to November 2008, the lower limit for calculating the integrated AOD was set to 2 km below the tropopause to include the total effect from the Kasatochi eruption, since the aerosol produced partly resided in the UT (see above).\nTo estimate the impact from the three largest eruptions between 2008 and mid-2012, the background AOD and radiative forcing during this time period were set to the values in the relatively quiescent periods between the Kasatochi, Sarychev and Nabro eruptions. Time integration over the elevated AOD during the three periods (Fig. 4a) then provides the total influence (grey areas in Fig. 4a) for the duration of appreciable impact of an eruption. From the integrated stratospheric AODs without and with the LMS included for the Kasatochi, Sarychev and Nabro eruptions, we found that altitudes below 15 km accounted for large fractions of the integrated AOD from these eruptions, namely 68, 54 and 41%.\nNext, we estimate the fraction of the total, global stratospheric AOD attributable to aerosol in the LMS (fLMS) over the entire 2008 to mid-2012 time period (Fig. 4b). The fraction is low (generally 20–30%) in periods between the three main eruptions. The fLMS exceeds 50% 1 month after the Kasatochi eruption, and exceeds 40% after the Sarychev eruption. The Nabro eruption also yielded fLMS values 430%. Our results for the years 2008–2011 show an average fLMS of 30%. This result is at the lower limit of the previous estimate of 30–70% for the years 2000–2013 by Ridley et al26. There are a number possible explanations for this finding. Ridley et al.26 estimated stratospheric AOD based on data from the AERONET network of sun photometers. Because AERONET does not provide vertically resolved AOD data, this method has to rely on a model of the vertical distribution of the tropospheric AOD to estimate the stratospheric AOD. The time resolution of this approach is also limited, and the AOD impact of individual eruptions cannot be clearly resolved26.The vertically resolved measurements from CALIPSO and IAGOS-CARIBIC permit a clearer separation between stratospheric and tropospheric AOD, and provide a new and independent assessment of the radiative impact of aerosol in the LMS.\nIn the following, we investigate fLMS of the two hemispheres. The fLMS is generally higher in the NH, and clearly shows an identifiable influence from the major eruptions (Fig. 4b). Three of the 4 years analysed display deep minima of fLMS in July to August, with the exception of 2009 (which is masked by the Sarychev eruption). This annual minimum coincides with the minimum in size of the NH LMS16 and the summer flushing of the LMS with tropical tropospheric air due to the weakened subtropical jet17.\nThe SH was influenced by the eruptions of Merapi and Puyehue-Cordón Caulle. The SH fLMS shows an annual variation pattern that is briefly disrupted in 2011 by the Puyehue-Cordón Caulle eruption. As in the case of the NH, the SH fLMS has minima during all 5 years. These are evident in January to March, coinciding with the SH LMS minimum in size. The small influence from volcanism in the SH makes further investigation of the stratosphere–troposphere exchange feasible, because a large fraction of the stratospheric aerosol is formed in the Junge layer from carbonyl sulfide (OCS). The fraction of the LMS air that originates in that part of the stratosphere varies over the year, from B60% in the winter spring to 20% in the summer autumn33,34. With roughly 40% of the stratospheric air mass found in the LMS16, we estimate that the LMS fraction of the aerosol-rich stratospheric air varies between 12 and 27% over the year. This estimate agrees well both in size and seasonal variation with our estimate of the observed fLMS of the SH, indicating that\nminus molecular backscatter. The white line indicates 15-km altitude."
+  }, {
+    "heading": "35 Aug 06 2008 − Sep 04 2008",
+    "text": ""
+  }, {
+    "heading": "35 Oct 05 2008 − Nov 03 2008",
+    "text": ""
+  }, {
+    "heading": "35 Dec 04 2008 − Jan 02 2009",
+    "text": ""
+  }, {
+    "heading": "35 Feb 02 2009 − Feb 16 2009",
+    "text": "weak scattering from air molecules at high altitudes, is already present\nbefore the eruption of Kasatochi, and is likely related to tropical upwelling\nand particle formation. High-latitude data are missing in the top two panels\nbecause of the limited latitudinal extent of the CALIPSO night-time data\nduring the summer season. The white line indicates 15-km altitude.\n4 NATURE COMMUNICATIONS | 6:7692 | DOI: 10.1038/ncomms8692 | www.nature.com/naturecommunications\n& 2015 Macmillan Publishers Limited. All rights reserved.\nduring background conditions the LMS holds B20% of the stratospheric aerosol.\nAll of the volcanic eruptions studied here increased the relative importance of the LMS. We speculate that most volcanic eruptions affecting the stratosphere will probably induce such an increase. This is obvious for extratropical eruptions injecting SO2 directly to the LMS. Tropical eruptions can also be expected to increase fLMS. At background conditions, a large fraction of the stratospheric aerosol is formed from OCS in the deep branch of the Brewer–Dobson circulation at altitudes of 25–30 km, because intense ultraviolet radiation is required to oxidize OCS in a first step to form sulfuric acid aerosol. Formation of sulfate aerosol from volcanic SO2 takes place also at low stratospheric altitudes, which increases the aerosol transport in the shallow branch of the Brewer–Dobson circulation having a shorter residence time than the deep branch. A shorter residence time of the aerosol before entering the LMS increases the relative importance of the aerosol in the LMS.\nFigure 4c shows the AOD of the SH and NH LMS obtained from CALIPSO LIDAR measurements, together with IAGOSCARIBIC measurements of particulate sulfur. The IAGOSCARIBIC measurements were taken in the NH, and were sampled in a strong concentration gradient arising from mixing of air across the extratropical tropopause. Because of this sharp gradient, the ratio to ozone (rather than the absolute concentration) is more representative of the volcanic additions to the LMS aerosol29. The IAGOS-CARIBIC measurements in proximity to volcanic eruptions exhibit large variability, which is subsequently\nreduced by atmospheric mixing. In contrast, the CALIPSO data are averaged hemispherically, thus smearing out small-scale spatial variability. This difference in spatial sampling is apparent after the Grimsvötn eruption, which causes a short but intense S/O3 peak in the aircraft measurements, but has only a small signature in the CALIPSO observations. The effluents of that eruption were injected in the UT and the tropopause region, thus explaining the rapid decline and the comparatively weak response in the CALIPSO measurements. In addition, most of the IAGOSCARIBIC observations were made at latitudes 455 N, outside of the latitude limit for CALIPSO night-time measurements (see Fig. 2). Aside from this difference, the CALIPSO and IAGOSCARIBIC measurements—which were made with completely different instruments—show similar temporal variability.\nIn the following, we investigate the contribution of volcanic aerosol in the LMS region to recent climate change. We estimate this contribution by calculating radiative forcing using AOD estimates integrated over both 15–35 km and the tropopause 35-km ranges (Fig. 4d). Our calculations are a function of both season and latitude (Fig. 5). As in the case of the AOD results described earlier, the radiative forcing is integrated for the Kasatochi, Sarychev and Nabro eruptions. We find that 56, 44 and 23% of the total radiative forcing from these eruptions originated from below 15 km.\nThe relationship between AOD and radiative forcing is affected by a variety of factors, including the latitudinal and seasonal variation in cloud cover, surface albedo and solar zenith angle. The extratropical location of the LMS introduces a dependence of\nvolcanic eruption dates are denoted by vertical lines, colour coded according to latitude. The eruptions are: Ch (Chaitén), Ok (Okmok), Ka (Kasatochi),\nRe (Redoubt), Sa (Sarychev), Ey (Eyjafjallajökull), Me (Merapi), Gr (Grimsvötn), Pu (Puyehue-Cordón Caulle) and Na (Nabro), see Table 1 for details. The\ngrey horizontal lines indicate the estimated background AOD of the 2008 to mid-2012 time period, and the shading denotes the total integrated volcanic\nAOD from the Kasatochi, Sarychev and Nabro eruptions. (b) The fraction of total AOD from the LMS. (c) AOD in the LMS from CALIPSO (lines) and\nS/O3 in the NH from CARIBIC (circles). (d) As in a, but net radiative forcing (RF) calculated from AOD shown in a. (e) Stratospheric net radiative forcing in three regions equal in surface area.\nNATURE COMMUNICATIONS | 6:7692 | DOI: 10.1038/ncomms8692 | www.nature.com/naturecommunications 5\n& 2015 Macmillan Publishers Limited. All rights reserved.\nradiative forcing on the seasonal variation in the number of sunlight hours. For Kasatochi, a clear elevation of the LMS AOD (defined here as the time period when the LMS AOD exceeded 50% of its peak value for a specific eruption) lasted from midAugust to the end of October. The influence from Sarychev extended from mid-2009 until the end of that year. This implies that both eruptions had their main impacts approximately centred on the time of the autumn equinox. The dominant part of the aerosol from the tropical Nabro eruption was advected north; Nabro’s main impact on the LMS AOD occurred from the end of August to mid-February. Since this time of the year is characterized by few daylight hours, the radiative impact of the Nabro eruption in the LMS region was markedly reduced.\nThe eruptions studied here have clear geographical signatures (Fig. 4e). The NH extratropics were most affected by the three large eruptions described above, even in case of the nearequatorial Nabro eruption. A complete description of the volcanic aerosol loading from the total stratosphere, including the LMS region, will improve our understanding of the global- and regional-scale climatic effects of recent volcanic activity5. Such information will be useful for studies seeking to quantify the role of volcanism in the present ‘slow-down’ in global-mean surface warming2.\nThe IPCC best estimate of volcanically induced radiative forcing (from ref. 35) is based only on stratospheric measurements above 380 K in potential temperature12, resulting in an aerosol radiative forcing of 0.11 ( 0.15 to 0.08) W m 2 during the period 2008–2011. Our results indicate that inclusion of the LMS increases the global stratospheric AOD by 45% and global radiative forcing by 430% during this 4-year period. This substantially increases the estimated radiative forcing and surface cooling. These findings provide considerable motivation for repeating CMIP5 simulations of historical climate change with improved estimates of AOD for the total stratosphere."
+  }, {
+    "heading": "Methods",
+    "text": "IAGOS-CARIBIC sampling and analysis. We used data from the IAGOSCARIBIC observatory (www.caribic-atmospheric.com) which is based on a 1.5 ton measurement container transported onboard a long-range passenger aircraft. Measurements are typically made during four consecutive flights per month28. Aerosol sampling in IAGOS-CARIBIC is based on impaction of particles of 0.08–2.0-mm diameter onto 0.2-mm-thick polyimide films36. The time resolution is 100 min (150 min before 2005), which corresponds to a spatial resolution of\nB1,500 km. Collected particles were analysed for elemental composition by two accelerator-based methods: Particle Induced X-ray Emission and Particle Elastic Scattering Analysis37 at the Lund ion beam accelerator facility. The accuracy is estimated to be 10% (ref. 38). We also use O3 mixing ratios obtained from IAGOSCARIBIC, which have an accuracy of 0.3–1% (ref. 39). Particle size distributions were measured in 16 size channels in the diameter range of 0.13–0.9 mm with an optical particle counter38. The dynamical tropopause was used for classification of samples, where those taken in air masses with average potential vorticity (PV) 42 PVU (1 PVU¼ 10 6 K m2 kg 1 s 1) were classified as stratospheric. PV was obtained from ECMWF (European Centre for Medium-Range Weather Forecasts (ECMWF, http://www.ecmwf.int/)) reanalysis data at a 1 1 degree horizontal resolution and 91 vertical hybrid sigma-pressure levels.\nCALIPSO data processing. The CALIPSO satellite performs B15 orbits per day, with a 16 day repeat cycle, and covers the globe between 82 S and 82 N (ref. 27). We use lidar data from the CALIPSO Level 1 night-time output of the 532-nm parallel and perpendicular polarized channels. Data were processed based on the method developed by Vernier, et al.40, including a shift of aerosol-free reference altitude from 30–34 km to 36–39 km. Each satellite swath was averaged horizontally to 1 latitudinal resolution and 180-m vertical resolution. Cloud pixels were identified and removed using a 5% threshold on the depolarization ratio to create a cloud mask40. The cloud mask was expanded upwards by 360 m to reduce the probability of missing faint upper edges of the clouds, and downwards towards the surface to remove attenuated signals from below the cloud. The final products used in this study are scattering ratios (measured total backscatter divided by calculated molecular backscatter) and aerosol scattering (measured total backscatter minus calculated molecular backscatter). The molecular scattering was modelled based on air and ozone molecule number concentrations41,42, using ozone number density and pressure from the Global Modelling and Assimilation Office (GMAO, http://gmao.gsfc.nasa.gov/) and temperature from the ECMWF. The aerosol scattering and scattering ratios were further averaged longitudinally over swaths from several days to achieve a time resolution of 8 days or 1 month.\nAerosol optical depth. The conversion of aerosol scattering to AOD is dependent on particle size distribution. IAGOS-CARIBIC size distributions are available from mid-2010. The particle number concentrations increased appreciably after the Nabro eruption, and the size distributions shift slightly towards larger sizes compared with periods of low volcanic influence. However, the latter differences are small and all the size distributions are similar to that of the stratospheric background aerosol in 1999 (ref. 43). Therefore, the stratospheric background size distribution43 was used for the entire period with the conversion factor 50 between aerosol scattering and particle extinction44.\nAOD is obtained by integration over the atmospheric depth. Because the tropopause altitude varies in time and space, zonal averaging was performed over (appropriately weighted) latitudinally varying altitude ranges. Wintertime data at latitudes ranging from 60 S to 90 S were removed because of frequent occurrence of polar stratospheric clouds that could not be effectively screened by the cloud mask. Polar stratospheric clouds in the NH occurred much less frequently and could be identified and removed manually. Further restrictions on data availability at high latitudes arise from the fact that CALIPSO night-time data do not extend to the poles in the summer season (the maximum latitudinal extent ranges from 55 to 80 over the year). The scattering of these regions were estimated based on extrapolation of neighbouring data. Due to the relatively small surface area contribution from high latitudes (B7% from 60 to 90 S/N) uncertainties of actual aerosol concentrations in these regions are expected to have a relatively small effect on the calculated global AOD.\nRadiative forcing. A simple box model45 was used to calculate short-wave instantaneous radiative forcing (DF) for AODs derived from CALIPSO data:\nDF ¼ F0T2 1 fcð Þ 1 Asð Þ2bd; ð1Þ\nwhere F0¼ 1,361 Wm 2 is the solar constant, As is the surface albedo, fc the cloud fraction, b the upscatter fraction and d the AOD. For the calculations of two-way transmission (T2) of incident light above an aerosol layer, the stratospheric aerosol was approximated as thin layers at 12.5 and 17.5-km altitude to represent average aerosol altitudes in the LMS and between 15 and 20 km. The net radiative forcing (including the long-wave component) is estimated to be 70% of the short-wave forcing46. The monthly mean surface albedo and cloud fraction were obtained from the ECMWF ERA-interim meteorological reanalysis project47. The two-way transmission was calculated at 532 nm as a function of solar zenith angle. Upscatter fractions for sulfuric acid particles as a function of particle size and solar zenith angle were deduced from Nemesure et al.48 Extinction coefficients of solar radiation on sulfuric acid aerosol were calculated, using the size distribution of background aerosol in 1999 (ref. 43). The extinction coefficients were used to integrate over the upscatter fraction for aerosol particles with radii in the range 0.029–0.679 mm.\nThe resulting radiative forcing is thus sensitive to variation in latitude and season through the dependence on daylight hours, solar zenith angle and the variation in cloud cover and surface albedo (Fig. 5), whereas the effect of the zenith"
+  }, {
+    "heading": "Month",
+    "text": "Geographical and seasonal dependences of the average net radiative forcing for AOD¼ 1 at wavelength 532 nm. Tick marks relate to the first day of a month. Data are averaged over the period 2008–2011, and normalized\nby relative latitude area (*). The structures result from variability in\ndaylength, upscatter fraction, surface albedo, cloudiness and transmission\ndown to the aerosol layer.\n6 NATURE COMMUNICATIONS | 6:7692 | DOI: 10.1038/ncomms8692 | www.nature.com/naturecommunications\n& 2015 Macmillan Publishers Limited. All rights reserved.\nangle on solar insolation and AOD cancel each other out48. The sensitivity of the radiative forcing to the AOD is obtained from the distribution in Fig. 5, where the global average radiative forcing for AOD¼ 1 is 23 W m 2, consistent with data from literature49."
+  }, {
+    "heading": "Acknowledgements",
+    "text": "We acknowledge all members of the CARIBIC project and Lufthansa and Lufthansa Technik for enabling the CARIBIC observatory. We also thank André Ahlgren for support with programming. Aerosol measurements from CALIPSO were produced by NASA Langley Research Center. We thank the German Federal Ministry of Education and Research (BMBF) for financing the instruments operation as part of the Joint Project IAGOS-D. We also thank the German Research Foundation (DFG) for their financial support of the data analysis within the Priority Programme 1,294 (HALO). Financial support from Frankfurt Airport AG is gratefully acknowledged.\nNATURE COMMUNICATIONS | 6:7692 | DOI: 10.1038/ncomms8692 | www.nature.com/naturecommunications 7\n& 2015 Macmillan Publishers Limited. All rights reserved."
+  }, {
+    "heading": "Author contributions",
+    "text": "S.M.A. and B.G.M. performed data processing, analysis, computations and wrote the paper. They contributed to measurements of CARIBIC aerosol elemental concentrations. J.-P.V. supervised CALIPSO data processing and provided recalibration data. J.F. contributed to the analysis and to measurements of CARIBIC aerosol elemental concentrations. C.A.M.B. was responsible for the operation of the CARIBIC container with the help of A.Z. and M.H.; and M.H., P.F.J.v.V. and A.Z. provided CARIBIC aerosol size distribution, meteorology and ozone data, respectively."
+  }, {
+    "heading": "Additional information",
+    "text": "Competing financial interests: The authors declare no competing financial interests.\nReprints and permission information is available online at http://npg.nature.com/ reprintsandpermissions/\nHow to cite this article: Andersson, S. M. et al. Significant radiative impact of volcanic aerosol in the lowermost stratosphere. Nat. Commun. 6:7692 doi: 10.1038/ncomms8692 (2015).\nThis work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this\narticle are included in the article’s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/\n8 NATURE COMMUNICATIONS | 6:7692 | DOI: 10.1038/ncomms8692 | www.nature.com/naturecommunications\n& 2015 Macmillan Publishers Limited. All rights reserved."
+  }],
+  "year": 2015,
+  "references": [{
+    "title": "Overestimated global warming over the past 20 years",
+    "authors": ["J.C. Fyfe", "N.P. Gillett", "F.W. Zwiers"],
+    "venue": "Nat. Clim. Change",
+    "year": 2013
+  }, {
+    "title": "Climate Change 2013: The Physical Science Basis (Cambridge",
+    "authors": ["G Flato"],
+    "year": 2013
+  }, {
+    "title": "formidable challenges ahead",
+    "authors": ["V. Ramanathan", "Feng", "Y. On avoiding dangerous anthropogenic interference with the climate system"],
+    "venue": "Proc. Natl Acad. Sci. USA 105, 14245–14250",
+    "year": 2008
+  }, {
+    "title": "Large contribution of natural aerosols to uncertainty in indirect forcing",
+    "authors": ["Carslaw", "K. S"],
+    "venue": "Nature 503,",
+    "year": 2013
+  }, {
+    "title": "Volcanic contribution to decadal changes in tropospheric temperature",
+    "authors": ["Santer", "B. D"],
+    "venue": "Nat. Geosci",
+    "year": 2014
+  }, {
+    "title": "Recent intensification of wind-driven circulation in the Pacific and the ongoing warming hiatus",
+    "authors": ["England", "M. H"],
+    "venue": "Nat. Clim. Change",
+    "year": 2014
+  }, {
+    "title": "CMIP5 multi-model hindcasts for the mid-1970s shift and early 2000s hiatus and predictions for 2016–2035",
+    "authors": ["G.A. Meehl", "H. Teng"],
+    "venue": "Geophys. Res. Lett. 41,",
+    "year": 2014
+  }, {
+    "title": "The persistently variable ‘background’ stratospheric aerosol layer and global climate change",
+    "authors": ["S Solomon"],
+    "venue": "Science 333,",
+    "year": 2011
+  }, {
+    "title": "Major influence of tropical volcanic eruptions on the stratospheric aerosol layer during the last decade",
+    "authors": ["Vernier", "J.-P"],
+    "venue": "Geophys. Res. Lett. 38,",
+    "year": 2011
+  }, {
+    "title": "Large volcanic aerosol load in the stratosphere linked to Asian monsoon transport",
+    "authors": ["Bourassa", "A. E"],
+    "venue": "Science 337,",
+    "year": 2012
+  }, {
+    "title": "Volcanic eruptions and climate",
+    "authors": ["A. Robock"],
+    "venue": "Rev. Geophys. 38,",
+    "year": 2000
+  }, {
+    "title": "Stratospheric aerosol optical depths, 1850–1990",
+    "authors": ["M. Sato", "J.E. Hansen", "M.P. McCormick", "J.B. Pollack"],
+    "venue": "J. Geophys Res",
+    "year": 1993
+  }, {
+    "title": "Negligible climatic effects from the 2008 Okmok and Kasatochi volcanic eruptions",
+    "authors": ["B. Kravitz", "A. Robock", "A. Bourassa"],
+    "venue": "J. Geophys Res. 115,",
+    "year": 2010
+  }, {
+    "title": "Observations of the eruption of the Sarychev volcano and simulations using the HadGEM2 climate model",
+    "authors": ["Haywood", "J. M"],
+    "venue": "J. Geophys. Res. 115,",
+    "year": 2010
+  }, {
+    "title": "The impact of volcanic eruptions in the period 2000–2013 on global mean temperature trends evaluated in the HadGEM2-ES climate model",
+    "authors": ["J.M. Haywood", "A. Jones", "G.S. Jones"],
+    "venue": "Atmos. Sci. Lett. 15,",
+    "year": 2014
+  }, {
+    "title": "Seasonal variation of mass transport across the tropopause",
+    "authors": ["C. Appenzeller", "J.R. Holton", "K.H. Rosenlof"],
+    "venue": "J. Geophys. Res",
+    "year": 1996
+  }, {
+    "title": "Seasonal variations of a mixing layer in the lowermost stratosphere as identified by the CO-O3 correlation from in situ measurements",
+    "authors": ["P. Hoor", "H. Fischer", "L. Lange", "J. Lelieveld", "D. Brunner"],
+    "venue": "J. Geophys. Res",
+    "year": 2002
+  }, {
+    "title": "Quantifying transport into the lowermost stratosphere using simultaneous in-situ measurements of SF 6 and CO2",
+    "authors": ["H. Bönisch", "A. Engel", "J. Curtius", "T. Birner", "P. Hoor"],
+    "venue": "Atoms. Chem. Phys",
+    "year": 2009
+  }, {
+    "title": "Characteristics and origin of lowermost stratospheric aerosol at northern midlatitudes under volcanically quiescent conditions based on CARIBIC observations",
+    "authors": ["Martinsson", "B. G"],
+    "venue": "J. Geophys Res. 110,",
+    "year": 2005
+  }, {
+    "title": "a functional description",
+    "authors": ["Mauldin", "III L.E.", "N.H. Zaun", "M.P. McCormick", "J.H. Guy", "Vaughan", "W.R. Stratospheric Aerosol", "Gas Experiment II instrument"],
+    "venue": "Opt. Eng. 24, 307–312",
+    "year": 1985
+  }, {
+    "title": "an overview",
+    "authors": ["Kyrölä", "E. et al. GOMOS on Envisat"],
+    "venue": "Adv. Space Res. 33, 1020–1028",
+    "year": 2004
+  }, {
+    "title": "The OSIRIS instrument on the Odin spacecraft",
+    "authors": ["E Llewellyn"],
+    "venue": "Can. J. Phys. 82,",
+    "year": 2004
+  }, {
+    "title": "Odin-OSIRIS measurements",
+    "authors": ["A.E. Bourassa", "D.A. Degenstein", "B.J. Elash", "Llewellyn", "E.J. Evolution of the stratospheric aerosol enhancement following the eruptions of Okmok", "Kasatochi"],
+    "venue": "J. Geophys Res. 115, D00L03",
+    "year": 2010
+  }, {
+    "title": "Nabro and Sarychev Peak",
+    "authors": ["Fromm", "M. et al. Correcting the record of volcanic stratospheric aerosol impact"],
+    "venue": "J. Geophys Res. 119, 10,343–310,364",
+    "year": 2014
+  }, {
+    "title": "1989–2005",
+    "authors": ["L. Thomason", "Vernier", "J.-P. Improved SAGE II cloud/aerosol categorization", "observations of the Asian tropopause aerosol layer"],
+    "venue": "Atoms. Chem. Phys. 13, 4605–4616",
+    "year": 2013
+  }, {
+    "title": "Total volcanic stratospheric aerosol optical depths and implications for global climate change",
+    "authors": ["D Ridley"],
+    "venue": "Geophys. Res. Lett. 41,",
+    "year": 2014
+  }, {
+    "title": "a Global 3D View of Aerosols and Clouds",
+    "authors": ["Winker", "D.M. et al. The CALIPSO Mission"],
+    "venue": "Bull. Am. Meteorol. Soc. 91, 1211–1229",
+    "year": 2010
+  }, {
+    "title": "the new CARIBIC system",
+    "authors": ["Brenninkmeijer", "C.A.M. et al. Civil Aircraft for the regular investigation of the atmosphere based on an instrumented container"],
+    "venue": "Atmos. Chem. Phys. 7, 4953–4976",
+    "year": 2007
+  }, {
+    "title": "Influence of the 2008 Kasatochi volcanic eruption on sulfurous and carbonaceous aerosol constituents in the lower stratosphere",
+    "authors": ["Martinsson", "B. G"],
+    "venue": "Geophys. Res. Lett. 36,",
+    "year": 2009
+  }, {
+    "title": "Sources of increase in lowermost stratospheric sulphurous and carbonaceous aerosol background concentrations during 1999-2008 derived from CARIBIC flights",
+    "authors": ["J Friberg"],
+    "venue": "Tellus B",
+    "year": 2014
+  }, {
+    "title": "Global tracking of the SO2 clouds from the june",
+    "authors": ["G.J.S. Bluth", "S.D. Doiron", "C.C. Schnetzler", "A.J. Krueger", "L.S. Walter"],
+    "venue": "Mount-Pinatubo eruptions. Geophys. Res. Lett. 19,",
+    "year": 1991
+  }, {
+    "title": "Composition and evolution of volcanic aerosol from eruptions of Kasatochi, Sarychev and Eyjafjallajökull in 2008–2010 based on CARIBIC observations",
+    "authors": ["Andersson", "S. M"],
+    "venue": "Atoms. Chem. Phys. 13,",
+    "year": 2013
+  }, {
+    "title": "A CO-based budget",
+    "authors": ["P. Hoor", "H. Fischer", "Lelieveld", "J. Tropical", "extratropical tropospheric air in the lowermost stratosphere over Europe"],
+    "venue": "Geophys. Res. Lett. 32",
+    "year": 2005
+  }, {
+    "title": "The extratropical upper troposphere and lower stratosphere",
+    "authors": ["A Gettelman"],
+    "venue": "Rev. Geophys. 49,",
+    "year": 2011
+  }, {
+    "title": "Climate Change 2013: The Physical Science Basis",
+    "authors": ["G Myhre"],
+    "year": 2013
+  }, {
+    "title": "Design and calibration of a multi-channel aerosol sampler for tropopause region studies from the CARIBIC platform",
+    "authors": ["N.H. Nguyen", "A. Gudmundsson", "B. Martinsson"],
+    "venue": "Aerosol Sci. Technol",
+    "year": 2006
+  }, {
+    "title": "Analysis of C, N and O in aerosol collected on an organic backing using internal blank measurements and variable beam size",
+    "authors": ["H.N. Nguyen", "B.G. Martinsson"],
+    "venue": "Nucl. Instrum. Methods Phys. Res. Sect. B 264,",
+    "year": 2007
+  }, {
+    "title": "Comparison between CARIBIC aerosol samples analysed by accelerator-based methods and optical particle counter measurements",
+    "authors": ["Martinsson", "B. G"],
+    "venue": "Atmos. Meas. Tech",
+    "year": 2014
+  }, {
+    "title": "A fast and precise chemiluminescence ozone detector for eddy flux and airborne application",
+    "authors": ["A Zahn"],
+    "venue": "Atmos. Meas. Tech",
+    "year": 2012
+  }, {
+    "title": "Tropical stratospheric aerosol layer from CALIPSO lidar observations",
+    "authors": ["Vernier", "J. P"],
+    "venue": "J. Geophys. Res. 114,",
+    "year": 2009
+  }, {
+    "title": "Overshooting of clean tropospheric air in the tropical lower stratosphere as seen by the CALIPSO lidar",
+    "authors": ["Vernier", "J.-P"],
+    "venue": "Atmos. Chem. Phys",
+    "year": 2011
+  }, {
+    "title": "Calibration and level 1 data products",
+    "authors": ["Hostetler", "C.A. et al. CALIOP AlgorithmTheoretical Basis Document (ATBD"],
+    "venue": "Document PC-SCI-201, NASA Langley Research Center, Hampton, VA, USA",
+    "year": 2006
+  }, {
+    "title": "Lidar backscatter to extinction, mass and area conversions for stratospheric aerosols based on midlatitude balloonborne size distribution measurements",
+    "authors": ["H. Jäger", "T. Deshler"],
+    "venue": "Geophys. Res. Lett",
+    "year": 1929
+  }, {
+    "title": "Correction to ‘Lidar backscatter to extinction, mass and area conversions for stratospheric aerosols based on midlatitude balloonborne size distribution measurements",
+    "authors": ["H. Jäger", "T. Deshler"],
+    "venue": "Geophys. Res. Lett. 30,",
+    "year": 2003
+  }, {
+    "title": "Perturbation of the northern hemisphere radiative balance by backscattering from anthropogenic sulfate aerosols",
+    "authors": ["R.J. Charlson", "J. Langner", "H. Rodhe", "C. Leovy", "S. Warren"],
+    "venue": "Tellus A 43,",
+    "year": 1991
+  }, {
+    "title": "Climate forcing by stratospheric aerosols",
+    "authors": ["A. Lacis", "J. Hansen", "M. Sato"],
+    "venue": "Geophys. Res. Lett. 19,",
+    "year": 1992
+  }, {
+    "title": "configuration and performance of the data assimilation system",
+    "authors": ["Dee", "D. et al. The ERA-Interim reanalysis"],
+    "venue": "Q. J. Roy. Meteor. Soc. 137, 553–597",
+    "year": 2011
+  }, {
+    "title": "sensitivity to particle size, composition, and relative humidity",
+    "authors": ["S. Nemesure", "R. Wagener", "Schwartz", "S.E. Direct shortwave forcing of climate by the anthropogenic sulfate aerosol"],
+    "venue": "J. Geophys. Res. 100, 26105–26116",
+    "year": 1995
+  }, {
+    "title": "Efficacy of climate forcings",
+    "authors": ["J Hansen"],
+    "venue": "J. Geophys. Res. 110,",
+    "year": 2005
+  }, {
+    "title": "Retrieval of volcanic SO2 column abundance from atmospheric infrared sounder data",
+    "authors": ["A.J. Prata", "C. Bernardo"],
+    "venue": "J. Geophys. Res. 112,",
+    "year": 2007
+  }, {
+    "title": "Satellite-based constraints on explosive SO2 release from Soufrière Hills Volcano, Montserrat",
+    "authors": ["S.A. Carn", "F.J. Prata"],
+    "venue": "Geophys. Res. Lett. 37,",
+    "year": 2010
+  }, {
+    "title": "A comparison of AIRS, MODIS and OMI sulphur dioxide retrievals in volcanic clouds",
+    "authors": ["Thomas", "H. E"],
+    "venue": "Geomat. Nat. Haz. Risk",
+    "year": 2011
+  }, {
+    "title": "A-train satellite observations of the 2008 Chaitén eruption",
+    "authors": ["F Prata"],
+    "venue": "clouds. Am. Geophys. Union Fall Meeting",
+    "year": 2008
+  }, {
+    "title": "Evaluation of readout volcano’s sulfur dioxide emissions by the ozone monitoring instrument",
+    "authors": ["T Lopez"],
+    "venue": "J. Volcanol. Geoth. Res",
+    "year": 2013
+  }, {
+    "title": "Observations of the eruption of the Sarychev volcano and simulations using the HadGEM2 climate model",
+    "authors": ["Haywood", "J. M"],
+    "venue": "J. Geophys. Res",
+    "year": 2010
+  }, {
+    "title": "The 2010 explosive eruption of Java’s Merapi volcano–A ‘‘100-year’",
+    "authors": ["Surono", "P. J"],
+    "venue": "event. J. Volcanol. Geoth. Res",
+    "year": 2012
+  }],
+  "id": "SP:e7d265d02ebb4013352a341bc344870f04d8774a",
+  "authors": [{
+    "name": "Sandra M. Andersson",
+    "affiliations": []
+  }, {
+    "name": "Bengt G. Martinsson",
+    "affiliations": []
+  }, {
+    "name": "Jean-Paul Vernier",
+    "affiliations": []
+  }, {
+    "name": "Johan Friberg",
+    "affiliations": []
+  }, {
+    "name": "Carl A.M. Brenninkmeijer",
+    "affiliations": []
+  }, {
+    "name": "Markus Hermann",
+    "affiliations": []
+  }, {
+    "name": "Peter F.J. van Velthoven",
+    "affiliations": []
+  }, {
+    "name": "Andreas Zahn",
+    "affiliations": []
+  }],
+  "abstractText": "Despite their potential to slow global warming, until recently, the radiative forcing associated with volcanic aerosols in the lowermost stratosphere (LMS) had not been considered. Here we study volcanic aerosol changes in the stratosphere using lidar measurements from the NASA CALIPSO satellite and aircraft measurements from the IAGOS-CARIBIC observatory. Between 2008 and 2012 volcanism frequently affected the Northern Hemisphere stratosphere aerosol loadings, whereas the Southern Hemisphere generally had loadings close to background conditions. We show that half of the global stratospheric aerosol optical depth following the Kasatochi, Sarychev and Nabro eruptions is attributable to LMS aerosol. On average, 30% of the global stratospheric aerosol optical depth originated in the LMS during the period 2008–2011. On the basis of the two independent, high-resolution measurement methods, we show that the LMS makes an important contribution to the overall volcanic forcing. DOI: 10.1038/ncomms8692 OPEN",
+  "title": "Significant radiative impact of volcanic aerosol in the lowermost stratosphere"
+}

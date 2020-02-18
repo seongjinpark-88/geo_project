@@ -5,15 +5,17 @@ import re
 
 from scipy.sparse import issparse, spmatrix, csr_matrix
 
-import pandas as pd
-
-
 from sklearn.preprocessing import LabelEncoder, normalize, binarize, LabelBinarizer
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
+from sklearn.calibration import CalibratedClassifierCV
 from sklearn.linear_model import LogisticRegression
 from sklearn.svm import LinearSVC
 from sklearn.utils import check_array, check_X_y
 from sklearn.utils.extmath import safe_sparse_dot
+
+import pickle
+
+from joblib import dump, load
 
 
 NDArray = Union[np.ndarray, spmatrix]
@@ -40,6 +42,21 @@ def read_data(data_path: str) -> Iterator[Tuple[Text, Text]]:
 
     return iter(result)
 
+def read_test_data(data_path: str) -> Iterator[Tuple[Text]]:
+    #open file
+    f = open(data_path, "r")
+    data = f.readlines()
+    f.close()
+
+    # iteration
+    # result = []
+    
+    for line in data:    
+        text = line.rstrip()
+        yield text
+        # result.append(text)
+
+    # return result
 
 class TextToFeatures:
     def __init__(self, texts: Iterable[Text], binary = False):
@@ -54,8 +71,11 @@ class TextToFeatures:
                                           binary = binary
                                           )
 
-        # word vectors
-        self.X = self.vectorizer.fit_transform(texts)
+        try: 
+            # word vectors
+            self.X = self.vectorizer.fit_transform(texts)
+        except:
+            self.vectorizer = texts
 
     def index(self, feature: Text):
         """Returns the index in the vocabulary of the given feature value.
@@ -89,6 +109,10 @@ class TextToFeatures:
 
         return features
 
+    def save(self, feature_path):
+        dump(self.vectorizer, open(feature_path, "wb"))
+
+
 
 class TextToLabels:
     def __init__(self, labels: Iterable[Text]):
@@ -105,8 +129,11 @@ class TextToLabels:
         # create label encoder
         self.le = LabelEncoder()
 
-        # define indices for classes
-        self.le.fit(labels)
+        try:
+            # define indices for classes
+            self.le.fit(labels)
+        except:
+            self.le = labels
 
     def index(self, label: Text) -> int:
         """Returns the index in the vocabulary of the given label.
@@ -135,6 +162,10 @@ class TextToLabels:
 
         return int_indice
 
+    def save(self, label_path):
+        dump(self.le, open(label_path, "wb"))        
+
+
 
 class Classifier:
     def __init__(self):
@@ -144,6 +175,9 @@ class Classifier:
         # call a model which uses
         # L2 Penalization with 2.0 strength
         self.classifier = LinearSVC(C = 2.0, penalty = 'l2')
+
+    def load_model(self):
+        self.classifier = load("models/linearSVM.joblib")
 
     def train(self, features: NDArray, labels: NDArray) -> None:
         """Trains the classifier using the given training examples.
@@ -170,11 +204,27 @@ class Classifier:
         # return a prediction vector
         return self.classifier.predict(features)
 
+    def confidence(self, features: NDArray) -> NDArray:
+        return self.classifier.decision_function(features)
+
+    def save_model(self) -> None:
+        # save the model
+        # model name should be written without the extension
+        model_name = "linearSVM.joblib"
+        dump(self.classifier, open(model_name, "wb"))
+
 class NBSVM:
     def __init__(self):
         # create list to save LinearSVM for one vs rest
         self.svms = []
         self.labelbin = LabelBinarizer()
+
+    def load_models(self):
+        self.svms = [load("models/nbsvm_n.joblib"), load("models/nbsvm_ns.joblib"), load("models/nbsvm_s.joblib"), load("models/nbsvm_unr.joblib")]
+        self.labelbin = load("models/nbsvm_label.pickle")
+        self.ratios = np.load("models/nbsvm_ratio.npy")
+        self.n_effective_classes = np.shape(self.ratios)[0]
+        self.classes_ = self.labelbin.classes_
 
     def compute_ratios(self, X, Y, alpha):
         '''
@@ -226,22 +276,21 @@ class NBSVM:
         Y = Y.astype(np.float64)
 
         self.n_effective_classes = Y.shape[1]
-        # self.class_count_ = np.zeros(shape = n_effective_classes, dtype=np.float64)
         self.ratios = np.full(shape = (self.n_effective_classes, n_features), fill_value = 1, dtype = np.float64)
 
-        # print("Computing NB ratio...")
+        # Computing NB ratio
         self.compute_ratios(features, Y, alpha = 1)
 
         for i in range(self.n_effective_classes):
             X_i = np.multiply(X, self.ratios[i])
-            svm = LinearSVC(C = 2.0, penalty = 'l2')
+            svm = LinearSVC(C = 2.0, penalty = 'l2') 
             Y_i = Y[:,i]
             svm.fit(X_i, Y_i)
             self.svms.append(svm)
         return self
 
     def predict(self, features: NDArray) -> NDArray:
-        # n_effective_class = self.class_count_.shape[0]
+        # parameters
         beta = 0.75
         n_examples = features.shape[0]
 
@@ -252,7 +301,29 @@ class NBSVM:
             w_bar = (abs(self.svms[i].coef_).sum())/features.shape[1]
             w_prime = (1 - beta)*(w_bar) + (beta * self.svms[i].coef_)
             result = np.sign(np.dot(X_i, w_prime.T) + self.svms[i].intercept_)
-            D[i] = np.reshape(result, 40)
+            D[i] = np.reshape(result, n_examples)
 
         return self.classes_[np.argmax(D, axis = 0)]
+
+    def confidence(self, features: NDArray) -> NDArray:
+                # parameters
+        beta = 0.75
+        n_examples = features.shape[0]
+
+        D = np.zeros(shape = (self.n_effective_classes, n_examples))
+
+        for i in range(self.n_effective_classes):
+            X_i = np.multiply(features, self.ratios[i])
+            w_bar = (abs(self.svms[i].coef_).sum())/features.shape[1]
+            w_prime = (1 - beta)*(w_bar) + (beta * self.svms[i].coef_)
+            result = np.sign(np.dot(X_i, w_prime.T) + self.svms[i].intercept_)  
+            D[i] = np.reshape(result, n_examples)
+
+    def save_model(self, ratio_name):
+        names = ("n", "ns", "s", "unr")
+        np.save(ratio_name, self.ratios)
+        dump(self.labelbin, open("nbsvm_label.pickle", "wb"))        
+        for i in range(self.n_effective_classes):
+            model_name = "nbsvm_" + names[i] + ".joblib"
+            dump(self.svms[i], open(model_name, "wb"))    
 

@@ -1,0 +1,878 @@
+{
+  "sections": [{
+    "text": "T. A. Mather (&) Department of Earth Sciences, University of Oxford, Parks Road, Oxford OX1 3PR, UK e-mail: Tamsin.Mather@earth.ox.ac.uk\nR. G. Harrison Department of Meteorology, The University of Reading, 243 Earley Gate, Reading RG6 6BB, UK e-mail: r.g.harrison@reading.ac.uk\nKeywords Volcanic lightning Æ Atmospheric electricity Æ Historical accounts of volcanic lightning Æ Origins of life Æ Volcanic monitoring Æ Ash-charging mechanisms Æ Planetary lightning Æ Planetary volcanism Æ Ash fall-out Æ Global atmospheric electrical circuit Æ Volcanoes and climate Æ Hazards\nNomenclature A Ion asymmetry parameter, A = n+l+/n–l– a,b Vertical distances e Magnitude of the elementary charge (1.6 · 10–19 C) EFW Vertical electric field in fair weather conditions (EFW = – PG) Ep Vertical electric field associated with a region of charge j Number of elementary charges i Polarity of the ion k Boltzmann’s constant (1.38 · 10–23 J K–1) n, n+, n– Number concentration of total ions, positive ions and negative ions Nj Number concentration of particles carrying j elementary charges N0 The number of neutral particles, i.e., number of particles with j = 0 PG Potential gradient. The rate of change of electric potential with vertical\ndistance, usually referred to a measurement made at 1 m above the surface. When the potential increases positively with height, the PG is considered positive\nQ Electric charge r Particle radius T Temperature x Horizontal distance X Ion–aerosol attachment rate Z Aerosol particle number concentration bij(r) Attachment coefficient of ion (sign i = ± 1) to a particle of radius r carrying j charges e0 Permittivity of free space 136p 109 F m–1 / Electric potential l+, l– Ion mobility (drift speed in a unit electric field) J Mean number of elementary charges per particle s Charging timescale Rc Columnar resistance, the resistance of a unit column of atmosphere from the surface to the ionosphere VI Ionospheric potential\n1 Lightning and eruptions\n1.1 Introduction\nElectrification in the terrestrial atmosphere is most commonly experienced on a large scale through thunderstorms and lightning. Even in these situations, however, it is the electrification on microscopic size scales that ultimately leads to the familiar\nmacroscopic displays of atmospheric electrical activity. On the microscopic scale, interactions between molecular ions and aerosol particles lead to charge separation: dynamical motions may then carry charged particles into different regions, resulting in the generation of electric fields.\nReports of lightning from volcanic plumes exist into antiquity (e.g., Fig. 1), providing long anecdotal evidence that volcanic plumes can often become electrified. Particles produced from volcanoes may, as a result of their formation processes or from subsequent interactions, become electrically charged. Their mechanical and dynamical properties often lead to well-defined plumes of aerosol, injected into the lower atmosphere or the stratosphere. The electrical activity of volcanic plumes provides a method for remote sensing of volcanic activity, both on Earth and, potentially, from spacecraft passing other planets.\nThis review is intended to summarise the electrical properties of volcanic plumes and some of the consequences of these properties. As lightning plays an important role in identifying electrified volcanic plumes, it begins with a review of thunderstorm electrification and lightning (Sect. 1.2), and observations of volcanic lightning (Sect. 1.5). Section 2 describes measurement technologies which can be used to quantify the electrification of volcanic plumes. Section 3 discusses the properties of particles with respect to their electrification in the atmosphere. Section 4 briefly discusses some hazards associated with volcanic lightning.\n1.2 Thunderstorm electrification and lightning"
+  }, {
+    "heading": "1.2.1 Thunderstorm electrification",
+    "text": "Thunderclouds result from irregular heating of the Earth’s surface, causing vigorous updrafts and latent heat release during condensation and freezing. Thunderclouds are particularly deep cumulus clouds, which generate precipitation including liquid raindrops, hail, snow and soft hail (graupel). The electrification of thunderstorms has been known since the 17th century (Harrison 2004a) but some fundamental aspects remain poorly understood. This is particularly because it is difficult to observe cloud electrification processes in situ, which has led to a necessary emphasis on laboratory experiments. This laboratory emphasis makes it difficult to deduce the relative importance of different charge generation mechanisms in the real atmosphere. The charge generation mechanisms can be divided into inductive mechanisms (Mason 1971), in which a particle or droplet is polarised by an induced charge, and collisional mechanisms, in which charge is transferred by contact between particles.\nInductive charging was first suggested by Mason (1953). Mason (1988) shows that such a mechanism can generate a sufficient electric field to cause a lightning discharge within the typically observed timescales of ~10–20 min. Inductive charging requires a pre-existing electric field, such as the fair weather field, to polarise soft hail particles. The upper part of the hail carries a negative charge and the lower part a positive charge, and cloud droplets rising in the updraft collide with the lower positive parts of the particle, which then continue to rise carrying their positive charge upwards. Calculations (Mason 1988) show fields of about 400 kV m–1 produced in about 10 min, for a rainfall rate building up to 20 mm h–1. A deficiency is that this theory cannot account for soft hail observed to carry charges greater than those possible from background fields (Saunders 1988). Because a pre-existing atmospheric electric field is required, inductive charging is unlikely to be the only thunderstorm electrification process active.\nIn a thunderstorm, electrification arises from collisions between ascending ice crystals and descending soft hail pellets (graupel), with positive charge carried upwards on the ice crystals into the anvil, and negative charge carried downwards on the graupel. Charge transfer occurs when ice crystals and hail pellets collide in the presence of supercooled droplets, a process replicated in laboratory experiments (Jayaratne et al. 1983; Keith and Saunders 1990). The polarity and magnitude of the charge exchange has been found to vary in a complicated manner with the cloud liquid water content, particle size, impact parameters, and air temperature (McGorman and Rust 1998). For cloud water contents above about 1 g m–3, a polarity reversal temperature occurs in laboratory experiments below which graupel becomes negatively charged and above which graupel becomes positively charged. From this it is concluded that, at the low temperatures in the upper part of a thundercloud, graupel charges negatively, leaving positive charge on rising ice crystals. The net effect of very many such microphysical interactions is to produce a positive charge in the upper (anvil) regions, and negative charge in the lower part of the cloud. A small amount of positive charge near the cloud base may also be present. Figure 2 shows a schematic diagram of the charged regions present within a typical thundercloud."
+  }, {
+    "heading": "1.2.2 Lightning",
+    "text": "Charge separation in thunderclouds is balanced by charge dissipation resulting from the small finite conductivity of atmospheric air, discharge currents flowing beneath the cloud and neutralising collisions between the electrified particles present. In terms of the rates of charge generation and charge dissipation, a cloud can only become strongly electrified if the rate of charge generation is much greater than the rate of charge dissipation. When the rate of charge generation exceeds that of charge dissipation, the associated electric field will increase. This increase in field continues until the insulating properties of the atmospheric air breakdown and a lightning discharge occurs.\nLightning is a transient electric discharge with a typical path length of hundreds of metres to kilometres. Experiments show that lightning occurs at electric fields about an order of magnitude lower than would be expected if from breakdown of a bulk region of air. It occurs as a result of the growth of a leader from a region of high field strength, to a different region. This process occurs in steps, until a continuous route is established and a large current flows, although only transiently.\nLightning discharges may commonly be within a cloud (intracloud or IC lightning), cloud-to-cloud (intercloud) or from cloud to the Earth (cloud-to-ground or CG lightning). CG lightning is conventionally known as a negative discharge if it lowers negative charge to the ground, and positive if it lowers positive charge. Lightning produces several observable phenomena, including light, heat, thunder, and wide-band (<1 Hz to > 1 GHz) radio waves. CG lightning produces radio waves with higher amplitudes and lower frequencies than IC lightning (Uman 1987; McGorman and Rust 1998). IC lightning accounts for well over half of lightning that occurs in thunderstorms. Luminous discharges have also been observed above thunderstorms, bridging the region between the thundercloud and the conducting region in the lower part of the ionosphere (Pasko et al. 2002).\nAs well as its presence in thunderstorms and volcanic plumes, lightning has also been observed to occur in thermonuclear explosions1.\n1 http://www.pbs.org/wgbh/nova/sciencenow/3214/02-vari-08.html\n1.3 Global atmospheric electricity\nA terrestrial atmospheric electrical circuit results from the currents generated by thunderclouds and disturbed weather, which are balanced by small currents flowing through the fair weather atmosphere. The currents generated by thunderstorms and regions of disturbed weather pass to the conducting regions of the ionosphere, causing the ionosphere to acquire a large positive potential (~300 kV) with respect to the Earth’s surface. A small current flows from the ionosphere to the Earth’s surface in fair weather regions, which balances the charging process in disturbed weather regions. This continuous charge balance system is generally referred to as the global circuit (e.g., Rycroft et al. 2000). The conduction current in fair weather regions arises because atmospheric air is very slightly ionised, as a result of ion production by cosmic rays and natural radioactivity (Harrison and Carslaw 2003). Attachment of ions to particles and raindrops leads to electrification (see Sect. 3.1).\nSeveral quantities are useful for measuring the extent of local atmospheric electrification. The vertical component of the electric field is the quantity most commonly measured. This is the rate of change of potential vertically. A convention in atmospheric electricity is to refer to the electric field as the Potential Gradient (PG). In magnitude, the PG and the vertical electric field are equal. Unlike the expectation from conventional electrostatics however, the PG is positive in fair weather, i.e., the potential increases positively with height and, although the electric field is conventionally negative, the PG is positive.\nAt the microscopic level, the total amount of charge per unit volume is a useful quantity. This is also known as the space charge. In fair weather conditions, the space charge is typically of order 10–12 Coulombs per cubic metre, (pC m–3), but can be of order 10–9 Coulombs per cubic metre (nC m–3) in electrified clouds. The space charge is the product of the number of particles and the charge they carry, summed across all types and sizes of particles from ions to aerosol.\nAs well as the removal of ions by particles, recent work has linked the presence of ions in clean air with aerosol particle formation (Harrison and Carslaw 2003). Ion growth has been observed in air under different conditions (Vohra et al. 1969; Wilkening 1985; Eichkorn et al. 2002; Wilding and Harrison 2005), which can in turn influence cloud formation (Harrison and Stephenson 2006). The influence of ions on cloud processes has been the subject of recent research because the terrestrial surface energy balance, and with it the climate, could be highly sensitive to small electrically induced changes in cloud (Carslaw et al. 2002).\n1.4 Eruption classification\nThere are many different ways that volcanic eruptions can be classified, for example, by the composition of the material ejecta, eruption style, by the height of the eruption column, by the total volume or mass that the eruption produces or by the origin of the gases involved.\nThe composition of the material ejected is determined to a large extent by the composition of the magma driving the eruption. One way of classifying magma composition is by silica (SiO2) content. Partial melting of the Earth’s mantle yields magma of about 45–55% silica known as basalt. As it travels through the Earth’s crust, this basalt might evolve into magmas with higher silica contents. Magmas with silica contents of about 55–63% silica are known as andesites, those of about 64–70%\nsilica, dacites and those of about > 70% silica are known as rhyolites. These compositional differences between magmas have important consequences for eruption style and volcanic hazard assessment. One way in which explosive volcanism can be driven is by gases dissolved in a magma being unable to escape as the magma comes to the surface. Silica-rich magmas tend to produce more explosive eruptions as they are both more viscous (SiO2 tends to polymerise reducing the ease with which a magma can flow) and may have larger weight percentages of some dissolved volatiles (gases such as H2O and CO2).\nEruptive styles strongly relate to the composition of the magma involved. Basaltic magmas, characterised by their low viscosities and volatile contents (such as those of Hawaii) tend to erupt in fire-fountains producing relatively low eruption columns or display non-explosive (often known as effusive) behaviour such as lava lakes or lava flows. Intermittent, discrete explosive gas bursts which break the surface of a lava lake or lava pond in a conduit, ejecting material a few tens or hundreds of metres into the air, is known as strombolian behaviour as it is characteristic of the Italian volcano Stromboli. This type of behaviour is also usually associated with basaltic systems. More explosive eruptions, characteristic of more silica-rich magmas, with higher eruption columns (sometimes reaching 10 km) but still of small magnitude (erupted volume <1 km3) are known as vulcanian eruptions after Vulcano, Italy. If column heights and eruptive volumes become larger, volcanoes are classed as subplinian or plinian after Pliny’s famous account of the 79 A.D. eruption of Mount Vesuvius (see Francis 1993 for more details).\nThe volatiles involved with volcanic eruptions do not always come from the magma itself. Water can interact with hot volcanic materials in a number of ways: (i) when a vent opens up underwater, (ii) when a volcanic vent intersects an aquifer, or (iii) when a lava or pyroclastic flow moves over water or a water saturated surface. Interactions between water and magma can greatly increase the explosivity of the eruption, with these highly explosive eruptions known as phreatomagmatic eruptions.\nThe most widely used index of volcanic eruption size is the ‘volcanic explosivity index’ (or VEI) of Newhall and Self (1982). This is a semi-quantitative logarithmic scale of eruption size based on a combination of the volume of erupted material (magnitude) and the plume height (related to intensity) as well as other factors. For example a VEI 4 eruption is defined to have a bulk volume of 0.1–1 km3 of tephra and a column height of between 10 km and 25 km. An underlying assumption in defining the VEI is that the magnitude and intensity of eruptions are related in some way. For many eruptions this may not be the case. Also, the VEI does not take the density of the volcanic material ejected or the deposit produced into account. Therefore, eruptions have also been described using separate magnitude and intensity scales with the magnitude scale based on mass erupted rather than volume (Pyle 1995, 2000).\nVolcanic eruptions have long been implicated in global effects on weather and climate (e.g., Robock 2000). The effect of a particular volcanic eruption on climate is most directly related to the sulphur content of emissions that reach into the stratosphere. Sulphur gases oxidise in the stratosphere to form sulphate aerosols that interact with incoming solar radiation increasing the Earth’s albedo and reducing the direct and the total radiation reaching the ground. The global extent of the stratospheric aerosol veil that results from an eruption will depend on the latitude of the injection (with tropical eruptions more likely to affect both hemispheres) as well as\nthe mass of sulphur released and height of the eruption column. The VEI is primarily based on volcanological data and, while ‘stratospheric injection’ is mentioned low down in the list of criteria, it is not always useful as an index of the effect of volcanic eruptions on climate. Various other indices, including the Dust Veil Index (Lamb 1970), have been proposed which attempt to align more closely with the physical parameters of a volcanic eruptions which can lead to global climatic effects (see Robock and Free 1995 and Robock 2000 for a summary).\n1.5 Historical accounts\nThe oldest and most famous account of a volcanic eruption is probably that of Pliny the Younger (Sect. 1.4). Pliny described the 79 A.D. eruption of Mount Vesuvius, in letters to the Roman historian Tactitus shortly afterwards. Pliny comes close to recording volcanic lightning in the following excerpt (translated in 1747):\n‘a black and dreadful cloud bursting out in gusts of igneous serpentine vapour now and again yawned open to reveal long fantastic flames, resembling flashes of lightning but much larger.’\nAtmospheric electrical activity is a phenomenon long associated with large-scale eruptions by observers. For example, lightning was recorded at the 1650 eruption just off Santorini in Greece (Fouqué 1879). Perhaps some of the most graphic historical descriptions come from the eye-witness accounts of the splendour of the electrical phenomenon coinciding with the paroxysmal stage of the 1883 eruption of Krakatoa in Indonesia (Symons 1888). On the afternoon of the 26th August Captain Woolridge of the Sir R. Sale, which was about 40 miles from the volcano, speaks of the great vapour cloud resembling\n‘an immense wall with bursts of forked lightning at times like large serpents rushing through the air.’\nHe describes the sky at sunset above the volcano as presenting\n‘a most terrible appearance, the dense mass of clouds being covered with a murky tinge, with fierce flashes of lightning.’\nLater that day, although the volcanic cloud had rendered it intensely dark, at 7 pm the whole scene was illuminated from time to time by the electrical discharges. Woolridge recorded that the cloud above Krakatoa presented\n‘the appearance of an immense pine-tree, with the stem and branches formed with volcanic lightning.’\nOn the Governeur Generaal Loudon, 40 or 50 miles northwest of the volcano, lightning was recorded to strike the mainmast conductor five or six times (Symons 1888).\nLightning has been observed in eruption plumes of various types and sizes, although it is particularly common during larger eruptions (Table 1 adapted from McNutt and Davis 2000). This suggests that while the size or intensity of an eruption might play a role in producing volcanic lightning (in that the eruption must be explosive enough to produce significant ash and perhaps be energetic enough to charge it, see Sect. 3.3), magma composition is unlikely to be a crucial factor.\nTable 1 Occurrences of lightning recorded in the literature (adapted from McNutt and Davis 2000)\nVolcano Dates Magma compositionc\nVEIb Comment References\nAkutan 10 April 1992 2 – a Aniakchak 1 May 1931 3 – b Arenal 29 July 1968 Andesite 3 – c Asama 1783 Andesite 4 – d Aso 13 June–6 Sept 1979 2 7 occasions e Augustine 23 Jan 1976 Andesite 4 – f Bezymianny 31 March 1956 Andesite – g Bulusan 15 April 1981 3 – e Cerro Negro 1971 Basalt 3 – h, i Chikurachki 19–20 Nov 1986 4 2 occasions j, k El Chichon 4 April 1982 Andesite 5 – l Etna 1819 Basalt 3 – d, e\n3–4 August 1979 2 – 16–17 April 1980 3 –\nFernandina 11 June 1968 Basalt 4 2 occasions e, m 8 August 1978 2 Fuego 16 Sept 1978 Basalt 2 occasions e 22 March 1979 Galeras 7 June 1993 Andesite 2 – n Galunggung August–3 Dec 1982 Basalt to basaltic-\nandesite 4 6 occasions d, e, o, p\nGorelya 1980–81 or 1984–86 Basalt to basalticandesite 3 – q Grı́msvötn 1996 Basalt 3 – r, s 1998 3 2004 Heimaey 1973 Basalt – t Hekla 2000 Basaltic-andesite – s Hibok-Hibok 1951 3 – u Hudson 8–12 August 1991 5 2 occasions v Karymsky 3–6 Dec 1976 Andesite 3 – w, x 13 Oct 1996 3 Katla 1755 Basalt 4 – y, z 1918 4 Kilauea 1924 Basalt 2 – aa Komagatake 17 June 1929 4 – ab Krakatau 1883 Rhyodacite 6 6 occasions e, ac,\n10 July 1978 1 ad, ae, 2–5 Oct 1978 1 af, ag 14 Sept 1979 2 20 Oct 1981 1 17 May 1997 2\nLangila 12 Nov, 26 Dec 1982 3 2 occasions e Manam 27 March 1982,\n30 June 1987, 1992 Basalt to andesite 3 – e, ah\nMayon 24 Sept 1984 Andesite 3 – e Montserrat 1995? Andesite 3 – ai Mt St Helens 18 May 1980 Dacite 5 2 occasions e, aj Late July 1983 Ngauruhoe 29 March 1974 Andesite – ak Pacaya 1973 Basalt 3 – al Parı́cutin 1943–1952 Andesite 4 – am,an,ao\nTable 1 continued\nVolcano Dates Magma compositionc\nVEIb Comment References\nPavlof 4 Nov 1996 Basalticandesite\n2 – ap\nPelee 9 July 1902 Andesite 4 – aq Rabaul 19 Sept 1994 4 Both Vulcan\nand Tavurur ar\n29–30 May 1937 (Vulcan)\n4 as, at\nRedoubt 15 Feb–15 April 1990 Andesite 3 11 occasions au Ruapehu 1945 Andesite 3 2 occasions av, aw, ax 11 Oct 1995 3 Ruiz 11 Sept 1985 3 – e Sakurajima 1914 Andesite 4 13 occasions e, ay, az,\n6 Dec 1976, 24 Nov–26 Dec 1979, 17 Feb 1988, 18 May 1991\n3 ba, i\nSanta Maria 24–26 Oct 1902 Dacite 6 – bb Santorini 1650 – bc Shivelucha 1964 Andesite 4 – bd Soputan 26 August, 9 Nov 1982 3 2 occasions e Soufriere,\nSt Vincent 1979 Basalticandesite 3 – be\nSpurr 9 July 1953 Basalticandesite 4 4 occasions bf, bg, bh, bi1992 4 Stromboli 1907 Basalt bj Surtsey Nov 1963, Feb 1964 Basalt 2 occasions bk Taal 1911 4 4 occasions e, bl, bm\n1965 4 6 Sept, 10 Oct 1976 2\nTarawera 1886 Basalt – bn Tokachi 1926 3 3 occasions bo, bp\n29 June 1962 3 24 Dec 1988 2\nTolbachik (new)\n1976? 4 – q\nUlawun 6–7 Oct 1980 Dacite 3 – e Usu 7 August 1977,\n24 August 1978, 13 Sept 1978\n3 – e, bq\nVesuvius 79 AD Andesite 5 8 occasions d, ae, ad, 1660 br , bs 1707 bt 1767 3 1779 3 Oct 1822 1906 4 March 1944 3 Westdahl 6 Feb 1978 3 – e\na Probably lightning (strong atmospheric electricity) b The values for VEI are taken from the Smithsonian catalogue of volcanic eruptions (Simkin and Siebert 1994). These values are for the whole eruption and not for the day on which the lightning was observed. They are intended only to give an idea of the degree of explosivity of the eruption c A guide based on the general composition of volcanic products from this volcano rather than necessarily the results of ash studies. Many compositions come from Scaillet et al. (2003). See Sect. 1.4 of the text for definitions\nObservations made during the eruption of Parı́cutin (1943–1952), Mexico highlight some of the characteristics of volcanic lightning. Although the composition of the ejecta changed progressively during the course of the eruption from basaltic andesite (55 wt% SiO2) in 1943 to andesite (>60 wt% SiO2) in 1952 (Luhr and Simkin 1993), lightning was reported throughout the eruption. However, it was not a constant phenomenon. Lightning associated with the eruption column occurred on some days but not others, with Fries and Gutiérrez (1950) recording that electric discharges occurred on 2 days in July, 3 days in August, 3 days in September, 1 day in October and 3 days in December in 1949. Electrical discharges were observed to be associated with more ash-rich plumes and increased intensity. Forshag and González-Reyna (1956) observed that lightning on 27th May 1945 was only associated with occasional ash-rich plumes, but none was seen in the steam column. Electrical discharges within the column appear to have been more common although those from the column to the rim of the cone were also recorded (Fries and Gutiérrez 1950).\n1.6 Volcanic lightning in primitive atmospheres\nThere is much uncertainty about the exact composition of the Earth’s atmosphere in the Hadean, 4.5–3.8 Ga (billion years ago), and Archean, 3.8–2.5 Ga. A combination of climate modelling with a fainter young Sun, atmospheric chemistry modelling and evidence from paleosols (ancient or fossil soils) suggest that it was a mixture of N2, CO2 and CH4 (Kasting and Catling 2003). Concentrations of atmospheric oxygen are thought to have dramatically increased between 2.2 Ga and 2.4 Ga although the exact trigger for this increase remains hotly debated (Kasting 2001). Fossil evidence shows the existence of tropical lightning 250 Ma (million years ago), but it is unclear how the flash rate varied in this or earlier atmospheres (Harland and Hacker 1966). Meteoritic evidence for cosmic rays within the solar system (Shaviv 2002) suggests the presence of charge carriers in primitive atmospheres, and therefore a finite atmospheric conductivity. For volcanic lightning to occur in the primitive atmosphere, the charge generation rate within the plume would have to be greater than\nTable 1 continued\na, J. Paskievitch pers. comm. (1992); b, Volcano Quarterly (1993); c, W. Melson pers. comm. (1994); d, Krafft (1993); e, McClelland et al. (1989); f, Kienle and Swanson (1985); g, Gorshkov (1959); h, Viramonte et al. (1971); i, Fisher et al. (1997) (photo by J. Viramonte); j, GVN (1986); k, BVE (1989); l, Havskov et al. (1983); m, Simkin and Howard (1970); n, GVN (1993); o, Katili and Sudradjat (1984); p, Gourgaud et al. (1989); q, Fedotov and Masurenkov (1991); r, Benediktsson (1996) (video); s, Arason (2005a, b); t, Brook et al. (1973); u, Alcaraz (1989); v, GVN (1991); w, Rulenko (1981); x, AVO Bimonthly (1996); y, Anon. (1863), in Pounder (1980); z, Larsen (2000); aa, National Park Service display; ab, Poster Display (1995), video; ac, Symons (1888); ad, Lane (1966); ae, Francis (1976); af, Simkin and Fiske (1983); ag, M. Lyvers pers. commun. (1997); ah, GVN (1982, 1987, 1992); ai, ‘World’s Deadliest Volcanoes’ (video); aj, Cobb (1980); ak, Nairn et al. (1976); al, W.C. Buell photo; am, Green (1944); an, Gutierrez (1972); ao, Luhr and Simkin (1993); ap, J. Painter pers. commun. (1997); aq, Anderson and Flett (1903); ar, GVN (1994a, b, c, 1995a, b, d, 1996, 1997, 1998); as, Johnson and Threlfall (1985); at, McKee et al. (1985); au, Hoblitt (1994); av, Blong (1984); aw, GVN (1995c); ax, Schneider (1995); ay, Abe (1979); az, Newcott and Menzel (1993); ba, Ryan (1994) (photo by T. Takayama); bb, Sapper (1905); bc, Fouqué (1879); bd, Gorshkov and Dubik (1970); be, Sheppard et al. (1979); bf, Juhle and Coulter (1955); bg, Wilcox (1959); bh, Davis and McNutt (1993); bi, Paskievitch et al. (1995); bj, Perret (1924); bk, Anderson et al. (1965); bl, Pratt (1911); bm, Carroll and Parco (1966); bn, Pond and Smith (1886); bo, H. Okada pers. comm. (1995); bp, Katsui et al. (1990); bq, Niida et al. (1980); br, Jaggar (1906); bs, Martino Museum (painting), Goldsmith (1852); bt, Shore (1975)\nthe charge dissipation rate from the finite atmospheric conductivity, as for the contemporary terrestrial atmosphere.\nVolcanism on the early Earth has been suggested to be more intense and more explosive due to higher mantle temperatures and higher volatile contents in the magma generated (e.g., Richter 1985). The temperatures of the magma involved were also probably higher (e.g., komatiite lavas at temperatures of > 1700 C, Nisbet et al. 1993). In addition to classic mantle-derived volcanism, there was an additional type of volcanism (e.g., French 1970) due to impacts from space bodies during the late heavy bombardment (4–3.8 Ga). Consequently it has been estimated that volcanic lightning might have been more prevalent in the early Earth (NavarroGonzález et al. 1998).\nVolcanic lightning has been proposed to have contributed to the development of life on Earth in a number of ways. The sudden discharge of electrical energy along a lightning channel produces a plasma thermally equilibrated at temperatures >104 K which then propagates outwards in a cylindrical shock wave, cooling by expansion, radiative heat loss and entrainment of the surrounding gas. This rapid heating followed by rapid cooling means that the gas mixture thermodynamically equilibrates at a temperature very much greater than the ambient atmosphere generating elevated levels of some chemical species of atmospheric or biological importance. The intense ultraviolet light emitted by the lightning flash can also generate additional species by photolysis, however this effect is thought to be less important than the species generated by the intense heat within the lightning channel (Navarro-González and Segura 2001).\nIn 1953 Miller set out to test the hypothesis that the building blocks of life were formed when the Earth had an atmosphere of methane, ammonia, water and hydrogen. An electrical discharge was passed through mixture of these gases for a week and was found to produce aspartic acid, glycine, a-alanine, b-alanine and a amino-m-butyric acid (Miller 1953). Many similar experiments have been done since then using different gas mixtures and energy sources. The main conclusions from such studies are that (1) a reduced atmosphere is required to synthesise organic compounds and (2) electric discharges are among the most efficient energy sources for the synthesis of organic matter (Navarro-González et al. 1996). Given the uncertainty of the composition of the early atmosphere and geological evidence that it was composed mainly of CO2, N2 and H2O it seems unlikely that the key molecules relevant for the origins of life (e.g., HCN and HCHO) were synthesised by normal lightning in the atmosphere. In a volcanic plume, the atmospheric composition is significantly modified by the presence of magmatic gases. Evidence suggests that the mantle oxidation state (and thus the assumed oxidation state of volcanic gases) has not changed over time (Canil 1997) and presentday gas emissions from volcanoes can contain significant levels of reduced gases such as CH4 and NH3, so lightning in volcanic plumes may be more likely to have played a role in synthesising molecules relevant for the origins of life than lightning in the atmosphere as a whole (reviewed in Navarro-González et al. 1996).\nNavarro-González et al. (1998) examined volcanic lightning as a mechanism to fix nitrogen on the early Earth. Nitrogen is an essential constituent of life but its dominant form in the environment of the early Earth was as inert N2 in the atmosphere. To be involved with the biological reactions or those reactions leading to life, it must first be ‘fixed’ in a more reactive form. Navarro-González et al. (1998) excited mixtures of Archean magmatic gas composition (assumed to be similar to\nthat from Hawaii today), diluted by water or Archean atmosphere (assumed as 80% CO2 and 20% N2), using a microwave cavity and measured the products. These experiments strongly suggest that volcanic lightning was one of the major sources of fixed nitrogen on the early Earth.\nGlindemann et al. (1999) and De Graaf and Schwartz (2000) studied phosphorus reduction by volcanic lightning. Phosphorus is again a necessary component of life. It occurs naturally as apatite (Ca5(PO4)3(OH, F, Cl)), an insoluble mineral and in order to be available to the biological reactions or those reactions leading to life it must be reduced to hydrophosphites or phosphites. Experiments showed that lightning in volcanic plumes containing minerals such as fluorapatite could yield significant phosphite (see Navarro-González and Segura 2001 for a summary) although the fraction converted varied significantly with the starting material and the composition of the gas mixture (with more phosphite production occurring in more reduced atmospheres).\nExperiments have also been carried out on the effects on volcanic lightning on primitive Martian atmospheres (Navarro-González and Basiuk 1998; Segura and Navarro-González 2001, 2005). It has been estimated that Martian volcanism was present from 4 Ga for about 3 billion years (Greeley and Spudis 1981; MouginisMark et al. 1992). The lower atmospheric pressure than Earth and interactions with underground or surface water (such an interaction was highly probable in early Mars because groundwater is thought to have been an important part of the upper crust, Wilson and Head 1994; Boynton et al. 2002), suggest that Martian volcanism might have been explosive in nature with high column heights (see also Sect. 2.5). The chemical composition of the simulated volcanic gases was based on the thermodynamic model for planetary accretion developed by Kuramoto and Matsui (1996) and applied to Mars by Kuramoto (1997). These give a more reduced volcanic gas composition than for the Earth (due to the presence of metallic Fe in Mars’ upper mantle), containing more CH4 and H2. The Martian atmosphere is assumed to be 80% CO2 and 20% N2. These experiments show that volcanic lightning might have been a significant source of fixed nitrogen and key molecules relevant for the origins of life (because HCN is produced) on early Mars also (Navarro-González and Basiuk 1998; Segura and Navarro-González 2001, 2005)."
+  }, {
+    "heading": "2 Observations",
+    "text": "Electric field and potential gradient measurements of thunderclouds and the fair weather atmosphere have been made by launching instrumented rockets (e.g., Winn and Moore 1971), balloons and kites into clouds, as well as through recording the simultaneous surface changes in electric fields and radio waves. In situ measurement of charge carriers can also be made. This section discusses some such measurement techniques and their application to volcanic plumes.\n2.1 Surface electric fields\nAt the Earth’s surface in clean air away from any charge separation processes, there is an increase in electric potential positively with height, arising from the fair weather electric field. This electric field is conventionally referred to as the fair weather atmospheric potential gradient, which is typically 120 V m–1 near to the\nsurface. The potential gradient (PG) results from the positive potential of the ionosphere achieved with respect to the surface, which is sustained by the electrification of clouds in disturbed weather and current flow within the global atmospheric electrical circuit. The PG is sensitive to local aerosol: high aerosol or smoke concentrations reduce the electrical conductivity of air, increasing the PG (e.g., Harrison and Aplin 2002; Harrison 2006). If the aerosol is charged, as can be the case for radioactive aerosol or volcanic aerosol, the PG may be more substantially affected. This provides one basis for the detection of charged volcanic plumes.\nThe PG can be measured with electrostatic sensors, or electrometer voltmeters. Electrostatic sensors based on measuring the induced charge in a conductor, under a rotating shutter are known as field mills (Chalmers 1967; Chubb 1990). These have rapid time response ( > 1 Hz sampling), but ultimately suffer wear due to moving parts and, if not carefully protected, exposed electrode surfaces may slowly deteriorate under atmospheric conditions. Electrometer voltmeter sensors require a suitable potential probe (or collector) (Isräel 1970, 1973) connected to an ultra-high impedance electrometer (Harrison 2002). A collector acquires the local atmospheric potential: collectors used have included radioactive sources, flame probes, water droppers and long wire antennae (Crozier 1963; Chalmers 1967).\nConducting material, such as metal masts and equipment enclosures distort the electric field. Absolute calibration of an electric field sensor is therefore usually carried out in situ, against a measurement taken in an area with an undisturbed electric field. For this, a long horizontal wire antenna, connected to a high impedance voltmeter, is particularly well suited (Harrison 1997; Bennett and Harrison 2006). If the antenna is many times longer than the height at which it is operated, there is little distortion of the atmospheric electric field, and the potential it measures, when divided by the height at which it is operating, provides a reference value of the electric field. The long wire antenna requires vertical atmospheric mixing to operate satisfactorily (Harrison 2004b), and is therefore not suited to continuous monitoring.\n2.2 Charged particle measurements"
+  }, {
+    "heading": "2.2.1 Remote electric field measurements",
+    "text": "The influence of charged particles on the surface electric field provides the basis for detection of electrified plumes or clouds. If the cloud or plume contains charged particles, the change in surface PG depends on the charge distribution, and the distance between the plume and the surface sensor.\nA simple case is a dipole, i.e., a cloud or plume in which one polarity of charge is present vertically separated from a region containing particles carrying the opposite charge. Figure 3 shows an example, for two charges +Q and – Q positioned vertically above each other at heights a and b, respectively, above the surface, at a distance x from a sensor S measuring a fair weather atmospheric electric field EFW. The electric field from the plume containing the charge dipole, Ep at S is given by\nEp ¼ Qa 4pe0 x2 þ a2ð Þ3=2 Qb 4pe0 x2 þ b2ð Þ3=2 ð1Þ\nFor the charge due to the dipole to be detectable, Ep will typically need to be comparable with EFW, or at least larger than its typical fluctuations at a particular site. It is clear from Eq. 1 that the field change will depend on the amount of charge, its separation distance, and the distance between the sensor and the dipole. If a dipole containing ± 1 mC of charge at 800 and 600 m passes directly above a sensor S, the field resulting will be ~40 V m–1. For a smaller charge of ± 1 lC, the charges would need to be, e.g., at 100 and 15 m to produce the same field. Because the combination of separations and charge is not uniquely determined by the surface field, additional information, such as the observed height of the cloud or plume is required if the charge contained is to be inferred.\nFigure 4 shows the change in electric field observed at the surface as a charged cloud passed near to a PG sensor. Meteorological information was used to estimate\nthe upper and lower boundaries of the cloud, and the approximate positions of the upper and lower charges in the dipole. The dipole model, with estimated wind speed information, provides a close fit to the PG changes observed as the cloud approached and caused a fluctuation in EFW.\nIf only a single region of charge Q is present at a height a, Eq. 1 can be simplified to\nEp ¼ 2Qa\n4pe0 x2 þ a2ð Þ3=2 ð2Þ\nin which the numerator factor 2 accounts for an image charge induced below the surface."
+  }, {
+    "heading": "2.2.2 In situ charge measurement",
+    "text": "Measurements of charged particles in the atmosphere can be made from aircraft or from balloon-carried sensors. A further opportunity for charge measurement is through capture of particles at the surface following gravitational settling or precipitation, but this can be less satisfactory as, depending on the timescale of the vertical transport, the charge may be modified.\n2.3 Remote lightning detection\nLightning can be detected remotely by different techniques. Using the radio waves emitted by a lightning discharge received by several stations, it is possible to locate the origin of the discharge. Radio waves for this purpose tend to be at very low frequency (~10 kHz), but VHF (~100 MHz) is also used (e.g., Hamer 1996; McGorman and Rust 1998). Lightning can also be detected from orbiting satellite platforms, using signal processing to enhance the visible transient (e.g., Christian 1999).\n2.4 Measurements at volcanic plumes\nOnly a small number of studies have been made of the electric potential gradients, charges on particles and lightning associated with volcanic plumes."
+  }, {
+    "heading": "2.4.1 Remote electric field measurements under volcanic plumes",
+    "text": "Table 2 summarises the previous measurements of PG perturbations associated with volcanic plumes and the polarity of these perturbations. The variation of these polarities is discussed further in Sect. 3.3. Both electrometer voltmeters (Anderson et al. 1965) and electrostatic sensors (Lane and Gilbert 1992; James et al. 1998; Miura et al. 2002) have been used in volcanic contexts and the PGs measured show large variations of up to tens of kV m–1."
+  }, {
+    "heading": "2.4.2 In situ volcanic plume charge measurement",
+    "text": "Previous measurements of the charged particles in volcanic plumes have been limited to measurements on those particles that settle out to the ground. Gilbert et al.\nT ab\nle 2\nS u\nm m\na ry\no f\na tm\no sp\nh e\nri c\np o\nte n\nti a\nl g\nra d\nie n\nt (P\nG )\nm e\na su\nre m\ne n\nts a\nt v\no lc\na n\no e\ns. A\nd a\np te\nd fr\no m\nM iu\nra e\nt a\nl. (2\n0 02\n)\nV o\nlc an\nic p\nlu m\ne D\na te\nN u\nm b\ne r\no f\nm e\na su\nre m\ne n t lo ca ti o n s\nL o\nca ti\no n ’s d is ta n ce\nfr o\nm th e v e n t (k m )\nT yp\ne o f p o te n ti\na l\ng ra\nd ie\nn t\np e\nrt u\nrb a\nti o\nn a\nE ru\np ti\no n\nst y\nle P\nlu m e h e ig h t (k m )\nR e\nfe re\nn ce\ns\nL o\nn g\nd is\nta n\nce Y\na k\ney a\nm a\n5 F\ne b\n1 9\n4 9\n1 2\n0 0\n– P\nh re\na ti\nc e\nx p\nlo si\no n\n4 a\nA sa\nm a\n2 A\nu gu\nst 1\n9 4\n1 1\n0 b\n4 0\n– 6\n0 –\nV u\nlc a\nn ia\nn e\nru p\nti o\nn <\n9 b\n5 D\ne c\n1 9\n4 1\n1 5\n0 –\nV u\nlc a\nn ia\nn e\nru p\nti o\nn U\nn k\nn o\nw n c 1 7 D e c 1 9 4 1 1 5 0 – V u lc a n ia n e ru p ti o n U n k n o w n c 6 Ja n 1 9 4 2 1 5 0 – V u lc a n ia n e ru p ti o n U n k n o w n c 8 Ja n 1 9 4 2 1 5 0 – V u lc a n ia n e ru p ti o n U n k n o w n c 1 4 Ja n 1 9 4 2 1 5 0 – V u lc a n ia n e ru p ti o n U n k n o w n c 1 7 Ja n 1 9 4 2 1 5 0 – V u lc a n ia n e ru p ti o n U n k n o w n c 1 8 Ja n 1 9 4 2 1 5 0 – V u lc a n ia n e ru p ti o n U n k n o w n c 2 7 Ja n 1 9 4 2 1 5 0 – V u lc a n ia n e ru p ti o n U n k n o w n d 1 0 F e b 1 9 4 2 1 5 0 – V u lc a n ia n e ru p ti o n U n k n o w n d 1 9 F e b 1 9 4 2 1 5 0 – V u lc a n ia n e ru p ti o n U n k n o w n d 1 7 M a y 1 9 4 2 1 5 0 – V u lc a n ia n e ru p ti o n U n k n o w n d 9 Ju n e 1 9 4 2 1 5 0 – V u lc a n ia n e ru p ti o n U n k n o w n d 1 4 A u gu st 1 9 4 4 1 1 0 – V u lc a n ia n e ru p ti o n > 0 .7 e 1 4 A u gu st 1 9 4 4 1 1 0 – V u lc a n ia n e ru p ti o n U n k n o w n e 2 1 S e p t 1 9 4 4 1 1 0 – V u lc a n ia n e ru p ti o n U n k n o w n e 2 1 S e p t 1 9 4 4 1 1 0 – V u lc a n ia n e ru p ti o n U n k n o w n e\nS h\no rt\nd is\nta n\nce S\nu rt\nse y\n1 6\nF e\nb 1\n9 6\n4 1\n< 1\n+ P\nh re\na to\nm a\ng m\nat ic\ne ru\np ti\no n\nU n\nk n\no w\nn f\n2 2\nM a\nrc h\n1 9\n6 4\n1 <\n2 –\nP h\nre a\nto m\na g\nm at\nic e\nru p\nti o\nn U\nn k\nn o\nw n f 2 2 M a rc h 1 9 6 4 1 < 3 – P h re a to m a g m at ic e ru p ti o n U n k n o w n f\nA so\n1 7\nF e\nb 1\n9 5\n0 1\n0 .4\n– U\nn k\nn o\nw n\n0 .1\n–0 .2 g 1 7 F e b 1 9 5 0 1 0 .9 + U n k n o w n 0 .1 –0 .2 g 1 5 O ct 1 9 7 4 1 7 – C o n ti n u o u s p lu m e < 1 h 1 6 O ct 1 9 7 4 1 7 – C o n ti n u o u s p lu m e < 1 h 1 7 O ct 1 9 7 4 1 7 – C o n ti n u o u s p lu m e < 1 h 1 7 O ct 1 9 7 4 C a r 7 – C o n ti n u o u s p lu m e < 1 h 2 1 O ct 1 9 7 4 1 7 – 1 0 – C o n ti n u o u s p lu m e 1 h 2 5 O ct 1 9 7 4 C a r 6 – 1 3 + E x p lo si o n p lu m e 1 h\nU su\n1 3\n– 14\nA u\ngu st\n1 9\n7 7\n1 5\n– S\nm al\nlsc\na le\nP li\nn ia\nn e\nru p\nti o\nn 3\n– 4\ni\nT a b le\n2 co\nn ti\nn u\ne d V o\nlc an\nic p\nlu m\ne D\na te\nN u\nm b\ne r\no f\nm e\na su\nre m\ne n t lo ca ti o n s\nL o\nca ti\no n ’s d is ta n ce\nfr o\nm th e v e n t (k m )\nT yp\ne o f p o te n ti\na l\ng ra\nd ie\nn t\np e\nrt u\nrb a\nti o\nn a\nE ru\np ti\no n\nst y\nle P\nlu m e h e ig h t (k m )\nR e\nfe re\nn ce\ns\nS a\nk u\nra ji\nm a\n2 5\nM a\nrc h\n1 9\n9 1\n1 3\n.5 –\nS m\nal l-\nsc a\nle V\nu lc\nan ia\nn e\nru p\nti o\nn 0\n.5 j\n2 7\nA p\nri l\n1 9\n9 1\n1 2\n.2 5\n+ /\n– S\nm al\nlsc\na le\nV u\nlc an\nia n\ne ru\np ti\no n\n0 .3 j 3 0 A p ri l 1 9 9 1 1 2 + / – S m al lsc a le V u lc an ia n e ru p ti o n 1 .5 j 3 0 A p ri l 1 9 9 1 1 2 N o p e rt u rb a ti o n S m al lsc a le V u lc an ia n e ru p ti o n 1 .5 j 3 M a y 1 9 9 1 1 3 + / – S m al lsc a le V u lc an ia n e ru p ti o n 2 .5 j 2 7 D e c 1 9 9 3 4 c 2 – 4 + S m al lsc a le V u lc an ia n e ru p ti o n 1 .5 k 1 0 N o v 1 9 9 6 4 2 – 5 – S m al lsc a le V u lc an ia n e ru p ti o n 1 l 1 4 N o v 1 9 9 6 4 2 – 6 – S m al lsc a le V u lc an ia n e ru p ti o n 2 .7 l\nU n\nze n\n2 5\nS e\np t\n1 9\n9 3\n2 4\n+ a\nn d\n– A\nsh cl\no u\nd fr\no m\np y\nro cl\na st\nic fl\no w\n3 .5 m 2 5 S e p t 1 9 9 3 2 4 + a n d – A sh cl o u d fr o m p y ro cl a st ic fl o w 3 .5 m\nS a\nk u\nra ji\nm a\n1 A\np ri\nl 1\n9 9\n1 1\n5 .3\n+ S\nm al\nlsc\na le\nV u\nlc an\nia n\ne ru\np ti\no n\n< 2\n.5 n\n2 A\np ri\nl 1\n9 9\n1 1\n2 .7\n– S\nm al\nlsc\na le\nV u\nlc an\nia n\ne ru\np ti\no n\n< 2\n.0 n\n6 A\np ri\nl 1\n9 9\n1 1\n5 +\nS m\nal l-\nsc a\nle V\nu lc\nan ia\nn e\nru p\nti o\nn <\n2 .0 n 2 4 A u gu st 1 9 9 4 4 4 .2 –5 .0 + / – S m al lsc a le V u lc an ia n e ru p ti o n < 1 .5 n 2 5 A u gu st 1 9 9 4 4 2 .3 –5 .0 – S m al lsc a le V u lc an ia n e ru p ti o n 2 .0 –3 .0 n 2 8 A u gu st 1 9 9 4 4 2 .3 – S m al lsc a le V u lc an ia n e ru p ti o n U n k n o w n n 2 9 A u gu st 1 9 9 4 3 2 .0 –2 .3 + / – S m al lsc a le V u lc an ia n e ru p ti o n U n k n o w n n 3 O ct 1 9 9 4 2 2 .3 –2 .7 + / – S m al lsc a le V u lc an ia n e ru p ti o n 2 .0 –2 .5 n 3 N o v 1 9 9 4 2 2 .3 –2 .7 – S m al lsc a le V u lc an ia n e ru p ti o n < 1 .5 n 2 8 O ct 1 9 9 5 4 2 .3 –2 .7 – S m al lsc a le V u lc an ia n e ru p ti o n 1 .5 –3 .0 n 2 9 O ct 1 9 9 5 5 2 .3 –5 .0 + / – S m al lsc a le V u lc an ia n e ru p ti o n 1 .5 –3 .0 n 3 0 O ct 1 9 9 5 5 2 .3 –2 .7 – S m al lsc a le V u lc an ia n e ru p ti o n < 2 .0 n 8 N o v 1 9 9 5 3 2 .7 – S m al lsc a le V u lc an ia n e ru p ti o n 1 .0 –1 .5 n 9 N o v 1 9 9 5 3 2 .7 – S m al lsc a le V u lc an ia n e ru p ti o n 1 .0 –1 .5 n\na –\n: m\na in\nly n\ne ga\nti v\ne p\ne rt\nu rb\na ti\no n\ns, +\n: m\na in\nly p\no si\nti v\ne p\ne rt\nu rb\na ti\no n\ns, +\n/ –\n: th\ne m\na g\nn it\nu d\ne o\nf th\ne p\no si\nti v\ne a\nn d\nn e\nga ti\nv e\np e\nrt u\nrb a\nti o\nn s\nw a\ns n\ne a\nrl y\ne q\nu a l b A sh cl o u d w a s n o t v is ib le b e ca u se o f fo g a n d cl o u d s c P e rt u rb a ti o n s o f th e e le ct ri c p o te n ti a l w e re sm a ll a t th re e o f th e fo u r lo ca ti o n s a , H a ta k e y a m a (1 9 49 ); b , H a ta k e y a m a (1 9 43 ); c, H a ta k e y a m a a n d K u b o (1 9 4 3 a ); d , H a ta k e y am a a n d K u b o (1 9 4 3 b ); e , H a ta k e y a m a a n d Is h ik a w a\n(1 9\n46 ); f, A n d e rs o n e t a l. (1 9 65 ); g , H a ta k e y a m a a n d U ch ik a w a (1 9 50 ); h , T an a k a (1 9 75 ); i, K ik u ch i e t a l. (1 9 7 8 ); j, L a n e a n d G il b e rt (1 9 92 ); k , L an e e t a l. (1 9 9 5 ); l, Ja m e s e t a l. (1 9 9 8 ); m , M iu ra e t a l. (1 9 96 ); n , M iu ra e t a l. (2 0 0 2 )\n(1991) used parallel plates and a ground plate connected to an electrometer to record absolute charge to mass ratios (i.e., the charges on individual particles) on volcanic ash from +3 · 10–4 to +6 · 10–4 C kg–1 and – 2 · 10–4 to – 5 · 10–4 C kg–1 at Sakurajima volcano. The average total charge (measured by collecting ash in a Faraday cup connected to an electrometer) was from +2 · 10–5 to +5 · 10–5 C kg–1. These data yield surface charge densities of – 7 · 10–6 and +1 · 10–5 C m–2 suggesting that ash particles generated during the explosive volcanism at Sakurajima are charged almost to the air ionisation limit, that is to say, they are almost saturated with charge. A few other researchers have reported results of volcanic ash chargemass ratio measurements. Hatakeyama (1958) measured an average net charge-mass ratio (i.e., the sum of positive and negative charges) of – 4 · 10–7 C kg–1 for falling ash particles during the Asama 1941 eruption using a Faraday cup. Miura et al. (2002) used parallel plates and measured deflections to determine that volcanic ash, again from Sakurajima volcano, had specific charges from – 4 · 10–5 C kg–1 to +4 · 10–5 C kg–1. The net polarity varied for the measurements made on different days. Comparison with PG measurements (Miura et al. 2002) confirmed the findings of Gilbert et al. (1991) that the average charge in the plume is much smaller than the charges held by individual particles (see Sect. 3.3. for further discussion of these measurements).\nDirect measurements of charged particles airborne within a volcanic plume are difficult, as aircraft are frequently unable to fly near erupting volcanoes. Ballooncarried sensors provide an alternative, as they can be readily launched into the plume. Additional sensors, carried by conventional meteorological radiosondes (e.g., Harrison 2005a), can provide high-resolution spatial sampling. A disposable charge sensor (Harrison 2001), used to detect charged particles in the free atmosphere using a balloon platform, would be well suited to sampling volcanic plumes."
+  }, {
+    "heading": "2.4.3 Remote volcanic lightning detection",
+    "text": "As well as visual observations of lightning in volcanic plumes (e.g., Table 1), more systematic measurements of volcanic lightning occurrences have been made. Hoblitt (1994) temporarily installed a commercially available lightning detection system (LDS) loaned from the U.S. Bureau of Land Management around Redoubt Volcano, Alaska in 1990 with the nearest detectors about 100 km from the volcano. The LDS antennae picked up broad-band radio waves. The hardware then filtered out signals that did not have the waveform characteristic of CG lightning. They determined that due to the similarity of the waveforms, systems designed to detect thunderstorm lightning can also monitor volcanic lightning. Lightning was generated by ash clouds rising from pyroclastic density currents, following a dome collapse. The amount of lightning detected was related to the amount of ash generated and its location was controlled by the local topography, which channelled the density currents, and the wind’s interaction with the dust cloud. In individual eruptions, early flashes tended to be negative and later flashes positive, suggesting that the negatively charged particles are settling out of the plume.\nFollowing this study the Alaska Volcano Observatory installed their own LDS to help monitor possible eruptions of Cook Inlet volcanoes. McNutt and Davis (2000) describe the application of this system, as well as the now more distal Bureau of Land Management system and a slow-scan TV camera, to study the volcanic lightning in the 1992 eruption plumes from Mount Spurr in Alaska. Lightning occurred\nassociated with the ash clouds of all three eruptions. For them all the first lightning was recorded 21–26 min after the onset of the eruption. This might suggest that the timescale for charge separation in the volcanic cloud was such that the plume was transported away from the vent (potentially both vertically and laterally) before lightning occurred. Measurements of the exact location of the lightning would confirm this. This is about 2–5 times longer a delay than at Redoubt (Hoblitt 1994) and McNutt and Davis (2000) speculate that this is due to the differing silica contents of the magmas (Table 1). Similar results for the strike polarity were observed as for Redoubt though, with the August 1992 eruption showing negative polarities for the first 12 recorded flashes and a positive polarity for the last. The August lightning was strongest, June weakest, and September intermediate. All three eruptions had similar durations of 3.5–4 h, and tephra volumes of 44–56 million m3. The August eruption, however, produced stronger volcanic tremor and larger amounts of gas. Thus, in this case, lightning strength correlates with both tremor amplitude and magmatic gas content but not the tephra volume as suggested by Hoblitt (1994). Greater gas content might lead to a more explosive eruption (consistent with the potential importance of magma fragmentation in plume electrification discussed in Sect. 3.3) or more efficient formation of ice or sulphate aerosol in the plume, both of which would influence the charge characteristics of the plume. Meteorological conditions might also account for the difference. The August eruption occurred during the lightest winds, so the ash and hence charge densities in the plume might have been highest promoting lightning production and the ash cloud and charge separation more vertically oriented favouring CG lightning. The September eruption occurred during the coldest and driest atmospheric conditions, which may explain the small amount of lightning either due to differences in the electrical conductivity of the background air or the ease of ice formation.\nThe eruption of Grimsvötn in November 2004 provided an opportunity for a variety of remote sensing techniques to be combined by the Icelandic Meteorological Office (Arason 2005a, b; Vogfjörð et al. 2005). The UK Met Office Arrival Time Difference lightning location system (ATD) was used to detect the lightning from Grimsvötn simultaneously with tracking of the plume by the Icelandic weather radar. In the first 36 h of the eruption 250 lightning strikes were detected over Vatnajökull. Of 152 lightning events for which the waveform was detected, 70 were IC lightning, and 82 were CG events. The proportion of CG lightning is greater than that usually associated with thunderstorms. The rate of lightning events was positively correlated with the height of the volcanic plume, with the maximum event rate occurring for plume heights of about 10 km. Table 3 compares measured parameters of volcanic plume electrification with those from thunderclouds and the fair weather atmosphere.\nSatellite based remote sensing has not yet been applied to the study of terrestrial volcanic lightning.\n2.5 Planetary volcanic lightning\nThe electrification of clouds and production of lightning occurs on other planets and planetary bodies in the solar system. The combination of cosmic ray ion production and charge separation processes from dynamical motions leads to observable, or at least inferred atmospheric electrical effects. Strong evidence exists for lightning on\nJupiter, Saturn, Uranus and Neptune, and it appears likely to exist on Mars, Venus and Titan (Aplin 2006). With the existence of planetary lightning comes the possibility of extraterrestrial volcanic lightning, and for this reason the evidence for extraterrestrial volcanism is reviewed. Because of the availability of techniques for remote radio detection of lightning (Sect. 2.4.3), planetary volcanic lightning may also provide a basis for detection of extraterrestrial volcanism."
+  }, {
+    "heading": "2.5.1 Extraterrestrial volcanism",
+    "text": "There are two basic requirements for volcanism: a source of heat and something to melt. All known volcanism in the solar system probably involves the melting of either silicates or ice (on the satellites of the outer planets), although theories involving sulphur and nitrogen have also been put forward in some cases. The heat might come from primordial heat (still left over from accretion and being released in larger planets), radiogenic heat (released by the continuing decay of radioactive isotopes and more important than primordial heat), tidal heating and, in some extreme cases, solar heating (on Neptune’s moon Triton temperatures are so low that an unusual solid-state greenhouse effect might be enough to volatilise frozen nitrogen). As well as the heat source and material involved, differences in the\n[a] Harrison and Carslaw (2003); [b] Uman (1987); [c] See Table 2; [d] See Sect. 1.4; [e] See Sect. 3.3; [f] See Sect. 2.4.1; [g] Anderson et al. (1965); [h] Estimated in Basiuk and Navarro-González (1996); [i] Arason (2005a); [j] Hoblitt (1994); [k] McNutt and Davis (2000)\nmagma type, volatile content, atmosphere and strength of the gravitational field on other planetary bodies will also influence that style of volcanism observed (Francis 1993).\nFor our nearest solar system neighbours, the Moon, Venus, Mars and Mercury, there is abundant evidence for volcanism on the Moon, Venus and Mars and suggestive, if ambiguous, evidence for volcanism on Mercury. However, with the exception of Venus, which is similar in size and mass to the Earth, this volcanism is almost certainly long extinct as smaller planets cool more quickly (higher surface area to volume ratios) and contain lower total numbers of radioactive isotope atoms. Venus’s cloud-laden atmosphere makes it hard to study the planet’s surface. Given its similarity to Earth it is possible that there is still active volcanism but without continual monitoring of the planet’s surface this is hard to detect. There are some indirect suggestions of volcanism though, with variations in the atmospheric composition hinting that volcanic emission rates might vary (Esposito 1984). Further, in 1991 the Galileo spacecraft detected electromagnetic pulses from the atmosphere that were probably caused by lightning (Gurnett et al. 1991). Venus’s atmosphere may not support convective storms like those that generate the majority of lightning on Earth, so it is possible that this could arise from ash-laden volcanic plumes, though other explanations are also possible (Francis and Oppeneheimer 2004).\nFurther out in the solar system volcanism of different types has been observed on a number of the satellites orbiting the gas planets. Io is the innermost of Jupiter’s larger moons. Tidal heating due to its proximity to Jupiter ensures that volcanism is very much alive on this planet sending plumes high up above its surface where they can be seen by passing spacecraft. It has been suggested that sulphur volcanism dominates on Io (e.g., Nash and Howell 1989). However, lava temperatures measured by the Galileo spacecraft (Lopes-Gautier et al. 1997) and from Earth using infrared telescopes (Johnson et al. 1988) are too high ( > 1300 C, hotter than contemporary terrestrial magmas suggesting komatiite composition) showing that sulphur cannot form the dominant magma on Io, although it might occur on a smaller scale. The height of Io’s volcanic plumes suggests that eruptions must be driven by extra volatiles from near-surface layers as well as those dissolved within the magma (e.g., Cataldo et al. 2002). Jupiter’s next moon out, Europa, is entirely covered by a layer of ice. The low number of surface impact craters and a couple of telescope and spectroscopic measurements suggest ice volcanism may occur. Thermal modelling suggests that heat leaks out from the inner silicate part of the moon and maintains a liquid water ‘mantle’, capped by an ice crust (Pappalardo et al. 1999 and references therein). It could be that similar activity occurs or has occurred on the other satellites of Jupiter, Saturn and Uranus. Even further away from the sun Triton, Neptune’s largest moon, shows abundant evidence of resurfacing and images from Voyager 2 showed dark geyser-like plumes rising about 8 km from the surface. Triton’s surface is thought to consist of solid nitrogen and methane, perhaps underlain by ice. To account for Triton’s volcanism it has been postulated that radiation from the distant sun penetrates the clear nitrogen ice to be absorbed by an underlying dark layer. This then heats the nitrogen ice from below (analogous to the greenhouse effect mediated by the atmosphere on the Earth) increasing its vapour pressure until it bursts through the surface and erupts as a geyser spraying a plume of nitrogen gas, ice and entrained dark particles high into space (Brown and Kirk 1994 and references therein; Francis and Oppeneheimer 2004).\n3 Plume electrification and generation of volcanic lightning\n3.1 Aerosol electrification\nCharged particles in the fair weather atmosphere arise because of the presence of molecular ions, generated by cosmic rays and radioactive isotopes. Charged particles are also generated as a result of combustion. The attachment of molecular ions to atmospheric aerosol (fine, i.e., < tens of lm in diameter, solid or liquid particles suspended in the atmosphere) by diffusion leads to aerosol electrification. Factors influencing electrification of atmospheric aerosols include the particle size, and the properties of the molecular ions. Positive and negative ions differ chemically, which leads to different mean ion mobilities for positive and negative ions. If this were not the case, the rates of positive and negative charge exchange between particles and ions would be equal, and no net charge on the aerosol would result. The natural asymmetry in atmospheric ion properties leads to a finite mean charge on atmospheric aerosols. In general, a charge distribution exists on atmospheric aerosol particles, which although the mean charge may be small, does not preclude the existence of highly charged particles within the ensemble. Establishing the charge distribution on an aerosol particle population can be found by making thermodynamic assumptions about the energetics (Sect. 3.1.1) or, equivalently by consideration of the statistics of charge acquisition, from ion–aerosol theory (Sect. 3.1.2). The natural charge distributions found using these theoretical techniques provide a basis for assessing the differences in electrical properties of charged volcanic aerosols."
+  }, {
+    "heading": "3.1.1 Thermodynamic considerations",
+    "text": "Using a thermodynamic perspective, Keefe et al. (1959) argued for the existence of an aerosol charge distribution. This was on the basis that collisions between bipolar ions and aerosol were sufficiently frequent for charge-exchange equilibrium to be established. Under that assumption, the particle charge distribution would be given by the Boltzmann energy factor exp( – //kT), where / is the particle’s electric potential. A conducting sphere of radius r carrying a potential / has an electrical energy given by 1/2Q/ or (1/2)Q/, where Q is the total charge on the sphere. The associated electric potential is given by / = Q/4pe0r. With j charges on the aerosol, assuming a Boltzmann distribution, the number of particles, Nj, carrying j charges is proportional to\nNj N0 ¼ exp j\n2e2\n8pe0rkT\nð3Þ\nThis simple argument has been challenged, but the experimental data largely justifies the result. Brown (1991) and Fuchs (1963) state that using a Boltzmann distribution in such non-equilibrium situations is invalid, because of the absence of an exact inverse process in the charge equilibrium, other than the arrival of oppositely charged ions. However, the agreement with measurements led Hoppel and Frick (1986) to argue that the distribution can be justified. Charge distributions of an exponential form were predicted by Gunn (1955), and observed by Lissowski (1940).\nThe Boltzmann formulation takes no account of imbalances in positive and negative ion concentrations or their properties, which would be intuitively expected\nto influence the charge acquired by the aerosol, particularly in the atmosphere. However, the simple Boltzmann form has had widespread use in aerosol science and atmospheric electricity, despite the fact that ion concentration imbalances and mobility asymmetries are widely observed."
+  }, {
+    "heading": "3.1.2 Detailed balance calculations",
+    "text": "The physics of charge exchange between ions and aerosol is relatively well understood (Harrison and Carslaw 2003). Diffusion of ions to aerosol particles transfers charge from the ion to the particle, leading to a reduction in the ion number concentration and an increase in the charge carried by the aerosol. The charge on the particles can be calculated by considering all the possible ion–particle chargeexchange interactions, allowing for multiply-charged particles and collisions which result in the particles obtaining a net charge of zero. In a real volcanic plume, further electrification processes beyond diffusion charging may occur (Sect. 3.3.), and addition physical methods of charge exchange need to be considered to produce a complete theory. These are beyond current theoretical calculations and will require further development and parameterisation of current models.\nAttachment occurs when an ion comes sufficiently close to the larger particle to give up its charge, under a combination of Brownian diffusion and electrical motion. The probability of a collision between an ion and a particle occurring is quantified by an ion–aerosol attachment coefficient. The attachment coefficient bij(r) is given in terms of the rate of ion–aerosol attachment rate per unit volume X by\nbijðrÞ ¼ X=nZðrÞ ð4Þ\nwhere n and Z are the ion and aerosol number concentrations, respectively, i is the polarity of the ion (i = ± 1) and j is the number of charges carried on a particle of radius r. The mean ion–aerosol attachment rates have been measured in volcanic plumes. The eruption of Mt St Helens, USA on May 18th, 1980 allowed the study of aerosol profiles before and after the eruption (Kondo et al. 1982) using balloon ascents and laser backscatter measurements. The balloon sounding recorded the mean value of ion–aerosol attachment rate b Z. Approximate mean values found around the tropopause (14–17 km) before and after the eruption were b Z = 2.5 · 10–3 s–1 and b Z = 5.5 · 10–3 s–1, respectively. The increase in attachment rate could result from the increase in size of the particles present, but is more likely to have resulted from an increase in the number concentration."
+  }, {
+    "heading": "3.1.3 Theoretical charge distributions",
+    "text": "Calculating the aerosol charge distribution requires the use of Eq. 4 for all the particles, including those already charged. Eventually the charge distribution becomes steady, when the rates of acquisition and loss of charge by particles are equal. The equations describing this (Bricard 1965; Boisdron and Brock 1970; Mead 1978; Adachi 1985; Clement and Harrison 1992) can be solved numerically as a function of time, but an analytical steady-state formula exists. This, the Modified Boltzmann Distribution, can be derived from the analytical attachment coefficients of Gunn (1954), giving\nNj N0 ¼ nþlþ n l j8pe0rkT je2 sinh je2 8pe0rkT exp j2e2 8pe0rkT\nð5Þ\nwhere there is a number concentration Nj of particles carrying j charges, in the presence of ions of concentrations n+ and n– and mobilities l+ and l–. The mean aerosol charge J (Gunn 1955) can be derived from this as\nJ ¼ ln nþlþ n l ¼ r 4pe0kT e2 ln A ð6Þ\nIn Eq. 6, A is written as the ratio of the polar ionic properties, an ion asymmetry factor. This determines the mean aerosol charge and charge distribution.\nThe Modified Boltzmann Distribution (MBD, Eq. 5) is similar to Eq. 3 (Keefe et al. 1959), as, for large radii, the sinh function is small, and may be neglected. If the ion concentrations and mobilities are equal, the ion asymmetry factor tends to unity, and the Modified Boltzmann distribution reduces to the simple exponential Boltzmann distribution, Eq. 3.\nIn the case of a volcanic cloud, the ion concentrations will be strongly affected by the combination of substantial particle concentrations, as well as possible ion-production processes associated with the hot eruption gases. The mean charge observed in particles within a mature plume in the steady-state provides a measure of the ion asymmetry present, through Eq. 6 above. For example, if the ion concentrations are strongly unipolar, the steady-state aerosol charge would adopt the same sign as the majority of the ions present.\n3.2 Electrical properties of volcanic ash"
+  }, {
+    "heading": "3.2.1 Plume composition",
+    "text": "A volcanic plume is a mixture of gas plus liquid and solid particles. For present-day volcanism on Earth, steam and carbon dioxide tend to be the most prevalent species in the gas phase followed by sulphur species (SO2 and H2S) and halogen halides (HCl, HF, HBr) and more minor species such as H2, CO, OCS, Ar, NH4, CH4,N2 and He (Delmelle and Stix 2000). The proportions of these different volatiles vary from volcano to volcano. Upon release into the atmosphere, the plume will mix rapidly and become diluted, therefore even shortly after emission, components of the background atmosphere will account for significant proportions of the species present within the plume. During explosive volcanism, the magma fragments within the conduit. This fragmented magma will cool rapidly and solidify forming a solid silicate phase. Close to the source, a plume might contain larger blocks ( > 64 mm) or lapilli (64–2 mm) of pumice or scoria, but it will be the finer ash particles (up to a few mm in size) that will generally be transported further. As well as juvenile fragments (solidified magma which may contain crystals and gas bubbles), ash also consists of lithic (pieces of the volcanic edifice that were torn off during eruption) and crystal (derived from the magma or lithic fragments and released during the fragmentation process) components. Scanning electron microscope (SEM) images have shown a huge diversity of volcanic ash morphology, depending on factors such as magma composition or the involvement of external water (Heiken and Wohletz 1985; Sparks et al. 1997).\nFine silicate particles may also be present in a plume originating from less explosive activity, typically from bubbles bursting through the surface of a lava lake or from re-suspended dust from the conduit walls, but in much lower concentration. In addition to silicates, other species such as metal chlorides, sulphates, sulphuric acid and water may condense into the particle phase as the plume cools. These may condense onto particles that are already present such as ash, forming overgrowths on the surface of these particles or liquid envelopes or they may condense to form separate liquid or solid particles (Mather et al. 2003). Remote sensing measurements of eruption plumes have suggested the presence of significant levels of ice particles in some eruption plumes, such as those from Hekla, Rabaul and Soufrière Hills, although observations at other volcanoes show that this is not ubiquitous (e.g., Rose et al. 2003)."
+  }, {
+    "heading": "3.2.2 Size distribution",
+    "text": "The particle size distribution in volcanic plumes is important both in terms of charging mechanisms, charge density and charge separation.\nThe size distribution of the ash will depend on, amongst other things, the initial fragmentation properties of the magma including the proportion of inhomogeneities in the melt. Hence magmas with a higher small crystal proportion by weight are likely to be a source of larger amounts of small particles, with dome-forming eruptions of highly crystalline magma, such as that at the Soufrière Hills Volcano (Montserrat), releasing considerable quantities of fine ash (<63 lm in diameter). Typical ash emissions on Montserrat contain 10–30% by weight of particles with diameters less than 10 lm (Baxter et al. 1999; Bonadonna et al. 2002; Moore et al. 2002). Measurements of particle size distributions are also necessary to assess the characteristics of ash fall-out from volcanic clouds and the associated hazard. Volcanic ash tends to be sorted by size during transport and deposition (Pyle 1989). Studies summarised in Sparks et al. (1997) show a bimodal size distribution in ash fall deposits with modes at ~10 and ~200 lm and the finer mode becoming more dominant with distance from the volcanic vent until the grain size distribution is essentially unimodal. The deposition of the finer mode close to the plume’s source has been attributed to particle aggregation (see Sect. 3.4.1).\nThis size sorting and the complicated deposition patterns of volcanic ash make characterising the bulk size distribution difficult. Consequently the grain-size analyses of samples from many different sites must be integrated to determine the total grain-size distribution (e.g., Bonadonna and Houghton 2005). Calculations of total grain-size are therefore vulnerable to several difficulties, such as from the integration of grain-size analysis from single samples, scarcity of data points over the ash-fall deposit region and uneven data-point distribution within the area (Bonadonna and Houghton 2005). Common techniques for calculation of the total grain-size distribution of tephra-fall deposits are weighted average of sample grain-size distribution for all samples over the whole deposit, and arbitrary sectorisation of tephra-fall deposits. The application of this varied methodology makes the analyses of different tephra-fall deposits by different authors difficult to compare. Further, Bonadonna and Houghton (2005) highlighted that the techniques suffer from sampling of nonuniform deposits and arbitrariness in the choice of sectors. All existing techniques to calculate total grain-size distribution of an eruption give only apparent distributions if the data set is small. However, the sensitivity of the analysis depends on\nthe original sorting of the particle distribution and the style and intensity of the corresponding eruption.\nBonadonna and Houghton (2005) applied the Voronoi tessellation technique, which provides a better statistical treatment of non-uniform datasets without introducing arbitrary sectors, to the large dataset of the 17 June 1996 eruption of Ruapehu tephra-fall deposit. The total grain-size distribution shows a Gaussian distribution with 99.9 wt% of the deposit particles with diameter between 256 mm and 1 lm. Two lognormal sub-populations with modes at 8 and 1 mm could also be fitted, with particle fractions of about 40 and 60 wt%, respectively. Further efforts are needed in this area to understand more about the bulk size distribution of volcanic ash. Through geochemical studies on sieved size fractions from different types of Montserrat ash, Horwell et al. (2001) also determined that the chemical composition of ash may not be constant in the different size fractions, with some mineral phases being concentrated more in ash fragments of particular sizes due to different fragmentation characteristics.\nAsh grains are not the only particles present in plumes. The remote sensing measurements of Hekla’s 2000 eruption plume by Rose et al. (2003) detected ice particles with effective radii between about 9 and 40 lm during the 42 h after the eruption. Volcanic plumes also often have a sub-micron particle phase composed of sulphuric acid and metal salt droplets (Mather et al. 2003). Ash particles may also have overgrowths of these substances or be surrounded by a water or ice envelope, modifying their surface properties and size.\n3.3 Plume electrification mechanisms\nDirection measurements of charge on ash fallout from volcanic plumes (see also Sect. 2.4.2) have measured net charges of between 4 · 10–7 C kg–1 (Hatakeyama 1958, 50 km from the vent of Asama–yama volcano) and 5 · 10–5 C kg–1 (Gilbert et al. 1991, <5 km from the vent of Sakurajima volcano). Substantial PG anomalies have also been measured (Table 2). This section reviews some of the proposed mechanisms by which this charge and charge separation might arise in volcanic plumes. It is possible that these mechanisms may operate in combination. In all cases, for lightning to occur in a plume, the charge generation rate must be significantly greater than the internal charge dissipation rate."
+  }, {
+    "heading": "3.3.1 Charging of ash due to interactions with water",
+    "text": "Observations of the phreatic Surtsey eruption in Iceland in 1963 showed that comparable electrification was produced in the plume (105–106 elementary charges cm–3, positively charged) during the periods when steam and tephra were being vigorously co-erupted and when lava flowed into the sea (Anderson et al. 1965). Subsequent laboratory experiments indicated that charge arises as sea salt particles, volatilised by the hot rock, carry positive charge away from contact with the lava (Björnsson et al. 1967). Pounder (1972) suggested that the pulverisation of the water during evaporation caused charge separation, with the magnitude of the charge depending on factors such as temperature, size of evaporating droplets and concentration of salt. Büttner et al. (1997) also suggested that liquid water present during the fragmentation process greatly enhances the detection of an electrical signal."
+  }, {
+    "heading": "3.3.2 Charging of ash via fragmentation mechanisms",
+    "text": "Not all volcanic plumes generating PG perturbations involve seawater, or are phreatic in nature, such as the ash clouds associated with pyroclastic flows from Unzen (Miura et al. 1996). Gilbert et al. (1991) measured the charge on ash particles from Sakurajima’s plume in Japan and suggested two mechanisms for the charging of these particles which did not involve water explicitly: (i) triboelectrical or frictional charging (due to contact between materials with different work functions), (ii) fractoemission or fractocharging (whereby electrons, positive and negative ions, neutral atoms and electromagnetic radiation are ejected from fresh crack surfaces resulting in a residual charge). Earlier experiments on mechanism (i) in the volcanic context used particles sliding over one another, down metal chutes which generated specific charges between 10–8 C kg–1 and 10–9 C kg–1 (Hatakeyama and Uchikawa 1952). Although Kikuchi and Endoh (1982) recorded values of up to 10–5 C kg–1, they thought that the process was more analogous to the charging of wind blown ash than any process that might occur in an explosive eruption plume (summarised in James et al. 2000). James et al. (2000) carried out experiments in which silicate particles were generated by fracture during collisions between pumice samples. They found that charge magnitudes generated during fracture-dominated impact experiments were significantly greater than those produced during friction-dominated rotation experiments, with the small silicate particles generated by fracture carrying charges similar to that measured on volcanic ash-fall (~10–5–10–6 C kg–1). During the experiments there was evidence of ion release during the fracture process. Fractoemission was concluded to be the dominant charging mechanism in these experiments. If this is the dominant mechanism in eruption plumes then the volcanic gases will be charged (i.e., contain ionic space charge). Charge generation will be concentrated within the upper regions of the conduit and the jet portion of the plume, where the rates of brittle fragmentation, and therefore fractoemission, are greatest.\nThe experiments of James et al. (2000) yielded further insights into ash charging during volcanic eruptions. The net charge observed resulted from a small imbalance between the total individual bipolar particle charges, up to several orders of magnitude larger than the net charge. Pumice samples from six different deposits were used in the experiments: Mount St. Helens, USA (rhyolitic glass), Sakurajima, Japan (dacitic), Aira caldera, Japan (dacitic), Soufrière St. Vincent, Lesser Antilles (andesitic), Santorini, Greece (rhyodacitic) and Gorge Farm, Kenya (rhyolite). During the experiments at atmospheric pressure, all the samples consistently produced net negatively charged particles, except for the most silica poor sample from Soufrière St. Vincent (55 wt% SiO2) which always produced net positively charged particles. At lower pressure these results were not as straightforward: Gorge Farm pumice produced net negative ash, and the Aira caldera sample produced different polarity ash depending on which clast was used. Relative humidity had only a small effect on the net particle charge. Varying the impact of the pumice collisions (0.3– 0.7 m s–1) produced an order of magnitude increase in the measured charges on individual particles but with no detectable change in the overall net charge. This suggests that more explosive eruptions might give rise to particles with higher individual charges, which, if positive and negative charges are effectively separated might give rise to larger PG anomalies. However, as the fragmentation or explosiveness will also affect the ash concentration and size distribution, it may not be possible to consider these factors in isolation."
+  }, {
+    "heading": "3.3.3 Size-dependent charge separation",
+    "text": "Hatakeyama and Uchikawa (1952) assigned a unipolar charge to large ash particles and the opposite charge to small ash particles in order to develop charge separation. However, Lane and Gilbert (1992) could not define a physical basis for particle size alone to determine the polarity. From the experiments of James et al. (2000), it was not possible to determine whether there were initial polarity variations between particles of different sizes; however, one experiment did report neutralisation of negatively charged ash in a Faraday cup after pumice fragmentation had stopped. This implies that positive charge was held on slow falling particles, eventually neutralising the negatively charged ash. There is no reason known why fracturecharging should systematically vary with particle size, however, James et al. (2000) suggest that a particle charge-size dependence may result from the secondary process of ion scavenging, which is a function of particle size and the associated fall speed. Whatever the physical mechanism, the observations of Miura et al. (2002) of size resolved charge-mass ratios of particles in Sakurajima’s volcanic plume suggest that, in some instances at least, charge polarity does vary with particle size.\nGround-based measurements of potential gradient (see Sect. 2 and Table 2) have shown both negative and positive anomalies as well as in some cases both negative and positive in the same plume at different times. Figure 5 summaries the concep-\ntual models that have been developed to explain these observations. Figure 5a shows the model described in Lane and Gilbert (1992) where the ash takes a negative charge and the gas takes a positive charge and charge separation occurs due to more rapid gravitational settling of the ash. The polarity of the electric field determined by fieldmeters depends on their geometry with respect to the plume. Miura et al. (2002) suggested a slightly different model (the ‘‘PNP model’’), from observations at Sakurajima showing that only the fine ash carried a net negative charge (Fig. 5b). They noted that positive field perturbations tended to occur when the wind velocity was less than 6 m s–1, and that negative field perturbations dominated when the wind velocity was greater than 6 m s–1. Miura et al. (2002) suggested gravitational differentiation to explain these results. In short, for a low wind velocity, the fine ash would probably have settled before the plume reached the measurement site, leaving a positive perturbation observed from the gas/aerosol plume. At high wind velocity, the fine ash would be more likely to pass over the measurement sites, giving a negative perturbation. In general, the PNP model predicts positive anomalies either near or far from the vent."
+  }, {
+    "heading": "3.3.4 Thunderstorm analogy mechanism",
+    "text": "Mechanisms for the electrification of normal thunderstorm clouds have been described in Sect. 1.2.1. Based on these models, Williams and McNutt (2004) have suggested that, as condensed water may coat volcanic ash as liquid water and ice, similar mechanisms could operate in volcanic clouds to cause electrification and lightning. Ice is found in some mature eruption clouds, which supports the possibility of this mechanism at least in some circumstances (Rose et al. 2003)."
+  }, {
+    "heading": "3.3.5 Timescales",
+    "text": "From consideration of ion sources and losses (Harrison and Carslaw 2003), the timescale s for the aerosol charge to reach steady-state charge is given by\ns ¼ 1 bZ\nð7Þ\nwhere Z is the aerosol number concentration and b is the (radius-dependent) ion– aerosol attachment coefficient (see Sect. 3.1.2). For b ~ 10–11 m3 s–1 (radius 0.1 lm) and Z ~ 1000 · 106 m–3 (a plausible upper limit for the near-vent particle concentration given the measurements in Rose et al. 2006), s is ~100 s.\nIn Table 2, PG anomalies are observed at distances from the vent between 0.4 km and 200 km. This suggests that plumes become electrified rapidly upon eruption, and retain this electrification for considerable distances and lengths of time during transport downwind. Neutralisation processes arise from the natural electrical conductivity of air due to ionisation by cosmogenic rays and radiation from radoisotopes (Sect. 1.3). In a volcanic plume these therefore seem relatively ineffective. This is because the high particle concentrations in volcanic plumes effectively remove the ions from the plume gases and the entrained background air. This probably results in the air within the plume having a low conductivity compared to the background atmosphere, and the space charge being present on the particles, rather than as ions in the gas phase.\n3.4 Physical behaviour of particles within the electrified plume"
+  }, {
+    "heading": "3.4.1 Electrical effects on aggregation",
+    "text": "Aggregation of particles in the atmosphere shifts the aerosol size distribution to larger particles, and reduces the extremely high ultrafine particle concentrations produced by gas-to-particle conversion. Aggregation rates are influenced by particle electrification, in a similar way to ion–aerosol attachment (Sect. 3.1.2), through an electrostatic force. For a monodisperse collection of particles (i.e., uniform in shape, size, and composition), the rate of aggregation between particles with like charges is lower than that for neutral particles, while the rate is enhanced for particles with unlike charges. The effect of a charge distribution on particles frequently leads to more complicated aggregation behaviour (Clement et al. 1995), as the tails of the charge distribution also contribute to the changes in aggregation asymmetrically, favouring enhancement of the coagulation rate. In atmospheric regions of unipolar ions, where multiple aerosol charges occur, this effect would slow the production of larger aerosol particles from smaller particles. The aggregation rate is not influenced by the atmospheric ion production rate, which varies with height, since this does not affect the charge distribution on the particles, at least in steady state. An additional caveat, however, is that Dhanorkar and Kamra (1997) show that aggregation of aerosols itself affects charge distribution, shifting it away from a Boltzmann distribution. The mean charge increases, while the number of particles with zero net charge decreases. The greatest effect is an increase in the number of singly charged particles.\nIn volcanic plumes, aggregation of particles has important implications for the fallout of fine-grained materials, accounting for the proximal deposition of fine ash and the non-monodisperse size distributions typical of many fall deposits. Electrostatic forces may play a role in promoting particle aggregation in volcanic plumes leading to the formation of dry aggregates. These aggregates tend to break up on impact with the ground and so are not preserved in the geological record (Sparks et al. 1997). Gilbert et al. (1991) observed that much of the fine ash in Sakurajima’s plume fell as porous aggregates <3 mm in diameter. Particles >200 lm in diameter mainly fell as single particles, although they might have been coated with fine ash.\nJames et al. (2002) performed laboratory experiments fracturing pumice from the 18 May 1980 Mount St. Helens fall deposit to demonstrate that electrostatic forces and differences in fall velocities could indeed lead to efficient dry aggregation of ash over fall distances of ~1 m. They found that the aggregates formed tended to be <800 lm in size and irregular in shape, and to have densities of ~100–200 kg m–3. In experiments with a horizontal airflow the experiments reproduced the bimodal particle size distributions observed in field deposits, with the particle size distribution suggesting that the aggregates are dominated by particles <70 lm in diameter. Further experiments (James et al. 2003) demonstrated that, despite their irregular shapes, dry volcanic aggregates can be represented as spheres with a density of ~200 kg m–3. Size analysis of the component particles making up the aggregates showed exponential-type cumulative distributions. This suggests that particles <10 lm in diameter have a high and uniform probability of being incorporated into aggregates. Images of deposited aggregates indicated that those smaller than ~140 lm are likely to be produced extremely rapidly and that larger aggregates grow dominantly by the accumulation of these smaller aggregates. They are also capable\nof incorporating significantly larger particles, possibly as the fall velocity of the aggregate increases."
+  }, {
+    "heading": "3.4.2 Washout of electrified particles",
+    "text": "The removal of aerosol particles by cloud droplets, scavenging, is influenced by many factors, including electrical forces (Pruppacher and Klett 1997). An increase in aerosol scavenging is therefore expected in clouds containing charged particles, including radioactive aerosol (Tripathi and Harrison 2001), or naturally charged aerosol (Tripathi and Harrison 2002) such as from volcanic plumes. Recent developments in this area are microphysical simulations of aerosol collection, which include the electrostatic image force in calculation of the electrically modified particle trajectory of an aerosol around a water droplet (Tinsley et al. 2000). These trajectory calculations show that the image force is always attractive at small droplet-particle separations, and therefore that the effect of the plume polarity is likely to be unimportant. Rainfall through a volcanic plume may therefore be expected to preferentially remove the charged particles over neutral particles, but this has yet to be tested. Tripathi et al. (2006) provide a simple method for calculations of the enhanced collection efficiency of charged particles by water drops.\n3.5 Volcanic aerosol in global atmospheric electricity\nVolcanic plume electrification leads to lightning and perturbations in atmospheric electricity close to the eruption, but as previous climatic studies have shown (e.g., Robock 2000), the effect of volcanic products injected into the stratosphere, may have wider consequences. In terms of the atmospheric electrical effects, due to the transport timescales, and the substantial increase in air conductivity with height, the aerosol electrification associated with the eruption is unlikely to persist into the stratosphere. However, the increased aerosol loading in the stratosphere following a large volcanic eruption (e.g., Hofmann et al. 2003) might lead to a perturbation in the global atmospheric electrical circuit. The current flowing from the ionosphere to the surface is determined from Ohm’s Law, by the potential of the ionosphere and the resistance of the atmospheric column beneath. If the column’s aerosol loading is increased by the injection of volcanic aerosol, depletion of the ion concentration by ion–aerosol attachment (Sect. 3.1.2) will follow and the column’s electrical resistance will increase. This will have the effect of reducing the current flowing between the ionosphere and the surface. As volcanic aerosol can become globally distributed within the stratosphere, the currents flowing in the global circuit can be modified. A global electrical change can therefore result from a substantial eruption, if the stratospheric aerosol loading is significantly increased.\nAlthough the global circuit ideas were not established until the early 20th century (Harrison 2004a), there is evidence that an effect at a distance was sought following the eruption of Krakatoa. An account of the contemporary UK atmospheric electricity measurements was given by G. M. Whipple (Symons 1888):\n‘The information to hand as to atmospheric electricity is confined to the abstracts from communications to ‘Nature’ by Professor Michie Smith of Madras, who gives certain isolated observations, but without sufficient data as\nto the conditions of atmospheric electricity at his station on other dates and at ordinary times to enable us to judge whether the phenomena he observed were exceptional or not. Looking at the rapid and frequent variations of atmospheric electricity, as constantly recorded at Kew, Greenwich, and other observatories provided with continuously recording electrographs, we are of opinion that the material is totally unreliable for the purpose of deciding as to the influence or otherwise of the explosion in producing the effects attributed to it by Professor Michie Smith. Neither at Kew nor at Greenwich were the electrical phenomena on August 27th, or subsequent dates, such as to call for special remark.’\nQuantitatively, the effect of stratospheric aerosol on the global circuit can be found in terms of the change in columnar resistance, the resistance of a unit column of atmosphere from the surface to the ionosphere. For a unit area column, the total surface-ionosphere resistance, the columnar resistance Rc is typically 100– 300 PW m2. It varies because of the geomagnetic modulation of cosmic ray ionisation, and the variable amount of aerosol in the boundary layer. Figure 6 shows the effect on the profile of the columnar resistance Rc of stratospheric layer having an enhanced aerosol concentration, calculated as described in Harrison (2005b). The observed background aerosol concentration in the ‘clean’ stratosphere is ~1 cm–3 (Pruppacher and Klett 1997), and the volcanic perturbations from this chosen for the illustrative calculations (10, 100 and 1000 particles cm–3) are broadly consistent with the measurements detailed in Hofmann et al. (2003). Cosmic ray ion production rate is large in the stratosphere, and the loss rate to aerosol is small. Consequently the effect of aerosol is, proportionally, large. The total Rc increases by up to 20% (the 1000 cm–3 case), which, for a constant current flowing vertically, would increase the ionospheric potential.\nThere is evidence for such a volcanic effect in atmospheric data. Measurements of the ionospheric potential were obtained by Mühleisen and Fischer (Mühleisen 1977), using balloon soundings of the electric field profile, from Weissenau, Germany. Because of the considerable conductivity from cosmic ray ionisation in the upper troposphere and stratosphere, the upper balloon measurements are at a potential close to the ionospheric potential, VI. Figure 7 shows the Weissenau time series of VI (Budyko 1971). Meyerott et al. (1983) compared the VI data with cosmic ray and volcanic aerosol data over the period 1959–1976 and suggested that changes in the ionospheric potential correlated convincingly with changes in volcanic aerosols in the troposphere and stratosphere, associated with the southern hemisphere eruption of Mt Agung in 1963. Tinsley (2005) has argued that the measured effect may have been enhanced by the sounding height used, which sampled only within the troposphere. It should also be noted that substantial nuclear weapon testing occurred in the late 1950s and 1960s, which would have produced radioactive aerosol, and affected atmospheric electrical parameters (Harrison 2004a). However the atmospheric weapons tests ceased in 1962, therefore the later increase in VI is more readily attributed to volcanic stratospheric aerosol.\nSuch a perturbation on the global atmospheric electrical circuit could potentially provide a further, but indirect, route by which volcanic eruptions influence climate (beyond the radiative effects of stratospheric aerosol), through electrically induced changes in cloud properties (see Sect. 1.3)."
+  }, {
+    "heading": "4 Volcanic lightning hazards",
+    "text": "4.1 Direct hazards to humans\nThe hazard posed by volcanic lightning is similar to that presented by conventional lightning although it may be more localised. During an eruption, the hazard from volcanic lightning is, unlike thunderstorms which migrate with weather systems, likely to be concentrated on the area surrounding a volcano. The duration of the hazard will generally be considerably longer than the typical lifetime of an individual thundercloud. For example, during the eruption of Parı́cutin in Mexico (Luhr and Simkin 1993) the church in nearby Zirosto was hit by lightning, causing a fire in the once important colonial monastery and severely damaging the baptistery. In fact the only deaths directly caused by the eruptions of Parı́cutin were three people struck by\nlightning thought to be associated with the volcanic activity (Nolan 1979) and volcanic lightning killed one person during the 1994 eruption at Rabaul GVN (1994a, b, c). People and livestock are occasionally killed by lightning during eruptions of Katla in Iceland, even at distances of 30 km from the volcano. Larsen (2000) suggested that lightning may be the most serious, and most underestimated, hazard of future Katla eruptions, with a modern community with power transmission lines, television aerials and electrical fences being more vulnerable to such a hazard than earlier communities in the vicinity of the volcano.\nAs well the direct hazard presented by volcanic lightning, the remote detection of volcanic lightning may actually help to mitigate other hazards associated with eruptions. The studies described earlier (Sect. 2.4) suggest that measurements of volcanic lightning and perturbations to the atmospheric PG might play a role in volcanic monitoring and plume tracking (e.g., Hoblitt 1994; McNutt and Davis 2000), especially in areas where thunderstorm occurrences are generally low and in conjunction with seismic monitoring. Its use as a monitoring tool might allow the occurrence of volcanic lightning to help alert local authorities and communities to other volcanic risks, such as tephra fallout or hazards to aircraft (see below).\n4.2 Hazards to aircraft and shipping\nVolcanic lighting, in common with conventional lightning presents a hazard to aircraft and shipping. In general, however, whilst an additional hazard, volcanic lightning is likely to be less of a threat than that from some of the other physical properties of the plume."
+  }, {
+    "heading": "4.2.1 Direct discharges to aircraft",
+    "text": "Neal and McGimsey (1997) reported on the impact on local air traffic due to the eruption of Pavlof in Kamchatka in 1996. What may have been a volcanic lightning strike is recorded, on 4th November, when a United States Coast Guard (USCG) C-130 operating at low-level over the Bering Sea was struck. The flight crew\nreported a ‘‘smoky’’ smell in the cockpit and a fine dust throughout the plane. Subsequent investigations failed to positively identify the source of this material. However, based on forecast winds, it appears unlikely that primary ejecta from Pavlof could have been the culprit; rather that low-level winds remobilised fine ash from the ground. No sample of the material was recovered for analysis.\nCivilian aircraft are struck by lightning on average about once per year, frequently on approach to airports as they descend (Anon 1984). Aircraft are rigorously tested to ensure their resilience to lightning discharges, both as a result of the large currents that may flow in their structure, and the associated damage to control systems. In some cases the aircraft itself may trigger an intra-cloud lightning strike during the descent or ascent away from an airport, however the specific hazard from volcanic lightning is likely to be small, as (1) aircraft will be routed around zones affected by volcanic plumes because of the risk to their engines from dust and (2) there is no strong evidence that volcanic lightning leads to greater currents flowing than lightning produced by thunderstorms (Table 3).\nVolcanic lightning detection may have benefits to aircraft as sensing of volcanic plume PG perturbations and remote lightning detection may provide information to reduce the likelihood of aircraft flying through plumes unwittingly. This would reduce the risk of damage from more direct hazards, such as hot volcanic ash entering the engines."
+  }, {
+    "heading": "4.2.2 St Elmo’s fire",
+    "text": "St Elmo’s fire is the visible blue glow that surrounds conducting points exposed to high electrical potentials in the atmosphere. The electric field strength around the point, enhanced by its geometry, is sufficient to break down the air electrically, although it is localised. St Elmo’s fire was reported from eruptions of the Katla volcanic system in Iceland (Larsen 2000).\nSt Elmo’s fire associated with volcanic eruptions has been observed on board ships. During the paroxysmal stage of the 1883 eruption of Krakatoa in Indonesia (Symons 1888) Captain Watson on the Charles Bal recorded:\n‘peculiar pinky flame coming from clouds which seemed to touch the mastheads and yard-arms.’\nWhile there is no significant hazard from St Elmo’s fire, its occurrence can cause considerable alarm. On the Governeur Generaal Loudon during the Krakatoa eruption:\n‘the mud-rain which covered the masts, rigging, and decks, was phosphorescent, and on the rigging presented the appearance of St. Elmo’s fire. The natives engaged themselves busily in putting this phosphorescent light out with their hands, and were so intent on this occupation that the stokers left the engine-rooms for the purpose, so that the European engineers were left to drive the machinery for themselves. The natives pleaded that if this phosphorescent light, or any portion of it, found its way below, a hole would burst in the ship; not that they feared the taking fire, but they thought the light was the work of evil spirits, and that if the ill-omened light found its way below, the evil spirits would triumph in their design to scuttle the ship.’\nFor aircraft also, St Elmo’s fire itself presents no substantial hazard to aircraft structures, although it may indicate electrification of extremities, e.g., communication antennae and airspeed sensors, which may lead to system failures."
+  }, {
+    "heading": "4.2.3 Planetary exploration",
+    "text": "Section 2.5 explored the possibility of volcanic lighting on other planets in the solar system. Should such lightning prove common on a particular planetary body then probes designed to descend to its surface would need to be built to withstand strikes. Here again though the hazard to the probe from volcanic debris in the plume might be more immediate than that from the volcanic lightning. In fact, it is conceivable that detection of volcanic lightning (or at least geographically localised and recurrent lightning) prior to a descent into a planetary atmosphere might provide a basis for selecting probe descent trajectories that avoid the complication of volcanic plume encounters."
+  }, {
+    "heading": "5 Summary",
+    "text": "Evidence for lightning on the Earth extends back into the geological past, which, together with evidence for volcanic activity, indicates that the conditions for volcanic lightning are not a new phenomenon in geological terms. Volcanic lightning also presents an alternative source of electrical activity in the atmosphere at times when meteorological convective processes were absent. The high temperatures in the lightning channel allow the production of chemical species unstable at ambient conditions. Hence, lightning has been implicated in the origin of life and the generation of volcanic lightning in the primordial atmosphere may have enhanced the likelihood of life especially given the unusual chemistry of volcanic plumes compared to the rest of the atmosphere. Volcanic lightning may also exist in other planetary atmospheres.\nRemote sensing measurement techniques have been used to monitor volcanic lightning but surface observations of the PG and the charge carried on volcanic ash show that many volcanic plumes, whilst not sufficiently electrified to produce lightning, have detectable electrification exceeding that of their surrounding environment. Observations and laboratory experiments suggest that the presence of ash in a volcanic plume may be a prerequisite for plume electrification or it could be that it is only ash producing eruptions that are explosive enough to generate charge. The composition of the ash does not seem to be critical in determining whether charging will occur but it may alter the details of the concentration or the polarity of the charge that accumulates. It could however be the fragmentation mechanism that is the dominant determinant. Due to the interrelated nature of these different factors their effects are currently difficult to disentangle.\nDifferent conceptual theories for charge generation and separation in volcanic plumes have been developed to explain the disparate observations obtained. It is not clear which mechanisms or combinations of mechanisms dominate in different circumstances. In situ measurements of the vertical PG profile and charge carried by the particles, for example, from radiosonde experiments in combination with quantitative and numerical models might be expected to illuminate these processes. Different processes may be important at different distances from the vent and under different volcanological and meteorological conditions.\nField observations and laboratory experiments have shown that electrostatic forces play an important role in modulating the dry deposition (fallout) of ash from a volcanic plume. Comparison with electrified aerosol in other atmospheric contexts suggests that electrostatic forces might also play a role in water mediated aggregation or deposition of volcanic ash, although this has yet to be confirmed by any laboratory or field experiments.\nCalculations presented here and previous measurements of the ionospheric potential suggest that a large volcanic eruption, which substantially increased the aerosol loading of the stratosphere, could have an effect on global atmospheric electricity by increasing the atmospheric columnar resistance. It is possible that this might be another, if minor compared to the radiative forcing, mechanism by which large volcanic eruptions affect global climate.\nThe direct hazard of volcanic lightning to communities is generally low compared to other aspects of volcanic activity such as pyroclastic flows, lahars and ash-fall. In fact, volcanic lightning can provide evidence of an electrified volcanic plume and can be detected using lightning detection systems available to meteorological services. The ability to detect explosive volcanic plumes is therefore a new application of such systems, which can be used for hazard mitigation. It may also provide remote evidence of volcanic activity in planetary exploration.\nAcknowledgements TAM gratefully acknowledges the financial support of the Royal Society. RGH acknowledges a Visiting Fellowship at Mansfield College, University of Oxford. A. J. Bennett (Reading University) provided assistance with data for figures. The authors thank J. S. Gilbert (Lancaster University) for her helpful comments."
+  }],
+  "year": 2006,
+  "references": [{
+    "title": "Seismicity of the caldera-making eruption of Mount Katmai, Alaska in 1912",
+    "authors": ["K Abe"],
+    "venue": "Bull Seismol Soc Am 82:175–191 Adachi M",
+    "year": 1979
+  }, {
+    "title": "Volcanogenic lightning during the Grı́msvötn 2004 subglacial eruption",
+    "authors": ["P Arason"],
+    "venue": "Geophys Res Abstracts",
+    "year": 2005
+  }, {
+    "title": "Possible role of volcanic ash-gas clouds in the Earth’s prebiotic chemistry",
+    "authors": ["PJ Baxter", "C Bonadonna", "R Dupree", "VL Hards", "SC Kohn", "MD Murphy", "A Nichols", "RA Nicholson", "G Norton", "A Searl", "RSJ Sparks", "BP Vickers"],
+    "venue": "Alaska Volcano Observatory,",
+    "year": 1996
+  }, {
+    "title": "Eruption at the ice cap: volcanic unrest at Vatnajokull 1996",
+    "authors": ["P Benediktsson"],
+    "venue": "(video). Sjonvar pid, Reykjavik Iceland",
+    "year": 1996
+  }, {
+    "title": "Charge generation due to contact of saline waters with Molten Lava",
+    "authors": ["S Björnsson", "DC Blanchard", "AT Spencer"],
+    "venue": "J Geophys Res",
+    "year": 1967
+  }, {
+    "title": "Volcanic hazards: a sourcebook on the effects of eruptions",
+    "authors": ["RJ Blong"],
+    "year": 1984
+  }, {
+    "title": "Absolute calibration of atmospheric air conductivity measurements",
+    "authors": ["AJ Bennett", "RG Harrison"],
+    "venue": "Rev Sci Instrum",
+    "year": 2006
+  }, {
+    "title": "On the stochastic nature of the acquisition of electrical charge and radioactivity by aerosol particles",
+    "authors": ["Y Boisdron", "JR Brock"],
+    "venue": "Atmos Environ",
+    "year": 1970
+  }, {
+    "title": "Total grain-size distribution and volume of tephra-fall deposits",
+    "authors": ["C Bonadonna", "BF Houghton"],
+    "venue": "Bull Volcanol",
+    "year": 2005
+  }, {
+    "title": "Tephra fallout in the eruption of Soufrière Hills Volcano, Montserrat. In: Druitt TH and Kokelaar BP (eds) The eruption of Soufrière Hills Volcano, Montserrat",
+    "authors": ["C Bonadonna", "GC Mayberry", "ES Calder", "RSJ Sparks", "C Choux", "P Jackson", "AM Lejeune", "SC Loughlin", "GE Norton", "WI Rose", "G Ryan", "SR Young"],
+    "venue": "Geological Society of London Memoirs",
+    "year": 2002
+  }, {
+    "title": "Distribution of hydrogen in the near surface of Mars: evidence for subsurface ice deposits",
+    "authors": ["WV Boynton", "WC Feldman", "SW Squyres", "TH Prettyman", "J Bruckner", "LG Evans", "RC Reedy", "R Starr", "JR Arnold", "DM Drake", "PAJ Englert", "AE Metzger", "I Mitrofanov", "JI Trombka", "C d’Uston", "H Wanke", "O Gasnault", "DK Hamara", "DM Janes", "RL Marcialis", "S Maurice", "I Mikheeva", "GJ Taylor", "R Tokar", "C Shinohara"],
+    "venue": "Science",
+    "year": 2002
+  }, {
+    "title": "Action of radioactivity and of pollution upon parameters of atmospheric electricity. In: Coroniti SC (ed) Problems of atmospheric and space electricity",
+    "authors": ["J Bricard"],
+    "year": 1965
+  }, {
+    "title": "Lightning in volcanic clouds",
+    "authors": ["M Brook", "CB Moore", "T Sigurgeirsson"],
+    "venue": "Eos Trans Am Geophys Union",
+    "year": 1973
+  }, {
+    "title": "Theory of interaction between aerosol particles and an ionized gas in the lowconcentration limit",
+    "authors": ["RC Brown"],
+    "venue": "J Aerosol Sci",
+    "year": 1991
+  }, {
+    "title": "Coupling of volatile transport and internal heat flow on Triton",
+    "authors": ["RH Brown", "RL Kirk"],
+    "venue": "J Geophys Res",
+    "year": 1994
+  }, {
+    "title": "Electrical effects generated by experimental volcanic explosions",
+    "authors": ["R Büttner", "H Röder", "B Zimanowski"],
+    "venue": "Appl Phys Lett 70:1903–1905",
+    "year": 1997
+  }, {
+    "title": "Vanadium partitioning and the oxidation state of Archaean komatiite magmas",
+    "authors": ["D Canil"],
+    "venue": "Nature",
+    "year": 1997
+  }, {
+    "title": "Cosmic rays, clouds and climate",
+    "authors": ["KS Carslaw", "RG Harrison", "J Kirkby"],
+    "venue": "Science",
+    "year": 2002
+  }, {
+    "title": "Social organization in a crisis situation: the Taal disaster",
+    "authors": ["JJ Carroll", "SA Parco"],
+    "year": 1966
+  }, {
+    "title": "A model for large-scale volcanic plumes on Io: implications for eruption rates and interactions between magmas and near-surface volatiles",
+    "authors": ["E Cataldo", "L Wilson", "S Lane", "J Gilbert"],
+    "venue": "J Geophys Res",
+    "year": 2002
+  }, {
+    "title": "Atmospheric electricity 2nd ed",
+    "authors": ["JA Chalmers"],
+    "year": 1967
+  }, {
+    "title": "Optical detection of lightning from space",
+    "authors": ["HJ Christian"],
+    "venue": "Proceedings of the 11th International Conference on Atmospheric Electricity,",
+    "year": 1999
+  }, {
+    "title": "Two new designs of ‘‘Field Mill’’ type fieldmeters not requiring earthing of rotating chopper",
+    "authors": ["JN Chubb"],
+    "venue": "IEE Trans Indus Appl",
+    "year": 1990
+  }, {
+    "title": "The charging of radioactive aerosols",
+    "authors": ["CF Clement", "RG Harrison"],
+    "venue": "J Aerosol Sci",
+    "year": 1992
+  }, {
+    "title": "Charge distributions and coagulation of radioactive aerosols",
+    "authors": ["CF Clement", "RA Clement", "RG Harrison"],
+    "venue": "J Aerosol Sci",
+    "year": 1995
+  }, {
+    "title": "Electric fields and lightning in the Mt",
+    "authors": ["WE Cobb"],
+    "venue": "St. Helens volcanic cloud. Eos Trans Am Geophys Union",
+    "year": 1980
+  }, {
+    "title": "Measuring Atmospheric Potential with Passive Antennas",
+    "authors": ["WD Crozier"],
+    "venue": "J Geophys Res",
+    "year": 1963
+  }, {
+    "title": "Lightning associated with the 1992 eruptions of Mt. Spurr volcano, Alaska",
+    "authors": ["CM Davis", "SR McNutt"],
+    "venue": "Eos Trans Am Geophys Union",
+    "year": 1993
+  }, {
+    "title": "Calculation of electrical conductivity from ion–aerosol balance equations",
+    "authors": ["S Dhanorkar", "AK Kamra"],
+    "venue": "J Geophys Res",
+    "year": 1997
+  }, {
+    "title": "Reduction and activation of phosphate on the primitive Earth",
+    "authors": ["RM De Graaf", "AW Schwartz"],
+    "year": 2000
+  }, {
+    "title": "Volcanic gases",
+    "authors": ["P Delmelle", "J Stix"],
+    "venue": "Origins Life Evol B",
+    "year": 2000
+  }, {
+    "title": "Encyclopedia of volcanoes",
+    "authors": ["S Eichkorn", "S Wilhelm", "H Aufmhoff", "KH Wohlfrom", "F Arnold"],
+    "year": 2002
+  }, {
+    "title": "Active volcanoes of Kamchatka",
+    "authors": ["SA Fedotov", "P Masurenkov Yu"],
+    "venue": "Nauka, Moscow Fisher RV,",
+    "year": 1991
+  }, {
+    "title": "Birth and development of Parı́cutin volcano, Mexico",
+    "authors": ["Princeton", "WF NJ Forshag", "JR González-Reyna"],
+    "year": 1956
+  }, {
+    "title": "Volcanoes a planetary perspective. OUP, Oxford Francis P, Oppeneheimer C (2004) Volcanoes",
+    "authors": ["Press", "London Francis P"],
+    "venue": "OUP, Oxford French BM",
+    "year": 1993
+  }, {
+    "title": "Activity of Parı́cutin volcano from July 1 to December",
+    "authors": ["Fries C Jr.", "Gutiérrez C"],
+    "venue": "Sudbury structure, Ontario Canada. Bull Volcanol",
+    "year": 1950
+  }, {
+    "title": "Charge measurements on particle fallout",
+    "authors": ["SJ Lane", "RSJ Sparks", "T Koyaguchi"],
+    "year": 1991
+  }, {
+    "title": "Chemical reduction of phosphate",
+    "authors": ["D Glindemann", "RM De Graaf", "AW Schwartz"],
+    "venue": "a volcanic plume. Nature",
+    "year": 1999
+  }, {
+    "title": "Paricutin, the cornfield that grew a volcano",
+    "authors": ["R Greeley", "PD Spudis"],
+    "venue": "Proceedings in Volcanology,",
+    "year": 1981
+  }, {
+    "title": "The statistical electrification of aerosols by ionic diffusion",
+    "authors": [],
+    "venue": "J Coll Sci",
+    "year": 1955
+  }, {
+    "title": "Structure and methods of locating the lightning discharge, MSc dissertation, The University",
+    "authors": ["GL Hamer"],
+    "year": 1996
+  }, {
+    "title": "Fossil’’ lightning strikes 250 million years ago",
+    "authors": ["WB Harland", "JLF Hacker"],
+    "venue": "Adv Sci",
+    "year": 1966
+  }, {
+    "title": "An antenna electrometer system for atmospheric electrical measurements",
+    "authors": ["RG Harrison"],
+    "venue": "Rev Sci Inst",
+    "year": 1997
+  }, {
+    "title": "A balloon-carried electrometer for high-resolution atmospheric electric field measurements in clouds",
+    "authors": ["RG Harrison"],
+    "venue": "Rev Sci Instrum",
+    "year": 2001
+  }, {
+    "title": "A wide-range electrometer voltmeter for atmospheric measurements in thunderstorms and disturbed meteorological conditions",
+    "authors": ["RG Harrison"],
+    "venue": "Rev Sci Instrum",
+    "year": 2002
+  }, {
+    "title": "The global atmospheric electrical circuit and climate",
+    "authors": ["RG Harrison"],
+    "venue": "Surv Geophys",
+    "year": 2004
+  }, {
+    "title": "Atmospheric turbulence and surface atmospheric electricity observations",
+    "authors": ["RG Harrison"],
+    "venue": "Inst Phys Conf Ser",
+    "year": 2004
+  }, {
+    "title": "Inexpensive multichannel digital data acquisition system for a meteorological radiosonde",
+    "authors": ["RG Harrison"],
+    "venue": "Rev Sci Instrum",
+    "year": 2005
+  }, {
+    "title": "Columnar resistance changes in urban air",
+    "authors": ["RG Harrison"],
+    "venue": "J Atmos Solar-Terrestrial Phys 67:763–773",
+    "year": 2005
+  }, {
+    "title": "Urban smoke concentrations at Kew, London, 1898–2004",
+    "authors": ["RG Harrison"],
+    "venue": "Atmos Environ",
+    "year": 2006
+  }, {
+    "title": "Mid-nineteenth century diurnal smoke concentrations at Kew, London",
+    "authors": ["RG Harrison", "KL Aplin"],
+    "venue": "Atmos Environ",
+    "year": 2002
+  }, {
+    "title": "Atmospheric Electricity. In: MacCracken MC, Perry JS (eds) Encyclopedia of global environmental change, vol 1. The earth system-physical and chemical dimensions of global environmental change",
+    "authors": ["RG Harrison", "KL Aplin"],
+    "year": 2003
+  }, {
+    "title": "Ion–aerosol–cloud processes in the lower atmosphere",
+    "authors": ["RG Harrison", "KS Carslaw"],
+    "venue": "Rev Geophys 41:1012,",
+    "year": 2003
+  }, {
+    "title": "Empirical evidence for a nonlinear effect of galactic cosmic rays on clouds",
+    "authors": ["RG Harrison", "DB Stephenson"],
+    "venue": "Proc Roy Soc A 462:1221–1233,",
+    "year": 2006
+  }, {
+    "title": "On the variation of the atmospheric potential gradient caused by the cloud of smoke of the volcano Asama. The second report",
+    "authors": ["H Hatakeyama"],
+    "venue": "J Meteor Soc Jpn 21:420–426",
+    "year": 1943
+  }, {
+    "title": "On the disturbance of the atmospheric potential gradient caused by the smoke-cloud of the Volcano Yake-yama",
+    "authors": ["H Hatakeyama"],
+    "venue": "J Meteor Soc Jpn 27:372–376",
+    "year": 1949
+  }, {
+    "title": "On the disturbance of the atmospheric potential gradient caused by the smoke-cloud of the Volcano Asama-yama",
+    "authors": ["H Hatakeyama"],
+    "venue": "Pap Meteor Geophys",
+    "year": 1958
+  }, {
+    "title": "On the variation of the atmospheric potential gradient caused by the cloud of smoke of the volcano Asama. The first report",
+    "authors": ["H Hatakeyama", "T Kubo"],
+    "venue": "J Meteor Soc Jpn 21:49–52",
+    "year": 1943
+  }, {
+    "title": "On the variation of the atmospheric potential gradient caused by the cloud of smoke of the volcano Asama. The third report",
+    "authors": ["H Hatakeyama", "T Kubo"],
+    "venue": "J Meteor Soc Jpn 21:426–428",
+    "year": 1943
+  }, {
+    "title": "On the variation of the atmospheric potential gradient caused by the cloud of smoke of the volcano Asama. The fourth report",
+    "authors": ["H Hatakeyama", "T Ishikawa"],
+    "year": 1946
+  }, {
+    "title": "On the disturbance of the atmospheric potential gradient caused by the eruption smoke of the Volcano Aso (in Japanese with English abstract)",
+    "authors": ["H Hatakeyama", "K Uchikawa"],
+    "venue": "J Meteor Soc Jpn",
+    "year": 1950
+  }, {
+    "title": "On the disturbance of the atmospheric potential gradient caused by the eruption smoke of the volcano Aso",
+    "authors": ["H Hatakeyama", "K Uchikawa"],
+    "venue": "Pap Meteorol Geophys",
+    "year": 1952
+  }, {
+    "title": "Seismic activity related to the March–April, 1982 eruptions of El Chichon volcano, Chiapas, Mexico",
+    "authors": ["J Havskov", "S De la Cruz-Reyna", "SK Singh", "F Medina", "C Gutierrez"],
+    "year": 1983
+  }, {
+    "title": "Volcanic ash",
+    "authors": ["G Heiken", "K Wohletz"],
+    "year": 1985
+  }, {
+    "title": "Surface-based observations of volcanic emissions to the stratosphere",
+    "authors": ["D Hofmann", "J Barnes", "E Dutton", "T Deshler", "H Jäger", "R Keen", "M Osborn"],
+    "year": 2003
+  }, {
+    "title": "Ion–aerosol attachment coefficients and the steady-state charge distribution on aerosols in a bipolar environment",
+    "authors": ["WA Hoppel", "GM Frick"],
+    "venue": "Aerosol Sci Tech",
+    "year": 1986
+  }, {
+    "title": "A geochemical investigation of fragmentation and physical fractionation in pycroclastic flows from Soufrière Hills volcano, Montserrat",
+    "authors": ["CJ Horwell", "LP Braña", "RSJ Sparks", "MD Murphy", "VL Hards"],
+    "venue": "J Volcanol Geotherm",
+    "year": 2001
+  }, {
+    "title": "Atmospheric electricity vol 1(Fundamentals, conductivity, ions) (Problems of cosmic physics vol 29), Israel Program for Scientific Translations",
+    "authors": ["H Isräel"],
+    "year": 1970
+  }, {
+    "title": "Atmospheric electricity vol 2 (Fields, charges, currents) (Problems of cosmic physics vol 29), Israel Program for Scientific Translations",
+    "authors": ["H Isräel"],
+    "year": 1973
+  }, {
+    "title": "The volcano Vesuvius in 1906",
+    "authors": ["TA Jaggar"],
+    "venue": "Tech Quart Proc",
+    "year": 1906
+  }, {
+    "title": "Volcanic plume monitoring using atmospheric electric potential gradients",
+    "authors": ["MR James", "SJ Lane", "JS Gilbert"],
+    "venue": "J Geol Soc Lond",
+    "year": 1998
+  }, {
+    "title": "Volcanic plume electrification: Experimental investigation of a fracture-charging mechanism",
+    "authors": ["MR James", "SJ Lane", "JS Gilbert"],
+    "venue": "J Geophys Res",
+    "year": 2000
+  }, {
+    "title": "Experimental investigation of a volcanic particle aggregation in the absence of a liquid phase",
+    "authors": ["MR James", "JS Gilbert", "SJ Lane"],
+    "venue": "J Geophys Res",
+    "year": 2002
+  }, {
+    "title": "Density, construction, and drag coefficient of electrostatic volcanic ash aggregates",
+    "authors": ["MR James", "SJ Lane", "JS Gilbert"],
+    "venue": "J Geophys Res",
+    "year": 2003
+  }, {
+    "title": "Laboratory studies of the charging of soft-hail during ice crystal interactions",
+    "authors": ["ER Jayaratne", "CPR Saunders", "J Hallett"],
+    "venue": "Q J Roy Meteor Soc 109:609–630",
+    "year": 1983
+  }, {
+    "title": "Volcano Town: the 1937–43",
+    "authors": ["RW Johnson", "NA Threlfall"],
+    "venue": "Rabaul eruptions. Robert Brown & Associates,",
+    "year": 1985
+  }, {
+    "title": "Io: evidence for silicate volcanism",
+    "authors": ["TV Johnson", "GJ Veeder", "DL Matson", "RH Brown", "RM Nelson", "D Morrison"],
+    "venue": "Science",
+    "year": 1988
+  }, {
+    "title": "The Mt. Spurr eruption, July 9,1953",
+    "authors": ["W Juhle", "H Coulter"],
+    "venue": "Eos Trans Am Geophys Union",
+    "year": 1955
+  }, {
+    "title": "Sudrajat A (1984) Galunggung: the 1982–1983 eruption, Volcanological Survey of Indonesia",
+    "authors": ["JA Katili"],
+    "year": 1983
+  }, {
+    "title": "The rise of atmosphere oxygen",
+    "authors": ["JF Kasting"],
+    "venue": "Science",
+    "year": 2001
+  }, {
+    "title": "Evolution of a habitable planet",
+    "authors": ["JF Kasting", "D Catling"],
+    "venue": "Annu Rev Astron Astr",
+    "year": 2003
+  }, {
+    "title": "The 1988–1989 explosive eruption of Tokachi-dake, Central Hokkaido, its sequence and mode",
+    "authors": ["Y Katsui", "S Kawachi", "Y Kondo", "Y Ikeda", "M Nakagawa", "Y Gotoh", "H Yamagishi", "T Yamazaki", "M Sumita"],
+    "year": 1990
+  }, {
+    "title": "Charge equilibrium in aerosols according to the Boltzmann law",
+    "authors": ["D Keefe", "PJ Nolan", "TA Rich"],
+    "venue": "Proc R Irish Acad 60A:27–45",
+    "year": 1959
+  }, {
+    "title": "Volcanic hazards from future eruptions of Augustine volcano, Alaska",
+    "authors": ["J Kienle", "SE Swanson"],
+    "venue": "Report UAG R-275,",
+    "year": 1985
+  }, {
+    "title": "Atmospheric electrical properties of volcanic ash particles in the eruption of Mt",
+    "authors": ["K Kikuchi", "T Endoh"],
+    "venue": "Usu volcano,",
+    "year": 1982
+  }, {
+    "title": "Atmospheric electrical observations of the 1977 eruption of the Mt. Usu volcano, Usu eruption and its impact on environment (in Japanese with English abstract), in An interdisciplinary research on environmental changes caused by the 1977 eruption of Usu volcano",
+    "authors": ["K Kikuchi", "T Endoh", "Y Konno", "M Murakami"],
+    "year": 1978
+  }, {
+    "title": "The effect of the Mt St Helens eruption on tropospheric and stratospheric ions",
+    "authors": ["Y Kondo", "R Reiter", "H Jager", "M Takagi"],
+    "venue": "Pure Appl Geophys",
+    "year": 1982
+  }, {
+    "title": "Accretion, core formation, H and C evolution of the Earth and Mars",
+    "authors": ["K Kuramoto"],
+    "venue": "Phys Earth Planet Int",
+    "year": 1997
+  }, {
+    "title": "Partitioning of H and C between the mantle and core during the core formation in the Earth: Its implications for the atmospheric evolution a redox state of early mantle",
+    "authors": ["K Kuramoto", "T Matsui"],
+    "venue": "J Geophys Res",
+    "year": 1996
+  }, {
+    "title": "Volcanic dust in the atmosphere, with a chronology and assessment of its meteorological significance",
+    "authors": ["HH Lamb"],
+    "venue": "Philos Trans Roy Soc London A",
+    "year": 1970
+  }, {
+    "title": "The Elements of Rage",
+    "authors": ["FW Lane"],
+    "venue": "David and Charles Publishers",
+    "year": 1966
+  }, {
+    "title": "Electric potential gradient changes during explosive activity at Sakurajima volcano, Japan",
+    "authors": ["SJ Lane", "JS Gilbert"],
+    "venue": "Bull Volcanol",
+    "year": 1992
+  }, {
+    "title": "Electrical and chemical properties of eruption plumes at Sakurajima Volcano, Japan",
+    "authors": ["SJ Lane", "JS Gilbert", "AJ Kemp"],
+    "venue": "Report on the 8th Joint Comprehensive Observation of Sakurajima Volcano,",
+    "year": 1995
+  }, {
+    "title": "Holocene eruptions within the Katla volcanic system, south Iceland: characteristics and environmental impact",
+    "authors": ["G Larsen"],
+    "year": 2000
+  }, {
+    "title": "Das Laden von Aerosolteilchen in einer bipolaren Ionenatmosphäre",
+    "authors": ["P Lissowski"],
+    "venue": "Acta Physicochimica URSS",
+    "year": 1940
+  }, {
+    "title": "Galileo NIMS Team (1997) Hot spots on Io: initial results from Galileo’s near infrared mapping spectrometer",
+    "authors": ["R Lopes-Gautier", "AG Davies", "R Carlson", "W Smythe", "L Kamp", "L Soderblom", "FE Leader", "R Mehlman"],
+    "year": 1997
+  }, {
+    "title": "Parı́cutin The Volcano Born in a Mexican Cornfield",
+    "authors": ["JF Luhr", "T Simkin"],
+    "year": 1993
+  }, {
+    "title": "Further signatures of long-term changes in atmospheric electrical parameters observed in Europe",
+    "authors": ["F Märcz", "RG Harrison"],
+    "venue": "Ann Geophys",
+    "year": 2005
+  }, {
+    "title": "On the generation of charge associated with graupel formation in thunderstorms",
+    "authors": ["BJ Mason"],
+    "venue": "Q J Roy Meteor Soc",
+    "year": 1953
+  }, {
+    "title": "The physics of clouds (2nd ed.), OUP",
+    "authors": ["BJ Mason"],
+    "year": 1971
+  }, {
+    "title": "The generation of electric charges and fields in thunderstorms",
+    "authors": ["BJ Mason"],
+    "venue": "Proc Roy Soc A",
+    "year": 1988
+  }, {
+    "title": "Tropospheric Volcanic Aerosol",
+    "authors": ["TA Mather", "DM Pyle", "C Oppenheimer"],
+    "venue": "Geophysical Monograph",
+    "year": 2003
+  }, {
+    "title": "The electrical nature of storms, OUP",
+    "authors": ["DR McGorman", "WD Rust"],
+    "year": 1998
+  }, {
+    "title": "Global volcanism 1975–1985",
+    "authors": ["L McClelland", "T Simkin", "M Summers", "E Nielsen", "TC Stein"],
+    "year": 1989
+  }, {
+    "title": "Rabaul caldera, Papua New Guinea: volcanic hazards, surveillance, and eruption contingency planning",
+    "authors": ["CO McKee", "RW Johnson", "PL Lowenstein", "SJ Riley", "RJ Blong", "P de Saint Ours", "B Talai"],
+    "venue": "J Volcanol Geotherm Res",
+    "year": 1985
+  }, {
+    "title": "Lightning associated with the 1992 eruptions of Crater Peak Mount Spurr Volcano, Alaska",
+    "authors": ["SR McNutt", "CM Davis"],
+    "venue": "J Volcanol Geotherm Res",
+    "year": 2000
+  }, {
+    "title": "Charge distributions for radioactive aerosols in a bipolar atmosphere permeated by an electric field",
+    "authors": ["JE Mead"],
+    "venue": "MS Thesis, Kansas State University",
+    "year": 1978
+  }, {
+    "title": "On the correlation between ionospheric potential and cosmic rays. In: McCormac BM (ed) Weather and climate response to solar variations. Colo",
+    "authors": ["RE Meyerott", "JB Reagan", "JE Evans"],
+    "year": 1983
+  }, {
+    "title": "A production of amino acids under possible primitive Earth conditions",
+    "authors": ["SL Miller"],
+    "venue": "Science",
+    "year": 1953
+  }, {
+    "title": "Atmospheric electric potential gradient measurements of ash clouds generated by pyroclastic flows at Unzen volcano, Japan",
+    "authors": ["T Miura", "T Koyaguchi", "Y Tanaka"],
+    "year": 1996
+  }, {
+    "title": "Measurements of electric charge distribution in volcanic plumes at Sakurajima volcano Japan",
+    "authors": ["T Miura", "T Koyaguchi", "Y Tanaka"],
+    "year": 2002
+  }, {
+    "title": "Monitoring of airborne particulate matter during the eruption of Soufrière Hills volcano, Montserrat. In: Druitt TH, Kokelaar BP (eds) The eruption of Soufrière Hills Volcano, Montserrat",
+    "authors": ["KR Moore", "H Duffell", "A Nicholl", "A Searl"],
+    "venue": "Geol Soc London Memoirs",
+    "year": 2002
+  }, {
+    "title": "The physical volcanology of Mars",
+    "authors": ["P Mouginis-Mark", "L Wilson", "M Zuber"],
+    "year": 1992
+  }, {
+    "title": "The global circuit and its parameters. In: Dolezalek H, Reiter R (eds) Electrical processes in atmospheres",
+    "authors": ["R Mülheisen"],
+    "venue": "Steinkopf Verlag,",
+    "year": 1977
+  }, {
+    "title": "Pyroclastic eruptions of Ngauruhoe volcano, central north island",
+    "authors": ["IA Nairn", "CAY Hewson", "JH Latter", "CP Wood"],
+    "venue": "New Zealand,",
+    "year": 1976
+  }, {
+    "title": "Hydrogen sulphide on Io: evidence from telescopic and laboratory infrared spectra",
+    "authors": ["DB Nash", "RR Howell"],
+    "venue": "Science",
+    "year": 1989
+  }, {
+    "title": "Prebiotic synthesis by lightning in Martian volcanic plumes. In: Chela-Flores J, Raulin F (eds) Exobiology: matter, energy and information in the origin and evolution of life in the universe",
+    "authors": ["R Navarro-González", "VA Basiuk"],
+    "year": 1998
+  }, {
+    "title": "Volcanic lightning and the availability of reactive nitrogen and phosphorus for chemical evolution",
+    "authors": ["R Navarro-González", "A Segura"],
+    "year": 2001
+  }, {
+    "title": "Lightning associated to Archean volcanic ash-gas clouds. In: Chela-Flores J, Raulin F (eds) Chemical evolution: physics of the origin and evolution of life",
+    "authors": ["R Navarro-González", "VA Basiuk", "M Rosenbaum"],
+    "year": 1996
+  }, {
+    "title": "Constraining the potential temperature of the Archaean mantle: A review of the evidence from komatiites",
+    "authors": ["EG Nisbet", "MJ Cheadle", "NT Arndt", "MJ Bickle"],
+    "venue": "Lithos",
+    "year": 1993
+  }, {
+    "title": "Volcanic activity in Alaska and Kamchatka: Summary of events and response of the Alaska Volcano Observatory 1996, US Geological Survey Open-file report",
+    "authors": ["CA Neal", "RG McGimsey"],
+    "year": 1997
+  }, {
+    "title": "Lightning: nature’s high-voltage spectacle",
+    "authors": ["WR Newcott", "P Menzel"],
+    "venue": "National Geographic",
+    "year": 1993
+  }, {
+    "title": "The volcanic explosivity index (VEI)—an estimate of explosive magnitude for historical volcanism",
+    "authors": ["CG Newhall", "S Self"],
+    "venue": "J Geophys Res",
+    "year": 1982
+  }, {
+    "title": "The 1977–1978 eruption of Usu volcano",
+    "authors": ["K Niida", "Y Katsui", "T Suzuki", "Y Kondo"],
+    "venue": "J Fac Sci Hokkaido Univ",
+    "year": 1980
+  }, {
+    "title": "Impact of Parı́cutin on five communities. In: Sheets PD, Grayson DK (eds) Volcanic activity and human ecology",
+    "authors": ["ML Nolan"],
+    "year": 1979
+  }, {
+    "title": "Does Europa have a subsurface ocean? Evaluation of the geological",
+    "authors": ["RT Pappalardo", "MJS Belton", "HH Breneman", "MH Carr", "CR Chapman", "GC Collins", "T Denk", "S Fagents", "PE Geissler", "B Giese", "R Greeley", "R Greenberg", "JW Head", "P Helfenstein", "G Hoppa", "SD Kadel", "KP Klaasen", "JE Klemaszewski", "K Magee", "AS McEwen", "JM Moore", "WB Moore", "G Neukum", "CB Phillips", "LM Prockter", "G Schubert", "DA Senske", "RJ Sullivan", "BR Tufts", "EP Turtle", "R Wagner", "KK Williams"],
+    "year": 1999
+  }, {
+    "title": "Electrical discharge from a thundercloud top to the lower ionosphere",
+    "authors": ["VP Pasko", "MA Stanley", "JD Mathews", "US Inan", "TG Wood"],
+    "venue": "Nature",
+    "year": 2002
+  }, {
+    "title": "Lightning associated with the August 18, 1992, eruption of Crater Peak vent, Mount Spurr Volcano, Alaska",
+    "authors": ["JF Paskievitch", "TL Murray", "RP Hoblitt", "CA Neal"],
+    "venue": "Keith TEC (ed) The 1992 eruptions of Crater Peak, Mount Spurr, Alaska. U.S. Geol. Surv. Bull",
+    "year": 1995
+  }, {
+    "title": "The Vesuvius eruption of 1906",
+    "authors": ["FA Perret"],
+    "venue": "Carnegie Institution of Washington",
+    "year": 1924
+  }, {
+    "title": "Electrification from salt water on heated metals",
+    "authors": ["C Pounder"],
+    "venue": "J Phys D Appl Phys 5:753–755",
+    "year": 1972
+  }, {
+    "title": "Volcanic lightning",
+    "authors": ["C Pounder"],
+    "venue": "Weather",
+    "year": 1980
+  }, {
+    "title": "The eruption of Taal volcano",
+    "authors": ["WE Pratt"],
+    "venue": "January 30,",
+    "year": 1911
+  }, {
+    "title": "Microphysics of clouds and precipitation, 2nd edn",
+    "authors": ["HR Pruppacher", "JD Klett"],
+    "year": 1997
+  }, {
+    "title": "The thickness, volume and grainsize of tephra fall deposits",
+    "authors": ["DM Pyle"],
+    "venue": "Bull Volcanol",
+    "year": 1989
+  }, {
+    "title": "Mass and energy budgets of explosive volcanic eruptions",
+    "authors": ["DM Pyle"],
+    "venue": "Gephys Res Lett",
+    "year": 1995
+  }, {
+    "title": "Sizes of volcanic eruptions",
+    "authors": ["DM Pyle"],
+    "venue": "Sigurdsson H (ed) Encyclopedia of volcanoes,",
+    "year": 2000
+  }, {
+    "title": "Models for the Archaean thermal regime",
+    "authors": ["FM Richter"],
+    "venue": "Earth Planet Sci Lett 73:350–360",
+    "year": 1985
+  }, {
+    "title": "Ice cores as an index of global volcanism from 1850 to the present",
+    "authors": ["A Robock", "MP Free"],
+    "venue": "J Geophys Res",
+    "year": 1995
+  }, {
+    "title": "Eruption of Hekla, Iceland from a Satellite Perspective",
+    "authors": ["WI Rose", "Y Gu", "IM Watson", "T Yu", "GJS Bluth", "AJ Prata", "AJ Krueger", "N Krotkov", "S Carn", "MD Fromm", "DE Hunton", "GGJ Ernst", "AA Viggiano", "TM Miller", "JO Ballenthin", "JM Reeves", "JC Wilson", "BE Anderson", "DE Flittner"],
+    "venue": "The February–March",
+    "year": 2003
+  }, {
+    "title": "The global atmospheric electric circuit, solar activity and climate change",
+    "authors": ["MJ Rycroft", "S Israelsson", "C Price"],
+    "venue": "J Atmos Sol-Terr Phys 62:1563–1576",
+    "year": 2000
+  }, {
+    "title": "Petrological and volcanological constraints on volcanic sulfur emissions to the atmosphere",
+    "authors": ["B Scaillet", "J Luhr", "MR Carroll"],
+    "venue": "Robock A, Oppenheimer C (eds) Volcanism and the earth’s atmosphere, Geophysical Monograph",
+    "year": 2003
+  }, {
+    "title": "Eruption! Mt. Ruapehu, N.Z. (postcard), Kiwi Vista collection New Zealand",
+    "authors": ["M Schneider"],
+    "year": 1995
+  }, {
+    "title": "Experimental simulation of early Martian volcanic lightning",
+    "authors": ["A Segura", "R Navarro-González"],
+    "venue": "Adv Space Res",
+    "year": 2001
+  }, {
+    "title": "Nitrogen fixation on early Mars by volcanic lightning and other sources",
+    "authors": ["A Segura", "R Navarro-González"],
+    "venue": "Geophys Res Lett 32:L05203",
+    "year": 2005
+  }, {
+    "title": "Cosmic ray diffusion from the galactic spiral arms, iron meteorites, and a possible climatic connection",
+    "authors": ["NJ Shaviv"],
+    "venue": "Phys Rev Lett 89:051102",
+    "year": 2002
+  }, {
+    "title": "The eruption of Soufriere volcano",
+    "authors": ["JB Sheppard", "WP Aspinall", "KC Rowley", "J Pereire", "H Sigurdsson", "RS Fiske", "JF Tomblin"],
+    "venue": "St. Vincent April–June",
+    "year": 1979
+  }, {
+    "title": "The man who fought Vesuvius",
+    "authors": ["D Shore"],
+    "venue": "Weekend Mag July",
+    "year": 1975
+  }, {
+    "title": "Caldera collapse in the Galapagos Islands",
+    "authors": ["T Simkin", "KA Howard"],
+    "venue": "Science",
+    "year": 1970
+  }, {
+    "title": "Krakatau 1883: The volcanic eruption and its effects",
+    "authors": ["T Simkin", "RS Fiske"],
+    "year": 1983
+  }, {
+    "title": "Volcanoes of the world, 2nd edn. Geoscience",
+    "authors": ["T Simkin", "L Siebert"],
+    "venue": "Tucson Ariz",
+    "year": 1994
+  }, {
+    "title": "Volcanic Plumes",
+    "authors": ["RSJ Sparks", "MI Bursik", "SN Carey", "JS Gilbert", "LS Glaze", "H Sigurdsson", "AW Woods"],
+    "year": 1997
+  }, {
+    "title": "The feasibility study on the measurement technique for estimation of the energy of volcanic plumes (in Japanese), Report on Sunshine project",
+    "authors": ["Y Tanaka"],
+    "venue": "Agency of Natural Resources and Energy,",
+    "year": 1975
+  }, {
+    "title": "On the variability of the stratospheric column resistance in the global electric circuit",
+    "authors": ["BA Tinsley"],
+    "venue": "Atmos Res",
+    "year": 2005
+  }, {
+    "title": "Effects of image charges on the scavenging of aerosol particles by cloud droplets and on droplet charging and possible ice nucleation processes",
+    "authors": ["BA Tinsley", "RP Rohrbaugh", "M Hei", "KV Beard"],
+    "venue": "J Atmos Sci",
+    "year": 2000
+  }, {
+    "title": "Scavenging of electrified radioactive aerosol",
+    "authors": ["SN Tripathi", "RG Harrison"],
+    "venue": "Atmos Environ",
+    "year": 2001
+  }, {
+    "title": "Enhancement of contact nucleation by scavenging of charged aerosol particles",
+    "authors": ["SN Tripathi", "RG Harrison"],
+    "venue": "Atmos Res",
+    "year": 2002
+  }, {
+    "title": "Computationally-efficient expressions for the collision efficiency between electrically charged aerosol particles and cloud droplets",
+    "authors": ["SN Tripathi", "S Vishnoi", "S Kumar", "RG Harrison"],
+    "venue": "Q J Roy Meteor Soc (in press)",
+    "year": 2006
+  }, {
+    "title": "The lightning discharge",
+    "authors": ["MA Uman"],
+    "venue": "International Geophysics Series,",
+    "year": 1987
+  }, {
+    "title": "Role of natural ionisation in the formation of condensation nuclei in the atmospheric air",
+    "authors": ["KG Vohra", "MC Subba Ramu", "KN Vasudevan"],
+    "venue": "Coroniti SC, Hughes J (eds) Planetary electrodynamics. Gordon and Breach Science Publishers",
+    "year": 1969
+  }, {
+    "title": "Some effects of recent volcanic ash falls with especial reference to Alaska",
+    "authors": ["RE Wilcox"],
+    "venue": "US Geol Surv Bull 1028-N:409–476",
+    "year": 1959
+  }, {
+    "title": "Aerosol modulation of small ion growth in coastal air",
+    "authors": ["RJ Wilding", "RG Harrison"],
+    "venue": "Atmos Environ",
+    "year": 2005
+  }, {
+    "title": "Characteristics of atmospheric ions in contrasting environments",
+    "authors": ["M Wilkening"],
+    "venue": "J Geophys Res",
+    "year": 1985
+  }, {
+    "title": "Are large volcanic eruptions just dirty thunderstorms",
+    "authors": ["ER Williams", "SR McNutt"],
+    "venue": "Eos Trans. Am. Geophys. Union 85, Fall Meet. Suppl.,",
+    "year": 2004
+  }, {
+    "title": "Review and analysis of volcanic eruption theory and relationships to observed landforms",
+    "authors": ["L Wilson", "J Head"],
+    "venue": "Rev Geophys",
+    "year": 1994
+  }, {
+    "title": "Electric field measurements in thunderclouds using instrumented rockets",
+    "authors": ["WP Winn", "CP Moore"],
+    "venue": "J Geophys Res",
+    "year": 1971
+  }],
+  "id": "SP:9ee15b03a226e39680aa53b2e3ed0e9373c407f6",
+  "authors": [{
+    "name": "T. A. Mather",
+    "affiliations": []
+  }],
+  "abstractText": "Volcanic lightning, perhaps the most spectacular consequence of the electrification of volcanic plumes, has been implicated in the origin of life on Earth, and may also exist in other planetary atmospheres. Recent years have seen volcanic lightning detection used as part of a portfolio of developing techniques to monitor volcanic eruptions. Remote sensing measurement techniques have been used to monitor volcanic lightning, but surface observations of the atmospheric electric Potential Gradient (PG) and the charge carried on volcanic ash also show that many volcanic plumes, whilst not sufficiently electrified to produce lightning, have detectable electrification exceeding that of their surrounding environment. Electrification has only been observed associated with ash-rich explosive plumes, but there is little evidence that the composition of the ash is critical to its occurrence. Different conceptual theories for charge generation and separation in volcanic plumes have been developed to explain the disparate observations obtained, but the ash fragmentation mechanism appears to be a key parameter. It is unclear which mechanisms or combinations of electrification mechanisms dominate in different circumstances. Electrostatic forces play an important role in modulating the dry fallout of ash from a volcanic plume. Beyond the local electrification of plumes, the higher stratospheric particle concentrations following a large explosive eruption may affect the global atmospheric electrical circuit. It is possible that this might present another, if minor, way by which large volcanic eruptions affect global climate. The direct hazard of volcanic lightning to communities is generally low compared to other aspects of volcanic activity. T. A. Mather (&) Department of Earth Sciences, University of Oxford, Parks Road, Oxford OX1 3PR, UK e-mail: Tamsin.Mather@earth.ox.ac.uk R. G. Harrison Department of Meteorology, The University of Reading, 243 Earley Gate, Reading RG6 6BB, UK e-mail: r.g.harrison@reading.ac.uk 123 Surv Geophys (2006) 27:387–432 DOI 10.1007/s10712-006-9007-2 ORI GI N A L P A PE R Electrification of volcanic plumes T. A. Mather Æ R. G. Harrison Received: 13 February 2006 / Accepted: 2 June 2006 / Published online: 20 July 2006 Springer Science+Business Media B.V. 2006",
+  "title": "Electrification of volcanic plumes"
+}

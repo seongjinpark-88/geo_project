@@ -1,0 +1,268 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nEarth and Planetary Science Letters\nwww.elsevier.com/locate/epsl\nClimate cycling on early Mars caused by the carbonate–silicate cycle\nNatasha E. Batalha a,b,c,∗, Ravi Kumar Kopparapu c,d,e,f, Jacob Haqq-Misra c,d, James F. Kasting b,c,g\na Department of Astronomy & Astrophysics, Penn State University, University Park, PA 16802, USA b Center for Exoplanets and Habitable Worlds, Pennsylvania State University, University Park, PA 16802, USA c NASA Astrobiology Institute’s Virtual Planetary Laboratory, P.O. Box 351580, Seattle, WA 98195, USA d Blue Marble Space Institute of Science, 1001 4th Ave Suite 3201, Seattle, WA 98154, USA e NASA Goddard Space Flight Center, 8800 Greenbelt Road, Mail Stop 699.0 Building 34, Greenbelt, MD 20771, USA f Department of Astronomy, University of Maryland, College Park, MD 20771, USA g Department of Geosciences, Penn State University, University Park, PA 16802, USA\na r t i c l e i n f o a b s t r a c t\nArticle history: Received 26 January 2016 Received in revised form 23 August 2016 Accepted 31 August 2016 Available online 3 October 2016 Editor: C. Sotin\nKeywords: Mars martian climate valley formation\nFor decades, scientists have tried to explain the evidence for fluvial activity on early Mars, but a consensus has yet to emerge regarding the mechanism for producing it. One hypothesis suggests early Mars was warmed by a thick greenhouse atmosphere. Another suggests that early Mars was generally cold but was warmed occasionally by impacts or by episodes of enhanced volcanism. These latter hypotheses struggle to produce the amounts of rainfall needed to form the martian valleys, but are consistent with inferred low rates of weathering compared to Earth. Here, we provide a geophysical mechanism that could have induced cycles of glaciation and deglaciation on early Mars. Our model produces dramatic climate cycles with extended periods of glaciation punctuated by warm periods lasting up to 10 Myr—much longer than those generated in other episodic warming models. The cycles occur because stellar insolation was low, and because CO2 outgassing is not able to keep pace with CO2 consumption by silicate weathering followed by deposition of carbonates. While CO2 by itself is not able to deglaciate early Mars in our model, we assume that the greenhouse effect is enhanced by substantial amounts of H2 outgassed from Mars’ reduced crust and mantle. Our hypothesis can be tested by future Mars exploration that better establishes the time scale for valley formation.\n© 2016 Elsevier B.V. All rights reserved."
+  }, {
+    "heading": "1. Introduction",
+    "text": "Observational evidence for large-scale fluvial features on the martian surface dates back to NASA’s Mariner 9 and Viking Missions (Masursky et al., 1977). Most of these features formed in the Late Noachian and Early Hesperian, ∼3.8 Gyr ago, based on ages determined from crater counting (Fassett and Head, 2008). The geomorphological evidence includes the presence of valley networks (Cabrol and Grin, 2001), tributaries (Irwin et al., 2008), meandering channels (Hynek et al., 2010), open and closed-basin lakes (Goldspiel and Squyres, 1991), and the presence of phyllosilicates (Poulet et al., 2005). New findings from Mars Science Laboratory (MSL) indicate that Gale Crater was also once filled with liquid water for 10,000 to 10 million years (Grotzinger et al., 2015), implying that surface liquid water persisted for prolonged periods of time. Recent ground-based observations of deuterium-to-hydrogen (D/H)\n* Corresponding author. E-mail address: neb149@psu.edu (N.E. Batalha).\nhttp://dx.doi.org/10.1016/j.epsl.2016.08.044 0012-821X/© 2016 Elsevier B.V. All rights reserved.\nratios in martian ground ice imply that at least 137 m of exchangeable water was originally available (Villanueva et al., 2015). The implied initial water inventory could be significantly larger if much of the H escaped hydrodynamically, carrying D with it (Batalha et al., 2015).\nDespite the abundant evidence for sustained liquid water, climate modelers have had difficulty explaining how early Mars could have maintained a temperate environment. The Sun was ∼25 percent less bright at the time when most of the valleys formed, making it difficult or impossible to warm the surface using only the greenhouse gases CO2 and H2O (Kasting, 1991). Even 3-D climate models that include seasonal cycles and obliquity variations are unable to produce warm conditions (Forget et al., 2013). Adding SO2 or CH4 to the mix of greenhouse gases does not generate significant warming: the SO2 either rains out (Batalha et al., 2015; Halevy and Head III, 2014) or photolyzes to form sulfate aerosols (Kerber et al., 2015; Tian et al., 2010), whereas CH4 absorbs incoming solar near-infrared radiation in the stratosphere, creating anti-\ngreenhouse cooling that offsets its greenhouse warming (Ramirez et al., 2014).\nOne supplementary greenhouse gas, H2, can produce a warm climate, provided that it is supplied in sufficient quantities (Ramirez et al., 2014). H2 absorbs effectively across the thermal-infrared spectrum as a consequence of collision-induced excitation of its rotational energy levels (Wordsworth and Pierrehumbert, 2013). 1-D climate modeling suggests that CO2 partial pressures of >1.5 bar, combined with H2 mixing ratios of 5 percent or more, could have kept early Mars’ mean surface temperature above the freezing point of water (Ramirez et al., 2014). Outgassing of H2 could result from a highly reduced mantle (Batalha et al., 2015; Ramirez et al., 2014) or from serpentinization of ultramafic crust (Batalha et al., 2015; Chassefière et al., 2014). Greenhouse warming by H2 plays a critical role in the episodic warming mechanism described below.\nIn addition to H2, the Ramirez et al. (2014) greenhouse warming mechanism also requires substantial amounts (1.5–3 bar) of CO2. From the standpoint of initial planetary inventories, this amount of CO2 is not unreasonable. Earth has the equivalent of ∼60 bar of CO2 tied up in carbonate rocks in its crust (Walker, 1985). If Mars was endowed with the same amount of carbon per unit mass, its initial inventory should have been on the order of 10 bars, accounting for its 9 × smaller mass, 4 × smaller surface area, and 3 × smaller gravity. Questions remain as to how fast this carbon would have been outgassed and whether CO2, or any atmospheric gas, could have been retained, given the intense solar EUV flux early in solar system history (Lammer et al., 2013). But if much of the carbon was sequestered in carbonates early on, then perhaps it could have been protected from loss during this time. Continued recycling of volatiles between the crust and the mantle would be required to revolatilize CO2 later on and sustain significant volcanic outgassing rates, as discussed further below.\nThe scarcity of visible carbonate outcrops near Mars’ surface has been used to argue that such a dense CO2 atmosphere never existed (Hu et al., 2015). But carbonate has been observed in martian dust (Bandfield et al., 2003), in SNC meteorites (Bridges et al., 2001), and in the bottoms of fresh craters (Michalski and Niles, 2010), so it is definitely present within the crust. The lack of surface outcrops could be caused by the high acidity of rainwater under a dense CO2 atmosphere, which may have dissolved carbonate minerals near the surface and reprecipitated them at depth (Kasting, 2010, Ch. 8).\nDespite the evidence for fluvial activity, the difficulties in producing warm climates discussed above have spawned the idea that the early martian surface was generally frozen. Outflow channels on Mars have been interpreted as large flooding events, perhaps caused by magmatic heating of subsurface ice followed by breaching of groundwater through an icy surface (Baker, 1962; Cassanelli et al., 2015). Valley networks have been interpreted as snow migration, perhaps caused by obliquity variations and seasonal melting (Wordsworth et al., 2015). In short, the evidence for the state of the early martian climate is mixed, which is consistent with the hypothesis outlined below.\nEven if early Mars was generally cold, there are several proposed mechanisms by which the climate could have been warmed transiently, perhaps long enough to form the valleys. (We refer to these as ‘cold early Mars’ hypotheses.) One theory suggests that impacts during the Late Heavy Bombardment created thick steam atmospheres that then rained out to form the valleys (Segura et al., 2012). But the thousands of years of warm climates and the ∼600 m of planet-wide rainfall that impacts would have produced are probably several orders of magnitude too short or too low to carve the valleys (Hoke et al., 2011). Extending these warm periods with cirrus clouds (Urata and Toon, 2013) requires 100 percent cloud cover within each cloudy grid cell, combined with a low\nconversion efficiency of cloud particles to precipitation (their autoconversion parameter, B), both of which seem unlikely. Other GCM studies of CO2-rich early martian atmospheres do not produce warm climates unless additional (unspecified) radiative absorbers are added (Wordsworth et al., 2013, 2015). Alternatively, sporadic volcanic outgassing of SO2 has been suggested as a warming mechanism (Halevy and Head III, 2014), but these authors ignored rainout, as noted earlier.\nAll of these theories of martian valley formation have overlooked a phenomenon that has been suggested to be important for early Earth, as well as for planets orbiting near the outer edge of their star’s habitable zone. Planets on which the CO2 outgassing rate is small (Tajika, 2003), or for which stellar insolation is low (Menou, 2015), are predicted to undergo repeated cycles of global glaciation/deglaciation as a consequence of the dependence of the CO2 removal rate on temperature and CO2 partial pressure, pCO2. These ‘limit cycles’ occur because when the planet is in a glaciated state, CO2 consumption by silicate weathering cannot keep pace with CO2 outgassing from volcanoes. Atmospheric CO2 builds up and increases the planet’s surface temperature until it is able to deglaciate. But once the planet is ice-free, CO2 outgassing cannot keep pace with consumption by weathering, so the planet falls back into global glaciation, and the cycle repeats. Such limit cycling does not occur on modern Earth because the solar flux is sufficiently high that weathering can balance outgassing at relatively low atmospheric pCO2 (Fig. 1). Furthermore, on an inhabited planet like Earth, soil pCO2 is decoupled from atmospheric pCO2 by the activities of vascular plants (Berner, 1992). Here we show that on a poorly illuminated early Mars, the high pCO2 values required for climatic warmth could have induced rapid weathering, perhaps triggering limit cycles."
+  }, {
+    "heading": "2. Why climate limit cycles should occur on early Mars but not on Earth",
+    "text": "To begin, we looked at terrestrial and martian climates on a global scale using a 1-D climate model coupled to a simple model of silicate weathering. Some important differences between our weathering model and that of Menou (2015) are discussed below. In Section 3, we perform a more complex set of coupled climate/weathering rate calculations using an energy-balance climate model similar to that used by Menou, but with significant updates."
+  }, {
+    "heading": "2.1. 1-D climate model calculations for present Earth",
+    "text": "Our 1-D climate model has been extensively described elsewhere (Kopparapu et al., 2013; Ramirez et al., 2014), so only a brief summary will be given here. We use the two-stream approximation to treat radiative transfer and assume that the net emitted infrared flux is equal to the net absorbed solar flux in each layer in the stratosphere. Convection in the troposphere is parameterized by assuming a moist CO2 or H2O adiabatic lapse rate, following Kasting (1991).\nClouds are not included explicitly in our 1D model, but their effect on climate is simulated by adjusting the surface albedo, as . For Earth, the actual surface albedo is ∼0.1 or below, but we use a value of 0.31. This allows the model to reproduce the present mean surface temperature of 288 K, given present solar insolation and present (or preindustrial) pCO2, 3 × 10−4 bar. This calculation is shown by the point labeled ‘Present Earth’ in Fig. 1. As pCO2 is increased, the surface temperature increases along the green curve. Our model predicts about 10 K of warming per factor of 10 increase in CO2, or 3 K per CO2 doubling, which is near the middle of the 1.5–4.5 K range predicted using more complicated 3-D climate models (IPCC, 2013).\nWe have done 1-D climate model calculations for early Mars, as well. Before discussing those, though, we describe the other part of our coupled model, namely, the dependence of pCO2 on surface temperature via weathering."
+  }, {
+    "heading": "2.2. The carbonate–silicate cycle",
+    "text": "pCO2 is a function of surface temperature by way of its participation in the carbonate–silicate cycle (Menou, 2015; Tajika, 2003). We modeled the time-dependent mass exchange of CO2 with the crust in a manner similar to that of Menou: d dt (pCO2) = V − W (1)\nHere, pCO2 is the partial pressure of CO2 in bar, V is the volcanic outgassing of CO2 (in bar/Gyr), and W is the rate at which CO2 gets removed via rock weathering. These outgassing units are non-standard and can lead to confusion. Menou took the CO2 outgassing rate for Earth to be 7 bar/Gyr. We can convert this rate to geochemists’ units of Tmol/yr (1012 mol/yr) using the relationship:\nP s = Mcol · g (2) Here, P s is surface pressure, Mcol = column mass, and g = gravitational acceleration. Calculating the column mass for a 1-bar atmosphere, multiplying by the surface area of the Earth, and converting to moles yields the relationship: 1 bar CO2 = 105 Pa CO2 = 1.18 × 1020 moles. Using this conversion factor, Menou’s outgassing rate comes out to be 0.83 Tmol/yr. This is about a factor of 10 lower than the estimates for the terrestrial CO2 outgassing rate, ∼7.5 Tmol/yr (Gerlach, 2011; Jarrard, 2003 and refs. therein).\nThe relationship between pCO2 and CO2 atmospheric mass is different on Mars because gravity and surface area are both\nlower by a factor of 3.6 (for gravity) to 3.5 (for surface area). These factors offset each other, so the result is: 1 bar CO2 is ∼= 1.18 × 1020 moles · (0.75) = 8.85 × 1019 mol. Ramirez et al. (2014) have suggested that outgassing rates per unit area on early Mars might be similar to those on present Earth based on the fact that heat flow per unit area is thought to be similar on the two planets (Zuber et al., 2000). Halevy and Head III (2014) make similar assumptions. If so, the global outgassing rate on early Mars would be scaled by surface area relative to Earth, yielding 7.5 Tmol/yr·(0.28) ∼= 2.1 Tmol/yr ∼= 24 bar/Gyr. In the calculations described in Section 2.3, we have let the CO2 outgassing rate be a free parameter, and we have varied its value from 0.8–4.5 Tmol/yr, spanning the region of parameter space near the modern terrestrial value. As pointed out earlier, in order for outgassing rates on early Mars to be comparable to those on modern Earth, the initial volatile inventory must have been large, and volatiles must have been recycled between the crust and the mantle.\nAccording to Eq. (1), the silicate weathering rate, W , must balance the volcanic outgassing rate, V , when the system is in steady state. Following Berner (1994), we write the weathering rate as:\nW\nW⊕ =\n( pCO2\np⊕\n)β ekact (Tsurf −288) [ 1 + krun(Tsurf − 288) ]0.65 . (3)\nThis equation was formulated for the (biotic) modern Earth and, so, must be scaled to a presumably abiotic early Mars. The parameter kact = 0.09 K−1 is an activation energy, and krun = 0.045 K−1 is a runoff efficiency factor. W⊕ and p⊕ are the weathering rate and effective CO2 partial pressure on modern Earth (see discussion below). Extending our analogy between the outgassing on early Mars and the outgassing on present Earth, we assume that W⊕ ≡ V⊕ = 2.1 Tmol/year for Tsurf = 288 K.\nThe parameter, β , dictates the dependence of the weathering rate on pCO2. The value of β is uncertain, even when weathering is not influenced by biology. Values of β between 0 and 1 are theoretically possible, depending on whether one has open or closed system weathering (Berner, 1992). Walker et al. (1981) assumed β = 0.3 based on laboratory experiments by Lagache (1976). If the weathering rate is proportional to the dissolved [H+] in groundwater, then β should be equal to 0.5. We assumed β = 0.5 in all of our calculations.\nThe parameter p⊕ is complicated. Menou used p⊕ = 3.3 ×10−4 bar, which is approximately the preindustrial atmospheric value. But weathering occurs in soils, and soil pCO2 on Earth is 10–100 times higher than atmospheric pCO2 as a consequence of root respiration by vascular plants (Kump et al., 2010). Here, we take the geometric mean of these two values and assume that soil pCO2 is 30 times atmospheric pCO2. When combined with an assumed β value of 0.5, this implies that land plants accelerate silicate weathering by a factor of 300.5 ∼= 5.5. By comparison, Berner (1994) assumed that weathering on the pre-land-plant Earth was slower by a factor of 0.15, implying that land plants enhance weathering by a factor of (1/0.15) ∼= 6.7. Given the large uncertainties in this process, the agreement between these estimates is pretty good. We should note that biological influences on weathering are not limited to enhancing soil pCO2. Plants also produce organic acids that are more effective than carbonic acid at dissolving rocks. Consequently, some authors (e.g., Schwartzman and Volk, 1989) have argued that land plants accelerate silicate weathering by as much as a factor of 1000. We follow Berner and adopt a more conservative estimate, but we acknowledge that significant uncertainty remains as to exactly how much weathering is affected by the biota.\nFollowing this reasoning, we set p⊕ = 0.01 bar in eq. (3), consistent with the current soil pCO2 value. This implies that W /W⊕ = 1 at the point (pCO2, Tsurf ) = (0.01 bar, 288 K). This\npoint is shown as a blue circle along the weathering rate curve in Fig. 1.\nAlso shown at the intersection of the weathering rate curve and the (green) greenhouse-warming curve is a point labeled ‘Abiotic Earth’. This represents the (pCO2, Tsurf ) values that the Earth would be expected to achieve if life were suddenly eliminated. It is calculated as follows: With β = 0.5, reducing p⊕ from 0.01 bar to 3.3 × 10−4 bar reduces the weathering rate by a factor of 300.5 ∼= 5.5. That’s how much the weathering rate would decrease if life were instantaneously eliminated. Both Tsurf and pCO2 would then gradually increase until the weathering rate went back up to its original value. This happens at (pCO2, Tsurf ) ∼= (0.002 bar, 295 K). Thus, our model predicts that present Earth would be about 7 degrees warmer if land plants were to suddenly disappear.\nWhether or not limit cycling should occur depends on where the surface temperature curve (green curve for Earth) intersects the weathering rate curve. If the intersection is above the freezing point of water, as it is for modern Earth (or for the abiotic Earth), then stable, warm solutions are possible. If the intersection point occurs below the freezing point, then either the climate system is subject to limit cycles or the surface remains permanently frozen. Note that the actual weathering rate cannot follow the weathering rate curve in this region, at least in a globally averaged model, because weathering should essentially cease at surface temperatures below the freezing point of water. This makes it even more obvious that steady-state solutions are not possible in this region of parameter space."
+  }, {
+    "heading": "2.3. 1-D climate model calculations for early Mars",
+    "text": "This brings us, finally, to Mars. For Mars, a surface albedo, as , of 0.216 allows the model to reproduce the present mean surface temperature of 218 K, given the present martian solar flux (0.43 times that of Earth), along with a fully saturated, 95% CO2, 5% N2, 6-mbar atmosphere (calculations not shown). The model was then run with this same value of as for early martian conditions (3.8 Gyr ago) when the solar luminosity was 75 percent of present (Fig. 1, red dotted curve). Not surprisingly, the calculated mean surface temperature never reaches the freezing point of water, regardless of how much CO2 is added. Instead, it turns over and begins decreasing at pCO2 >∼ 3 bar. This result is expected, as virtually all climate models predict that early Mars could not have been warmed to the freezing point by a CO2–H2O atmosphere.\nWe can produce warmer surface temperatures by adding H2 to the early martian atmosphere, following Ramirez et al. (2014). Ramirez et al. showed that above-freezing surface temperatures for early Mars are attainable with as little as 3 bar of CO2 and a 5% mixing ratio of H2 (red dashed curve, Fig. 1). A 3-bar atmosphere is within the initial inventory estimated earlier for a volatile-rich early Mars. As can be seen from the figure, however, this curve intersects the weathering rate curve below the freezing point of water. As pointed out above, this implies that no stable steady state is possible. Instead, the climate should oscillate between cold, globally glaciated conditions and warmer, ice-free conditions.\nH2 mixing ratios exceeding 5% are needed to produce warm climates in our EBM simulations, described below, because the planet needs to be able to deglaciate, starting from a state with a frozen surface and high albedo. For the red solid curve in Fig. 1, as = 0.45 which is consistent with a frozen surface (see Section 3.1.1). In this case, ∼20% H2 is needed to deglaciate the planet. The intersection of this red curve with the weathering rate curve is again below the freezing point of water, indicating that limit cycles should still occur. We explore these limit cycles quantitatively in the next section, using a more complicated climate model."
+  }, {
+    "heading": "3. Exploring climate limit cycles on early Mars with an EBM",
+    "text": "1-D climate model calculations are useful for determining when climate limit cycles should occur. To explore these cycles, though, it is appropriate to use an energy-balance climate model (EBM) similar to those used by Menou (2015) and Haqq-Misra et al. (2016) because EBMs can simulate ice-albedo feedback. Menou’s model was actually a zero-dimensional parameterization of an EBM. Below we describe our own, 1-D (in latitude) EBM, also used in Haqq-Misra et al. (2016), and how we used it to look at early martian climate cycles."
+  }, {
+    "heading": "3.1. Energy-balance climate model description",
+    "text": "Our EBM, like the one parameterized by Menou, was originally created by Williams and Kasting (Williams and Kasting, 1997). We updated this EBM with new radiative transfer parameterizations from our 1-D model. Details concerning the EBM are included in the following subsections and the parameterizations are included in Supp. Info. Table 1 shows that numerous parameters are included within an EBM.\nIn addition to calculating surface temperature as a function of latitude, our EBM simulates geochemical cycles of the greenhouse gases, CO2 and H2. The CO2 cycle was described in the previous section. The only difference is that silicate weathering occurs at a range of different temperatures corresponding to different latitude bands. These individual rates are combined in an area-weighted manner to yield the global weathering rate. The atmospheric H2 concentration is determined by balancing volcanic outgassing with diffusion-limited escape to space (see Section 3.1.2). Escape slows down as the atmosphere becomes denser; thus, the concentrations of H2 and CO2 are positively correlated. The outgassing rates of H2 and CO2 are treated as free parameters in the modeling exercise."
+  }, {
+    "heading": "3.1.1. Basic model equations",
+    "text": "Our EBM calculates the meridionally averaged temperature as a function of latitude and time according to\nC ∂T ∂t = S(1 − α) − FOLR + 1 cos θ ∂ ∂θ\n( D cos θ ∂T\n∂θ\n) (4)\nHere, θ is latitude and t is time. S = S · q(θ) is the diurnally averaged solar flux, which accounts for seasonal changes in the solar flux (S) at each latitude band due to seasonal changes. C is the effective heat capacity of the surface. It is calculated by the procedure described in (Fairén et al., 2012; Williams and Kasting, 1997). D , the diffusion coefficient, accounts for the energy transport across latitude bands. It is scaled for a present-day Earth (Fairén et al., 2012) and depends on changes in surface pressure, atmospheric mass and heat capacity, and rotation rate.\nThe original radiative transfer parameterizations, from Williams and Kasting (1997), were replaced for this study with new parameterizations based on the 1-D model of Kopparapu et al. (2013). Over 40,000 calculations with the 1-D model were used to investigate the dependence of radiative fluxes on different parameters. The outgoing long wave flux, FOLR , was calculated as a 4th-order polynomial in surface pressure, surface temperature, and volume mixing ratio of H2. The top-of-atmosphere albedo, α, (which is related to the absorbed solar flux) was split into two 3rd-order polynomials. One is for surface temperatures less than 250 K and the other is for surface temperatures between 250 K and 350 K. Both fits are calculated as a function of zenith angle, surface pressure, surface temperature, H2 volume mixing ratio and surface albedo. Both the OLR and albedo parameterizations assume early Mars’ solar constant and Mars’ radius. They also assume an H2O–H2–CO2 atmosphere.\nSurface albedo is calculated at each latitude band as a weighted sum of unfrozen land, unfrozen ocean, and fractional ice coverage. Unfrozen land is given a fixed albedo of 0.216, while the ocean albedo is allowed to vary, depending on solar zenith angle. H2O ice is given a fixed albedo of 0.45, consistent with slightly dirty ice. The CO2 ice albedo is given a fixed value of 0.35, but is only used when CO2 is condensing onto the surface, which does not occur in the following calculations (Warren et al., 1990). If the partial pressure of CO2 exceeds the saturation vapor pressure at the corresponding surface temperature, we assume it condenses on the surface as dry ice over the water ice. We also do not let the surface temperature fall below the saturation temperature of CO2. If it does fall below, we bring the temperature up to the saturation temperature. Similar behavior is observed during winter above the martian polar caps today."
+  }, {
+    "heading": "3.1.2. Hydrogen escape",
+    "text": "As mentioned previously, molecular hydrogen (H2) is required to bring the early martian surface temperature above freezing. We assume that escape of H2 is diffusion limited (Walker, 1977) and obeys the equation:\nφesc(H2) = bi Ha fH2 1 + fH2 . (5)\nHere, biHa = 5 × 1011 cm−2 s−1 for early Mars (Batalha et al., 2015; Pater and Lissauer, 2001). For each time step, the escape rate of H2 is calculated. We then increment the column density of H2 according to:\ndncol(H2)\ndτ = φout(H2) − φesc(H2). (6)\nHere, φout(H2) is the volcanic outgassing rate of H2 per unit area. The column density of CO2 is related to its time varying partial pressure via\nncol(CO2) = pCO2/(g ·mCO2) (7) Here, g is gravitational acceleration and mCO2 is the molecular mass of carbon dioxide. After each time step, the mixing ratio of hydrogen is recalculated from the column density of H2 and CO2: fH2 = nH2/ ( ncol(CO2) + nH2 ) . (8)\nBecause nCO2 is proportional to pCO2, a decrease in the CO2 partial pressure will lead to an increase in the H2 mixing ratio, and hence to an increase in the H2 escape rate, following Eq. (5)."
+  }, {
+    "heading": "3.1.3. EBM modeling results",
+    "text": "To explore the effect of limit cycles on early martian climate, we performed over 30 calculations with the EBM, using CO2 outgassing rate and H2 outgassing rate as free parameters. The results are summarized in Fig. 2. The bottom panel shows the fraction of time within a billion year period when at least one latitude band was above freezing (273 K). When the H2 outgassing rate is <∼400 Tmol/yr, cycling does not occur because there is not enough greenhouse warming to deglaciate the frozen planet. This rate is over 150 times higher than the H2 outgassing rate on modern Earth, but is not out of line for a tectonically active early Mars with a highly reduced mantle (Batalha et al., 2015; Chassefière et al., 2014). This rate could be reduced if hydrogen escaped at less than the diffusion limit. The CO2 outgassing rates studied ranged from 0.8 Tmol/yr up to about 4.5 Tmol/yr. (The equivalent modern Earth rate, when adjusted for the difference in planet surface area, is 2.1 Tmol/yr.) Low CO2 outgassing rates create low-frequency cycles. High H2 outgassing rates decrease the length of the warm phase of each individual cycle. Panel ‘A’\nshows typical cycling behavior for moderate H2 outgassing rates and low CO2 outgassing rates. Limit cycles provide warm periods lasting up to 5–10 Myr, separated by long (160 Myr) periods of below-freezing temperatures. Panel ‘B’ shows what happens when outgassing rates are too low to induce cycling. Panel ‘C’ shows a case in which cycling is occurring at such high frequency that the planet is warm nearly 50% of the time.\nOur favored region of parameter space to approximate the actual climate of early Mars is in the area of panel ‘A’. 10 Myr is an adequate time period to form the larger martian valleys, according to the references mentioned in Section 1. And the fact that the surface remains frozen for much longer time periods may help to reconcile our results with those who have favored the ‘cold early Mars’ hypothesis."
+  }, {
+    "heading": "4. Discussion",
+    "text": "Some of the parameters included in Table 1 are not well defined for early Mars, while others have well documented values. An ocean fraction of 20% is consistent with the recent five-year monitoring of atmospheric D/H ratios (Villanueva et al., 2015). A northern ocean land configuration is consistent with observations of deltas and valleys (Di Achille and Hynek, 2010), as well as observations of the martian topography (Perron et al., 2007). A present day martian obliquity of 25◦ was chosen for most runs but we also explored cases where obliquity was chaotically varying from 25–50◦ (see discussion below) (Touma and Wisdom, 1993)."
+  }, {
+    "heading": "4.1. Sensitivity to outgassing rates and ice albedo",
+    "text": "The parameters that are less well documented are CO2 and H2 outgassing rates and H2O ice albedo. Getting constraints on outgassing rates is challenging. Estimates made by looking at the igneous rocks and making assumptions about the volatile content of the initial lava from which they formed are universally too low to produce a warm early martian climate (Batalha et al., 2015). Some type of volatile recycling mechanism, such as plate tectonics, is required to do this. As discussed in the main text, high H2 outgassing rates are expected because of Mars’ highly reduced mantle and the presence of ultramafic rock on its surface (Chassefière et al., 2014).\nIce albedo is a critical parameter in our model. Fig. 2 shows one case where 18% H2 is needed to sustain climate cycles. This value can be lowered by decreasing the water ice albedo. Dirtier ice would increase the amount of absorbed solar radiation. High ice albedos encourage limit cycling but require high concentrations of CO2 and H2 to deglaciate. Very low ice albedos (<0.36) disrupt the limit cycling behavior. In most of our simulations, we keep the water ice albedo fixed at a relatively high value of 0.45 and vary H2 and CO2 outgassing rates. Doing so produces the heat map shown in Fig. 2."
+  }, {
+    "heading": "4.2. Sensitivity to obliquity",
+    "text": "The martian climate is also sensitive to obliquity, which is thought to have varied chaotically throughout Mars’ lifetime (Laskar et al., 2004). We looked at this by changing the assumed obliquity from 25◦ to 50◦ in the EBM. The effects of obliquity interact with the assumed continental distribution. High obliquity causes more incident solar radiation at the poles and less at the equator. With our specification of a northern ocean, high obliquity increases the frequency of cycles, but not the length of each individual cycle. This admittedly does not exhaust the list of possible combinations of obliquity and geography. However, on the basis of this experiment, we infer that higher obliquity would have encouraged limit cycling rather than inhibiting it.\nWe also did a second simulation in which the obliquity was allowed to cycle repeatedly between 25◦ and 50◦ for 1 Gyr. The limit cycles were found to occur at the frequency corresponding to the higher obliquity state. Our specified value of 25◦ is thus conservative; higher values would lead to even more pronounced limit cycling behavior."
+  }, {
+    "heading": "5. Conclusion",
+    "text": "The duration of the warm periods caused by limit cycles is comparable to that needed to form the larger martian valleys, 106–107 yrs (Hoke et al., 2011). The length and the frequency of cycling behavior depend on the assumed CO2/H2 outgassing rates and on the planet’s obliquity. For higher outgassing rates, the length of each warm phase decreases but their frequency increases. Smaller outgassing rates give longer, more widely spaced warm periods, which may be more consistent with the timescales needed for valley formation. If this type of climate cycling was indeed occurring on early Mars, then both the warm and the cold early Mars hypotheses are partly correct. MSL and future Mars missions may be able to test this hypothesis by refining the time scales for valley\nand lake formation and by determining whether multiple warming events took place."
+  }, {
+    "heading": "Acknowledgements",
+    "text": "The authors thank Darren Williams for assistance with model development. This material is based upon work supported by the National Science Foundation under Grant No. DGE1255832 to N.E.B. J.H. acknowledges funding from the NASA Habitable Worlds program under award NNX15AQ82G. R.K.K. and J.F.K. acknowledge funding from NASA Astrobiology Institute’s Virtual Planetary Laboratory lead team, supported by NASA under cooperative agreement NNH05ZDA001C. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of NASA or the National Science Foundation."
+  }, {
+    "heading": "Appendix A. Supplementary material",
+    "text": "Supplementary material related to this article can be found online at http://dx.doi.org/10.1016/j.epsl.2016.08.044."
+  }],
+  "year": 2016,
+  "references": [{
+    "title": "The Channels of Mars",
+    "authors": ["V. Baker"],
+    "year": 1962
+  }, {
+    "title": "Spectroscopic identification of carbonate minerals in the martian dust",
+    "authors": ["J. Bandfield", "T. Glotch", "P. Christensen"],
+    "venue": "Science",
+    "year": 2003
+  }, {
+    "title": "Testing the early Mars H2–CO2 greenhouse hypothesis with a 1-D photochemical model",
+    "authors": ["N. Batalha", "S.D. Domagal-Goldman", "R. Ramirez", "J.F. Kasting"],
+    "venue": "Icarus. http://dx.doi.org/10.1016/j.icarus.2015.06.016",
+    "year": 2015
+  }, {
+    "title": "Weathering, plants, and the long-term carbon cycle. Geochim. Cosmochim",
+    "authors": ["R.A. Berner"],
+    "venue": "Acta 56,",
+    "year": 1992
+  }, {
+    "title": "GEOCARB II: a revised model of atmospheric CO2 over Phanerozoic time",
+    "authors": ["R.A. Berner"],
+    "venue": "Am. J. Sci. http://dx.doi.org/10.2475/ajs.294.1.56",
+    "year": 1994
+  }, {
+    "title": "Serpentinization as a possible",
+    "authors": ["E. Chassefière", "J. Lasue", "B. Langlais", "Y. Quesnel"],
+    "venue": "ing and groundwater recharge on the Tharsis rise. Planet. Space Sci",
+    "year": 2014
+  }, {
+    "title": "Ancient ocean on Mars supported by global distri",
+    "authors": ["B.M. Hynek"],
+    "year": 2010
+  }, {
+    "title": "Reduced albedo on early Mars",
+    "authors": ["A.G. ngeo891. Fairén", "J.D. Haqq-Misra", "C.P. McKay"],
+    "year": 2012
+  }, {
+    "title": "The timing of martian valley network activity",
+    "authors": ["J.W. Head"],
+    "year": 2008
+  }, {
+    "title": "3D modelling of the early martian climate under a",
+    "authors": ["R.M. Haberle"],
+    "year": 2013
+  }, {
+    "title": "Volcanic versus anthropogenic carbon dioxide",
+    "authors": [],
+    "venue": "Eos",
+    "year": 2011
+  }, {
+    "title": "Ancient aqueous sedimentation on Mars",
+    "authors": ["S.W. Squyres"],
+    "year": 1991
+  }, {
+    "title": "Tracing the fate of carbon",
+    "authors": ["R. j.epsl.2011.09.053. Hu", "D.M. Kass", "B.L. Ehlmann", "Y.L. Yung"],
+    "year": 2015
+  }, {
+    "title": "IPCC, 2013: climate change",
+    "authors": ["Y. Xia", "V. Bex", "P.M. Midgley"],
+    "year": 2013
+  }, {
+    "title": "Fluvial valley networks on Mars",
+    "authors": ["R.P. Irwin", "A.D. Howard", "R.A. Craddock"],
+    "venue": "Report of the Intergovernmental Panel on Climate Change. IPCC AR5,",
+    "year": 2008
+  }, {
+    "title": "Sulfur in the early martian atmosphere",
+    "authors": ["L. Kerber", "F. Forget", "R. Wordsworth"],
+    "year": 2015
+  }, {
+    "title": "New data on the kinetics of the dissolution of alkali feldspars",
+    "authors": ["River", "M. NJ. Lagache"],
+    "year": 1976
+  }, {
+    "title": "Outgassing history and escape of the martian atmosphere",
+    "authors": ["L.B.S. Pham"],
+    "year": 2013
+  }, {
+    "title": "Long term evolution and chaotic diffusion of the insolation quantities of Mars",
+    "authors": ["J. Laskar", "Correia", "a.C.M", "M. Gastineau", "F. Joutel", "B. Levrard", "P. Robutel"],
+    "venue": "Icarus 170,",
+    "year": 2004
+  }, {
+    "title": "Classification and time of formation of Martian channels based on Viking data",
+    "authors": ["H. Masursky", "J.M. Boyce", "A.L. Dial", "G.G. Schaber", "M.E. Strobell"],
+    "venue": "J. Geophys. Res",
+    "year": 1977
+  }, {
+    "title": "Climate stability of habitable Earth-like planets",
+    "authors": ["K. Menou"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2015
+  }, {
+    "title": "Deep crustal carbonate rocks exposed by meteor impact on Mars",
+    "authors": ["J.R. Michalski", "P.B. Niles"],
+    "venue": "Nat. Geosci. http://dx.doi.org/10.1038/ngeo971",
+    "year": 2010
+  }, {
+    "title": "Minor planets. In: Planetary Sciences",
+    "authors": ["I. de Pater", "J. Lissauer"],
+    "year": 2001
+  }, {
+    "title": "Evidence for an ancient martian ocean in the topography of deformed shorelines",
+    "authors": ["J.T. Perron", "J.X. Mitrovica", "M. Manga", "I. Matsuyama", "M.A. Richards"],
+    "venue": "Nature 447,",
+    "year": 2007
+  }, {
+    "title": "Phyllosilicates on Mars and implications for early martian climate",
+    "authors": ["C. Sotin", "E. Hauber", "H. Hoffmann", "R. Jaumann", "U. Keller", "F. Forget"],
+    "venue": "Nature 438,",
+    "year": 2005
+  }, {
+    "title": "Warming early Mars with CO2 and H2",
+    "authors": ["R.M. Ramirez", "R. Kopparapu", "M.E. Zugger", "T.D. Robinson", "R. Freedman", "J.F. Kasting"],
+    "venue": "Nat. Geosci",
+    "year": 2014
+  }, {
+    "title": "Biotic enhancement of weathering and the habitability of Earth",
+    "authors": ["D.W. Schwartzman", "T. Volk"],
+    "venue": "Nature 340,",
+    "year": 1989
+  }, {
+    "title": "An impact-induced, stable, runaway climate on Mars",
+    "authors": ["T.L. Segura", "C.P. McKay", "O.B. Toon"],
+    "venue": "Icarus 220,",
+    "year": 2012
+  }, {
+    "title": "Faint young Sun and the carbon cycle: implication for the Proterozoic global glaciations",
+    "authors": ["E. Tajika"],
+    "venue": "Earth Planet. Sci. Lett",
+    "year": 2003
+  }, {
+    "title": "Photochemical and climate consequences of sulfur outgassing on early Mars",
+    "authors": ["F. Tian", "M.W. Claire", "J.D. Haqq-Misra", "M. Smith", "D.C. Crisp", "D. Catling", "K. Zahnle", "J.F. Kasting"],
+    "venue": "Earth Planet. Sci",
+    "year": 2010
+  }, {
+    "title": "The chaotic obliquity of Mars",
+    "authors": ["J. Touma", "J. Wisdom"],
+    "venue": "Science",
+    "year": 1993
+  }, {
+    "title": "A new general circulation model for Mars based on the NCAR community atmosphere model",
+    "authors": ["R.A. Urata", "O.B. Toon"],
+    "venue": "Icarus 226,",
+    "year": 2013
+  }, {
+    "title": "Strong water isotopic anomalies in the martian atmosphere: probing current and ancient reservoirs",
+    "authors": ["G.L. Villanueva", "M.J. Mumma", "R.E. Novak", "H.U. Käufl", "P. Hartogh", "T. Encrenaz", "A. Tokunaga", "A. Khayat", "M.D. Smith"],
+    "venue": "Science 348,",
+    "year": 2015
+  }, {
+    "title": "Evolution of the Atmosphere",
+    "authors": ["J.C.G. Walker"],
+    "year": 1977
+  }, {
+    "title": "Carbon dioxide on the early Earth",
+    "authors": ["J.C.G. Walker"],
+    "venue": "Orig. Life Evol. Biosph. 16,",
+    "year": 1985
+  }, {
+    "title": "A negative feedback mechanism for the long-term stabilization of Earth’s surface temperature",
+    "authors": ["J.C.G. Walker", "P.B. Hays", "J.F. Kasting"],
+    "venue": "J. Geophys. Res. http:// dx.doi.org/10.1029/JC086iC10p09776",
+    "year": 1981
+  }, {
+    "title": "Spectral albedo and emissivity of CO2 in Martian polar caps: model results",
+    "authors": ["S. Warren", "W. Wiscombe", "J. Firestone"],
+    "venue": "J. Geophys. Res",
+    "year": 1990
+  }, {
+    "title": "Habitable planets with high obliquities",
+    "authors": ["D. Williams", "J. Kasting"],
+    "venue": "Icarus 129,",
+    "year": 1997
+  }, {
+    "title": "Hydrogen–nitrogen greenhouse warming in Earth’s early atmosphere",
+    "authors": ["R. Wordsworth", "R. Pierrehumbert"],
+    "venue": "Science 339,",
+    "year": 2013
+  }, {
+    "title": "Global modelling of the early Martian climate under a denser CO2 atmosphere: water cycle and ice evolution",
+    "authors": ["R. Wordsworth", "F. Forget", "E. Millour", "J.W. Head", "Madeleine", "J.-B", "B. Charnay"],
+    "venue": "Icarus 222,",
+    "year": 2013
+  }, {
+    "title": "Comparison of “warm and wet” and “cold and icy” scenarios for early Mars in a 3D climate model",
+    "authors": ["R.D. Wordsworth", "L. Kerber", "R.T. Pierrehumbert", "F. Forget", "J.W. Head"],
+    "venue": "J. Geophys. Res., Planets",
+    "year": 2015
+  }, {
+    "title": "Internal structure and early thermal evolution of Mars from Mars global surveyor topography and gravity",
+    "authors": ["M.T. Zuber", "S.C. Solomon", "R.J. Phillips", "D.E. Smith", "G.L. Tyler", "O. Aharonson", "G. Balmino", "W.B. Banerdt", "J.W. Head", "C.L. Johnson", "F.G. Lemoine", "P.J. McGovern", "G.A. Neumann", "Rowlands", "D.D", "S. Zhong"],
+    "venue": "Science 287,",
+    "year": 2000
+  }],
+  "id": "SP:733890c47bd9a3de03ddfb13a7eaa2ebace25863",
+  "authors": [{
+    "name": "Natasha E. Batalha",
+    "affiliations": []
+  }, {
+    "name": "Ravi Kumar Kopparapu",
+    "affiliations": []
+  }, {
+    "name": "Jacob Haqq-Misra",
+    "affiliations": []
+  }, {
+    "name": "James F. Kasting",
+    "affiliations": []
+  }],
+  "abstractText": "a Department of Astronomy & Astrophysics, Penn State University, University Park, PA 16802, USA b Center for Exoplanets and Habitable Worlds, Pennsylvania State University, University Park, PA 16802, USA c NASA Astrobiology Institute’s Virtual Planetary Laboratory, P.O. Box 351580, Seattle, WA 98195, USA d Blue Marble Space Institute of Science, 1001 4th Ave Suite 3201, Seattle, WA 98154, USA e NASA Goddard Space Flight Center, 8800 Greenbelt Road, Mail Stop 699.0 Building 34, Greenbelt, MD 20771, USA f Department of Astronomy, University of Maryland, College Park, MD 20771, USA g Department of Geosciences, Penn State University, University Park, PA 16802, USA",
+  "title": "Climate cycling on early Mars caused by the carbonate–silicate cycle"
+}

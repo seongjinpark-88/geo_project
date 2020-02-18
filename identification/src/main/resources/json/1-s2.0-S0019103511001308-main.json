@@ -1,0 +1,417 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nIcarus\njournal homepage: www.elsevier .com/locate / icarus\nEquilibrium resurfacing of Venus: Results from new Monte Carlo modeling and implications for Venus surface histories\nE.E. Bjonnes a,1, V.L. Hansen a,⇑, B. James b, J.B. Swenson a a Department of Geological Sciences, University of Minnesota Duluth, Duluth, MN, USA b Department of Mathematics and Statistics, University of Minnesota Duluth, Duluth, MN, USA\na r t i c l e i n f o\nArticle history: Available online 18 April 2011\nKeywords: Venus Venus, Surface Terrestrial planets\n0019-1035/$ - see front matter 2011 Elsevier Inc. A doi:10.1016/j.icarus.2011.03.033\n⇑ Corresponding author. Address: Department of G of Minnesota Duluth, 231 Heller Hall, 1114 Kirby Dr Fax: +1 218 726 8275.\nE-mail address: vhansen@d.umn.edu (V.L. Hansen) 1 Present address: CGGVeritas, Houston, TX, USA.\na b s t r a c t\nVenus’ impact crater population imposes two observational constraints that must be met by possible model surface histories: (1) near random spatial distribution of 975 craters, and (2) few obviously modified impact craters. Catastrophic resurfacing obviously meets these constraints, but equilibrium resurfacing histories require a balance between crater distribution and modification to be viable. Equilibrium resurfacing scenarios with small incremental resurfacing areas meet constraint 1 but not 2, whereas those with large incremental resurfacing areas meet constraint 2 but not 1. Results of Monte Carlo modeling of equilibrium resurfacing (Strom et al., 1994) is widely cited as support for catastrophic resurfacing hypotheses and as evidence against hypotheses of equilibrium resurfacing. However, the Monte Carlo models did not consider intermediate-size incremental resurfacing areas, nor did they consider histories in which the era of impact crater formation outlasts an era of equilibrium resurfacing. We construct three suites of Monte Carlo experiments that examine incremental resurfacing areas not previously considered (5%, 1%, 0.7%, and 0.1%), and that vary the duration of resurfacing relative to impact crater formation time (1:1 [suite A], 5:6 [suite B], and 2:3 [suite C]). We test the model results against the two impact crater constraints.\nSeveral experiments met both constraints. The shorter the time period of equilibrium resurfacing, or the longer the time of crater formation following the cessation of equilibrium resurfacing, the larger the possible areas of incremental resurfacing that satisfy both constraints. Equilibrium resurfacing is statistically viable for suite A at 0.1%, suite B at 0.1%, and suite C for 1%, 0.7%, and 0.1% areas of incremental resurfacing.\n2011 Elsevier Inc. All rights reserved.\n1. Introduction ary. Catastrophic/episodic hypotheses propose that a global-scale,\nIn the early 1990s NASA’s Magellan mission revealed that Venus lacks plate-tectonic processes (Solomon et al., 1992; Phillips and Hansen, 1994), yet Venus’ evolution and operative geodynamic processes remain elusive. Two first-order observations with regard to Venus’ impact crater population influenced views of Venus resurfacing history. (1) Venus’ approximately 975 impact craters (1.5–270 km diameter, 30 km diameter average) show a near random spatial distribution. (2) The population includes few obviously ( 175) modified craters (Phillips et al., 1992; Schaber et al., 1992; Herrick et al., 1997).\nTwo groups of hypotheses emerged to address the near-random distribution of the mostly pristine impact craters across the surface of Venus: (1) catastrophic/episodic and (2) equilibrium/evolution-\nll rights reserved.\neological Sciences, University ive, Duluth, MN 55812, USA.\n.\ntemporally punctuated, event or events dominated Venus’ evolution, as reflected in the generally uniform impact crater distribution (e.g., Schaber et al., 1992; Bullock et al., 1993; Strom et al., 1994; Herrick, 1994; Basilevsky and Head, 1994). Proposed catastrophic resurfacing consists of a rare short-duration (<100 myr) impact crater burial or destruction event that occurred over a very large spatial area (P80% global surface). If the planet experienced more than one catastrophic resurfacing event, the events would have been separated by a large time interval, with little to no preserved record of previous catastrophic events. Catastrophic resurfacing could also refer to a sharp temporal decline of global-scale resurfacing; this case requires resurfacing rates high enough to effectively destroy all craters in the past, followed by a rapid decline in resurfacing allowing subsequent preservation of mostly pristine craters. In the case that the early resurfacing was not temporally catastrophic, crater destruction must keep pace with impact crater formation; and the process(es) of crater destruction must come to an abrupt end, allowing for later accumulation of craters.\nEquilibrium hypotheses suggest instead that the generally uniform crater distribution resulted from numerous frequently\noccurring near randomly distributed volcanic or tectonic events that resulted in complete destruction of individual impact craters; the style of volcanism and tectonism might vary spatially and might vary over time at any given locale (e.g., Phillips et al., 1992; Guest and Stofan, 1999). Equilibrium/evolutionary hypotheses could also involve a progression from an era of global steadystate equilibrium resurfacing to an era of global impact crater accumulation as a result of secular changes (e.g., Solomon, 1993; Phillips and Hansen, 1998; Hansen and Young, 2007).\nCatastrophic resurfacing hypotheses gained traction with the publication of early Monte Carlo model results used to argue that equilibrium resurfacing histories could not meet the two observational requirements imposed by Venus’ impact crater population, resulting in the conclusion that catastrophic resurfacing (or 100% ‘incremental’ resurfacing) was the only history that met the two impact crater constraints (Bullock et al., 1993; Strom et al., 1994). Based primarily on these results, workers consider that a global-scale catastrophic resurfacing event played a major role in the evolution of Venus’ surface and incorporate such an event in hypotheses of planetary evolution (e.g., Basilevsky and Head, 1996, 1998, 2002; Ivanov and Head, 1996; Head and Coffin, 1997; Basilevsky et al., 1997; Head and Basilevsky, 1998; Nimmo and McKenzie, 1998; Anderson and Smrekar, 1999; Solomon et al., 1999; Turcotte et al., 1999; Bullock and Grinspoon, 2001; Romeo and Turcotte, 2009; Taylor and Grinspoon, 2009).\nHowever, a growing body of independent geological studies indicate that impact crater characteristics and local and regional geological observations are difficult to reconcile with catastrophic resurfacing hypotheses (e.g., Herrick et al., 1995; Phillips and Izenberg, 1995; Price and Suppe, 1995; Hauck et al., 1998; Guest and Stofan, 1999; Wichman, 1999; Addington, 2001; Brian et al., 2005; Stofan et al., 2005; Herrick, 2006; Hansen and Young, 2007; Hansen and López, 2010; Hansen and Olive, 2010; Smrekar et al., 2010; Herrick and Rumpf, 2011). As a result of these new data, we return to Monte Carlo models, which initially appear to provide strong evidence for catastrophic resurfacing and strong evidence against equilibrium resurfacing.\nAlthough the Monte Carlo models are statistically robust, the extension of the early Monte Carlo model results to imply that the impact crater observations require Venus to have been catastrophically resurfaced is problematic. It is important to note that Monte Carlo models can only comment on themselves. That is, the Monte Carlo models can only evaluate the statistical viability of equilibrium resurfacing within the limited parameters studied by each model. The previous Monte Carlo models include two potential flaws with regard to application toward the goal of understanding the evolution of Venus’ surface. (1) The Strom et al. (1994) models did not explore the region of incremental resurfacing areas between 10% and 0.03% (Fig. 1). Thus the results cannot attest to whether equilibrium resurfacing with incremental resurfacing areas less than 10% and greater than 0.03% could be statistically viable. (2) The Monte Carlo models did not test model surface histories in which equilibrium resurfacing continued for only a portion of the history of the planet. For example, the models did not consider histories in which global equilibrium resurfacing occurred during a specific era, followed by an era of impact crater\nformation but lacking crater destruction processes (effectively resulting in impact crater accumulation).\nIn this study we construct Monte Carlo models to test the statistical viability of specific equilibrium resurfacing histories involving different areas of incremental resurfacing, and the time period over which equilibrium resurfacing processes could have operated relative to overall surface history. Given the limitations of Monte Carlo modeling techniques the models cannot address specific mechanisms of resurfacing.\nWe analyze three suites of Monte Carlo experiments. All three suites broadly follow the methodology outlined by Strom et al. (1994) although we change the model parameters. Suite A tests areas of incremental resurfacing parameter space of 10%, 5%, 1%, 0.7%, 0.1%, 0.01% incremental resurfacing. Incremental resurfacing of 10% and 0.01% provide a means to compare the results of this study with those of Strom et al. (1994). Suites B and C seek to examine the effect of equilibrium-resurfacing eras lasting less than the total surface history. That is, impact crater formation continues for a period of time after global equilibrium resurfacing ends. For suite B equilibrium resurfacing occurs during the first 3.75 byr in a 4.5 byr history. For suite C equilibrium resurfacing occurs during the first 3 byr and impact crater formation alone continues for the last 1.5 byr."
+  }, {
+    "heading": "2. Background",
+    "text": "Venus’ impact crater population imposes two observational constraints on proposed surface histories: (1) the near random spatial distribution of impact craters and (2) few modified impact craters. These two constraints call for a balance between two end-member considerations, impact crater spatial distribution and impact crater modification. Large areas of incremental resurfacing result in less spatial balance of crater distribution (or less random spatial distribution) yet yield few modified craters. In contrast, small areas of incremental resurfacing result in a better spatial balance (more random spatial distribution), but yield high numbers of modified craters. Strom’s et al. (1994) results clearly show that >10% incremental resurfacing over some assumed time period represented by the visible surface deposits results in significantly non-random crater spatial distribution, although these areas have few modified craters (Fig. 1). That is, these models fail the spatial distribution constraint, but pass the modified crater constraint. In contrast, resurfacing increments <0.03% satisfy the spatial distribution requirement, but fail the modified crater constraint. However, incremental resurfacing areas between 10% and 0.03% are unexplored using Monte Carlo techniques. It is critical to explore the parameter space between 10% and 0.03% incremental resurfacing to robustly test if equilibrium resurfacing should be discounted based on statistical arguments. The Strom et al. (1994) study cannot comment on the viability of areas <10% and >0.03%, or 2-stage histories with cessation of equilibrium resurfacing processes because such surface histories were not explored. At the time of the Strom et al. (1994) study, the resurfacing parameter space studied was logical for two reasons. (1) Strom et al. (1994) specifically set out to test equilibrium volcanic resurfacing scenarios proposed by Phillips et al. (1992), and their models did just this. (2) Given that geological analysis at that time indicated that Venus lacks volcanic features <10% but >0.03% (Head et al., 1992; Crumpler et al., 1997), there would be no reason to test these areas for viability of equilibrium (volcanic) resurfacing, as proposed by Phillips et al. (1992). Thus, an implication of the Strom et al. (1994) study taken together with geologic mapping focused on defining volcanic units on Venus, is that it is statistically unlikely that volcanic processes played a major role in impact crater destruction. However, equilibrium resurfacing as a concept need not be constrained to only processes of volcanic resurfacing.\nEarly Monte Carlo modeling efforts also only considered singular surface histories. That is, crater formation and crater destruction events lasted throughout the modeled surface histories. The assumption of singular surface histories is perhaps overly restrictive given what we think we know about Venus. Consideration of multi-stage resurfacing histories is important given postulated changes in lithosphere thickness and related geodynamic processes (e.g., Solomon, 1993; Grimm, 1994; Solomatov and Moresi, 1996; Schubert et al., 1997; Hansen and Willis, 1998; Phillips and Hansen, 1998; Brown and Grimm, 1999). Thus if equilibrium resurfacing did occur on Venus, it seems unlikely that an era of equilibrium surfacing would occur throughout Venus’ entire evolution, or throughout the entire recorded surface history. In fact, geological evidence indicates that it is unlikely that the surface experienced a singular history. Impact crater characteristics interpreted as evidence of progressive crater modification by Izenberg et al. (1994) and confirmed by Basilevsky and Head (2002), taken together with crater density reveal three average model surface age (AMSA) provinces of sub-equal areal distribution (Fig. 2) (Phillips and Izenberg, 1995; Hansen and Young, 2007). The youngest of the AMSA provinces forms two regions that spatially correspond to the Beta–Atla–Themis (BAT) province and the Lada Region—areas independently identified as relatively young volcanic provinces (Head et al., 1992; Crumpler et al., 1997). This spatial correlation is consistent with the idea that Venus’ volcanic activity has become more spatially focused with time, but does not require this interpretation. For example, there could have been other dominant volcanic hotspots at other times. The occurrence of three AMSA provinces indicates that Venus’ surface likely records more recoverable detail than a single average model surface age, or a single crater production age, and it is important to at least consider non-singular surface evolution histories."
+  }, {
+    "heading": "3. Monte Carlo models",
+    "text": "Monte Carlo models generate large data sets to give statistically valid results, making them a powerful tool used to simulate random processes and processes that are difficult or impossible to observe. Model results are compared to the statistical observations of the natural system in question. It is important to note that Monte Carlo models can only test the statistically viability of specific models; that is, is a particular scenario statistically viable, or not? Monte Carlo models cannot indicate that a particular model is the only possible configuration. In other words, an individual Monte Carlo model can only comment on itself; it cannot directly comment on other scenarios. However, by testing a range of configurations it is possible to determine a parameter space that is consistent with the observed phenomena. In the case of Venus equilibrium resurfacing scenarios, only those scenarios that fall within the specific parameter space previously modeled by Strom et al. (1994) can be discounted as statistically invalid.\nHere we test configurations of equilibrium resurfacing through specific percent-area incremental resurfacing and rates of both impact crater formation and incremental resurfacing against the spatial distribution and overall pristine condition of Venus’ impact craters. The Monte Carlo experiments assume that each spatial or temporal increment has an equal probability of hosting an event, and that each event happens independently of all other events. The resulting spatial distribution of events and the time between events are normal, or Gaussian, in a Poisson distribution. The term event refers here to each occurrence of impact crater formation. The cratering rate on Venus is spatially uniform (Le Feuvre and Wieczorek, 2008). Therefore because a bolide strikes any part of the surface with equal probability and existing impact craters do not affect the formation of other impact craters, the Poisson distribution is most appropriate to model Venus impact cratering\ns and Izenberg, 1995; Hansen and Young, 2007), exposures of ribbon tessera terrain s. Top inset illustrates the stages of impact crater modification with time (Izenberg\nprocesses. We further assume that resurfacing events occur randomly on the surface, a reasonable simplification in a first-order study, thereby allowing the resurfacing process to also follow a Poisson probability distribution. The viability of equilibrium resurfacing on Venus then boils down to the interaction between two competing Poisson processes: one creating impact craters on the surface and another destroying impact craters on the surface. We simulated these two Poisson processes using MatLab™.\nThe Monte Carlo models presented herein include the following assumptions. (1) Bolides strike anywhere on the surface with equal probability; (2) resurfacing occurs anywhere on the surface with equal probability; (3) only resurfacing events remove impact craters from the surface; (4) impact craters can be modified an unlimited number of times; (5) impact craters form at a constant rate; (6) resurfacing events occur at a constant rate; and (7) resurfacing events are geologically instantaneous. The random nature of bolide impacts justifies assumption 1. Equilibrium-resurfacing hypotheses includes assumption 2. Assumptions 1 and 2 together allow modeling of both impact craters and resurfacing events as Poisson distributions. Venus’ low surface winds and lack of water geologically support assumption 3. Assumption 4 prevents an erroneous limit on impact crater modification, and assumptions 5–7 represent logical starting points.\nEach experiment shares basic characteristics with regard to impact craters, resurfacing events, and the effect of resurfacing events on preexisting craters. All craters have a radius (Rc) of 15 km. All resurfacing events are circular in plan form with radius Ra; the area of resurfacing (and therefore Ra) varies by experiment. Impact crater formation and resurfacing fluxes are held constant.\nWe constructed three suites of experiments (A–C) in which we vary the length of time of the particular resurfacing era. Within each suite, impact craters form throughout 4.5 byr of history, whereas the resurfacing era occurs across the first 4.5, 3.75, and 3 byr, for suite A, B, and C, respectively (Fig. 3). Within each suite, individual experiments vary the size of the area of incremental resurfacing (Fig. 4). Suite A is the most basic of the suites and essentially replicates the study of Strom et al. (1994), although we explore incremental resurfacing areas of 10%, 5%, 1%, 0.7%, 0.1% and 0.01% of the global area. Suites B and C are more geologically reasonable than suite A because the modeled surface histories vary over 4.5 byr. Suites B and C consider incremental resurfacing areas of 50%, 25%, 20%, 10%, 5%, 1%, 0.7%, 0.1%, and 0.01%.\nFor each experiment we conducted 1000 test runs to ensure statistical viability. All test runs in each experiment follow the same\nprocedure, although each test run has a unique time scale. We used algebraic and geometric series to determine the timing of both the impact crater formation events and the length of time between resurfacing events using the constraints of an average of 100% total resurfacing and 1000 final craters on the surface (Appendix A). An average of 100% resurfacing means that, on average, the entire planet was resurfaced one time; this means parts of the planet might not be resurfaced at all whereas other regions might have experienced more than one resurfacing. The calculated length of time between resurfacing events and impact crater formation events used in each time scale is normally distributed around these means. The sequences of independent randomly generated intervals between impact crater formation and resurfacing events serve as the timescale for the test run. Spatially random locations for impact craters and for the centers of resurfacing events are generated for each crater and each resurfacing event in a given test run. The number, location, condition of craters, and the number of times a crater has been modified are tracked as model outputs. Because we do not limit the number of times a crater can be modified, we track the number of modified craters and the number of times individual craters are modified. In reality, if a crater were to experience several (P3) modification events, it would probably not be recognizable as an impact crater.\nAll craters emplaced prior to a specific resurfacing event are classified as pristine, modified, or destroyed after that event (Fig. 5). Pristine craters lie more than Ra + 2Rc from the center of the resurfaced area. Modified craters lie with the area between Ra + 2Rc and Ra 2Rc from the center of the resurfaced area. Destroyed craters lie less than Ra 2Rc from the center of the resurfaced area.\nSalient elements of the modeled surface histories are illustrated in Fig. 6. Each experiment begins at time 1. Pristine impact craters (the number of which are determined by the generated time scale) are emplaced onto the surface in a random fashion. At time 2 a resurfacing event occurs, and preexisting craters are reclassified depending on their location relative to the resurfacing event. At time 3 new impact craters are added to the surface. In time step 4 a new resurfacing event occurs, and all preexisting craters are reclassified depending on their location relative to the new resurfacing event. In time step 5 new craters are added, and so on with subsequent time steps alternating between the new craters and\nnew resurfacing events. At the end of each resurfacing event all craters are classified as pristine, modified or destroyed.\nResults of each experiment are compared with the two observations of the Venus impact crater record: (1) near random spatial distribution of the crater final population and (2) total modified craters in the final population is 175 or less.\nWe employ two statistical tests to determine the randomness of the spatial distribution of the simulated craters. The first test compares the distribution of intercrater angles to the theoretical relationship\nf ðaÞ ¼ M sinðaÞ ð1Þ\nwhere M is a scaling factor, and a is the angle between two craters measured from a planet’s center (Fig. 7; Kagan and Knopoff, 1980; Turcotte et al., 1999). Given the constraint of an average of 1000 craters, and that for N craters, there are [N (N 1)/2] intercrater angles, the expected number of intercrater angles is 999 500, or 499,500. We sorted these data points into 36 equal-sized bins to create a meaningful frequency histogram, following the procedure of Turcotte et al. (1999), who used the R2 test to characterize the randomness of Venus’ impact crater population. We set the variable (a) equal to the summed area in each bin and calculated f(a) using the summed the area in each bin divided by the integral of f(a) to\nfind M. To quantify the correlation between the observed and theoretical intercrater angles, we calculated the R2 value between the observed and expected curve for each test run. An R2 value close to 1 indicates a good correlation between the theoretical and observed relationships, in this case indicating surface distribution closer to random. We used a value of R2 = 0.95 as the cutoff for comparing to Venus; that is, if R2 < 0.95, an experiment fails the spatial constraint.\nThe second, more sensitive, statistical test directly compares the amount of clumping in experimental and control simulations through a ‘‘resultant vector’’, or the sum of each individual impact crater’s vector, where the randomly generated (x, y, z) coordinates serve as the head of the vector and the origin (0, 0, 0) is the tail (Fig. 8). The location (x, y, z) of each impact crater on the surface is given a unit ‘‘weight’’ and the vector sum of all the points represents a ‘‘center of mass’’ of the impact crater distribution. Because the Monte Carlo simulations have no ‘‘planetary axis’’, we maintain spherical symmetry and use the magnitude of the resultant vector in each distribution for the analysis. This magnitude of the resultant vector is directly related to how heavily craters are concentrated to one side of the surface; the direction of the vector is arbitrary. The center of mass of a uniform surface distribution would be zero, whereas, a statistically longer resultant vector compared to purely random distributions indicates concentration of impact craters to one point on the surface. However, as the number of points on a surface increases, in this case, by having more craters on the surface at the end of a test run, the resultant vector will\nted in each experiment. See text for explanation.\napproach zero because the larger number of sample points tends to smooth out the effects of the random clumping.\nWe calculated the resultant vector and its magnitude for each test run in a given experiment. We then compared the length of the resultant vector in each experiment to that of purely random simulations by calculating and comparing the mean and standard deviation in each experiment and using the chi-squared test to determine if they are statistically equivalent distributions. The chi-squared test directly measures statistical similarities between random and simulated distributions, and is, therefore, well suited for this task (Strom et al., 1994; Walpole et al., 2007). We also evaluated crater distributions by comparing the means at 95% confidence and checking for overlaps, indicating that the two data sets are statistically indistinguishable (Glaze et al., 2002). This method does not work to compare impact craters on Venus, however, because on Venus there is only one data point and thus no confidence interval. To compare the resultant vectors of experimental distributions to Venus, we determined if the magnitude of Venus’ resultant vector falls within the 95% confidence interval of the resultant vector magnitude for each experimental and randomly simulated distribution. In this way, we ensure that the\nrandomness of each distribution quantified as well as correlated to Venus.\nAn experiment fails constraint 2 (number of modified craters) if the number of modified craters on Venus is fewer than the lower limit of modified craters in a specific experiment."
+  }, {
+    "heading": "4. Results",
+    "text": "Figs. 9 and 10 summarize Monte Carlo experimental results. As expected, variations in both percent-resurfaced area and the duration of resurfacing affect the final impact crater distributions. With regard to percent-resurfaced area, there is clear transition from impact crater distributions that are statistically near random but include too many modified impact craters (meeting the spatial constraint, failing the modification constraint) to statistically non-random with the number of modified impact craters consistent with that of Venus (meeting the spatial constraint, failing the modification constraint).\nSeveral observations emerge from the summary of results. First, the near-random surface distribution proved to be the harder constraint to meet. Suites B and C, in which resurfacing lasted less than 4.5 byr, include more experiments that meet the spatial constraint. This is expected given that the longer craters form without the effects of resurfacing (removal), the more spatially random the resulting distribution. Second, the R2 test of spatial randomness between the experimental and calculated curves proved to be less sensitive than the resultant vector test. The R2 test was met by most experiments (22 out of 23). The resultant vector analysis is more complicated given that Venus’ impact crater distribution is not purely random (e.g. Hauck et al., 1998). Therefore, in our analysis we took into account that simulated distributions could fail a test of statistical randomness, yet be statistically indistinguishable from Venus (Hauck et al., 1998; Campbell, 1999). For this reason, Fig. 10 includes tests comparing experimental impact crater distributions against both purely random simulations and the Venus crater distribution. If an experiment’s spatial results are nonrandom but consistent with Venus crater distribution, then this\nexperiment passes the spatial constraint. Four experiments met the resultant vector test as compared to random, whereas eight experiments met the test as compared to Venus.\nSuite A, wherein crater formation and resurfacing occur throughout the entire 4.5 byr history, had only one experiment— resurfacing in increments of 0.1% total surface area—that met both constraints. It is noteworthy that 0.1% is 1/1000th of the total surface area, meaning that there will be, on average, one impact crater destroyed in each time step and one impact crater emplaced before the following resurfacing event, making this experiment the steady-state solution. The final impact crater distribution in the 0.1% resurfacing experiment is statistically non-random, but it is statistically indistinguishable from the impact crater population on Venus, underscoring that it is important to compare the experimental results to Venus.\nFor suite B (resurfacing occurred during the first 3.75 byr in a 4.5 byr history) only resurfacing in increments of 0.1% total surface area met both constraints. In this case, the spatial distribution is both random and indistinguishable from Venus.\nIn suite C (resurfacing and crater formation occur for the first 3 byr and crater formation alone continues for the last 1.5 byr) experiments with incremental resurfacing in areas of 1%, 0.7%, and 0.1% of the total surface area met both constraints. Of these, only resurfacing in 0.1% is consistent with a random spatial distribution while the results of the other two experiments are indistinguishable from Venus’ impact crater distribution, and therefore met the spatial constraint."
+  }, {
+    "heading": "5. Discussion",
+    "text": "These new Monte Carlo experiments show that certain configurations of equilibrium resurfacing meet the observational con-\nstraints imposed by Venus impact craters, including nearrandom surface distribution and a relatively low number of modified craters. The number of possible configurations depends on the length of the equilibrium-resurfacing era compared to the era of crater accumulation. As would be expected, the shorter the equilibrium-resurfacing era, the broader the range of incremental resurfacing areas that meet the observational constraints. In the case that equilibrium resurfacing continues throughout the model history (i.e. suite A), the area of incremental resurfacing that met the constraints is most limited. This result is expected given that termination of resurfacing processes early in a planet’s history would provide more time for impact craters to smooth out possible clumping related to localized resurfacing.\nThe total number of modified impact craters reported in each test run is a good approximation of how many deformed, but recognizable, impact craters would exist on the surface under a given set of experimental conditions. There is a caveat, however, because there is no modification limit after which a crater is finally ‘‘destroyed’’, as there was in the Strom et al. (1994) analysis. If a low number of craters experience the majority of modification events, then the number of reasonably observable modified craters would be expected to be less than the total number of modified craters reported by the simulations. Except in the case of 0.1% and 0.01% resurfacing, most modified craters undergo a single modification event (Fig. 9). Therefore, there would be little deviation between the total number of modified impact craters and the number of recognizable modified impact craters. Even if impact craters underwent many modification events in a test run, the number of modified craters we report are the maximum number, and would only affect the comparison of simulated impact craters with impact craters on Venus by reducing the total number of craters on the surface.\nSuite A has the same boundary conditions as the Monte Carlo models of Strom et al. (1994), and consequently serves as the direct link between the studies. Our results of 10% and 0.01% incremental resurfacing are comparable to those of Strom et al. (1994) for 10% and 0.03% resurfacing. However, this study demonstrates that it is important to explore the parameter space between 10% and 0.03%. Equilibrium resurfacing with an incremental resurfacing area of 0.1% meets the observations of Venus’ impact crater record, and as such, is viable, even in the most basic formulation.\nAlthough the discovery of impact crater data sets resulting from 0.1% resurfacing in suite A is consistent with the distribution and condition of impact craters on Venus, this simple model experiment is not geologically realistic. It is well established that a higher number of asteroids crossed the orbits of other planets at the start of the Solar System and during the late heavy bombardment, resulting in an exponentially decreasing frequency of impact crater formation as the Solar System ages (Culler et al., 2000). The average size of impactors also decreased through time. These effects of variable impact crater rate and size were not considered in this firstorder study. In addition, it is unlikely that Venus experienced equilibrium resurfacing throughout its recorded history. Venus’ heat loss is occurring at a very different rate today than it was earlier in its history, due to both the decreasing heat budget and the thickening of the lithosphere (e.g., Solomon, 1993; Grimm and Solomon, 1987; Schubert et al., 1997; Nimmo and McKenzie, 1998; Phillips and Hansen, 1994, 1998). Imposing a constant resurfacing rate throughout the model history effectively ignores this change. A decreasing resurfacing rate, ideally exponentially, might better approximate this behavior. Monte Carlo modeling by Bond and Warner (2006) showed that surface histories in which the resurfacing rate varied could also accommodate crater constraints 1 and 2. Although Suites B and C impose constant rates of crater formation and resurfacing, these suites of experiments reflect the shift to a cooler Venus with less resurfacing and are, therefore, more geologically reasonable.\nThe imposition of 100% total resurfacing that we employed, following Strom et al. (1994) has no geologic basis and arises from a need to start the experiments somewhere. Were this total percentresurfaced smaller, one would expect fewer modified impact craters (due to fewer resurfacing events), and more modified impact craters if the total percent resurfacing was higher than 100% (due to more resurfacing events). Such effects might be incorporated into more sophisticated models constrained by future geologic mapping and analysis."
+  }, {
+    "heading": "6. Possible implications for Venus history",
+    "text": "The successful experiments of suite C are consistent with the Spatially Isolated Time Transgressive Equilibrium Resurfacing (SPITTER) hypothesis, which calls for near-steady-state crater formation and destruction during an era of globally thin lithosphere, with a transition to crater accumulation (formation but no destruction) as the lithosphere thickens due to secular cooling (Hansen and Young, 2007). According to this hypothesis, Venus experienced equilibrium-style resurfacing during, and as result of, the formation of crustal plateaus—which form only on thin lithosphere. Individual plateaus, characterized by a distinctive tectonic fabric referred to as ribbon tessera terrain (Hansen and Willis, 1996, 1998), comprise 2–5 million km2, or 0.4–1% of the surface— the incremental resurfacing area admissible based on Monte Carlo modeling. Although formation of crustal plateaus and ribbon tessera terrain remain topics of debate, all proposed hypotheses of crustal plateau formation and ribbon tessera terrain formation embody the complete destruction of preexisting impact craters that lay within the areal extent of individual plateaus (Hansen and\nYoung, 2007, and references cited therein). This means that the destruction of craters by crustal plateau formation is independent of crustal plateau hypothesis—whether by mantle downwelling, mantle upwelling, mantle plume, large bolide impact resulting in huge lava ponds, or horizontal translation (e.g., Bindschadler and Parmentier, 1990; Bindschadler et al., 1992a, 1992b; Bindschadler, 1995; Gilmore et al., 1998; Hansen and Willis, 1998; Ghent and Hansen, 1999; Hansen et al., 1999, 2000; Gilmore and Head, 2000; Hansen, 2006; Romeo and Turcotte, 2008). Although crustal plateaus preserved today collectively cover an area too small to account for equilibrium resurfacing, it has long been suggested that inliers of ribbon tessera terrain, which are distributed across Venus’ surface (Ivanov and Head, 1996; Price et al., 1996; Hansen and López, 2010), represent portions of collapsed crustal plateaus (e.g., Bindschadler et al., 1992a, 1992b; Phillips and Hansen, 1994, 1998; Bindschadler, 1995; Ivanov and Head, 1996; Hansen and Willis, 1998; Ghent and Tibuleac, 2002; Nunes et al., 2004; Ghent et al., 2005; Nunes and Phillips, 2007). This proposal is consistent with global patterns of ribbon tessera terrain outcrops and tectonic fabric patterns (Hansen and López, 2010). Numerous plateaus likely formed in a time-transgressive, spatially isolated manner, each resurfacing large local regions, punctuated in time and space. Individual plateaus would resurface areas ranging from 2 to 5 106 km2, or 0.4–1% of the planet surface. With secular cooling and lithospheric thickening, plateau formation would cease— and with it, the postulated crater destruction processes. The era of equilibrium resurfacing would come to an end, and surface would then begin to accumulate craters at a higher rate given that craters continue to form. The formation of individual crustal plateaus would correspond to individual resurfacing events in the new Monte Carlo models.\nAlthough each of the hypotheses proposed for crustal plateaus to date embodies complete destruction of preexisting impact craters, some of the hypotheses likely accommodate this requirement better than others. In the case of the downwelling hypotheses and pulsating continents hypothesis one might expect to see a sequence of deformed impact craters or severely deformed, yet still recognizable, impact craters, particularly if extensional deformation (formation of both ribbons and graben) formed after fold formation as proposed by some workers (e.g., Gilmore et al., 1998; Gilmore and Head, 2000) and required by these hypotheses. These hypotheses also suffer in that they predict cold geothermal gradients and as such generation of synchronous ribbon tessera terrain volcanism is difficult to address (Hansen, 2006). The upwelling or plume hypotheses for crustal plateau formation would totally destroy preexisting craters (e.g., Hansen and Willis, 1998; Hansen et al., 1999), however it is difficult to reconcile formation of short-wavelength folds (Ghent et al., 2005). Within the context of the lava pond hypothesis, preexisting local impact craters would be completely destroyed, either by intense tectonism or, more likely by local deep flooding and burial; this hypothesis also accommodates formation of ribbon tessera terrain structures and concurrent volcanic flooding of topographic lows (Hansen, 2006). Recent analysis of high-resolution stereo images indicates that the number of volcanically modified impact craters has been greatly underestimated; most impact craters do not occur at the top of the local stratigraphic pile—rather local volcanic activity post-dated impact crater formation (Herrick and Sharpton, 2000; Herrick and Rumpf, 2011). These results are consistent with geologic mapping of high-resolution SAR data that indicate local volcanic unit emplacement at scales much smaller than previously recognized, yet taken together represent a globally significant contributions (e.g., Hansen, 2005; Grindrod et al., 2010). These studies, taken together with the results of Monte Carlo modeling presented herein, highlight the importance of clearly defining what is\nmeant by resurfacing, crater modification, and crater destruction/ removal. An area of Venus can experience resurfacing, and yet local impact craters need not be destroyed/removed."
+  }, {
+    "heading": "7. Conclusions",
+    "text": "We present the results of three suites of Monte Carlo experiments constructed with the intent to: test the effect of shortening the overall equilibrium-resurfacing era, and to explore areas of incremental resurfacing not previously tested. Several experiments met the observational constraints of crater spatial distribution and few obviously modified craters. The shorter the time period of equilibrium resurfacing relative to the time of crater formation following the cessation of equilibrium resurfacing (resurfacing:crater formation), the larger the possible areas of incremental resurfacing that satisfy both constraints. Equilibrium resurfacing is statistically viable for suite A (1:1) at 0.1%, suite B (5:6) at 0.1%, and suite C (2:3) for 1%, 0.7%, and 0.1% areas of incremental resurfacing. The models indicate that configurations of equilibrium resurfacing exist that replicate the two first-order observations of impact craters on Venus, even under the strictest (though geologically implausible) of resurfacing histories (suite A). Collectively, the three suites of experiments indicate that it is important to consider equilibrium resurfacing histories that vary the duration of the resurfacing era. Such models, which are more geologically realistic, are statistically consistent with the geologic constraints imposed by Venus crater characteristics. As the duration of resurfacing decreases, the number of possible resurfacing histories increases, indicating a wider range of possible experiments. Although the assumptions of constant impact crater formation and resurfacing rates are clearly simplifications, they do not detract from the conclusions given the first-order nature of this study. A next step might be to incorporate more complex, geologically reasonable resurfacing and impact crater formation fluxes into these models and to statistically identify resurfacing histories consistent with constraints imposed by firstorder geologic relations. In addition, there is the ‘‘area under the curve’’ ambiguity noted by Campbell (1999), where having only a crater total population number rather than a size frequency distribution allows for a wide array of resurfacing patch ages and rates. It is also possible that the observed crater population and modification pattern reflects a ‘‘six-sigma’’ outcome from all the possible realizations of cratering and resurfacing events. This essentially replaces the crustal-overturn catastrophe with a statistical catastrophe, but it is a scenario we cannot disprove with the current data.\nIn conclusion, it seems that the evidence supporting global catastrophic resurfacing of Venus is not as strong as generally believed, and, inversely, the evidence against equilibrium resurfacing of Venus is valid for only a limited parameter space. Thus it is perhaps most prudent for the planetary community to consider multiple alternative hypotheses for the evolution of Earth’s sister planet, and consider a broad range of possible surface histories. The question of Venus’ surface evolution is complex and clearly requires more work before it will be understood. However, all future models of surface evolution should consider the possibility that equilibrium resurfacing processes may have contributed in a first-order fashion to the recorded surface history. Detailed regional to global geologic mapping will provide critical clues about this history and the operative processes that reflect geodynamic processes that shaped Venus along an evolutionary path quite different from that of Earth."
+  }, {
+    "heading": "Acknowledgments",
+    "text": "Hansen gratefully acknowledges the McKnight Foundation and the National Aeronautics and Space Administration (Grant\nNNX06AB90G) for support of this work. Bjonnes thanks the Department of Geological Sciences, University of Minnesota Duluth, and the McKnight Foundation for support. We thank K. Hekla, R. Maclin, and B. Shankar for discussions, and B. Campbell and an anonymous reviewer for careful and thoughtful comments."
+  }, {
+    "heading": "Appendix A. Geometric series and the determination of time scales",
+    "text": "The procedure for independently determining the impact crater formation and resurfacing time scales (Bjonnes, 2009) operates around the following assumptions:\n– The final number of impact craters on the surface is 1000, – resurfacing events always have the same area, – a time step is defined as the time in between resurfacing events,\nand – the duration of impact crater formation is 4500 Ma (the entire\nduration of the test run). – Additionally, we will need the following definitions and\nrelationships: – TR is the duration of the resurfacing era. Possible values are\n4500, 3750, and 3000 Ma. This remains constant throughout a suite of experiments. – AR is the size of the resurfaced area in the experiment. Possible values include 0.5, 0.25, 0.2, 0.1, 0.05, 0.01, 0.007, 0.001, and 0.0001. This remains constant throughout an experiment. – NR is the number of expected resurfacing events in an experiment. Possible values are 2, 4, 5, 10, 100, 143, 1000, and 10,000. This value is not held constant for all test runs in an experiment but rather serves as a Poisson mean about which the distribution of number of resurfacing events in an experiment is normally distributed.\nNR ¼ 1=AR – tR is the length of time between resurfacing events. tR ¼ TR=NR – TC is the length of time during which only impact crater forma-\ntion occurs. TC ¼ 4500 TR\nTo calculate the number of impact craters emplaced in between resurfacing events, we set up a loop using the following parameters: – ni is the number of impact craters formed in one particular time\nstep. – nt(x) is the number of impact craters on the surface at the start of\none particular time step. – NTx is the number of impact craters on the surface at the end of\none particular time step.\nWith these definitions, the following relationships hold:\n– Total number of time steps = NR + NI – If there are nt(x) impact craters on the surface at the start of a\ntime step, and ni impact craters added during the time step, and the resurfaced area in that test run is AR, then there are\nðni þ ntðxÞÞð1 ARÞ ¼ ntðxþ1Þ\nimpact craters on the surface at the start of the next test run. Another way of looking at this is through the following table, illustrating how the number of impact craters on the surface after each 25%-area resurfacing event changes with each time step:\nnt(x)\nni AR\n1 AR # on surface before resurfacing event\nnt(x+1)\n0\nX 0.25 0.75\nX\n0.75X\n0.75X\nX 0.25 0.75\n1.75X\n1.3125X\n1.3125X X 0.25 0.75\n2.3125X\n1.7344\n1.7344X X 0.25 0.75\n2.7344X\n2.0508X\nEven though a total of 4X impact craters were added to the surface throughout the test run, only 2.0508X impact craters remained after the resurfacing events. We used MatLab to write a script using AR, TR, and TC to calculate the number of impact craters that form between each resurfacing event. As in the case above, the number of impact craters formed in each time step would be\nX ¼ 1000=2:0508 ¼ 487:6146\nWe can then find the length of time between impact crater formation events through the formula\nNimpact ¼ nR=ni We now have all the information necessary to generate time scales for both impact crater formation and resurfacing. The final step is to generate exponentially-distributed random variables using Poisson means related to nimpact and nR. The first generated random variable for impact crater formation corresponds to the time needed to form the first impact crater; the second generated random variable corresponds to the time needed for the second impact crater to form after the first one, etc. until the sum of the randomly generated variable sum up to larger than 4500. This is because 4500 is the duration of the test run. We follow the same procedure to generate the time scale for the resurfacing events."
+  }],
+  "year": 2011,
+  "references": [{
+    "title": "A stratigraphic study of small volcano clusters on Venus",
+    "authors": ["E.A. Addington"],
+    "venue": "Icarus 149,",
+    "year": 2001
+  }, {
+    "title": "Tectonic effects of climate change on Venus",
+    "authors": ["F.S. Anderson", "S.E. Smrekar"],
+    "venue": "J. Geophys. Res",
+    "year": 1999
+  }, {
+    "title": "Global stratigraphy of Venus: Analysis of a random sample of thirty-six rest areas",
+    "authors": ["A.T. Basilevsky", "J. Head"],
+    "venue": "Earth Moon Planets",
+    "year": 1994
+  }, {
+    "title": "Evidence for rapid and widespread emplacement of volcanic plains on Venus: Stratigraphic studies in the Baltis Vallis region",
+    "authors": ["A.T. Basilevsky", "J.W. Head"],
+    "venue": "Geophys. Res. Lett",
+    "year": 1996
+  }, {
+    "title": "The geologic history of Venus: A stratigraphic view",
+    "authors": ["A.T. Basilevsky", "J.W. Head"],
+    "venue": "J. Geophys. Res",
+    "year": 1998
+  }, {
+    "title": "Venus: Timing and rates of geological activity",
+    "authors": ["A.T. Basilevsky", "J.W. Head"],
+    "venue": "Geology",
+    "year": 2002
+  }, {
+    "title": "The resurfacing history of Venus",
+    "authors": ["A.T. Basilevsky", "J.W. Head", "G.G. Schaber", "R.G. Strom"],
+    "venue": "Venus II. Univ. of Arizona Press,",
+    "year": 1997
+  }, {
+    "title": "Magellan – A new view of Venus geology and geophysics",
+    "authors": ["D.L. Bindschadler"],
+    "venue": "Rev. Geophys",
+    "year": 1995
+  }, {
+    "title": "Mantle flow tectonics: The influence of a ductile lower crust and implications for the formation of topographic uplands on Venus",
+    "authors": ["D.L. Bindschadler", "E.M. Parmentier"],
+    "venue": "J. Geophys. Res",
+    "year": 1990
+  }, {
+    "title": "1992a. Magellan observations of Alpha Regio: Implications for formation of complex ridged terrains on Venus",
+    "authors": ["D.L. Bindschadler", "A. deCharon", "K.K. Beratan", "J.W. Head"],
+    "venue": "J. Geophys. Res",
+    "year": 1992
+  }, {
+    "title": "Coldspots and hotspots: Global tectonics and mantle dynamic of Venus",
+    "authors": ["D.L. Bindschadler", "G. Schubert", "W.M. Kaula"],
+    "venue": "J. Geophys. Res",
+    "year": 1992
+  }, {
+    "title": "The Plausibility of Venusian Equilibrium Resurfacing Using Monte Carlo Models Masters. University of Minnesota Duluth, Duluth, 80pp",
+    "authors": ["E.E. Bjonnes"],
+    "year": 2009
+  }, {
+    "title": "Dating Venus: Statistical models of magmatic activity and impact cratering",
+    "authors": ["T.M. Bond", "M.R. Warner"],
+    "venue": "Proc. Lunar Sci. Conf",
+    "year": 2006
+  }, {
+    "title": "Geologic Map of the Taussig Quadrangle (V-39), USGS SIM 2813",
+    "authors": ["A.W. Brian", "E.R. Stofan", "J.E. Guest"],
+    "year": 2005
+  }, {
+    "title": "Recent tectonic and lithospheric thermal evolution of Venus",
+    "authors": ["C.D. Brown", "R.E. Grimm"],
+    "venue": "Icarus 139,",
+    "year": 1999
+  }, {
+    "title": "The recent evolution of climate on Venus",
+    "authors": ["M.A. Bullock", "G.H. Grinspoon"],
+    "venue": "Icarus 150,",
+    "year": 2001
+  }, {
+    "title": "Venus resurfacing rates Constraints provided by 3-D Monte-Carlo simulations",
+    "authors": ["M.A. Bullock", "D.H. Grinspoon", "J.W. Head"],
+    "venue": "Geophys. Res. Lett",
+    "year": 1993
+  }, {
+    "title": "Surface formation rates and impact crater densities on Venus",
+    "authors": ["B.A. Campbell"],
+    "venue": "J. Geophys. Res",
+    "year": 1999
+  }, {
+    "title": "Volcanoes and centers of volcanism on Venus",
+    "authors": ["L.S. Crumpler", "J.C. Aubele", "D.A. Senske", "S.T. Keddie", "K.P. Magee", "J.W. Head"],
+    "venue": "Venus II. Univ. of Arizona Press,",
+    "year": 1997
+  }, {
+    "title": "Lunar impact history from 40Ar/39Ar dating of glass spherules",
+    "authors": ["T.S. Culler", "T.A. Becker", "R.A. Muller", "P.R. Renne"],
+    "venue": "Science",
+    "year": 2000
+  }, {
+    "title": "Structural and kinematic analysis of eastern Ovda Regio, Venus: Implications for crustal plateau formation",
+    "authors": ["R.R. Ghent", "V.L. Hansen"],
+    "venue": "Icarus 139,",
+    "year": 1999
+  }, {
+    "title": "Ribbon spacing in venusian tessera: Implications for layer thickness and thermal state",
+    "authors": ["R.R. Ghent", "I.M. Tibuleac"],
+    "venue": "Geophys. Res",
+    "year": 2002
+  }, {
+    "title": "Finite element modeling of short-wavelength folding on Venus: Implications for the plume hypothesis for crustal plateau formation",
+    "authors": ["R.R. Ghent", "R.J. Phillips", "V.L. Hansen", "D.C. Nunes"],
+    "venue": "J. Geophys. Res",
+    "year": 2005
+  }, {
+    "title": "Sequential deformation of plains at the margins of Alpha Regio, Venus: Implications for tessera formation",
+    "authors": ["M.S. Gilmore", "J.W. Head"],
+    "venue": "Meteorit. Planet. Sci",
+    "year": 2000
+  }, {
+    "title": "Style and sequence of extensional structures in tessera terrain, Venus",
+    "authors": ["M.S. Gilmore", "G.C. Collins", "M.A. Ivanov", "L. Marinangeli", "J.W. Head"],
+    "venue": "J. Geophys. Res",
+    "year": 1998
+  }, {
+    "title": "Insights into corona formation through statistical analyses",
+    "authors": ["L.S. Glaze", "E.R. Stofan", "S.E. Smrekar", "S.M. Baloga"],
+    "venue": "J. Geophys. Res",
+    "year": 2002
+  }, {
+    "title": "Recent deformation rates on Venus",
+    "authors": ["R.E. Grimm"],
+    "venue": "J. Geophys. Res",
+    "year": 1994
+  }, {
+    "title": "Limits on modes of lithospheric heat-transport on Venus from impact crater density",
+    "authors": ["R.E. Grimm", "S.C. Solomon"],
+    "venue": "Geophys. Res",
+    "year": 1987
+  }, {
+    "title": "Volcanism and resurfacing on Venus at the full resolution of Magellan SAR data",
+    "authors": ["P.M. Grindrod", "E.R. Stofan", "J.E. Guest"],
+    "venue": "Geophys. Res. Lett. 37,",
+    "year": 2010
+  }, {
+    "title": "A new view of the stratigraphic history of Venus",
+    "authors": ["J.E. Guest", "E.R. Stofan"],
+    "venue": "Icarus 139,",
+    "year": 1999
+  }, {
+    "title": "Venus’s shield terrain",
+    "authors": ["V.L. Hansen"],
+    "venue": "Geol. Soc. Am. Bull. 117,",
+    "year": 2005
+  }, {
+    "title": "Geologic constraints on crustal plateau surface histories, Venus: The lava pond and bolide impact hypotheses",
+    "authors": ["V.L. Hansen"],
+    "venue": "J. Geophys. Res. 111",
+    "year": 2006
+  }, {
+    "title": "Venus records a rich early history",
+    "authors": ["V.L. Hansen", "I. López"],
+    "venue": "Geology 38,",
+    "year": 2010
+  }, {
+    "title": "Artemis, Venus: The largest tectonomagmatic feature in the Solar System",
+    "authors": ["V.L. Hansen", "A. Olive"],
+    "venue": "Geology",
+    "year": 2010
+  }, {
+    "title": "Structural analysis of a sampling of tesserae: Implications for Venus geodynamics",
+    "authors": ["V.L. Hansen", "J.J. Willis"],
+    "venue": "Icarus 123,",
+    "year": 1996
+  }, {
+    "title": "Ribbon terrain formation, southwestern Fortuna Tessera, Venus: Implications for lithosphere evolution",
+    "authors": ["V.L. Hansen", "J.J. Willis"],
+    "venue": "Icarus",
+    "year": 1998
+  }, {
+    "title": "Venus’s evolution: A synthesis",
+    "authors": ["V.L. Hansen", "D.A. Young"],
+    "venue": "Geol. Soc. Am. Spec. Pap. 419",
+    "year": 2007
+  }, {
+    "title": "Structures in tessera terrain, Venus: Issues and answers",
+    "authors": ["V.L. Hansen", "R.J. Phillips", "J.J. Willis", "R.R. Ghent"],
+    "venue": "J. Geophys. Res",
+    "year": 2000
+  }, {
+    "title": "Venus: Crater distribution and plains resurfacing models",
+    "authors": ["S.A. Hauck", "R.J. Phillips", "M.H. Price"],
+    "venue": "J. Geophys. Res",
+    "year": 1998
+  }, {
+    "title": "Sequence of tectonic deformation in the history of Venus: Evidence from global stratigraphic",
+    "authors": ["J.W. Head", "A.T. Basilevsky"],
+    "venue": "relations. Geology",
+    "year": 1998
+  }, {
+    "title": "Large igneous provinces: A planetary perspective",
+    "authors": ["J.W. Head", "M.F. Coffin"],
+    "venue": "Geophys. Mono. Ser",
+    "year": 1997
+  }, {
+    "title": "Venus volcanism: Classification of volcanic features and structures, associations, and global distribution from Magellan data",
+    "authors": ["J.W. Head", "L.S. Crumpler", "J.C. Aubele", "J.E. Guest", "R.S. Saunders"],
+    "venue": "J. Geophys. Res",
+    "year": 1992
+  }, {
+    "title": "Updates regarding the resurfacing of venusian impact craters",
+    "authors": ["R.R. Herrick"],
+    "venue": "Proc. Lunar Sci. Conf",
+    "year": 2006
+  }, {
+    "title": "Post-impact modification by volcanic or tectonic processes as the rule, not the exception, for venusian craters",
+    "authors": ["R.R. Herrick", "M.E. Rumpf"],
+    "venue": "J. Geophys. Res",
+    "year": 2011
+  }, {
+    "title": "Implications from stereo-derived topography of venusian impact craters",
+    "authors": ["R.R. Herrick", "V.L. Sharpton"],
+    "venue": "J. Geophys. Res",
+    "year": 2000
+  }, {
+    "title": "The global resurfacing of Venus – Comment",
+    "authors": ["R.R. Herrick", "N. Izenberg", "R.J. Phillips"],
+    "venue": "J. Geophys. Res",
+    "year": 1995
+  }, {
+    "title": "Morphology and morphometry of impact craters",
+    "authors": ["R.R. Herrick", "V.L. Sharpton", "M.C. Malin", "S.N. Lyons", "K. Feely"],
+    "venue": "Venus II. Univ. of Arizona Press,",
+    "year": 1997
+  }, {
+    "title": "Tessera terrain on Venus: A survey of the global distribution, characteristics, and relation to surrounding units from Magellan data",
+    "authors": ["M.A. Ivanov", "J.W. Head"],
+    "venue": "J. Geophys. Res",
+    "year": 1996
+  }, {
+    "title": "Impact crater degradation on venusian plains",
+    "authors": ["N.R. Izenberg", "R.E. Arvidson", "R.J. Phillips"],
+    "venue": "Geophys. Res. Lett",
+    "year": 1994
+  }, {
+    "title": "Spatial distribution of earthquakes: The two-point distribution problem",
+    "authors": ["Y.Y. Kagan", "L. Knopoff"],
+    "venue": "Geophys. J. R. Astron. Soc",
+    "year": 1980
+  }, {
+    "title": "Nonuniform cratering of the terrestrial planets",
+    "authors": ["M. Le Feuvre", "M.A. Wieczorek"],
+    "venue": "Icarus 197,",
+    "year": 2008
+  }, {
+    "title": "Volcanism and tectonics on Venus",
+    "authors": ["F. Nimmo", "D. McKenzie"],
+    "venue": "Annu. Rev. Earth Planet. Sci",
+    "year": 1998
+  }, {
+    "title": "Effect of state of compensation on the relaxation of crustal plateaus on Venus",
+    "authors": ["D.C. Nunes", "R.J. Phillips"],
+    "venue": "J. Geophys. Res. 112, E10002",
+    "year": 2007
+  }, {
+    "title": "Relaxation of compensated topography and the evolution of crustal plateaus on Venus",
+    "authors": ["D.C. Nunes", "R.J. Phillips", "C.D. Brown", "A.J. Dombard"],
+    "venue": "J. Geophys. Res. 109,",
+    "year": 2004
+  }, {
+    "title": "Tectonic and magmatic evolution of Venus",
+    "authors": ["R.J. Phillips", "V.L. Hansen"],
+    "venue": "Annu. Rev. Earth Planet. Sci",
+    "year": 1994
+  }, {
+    "title": "Geological evolution of Venus: Rises, plains, plumes and plateaus",
+    "authors": ["R.J. Phillips", "V.L. Hansen"],
+    "venue": "Science",
+    "year": 1998
+  }, {
+    "title": "Ejecta correlations with spatial crater density and Venus resurfacing history",
+    "authors": ["R.J. Phillips", "N.R. Izenberg"],
+    "venue": "Geophys. Res. Lett",
+    "year": 1995
+  }, {
+    "title": "Impact craters and Venus resurfacing history",
+    "authors": ["R.J. Phillips", "R.F. Raubertas", "R.E. Arvidson", "I.C. Sarkar", "R.R. Herrick", "N. Izenberrg", "R.E. Grimm"],
+    "venue": "J. Geophys. Res",
+    "year": 1992
+  }, {
+    "title": "Constraints on the resurfacing history of Venus from the hypsometry and distribution of tectonism, volcanism, and impact craters",
+    "authors": ["M. Price", "J. Suppe"],
+    "venue": "Earth Moon Planets",
+    "year": 1995
+  }, {
+    "title": "Dating volcanism and rifting on Venus using impact crater densities",
+    "authors": ["M.H. Price", "G. Watson", "C. Brankman"],
+    "venue": "J. Geophys. Res",
+    "year": 1996
+  }, {
+    "title": "Pulsating continents on Venus: An explanation for crustal plateaus and tessera terrains",
+    "authors": ["I. Romeo", "D.L. Turcotte"],
+    "venue": "Earth Planet. Sci",
+    "year": 2008
+  }, {
+    "title": "The frequency-area distribution of volcanic units on Venus: Implications for planetary resurfacing",
+    "authors": ["I. Romeo", "D.L. Turcotte"],
+    "venue": "Icarus 203,",
+    "year": 2009
+  }, {
+    "title": "Geology and distribution",
+    "authors": ["G.G. Schaber", "R.G. Strom", "H.J. Moore", "L.A. Soderblom", "R.L. Kirk", "D.J. Chadwick", "D.D. Dawson", "L.R. Gaddis", "J.M. Boyce", "J. Russell"],
+    "year": 1992
+  }, {
+    "title": "Mantle convection and thermal evolution of Venus",
+    "authors": ["G.S. Schubert", "V.S. Solomatov", "P.J. Tackely", "D.L. Turcotte"],
+    "venue": "Venus II. Univ. of Arizona Press,",
+    "year": 1997
+  }, {
+    "title": "Recent hotspot volcanism on Venus from VIRTIS emissivity data",
+    "authors": ["S.E. Smrekar", "E.R. Stofan", "N. Mueller", "A. Treiman", "L. Elkins-Tanton", "J. Helbert", "G. Piccioni", "P. Drossart"],
+    "year": 2010
+  }, {
+    "title": "Stagnant lid convection on Venus",
+    "authors": ["V.S. Solomatov", "L.N. Moresi"],
+    "venue": "J. Geophys. Res",
+    "year": 1996
+  }, {
+    "title": "The geophysics of Venus",
+    "authors": ["S.C. Solomon"],
+    "venue": "Physics Today",
+    "year": 1993
+  }, {
+    "title": "Venus tectonics: An overview of Magellan observations",
+    "authors": ["Solomon", "S.C"],
+    "venue": "J. Geophys. Res",
+    "year": 1992
+  }, {
+    "title": "Climate change as a regulator of tectonics on Venus",
+    "authors": ["S.C. Solomon", "M.A. Bullock", "D.H. Grinspoon"],
+    "venue": "Science 286,",
+    "year": 1999
+  }, {
+    "title": "Resurfacing styles and rates on Venus— Assessment of 18 venusian quadrangles",
+    "authors": ["E.R. Stofan", "A.W. Brian", "J.E. Guest"],
+    "venue": "Icarus 173,",
+    "year": 2005
+  }, {
+    "title": "The global resurfacing of Venus",
+    "authors": ["R.G. Strom", "G.G. Schaber", "D.D. Dawson"],
+    "venue": "J. Geophys. Res",
+    "year": 1994
+  }, {
+    "title": "Climate evolution of Venus",
+    "authors": ["F. Taylor", "D. Grinspoon"],
+    "venue": "J. Geophys. Res. 114,",
+    "year": 2009
+  }, {
+    "title": "Catastrophic resurfacing and episodic subduction on Venus",
+    "authors": ["D.L. Turcotte", "G. Morein", "B.D. Malamud"],
+    "venue": "Icarus 139,",
+    "year": 1999
+  }, {
+    "title": "Probability and Statistics for Engineers and Scientists",
+    "authors": ["R.E. Walpole", "R.H. Myers", "S.L. Myers", "K. Ye"],
+    "year": 2007
+  }, {
+    "title": "Internal crater modification on Venus: Recognizing cratercentered volcanism by changes in floor morphology and floor brightness",
+    "authors": ["R.W. Wichman"],
+    "venue": "J. Geophys. Res",
+    "year": 1999
+  }],
+  "id": "SP:48ff6365578764af9073155ddc316b1a224c0fc4",
+  "authors": [{
+    "name": "E.E. Bjonnes",
+    "affiliations": []
+  }, {
+    "name": "V.L. Hansen",
+    "affiliations": []
+  }, {
+    "name": "B. James",
+    "affiliations": []
+  }, {
+    "name": "J.B. Swenson",
+    "affiliations": []
+  }],
+  "abstractText": "Venus’ impact crater population imposes two observational constraints that must be met by possible model surface histories: (1) near random spatial distribution of 975 craters, and (2) few obviously modified impact craters. Catastrophic resurfacing obviously meets these constraints, but equilibrium resurfacing histories require a balance between crater distribution and modification to be viable. Equilibrium resurfacing scenarios with small incremental resurfacing areas meet constraint 1 but not 2, whereas those with large incremental resurfacing areas meet constraint 2 but not 1. Results of Monte Carlo modeling of equilibrium resurfacing (Strom et al., 1994) is widely cited as support for catastrophic resurfacing hypotheses and as evidence against hypotheses of equilibrium resurfacing. However, the Monte Carlo models did not consider intermediate-size incremental resurfacing areas, nor did they consider histories in which the era of impact crater formation outlasts an era of equilibrium resurfacing. We construct three suites of Monte Carlo experiments that examine incremental resurfacing areas not previously considered (5%, 1%, 0.7%, and 0.1%), and that vary the duration of resurfacing relative to impact crater formation time (1:1 [suite A], 5:6 [suite B], and 2:3 [suite C]). We test the model results against the two impact crater constraints. Several experiments met both constraints. The shorter the time period of equilibrium resurfacing, or the longer the time of crater formation following the cessation of equilibrium resurfacing, the larger the possible areas of incremental resurfacing that satisfy both constraints. Equilibrium resurfacing is statistically viable for suite A at 0.1%, suite B at 0.1%, and suite C for 1%, 0.7%, and 0.1% areas of incremental",
+  "title": "Equilibrium resurfacing of Venus: Results from new Monte Carlo modeling and implications for Venus surface histories"
+}

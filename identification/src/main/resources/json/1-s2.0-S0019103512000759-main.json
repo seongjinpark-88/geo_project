@@ -1,0 +1,588 @@
+{
+  "sections": [{
+    "text": "Icarus 219 (2012) 211–229\nContents lists available at SciVerse ScienceDirect\nIcarus\njournal homepage: www.elsevier .com/locate / icarus\nAn analysis of open-basin lake deposits on Mars: Evidence for the nature of associated lacustrine deposits and post-lacustrine modification processes\nTimothy A. Goudge a,⇑, James W. Head a, John F. Mustard a, Caleb I. Fassett a,b a Department of Geological Sciences, Brown University, 324 Brook St., Box 1846, Providence, RI 02912, United States b Department of Astronomy, Mount Holyoke College, South Hadley, MA 01075, United States\na r t i c l e i n f o a b s t r a c t\nArticle history: Received 7 October 2011 Revised 23 January 2012 Accepted 23 February 2012 Available online 3 March 2012\nKeywords: Mars, Surface Mineralogy Geological processes\n0019-1035/$ - see front matter 2012 Elsevier Inc. A doi:10.1016/j.icarus.2012.02.027\n⇑ Corresponding author. Fax: +1 401 863 3978. E-mail address: Tim_Goudge@brown.edu (T.A. Gou\nA large number of candidate open-basin lakes (low-lying regions with both inlet valleys and an outlet valley) have been identified and mapped on Mars and are fed by valley network systems that were active near the Noachian–Hesperian boundary. The nature of processes that modified the open-basin lake interiors subsequent to lacustrine activity, and how frequently sedimentary deposits related to lacustrine activity remain exposed, has not been extensively examined. An analysis of 226 open-basin lakes was undertaken to identify evidence for: (1) exposed deposits of possible lacustrine origin and (2) post-lacustrine-activity processes that may have modified or resurfaced open-basin lakes. Spectroscopic data from the Compact Reconnaissance Imaging Spectrometer for Mars (CRISM) instrument were analyzed over identified exposed open-basin lake deposits to assess the mineralogy of these deposits. Particular attention was paid to the possible detection of any component of aqueous alteration minerals (e.g. phyllosilicates, hydrated silica, zeolites) or evaporites (e.g. carbonates, sulfates, chlorides) associated with these exposed deposits. The aim of this paper is to act as a broad survey and cataloguing of the types of lacustrine and post-lacustrine deposits that are present within these 226 paleolake basins. Results of the morphologic classification indicate that 79 open-basin lakes ( 35% of the population) contain exposed deposits of possible lacustrine origin, identified on the basis of fan/delta deposits, layered deposits and/or exposed floor material of apparent lacustrine origin. Additionally, all 226 open-basin lakes examined appear to have been at least partially resurfaced subsequent to their formation by several processes, including volcanism, glacial and periglacial activity, impact cratering and aeolian activity. Results from the analysis of CRISM data show that only 10 ( 29% of the 34 deposits with CRISM coverage) of the exposed open-basin lake deposits contain positively identified aqueous alteration minerals, with one deposit also containing evaporites. The identified hydrated and evaporite minerals include Fe/Mg-smectite, kaolinite, hydrated silica and carbonate, with Fe/Mg-smectite the most commonly identified mineral. These results indicate that hydrated and evaporite minerals are not as commonly associated with lacustrine deposits on Mars as they are on Earth. This suggests in situ alteration and mineral precipitation, a common source of such minerals in terrestrial lakes, was not a major process occurring in these paleolacustrine systems, and that the observed minerals are likely to be present as transported material within the lacustrine deposits. The lack of widespread in situ alteration also suggests that either the water chemistry in these paleolake systems was not conducive to aqueous alteration and mineral precipitation, or that the open-basin lake systems were relatively short-lived.\n2012 Elsevier Inc. All rights reserved."
+  }, {
+    "heading": "1. Introduction",
+    "text": "Candidate paleolake basins have long been observed on Mars (e.g. Goldspiel and Squyres, 1991; De Hon, 1992; Forsythe and Zimbelman, 1995; Cabrol and Grin, 1999, 2001) based on their distinct morphology. Since their initial discovery, several workers have compiled extensive and thorough catalogues of these features (e.g. De Hon, 1992; Cabrol and Grin, 1999, 2001; Fassett and Head,\nll rights reserved.\ndge).\n2008a), dividing martian paleolakes into two major categories: closed-basin lakes and open-basin lakes (Cabrol and Grin, 1999; Fassett and Head, 2008a). Closed-basin lakes have inlet valleys but lack outlets, and they are inferred to be paleolakes due to the observed morphology of the surrounding terrain (i.e. inlet valleys) and associated deposits (Cabrol and Grin, 1999). Open-basin lakes have both observed inlet valleys and an outlet valley (Cabrol and Grin, 1999; Fassett and Head, 2008a). The presence of both inlet valleys and an outlet valley means that water within the basin must have ponded to approximately the level of the surface adjacent to the outlet valley head before breaching and overflowing\n212 T.A. Goudge et al. / Icarus 219 (2012) 211–229\nthe basin, requiring a period of sustained fluvial activity on the surface of Mars (Fassett and Head, 2008a).\nOver 200 open-basin lakes have been mapped in the ancient Noachian and Hesperian highlands across much of the planet (Fassett and Head, 2008a). These open lacustrine systems have been interpreted to have been active in a distinct period in martian history, with the majority of fluvial activity within the valley networks that feed them ceasing at or near the Noachian–Hesperian boundary (Irwin et al., 2005; Fassett and Head, 2008b); however, it is possible that a very small percentage of these basins were active at a later period in martian history. Therefore, the currently exposed deposits associated with these open-basin lakes have had a 3.7 Gyr history that has been largely devoid of fluvial activity (Fassett and Head, 2008a, 2008b). During this extensive period of time, the basins that hosted these paleolakes have been subject to a variety of geologic processes that have acted to resurface, bury, and exhume the open-basin lakes and any exposed deposits associated with them.\nIn this investigation we conduct a comprehensive analysis of the morphologies and mineralogies associated with the entire catalogue of 210 open-basin lakes from Fassett and Head (2008a) in addition to 16 open-basin lakes added to the catalogue subsequently. The aim of this work is to conduct an analysis of the presence, type and composition of exposed sedimentary deposits associated with the open-basin lakes as well as the classification of any identifiable resurfacing units modifying or covering the basins. The analyses presented here reflect this scope of a broad survey of deposits associated with open-basin lakes, and are not intended to act as a detailed morphologic, sedimentologic or mineralogic study of any one deposit or basin alone, as have been done by many previous workers (e.g. Grin and Cabrol, 1997; Ori et al., 2000; Irwin et al., 2002; Fassett and Head, 2005; Mangold and Ansan, 2006; Ehlmann et al., 2008a, 2008b; Dehouck et al., 2010; Ansan et al., 2011; Buhler et al., 2011).\nA major goal in assessing the exposed open-basin lake deposit’s composition is to determine if there is any common association with aqueous alteration minerals (e.g. phyllosilicates, hydrated silica, zeolites) and/or evaporites (e.g. carbonates, chlorides, sulfates), as is commonly seen for lacustrine deposits on Earth (Jones and Bowser, 1978; Blatt et al., 1980; Leeder, 1999; Wetzel, 2001). In terrestrial systems, aqueous alteration minerals occur in lacustrine sediments as both transported detritus and as authigenic material formed through lithification and diagenesis (Moore, 1961; Muller and Quakernaat, 1969; Singer et al., 1972; Jones and Bowser, 1978; Blatt et al., 1980; Jones, 1986; Hay et al., 1991; Hillier, 1993), whereas evaporites typically only form as authigenic components of the sediment from mineral precipitation in the water column and through diagenesis (Brunskill, 1969; Eugster and Hardie, 1975, 1978; Jones and Bowser, 1978; Kelts and Hsu, 1978; Strong and Eadie, 1978; Wetzel, 2001). Aqueous alteration minerals commonly comprise a major component (> 15–25 wt.%) of lacustrine sediments from large, open lake systems, while evaporites (primarily carbonate) are present at variable levels depending on the chemistry of the lake water (e.g. Moore, 1961; Thomas, 1969; Muller and Quakernaat, 1969; Singer et al., 1972; Thomas et al., 1972, 1973; Jones and Bowser, 1978; Blatt et al., 1980; Hillier, 1993). The overall aim of this study is to further characterize the catalogue of open-basin lakes observed across the surface of Mars to help understand both the period of lacustrine activity within the open-basin lakes and the post-fluvial-activity history of these basins."
+  }, {
+    "heading": "2. Datasets used and analysis",
+    "text": "In order to examine the morphology of the open-basin lakes, a combination of 6 m/pixel images from the Context Camera (CTX) instrument aboard the Mars Reconnaissance Orbiter (MRO)\nspacecraft (Malin et al., 2007), 18 m/pixel images from the visible camera of the Thermal Emission Imaging System (THEMIS) instrument aboard the Mars Odyssey spacecraft (Christensen et al., 2004) and <50 m/pixel images from the High Resolution Stereo Camera (HRSC) instrument aboard the Mars Express spacecraft (Neukum et al., 2004) were used. Additionally, Mars Orbiter Laser Altimeter (MOLA) gridded topography (Smith et al., 2001) and HRSC stereo topography (Neukum et al., 2004) were used to further characterize the morphology of the open-basin lakes and their associated deposits.\nEach open-basin lake in the Fassett and Head (2008a) catalogue was examined at a variety of scales and was categorized based on two main aspects of their morphology: (1) presence or absence of exposed deposits that appear to be lacustrine in nature and (2) characteristics of any process or processes that have been involved in resurfacing the open-basin lakes. It should be noted that the classification of having undergone resurfacing and having exposed deposits of possible lacustrine origin are not mutually exclusive, as an open-basin lake can be partially resurfaced while still containing exposed sedimentary deposits. The criteria used for classification of the presence of exposed sedimentary deposits and resurfacing processes are discussed in Sections 2.1 and 2.2.\nDuring this analysis, we also reassessed the evidence for paleolake activity associated with each of the 226 open-basin lakes. Images over each open-basin lake were examined for discernable evidence of an outlet valley that is hanging with respect to a contour level that defines a local topographic low and does not head at a drainage divide. The incision of such valleys cannot be explained by localized precipitation or run-off, and thus requires a standing body of water, at some point in time, that has been breached and supplied the fluvial activity necessary for valley incision (Fassett and Head, 2008a). Each open-basin lake was assigned one of three degrees of confidence for paleolake activity associated with the basin: certain, probable and possible. Certain indicates that there is an extremely high degree of confidence that there was a paleolake in the analyzed basin, probable indicates that it is highly likely that there was a paleolake in the analyzed basin and possible indicates that it is likely there was a paleolake in the analyzed basin, although there is some degree of uncertainty.\nExposed open-basin lake deposit mineralogies were assessed using spectral data from the Compact Reconnaissance Imaging Spectrometer for Mars (CRISM) instrument aboard the MRO spacecraft (Murchie et al., 2007). Each exposed open-basin lake deposit was studied using full resolution, FRT, ( 18 m/pixel) and half resolution, HRL and HRS, ( 36 m/pixel) targeted observations where such data are available, as these data have been shown to have a sufficiently high resolution to identify the composition of exposed sedimentary deposits (e.g. Ehlmann et al., 2008a, 2008b, 2009; Mustard et al., 2008; Dehouck et al., 2010; Ansan et al., 2011). This assessment was performed using both spectral parameter maps, which identify key spectral absorptions caused by components of the mineral structure such as bound water and hydroxyl molecules (Pelkey et al., 2007; Ehlmann et al., 2009), as well as validation of mineral detections identified through parameters using detailed spectral analysis."
+  }, {
+    "heading": "2.1. Exposed open-basin lake deposits",
+    "text": "Open-basin lakes were examined for three primary types of exposed sedimentary deposits: fan/delta deposits, layered deposits and exposed floor material. The criteria used to identify these three types of deposits are detailed below."
+  }, {
+    "heading": "2.1.1. Deltas",
+    "text": "Images of open-basin lake inlet valleys were analyzed to document any evidence of sediment deposition in the form of a fan or\nT.A. Goudge et al. / Icarus 219 (2012) 211–229 213\ndelta deposit (Fig. 1). These types of deposits have been observed in numerous other open-basin lakes (e.g. Cabrol and Grin, 1999; Fassett and Head, 2005; Irwin et al., 2005; Mangold and Ansan, 2006; Di Achille and Hynek, 2010) and provide strong evidence for fluvial activity. The morphology of these fan deposits is highly variable across the surface of Mars, and while several workers have documented these variations (e.g. Irwin et al., 2005; Di Achille and Hynek, 2010), here we simply note the presence or absence of delta deposits within the open-basin lakes. It is important to note that while relatively pristine delta deposits have been observed in a few open-basin lakes (e.g. Fassett and Head, 2005; Irwin et al., 2005; Mangold and Ansan, 2006) (Fig. 1A and D), the majority of the delta deposits we identify here have been heavily eroded and/or modified (Fig. 1B, C, E and F)."
+  }, {
+    "heading": "2.1.2. Layered deposits",
+    "text": "Layered sedimentary deposits have been observed in a number of locations across Mars with high-resolution imagery (e.g. Malin and Edgett, 2000) including in several open-basin lakes (e.g. Cabrol and Grin, 1999; Wilson et al., 2007). In this study we analyzed images of each open-basin lake and noted whether or not they contain such exposed between layered deposits (Fig. 2). In order to distinguish between layered deposits with a probable lacustrine origin and those deposited through glacial (e.g. Head et al., 2003) or aeolian (e.g. Lewis et al., 2008) processes, we classified basins as showing evidence for layering only if: (1) the layered deposits are situated\ntopographically below the outlet level of the basin based on MOLA gridded data (Smith et al., 2001) and/or HRSC stereo data (Neukum et al., 2004); (2) the layered deposits are stratigraphically below any resurfacing unit; (3) layers are contiguous across the basin where separate outcrops are visible; and (4) outcropping layers are wholly confined to the associated open-basin lake."
+  }, {
+    "heading": "2.1.3. Exposed floor material",
+    "text": "A final type of exposed deposit of possible lacustrine origin identified is exposed floor material (Fig. 3). These deposits are typically present as light-toned, knobby, eroded terrain on the floor of open-basin lakes, which are either embayed by or exposed beneath any resurfacing unit present (Fig. 3). While it is possible that these deposits are not lacustrine in origin, based on several lines of evidence we conclude that lacustrine deposition is the most likely source for these deposits. First, the deposits all lie stratigraphically below any resurfacing unit and are commonly embayed by these resurfacing units (Fig. 3). Additionally, these deposits are typically light- to intermediate-toned and often form mesas, typical of massive sedimentary deposits observed across the surface of Mars (Malin and Edgett, 2000). Furthermore, a period of extensive deposition is implied by the abnormally low depth/diameter relationships (Strom et al., 1992) for those basins defined by ancient impact craters. That this deposition is lacustrine is favored by the confinement of the deposits to paleolake basins. Although we favor the hypothesis of lacustrine deposition for these exposed floor\ns are 2 km. (A) Pristine Gilbert-type delta at 39.16 S, 103.12 W (Mangold and Ansan, 23.68 W. CTX image B17_016170_1572_XI_22S023 W. (C) Partially eroded delta at 005; Hauber et al., 2009). (D–F) Geologic sketch maps of the delta deposits in parts\n214 T.A. Goudge et al. / Icarus 219 (2012) 211–229\nmaterials, it is possible that some portion of these deposits are unrelated to lacustrine activity. In identifying exposed floor materials, care was taken to ensure that exposed central peak and/or peak ring material was not confused with exposed floor material in open-basin lakes defined by ancient impact craters."
+  }, {
+    "heading": "2.2. Resurfacing units",
+    "text": "In addition to identifying the presence or absence of exposed sedimentary deposits, each open-basin lake was classified as to the presence of modifying and resurfacing units that were deposited subsequent to the lacustrine activity within the basin. The type of resurfacing process that has most recently affected the basin was also identified where such an identification and classification were possible, with the main processes described below."
+  }, {
+    "heading": "2.2.1. Volcanic resurfacing",
+    "text": "Volcanically resurfaced open-basin lakes were identified based on the presence of several distinct morphologies that indicate\nresurfacing by volcanic flows (Fig. 4). First, volcanically resurfaced open-basin lakes contain smooth floor deposits with high crater retention, especially at small crater sizes, suggesting a competent material (Fassett and Head, 2008a). Additionally, these basins commonly have wrinkle ridges on their floors, a morphology regularly observed in volcanic plains across the surface of Mars (Watters, 1991) (Fig. 4). Furthermore, these basins typically have lobate margins that appear to embay the open-basin lake perimeter (typically crater walls) and any older floor material or exposed sedimentary deposits that may be present (Figs. 3A and 4). Finally, many of these basins exhibit a ‘‘moat’’ morphology at their edges, which is typical of volcanically flooded basins and is thought to be caused by the subsidence of volcanic fill material (e.g. Leverington and Maxwell, 2004) or the flow stopping at the base of a rise at the margin of the crater wall (Fig. 4A)."
+  }, {
+    "heading": "2.2.2. Glacial resurfacing",
+    "text": "Glacially modified and resurfaced craters, such as those containing concentric crater fill (Levy et al., 2010; Dickson et al., 2010, 2011), show flow patterns, features and structures that can be used as guides for the identification of glacial resurfacing processes. Open-basin lakes classified as being glacially resurfaced exhibit such features, typically lobate floor texture and lobate ridges (Fig. 5), indicative of material deposition by glacial processes (e.g. Head et al., 2008). These ridges are distinguished from paleoshorelines based on their lobate morphology that is not constrained by or following pre-existing topography, as would be expected for shorelines (Parker et al., 1993; Head et al., 1998). Glacially resurfaced open-basin lakes also typically exhibit ringmold craters, which provide evidence for current or past subsurface ice deposits (Mangold, 2003; Kress and Head, 2008) (Fig. 5)."
+  }, {
+    "heading": "2.2.3. Resurfacing of unknown origin",
+    "text": "Several open-basin lakes show evidence for resurfacing and/or modification across parts of their basin floors with no single process clearly evident as the cause for resurfacing (Fig. 6). The evidence for resurfacing in these basins is: (1) the heavy erosion\nT.A. Goudge et al. / Icarus 219 (2012) 211–229 215\nand denudation of the inlet and outlet valleys, which we hypothesize has also affected the basin floor; (2) a consistent surface texture across the basin floor and the surrounding terrain, suggesting a continuous unit; and (3) impact craters within the basin that are visibly buried by a mantling unit (Fig. 6). While all of these lines of evidence point toward post-fluvial-activity resurfacing and modification, conclusively determining the process that resurfaced these basins is difficult in the reconnaissance mode and requires careful examination and comprehensive analysis of each individual basin. Candidate regional resurfacing processes include: (1) emplacement of impact ejecta (Scott and Tanaka, 1986; Greeley and Guest, 1987); (2) deposition of dust or other aeolian mantling materials (Scott and Tanaka, 1986; Greeley and Guest, 1987; Tanaka, 2000); (3) climate-related mantling by ice-rich deposits (e.g. Mustard et al., 2001; Head et al., 2003); or (4) aeolian erosion of friable surface materials (e.g. McCauley, 1973; Arvidson et al., 2003; Kerber and Head, 2010)."
+  }, {
+    "heading": "3. Results",
+    "text": "On the basis of our morphologic examination of 226 open-basin lakes (Fassett and Head, 2008a), 79 ( 35%) contain exposed deposits of possible lacustrine origin, while 147 ( 65%) show no discernable evidence for such deposits on the surface (Fig. 7, Table 1). Additionally, the entire population of open-basin lakes appears at least partially resurfaced. The most prominent identifiable resurfacing unit is of volcanic origin, with 96 open-basin lakes ( 42%) identified as volcanically resurfaced, while only 21 ( 9%) are glacially resurfaced and 109 ( 49%) appear resurfaced, but do not\nhave a clear specific process identified for the resurfacing (Fig. 8, Table 1). From the results of our morphologic survey (Table 1), we also find that of the 226 basins examined, 210 ( 93%) have a certain degree of confidence of paleolake activity, 9 ( 4%) have a probable degree of confidence of paleolake activity and 7 ( 3%) have a possible degree of confidence of paleolake activity.\nBased on the results of the analysis of CRISM targeted observations over exposed open-basin lake deposits, we find that of the 79 open-basin lakes with observed sedimentary deposits, 34 have targeted CRISM observations that cover these deposits (Table 2). Of these 34 open-basin lake deposits, we find that 10 (Table 3) have spectral signatures consistent with the presence of aqueous alteration minerals, with one of these ten also containing the only observed spectral signature consistent with evaporite minerals (Table 3). The identified minerals are contained within the exposed sedimentary deposits (Fig. 9A–F) and do not appear present in the surrounding terrain. The remaining analyzed open-basin lake deposits do not show a strong spectral diversity from their surrounding terrain (Fig. 9G and H), and give no strong indication for unique mineral detections, hydrated or otherwise.\nIdentified aqueous alteration minerals include Fe/Mg-smectite, kaolinite and hydrated silica, and the one identified evaporite mineral is carbonate (Fig. 10). The identification of Fe/Mg-smectite is based on prominent absorptions at 1.4, 1.9 and 2.3 lm (Fig. 10). Specifically, the 1.4 lm absorption is due to the overtone of a fundamental absorption from structural OH, the 1.9 lm absorption is due to a combination of the fundamental absorption from OH stretch and H2O bend, and the 2.3 lm absorption is due to a combination tone of a fundamental absorption of the metal– OH bond (Clark et al., 1990; Frost et al., 2002), with the precise\n216 T.A. Goudge et al. / Icarus 219 (2012) 211–229\nposition controlled by the relative proportions of Fe and Mg (Bishop et al., 2002).\nThe identification of kaolinite is based on a strong hydroxyl overtone at 1.4 lm and a doublet absorption at 2.16 and 2.20 lm, as well as a weak absorption at 1.9 lm (Fig. 10). As with smectite, the 1.4 and 1.9 lm absorptions are due to an overtone and combination tone of fundamental absorptions of bound OH and H2O respectively (Clark et al., 1990), while the 2.16 and 2.20 lm doublet is caused by combination tones of fundamental absorptions of Al–OH in the kaolinite structure (Clark et al., 1990).\nHydrated silica is identified based on diagnostic absorptions at 1.4 and 1.9 lm and a broad absorption centered at 2.2 lm (Fig. 10). The bands at 1.4 and 1.9 lm are again related to fundamental absorptions from bound OH and H2O, while the broad 2.2 lm absorption is caused by combination tones of fundamental absorptions from the Si–OH bond (Stolper, 1982).\nCarbonate is identified based on paired absorptions at 2.31 and 2.51 lm, as well as an absorption at 1.9 lm (Fig. 10). The paired absorptions at 2.31 and 2.51 lm are caused by overtones of fundamental carbonate absorptions, while the 1.9 lm band is caused by a combination tone of fundamental absorptions of structurally bound H2O (Hunt and Salisbury, 1971; Gaffey, 1987)."
+  }, {
+    "heading": "4. Implications of the global distribution of open-basin lake characteristics",
+    "text": "Several interesting observations arise from the global distribution of features and processes implied by the classification presented here (Figs. 7 and 8). First, it is clear that there is a distinctly higher density of open-basin lakes with exposed sedi-\nmentary deposits in the Nili Fossae region (Fig. 7, outlined area). Indeed, all of the open-basin lakes previously identified in Nili Fossae contain some form of exposed deposit of possible lacustrine origin (Fig. 7; compare to Fig. 1 in Fassett and Head (2008a)). Two scenarios that might explain this observation are: (1) this area has been exhumed, leading to an exposure of the original sedimentary deposits within the open-basin lakes and/or (2) this area had a higher sediment load during open-basin lake lacustrine activity or was active for a longer period of time, thus creating thicker sedimentary deposits, which have been preferentially preserved and remain exposed. Although both of these mechanisms are possible, the exposed open-basin lake deposits in Nili Fossae are commonly observed below a partially eroded resurfacing unit, which is in agreement with previous work that cites exhumation as a dominant geologic process in this area (e.g. Mangold et al., 2007; Mustard et al., 2007; Harvey and Griswold, 2010). The magnitude of exhumation in the Nili Fossae region is also likely to have been substantial, as enough material has been eroded, possibly due to aeolian activity (Mangold et al., 2007), to expose ancient Noachian crustal material (Mangold et al., 2007; Mustard et al., 2007). Therefore, we tentatively favor the hypothesis of exhumation as the most plausible explanation for the high density of exposed sedimentary deposits in the Nili Fossae region.\nThe distribution shown by the resurfacing classification also reveals some interesting trends (Fig. 8). While the large number of volcanically resurfaced open-basin lakes (96; 42%) is not surprising due to the fact that at least 30% of the martian surface has been resurfaced by Hesperian volcanic flows (Head et al., 2002), the locations of the volcanically resurfaced open-basin lakes are interesting. Although many of the volcanically resurfaced open-\nT.A. Goudge et al. / Icarus 219 (2012) 211–229 217\nbasin lakes tend to cluster around clear volcanic sources such as Syrtis Major, Hesperia Planum and Apollinaris Mons, there also appears to be a clustering of volcanically resurfaced open-basin lakes in areas such as Arabia Terra and Margaritifer Terra (Fig. 8B, outlined areas), which are not linked to an established volcanic source. This lack of an obvious nearby volcanic vent requires more distributed volcanism not easy to trace to a specific edifice,\nsuch as large feeder dikes, which have been observed in Terra Tyrrhena and are thought to have emplaced regional expanses of Hesperian ridged plains (Head et al., 2006). Such dikes may also be responsible for floor-fractured craters, which may indicate past regional volcanic activity that modified pre-existing impact craters (Schultz, 1978; Schultz and Glicken, 1979). Indeed, we find that floor-fractured craters exist to the northwest of the cluster of\n218 T.A .G oudge et al./Icarus 219 (2012) 211– 229\n52 48.00 8.54 CTX D U Confident Harrison and Grimm (2005), Hauber et al. (2009) 53 17.06 33.80 CTX D G Confident Cabrol and Grin (1999, 2001) 54 18.19 34.61 CTX D V Confident Cabrol and Grin (1999, 2001) 55 18.04 34.17 CTX D V Confident Cabrol and Grin (1999, 2001) 56 155.77 12.07 CTX N/A V Confident Fassett and Head (2008a) 57 158.65 15.45 THEMIS N/A U Confident Fassett and Head (2008a) 58 26.65 27.92 CTX D U Confident McGill (2002) 59 59.62 20.31 CTX N/A U Confident Lahtela et al. (2005) 60 60.63 20.99 CTX N/A U Confident Lahtela et al. (2005) 61 102.96 38.91 CTX N/A G Confident Fassett and Head (2008a) 62 91.82 41.86 CTX N/A U Confident Fassett and Head (2008a) 63 125.18 0.81 HRSC N/A U Confident Irwin et al. (2007) 64 126.62 1.60 CTX N/A V Confident Irwin et al. (2007) 65 12.27 23.44 CTX D V Confident Irwin et al. (2007) 66 6.32 19.36 CTX EFM V Confident Fassett and Head (2008a) 67 4.05 21.49 CTX N/A V Confident Fassett and Head (2008a) 68 151.35 10.28 HRSC N/A V Possible Irwin et al. (2007) 69 61.43 27.33 CTX EFM U Confident Fassett and Head (2008a) 70 135.38 6.91 CTX EFM V Confident Fassett and Head (2008a) 71 136.47 6.72 CTX N/A U Probable Fassett and Head (2008a) 72 134.92 9.45 HRSC N/A V Confident Cabrol and Grin (1999, 2001) 73 134.07 11.22 CTX EFM V Confident Fassett and Head (2008a) 74 167.18 9.54 CTX D U Confident Fassett and Head (2008a) 75 165.61 10.22 THEMIS N/A V Confident Cabrol and Grin (1999, 2001) 76 162.87 5.88 HRSC N/A U Confident Fassett and Head (2008a) 77 134.49 23.21 HRSC N/A V Confident Fassett and Head (2008a) 78 123.25 0.07 CTX N/A U Confident Fassett and Head (2008a) 79 161.08 14.00 HRSC N/A V Confident Fassett and Head (2008a) 80 159.46 22.78 HRSC N/A V Confident Fassett and Head (2008a) 81 1.73 4.23 CTX EFM U Confident Fassett and Head (2008a) 82 62.17 2.56 HRSC N/A V Probable Fassett and Head (2008a) 83 18.29 26.87 CTX EFM V Confident Fassett and Head (2008a) 84 87.00 20.47 CTX EFM V Confident Fassett and Head (2008a) 85 96.52 13.32 CTX N/A V Confident Fassett and Head (2008a) 86 56.22 21.58 HRSC N/A U Probable Fassett and Head (2008a) 87 94.29 6.29 CTX N/A U Confident Fassett and Head (2008a) 88 149.44 8.68 CTX N/A V Confident Fassett and Head (2008a) 89 167.28 16.01 HRSC N/A U Confident Cabrol and Grin (1999, 2001) 90 170.73 19.98 THEMIS N/A V Confident Cabrol and Grin (1999, 2001) 91 171.33 17.44 CTX N/A V Confident Cabrol and Grin (1999, 2001) 92 171.28 18.21 HRSC N/A V Confident Fassett and Head (2008a) 93 16.44 12.82 CTX N/A U Confident Cabrol and Grin (1999, 2001) 94 13.68 53.37 CTX D U Confident Fassett and Head (2008a) 95 20.51 22.45 CTX EFM V Confident Goldspiel and Squyres (1991) 96 147.24 29.81 CTX EFM V Confident Fassett and Head (2008a) 97 147.58 29.85 CTX N/A V Confident Fassett and Head (2008a) 98 78.13 19.71 THEMIS EFM U Confident Fassett and Head (2008a) 99 77.62 18.85 THEMIS N/A U Confident Fassett and Head (2008a)\n100 71.01 23.42 HRSC D U Confident Fassett and Head (2008a) 101 76.48 23.09 HRSC N/A U Confident Fassett and Head (2008a) 102 75.60 23.20 THEMIS EFM U Confident Fassett and Head (2008a) 103 75.91 22.10 CTX N/A U Confident Fassett and Head (2008a) 104 78.17 20.07 THEMIS N/A U Confident Fassett and Head (2008a) 105 2.96 41.09 THEMIS EFM V Confident Fassett and Head (2008a) 106 22.31 63.24 HRSC N/A U Confident Cabrol and Grin (1999, 2001) 107 19.96 62.90 HRSC N/A U Confident Cabrol and Grin (1999, 2001) 108 24.35 55.22 HRSC N/A U Confident Fassett and Head (2008a) 109 24.39 54.69 HRSC N/A U Confident Fassett and Head (2008a) 110 18.98 52.89 THEMIS N/A G Confident Fassett and Head (2008a)\n(continued on next page)\nT.A .G oudge et al./Icarus 219 (2012) 211– 229 219\n220 T.A .G oudge et al./Icarus 219 (2012) 211– 229\n165 39.08 20.78 CTX N/A U Confident Fassett and Head (2008a) 166 24.35 6.44 CTX N/A U Confident Fassett and Head (2008a) 167 102.77 1.93 THEMIS N/A V Confident Fassett and Head (2008a) 168 46.18 9.63 HRSC D U Confident Fassett and Head (2008a) 169 139.72 8.64 CTX N/A U Confident Irwin et al. (2007) 170 142.36 10.26 CTX N/A V Confident Irwin et al. (2007) 171 5.25 21.26 THEMIS EFM V Confident Irwin et al. (2007) 172 131.84 10.05 THEMIS N/A U Confident Fassett and Head (2008a) 173 131.44 10.54 CTX N/A U Confident Fassett and Head (2008a) 174 132.47 10.73 THEMIS N/A U Confident Fassett and Head (2008a) 175 132.51 22.03 THEMIS N/A U Confident Fassett and Head (2008a) 176 142.05 27.06 THEMIS N/A U Confident Fassett and Head (2008a) 177 141.34 26.86 HRSC N/A U Confident Fassett and Head (2008a) 178 37.10 27.33 CTX L U Confident Fassett and Head (2008a) 179 32.30 20.57 CTX N/A U Confident Fassett and Head (2008a) 180 179.15 34.02 CTX N/A V Confident Fassett and Head (2008a) 181 46.56 5.74 HRSC N/A U Confident Fassett and Head (2008a) 182 57.31 5.59 CTX N/A U Confident Fassett and Head (2008a) 183 43.76 5.13 HRSC N/A V Confident Fassett and Head (2008a) 184 33.60 2.76 HRSC EFM V Confident Fassett and Head (2008a) 185 45.51 2.16 HRSC L U Confident Fassett and Head (2008a) 186 42.91 0.52 HRSC N/A U Confident Fassett and Head (2008a) 187 42.99 7.16 CTX N/A V Confident Fassett and Head (2008a) 188 36.12 13.12 THEMIS L U Confident Fassett and Head (2008a) 189 38.37 14.88 THEMIS N/A U Confident Fassett and Head (2008a) 190 18.15 16.51 CTX N/A V Confident Fassett and Head (2008a) 191 6.05 24.92 THEMIS N/A U Confident Fassett and Head (2008a) 192 6.71 23.45 CTX N/A V Confident Fassett and Head (2008a) 193 21.96 4.49 CTX N/A U Confident Fassett and Head (2008a) 194 86.92 2.96 CTX N/A U Confident Fassett and Head (2008a) 195 83.20 3.51 CTX N/A U Confident Fassett and Head (2008a) 196 91.26 0.61 CTX L U Confident Fassett and Head (2008a) 197 89.84 3.25 CTX N/A V Confident Fassett and Head (2008a) 198 94.61 5.81 CTX N/A U Confident Fassett and Head (2008a) 199 158.54 22.89 HRSC N/A V Confident Fassett and Head (2008a) 200 102.49 1.08 HRSC N/A U Confident Fassett and Head (2008a) 201 112.13 2.39 HRSC N/A V Possible Fassett and Head (2008a) 202 39.74 5.16 HRSC N/A V Confident Fassett and Head (2008a) 203 126.63 3.77 CTX N/A U Confident Fassett and Head (2008a) 204 23.19 41.24 CTX N/A G Confident Fassett and Head (2008a) 205 25.51 31.11 CTX N/A V Confident Fassett and Head (2008a) 206 21.21 30.59 HRSC N/A U Confident Fassett and Head (2008a) 207 25.25 32.75 CTX N/A G Confident Fassett and Head (2008a) 208 160.98 17.11 HRSC N/A V Confident Fassett and Head (2008a) 209 101.58 0.90 CTX N/A U Confident Fassett and Head (2008a) 210 4.52 5.08 CTX N/A U Confident Fassett and Head (2008a) 211 73.68 28.25 CTX L U Confident Wilson et al. (2007) 212 76.11 27.72 CTX L U Confident 213 65.87 30.87 CTX EFM U Confident 214 32.07 26.99 CTX D U Confident Buhler et al. (2011) 215 73.38 30.12 CTX L U Confident 216 21.68 35.06 CTX N/A G Confident 217 24.84 35.58 CTX N/A G Confident 218 124.42 36.24 CTX N/A G Confident 219 102.30 37.16 HRSC N/A G Confident 220 103.26 38.76 CTX N/A G Confident 221 164.51 36.52 CTX N/A U Confident 222 26.38 3.22 CTX N/A V Confident Irwin et al. (2007) 223 26.29 2.86 CTX N/A V Confident Irwin et al. (2007)\n(continued on next page)\nT.A .G oudge et al./Icarus 219 (2012) 211– 229 221\nTa bl\ne 1\n(c on\nti nu\ned )\nB as\nin n\nu m\nbe ra\nO pe\nn -b\nas in\nla ke\nlo ca\nti on\nIm ag\ner y\nu se\nd Ex\npo se\nd de\npo si\nt ty\npe R\nes u\nrf ac\nin g\nty pe\nC on\nfi de\nn ce\nin ba\nsi n\nid en\nti fi\nca ti\non R\nef er\nen ce\n(s )\nLo n\n.( E)\nLa t.\n(N )\n22 4\n10 2.\n15\n38 .1\n7 H\nR SC\nD G\nC on\nfi de\nn t\n22 5\n21 .2\n1 35\n.2 1\nC TX\nEF M\nG C\non fi\nde n t 22 6 77 .0 9 29 .7 6 C TX D U C on fi de n t\na B\nas in\nn u\nm be\nrs ar\ne af\nte r\nFa ss\net t\nan d\nH ea\nd (2\n00 8a\n), u\np to\nba si\nn n\nu m\nbe r\n21 0.\n222 T.A. Goudge et al. / Icarus 219 (2012) 211–229\nvolcanically resurfaced open-basin lakes in Margaritifer Terra (Schultz, 1978; Schultz and Glicken, 1979; Sato et al., 2010), and to the northeast of the cluster of volcanically resurfaced open-basin lakes in Arabia Terra (Fig. 8B) (Schultz, 1978; Schultz and Glicken, 1979). The presence of these features is thought to be related to regional volcanic activity (Schultz, 1978; Schultz and Glicken, 1979), and may help explain the areas of anomalous volcanically resurfaced open-basin lakes through the emplacement of widely distributed flood volcanism. However, more work is required to determine the exact source of these units.\nAll of the open-basin lakes that have been resurfaced by glacial activity are confined to mid- to high-latitudes (poleward of ± 30 ) (Fig. 8C). This distribution is consistent with the latitude dependence of the majority of these ice-related deposits (e.g. Head et al., 2003, 2010; Milliken et al., 2003; Levy et al., 2010), with the exception of a few unusual outliers at lower latitudes (Shean, 2010). Furthermore, while the amount of glacially resurfaced open-basin lakes (21) is substantially smaller than the number resurfaced by volcanic activity (96), the open-basin lakes poleward of ±30 are much more affected by glacial resurfacing than volcanic resurfacing (Fig. 8). This observation reflects the latitude dependence of such ice-related deposits, and is consistent with the occurrence of episodes of Late Amazonian glaciation on the surface of Mars (e.g. Mustard et al., 2001; Head et al., 2003, 2008; Schon et al., 2009; Dickson et al., 2010, 2011), post-dating the predominantly Hesperian-aged volcanic plains (Scott and Tanaka, 1986; Greeley and Guest, 1987)."
+  }, {
+    "heading": "5. Compositional implications for lacustrine deposits",
+    "text": "Approximately one-third of the investigated open-basin lakes contain exposed sedimentary deposits, which might be expected to contain aqueous alteration and/or evaporite minerals as is commonly observed on Earth (Jones and Bowser, 1978; Blatt et al., 1980; Leeder, 1999; Wetzel, 2001). In terrestrial lacustrine deposits, aqueous alteration minerals (e.g. phyllosilicates, zeolites, hydrated silica) can occur both as transported sediment and as authigenic material (Moore, 1961; Muller and Quakernaat, 1969; Singer et al., 1972; Jones and Bowser, 1978; Blatt et al., 1980; Jones, 1986; Hay et al., 1991; Hillier, 1993). On Earth, transported sediment is likely to be rich in phyllosilicates because these are typically the most common alteration minerals produced in chemical weathering, and thus will be abundant in an active watershed (Moore, 1961; Muller and Quakernaat, 1969; Singer et al., 1972; Jones and Bowser, 1978; Blatt et al., 1980; Nesbitt and Young, 1989). Aqueous alteration minerals such as phyllosilicates and zeolites are also common products of chemical alteration caused by lithification and diagenesis of lacustrine sediments (Jones and Bowser, 1978; Blatt et al., 1980; Jones, 1986; Hay et al., 1991; Hillier, 1993). Evaporites in terrestrial lacustrine systems are almost exclusively confined to being precipitated in situ (Brunskill, 1969; Eugster and Hardie, 1975, 1978; Jones and Bowser, 1978; Kelts and Hsu, 1978; Strong and Eadie, 1978; Wetzel, 2001), although carbonate minerals may be present as transported material, especially in carbonate rich terrain (e.g. Coakley and Rust, 1968; Jones and Bowser, 1978; Kelts and Hsu, 1978; Ingles and Anadon, 1991). The typical sequence of evaporite formation is carbonates when the lake is deep and has a higher influx of surface water, followed by sulfates and chlorides as the lake is filled in and becomes less dominated by surficial flows (Eugster and Hardie, 1975, 1978; Jones and Bowser, 1978; Kelts and Hsu, 1978; Wetzel, 2001). Terrestrial lacustrine sediments from large, open systems are typically rich in clay minerals (> 15–25 wt.%), and contain variable amounts of carbonate minerals depending on the water chemistry of the lake system (e.g. Moore, 1961; Thomas, 1969; Muller and\nT.A. Goudge et al. / Icarus 219 (2012) 211–229 223\nQuakernaat, 1969; Singer et al., 1972; Thomas et al., 1972, 1973; Jones and Bowser, 1978; Blatt et al., 1980; Hillier, 1993). As a direct example, sediments examined from the North American Great Lakes, which are comparable to the largest martian open-basin lakes in surface area and volume (Fassett and Head, 2008a), contain, on average, from 15 to 70 wt.% clay minerals and 0– 40 wt.% carbonate minerals (e.g. Moore, 1961; Thomas, 1969; Thomas et al., 1972, 1973; Jones and Bowser, 1978).\nBased solely on these terrestrial observations, one would expect that exposed sedimentary deposits observed in open-basin lakes on Mars should have a composition that includes appreciable\namounts of aqueous alteration minerals and carbonates (e.g. Moore, 1961; Thomas, 1969; Muller and Quakernaat, 1969; Singer et al., 1972; Thomas et al., 1972, 1973; Jones and Bowser, 1978; Blatt et al., 1980; Hillier, 1993). These deposits would also be expected to contain chlorides and sulfates if the lacustrine systems were active for long enough to become heavily infilled and more playa-like (Eugster and Hardie, 1975, 1978; Jones and Bowser, 1978; Kelts and Hsu, 1978; Wetzel, 2001). The exact composition of these martian evaporite deposits would be expected to differ from those observed on Earth, however, due to different source water compositions (Tosca and McLennan, 2006). While recent\n224 T.A. Goudge et al. / Icarus 219 (2012) 211–229\nT.A. Goudge et al. / Icarus 219 (2012) 211–229 225\nwork has shown that some martian paleo-lacustrine deposits do contain aqueous alteration and evaporite minerals (e.g. Ehlmann et al., 2008a, 2008b, 2009; Mustard et al., 2008; Dehouck et al., 2010; Ansan et al., 2011), our results indicate these occurrences are limited ( 29% of exposed deposits of possible lacustrine origin with CRISM coverage have mineralogies that reflect aqueous alteration). Additionally, the only site with observed evaporite deposits (carbonate) is in Jezero crater, where it has been shown that the observed carbonate and Fe/Mg-smectite are present as transported material (Ehlmann et al., 2008a, 2008b).\nThese results indicate a divergence from the mineral assemblages that would be predicted for martian lacustrine deposits based on the study of terrestrial lacustrine systems (e.g. Moore, 1961; Thomas, 1969; Muller and Quakernaat, 1969; Singer et al., 1972; Thomas et al., 1972, 1973; Jones and Bowser, 1978; Blatt et al., 1980; Hillier, 1993), and could be due to three possible scenarios: (1) thin resurfacing units, such as aeolian dust cover, obscuring aqueous alteration and evaporite minerals within the exposed deposits from spectral detection and characterization from orbit; (2) available and currently analyzed spectral data at adequate resolution over these exposed deposits are too few in number to discern true trends; or (3) many exposed open-basin lake deposits have a lithology that is primarily composed of unaltered material.\nClearly, the first two mechanisms cannot be ruled out and could be contributing to the observed disparity. For the first mechanism\nin particular, there does seem to be some correlation between exposed open-basin lake deposits containing identified aqueous alteration minerals and fairly dust free areas indicated by a global dust cover index (Ruff and Christensen, 2002) (Fig. 11); however, there are a large number of exposed open-basin lake deposits also in these dust free areas that show no evidence for the presence of aqueous alteration minerals. Furthermore, we have identified aqueous alteration minerals in exposed open-basin lake deposits where there is both substantial regional dust cover as well as in areas that are largely dust free (Ruff and Christensen, 2002) (Fig. 11). It is important to note that the scale of the Ruff and Christensen (2002) dust cover index is much larger than the scale of many of the exposed sedimentary deposits examined here, and so more local dust cover might be present at those sites deemed to be dust free; however, we hypothesize that it is doubtful that a spectrally obscuring dust unit is the only cause for the disparity identified here, although it may be a contributing factor. Additionally, 34 of the 79 ( 43%) exposed open-basin lake deposits have CRISM targeted observation coverage at a resolution that is adequate for identifying aqueous alteration and evaporite minerals (Table 2) (e.g. Ehlmann et al., 2008a, 2008b, 2009; Mustard et al., 2008; Dehouck et al., 2010); however, only 10 ( 29% of the deposits with adequate spectral coverage) exposed deposits have such identified minerals. Therefore, it is doubtful that insufficient CRISM coverage is the only cause of the observed disparity. The final hypothesis that most open-basin lake deposits have an unaltered\n226 T.A. Goudge et al. / Icarus 219 (2012) 211–229\nlithology is a strong possibility; however, it is very difficult to assess, as the majority of the analyzed sedimentary deposits appear to have minimal spectral contrast with their surrounding terrain (Fig. 9G and H) and so it is difficult to accurately characterize their composition. While this effect could be due to either a local mantling or dust cover unit, or a similar composition between the sedimentary deposits and their surrounding terrain, it is difficult to definitively determine between these possibilities. It should also be noted that a small fraction of these deposits may have initially contained aqueous alteration and/or evaporite minerals that were subsequently removed due to a combination of poor deposit cementation and aeolian stripping.\nBased on the results presented here, it is clear that the association between aqueous alteration minerals, evaporite minerals and lacustrine deposits is far more common on Earth (e.g. Moore, 1961; Thomas, 1969; Muller and Quakernaat, 1969; Singer et al., 1972; Thomas et al., 1972, 1973; Jones and Bowser, 1978; Blatt et al., 1980; Hillier, 1993) than it is on Mars. This observation suggests that in situ aqueous alteration and mineral precipitation was not as common in martian open-basin lakes as it is in terrestrial lakes, where mineral precipitation of carbonates and production of aqueous alteration minerals through diagenesis are common processes (Brunskill, 1969; Eugster and Hardie, 1975, 1978; Jones and Bowser, 1978; Kelts and Hsu, 1978; Strong and Eadie, 1978; Blatt et al., 1980; Jones, 1986; Hay et al., 1991; Hillier, 1993; Wetzel, 2001). If the aqueous alteration and evaporite minerals observed within the exposed sedimentary deposits were not formed in situ, then they must be transported in nature. The observed disparity is then reflective of the fact that aqueous alteration and evaporite minerals, while widespread, are only present in discrete locations across the martian surface (e.g. Gendrin et al., 2005; Poulet et al., 2005; Mustard et al., 2008; Osterloo et al., 2008, 2010; Ehlmann et al., 2011). Furthermore, the lack of observed evaporites, especially carbonates, in exposed open-basin lake deposits is consistent with the hypothesis that the input of water into openbasin lakes was brief and declined rapidly (Irwin et al., 2005), which would inhibit the buildup of dissolved ions, reducing the amount of in situ evaporite mineral precipitation. This conclusion is also in agreement with the suggestion of previous workers that the aqueous alteration minerals identified in individual open-basin lake deposits, and the carbonate observed in Jezero crater, are present as transported material (e.g. Ehlmann et al., 2008a,b; Dehouck et al., 2010; Ansan et al., 2011).\nFurther support for a transported origin for the aqueous alteration minerals is the distribution of identified minerals (Table 3). While we have identified kaolinite, hydrated silica, carbonate and Fe/Mg-smectite in exposed open-basin lake deposits, all of these minerals occur in only one deposit with the exception of Fe/Mg-smectite, which is found in nine of the ten exposed openbasin lake deposits. This distribution reflects the fact that Fe/Mgsmectite is the most common aqueous alteration mineral observed on the martian surface (e.g. Poulet et al., 2005; Mustard et al., 2008; Ehlmann et al., 2011), and suggests that the type of aqueous alteration minerals observed in these exposed open-basin lake deposits is dependent on the composition of the bedrock in the watershed. This correspondence between the mineralogy of lacustrine deposits and their watershed bedrock has been shown by previous workers for the Jezero delta deposit (Ehlmann et al., 2008a) and is commonly observed in lacustrine deposits on Earth (Moore, 1961; Muller and Quakernaat, 1969; Singer et al., 1972; Jones and Bowser, 1978; Blatt et al., 1980).\nThe observations presented here suggest that the observed aqueous alteration minerals within exposed open-basin lake deposits are transported in nature and that there was minimal in situ alteration or mineral precipitation occurring within these open-basin lakes. This is different than most lacustrine systems\nT.A. Goudge et al. / Icarus 219 (2012) 211–229 227\non Earth, where evaporites and aqueous alteration minerals are commonly produced in situ (Brunskill, 1969; Eugster and Hardie, 1975, 1978; Jones and Bowser, 1978; Kelts and Hsu, 1978; Strong and Eadie, 1978; Blatt et al., 1980; Jones, 1986; Hay et al., 1991; Hillier, 1993; Wetzel, 2001), which suggests differing conditions on Mars that were not conducive to in situ alteration and mineral precipitation. Two possible explanations for the lack of in situ alteration and mineral precipitation are: (1) a water chemistry that was not conducive to aqueous alteration of transported sediment and the precipitation of carbonates and/or (2) a geologically short-lived period of lacustrine activity within the open-basin lake systems. A geologically short period of lacustrine activity is also supported by the lack of chlorides and sulfates within these open-basin lake deposits, both of which have been identified on the surface of Mars (e.g. Gendrin et al., 2005; Osterloo et al., 2008, 2010; Bishop et al., 2009; Glotch et al., 2010). These evaporites are typically the last to develop within a lacustrine system, as the basin becomes less dominated by surficial flows and more playa-like as it is filled in with sediment (Eugster and Hardie, 1975, 1978; Jones and Bowser, 1978; Kelts and Hsu, 1978; Wetzel, 2001). The observation that chlorides and sulfates are not commonly observed in martian open-basin lakes suggests that the lacustrine systems were not active long enough to become infilled and begin precipitating these evaporites. The short-lived nature of many martian paleolake systems has been proposed previously based on observed morphologies (e.g. Howard et al., 2005; Irwin et al., 2005), and is supported by the findings of the work presented here; however, ruling out an unsuitable water chemistry is not possible with the data presented here."
+  }, {
+    "heading": "6. Conclusions",
+    "text": "Based on a detailed morphologic analysis of 226 open-basin lakes, approximately one-third ( 35%) of these paleolakes contain exposed sedimentary deposits of possible lacustrine origin; however, all of the open-basin lakes are at least partially resurfaced, with volcanic resurfacing the most abundant resurfacing process identified. These findings support earlier, less detailed observations that post-lacustrine resurfacing has extensively modified the open-basin lake record on Mars (Fassett and Head, 2008a). Based on the geographic distribution of volcanically resurfaced open-basin lakes, many appear to have local volcanic sources (e.g. Syrtis Major, Hesperia Planum), while some do not and require more distributed sources of volcanic resurfacing such as dikes. This analysis also revealed a noticeable cluster of open-basin lakes with exposed sedimentary deposits in Nili Fossae. This suggests either exhumation or more significant lacustrine activity in this area,\nwith an episode of exhumation being the preferred explanation. Furthermore, the distribution of glacially resurfaced open-basin lakes is consistent with both the latitude dependence of this class of ice-related deposits (e.g. Head et al., 2003, 2010; Milliken et al., 2003; Levy et al., 2010), as well as periods of Late Amazonian glaciation (e.g. Mustard et al., 2001; Head et al., 2003, 2008; Schon et al., 2009; Dickson et al., 2010, 2011).\nBased on a survey of targeted CRISM observations over exposed open-basin lake deposits, we have observed that the number of these deposits containing spectrally identified aqueous alteration and evaporite minerals is small (10) compared with the overall number of deposits with CRISM coverage (34). This is a divergence from the common mineralogies observed in terrestrial lacustrine deposits (Jones and Bowser, 1978; Blatt et al., 1980; Leeder, 1999; Wetzel, 2001), and could be due to a spectrally obscuring unit, a lack of spectral coverage at adequate resolution or an unaltered, detrital composition of the sedimentary deposits; however, it appears that neither a spectrally obscuring unit or a lack of data coverage can be the sole cause of this disparity. Based on our observations, we draw the following conclusions:\n1. In situ aqueous alteration and mineral precipitation was not a dominant process within the majority of open-basin lake systems. 2. The observed aqueous alteration minerals and carbonate in exposed open-basin lake deposits are present as transported material. 3. These materials are reflective of the composition of the bedrock in their watershed.\nThese conclusions are consistent with the findings of previous workers that suggest aqueous alteration and evaporite minerals identified in individual open-basin lake deposits are present as transported material as opposed to having formed in situ (e.g. Ehlmann et al., 2008a, 2008b; Dehouck et al., 2010; Ansan et al., 2011). The lack of evidence for in situ alteration and mineral precipitation can be explained by either a water chemistry that was not conducive to such processes, or a short-lived period of lacustrine activity for most open-basin lakes. Determining which of these two hypotheses better explains the observations presented here is very important, as both of these scenarios have strong implications for the climate and hydrologic cycle of Mars during this early period of lacustrine activity."
+  }, {
+    "heading": "Acknowledgments",
+    "text": "We thank Ross Irwin and an anonymous reviewer for thorough and insightful reviews that greatly improved the strength\n228 T.A. Goudge et al. / Icarus 219 (2012) 211–229\nof this manuscript. We also gratefully acknowledge financial support from NASA through the Mars Data Analysis Program (NNX09A146G to J.W.H.), for the CRISM investigation through the Mars Reconnaissance Orbiter Mission (JHU 522493 to J.F.M.) and membership on the High-Resolution Stereo Camera (HRSC) Team on ESA’s Mars Express mission (JPL 1237163 to J.W.H.)."
+  }, {
+    "heading": "Appendix A. Supplementary data",
+    "text": "Supplementary data associated with this article can be found, in the online version, at doi:10.1016/j.icarus.2012.02.027."
+  }],
+  "year": 2012,
+  "references": [{
+    "title": "Stratigraphy, mineralogy, and origin of layered deposits inside Terby crater, Mars",
+    "authors": ["V Ansan"],
+    "venue": "Icarus 211,",
+    "year": 2011
+  }, {
+    "title": "Mantled and exhumed terrains in Terra Meridiani, Mars",
+    "authors": ["Arvidson", "R.E"],
+    "venue": "J. Geophys. Res",
+    "year": 2003
+  }, {
+    "title": "Extended surface exposures of granitoid compositions in Syrtis Major, Mars",
+    "authors": ["J.L. Bandfield"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2006
+  }, {
+    "title": "The influence of structural Fe, Al and Mg on the infrared OH bands in spectra of dioctahedral smectites",
+    "authors": ["J. Bishop", "J. Madejova", "P. Komadel", "H. Froschl"],
+    "venue": "Clay Miner",
+    "year": 2002
+  }, {
+    "title": "Mineralogy of Juventae Chasma: Sulfates in the light-toned mounds, mafic minerals in the bedrock, and hydrated silica and hydroxylated ferric sulfate on the plateau",
+    "authors": ["J.L. Bishop"],
+    "venue": "J. Geophys. Res",
+    "year": 2009
+  }, {
+    "title": "Origin of Sedimentary Rocks, second ed",
+    "authors": ["H. Blatt", "G. Middleton", "R. Murray"],
+    "year": 1980
+  }, {
+    "title": "Fayetteville Green Lake, New York. II. Precipitation and Sedimentation of Calcite in a Meromictic Lake with Laminated Sediments",
+    "authors": ["G.T. Brunskill"],
+    "venue": "Limnol. Oceanogr",
+    "year": 1969
+  }, {
+    "title": "Evidence for paleolakes in Erythraea Fossa, Mars: Implications for an ancient hydrological cycle",
+    "authors": ["P.B. Buhler", "C.I. Fassett", "J.W. Head", "M.P. Lamb"],
+    "venue": "Icarus 213,",
+    "year": 2011
+  }, {
+    "title": "Distribution, classification, and ages of martian impact crater lakes",
+    "authors": ["N.A. Cabrol", "E.A. Grin"],
+    "venue": "Icarus 142,",
+    "year": 1999
+  }, {
+    "title": "The evolution of Lacustrine environments on Mars: Is Mars only hydrologically dormant",
+    "authors": ["N.A. Cabrol", "E.A. Grin"],
+    "venue": "Icarus 149,",
+    "year": 2001
+  }, {
+    "title": "The thermal emission imaging system (THEMIS) for the Mars 2001 odyssey mission",
+    "authors": ["P Christensen"],
+    "venue": "Space Sci",
+    "year": 2004
+  }, {
+    "title": "High spectral resolution reflectance spectroscopy of minerals",
+    "authors": ["R.N. Clark", "T.V.V. King", "M. Klejwa", "G. Swayze"],
+    "venue": "J. Geophys. Res",
+    "year": 1990
+  }, {
+    "title": "USGS Digital Spectral Library splib06a",
+    "authors": ["Clark", "R.N"],
+    "venue": "US Geol. Surv. Data,",
+    "year": 2007
+  }, {
+    "title": "Sedimentation in an Arctic Lake",
+    "authors": ["J.P. Coakley", "B.R. Rust"],
+    "venue": "J. Sediment. Petrol",
+    "year": 1968
+  }, {
+    "title": "Martian lake basins and Lacustrine plains",
+    "authors": ["R.A. De Hon"],
+    "venue": "Icarus",
+    "year": 1992
+  }, {
+    "title": "Ismenius Cavus, Mars: A deep paleolake with phyllosilicate deposits",
+    "authors": ["E. Dehouck", "N. Mangold", "S. Le Mouelic", "V. Ansan", "F. Poulet"],
+    "venue": "Planet. Space Sci",
+    "year": 2010
+  }, {
+    "title": "Deltas and valley networks on Mars: Implications for a global hydrosphere",
+    "authors": ["G. Di Achille", "B. Hynek"],
+    "venue": "Lakes on Mars. Elsevier,",
+    "year": 2010
+  }, {
+    "title": "Kilometer-thick ice accumulation and glaciation in the northern mid-latitudes of Mars: Evidence for crater-filling events in the Late Amazonian at Phlegra Montes",
+    "authors": ["J.L. Dickson", "J.W. Head", "D.R. Marchant"],
+    "venue": "Earth Planet. Sci",
+    "year": 2010
+  }, {
+    "title": "Ice accumulation and flow on Mars: Orientation trends and implications for climate in the Late Amazonian",
+    "authors": ["J.L. Dickson", "J.W. Head", "C.I. Fassett"],
+    "venue": "Lunar Planet. Sci. XLII,",
+    "year": 2011
+  }, {
+    "title": "Clay minerals in delta deposits and organic preservation potential on Mars",
+    "authors": ["B Ehlmann"],
+    "venue": "Nat. Geosci",
+    "year": 2008
+  }, {
+    "title": "Orbital identification of carbonate-bearing rocks on Mars",
+    "authors": ["B Ehlmann"],
+    "venue": "Science",
+    "year": 2008
+  }, {
+    "title": "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration",
+    "authors": ["B Ehlmann"],
+    "venue": "J. Geophys. Res",
+    "year": 2009
+  }, {
+    "title": "Subsurface water and clay mineral formation during the early history of Mars",
+    "authors": ["Ehlmann", "B.L"],
+    "venue": "Nature 479,",
+    "year": 2011
+  }, {
+    "title": "Sedimentation in an Ancient Playa–Lake Complex: The Wilkins Peak Member of the Green River Formation of Wyoming",
+    "authors": ["H.P. Eugster", "L.A. Hardie"],
+    "venue": "Geol. Soc. Am. Bull",
+    "year": 1975
+  }, {
+    "title": "Saline lakes",
+    "authors": ["H.P. Eugster", "L.A. Hardie"],
+    "venue": "Lakes: Chemistry, Geology and Physics. Springer-Verlag,",
+    "year": 1978
+  }, {
+    "title": "Fluvial sedimentary deposits on Mars: Ancient deltas in a crater lake in the Nili Fossae region",
+    "authors": ["C. Fassett", "J. Head"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2005
+  }, {
+    "title": "Valley network-fed, open-basin lakes on Mars: Distribution and implications for Noachian surface and subsurface hydrology. Icarus",
+    "authors": ["C.I. Fassett", "J.W. Head"],
+    "year": 2008
+  }, {
+    "title": "The timing of martian valley network activity: Constraints from buffered crater counting",
+    "authors": ["C.I. Fassett", "J.W. Head"],
+    "venue": "Icarus",
+    "year": 2008
+  }, {
+    "title": "A case for ancient evaporite basins on Mars",
+    "authors": ["R.D. Forsythe", "J.R. Zimbelman"],
+    "venue": "J. Geophys. Res",
+    "year": 1995
+  }, {
+    "title": "Near-infrared spectroscopic study of nontronites and ferruginous smectite. Spectrochim",
+    "authors": ["R.L. Frost", "J.T. Kloprogge", "Z. Ding"],
+    "venue": "Acta Part A",
+    "year": 2002
+  }, {
+    "title": "Spectral reflectance of carbonate minerals in the visible and near infrared",
+    "authors": ["S.J. Gaffey"],
+    "year": 1987
+  }, {
+    "title": "Sulfates in martian layered terrains: The OMEGA/Mars",
+    "authors": ["A Gendrin"],
+    "venue": "Express view. Science",
+    "year": 2005
+  }, {
+    "title": "Distribution and formation of chlorides and phyllosilicates in Terra Sirenum, Mars",
+    "authors": ["T.D. Glotch", "J.L. Bandfield", "L.L. Tornabene", "H.B. Jensen", "F.P. Seelos"],
+    "venue": "Geophys. Res",
+    "year": 2010
+  }, {
+    "title": "Ancient aqueous sedimentation on Mars",
+    "authors": ["J.M. Goldspiel", "S.W. Squyres"],
+    "venue": "Icarus",
+    "year": 1991
+  }, {
+    "title": "Open-basin lakes on Mars: A study of mineralogy along a Paleolake Chain",
+    "authors": ["T.A. Goudge", "J.W. Head", "J.F. Mustard", "C.I. Fassett"],
+    "venue": "Lunar Planet. Sci. XLII,",
+    "year": 2011
+  }, {
+    "title": "Geologic map of the Eastern Equatorial region of Mars",
+    "authors": ["R. Greeley", "J. Guest"],
+    "venue": "US Geol. Surv. Misc. Invest. Ser., Map I-1802-B",
+    "year": 1987
+  }, {
+    "title": "Limnologic analysis of Gusev Crater Paleolake, Mars",
+    "authors": ["E.A. Grin", "N.A. Cabrol"],
+    "venue": "Icarus 130,",
+    "year": 1997
+  }, {
+    "title": "Groundwater-controlled valley networks and the decline of surface runoff on early Mars",
+    "authors": ["K.P. Harrison", "R.E. Grimm"],
+    "venue": "J. Geophys. Res",
+    "year": 2005
+  }, {
+    "title": "Burial, exhumation, metamorphism and other dastardly deeds exposed at the Hesperian/Noachian boundary in the Southern Nili Fossae region",
+    "authors": ["R.P. Harvey", "J. Griswold"],
+    "venue": "Lunar Planet. Sci. XLI,",
+    "year": 2010
+  }, {
+    "title": "Sedimentary deposits in Xanthe Terra: Implications for the ancient climate of Mars",
+    "authors": ["E Hauber"],
+    "venue": "Planet. Space Sci",
+    "year": 2009
+  }, {
+    "title": "Clay mineral diagenesis in core KM-3 of Searles Lake, California",
+    "authors": ["R.L. Hay", "S.G. Guldman", "J.C. Matthews", "R.H. Lander", "M.E. Duffin", "T.K. Kyser"],
+    "venue": "Clays Clay Miner",
+    "year": 1991
+  }, {
+    "title": "Oceans in the past history of Mars: Tests for their presence using Mars orbiter laser altimeter (MOLA) data",
+    "authors": ["J.W. Head", "M. Kreslavsky", "H. Hiesinger", "M. Ivanov", "S. Pratt", "N. Seibert"],
+    "venue": "Geophys. Res",
+    "year": 1998
+  }, {
+    "title": "Northern lowlands of Mars: Evidence for widespread volcanic flooding and tectonic deformation in the Hesperian period",
+    "authors": ["J. Head", "M. Kreslavsky", "S. Pratt"],
+    "venue": "J. Geophys. Res",
+    "year": 2002
+  }, {
+    "title": "The Huygens–Hellas giant dike system on Mars: Implications for Late Noachian–Early Hesperian volcanic resurfacing and climatic",
+    "authors": ["J. Head", "L. Wilson", "J. Dickson", "G. Neukum"],
+    "venue": "evolution. Geology",
+    "year": 2006
+  }, {
+    "title": "Formation of gullies on Mars: Link to recent climate history and insolation microenvironments implicate surface water flow origin",
+    "authors": ["J. Head", "D. Marchant", "M. Kreslavsky"],
+    "venue": "Proc. Natl. Acad",
+    "year": 2008
+  }, {
+    "title": "Northern mid-latitude glaciation in the Late Amazonian period of Mars: Criteria for the recognition of debris-covered glacier and valley glacier landsystem deposits",
+    "authors": ["J. Head", "D. Marchant", "J. Dickson", "A. Kress", "D. Baker"],
+    "venue": "Earth Planet. Sci",
+    "year": 2010
+  }, {
+    "title": "Origin, diagenesis, and mineralogy of chlorite minerals in Devonian Lacustrine Mudrocks, Orcadian Basin, Scotland",
+    "authors": ["S. Hillier"],
+    "venue": "Clays Clay Miner",
+    "year": 1993
+  }, {
+    "title": "An intense terminal epoch of widespread fluvial activity on early Mars: 1. Valley network incision and associated deposits",
+    "authors": ["A.D. Howard", "J.M. Moore", "R.P. Irwin"],
+    "venue": "J. Geophys. Res",
+    "year": 2005
+  }, {
+    "title": "A mineralogic and morphologic analysis of four new phyllosilicate-bearing martian fan deposits",
+    "authors": ["Hughes", "A.C.G"],
+    "venue": "Lunar Planet. Sci. XLII,",
+    "year": 2011
+  }, {
+    "title": "Visible and near-infrared spectra of minerals and rocks: II. Carbonates",
+    "authors": ["G.R. Hunt", "J.W. Salisbury"],
+    "venue": "Modern Geol",
+    "year": 1971
+  }, {
+    "title": "Relationship of clay minerals to depositional environments in the non-marine Eocene",
+    "authors": ["M. Ingles", "P. Anadon"],
+    "venue": "Pontils Group, Se Ebro Basin (Spain). J. Sediment. Petrol",
+    "year": 1991
+  }, {
+    "title": "A large Paleolake basin at the head of Ma’adim",
+    "authors": ["R. Irwin", "T. Maxwell", "A. Howard", "R. Craddock", "D. Leverington"],
+    "venue": "Vallis, Mars. Science",
+    "year": 2002
+  }, {
+    "title": "An intense terminal epoch of widespread fluvial activity on early Mars: 2. Increased runoff and paleolake development",
+    "authors": ["R. Irwin", "A. Howard", "R. Craddock", "J. Moore"],
+    "venue": "J. Geophys. Res",
+    "year": 2005
+  }, {
+    "title": "Water budgets on early Mars: Empirical constraints from paleolake basin and watershed",
+    "authors": ["R. Irwin", "T. Maxwell", "A. Howard"],
+    "venue": "areas. In: 7th International Conference on Mars. Abstract",
+    "year": 2007
+  }, {
+    "title": "Clay mineral diagenesis in lacustrine sediments",
+    "authors": ["B.F. Jones"],
+    "venue": "Surv. Bulletin 1578. US Geological Survey,",
+    "year": 1986
+  }, {
+    "title": "The mineralogy and related chemistry of lake sediments",
+    "authors": ["B.F. Jones", "C.J. Bowser"],
+    "venue": "Lakes: Chemistry, Geology and Physics. Springer-Verlag,",
+    "year": 1978
+  }, {
+    "title": "Freshwater carbonate sedimentation",
+    "authors": ["K. Kelts", "K.J. Hsu"],
+    "venue": "Lakes: Chemistry, Geology and Physics. Springer-Verlag,",
+    "year": 1978
+  }, {
+    "title": "The age of the Medusae Fossae Formation: Evidence of Hesperian emplacement from crater morphology, stratigraphy, and ancient lava contacts",
+    "authors": ["L. Kerber", "J.W. Head"],
+    "venue": "Icarus 206,",
+    "year": 2010
+  }, {
+    "title": "Ring-mold craters in lineated valley fill and lobate debris aprons on Mars: Evidence for subsurface glacial ice",
+    "authors": ["A. Kress", "J. Head"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2008
+  }, {
+    "title": "The ancient lakes in Hellas Basin Region as Seen through the first year of Mars Express HRSC camera",
+    "authors": ["H. Lahtela", "J. Korteniemi", "Kostama", "V.-P", "J. Raitala", "G Neukum"],
+    "venue": "Lunar Planet. Sci. XXXVI,",
+    "year": 2005
+  }, {
+    "title": "Sedimentology and Sedimentary Basins: From Turbulence to Tectonics",
+    "authors": ["M. Leeder"],
+    "year": 1999
+  }, {
+    "title": "An igneous origin for features of a candidate crater–lake system in western Memnonia, Mars",
+    "authors": ["D. Leverington", "T. Maxwell"],
+    "venue": "J. Geophys. Res",
+    "year": 2004
+  }, {
+    "title": "Concentric crater fill in the northern midlatitudes of Mars: Formation processes and relationships to similar landforms of glacial origin",
+    "authors": ["J. Levy", "J. Head", "D. Marchant"],
+    "venue": "Icarus 209,",
+    "year": 2010
+  }, {
+    "title": "Quasi-periodic bedding in the sedimentary rock record of Mars",
+    "authors": ["K. Lewis", "O. Aharonson", "J.P. Grotzinger", "R.L. Kirk", "A.S. McEwen", "T.A. Suer"],
+    "year": 2008
+  }, {
+    "title": "Sedimentary rocks of early Mars",
+    "authors": ["M. Malin", "K. Edgett"],
+    "venue": "Science 290,",
+    "year": 2000
+  }, {
+    "title": "Context camera investigation on board the Mars reconnaissance orbiter",
+    "authors": ["M Malin"],
+    "venue": "J. Geophys. Res",
+    "year": 2007
+  }, {
+    "title": "Geomorphic analysis of lobate debris aprons on Mars at Mars Orbiter Camera scale: Evidence for ice sublimation initiated by fractures",
+    "authors": ["N. Mangold"],
+    "venue": "J. Geophys. Res",
+    "year": 2003
+  }, {
+    "title": "Detailed study of an hydrological system of valleys, a delta, and lakes in Southwest Thaumasia region, Mars",
+    "authors": ["N. Mangold", "V. Ansan"],
+    "venue": "Icarus 180,",
+    "year": 2006
+  }, {
+    "title": "Mineralogy of the Nili Fossae region with OMEGA/Mars Express data: 2. Aqueous alteration of the crust",
+    "authors": ["N Mangold"],
+    "venue": "J. Geophys. Res",
+    "year": 2007
+  }, {
+    "title": "Mariner 9 evidence for wind erosion in the equatorial and midlatitude regions of Mars",
+    "authors": ["J.F. McCauley"],
+    "venue": "J. Geophys. Res",
+    "year": 1973
+  }, {
+    "title": "Geologic map transecting the highland/lowland boundary zone, Arabia Terra, Mars: Quadrangles",
+    "authors": ["G.E. McGill"],
+    "venue": "US Geol. Surv. Invest. Ser., Map I-2746",
+    "year": 2002
+  }, {
+    "title": "Viscous flow features on the surface of Mars: Observations from high-resolution Mars Orbiter Camera (MOC) images",
+    "authors": ["R.E. Milliken", "J.F. Mustard", "D.L. Goldsby"],
+    "venue": "J. Geophys. Res",
+    "year": 2003
+  }, {
+    "title": "Petrography of northeastern Lake Michigan bottom sediments",
+    "authors": ["J.E. Moore"],
+    "venue": "J Sediment. Petrol",
+    "year": 1961
+  }, {
+    "title": "Diffractometric clay mineral analysis of recent sediments of lake constance (Central Europe)",
+    "authors": ["G. Muller", "J. Quakernaat"],
+    "venue": "Contrib. Mineral. Petrol",
+    "year": 1969
+  }, {
+    "title": "Compact reconnaissance imaging spectrometer for Mars (CRISM) on Mars Reconnaissance Orbiter (MRO)",
+    "authors": ["S Murchie"],
+    "venue": "J. Geophys. Res",
+    "year": 2007
+  }, {
+    "title": "Evidence for recent climate change on Mars from the identification of youthful near-surface ground ice",
+    "authors": ["J.F. Mustard", "C.D. Cooper", "M.K. Rifkin"],
+    "venue": "Nature 412,",
+    "year": 2001
+  }, {
+    "title": "Mineralogy of the Nili Fossae region with OMEGA/Mars Express data: 1. Ancient impact melt in the Isidis Basin and implications for the transition from the Noachian to Hesperian",
+    "authors": ["J Mustard"],
+    "venue": "J. Geophys. Res",
+    "year": 2007
+  }, {
+    "title": "Hydrated silicate mineral on Mars observed by the Mars Reconnaissance Orbiter CRISM instrument",
+    "authors": ["J Mustard"],
+    "venue": "Nature",
+    "year": 2008
+  }, {
+    "title": "Formation and diagenesis of weathering profiles",
+    "authors": ["H.W. Nesbitt", "G.M. Young"],
+    "venue": "J. Geol",
+    "year": 1989
+  }, {
+    "title": "HRSC: the High Resolution Stereo Camera of Mars Express",
+    "authors": ["G. Neukum", "R. Jaumann"],
+    "venue": "HRSC Co-Investigator and Experiment Team,",
+    "year": 2004
+  }, {
+    "title": "Terraces and Gilbert-type deltas in crater lakes in Ismenius Lacus and Memnonia (Mars)",
+    "authors": ["G.G. Ori", "L. Marinangeli", "A. Baliva"],
+    "venue": "J. Geophys. Res",
+    "year": 2000
+  }, {
+    "title": "Chloride-bearing materials in the Southern Highlands of Mars",
+    "authors": ["Osterloo", "M.M"],
+    "venue": "Science",
+    "year": 2008
+  }, {
+    "title": "Geologic context of proposed chloride-bearing materials on Mars",
+    "authors": ["M.M. Osterloo", "F.S. Anderson", "V.E. Hamilton", "B.M. Hynek"],
+    "venue": "J. Geophys. Res",
+    "year": 2010
+  }, {
+    "title": "Coastal geomorphology of the martian northern plains",
+    "authors": ["T. Parker", "D. Gorsline", "R. Saunders", "D. Pieri", "D. Schneeberger"],
+    "venue": "J. Geophys. Res",
+    "year": 1993
+  }, {
+    "title": "CRISM multispectral summary products: Parameterizing mineral diversity on Mars from reflectance",
+    "authors": ["S Pelkey"],
+    "venue": "J. Geophys. Res",
+    "year": 2007
+  }, {
+    "title": "Phyllosilicates on Mars and implications for early martian climate",
+    "authors": ["F Poulet"],
+    "year": 2005
+  }, {
+    "title": "Bright and dark region on Mars: Particle size and mineralogical characteristics based on thermal emission spectrometer data",
+    "authors": ["S. Ruff", "P. Christensen"],
+    "venue": "J. Geophys. Res",
+    "year": 2002
+  }, {
+    "title": "The formation of floor-fractured craters in Xanthe Terra",
+    "authors": ["H. Sato", "K. Kurita", "D. Baratoux"],
+    "venue": "Icarus 207,",
+    "year": 2010
+  }, {
+    "title": "A recent ice age on Mars: Evidence for climate oscillations from regional layering in mid-latitude mantling deposits",
+    "authors": ["S.C. Schon", "J.W. Head", "R.E. Milliken"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2009
+  }, {
+    "title": "Martian intrusions: Possible sites and implications",
+    "authors": ["P.H. Schultz"],
+    "venue": "Geophys. Res. Lett",
+    "year": 1978
+  }, {
+    "title": "Impact crater and basin control of igneous processes on Mars",
+    "authors": ["P.H. Schultz", "H. Glicken"],
+    "venue": "J. Geophys. Res",
+    "year": 1979
+  }, {
+    "title": "Geologic map of the Western Equatorial region of Mars",
+    "authors": ["D. Scott", "K. Tanaka"],
+    "venue": "US Geol. Surv. Misc. Invest. Ser., Map I-1802-A",
+    "year": 1986
+  }, {
+    "title": "Candidate ice-rich material within equatorial craters on Mars",
+    "authors": ["D.E. Shean"],
+    "venue": "Geophys. Res. Lett",
+    "year": 2010
+  }, {
+    "title": "Clay minerals in recent sediments of Lake Kinneret (Tiberias), Israel",
+    "authors": ["A. Singer", "M. Gal", "A. Banin"],
+    "venue": "Sediment. Geol",
+    "year": 1972
+  }, {
+    "title": "Mars orbiter laser altimeter: Experiment summary after the first year of global mapping of Mars",
+    "authors": ["D Smith"],
+    "venue": "J. Geophys. Res",
+    "year": 2001
+  }, {
+    "title": "Water in silicate glasses: An infrared spectroscopic study",
+    "authors": ["E. Stolper"],
+    "venue": "Contrib. Mineral. Petrol",
+    "year": 1982
+  }, {
+    "title": "The martian impact cratering record",
+    "authors": ["R. Strom", "S. Croft", "N. Barlow"],
+    "year": 1992
+  }, {
+    "title": "Satellite observations of calcium carbonate precipitations in the Great Lakes",
+    "authors": ["A.E. Strong", "B.J. Eadie"],
+    "venue": "Limnol. Oceanogr",
+    "year": 1978
+  }, {
+    "title": "Dust and ice deposition in the martian geologic record",
+    "authors": ["K.L. Tanaka"],
+    "venue": "Icarus 144,",
+    "year": 2000
+  }, {
+    "title": "A note on the relationship of grain size, clay content, quartz and organic carbon in some Lake Erie and Lake Ontario sediments",
+    "authors": ["R.L. Thomas"],
+    "venue": "J. Sediment. Res",
+    "year": 1969
+  }, {
+    "title": "Chemical divides and evaporite assemblages on Mars",
+    "authors": ["N.J. Tosca", "S.M. McLennan"],
+    "venue": "Earth Planet. Sci",
+    "year": 2006
+  }, {
+    "title": "Origin of periodically spaced wrinkle ridges on the Tharsis Plateau of Mars",
+    "authors": ["T. Watters"],
+    "venue": "J. Geophys. Res",
+    "year": 1991
+  }, {
+    "title": "Limnology: Lake and River Ecosystems, third ed",
+    "authors": ["R.G. Wetzel"],
+    "year": 2001
+  }, {
+    "title": "Geomorphic and stratigraphic analysis of Crater Terby and layered deposits north of Hellas basin, Mars",
+    "authors": ["S. Wilson", "A. Howard", "J. Moore", "J. Grant"],
+    "venue": "J. Geophys. Res",
+    "year": 2007
+  }, {
+    "title": "Diverse aqueous environments on ancient Mars revealed in the southern",
+    "authors": ["J.J. Wray", "S.L. Murchie", "S.W. Squyres", "F.P. Seelos", "L.L. Tornabene"],
+    "venue": "highlands. Geology",
+    "year": 2009
+  }],
+  "id": "SP:6d0653160e9bc9e283062e9a6a75f989a1df820c",
+  "authors": [{
+    "name": "Timothy A. Goudge",
+    "affiliations": []
+  }, {
+    "name": "James W. Head",
+    "affiliations": []
+  }, {
+    "name": "John F. Mustard",
+    "affiliations": []
+  }, {
+    "name": "Caleb I. Fassett",
+    "affiliations": []
+  }],
+  "abstractText": "0019-1035/$ see front matter 2012 Elsevier Inc. A doi:10.1016/j.icarus.2012.02.027 ⇑ Corresponding author. Fax: +1 401 863 3978. E-mail address: Tim_Goudge@brown.edu (T.A. Gou A large number of candidate open-basin lakes (low-lying regions with both inlet valleys and an outlet valley) have been identified and mapped on Mars and are fed by valley network systems that were active near the Noachian–Hesperian boundary. The nature of processes that modified the open-basin lake interiors subsequent to lacustrine activity, and how frequently sedimentary deposits related to lacustrine activity remain exposed, has not been extensively examined. An analysis of 226 open-basin lakes was undertaken to identify evidence for: (1) exposed deposits of possible lacustrine origin and (2) post-lacustrine-activity processes that may have modified or resurfaced open-basin lakes. Spectroscopic data from the Compact Reconnaissance Imaging Spectrometer for Mars (CRISM) instrument were analyzed over identified exposed open-basin lake deposits to assess the mineralogy of these deposits. Particular attention was paid to the possible detection of any component of aqueous alteration minerals (e.g. phyllosilicates, hydrated silica, zeolites) or evaporites (e.g. carbonates, sulfates, chlorides) associated with these exposed deposits. The aim of this paper is to act as a broad survey and cataloguing of the types of lacustrine and post-lacustrine deposits that are present within these 226 paleolake basins. Results of the morphologic classification indicate that 79 open-basin lakes ( 35% of the population) contain exposed deposits of possible lacustrine origin, identified on the basis of fan/delta deposits, layered deposits and/or exposed floor material of apparent lacustrine origin. Additionally, all 226 open-basin lakes examined appear to have been at least partially resurfaced subsequent to their formation by several processes, including volcanism, glacial and periglacial activity, impact cratering and aeolian activity. Results from the analysis of CRISM data show that only 10 ( 29% of the 34 deposits with CRISM coverage) of the exposed open-basin lake deposits contain positively identified aqueous alteration minerals, with one deposit also containing evaporites. The identified hydrated and evaporite minerals include Fe/Mg-smectite, kaolinite, hydrated silica and carbonate, with Fe/Mg-smectite the most commonly identified mineral. These results indicate that hydrated and evaporite minerals are not as commonly associated with lacustrine deposits on Mars as they are on Earth. This suggests in situ alteration and mineral precipitation, a common source of such minerals in terrestrial lakes, was not a major process occurring in these paleolacustrine systems, and that the observed minerals are likely to be present as transported material within the lacustrine deposits. The lack of widespread in situ alteration also suggests that either the water chemistry in these paleolake systems was not conducive to aqueous alteration and mineral precipitation, or that the open-basin lake systems were relatively short-lived. 2012 Elsevier Inc. All rights reserved.",
+  "title": "An analysis of open-basin lake deposits on Mars: Evidence for the nature of associated lacustrine deposits and post-lacustrine modification processes"
+}

@@ -1,0 +1,149 @@
+{
+  "sections": [{
+    "text": "UC Irvine Faculty Publications\nTitle A monthly and latitudinally varying volcanic forcing dataset in simulations of 20th century climate\nPermalink https://escholarship.org/uc/item/68q5m70v\nJournal Geophysical Research Letters, 30(12)\nISSN 0094-8276\nAuthors Ammann, Caspar M Meehl, G. A. Washington, W. M. et al.\nPublication Date 2003\nDOI 10.1029/2003GL016875\nLicense CC BY 4.0 Peer reviewed\neScholarship.org Powered by the California Digital Library University of California"
+  }, {
+    "heading": "A monthly and latitudinally varying volcanic forcing dataset in",
+    "text": "simulations of 20th century climate\nCaspar M. Ammann, Gerald A. Meehl, and Warren M. Washington National Center for Atmospheric Research, Climate and Global Dynamics Division, Boulder, Colorado, USA\nCharles S. Zender Department of Earth System Science, University of California, Irvine, California, USA\nReceived 4 January 2003; revised 1 May 2003; accepted 23 May 2003; published 28 June 2003.\n[1] A new monthly volcanic forcing dataset is included in a coupled GCM for a more physically consistent treatment of the stratospheric sulfate aerosol history from explosive volcanism. The volcanic forcing is different from previous versions in that there is an individual evolution of the aerosol for each event. Thus the seasonal and latitudinal dependence of the volcanic aerosol can affect global climate in a more realistic way prior to the satellite period, compared to earlier volcanic forcing datasets. Negative radiative forcing from volcanic activity is greatest in the early 20th century prior to 1915 and in the late 20th century after 1960. The combination of volcanic and solar forcing contributes to an early-20th century warming, followed by relative cooling in late 20th century. Consequently, the addition of natural forcing factors to the anthropogenic GHG forcing in late 20th century is required to simulate the observed late 20th century warming. INDEX TERMS: 0370 Atmospheric Composition and Structure: Volcanic effects (8409); 1620 Global Change: Climate dynamics (3309); 1704 History of Geophysics: Atmospheric sciences; 3309 Meteorology and Atmospheric Dynamics: Climatology (1620); 3337 Meteorology and Atmospheric Dynamics: Numerical modeling and data assimilation. Citation: Ammann, C. M., G. A. Meehl, W. M. Washington, and C. S. Zender, A monthly and latitudinally varying volcanic forcing dataset in simulations of 20th century climate, Geophys. Res. Lett., 30(12), 1657, doi:10.1029/2003GL016875, 2003."
+  }, {
+    "heading": "1. Introduction",
+    "text": "[2] Global coupled climate model simulations have shown that natural forcings from either solar or volcanic sources (or both) are the main contributors to the observed global warming in the first half of the 20th century, and that radiative forcing from anthropogenic sources was primarily responsible for the observed late 20th century warming [Stott et al., 2000; Mitchell et al., 2001; Meehl et al., 2003]. However, the volcanic forcing used in these simulations has been relatively simplified and from a variety of sources. For example, the Sato et al. [1993] optical depth data are partitioned into four time periods with different data sources. From 1850 to 1883, they base a global stratospheric optical depth on total erupted sulfate estimates. From 1883 to 1959, the volcanic forcing is derived from one (early part) to a few surface stations with (pyrheliometric) radia-\ntion data. From 1960 to 1978, specific eruptions, like Agung in 1963, are based on a collection of instrumental radiation data by Dyer and Hicks [1968]. Doubts have been raised regarding its accuracy, however, particularly in relation to the timing of its peak forcing [see Dyer and Hicks, 1968, p. 553; Volz, 1970]. For perturbations between 1968 and 1974, Sato et al. used lunar eclipse data. After 1979, the data comes from satellites for El Chichón and Pinatubo. [3] Recently, Stothers [1996, 2001a] revisited the pyrhelio-metric data for earlier eruptions applying corrections for instrument wavelength sensitivity and comparing a number of different lines of evidence. He concluded, in good agreement with analyses of the climate impact [Rampino and Self, 1982], that the total sulfate loading is the primary factor controlling the radiative perturbation. Because of the still limited amount of optical perturbation data, we chose to base our simulated volcanic dataset on total sulfate loading that is in close agreement with Stothers [1996, 2001a] but larger than Sato et al. [1993]. Other datasets based solely on ice core data also estimate the volcanic sulfate burden in the stratosphere [e.g., Robock and Free, 1995], but anthropogenic contamination makes these series problematic in the 20th century. [4] All these datasets have only limited (if any) information about seasonal or latitudinal distributions of the volcanic aerosols, a potentially important component when attempting to realistically simulate the perturbations. The timing of the volcanic eruption in the seasonal cycle can affect the transport of aerosols into either hemisphere, and thus affect the nature of the volcanic forcing on the climate. Also, datasets that have forcing data derived from different sources over time could introduce spurious low frequency variability into the record. [5] Here we describe a new volcanic forcing dataset that is based on the total amount of sulfate released by each eruption and that contains in a consistent way the meridional spread and decay of volcanic aerosol at monthly resolution taking into account the seasonally changing stratospheric transport. While this method promises an improvement of the stratospheric aerosol history prior to satellite measurements, it clearly simplifies the volcanic cloud evolutions for the most recent events. The data can be downloaded from the NOAA-NGDC-Paleo web site: http://www.ngdc.noaa.gov/paleo/pubs/ammann2003/. These data are then used in a global coupled GCM for experiments simulating 20th century climate. The simulations show improved agreement with the observed tempera-\nGEOPHYSICAL RESEARCH LETTERS, VOL. 30, NO. 12, 1657, doi:10.1029/2003GL016875, 2003\nCopyright 2003 by the American Geophysical Union. 0094-8276/03/2003GL016875\n59 - 1\ntures on the inter-annual timescale with the inclusion of the new volcanic forcing dataset."
+  }, {
+    "heading": "2. Configuration and Setup",
+    "text": ""
+  }, {
+    "heading": "2.1. Parallel Climate Model (PCM)",
+    "text": "[6] We use the coupled DOE-PCM described by Washington et al. [2000]. The resolution of the atmosphere is equivalent to 2.8 2.8 , with 18 levels in the vertical. Resolution in the ocean is roughly 2/3 down to 1/2 at the equator, with 32 levels. No flux corrections are used in the model, and a stable climate is simulated with a small cooling trend of 0.03K per century in a 1000-year long control integration. The inter-annual climate variability related to ENSO is in reasonable agreement with observations [Meehl et al., 2001; Dai et al., 2001]. [7] Here we present 4-member ensemble simulations with the new volcanic aerosol treatment in PCM, one with volcanic aerosol as only forcing and one with all other 20th century forcings combined. The other forcings, as previously reported in Dai et al. [2001] and Meehl et al. [2003], include observed greenhouse gas histories for CO2, N2O, CH4, CFC-11, CFC-12, and ozone [Dai et al., 2001], an evolution of direct forcing from tropospheric sulfate aerosol [Kiehl et al., 2000] as well as solar irradiance changes [Hoyt and Schatten, 1993, updated; others with different time evolution exist]. Results of a single integration using the NCAR-Climate System Model (CSM) have been presented by C. M. Ammann et al. (Coupled Simulations of the 20thCentury including external forcing, submitted to Journal Clim., submitted, 2003, hereinafter referred to as Ammann et al., 2003.)"
+  }, {
+    "heading": "2.2. Volcanic Aerosol",
+    "text": "[8] Volcanic forcing has traditionally been thought to influence climate on a short time scale only. However, the possibility of a prolonged signal from close temporal spacing between large eruptions [Porter, 1986; Wigley, 1991] has recently been raised again [Santer et al., 2001; Ammann et al., 2003]. In order to evaluate this component with PCM, we computed off-line and then prescribed zonally averaged volcanic aerosol through the use of a simple parameterization. The peak aerosol optical depth for each eruption is scaled from estimates of peak aerosol loading [Stothers 1996; Hofmann and Rosen 1983; Stenchikov et al., 1998] assuming spherical sulfuric acid droplets with a composition of 75% H2SO4 and 25% H2O and a fixed aerosol size distribution (using reff = 0.42 micron [Ammann et al., 2003], a mid-sized aerosol comparable to an average Pinatubo aerosol, Stenchikov et al. [1998]; see also Stothers [2001b] for estimates of reff for individual events). Using the month of the eruption and an estimated peak amount of sulfate aerosol reached through linear buildup after 4 months, aerosol from tropical eruptions is transported in the lower stratosphere from the tropics (25 N–25 S) into the midlatitudes of the respective winter hemisphere, where it subsequently decays during the summer season. Over the poles, aerosol is rapidly removed during winter, but is advected from midlatitudes in spring and summer after the breakdown of the polar vortex. The e-folding time for decay is set to 12 months in the tropics. The aerosol from high-latitude eruptions is restricted to remain poleward of 30 of the appropriate hemisphere. This\nsimple model of aerosol evolution in the lower stratosphere (we use 3 levels between roughly 150 and 50 hPa) does not reproduce the detail in aerosol cloud evolution known after recent eruptions such as Pinatubo [Stenchikov et al., 1998]. However, since it is applied to all eruptions, it has the advantage that no artificial decadal variability is introduced into the forcing history from changing data sources. With equal error-bars within this dataset, this parameterization can be applied to eruptions prior to the satellite period, and will be particularly useful for events earlier in time where ice cores provide estimates for sulfate mass [e.g., Hammer et al., 1980; Robock and Free, 1995]. Figure 1a illustrates the timing and subsequent zonal mean spread of volcanic aerosol visible optical depth at 0.5 micron from different volcanic datasets covering the period after the 1902 eruptions, most importantly Santa Maria, Guatemala in October 1902. In Figure 1b we compare the global averaged monthly optical depth. While our global volcanic optical depth is very close to Stothers [1996], it is larger than Sato et al. [1993]. Qualitative evaluation of each individual event shows that the timing and hemispheric balance of aerosol spread is generally well reproduced with the exception being eruptions with unusual aerosol evolution, namely for Agung (1963) and El Chichón (1982). For the March 1963 eruption of Agung, the aerosol cloud was correctly estimated to be larger in the Southern Hemisphere (though only by about 20% rather than a factor of 3 [Dyer and Hicks, 1968] if not 8 [Stothers, 2001a]). For the El Chichón eruption in April 1982, which occurred only a few weeks later in the seasonal cycle compared to Agung, the bulk of the cloud was also projected to be in the Southern Hemisphere rather than as observed with a 2:1 weight in the Northern Hemisphere [Sato et al., 1993]. [9] Figure 2a shows the superposed time series of specified and effective global average volcanic aerosol forcing for the 20th century. Major eruptions stand out as negative spikes in visible optical depth. This time series is superposed on the range of net top-of-atmosphere energy flux (Wm 2) from an ensemble of four volcano-only runs. Individual eruptions produce negative spikes of net energy\nflux, somewhat obscured by natural unforced variability in the model. These energy flux changes are dominated by scattering of solar radiation back into space (increase in albedo) but also contain significant compensation by absorption in the near infrared as well as of upwelling terrestrial radiation. The net radiative effect reaches magnitudes of 1 to 1.5 Wm 2. Figure 2b shows the 10-year running mean of top-of-atmosphere net energy flux and volcanic aerosol optical depth. These filtered values illustrate the cumulative effect of volcanic activity on the decadal timescale. Volcanic aerosol optical depth and net energy flux minima occur in the early 1900s and again after 1960, separated by a period of volcanic inactivity."
+  }, {
+    "heading": "3. Results",
+    "text": ""
+  }, {
+    "heading": "3.1. Radiative Forcing and 20th Century Climate",
+    "text": "[10] The precise radiative forcing [see, e.g., Stenchikov et al., 1998] that an eruption imposes on the climate system is difficult to evaluate with a coupled climate model. While the stratosphere has to reach radiative equilibrium with the forcing, the latter should not affect tropospheric climate. While we have performed detailed forcing calculations using Pinatubo as a case study, the other forcings are evaluated off-line [see Dai et al., 2001]. We now compare the off-line results with the transient top-of-atmosphere net flux changes. Of particular interest are relative contributions of natural and anthropogenic forcing factors through the 20th century. [11] The bars plotted in the lower part of Figure 3 show natural (separated into volcanic and solar) and anthropogenic (combined GHG, direct anthropogenic sulfate and ozone) forcing components in 25-year bins. Volcanic forcing is presented as anomalies relative to the unperturbed state,\nwhereas solar and anthropogenic forcings are computed as anomalies relative to 1870 values. While the total natural forcing (thin black bars) undergoes changes from negative values of about 0.1 Wm 2 at the beginning of the century, after 1925 the lack of volcanic eruptions together with increased solar irradiance produces positive radiative forcing of 0.23 Wm 2. During the second half of the century, although solar irradiance remains high, increased volcanic forcing of 0.13 and 0.2 Wm 2 (for 1950–1974 and 1975–1999, respectively) essentially compensates for the positive values. It is during this time that the anthropogenic forcing emerges from very small values earlier in the century (<0.1 Wm 2) to be the dominant player. The average combined anthropogenic forcing from 1975 to 1999 is 0.7 Wm 2, with individual annual values in the late 1990s reaching 1.8 Wm 2 for GHGs and 0.55 Wm 2 for tropospheric sulfate [see also Dai et al., 2001]."
+  }, {
+    "heading": "3.2. Climate Response",
+    "text": "[12] The upper portion of Figure 3 compares the global average near-surface temperature time series of observed (blue shading, indicating the range of three observational datasets), with the ensemble mean of the four PCM simulations (red line). The horizontal gray bar indicates the range of variability in the unforced control simulation (±2 standard deviations computed from the corresponding 110-year periods in the control run plotted relative to the initial surface conditions in 1890). Both observed and simulated time series show that the total combined forcing as the sum of the 25-year averages (thick black bars for combined anthropogenic and thin black bars for combined natual\nforcing) in the lower part of Figure 3 tracks the globally averaged surface air temperature. [13] While it is clear that an ensemble average of the four member model simulations will tend to average out the effects of El Niño, it is also true that any given realization cannot exactly reproduce the observations since the time of ENSO events in the observations and model simulations will be different. Nevertheless, Figure 3 shows that there is good agreement between the modeled and observed data even on inter-annual time scales for the intervals with a significant amount of volcanic activity (see Figure 1b). Over the combined interval 1890–1914 and 1961–1999, observed and modeled data are correlated at r = 0.92 (and r = 0.68 for detrended series), over the intervening period, 1915–1960, the correlation drops to r = 0.50 (0.13), reflecting common trends rather than agreement at the inter-annual time scale. The improvement of the correlation between the full, detrended series of (average) observations and PCM ensemble show an increase from 0.38 (experiments presented inMeehl et al. [2003]) to 0.56 when adding in the volcanoes. More detailed comparisons with observations and other coupled models are being performed elsewhere [Hegerl et al., 2003]."
+  }, {
+    "heading": "4. Conclusions",
+    "text": "[14] A new volcanic forcing dataset with monthly time resolution and detailing the time-varying latitudinal spread of volcanic aerosol for each eruption of the 20th century is described. For individual events prior to the satellite period, the dispersion of the aerosol using a simple model allows a more realistic spread of the volcanic aerosol into the extratropics. Volcanic activity was more intense in the first part of the 20th century, and after the 1950s, with relative inactivity in mid-century. The new volcanic forcing data are used with solar and anthropogenic forcings to drive a coupled ocean-atmosphere GCM to simulate 20th century changes in climate. In order to match observations, it is necessary to include both natural (volcanic and solar) forcings and forcing from anthropogenic sources (GHGs, sulfate aerosols and ozone). While mostly solar and volcanic forcings contribute to the early century surface air temperature increase, anthropogenic forcing is the dominant factor in causing late 20th century warming above the 2s level of natural variability.\n[15] Acknowledgments. A portion of this study was supported by the Office of Biological and Environmental Research, US Department of Energy, as part of its Climate Change Prediction Program. C. M. A. is also grateful to B. L. Otto-Bliesner and J. T. Kiehl for support. The authors thank T. M. L. Wigley and three anonymous reviewers for valuable comments and suggestions for improvement of the manuscript. The National Center for Atmospheric Research is sponsored by the National Science Foundation."
+  }],
+  "year": 2003,
+  "references": [{
+    "title": "Climates of the Twentieth and Twenty-First Centuries simulated by the NCAR Climate System",
+    "authors": ["A. Dai", "T.M.L. Wigley", "B.A. Boville", "J.T. Kiehl", "L.E. Buja"],
+    "venue": "Model, J. Clim.,",
+    "year": 2001
+  }, {
+    "title": "Global spread of volcanic dust from the Bali eruption",
+    "authors": ["A.J. Dyer", "B.B. Hicks"],
+    "venue": "Quart. J. R. Met. Soc.,",
+    "year": 1963
+  }, {
+    "title": "Dansgaard, Greenland ice sheet evidence of post-glacial volcanism and its climatic impact",
+    "authors": ["C.U. Hammer", "H.B. Clausen"],
+    "venue": "Nature, 288,",
+    "year": 1980
+  }, {
+    "title": "GISS analysis of surface temperature change",
+    "authors": ["J.E. Hansen", "R. Ruedy", "J. Glascoe", "M. Sato"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1999
+  }, {
+    "title": "Stratospheric sulfuric acid fraction and mass estimate for the 1982 volcanic eruption of El Chichón",
+    "authors": ["D.J. Hofmann", "J.M. Rosen"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 1983
+  }, {
+    "title": "A discussion of plausible solar irradiance variations, 1700–1992",
+    "authors": ["D.V. Hoyt", "K.H. Schatten"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1993
+  }, {
+    "title": "Radiative forcing due to sulfate aerosols from simulations with the National Center for Atmospheric Research Community Climate Model, version",
+    "authors": ["J.T. Kiehl", "T. Schneider", "P.J. Rasch", "M.C. Barth", "J. Wong"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2000
+  }, {
+    "title": "Factors that affect the amplitude of El Niño in global coupled climate models, Clim",
+    "authors": ["G.A. Meehl", "P.R. Gent", "J.M. Arblaster", "B.L. Otto-Bliesner", "E.C. Brady", "A. Craig"],
+    "year": 2001
+  }, {
+    "title": "Solar and greenhouse gas forcing and climate response in the 20th century",
+    "authors": ["G.A. Meehl", "W.M. Washington", "T.M.L. Wigley", "J.M. Arblaster", "A. Dai"],
+    "venue": "J. Clim.,",
+    "year": 2003
+  }, {
+    "title": "Detection of Climate Change and Attribution of Causes, in Climate Change 2001: The Scientific Basis",
+    "authors": ["J.F.B. Mitchell", "D.J. Karoly", "G.C. Hegerl", "F.W. Zwiers", "M.R. Allen", "J. Marengo"],
+    "venue": "Contribution of Working Group I to the Third Assessment Report of the Intergovernmental Panel on Climate Change [Houghton, J. T. et al., Eds],",
+    "year": 2001
+  }, {
+    "title": "Pattern and forcing of Northern Hemisphere glacier variations during the last Millennium",
+    "authors": ["S.C. Porter"],
+    "venue": "Quat. Res.,",
+    "year": 1986
+  }, {
+    "title": "An operational near-real-time global temperature index, Geophys",
+    "authors": ["R.G. Quayle", "T.C. Peterson", "A.N. Basist", "C.S. Godfrey"],
+    "venue": "Res. Lett.,",
+    "year": 1999
+  }, {
+    "title": "Free, Ice cores as an index of global volcanism from 1850 to the present",
+    "authors": ["A. Robock", "M. P"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1995
+  }, {
+    "title": "Stratospheric aerosol optical depth, 1850–1990",
+    "authors": ["M. Sato", "J.E. Hansen", "M.P. McCormick", "J.B. Pollack"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1993
+  }, {
+    "title": "Radiative forcing from the 1991 Mount Pinatubo volcanic eruption",
+    "authors": ["G.L. Stenchikov", "I. Kirchner", "A. Robock", "H.F. Graf", "J.C. Antuña", "R.G. Grainger", "A. Lambert", "L.W. Thomason"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1998
+  }, {
+    "title": "Major optical depth perturbations to the stratosphere from volcanic eruptions: Pyrheliometric period, 1881–1960",
+    "authors": ["R.B. Stothers"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1996
+  }, {
+    "title": "Major optical depth perturbations to the stratosphere form volcanic eruptions: Stellar extinction period, 1961–1978",
+    "authors": ["R.B. Stothers"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2001
+  }, {
+    "title": "A chronology of annual mean effective radii of stratospheric aerosol from volcanic eruptions during the twentieth century as derived from ground-based spectral extinction measurements",
+    "authors": ["R.B. Stothers"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2001
+  }, {
+    "title": "J.Jenkins, External control of 20th-Century temperature by natural and anthropogenic forcing",
+    "authors": ["P.A. Stott", "S.F.B. Tett", "G.S. Jones", "M.R. Allen", "J.F.B. Mitchell"],
+    "year": 2000
+  }, {
+    "title": "Atmospheric turbidity after the Agung eruption of 1963 and size distribution of the volcanic aerosol",
+    "authors": ["F.E. Volz"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1970
+  }, {
+    "title": "Climate variability on the 10–100-year time scale: Observations and possible causes, in Global Changes of the Past, edited",
+    "authors": ["T.M.L. Wigley"],
+    "venue": "UCAR Office for Interdisciplinary Earth Studies, Boulder, Colorado,",
+    "year": 1991
+  }],
+  "id": "SP:c402c0755ec1f6a8e1996e32d7e65cc920e06b0f",
+  "authors": [{
+    "name": "Caspar M. Ammann",
+    "affiliations": []
+  }, {
+    "name": "Gerald A. Meehl",
+    "affiliations": []
+  }, {
+    "name": "Charles S. Zender",
+    "affiliations": []
+  }],
+  "title": "A monthly and latitudinally varying volcanic forcing dataset in simulations of 20th century climate"
+}

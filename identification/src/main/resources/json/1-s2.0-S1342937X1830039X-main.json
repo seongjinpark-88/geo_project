@@ -1,0 +1,524 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nGondwana Research\nj ourna l homepage: www.e lsev ie r .com/ locate /gr\nEarly Late Permian coupled carbon and strontium isotope chemostratigraphy from South China: Extended Emeishan volcanism?\nBorhan Bagherpour a,⁎, Hugo Bucher a, Elke Schneebeli-Hermann a, Torsten Vennemann b, Massimo Chiaradia c, Shu-zhong Shen d\na Paleontological Institute, University of Zürich, Karl Schmid-Strasse 4, 8006 Zürich, Switzerland b Institute of Earth Surface Dynamics, University of Lausanne, Géopolis, 1015 Lausanne, Switzerland c Department of Earth Sciences, University of Geneva, Geneva 1205, Switzerland d Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences, Nanjing 210008, China\n⁎ Corresponding author. E-mail address: borhan.bagherpour@pim.uzh.ch (B. Ba\nhttps://doi.org/10.1016/j.gr.2018.01.011 1342-937X/© 2018 International Association for Gondwa\na b s t r a c t a r t i c l e i n f o\nArticle history: Received 26 September 2017 Received in revised form 20 December 2017 Accepted 29 January 2018 Available online 21 February 2018\nHandling Editor: S.J. Liu\nCarbon isotope compositions of carbonates (δ13Ccarb) document a new 3.5‰ CIE toward lower values concomitant with an Emeishan Large Igneous Province (ELIP)-related drowning event (Mapojiao Event, southern Guizhou) during the early Wuchiapingian. Organic carbon isotope data (δ13Corg) have a 2‰ shift toward higher values across the drowning event, showing decoupling with the δ13Ccarb evolution. Rock-Eval and palynofacies analyses suggest an elevated flux of terrestrial organic matter (OM) during the drowning episode. Therefore, the decoupling between δ13Ccarb and δ13Corg is best explained by the mixing of different organic carbon pools in the δ13Corg curve. Strontium isotope data (87Sr/86Sr) also show a transient shift from 0.70715 to 0.70694 associatedwith this earlyWuchiapingian carbon isotope excursion (CIE), which is superimposed on the late Permian prolonged global rising trend. This short-lived 87Sr/86Sr excursion is best interpreted as an enhanced hydrothermal flux related to a short pulse of ELIP-related volcanism. Comparison of the Mapojiao Event with other C isotope records from South China and other parts of Tethys reveals substantial discrepancies. Moreover, older Capitanian CIEs concomitant with ELIP-related drownings are also not laterally reproducible in time. The local distribution of CIEs across Guadalupian-Lopingian (G-L) interval indicates the influence of local factors such as bathymetry and increased burial rate of terrestrial OM, rather than perturbations in the global carbon cycle to due volcanism. This prevents the C isotope record to be used as a global correlation tool during Capitanian and Wuchiapingian times. Comparison of palaeobiodiversity changes with perturbations in C isotope compositions across the G-L interval shows that only the oldest CIE was associated with amodest extinction event as documented in South China. Hence, this study undermines any systematic coupling and causal relation between extinctions and iterative perturbations of the C isotope record during the G-L interval.\n© 2018 International Association for Gondwana Research. Published by Elsevier B.V. All rights reserved.\nKeywords: South China Wuchiapingian Carbon isotope Strontium isotope Emeishan Large Igneous Province"
+  }, {
+    "heading": "1. Introduction",
+    "text": "The end-Guadalupian represents a distinct extinction event preceding the Permian-Triassic mass extinction (Stanley and Yang, 1994; Jin et al., 1994). The end-Guadalupian extinction is recorded in bothmarine and terrestrial realms, and had a profound effect on fusulinids and calcareous algae, but also affected corals, bryozoans, brachiopods, bivalves, ammonoids, and ostracods (Bond et al., 2010a and references therein; Zazzali et al., 2015). However, a more recent study revealed that there was no associated terrestrial extinction (Rubidge et al., 2013). According to Bond et al. (2010a, 2010b), this “mass” extinction occurred in a short time interval during the mid-Capitanian and coincided with the\ngherpour).\nna Research. Published by Elsevier B.\nonset of the Emeishan Large Igneous Province (ELIP). This is in marked contrast with Clapham et al. (2009), Shen and Shi (2009), and Groves and Wang (2013), who argued that this extinction represents a prolonged and gradual decline of diversity from the Wordian to the end of the Permian without any extinction peak. Although the ultimate trigger for the end-Guadalupian extinction is still unclear, its close temporal association with the ELIP volcanism led several authors to suggest a cause-effect relationship between these two phenomena (e.g., Wang and Sugiyama, 2000; Ali et al., 2002; Zhou et al., 2002; Lai et al., 2008; Wignall et al., 2009; Li et al., 2016). However, the Wordian to endPermian gradual decline of diversity “precludes the need to invoke drastic extinction mechanisms” (Clapham et al., 2009).\nThe Guadalupian-Lopingian (G-L) boundary in South China coincideswith formational boundary between theMaokou andWuchiaping formations or the Kufeng and Lungtan formations. It is associated with\nV. All rights reserved.\nseveral environmental changes including a sedimentary facies change (e.g., Sun et al., 2010; Saitoh et al., 2013a), carbon cycle perturbations (e.g. Bond et al., 2010b; Yan et al., 2013), and a temperature rise (Chen et al., 2011).\nThe top of Maokou Fm. is marked by drowning events associated with ELIP volcanism (drowning events 1 and possibly 2 in Fig. 1) due to pre-eruption subsidence (Ukstins Peate and Bryan, 2008; Sun et al., 2010; Jerram et al., 2016). Recently, Bagherpour et al. (2017; in review) showed that the same type of drowning in associationwith volcanic activity occurred again during the early Wuchiapingian time (Mapojiao Event, drowning events 3 in Fig. 1) in the Pingtang syncline in Southern Guizhou Province (Fig. 2). Similar sedimentary architecture of Capitanian drowning events (particularly drowning event 1 in Fig. 1) and of the Mapojiao Event supports a common underlying driving mechanism related to episodic pulses of the ELIP activity (Fig. 1). In addition to bathymetric change, several studies also recognized pronounced Carbon Isotope Excursions (CIEs) in the South China record during the Capitanian or at the G-L boundary. ELIP volcanism has been often designated as the most plausible cause for these CIEs toward lower values (Wignall et al., 2009; Bond et al., 2010b; Chen et al., 2011; Wei et al., 2012). However, alternative mechanisms such as upwelling of oxygen depleted waters (Saitoh et al., 2013b) and diagenetic alteration (Jost et al., 2014) have also been considered. Unlike the endPermian mass extinction, which is accompanied by a synchronous and worldwide CIE toward lower values (e.g. Korte and Kozur, 2010), C isotope excursions spanning the G-L interval occurred at different times as indicated bybiostratigraphic age controls (Saitoh et al., 2013b; Jost et al., 2014; Shen et al., 2013). Moreover, these CIEs are associated with drowning events. This calls into question the significance of released light C associated with Emeishan volcanism as the main driver of CIEs during the G-L interval.\nMost studies focused on the Capitanian and only limited data were available for the Wuchiapingian. In order to assess any extension of ELIP volcanism in time and related paleoenvironmental consequences in post-Capitanian times, this study includes new data from highresolution coupled carbon (carbonate and organic) and strontium isotope records of the Mapojiao Event (Bagherpour et al., 2017; in review) (Mapojiao section, Figs. 2, 3). Rock-Eval and palynofacies analyses are used to establish the relative proportions of terrestrial and marine organic matter and contribute to a sound interpretation of the C isotope record."
+  }, {
+    "heading": "2. Geological setting and studied sections",
+    "text": ""
+  }, {
+    "heading": "2.1. Overview",
+    "text": "During the Late Permian, the South China Blockwas located near the equator in the eastern margin of the Paleotethys (Fig. 2a) (Enkin et al., 1992). The Middle to Late Permian transition in South China is associated with the emplacement of ELIP, which covers an area of at least 0.3 × 106 km2 distributed across South China (Guizhou, Yunnan, and Sichuan provinces) and northern Vietnam (Songpan-Ganzi terrane) (Ali et al., 2002; Shellnutt, 2014). With an estimated volume ranging from ~0.3 × 106 km3 to ~0.6 × 106 km3, the ELIP represents a modest-sized LIP with respect to most others, such as Siberian Traps (Shellnutt, 2014). Shortly before ELIP eruption, SW China was partially covered with epeiric seas (Jerram et al., 2016). In Yunnan and western Guizhou, the Guadalupian shallow-marine limestone Maokou Fm. ended with the deposition of ELIP volcanic rocks, which are thinning eastward. In eastern Guizhou, the volcanic flows of ELIP are absent but their erosional products (e.g., Wangpo Shale) are intercalated between the Maokou and Wuchiaping formations. Based on differential prevolcanism erosion, He et al. (2003) recognized three concentric zones around the ELIP (Fig. 2b). In the “inner zone” (W. Yunnan and S. Sichuan), the top of Maokou Fm. is strongly eroded due to a preeruption uplift. The thickness of Maokou Fm. progressively increases in the surrounding “intermediate zone” (E. Yunnan and N. Sichuan), where lesser amount of uplift and erosion occurred. Beyond this intermediate zone is the “outer zone”, which is characterized by even less erosion as suggested by the maximal thickness Maokou Fm. According to He et al. (2003), fusulinids-based biostratigraphic ages at the top of the Maokou Fm. also show a younging trend toward the “outer zone”, thus supporting the uplift model. However, hydromagmatic deposits of the initial phase of ELIP indicate submarine volcanism, which apparently contradicts the pre-eruption uplift model (Ukstins Peate and Bryan, 2008). Moreover, conodont biostratigraphy does not confirm any younging trend of the upper boundary of the Maokou Fm. and the previous diachronous ages have been argued to result from a low resolution of fusulinid biostratigraphy and/or a strong influence of facies control (Sun et al., 2010).\nThe studied area is located in Pingtang County (S. Guizhou) in the outer zone of the ELIP. A Carboniferous to Middle Triassic succession is exposed in both limbs of the 50 km long NE-SW Pingtang syncline (Fig. 2b, c). TheMiddle and Late Permian succession in the Pingtang syncline includes the Guadalupian Maokou Fm. and the Lopingian, Wuchiaping and Talung formations. The Mapojiao Event consistently occurs in the lower part of the Wuchiaping Fm. as documented at the Mapojiao, Layin and Guantan sections. The Mapojiao section (25°49′ 21.8″N; 107°21′16.3″E) is well exposed along a fresh road-cut in the eastern limb of the Pingtang syncline (Figs. 2c, 3) and is used here as a reference section. In order to obtain additional geochemical data from the lowermost part of the section, an additional section named Mapojiao B was also investigated. It is located 800 m SW of the main section in an intermittently exploited quarry."
+  }, {
+    "heading": "2.2. Lithological subdivision, facies, and depositional setting",
+    "text": "The studied interval at Mapojiao is subdivided into four lithostratigraphic units (Units A–D) (Figs. 3a, b, 4). The lower 35 m of the section (Unit A) is composed of light-grey massive limestone (Fig. 3a) yielding an abundant and diversified shallow-marine benthic fauna including calcareous sponges, bryozoans, Tubiphytes, brachiopods and crinoids. One ash layer is intercalated in the basal part of this unit. Additionally, two ash layers were also found from the lateral equivalent of Unit A at Mapojiao B. The carbonate content in Unit A is high (˃88%) and remains constant throughout the unit (Fig. 4). The overlying 31 m-thick Unit B is further subdivided into two subunits (B1 and B2). Subunit B1 is characterized by medium-bedded, dark-grey limestone\ncontaining abundant disseminated pyrite, siliceous sponge spicules, conodonts, some radiolarians, and rare smaller foraminifera and ostracods. Two volcanic ash layers are intercalated within Subunit B1. The following Subunit B2 consists of organic-rich, thin-bedded black limestone (Fig. 3b), with abundant disseminated pyrite, radiolarians, hexactinellid sponge spicules, and rare smaller foraminifera and ostracods. Two ash layers are also present in the middle part of Subunit B2. Carbonate content progressively declines from the base of Subunit B1 and reaches a minimum of ~30% at the top of Subunit B2 (Fig. 4). The overlying (8m-thick) Unit C consists of about 20 carbonate-free, graded volcanogenic sandstone and silt cycles (averaging 40 cm in thickness) interpreted as distal turbidites. The section ends with mediumbedded, cherty, nodular limestone of Unit D (Figs. 3b, 4). The lower half of Unit D consists of silicified limestone with radiolarians and sponge spicules, whose abundance progressively decreases in the upper half of the unit where they are replaced by benthic faunas. Carbonate content remains low in the lower part of the unit but increases up section. Reconstruction of sedimentary environments indicates a substantial drowning event here termed Mapojiao Event with deposition of Unit A in a shallow subtidal setting, followed by slope to basinal\nfacies of Subunit B1 and Subunit B2. Deposition of Unit B was interrupted by the intercalation of volcanogenic turbidites of Unit C, and endedwith Unit D that records a shallowing upward trend from basinal to subtidal settings (Bagherpour et al., 2017; in review)."
+  }, {
+    "heading": "2.3. Age control",
+    "text": "A high resolution biostratigraphic study of the conodont fauna from theMapojiao section by Bagherpour et al. (2017; in review) is used. Five index species in Units A and Bwere recognized and all were assigned to Clarkina. No conodonts were retrieved from the uppermost part of Subunit B2 and higher units. Clarkina ?dukouensis is the stratigraphically oldest conodont recovered from theMapojiao section. After a 20m barren interval, Clarkina asymmetrica, Clarkina leveni, Clarkina guangyuanensis, and Clarkina ?transcaucasica (or Clarkina guangyuanensis transitional to Clarkina transcaucasica) successively appear in ascending order and range through Unit A and Unit B (Fig. 4). The upper two thirds of the Wuchiaping Fm. are commonly assigned to the Clarkina orientalis Interval Zone (IZ) in South China (Shen et al.,\n2010),which is consistentwith the entire development of the formation in Pingtang syncline and the age constraints obtained for its lower part."
+  }, {
+    "heading": "3. Material and methods",
+    "text": "TheMapojiao sectionwas logged bed by bed and samples for carbon, oxygen and strontium isotope compositions (δ13Ccarb, δ18Ocarb, 87Sr/86Sr) of bulk micrite, bulk organic carbon isotope (δ13Corg) and composition of organic matter (Rock-Eval and palynofacies) were collected."
+  }, {
+    "heading": "3.1. Carbonate carbon and oxygen stable isotope analyses",
+    "text": "A total of 116 unweathered samples (21 fromUnit A, 58 fromUnit B, 11 from Unit C, and 26 from Unit D) (Supplementary material S1) for δ13Ccarb and δ18Ocarbmeasurements of bulkmicritewere collected. Samples were carefully cleaned, cut, and drilled to produce a fine powder. Diagenetic calcite veins, cracks, stylolites, and large skeletal particles were excluded.\nAdditionally, a total of 126 ultrahigh-resolution samples (Supplementary material S2) were also collected from OM-poor, shallowmarine limestone beds bracketing ash layers of Unit A in Mapojiao B section (Supplementary materials S3, S4), and from OM-rich, deep-\nmarine limestone beds adjacent to the ash layers of Unit B in Mapojiao main section, (Supplementary materials S5, S6, S7).\nThe C- and O-isotope composition of the carbonates were measured with aGasBench II linked to aDeltaPlusXLmass spectrometer (ThermoFisher Scientific) according to a method adapted after Spötl and Vennemann (2003). Carbonates were reacted at 70 °Cwith 100% orthophosphoric acid and the extracted CO2 calibrated against a number of in-house Carrara Marble (CM) replicates for acid fractionation and normalization of the δ13C and δ18O values expressed at the permil scale. The CM standard was, in turn, calibrated against δ13C and δ18O values of NBS-19 (+1.95 and−2.20‰, relative to VPDB). Average reproducibility of about 8 CM's analysed in each run of 40 samples is better than 0.06‰ for δ13C and 0.08‰ for δ18O values."
+  }, {
+    "heading": "3.2. Organic carbon stable isotope analyses",
+    "text": "In order to measure the bulk organic carbon isotope composition (δ13Corg), 88 samples (17 Unit A, 54 Unit B, 0 Unit C, and 17 Unit D) (Supplementary material S1) were pulverized to b100 μm using a puckmill. About 5 g of powdered samples were dissolved in 6M hydrochloric acid to remove all carbonates. After centrifuging, residues were rinsed with deionized water and centrifuged until neutrality was reached. The residues were dried over night at 45 °C and δ13Corg values of the homogenized residues were measured using a Carlo Erba 1500\nelemental analyser connected to a ThermoFisher Delta V Plus mass spectrometer. The samples were individually wrapped in tin foil cups and sequentially allowed to react with an injected quantity of oxygen while continuously flushed with He carrier gas. The sample was oxidized in the reactor at about 1050 °C using cobalt(II) oxide as the catalyst. Excess oxygen in the He-stream was adsorbed in a reactor column filledwithmetallic Cu held at 500 °C. The CO2 producedwas passed over a magnesium perchlorate (Mg[ClO4]2) trap to remove H2O and a gas chromatograph to separate the N2 from the CO2, before the CO2 is carried by the He-stream into the mass spectrometer for isotopic analysis. The reproducibility of several in-house standards used is better than 0.1‰ and calibrated against USGS-24 graphite (−16.0‰ VPDB) and NBS-22 oil (−29.6‰ VPDB)."
+  }, {
+    "heading": "3.3. Rock-Eval analyses and palynofacies",
+    "text": "The quantification and characterization of the organic matter of 39 samples (5 from Unit, 22 from Unit B, 0 from Unit C, and 12 from Unit D) (Supplementary material S1) were performed on powdered whole rock using a Rock-Eval 6 following the method described by Espitalié et al. (1985, 1986) and Behar et al. (2001). The IFP 160000 standard was used to calibrate the measurements. The measured values include total organic carbon (TOC), the Hydrogen Index (HI as mg HC/g TOC), and the Oxygen Index (OI as mg CO2/g TOC), which permit an overall characterization of the sedimentary organic matter (OM). The HI and OI indices are proportional to the H/C and O/C ratios of the organic matter, respectively, and can be used for OM classification in Van-Krevelentype diagrams (Espitalié et al., 1985, 1986).\nIn order to gain a better understanding of the terrestrial and marine fraction of OM in each unit, 8 samples were selected and treated with hydrochloric and hydrofluoric acid following the standard techniques of Traverse (2007). The residues were sieved with a 15 μmmesh screen and mounted on slides for analysis of the particulate organic matter\n(POM or kerogen). The POM has been divided into terrestrial and marine OM fractions. The terrestrial POM includes mainly translucent and opaquewoody particles and rare spores and pollen. Themarine POM includes a main fraction of amorphous organic matter (AOM) and a smaller fraction of acritarchs and foraminiferal test linings."
+  }, {
+    "heading": "3.4. Strontium isotope compositions (87Sr/86Sr)",
+    "text": "A total of 14 bulk rock samples (5 from Unit A, 6 from Unit B, 0 from Unit C, and 3 from Unit D) (Supplementary material S1) were carefully cleaned, cut, and drilled to produce a fine powder. Diagenetic calcite veins, cracks, stylolites, and large skeletal particles were excluded.\nA fewmg of the powdered carbonatematerialwas dissolved in 2.2M high purity acetic acid during 1 to 2 h at room temperature in conical shaped 2 ml vials. The solutions were centrifuged and the supernatant was recovered and transferred to Teflon vials, where it was dried down on a hot plate. The residue was redissolved in a few drops of 14 MHNO3 and dried down again, before Sr separation from thematrix using a Sr-Spec resin. The Sr separate was redissolved in 5 ml of ~2% HNO3 solutions and ratios were measured using a Thermo Neptune PLUS Multi-Collector ICP-MS in static mode. The 88Sr/86Sr (8.375209) ratiowas used tomonitor internal fractionation during the run. Interferences at masses 84 (84Kr), 86 (86Kr) and 87 (87Rb) were also corrected in-run by monitoring 83Kr and 85Rb. The SRM987 standard was used to check external reproducibility, which on the long-term (more than 100 measurements during one year) was 10 ppm (1σ). The internally corrected 87Sr/86Sr values were further corrected for external fractionation (due to a systematic difference between measured and a nominal standard ratio of the SRM987 of 87Sr/86Sr = 0.710248: McArthur et al., 2001) by a value of −0.039‰ per amu. The 2-sigma analytical uncertainties of Sr isotope measurements range between 0.000006 and 0.000028 (see Fig. 4)."
+  }, {
+    "heading": "4. Results",
+    "text": ""
+  }, {
+    "heading": "4.1. Carbon and oxygen isotope composition of carbonates",
+    "text": "The δ13Ccarb profile shows a plateau of high values at around 5‰ (ranging 4.5 to 5.5‰) for the shallow-marine bioclastic limestone of Unit A (Fig. 4). The stability of the C isotope profile in this unit is confirmed by the ultrahigh-resolution record around the ash layers found in the auxiliary section Mapojiao B (Supplementary materials S3, S4).\nThe δ18Ocarb values in Unit A have a range between −3 and −7‰ and tend to covary with δ13Ccarb (Fig. 5).\nAbove this interval, δ13Ccarb values are lower by 1–1.5‰ from 5‰ to 3.5–4‰ in the dark-grey limestoneof Subunit B1 (Fig. 4). The upper part of this excursion toward lower values is marked by two low-δ13Ccarb peaks down to 0.8‰ and 0.6‰ just above two ash layers (801 T and 802 T). The ultrahigh-resolution carbon isotope records around these ash layers are given in Supplementary material S5. They show 2‰ and 1‰ CIEs toward lower values below and above the upper ash layer (801 T), respectively.\nThe δ18Ocarb values of Subunit B1 have a range between −4 and − 8‰ and do not show any covariation with δ13Ccarb (Fig. 5). However, a correlation between δ18Ocarb and δ13Ccarb values around the upper ash layer (801 T) in this subunit is noted (Supplementary material S5).\nIn the basal 7 m of Subunit B2, δ13Ccarb values are homogeneous around 4‰ and gradually decrease to values between 2.5 and 3‰ in the upper part of this subunit. Within the upper part, fluctuations are of higher amplitude than in the lower part of Subunit B2. Three horizons with values as low as 1‰ are measured in Subunit B2. Two of these three peaks are in beds immediately overlying ash layers (800 T and 808 T) (Fig. 4). The ultrahigh-resolution δ13Ccarb data around the lower ash layer (800 T, Supplementarymaterial S6) have a 2.5‰ CIE toward lower values immediately below the ash layer 800 T and a shift toward higher values just above it. The δ13Ccarb record around the upper ash layer (808 T, Supplementary material S7) shows a decrease in δ13Ccarb of 1‰ below and of 2.5‰ above the ash layer.\nFig. 5. Comparing δ13Ccarb and δ18Ocarb and δ13Ccarb profile\nThe δ18Ocarb values of Subunit B2 vary between−3 and−8‰ and do not show any covariationwith δ13Ccarb (Fig. 5). Here again, a correlation between δ18Ocarb and δ13Ccarb is observed around the ash layers in this subunit (Supplementary material S6, S7).\nThe absence of carbonate rocks in Unit C generates the gap in the δ13Ccarb record.\nAt the base of Unit D, δ13Ccarb values have a minimum value of 2‰ that returns to values of 4‰ in the next overlying layers. Within Unit D, one bedwith a sharp decrease of 1‰ is recorded inUnit D, but no preserved ash layer could be observed near this peak.\nThe δ18Ocarb values in this unit have a range between−6 and−10‰ and show a covariation with δ13Ccarb (Fig. 5).\nThe overall changes of δ13Ccarb values document a plateau of high values (ca. 5‰) in Unit A followed by a 3.5–4‰ decrease starting at the base of Unit B and a 2‰ increase again in Unit D. This general trend is interrupted by outliers toward lower values reaching ca. 1‰. Most of these are associated with ash layers intercalated within OMrich limestone. These outliers may result from the diagenetic alteration of δ13Ccarb values (remineralization of OM) in higher TOC limestone adjacent to volcanic ashes. The δ18Ocarb values have a range between −3 and −10‰ and do not show covariation with the δ13Ccarb in Units A and B, although a covariation is detected in Unit D."
+  }, {
+    "heading": "4.2. Carbon isotope compositions of organic matter",
+    "text": "Unit A is characterized by δ13Corg values ranging from −25 to − 28.5‰ with a median value of −26.4‰ and major fluctuations of up to 3.5‰ (Fig. 4).\nIn Subunit B1, the amplitude of the fluctuations decreases and the values have a range between −25 and−26‰, with a median value of −25.4‰. These stable values extend to the lower 15 m of Subunit B2, with a median value of 25.6‰. Subsequently, the upper part of Subunit B2 is marked by a rapid 1‰ change toward higher δ13Corg values with a maximum of −24.5‰ (median: −24.7‰).\nafter removing samples with δ18Ocarb values b−7‰.\nIn Unit D, above the volcanogenic silt and sandstones of Unit C, the δ13Corg profile displays a 1‰ decrease and again the values have a range between −25 and−26‰ (median value: −25.7‰).\nThe overall change in the δ13Corg profile has a 2‰ increase in δ13Corg shift in Units A and B, followed by a 1‰ shift to lower values again in Unit D. Moreover the variation in the range of the values decreases from shallow-marine, light-grey limestones of Unit A to basinal and organic-rich limestones of Unit B (Fig. 4)."
+  }, {
+    "heading": "4.3. Rock-Eval pyrolysis and palynofacies",
+    "text": "In Unit A, TOC values of bulk rock samples are low. At the base of Subunit B1 they start increasing and reach a maximum of 1% at the top of Subunit B2, although a decrease back to 0.3% is recorded in the lower part of Subunit B2. The base of Unit D is characterized by a return to low TOC values (Fig. 4).\nIn Unit A, HI values range from 230 to 305 mg HC/g TOC and decrease in Unit B where the values are ranging from 25 to 198 mg HC/g TOC. Subunits B1 and B2 show a minor decreasing trend. HI values remain low (varying from 39 to 84 mg HC/g TOC) in the basal part of Unit D. In the upper part of Unit D, the low TOC content did not allow to measure the HI index values.\nOI values in Unit A have a range from 410 to 263 mg HC/g TOC and decrease throughout Unit B, where they range from 16 to 372 mg HC/g TOC. At the base of Unit D, OI values increase but very low TOC does not allow the measurement of the OI values in the upper part of this unit.\nBased on palynofacies observations, Unit A is dominated by marine POM (Fig. 6a). In Unit B, marine POM decreases and terrestrial POM increases progressively. In Subunit B1, each fraction constitutes about half of the POM(Fig. 6b) and subsequently, poorly preserved terrestrial POM reaches a maximum of 80% and marine POM a decrease to 20% in Subunit B2 (Fig. 6c).Marine POMagain becomesdominant in lowTOC limestones of Unit D (Fig. 6d). The boundary between Unit A and B is characterized by a significant input of terrestrial POM, whose dominance progressively increases up-section, until the end of unit B.\nIn general, the change in δ13Corg toward higher values is associated with an input of terrestrial POM, increasing TOC values, and decreasing HI and OI values."
+  }, {
+    "heading": "4.4. Strontium isotope compositions (87Sr/86Sr)",
+    "text": "87Sr/86Sr values have a range from 0.70738 to 0.70694 throughout the Mapojiao section. Unit A is characterized by fluctuation in 87Sr/86Sr around 0.7071 and a minor positive excursion (from 0.70700 to 0.70715) in the upper half of this unit (Fig. 4). The overlying Unit B (Subunits B1 and lower half of Subunit B2) have much lower values, from 0.70714 to the minimum of 0.70694 in the middle of Subunit B2. Subsequently, this change is followed by ratios that reach a maximum of 0.70738 in Unit D. The overall changes in 87Sr/86Sr indicate a change to low ratios in Unit B, which is followed by an excursion in the upper part of Subunit B2 and Unit D toward higher ratios."
+  }, {
+    "heading": "5. Discussion",
+    "text": ""
+  }, {
+    "heading": "5.1. Comparison of δ13Ccarb records across G-L interval",
+    "text": "Comparison of C isotope records across G-L interval indicates that the magnitude and biostratigraphic age of the supposed global CIE toward lower values at the G-L boundary is highly variable between different sections in South China and elsewhere, as already stressed by Jost et al. (2014). In the Chaotian section, the oldest CIE toward lower values has a magnitude of 7‰ in δ13Ccarb, started in the Jinogondolella postserrata – Jinogondolella shannoni IZ (early Capitanian) and ended at the inferred G-L boundary (Saitoh et al., 2013b). The Xiongjiachang section documents a younger CIE with a magnitude of 7‰ from the Jinogondolella altudaensis IZ (mid-Capitanian) up to the Jinogondolella xuanhanensis IZ (Bond et al., 2010b; Wignall et al., 2009). Intriguingly, the entire Capitanian stage represents a plateau of heavy values (around 4‰) at the Penglaitan section, and only aminor excursion toward lower values (ca. 1‰) is recorded in earliest Wuchiapingian (Jost et al., 2014; Wang et al., 2004). At the nearby Tieqiao section, however, a CIE toward\nated palynofacies fromUnit A. b, Palynofacies with equal amount of terrestrial andmarine minated palynofacies from Unit D.\nlower values with a magnitude of 6.5‰ in the earliest Wuchiapingian has been documented (Yan et al., 2013). Finally, the Mapojiao section represents a distinct, stratigraphically younger excursionwith a magnitude of 3.5 to 4‰ toward lower values. It starts in the Clarkina guangyuanensis IZ and ends in the Clarkina transcaucasica IZ. Unpredictably, contemporaneous intervals in Shangsi and Dukou sections are characterized by homogeneous high values (Shen et al., 2013). The temporal and geographic distribution of C isotope excursions during G-L interval indicates that different processeswere operating compared to the end-Permian, where a significant and synchronous global excursion toward lower δ13Ccarb values is recorded in numerous sections (e.g. Korte and Kozur, 2010).\nThe sedimentology indicates that the Capitanian (Chaotian and Xiongjiachang sections) and early Wuchiapingian (Tieqiao and Mapojiao sections) CIEs toward lower values were all recorded in deep-marine, organic-rich radiolarian-spiculitic rocks. However, in the Gouchang section (W. Guizhou), a significant (7‰) CIE toward lower values within shallow-water carbonates bracketed between basaltic flows has been argued to be associated with the mid-Capitanian “mass” extinction. This CIE has been correlated, without independent paleontological age control, with CIEs toward lower values documented in Chaotian and Xiongjiachang with the assumption that it represents a global signal across different types of depositional environments (Wignall et al., 2009). The disparity of CIEs in time and space makes δ13C curves a misleading tool for correlations in the CapitanianWuchiapingian time interval. The local association of CIEs toward lower values with distinctive drowning episodes (clusters 1 to 3 of Bagherpour et al., 2017; in review) during this interval suggests the influence of local factors, rather than global changes in the carbon cycle."
+  }, {
+    "heading": "5.2. Mechanisms for the excursions toward lower δ13Ccarb values",
+    "text": "ELIP volcanic activities have been the most commonly invoked causal mechanism among different hypotheses for C isotope excursions in the G-L interval (e.g. Ganino and Arndt, 2009; Wignall et al., 2009; Bond et al., 2010b; Chen et al., 2011). According to Wignall et al. (2009) and Ganino and Arndt (2009), the amplitude of the Capitanian excursion toward lower values is too large to be solely attributed to volcanic CO2, and release of thermogenic C from contact metamorphism has been called upon. These authors suggested that carbon release from heating of dolomite (δ13C = 0‰) and metamorphic release of CO2 from organic carbon (δ13C = −22‰) due to the emplacement of the ELIP resulted in the large change in δ13Ccarb during the endGuadalupian. Retallack and Jahren (2008) proposed that a voluminous release of isotopically light methane from the contact metamorphism of the ELIP resulted in an excursion toward lower values at the base of Wuchiapingian. However, Saitoh et al. (2013b) argued that the early Capitanian change toward lower values at the Chaotian started two conodont zones earlier than the onset of the ELIP (during the Jinogondolella altudaensis IZ), which excludes the input of associated volcanic CO2 gas. These authors rather suggested that “the input of inorganic carbon of low δ13C values by upwelling of the oxygen-depleted waters” caused this shift toward lower values. Alternatively, the lack of any covariation between δ13C and δ44/40Ca records from Chaotian and Penglaitan, as would be expected in case of massive volcanic CO2 or methane clathrate destabilization, led Jost et al. (2014) to relate the perturbation in C isotope across the G-L interval to “local burial conditions or diagenetic effects”, withwhich our interpretation is compatible.\nComparison of the excursions in C-isotope compositions toward lower values with concomitant facies changesmay contribute to distinguish the plausible driving mechanism for C isotope perturbations during this interval. According to Sun et al. (2010), the middle Capitanian facies change (e.g., at Chaotian and Xiongjiachang) from shallowmarine limestone of theMaokou Fm. to radiolarian-spiculitic facies represents an ELIP-related drowning and volcanic event. Later occurrences of the same type of events again at the G-L boundary (Maoershan and\nDukou) and early Wuchiapingian (Mapojiao) support a repetition of the same sedimentary processes associated with similar changes in isotopic composition. Despite the lack of high-resolution C-isotope data from Maoershan and Dukou, coincidence of excursions toward lower values and ELIP-related drowning events is well exemplified from Chaotian (Saitoh et al., 2013b) and Xingjiachang (Wignall et al., 2009) (first cluster of drowning events) andMapojiao (third and youngest cluster of drowning events). The lack of lateral reproducibility of theses CIEs in South China and elsewhere undermines any global perturbation in the carbon budget. Hence, the association of CIEs and ELIP-related drowning events indicates the influence of local conditions such as bathymetry and increased burial of terrestrial organic matter on C-isotope values."
+  }, {
+    "heading": "5.3. Diagenetic alteration of δ13Ccarb",
+    "text": "Lowering of the δ13Ccarb values can result from global changes in the carbon cycle, regional isotopic variation of seawater, or from diagenetic alteration. In comparison to δ13Ccarb, δ18Ocarb values are more prone to diagenetic alternation (e.g. Given and Lohmann, 1985; Weissert et al., 2008) and covariation of δ13Ccarb and δ18Ocarb may indicate a diagenetic alteration of both values (e.g. Brand and Veizer, 1981). However, correlation between δ13Ccarb and δ18Ocarb does not systematically imply diagenetic alteration (Marshall, 1992; Ullmann and Korte, 2015; Schobben et al., 2016). Moreover, based on the fact that limestone with δ18Ocarb values lower than −7‰ imply precipitation at N45 °C for 0‰ seawater (Hays andGrossman, 1991), Jost et al. (2014) convincingly argued that samples with δ18Ocarb lower than−7‰ also indicate diagenetic alteration.\nComparison of δ13Ccarb and δ18Ocarb records from theMapojiao main section (Fig. 5) only shows a covariation in Unit D. Moreover, after removing samples whose δ18Ocarb values b−7‰, the first order trend of δ13Ccarb recorded in Unit A and Unit B does not change but the positive shift andmost of the samples of Unit D disappeared (Fig. 5). Two points in the upper most part of Unit D with relatively high δ13Ccarb values (4‰) remain after this filtering and support that these shifts toward high values can be interpreted as primary. Petrographic analysis (at the thin section scale) of samples from the Mapojiao section did not show any diagenetic microfacies (e.g., dolomitization) accompanying the change toward lower values in Unit B. However, silicification in the lower part of Unit D is reported by Bagherpour et al. (in review), which may have been accompanied by diagenetic alteration of δ13Ccarb values in this interval.\nFollowing the same approach for assessing diagenetic alteration, the change toward lower values in Tieqiao disappears, but that of Chaotian does remain (Jost et al., 2014). Unfortunately, δ18Ocarb data from Xiongjiachang are not available for assessing diagenetic alteration.\nThe ultrahigh-resolution δ13Ccarb records from limestone beds bracketing the ash layers show substantial excursions toward lower values in the organic-rich limestone of Unit B, whereas limestone beds adjacent to ash layers in the organic-poor limestone of Unit A (from Mapojiao B) do not display any change toward lower values. The excursions toward lower values around the ash layers are characterized by δ18Ocarb values b−7‰, thus indicating the influence of diagenetic alteration apparently fostered by the presence of high TOC values (Supplementary materials S5, S6, S7). Moreover, the strong positive correlation between δ18Ocarb and δ13Ccarb around the ash layers also supports remineralization of OM for these negative outliers. However, detailed diagenetic processes that led to the alteration of the δ13Ccarb signal of OM-rich limestone adjacent to ash layers are unknown."
+  }, {
+    "heading": "5.4. Organic geochemistry and palynofacies",
+    "text": "Paired organic and inorganic C isotope records provide a potential tool to assess the variation in Dissolved Inorganic Carbon (DIC) pool. Covariation between δ13Corg and δ13Ccarb is expected when the changes in δ13Ccarb indicate variation in the past DIC (Oehlert and Swart, 2014 and\nreferences therein). Therefore, comparing both C isotope records from the same section is of special interest for discriminating primary changes in seawater DIC from a possible diagenetic overprint. However, special care should be taken for the interpretation of excursions in δ13Corg, because these values are highly dependent on the composition of organic matter and environmental condition during plant growth (e.g. Jahren et al., 2008). For instance, during the late Permian the isotopic composition of terrestrial OMwas heavier (13C enriched) in comparison with marine OM, a reverse situation in comparison to modern OM (Arthur et al., 1985).\nPaired δ13Corg and δ13Ccarb analysis at Mapojiao reveals an opposite trend throughout the section (Fig. 4). Cross-plot of δ13Corg versus δ13Ccarb also shows a negative correlation (r = −0.3520 and r2 = 0.1304) for Units A-D at Mapojiao (Fig. 7a). This negative correlation might indicate a diagenetic alteration and/or changes in the respective contribution of the terrestrial and marine pools of organic carbon. Hence, before utilizing the δ13Corg as a correlation tool or before assuming variations in DIC, the composition of OM must be first determined.\nThe HI/OI cross-plot shows that samples from limestones of Unit A fall into the type-II kerogen field (Fig. 7b), which indicates (relatively\n, and the kerogen typesfields as defined inTyson (1995). c, S2 and TOC cross-plot (Langford\nhydrogen-rich) autochthonousmarine origin of OM. Samples from Subunits B1 and B2 are characterized by lower HI and OI values and correspond to type-III kerogen (Fig. 7b), indicating that the OM is essentially derived from terrestrial plants (Tissot and Welte, 1984). The S2/TOC cross-plot shows a linear relationship between the two factors and also indicates type II and type III kerogen for samples from Unit A and Unit B, respectively (Fig. 7c). Moreover, both diagrams show that the dominance of kerogen type III progressively increase from Subunit B1 to Subunit B2. In addition, the OI/TOC and HI/TOC cross-plots (Fig. 7d, e) show a negative logarithmic relation; the higher TOC values being associated with lower OI and HI (terrestrial origin) values and vice versa. The most δ13Corg positive values are also associated with the highest TOC values (Fig. 7f) and therefore, with the presence of type III kerogen of terrestrial origin. Hence, Rock-Eval parameters indicate a substantial input of terrestrial OM concomitant with lithological change from shallow-marine limestone to deep marine and organic-rich limestone, thus explaining the positive trend of the δ13Corg curve.\nPalynofacies analyses also confirm the substantial change from marine dominated OM of Unit A (Fig. 6a) to terrestrial dominated OM in Unit B, where the TOC and contribution of terrestrial OM progressively increase upward in this unit (Fig. 6b, c). In Unit D,marineOMdominates POM assemblages again (Fig. 6d).\nStudies of the Permian-Triassic interval from Norway and Australia indicate that the primary isotopic value of terrestrial OM varies around −22 to −23‰ and marine OM around −31 to −32‰ (Thomas et al., 2004; Hermann et al., 2010). Therefore, given differences in the isotopic composition of marine and terrestrial end-members, one of the most important factors which can bias the δ13Corg is the mixing of two different pools of organic carbon (Hermann et al., 2011). Moreover, several studies show that diagenesis has a minor (about 1‰) effect on the variation of the δ13Corg (e.g., Freudenthal et al., 2001; Meyers et al., 1995). Thermal maturity of organic matter is also considered to shift the δ13Corg record toward heavier values (Hayes et al., 1999), but this process would not alter the overall trend of the isotopic record (Des Marais et al., 1992). Hence, we conclude that the decoupling of δ13Corg and δ13Ccarb values is in better agreement with the mixing of different pools of organic carbon than with the influence of diagenetic alteration.\nComparison of the δ13Corg record of the Chaotian section (Saitoh et al., 2014) with Mapojiao indicates that the similarity between these two events of different age also extends to the δ13Corg record. Chaotian shows a positive shift in δ13Corg in the OM-rich, radiolarian-spiculitic facies associated with a shift toward lower values in δ13Ccarb. Unfortunately, composition of the bulk OM from Chaotian is not available for further comparison. Nevertheless, the δ13Corg record indicates another similarity between the episodic drowning events that occurred during the G-L interval."
+  }, {
+    "heading": "5.5. Strontium and carbonate carbon isotopic records",
+    "text": "The strontium isotopic composition (87Sr/86Sr) ofmarine carbonates provides valuable information about relative importance of the sources contributing Sr to the seawater. Seawater 87Sr/86Sr is determined by the relative influence of radiogenic 87Sr from the continental crust (riverine flux) compared to that from the Earth's mantle (hydrothermal or other mafic igneous sources of the oceanic crust) (Palmer and Edmond, 1989; Taylor and Lasaga, 1999). Hence, changes in the 87Sr/86Sr record indicate relative variations in the riverine and hydrothermal oceanic crustal sources of strontium (Veizer and Compston, 1974; Palmer and Edmond, 1989; Veizer, 1989; Martin and Macdougall, 1995; Veizer et al., 1999). In general, an increasing 87Sr/86Sr indicates relative increase of continental weathering, and a decreasing trend indicates higher contribution of volcanogenic, ocean-crust derived Sr (Bralower et al., 1997).\nThe lowest 87Sr/86Sr ratio (ca. 0.7068) in the Phanerozoic is recorded during the Capitanian stage (Veizer et al., 1999;McArthur andHowarth, 2004; Kani et al., 2013). This is followed by a steepening increase from\nthe latest Guadalupian toward the Early Triassic, reaching a value of 0.7082 at the end of the Early Triassic (Korte et al., 2003; Kani et al., 2013; Korte and Ullmann, 2016). This protracted increase in 87Sr/86Sr indicates input of a large amount of terrigenousmaterial enriched in radiogenic Sr from Pangea into Panthalassa (Kani et al., 2008), and/or cessation of widespread basaltic activity in the entire Paleotethys (Korte et al., 2006). However, other causal links such as changes in “global tectonic, sea-level, climate, weathering rate, and diagenetic processes” for the late Permian 87Sr/86Sr rise have also been proposed (Kani et al., 2013 and references therein).\nThe Sr-isotope profile from the Mapojiao section provides a useful tool to assess the enhanced hydrothermal flux of volcanic origin concomitant with the Mapojiao Event. The high resolution 87Sr/86Sr record at Mapojiao represents an interval of a decrease in 87Sr/86Sr from 0.70715 to 0.70694 corresponding to organic-rich, thin-bedded limestone of Unit B. This transient decreasing trend intercalated within a longer increasing trend is compatible with a short pulse of ELIPrelated volcanic activity. In addition to enhanced hydrothermal flux, riverine input from weathered less-radiogenic basalts from the ELIP may also contribute to decrease of 87Sr/86Sr. According to Jones and Jenkyns (2001), the most likely mechanism to lower the average of riverine 87Sr/86Sr is to expose low 87Sr/86Sr volcanic rocks such as continental flood basalts to surface alteration or formation of new volcanic arcs. Basalts are of particular importance in this case, because they are easily weathered compared to more siliceous rocks and, hence, they are more likely to release Sr (Bluth and Kump, 1994; Taylor and Lasaga, 1999). Interestingly, the reported initial Sr isotopic ratios of basalts from the outer zone are lower than 0.7069 (ranging from 0.7048 to 0.7069, see Fan et al., 2008; Zi et al., 2010; Lai et al., 2012). Such values are in the appropriate range to shift the 87Sr/86Sr record from0.70715 to 0.70694 inMapojiao. Therefore, bothmechanisms - inputs of less radiogenic Sr from volcanism and lowering the average of riverine 87Sr/86Sr (erosion of ELIP) - may have contributed to lowering the Sr-isotope ratio inMapojiao.Whether this decrease of 87Sr/86Sr atMapojiao is triggered by increased hydrothermal flux from the oceanic ridges or by other sources such as ELIP cannot be assessed directly. However, the Mapojiao short-term excursion in the 87Sr/86Sr ratio is in better agreement with Emeishan volcanism rather than with an increased hydrothermal flux from mid-oceanic ridges. Moreover, explaining the excursion toward lower values in the 87Sr/86Sr record at Mapojiao with ELIP activity can be supported by other indications of volcanism, such as a climate warming during this time (Chen et al., 2011). In addition to the taxonomic composition of conodont assemblages that indicates a warming trend during the Wuchiapingian (Mei et al., 2002), the conodont apatite δ18O record from the Tieqiao section provides a potential temperature proxy. The Tieqiao section indicates two warming episodes during the G-L transition. The first episode occurred in the Capitanian (Jinogondolella xuanhanensis IZ to Jinogondolella granti IZ) and has been related to thewidespread eruption of the ELIP. The second warming episode occurred in the Clarkina leveni to Clarkina liangshanensis IZs in the base of the Heshan Fm. (lateral equivalent of Wuchiaping Fm.) (Chen et al., 2011). The commonly used Clarkina liangshanensis IZ (Wang and Wang, 1981) in South China partly overlaps with Clarkina guangyuanensis, Clarkina transcaucasica, and lower part of the Clarkina orientalis IZs (Fig. 1) (Shen et al., 2010). Hence, the biostratigraphic position of the second warming episode at Tieqiao perfectly overlaps in time with the interval of the excursion toward lower 87Sr/86Sr values at Mapojiao and their coexistence support a concomitant ELIP-related volcanic activity.\nThe termination age of Emeishan flood basalts is established in Binchuan section (Yunnan Province, inner zone) with an age of 259.1 ± 0.5 Ma (Shellnutt et al., 2012; Zhong et al., 2014). Pending highprecision radiometric dating of theMapojiao Event, our biostratigraphic data already indicates extension of ELIP volcanism into the Wuchiapingian. The Wuchiapingian age (257.6 ± 0.5 Ma) of ELIP plutonism and dyking is also known from Panxi region (Sichuan\nProvince, inner zone) (Shellnutt et al., 2012). However, any further explicit correlation between Mapojiao Event and known Wuchiapingian ELIP activity must await confirmation by high precision U-Pb ages. In addition, a recent study indicates a genetic link between ELIP basalts and the so-called “Wangpo Shale” in Shaanxi Province (Shao et al., in press). The “Wangpo Shale” in this area is actually a bentonite bed in the lowerWuchiaping Formation that overlies a succession of limestone beds containing typical Wuchiapingian conodont Clarkina liangshanensis and C. assymetrica (ca. 35 m above the GLB). This also provides strong evidence of ELIP volcanism in the early Wuchiapingian (Yuan Dongxun, pers. commun.)."
+  }, {
+    "heading": "5.6. Remarks on the δ18Ophosphate record from South China",
+    "text": "In South China, the δ18Ophosphate composite record measured from conodonts documents a period of low, homogeneous values during the end-Capitanian to Wuchiapingian time interval, with two superimposed short excursions toward even lower values of late Capitanian and early Wuchiapingian ages, respectively (Chen et al., 2013). How robust these two short term excursions are remains to be established bydocumenting them from single sectionswith appropriate paleontological age control. The composite section with substantial gaps in their δ18Ophosphate records combined with the application of a runningmeanmay result in unreliable peaks. The late Capitanian excursion has nevertheless been assigned to ELIP volcanic activity, while the origin of the second excursion has not been addressed (Chen et al., 2013). It is worth noting here that this second short excursion overlaps in age with the Mapojiao Event, but any direct or indirect linkage with the δ18Ophosphate recordwould first require a better resolved time series, as stressed above. Chen et al. (2013) could not discriminate between a temperature change, sea-level changes and conodont habitats to explain these changes in δ18Ophosphate. In addition, local pH changes related to ELIP eruptions may also have contributed to fluctuations and noise in the δ18Ophosphate time series."
+  }, {
+    "heading": "6. Conclusions",
+    "text": "The Mapojiao Event is a newly recognized drowning and volcanic event during the early Wuchiapingian in S. Guizhou (Pingtang Syncline). This event resulted in regional progressive drowning of the carbonate platforms and deposition of organic-rich, radiolarian-spiculitic facies ending with the intercalation of volcanogenic turbidites. The absence of synsedimentary breccias indirectly argue in favor offlexuration rather than block faulting for this accelerated regional subsidence phase. During this event, δ13Ccarb data show a 3.5–4‰ excursion toward lower values, but the δ13Corg record does not show any covariation. Rock-Eval and palynofacies analyses support increased inputs of terrestrial OM as the cause for increased burial of OM that shifts the primary (marine OM dominated) δ13Corg signal toward heavier values. The terrestrial origin of the OM buried during the Mapojiao Event excludes the presence of upwelling as a driver for increased marine bioproductivity. Strontium isotope compositions indicate an excursion to lower ratios, concomitant with the shift in the δ13Ccarb record, which suggests an enhanced hydrothermal flux from mafic sources such as ELIP.Weathering of basalts from ELIPmay have also contributed to lower the 87Sr/86Sr ratios. Comparison of the C isotope record of the Mapojiao Event to other contemporaneous records from South China and Iran indicates that this excursion represents only a regional perturbation and not a global phenomenon. Comparing the Mapojiao Event with the Capitanian CIEs toward lower values (at Chaotian and Xiongjiachang) reveals the iteration of the same CIE associated with ELIP-related drownings. As a consequence, it is proposed that these CIEs are controlled by local environmental factors such as bathymetry and increased burial rate of organic matter. Unlike the Capitanian, which is characterized by either gradual or abrupt decreasingmarine diversity, theWuchiapingian stage represents an interval of recovery and\nradiation (Chen et al., 2005; Shen and Shi, 2009; Brayard et al., 2009; Villier and Korn, 2004) and the Mapojiao Event does not coincide in time with any noticeable extinction. In a broader perspective, the extended duration of ELIP volcanic pulses may better compare with that of other LIPs (Wei et al., 2014; Percival et al., 2017). But themainly submarine volcanic eruptions and the comparatively smaller size of the equatorial ELIP are in agreement with the moderate impact it had in terms of environmental perturbations and extinctions, both during the initial eruptive phase and during subsequent pulses.\nSupplementary data to this article can be found online at https://doi. org/10.1016/j.gr.2018.01.011."
+  }, {
+    "heading": "Acknowledgments",
+    "text": "This work is supported by the SNSF projects 135446 and 160055 (to H.B.). SSZ's work is supported by NSFC project 41420104003. Constructive reviews by Gregory Shellnutt, an anonymous reviewer, and editor Shoujie Liu are deeply appreciated. Jean-Pierre Burg is thanked for stimulating discussions on the tectonic interpretations of the sedimentary signal. The assistance of Chao Zhang and Marc Leu in the field is deeply appreciated. Thierry Adatte (University of Lausanne) is greatly thanked for processing the Rock-Eval samples.\nReferences\nwww.scotese.com. Ali, J.R., Thompson, G.M., Song, X.Y., Wang, Y.L., 2002. Emeishan basalts (SW China) and\nthe ‘end-Guadalupian’ crisis: magnetobiostratigraphic constraints. Journal of the Geological Society of London 159, 21–29. Arthur, M.A., Dean, W.E., Claypool, G.E., 1985. Anomalous 13C enrichment in modern marine organic carbon. Nature 315, 216–218. Bagherpour, B., Bucher, H., Yuan, D.X., Shen, S.Z., Leu, M., Zhang, C., 2017. Did volcanic activity of the Emeishan large igneous province expand in Wuchiapingian times? EGU General Assembly Conference Abstracts. Vol. 19, p. 2057 Bagherpour, B., Bucher, H., Yuan, D.X., Leu, M., Zhang, C., Shen, S.Z., 2018. Early Wuchiapingian (Lopingian, Late Permian) drowning event in the South China Block related to a late eruptive phase of Emeishan Large Igneous Province? Global and Planetary Change (in review). Behar, F., Beaumont, V., Penteado, H.L.D., 2001. Rock-Eval 6 technology: performances and developments. Oil & Gas Science and Technology 56, 111–134. Bluth, G.J.S., Kump, L.R., 1994. Lithologic and climatologic controls of river chemistry. Geochimica et Cosmochimica Acta 58, 2341–2359. Bond, D.P.G., Hilton, J., Wignall, P.B., Ali, J.R., Stevens, L.G., Sun, Y.D., Lai, X.L., 2010a. The Middle Permian (Capitanian) mass extinction on land and in the oceans. EarthScience Reviews 102, 100–116. Bond, D.P.G., Wignall, P.B., Wang, W., Izon, G., Jiang, H.S., Lai, X.L., Sun, Y.D., Newton, R.J., Shao, L.Y., Védrine, S., Cope, H., 2010b. The mid-Capitanian (Middle Permian) mass extinction and carbon isotope record of South China. Palaeogeography, Palaeoclimatology, Palaeoecology 292, 282–294. Bralower, T.J., Fullagar, P.D., Paull, C.K., Dwyer, G.S., Leckie, R.M., 1997. Mid-Cretaceous strontium-isotope stratigraphy of deep-sea sections. Geological Society of America Bulletin 109, 1421–1442. Brand, U., Veizer, J., 1981. Chemical diagenesis of a multicomponent carbonate system — 2: stable isotopes. Journal of Sedimentary Petrology 51, 987–997. Brayard, A., Escarguel, G., Bucher, H., Monnet, C., Brühwiler, T., Goudemand, N., Galfetti, T., Guex, J., 2009. Good genes and good luck: ammonoid diversity and the end-Permian mass extinction. Science 325 (5944), 1118–1121. Chen, Z.Q., Campi, M.J., Shi, G.R., Kaiho, K., 2005. Post–extinction brachiopod faunas from the Late Permian Wuchiapingian coal series of South China. Acta Palaeontologica Polonica 50 (2), 343–363. Chen, B., Joachimski, M.M., Sun, Y.D., Shen, S.Z., Lai, X.L., 2011. Carbon and conodont apatite oxygen isotope records of Guadalupian–Lopingian boundary sections: climatic or sea-level signal? Palaeogeography, Palaeoclimatology, Palaeoecology 311, 145–153. Chen, B., Joachimski, M.M., Shen, S.Z., Lambert, L.L., Lai, X.L., Wang, X.D., Chen, J., Yuan, D.X., 2013. Permian ice volume and palaeoclimate history: oxygen isotope proxies revisited. Gondwana Research 24, 77–89. Clapham, M.E., Shen, S., Bottjer, D.J., 2009. The double mass extinction revisited: reassessing the severity, selectivity, and causes of the end-Guadalupian biotic crisis (LatePermian). Paleobiology 35, 32–50. Des Marais, D.J., Strauss, H., Summons, R.E., Hayes, J.M., 1992. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment. Nature 359, 605–609. Enkin, R.J., Yang, Zhenyu, Chen, Yan, Courtillot, V., 1992. Paleomagnetic constraints on the geodynamic history of the major blocks of China from the Permian to the present. Journal of Geophysical Research 97 (B10), 13953–13989. Espitalié, J., Deroo, G., Marquis, F., 1985. La pyrolyse Rock-Eval et ses applications: Première partie. Revue. Institut Français du Pétrole 40, 563–579. Espitalié, J., Deroo, G., Marquis, F., 1986. La pyrolyse Rock-Eval et ses applications: Troisième partie. Revue. Institut Français du Pétrole 41, 73–89.\nFan, W.M., Zhang, C.H., Wang, Y.J., Guo, F., Touping, P., 2008. Geochronology and geochemistry of Permian basalts in western Guangxi Province, Southwest China: evidence for plume-lithosphere interaction. Lithos 102, 218–236. Freudenthal, T., Wagner, T., Wenzhöfer, F., Zabel, M., Wefer, G., 2001. Early diagenesis of organic matter from sediments of the eastern subtropical Atlantic: evidence from stable nitrogen and carbon isotopes. Geochimica et Cosmochimica Acta 65, 1795–1808. Ganino, C., Arndt, N.T., 2009. Climate changes caused by degassing of sediments during the emplacement of large igneous provinces. Geology 37, 323–326. Given, R.K., Lohmann, K.C., 1985. Derivation of the original isotopic composition of Permian marine cements. Journal of Sedimentary Petrology 55 (3), 430–439. Groves, J.R., Wang, Y., 2013. Timing and size selectivity of the Guadalupian (Middle Permian) fusulinoidean extinction. Journal of Paleontology 87 (2), 183–196. Guizhou Bureau of Geology and Mineral Resources., 1987. Regional Geology of Guizhou Province: Geological Memoires, Ser. 1, No. 6, [in Chinese, English summary; Geologic Map 1:500,000]. Hayes, J.M., Strauss, H., Kaufman, A.J., 1999. The abundance of 13C in marine organic matter and isotopic fractionation in the global biogoechemical cycle of carbon during the past 800 Ma. Chemical Geology 161, 103–125. Hays, P.D., Grossman, E.L., 1991. Oxygen isotopes inmeteoric calcite cements as indicators of continental paleoclimate. Geology 19 (5), 441. He, B., Xu, Y.-G., Chung, S.-L., Xiao, L., Wang, Y., 2003. Sedimentary evidence for a rapid, kilometer-scale crustal doming prior to the eruption of the Emeishan flood basalts. Earth and Planetary Science Letters 213, 391–405. Hermann, E., Hochuli, P.A., Bucher, H., Vigran, J.O., Weissert, H., Bernasconi, S.M., 2010. Close-up view on the Permian–Triassic boundary based on extended organic carbon isotope records from Norway (Trøndelag and Finnmark Platform). Global and Planetary Change 74, 156–167. Hermann, E., Hochuli, P.A., Méhay, S., Bucher, H., Brühwiler, T., Ware, D., Hautmann, M., Roohi, G., Ur-Rehman, K., Yaseen, A., 2011. Organic matter and palaeoenvironmenta signals during the Early Triassic biotic recovery: the Salt Range and Surghar Range records. Sedimentary Geology 234, 19–41. Jahren, A.H., Arens, N.C., Harbeson, S.A., 2008. Prediction of atmospheric δ13CO2using fossil plant tissues. Reviews of Geophysics 46. https://doi.org/10.1029/2006RG000219 (RG I002). Jerram, D.A., Widdowson, M.,Wignall, P.B., Sun, Y., Lai, X., Bond, D.P.G., Torsvik, T.H., 2016. Submarine palaeoenvironments during Emeishan flood basalt volcanism, SW China: implications for plume–lithosphere interaction during the Capitanian, Middle Permian (‘end Guadalupian’) extinction event. Palaeogeography, Palaeoclimatology, Palaeoecology 441, 65–73. Jin, Y.G., Zhang, J., Shang, Q.-H., 1994. Two phases of the end-Permianmass extinction. Canadian Society of Petroleum Geologists. Memoir 17, 813–822. Jones, C.E., Jenkyns, H.C., 2001. Seawater strontium isotopes, oceanic anoxic events, and seafloor hydrothermal activity in the Jurassic and Cretaceous. American Journal of Science 301, 112–149. Jost, B.A., Mundil, R., He, B., Brown, T.S., Altiner, D., Sun, Y., DePaolo, D.J., Payne, L.L., 2014. Constraining the cause of the end-Guadalupian extinction with coupled records carbon and calcium isotopes. Earth and Planetary Science Letters 396, 201–212. Kani, T., Fukui, M., Isozaki, Y., Nohda, S., 2008. The Paleozoic minimum of 87Sr/86Sr initial ratio in the upper Guadalupian (Permian) mid-oceanic carbonates: a critical turning point in the Late Paleozoic. Journal of Asian Earth Sciences 32, 22–33. Kani, T., Hisanabe, C., Isozaki, Y., 2013. The Capitanian (Permian) minimum of 87Sr/86Sr ratio in the mid-Panthalassan paleo-atoll carbonates and its demise by the deglaciation and continental doming. Gondwana Research 24, 212–221. Korte, C., Kozur, H.W., 2010. Carbon-isotope stratigraphy across the Permian–Triassic boundary: a review. Journal of Asian Earth Sciences 39, 215–235. Korte, C., Ullmann, C.V., 2016. Permian strontium isotope stratigraphy. Geological Society, London, Special Publications 450, SP450-5. Korte, C., Kozur, H.W., Bruckschen, P., Veizer, J., 2003. Strontium isotope evolution of Late Permian and Triassic seawater. Geochimica et Cosmochimica Acta 67, 47–62. Korte, C., Jasper, T., Kozur, H.W., Veizer, J., 2006. 87Sr/86Sr record of Permian seawater. Palaeogeography, Palaeoclimatology, Palaeoecology 240, 89–107. Lai, X., Wang, Wei, Wignall, P.B., Bond, D.P.G., Jiang, H., Ali, J.R., John, E.H., Sun, Y., 2008. Palaeoenvironmental change during the end-Guadalupian (Permian)mass extinction in Sichuan, China. Palaeogeography, Palaeoclimatology, Palaeoecology 269, 78–93. Lai, S.C., Qin, J.F., Li, Y.F., Li, S., Santosh, M., 2012. Permian high Ti/Y basalts from the eastern part of the Emeishan Large Igneous Province, southwestern China: petrogenesis and tectonic implications. Journal of Asian Earth Science 47, 216–230. Langford, F.F., Blanc-Valleron, M.M., 1990. Interpreting Rock-Eval pyrolysis data using graphs of pyrolizable hydrocarbons versus total organic carbon. American Association of Petroleum Geologists Bulletin 74 (6), 799–804. Li, H., Zhang, Z., Santosh, M., Lü, L., Han, L., Liu, W., 2016. Late Permian basalts in the Yanghe area, eastern Sichuan Province, SW China: implications for the geodynamics of the Emeishan Large Igneous Province and Permian global mass extinction. Journal of Asian Earth Sciences https://doi.org/10.1016/j.jseaes.2016.11.029. Marshall, J.D., 1992. Climatic and oceanographic isotopic signals from the carbonate rock record and their preservation. Geological Magazine 129, 143–160. Martin, E.E., Macdougall, J.D., 1995. Sr and Nd isotopes at the Permian/Triassic boundary: a record of climate change. Chemical Geology 125, 73–99. McArthur, J.M., Howarth, R.J., 2004. Strontium isotope stratigraphy. In: Gradstein, F.M., Ogg, J.M., Smith, A.G. (Eds.), A Geologic Time Scale 2004. Cambridge University Press, Cambridge, p. 96. McArthur, J.M., Howarth, R.J., Bailey, T.R., 2001. Strontium isotope stratigraphy: LOWESS version 3: best fit to the marine Sr-isotope curve for 0–509 Ma and accompanying look-up table for deriving numerical age. The Journal of Geology 109 (2), 155–170. Mei, S.L., Jin, Y.G., Wardlaw, B.R., 1998. Conodont succession of the GuadalupianLopingian boundary strata in Laibin of Guangxi, China and West Texas, USA. Palaeoworld 9, 53–76.\nMei, S., Henderson, C.M., Wardlaw, B.R., 2002. Evolution and distribution of the conodonts Sweetognathus and Iranognathus and related genera during the Permian, and their implications for climate change. Palaeogeography, Palaeoclimatology, Palaeoecology 180, 57–91. Meyers, P.A., Leenheer, M.J., Bourbonniere, R.A., 1995. Diagenesis of vascular plant organic matter components during burial in lake sediments. Aquatic Geochemistry 1, 35–52. Oehlert, A.M., Swart, P.K., 2014. Interpreting carbonate and organic carbon isotope covariance in the sedimentary record. Nature Communications 5, 4672. Palmer, M.R., Edmond, J.M., 1989. The strontium isotope budget of the modern ocean. Earth and Planetary Science Letters 92, 11–26. Percival, L.M.E., Ruhl, M., Hesselbo, S.P., Jenkyns, H.C., Mather, T.A., Whiteside, J.H., 2017. Mercury evidence for pulsed volcanism during the end-Triassic mass extinction. Proceedings of the National Academy of Sciences 114 (30), 7929–7934. Retallack, G.J., Jahren, A.H., 2008. Methane release from igneous intrusion of coal during Late Permian extinction events. The Journal of Geology 116, 1–20. Rubidge, B.S., Erwin, D.H., Ramezani, J., Bowring, S.A., de Klerk, W.J., 2013. High-precision temporal calibration of Late Permian vertebrate biostratigraphy: U-Pb zircon constraints from the Karoo Supergroup, South Africa. Geology 41, 363–366. Saitoh, M., Isozaki, Y., Yao, J., Ji, Z., Ueno, Y., Yoshida, N., 2013a. The appearance of an oxygen-depleted condition on the Capitanian disphotic slope/basin in South China: Middle–Upper Permian stratigraphy at Chaotian in northern Sichuan. Global and Planetary Change 105, 180–192. Saitoh, M., Isozaki, Y., Ueno, Y., Yoshida, N., Yao, J., Ji, Z., 2013b. Middle–Upper Permian carbon isotope stratigraphy at Chaotian, South China: pre-extinction multiple upwelling of oxygen-depleted water onto continental shelf. Journal of Asian Earth Sciences 67–68, 51–62. Saitoh, M., Ueno, Y., Isozaki, Y., Nishizawa, M., Shozugawa, K., Kawamura, T., Yao, J., Ji, Z., Takai, K., Yoshida, N., Matsuo, M., 2014. Isotopic evidence for water-column denitrification and sulfate reduction at the end-Guadalupian (Middle Permian). Global and Planetary Change 123, 110–120. Schobben, M., Ullman, C.V., Leda, L., Korn, D., Struck, U., Reimold, W.U., Ghaderi, A., Algeo, T., Korte, C., 2016. Discerning primary versus diagenetic signals in carbonate carbon and oxygen isotope records: an example from the Permian–Triassic boundary of Iran. Chemical Geology 422, 94–107. Shao, T., Tang, H., Liu, Y., Jiang, K., Hu, B., Jia, C., Wang, Q., Zhang, Y., Zhang, H., Qin, J., 2018. Genetic analysis of bentonite—PermianWangpo shale in Liangshan, Hanzhong, South Shaanxi Province. Geological Journal https://doi.org/10.1002/gj.3057 (in press). Shellnutt, J.G., 2014. The Emeishan large igneous province: a synthesis. Geoscience Frontiers 5, 369–394. Shellnutt, J.G., Denyszyn, S., Mundil, R., 2012. Precise age determination of mafic and felsic intrusive rocks from the Permian Emeishan large igneous province (SW China). Gondwana Research 22, 118–126. Shen, S.Z., Shi, G.R., 2009. Latest Guadalupian brachiopods from the Guadalupian/ Lopingian boundary GSSP section at Penglaitan in Laibin, Guangxi, South China and implications for the timing of the pre-Lopingian crisis. Palaeoworld 18, 152–161. Shen, S.Z., Henderson, C.M., Bowring, S.A., Cao, C.Q., Wang, Y., Wang, W., Zhang, H., Zhang, Y.C., Mu, L., 2010. High-resolution Lopingian (LatePermian) timescale of South China. Geological Journal 45, 122–134. Shen, S.Z., Cao, C.Q., Zhang, H., Bowring, S.A., Henderson, C.M., Payne, J.L., Davydov, V.I., Chen, B., Yuan, D.X., Zhang, Y.C., Wang, W., Zheng, Q.C., 2013. High-resolution δ13Ccarb chemostratigraphy from latest Guadalupian through earliest Triassic in South China and Iran. Earth and Planetary Science Letters 375, 156–165. Spötl, C., Vennemann, T.W., 2003. Continuous-flow IRMS analysis of carbonate minerals. Rapid Communications in Mass Spectrometry 17, 1004–1006. Stanley, S.M., Yang, X., 1994. A double mass extinction at the end of the Paleozoic era. Science 266, 1340–1344. Sun, Y., Lai, X., Wignall, P.B., Widdowson, M., Ali, J.R., Jiang, H., Wang, W., Yan, C., Bond, D.P.G., Vedrine, S., 2010. Dating the onset and nature of the Middle Permian Emeishan large igneous province eruptions in SW China using conodont biostratigraphy and its bearing on mantle plume uplift models. Lithos 119, 20–33. Taylor, A.S., Lasaga, A.C., 1999. The role of basalt weathering in the Sr isotope budget of the oceans. Chemical Geology 161, 199–214. Thomas, B.M., Willink, R.J., Grice, K., Twitchett, R.J., Purcell, R.R., Archbold, N.W., George, A.D., Tye, S., Alexander, R., Foster, C.B., Barber, C.J., 2004. Unique marine PermianTriassic boundary section from Western Australia. Australian Journal of Earth Sciences 51, 423–430. Tissot, B.P., Welte, D.H., 1984. Petroleum Formation and Occurrence. 2nd edition. Springer-Verlag, Berlin (699 pp.). Traverse, A., 2007. Paleopalynology. Topics in Geobiology 28. Springer. Tyson, R.V., 1995. Sedimentary Organic Matter — Organic Facies and Palynofacies. Chap-\nman & Hall. Ukstins Peate, I., Bryan, S.E., 2008. Re-evaluating plume-induced uplift in the Emeishan\nlarge igneous province. Nature Geoscience 1, 625–629. Ullmann, C.V., Korte, C., 2015. Diagenetic alteration in low-Mg calcite frommacrofossils: a\nreview. Geological Quarterly 59, 3–20. Veizer, J., 1989. Strontium isotopes in seawater through time. Annual Review of Earth and\nPlanetary Sciences 17, 141–167. Veizer, J., Compston, W., 1974. 87Sr/86Sr composition of seawater during the Phanerozoic.\nGeochimica et Cosmochimica Acta 38, 1461–1484. Veizer, J., Ala, D., Azmy, K., Bruckschen, P., Buhl, D., Bruhn, F., Carden, G.A.F., Diener, A., Ebneth,\nS., Goddéris, Y., Jasper, T., Korte, C., Pawellek, F., Podlaha, O.G., Strauss, H., 1999. 87Sr/86Sr, δ13C and δ18O evolution of Phanerozoic seawater. Chemical Geology 161, 59–88. Villier, L., Korn, D., 2004. Morphological disparity of ammonoids and the mark of Permian mass extinctions. Science 306 (5694), 264–266. Wang, X.D., Sugiyama, T., 2000. Diversity and extinction patterns of Permian coral faunas of China. Lethaia 33, 285–294.\nWang, C.Y., Wang, Z.H., 1981. Permian conodont biostratigraphy of China. Geological Society of America Special Paper. 187, pp. 227–236. Wang,W., Cao, C.Q., Wang, Y., 2004. The carbon isotope excursion on GSSP candidate section of Lopingian-Guadalupian boundary. Earth and Planetary Science Letters 220, 57–67. Wei, H., Chen, D., Yu, H., Wang, J., 2012. End-Guadalupian massextinction and negative carbon isotope excursion at Xiaojiaba, Guangyuan, Sichuan. Science China Earth Sciences 55 (9), 1480–1488. Wei, H., Shen, J., Schoepfer, S.D., Krystyn, L., Richoz, S., Algeo, T., 2014. Environmental controls on marine ecosystem recovery following mass extinctions, with an example from the Early Triassic. Earth-Science Reviews 149, 108–135. Weissert, H., Joachimski, M.M., Sarnthein, M., 2008. Chemostratigraphy. Newsletters on Stratigraphy 42, 145–179. Wignall, P.B., Sun, Y., Bond, D.P.G., Izon, G., Newton, R.J., Védrine, S., Widdowson, M., Ali, J.R., Lai, X., Jiang, H., Cope, H., Bottrell, S.H., 2009. Volcanism, mass extinction, and carbon isotope fluctuations in the Middle Permian of China. Science 324, 1179–1182. Yan, D., Zhang, L., Qiu, Z., 2013. Carbon and sulfur isotopic fluctuations associatedwith the end-Guadalupian mass extinction in South China. Gondwana Research 24, 1276–1282.\nZazzali, S., Crasquin, S., Deconinck, J.S., Feng, Q., 2015. Biodiversity across the Guadalupian-Lopingian Boundary: first results on the ostracod (Crustacea) fauna, Chaotian section (Sichuan Province, South China). Geodiversitas 37 (3), 283–313. Zhao, L., Dai, S., Graham, I.T., Li, X., Zhang, B., 2016. New insights into the lowest Xuanwei Formation in eastern Yunnan Province, SWChina: implications for Emeishan large igneous province felsic tuff deposition and the cause of the end-Guadalupian mass extinction. Lithos 264, 375–391. Zhong, Y.T., He, B., Mundil, R., Xu, Y.G., 2014. Ca-TIMS zircon U-Pb dating of felsic ignimbrite from the Binchuan section: implications for the termination age of Emeishan large igneous province. Lithos 204, 14–19. Zhou,M.F., Malpas, J., Song, X.Y., Robinson, P.T., Sun,M., Kennedy, A.K., Lesher, C.M., Keays, R.R., 2002. A temporal link between the Emeishan large igneous province (SW China) and the end-Guadalupian mass extinction. Earth and Planetary Science Letters 196, 113–122. Zi, J.W., Fan, W.M., Wang, J.Y., Cawood, P.A., Peng, T.P., Sun, L.H., Xu, Z.Q., 2010. U-Pb geochronology and geochemistry of the Dashibao basalts in the Songpan-Ganzi terrane, SW China, with implications for the age of Emeishan volcanism. American Journal of Science 210, 1054–1080."
+  }],
+  "year": 2018,
+  "references": [{
+    "title": "Emeishan basalts (SW China",
+    "authors": ["J.R. www.scotese.com. Ali", "G.M. Thompson", "X.Y. Song", "Y.L. Wang"],
+    "year": 2002
+  }, {
+    "title": "Did volcanic activity of the Emeishan large igneous province expand in Wuchiapingian times",
+    "authors": ["B. Bagherpour", "H. Bucher", "D.X. Yuan", "S.Z. Shen", "M. Leu", "C. Zhang"],
+    "venue": "EGU General Assembly Conference Abstracts",
+    "year": 2017
+  }, {
+    "title": "Early Wuchiapingian (Lopingian, Late Permian) drowning event in the South China Block related to a late eruptive phase of Emeishan Large Igneous Province? Global and Planetary Change (in review)",
+    "authors": ["B. Bagherpour", "H. Bucher", "D.X. Yuan", "M. Leu", "C. Zhang", "S.Z. Shen"],
+    "year": 2018
+  }, {
+    "title": "Lithologic and climatologic controls of river chemistry",
+    "authors": ["G.J.S. Bluth", "L.R. Kump"],
+    "venue": "Geochimica et Cosmochimica Acta",
+    "year": 1994
+  }, {
+    "title": "The Middle Permian (Capitanian) mass extinction on land and in the oceans",
+    "authors": ["D.P.G. Bond", "J. Hilton", "P.B. Wignall", "J.R. Ali", "L.G. Stevens", "Y.D. Sun", "X.L. Lai"],
+    "venue": "EarthScience Reviews",
+    "year": 2010
+  }, {
+    "title": "The mid-Capitanian (Middle Permian) mass extinction and carbon isotope record of South China",
+    "authors": ["D.P.G. Bond", "P.B. Wignall", "W. Wang", "G. Izon", "H.S. Jiang", "X.L. Lai", "Y.D. Sun", "R.J. Newton", "L.Y. Shao", "S. Védrine", "H. Cope"],
+    "year": 2010
+  }, {
+    "title": "Mid-Cretaceous strontium-isotope stratigraphy of deep-sea sections",
+    "authors": ["T.J. Bralower", "P.D. Fullagar", "C.K. Paull", "G.S. Dwyer", "R.M. Leckie"],
+    "venue": "Geological Society of America Bulletin",
+    "year": 1997
+  }, {
+    "title": "Chemical diagenesis of a multicomponent carbonate system — 2: stable isotopes",
+    "authors": ["U. Brand", "J. Veizer"],
+    "venue": "Journal of Sedimentary Petrology",
+    "year": 1981
+  }, {
+    "title": "Good genes and good luck: ammonoid diversity and the end-Permian mass extinction",
+    "authors": ["A. Brayard", "G. Escarguel", "H. Bucher", "C. Monnet", "T. Brühwiler", "N. Goudemand", "T. Galfetti", "J. Guex"],
+    "venue": "Science",
+    "year": 2009
+  }, {
+    "title": "Post–extinction brachiopod faunas from the Late Permian Wuchiapingian coal series of South China",
+    "authors": ["Z.Q. Chen", "M.J. Campi", "G.R. Shi", "K. Kaiho"],
+    "venue": "Acta Palaeontologica Polonica",
+    "year": 2005
+  }, {
+    "title": "Carbon and conodont apatite oxygen isotope records of Guadalupian–Lopingian boundary sections: climatic or sea-level signal",
+    "authors": ["B. Chen", "M.M. Joachimski", "Y.D. Sun", "S.Z. Shen", "X.L. Lai"],
+    "year": 2011
+  }, {
+    "title": "Permian ice volume and palaeoclimate history: oxygen isotope proxies revisited",
+    "authors": ["B. Chen", "M.M. Joachimski", "S.Z. Shen", "L.L. Lambert", "X.L. Lai", "X.D. Wang", "J. Chen", "D.X. Yuan"],
+    "venue": "Gondwana Research",
+    "year": 2013
+  }, {
+    "title": "The double mass extinction revisited: reassessing the severity, selectivity, and causes of the end-Guadalupian biotic crisis",
+    "authors": ["M.E. Clapham", "S. Shen", "D.J. Bottjer"],
+    "venue": "(LatePermian). Paleobiology",
+    "year": 2009
+  }, {
+    "title": "Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment",
+    "authors": ["D.J. Des Marais", "H. Strauss", "R.E. Summons", "J.M. Hayes"],
+    "venue": "Nature 359,",
+    "year": 1992
+  }, {
+    "title": "Paleomagnetic constraints on the geodynamic history of the major blocks of China from the Permian to the present",
+    "authors": ["R.J. Enkin", "Yang", "Zhenyu", "Chen", "Yan", "V. Courtillot"],
+    "venue": "Journal of Geophysical Research",
+    "year": 1992
+  }, {
+    "title": "La pyrolyse Rock-Eval et ses applications: Première partie",
+    "authors": ["J. Espitalié", "G. Deroo", "F. Marquis"],
+    "venue": "Revue. Institut Français du Pétrole",
+    "year": 1985
+  }, {
+    "title": "La pyrolyse Rock-Eval et ses applications: Troisième partie",
+    "authors": ["J. Espitalié", "G. Deroo", "F. Marquis"],
+    "venue": "Revue. Institut Français du Pétrole",
+    "year": 1986
+  }, {
+    "title": "Geochronology and geochemistry of Permian basalts in western Guangxi Province, Southwest China: evidence for plume-lithosphere interaction",
+    "authors": ["W.M. Fan", "C.H. Zhang", "Y.J. Wang", "F. Guo", "P. Touping"],
+    "venue": "Lithos 102,",
+    "year": 2008
+  }, {
+    "title": "Early diagenesis of organic matter from sediments of the eastern subtropical Atlantic: evidence from stable nitrogen and carbon isotopes",
+    "authors": ["T. Freudenthal", "T. Wagner", "F. Wenzhöfer", "M. Zabel", "G. Wefer"],
+    "venue": "Geochimica et Cosmochimica Acta",
+    "year": 2001
+  }, {
+    "title": "Climate changes caused by degassing of sediments during the emplacement of large igneous provinces",
+    "authors": ["C. Ganino", "N.T. Arndt"],
+    "venue": "Geology",
+    "year": 2009
+  }, {
+    "title": "Derivation of the original isotopic composition of Permian marine cements",
+    "authors": ["R.K. Given", "K.C. Lohmann"],
+    "venue": "Journal of Sedimentary Petrology",
+    "year": 1985
+  }, {
+    "title": "Timing and size selectivity of the Guadalupian (Middle Permian) fusulinoidean extinction",
+    "authors": ["J.R. Groves", "Y. Wang"],
+    "venue": "Journal of Paleontology",
+    "year": 2013
+  }, {
+    "title": "The abundance",
+    "authors": ["J.M. Hayes", "H. Strauss", "A.J. Kaufman"],
+    "year": 1999
+  }, {
+    "title": "Oxygen isotopes inmeteoric calcite cements as indicators of continental paleoclimate",
+    "authors": ["P.D. Hays", "E.L. Grossman"],
+    "venue": "Geology 19",
+    "year": 1991
+  }, {
+    "title": "Sedimentary evidence for a rapid, kilometer-scale crustal doming prior to the eruption of the Emeishan flood basalts",
+    "authors": ["B. He", "Xu", "Y.-G", "Chung", "S.-L", "L. Xiao", "Y. Wang"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2003
+  }, {
+    "title": "Close-up view on the Permian–Triassic boundary based on extended organic carbon isotope records from Norway (Trøndelag and Finnmark Platform)",
+    "authors": ["E. Hermann", "P.A. Hochuli", "H. Bucher", "J.O. Vigran", "H. Weissert", "S.M. Bernasconi"],
+    "venue": "Global and Planetary Change",
+    "year": 2010
+  }, {
+    "title": "Organic matter and palaeoenvironmenta signals during the Early Triassic biotic recovery: the Salt Range and Surghar Range records",
+    "authors": ["E. Hermann", "P.A. Hochuli", "S. Méhay", "H. Bucher", "T. Brühwiler", "D. Ware", "M. Hautmann", "G. Roohi", "K. Ur-Rehman", "A. Yaseen"],
+    "venue": "Sedimentary Geology",
+    "year": 2011
+  }, {
+    "title": "Prediction of atmospheric",
+    "authors": ["A.H. Jahren", "N.C. Arens", "S.A. Harbeson"],
+    "year": 2008
+  }, {
+    "title": "Submarine palaeoenvironments during Emeishan flood basalt volcanism, SW China: implications for plume–lithosphere interaction during the Capitanian, Middle Permian (‘end Guadalupian’) extinction event",
+    "authors": ["D.A. Jerram", "M. Widdowson", "P.B. Wignall", "Y. Sun", "X. Lai", "D.P.G. Bond", "T.H. Torsvik"],
+    "year": 2016
+  }, {
+    "title": "Two phases of the end-Permianmass extinction",
+    "authors": ["Y.G. Jin", "J. Zhang", "Shang", "Q.-H"],
+    "venue": "Canadian Society of Petroleum Geologists. Memoir",
+    "year": 1994
+  }, {
+    "title": "Seawater strontium isotopes, oceanic anoxic events, and seafloor hydrothermal activity in the Jurassic and Cretaceous",
+    "authors": ["C.E. Jones", "H.C. Jenkyns"],
+    "venue": "American Journal of Science",
+    "year": 2001
+  }, {
+    "title": "Constraining the cause of the end-Guadalupian extinction with coupled records carbon and calcium isotopes",
+    "authors": ["B.A. Jost", "R. Mundil", "B. He", "T.S. Brown", "D. Altiner", "Y. Sun", "D.J. DePaolo", "L.L. Payne"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2014
+  }, {
+    "title": "The Paleozoic minimum",
+    "authors": ["T. Kani", "M. Fukui", "Y. Isozaki", "S. Nohda"],
+    "year": 2008
+  }, {
+    "title": "87Sr/86Sr initial ratio in the upper Guadalupian (Permian) mid-oceanic carbonates: a critical turning point in the Late Paleozoic",
+    "authors": ["T. Kani", "C. Hisanabe", "Y. Isozaki"],
+    "venue": "Journal of Asian Earth Sciences",
+    "year": 2013
+  }, {
+    "title": "Carbon-isotope stratigraphy across the Permian–Triassic boundary: a review",
+    "authors": ["C. Korte", "H.W. Kozur"],
+    "venue": "Journal of Asian Earth Sciences",
+    "year": 2010
+  }, {
+    "title": "Permian strontium isotope stratigraphy",
+    "authors": ["C. Korte", "C.V. Ullmann"],
+    "venue": "Geological Society, London, Special Publications",
+    "year": 2016
+  }, {
+    "title": "Strontium isotope evolution of Late Permian and Triassic seawater",
+    "authors": ["C. Korte", "H.W. Kozur", "P. Bruckschen", "J. Veizer"],
+    "venue": "Geochimica et Cosmochimica Acta",
+    "year": 2003
+  }, {
+    "title": "Palaeoenvironmental change during the end-Guadalupian (Permian)mass extinction in Sichuan, China",
+    "authors": ["X. Lai", "Wang", "Wei", "P.B. Wignall", "D.P.G. Bond", "H. Jiang", "J.R. Ali", "E.H. John", "Y. Sun"],
+    "year": 2008
+  }, {
+    "title": "Permian high Ti/Y basalts from the eastern part of the Emeishan Large Igneous Province, southwestern China: petrogenesis and tectonic implications",
+    "authors": ["S.C. Lai", "J.F. Qin", "Y.F. Li", "S. Li", "M. Santosh"],
+    "venue": "Journal of Asian Earth Science",
+    "year": 2012
+  }, {
+    "title": "Interpreting Rock-Eval pyrolysis data using graphs of pyrolizable hydrocarbons versus total organic carbon",
+    "authors": ["F.F. Langford", "M.M. Blanc-Valleron"],
+    "venue": "American Association of Petroleum Geologists Bulletin",
+    "year": 1990
+  }, {
+    "title": "Late Permian basalts in the Yanghe area, eastern Sichuan Province, SW China: implications for the geodynamics of the Emeishan Large Igneous Province and Permian global mass extinction",
+    "authors": ["H. Li", "Z. Zhang", "M. Santosh", "L. Lü", "L. Han", "W. Liu"],
+    "venue": "Journal of Asian Earth Sciences",
+    "year": 2016
+  }, {
+    "title": "Climatic and oceanographic isotopic signals from the carbonate rock record and their preservation",
+    "authors": ["J.D. Marshall"],
+    "venue": "Geological Magazine",
+    "year": 1992
+  }, {
+    "title": "Sr and Nd isotopes at the Permian/Triassic boundary: a record of climate change",
+    "authors": ["E.E. Martin", "J.D. Macdougall"],
+    "venue": "Chemical Geology",
+    "year": 1995
+  }, {
+    "title": "Strontium isotope stratigraphy",
+    "authors": ["J.M. McArthur", "R.J. Howarth"],
+    "venue": "A Geologic Time Scale",
+    "year": 2004
+  }, {
+    "title": "Strontium isotope stratigraphy: LOWESS version 3: best fit to the marine Sr-isotope curve for 0–509 Ma and accompanying look-up table for deriving numerical age",
+    "authors": ["J.M. McArthur", "R.J. Howarth", "T.R. Bailey"],
+    "venue": "The Journal of Geology",
+    "year": 2001
+  }, {
+    "title": "Conodont succession of the GuadalupianLopingian boundary strata in Laibin of Guangxi",
+    "authors": ["S.L. Mei", "Y.G. Jin", "B.R. Wardlaw"],
+    "venue": "China and West Texas, USA. Palaeoworld",
+    "year": 1998
+  }, {
+    "title": "Evolution and distribution of the conodonts Sweetognathus and Iranognathus and related genera during the Permian, and their implications for climate change",
+    "authors": ["S. Mei", "C.M. Henderson", "B.R. Wardlaw"],
+    "year": 2002
+  }, {
+    "title": "Diagenesis of vascular plant organic matter components during burial in lake sediments",
+    "authors": ["P.A. Meyers", "M.J. Leenheer", "R.A. Bourbonniere"],
+    "venue": "Aquatic Geochemistry",
+    "year": 1995
+  }, {
+    "title": "Interpreting carbonate and organic carbon isotope covariance in the sedimentary record",
+    "authors": ["A.M. Oehlert", "P.K. Swart"],
+    "venue": "Nature Communications",
+    "year": 2014
+  }, {
+    "title": "The strontium isotope budget of the modern ocean",
+    "authors": ["M.R. Palmer", "J.M. Edmond"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 1989
+  }, {
+    "title": "Mercury evidence for pulsed volcanism during the end-Triassic mass extinction",
+    "authors": ["L.M.E. Percival", "M. Ruhl", "S.P. Hesselbo", "H.C. Jenkyns", "T.A. Mather", "J.H. Whiteside"],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "year": 2017
+  }, {
+    "title": "Methane release from igneous intrusion of coal during Late Permian extinction events",
+    "authors": ["G.J. Retallack", "A.H. Jahren"],
+    "venue": "The Journal of Geology",
+    "year": 2008
+  }, {
+    "title": "High-precision temporal calibration of Late Permian vertebrate biostratigraphy: U-Pb zircon constraints from the Karoo Supergroup",
+    "authors": ["B.S. Rubidge", "D.H. Erwin", "J. Ramezani", "S.A. Bowring", "W.J. de Klerk"],
+    "venue": "South Africa. Geology",
+    "year": 2013
+  }, {
+    "title": "The appearance of an oxygen-depleted condition on the Capitanian disphotic slope/basin in South China: Middle–Upper Permian stratigraphy at Chaotian in northern Sichuan",
+    "authors": ["M. Saitoh", "Y. Isozaki", "J. Yao", "Z. Ji", "Y. Ueno", "N. Yoshida"],
+    "venue": "Global and Planetary Change",
+    "year": 2013
+  }, {
+    "title": "Middle–Upper Permian carbon isotope stratigraphy at Chaotian, South China: pre-extinction multiple upwelling of oxygen-depleted water onto continental shelf",
+    "authors": ["M. Saitoh", "Y. Isozaki", "Y. Ueno", "N. Yoshida", "J. Yao", "Z. Ji"],
+    "venue": "Journal of Asian Earth Sciences",
+    "year": 2013
+  }, {
+    "title": "Isotopic evidence for water-column denitrification and sulfate reduction at the end-Guadalupian (Middle Permian)",
+    "authors": ["M. Saitoh", "Y. Ueno", "Y. Isozaki", "M. Nishizawa", "K. Shozugawa", "T. Kawamura", "J. Yao", "Z. Ji", "K. Takai", "N. Yoshida", "M. Matsuo"],
+    "venue": "Global and Planetary Change",
+    "year": 2014
+  }, {
+    "title": "Discerning primary versus diagenetic signals in carbonate carbon and oxygen isotope records: an example from the Permian–Triassic boundary of Iran",
+    "authors": ["M. Schobben", "C.V. Ullman", "L. Leda", "D. Korn", "U. Struck", "W.U. Reimold", "A. Ghaderi", "T. Algeo", "C. Korte"],
+    "venue": "Chemical Geology",
+    "year": 2016
+  }, {
+    "title": "Genetic analysis of bentonite—PermianWangpo shale in Liangshan, Hanzhong",
+    "authors": ["T. Shao", "H. Tang", "Y. Liu", "K. Jiang", "B. Hu", "C. Jia", "Q. Wang", "Y. Zhang", "H. Zhang", "J. Qin"],
+    "year": 2018
+  }, {
+    "title": "The Emeishan large igneous province: a synthesis",
+    "authors": ["J.G. Shellnutt"],
+    "venue": "Geoscience Frontiers",
+    "year": 2014
+  }, {
+    "title": "Precise age determination of mafic and felsic intrusive rocks from the Permian Emeishan large igneous province (SW China)",
+    "authors": ["J.G. Shellnutt", "S. Denyszyn", "R. Mundil"],
+    "venue": "Gondwana Research",
+    "year": 2012
+  }, {
+    "title": "Latest Guadalupian brachiopods from the Guadalupian/ Lopingian boundary GSSP section at Penglaitan in Laibin, Guangxi, South China and implications for the timing of the pre-Lopingian crisis",
+    "authors": ["S.Z. Shen", "G.R. Shi"],
+    "venue": "Palaeoworld",
+    "year": 2009
+  }, {
+    "title": "High-resolution Lopingian (LatePermian) timescale of South China",
+    "authors": ["S.Z. Shen", "C.M. Henderson", "S.A. Bowring", "C.Q. Cao", "Y. Wang", "W. Wang", "H. Zhang", "Y.C. Zhang", "L. Mu"],
+    "venue": "Geological Journal",
+    "year": 2010
+  }, {
+    "title": "High-resolution δ13Ccarb chemostratigraphy from latest Guadalupian through earliest Triassic in South China and Iran",
+    "authors": ["S.Z. Shen", "C.Q. Cao", "H. Zhang", "S.A. Bowring", "C.M. Henderson", "J.L. Payne", "V.I. Davydov", "B. Chen", "D.X. Yuan", "Y.C. Zhang", "W. Wang", "Q.C. Zheng"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2013
+  }, {
+    "title": "Continuous-flow IRMS analysis of carbonate minerals",
+    "authors": ["C. Spötl", "T.W. Vennemann"],
+    "venue": "Rapid Communications in Mass Spectrometry",
+    "year": 2003
+  }, {
+    "title": "A double mass extinction at the end of the Paleozoic era",
+    "authors": ["S.M. Stanley", "X. Yang"],
+    "venue": "Science",
+    "year": 1994
+  }, {
+    "title": "Dating the onset and nature of the Middle Permian Emeishan large igneous province eruptions in SW China using conodont biostratigraphy and its bearing on mantle plume uplift models",
+    "authors": ["Y. Sun", "X. Lai", "P.B. Wignall", "M. Widdowson", "J.R. Ali", "H. Jiang", "W. Wang", "C. Yan", "D.P.G. Bond", "S. Vedrine"],
+    "venue": "Lithos 119,",
+    "year": 2010
+  }, {
+    "title": "The role of basalt weathering in the Sr isotope budget of the oceans",
+    "authors": ["A.S. Taylor", "A.C. Lasaga"],
+    "venue": "Chemical Geology",
+    "year": 1999
+  }, {
+    "title": "Unique marine PermianTriassic boundary section from Western Australia",
+    "authors": ["B.M. Thomas", "R.J. Willink", "K. Grice", "R.J. Twitchett", "R.R. Purcell", "N.W. Archbold", "A.D. George", "S. Tye", "R. Alexander", "C.B. Foster", "C.J. Barber"],
+    "venue": "Australian Journal of Earth Sciences",
+    "year": 2004
+  }, {
+    "title": "Petroleum Formation and Occurrence",
+    "authors": ["B.P. Tissot", "D.H. Welte"],
+    "venue": "2nd edition. Springer-Verlag, Berlin",
+    "year": 1984
+  }, {
+    "title": "Sedimentary Organic Matter — Organic Facies and Palynofacies",
+    "authors": ["R.V. Tyson"],
+    "year": 1995
+  }, {
+    "title": "Re-evaluating plume-induced uplift in the Emeishan large igneous province",
+    "authors": ["I. Ukstins Peate", "S.E. Bryan"],
+    "venue": "Nature Geoscience",
+    "year": 2008
+  }, {
+    "title": "Diagenetic alteration in low-Mg calcite frommacrofossils: a review",
+    "authors": ["C.V. Ullmann", "C. Korte"],
+    "venue": "Geological Quarterly",
+    "year": 2015
+  }, {
+    "title": "Strontium isotopes in seawater through time",
+    "authors": ["J. Veizer"],
+    "venue": "Annual Review of Earth and Planetary Sciences",
+    "year": 1989
+  }, {
+    "title": "87Sr/86Sr composition of seawater during the Phanerozoic",
+    "authors": ["J. Veizer", "D. Ala", "K. Azmy", "P. Bruckschen", "D. Buhl", "F. Bruhn", "G.A.F. Carden", "A. Diener", "S. Ebneth", "Y. Goddéris", "T. Jasper", "C. Korte", "F. Pawellek", "O.G. Podlaha", "H. Strauss"],
+    "venue": "Geochimica et Cosmochimica Acta",
+    "year": 1999
+  }, {
+    "title": "Morphological disparity of ammonoids and the mark of Permian mass extinctions",
+    "authors": ["L. Villier", "D. Korn"],
+    "venue": "Science",
+    "year": 2004
+  }, {
+    "title": "Diversity and extinction patterns of Permian coral faunas of China",
+    "authors": ["X.D. Wang", "T. Sugiyama"],
+    "venue": "Lethaia",
+    "year": 2000
+  }, {
+    "title": "Permian conodont biostratigraphy of China",
+    "authors": ["C.Y. Wang", "Z.H. Wang"],
+    "venue": "Geological Society of America Special Paper",
+    "year": 1981
+  }, {
+    "title": "The carbon isotope excursion on GSSP candidate section of Lopingian-Guadalupian boundary",
+    "authors": ["W. Wang", "C.Q. Cao", "Y. Wang"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2004
+  }, {
+    "title": "End-Guadalupian massextinction and negative carbon isotope excursion at Xiaojiaba, Guangyuan, Sichuan",
+    "authors": ["H. Wei", "D. Chen", "H. Yu", "J. Wang"],
+    "venue": "Science China Earth Sciences",
+    "year": 2012
+  }, {
+    "title": "Environmental controls on marine ecosystem recovery following mass extinctions, with an example from the Early Triassic",
+    "authors": ["H. Wei", "J. Shen", "S.D. Schoepfer", "L. Krystyn", "S. Richoz", "T. Algeo"],
+    "venue": "Earth-Science Reviews",
+    "year": 2014
+  }, {
+    "title": "Volcanism, mass extinction, and carbon isotope fluctuations in the Middle Permian of China",
+    "authors": ["P.B. Wignall", "Y. Sun", "D.P.G. Bond", "G. Izon", "R.J. Newton", "S. Védrine", "M. Widdowson", "J.R. Ali", "X. Lai", "H. Jiang", "H. Cope", "S.H. Bottrell"],
+    "venue": "Science 324,",
+    "year": 2009
+  }, {
+    "title": "Carbon and sulfur isotopic fluctuations associatedwith the end-Guadalupian mass extinction in South China",
+    "authors": ["D. Yan", "L. Zhang", "Z. Qiu"],
+    "venue": "Gondwana Research",
+    "year": 2013
+  }, {
+    "title": "Biodiversity across the Guadalupian-Lopingian Boundary: first results on the ostracod (Crustacea) fauna, Chaotian section (Sichuan Province, South China)",
+    "authors": ["S. Zazzali", "S. Crasquin", "J.S. Deconinck", "Q. Feng"],
+    "venue": "Geodiversitas",
+    "year": 2015
+  }, {
+    "title": "New insights into the lowest Xuanwei Formation in eastern Yunnan Province, SWChina: implications for Emeishan large igneous province felsic tuff deposition and the cause of the end-Guadalupian mass extinction",
+    "authors": ["L. Zhao", "S. Dai", "I.T. Graham", "X. Li", "B. Zhang"],
+    "venue": "Lithos 264,",
+    "year": 2016
+  }, {
+    "title": "Ca-TIMS zircon U-Pb dating of felsic ignimbrite from the Binchuan section: implications for the termination age of Emeishan large igneous province",
+    "authors": ["Y.T. Zhong", "B. He", "R. Mundil", "Y.G. Xu"],
+    "venue": "Lithos 204,",
+    "year": 2014
+  }, {
+    "title": "A temporal link between the Emeishan large igneous province (SW China) and the end-Guadalupian mass extinction",
+    "authors": ["M.F. Zhou", "J. Malpas", "X.Y. Song", "P.T. Robinson", "M. Sun", "A.K. Kennedy", "C.M. Lesher", "R.R. Keays"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2002
+  }, {
+    "title": "U-Pb geochronology and geochemistry of the Dashibao basalts in the Songpan-Ganzi terrane, SW China, with implications for the age of Emeishan volcanism",
+    "authors": ["J.W. Zi", "W.M. Fan", "J.Y. Wang", "P.A. Cawood", "T.P. Peng", "L.H. Sun", "Z.Q. Xu"],
+    "venue": "American Journal of Science",
+    "year": 2010
+  }],
+  "id": "SP:950e7122bc4ff107c93689a32ba78fcaf4f48bf2",
+  "authors": [{
+    "name": "Borhan Bagherpour",
+    "affiliations": []
+  }, {
+    "name": "Hugo Bucher",
+    "affiliations": []
+  }, {
+    "name": "Elke Schneebeli-Hermann",
+    "affiliations": []
+  }, {
+    "name": "Torsten Vennemann",
+    "affiliations": []
+  }, {
+    "name": "Massimo Chiaradia",
+    "affiliations": []
+  }, {
+    "name": "Shu-zhong Shen",
+    "affiliations": []
+  }],
+  "abstractText": "Handling Editor: S.J. Liu Carbon isotope compositions of carbonates (δCcarb) document a new 3.5‰ CIE toward lower values concomitant with an Emeishan Large Igneous Province (ELIP)-related drowning event (Mapojiao Event, southern Guizhou) during the early Wuchiapingian. Organic carbon isotope data (δCorg) have a 2‰ shift toward higher values across the drowning event, showing decoupling with the δCcarb evolution. Rock-Eval and palynofacies analyses suggest an elevated flux of terrestrial organic matter (OM) during the drowning episode. Therefore, the decoupling between δCcarb and δCorg is best explained by the mixing of different organic carbon pools in the δCorg curve. Strontium isotope data (Sr/Sr) also show a transient shift from 0.70715 to 0.70694 associatedwith this earlyWuchiapingian carbon isotope excursion (CIE), which is superimposed on the late Permian prolonged global rising trend. This short-lived Sr/Sr excursion is best interpreted as an enhanced hydrothermal flux related to a short pulse of ELIP-related volcanism. Comparison of the Mapojiao Event with other C isotope records from South China and other parts of Tethys reveals substantial discrepancies. Moreover, older Capitanian CIEs concomitant with ELIP-related drownings are also not laterally reproducible in time. The local distribution of CIEs across Guadalupian-Lopingian (G-L) interval indicates the influence of local factors such as bathymetry and increased burial rate of terrestrial OM, rather than perturbations in the global carbon cycle to due volcanism. This prevents the C isotope record to be used as a global correlation tool during Capitanian and Wuchiapingian times. Comparison of palaeobiodiversity changes with perturbations in C isotope compositions across the G-L interval shows that only the oldest CIE was associated with amodest extinction event as documented in South China. Hence, this study undermines any systematic coupling and causal relation between extinctions and iterative perturbations of the C isotope record during the G-L interval. © 2018 International Association for Gondwana Research. Published by Elsevier B.V. All rights reserved.",
+  "title": "Early Late Permian coupled carbon and strontium isotope chemostratigraphy from South China: Extended Emeishan volcanism?"
+}

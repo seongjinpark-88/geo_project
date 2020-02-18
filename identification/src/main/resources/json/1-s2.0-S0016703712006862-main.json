@@ -1,0 +1,504 @@
+{
+  "sections": [{
+    "text": "The role of carbon dioxide in regulating climate during the early Paleozoic, when severe glaciations occurred during a putative greenhouse world, remains unclear. Here, we present the first molecular carbon isotope proxy-based estimates for Late Ordovician (early Katian) pCO2 levels, and explore the limitations of applying this approach to the reconstruction of Paleozoic pCO2. Carbon isotope profiles from three sites in Laurentia (Iowa, Ontario and Pennsylvania) and one site in Baltica (Estonia) exhibit overall low isotope fractionation between organic and inorganic carbon during photosynthesis (ep) and these values declined during the early Katian carbonate carbon isotope excursion (or Guttenberg Carbon Isotope Excursion, GICE). Algal ep values are sensitive to changes in CO2 concentrations, algae cell morphologies, and cell growth rates. To constrain these factors, we present molecular evidence that a decrease in the relative abundance of cyanobacteria and a change in the eukaryotic algae community co-occurred with the GICE. Regardless of local biotic or oceanographic influences, a decline in ep values indicates photosynthesis was sensitive to carbon concentrations, and via analogy with modern taxa, constrains pCO2 to below 8 pre-industrial levels (PIL), or about half of previous estimates. In addition, the global, positive carbon isotope excursions expressed in a wide variety of sedimentary materials (carbonate, bulk organic matter, n-alkanes, acyclic and cyclic isoprenoid hydrocarbons), provide compelling evidence for perturbation of the global carbon cycle, and this was likely associated with a decrease in pCO2 approximately 10 million years prior to the Hirnantian glaciations. Isotopic records from deeper water settings suggest a complex interplay of carbon sources and sinks, with pCO2 increasing prior to and during the early stages of the GICE and then decreasing when organic carbon burial outpaced increased volcanic inputs. 2012 Elsevier Ltd. All rights reserved."
+  }, {
+    "heading": "1. INTRODUCTION",
+    "text": "The early Paleozoic is characterized as a time of high pCO2 levels and warm temperatures. Geochemical models suggest pCO2 levels over 14 higher than modern PIL (e.g.\n0016-7037/$ - see front matter 2012 Elsevier Ltd. All rights reserved. http://dx.doi.org/10.1016/j.gca.2012.11.033\n⇑ Corresponding author. E-mail address: r.d.pancost@bristol.ac.uk (R.D. Pancost).\n1 Address: Department of Geology and Geophysics, E301/302 Howe-Russell Geoscience Complex, College of Science, Louisiana State University, Baton Rouge, LA 70803, USA.\nBerner and Kothavala, 2001 and references therein) and similarly high estimates have been derived from Hirnantian-age goethites (Yapp and Poths, 1992). However, the early Paleozoic is also punctuated by dramatic glacial events, most notably the end-Ordovician glaciation, that are hard to rationalize with pCO2 levels over 8 modern pre-industrial levels (PIL) (Herrmann et al., 2003). Similarly, Vandenbroucke et al. (2010) required Sandbian atmospheric pCO2 to be 8 PIL for their model to yield temperatures that match those inferred from the paleobiogeographical distribution of chitinozoan marine zooplankton.\nAn important paleo-pCO2 proxy commonly applied to younger periods is the difference between the carbon isotopic compositions of marine organic and inorganic matter (D13C). The proxy is based on experimental and field observations of modern marine photoautotrophs and known relationships between growth conditions, carbon dioxide concentrations and carbon isotope fractionation (ep) during Rubisco (ribulose-1,5-bisphosphate carboxylase-oxygenase) mediated carbon fixation. Applications of this approach to past oceans extend through the Cenozoic (Pagani et al., 1999, 2005, 2011) and into the Cretaceous (Bice et al., 2006; Sinninghe Damsté et al., 2008). However, its application to Paleozoic climate has been less common, because it requires the physiological properties of algal carbon assimilation to have been similar to those in the modern ocean (Freeman and Pagani, 2005). However, changes in carbon isotope fractionation do require carbon dioxide concentrations to be low enough relative to physiological factors, such as cell geometry and growth rate, to limit cell carbon uptake, and this could represent a powerful tool in paleoclimate research. Based on modern algae, this amount is about 2200 ppmv, or 8 PIL (Freeman and Pagani, 2005). Thus, observed D13C changes in Phanerozoic strata suggest that the level of CO2 was lower than this sensitivity threshold. For example, the Cenomanian–Turonian Boundary (CTB) has a positive carbon isotope excursion (CIE) that is associated with a decrease in D13C, suggesting a decrease in ep values and constraining pCO2 below 8 PIL (Arthur et al., 1988; Freeman and Hayes, 1992; Sinninghe Damsté et al., 2008). In contrast, no decrease in D13C occurs across the Frasnian–Fammenian Boundary (Joachimski et al., 2002), suggesting that carbon isotope fractionation was maximized because carbon dioxide concentrations were very high.\nPreviously, we applied that approach to a carbon isotope excursion in the early Katian (or Guttenberg Carbon Isotope Excursion, GICE), interpreting a decline in D13C values in Pennsylvanian strata as evidence for a pCO2 drawdown (Patzkowsky et al., 1997). More recently, Young et al. (2008) expanded those analyses to GICE records in West Virginia, China and Oklahoma, identifying marked differences among sections. Similar approaches are widely applied to other Paleozoic strata, such as the Hirnantian Carbon Isotope Excursion (HICE), but such work is typically based on bulk organic carbon, even though its d13C values can be affected by changes in the dominant primary producers (e.g. Pancost et al., 2001), differential preservation of isotopically distinct compound classes (e.g. van Kaam-Peters et al., 1998) or mixing of bacterial or zooplanktonic contributions with primary biomass. Although some marine compound-specific and bulk carbon isotopic records yield broadly similar conclusions, i.e. the Cretaceous Cenomanian–Turonian Boundary (CTB; Arthur et al., 1988; Freeman and Hayes, 1992; Sinninghe Damsté et al., 2008), that is not always the case, including some GICE sections (Pancost et al., 1999).\nAnother issue associated with the application of the D13C proxy is its sensitivity to local ecologic and paleoceanographic processes. Both cell geometry and growth rates exert significant controls on algal ep values, and these can\nbe synergistic, such that low surface-to-area ratios tend to make fractionation more sensitive to growth rate variations (Popp et al., 1998). Many carbon isotope excursions, including the GICE, the Hirnantian Carbon Isotope Excursion (HICE), the F/F boundary and CTB CIEs, are associated with dramatic oceanographic and biological changes that likely impacted primary producers and bulk organic matter d13C values (Young et al., 2008). Specifically, the GICE is associated with sea level fall (marked by the M4–M5 sequence boundary, e.g. Patzkowsky and Holland, 1993) and early Katian biotic turnover (Sloan and Webers, 1987; Patzkowsky and Holland, 1993, 1996, 1997; Frey, 1995; Sloan, 1995; Ainsaar et al., 2004).\nWe present new and, in some cases, expanded d13Corg records for four sites (Iowa, Ontario, Pennsylvania and Estonia) across the GICE, an event that has been studied at exceptional geographic scales (e.g. Patzkowsky et al., 1997; Ainsaar et al., 2004; Ludvigson et al., 2004; Saltzman and Young, 2005; Young et al., 2008; Bergström et al., 2009, 2010a,b,c). Compound-specific isotopic analyses can restrict the taxonomic provenance of isotopic signals (e.g. Jasper and Hayes, 1990), and we have determined d13C values of phytoplankton biomarkers in the Iowa, Ontario and Estonia sections. We use these to calculate new D13C and ep records for each site, and we use concentrations and distributions of algal and microbial biomarkers, steranes and hopanes, to constrain local biotic and environmental change from global influences on d13Corg records. We compare our isotopic records to recently published sea surface temperature estimates from conodont apatite (Buggisch et al., 2010, 2011; Herrmann et al., 2010, 2011; Rosenau et al., 2012) as well as lithological changes (Holland and Patzkowsky, 1996; Pope and Read, 1997). We conclude by integrating these records to advance our understanding of early Katian climate change. We also illustrate how the guidance from biomarkers can aid future efforts to reconstruct Paleozoic climates and ocean processes."
+  }, {
+    "heading": "2. SAMPLES AND METHODS",
+    "text": ""
+  }, {
+    "heading": "2.1. Sample locations",
+    "text": "North American rocks were collected in Pennsylvania, Southern Ontario, and Iowa: (1) from an outcrop located on the west bound exit ramp from Highway 322 at the intersection with Highway 655 in Reedsville, Pennsylvania; (2) from the Cominco SS-9 core (Millbrook Farms, Jackson County, Iowa; NE1=4 NE1=4, Sec. 29, T84N, R1E; archived at the Iowa Geological Survey); and (3) from the OGS-82-3 core (Southern Ontario; 81 904500W, 42 4001500N; archived at the Ontario Geological Survey, Sudbury, ON). Estonian rock samples are from the Ristiküla (No. 174) core situated in south-western Estonia (24 4803000E, 58 1004500N; archived at the Estonian Geological Survey)."
+  }, {
+    "heading": "2.2. Paleogeographic setting and lithology",
+    "text": "The Iowa and Ontario sections were deposited on a relatively stable carbonate platform in central Laurentia (Fig. 1), with circulation between the two locations\nrestricted by the Algonquin, Findlay, and Wisconsin arches (Hatch et al., 1987). Southern Ontario is closer to the Taconic orogen, and strata were deposited in deeper waters there than in Iowa (Melchin et al., 1994; Ludvigson et al., 1996). Both experienced lithological variation in the study interval, associated with the M4–M5 sequence boundary described by Patzkowsky and Holland (1993). In Iowa, pre-GICE sediments are represented by the Platteville Formation, which consists of bioturbated (Planolites, Chrondites, and Thalassinoides burrows, Byers, 1983) mudstones with interbedded fossil lenses. The Decorah Formation consists of the Spechts Ferry, Guttenberg, and Ion members and overlays the Platteville Formation. The basal Spechts Ferry Member consists of interbedded shales and argillaceous limestones (predominantly coarse packstones). Wackestones predominate in the Guttenberg Member, which is also characterized by Planolites and Chrondites burrows and decreased bioturbation and fossil abundances (Ludvigson et al., 1996). Bioturbation and bioclastic material becomes more abundant through the Guttenberg Member, and skeletal packstones predominate in the Ion unit. Total organic carbon contents also vary between units, from 0.2% to 2% in the Platteville and Spechts Ferry units, from 1% to 40% in the Guttenberg and <0.5% in the Ion Member.\nOntario strata are composed of heterogeneous mixtures of wackestones, packstones, and skeletal and peloidal grainstones (Melchin et al., 1994) that have been interpreted as storm-generated tempestites (Brookfield and Brett, 1988). Brachiopods, echinoderms, and bryozoans are the most abundant fossils and occur commonly throughout the interval. The Coboconk Formation comprises medium to thick carbonate beds and sparse shale\ninterbeds. Bioturbation, including Planolites and Chrondites burrows (Noor, 1989), is abundant in some intervals, but both planar and cross laminations are also present (Melchin et al., 1994). The transition to the Kirkfield Formation is characterized by a marked increase in argillaceous content, which occurs as thin shale partings (Melchin et al., 1994). Fossils and sedimentary structures are less abundant than in the Coboconk Formation, but fossil abundances increase and shale contents decrease upsection through the Kirkfield Formation (Melchin et al., 1994). The lower Sherman Falls Formation is gradational with the Kirkfield Formation and characterized by gradually increasing calcareous shale abundances, abundant bioturbation, and abundant and diverse fossil assemblages (Melchin et al., 1994). The Cobourg and Sherman Falls Formations are lithologically similar.\nThe Pennsylvania section was deposited in the considerably deeper waters of the subsiding foreland basin associated with the Taconic orogeny. The Nealmont and Coburn Formations are broadly similar at the Reedsville outcrop, comprising thinly to medium bedded carbonate mudstones and wackestones with occasional, very thin shale interbeds (Patzkowsky et al., 1997).\nThe Estonian Ristiküla (No. 174) core is located within the facies transition between the Estonian Shelf and Livonian Basin (Ainsaar et al., 2004). The pre-GICE sediments are represented by the argillaceous wackestones of the Kahula Formation. The GICE starts in the upper part of the Kahula Formation, where argillaceous content increases to 40–60% and continues in overlying dolomitized limy bioturbated siltstones of the Variku Formation. The postGICE interval is represented by two thin units of micritic limestone (Rägavere and Saunja Formations), separated\nby a wackestone/packstone bed (Mõntu Formation) (Ainsaar et al., 2004). All sample locations were located within equatorial to subtropical latitudes."
+  }, {
+    "heading": "2.3. Stratigraphic correlation",
+    "text": "The Iowa, Pennsylvanian and Estonian records are from the same materials as have been reported previously (see above); we have added new carbon isotopic data from all three and introduce a new Southern Ontario (Canada) site as part of this work. The GICE has been documented in geographically widespread and palaeoceanographically distinct strata from Iowa (Central USA; Patzkowsky et al., 1997; Ludvigson et al., 2004), Pennsylvania (Eastern USA; Patzkowsky et al., 1997), West Virginia and Oklahoma (Young et al., 2008), Estonia (Ainsaar et al., 1999, 2004), Nevada (Saltzman and Young, 2005), Malaysia (Bergström et al., 2010a), Sweden (Bergström et al., 2010b,c) and South China (Bergström et al., 2009). However, because a comparison of timing in D13C shifts amongst geographically widespread locations is an important component of our interpretation, our stratigraphic correlations are based on conodont and graptolite biostratigraphy with supplementary correlation based on traceable K-bentonites. In order to avoid circularity, we do not employ isotope chemostratigraphy.\nConodont assemblages provide a basis for correlation in North America (Sweet, 1985). The base of the Pranognathus tenuis zone coincides with the base of the Guttenberg member of the Decorah Formation in Iowa. The location of the Phragmodus undatus–P. tenuis boundary is less clear in Pennsylvania and Ontario strata. In Pennsylvania, Sweet places the boundary near the Salona–Coburn boundary (Patzkowsky et al., 1997), but the Salona–Coburn boundary could be time-transgressive across the basin. In Ontario, the base of the P. tenuis zone is in the upper Kirkfield Formation (Sweet, 1985), but its precise location is unclear, and the Kirkfield–Sherman Falls boundary is also likely time transgressive. As such, the base of the P. tenuis zone is only approximately located for our Pennsylvanian outcrop and the southern Ontario core. The P. tenuis–Belodina confluens boundary, located in the Dunleith Formation (Iowa), the lower Cobourg Formation (Ontario) and the Antes Shale (Pennsylvania) offers a further constraint.\nThe Deicke and Millbrig K-bentonites represent two of the largest volcanic deposits in the geologic record in terms of areal extent (Christidis and Huff, 2009). They are found in outcrops and cores from across central and eastern North America (Kolata et al., 1996), and where present, these ash beds can be used for high-resolution lithostratigraphic correlation of sections. Both occur below the M4/ M5 sequence boundary (Holland and Patzkowsky, 1996). The Deicke K-bentonite was identified and the Millbrig bentonite tentatively identified in the SS-9 core and the OGS-82-3 core. Both bentonites were identified in the Reedsville, Pennsylvania outcrop (Kolata et al., 1996; Patzkowsky et al., 1997).\nCorrelations between the North American and Baltoscandian sections are based on conodont and graptolite biostratigraphy (Bergström et al., 2010b). The carbonate\ncarbon isotope excursion in North America begins in the upper Amorphognathus tvaerensis conodont zone (Bergström, 1971) and is contained largely within the P. tenuis conodont zone (Sweet, 1985). In Sweden, the isotope excursion also begins in the upper A. tvaerensis conodont zone and extends into the lower Dicellograptus clingani graptolite zone. Two North American graptolite species, Climacograptus bicornis and Climacograptus spiniferus, also occur in Baltoscandia and can be used to correlate the A. tvaerensis and Amorphognathus superbus conodont zones to Baltoscandia. The isotope excursion in Baltoscandia is in the upper part of the C. bicornis range, which places it near the base of the P. tenuis boundary in North America.\nIt had been proposed that the Estonian Kinnekulle Kbentonite is is correlative with the Millbrig (Ainsaar et al., 2004) but apatite phenocryst compositions indicate they represent different eruptive events (Sell and Samson, 2011). Although we include the Kinnekulle K-bentonite in our figures, we do not use it for stratigraphic correlation."
+  }, {
+    "heading": "2.4. Analytical methods",
+    "text": "Organic geochemical methods (Pancost et al., 1998, 1999) are summarized here. Samples were gently washed with methanol and powdered with a ball-mill device. The powdered samples were extracted using a Soxhlet apparatus with a 2:1 dichloromethane:methanol azeotrope for at least 24 h. The total organic extract was separated by column chromatography into hydrocarbon, aromatic, and polar fractions. The hydrocarbon fraction was further divided into n-alkanes and branched/cyclic hydrocarbons by adduction with urea. Carbon-isotopic ratios of individual compounds in the hydrocarbon fraction were determined by gas chromatography-isotope ratio mass spectrometry (GC-IRMS) using a Finigan MAT 252, and d13C values relative to PDB were calculated by comparison against a calibrated CO2 gas (against NBS-19) and are reported in standard delta notation (with units of per mil) relative to V-PDB. Uncertainties, determined using co-injected standards, are ±0.3& for n-alkanes, pristane, and phytane, and ±0.5& for cyclic compounds. For gas chromatography-mass spectrometry (GC–MS) analyses, aliquots of hydrocarbon fractions were injected via autosampler into a Hewlett Packard 6890 gas chromatograph and analyzed by an HP 5972MSD. For all GC analyses, a methylsilicone-phase capillary column (60 m 0.25 mm 0.25 lm film thickness) was used.\nCarbonate d13C values were determined by dissolving samples in phosphoric acid and measuring liberated CO2 on a Finnigan MAT 252 stable isotope mass spectrometer. Prior to measurement, samples were heated for 1 h under vacuum at 380 to remove volatile organic material. For both Pennsylvania and Ontario samples, micrite d13C values were determined, and for Estonia and Iowa samples, whole-rock carbonate d13C values were measured. Total organic carbon (TOC) d13C values were determined by heating decalcified samples under vacuum at 800 for five hours; liberated CO2 was cryogenically purified in a glass vacuum system and introduced to the MAT 252 IRMS via the dual-inlet system. For all, analytical error is ±0.1&."
+  }, {
+    "heading": "3. RESULTS",
+    "text": ""
+  }, {
+    "heading": "3.1. Organic and inorganic carbon isotopic records",
+    "text": "For the four sites studied here, pre-excursion d13C background values for micritic carbonate range from 1& to 1.5& (Fig. 2, Electronic Annex: Tables 1–4). These values are broadly consistent with those observed from other sites (e.g. 0.5–1& in China, Bergström et al., 2009; 0& in Oklahoma; 0.8& in Sweden, Bergström et al., 2010b), and the variation likely reflects geographical differences in palaeoceanographic conditions (Panchuk et al., 2005, 2006; Fanton and Holmden, 2007). For example, lower carbonate d13C values in the Iowa and Oklahoma sections could record the influence of upwelling (Patzkowsky et al., 1997; Young et al., 2008), effective recycling of organic carbon in the water-column, or greater input of 13C-depleted terrestrial bryophyte biomass to the inner part of the Mohawkian Sea (Panchuk et al., 2005). In contrast to the wide range in pre-excursion values, the magnitude of the CIE recorded by micrite is relatively consistent, ranging from ca. +1.5& in Ontario to ca. +2& in Iowa (Fig. 2). Carbonate values exhibit a ca. 1& shift below the positive excursion in the Iowa, Pennsylvania and Estonian sections, as well as a West Virginia section (Young et al., 2008). The positive\nCIE in carbonate carbon generally begins just above the Deicke and Millbrig K-bentonites and reaches maximum values prior to the base of the P.undatus–P. tenuis boundary, as noted by previous workers. However, there are deviations from this: the onset of the CIE in Ontario precedes the K-bentonites and in Iowa it peaks above the first P. tenuis occurrence (Fig 2). We identify the carbonate CIE in all four sections as the GICE, after Patzkowsky et al. (1997).\nA positive organic carbon isotope excursion is well represented in all localities, but amplitudes differ significantly (Fig. 3). In Iowa, it is 7.5& (Hatch et al., 1987; Patzkowsky et al., 1997), whereas in Ontario, Pennsylvania and Estonia the excursion is 2&, 4& and 2.5&, respectively. Similar organic carbon isotope excursions are documented in China ( 1.5&) and West Virginia (2&) (Young et al., 2008). In contrast, in Oklahoma, researchers observed a +1& excursion, followed by a 3& shift (Young et al., 2008).\nSome of this isotopic variability is due to changes in the proportional contributions to sedimentary organic matter from Gloeocapsamorpha prisca which is characterized by 13C-enriched biomass (Jacobson et al., 1995; Pancost et al., 1999). This influence is evident in the occurrence and d13C values (up to 22&) of lipid biomarkers for Gloeocapsomorpha prisca (e.g. 2-methyldocecylbenzene and low-molecular-weight, LMW, n-alkanes such as\nith regional formation names included; Note: S.F. = Spechts Ferry numbers increase with depth in cores (Iowa, Ontario, Estonia) and and Millbrig K-bentonites in panels A–C and the Kinnekulle Knuis conodont zone. The base of the Katian stage is dated at\nre, the isotope excursion, is constrained to be less than 1 Myr in\nn-C17; Fig. 3). Compounds not derived from G. prisca (i.e. hopanes, n-C28) from Iowa, Ontario and Estonia have d\n13C values ranging from 29& to 32&. These values are 1–2& higher than those determined for the Frasnian– Fammenian Boundary (Joachimski et al., 2002) and comparable to those typically determined for Mesozoic sediments (e.g. Hayes et al., 1990).\nThe SS-9 Core from Iowa is thermally immature with respect to petroleum generation and afforded the greatest variety of biomarkers for isotopic determination. The n-alkane d13C values were previously discussed in Pancost et al. (1999), where it was shown that LMW homologues derive from multiple sources, including G. prisca, accounting for the large shift in both molecular and total organic carbon isotopic composition. In contrast, high-molecular-weight (HMW; n-C28 shown in Fig. 3) homologues derive from a range of sources but not G. prisca. Here, we present new d13C values of diacholestane, pristane and phytane and C30,31,32 hopanes, biomarker compounds from algae and bacteria. Their d13C values increase by 3& in the Spechts Ferry Member just above the K-bentonites. Specifically, octacosane (n-C28) and pristane d\n13C values rise from 31& to 28&; phytane values rise from 30& to 26&; and hopane values exhibit a 2& range and collectively rise by 3& (i.e. from between 34& and 32& to between 31& to 29&; Fig. 3). The consistent +3& 13C enrichment in phytoplankton and bacteria biomarkers that do not appear to derive from G. prisca, confirm that the isotopic excursion in organic matter is not simply an artefact of inputs from this unusual organic matter source.\nThe OGS-82-3 core in Southern Ontario is more thermally mature than the Iowa locality. Here, steranes and hopanes are present in low concentrations, and d13C values of only n-alkanes, pristane and nor-pristane could be determined. Similar to Iowa, the CIE recorded by LMW\nn-alkanes (+5&) is larger than that observed for HMW n-alkanes, pristane and nor-pristane, (+2& to 3&; Fig. 4). In contrast to Iowa, total organic carbon records a d13C increase that is similar to the algal compounds not from G. prisca, suggesting its biomass contributions to the total carbon pool were less pronounced in this region. The timing of the positive CIEs in Iowa and Ontario are similar. The isotopic shifts occur just above the K-bentonites – that is in the uppermost Coboconk Formation in Ontario. We note that molecular d13C values, especially pristane and phytane and possibly the hopanes (but note the larger error of those measurements), increase prior to this, although the trend is not sufficiently constrained by baseline data below the study interval.\nPreviously, Ainsaar et al. (1999, 2004) published the inorganic carbon isotope stratigraphy of the Ristiküla (No. 174) core situated in south-western Estonia. Bulk organic matter exhibits a 3& positive CIE, with the shift to positive values initiating above the Kinnekulle K-bentonite within the Keila Formation. The high thermal maturity of the Estonian section results in very low biomarker concentrations, although we were able to measure the most abundant n-alkanes (n-C16, n-C20, n-C28). d\n13C values of nalkanes show changes that are similar to that of bulk organic matter (Fig. 5)."
+  }, {
+    "heading": "3.1.1. Coupled inorganic–organic isotopic records",
+    "text": "We calculated D13C (=d13CCaCO3 d13Corg) using total organic carbon from all four localities. In the Iowa and Ontario sections, we also employed d13C values for n-C28, pristane and phytane to calculate D13C (=d13CCaCO3 d13Clipid), although this calculation does not account for lipid-biomass fractionation such that absolute values of D13CTOC and D\n13Clipid are not directly equivalent. In the Estonia sections, the biomarker and bulk organic matter\nd13C trends are similar and so we only calculate D13C values using the latter as those data have a higher resolution. As noted above, compound specific d13C values could not be determined for the Pennsylvania section.\nChanges in D13C values are similar for both biomarkers and bulk organic carbon – excepting the biased D13CTOC records from Iowa and Ontario (Fig. 6). Crucially, at all four sites D13C values decrease during the GICE by ca. 1–2&. A similar decrease in D13C values occurs in China and has been correlated to the decrease in Pennsylvania (Young et al., 2008). At all sites, the D13C decrease occurs after the deposition of the major K-bentonites (Deicke and Millbrig in North America and Kinnekulle in Estonia), after the onset of the GICE, but prior to the observed or inferred P. undatus–P. tenuis boundary.\nRegional differences in the timing of the D13C decrease are apparent. In Iowa and Ontario, the onset of isotopic shifts occurs in strata immediately overlying the bentonites, and in Pennsylvanian and Estonian it starts further up section. The apparent delay in Pennsylvania and Estonia are potentially a consequence of extremely high sediment accumulation rates, compared to low sedimentation rates or even depositional hiatuses at the shallower sites (Iowa, Ontario) associated with a transgressive lag (Patzkowsky and Holland, 1996). Regional differences are also apparent in the timing of the D13C decrease relative to the inorganic carbon isotope records (i.e. the GICE). In Iowa, the D13C decrease occurs prior to the peak GICE, whereas at the\nother sites, including China and West Virginia (Young et al., 2008), it occurs during the plateau of elevated inorganic carbon d13C values (Fig 6)."
+  }, {
+    "heading": "3.1.2. Ordovician ep values",
+    "text": "We convert D13C values to ep values by: (1) estimating the d13C of CO2(aq) from carbonate values and (2) applying a correction for isotope fractionation during lipid synthesis. We assume a sea surface temperature of 30 C and apply the fractionation factors for the carbonate system of Romanek et al. (1992). Our temperature choice is 5 C higher than recent SST reconstructions (Buggisch et al., 2010), but the difference is not significant to our ep estimates. We use a 4& biosynthetic offset between lipids and algal biomass. Lipid synthesis fractionation factors are not well studied, especially for phytoplankton taxa important in Paleozoic oceans. Available culture data suggest lipid-biomass carbon isotopic differences can vary due to different lipid synthesis pathways (e.g. Schouten et al., 1998) and variation in the allocation of carbon to lipid pools (Hayes, 2001). Thus the 4& offset has come to be a conventional number (i.e. following Hayes 1993); we use it here in order that ep values can be compared to values determined for other time intervals. Comparison of our biomarker-based estimates to modern ep values is speculative and we do so only to illustrate environmental and biological constraints on pCO2 interpretations. The calculated ep values (Fig. 7) range from approximately 18–21& before\nthe GICE and peak at 16–19&, with Iowa and Pennsylvania representing the low and high end-members, respectively (Fig. 7)."
+  }, {
+    "heading": "3.2. Changes in algal assemblages during the GICE",
+    "text": "In the modern ocean, algal ep values are governed by ecological and physiological factors that influence the rate of carbon fixation relative to its supply, potentially obscuring the influence of pCO2 changes (see below). We use biomarker distributions to evaluate broad patterns of ecological change that could have been associated with the environmental changes of the GICE, analogous to investigations of other major events in Earth history (e.g. Permo-Triassic Boundary, Xie et al., 2005; Nabbefeld et al., 2010)."
+  }, {
+    "heading": "3.2.1. Gloeocapsomorpha prisca signatures",
+    "text": "Gloeocapsomorpha prisca is an organic-walled microfossil of controversial habitat and physiology (see Hoffman et al., 1987; Foster et al., 1989; Derenne et al., 1990, 1992; Blokker et al., 2001) and largely limited to Ordovician deposits (Foster et al., 1989). In Iowa, G. prisca fossils have been identified in the Guttenberg Member in both outcrop and the SS-9 core (Hatch et al., 1987; Jacobson et al., 1988; Pancost et al., 1998), with their first occurrence in the low-\nermost part of that unit. Jacobson et al. (1988) and Pancost et al. (1998) further reported that geochemical properties characteristic of G. prisca, such as the abundance of odd, low-molecular weight n-alkanes, vary with G. prisca abundances determined by petrographic observations (Fig. 8). In Iowa, G. prisca is present in low concentrations in the Platteville and Ion units, with abundances less than 25– 10% of the total observed organic matter. It is either not observed or <5% of the organic matter in the Spechts Ferry Member. It is most abundant, comprising over 90% of the total organic matter, in the Guttenberg Member (Fig. 8; Pancost et al., 1998). The high abundances in the Guttenberg Member correspond to high TOC contents (frequently over 20% TOC) and the most 13C-enriched bulk organic carbon.\nIn Ontario, geochemical evidence, including the distributions of n-alkanes, n-alkylbenzenes and n-alkyltoluenes (Fowler et al., 1985; Hoffman et al., 1987; Foster et al., 1989), indicate that G. prisca-derived organic matter is also present, although petrographic analyses were not useful due to low organic carbon contents. Fig. 8 shows the close relationship between G. prisca abundances and the ratio of odd-over-even LMW n-alkanes in Iowa strata, suggesting that their distribution can be used to evaluate G. prisca in Ontario. This approach is further justified by comparison of n-C17 and n-C28 d 13C values. The latter do not derive\nD ep\nth (m\n)\nR .D . P an co st et al./ G eo ch im ica et C o sm o ch im ica A cta 105 (2013) 433–454 441\nfrom G. prisca and exhibit relatively little short-term variability and a carbon isotope excursion of ca. 3&, whereas n-C17 d\n13C values exhibit a 5& total excursion and significant short-term variability that coincides with changes in the odd-over-even ratio of LMW n-alkanes. In Ontario, highest G. prisca abundances occur between the Deicke K-bentonite and the P. undatus–P. tenuis boundary (Kirkfield Formation), the interval characterized by the lowest G. prisca abundances in Iowa. Geochemical data suggest that relative contributions from G. prisca abundances to TOC were lower in Ontario than in Iowa. Given the significantly lower TOC in the Ontario section, we suggest G. prisca biomass was low in an absolute sense as well."
+  }, {
+    "heading": "3.2.2. Hopanes and 2-methylhopanes",
+    "text": "Rocks from both Ontario and Iowa contain diverse hopanes, ranging in carbon number from C27 to C35; such compounds occur widely in marine sedimentary rocks and derive from bacteriohopanepolyols (BHPs) produced by many bacteria (e.g. Rohmer et al., 1992). Both Ontario and Iowa rocks contain abundant 2a-methylhopanes, ranging in carbon number from C28 to C36. A-ring methylated hopanes can derive from a number of cyanobacteria species (Summons et al., 1999) and Rhodopseudomonas palustris, an anoxygenic phototrophic bacterium (Rashby et al., 2007), although their phylogenetic occurrence is potentially much broader (Welander et al., 2010). They are conventionally applied as signatures of cyanobacteria in both Phanerozoic\n(Kuypers et al., 2004; Xie et al., 2005) and Precambrian (Brocks et al., 1999) marine deposits. To date, studies of BHPs fail to detect abundant 2-methyl forms in open marine waters (e.g. Saenz et al., 2011), and thus the conventional interpretation is paradoxically not consistent with lipids in modern marine environments. The methylhopane index is determined from the abundance of 2a-methyl17a,21b(H)-hopane normalized to 17a,21b(H)-homohopane. In Iowa, the methylhopane index decreases by a factor of four, from 0.2 to 0.05, across the boundary between the Platteville and Decorah Formations (Fig. 9; see also Pancost et al., 1998). The decrease occurs immediately above the Deicke and Millbrig K-bentonites, coinciding with the base of the CIE. A similar, albeit smaller, decrease in methylhopane indices (from 0.09 to 0.03) occurs in Ontario strata. The decrease in Ontario also occurs between the bentonites and the base of the P. tenuis zone, but in contrast to Iowa, it occurs approximately 10 m above the Deicke K-bentonite."
+  }, {
+    "heading": "3.2.3. Steranes",
+    "text": "Steranes are tetracyclic biomarkers generated by diagenetic and catagenetic alteration of sterols, compounds that are ubiquitous in extant eukaryotic organisms (e.g. MacKenzie et al., 1982). The relative proportions of sterane homologs follow changes in major phytoplankton groups over the Phanerozoic (Grantham and Wakefield, 1988; Kodner et al., 2008). We interpret sterane distributions, re-\nIowa Ontario\nported as the abundance ratio of a given sterane [5a(H),14b(H),17b(H) (20R + 20S) isomers] to total C27–29 steranes as indicators of changes in the phototroph community but we do not tie compounds to particular taxonomic groups. Triaromatic steroids (TAS) are interpreted in a similar manner. Their carbon numbers range from C26–28 rather than C27–29 due to loss of a methyl group during aromatisation. TAS abundances record slightly different precursor inputs than steranes, because they derive from monoaromatic steroids which form preferentially from sterols with a side chain double bond (Riolo and Albrecht, 1985; Moldowan and Fago, 1986). We report C28 TAS relative abundances (to total C26–28 TAS); co-elution prevented discrete quantification of the C26 or C27 TAS isomers.\nSterane distributions in Ontario and Iowa sections are similar (Fig. 10a and b). At both locations the percentages of C27 steranes (of total C27–29 steranes) range from ca. 30% to 40%, the percentages of C28 steranes range from ca. 15% to 25%, and the percentages of C29 steranes range from ca. 40% to 55%. Moreover, secular trends are similar at both locations: %C29 steranes decrease and %C27 steranes increase in the horizons just below the Deicke and Millbrig K-bentonites. Triaromatic steroid distributions are also\nsimilar at the two locations (Fig. 10c and d). Co-elution between some C26 and C27 TAS isomers prohibited independent calculation of those compound’s abundances, and we report only C28 TAS abundances as a percentage of total C26–28 TAS. C28 TAS percentages range from ca. 60% to 80% at both locations and secular trends are the same: percentages of C28 TAS increase in the interval prior to the Deicke and Millbrig bentonites, then decrease from 75% to 60% in the sediments immediately overlying the bentonites. The decrease is abrupt in Iowa strata but more gradual in Ontario, where it spans the 5 m above the Deicke bentonite.\nCyanobacteria and unicellular green algae (Chlorophyceae; Prasinophyceae) were likely important photoautotrophs in the Ordovician. Green algae can synthesize significant quantities of 24-ethylcholest-5,24(28)-dien-3b-ol (a probable source of C28 TAS) (Volkman, 1986; Volkman et al., 1998). Thus, we suggest that the observed trends record a pronounced decrease in the proportional abundance of unicellular green algae. Regardless of specific steroid sources, the observed trends reveal that surface water algal assemblages varied over time and that these variations are correlative across the central North American carbonate platform.\n2α-Methylhopane:Hopane Ratio\nAryl Isoprenoid Concentration"
+  }, {
+    "heading": "3.2.4. Aryl isoprenoids, isorenieratane and fossil evidence for anoxia",
+    "text": "We previously reported significant variations in the water-column redox state in Iowa (Pancost et al., 1998). Specifically, sediments, and possibly bottom-waters, became more reducing during deposition of the Platteville Formation. This culminated with deposition of aryl isoprenoids and isorenieratane derived from green sulphur bacteria (Chlorobiaceae, Liaaen-Jensen, 1978), indicating that part of the photic zone had become at least intermittently euxinic during deposition of the Spechts Ferry Member (Fig. 9a), coinciding with a change in lithology from carbonates to shales. Anoxic conditions appear to be restricted to the Spechts Ferry Member and did not apparently persist into the P. undatus biozone, and the Guttenberg Member at Iowa was deposited under generally oxidizing bottomwaters; high TOC contents in this unit are instead associated with the production of highly refractory, G. prisca-derived organic matter. Abundant fossils and extensive bioturbation also indicate that sediments were well-oxidized during deposition of the lowermost Ion Member.\nIn Ontario sediments, although isorenieratane is absent, possibly due to the elevated thermal maturity, 2,3,6-trimethyl aryl isoprenoids (Summons and Powell, 1987), are present. These structures are diagenetic alteration products of isorenieratene, although they can also derive from other carotenoids. Their trace concentrations precluded measurement of d13C values and confirmation of a green sulfur bacterial source (Quandt et al., 1977; Sirevag et al., 1977; Koopmans et al., 1996). However, sedimentological indicators suggest that redox changes paralleled those observed in Iowa. Abundant fossils and bioturbation indicate that the Coboconk Formation was deposited when bottom-waters and sediments were oxidizing; similarly, carbonate beds in the Sherman Falls Formation are highly bioturbated and fossils are abundant and diverse, suggesting that bottomwaters were well oxygenated (Melchin et al., 1994). In contrast, the Kirkfield Formation is characterized by uncommon bioturbation, occasional planar lamination and a relative dearth and low diversity of fossils, suggesting that it was deposited in a restricted and oxygen-low environment (Melchin et al., 1994). Thus, oxygen-poor and even euxinic waters appear to have spread across parts of the central North American carbonate platform, approximately coinciding with the M4–M5 sequence boundary and the base of the GICE."
+  }, {
+    "heading": "4. DISCUSSION",
+    "text": "The GICE is found on multiple continents, which confirms it was a global event. However, the causes and consequences of the GICE remain unclear. In the following, we employ our coupled carbon isotopic and molecular records to explore changes in ocean biogeochemistry during the GICE, taking into account biological and ecological caveats to a global climate interpretation of changes in isotopic signals. We conclude by discussing the possible causes of the GICE and its role in Late Ordovician climate.\n4.1. GICE D13C and ep values as evidence for low Ordovician pCO2\nCalculated ep values are rarely explicitly reported for the Paleozoic, due in large part to questions regarding the applicability of modern relationships to ancient settings (see below). However, they are implicitly interpreted in any consideration of ancient D13C records, and modern relationships are required to constrain and understand the limits of interpretation. A key assumption in all such work is that the organic isotopic signatures predominantly arise from diffusional transport of CO2(aq), although some organisms use carbon concentrating mechanisms (CCM) particularly when [CO2(aq)] is low (e.g. Sharkey and Berry, 1985; Descolas-Gros and Fontugne, 1990; Raven and Johnston, 1991; Morel et al., 1994; Rost et al., 2003). For modern photoautotrophs assimilating CO2aq and using diffusional transport, there is a negative and linear correlation between [CO2]aq\n1 and ep, with the slope of that relationship dependant on cellular carbon uptake and CO2 supply (Popp et al., 1998; Riebesell et al., 2000):\nep ¼ ef þ ðef etÞ 1 lC\nkCO2ðaqÞ\nð1Þ\nThe terms ef and et are carbon isotope fractionations associated with carbon fixation and carbon transport across the cell membrane, respectively, l is algal growth rate, C is the carbon content of the cell, and k is the rate constant for the diffusion of CO2aq into and out of the cell (Laws et al., 1995). Popp et al. (1998) further showed that the key physiological variables in Eq. (1) can be related to cell geometry, expressed as the surface area to volume (SA/V) ratio, and algal growth rate, allowing Eq. (1) to be cast in terms of more readily measured variables:\nep ¼ ef b0l\nCO2aq\nV SA\nð2Þ\nwhere ef has been empirically determined to be 25.3&, and the b0-term, which encompasses a range of physiological factors, has been determined to be 182. A contracted version of Eq. (2) combines the growth and geometric variables, and is commonly used in paleo-pCO2 reconstruction (Bidigare et al., 1997). The simpler form was derived using data for Emiliania huxleyi (Bidigare et al., 1997) and is not applicable to other phytoplankton communities. Here, we use Eq. (2) to constrain the sensitivity of fractionation – and by extension, reconstructed D13C values – to ecological, environmental and physiological controls that were potentially important in ancient oceans.\nAlthough isotopic fractionation by modern analogues for the photoautotrophs that dominated Ordovician primary productivity are not well studied, their carbon isotopic compositions were likely governed by similar physical and biological principles. Popp et al. (1998) showed that carbon isotope fractionation by three phytoplankton species, Porosira glacialis, Phaeodactylum tricornutum and Emiliania huxleyi, follows this relationship, although cultured cyanobacteria did not. Thus, the qualitative response\nof ep to changes in growth rate, cell geometry and [CO2(aq)] are likely robust, although the sensitivity of each relationship could vary. Perhaps a more fundamental concern is whether the ef term has changed over geological time. The value of 25.3& is culture-derived and lower than that observed for the pure enzyme, prompting Pagani et al. (2011) to suggest that it could have been higher during times of elevated pCO2 when CCMs are likely suppressed. Conversely, recent work has shown that Rubisco exhibits remarkable plasticity and can be optimized for a given CO2/O2 environment (or subcellular environment; Tcherkez et al., 2006, and references therein); because the specificity for CO2 appears to be associated with its kinetic isotope effect (Tcherkez et al., 2006), times of elevated pCO2, potentially associated with lower Rubisco specificity, could be characterized by a lower rather than higher ef value. The fact that calculated ep values have changed over extended intervals of geological time (Popp et al., 1989; Freeman and Hayes, 1992; Pagani et al., 2005) suggests that if such an optimization mechanism does exist, it is not so efficient as to undermine the qualitative nature of photosynthesisbased paleobarometry; however, quantitative pCO2 estimates should be done with caution.\nDuring the GICE, all biomarker-based D13C and ep values decrease by 2–3&. This is also true for the bulk organic D13C records from Estonia and Pennsylvania as well as previously published records from China and West Virginia but not Oklahoma (Young et al., 2008). This response is in marked contrast to the lack of a decrease at the Frasnian–Fammenian boundary (Joachimski et al., 2002) but similar to analogous events during younger parts of the geologic record (e.g. Hayes et al., 1990). Intriguingly, the Hirnantian Carbon Isotope Excursion (HICE) is associated with similar estimated ep values as the Cenomanian–Turonian boundary and the GICE, but they are relatively stable or even slightly increase during that event (Jones et al., 2011).\nThe decline in (already low) ep values during the GICE could reflect a CO2 decline, elevated algal growth rates or increased dominance of photoautotrophs with low SA/V ratios (Popp et al., 1998). There is evidence for changes in ecological conditions from our biomarker records and from previous work on the GICE, which is associated with the major M4–M5 sequence boundary (e.g. Patzkowsky and Holland, 1993), early Katian biotic turnover (Sloan and Webers, 1987; Patzkowsky and Holland, 1993, 1996, 1997, 1999; Frey, 1995; Sloan, 1995; Ainsaar et al., 2004; Layou, 2009) and significant lithologic change (Holland and Patzkowsky, 1996) in North America and Baltoscandia. Evidence for profound variation in basin circulation in eastern North America includes a transition from tropical to temperate-type carbonates (Brookfield, 1988; Lavoie, 1995; Holland and Patzkowsky, 1996), a decline in the abundance of calcareous algae and cyanobacterial mats (Holland and Patzkowsky, 1996) and an increase in phosphorite deposits (Holland and Patzkowsky, 1996, 1997; Witzke and Bunker, 1996). Similar lithologic changes and biotic turnover have been documented in Baltoscandian units (Ainsaar et al., 2004 and references therein). The potential causes for these environmental changes remain de-\nbated but range from the effects of the Taconic Orogeny on regional circulation patterns (Patzkowsky and Holland, 1993, 1996; Holland and Patzkowsky, 1997) to increased burial of organic carbon and a global drop in pCO2 (Patzkowsky et al., 1997). Here we complement existing data with biomarker proxies, interpret changes in phytoplankton and oceanographic conditions, and use those to constrain their potential influence on carbon isotope records."
+  }, {
+    "heading": "4.1.1. The potential effect of changes in photoautotroph assemblages on ep",
+    "text": "Changes in biomarker distributions in Iowa and Ontario are coincident with fossil evidence for turnover in marine fauna (Sloan and Webers, 1987; Patzkowsky and Holland, 1993, 1996; Frey, 1995; Layou, 2009) and provide evidence for wide-scale phytoplankton shifts. Proportional C29 sterane abundances first decrease in units underlying the Kbentonites. This precedes changes in faunal distributions and suggests oceanographic change may have already started at this time. More dramatic change follows: in the strata directly overlying the Deicke bentonite, 2-methylhopane indices and C28 triaromatic steroid proportions decrease. The molecular shift corresponds with a decline in calcareous algae and cyanobacterial mats in other North American sections (Holland and Patzkowsky, 1996). In addition, G. prisca abundances increase dramatically in both Ontario and Iowa strata.\nGloeocapsomorpha prisca molecular constituents are enriched in 13C relative to biomarkers from co-occurring photoautotrophs (see above), but we can discern the extent to which G. prisca contributions influenced bulk organic carbon with compound-specific isotope analyses. We have done so for the Iowa and Ontario sections; unfortunately, this is not possible for other localities. Thus, the records from Pennsylvania and Estonia (as well as the records of Young et al., 2008) are all based on bulk OM. For Estonia, we exclude a significant G. prisca contribution to the bulk OM, because bulk data exhibits a similar isotopic profile to our limited n-alkane d13C data.\nExclusion of a G. prisca contribution where only bulk organic isotopic records are possible requires an understanding of the controls on its occurrence, which can be deduced from our Iowa and Ontario sections. The ecology of G. prisca remains debated (Blokker et al., 2001 and references therein), but some workers have suggested that it is a mat-forming photoautotroph (Blokker et al., 2001). If so, then G. prisca inputs would have been restricted to shallow water depths and might not occur at the same time in the shallow deposits of Iowa and the deep-water sections in Ontario. Indeed, G. prisca signatures occur in the argillaceous mudstones/wackestones of the Guttenberg Member in Iowa (Ludvigson et al., 1996; Witzke and Bunker, 1996) and of the Kirkfield Formation in Ontario (Melchin et al., 1994). In other words, it is associated with similar lithofacies, but not time-equivalent units (although we note that G. prisca could have been excluded from the Spechts Ferry depositional environment by water column euxinia). We conclude that G. prisca was widespread in tropical, shallow water settings, such as the North American carbonate platform, and bulk OM d13C records from such settings\nhave a higher likelihood of being influenced by its isotopically enriched biomass. Crucially, such settings appear to have experienced a change in the proportion of G. prisca inputs, and this will introduce strong, [CO2(aq)]-independent variations in d13Corg and D13C.\nAlthough changing G. prisca inputs can be addressed, other changes in the photoautotroph assemblage could have also occurred, and these are suggested by the sterane proportions and methylhopane indices. These are significant in comparison to shifts observed in previous studies; in fact, the decrease in the methylhopane index in Iowa is nearly half the magnitude of the increase observed at the Permo-Triassic boundary, one of the major extinction events in Earth history (Xie et al., 2005). This suggests phytoplankton physiology or community changes were triggered by the environmental changes that are well documented by lithologic observations. Fig. 11a illustrates for modern algae how cell geometry ratios (SA/V) influence ep values under different CO2 levels. A shift in SA/V ratios from 1 to 0.2, equivalent to an increase in a spherical cell radius from 3 to 15 lm, can yield a 2& to 6& decrease in ep values for pCO2 between 16 PIL and <6 PIL. Thus, a shift from small cells to a predominance of large cells in photoautotroph assemblages could account for the changes in ep values. Dominant Ordovician algae were small (e.g. green algae) and the ancient oceans did not yet host relatively large unicellular algae such as the diatoms studied by Popp et al. (1998). Thus, it seems unlikely that the ecological changes observed in the Iowa and Ontario sections would have been as large as is possible in the modern oceans; nonetheless, the coincidence of ecological change with decreased D13C values in platform sections requires those records to be interpreted cautiously.\n4.1.2. The potential effect of changes in ocean circulation on ep A variety of chemical oceanographic changes can shift ep values in the absence of changing pCO2. First, the inferred cooling associated with the GICE would have increased the solubility of carbon dioxide in seawater, causing an increase in ep values for a given pCO2 level (Fig. 11c). It will also change isotopic fractionation between CO2(aq) and CO3 2 (Mook et al., 1974), resulting in greater ep values at cooler temperatures. However, there is conflicting evidence for temperature change during the GICE, with at least some interpretations of conodont oxygen isotope data suggesting warming (Buggisch et al., 2010; Rosenau et al., 2012). In addition, all of our calculations assume isotopic and chemical equilibrium between CO2 in the ocean and atmosphere, but that might not have been the case, especially if some of the studied regions were influenced by upwelling (e.g. Patzkowsky and Holland, 1996, 1997; Holland and Patzkowsky, 1997; Pope and Read, 1997). Generally, inorganic carbon in modern marine surface waters approaches but does not reach full equilibrium with the atmosphere (Gruber, 1998; Gruber et al., 1999; Freeman, 2001).\nOceanographic changes likely increased the availability of nutrients in surface waters of Early Katian seas. Compel-\nling evidence for an increase in primary productivity comes from the widespread deposition of phosphorites above the M4–M5 boundary (Patzkowsky and Holland, 1996, 1997; Young et al., 2005). Those authors suggested that a tectonically driven change in basin circulation and/or increased upwelling spread cool, oxygen-poor and nutrient-rich waters (Patzkowsky and Holland, 1996, 1997; Holland and Patzkowsky, 1997; Pope and Read, 1997), and caused lithological changes as well as the faunal turnover in the eastern United States at the M4–M5 boundary. Although the Early Katian conodont oxygen isotope evidence for ocean warming (Rosenau et al., 2012) is not consistent with sea surface cooling, it might not preclude upwelling if tropical epicontinental seas had warm intermediate waters such that increased upwelling did not lead to significantly colder surface waters. An increase in nutrient supply could alternatively reflect erosion of the Taconic highland and/or Transcontinental Arch (Patzkowsky and Holland, 1996, 1997).\nThe changes in algal biomarker assemblages potentially provide additional evidence for a change in the nutrient status. The occurrence of green sulphur bacterial biomarkers in Iowa (and perhaps Ontario) is consistent with the expansion of an oxygen minimum zone, possibly associated with upwelling of nutrient-rich waters. The 2-methylhopanes can derive from a range of bacteria (Welander et al., 2010) including nitrogen-fixing cyanobacteria; if the dominant source in these sections is indeed cyanobacteria, then the decrease in proportional abundances could document an ecological shift wherein increased nutrients favoured other photoautotrophs. We note, however, that the opposite is observed during other carbon cycle perturbations (e.g. Kuypers et al., 2004; Xie et al., 2005). If the nutrient status has changed, especially if nutrient concentrations and algal growth rates were higher, it could have had a strong impact on recorded D13C values. A doubling of algal growth rates (Laws et al., 1995; Bidigare et al., 1997, 1999; Pancost et al., 1997; Riebesell et al., 2000), (Fig. 11b) can yield a 2–3& decrease in ep values (for SA/V = 1.1, with an even larger response for smaller cells), accounting for the entirety of the decrease observed at the GICE."
+  }, {
+    "heading": "4.1.3. Implications for Ordovician pCO2",
+    "text": "There is abundant evidence that the D13C record through the GICE could have been affected by the influence of biotic processes on ep values, and it is clear that D\n13C values must be interpreted cautiously; consequently, we are reluctant to ascribe a specific pCO2 level to the late Sandbian/early Katian. However, our data suggest that pCO2 was lower than previous estimates for two reasons. First, the decrease in D13C values, regardless of mechanism, is inconsistent with very high initial concentrations of pCO2 (Fig. 7a; see also Joachimski et al., 2002; Freeman and Pagani, 2005), where the relationship between ep and [CO2(aq)] approaches its asymptote. Thus, the observed change would require a dramatic decrease in the ocean–atmosphere carbon reservoir that is inconsistent with the rather small 2& magnitude of the carbonate-carbon isotope excursion (e.g. Kump and Arthur, 1999). Second, evidence for relatively low pCO2 is provided by calculated ep values\n(Fig. 7b), which are well below the full expression of the isotope effect associated with modern Rubisco-mediated carboxylation (ef; 25.3& in Eq. (2)). In fact, the early Katian values are significantly lower than those observed for the Frasnian–Fammenian boundary (21.7–22.3&; Joachimski et al., 2002) and slightly lower than those observed before and after the C–T boundary event (ca. 20&; Hayes et al., 1990; Freeman and Hayes, 1992; Kuypers et al., 2002; Sinninghe Damsté et al., 2008; van Bentum et al., 2012).\nAs discussed above, ef could have changed during Earth history, such that the low calculated values are equivocal. Moreover, if the kinetics of Rubisco-mediated CO2 assimilation have also evolved, the anticipated low sensitivity of D13C at pCO2 levels of 10 to 20 PIL could be erroneous. We cannot currently preclude such caveats. However, given our current understanding, the observations of low observed D13C and calculated ep values, as well as apparently sensitive Katian D13C values, indicate that Late Ordovician pCO2 levels were perhaps as low as 4–8 times pre-industrial levels. This is much lower than estimates based on Hirnantian-age goethites (Yapp and Poths, 1992) and geochemical models (e.g. Berner and Kothavala, 2001). An alternative explanation is that both pCO2 and pO2 were elevated but in proportions such that CO2/O2 ratios were low, but this is also inconsistent with geochemical models (Berner and Kothavala, 2001). However, the values obtained are similar to estimates for Sandbian pCO2 (8 PIL) needed to fit estimated latitudinal temperature gradients (Vandenbroucke et al., 2010), and our estimate is still at the higher end of pCO2 levels that Herrmann et al. (2003) showed would allow development of extensive ice sheets."
+  }, {
+    "heading": "4.2. Causes of the GICE and its significance to Late Ordovician climate evolution",
+    "text": "The conventional view of the Late Ordovician glaciation is of a short (less than 1 million years) and extreme event (Brenchley et al., 1995; Brenchley et al., 2003) that ended a long ( 200 million years) and warm greenhouse period (e.g. Barnes, 2004). The severity of change from greenhouse to icehouse conditions has been invoked as a cause of the Late Ordovician mass extinction. Climate-indicative lithofacies (see Section 4.1.2) have been cited as evidence that the Late Ordovician glaciation might have been preceded by a cooling event (or events) during the Katian Age (e.g. Pope and Read, 1997; Ghienne, 2011). However, considerable uncertainty remains regarding the GICE and how it was linked to global cooling prior to the latest Ordovician.\nOverall, our data provide strong additional evidence that the GICE represents a major change in the marine carbon cycle. For the Ontario site, we report the first carbon isotopic data through the GICE, and all biomarkers, bulk OM and inorganic carbon exhibit positive CIEs (Fig. 4). In Estonia, we report the first bulk organic carbon and limited compound-specific d13C values, and these also all exhibit positive CIEs (Fig. 5). In Iowa, we report a range of new biomarker d13C data, all of which also record positive CIEs (Fig. 3). These records complement the range of inorganic and organic d13C records from multiple global localities. We also suggest a negative CIE preceded the GICE (see\nIowa, Estonia and Pennsylvania sections; Fig. 2), although the evidence is limited by the small number of samples; such a negative CIE is similar to events in the Mesozoic, including the Toarcian oceanic anoxic event and the Aptian–Albian OAE 1a (see review by Jenkyns, 2010).\nRegional oceanographic and biological change affected the local expression of the GICE, including its magnitude, timing and especially D13C values. This was particularly dramatic for the shallow platform settings of Eastern North America, with both the Iowa and Ontario sections characterized by unusual inorganic d13C records (Fig. 2) as well as direct evidence for biological and oceanographic change in intervals corresponding with the D13C shifts. Thus, these sites are not appropriate candidates for interpreting global-scale processes and we exclude those sections from subsequent discussion. Young et al. (2008) concluded the same for their Oklahoma section, and although we have no biomarker data from that site, we agree that this is appropriately cautious. In fact, we caution that such platform sections, in general, could be problematic organic carbon isotope archives due to their susceptibility to changing photoautotroph assemblages induced by changes in circulation, redox, temperature or sea level. We focus our subsequent interpretation on deeper water sections (Pennsylvania, West Virginia, China, Estonia; Young et al., 2008; this work). Unfortunately, such sites are typically more thermally mature, and the lack of compound-specific isotope data (except some limited data from Estonia) means we cannot preclude some of the concerns identified for other sections. However, deeper water sections were apparently less susceptible to the complicating impact of G. prisca inputs. The photoautotroph assemblages in such deep waters, comprising solely phytoplanktonic primary producers, are also likely less susceptible to the aforementioned changes in circulation or sea level. Nonetheless, the co-occurrence of biotic and environmental change dictates caution in interpreting D13C trends during the GICE and analogous events.\nThese concerns underline the need for interpretation to be based on geographically widespread sections. All four open and deep-water sites exhibit a decrease in D13C values within the GICE. However, the decrease lags the onset of the positive CIE (e.g. Fig. 6); in fact, the lowermost portion of the GICE at all four sites is associated with a small increase in D13C values. This could reflect a small increase in pCO2 but if so, it does not necessarily preclude an organic carbon burial event. For example, this early part of the GICE could reflect a tip in the balance of carbon sources and sinks, with greater volcanic carbon dioxide release relative to its removal by chemical weathering and OM burial (e.g. Young et al., 2009). Evidence for increased volcanism, potentially associated with the Taconic orogeny, is consistent with widespread deposits of bentonites, including the geographically widespread Deicke and Millbrig bentonites. If both volcanism and OM burial increased (as argued for Mesozoic CIEs, with ocean anoxia being induced by volcanism-driven greenhouse warming, e.g. Jenkyns, 2010), then pCO2 could have increased slightly or remained relatively stable during the early GICE. At the same time, the\nincrease in OM burial relative to chemical weathering would cause the carbon isotopic composition of the ocean–atmosphere reservoir to increase. This could explain the discrepancy between lithological (cooling) and conodont d18O (warming) evidence for ocean temperature change in the earliest part of the GICE, with the former reflecting localized oceanographic change such as upwelling and the latter perhaps reflecting pCO2-induced global warming. The subsequent decrease in D13C values could reflect a decrease in [CO2(aq)] and thus pCO2 associated with increased organic carbon burial during the latter stages of the GICE.\nIn any case, the global positive carbon isotope excursion is evidence for an increased burial of OM relative to either inputs or other burial mechanisms, but the cause of this increase remains unclear. Variations in G. prisca abundances in Iowa suggest this organism might have been an important agent in regional carbon burial. Organic-rich G. prisca-dominated deposits known as kukersites are widespread in Ordovician strata (Kõrts, 1992; Mastalerz et al., 2003). Alternatively, a combination of increased nutrient runoff, upwelling and/or warming-induced stratification could have triggered ocean anoxia and an increase in OM burial. In fact, Fanton and Holmden (2007) have argued for a long-term relationship through the latter part of the Ordovician between elevated d13C values and sea level rise, mediated by increased production and organic matter burial in marginal settings. Photic zone euxinia is present during the GICE in Iowa; although it is not associated with high %TOC contents, it could be evidence of more widespread euxinia that resulted in enhanced organic carbon burial at other locations. Indeed, deposition of the Utica shale, a regionally extensive, organic-rich ( 2.75 %TOC, Hay and Cisne, 1988) black shale containing sedimentological indicators of anoxic conditions, began during the Sandbian (Hay and Cisne, 1988; Lehmann et al., 1995), and numerous black shales from around the world provide evidence for elevated rates of organic carbon burial during the Katian (Leggett, 1980). More recently, Zhang et al. (2011) have shown that bottom water anoxia characterized deposition of the Jeleniów Formation (Holy Cross Mountains, SE Poland), spanning the Sandbian and early Katian. Although these data do not provide evidence for an increase in black shale deposition specifically during the GICE (e.g. earliest Katian), they do indicate that the Middle to Late Ordovician oceans were characterized by sluggish circulation and potentially susceptible to oceanographic changes that caused increased OM burial in epicontinental seas.\nThe magnitude of the GICE, however, is much lower than that of the HICE. This is consistent with the suggestion of Tobin et al. (2005) that the GICE-associated cooling episode was not quite severe enough to initiate the growth of continental ice-sheets. However, our work and that of others studying the HICE (e.g. Munnecke et al., 2011; Jones et al., 2011) indicates that the carbon isotopic variations are more complex, with both exhibiting an apparent increase in D13C during the early stages of the respective events."
+  }, {
+    "heading": "5. CONCLUSIONS",
+    "text": "We have developed new isotopic and biomarker records for the GICE, a major biotic event and carbon cycle perturbation, from which we have constrained pCO2 and reconstructed global carbon cycle changes. Our results confirm that global carbon-cycle reconstructions are complicated by ecological and environmental changes during the GICE. Absolute CO2 reconstructions are hindered by these paleoenvironmental changes, as well as by insufficient isotopic characterization of algal lineages dominant in Ordovician seas. Using biomarkers, we suggest an approach for applying carbon isotopic data to reconstruct Paleozoic climate and carbon cycling. First, bulk organic matter d13C records should be supplemented with compound-specific isotope records where possible. Our focus in this study has been the organic component of D13C records and future work will benefit from similar scrutiny of the inorganic component (e.g. Ludvigson et al., 1996). Second, biomarker assemblages can provide evidence for ecological change that could affect photoautotroph d13C values. Third, lithologic indicators can be used to constrain oceanographic conditions that influence phytoplankton productivity and ocean carbon chemistry. Such conditions include the influence of temperature, productivity and upwelling on the exchange of CO2 between the atmosphere and ocean, and the resulting disequilibrium that is especially important in the marginal settings that dominate the preserved record of Paleozoic rocks. Finally, we emphasize that globally diverse carbon isotopic records are needed if global interpretations are to be made.\nApplying this approach, we confirmed that Late Katian ep values were lower and more dynamic – at multiple and oceanographically diverse sites – than expected for a high pCO2 world. Our observations suggest that Ordovician pCO2 levels were likely below 8 PIL. Although great caution accompanies our proposed quantitative pCO2 constraint, we suggest our records provide more robust insights to relative pCO2 changes because environmental and ecological factors have been partially precluded. Based on that, we infer the following sequence of events during the Katian: (1) possible volcanism-induced pCO2 rise as indicated by a D13C increase; (2) ocean warming; (3) increased productivity, expanded ocean anoxia and increased carbon burial, manifesting as the GICE; and (4) subsequent pCO2 decrease that apparently lags the GICE onset and (5) possible cooling. This sequence is similar to that observed during Mesozoic OAEs (e.g. Jenkyns, 2010; van Bentum et al., 2012) and suggests that the punctuated occurrence of OAEs during extended greenhouse climate intervals has been a characteristic of the Earth’s climate for nearly the past 500 million years. In fact, the similarity of those records suggests a mechanistic link: warming and/or sea level rise during the GICE apparently was associated with increased or reorganized nutrient inputs in the ocean (Patzkowsky and Holland, 1996, 1997), and, as has been invoked for Cretaceous OAEs (Kuypers et al., 2002; Jenkyns, 2010; Monteiro et al., 2012), this could have induced the productivity increase that brought about a major global carbon isotope excursion."
+  }, {
+    "heading": "ACKNOWLEDGEMENTS",
+    "text": "We are grateful to D. Walizer (Pennsylvania State University) for analytical support. We also thank G. Ludvigson and B. Witzke and the Iowa Geological Survey for advice and samples. We are also very grateful for the support provided by D. Wavrek and J. Collister who hosted R.D.P. L.A. and T.M. were supported by Estonian SF Grant Nos. 8049 and 8182, and Estonian Target Financing project SF0180051s08. R.D.P. also acknowledges the Royal Society for its support via the Wolfson Research Merit Award."
+  }, {
+    "heading": "APPENDIX A. SUPPLEMENTARY DATA",
+    "text": "Supplementary data associated with this article can be found, in the online version, at http://dx.doi.org/10.1016/ j.gca.2012.11.033."
+  }],
+  "year": 2013,
+  "references": [{
+    "title": "Ordovician oceans and climate",
+    "authors": ["R. Barnes C"],
+    "year": 2004
+  }, {
+    "title": "Conodont biostratigraphy of the Middle",
+    "authors": ["M. Bergström S"],
+    "year": 1971
+  }, {
+    "title": "First documentation of the Ordovician",
+    "authors": ["R. Saltzman M"],
+    "year": 2009
+  }, {
+    "title": "Global Upper Ordovician correlation by means",
+    "authors": ["M. Bergström S", "S. Agematsu", "B. Schmitz"],
+    "year": 2010
+  }, {
+    "title": "The Upper Ordovician Guttenberg d13C excursion (GICE) in North America and Baltoscandia: occurrence, chronostratigraphic significance, and paleoenvironmental relationships",
+    "authors": ["M. Bergström S", "B. Schmitz", "R. Saltzman M", "D. Huff W"],
+    "venue": "In The Ordovician Earth System (eds. S. C",
+    "year": 2010
+  }, {
+    "title": "GEOCARB: III. A revised",
+    "authors": ["A. Berner R", "Z. Kothavala"],
+    "year": 2001
+  }, {
+    "title": "A multiple proxy and model study",
+    "authors": ["D. Norris R"],
+    "year": 2006
+  }, {
+    "title": "Consistent fractionation",
+    "authors": ["R. Bidigare R", "A. Fluegge", "H. Freeman K", "L. Hanson K", "M. Hayes J", "D. Hollander", "P. Jasper J", "L. King L", "A. Laws E", "J. Millero F", "D. Pancost R", "N. Popp B", "A. Steinberg P", "G. Wakeham S"],
+    "year": 1997
+  }, {
+    "title": "A mid-Ordovician temperate carbonate",
+    "authors": ["E. Brookfield M"],
+    "year": 1988
+  }, {
+    "title": "Did intense volcanism",
+    "authors": ["E. Repetski J", "F. Webers G"],
+    "year": 2010
+  }, {
+    "title": "Did intense volcanism trigger the first",
+    "authors": ["M. Joachimski M"],
+    "year": 2011
+  }, {
+    "title": "Trace fossils in upper Platteville and Galena",
+    "authors": ["W. Byers C"],
+    "year": 1983
+  }, {
+    "title": "Similar morphological and chemical",
+    "authors": ["C. Berkaloff"],
+    "year": 1992
+  }, {
+    "title": "Stable carbon isotope fractionation by marine phytoplankton during photosynthesis",
+    "authors": ["C. Descolas-Gros", "M. Fontugne"],
+    "venue": "Plant Cell Environ",
+    "year": 1990
+  }, {
+    "title": "Sea-level forcing of carbon isotope excursions in epeiric seas: implications for chemostratigraphy",
+    "authors": ["C. Fanton K", "C. Holmden"],
+    "venue": "Can. J. Earth Sci",
+    "year": 2007
+  }, {
+    "title": "Gloeocapsomorpha prisca Zalessky, 1917: a new study, Part I: Taxonomy, geochemistry, and paleoecology",
+    "authors": ["B. Foster C", "R. Wicander", "D. Reed J"],
+    "venue": "Geobios",
+    "year": 1989
+  }, {
+    "title": "Monocyclic alkanes in Ordovician organic matter",
+    "authors": ["G. Fowler M", "P. Abolins", "G. Douglas A"],
+    "venue": "Org. Geochem",
+    "year": 1985
+  }, {
+    "title": "Fractionation of carbon isotopes by phytoplankton and estimates of ancient CO2 levels",
+    "authors": ["H. Freeman K", "M. Hayes J"],
+    "venue": "Global Biogeochem. Cycles",
+    "year": 1992
+  }, {
+    "title": "Isotopic biogeochemistry of marine organic carbon",
+    "authors": ["H. Freeman K"],
+    "venue": "In Stable Isotope Geochemistry (eds. J. W. Valley and D. R. Cole). Reviews in Mineralogy & Geochemistry",
+    "year": 2001
+  }, {
+    "title": "Alkenone-based estimates of past CO2 levels: a consideration of their utility based on an analysis of uncertainties. In A History of Atmospheric CO2 and Its Effects on Plants, Animals, and Ecosystems",
+    "authors": ["H. Freeman K", "M. Pagani"],
+    "year": 2005
+  }, {
+    "title": "Middle and Upper Ordovician nautiloid cephalopods of the Cincinatti Arch region of Kentucky, Indiana, and Ohio: U.S",
+    "authors": ["C. Frey R"],
+    "venue": "Geological Survey Professional Paper 1066-P,",
+    "year": 1995
+  }, {
+    "title": "The Late Ordovician glacial record: state of art",
+    "authors": ["Ghienne J.-F"],
+    "venue": "In Ordovician of the World. Cuadernos del Museo Geominero,",
+    "year": 2011
+  }, {
+    "title": "Variations in the sterane carbon number distributions of marine source rock derived crude oils through geological time",
+    "authors": ["J. Grantham P", "L. Wakefield L"],
+    "venue": "Org. Geochem",
+    "year": 1988
+  }, {
+    "title": "Anthropogenic CO2 in the Atlantic Ocean",
+    "authors": ["N. Gruber"],
+    "venue": "Global Biogeochem. Cycles",
+    "year": 1998
+  }, {
+    "title": "Spatiotemporal patterns of carbon-13 in the global surface oceans and the oceanic Suess effect",
+    "authors": ["N. Gruber", "D. Keeling C", "B. Bacastow R", "R. Guenther P", "J. Lueker T", "M. Wahlen", "J. Meijer H. A", "G. Mook W", "F. Stocker T"],
+    "venue": "Global Biogeochem. Cycles",
+    "year": 1999
+  }, {
+    "title": "Possible late Middle Ordovician carbon isotope excursion: evidence from Ordovician oils and hydrocarbon source rocks, Mid-Continent and East-Central United States",
+    "authors": ["R. Hatch J", "R. Jacobson S", "J. Witzke B", "B. Risatti J", "E. Anders D", "L. Watney W", "D. Newwll K", "K. Vuletich A"],
+    "year": 1987
+  }, {
+    "title": "Deposition in the oxygen-deficient Taconic foreland basin, Late Ordovician",
+    "authors": ["J. Hay B", "L. Cisne J"],
+    "venue": "Eastern North America,",
+    "year": 1988
+  }, {
+    "title": "Factors controlling 13C contents of sedimentary organic compounds: Principles and evidence",
+    "authors": ["M. Hayes J"],
+    "venue": "Mar. Geol",
+    "year": 1993
+  }, {
+    "title": "Fractionation of carbon and hydrogen isotopes during biosynthesis",
+    "authors": ["M. Hayes J"],
+    "venue": "Reviews in Mineralogy & Geochemistry 43,",
+    "year": 2001
+  }, {
+    "title": "Compound-specific isotopic analyses: a novel tool for the reconstruction of ancient biogeochemical processes",
+    "authors": ["M. Hayes J", "H. Freeman K", "N. Popp B", "C. Hoham"],
+    "venue": "In Advances in Organic Geochemistry (eds. B. Durand and F. Behar). Elsevier,",
+    "year": 1990
+  }, {
+    "title": "Obliquity forcing with 8–12 times preindustrial levels of atmospheric pCO2 during the Late Ordovician",
+    "authors": ["D. Herrmann A", "E. Patzkowsky M", "D. Pollard"],
+    "venue": "glaciation. Geology",
+    "year": 2003
+  }, {
+    "title": "Sequence stratigraphy",
+    "authors": ["M. Holland S", "E. Patzkowsky M"],
+    "year": 1996
+  }, {
+    "title": "Distal orogenic effects",
+    "authors": ["M. Holland S", "E. Patzkowsky M"],
+    "year": 1997
+  }, {
+    "title": "A carbon isotope record of CO2 levels during the late Quaternary",
+    "authors": ["P. Jasper J", "M. Hayes J"],
+    "venue": "Nature 347,",
+    "year": 1990
+  }, {
+    "title": "Carbon isotope geochem",
+    "authors": ["C. Henning", "W. Buggisch"],
+    "year": 2002
+  }, {
+    "title": "Restricted utility of aryl isoprenoids",
+    "authors": ["S. Damsté J"],
+    "year": 1996
+  }, {
+    "title": "Ordovician oil shale of Estonia – origin",
+    "authors": ["A. Kõrts"],
+    "year": 1992
+  }, {
+    "title": "Enhanced productivity rather than",
+    "authors": ["S. Damsté J"],
+    "year": 2002
+  }, {
+    "title": "A Late Ordovician high-energy temperate",
+    "authors": ["D. 853–856. Lavoie"],
+    "year": 1995
+  }, {
+    "title": "Dependence of phytoplankton carbon",
+    "authors": ["A. Macko S"],
+    "year": 1995
+  }, {
+    "title": "Chemical and isotopic properties",
+    "authors": ["R. Jacobson S"],
+    "year": 2003
+  }, {
+    "title": "Carbon isotope fractionation between dissolved bicarbonate and gaseous carbon dioxide",
+    "authors": ["G. Mook W", "C. Bommerson J", "H. Staberman W"],
+    "venue": "Earth Planet. Sci. Lett. 22,",
+    "year": 1974
+  }, {
+    "title": "Zinc and carbon co-limitation of marine phytoplankton",
+    "authors": ["M. Morel F. M", "R. Reinfelder J", "B. Roberts S", "P. Chamberlain C", "G. Lee J", "D. Yee"],
+    "venue": "Nature 369,",
+    "year": 1994
+  }, {
+    "title": "Stable carbon isotope stratigraphy in the Ordovician of South China",
+    "authors": ["A. Munnecke", "Y. Zhang", "H. Liu", "J. Cheng"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2011
+  }, {
+    "title": "An integrated biomarker, isotopic and palaeoenvironmental study through the Late Permian event at Lusitaniadalen, Spitsbergen",
+    "authors": ["B. Nabbefeld", "K. Grice", "J. Twitchett R", "E. Summons R", "L. Hays", "E. Bottcher M", "M. Asif"],
+    "venue": "Earth Planet. Sci",
+    "year": 2010
+  }, {
+    "title": "Lithostratigraphy, environmental interpretation, and paleogeography of the Middle Ordovician Shadow Lake, Gull River, and Bobcaygeon formation in parts of southern Ontario",
+    "authors": ["I. Noor"],
+    "venue": "Unpublished Ph.D. dissertation,",
+    "year": 1989
+  }, {
+    "title": "The Concise Geologic Time Scale",
+    "authors": ["G. Ogg J", "G. Ogg", "M. Gradstein F"],
+    "year": 2008
+  }, {
+    "title": "Miocene evolution of atmospheric carbon dioxide",
+    "authors": ["M. Pagani", "A. Arthur M", "H. Freemann K"],
+    "venue": "Paleoceanography",
+    "year": 1999
+  }, {
+    "title": "Marked decline in atmospheric carbon dioxide concentrations during the Paleogene",
+    "authors": ["M. Pagani", "C. Zachos J", "H. Freemann K", "B. Tipple", "S. Bohaty"],
+    "year": 2005
+  }, {
+    "title": "The role of carbon dioxide during the onset of Antarctic glaciation",
+    "authors": ["M. Pagani", "M. Huber", "X. Liu", "M. Bohaty S", "J. Henderiks", "W. Sijp", "S. Krishnan", "M. DeConto R"],
+    "year": 2011
+  }, {
+    "title": "Sensitivity of the epeiric sea carbon isotope record to local-scale carbon cycle processes: Tales from the Mohawkian Sea",
+    "authors": ["M. Panchuk K", "C. Holmden", "R. Kump L"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2005
+  }, {
+    "title": "Local controls on carbon cycling in the Ordovician Midcontinent region of North America, with implications for carbon isotope secular curves",
+    "authors": ["M. Panchuk K", "E. Holmden C", "A. Leslie S"],
+    "venue": "J. Sediment. Res",
+    "year": 2006
+  }, {
+    "title": "Environmental and physiological controls on carbonisotope fractionation by marine diatoms",
+    "authors": ["D. Pancost R", "H. Freeman K", "G. Wakeham S", "Y. Robinson C"],
+    "venue": "Geochim. Cosmochim. Acta",
+    "year": 1997
+  }, {
+    "title": "Molecular indicators of redox and marine phytoplankton composition in the late Middle Ordovician of Iowa, USA",
+    "authors": ["D. Pancost R", "H. Freeman K", "E. Patzkowsky M", "D. Wavrek", "W. Collister J"],
+    "venue": "Org. Geochem",
+    "year": 1998
+  }, {
+    "title": "Organic-matter source variation and the expression of a late Middle Ordovician carbon isotope excursion",
+    "authors": ["D. Pancost R", "H. Freeman K", "E. Patzkowsky M"],
+    "venue": "Geology",
+    "year": 1999
+  }, {
+    "title": "Controls on the carbon isotopic composition of an isoprenoid-rich oil and potential source rock",
+    "authors": ["D. Pancost R", "N. Teln s", "S. Sinninghe Damsté J"],
+    "venue": "Org. Geochem",
+    "year": 2001
+  }, {
+    "title": "Biotic response to a Middle Ordovician paleoceanographic event in eastern",
+    "authors": ["E. Patzkowsky M", "M. Holland S"],
+    "venue": "North America. Geology",
+    "year": 1993
+  }, {
+    "title": "Extinction, invasion, and sequence stratigraphy: patterns of faunal change in the Middle and Upper Ordovician of the eastern United States. In Paleozoic Sequence Stratigraphy: Views from the North American Craton",
+    "authors": ["E. Patzkowsky M", "M. Holland S"],
+    "year": 1996
+  }, {
+    "title": "Patterns of turnover",
+    "authors": ["E. Patzkowsky M", "M. Holland S"],
+    "year": 1997
+  }, {
+    "title": "Late Middle Ordovician environmental",
+    "authors": ["H. Freeman K"],
+    "year": 1997
+  }, {
+    "title": "Biofacies replacement",
+    "authors": ["E. Patzkowsky M", "M. Holland S"],
+    "year": 1999
+  }, {
+    "title": "High-resolution stratigraphy",
+    "authors": ["C. Pope M", "F. Read J"],
+    "year": 1997
+  }, {
+    "title": "Effect of phytoplankton cell",
+    "authors": ["G. Wakeham S"],
+    "year": 1998
+  }, {
+    "title": "Mechanisms of inorganic",
+    "authors": ["A. Raven J", "M. Johnston A"],
+    "year": 1991
+  }, {
+    "title": "Novel rearranged ring C",
+    "authors": ["J. Riolo", "P. Albrecht"],
+    "year": 1985
+  }, {
+    "title": "Carbon acquisition of bloom-forming marine phytoplankton",
+    "authors": ["B. Rost", "U. Riebesell", "S. Burkhardt", "D. Sultemeyer"],
+    "venue": "Limnol. Oceanogr",
+    "year": 2003
+  }, {
+    "title": "Abundance and structural diversity of bacteriohopanepolyols in suspended particulate matter along a river to ocean transect",
+    "authors": ["P. Saenz J", "I. Eglinton T", "E. Summons R"],
+    "venue": "Org. Geochem",
+    "year": 2011
+  }, {
+    "title": "Long-lived glaciation in the Late Ordovician? Isotopic and sequence-stratigraphic evidence from western Laurentia",
+    "authors": ["R. Saltzman M", "A. Young S"],
+    "venue": "Geology",
+    "year": 2005
+  }, {
+    "title": "Biosynthetic effects on the stable carbon isotopic compositions of algal lipids: implications for deciphering the carbon isotopic biomarker",
+    "authors": ["S. Schouten", "W. Breteler", "P. Blokker", "N. Schogt", "C. Rijpstra W. I", "K. Grice", "M. Baas", "S. Sinninghe Damsté J"],
+    "venue": "record. Geochim. Cosmochim",
+    "year": 1998
+  }, {
+    "title": "Ordovician plate tectonic reconstructions",
+    "authors": ["R. Scotese C", "S. McKerrow W"],
+    "venue": "In Advances in Ordovician Geology",
+    "year": 1991
+  }, {
+    "title": "Apatite phenocryst compositions demonstrate a miscorrelation between the Millbrig and Kinnekulle K-bentonites of North America and Scandinavia",
+    "authors": ["K. Sell B", "D. Samson S"],
+    "venue": "Geology",
+    "year": 2011
+  }, {
+    "title": "Carbon isotope fractionation in algae as influenced by inducible CO2 concentrating mechanism",
+    "authors": ["D. Sharkey T", "A. Berry J"],
+    "venue": "Plant Physiol.,",
+    "year": 1985
+  }, {
+    "title": "The carbon isotopic response of algal, (cyano)bacterial, archaeal and higher plant biomarkers and TOC to the late Cenomanian perturbation of the global carbon cycle: insights from black shales",
+    "authors": ["S. Sinninghe Damsté J", "M. Kuypers M. M", "D. Pancost R", "S. Schouten"],
+    "year": 2008
+  }, {
+    "title": "Mechanisms of CO2 fixation in bacterial photosynthesis studied by the carbon isotope technique",
+    "authors": ["R. Sirevag", "B. Buchanan B", "A. Berry J", "H. Throughton J"],
+    "venue": "Arch. Microbiol",
+    "year": 1977
+  }, {
+    "title": "Stratigraphic ranges of Middle and Late Ordovician gastropoda and monoplacophora of Minnesota",
+    "authors": ["E. Sloan R", "F. Webers G"],
+    "venue": "In Middle and Late Ordovician Lithostratigraphy and Biostratigraphy of the Upper Mississippi Valley (ed. R. E. Sloan)",
+    "year": 1987
+  }, {
+    "title": "The Deicke extinction and the Turinian/ Chatfieldian boundary (Ordovician)",
+    "authors": ["E. Sloan R"],
+    "venue": "In Geological Society of America,",
+    "year": 1995
+  }, {
+    "title": "Identification of aryl isoprenoids in source rocks and crude oils: biological markers for green photosynthetic bacteria",
+    "authors": ["E. Summons R", "G. Powell T"],
+    "venue": "Geochim. Cosmochim",
+    "year": 1987
+  }, {
+    "title": "2-Methylhopanoids as biomarkers for cyanobacterial oxygenic photosynthesis",
+    "authors": ["E. Summons R", "L. Jahnke L", "M. Hope J", "A. Logan G"],
+    "year": 1999
+  }, {
+    "title": "Graphic correlation of upper Middle and Upper Ordovician rocks, North American Midcontinent Province, U.S.A",
+    "authors": ["C. Sweet W"],
+    "year": 1985
+  }, {
+    "title": "Despite slow catalysis and confused substrate specificity, all ribulose bisphosphate carboxylases may be nearly perfectly optimized",
+    "authors": ["B. Tcherkez G. G", "D. Farquhar G", "J. Andrews T"],
+    "venue": "Proc. Natl. Acad. Sci. USA",
+    "year": 2006
+  }, {
+    "title": "A midCaradocian (453 Ma) drawdown in atmospheric pCO2 without ice sheet development",
+    "authors": ["J. Tobin K", "M. Bergström S", "P. de la Garza"],
+    "venue": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+    "year": 2005
+  }, {
+    "title": "Polar front shift",
+    "authors": ["J. Verniers", "T. Servais"],
+    "year": 2010
+  }, {
+    "title": "Latitudinal differences in the amplitude",
+    "authors": ["S. Damsté J"],
+    "year": 2012
+  }, {
+    "title": "Controls on the molecular and isotopic",
+    "authors": ["S. Damsté J"],
+    "year": 1998
+  }, {
+    "title": "A review of sterol markers for marine",
+    "authors": ["K. Volkman J"],
+    "year": 1986
+  }, {
+    "title": "Microalgal biomarkers: a review",
+    "authors": ["L. Sikes E", "F. Gelin"],
+    "year": 1998
+  }, {
+    "title": "Identification of a methylase",
+    "authors": ["K. Newman D"],
+    "year": 2010
+  }, {
+    "title": "Relative sea-level changes",
+    "authors": ["J. Witzke B", "J. Bunker B"],
+    "year": 1996
+  }, {
+    "title": "Ancient atmospheric CO2 pressures inferred from natural goethites",
+    "authors": ["J. Yapp C", "H. Poths"],
+    "venue": "Nature",
+    "year": 1992
+  }, {
+    "title": "A major drop in seawater",
+    "authors": ["R. Kump L"],
+    "year": 2009
+  }, {
+    "title": "87Sr/86Sr during the Middle Ordovician (Darriwilian): links to volcanism and climate? Geology",
+    "authors": ["G. T", "W. Trela", "Y. Jiang S", "K. Nielsen J", "N. Shen Y"],
+    "year": 2011
+  }],
+  "id": "SP:46839251553c5b2816083387c2c8973d66ce038c",
+  "authors": [{
+    "name": "Richard D. Pancost",
+    "affiliations": []
+  }, {
+    "name": "Katherine H. Freeman",
+    "affiliations": []
+  }, {
+    "name": "Achim D. Herrmann",
+    "affiliations": []
+  }, {
+    "name": "Mark E. Patzkowsky",
+    "affiliations": []
+  }, {
+    "name": "Leho Ainsaar",
+    "affiliations": []
+  }, {
+    "name": "Tõnu Martma",
+    "affiliations": []
+  }],
+  "abstractText": "The role of carbon dioxide in regulating climate during the early Paleozoic, when severe glaciations occurred during a putative greenhouse world, remains unclear. Here, we present the first molecular carbon isotope proxy-based estimates for Late Ordovician (early Katian) pCO2 levels, and explore the limitations of applying this approach to the reconstruction of Paleozoic pCO2. Carbon isotope profiles from three sites in Laurentia (Iowa, Ontario and Pennsylvania) and one site in Baltica (Estonia) exhibit overall low isotope fractionation between organic and inorganic carbon during photosynthesis (ep) and these values declined during the early Katian carbonate carbon isotope excursion (or Guttenberg Carbon Isotope Excursion, GICE). Algal ep values are sensitive to changes in CO2 concentrations, algae cell morphologies, and cell growth rates. To constrain these factors, we present molecular evidence that a decrease in the relative abundance of cyanobacteria and a change in the eukaryotic algae community co-occurred with the GICE. Regardless of local biotic or oceanographic influences, a decline in ep values indicates photosynthesis was sensitive to carbon concentrations, and via analogy with modern taxa, constrains pCO2 to below 8 pre-industrial levels (PIL), or about half of previous estimates. In addition, the global, positive carbon isotope excursions expressed in a wide variety of sedimentary materials (carbonate, bulk organic matter, n-alkanes, acyclic and cyclic isoprenoid hydrocarbons), provide compelling evidence for perturbation of the global carbon cycle, and this was likely associated with a decrease in pCO2 approximately 10 million years prior to the Hirnantian glaciations. Isotopic records from deeper water settings suggest a complex interplay of carbon sources and sinks, with pCO2 increasing prior to and during the early stages of the GICE and then decreasing when organic carbon burial outpaced increased volcanic inputs. 2012 Elsevier Ltd. All rights reserved.",
+  "title": "Reconstructing Late Ordovician carbon cycle variations"
+}

@@ -1,0 +1,454 @@
+{
+  "sections": [{
+    "text": "1 3\nwarmer than the preceding centuries, does not show unprecedented warmth in the last 800 years. Three ensembles of climate simulations conducted with two global atmosphere– ocean general circulation climate models (GCMs), considering different external forcings, were used for comparison: ECHO-G (Erik) and MPI-ESM (E1 and E2). Additionally, individual simulations were available from GCM included in the fifth Coupled Model Intercomparison Project, as well as single-forcing simulations performed with MPI-ESM. The comparison of the reconstructed and simulated temperatures revealed a close agreement of NCZTjaso with the simulations performed with total solar irradiance forcing with wider amplitude. Furthermore, the correlations with single-forcing simulations suggest volcanism as the main factor controlling preindustrial summer temperature variations in the Cazorla Range over the last five centuries. The persistent anti-correlation between NCZTjaso and simulated temperatures during the MCA–LIA transitional period underlines the current\nI. Dorado Liñán (*) Chair of Ecoclimatology, Technische Universität München, Munich, Germany e-mail: dorado@wzw.tum.de\nE. Zorita Institute for Coastal Research, Helmholtz-Zentrum-Geesthacht, Geesthacht, Germany\nJ. F. González-Rouco Departamento de Física de la Tierra, Astronomía y Astrofísica II, Instituto de Geociencias UCM-CSIC, Universidad Complutense de Madrid, Madrid, Spain\nI. Heinrich German Centre for Geosciences, Climate Dynamics and Landscape Evolution, Helmholtz Centre Potsdam, Potsdam, Germany\nF. Campello Departamento de Ciências da Vida, Centro de Ecologia Funcional, Universidad de Coimbra, Coimbra, Portugal\nE. Muntán · E. Gutiérrez Departament d’Ecologia, Universitat de Barcelona, Barcelona, Spain\nL. Andreu-Hayles Tree-Ring Laboratory, Lamont-Doherty Earth Observatory of Columbia University, Palisades, NY, USA\n1 3\nlimitations for attributing temperature variations during that period to internal variability or external forcing.\nKeywords Dendroclimatology · Temperature reconstruction · Climate models · External forcing · Cazorla Range"
+  }, {
+    "heading": "1 Introduction",
+    "text": "Climate reconstructions based on different palaeo-proxy records such as lake and ocean sediments, ice cores, corals, tree-rings, borehole profiles and documentary sources have identified consistent periods of widespread higher (the Medieval Climate Anomaly (MCA); Stine 1994) and lower (Little Ice Age (LIA); Lamb 1977) temperatures during the last millennium (Mann et al. 1998, 2009). However, the absolute magnitude, duration and spatial variation of these anomalous periods still remain to a large extent uncertain. On one hand, empirical reconstructions disagree somewhat on the level of warming/cooling during the MCA and the LIA, partly due to the uncertainties associated with every proxy record (for a detailed review see Jones et al. 2009). On the other hand, existing palaeorecords are sparse so that to infer regional patterns and duration of climate variations over the past millennium is still difficult. In fact, some studies have pointed out a possible non-global signature of these periods (Jones and Mann 2004). Furthermore, the climate anomalies over some periods remain largely uncertain since mayor discrepancies exist within and between climate simulations and proxy based reconstructions (e.g., temperatures on the MCA-LIA transition; González-Rouco et al. 2011; Fernández-Donado et al. 2013).\nThe limited availability of proxy data also hampers the understanding of the role of internal variability and the regional response of the system to external forcing (e.g., increase in concentration of greenhouse gases, land use changes). Natural external forcing such as solar irradiance variations and volcanic activity have been highlighted as the main global driving mechanisms of natural climate variability on multidecadal to centennial time-scales during the Holocene (Briffa et al. 1998; Crowley 2000; van Geel et al. 1999). However, the amplitude of the reconstructed variations in total solar irradiance (TSI) over the last centuries is still debated. Initially, the simulations performed with General Circulation Models (GCM) used a reconstructed TSI close to the reconstruction used by Crowley (2000). A later reconstruction of TSI describes a much smaller amplitude (Krivova et al. 2007), whereas one recent study supports much wider amplitude of past solar variations (Shapiro et al. 2011). The forcing uncertainties are even larger at regional and local scales. Some anthropogenic forcings such as land cover changes (LCC) may play an opposite\nrole when considering different spatial scales (Pongratz et al. 2010) and the understanding of some factors such as aerosols are targets still to be addressed at regional scales.\nIncreasing the availability of highly resolved millennium-long proxy based climate reconstructions will help to better characterize spatial and temporally past climate variations. The ongoing and forthcoming palaeo climate research is called to focus on local and regional scales, especially in areas currently under-represented in terms of proxy based climate reconstructions, to overcome the current need of a finer spatial resolution. The Mediterranean region offers a scattered variety of millennial-long reconstructions based on different proxy records (for a review see Luterbacher et al. 2012). However, there are evident geographical gaps that need to be closed. One of these under-represented areas is the Iberian Peninsula (IP, hereafter), where periods such as MCA and LIA have barely been identified due to the lack of palaeo-records to infer the timing, duration and spatial variation of temperature anomalies. Several proxy sources with different temporal resolutions have been used to produce series of climatic variables in the IP and, as an uncommon feature, the reconstruction of hydroclimatic variables is more widespread than the reconstruction of past temperature variations (Luterbacher et al. 2004). This is partly due to the extended usage of environmental proxy records encoding moisture signals such as lake sediments (Corella et al. 2010; Julià et al. 1998; Martín-Puertas et al. 2010; Morellón et al. 2012; Moreno et al. 2008; Pla and Catalan 2004; Riera et al. 2004; Romero-Viana et al. 2011) or speleothems (i.e., Jiménez de Cisneros et al. 2003; Martín-Chivelet et al. 2011; Moreno et al. 2010).\nSimilarly, documentary proxy records from this region are strongly biased to hydroclimatic variations and/or extremes (Alcoforado et al. 2000; Barriendos 1997; Barriendos and Rodrigo 2006; Domínguez-Castro et al. 2008, 2010; Rodrigo and Barriendos 2008; Rodrigo et al. 1999; Vicente-Serrano and Cuadrat-Prats 2006) because precipitation is responsible for the two main climatic extremes largely affecting population and societies: floods and severe droughts. The existing publications based on documentary sources describing past temperature variations in the IP are restricted to the second half of the millennium and cover periods of a couple of decades (Bullón 2008; Rodrigo et al. 1998) or 150 years at most (Rodrigo et al. 2012). Documentary sources would be very valuable as proxies for the assessment of past temperature information since they are one of the few proxy records providing highly resolved information. However, almost no existing documentary sources describe past temperatures prior to the sixteenth century (Bullón 2008). Thus, the perspective of extending these records further back in time is not possible without using other highly resolved proxies (e.g. tree rings).\n1 3\nHowever, so far only two multi-centennial tree-ring based reconstructions are available in the IP and both are located in the Pyrenees, northern Spain: Büntgen et al. (2008) developed a maximum summer temperature reconstruction based on maximum latewood density records (MXD) from three sites; and Dorado Liñán et al. (2012) developed a mean summer temperature reconstruction based on 11 MXD records, including those from Büntgen et al. (2008). A new highly resolved temperature reconstruction covering the last millennium located in the south of the IP would be highly desirable as recently highlighted by Luterbacher et al. (2012).\nIn recent years, the efforts to overcome the lack of tree-ring based climate reconstructions in the IP are being strengthened and a number of studies showed chronologies and sites in Central (Génova 2012) and Southern IP (Dorado Liñán et al. 2013) with skills to be used as palaeoproxies. In Dorado Liñán et al. (2013), the authors showed the potential of tree-ring width from the Cazorla Range to reconstruct summer-to-autumn temperatures. Such a reconstruction will represent the southernmost annually resolved temperature reconstruction based on tree rings in Europe.\nAs a continuation of the research carried out by Dorado Liñán et al. (2013), this work aims at: (1) contributing to the body of knowledge on temperature variations during the last millennium in the IP by producing a temperature reconstruction based on tree rings from the Cazorla Range, in the southeast IP; (2) assessing the latitudinal variations in timing and duration of climate episodes such as LIA by comparing with other highly resolved European temperature reconstructions; (3) identifying the main drivers of temperature variations at the southeast of the IP by comparing the reconstructed temperatures with temperatures simulated by available ensembles of GCMs considering different external forcings including those from the CMIP5.\n2 Materials and methods\n2.1 Study site\nSamples were taken at two adjacent sites named Puertollano and Cabañas located at the Natural Park of Sierra de Cazorla, Segura y las Villas (Cazorla Range hereafter; 37°48′N, 02°57′W; 1800 m.a.s.l.; Fig. 1). The area is under Oromediterranean humid climate type (Rivas-Martínez 1983) and due to its geographical position is exposed to the influence of the temperate zone of middle latitudes as well as to certain tropical influences (Martín-Vide and LopezBustins 2006). The winters at the Cazorla Range are very cold with absolute minimum temperatures that can be far below 0 °C and often with considerable snowfall. During summers, maximum air temperatures can reach extremes of\nover 40 °C. Mean precipitation is exceptionally heavy and places the territory in one of the highest rainfall zones in Spain surrounded by typical low-moist areas from southeast of the IP (Heywood 1961). This high precipitation is due to the contribution of moist air masses coming from the Atlantic Sea (through the Guadalquivir Valley) and from the Mediterranean Sea (through the Guadix-Baza Depression) leading to a mean total annual precipitation of over 800 mm, which increases with altitude while mean air temperatures decrease. Moisture is available throughout the year except for a dry period in July–August but with occasional summer thunderstorms and fogs that may appear any time of the year (Creus Novau 1998).\nPinus nigra subsp. salzmannii (Dunal) Franco (P. nigra, hereafter) is the most widespread tree species in the territory, growing on several soil types and moisture regimes, ideally with moderate humidity. P. nigra is able to endure drought and extreme cold and harsh winters, because of this it is able to grow at high elevation areas (1800–2000 m a.s.l.) where only a thin soil layer is covering the bedrock consisting of limestone-dolomite.\n2.2 Chronology development, calibration and reconstruction\nA total of 89 samples were taken from 40 living trees with an increment borer from P. nigra individuals. According to standard procedures, cores were visually cross-dated (Stokes and Smiley 1968), tree-ring widths (TRWs) measured and quality and correct dating of the resulting series checked with the COFECHA software (Holmes 1983). To remove tree-age related growth trends and preserve interannual and decadal-to-centennial climate signals (Cook and Kairiukstis 1990; Fritts 1976), each individual series was detrended by fitting a negative exponential or a linear function, using TurboArstan (Cook 1999). The residuals were calculated as ratios to homogenise the variance along the series. Non-autoregressive modelling was applied and the final site chronology of TRWs was generated using a biweight robust mean to reduce the bias caused by extreme values (Cook and Kairiukstis 1990; Fritts 1976). Common variance and signal strength of TRW was calculated using inter-series correlation (Rbar) and the Expressed Population Signal (EPS) (Wigley et al. 1984) to ensure reliability and representativeness of the final chronology. The period comprised between 1195 and 2006CE was found to be reliable as EPS is above 0.85 (Fig. 2).\nAs described in Dorado Liñán et al. (2013), station climate data were obtained from the network of the national weather service. Mean monthly temperatures were derived from the data recorded at Pontones (38°01′N; 2°52′W) and from precipitation data from Nava de San Pedro (37°52′N; 2°53′W). The climate records were updated and now the\n1 3\ntemperature record covers the period 1904–2004 CE while the precipitation series covers the period 1912–2004CE. The most limiting factor for tree growth in this area is July to October temperature (Tjaso) of the previous year (Fig. 3). This pattern of climate-growth relationship, with a dominant negative influence of previous summer-autumn temperature, has been previously described at the same area and for the same species by other authors (Andreu et al. 2007; Creus Novau 1998; Dorado Liñán et al. 2011; Linares and Tíscar 2010; Martín-Benito et al. 2007).\nThe climate signal found in the Cazorla Range is consistently different to that described from trees growing in the Alps and Pyrenees. In temperate mountain forests such as those in the Pyrenees and the Alps, moisture is usually available to the trees throughout the year and tree growth is mainly controlled by temperatures. Warm temperatures trigger cell division and differentiation in the stems and determine the length of the growing season. Thus, tree-growth in temperate environments is usually favoured by warm temperatures during the growing season (Büntgen et al. 2011; Dorado Liñán et al. 2012).\nFig. 1 Location of Cazorla Range (green dot). As an example, the black dashed box represents the domain defined by the coordinates of the four outputs taken from the ECHO-G simulations. Arrows correspond to the wind direction and speed during July–October period derived from NCEP/NCAR reanalysis surface data for the period 1948–2012\nFig. 2 Chronology from Cazorla Range. a Final standard tree-ring width chronology; b number of series; c Expressed Population Signal (EPS) along the chronology. The red vertical line represents the cut-off point when EPS drops below the theoretical 0.85 threshold (horizontal red dashed line)\n1 3\nAt the Cazorla Range, the climate-growth relationships are more complex since temperatures do not only mark the beginning and the end of the growing season but also limit the photosynthetic activity during summer. Under non-limiting moisture conditions, high summer temperatures, which can be reached at the Cazorla Range, enhance vapour pressure deficit and promote a strategic stomata closure in order to reduce transpiration rates. The interruption of the photosynthetic activity reduces the productivity of the tree and thus limits the amount of carbohydrates that can be stored and which are needed for next year’s growth. The portion of the tree ring produced during spring (earlywood) strongly relies on the previous year stored carbohydrates and because of that reason, conditions during the previous growing season may be more limiting for tree-growth than conditions during the current growing season (Fritts 1976). In this concrete case, tree growth at the Cazorla Range exhibits a strong lagged dependence on July-to-October temperature of the previous year since the temperatures during that period will determine the metabolic reserves available for growth of the current year (Dorado Liñán et al. 2013).\nCalibration/verification between the TRW and instrumental Tjaso was performed for the period 1904–2004 CE using the split period method. The instrumental record was divided into two periods: 1904–1954 and 1955–2004 CE. For each period, the tree-ring data were regressed against the instrumental temperature record and the model derived was used to predict the second half of the split instrumental record. Pearson’s correlation coefficient (r), reduction of error (RE; Cook et al. 1994) and coefficient of efficiency (CE) were calculated for each of the two periods to test the validity of the model derived from the regression (Fig. 4). Given the validity of the two models developed during the\ncalibration-verification test, a model for the the whole length of the calibration period (1904–2004) was developed and used to calculate the final Tjaso reconstruction (NCZTjaso, hereafter). A residuals analysis was carried out including a Durbin-Watson tests to check for autocorrelation, Shapiro– Wilk test for normality and trend anlysis. NCZTjaso was compared to other two well-known temperature reconstructions: Pyrenees (Dorado Liñán et al. 2012) and Alps (Büntgen et al. 2011). Furthermore, a Superposed Epoch Analysis (SEA; Panofsky and Brier 1958) method was performed using DplR (Bunn 2008) in all three sites to isolate the common volcanic signal in the records. The estimation of the significances for the departures from the mean of the signal identified by SEA, was tested using bootstrap resampling. This approach has been widely used in studies of the volcanic effect on climate (i.e., Fischer et al. 2007; D’Arrigo et al. 2009). The volcanic events chosen for the analysis were those used by Gao et al. (2008) for testing the sets of extraction criteria of Total Sulfate Deposition. They are post-1800 eruptions and include seven volcanic eruptions: 1809 (Unknown), 1815 (Tambora), 1831 (Unknown), 1835 (Cosigüina), 1883 (Krakatau); 1912 (Katmai); 1991 (Pinatubo).\n2.3 Climate simulations\nSimulated July-to-October temperatures over the last millennium were obtained from different GCM simulations. On one hand, two global atmosphere–ocean climate models with different submodel components and driven by different external forcing: the ECHO-G (Legutke and Voss 1999) and the Max Planck Institute for Meteorology Earth System Model (MPI-ESM; Jungclaus et al. 2010), provided ensembles of simulations. On the other hand, six GCMs included in the CMIP5 provided one simulation per model.\nFig. 3 Climate-tree-ring-growth relationships at Cazorla Range. a Monthly correlation coefficients between tree-ring width and temperature (orange bars) and precipitation (blue bars) for the period spanning from June of the previous year (t-1; in capital letters) to December of the current year (t). The significant seasonal correlation\n(Tjaso) is also shown. Dashed and pointed lines represent 95 and 99 % significance level, respectively. b Field correlations of tree-ring width and previous year Tjaso using the CRU-TS3 gridded temperature data. Performed using KNMI Climate Explorer (Oldenborgh et al. 2004)\n1 3\nThe ECHO-G consists of the ECHAM4 atmospheric component and the HOPE-G ocean model. ECHAM4 is used with a T30 horizontal resolution (ca. 3.75 lat × long) and HOPE-G with a horizontal resolution of approximately 2.8 lat × lon. The model runs were driven by three external forcings: TSI and the radiative effect of stratospheric volcanic aerosols (both adapted from Crowley 2000) and the concentrations of greenhouse gases (CO2, CH4 and N2O) provided by Etheridge et al. (1996, 1998) and Battle et al. (1996).\nThe ensemble of ECHO-G simulations used on this work consists of two simulations: Erik1 and Erik2. Both simulations were produced by driving the model with the described estimations of natural and anthropogenic forcing during the last millennium but starting from different initial conditions. Erik1 started from a warmer state than Erik2. For a more detailed description of the model, simulations and the external forcing applied, the reader is referred to Zorita et al. (2005) and González-Rouco et al. (2006, 2009).\nThe MPI-ESM is an atmosphere–ocean model which includes also a fully interactive carbon cycle (Jungclaus et al. 2010). MPI-ESM consists of the GCM of the atmosphere ECHAM5 (Roeckner et al. 2003), the ocean MPIOM (Marsland et al. 2003) and the carbon cycle model including the ocean biogeochemistry module HAMOCC5 (Wetzel et al. 2006) and the land surface scheme JSBACH\n(Raddatz et al. 2007), which interactively computed the atmospheric concentrations of CO2. ECHAM5 was run at T31 resolution while MPIOM had a horizontal meridionally varying resolution ranging from 22 to 350 km.\nThe present work used two ensembles of MPI-ESM simulations from Jungclaus et al. (2010): E1 and E2. E1 is a fivemember ensemble of simulations performed with identical external forcing but different initial conditions in 800CE. The external forcings applied include: TSI with a small amplitude of variations (Krivova and Solanki 2008), volcanic forcing (Crowley et al. 2008), LCC (Pongratz et al. 2008), orbital forcing (based on Bretagnon and Francou 1988) and aerosol forcing (Lefohn et al. 1999; Boucher and Pham 2002). E2 is a three-member ensemble performed with identical external forcing as E1 except of a TSI reconstruction with wider variation amplitude (Lean 2000). Additionally, the present work makes use of the MPI-ESM simulations performed with just one external forcing at a time, in order to identify the sensitivity of the reconstructed temperature to each of the external climate drivers. For the simulation performed just with volcanism as external forcing, a SEA was carried out in order to assess the effect of volcanic eruptions in the simulated temperate and compare the results to those obtained for the treering based temperature reconstructions. For more detailed information about the MPI-ESM model, the external forcing prescribed and the ensembles of simulations E1 and E2, the reader is referred to Jungclaus et al. (2010).\n1 3\nSimulated temperatures over the past millennium were also available from some of the CMPI5 model suite: Beijing Climate Center (bcc-csm1-1; BCC hereafter); NASAGoddard Institute for Space Studies (GISS-E2-R; GISS hereafter); National Center for Atmospheric Research (CCSM4); Institute Pierre-Simon Laplace (IPSL-CM5ALR; IPSL hereafter) and Max-Planck-Institut für Meteorologie (MPI-ESM; MPI hereafter). All the millennium paleo-simulations carried out in the frame of the CMIP5 were forced with a range of recommended external forcings described in detail in Schmidt et al. (2012). The choices adopted by the modelling groups include orbital forcing, LCC, variations in greenhouse levels, two different volcanic reconstructions (Gao et al. 2008; or Crowley et al. 2008) and six different TSI curves. The particular external forcings applied in the different simulations used in this paper and other technical details can be found in the Chapter 5 of the final draft of the 5th Assessment Report of the IPCC (http://www.climatechange2013.org/).\nFor comparison with the NCZTjaso, the data for the four grid points closest to the location of the reconstruction from every simulation was obtained. As an example, the four grid points of the ECHO-G grid are highlighted by a black box in Fig. 1. For each simulation, a representative mean series was generated by averaging their respective four grid-temperature points. In order to highlight decadal to interdecadal variations and similarities, reconstructed and simulated temperature series were expressed as anomalies with respect to the reference period 1900–1990 CE and smoothed with a 40-year centred moving average."
+  }, {
+    "heading": "3 Results",
+    "text": "3.1 July to October temperature reconstruction\nNCZTjaso describes 800 years of summer-to-autumn temperature variations in the south of the IP with a maximum amplitude at interannual timescales, ranging from −2 °C to +1.9 °C, both extremes reached during the first half of the thirteenth century (Fig. 4).\nDue to the lack of a common agreement on the definitions and duration of MCA, MCA–LIA transition (when considered) and LIA, the definitions adopted in NCZTjaso were done with the aim of assisting later comparisons with other publications. Thus, the period 1200–1500 CE was defined here as MCA–LIA transitional period according to most of the existing publications. This period was predominately warm, with some alternative periods of low temperatures at the beginning of the thirteenth century (lowest temperature reached −2 °C), and a prolonged period of low temperatures spanning 1350–1430 CE reaching a lowest seasonal temperature of −1.6 °C around 1380CE.\nThe MCA–LIA transitional period displayed the warmest season of +1.9 °C in the middle of the thirteenth century and several warm decades especially during the first half of the fourteenth century and the full fifteenth century, reaching a maximum during the first half of the Spörer minimum (1460–1550 CE).\nThe LIA is well marked at NCZTjaso and the cold period spans 1500–1930 CE with only one positive anomaly between 1760 and 1800 CE reaching a maximum temperature of +1.4 °C. The coldest period was during the 1500–1550 CE which coincides with the second half of the Spörer solar minimum, while the minimum seasonal temperature was reached at the beginning of the seventeenth century. A prominent cold period also occurred during the Dalton solar minimum (1800–1860 CE) but not during the Maunder solar minimum (1645–1715 CE).\nThe end of the LIA was followed by an increase in temperatures between 1925 and 1975CE, reaching a seasonal maximum of +1.3 °C in the middle of the twentieth century. The most recent decades in the proxy record (1975– 2003 CE) have not been the warmest of the record, and the mean temperature stayed slightly below the long-term average, attaining a seasonal minimum of −1.4 °C.\nThe temperature variability during LIA was generally low, especially during 1550–1760CE, compared to the MCA–LIA transition when variability was much higher. More specifically, seasonal temperature anomalies ranged from −1.8 to +1.0 °C during 1550–1760 CE and from −2 to +1.9 °C during the MCA–LIA. The difference becomes more evident when comparing decadal anomalies: from −0.7 to +0.3 °C and from −1.1 to +1.7 °C, respectively.\nWhen exploring the similarities among different European summer temperature reconstructions based on tree rings at annual scales (Fig. 5, bottom panel), the differences with increasing distance are evident. NCZTjaso and Pyrenees significantly correlate during most of the period of comparison, pointing to an agreement on the annual frequency. On the other hand, the agreement between NCZTjaso and the reconstruction from the Alps is restricted to some particular periods such as the Dalton solar minimum. At decadal to centennial time scales (Fig. 5, upper panel) some marked differences in amplitude among the different summer temperature reconstructions are marked. The temperature reconstruction from the Alps (Büntgen et al. 2011) consistently displays larger changes (from −1.4 to +0.8 °C) than the one from the Pyrenees (Dorado Liñán et al. 2012) (from −0.4 to +0.2 °C) and NCZTjaso (from −0.6 to +0.4 °C). Likewise, the timing of the maximum and minimum temperature anomalies was different. The reconstruction from the Alps and Pyrenees reached their minimum values during the Dalton Minimum while both display the maximum values during the twentieth century. On the contrary, NCZTjaso shows the maximum temperatures at the beginning of the\n1 3\nfourteenth century and the minimum during the first half of the sixteenth century.\nNCZTjaso shows a similar pattern of anomalies between 1580 and 2004CE, albeit with consistent anti-correlations with the temperature reconstructions from the Alps and Pyrenees during the period 1200–1580 CE (Fig. 5). This anticorrelation mainly occurs during the MCA–LIA transition. Also, the timing and duration of the LIA is different. Whereas during the Wolf minimum the reconstruction from the Alps shows a maximum in temperatures, NCZTjaso displays a minimum. Similarly, the negative (positive) anomaly spanning from 1350 to 1420 CE (1420– 1500 CE) in NCZTjaso, is a period of a positive (negative) anomaly at the Alps and persistent positive anomaly at the Pyrenees. The LIA started in NCZTjaso around 1500 CE with the corresponding decrease in temperatures, while at the Alps and Pyrenees temperatures were predominantly warm until 1558 and 1640CE, respectively.\nThe three reconstructions show clear below-average temperatures along a period that can be categorized as the LIA, although the duration slightly differs. NCZTjaso displays the longest period of persistent cold temperatures from 1550 to 1920CE, approximately. The reconstruction from the Alps displays a LIA spanning from about 1580–1860CE,\nwhile the Pyrenees exhibits low temperatures from about 1640–1920CE. Within the LIA, the decrease in temperature during the second half of the Spörer minimum is visible in NCZTjaso, constituting the period with the lowest temperature in the context of the last 800 years (−0.55 °C below average), while in the Alps and Pyrenees the decrease in temperatures was slight or non-existent. The lowest temperature anomalies in the Alps and Pyrenees were reached during the Dalton minimum (−1.4 and −0.4 °C, respectively), which is also evident in NCZTjaso. In contrast, the Maunder minimum is visible in the Alps and Pyrenees reconstructions but not in NCZTjaso.\nThe end of the LIA took place a bit earlier in the Alps, with above average temperatures between 1870 and 1920 CE, while in the Pyrenees and NCZTjaso temperatures remained below average during that period.\nAll three reconstructions (Alps, Pyrenees and NCZTjaso) agree on the warming during the period from 1930 to 1975 CE. Indeed, the Pyrenees experienced the maximum temperature during that period (+0.2 °C) and NCZTjaso also shows similar high temperature anomalies (+0.3 °C). However, Pyrenees and NCZTjaso display a decrease in temperatures during the most recent decades (1975–2003 CE), while in the Alps the last decades of the twentieth\n1 3\ncentury were the warmest decades in the context of the last 800 years, reaching a temperature anomaly of +0.8 °C.\nThe SEA reveals the impact of volcanic eruptions on the reconstructed temperature at the three European sites: Cazorla Range, Pyrenees and Alps (Fig. 6). The SEA shows a significant decrease in summer temperature in all three sites, Alps, Pyrenees and NCZTjaso, in the year after volcanic eruptions, pointing to a reasonable common volcanic forcing in all three locations for the last two centuries.\n3.2 Simulated and reconstructed temperatures\nTable 1 summarizes the range of temperature anomalies spanned by the reconstruction and simulations.\nThe comparison of the amplitude of reconstructed temperatures with those derived from the simulations performed with GCMs generally show a better agreement of NCZTjaso with ensemble members of the MPI-ESM simulations E1 and E2 and CCSM4 (Table 1). On the contrary, the ensemble\n1 3\nmembers of ECHO-G (Erik and Erik2) and the simulations of the CMIP5 models GISS and IPSL show wider amplitudes, while BCC and MPI depict a smaller range of past temperature variations. Simulations derived from the climate model GISS should be interpreted taking into consideration the existence on potential drifts on the first centuries (1000– 1300 CE) of the simulation (Schmidt et al. 2013).\nThe resemblance in amplitude between reconstructed and simulated temperatures is also sometimes associated with similar maxima and minima. As mentioned above, decadal to multi-decadal temperature anomalies at NCZTjaso range from −0.55 °C (decade of 1530) to +0.40 °C (beginning of fourteenth century). The five members of the E1 ensemble display on average minimum temperature anomalies of −0.6 °C (during the second half of the thirteenth century) and maximum anomalies of +0.35 °C (at the end of the twentieth century). Similarly, the three members of the ensemble of simulations E2 also display maximum and minimum decadal temperature anomalies close to the ones displayed by NCZTjaso (−0.6 and +0.3 °C, respectively). However, CCSM4 show minimum temperature anomalies that are far more negative (−0.8 °C) and slightly more positive (+0.51°) than the reconstructed anomalies.\nThe simulations of ECHO-G display wider amplitudes of decadal temperature anomalies: from −1.15 °C (twentieth century) to +0.2 °C (last decade of the twentieth century) for Erik 1 and from −1.6 °C (middle fifteenth century) to +0.22 °C (last decade of the twentieth century) in the case of Erik2. Regarding the rest of the CMIP5 simulations, the spread in the range between the maxima and minima shown by each simulation is large. The most pronounced minimum corresponds to IPSL (−1.12 °C ) while the warmer minimum temperature anomalies are displayed by MPI (−0.472°). Likewise, IPSL exhibits the highest maximum temperature anomaly (+0.51 °C) while CCSM displays the lowest (+0.15 °C).\nThe comparison of reconstruction and simulation curves reveals that the temperatures simulated by Erik1 and Erik2 from 1200 to 1900 CE are consistently lower than those reconstructed in NCZTjaso (Fig. 7). Indeed, the LIA seems to last much longer in Erik 1 and Erik 2 (from 1300 to 1900 CE approximately) than in NCZTjaso (from 1500 to 1900 CE). The simulations and the proxy reconstruction agree on the decadal variations from 1700 CE onwards (i.e., Dalton solar minimum) and on the magnitude and rate of temperatures along the twentieth century.\n1 3\nWhen comparing NCZTjaso with the two ensembles of simulations performed with the MPI-ESM model, a closer similarity of the amplitude of past decadal summer temperatures variations becomes evident. Summer temperatures displayed by most of the members of E1 and E2 during a large part of the LIA (1500–1750 CE) are slightly cooler than those showed by NCZTjaso. Reconstructed and simulated (E1 and E2) summer temperatures show good agreement on decadal variations and trends from 1750 to 2000CE.\nSimilarly to the simulations of ECHO-G, the model IPSL simulates much colder temperatures than NCZTjaso. The rest of the CMIP5 models simulate temperatures on the range of those described by NCZTjaso but with reduced amplitudes of variations. During the LIA, simulated temperatures by BCC, GISS, MPI and CCSM4 are lower than described by NCZTjaso. Differences among simulations are larger during the period 1750–1800 CE when NCZTjaso shows a maximum only reproduced by MPI and IPSL and a high variability in the temperatures described by the different CMIP5 models exists. Generally, simulated and reconstructed summer temperatures show a better agreement on decadal variations and trends from 1850 to 2000 CE and major discrepancies exist for the period 1200–1500CE, when series are consistently anticorrelated.\nThe correlation between NCZTjaso and the different GCM outputs as a function of increasing smoothing of the series (Fig. 8) reveals that NCZTjaso better agrees with the ensemble of simulation of MPI-ESM E2 in their past temperature estimations, specifically with the ensemble member E2-1. The correlations of NCZTjaso with the different simulations increase in every case when removing the MCA-LIA period from the correlation analysis, where simulated and reconstructed temperatures are usually anticorrelated. Furthermore, when considering only the period\n1500–2000CE, the correlations between NCZTjaso with the ensemble members E2-1 and E2-2 are significant at all different time scales. Other simulation members such as E1-1 display significant correlations at decadal scales but lose the statistical significance with increasing filtering.\nIn line with the results found in the comparison of NCZTjaso with simulations with a complete external forcing, reconstructed temperatures at Cazorla Range do not show significant correlation with any of the single-forcing simulations in the period 1200–1550 CE (Fig. 9). After 1500 CE, temperature variations significantly correlate at decadal scales with simulations forced with volcanism. The influence of volcanism is continuous during the nineteenth and twentieth century, though it is at the limit of 95 % significance. The SEA clearly shows the negative effect on temperature of volcanism 1 year after the eruption takes place. These results are in line with those found for NCZTjaso. No other single-forcing simulations show significant correlations with NCZTjaso in the three periods (1195–2000, 1500–2000 and 1860–2000 CE) considered. The amplitude of the temperature variations described by the reconstruction is usually larger than those shown by the simulations forced with TSI, volcanic forcing or LCC. However, during LIA NCZTjaso shows a smaller variability than the simulation forced with TSI and volcanism. Only LCC displays a similarly reduced variability."
+  }, {
+    "heading": "4 Discussion and summary",
+    "text": "4.1 Eight-hundred years of summer temperature variations at the Cazorla Range\nNCZTjaso describes 800 years of summer-to-autumn temperature variations in the south of the IP covering the\n1 3\nMCA-LIA transition, the LIA and the modern times. Importantly, the interpretation of NCZTjaso, as a temperature proxy, with the inverse relationship between TRW and temperature shown by Dorado Liñán et al. (2013), is supported by the results of the SEA. After volcanic eruptions the TRW tends to be larger than average, indicating lower temperatures as in other temperature reconstructions from the Alps and the Pyrenees. It could be argued that this result would still not be conclusive since tropical volcanic eruptions are known to nudge the state of the North Atlantic Oscillation towards a more positive state and thus would cause drier winter-spring seasons in the Iberian Peninsula. If the TRW at Cazorla were recording hydroclimate they would, therefore, still display a signal in the SEA. However, in this hypothetical case, the TRW would tend to be narrower after volcanic eruptions and not wider as the SEA\nanalysis shows. We conclude, therefore, that the SEA supports the interpretation of TRW at Cazorla as a temperature proxy.\nThe occurrence of climatic anomalies spanning several decades/centuries such as the MCA and LIA during the last millennium has been widely reported. However, an accurate temporal and regional characterization of these anomalous periods becomes more uncertain further back in time due to the lower number of available palaeorecords. Thus, if the timing of the LIA is still not clear, the onset, characteristics and duration of the MCA are even less well defined. These fuzzy time definitions preclude the characterization of a MCA-LIA transitional period, which appears not only as one of the most interesting climatic periods of the last millennium but also one of the most incoherent in the literature. Not all publications dealing with MCA and\nFig. 9 External climate forcing at Cazorla Range. a Comparison of NCZTjaso and the single-forcing simulations performed with MPI-ESM: SF solar forcing, VF volcanic forcing, LCC land cover changes, GG greenhouse gases. All series are anomalies with respect to the 1900–1990 mean and smoothed with a 40-years centred moving average. b Reconstructions of volcanic eruptions from Crowley (2000); c reconstructions of solar activity: the TSI curve derived from Crowley (2000) (orange) and the set of TSI reconstructions used in the CMIP5 simulations based on different sources (yellow); d concentration in the greenhouse gasses NO2, CO2 and CH4; e, f correlation\nbetween NCZTjaso and the simulations LCC, Solar and VF as a function of increasing smoothing of the series for the periods 1195–2000 and 1500–2000CE, respectively; g evolution of the correlation with increasing smoothing between NCZTjaso and all simulations for the period 1860–2000CE; h relative summer temperature departures for 5 years preceding/following events averaged over 7 post 1800-eruptions. White stars indicate a significant departure at 99 %. Periods of solar minima are shaded: WM Wolf minimum; SM Spörer Minimum; MM Maunder Minimum and DM Dalton Minimum. Black dashed line indicates 95 % significance level\n1 3\nLIA define a transitional period between these two prolonged anomalies (i.e., Lamb 1965; Seager and Burgman 2011; Büntgen et al. 2011; Moreno et al. 2011; Jones et al. 2001; Guiot et al. 2010) and the existing definitions consider different timing and duration: 1125–1500 CE (Heinrich et al. 2013), 1100–1400 CE (Mann et al. 2008), 1200– 1400 CE (Mann et al. 2009; González-Rouco et al. 2011), 1300–1400 CE (Trouet et al. 2012), and 1350–1500 CE (Graham et al. 2011).\nBased on these definitions, at NCZTjaso, the period spanning 1200–1500 CE has been considered as the MCA– LIA transition although the temperatures were clearly dominated by prolonged warm periods and could also be considered as a part of the MCA based on the definitions proposed by some authors (e.g. Guiot et al. 2010 defined 1400 CE as the end of the MCA). The warm MCA–LIA transition at Cazorla Range does not generally agree with the reconstruction from the Alps and Pyrenees. Actually, there is a consistent anti-correlation between the series, which is most remarkable in the period between the Wolf and Spörer minima. Despite dominant warm conditions, NCZTjaso shows some cold episodes, the longest spanning 1360–1410 CE and coinciding with a solar maximum. This negative temperature anomaly at the Cazorla Range appears as a warm episode at the Pyrenees and a period of increasing temperatures in the Alps. Such a cold episode in Cazorla during the second half of the fourteenth century has been reported by other authors and explained as the result of large and intense deforestation campaigns (e.g. Guiot et al. 2010) probably triggered by the Crisis of the Late Middle Ages during the fourteenth century (Goldsmith 1995). Deforestation may cause a decrease in temperatures due to the increase in surface albedo (Pongratz et al. 2009). However, this biogeophysical effect is usually local and overridden at larger spatial scales by the biogeochemical effects of the deforestation in the global atmospheric carbon cycle (Pongratz et al. 2010). In our particular case, the second half of the fourteenth century in the south of the IP was dominated by the war with the Nasrid Kingdom of Granada (Laredo Quesada 1979; Harvey 1992) and by the Civil War that took place between 1351 and 1369 CE (Primera Guerra Civil Castellana; Valdeón Baruque 2002). The Civil War was not focused on this part of the IP and probably did not exert a strong direct impact on the area. However, Cazorla Range is closely located to the former borders of the Nasrid Kingdom of Granada, and thus, a high deforestation due to war demands for wood seems likely, and could have contributed to an increase in surface albedo and a local cooling.\nAt NCZTjaso, LIA spans the period 1500–1920 CE, describing a slightly more persistent cold temperatures in the south of the IP than those described by other European tree-ring based climate reconstruction in the Pyrenees\n(Dorado Liñán et al. 2012) and Alps (Büntgen et al. 2011). Nevertheless, the reported onset and end of the LIA also display a considerable range of dates at different regions and spatial scales: the starting has been set at the beginning of the thirteenth century (Esper et al. 2002), in the fourteenth century (Moreno et al. 2011), fifteenth century (i.e., Mann et al. 2008, 2009) and sixteenth century (Lamb 1965; Bradley 2000; Guiot et al. 2005). The suggested end dates of the LIA are the earliest in the eighteenth century (Lamb 1965; Mann et al. 2009), in the nineteenth century (Bradley 2000; Moreno et al. 2011) and at the beginning of the twentieth century (Mann et al. 2008; Guiot et al. 2005, 2010).\nThe cold period described by NCZTjaso, is consistent with patterns based on large scale composite temperature reconstructions for the Northern Hemisphere, which span the period 1400–1900 CE (Mann et al. 1998, 1999; Jones et al. 1998; PAGES 2k Consortium 2013). In contrast, it disagrees with the most recent European reconstruction of summer temperatures based on tree-rings, which reports a LIA starting in 1200 CE in the southwest of Europe (Guiot et al. 2010). The difference could be due to the limited availability of tree-ring records in the IP in the study of Guiot et al. (2010). Indeed, there are only two tree-ring records covering the geographical area between the French Alps and the Atlas in Morocco and this may not fully capture the climate variability of the area.\nOverall, the LIA was a cold period with low variability compared to the preceding centuries. Some warm episodes exist such as the second half of the eighteenth, just before the Dalton minimum. This warm spell is evident not only in local–regional summer (Büntgen et al. 2011) and winter (Leijonhufvud et al. 2010) temperature reconstructions in Europe, but also in continental (Luterbacher et al. 2004) and in most of the hemispheric scale proxybased reconstructions (Bradley 2000; Esper et al. 2002; Jones et al. 2001; Mann et al. 1998, 2008) highlighting the large-scale character of the warm episode. Thus, the driver of this warmth may also be global, such as an increase in solar irradiance between the Maunder and Dalton Minimum (Keller et al. 2004; Luterbacher et al. 2004) or a biogeochemical effect of anthropogenic LCC (Pongratz et al. 2010).\nRegarding the twentieth century, and similarly to the reconstructed temperature at the Pyrenees (Dorado Liñán et al. 2012), NCZTjaso does not show unprecedented warmth in the context of the last 800 years, such as other wellknown regional (Büntgen et al. 2011), continental (Guiot et al. 2010) and hemispheric tree-ring based temperature reconstructions (e.g., Mann et al. 2008). The warmest temperatures at NCZTjaso were reached between the end of the 13th and the first half of the fourteenth century (MCA– LIA transitional period or MCA depending on the definition). Furthermore, the magnitude of the twentieth century\n1 3\nwarmth at Cazorla Range was exceeded twice in the last 800 years, at the end of the fifteenth and eighteenth centuries, underlining the warm but not exceptional nature of the twentieth century summer temperatures at the Cazorla Range in the context of the last 800 years.\nIt is worth mentioning the differences in amplitude of past summer temperature variations displayed by the three reconstructions compared in this paper. Within this group, the Alps display consistently wider amplitudes of variations, while the Pyrenees show the smallest. Regardless of a possible overestimation or underestimation of the temperature variations in some of the reconstructions, the temperature amplitudes shown by NCZTjaso agree with those displayed by most of the simulations used in this paper, as shown later.\n4.2 Drivers of temperature variations\nThe signatures exerted by global natural external forcing such as volcanism and solar variability have been identified in the climate of the past millennium (Briffa et al. 1998; Crowley 2000; Gao et al. 2008). However, the role played by long-term anthropogenic forcing in past temperature variations, like e.g. LCC, is more uncertain.\nEven though natural external forcing such as solar irradiance may exert a less detectable influence in summer temperature variations than in other seasons (Hegerl et al. 2011), TSI and especially volcanism appears to have played a role on decadal to multidecadal summer temperature variations during the last millennium at Cazorla Range. In agreement with previous literature, the combination of low solar irradiance and high volcanic activity coincides with well-known periods of lower temperatures such as the second half of Spörer and Dalton solar minima at the Cazorla Range. Although these two forcings sometimes act simultaneously, intensive volcanism alone has likely been responsible for a punctual decrease in temperature (i.e. middle thirteenth century coinciding with the largest eruption of the last millennium) and could even have cancelled the effect of the warming induced by TSI maxima (e.g. end of the 16th until middle of seventeenth century). Indeed, volcanism has shown up as the only external forcing with a significant correlation with decadal variations of summer temperature at the Cazorla Range for the last 5 centuries (Fig. 9) and responsible for the punctual decrease in temperature after the volcanic eruptions (Fig. 6). Sustained high solar irradiance alone seemed to contribute to the enhancement of summer temperatures at the Cazorla Range in particular periods such as 1200 and1400 CE and during the maxima in the eighteenth and nineteenth centuries. However, we could not find a sustained correlation of solar forcing along the millennium in line with previous works (Hegerl et al. 2007).\nSome authors have found that volcanic and solar forcing alone cannot explain the full range of summer temperatures variations in Europe (Guiot et al. 2010). Likewise, at the Cazorla Range the situation may be similar and other factors likely contributed to decadal changes on summer temperatures. The correlation of NCZTjaso with the singleforcing MPI-ESM simulations can give some insights into the influence exerted by each forcing over the long period considered but this approach cannot fully explain more short-term or punctual influences. For instance, solar and volcanic forcing were coincident with extreme global temperature negative anomalies during LIA (e.g., second half of the Spörer minimum 1500–1550CE; Crowley 2000; Gao et al. 2008). However, for the Cazorla Range case, simulations forced with just TSI or volcanism show a much higher variability of summer temperatures during 1550 and 1700 CE than NCZTjaso. Simulated temperatures forced with only LCC do not reproduce the Spörer minimum but present reduced variations of temperatures during 1550 and 1700 CE similar to those displayed by NCZTjaso. This may indicate a too high sensitivity of GCMs to TSI and volcanic forcing or an underestimation by NCZTjaso of the real amplitude of summer temperature variations during the LIA.\nThe attribution of the nineteenth and twentieth century summer temperature changes to a single/dominant external forcing is also complex. Single-forcing simulations driven by volcanism or LCC display the highest correlations with NCZTjaso, though not highly significant. Furthermore, the influence of anthropogenic forcing such as LCC during the last two centuries seems to be increasing and becoming dominant while the effect exerted by natural forcing on temperatures is decreasing as pointed out by Hegerl et al. (2007). Neither the temperature reconstruction at Cazorla Range, nor the temperature observations display an increasing trend during the twentieth century. Thus, the effect of increasing concentration in greenhouse gases during the last century seems to have been cancelled by other forcing or long-term internal variability.\nNCZTjaso agrees best with the ensemble of simulations E2 performed with MPI-ESM in terms of amplitude and variations of past temperature, in particular with the ensemble members E2-1 and E2-2. Both, E1 and E2, as well as the simulations included on the CMIP5 contain a more complete set of external forcings than ECHO-G, including anthropogenic forcing such as LCC. However, simulations from E1 and CMIP5 do not correlate better with NCZTjaso than Erik. The simulations E2 and Erik make use of a TSI curve with large amplitudes (Crowley 2000) while the reconstruction used in E1 and the CMIP5 simulations used a much smaller amplitude of the solar variations (Krivova and Solanki 2008; Steinhilber et al. 2009). The amplitude of past solar variations is currently under\n1 3\ndebate. Some authors (Krivova et al. 2007) argue that TSI is much smaller than the one suggested by Crowley (2000) while others point to a wider amplitude of past solar variations (Shapiro et al. 2011). Although volcanism seem to play a more determinant role in past temperature variations at the Cazorla Range than TSI, models forced with TSI curves of wider amplitude such as E2 from the MPI-ESM lead to temperature amplitudes closer to those of NCZTjaso. In contrast, Hind and Moberg (2013) found a better agreement between proxy-based temperature reconstructions and simulations using TSI curves of reduced amplitude of variations. These contradictory findings and the fact that the tree-ring based reconstruction from the Alps (Büntgen et al. 2011) displays a three-time larger amplitude of past temperature variations than Pyrenees and NCZTjaso, underlines the need of further research in this specific topic.\nThe role played by the stronger external forcing and the initial conditions prescribed for the simulations may partly explain the offset between reconstructed and simulated temperatures with ECHO-G. The lack of agreement is even larger for most of the CMIP5 models in which the more complete external forcing including LCC (CCSM4, GISS and MPI) and/or aerosols (BCC, CCSM4, GISS, MPI) did not lead to an increased agreement with NCZTjaso compared with ECHO-G simulations. The low agreement might be partly explained by the TSI curve of reduced amplitude but also by the internal variability. For the CMIP5 models only one simulation per model was available and thus, it was not possible to quantify the effects of the different initial conditions and the role played by internal variability in the simulated temperatures, limiting the analysis and attribution of climate forcing that can be done in this case.\n4.3 The MCA–LIA transitional period\nThe lack of agreement between model simulations and NCZTjaso during the MCA-LIA transitional period is evident; especially for the time span 1350–1500CE. The general warm temperatures described by NCZTjaso for this period are in agreement with large scale reconstructions (Mann et al. 2009). The cold episode spanning 1360–1410 CE has also been reported by other authors. However, no single forcing seems to be driving such changes. Recent studies revealed that simulations with climate models for the MCA–LIA transition display diverging patterns and disagree with proxy reconstructions (González-Rouco et al. 2011). Thus the lack of agreement between NCZTjaso and model simulations during this period is not uncommon.\nSome studies have suggested that changes during 1200 and 1400 CE could be dominated by internal variability and therefore not externally forced (Mann et al. 2009; Graham et al. 2011; Trouet et al. 2012), and thus a correlation between model simulations and reconstructions should not\nbe expected. The dominant warm temperatures during most of the period 1200–1500 CE at Cazorla Range could be explained, at least partly, with the persistent positive North Atlantic Oscillation phase in winter-spring described in detail by Trouet et al. (2009). However, whether summer temperatures at the Cazorla Range during this period could be affected by an internally generated shift in winter-spring large-scale circulation patterns is physically not clear, and a question beyond the aim of this paper.\n4.4 Summary\nThe summer temperature reconstruction of Cazorla Range displays major climate variations in broad agreement with previous publications. The LIA lasts slightly longer than in other local and regional European reconstructions, and the twentieth century does not show unprecedented warmth in the context of the last 800 years. The highest temperatures were reached during the period defined here as MCA–LIA transitional period (1200–1500 CE), pointing to possible prolonged MCA conditions in the southeast of the IP.\nFrom the comparison with model simulations, it appears that internal variability alone cannot explain the observed temperature variations as suggested by some authors (Bengtsson et al. 2006) and external forcings play a role. Natural forcing, especially volcanism and solar irradiance, seems to account for most of the well-known negative temperature anomalies in the periods of solar minima. The role played by LCC not only since industrialization but also during the last millennium through its linkage to the biogeochemical cycles, especially to the carbon cycle (Pongratz et al. 2010) could not be clarified. Nevertheless, LCC seems to be acquiring a more prominent role in constraining summer temperature variations at the IP during the last two centuries, while the twentieth century increase in anthropogenic greenhouse gas concentrations seems not to have a discernible influence on the temperature trends at the Cazorla Range.\nThe comparison across different model simulations revealed a closer agreement between the Cazorla temperature reconstruction and the models including TSI reconstructions with wider amplitude and anthropogenic LCC. Despite this, the anti-correlation between the reconstructed temperature and the temperature described by these simulations during parts of the MCA–LIA transitional period highlights the lack of understanding and the limitations in the attribution of such a temperature pattern to internal variability or external forcing. In the light of this, we consider that reconstructions of TSI with even wider amplitudes deserve to be tested further.\nThe new 800 year- long summer temperature reconstruction presented here fills a geographical gap in the body of annual resolved proxy reconstructions and contributes to\n1 3\nincrease the knowledge in the spatial and temporal variations of MCA and LIA expression. Further work will require (1) additional and longer temperature reconstructions in the IP in order to provide a finer resolution of the spatial variations of MCA and LIA; (2) further ensemble simulations performed with CMIP5 models that will allow a more complete evaluation of the role of natural forcing and internal variability on the amplitude of past temperature variations as well as the role of the LCC prior to industrialization.\nAcknowledgments We are very grateful to the collaborators from the Junta de Andalucía and Centro de Capacitación y Experimentación Forestal de Cazorla, especially to A. Benavente and P. A. Tíscar for their support to our research and help in the field all these years. We thank the anonymous reviewers for their constructive comments and valuable inputs. This research was funded by MILLENNIUM (017008-2)."
+  }],
+  "year": 2015,
+  "references": [{
+    "title": "Temperature and precipitation reconstruction in southern Portugal during the late Maunder Minimum (AD 1675–1715)",
+    "authors": ["MJ Alcoforado", "M Fátima Nunes", "JC Garcia", "JP Taborda"],
+    "year": 2000
+  }, {
+    "title": "Climate increases regional tree-growth variability in Iberian pine forests",
+    "authors": ["L Andreu", "E Gutiérrez", "M Macias", "M Ribas", "O Bosch", "JJ Camarero"],
+    "venue": "Glob Change Biol",
+    "year": 2007
+  }, {
+    "title": "Climatic variations in the Iberian Peninsula during the late Maunder Minimum (AD 1675-1715): an analysis of data from rogation ceremonies. Holocene",
+    "authors": ["M Barriendos"],
+    "year": 1997
+  }, {
+    "title": "Study of historical flood events on Spanish rivers using documentary data Study of historical flood events on Spanish rivers using documentary data",
+    "authors": ["M Barriendos", "FS Rodrigo"],
+    "venue": "Hydrol Sci J",
+    "year": 2006
+  }, {
+    "title": "Atmospheric gas concentrations over the past century measured in air from firn at the South Pole",
+    "authors": ["M Battle", "M Bender", "T Sowers", "PP Tans", "JH Butler", "JW Elkins", "JT Ellis", "T Conway", "N Zhang", "P Lang", "AD Clarke"],
+    "venue": "Nature",
+    "year": 1996
+  }, {
+    "title": "On the natural variability of the pre-industrial European climate",
+    "authors": ["L Bengtsson", "KI Hodges", "E Roeckner", "R Brokopf"],
+    "venue": "Clim Dyn 27:743–760",
+    "year": 2006
+  }, {
+    "title": "History of sulfate aerosol radiative forcings",
+    "authors": ["O Boucher", "M Pham"],
+    "venue": "Geophys Res Lett",
+    "year": 2002
+  }, {
+    "title": "Planetary theories in rectangular and spherical variables: VSOP 87 solutions",
+    "authors": ["P Bretagnon", "G Francou"],
+    "venue": "Astron Astrophys",
+    "year": 1988
+  }, {
+    "title": "Influence of volcanic eruptions on Northern Hemisphere summer temperature over the past 600 years",
+    "authors": ["KR Briffa", "PD Jones", "TJ Osborn"],
+    "venue": "Nature",
+    "year": 1998
+  }, {
+    "title": "Winter temperatures in the second half of the sixteenth century in the central area of the Iberian Peninsula",
+    "authors": ["T Bullón"],
+    "venue": "Clim Past",
+    "year": 2008
+  }, {
+    "title": "A dendrochronology program library in R (dplR)",
+    "authors": ["A Bunn"],
+    "venue": "Dendrochronologia",
+    "year": 2008
+  }, {
+    "title": "Long-term summer temperature variations in the Pyrenees",
+    "authors": ["U Büntgen", "GH FrankD", "J Esper"],
+    "venue": "Clim Dyn",
+    "year": 2008
+  }, {
+    "title": "Spatial regression methods",
+    "authors": ["Publishers", "ER Doredrecht Cook", "KR Briffa", "PD Jones"],
+    "year": 1994
+  }, {
+    "title": "Valero-Garcés BL (2010) Climate and human impact",
+    "authors": ["A Sanz"],
+    "year": 2010
+  }, {
+    "title": "Causes of climate change over the past",
+    "authors": [],
+    "year": 2000
+  }, {
+    "title": "Volcanism and the little ice age",
+    "authors": ["E Castellano"],
+    "year": 2008
+  }, {
+    "title": "Climate signals in width",
+    "authors": ["F Campelo", "G Helle"],
+    "year": 2011
+  }, {
+    "title": "Estimating 750 years of temperature variations",
+    "authors": ["E rez"],
+    "year": 2012
+  }, {
+    "title": "Low-frequency signals",
+    "authors": ["J Esper", "ER Cook", "FH Schweingruber"],
+    "venue": "Iberian Peninsula. Clim Res",
+    "year": 2002
+  }, {
+    "title": "Tree Rings and Climate",
+    "authors": ["HC Fritts"],
+    "year": 1976
+  }, {
+    "title": "Volcanic forcing of climate over the past 1500 years: an improved ice corebased index for climate models",
+    "authors": ["CC Gao", "A Robock", "C Ammann"],
+    "venue": "J Geophys Res",
+    "year": 2008
+  }, {
+    "title": "Extreme pointer years in tree-ring records of Central Spain as evidence of climatic events and the eruption of the Huaynaputina Volcano (Peru, 1600 AD)",
+    "authors": ["M Génova"],
+    "venue": "Clim Past",
+    "year": 2012
+  }, {
+    "title": "The crisis of the late middle ages: the case of France. French History",
+    "authors": ["JL Goldsmith"],
+    "year": 1995
+  }, {
+    "title": "Medieval climate anomaly to little ice age transition as simulated by current climate models",
+    "authors": ["FJ Gonzalez-Rouco", "L Fernandez-Donado", "CC Raible", "D Barriopedro", "R Garcia-Herrera", "J Luterbacher", "J Jungclaus", "D Swingedow", "J Servonat", "S Tett", "P Brohan", "E Zorita", "S Wagner", "C Amman"],
+    "venue": "PAGES News",
+    "year": 2011
+  }, {
+    "title": "Simulation and inversion of borehole temperature profiles in surrogate climates: spatial distribution and surface coupling",
+    "authors": ["JF González-Rouco", "H Beltrami", "E Zorita", "H von Storch"],
+    "venue": "Geophys Res Lett 33:L024693",
+    "year": 2006
+  }, {
+    "title": "Borehole climatology: a discussion based on contributions from climate modeling",
+    "authors": ["JF González-Rouco", "H Beltrami", "E Zorita", "MB Stevens"],
+    "venue": "Clim Past",
+    "year": 2009
+  }, {
+    "title": "Support for global climate reorganization during the “Medieval climate anomaly",
+    "authors": ["NE Graham", "CM Ammann", "D Fleitmann", "KM Cobb", "J Luterbacher"],
+    "year": 2011
+  }, {
+    "title": "Last-millennium summer-temperature variations in Western Europe based on proxy data",
+    "authors": ["J Guiot", "A Nicault", "C Rathgeber", "JL Edouard", "F Guibal", "G Pichard", "C Till"],
+    "venue": "Holocene",
+    "year": 2005
+  }, {
+    "title": "ESCARSEL members (2010) Growing season temperatures in Europe and climate forcings over the past 1400 years",
+    "authors": ["J Guiot", "C Corona"],
+    "year": 2010
+  }, {
+    "title": "Islamic Spain 1250 to 1500",
+    "authors": ["LP Harvey"],
+    "venue": "University of Chicago Press",
+    "year": 1992
+  }, {
+    "title": "Detection of human influence on a new, validated 1500-year temperature reconstruction",
+    "authors": ["G Hegerl", "T Crowley", "M Allen", "W Hyde", "H Pollack", "J Smerdon", "E Zorita"],
+    "venue": "J Clim",
+    "year": 2007
+  }, {
+    "title": "Influence of human and natural forcing on European seasonal temperatures",
+    "authors": ["G Hegerl", "J Luterbacher", "F Gonzalez-Rouco", "SFB Tett", "T Crowley", "E Xoplaki"],
+    "venue": "Geosci",
+    "year": 2011
+  }, {
+    "title": "Winter-to-spring temperature dynamics in Turkey derived from tree rings since AD 1125",
+    "authors": ["I Heinrich", "R Touchan", "I Dorado Liñán", "H Vos", "G Helle"],
+    "year": 2013
+  }, {
+    "title": "The flora of the sierra de cazorla",
+    "authors": ["Heywood"],
+    "venue": "S.E, Spain. Feddes Rep",
+    "year": 1961
+  }, {
+    "title": "Past millennial solar forcing magnitude. A statistical hemispheric-scale climate model versus proxy data comparison",
+    "authors": ["A Hind", "A Moberg"],
+    "year": 2013
+  }, {
+    "title": "Computer-assisted quality control in tree-ring dating and measurement",
+    "authors": ["RL Holmes"],
+    "year": 1983
+  }, {
+    "title": "A record of Pleistocene climate from a stalactite, Nerja Cave, southern Spain",
+    "authors": ["C Jiménez de Cisneros", "E Caballero", "JA Vera", "JJ Durán", "R Julia"],
+    "venue": "Palaeogeogr Palaeoclimatol Palaeoecol",
+    "year": 2003
+  }, {
+    "title": "Climate over past millennia",
+    "authors": ["PD Jones", "ME Mann"],
+    "venue": "Rev Geophys",
+    "year": 2004
+  }, {
+    "title": "The evolution of climate over the last millennium",
+    "authors": ["PD Jones", "TJ Osborn", "KR Briffa"],
+    "year": 2001
+  }, {
+    "title": "High-resolution palaeoclimatology of the last millennium: a review of current status and future prospects. Holocene",
+    "authors": ["R Villalba", "H Wanner", "E Wolff", "E Xoplaki"],
+    "year": 2009
+  }, {
+    "title": "Meromixis origin and recent trophic evolution in the Spanish mountain lake",
+    "authors": ["R Julià", "F Burjachs", "MJ Dasí", "F Mezquita", "MR Miracle", "JR Roca", "G Seret", "E Vicente"],
+    "venue": "La Cruz. Aquat Sci",
+    "year": 1998
+  }, {
+    "title": "Climate and carbon",
+    "authors": ["JH Jungclaus", "SJ Lorenz", "C Timmreck", "CH Reick", "V Brovkin", "K Six", "J Segschneider", "MA Giorgetta", "TJ Crowley", "J Pongratz", "NA Krivova", "LE Vieira", "SK Solanki", "D Klocke", "M Botzet", "M Esch", "V Gayler", "H Haak", "TJ Raddatz", "E Roeckner", "R Schnur", "H Widmann", "M Claussen", "B Stevens", "J Marotzke"],
+    "year": 2010
+  }, {
+    "title": "On the origin of solar faculae",
+    "authors": ["CU Keller", "M Schussler", "A Vögler", "V Zakharov"],
+    "venue": "Astrophys J",
+    "year": 2004
+  }, {
+    "title": "Models of solar irradiance variations: current status",
+    "authors": ["NA Krivova", "S Solanki"],
+    "venue": "J Astrophys Astron",
+    "year": 2008
+  }, {
+    "title": "Reconstruction of solar total irradiance since 1700 from the surface magnetic flux",
+    "authors": ["NA Krivova", "L Balmaceda", "SK Solanki"],
+    "venue": "Astron Astrophys",
+    "year": 2007
+  }, {
+    "title": "The early medieval warm epoch and its sequel",
+    "authors": ["H Lamb"],
+    "venue": "Palaeogeogr Palaeoclimatol Palaeoecol",
+    "year": 1965
+  }, {
+    "title": "Climate: present, past and future",
+    "authors": ["HH Lamb"],
+    "venue": "Methuen, London,",
+    "year": 1977
+  }, {
+    "title": "Granada: historia de un país islámico",
+    "authors": ["MA Laredo Quesada"],
+    "year": 1979
+  }, {
+    "title": "Evolution of the sun’s spectral irradiance since the maunder minimum",
+    "authors": ["J Lean"],
+    "venue": "Geophys Res Lett 27(16):2425–2428",
+    "year": 2000
+  }, {
+    "title": "Estimating historical anthropogenic global sulfur emission patterns for the period",
+    "authors": ["AS Lefohn", "JD Husar", "RB Husar"],
+    "venue": "Atmos Environ",
+    "year": 1999
+  }, {
+    "title": "The hamburg atmosphere-ocean coupled circulation model ECHO-G",
+    "authors": ["S Legutke", "R Voss"],
+    "venue": "Technical report No 18, German Climate Computer Center (DKRZ),",
+    "year": 1999
+  }, {
+    "title": "Five centuries of Stockholm winter/spring temperatures reconstructed from documentary evidence and instrumental observations",
+    "authors": ["L Leijonhufvud", "R Wilson", "A Moberg", "J Söderberg", "D Retsö", "U Söderlind"],
+    "venue": "Clim Change",
+    "year": 2010
+  }, {
+    "title": "Climate change impacts and vulnerability of the southern populations of Pinus nigra subsp, Salzmannii",
+    "authors": ["JC Linares", "PA Tíscar"],
+    "venue": "Tree Physiol",
+    "year": 2010
+  }, {
+    "title": "European seasonal and annual temperature variability, trends, and extremes since 1500",
+    "authors": ["J Luterbacher", "D Dietrich", "E Xoplaki", "M Grosjean", "H Wanner"],
+    "venue": "Science",
+    "year": 2004
+  }, {
+    "title": "Global-scale temperature patterns and climate forcing over the past six centuries",
+    "authors": ["ME Mann", "RS Bradley", "MK Hughes"],
+    "venue": "Nature",
+    "year": 1998
+  }, {
+    "title": "Northern Hemisphere temperatures during the past millennium: inferences, uncertainties, and limitations",
+    "authors": ["ME Mann", "RS Bradley", "MK Hughes"],
+    "year": 1999
+  }, {
+    "title": "Proxy-based reconstructions of hemispheric and global surface temperature variations over the past two millennia",
+    "authors": ["ME Mann", "Z Zhang", "MK Hughes", "RS Bradley", "SK Miller", "S Rutherford", "F Ni"],
+    "year": 2008
+  }, {
+    "title": "Global signatures and dynamical origins of the little ice age and medieval climate anomaly",
+    "authors": ["ME Mann", "Z Zhang", "S Rutherford", "RS Bradley", "MK Hughes", "D Shindell", "C Ammann", "G Faluvegi", "N Fenbiao"],
+    "year": 2009
+  }, {
+    "title": "The Max Planck Institute global ocean/sea ice model with orthogonal curvilinear coordinates. Ocean Model 5:91–127",
+    "authors": ["SJ Marsland", "H Haak", "JH Jungclaus", "M Latif", "F Roeske"],
+    "year": 2003
+  }, {
+    "title": "Growth response to climate and drought in Pinus nigra Arn. Trees of different crown classes, Trees",
+    "authors": ["D Martín-Benito", "P Cherubini", "M Río", "I Cañellas"],
+    "year": 2007
+  }, {
+    "title": "Land surface temperature changes in Northern Iberia since 4000yrBP, based on δ13C of speleothems",
+    "authors": ["J Martín-Chivelet", "MB Muñoz-García", "RL Edwards", "MJ Turrero", "AI Ortega"],
+    "venue": "Global Planet Change",
+    "year": 2011
+  }, {
+    "title": "Late Holocene climate variability in the southwestern Mediterranean region: an integrated marine and terrestrial geochemical approach",
+    "authors": ["C Martín-Puertas", "F Jiménez-Espejo", "F Martínez-Ruiz", "V Nieto-Moreno", "M Rodrigo", "MP Mata", "BL Valero-Garcés"],
+    "venue": "Clim Past",
+    "year": 2010
+  }, {
+    "title": "The western mediterranean oscillation and rainfall in the Iberian Peninsula",
+    "authors": ["J Martín-Vide", "JA Lopez-Bustins"],
+    "venue": "Int J Climatol",
+    "year": 2006
+  }, {
+    "title": "A multi-proxy perspective on millennium-long climate",
+    "authors": ["M Morellón", "A Pérez-Sanz", "JP Corella", "U Büntgen", "J Catalán", "P González-Sampériz", "JJ González-Trueba", "JA López-Sáez", "A Moreno", "S Pla-Rabes", "MA Saz-Sánchez", "P Scussolini", "E Serrano", "F Steinhilber", "V Stefanova", "T Vegas-Vilarrúbia", "B Valero-Garcés"],
+    "year": 2012
+  }, {
+    "title": "Flood response to rainfall variability during the last 2000 years inferred from the Taravilla Lake record (Central Iberian Range, Spain)",
+    "authors": ["A Moreno", "BL Valero-Garcés", "P González-Sampériz", "M Rico"],
+    "venue": "J Paleolimnol",
+    "year": 2008
+  }, {
+    "title": "A speleothem record of glacial (25–11. 6 kyr BP) rapid climatic changes from northern Iberian Peninsula",
+    "authors": ["A Moreno", "H Stoll", "I Cacho"],
+    "venue": "Global Planet Change",
+    "year": 2010
+  }, {
+    "title": "González-Sampériz P, Valero-Garcés BL (2011) Was there a common hydrological pattern in the Iberian Peninsula region during the Medieval Climate Anomaly? PAGES News 19:16–18",
+    "authors": ["A Moreno", "M Morellon", "C Martín-Puertas", "J Frigola", "M Canals", "I Cacho", "JP Corella", "A Perez", "A Belmonte", "T Vegas-Vilarrúbia"],
+    "year": 2011
+  }, {
+    "title": "Some Applications of Statistics to Meteorology",
+    "authors": ["HA Panofsky", "GW Brier"],
+    "year": 1958
+  }, {
+    "title": "Chrysophyte cysts from lake sediments reveal the submillennial winter/spring climate variability in the northwestern Mediterranean region throughout the Holocene",
+    "authors": ["S Pla", "J Catalan"],
+    "year": 2004
+  }, {
+    "title": "A reconstruction of global agricultural areas and land cover for the last millennium",
+    "authors": ["J Pongratz", "C Reick", "T Raddatz", "M Claussen"],
+    "venue": "Global Biogeochem Cycles",
+    "year": 2008
+  }, {
+    "title": "Radiative forcing from anthropogenic land cover change since A.D. 800",
+    "authors": ["J Pongratz", "T Raddatz", "CH Reick", "M Esch", "M Claussen"],
+    "venue": "Geophys Res Lett 36:L02709",
+    "year": 2009
+  }, {
+    "title": "Biogeophysical versus biogeochemical climate response to historical anthropogenic land cover change",
+    "authors": ["J Pongratz", "CH Reick", "T Raddatz", "M Claussen"],
+    "venue": "Geophys Res Lett 37(8):L08702",
+    "year": 2010
+  }, {
+    "title": "Will the tropical land biosphere dominate the climate-carbon feedback during the twenty-first century",
+    "authors": ["TJ Raddatz", "CH Reick", "W Knorr", "J Kattge", "E Roeckner", "R Schnur", "KG Schnitzler", "P Wetzel", "J Jungclaus"],
+    "year": 2007
+  }, {
+    "title": "2000-year environmental history of a karstic lake in the mediterranean Pre-Pyrenees: the Estanya lakes (Spain)",
+    "authors": ["S Riera", "G Wansard", "R Julià"],
+    "year": 2004
+  }, {
+    "title": "Reconstruction of seasonal and annual rainfall variability in the Iberian peninsula (16th–20th centuries) from documentary data",
+    "authors": ["FS Rodrigo", "M Barriendos"],
+    "venue": "Global Planet Change",
+    "year": 2008
+  }, {
+    "title": "On the use of the Jesuit order private correspondence records in climate reconstructions: a case study from Castille (Spain) from 1634 to 1658 A.D",
+    "authors": ["FS Rodrigo", "MJ Esteban-Parra", "Y Castro-Diez"],
+    "venue": "Clim Change",
+    "year": 1998
+  }, {
+    "title": "A 500-year precipitation record in Southern Spain",
+    "authors": ["FS Rodrigo", "MJ Esteban-Parra", "D Pozo-Vázquez", "Y Castro-Díez"],
+    "venue": "Int J Climatol",
+    "year": 1999
+  }, {
+    "title": "Climate variability in Andalusia (southern Spain) during the period 1701–1850 based on documentary sources: evaluation and comparison with climate model simulations",
+    "authors": ["FS Rodrigo", "JJ Gómez-Navarro", "JP Montávez Gómez"],
+    "venue": "Clim Past",
+    "year": 2012
+  }, {
+    "title": "Reconstruction of annual winter rainfall since A.D.1579 in central-eastern Spain based on calcite laminated sediment from Lake La Cruz",
+    "authors": ["L Romero-Viana", "R Julià", "M Schimmel", "A Camacho", "E Vicente", "MR Miracle"],
+    "venue": "Clim Change",
+    "year": 2011
+  }, {
+    "title": "Using paleo-climate comparisons to constrain future projections",
+    "authors": ["GA Schmidt", "JD Annan", "PJ Bartlein", "BI Cook", "E Guilyardi", "JC Hargreaves", "SP Harrison", "M Kageyama", "AN LeGrande", "B Konecky", "S Lovejoy", "ME Mann", "V Masson-Delmotte", "C Risi", "D Thompson", "A Timmermann", "LB Tremblay", "P Yiou"],
+    "year": 2013
+  }, {
+    "title": "Medieval hydroclimate revisited",
+    "authors": ["R Seager", "R Burgman"],
+    "venue": "PAGES News",
+    "year": 2011
+  }, {
+    "title": "A new approach to long-term reconstruction of the solar irradiance leads to large historical solar forcing",
+    "authors": ["AI Shapiro", "W Schmutz", "E Rozanov", "M Schoell", "M Haberreiter", "AV Shapiro", "S Nyeki"],
+    "venue": "Astron Astrophys 529:A67",
+    "year": 2011
+  }, {
+    "title": "Total solar irradiance during the Holocene",
+    "authors": ["F Steinhilber", "J Beer", "C Frohlich"],
+    "venue": "Geophys Res Lett 36:L19704",
+    "year": 2009
+  }, {
+    "title": "Extreme and persistent drought in California and Patagonia during medieval time",
+    "authors": ["S Stine"],
+    "venue": "Nature",
+    "year": 1994
+  }, {
+    "title": "An introduction to Tree-ring dating",
+    "authors": ["MA Stokes", "TL Smiley"],
+    "year": 1968
+  }, {
+    "title": "Persistent positive North Atlantic Oscillation mode dominated the medieval climate anomaly",
+    "authors": ["V Trouet", "J Esper", "NE Graham", "A Baker", "JD Scourse", "DC Frank"],
+    "venue": "Science",
+    "year": 2009
+  }, {
+    "title": "North Atlantic storminess and Atlantic Meridional overturning circulation in the last millennium: reconciling contradictory proxy records of NAO variability",
+    "authors": ["V Trouet", "JD Scourse", "CC Raible"],
+    "venue": "Global Planet Change",
+    "year": 2012
+  }, {
+    "title": "The role of solar forcing upon climate change",
+    "authors": ["B van Geel", "OM Raspopov", "H Renssen", "J van der Plicht", "V Dergachev", "HJ Meijer"],
+    "venue": "Quatern Sci Rev",
+    "year": 1999
+  }, {
+    "title": "Trends in drought intensity and variability in the middle Ebro valley (NE of the Iberian Peninsula) during the second half of the twentieth century",
+    "authors": ["SM Vicente-Serrano", "JM Cuadrat-Prats"],
+    "venue": "Theoret Appl Climatol",
+    "year": 2006
+  }, {
+    "title": "Effects of ocean biology on the penetrative radiation on a coupled climate model",
+    "authors": ["P Wetzel", "E Maier-Reimer", "M Botzet", "JH Jungclaus", "N Keenlyside", "M Latif"],
+    "venue": "J Clim",
+    "year": 2006
+  }, {
+    "title": "On the average value of correlated time series, with applications in dendroclimatology and hydrometeorology",
+    "authors": ["TML Wigley", "KR Briffa", "PD Jones"],
+    "venue": "Am Meteorol Soc 23:201–213",
+    "year": 1984
+  }, {
+    "title": "Natural and anthropogenic modes of surface temperature variations in the last thousand years",
+    "authors": ["E Zorita", "JF González-Rouco", "V von Storch", "JP Montávez", "F Valero"],
+    "venue": "Geophys Res Lett 32:L08707",
+    "year": 2005
+  }],
+  "id": "SP:ff120e59b16597fb1b560762797a5e3ba4757a55",
+  "authors": [{
+    "name": "Isabel Dorado Liñán",
+    "affiliations": []
+  }, {
+    "name": "Emilia Gutiérrez",
+    "affiliations": []
+  }],
+  "abstractText": "warmer than the preceding centuries, does not show unprecedented warmth in the last 800 years. Three ensembles of climate simulations conducted with two global atmosphere– ocean general circulation climate models (GCMs), considering different external forcings, were used for comparison: ECHO-G (Erik) and MPI-ESM (E1 and E2). Additionally, individual simulations were available from GCM included in the fifth Coupled Model Intercomparison Project, as well as single-forcing simulations performed with MPI-ESM. The comparison of the reconstructed and simulated temperatures revealed a close agreement of NCZTjaso with the simulations performed with total solar irradiance forcing with wider amplitude. Furthermore, the correlations with single-forcing simulations suggest volcanism as the main factor controlling preindustrial summer temperature variations in the Cazorla Range over the last five centuries. The persistent anti-correlation between NCZTjaso and simulated temperatures during the MCA–LIA transitional period underlines the current Abstract July-to-October temperature variations are reconstructed for the last 800 years based on tree-ring widths from the Cazorla Range. Annual tree-ring width at this site has been found to be negatively correlated with temperature of the previous summer. This relationship is genuine, metabolically plausible, and cannot be explained as an indirect correlation mediated by hydroclimate. The resulting reconstruction (NCZTjaso) represents the southernmost annually resolved temperature record based on tree-rings in Europe and provides detailed information on the regional climate evolution during the Late Holocene in the southeast of the Iberian Peninsula. The tree-ring based temperature reconstruction of Cazorla Range reveals predominantly warm summer temperatures during the transition between the Medieval Climate Anomaly (MCA) and the Little Ice Age (LIA) from the 13th to the mid of the sixteenth century. The LIA spanned a slightly longer time (1500–1930 CE) than in other European summer temperature reconstructions from the Alps and Pyrenees. The twentieth century, though",
+  "title": "Eight‐hundred years of summer temperature variations in the southeast of the Iberian Peninsula reconstructed from tree rings"
+}

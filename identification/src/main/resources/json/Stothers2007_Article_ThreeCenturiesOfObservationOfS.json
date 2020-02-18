@@ -1,0 +1,136 @@
+{
+  "sections": [{
+    "heading": "1 Introduction",
+    "text": "The stratosphere has been continuously studied with modern instrumentation since its discovery in 1883 following the eruption of the volcano Krakatau in Indonesia. However, it had been observed, unrecognized, for centuries before. On several isolated occasions, anomalous solar and stellar extinction and dark total lunar eclipses had been reported, and these optical phenomena are now known to arise from the temporary (2–4 year) presence of volcanic sulfate aerosols in the stratosphere (Russell 1888; Meinel and Meinel 1983). It is now possible to derive, for the period running from 1671 to 1881, a detailed chronology of stratospheric aerosol optical depth (AOD) directly from total lunar eclipse colors, and to compare this record with available proxy data for this period and with data for more recent years. The AOD is a crucial parameter that is needed to model the long-term global circulation of the atmosphere, since large stratosphere-perturbing volcanic eruptions are known to exert important climatic effects (Lacis et al. 1992; Robock 2000).\nR. B. Stothers (*) NASA Goddard Institute for Space Studies, 2880 Broadway, New York, NY 10025, USA e-mail: rstothers@giss.nasa.gov"
+  }, {
+    "heading": "2 Data",
+    "text": "During a total eclipse of the Moon, sunlight passing through the Earth’s atmosphere is refracted and scattered into the shadow cone, making the Moon’s surface appear faintly luminous and reddish. Only in total eclipses is the light that is reflected back to Earth uncontaminated by any rays that have not initially passed through the atmosphere on their way to the Moon. A more turbid stratosphere therefore darkens the eclipse.\nThe present database of total lunar eclipse colors was compiled from original reports drawn from a search of over 300 journals as well as dozens of monographs covering the two consecutive periods 1671–1800 and 1801–1881. This database has been presented and documented elsewhere (Stothers 2004, 2005). Although total eclipses occur on average about once a year, not every eclipse in earlier periods was scientifically reported, and most reports came from Europe. The 67 available eclipses were categorized as to brightness by using Danjon’s (1921) luminosity scale based on eclipse intensity and color, and the resulting brightness indices, L, were converted statistically to visual (0.55 μm) AOD. The calibration was based on Keen’s (1983) total lunar eclipse AOD results for 1960–1982, together with published L values for these 21 eclipses. A rather tight correlation was found: AOD=0.04, 0.02, 0.01, and 0.00 for L=1, 2, 3, and 4, respectively. The neglected corrections of the AOD for the various specific geometrical eclipse configurations are relatively small compared to the total estimated errors of ±0.01 arising from the uncertainties of both L and the statistical relationship. A statistically significant AOD is, therefore, 0.01 or greater. Previously, it had not been thought likely that such a wealth of usable eclipse reports, made by professional and amateur astronomers, existed before the Krakatau era.\nFor two brief intervals, during the aftermaths of the eruptions of Tambora, Indonesia (1815) and, less importantly, Laki, Iceland (1783), other methods of deriving the AOD have been employed, owing to the fact that these two eruptions were sufficiently large to have produced easily observed solar and stellar extinction (Stothers 1984, 1996a). Both eruptions have here had their locally observed AODs scaled to a global average, which the lunar eclipse method automatically produces. Table 1 presents the visual AOD results as annual means, even though each year that is listed outside the Tambora and Laki periods is represented by only one or two total lunar eclipses. Years not listed in the table had no eclipse color reports. Gaps in the early years are significant since at that time few eclipses were adequately described. After 1700, the gaps can still reach 11 years, but toward the present they reflect the pattern of all total lunar eclipses, in which a pair of eclipses, separated by about half a year, follows another pair by 3–4 years. Thus, even today, some large eruptions can be missed by this method. The low background AOD arising from numerous small eruptions and from the lingering effects of the few large ones fluctuates uncertainly between 0 and 0.01, and is not precisely portrayed in Table 1 and Fig. 1. For convenience, Fig. 1 has been plotted in the traditional manner of the ice-core records (e.g., Hammer et al. 1980; Langway et al. 1995; Kohno and Fujii 2002).\nFigure 1 shows also the more recent AOD data that have been likewise derived strictly from primary sources and that cover the period since 1881. These data are based principally on pyrheliometry and sky polarimetry (1882–1960) (Stothers 1996b), stellar extinction measurements (1961–1978) (Stothers 2001), and lidar and artificial-satellite remote sensing (1979 to the present) (Sato et al. 1993; Ammann et al. 2003). Lunar eclipse data are of lesser importance in this period (Sato et al. 1993; Hofmann et al. 2003), although Keen’s (2001) results for 1880–1888 are very useful."
+  }, {
+    "heading": "1750 10 1818 200 1880 5",
+    "text": ""
+  }, {
+    "heading": "1747 10 1817 500 1877 0",
+    "text": ""
+  }, {
+    "heading": "1743 10 1816 900 1873 15",
+    "text": ""
+  }, {
+    "heading": "1740 10 1815 500 1870 0",
+    "text": ""
+  }, {
+    "heading": "1736 10 1812 0 1866 0",
+    "text": ""
+  }, {
+    "heading": "1732 10 1805 0 1863 10",
+    "text": ""
+  }, {
+    "heading": "1729 15 1797 10 1856 0",
+    "text": ""
+  }, {
+    "heading": "1725 10 1794 0 1855 0",
+    "text": ""
+  }, {
+    "heading": "1722 10 1790 5 1852 10",
+    "text": ""
+  }, {
+    "heading": "1718 10 1787 20 1848 10",
+    "text": ""
+  }, {
+    "heading": "1707 10 1784 10 1844 10",
+    "text": ""
+  }, {
+    "heading": "1703 5 1783 15 1841 10",
+    "text": ""
+  }, {
+    "heading": "1685 0 1779 10 1837 10",
+    "text": ""
+  }, {
+    "heading": "1682 10 1776 10 1833 10",
+    "text": ""
+  }, {
+    "heading": "1675 5 1772 10 1830 10",
+    "text": ""
+  }, {
+    "heading": "1671 10 1761 10 1826 20",
+    "text": ""
+  }, {
+    "heading": "3 Results",
+    "text": "The results for the visual AOD time series are rather surprising (Fig. 1). From 1671 to 1814, with allowance for imperfect time resolution and a baseline uncertainty of ±0.01, no large volcanic eruptions seem to have significantly perturbed the global stratosphere, except for a blip due to Laki, which produced mostly local tropospheric ejecta. Between 1815 and 1881, only Tambora was an important eruption, although its estimated maximum AOD may possibly be too large by a factor of 2 (Self et al. 2004). After 1881, the succession of numerous large eruptions is well known: Krakatau (1883), an unknown volcano (1890), Santa Maria (1902), Katmai (1912), Agung (1963), El Chichón (1982), and Pinatubo (1991), although none of these eruptions came anywhere close to matching Tambora.\nFor the period 1671–1881, the present AOD time series based on lunar eclipses is unique. Alternative methods of estimating the AOD in this period are indirect and have serious interpretational problems. Published lists of known volcanic eruptions based on local volcanological studies contain numerous examples of eruptions for which large magnitudes can only be conjectured, column heights are uncertain, and sulfur contents are unknown (Lamb 1970; Mitchell 1970; Newhall and Self 1982; Simkin and Siebert 1994).\nThe only other widely used approach is the rather involved one of transforming into an AOD the glaciochemical record of sulfate acidity in the annual layers of ice laid down in polar regions; excess sulfate is deposited there by volcanic aerosols that have been dispersed in latitude by the stratospheric winds. This approach, however, is very noisy, being influenced by varying stratospheric wind patterns, uncertain polar snow conditions, time of year, latitude of the volcano, and confusion from local small eruptions. The acid signatures of even the possibly largest eruptions, except for the enormous Tambora and Laki signals, are often ambiguous and contradictory. For Greenland, Hammer et al. (1980) show no additional large signals in this period; however, Clausen et al. (1997) find one in 1810; and Zielinski et al. (1994) and Zielinski (1995) list several, including one in 1809. For Antarctica, Tambora is always present, while Laki, owing to its far-northern location, is understandably absent; a second prominent signal appears during the years 1809–1811 (Delmas et al. 1992; Langway et al. 1995; Cole-Dai et al. 2000). It is likely, therefore, that a large eruption of an unidentified tropical volcano occurred somewhere in the interval 1808– 1810; its approximate position in Fig. 1 is indicated by the arrow. Reported lunar eclipses, however, are too sparse in this period to detect this eruption, the closest eclipse date being 1812. The same drawback hinders the assessment of a possible unidentified tropical eruption of 1693–1696 detected in some ice-core records (Zielinski et al. 1994; Zielinski 1995; Cole-Dai et al. 2000).\nFor most of the other proposed stratosphere-perturbing eruptions (Delmas et al. 1992; Zielinski et al. 1994; Zielinski 1995; Langway et al. 1995; Cole-Dai et al. 2000), the lunar eclipse data refute that these were large eruptions. Thus, the supposed great sulfur-rich eruptions of Cosiguina, Mexico (1835) (Lamb 1970; Newhall and Self 1982; Delmas et al. 1992; Simkin and Siebert 1994; Zielinski et al. 1994; Zielinski 1995; Langway et al. 1995; Clausen et al. 1997; Cole-Dai et al. 2000; Kohno and Fujii 2002; Shindell et al. 2004) and of Cotopaxi, Ecuador (1855–1856) (Mitchell 1970; Sato et al. 1993) can now be seriously downgraded; Self et al. (1989) have already downgraded Cosiguina (1835) on the basis of in situ volcanological studies. All AOD and related time series that have been constructed either wholly or in part from local volcanic data (Lamb 1970; Mitchell 1970; Sato et al. 1993) and from annual ice-core acidities (Zielinski 1995; Robock and Free 1995; Crowley 2000; Robertson et al. 2001; Adams et al. 2003) will therefore need some revision.\nProbably the ice-core method using 1–3 ice cores can reliably detect among the tropical eruptions only those that were Pinatubo-size and greater (Clausen et al. 1997). This threshold corresponds to 30 Tg of stratospheric aerosols, which translates into a global AOD of 0.06 (Stothers 1996b). However, the use of multiple ice cores can lower the threshold somewhat. Although the lunar eclipse method is often stymied by poor temporal resolution, its threshold for aerosol detection is equivalent to an AOD of about 0.01.\nBoth methods give a global, or at best a hemispheric, AOD. For a far-northern eruption like Laki (1783), where the aerosols were confined to latitudes above 30°N, or for a tropical eruption like Agung (1963), where the aerosols were distributed in an unusual, highly asymmetric way between the two hemispheres, a globally averaged AOD may not have much physical meaning. However, to achieve a formal consistency in comparing such eruptions with all the others in a time chart like Fig. 1, global averages were adopted. In actual applications to climate modeling, higher latitudinal resolution – when available – can and should be used. Wherever temporal resolution is poor, the eclipse AOD can be fitted to an aerosol decay curve for any dated large eruption by knowing that the e-folding decay time for stratospheric aerosols is ∼1 yr. In practice, this adjustment cannot be made for the putative eruptions of 1693–1696 and 1808–1810, because the ice-core dates are too imprecise and the nearest documented eclipses follow too distantly in time."
+  }, {
+    "heading": "4 Discussion",
+    "text": "The most curious feature of the stratospheric aerosol record since 1671 is the temporal clustering of large eruptions that have yielded the bulk of the aerosols. The volcanically most active periods (in this sense) have been 1783–1815, 1883–1912, and 1963–1991, with each 30-year period consisting of 2–4 large eruptions. The midpoints of these periods are successively separated by 80–100 years, a quasiregular cyclicity that is seen more generally in all eruptions of moderate to large size as well as in Greenland ice-core acidities (Stothers 1989). Ammann and Naveau (2003) have confirmed a 76-year cyclicity by using both Arctic and Antarctic ice-core acidities to pick out the tropical eruptions. Therefore, volcanically active periods appear to be relative rarities in the known aerosol record.\nSince the ice-core data suggest that another active period occurred in the early seventeenth century with sulfate peaks dated at about 1601, 1621, and 1641 (Hammer et al. 1980; Delmas et al. 1992; Zielinski et al. 1994; Zielinski 1995; Clausen et al. 1997; Cole-Dai et al. 2000), and with corresponding dark lunar eclipses reported in 1601, 1620, and 1642 (Link 1961), the pattern of brief periods of activity followed by relatively long quiescence persists backward in time, but perhaps with a temporary hiatus in the early eighteenth century, where an active period would be expected to have occurred (the available lunar eclipse data are too few to settle this question). Nonetheless, the very recent phase of vigorous stratosphere-perturbing volcanic activity seems to be, from a more distant perspective, the exception rather than the rule.\nAcknowledgements This work was supported in part by the NASA Climate Research Program. I thank C. Ammann, T. Crowley, J. Hansen, and M. Rampino for discussions, and the Columbia University Libraries, New York Public Library, and American Museum of Natural History Library for use of their collections. G. Demarée, S. Self, and an anonymous reviewer provided a number of useful suggestions for improving the paper."
+  }],
+  "year": 2007,
+  "references": [{
+    "title": "Proxy evidence for an El Niño-like response to volcanic forcing",
+    "authors": ["JB Adams", "ME Mann", "CM Ammann"],
+    "year": 2003
+  }, {
+    "title": "Statistical analysis of tropical explosive volcanism occurrences over the last",
+    "authors": ["CM Ammann", "P Naveau"],
+    "venue": "Nature",
+    "year": 2003
+  }, {
+    "title": "A monthly and latitudinally varying volcanic",
+    "authors": ["CM Ammann", "GA Meehl", "WM Washington", "CS Zender"],
+    "venue": "centuries. Geophys Res Lett 30:1210",
+    "year": 2003
+  }, {
+    "title": "Greenland ice sheet evidence of post-glacial volcanism",
+    "authors": ["HB Clausen", "W Dansgaard"],
+    "year": 1980
+  }, {
+    "title": "Past 220 year bipolar volcanic signals: remarks on common features of their source",
+    "authors": ["M Kohno", "Y Fujii"],
+    "year": 2002
+  }, {
+    "title": "Climate forcing by stratospheric aerosols",
+    "authors": ["J Hansen", "M Sato"],
+    "venue": "Geophys Res Lett 19:1607–1610 Lamb HH",
+    "year": 1992
+  }, {
+    "title": "A 10-century comparison",
+    "authors": ["Jr.", "K Osada", "HB Clausen", "CU Hammer", "H Shoji"],
+    "year": 1995
+  }, {
+    "title": "prominent bipolar volcanic events in ice cores",
+    "authors": ["A Meinel", "M Meinel"],
+    "venue": "J Geophys Res 100:16241–16247 Link F",
+    "year": 1961
+  }, {
+    "title": "The Volcanic Explosivity Index (VEI): an estimate of explosive magnitude for",
+    "authors": ["Springer", "Berlin Heidelberg New York", "pp 139–155 Newhall CG", "Self S"],
+    "year": 1982
+  }, {
+    "title": "Hypothesized climate forcing time series for the last 500 years",
+    "authors": ["R Healy"],
+    "venue": "J Geophys Res",
+    "year": 2001
+  }, {
+    "title": "The eruption of Krakatoa and subsequent phenomena",
+    "authors": ["M Sato", "JE Hansen", "MP McCormick", "JB Pollack"],
+    "venue": "Truebner, London,",
+    "year": 1993
+  }, {
+    "title": "Dynamic winter climate response to large tropical",
+    "authors": ["DT 2004GL020925 Shindell", "GA Schmidt", "ME Mann", "G Faluvegi"],
+    "year": 2004
+  }, {
+    "title": "Volcanoes of the world. Geoscience",
+    "authors": ["L Siebert"],
+    "venue": "Tucson Stothers RB",
+    "year": 1994
+  }, {
+    "title": "Volcanic eruptions and solar activity",
+    "authors": ["RB Stothers"],
+    "venue": "J Geophys Res 94:17371–17381 Stothers RB",
+    "year": 1989
+  }],
+  "id": "SP:3310aaf318791657fc66da3042a257069049ecc9",
+  "authors": [{
+    "name": "Richard B. Stothers",
+    "affiliations": []
+  }],
+  "abstractText": "A chronology of stratospheric aerosol optical depth for the period 1671–1881 is derived from total lunar eclipse colors. It is compared with available proxy time series for the same period and with more refined data for more recent years. Contrary to previous speculations, the stratosphere from 1671 to 1881 seems to have been mostly undisturbed volcanically, with only two or three eruptions having injected into it truly significant amounts of aerosol-producing and climate-altering sulfur gases. It is confirmed that the full record for 1671–2000 shows a marked, though possibly quasiregular, ∼80 year periodicity in stratospheric aerosol optical depth, which appears also in polar ice-core acidity records and in volcanic eruption frequencies.",
+  "title": "Three centuries of observation of stratospheric transparency"
+}

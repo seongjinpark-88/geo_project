@@ -1,0 +1,285 @@
+{
+  "sections": [{
+    "heading": "INTRODUCTION",
+    "text": "Long-term climate variability over coastal Dronning Maud Land (DML), Antarctica, is still poorly known, mostly due to the short instrumental record (<50 years). Ice cores from this area are therefore a valuable source of climatic information, providing high-resolution records on potentially seasonal time-scales.\nDuring the joint European Project for Ice Coring in Antarctica (EPICA) and the Norwegian Antarctic Research Expedition (NARE) 2000/01, a 100 m long ice core (S100) was retrieved in the coastal area of DML, in the eastern part of Fimbulisen (Fig. 1) (708140 S, 048480 E; 48 m a.s.l.) (Winther and others, 2002). The core was located at the same site where a 20 m long ice core (S20) was drilled 4 years earlier, during NARE 1996/97 (Winther and others, 1997).\nIn this paper, we present both the dating of, and accumulation variability within, ice core S100. The dating was performed by identification of volcanic horizons in the core electrical record obtained from dielectrical profiling (DEP) and electrical conductivity measurement (ECM), in combination with seasonal layer counting from high-resolution oxygen isotope (d18O) ratio, DEP and ECM records. This allowed us to derive average accumulation rates for time-spans between identified volcanic horizons, as well as annual accumulation rates from layer counting.\nMETHODS Field and laboratory methods The ECM method (Hammer, 1980) is a measure of the electrical current from which acidity concentration levels\nmay be inferred in ice cores. The current flowing between the electrodes is affected by the acid content and the temperature of the ice, although it is independent of salt concentration (e.g. Moore and others, 1989). ECM was performed in a cold room with stable temperature conditions of approximately –188C. Two electrodes with applied voltage of 500 V were moved along a freshly cut ice surface, and a measurement was taken every 2.2 mm.\nDEP is a non-destructive method for measuring electrical conductivity and permittivity of ice cores (Moore and others, 1989). This technique, which does not require direct contact\n(empty squares).*Deceased.\nbetween the ice and the electrodes, responds to both the acidity and the total salt content in the ice (Wilhelms and others, 1998). The measurement is performed every 5 mm. The density of the ice core was calculated from the DEPderived capacitance using the complex Looyenga mixing model (Glen and Paren, 1975), and with a bulk density measurement of individual ice pieces in the field.\nBoth ECM and DEP data were filtered using a Savitsky– Golay (SG) filter after they had been temperature corrected and the low-frequency components had been removed from the dataset (Fig. 2). The SG filter eliminates peaks created due to random noise or short-term chemistry events but preserves peaks expected from volcanic events. The entire filtering operation is done in the sample domain. We used a SG filter width of 200 points for ECM, and 100 points for DEP. The difference in filter width is due to both sampling interval and differing signal-tonoise ratio of the two datasets. This procedure, described in detail in Karlöf and others (2000), de-trends and smooths the data.\nThe d18O sampling was also performed in the cold laboratory. Samples, taken every 3 cm, were analyzed by the stable-isotope mass spectrometer (VG ISOGAS) at the University of Copenhagen. This high-resolution record was used for peak counting in order to date ice core S100 independently of DEP and ECM."
+  }, {
+    "heading": "Statistical methods",
+    "text": "The Significant Zero Crossings of Derivatives (SiZer) method (Marron and Chaudhuri, 1998) was used to determine significant trends in accumulation data derived from ice core S100. SiZer is a visualization technique that highlights\nfeatures observed in a set of smoothed curves through data, which are statistically significant above some chosen threshold and are therefore deemed to be real due to the underlying structure in the dataset, as opposed to being noise artefacts or attributable to sampling variability (Godtliebsen and others, 2003).\nThe key idea in SiZer is that significant features are found at different time-scales. For smoothing, local linear regression is used, where the degree of locality is determined by a variable window size on the data. A wide range of time windows is used to find all significant features in a dataset (Godtliebsen and others, 2003). A SiZer map is the final result of the statistical treatment of the given dataset. This plot shows a feature map as a function of time-scale controlled by the size of the smoothing window (bandwidth h) and location (x) for the signal. For each scale and location of the signal, SiZer tests whether the smooth has a derivative significantly different from zero."
+  }, {
+    "heading": "RESULTS AND DISCUSSION Dating",
+    "text": ""
+  }, {
+    "heading": "Identification of volcanic horizons",
+    "text": "ECM performed on ice cores allows detection of volcanic horizons (e.g. Delmas and others, 1985; Hammer, 1989). However, in the coastal areas of Antarctica the acidity of the ice is also influenced by marine components (Mulvaney and Peel, 1988). Reliable filtering methods are therefore of utmost importance for identifying volcanic peaks in coastal cores.\nIn the filtered ECM and DEP signal, a 2 threshold was\nused to isolate significant peaks (Cole-Dai and others, 1997; Karlöf and others, 2000). We used the long-term accumulation rate to calculate an approximate depth at which signals of known volcanic events in ECM and DEP records might be present.\nWe found 9 peaks in DEP and 20 peaks in ECM records which fulfilled the criteria. However, only 8 peaks of this total of 29 could be assigned to known volcanic eruptions (Fig. 2) Peaks corresponding to the dates of volcanic eruptions are reported in Table 1.\nIn Antarctica, erupted volcanic material is typically deposited in the surface snow from approximately 0–3 years after the eruption (see sources in Table 1). Most volcanic peaks identified in core S100 occur within this time-frame (Table 1). Only peak No. 3, assigned to the Santa Maria eruption in AD 1902, is at the depth corresponding to AD 1906, 4 years after the eruption took place; for most Antarctic ice cores the depositional lag is 1–2 years after the year of the eruption (see sources in Table 1).\nWe have assigned the peak number 1 to the eruption of Pinatubo in AD 1991. According to peak counting in the d18O data, the age of the firn at this particular depth is probably AD 1988. There are no ECM data for the uppermost part of the ice core, where the ice was of a poor quality and only DEP was performed. The age of this peak is within the dating error of ±3 years.\nThe most prominent ECM signal, at 75.1 m depth, is assigned to the Tambora eruption in AD 1815. This peak is found in both DEP and ECM records and has a much larger amplitude than other peaks. The age of the ice at the depth of the Tambora peak from layer counting is AD 1816 (d18O) or AD 1817 (DEP/ECM), in agreement with data from several other ice cores from Antarctica (see sources in Table 1). A peak that precedes Tambora, at 77.3 m depth in our record, is most probably a signal of the eruption of an unknown volcano in AD 1809. In combination with Tambora, this is one of the most characteristic volcanic signals found in Antarctic ice cores (e.g. Cole-Dai and others, 1997). The age of the ice at this depth is AD 1810 or 1811 (Table 1). We used this peak doublet as our main reference horizon to derive a mean accumulation rate.\nOnly two other significant peaks were co-located in both DEP and ECM records. One of them, peak No. 8, was found in both DEP and ECM records at 90.4 m, and was assigned to the eruption of Cotopaxi in AD 1768."
+  }, {
+    "heading": "Seasonal peak counting",
+    "text": "According to Minikin and others (1994), DEP peaks can also represent winter maxima of sea salts, while peaks in ECM respond mostly to summer maxima of nss-sulphate and partly to high values of NO3, MSA and HCl. Hammer and others (1994) and Mulvaney and others (2002) confirm that ECM is a sufficient method to detect both volcanic peaks and seasonal changes in acidity. Seasonal variations of sulphuric acid are related to regional oceanic production of sulphur-rich gases (Mulvaney and Peel, 1988).\nWe smoothed the raw ECM and DEP data by using a 21- point running mean for DEP and 45-point running mean for ECM curves.\nThe ECM/DEP peak-counting has been compared with the summer layer counting in the d18O record (Fig. 3). The relatively high accumulation rate at the drilling site yields sufficiently high-resolution d18O data for identification of seasonal layer variation. We used the high-resolution d18O record from core S20 (drilled in 1996/97 at the same site as S100) to cross-check dating of the upper part of S100. Ice core S20 represented the period AD 1955–96, and the mean annual accumulation rate derived from this core is 0.28 m w.e. a–1 (Isaksson and others, 1999).\nPost-depositional processes (Johnsen, 1977) smoothed part of the S100 d18O record, but it is still relatively easy to distinguish seasonal peaks along the whole ice core. Core S100 is estimated to cover the period AD 1737–2000 ± 3 years.\nThe dating error (due to incorrect identification of the volcanic peak, and the subjective aspect of the peakcounting method) is ±3 years for the entire core length, as obtained from the maximum difference between the known volcanic dates and the dates arrived at from layer counting."
+  }, {
+    "heading": "Accumulation record",
+    "text": "The annual accumulation rate was calculated using the summer maxima in the d18O record as indicators of the annual accumulation increment. The mean long-term (1737–2000) accumulation rate is 0.29 m w.e. a–1. The lowest annual accumulation is 0.08 m w.e. a–1 ( AD 1760) and the highest 0.58 m w.e. a–1 ( AD 1775). Large variability characterizes, in particular, the beginning of the 19th century and middle of the 20th century. Positive anomalies in accumulation dominate in the period AD 1840–1930,\nwhile negative anomalies are observed for most of the 20th century. Relatively high accumulation rate (0.33 m w.e. a–1) characterizes the time-span AD 1815–22, while low accumulation rate (0.26 m w.e. a–1) is observed for period AD 1991– 2000 (Table 2). Both annual and smoothed accumulation data are presented in Figure 4a.\nIn spite of large interannual accumulation variability, a decreasing trend during the 20th century was found in the S100 record. The significance of this trend (at 95% confidence level), that starts around AD 1920, is confirmed by using SiZer. The family of different smooths indicating a decrease during this particular period is presented in the upper panel of Figure 4b. A SiZer map is the final result of this statistical treatment (Fig. 4b lower panel). A significantly positive derivative (increase) in the SiZer map is marked as black, while a significantly negative derivative (decrease) is marked as white. At locations where the derivatives are not found to be significantly different from zero, the colour grey is used (Godtliebsen and others, 2003).\nThis decrease is visible only for the long time-scale (corresponds to a roughly 30 year window) (Fig. 4b).\nA few short-term trends are also indicated by SiZer. A decrease in accumulation was observed in AD 1780 while two decades later, and around AD 1810, an increase in accumulation rate is visible on a 3 year time-scale. During the time-span with positive anomalies in the accumulation record (AD 1840–1930) a slight increase in accumulation is found, but this trend is not significant on any time-scale.\nSiZer assumes that data are independent; if data are\ndependent, a trend deemed significant by SiZer might be just a result of the high correlation between the neighbouring points within the dataset. The latter occurs especially on short time windows. We have found low lag-1 autocorrelation in each dataset for all presented ice cores. This suggests high reliability of the long-term decreasing trend obtained by the SiZer approach in this case. The slope of the decreasing (linear) trend has also been found significant (Fig. 5).\nAn analysis of the spectral density was also performed, but no significant periodicity has been found in the S100 accumulation record."
+  }, {
+    "heading": "Discussion",
+    "text": "Several studies from coastal areas of DML report large accumulation variability, both spatial and temporal (e.g. Melvold, 1999; Schlosser and Oerter, 2002b). Recent studies from DML, however, suggest a decrease in accumulation in the 20th century (e.g. Isaksson and Melvold, 2002; Schlosser and Oerter, 2002a) (Fig. 5). Data from ice core B04 (Fig. 5) show that accumulation decreases throughout the entire period covered by the core (AD 1892–1981) (Schlosser and Oerter, 2002a). A decreasing trend starting around AD 1932 was found in the accumulation record from core E in western DML (Isaksson and others, 1996; Fig. 5). The lowest values for this core were found in years AD 1980–89. A weak decreasing trend in cores from Fimbulisen (H and K; Fig. 5) is reported by Melvold (1999). We therefore conclude that the decreasing accumulation throughout the 20th century found in the data for core S100 is in agreement with other studies from (western) DML (Fig. 5).\nData from eastern DML (core H72; Fig. 5) indicate an increase in accumulation before AD 1900 and no significant trend thereafter (Nishio and others, 2002). However, the increasing trend is not statistically significant (Nishio and others, 2002).\nAccording to Mulvaney and others (2002), accumulation records from two ice cores (R1 and B25) drilled on Berkner Island (Fig. 1) do not show the same pattern as DML cores. No trend in long-term accumulation was detected there, although core R1 shows a clear increase in accumulation from around AD 1920, while accumulation rate for core B25 remained constant. Mulvaney and others (2002) report that a"
+  }, {
+    "heading": "1737–1768 0.27 ± 0.1",
+    "text": ""
+  }, {
+    "heading": "1768–1809 0.28 ± 0.09",
+    "text": ""
+  }, {
+    "heading": "1809–1815 0.32 ± 0.1",
+    "text": ""
+  }, {
+    "heading": "1815–1822 0.33 ± 0.1",
+    "text": ""
+  }, {
+    "heading": "1822–1877 0.29 ± 0.1",
+    "text": ""
+  }, {
+    "heading": "1877–1902 0.32 ± 0.07",
+    "text": ""
+  }, {
+    "heading": "1902–1955 0.28 ± 0.09",
+    "text": ""
+  }, {
+    "heading": "1955–1991 0.28 ± 0.09",
+    "text": ""
+  }, {
+    "heading": "1991–2000 0.26 ± 0.08",
+    "text": "periodicity in accumulation rate with a 50 year frequency was found in the B25 dataset.\nThe decreasing accumulation during the 20th century seen in available data is therefore assumed to be constrained to western DML.\nHigh variability in accumulation over a larger area of DML can be partly explained by variations in cyclonic activity (King and Turner, 1997). According to Van Lipzig (1999), a high temporal variation in accumulation is characteristic for flat coastal areas (like DML), where\natmospheric disturbances are frequent and can penetrate relatively far inland. Regionally large differences in accumulation can also be explained by complex patterns of precipitation controlled by orography and snow redistribution by katabatic winds (e.g. Graf and others, 1988; Melvold, 1999; Schlosser, 1999). As reported by Schlosser and Oerter (2002a, b) wind influence is the main reason for large temporal and spatial variations in accumulation near Neumayer station.\nThe accumulation decrease during the 20th century might be a result of change in cyclonic trajectories. Schlosser (1999) reports less frequent low-pressure systems over Neumayer during the 1980s, which supports the indication of a change in cyclone routes. An intensive sublimation can also be an important term in the mass balance of low-lying areas in Antarctica, where relatively high surface temperatures allow for significant water-vapour pressures at the snow surface (e.g. Van den Broeke and others, 1999)."
+  }, {
+    "heading": "CONCLUSION",
+    "text": "The use of three independent data records (d18O, DEP and ECM) permits reliable dating of a 100 m long coastal Antarctic ice core (S100). It was possible to identify several volcanic horizons, despite the fact that coastal cores have a smaller signal-to-noise ratio in the electrical conductivity record due to increased acidity of the ice (marine input). This core was dated to AD 1737 with an estimated error ±3 years. The mean annual accumulation is 0.29 m w.e. a–1 ± 0.1. However, the record shows high variability within the whole period covered by the core, and a statistically\nsignificant decreasing trend in the 20th century. The latter is in agreement with results from several other cores from western DML."
+  }, {
+    "heading": "ACKNOWLEDGEMENTS",
+    "text": "The authors wish to thank all participants in NARE 2000/01 who assisted in the field. A. Boas, E. Chrillesen and A. Carrasco are thanked for their help with the d18O sampling, DEP and ECM measurements. H. Goodwin drafted Figure 1. This work is a contribution to the ‘European Project for Ice Coring in Antarctica’ (EPICA), a joint European Science Foundation (ESF)/European Commission (EC) scientific programme, funded by the EC and by national contributions from Belgium, Denmark, France, Germany, Italy, the Netherlands, Norway, Sweden, Switzerland and the United Kingdom. This is EPICA publication No. 69."
+  }],
+  "year": 2006,
+  "references": [{
+    "title": "SiZer for exploration of structures in curves",
+    "authors": ["P. Chaudhuri", "J.S. Marron."],
+    "venue": "J. Amer. Statist. Assoc., 94(447), 807–823.",
+    "year": 1999
+  }, {
+    "title": "Annually resolved Southern Hemisphere volcanic history from two Antarctic ice cores",
+    "authors": ["J. Cole-Dai", "E. Mosley-Thompson", "L.G. Thompson."],
+    "venue": "J. Geophys. Res., 102(D14), 16,761– 16,771.",
+    "year": 1997
+  }, {
+    "title": "A 4100-year record of explosive volcanism from an East Antarctic ice core",
+    "authors": ["J. Cole-Dai", "E. Mosley-Thompson", "S.P. Wight", "L.G. Thompson."],
+    "venue": "J. Geophys. Res., 105(D19), 24,431–24,441.",
+    "year": 2000
+  }, {
+    "title": "Volcanic deposits in Antarctic snow and ice",
+    "authors": ["R.J. Delmas", "M. Legrand", "A.J. Aristarain", "F. Zanolini."],
+    "venue": "J. Geophys. Res., 90(D7), 12,901–12,920.",
+    "year": 1985
+  }, {
+    "title": "1000 years of explosive volcanism recorded at the South Pole",
+    "authors": ["R.J. Delmas", "S. Kirchner", "J.M. Palais", "J.-R. Petit."],
+    "venue": "Tellus, 44B(4), 335–350.",
+    "year": 1992
+  }, {
+    "title": "The electrical properties of snow and ice",
+    "authors": ["J.W. Glen", "J.G. Paren."],
+    "venue": "J. Glaciol., 15(73), 15–38.",
+    "year": 1975
+  }, {
+    "title": "Recent developements in statistical time series analysis: examples of use in climate research",
+    "authors": ["F. Godtliebsen", "L.R. Olsen", "J.G. Winther."],
+    "venue": "J. Geophys. Res., 30(12), 1654–1657.",
+    "year": 2003
+  }, {
+    "title": "Accumulation and ice-core studies on Filchner–Ronne Ice Shelf, Antarctica",
+    "authors": ["W. Graf", "H. Moser", "H. Oerter", "O. Reinwarth", "W. Stichler."],
+    "venue": "Ann. Glaciol., 11, 23–31.",
+    "year": 1988
+  }, {
+    "title": "Acidity of polar ice cores in relation to absolute dating, past volcanism, and radio-echoes",
+    "authors": ["C.U. Hammer"],
+    "venue": "J. Glaciol., 25(93), 359–372.",
+    "year": 1980
+  }, {
+    "title": "Dating by physical and chemical seasonal variations and reference horizons",
+    "authors": ["C.U. Hammer"],
+    "venue": "Oeschger, H. and C. C. Langway, Jr, eds. The environmental record in glaciers and ice sheets. Chichester, etc., John Wiley and Sons, 99–121.",
+    "year": 1989
+  }, {
+    "title": "Electrical conductivity method (ECM) stratigraphic dating of the Byrd Station ice core, Antarctica",
+    "authors": ["C.U. Hammer", "H.B. Clausen", "C.C. Langway", "Jr."],
+    "venue": "Ann. Glaciol., 20, 115–120.",
+    "year": 1994
+  }, {
+    "title": "Trends and patterns in the recent accumulation and oxygen isotopes in coastal Dronning Maud Land, Antarctica: interpretations from shallow ice cores",
+    "authors": ["E. Isaksson", "K. Melvold."],
+    "venue": "Ann. Glaciol., 35, 175–180.",
+    "year": 2002
+  }, {
+    "title": "A century of accumulation and temperature changes in Dronning Maud Land, Antarctica",
+    "authors": ["E. Isaksson", "W. Karlén", "N. Gundestrup", "P. Mayewski", "S. Whitlow", "M. Twickler."],
+    "venue": "J. Geophys. Res., 101(D3), 7085–7094.",
+    "year": 1996
+  }, {
+    "title": "Accumulation and proxytemperature variability in Dronning Maud Land, Antarctica, determined from shallow firn cores",
+    "authors": ["E. Isaksson", "M.R. van den Broeke", "J.-G. Winther", "L. Karlöf", "J.F. Pinglot", "N. Gundestrup."],
+    "venue": "Ann. Glaciol., 29, 17–22.",
+    "year": 1999
+  }, {
+    "title": "Stable isotope homogenization of polar firn and ice",
+    "authors": ["S.J. Johnsen"],
+    "venue": "International Association of Hydrological Sciences Publication 118 (Symposium at Grenoble 1975 — Isotopes and Impurities in Snow and Ice), 210–219.",
+    "year": 1977
+  }, {
+    "title": "A 1500 year record of accumulation at Amundsenisen, western Dronning Maud Land, Antarctica, derived from electrical and radioactive measurements on a 120 m ice",
+    "authors": ["L. Karlöf"],
+    "venue": "core. J. Geophys. Res.,",
+    "year": 2000
+  }, {
+    "title": "Antarctic meteorology and climatology",
+    "authors": ["J.C. King", "J. Turner."],
+    "venue": "Cambridge, Cambridge University Press.",
+    "year": 1997
+  }, {
+    "title": "Past 220 year bipolar volcanic signals: remarks on common features of their source volcanic eruptions",
+    "authors": ["M. Kohno", "Y. Fujii."],
+    "venue": "Ann. Glaciol., 35, 217–223.",
+    "year": 2002
+  }, {
+    "title": "A 220-year continuous record of volcanic H2SO4 in the Antarctic ice sheet",
+    "authors": ["M.R. Legrand", "R.J. Delmas."],
+    "venue": "Nature, 327(6124), 671–676.",
+    "year": 1987
+  }, {
+    "title": "When is a feature really there? The SiZer approach",
+    "authors": ["J.S. Marron", "P. Chaudhuri."],
+    "venue": "SPIE Proc., Society of Photo-optical Instrumentation Engineers, 3371, 306–312. (Sadjadi, F. A., ed. Automatic target recognition VII.)",
+    "year": 1998
+  }, {
+    "title": "Impact of recent climate on glacier mass balance: studies on Kongsvegen, Svalbard and Jutulstraumen, Antarctica",
+    "authors": ["K. Melvold"],
+    "venue": "(D.Sc. thesis, University of Oslo.) (Department of Geography Report 13.)",
+    "year": 1999
+  }, {
+    "title": "Spatial and seasonal variations of the snow chemistry at the central Filchner–Ronne Ice Shelf, Antarctica",
+    "authors": ["A. Minikin", "D. Wagenbach", "W. Graf", "J. Kipfstuhl."],
+    "venue": "Ann. Glaciol., 20, 283–290.",
+    "year": 1994
+  }, {
+    "title": "Dielectric stratigraphy of ice: a new technique for determining total ionic concentrations in polar ice cores",
+    "authors": ["J.C. Moore", "R. Mulvaney", "J.G. Paren."],
+    "venue": "Geophys. Res. Lett., 16(10), 1177–1180.",
+    "year": 1989
+  }, {
+    "title": "A continuous 770year record of volcanic activity from East Antarctica",
+    "authors": ["J.C. Moore", "H. Narita", "N. Maeno."],
+    "venue": "J. Geophys. Res., 96(D9), 17,353–17,359.",
+    "year": 1991
+  }, {
+    "title": "Anions and cations in ice cores from Dolleman Island and the Palmer Land plateau, Antarctic Peninsula",
+    "authors": ["R. Mulvaney", "D.A. Peel."],
+    "venue": "Ann. Glaciol., 10, 121–125.",
+    "year": 1988
+  }, {
+    "title": "1000 year ice-core records from Berkner Island, Antarctica",
+    "authors": ["R. Mulvaney"],
+    "venue": "Ann. Glaciol.,",
+    "year": 2002
+  }, {
+    "title": "Annual-layer determinations and 167 year records of past climate of H72 ice core in east Dronning Maud Land, Antarctica",
+    "authors": ["F. Nishio"],
+    "venue": "Ann. Glaciol.,",
+    "year": 2002
+  }, {
+    "title": "High precision dating of volcanic events (AD 1301–1995) using ice cores from Law Dome, Antarctica",
+    "authors": ["A.S. Palmer", "T.D. van Ommen", "M.A.J. Curran", "V.I. Morgan", "J.M. Souney", "P.A. Mayewski."],
+    "venue": "J. Geophys. Res., 106(D22), 28,089– 28,096.",
+    "year": 2001
+  }, {
+    "title": "Effects of seasonal variability of accumulation on yearly mean",
+    "authors": ["E. Schlosser"],
+    "year": 1999
+  }, {
+    "title": "Seasonal variations of accumulation and the isotope record in ice cores: a study with surface snow samples and firn cores from Neumayer station, Antarctica",
+    "authors": ["E. Schlosser", "H. Oerter."],
+    "venue": "Ann. Glaciol., 35, 97–101.",
+    "year": 2002
+  }, {
+    "title": "Shallow firn cores from Neumayer, Ekströmisen, Antarctica: a comparison of accumulation rates and stable-isotope ratios",
+    "authors": ["E. Schlosser", "H. Oerter."],
+    "venue": "Ann. Glaciol., 35, 91–96.",
+    "year": 2002
+  }, {
+    "title": "Eight centuries of volcanic signal and climate change at Talos Dome (East Antarctica)",
+    "authors": ["B. Stenni"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2002
+  }, {
+    "title": "Climate variables along a traverse line in Dronning Maud Land, East Antarctica",
+    "authors": ["M.R. Van den Broeke"],
+    "venue": "J. Glaciol.,",
+    "year": 1999
+  }, {
+    "title": "The surface mass balance of the Antarctic ice sheet: a study with a regional atmospheric model",
+    "authors": ["N.P.M. Van Lipzig"],
+    "venue": "(Ph.D. thesis, Utrecht University.)",
+    "year": 1999
+  }, {
+    "title": "Precise dielectric profiling of ice cores: a new device with improved guarding and its theory",
+    "authors": ["F. Wilhelms", "J. Kipfstuhl", "H. Miller", "K. Heinloth", "J. Firestone."],
+    "venue": "J. Glaciol., 44(146), 171–174.",
+    "year": 1998
+  }, {
+    "title": "EPICA Dronning Maud Land presite survey 1996/97",
+    "authors": ["Winther", "J.-G"],
+    "venue": "ed. Report of the Norwegian Antarctic Research Expedition (NARE)",
+    "year": 1997
+  }, {
+    "title": "European Project for Ice Coring in Antarctica (EPICA) — Nordic traverse in 2000/01",
+    "authors": ["Winther", "J.-G"],
+    "venue": "ed. Report of the Norwegian Antarctic Research Fxpedition",
+    "year": 2002
+  }, {
+    "title": "A continuous 250-year record of volcanic activity from Princess Elizabeth Land, East Antarctica",
+    "authors": ["M.J. Zhang"],
+    "venue": "Antarct. Sci.,",
+    "year": 2002
+  }],
+  "id": "SP:37947de8b424fdeb1b8f73fe687d81a35f1fb9e4",
+  "authors": [{
+    "name": "Marzena KACZMARSKA",
+    "affiliations": []
+  }, {
+    "name": "Elisabeth ISAKSSON",
+    "affiliations": []
+  }, {
+    "name": "Lars KARLÖF",
+    "affiliations": []
+  }, {
+    "name": "Jan-Gunnar WINTHER",
+    "affiliations": []
+  }, {
+    "name": "Jack KOHLER",
+    "affiliations": []
+  }, {
+    "name": "Fred GODTLIEBSEN",
+    "affiliations": []
+  }, {
+    "name": "Lena RINGSTAD OLSEN",
+    "affiliations": []
+  }, {
+    "name": "Coen M. HOFSTEDE",
+    "affiliations": []
+  }, {
+    "name": "Michiel R. VAN DEN BROEKE",
+    "affiliations": []
+  }, {
+    "name": "Roderik S. W. VAN DE WAL",
+    "affiliations": []
+  }, {
+    "name": "Niels GUNDESTRUP",
+    "affiliations": []
+  }],
+  "abstractText": "A 100 m long ice core was retrieved from the coastal area of Dronning Maud Land (DML), Antarctica, in the 2000/01 austral summer. The core was dated to AD 1737 by identification of volcanic horizons in dielectrical profiling and electrical conductivity measurement records in combination with seasonal layer counting from high-resolution oxygen isotope (dO) data. A mean long-term accumulation rate of 0.29 m a w.e. was derived from the high-resolution dO record as well as accumulation rates during periods in between the identified volcanic horizons. A statistically significant decrease in accumulation was found from about 1920 to the present. A comparison with other coastal ice cores from DML suggests that this is a regional pattern.",
+  "title": "Accumulation variability derived from an ice core from coastal Dronning Maud Land, Antarctica"
+}

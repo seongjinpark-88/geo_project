@@ -1,0 +1,261 @@
+{
+  "sections": [{
+    "heading": "1 Introduction",
+    "text": "Over the last fifteen years there has been a virtual explosion of interest in the role of volcanism in climate change (e.g., Free and Robock, 1999; Crowley, 2000; Robock, 2000; Timmreck et al., 2009; Jungclaus et al., 2010; Schmidt et al., 2011). Such work necessitates the use of reliable estimate of volcanic forcing. As polar ice cores contain the best records of past volcanism, the challenge has focused on documenting volcanic peaks in polar ice cores and converting them into estimates of stratospheric aerosol forcing, which is the term needed for specification in climate model simulations. With each iteration, the development of polar records of volcanism has become more comprehensive and detailed (e.g., Crowley et al., 1993; Robock and Free, 1995, 1996; Crowley, 2000; Gao et al., 2008). In 2008 (Crowley et al., 2008), we published preliminary findings for a new reconstruction that\nfocused not only on new ice core information but also calibration of the ice core record against stratospheric aerosol depth measurements of the last three decades. Herein we provide the full documentation of the methodology used in that study to create a new 1200 yr reconstruction of volcanism."
+  }, {
+    "heading": "2 Development of time series of volcanic eruptions",
+    "text": ""
+  }, {
+    "heading": "2.1 Determination of volcanic peaks",
+    "text": "Because each ice core site (Table 1) has unique features, a “one size fits all” scheme for automatically determining magnitude of sulphate peaks was abandoned in favor of pointby-point inspection of each record. Each core was therefore inspected separately, by section. The magnitude of a specific peak was determined by comparing it to the previous years of background variability, choosing the peak background\nPublished by Copernicus Publications.\nvariability as the baseline point for estimating excess flux for a particular volcanic event. Sometimes the baseline period can extend for several decades, in which case a confident assessment of volcano peak amplitude can be obtained. Sometimes there are clusters of sulphate spikes that make assessment of an individual peak more uncertain. In such cases the post-eruption variability was used as a further constraint on appropriate background levels.\nAlthough all Antarctic cores have been measured for sulphate flux, there is a disappointing lack of published multiple site annual-scale estimates of millennial sulphate flux for Greenland. Before 2012, only the GISP2 (Greenland Ice Sheet Project) record had a continuous sulphate record (Zielinski, 1995), and that is “only” at approximate biannual resolution (n.b., annual sulphate levels for the North GRIP (Greenland Ice Core Project) ice core were published in 2012 (Plummer et al., 2012) but only a shorter record was available for this study). Three other Greenland cores (Crete, Dye3, and GRIP) have near-annual scale electrical conductivity measurements (ECM) and spot sulphate measurements. Spot sulphate measurements (Langway et al., 1995; Clausen et al., 1997) were used to scale the higher resolution ECM record in these cores to sulphate. Three additional cores were used in the upper part of the record to better constrain estimates over the last two centuries and develop a bias estimate for the fewer number of records over the entire length of the series."
+  }, {
+    "heading": "2.2 Chronology",
+    "text": "Dating of Greenland cores to a year can be extended with considerable confidence back to AD 1104 because of crosschecking with historical eruptions on Iceland (e.g., Hammer, 1977). For the interval 800–1103, uncertainty in Icelandic eruptions is greater – probably 1–2 yr for the “Settlement Event” around AD 871 and the large Eldgja fissure flow around 933. These are the best-guess ages determined by detailed intercomparisons of three high-resolution Greenland ice cores (Vinther et al., 2006) and are the ages adopted here.\nAntarctic dating is more difficult, although a number of cores have annual-scale resolution. Still, false bands and missing bands can potentially occur in these records. Records can be cross-checked with Greenland for a number of large tropical eruptions – Krakatau (1883), Tambora (1815), Huaynaputina (1600), and the unknown but very large 1257/1258 eruption. Prior to that time Antarctic dating is more uncertain, for it is difficult to find any confident matchups with the Greenland records, especially since “false positives” – simultaneous mid/high latitude eruptions in both hemispheres – are a distinct possibility. Cross-checking of Antarctic records (cf., Langway et al., 1995) indicates that the records seem to be consistent, but the fits are not airtight. Although it is not possible to make a precise uncertainty estimate of pre1258 Antarctic peaks, an educated guess would be that the chronology of Antarctic eruptions prior to 1258 is accurate to within 2–3 yr."
+  }, {
+    "heading": "2.3 Development of composite records for Greenland and Antarctica",
+    "text": "Sulphate peaks for the individual ice cores were first composited separately for Greenland and Antarctica (see data link). Sometimes, ice cores do not record events identified in other ice cores. This is usually the case for smaller volcanic eruptions, although a notable exception is Krakatau (1883), which cannot be found in the GRIP ice core. The average value for an event across all ice cores on an ice sheet includes “0” for cores that do not record the event. This approach mutes the impact of some volcanic events that can be large in one ice core but small or absent in other ice cores (e.g., large 1588 and 1829 GISP2 sulphate peaks).\nBecause Greenland is a much smaller ice mass than Antarctica, mean values were just averaged for available records. Some records are only from the upper part of a core, and temporal biasing can occur due to “dropout” of information in the older part of the time series. Subsets from the younger interval were compared to the fuller data set over the last two centuries, and a bias correction was added to the initial value for the older intervals.\nThe Antarctic compilation was more complicated. Peninsular and West Antarctic ice cores have substantially higher accumulation rates of both snow and sulphate, with mean sulphate accumulation rates for known eruptions about a factor\nEarth Syst. Sci. Data, 5, 187–197, 2013 www.earth-syst-sci-data.net/5/187/2013/\nof two higher than for East Antarctic sites. Yet these regions are only about 10–15 % of the area of Antarctica. The 10 % value was used to area-weight the contribution values from different regions and also estimate a West Antarctic component for eruptions older than the oldest annual-resolution ice core (about AD 1450, cf., Cole-Dai et al., 1997). Prior to 1450, West Antarctic contribution for a particular eruption was estimated as twice the East Antarctic value. Temporal bias estimates for Antarctica were calculated in the same manner as for Greenland."
+  }, {
+    "heading": "2.4 Correction for latitude of eruptions",
+    "text": "Local eruptions can have a disproportionate effect on volcano composites unless adjustments are made to the measured values in ice cores. Failure to satisfactorily account for such local biasing could in theory lead to interpretation of coincident peaks in both hemispheres as indications of a tropical eruption, leading to significant errors in subsequent climate model simulations. Icelandic eruptions are particularly troublesome because of their high frequency and because much of the sulphate may be delivered through the troposphere.\nBecause the index developed for this study is a record of stratospheric aerosol optical depth (AOD), Icelandic eruptions (taken from www.volcano.si.edu/) were generally minimized or eliminated from the ice core composite unless some evidence could be found for larger-scale influence. For example, some Icelandic peaks can be found in ice cores from western Canada (Mayewski et al., 1990), although the values are much-muted from Greenland. In this case this far-field site was used to estimate the potential stratospheric input from some Plinian interludes of Icelandic eruptions. For example, the inferred stratospheric component of the 1783 Laki eruption is only about 15 % of the average sulphate loading for this event on Greenland. The procedure is not foolproof; some of the western Canada sulphur could have been transported in the troposphere across Asia and the North Pacific. As in all geological records, there may also be “site effects” that inflence local deposition rates. Nevertheless, our correction is almost certainly in the right direction and could even be considered a maximum stratospheric estimate due to the above caveats.\nA somewhat similar approach can in theory be applied to Antarctic records, although the identification of local eruptions is more problematic. Kurbatov et al. (2006) have identified local ashes in some intervals of the Siple Dome ice core. Sulphate variablity in the Taylor Dome record also seems strongly influenced by local (Antarctic) volcanism. In some cases (e.g., 843, 1170, 1710), the size of sulphate peaks in Taylor Dome are very much larger than found in any other Antarctic ice cores, and a local source for the eruptions can be fairly confidently established. Comparison of the Taylor Dome record with the historical record of volcanism (www.volcano.si.edu/) over the last 150 yr suggests that any Taylor Dome peak in excess of 58 ppb is a candi-\ndate for a local eruption source. These eruptions have therefore been deleted from the Antarctic composite because the hemispheric effects are likely nil. One consequence of this screening is that Antarctic peaks at 1170, 1276, and 1289 – records sometimes inferred to indicate tropical eruptions because of co-occurrence in Greenland – have been deleted from our reconstruction.\nA final set of corrections involves large mid/high latitude eruptions (e.g., Japan, Siberia, Alaska) that are significant but still bias regional estimates due to proximity to the deposition sites. Clausen and Hammer (1988) pioneered the use of radioactive nuclides from bomb testing to estimate this local “bias” effect. In reality this is probably not as much local bias but more a reflection of dropout of material from equatorial eruptions before the aerosol plume reaches the polar region. Gao et al. (2007) updated the Clausen–Hammer approach with more recent estimates of stratospheric injection of radioactive nuclides. They determined that, for a given injection, there was about a 20 % “dropout” of equatorial injections as the plume spreads to polar regions. This estimate is very similar to satellite estimates of a 20 % reduction in peak high-latitude NH AOD for the Pinatubo eruption (Sato et al., 1993; http://data.giss.nasa.gov/modelforce/strataer). The consistency in these approaches indicates that the critical low-latitude inputs of climatically-important tropical eruptions can be estimated with some degree of confidence."
+  }, {
+    "heading": "3 Calibration and validation against AOD",
+    "text": ""
+  }, {
+    "heading": "3.1 Calibration of mean sulphate values against stratospheric AOD",
+    "text": "Mean sulphate values were scaled against AOD by matching against the maximum twelve-month value for 30–90◦ S AOD from satellite measurements (Sato et al., 1993; http://data. giss.nasa.gov/modelforce/strataer/). The comparison is only made for Antarctica, because there are not enough Greenland ice core measurements for the 1990s, more noise from background tropospheric aerosol emissions and, we suspect, interannual deposition variability due to changes in the North Atlantic Oscillation.\nInspection of the 30–90◦ S Sato AOD estimate (Fig. 1) indicates an irregular shape that is due primarily to the additional impact of the August 1991 eruption of Hudson in Chile (VEI = 5; VEI refers to Volcanic Eruption Index – Newhall and Self, 1982). A further kink in the AOD may be due to the April 1993 eruption of Lascar (VEI = 4), also in Chile. An iterative best-fit of likely growth and decay curves for the eruptions indicates that for the first 36 months after the June 1991 eruption of Pinatubo, 84 % of the AOD contribution can be attributed to Pinatubo, 12 % to Hudson, and 4 % to Lascar. The very modest contribution of Lascar to AOD – even in the latitude zone of its origin – suggests that even moderately powerful volcanic eruptions such as VEI = 4 may have only\nwww.earth-syst-sci-data.net/5/187/2013/ Earth Syst. Sci. Data, 5, 187–197, 2013\n27-35\nmodest effects on the stratospheric AOD record of volcanic forcing.\nThe area-weighted (see above) mean sulphate flux for Antarctica is 10.1± 1.0 (2σ) kg km−2. Although there is considerable scatter in sulphate loading for individual sites, the above uncertainty estimate was based on evaluating uncertainty in the average based on addition of new cores, remeasurements of fluxes for different ice cores to test for consistency, and also assessment of the averaging effect for inclusion of higher accumulation rate cores from West Antarctica (see above).\nSince the maximum twelve-month (November 1991 to October 1992) estimated 30–90◦ S AOD from satellite estimates is 0.120, and the background level is 0.065, then the Pinatubo/Hudson AOD contribution is 0.114. Rounding off slightly, the conversion rate for sulphate is therefore 0.011±0.0012 AOD kg−1 km−2. This is the value used as initial scaling of sulphate to large-scale zonal AOD."
+  }, {
+    "heading": "3.2 Partial validation of mass estimates from ice cores",
+    "text": "A mean flux of global sulphate can be determined by taking the mean Antarctic values, and multiplying by 1.057 for the difference between mean twelve-month maximum Greenland AOD (0.120) and the 1.2 low-latitude multiplier discussed above. The global value is consistent with AOD estimates for low- and high-latitudes independently determined by Sato et al. (1993). The estimated mean global sulphate flux is 6.1±0.6 MT sulphate for the interval November 1991 to October 1992 – the interval over which the Antarctic flux levels have been scaled to AOD. Note that the uncertainty is only that due to uncertainty is estimating mean\n28-35\nvalues for Antarctic. Total uncertainties are almost certainly greater than that number but are difficult to constrain.\nTwo different approaches to initial injection levels of sulphur from the Pinatubo eruption yield values 27–28± 6 MT sulphate (Guo et al., 2004; the Hudson injection is almost an order of magnitude lower, 3 MT). The Pinatubo value is four times the estimate from the ice core composite. However, Guo et al. (2004) point out that one-half of the initial injection had been scavenged within twenty days by volcanic ash and water vapor injected (or entrained) with the eruption plume. Any curve fits out to 1.5 yr based on the initial twenty days of operation yielding unrealistic values – either zero or levels well above that suggested by the ice cores. Additional processes, including dispersion of the low-latitude cloud to higher latitudes, may have significantly delayed the exponential decay based on just the first twenty days. What we can say is that the 6.1±0.6 MT value that we obtain does not seem significantly out of line with the 14±6 MT values remaining only three weeks after the 15 June 1991 eruption."
+  }, {
+    "heading": "3.3 Life cycle of pinatubo eruption",
+    "text": "Satellite observations of Pinatubo (Fig. 2) were inspected to develop a latitude-dependent canonical growth and decay model for time evolution of the aerosol perturbation. Satellite AOD indicates that for the Pinatubo eruption peak lowlatitude (0–30◦ N) AOD occurred about five months after the eruption, persisted for about three months, and then decayed with an e-folding time of about one year. For the purpose of the high-temporal resolution reconstruction (see below), AOD values increase linearly for five months, maintain a plateau for the next three months, and then decrease with an e-folding time of one year for tropical eruptions.\nEarth Syst. Sci. Data, 5, 187–197, 2013 www.earth-syst-sci-data.net/5/187/2013/\n29-35\nThe Pinatubo reconstruction for 30–90◦ N indicates that it took approximately nine months to reach maximum values, which then persisted for approximately three months before decaying with an e-folding time of approximately one year. The 60–90◦ S time series for Pinatubo indicated that it took nearly a year after the eruption to reach maximum values over Antarctica. These observations were incorporated into the algorithm transferring sulphate fluxes into AOD."
+  }, {
+    "heading": "3.4 Comparison with global AOD index",
+    "text": "Using observations and methodologies discussed above, a global reconstruction (Fig. 3) was developed from the Antarctic sulphate data and compared to the Sato AOD global composite. Lunar eclipse estimates of AOD for the Pinatubo eruption (courtesy R. Keen, based on method of Keen, 1983) were further compared as a check on the reconstruction. The good agreement of the ice-core reconstruction with the satellite reconstruction merely demonstrates that the scaling was done properly. Although there is a slight underestimate of peak forcing (due to the non-standard evolution of the 30–90◦ S signal), the four-year average AOD, and therefore average radiative forcing, for the ice core reconstruction is identical to Sato et al. (1993). This agreement is very important because the total forcing of a reconstruction is necessary for correct computation of ocean heat storage changes. The agreement with the lunar eclipse data is very good for two of the eclipses but quite poor for the third eclipse. We suspect that the size of the aerosol particles at this time may significantly bias lunar AOD estimates (see further discussion below)."
+  }, {
+    "heading": "4 Development of millennial-scale reconstruction",
+    "text": ""
+  }, {
+    "heading": "4.1 Problem of “unipolar” tropical eruptions",
+    "text": "Despite the large-size of the 1982 El Chichon eruption, its aerosol is hardly detected over Antarctica, either in the satellite or ice core data. A similar situation applies to the Northern Hemisphere for the 1963 Agung eruption and for Antarctica for the 1902 Santa Maria (Caribbean) eruption. These “unipolar” tropical eruptions are difficult to determine in earlier time series and, because of the climatic importance of tropical eruptions, are a sources of significant uncertainty in ice core reconstructions. Based on the experience with the 20th century unipolar eruptions, this category appears to occur for medium-large sized volcanic (VEI= 5) eruptions that, because of the rough power law scaling of volcanic eruptions, should be about ten times more common than the more powerful VEI = 6 eruptions (e.g., Pinatubo). Their identification in older records is, however, ambiguous. If small sulphate peaks occur in the opposite hemisphere to a large sulphate peak, it could indicate an eruption of this type. It could also be coincidental. A method we adopt involves assignation of unipolar tropical status to eruptions that have a high-latitude average flux on the order of 10 kg km−2 (e.g., Agung, St. Maria, 1902) and at least three occurrences of events with ∼ 2–3 kg km−2 in the opposite hemisphere (this stipulation is to minimize chance noise being elevated to a small peak of volcanic significance, which then turns into a unipolar tropical eruption). Large cooling persisting for more than a year in proxy records might be some way of inferring a possible tropical source, but then the volcano and climate reconstructions would not be independent.\nThe relative magnitude of unipolar tropical forcing also differs from true bipolar eruptions. As indicated by data from Agung and El Chichon, low latitude forcing is much more restricted to the hemisphere of the eruption, whereas for Pinatubo the southern tropical strip has virtually the same value as the northern tropical strip. Evidence for El Chichon (Sato et al., 1993) and Agung (Stothers, 2001) indicates that the tropical “multiplier” (see above, Sect. 2.4) in the hemisphere of the unipolar eruption has an AOD maximum at least 30 % (as opposed to 20 %) higher than its polar maximum. AOD values are also substantially lower in the opposite tropical hemisphere than they are for Pinatubo. In our reconstructions we therefore stipulate that the opposite hemisphere to a unipolar eruption has a tropical value midway between the tropical hemispheric maximum and the very low values observed in polar regions.\nBecause of the very significant impact of tropical volcanic eruptions, and the present precarious nature of identifying unipolar tropical eruptions in ice core records, only a small number of events were identified as candidates for unipolar eruptions. Further work will hopefully develop a fuller list of criteria to enable more confident assessment of this phenomenon.\nwww.earth-syst-sci-data.net/5/187/2013/ Earth Syst. Sci. Data, 5, 187–197, 2013\n30-35"
+  }, {
+    "heading": "4.2 Duration of mid/high latitude aerosol plumes",
+    "text": "The time evolution of high-latitude eruptions is different than the low-latitude extension of Pinatubo and was based on Stothers’s (1996) reanalysis of data for the 1912 Novarupta eruption in Alaska and cross-checked against the August 1991 eruption of Hudson in Chile (Fig. 1). Stother’s analysis indicates that peak values occur within two months of the eruption, persist for three months, and then decay more rapidly than for an equatorial eruption – the e-folding time for the first step is only three months, but it is nine months for the second step. The longer second step may reflect input from the 20 January 1913 eruption (VEI = 5) of Colima (19◦ N) in Mexico.\nThe Stothers’ result is supported by a comparison of bimonthly-scale ECM measurements of the 1912 interval in the GISP2 ice core (Fig. 4). The difference between the ECM and AOD estimates for the interval around 1913.0 could reflect either residual higher values of aerosols in the highest latitudes (the core is at 73◦ N – farther north than any measurement station in Stothers’ analysis), superposition of the annual cycle of higher accumulation in the ice core winter (note magnitude of annual cycle in later intervals of the ECM record), or some combination of the two. One possible explanation for the more rapid evolution of high-latitude plumes may involve a smaller volume of air containing debris from the eruption (thereby leading to more frequent collisions of particles, faster growth rates, and dropout of aerosols).\nBecause we are still in the early stage of understanding general rules for high-latitude eruptions, we chose more conservative values for the evolution of mid-high latitutude erup-\n31-35\ntion plumes. The evolution was specified as having a 100 day ramp (see further discussion below, in Sect. 4.4), a peak “plateau” 70 days long, a plateau with peak values 1.3 times the initial value (rather than 1.2 for Pinatubo), and an efolding time of 250 days.\nStothers’ analysis of the 1912 eruption also suggests that, despite its clear power (VEI = 6), the aerosol plume did not reach equatorial regions. Ground-based British AOD observations in Cairo (30◦ N) indicate the perturbation was barely detectable at that latitude. This result has been generalized to apply to all high-latitude eruptions, plus mid-latitude eruptions (a clear mid-latitude Northern Hemisphere eruption (e.g., Japanese eruption of 1667) has not been identified in Antarctic sites)."
+  }, {
+    "heading": "4.3 Additional scaling for large eruptions",
+    "text": "Because collisions between aerosol particles result in size increases, shortwave radiative forcing is reduced by the 2/3 power (ratio of surface to volume). We assume this scaling is implicitly taken into account for eruptions up to the size of Pinatubo (peak AOD about 0.180). Above that level some additional scaling is required. In this study, 2/3 power scaling was applied to all values greater than or equal to 0.200 AOD. We tested this approach for the large 1912 eruption (Fig. 5); the results are consistent within the range of uncertainty of ground-based observations, but more studies would have to be made to test this assumption further."
+  }, {
+    "heading": "4.4 Aerosol size",
+    "text": "Aerosol size affects lifetime and scattering properties (Pinto et al., 1989), significantly influencing in particular the\nEarth Syst. Sci. Data, 5, 187–197, 2013 www.earth-syst-sci-data.net/5/187/2013/\n32-35\nclimate impact of very large eruptions (e.g., Timmreck et al., 2009). Based on the relation between AOD and Reff (effective radius) in the GISS reconstruction for Pinatubo (Fig. 6) – notably the lag between peak Reff and AOD – and estimates of maximum particle size from Pinto et al. (1989), a simple calculation captures many of the observed properties of Reff in Pinatubo. Because aerosol coagulation results in AOD scaling to the 2/3 power of mass, Reff was simply estimated from the 1/3 power of AOD, plus the 0.200 baseline of Sato et al. (1993; http://data.giss.nasa.gov/modelforce/strataer/). During non-volcano years, Reff was set at 0.200, again consistent with Sato et al. (1993)."
+  }, {
+    "heading": "4.5 Time of year for eruptions (including great 1258/1259 eruption)",
+    "text": "The Smithsonian volcanism website (www.volcano.si.edu/) provides a wealth of information on eruption dates for more recent eruptions – these were stipulated in the reconstruction. For most unknown eruptions, a start date of 1 January was used as a default. However, if an ice core record of a postulated tropical eruption had maximum sulphate values in year two of the signal, then a mid-year (1 July) start date was inferred (based on observations for length of time it took the Pinatubo signal to reach polar regions).\nSubsequent to finalization of the present volcanic index, it was discovered that very high-resolution (bimonthlyscale) ECM time series might be used to also estimate the month/season of an eruption, because in Greenland there is a small annual winter peak in ECM associated with higher snowfall rates. For example, the onset of the great “1258” eruption at the beginning of 1258 in the ice core ECM record would (Fig. 7), by analogy with the length of time required for the first-traces of the Pinatubo cloud to spread to Green-\n33-35\nland and Antarctic (Sect. 3.3), suggest an eruption around September 1257, with an approximate uncertainty of 2–3 months. This result was tested on the AD 79 Vesuvius eruption, with estimated time of eruption consistent within 2–3 months with historical observations. Due to the lateness of the discovery, and the need to release the data for climate simulations (Jungclaus et al., 2010), the methodology has been applied only to the 1257 eruption, but it could with some effort be applied to other eruptions."
+  }, {
+    "heading": "4.6 Completed AOD reconstruction",
+    "text": "Following the original example of Sato et al. (1993), all of the above information was used to develop a four-equalarea band of AOD and Reff for the interval AD 800–2000. We used our forcing estimates from the ice core composite up to 1960, Stothers’ (2001) reanalysis from 1960–1980, and the NASA/GISS satellite reconstruction afterwards. The Stothers’ analysis raises questions about the reliability of the inferred 1968 Fernandes (Galapagos) eruption (VEI = 4) inferred by Keen (1983) based on lunar AOD estimates, and used in the Sato et al. (1993) reconstruction. We agree with Stothers’ concerns. A further argument is that we would not expect a high-temperature magma characteristic of ocean spreading centers to produce eruptions powerful enough to penetrate the equatorial tropopause (about 20 km). Based on our experience, we also do not think that a VEI = 4 eruption has as much of a radiative impact as estimated by Sato et al. (1993) We have, however, added in our reconstruction a small eruption identified by Stothers in the 1960s that\nwww.earth-syst-sci-data.net/5/187/2013/ Earth Syst. Sci. Data, 5, 187–197, 2013\n34-35\ncould be of tropical origin, possibly from Indonesia (possibly Awu), where Plinian eruptions are common.\nThe mean annual global AOD is listed in the data link. Finally, since climate models often update radiative forcing on a time step of approximately 10 days, the reconstruction was also partitioned into time steps of 1/36 yr and is in the data link."
+  }, {
+    "heading": "4.7 Comparison with Gao et al. (2007) reconstruction",
+    "text": "While it is beyond the scope of this paper to discuss in detail the application and implication of the final reconstruction (Fig. 8), we note that the reconstruction shows more or less than the standard pulses of volcanism that have been documented before, with the differences being the hopefully improved calibration of the AOD and addition of effective radius size, and the screening of some eruptions that were probably local in origin. Schmidt et al. (2011) illustrate a comparison with the Gao et al. (2007) reconstruction, which also uses cores from sources not available for the present study. Although there is general agreement in timing of major eruptions over the last 800 yr, there are a few significant differences\nThe Gao et al. reconstruction generally has higher values of AOD for the largest historical eruptions – a feature we suspect is due to the 2/3 power scaling used in our study. We suspect that the global reach of the alleged 1831 Babuyan eruption has also probably been overestimated, because the very large Greenland fluxes (order 30 kg km−2) seem inconsistent with a crater size (0.2 km) ten times smaller than the Pinatubo crater and frequent lack of a clear signature in Antarctic records. Improvements in chronology and identification of regional eruptions (see Sect. 2.4) suggest that an\n35-35\nAntarctic peak about that time actually may actually have been deposited in 1833 and could be of local origin. We also do not have a large AOD for the 1783 Laki eruption, because we think most of it is tropospheric in origin (see Sect. 2.4). In fact, Lanciki et al. (2012) recently report sulphur isotope evidence that little or none of the Laki sulphur deposited in Greenland was in contact with the stratosphere.\nAs also concluded by Gao et al. (2007), the estimates for the powerful Krakatau eruption suggests sulphur values are not much greater than for Pinatubo – despite the obviously great difference in the power of the eruptions. An additional test of this conclusion is illustrated in Fig. 9, which compares lunar AOD estimates from Keen (2001) to the growth and decay curve for that interval as estimated by our methodology. The lunar eclipse 14 months after the eruption agrees very well with our canonical growth and decay curve, while the eclipse about seven months after the eruption shows slightly lower values than we estimated. We suspect that the slight offset is in part due to the fact that we used a standard nine month buildup for the Krakatau plume to reach northern high latitudes, whereas lessons from the Pinatubo eruption (Sect. 3.3) suggest that it probably took 11–12 months to reach the polar hemisphere from the volcano located at 6◦ S (see Fig. 2). If so, the agreement would be even better than what we illustrate and would explain the puzzling results of Keen that near-identical AODs can be obtained 14 and 21 months after the eruption. By chance, the eclipses coincided with the growth phase at first and the decline phase at second.\nThe 13th century pulse of eruptions originally identified by Langway et al. (1995) also shows some differences; at least part of this is (we suspect) due to Taylor Dome\nEarth Syst. Sci. Data, 5, 187–197, 2013 www.earth-syst-sci-data.net/5/187/2013/\nindications (again, see Sect. 2.4) of at least one coincidental local eruption at the time of one of the Greenland eruptions previously inferred by all investigators (including ourselves – Crowley, 2000) as being tropical in origin.\nThere is also a difference in estimate of the 1450s “Kuwae” peak (Gao et al., 2006). In our reconstruction we do not find a large 1453 signal in Greenland records and use a 1456 estimate from Castellano et al. (2005), which was what we considered the best estimate at the time (subsequently we now think the Castellano et al. (2005) data suggest 1457 rather than 1456). Improved dating of the event in a Law Dome core (Plummer et al., 2012) now suggests that Kuwae may have erupted in mid-late 1457.\nThere is a large signal in 1458/1459 of our reconstruction and the GRIP ECM reconstruction (Vinther et al., 2006). The chronology justification of the 1458/1459 ECM/SO4 event seems very firm, because there is a very-well dated Icelandic eruption in 1477 that can be found in almost all Greenland cores. Given that the AD 79 Vesuvius signal occurs within a year of the band-counted signal in the GISP2 and GRIP ice cores, we cannot conceive of a 5 yr error occurring in the GISP2 core only fifteen years prior to a clearly identified reference level. Nevertheless, we concede that the subject warrants further discussion. Overall, we consider that the comparison between the our’s and the Gao and Robock reconstruction yields a “reasonable” level of agreement.\nExamination of the bimonthly ECM record in GISP2 indicates two peaks embedded in the 1458/1459 sulphur event. One possible interpretation of the 1450s data is that the first GISP2 ECM peak represents the ∼ 12 month delayed arrival of the Kuwae (16◦ S) sulphur plume, while the second peak represents perhaps a high latitude eruption, such as Aniachak (Alaska, VEI = 4+, corrected date 1528± 72, www.volcano.si.edu/). We therefore conclude that our interpretation is entirely consistent with the revised date estimated by Plummer et al. (2012).\nhttp://hurricane.ncdc.noaa.gov/pls/paleox/f?p=519:1::::: P1 STUDY ID:14168\nAcknowledgements. This paper is dedicated to scientists and assistants at the Smithsonian Institution Global Volcanism Program, whose compilations and website have been of immense value to working scientists. We also thank scientists at NASA/Goddard Institute for Space Studies for their valuable website providing satellite information on recent volcanic eruptions. We also thank reviewers for their comments. This research was conducted without any aid from public or private funding sources.\nEdited by: O. Eisen und J. Martin-Torres"
+  }],
+  "year": 2013,
+  "references": [{
+    "title": "Sulphate record from a northeast Greenland ice core over the last 1200 years based on continuous flow analysis",
+    "authors": ["M. Bigler", "D. Wagenbach", "H. Fischer", "J. Kipfstuhl", "H. Miller", "S. Sommer", "B. Stauffer"],
+    "venue": "Ann. Glaciol.,",
+    "year": 2002
+  }, {
+    "title": "The number and magnitude of large explosive volcanic eruptions between 904 and 1865 A.D.: Quantitative evidence from a new South Pole ice core, in: Volcanism and the Earth’s Atmosphere, edited by: Robock, A",
+    "authors": ["D. Budner", "J.H. Cole-Dai"],
+    "year": 2003
+  }, {
+    "title": "The Laki and Tambora eruptions as revealed in Greenland ice cores from 11 locations",
+    "authors": ["H.B. Clausen", "C.U. Hammer"],
+    "venue": "Ann. Glaciol.,",
+    "year": 1988
+  }, {
+    "title": "A comparison of the volcanic records over the past 4000 years from the Greenland Ice Core Project and Dye 3 Greenland ice",
+    "authors": ["H.B. Clausen", "C.U. Hammer", "C.S. Hvidberg", "D. Dahl-Jensen", "J.P. Steffensen", "J. Kipfstuhl", "M.R. Legrand"],
+    "venue": "cores, J. Geophys. Res.,",
+    "year": 1997
+  }, {
+    "title": "Annually resolved Southern Hemisphere volcanic history from two Antarctic ice",
+    "authors": ["J.H. Cole-Dai", "E. Mosley-Thompson", "L. Thomason"],
+    "venue": "cores, J. Geophys. Res.,",
+    "year": 1997
+  }, {
+    "title": "A 4100-year record of explosive volcanism from an East Antarctica ice core",
+    "authors": ["J.H. Cole-Dai", "E. Mosley-Thompson", "S.P. Wight", "L. Thomason"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2000
+  }, {
+    "title": "Causes of climate change over the last 1000",
+    "authors": ["T.J. Crowley"],
+    "venue": "years, Science,",
+    "year": 2000
+  }, {
+    "title": "Reassessment of Crete (Greenland) ice core acidity/volcanism link to climate change, Geophys",
+    "authors": ["T.J. Crowley", "T.A. Christe", "N.R. Smith"],
+    "venue": "Res. Lett.,",
+    "year": 1993
+  }, {
+    "title": "Volcanism and the Little IceAge",
+    "authors": ["T.J. Crowley", "G. Zielinski", "B. Vinther", "R. Udisti", "K. Kreutz", "J. Cole-Dai", "E. Castellano"],
+    "venue": "PAGES Newslett.,",
+    "year": 2008
+  }, {
+    "title": "A 200 year sub-annual record of sulfate in West Antarctica, from 16 ice",
+    "authors": ["D. Dixon", "P.A. Mayewski", "S. Kaspari", "S. Sneed", "M. Handley"],
+    "venue": "cores, Ann. Glaciol.,",
+    "year": 1814
+  }, {
+    "title": "Global warming in the context of the Little Ice Age",
+    "authors": ["M. Free", "A. Robock"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 1999
+  }, {
+    "title": "Atmospheric volcanic loading derived from bipolar ice cores accounting for the spatial distribution of volcanic deposition",
+    "authors": ["C. Gao", "L. Oman", "A. Robock", "G.L. Stenchikov"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2006
+  }, {
+    "title": "Volcanic forcing of climate over the past 1500 years: an improved ice core-based index for climate models",
+    "authors": ["C.C. Gao", "A. Robock", "C. Ammann"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2008
+  }, {
+    "title": "Re-evaluation of SO2 release of the 15 June 1991 Pinatubo eruption using ultraviolet and infrared satellite sensors, Geochem",
+    "authors": ["S. Guo", "G.J.S. Bluth", "W.I. Rose", "I.M. Watson", "A.J. Prata"],
+    "venue": "Geophy. Geosy.,",
+    "year": 2003
+  }, {
+    "title": "Past volcanism revealed by Greenland ice sheet",
+    "authors": ["C.U. Hammer"],
+    "venue": "impurities, Nature,",
+    "year": 1977
+  }, {
+    "title": "Climate and carbon-cycle variability over the last millennium",
+    "authors": ["J. Marotzke"],
+    "venue": "Clim. Past,",
+    "year": 2010
+  }, {
+    "title": "Volcanic aerosols and lunar eclipses",
+    "authors": ["R. Keen"],
+    "venue": "Science, 222,",
+    "year": 1983
+  }, {
+    "title": "Volcanic aerosol optical thicknesses derived from lunar eclipse observations, Bulletin of the Global Volcanism Network, May, http://www.volcano.si.edu/reports/bulletin/contents. cfm?issue=2605; listed under “Atmospheric Effects",
+    "authors": ["R. Keen"],
+    "year": 2001
+  }, {
+    "title": "A 12,000 year record of explosive volcanism in the Siple Dome Ice Core, West Antarctica",
+    "authors": ["A.V. Kurbatov", "G.A. Zielinski", "N.W. Dunbar", "P.A. Mayewski", "E.A. Meyerson", "S.B. Sneed", "K.C. Taylor"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2005
+  }, {
+    "title": "Sulphur isotope evidence for little or no stratospheric impact by the 1783 Laki volcano",
+    "authors": ["A. Lanciki", "J. Cole-Dai", "M.H. Thiemans", "J. Savarino"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2011
+  }, {
+    "title": "A 10-century comparison of prominent bipolar volcanic events in ice",
+    "authors": ["C.C. Langway", "K. Osada", "H.B. Clausen", "C.U. Hammer", "H. Shoji"],
+    "venue": "cores, J. Geophys. Res.,",
+    "year": 1995
+  }, {
+    "title": "An ice core record of atmospheric response to anthropogenic sulfate and nitrate",
+    "authors": ["P.A. Mayewski", "W.B. Lyons", "M.J. Spencer", "M.S. Twickler", "C.F. Buck", "S. Whitlow"],
+    "year": 1990
+  }, {
+    "title": "Climate of the last 500 years: High-resolution ice core records, Quat",
+    "authors": ["E. Mosley-Thompson", "L.G. Thompson", "J. Dai", "M. Davis", "P.N. Lin"],
+    "venue": "Sci. Rev.,",
+    "year": 1993
+  }, {
+    "title": "The volcanic explosivity index (VEI) :An estimate of explosive magnitude for historical volcanism",
+    "authors": ["C.G. Newhall", "S. Self"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1982
+  }, {
+    "title": "Antarctic volcanic flux ratios from Law Dome ice",
+    "authors": ["A.S. Palmer", "V.I. Morgan", "A.J. Curran", "T.D. Van Ommen", "P.A. Mayewski"],
+    "venue": "cores, Ann. Glaciol.,",
+    "year": 2002
+  }, {
+    "title": "Self-limiting physical and chemical effects in volcanic eruption",
+    "authors": ["J.P. Pinto", "R.P. Turco", "O.B. Toon"],
+    "venue": "clouds, J. Geophys. Res.,",
+    "year": 1989
+  }, {
+    "title": "An independently dated 2000-yr volcanic record from Law Dome, East Antarctica",
+    "authors": ["C.T. Plummer", "M.A.J. Curran", "van Ommen", "T D", "S.O. Rasmussen", "A.D. Moy", "T.R. Vance", "H.B. Clausen", "B.M. Vinther", "P.A. Mayewski"],
+    "year": 2000
+  }, {
+    "title": "Volcanic eruptions and climate",
+    "authors": ["A. Robock"],
+    "venue": "Rev. Geophys.,",
+    "year": 2000
+  }, {
+    "title": "Ice cores as an index of global volcanism from 1850 to the present",
+    "authors": ["A. Robock", "M.P. Free"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1995
+  }, {
+    "title": "The volcanic record in ice cores for the past",
+    "authors": ["A. Robock", "M.P. Free"],
+    "venue": "Climatic Variations and Forcing Mechanisms of the Last 2000 Years,",
+    "year": 2000
+  }, {
+    "title": "Stratospheric aerosol optical depths, 1850–1990",
+    "authors": ["M. Sato", "J.E. Hansen", "M.P. McCormick", "J.B. Pollack"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1993
+  }, {
+    "title": "Wisconsinan and Holocene climate history from an ice core at Taylor Dome, western Ross Embayment, Antarctica",
+    "authors": ["E.J. Steig", "D.L. Morse", "E.D. Waddington", "M. Stuiver", "P.M. Grootes", "P.A. Mayewski", "M.S. Twickler", "S.I. Whitlow"],
+    "venue": "Geogr. Ann.,",
+    "year": 2000
+  }, {
+    "title": "Eight centuries of volcanic signal and climate change at Talos Dome (East Antarctica)",
+    "authors": ["B. Stenni", "M. Proposito", "R. Gragnani", "O. Flora", "J. Jouzel", "S. Falourd", "M. Frezzotti"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2000
+  }, {
+    "title": "Major optical depth perturbations to the stratosphere from volcanic eruptions: Pyrheliometric period, 1881–1960",
+    "authors": ["R.B. Stothers"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1996
+  }, {
+    "title": "Major optical depth perturbations to the stratosphere from volcanic eruptions: Stellar extinction period, 1961–1978",
+    "authors": ["R.B. Stothers"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2000
+  }, {
+    "title": "Electrical measurements on the Greenland Ice Sheet Project 2 core",
+    "authors": ["K.C. Taylor", "R.B. Alley", "G.W. Lamorey", "P.A. Mayewski"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1997
+  }, {
+    "title": "Limited temperature response to the very large AD1258 volcanic eruption",
+    "authors": ["C. Timmreck", "S.J. Lorenz", "T.J. Crowley", "S. Kinne", "T.J. Raddatz", "M.A. Thomas", "J.H. Jungclaus"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2009
+  }, {
+    "title": "Spatiotemporal variability in volcanic sulphate deposition over the past 2 kyr in snow pits and firn cores from Amundsen, Antarctica",
+    "authors": ["F. Traufetter", "H. Oerter", "H. Fischer", "R. Weller", "H. Miller"],
+    "venue": "J. Glaciol.,",
+    "year": 1830
+  }, {
+    "title": "A synchronized dating of three Greenland ice cores throughout the Holocene",
+    "authors": ["J. Olsen", "J. Heinemeier"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2005
+  }, {
+    "title": "Stratospheric loading and optical depth estimates of explosive volcanism over the last 2100 years derived from the Greenland-Ice-Sheet-Project-2 ice core",
+    "authors": ["G.A. Zielinski"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1995
+  }],
+  "id": "SP:153843141c7f9b2d691e627f8182f8392aa51a8e",
+  "authors": [],
+  "abstractText": "This report describes details of developing a volcano forcing reconstruction (Crowley et al., 2008) for climate models that is based primarily on sulphate records in Antarctic and Greenland ice cores. The chronology of eruptions is considered accurate to within 1 yr for the interval AD 1104–2000 and about 2 yr for AD 800–1103. The reconstruction involves (1) calibration against satellite aerosol optical depth (AOD) estimates of the 1991 Pinatubo/Hudson eruptions; (2) partial validation against independent lunar estimates of AOD and global sulphate emissions; (3) partial assessment of uncertainties in AOD estimates; (4) assessment of possible tropical “false positives” in ice core reconstructions due to simultaneous occurrence of mid/highlatitude eruptions in each hemisphere; (5) identification of a new category of eruptions, termed “unipolar” tropical eruptions, in which the eruption plume penetrates mainly to polar regions in only the hemisphere of its eruption; (6) use of different growth curves for highand low-latitude eruptions; (7) specification of 2/3 power shortwave scaling for eruptions larger than the 1991 Pinatubo eruption; (8) introduction of an estimate of effective particle size that affects lifetime and scattering properties of stratospheric aerosols; and (9) utilization of bimonthly-resolution electrical conductivity measurements to estimate the eruption date of the 1258/1259 eruption as 1257.7± 0.2. The data, and a high-temporal resolution reconstruction for climate models, are available at: http://hurricane.ncdc.noaa.gov/pls/paleox/f?p=519:1:::::P1 STUDY ID:14168."
+}

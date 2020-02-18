@@ -1,0 +1,531 @@
+{
+  "sections": [{
+    "text": "vide data for evaluating the mechanisms of past, natural climate variability. Geometries of former mountain glaciers, constrained by moraine mapping, afford the opportunity to reconstruct palaeoclimate, due to the close relationship between ice extent and local climate. In this study, we present results from a series of experiments using a 2-D coupled energy balance–ice flow model that investigate the palaeoclimate significance of Last Glacial Maximum moraines within nine catchments in the central North Island, New Zealand. We find that the former ice limits can be simulated when present-day temperatures are reduced by between 4 and 7 ◦C, if precipitation remains unchanged from present. The spread in the results between the nine catchments is likely to represent the combination of chronological and model uncertainties. The majority of catchments targeted require temperature decreases of 5.1 to 6.3 ◦C to simulate the former glaciers, which represents our best estimate of the temperature anomaly in the central North Island, New Zealand, during the Last Glacial Maximum. A decrease in precipitation of up to 25 % from present, as suggested by proxy evidence and climate models, increases the magnitude of the required temperature changes by up to 0.8 ◦C. Glacier model experiments using reconstructed topographies that exclude the volume of post-glacial (< 15 ka) volcanism generally increased the magnitude of cooling required to simulate the former ice\nlimits by up to 0.5 ◦C. Our palaeotemperature estimates expand the spatial coverage of proxy-based quantitative palaeoclimate reconstructions in New Zealand. Our results are also consistent with independent, proximal temperature reconstructions from fossil groundwater and pollen assemblages, as well as similar glacier modelling reconstructions from the central Southern Alps, which suggest air temperatures were ca. 6 ◦C lower than present across New Zealand during the Last Glacial Maximum."
+  }, {
+    "heading": "1 Introduction",
+    "text": "The Last Glacial Maximum (LGM) describes the global sea level low stand at 26–19 ka, when global ice sheets attained their maximum volume of the last glacial cycle (Clark et al., 2009). This signal is dominated by the former Northern Hemisphere ice sheets; however, ice extent also peaked globally during this interval (Schaefer et al., 2006; Clark et al., 2009). Atmospheric CO2 was markedly lower than present during the LGM (Monnin et al., 2001); therefore, this multimillennial interval represents an important target for understanding the quasi-equilibrium response of the global climate system to a large (ca. 100 ppmv) radiative forcing (Schmittner et al., 2011; Hargreaves et al., 2012). Well-distributed, quantitative estimates of LGM air temperature, derived from climate proxy data, provide important data for constraining\nPublished by Copernicus Publications on behalf of the European Geosciences Union.\nestimates of climate sensitivity and evaluating climate model simulations that seek to determine the drivers and mechanisms of past climate change.\nReconstructions of glacial climate in the southern midlatitudes offer insight into natural shifts in atmospheric and oceanic circulation systems without the complex feedbacks associated with the growth and decay of large continental ice masses. However, few locations in the Southern Hemisphere afford proxy-based reconstructions of terrestrial palaeoclimate. In New Zealand, local nomenclature such as “extended LGM” (Newnham et al., 2007) or, more recently, “Last Glacial Cold Period” (Alloway et al., 2007; Barrell et al., 2013) has been introduced to describe the glacial climatic conditions that prevailed ca. 30–18 ka (e.g. Vandergoes et al., 2005; Putnam et al., 2013b). Continuous and well-dated climate proxy records have greatly improved understanding of the timing and relative magnitudes of climatic changes in New Zealand through this period (e.g. Barrell et al., 2013). However, quantitative estimates of terrestrial palaeoclimatic variables (namely air temperature and precipitation) are rare. Where available, independent estimates of LGM climate have shown good agreement across relatively short spatial scales (e.g. central Southern Alps – Golledge et al., 2012; Putnam et al., 2013a, b; Rowan et al., 2013). However, quantitative palaeoclimate reconstructions from elsewhere in New Zealand can differ greatly. For example, McKinnon et al. (2012; their Table 3) summarise all previously published, terrestrial, LGM temperature estimates for New Zealand, which range from +0.5 to −9 ◦C, relative to present. Such differences may arise from methodological and/or chronological uncertainties, or could represent meaningful spatial relationships that represent key climatic processes (e.g. Lorrey et al., 2012) related to the drivers of change. Estimates of precipitation changes during the LGM are even more scarce, and often qualitative (Whittaker et al., 2011). Increasing the number and spatial coverage of quantitative palaeoclimate reconstructions will help to resolve these issues.\nIn the central North Island, New Zealand, geological evidence, primarily in the form of moraines, suggests that small ice fields or ice caps existed on the Ruapehu and Tongariro volcanoes during the late Quaternary (Mathews, 1967; McArthur and Shepherd, 1990; Barrell, 2011; Eaves et al., 2016). Geometric reconstructions of these ice masses suggest that local equilibrium line altitudes (ELAs) were depressed by ca. 1000 m relative to present (McArthur and Shepherd, 1990; Eaves et al., 2016). However, these manual glacial reconstructions are hampered by the paucity of geomorphic evidence to constrain past ice thickness on the upper mountain, which can lead to errors in palaeo-ELA estimates (Rea et al., 1999). Furthermore, localised topographic changes resulting from effusive post-glacial volcanism (Hobden et al., 1996; Conway et al., 2016), as well as post-glacial flank collapse (Palmer and Neall, 1989; Eaves et al., 2015), also contribute uncertainty to glacier reconstructions. In this paper, we use\nnumerical glacier model experiments to investigate the LGM climate of the central North Island, New Zealand, in order to answer the following questions:\n– What are the temperature and precipitation changes,\nrelative to present, required to simulate the LGM ice masses in the central North Island?\n– How do post-glacial topographic changes on the vol-\ncanoes influence our glacier-model-based estimates of LGM climate?"
+  }, {
+    "heading": "2 Setting",
+    "text": ""
+  }, {
+    "heading": "2.1 Geology and climate of the central North Island volcanoes",
+    "text": "Located in the central North Island, New Zealand (39.2◦ S 175.6◦ E; Fig. 1), the Tongariro Volcanic Centre (TgVC) represents the southernmost expression of the Taupo Volcanic Zone, which is a ca. 300 km long, northeast-trending belt of subduction zone volcanism at the Australian–Pacific plate margin (Cole, 1978). TgVC is dominated by the andesite– dacite stratovolcanic centres of Tongariro massif (including Mt Tongariro – 1967 m above sea level (a.s.l.) and the Holocene cone of Mt Ngauruhoe – 2287 m a.s.l.) and Mt Ruapehu (2797 m a.s.l.). Radiometric dating of lava flows indicates that cone-building volcanism in the region began before ca. 275 ka (Stipp, 1968; Gamble et al., 2003), and both centres have exhibited effusive volcanic activity in historical times (Houghton et al., 1987).\nLocal climate, as recorded at Whakapapa Village (1100 m a.s.l.; Fig. 2a) on the northwest flank of Mt Ruapehu, is characterised by high annual precipitation (ca. 2700 mm a−1; Fig. 2b), with low seasonal variability. For example, winter (JJA) precipitation averages ca. 760 mm, compared to ca. 620 mm in summer. Monthly mean temperatures at this altitude range from ca. 13 ◦C in February to ca. 3 ◦C in July, with an annual average of 7.5 ◦C (AD 2000– 2010; NIWA, 2014; Fig. 2c). At 2797 m a.s.l., Mt Ruapehu is the highest peak in the North Island and the only to intercept the present-day end-of-summer snowline. Several small (< 1 km2) cirque glaciers currently exist on the upper mountain slopes (Fig. 1). The average annual end-of-summer snowline for the cirque glaciers on Mt Ruapehu is ca. 2500 m (Keys, 1988). No glacial ice is present on Tongariro massif today."
+  }, {
+    "heading": "2.2 Last Glacial Maximum ice extent in the central North Island",
+    "text": "Abundant geomorphic evidence for glacial erosion and deposition, situated several kilometres down-valley of the presentday ice limits, has long been recognised in the central North Island (Taylor, 1926; Mathews, 1967; Topping, 1974;\nClim. Past, 12, 943–960, 2016 www.clim-past.net/12/943/2016/\nMcArthur and Shepherd, 1990; Barrell, 2011). Two independent mountain-scale assessments of moraine distribution on Mt Ruapehu have produced mapped reconstructions of a former late Pleistocene ice mass (McArthur and Shepherd, 1990; Barrell, 2011), which are in good agreement with one another (Fig. 1). One mountain-scale palaeoglacial reconstruction of a late Pleistocene ice mass has been undertaken for Tongariro massif (Barrell, 2011, Fig. 1). These reconstructions suggest small ice caps/ice fields were present on each volcano, and were drained by several valley glaciers that terminated at elevations between 1100 and 1400 m.\nUntil recently, age control for glacial landforms on the volcanoes has been based on moraine tephrostratigraphy (Mathews, 1967; Topping and Kohn, 1973; Topping, 1974; Cronin and Neall, 1997) and morphostratigraphic correlation of moraines to dated glacial formations in the Southern Alps (Mathews, 1967; McArthur and Shepherd, 1990; Barrell, 2011). Recent applications of surface exposure dating to moraine boulders, using locally calibrated cosmogenic\n3He (Eaves et al., 2015), have provided direct, quantitative age constraints for late Pleistocene glacier fluctuations in the central North Island (Eaves et al., 2016). On the western side of Tongariro massif, Eaves et al. (2016) show that the innermost moraines in Mangatepopo valley (MPO; Fig. 1) were deposited ca. 30–18 ka during the LGM; meanwhile, a moraine positioned outboard of the LGM limits records an earlier glacial advance that occurred prior to 57 ka. These moraines are separated in age by ca. 30–40 kyr, and exhibit markedly different morphology. For example, the older moraine is characterised by lower slope angles (ca. 10–15◦), a more rounded ridge crest, and lower frequency of large (> 1 m3) boulders on the surface. These characteristics likely represent the effects of sub-aerial erosion of the moraine in a periglacial setting during the latter half of the last glacial cycle. In comparison, the LGM moraine exhibits steeper surface slopes (ca. 20–25◦), higher relief, and a more narrow ridge crest.\nwww.clim-past.net/12/943/2016/ Clim. Past, 12, 943–960, 2016\nTable 1. Glacial catchments targeted in our model experiments.\nGlacier Code Extant glacier Valley ELA\n(Y/N) aspect (m a.s.l.; Keys, 1988)\nMt Ruapehu\nWhakapapaiti WHA Na NW 2550–2650a Mangaturuturu MTU Y SW 2450–2600 Wahianoa WAH Y SE not reported Mangatoetoenui MTO Y NE 2400–2500\nTongariro massif\nMangatepopo MPO N W – Waihohonu WAI N SE – Mangatawai MTA N E – Unnamed UNK N E – Mangahouhounui MHO N E –\na Glacier became extinct subsequent to 1988 survey.\nThe new cosmogenic surface exposure dates of Eaves et al. (2016) confirm previous assignments of the inner Mangatepopo moraines to the LGM (e.g. Mathews, 1967; Topping, 1974; Barrell, 2011) and provide more robust chronological data to support morphostratigraphic correlations of proximal, undated moraines. Using these new insights, we have undertaken independent mapping of moraines on both volcanoes using a combination of field investigations and inspection of aerial imagery. We have identified nine catchments where the LGM ice limits can be defined with reasonable confidence (Fig. 1; Table 1). Five catchments on Tongariro massif contain well-preserved lateral moraines that delineate valley glaciers terminating between 1100 and 1400 m.\nOn the eastern side of the massif, valley glaciers were present in the Mangahouhounui (MHO), Mangatawai (MTA), and Waihohonu (WAI) valleys, as well as an unnamed tributary stream (labelled here as “UNK”; Fig. 1). We also include the dated LGM moraines of Mangatepopo valley (MPO), situated on the western side of the massif. On Mt Ruapehu, we target four former valley glaciers that terminated between 1100 and 1200 m a.s.l. in the Mangatoetoenui (MTO), Wahianoa (WAH), Mangaturuturu (MTU), and Whakapapanui (WHA) valleys (Fig. 1; Table 1). The former ice limits in each of these nine catchments are well-defined by lateral moraines and correspond closely with the independent LGM ice reconstruction of (Barrell, 2011) (Fig. 1). Our assign-\nClim. Past, 12, 943–960, 2016 www.clim-past.net/12/943/2016/\nment of an LGM age to undated moraines is primarily based on morphostratigraphic correlation informed by the recent moraine dating and moraine morphology observations from western Tongariro massif (Eaves et al., 2016) and southern Mt Ruapehu (Fig. 1; Eaves, 2015). Further constraints on the timing of moraine formation and ice extent at the LGM are provided by the age and distribution of pre-, syn-, and postLGM lava flow emplacement (Hobden et al., 1996; Gamble et al., 2003; Price et al., 2012; Conway et al., 2015; Conway et al., 2016) and the stratigraphic relationship of these flows to both moraines and glaciated valleys."
+  }, {
+    "heading": "3 Methods",
+    "text": ""
+  }, {
+    "heading": "3.1 Glacier model",
+    "text": "The aim of this study is to constrain the mean annual temperature and precipitation changes, from present, that may have caused glaciers in central the North Island to advance to their LGM extents, using a glacier modelling approach. Several previous studies have adopted this geologically constrained glacier modelling approach to reconstruct past climate in New Zealand (e.g. Anderson and Mackintosh, 2006; Golledge et al., 2012; McKinnon et al., 2012; Rowan et al., 2013; Doughty et al., 2013; Putnam et al., 2013b). In this study we use the coupled energy balance–ice flow model of Doughty et al. (2013). A key advantage of this model for our purpose is that mass balance and vertically integrated ice flow are calculated in two dimensions, which (1) captures any potential changes in ice divides that may have occurred under greater ice thicknesses in the past (e.g. Rowan et al., 2013) and (2) produces outputs that are readily comparable to the 2- D moraine-based ice mass reconstructions (Fig. 1). Furthermore, our physically based model is very similar (e.g. types of input data, required parameterisation) to that of Plummer and Phillips (2003), which has been applied to sites in the Southern Alps to derive quantitative estimates of LGM climate (e.g. Rowan et al., 2013; Putnam et al., 2013a)."
+  }, {
+    "heading": "3.1.1 Model input data",
+    "text": "Terrain elevation data come from the 15 m resolution New Zealand School of Surveying Digital Elevation Model (NZSoSDEM) (Columbus et al., 2011), which we resampled to 100 m. An ice mask is created using the “snow/ice” data from the Land Information New Zealand NZMS260 map series. This mask is assigned the mean ice thickness values reported by Keys (1988), who derived thickness estimates from icepenetrating radar surveys and crevasse depth measurements. These data are used to create an ice-free DEM, which is used as the initial topography for each model simulation.\nClimate data for the energy balance and snow accumulation models come from several sources. Solar radiation and relative humidity are from the NIWA Virtual Climate Station Network gridded data sets (NIWA, 2014) and are\nresampled to 100 m resolution using bilinear interpolation. Following Anderson and Mackintosh (2012), wind speed data come from the National Centers for Environmental Prediction (NCEP) 850 hPa level reanalysis data (1981–2010; Kalnay et al., 1996). This data set is scaled against observational data and applied uniformly over the model domain.\nWe use 30-year (1981–2010), monthly mean temperature and precipitation rate data from individual climate stations (NIWA, 2014) distributed around and within the model domain. These data are interpolated onto grids using the methods described in Anderson and Mackintosh (2012) and Doughty et al. (2013). For the temperature interpolations, we use the upland (> 300 m) seasonal lapse rates of Norton (1985) (DJF=−5.3 ◦C; MAM=−4.9 ◦C; JJA=−4.8 ◦C; SON=−5.7 ◦C), which have been shown to best predict temperatures in alpine regions (Tait and Macara, 2014). During model runs, temperature-dependent components are run at a daily time step and stochastic variability is introduced to the monthly temperature data via random selection of a normally distributed (mean= 0; SD= 2.5 ◦C) perturbation value (sensu Golledge et al., 2012). The standard deviation of this distribution represents the mean standard deviation of daily mean temperature for each month at Whakapapa Village (AD 2000–2010; NIWA, 2014), situated on the northwest flank of Mt Ruapehu (Fig. 2a). To create monthly precipitation grids, we use the method of Anderson and Mackintosh (2012), whereby precipitation measurements from surrounding local and distal climate stations (n=> 40) dictate the proportion of annual precipitation that falls each month. Annual precipitation totals are provided by the mean annual surface of Tait et al. (2006)."
+  }, {
+    "heading": "3.1.2 Mass balance model",
+    "text": "To simulate snow accumulation, precipitation is partitioned into rain and snow using a temperature threshold (Ts; Table 2). Snow accumulation occurs in grid cells when temperature falls below this threshold, set to Ts= 0.5 ◦C. To simulate ablation, the energy balance equation (Eq. 1) is solved within a distributed energy balance model (EBM) as developed (Anderson et al., 2010) and previously applied at individual glaciers and regionally, in present-day (Anderson and Mackintosh, 2012) and palaeoglaciological (Doughty et al., 2013) studies in New Zealand.\nQM = I (1−α)+L ↓ +L ↑ +QH+QE+QG+QS+QR, (1)\nwhere QM is the energy available for melt, I is incoming shortwave radiation, L ↓ is incoming longwave radiation, L ↑ is outgoing longwave radiation,QH andQE are sensible and latent heat fluxes respectively,QG is the geothermal heat flux, QS is the sub-surface heat flux, and QR is heat input from rain.\nwww.clim-past.net/12/943/2016/ Clim. Past, 12, 943–960, 2016\nIncoming shortwave radiation (I ) comprises both direct and diffuse components (Oerlemans, 1992). The effect of changing orbital geometry is accounted for using the insolation calculations of Huybers and Eisenman (2006) for 21 ka. Albedo (α) is parameterised according to the ELA-dependent scheme of Oerlemans (1992), whereby α increases with elevation and snow thickness, relative to the equilibrium line altitude. Following Oerlemans (1992), we use αsnow = 0.72 and explore the impact of this parameterisation in sensitivity tests (sensu Doughty et al., 2013). Longwave radiation fluxes (L ↓, L ↑) include the effects of surrounding topography, cloudiness, and air temperature (Konzelmann et al., 1994; Corripio, 2003; Anderson et al., 2010). Turbulent heat fluxes (QH , QE) are calculated using the bulk method and include the roughness of snow and ice and the Richardson stability criterion (Table 2; Oerlemans, 1992; Klok and Oerlemans, 2002; Anderson et al., 2010).\nThe sub-surface heat flux (QS), commonly referred to as ground heat flux, describes energy exchanges between the glacier surface and the glacier interior. As we assume that the ice is temperate and that the glacier surface is constantly at the melting point (Oerlemans, 1992), there is no temperature gradient; therefore QS = 0.\nIn active volcanic regions, convection and advection of heat to the surface via mantle upwelling and redistribution can raise the geothermal heat flux by several orders of magnitude. In glacierised, active volcanic regions, geothermal heat fluxes (QG) on the order of 10 0–105 W m−2 have been inferred from glacier calorimetry (Clarke et al., 1989; Cuffey and Paterson, 2010). If sustained, such heat fluxes can have a non-trivial impact on glacier mass balance; however, these extreme cases are typically only sustained over the order of days to weeks (e.g. Gudmundsson et al., 1997). Thus, while raised geothermal heat fluxes can therefore potentially complicate the climatic interpretation of glacier fluctuations over annual to decadal timescales (Rivera et al., 2012; Rivera and Bown, 2013), climate is the dominant driver of glacier mass balance and length changes on active volcanoes over centennial to millennial timescales (e.g. Kirkbride and Dugmore, 2001; Mackintosh et al., 2002; Blard et al., 2007; Licciardi et al., 2007; Osborn et al., 2012). We employ a nominal geothermal flux of 1 W m−2 ( ca. 10 cm water equivalent annual melt) and discuss the possible implications of past volcanism for the palaeoclimatic interpretations derived from glacier model experiments.\nWe do not include the effects of surface debris cover in our simulations. Historically, debris cover on the glaciers situated on Mt Ruapehu has varied greatly in space and time. During the most recent sustained volcanic eruptions (AD 1995–96), all glaciers became covered by volcanic products. However, the majority of this material has since been removed via surface runoff or buried by winter snow, such that today only ice bodies with a low surface slope and those situated close to the current volcanic vent, such as the Summit Plateau and the upper Whangaehu Glacier, remain partially debris-covered. We\nacknowledge the potential for past debris cover as an additional source of uncertainty in the simulations and provide further consideration of the specific impacts that these phenomena may have for our findings (Sect. 5)."
+  }, {
+    "heading": "3.1.3 Ice flow model",
+    "text": "Ice flow is described using a vertically integrated, twodimensional (2-D) model based on the shallow ice approximation (SIA) (Plummer and Phillips, 2003; Kessler et al., 2006). A full description is given in Doughty et al. (2013). This formulation assumes ice flow is driven by vertical shear stresses, and therefore compressional and tensional (longitudinal) stresses are neglected (Hutter, 1983). We consider that the role of longitudinal stresses on past glacial flow in the glacial troughs studied here would be low, owing to the low-angle bed slopes and absence of steep, bounding valley sides that characterise typical alpine glacier environments. Furthermore, several comparison studies between SIA and higher-order ice flow models show little difference in steadystate ice geometries (e.g. Le Meur et al., 2004; Leysinger Vieli and Gudmundsson, 2004), such as those used here for palaeoclimate reconstruction. Thus, the SIA is commonly applied in mountain glacier environments for palaeoclimatic reconstructions, where mass balance imparts the greatest uncertainty in simulated glacier extents (e.g. Plummer and Phillips, 2003; Kessler et al., 2006; Doughty et al., 2013).\nClim. Past, 12, 943–960, 2016 www.clim-past.net/12/943/2016/"
+  }, {
+    "heading": "3.2 Model assessment",
+    "text": "As a test of model performance, we compare the modelled, steady-state ice extent and mass balance on Mt Ruapehu summit for present day (i.e. 1T = 0 and 1P = 0), against mapped ice extent from Land Information New Zealand topographic maps (Fig. 3). Steady-state ice extent modelled using the optimal parameter set listed in Table 2 shows reasonable agreement with empirical ice extents in the majority of the catchments of interest for this study (e.g. Mangatoetoenui, Wahianoa, Mangaturuturu; Fig. 3). However, this simulation also produces ice extents in two catchments, Whangaehu and Whakapapa, which are far greater than observed (Fig. 3). Ice accumulation in the Crater Lake basin represents an important source of this excess model ice. Today, Crater Lake is a large body of water (ca. 106–107 m3) that occupies the active volcanic vent and fluctuates in temperature between ca. 10 and 60 ◦C with periodicities of 4– 16 months (Christenson et al., 2010). Thus, the lake represents an important energy source that prevents snow accumulation at the lake site and raises air temperatures and humidity in the vicinity, thus melting ice flowing towards the lake (Hirst et al., 2012). Neglecting these processes in our model causes ice accumulation at the lake site, which feeds into the Whangaehu and Whakapapa glaciers, thus causing greater ice extents than observed today (Fig. 3). Based on the increased frequency of hydrovolcanic products in tephra sequences on the surrounding ring plain, Crater Lake is believed to have formed in the mid- to late Holocene (ca. 3 ka; Donoghue et al., 1997). This post-dates the time period of interest for our glacier modelling application. Thus, although the lake currently represents an important energy source controlling snow accumulation patterns, we do not include this energy source in our palaeo-simulations. It is also notable that modelled ice extent in catchments that do not receive ice from Crater Lake (i.e. Mangaehuehu, Wahianoa, Mangatoetoenui) are better aligned with modern observations (Fig. 3).\nA further source of uncertainty in simulating the small present-day glaciers (e.g. Fig. 3) is the role of wind in redistributing snow on the summit region. Previous mass balance observations on Whakapapa and Whangaheu glaciers have noted “inverted snowlines” (Krenek, 1959; Paulin, 2008), whereby winter accumulation has been redistributed\nby wind, from the glacial accumulation areas to the lower portions of the glaciers. Including a numerical scheme for this process is computationally expensive (Liston and Sturm, 1998), and has high uncertainties in topographically complex regions such as Mt Ruapehu, where both the present and past wind fields are largely unknown. Furthermore, wind redistribution of snow is of greater importance for the mass balance of small glaciers (Kuhn, 1995), such as the presentday glaciers on Mt Ruapehu, but less important for larger glaciers, such as those that existed during the LGM, where climatic gradients dominate the mass balance profile. We note that the moraine distribution does not indicate any notable asymmetry in the past ice geometry as might be expected if snow redistribution by prevailing winds was an important control on mass balance in the geological past (e.g. Mitchell, 1996). Thus, we do not attempt to model this process but acknowledge it as a potential source of uncertainty in our mass balance simulations."
+  }, {
+    "heading": "3.3 Experimental design",
+    "text": "We designed a series of three different experiments to constrain the magnitude of LGM cooling in the central North Island and the sensitivity of our results to post-glacial changes in bed topography. In each model simulation, ice thickness is updated by the ice flow model every 5 model years, and mass balance is recalculated every 20 model years. Each simulation is run to an equilibrium state, which is achieved when the rate of ice volume change becomes close to zero and takes 200–350 model years depending on the magnitude of 1T . We follow the experimental design of previous similar studies (e.g. Plummer and Phillips, 2003; Doughty et al., 2013) in holding model parameters constant for all simulations (Table 2), while iteratively varying temperature and/or precipitation to achieve a fit with the geological evidence. We investigate the sensitivity of our results to this parameterisation by re-running the experiments with systematic variations of key parameters (Table 2).\nwww.clim-past.net/12/943/2016/ Clim. Past, 12, 943–960, 2016"
+  }, {
+    "heading": "3.3.1 Experiment 1: step coolings",
+    "text": "Temperature changes from present (1T ) of −2 to −7 ◦C, at intervals of 1 ◦C, are applied uniformly across the domain and the resultant ice masses are allowed to evolve to a steadystate geometry. These experiments permit an initial assessment of the patterns of ice growth across both volcanoes and the results serve as a guide for the refined catchment-specific simulations of the LGM ice masses carried out in Experiments 2 and 3 (described below)."
+  }, {
+    "heading": "3.3.2 Experiment 2: moraine-based simulations",
+    "text": "Experiment 2 uses steady-state simulations to constrain the combinations of 1T and 1P that produce LGM ice extents indicated by the geological evidence in individual catchments (Fig. 1). Simulations are run at the whole mountain scale in order to capture any changing ice divides that result from a growing ice mass. For efficiency, separate simulations are run for each volcano. A satisfactory result was obtained when the modelled glacier terminus reached within 1 grid cell (100 m) of the LGM limit, as inferred from geomorphology mapping (Fig. 1). These simulations are repeated for three precipitation scenarios: +25, −25, and 0 % change from present."
+  }, {
+    "heading": "3.3.3 Experiment 3: palaeo-topography",
+    "text": "Here we repeat Experiment 2 using modified topographic boundary conditions in order to assess the sensitivity of 1T to known post-glacial changes in local topography. A digital elevation model of the pre-15 ka topography has been reconstructed using the results of a 5-year project to constrain the spatial and temporal geomorphic evolution of this region. For example, compilation of existing mapping (e.g. Gamble et al., 2003; Townsend et al., 2008; Price et al., 2012, Fig. 1), together with extensive field mapping and new radiometric dating, has been used to produce 1 : 60 000 scale maps of the volcanic geology, which delineate individual lava flows (Townsend et al., 2016). To generate palaeo-topographies for these simulations, modern DEMs were manually altered to approximate the post-glacial (> 15 ka) topography.\nFigure 4 shows the difference between the present-day topography and our reconstructed pre-15 ka surfaces. On Mt Ruapehu, post-glacial lava flows are concentrated on the northern slopes and extend several kilometres from the summit region (Fig. 4a). Post-glacial (< 15 ka) eruption ages have been assigned to these lava flows based on (i) their position within moraine-bound glaciated valleys, (ii) the good preservation of flow structures on the lava surfaces indicating that they have not been subsequently overrun by ice (Hackett and Houghton, 1989), and (iii) recent 40Ar/39Ar dating of several flows within these packages that yield < 15 ka ages (Conway et al., 2016). In addition, small increases in elevation relative to present have been made on the upper\nmountain in areas where known, well-dated post-glacial debris avalanches have occurred (e.g. Palmer and Neall, 1989; Eaves et al., 2015).\nOn Tongariro massif, the post-glacial cones of Mt Ngauruhoe (site 8; < 6 ka – Moebis et al., 2011) and North Crater (site 7), and the valley-filling lava flows of Oturere valley (site 10) have been removed (Fig. 4b). To the south of the mountain, the early Holocene explosion craters (Topping, 1973; Hackett and Houghton, 1989) now occupied by Tama Lakes (site 9) have been infilled, which represents the only region of significant elevation gain on Tongariro massif."
+  }, {
+    "heading": "4 Results",
+    "text": ""
+  }, {
+    "heading": "4.1 Experiment 1: step coolings",
+    "text": "Figure 5 shows steady-state ice thickness results of Experiment 1, conducted over a domain covering both Mt Ruapehu and Tongariro massif. Also shown are the inferred LGM ice limits of greater and lesser confidence (from Fig. 1). Modest coolings of 2–3 ◦C from present are sufficient to produce a small ice mass on Mt Ruapehu, but this temperature change is insufficient to promote ice accumulation on Tongariro massif. A cooling of 4 ◦C is sufficient to meet the well-defined LGM limits in the WAH catchment on southeast Mt Ruapehu; however, the termini of other simulated valley glaciers on this volcano remain well upstream of their mapped limits. In this scenario, ice accumulation on Tongariro is restricted to elevations> ca. 1900 m a.s.l. and therefore remains well short of the mapped LGM limits (Fig. 5). Modelled ice extent approaches the LGM limits in the remaining three catchments (MTO, WHA, MTU) on Mt Ruapehu when 1T =−5 ◦C, and these limits are exceeded in all catchments at 1T =−6 ◦C. On Tongariro massif, modelled ice extent approaches the moraine limits in several catchments (MPO, MHO, UNK) in response to a cooling of 6 ◦C. At 1T =−7 ◦C, the individual ice masses of the two volcanoes have merged and ice exceeds the LGM limits in all catchments."
+  }, {
+    "heading": "4.2 Experiment 2: moraine-based simulations",
+    "text": "The temperature change required to simulate the LGM ice geometries in each catchment, as delineated by geological evidence, ranges from −4.0 to −6.8 ◦C when precipitation remains unchanged from present (Fig. 6a). Steady-state equilibrium line altitudes for these simulations range from ca. 1380 to 1660 m a.s.l., which represent depressions of ca. 820–1100 m from present (Table 3). Imposing a 25 % increase in modern precipitation reduces 1T by ca. 0.6 ◦C for all catchments (Fig. 6); meanwhile, decreasing modern precipitation by 25 % requires increases in 1T of ca. 0.8 ◦C (Fig. 6a).\nSensitivity tests of key energy balance parameters impact the palaeotemperature reconstructions by up to ±0.5 ◦C for the chosen ranges (Fig. 6b). Altering the albedo of\nClim. Past, 12, 943–960, 2016 www.clim-past.net/12/943/2016/\nIc e t h ic\nkn e ss\n( m\n)\nsnow (αsnow = 0.67–0.77) and snow temperature threshold (Tsnow = 0–1.5 ◦C) has the greatest effects (ca.±0.1–0.5 ◦C). Using a temperature lapse rate (dT /dz) of −0.006 ◦C m−1, uniformly applied across all months, decreases 1T by 0.1– 0.2 ◦C. Changing the characteristic ice roughness length (Zice = 0.0008–0.01 m) also causes deviations in 1T of\n±0.1–0.2 ◦C, relative to the optimal setting. Flow parameters Uc and A have a negligible (< 0.1 ◦C) impact on 1T .\nFindings from Experiment 1 highlighted the variability in the LGM palaeoclimate reconstructions that exists, both between volcanoes and between individual catchments. Figure 6a shows that the Wahianoa (WAH) catchment on Mt Ruapehu requires a conspicuously smaller temperature\nwww.clim-past.net/12/943/2016/ Clim. Past, 12, 943–960, 2016\nchange from present to match the identified LGM ice limits (1T =−4.0 ◦C, when 1P = 0), compared to all other catchments studied (ca. −5.2 to −6.8 ◦C, when 1P = 0). Also, there is an offset in the temperature forcings necessary to simulate the mapped LGM ice limits between the two volcanoes. Catchments on Tongariro massif range require coolings of ca. 6.0 to 6.8 ◦C (mean= 6.3 ◦C), when precipitation is unchanged, whilst catchments on Mt Ruapehu require 4.0 to 5.8 ◦C (mean= 5.0 ◦C, or 5.4 ◦C when WAH is removed). Finally, the results presented in Fig. 6 represent the climatic forcing, from present, required to meet the inferred downstream limits of LGM glaciation. In several catchments, ice spills over ice-marginal indicators, such as\nlateral moraines, before the geologically constrained termini are reached (Fig. 7a, b). The possible reasons for the discrepancies, and the potential implications for palaeoclimate estimates, are discussed below (Sect. 5.1)."
+  }, {
+    "heading": "4.3 Experiment 3: palaeo-topography",
+    "text": "Figure 8a shows the change in temperature from present required to simulate the mapped LGM geometries in the nine catchments, using topographic boundary conditions that more closely approximate that of the LGM (Fig. 4). When precipitation remains unchanged from present, 1T ranges from ca. −4.1 to −7.1 ◦C, which represents differences of +0.1 to −0.5 ◦C from Experiment 2 (Fig. 8b). In all catch-\nClim. Past, 12, 943–960, 2016 www.clim-past.net/12/943/2016/\nments except one (MTO), more cooling was required, relative to Experiment 2 (Fig. 8b). The greatest changes in 1T between Experiment 2 and Experiment 3 occurs in the UNK catchment, where ca. 0.5 ◦C of additional cooling is required to simulate the inferred glacial geometries (Fig. 8b). This change is the result of reduced ice flux from the vicinity of Mt Ngauruhoe, caused by the elevation reduction in the accumulation area, following removal of this Holocene-aged volcanic cone (Fig. 4). However, this topographic alteration has less of an impact in the WAI catchment, where 1T is\nreduced by 0.2 ◦C, relative to Experiment 2. Whilst removal of Mt Ngauruhoe may act to channel ice flow into the WAI catchment, the overall reduction in elevation reduces snow accumulation, therefore reducing the impact on1T . The imposed topographic changes did not improve the poor fit between modelled ice geometry and the geological constraints, as ice still spills over lateral moraines in the WAI and MTA catchments before reaching the inferred LGM termini.\nOn Mt Ruapehu, the major changes to the topography were made in the MTO catchment, which is the only catchment\nwww.clim-past.net/12/943/2016/ Clim. Past, 12, 943–960, 2016\nwhere 1T decreased by ca. 0.1–0.2 ◦C, relative to Experiment 2 (Fig. 8b). In this instance, the removal of syn- and post-LGM lava flows in the upper and middle parts of this catchments has resulted in increased ice flux to the lower valley, despite the overall reduction in elevation. This is caused by a reduction in the ice flux leaving the catchment through overspill, which helps offset the effect of increased temperature caused by the reduction in bed elevation. In the other catchments on Mt Ruapehu (MTU, WAH, WHA), 1T was reduced by 0.1–0.2 ◦C relative to Experiment 2. Thus, accounting for post-glacial changes in bed topography cannot resolve the anomalous 1T result in the WAH catchment. Finally, there remains a poor fit between the geologically inferred lateral ice margins in the MTU catchment and those simulated in Experiment 3."
+  }, {
+    "heading": "5 Discussion",
+    "text": "Using a numerical glacier model, we have provided quantitative constraints of the temperature depression from present in the central North Island during the LGM and the sensitivity of these results to model parameterisation and changing topographic boundary conditions. The main findings are as follows: (1) the temperature depression required to simulate the LGM glacial geometries of individual catchments varies between−4.0 and−6.8 ◦C, (2) there is a systematic offset of ca. 1 ◦C in the model-derived palaeotemperatures associated with LGM moraines between the two volcanoes, and (3) using geologically constrained reconstructions of LGM topography has relatively little impact (+0.2 to −0.5 ◦C) on the palaeotemperature reconstruction. Below, we first consider the possible sources of uncertainty, before placing the results in context of other, local terrestrial and marine palaeotemperature proxy reconstructions."
+  }, {
+    "heading": "5.1 The role of changing topography on palaeoclimate estimates",
+    "text": "Improved constraint of the timing and extent of late Quaternary volcanism in the central North Island (e.g. Gamble et al., 2003; Conway et al., 2015; Conway et al., 2016) has allowed a test of the impact that changing topographic boundary conditions have on palaeoclimate estimates for glacier modelling. Using topographic reconstructions, informed by these recent field mapping and radiometric dating campaigns, the temperature forcing required to simulate the inferred LGM glaciers is altered by +0.2 to −0.5 ◦C. The majority of the imposed topographic changes serve to remove post-glacial lava flows that have built volcanic cones (e.g. Mt Ngauruhoe) or infilled glacial troughs (e.g. MTO, MPO; Fig. 4). Subtraction of these features from the present-day land surface has lowered the glacier bed elevation, which raises the local surface air temperature and explains why most catchments require increased cooling to achieve the LGM limits in Experiment 3, relative to Experiment 2. Thus, our results from\nexperiment 2 may underestimate LGM temperature anomalies by up to 0.5 ◦C. These experiments demonstrate the importance of considering potential post- or syn-glacial (e.g. McKinnon et al., 2012) changes in subglacial bed topography, when extracting palaeoclimate information from the glacial record using glacier modelling.\nRemoval of the post-glacial lava flows in the vicinity of the MTO catchment reduced the temperature forcing required to simulate the LGM ice geometry in that catchment by ca. 0.2 ◦C, relative to Experiment 2. Reduced overspill, as shown by the improved fit between the model output and the lateral moraines, indicates that the retention of ice within the MTO catchment was improved by the imposed topographic changes and this effect was sufficient to offset the decreased accumulation/increased ablation induced by land surface lowering. However, the imposed topographic changes did not improve the fit in all catchments where overspill occurs (e.g. MTA, WAI, MTU); thus, it is probable that the LGM palaeotemperature estimates presented in Fig. 6 and Fig. 8 for these catchments overestimate the true magnitude of LGM temperature change. This interpretation is supported by the fact that these catchments require the greatest magnitude of cooling, relative to present, of all catchments on the respective volcanoes. Discounting the reconstructions from these catchments leaves LGM palaeotemperature estimate ranges of−4.1 to−5.4 ◦C for Mt Ruapehu and−6.1 to −6.3 ◦C for Tongariro massif (1P = 0; Experiment 3). Thus, accounting for ice overspill and known topographic changes is insufficient to resolve the apparent offset between LGM palaeotemperature estimates between these two volcanoes.\nGeometric constraint of well-preserved post-glacial lava flows can be achieved with relative ease via detailed field investigations. However, the recognition of post-glacial erosional events (e.g. sector collapse, fluvial incision) and subsequent topographic reconstruction is less straightforward. Some erosional events are identifiable in the modern landscape on Mt Ruapehu (e.g. Murimotu Formation sector collapse at 10.4–10.6 cal ka BP; Eaves et al., 2015); however, the precise source locations and pre-erosional topographies remain highly uncertain (e.g. Hackett and Houghton, 1989; Palmer and Neall, 1989; McClelland and Erwin, 2003). Such erosional events alter drainage pathways and bed hypsometries, with potential implications for modelled ice distributions and palaeoclimatic reconstruction. For example, it can be hypothesised that the offset in LGM temperature reconstructions between the glacial catchments of Mt Ruapehu and Tongariro massif is caused by post-glacial change in the relative altitudes of the two volcanoes. A post-glacial decrease in the summit altitude of Tongariro massif, relative to Mt Ruapehu, could explain the need for greater cooling on Tongariro massif in the simulations presented here. However, there is little geological evidence to support the notion that Tongariro massif has experienced major post-glacial degradation, nor that Mt Ruapehu has significantly increased in elevation since the LGM. This absence of evidence, combined\nClim. Past, 12, 943–960, 2016 www.clim-past.net/12/943/2016/\nwith the fact that known changes in topographic boundary conditions had relatively little impact on palaeotemperature reconstructions (Experiment 3), makes it unlikely that postglacial topographic change is the primary source of this systematic offset."
+  }, {
+    "heading": "5.2 Other sources of uncertainty",
+    "text": "The glacier modelling experiments presented here suggest that stadial conditions in the central North Island were characterised by temperatures 4 to 7 ◦C lower than present (Fig. 6). Here we first discuss the possible reasons for the inter-catchment and inter-volcano variability in palaeotemperature reconstructions, before placing our results in the context of other, quantitative palaeoclimate reconstructions from the New Zealand region.\nOur results show a ca. 3 ◦C spread in palaeotemperature estimates between individual catchments and a ca. 1 ◦C disparity between the two volcanoes. Given the relatively small influence of known topographic changes as a driver, we consider these differences can be explained predominantly by the combination of three principal factors, which we discuss below.\nFirst, differences in climate forcing may arise from chronological uncertainty. Only two of the catchments studied here (MPO, WAH) have moraines been directly dated to the LGM (Eaves et al., 2016; Eaves, 2015), while others are inferred from moraine morphostratigrahy and indirect age constraints (e.g. Gamble et al., 2003; Conway et al., 2015; Conway et al., 2016). Moraines representing glacial advances prior to the LGM have been recognised and dated on Tongariro massif (Eaves et al., 2016); therefore, it is possible that some of the limits we targeted predate the LGM. However, Eaves et al. (2016) noted a distinct morphological difference in the preservation of moraines formed early in the last glacial cycle (> 59 ka) and those constructed during the LGM. The undated moraines targeted in our study had been correlated to the LGM based primarily on their similar morphology and degree of preservation to dated landforms; therefore, we consider it unlikely that our simulations have targeted pre-LGM glacial limits. A separate possibility is that our targets represent different advances within the LGM. This cold climatic interval spans ca. 10 kyr, during which time there were significant fluctuations in climate over millennial timescales (Barrell et al., 2013; Schaefer et al., 2015). Indeed, exposure ages of LGM moraines do show evidence for multiple moraine building episodes 30–18 ka (e.g. Eaves et al., 2016). Thus, the inter-catchment variability seen in our palaeotemperature estimates may in part reflect the range of temperature cooling events during this prolonged but variable cold period.\nSecond, inaccuracies in the present-day climate data, particularly precipitation distribution, may impart some error to the palaeotemperature reconstructions. The paucity of highaltitude precipitation data for the present-day represents an\nimportant source of uncertainty in both modern and palaeoapplications of glacier mass balance models. For example, Rowan et al. (2014) find that uncertainty in present-day precipitation distribution imparts uncertainty of up to 25 % in modelled LGM glacier length in the central Southern Alps, which equates to about 0.5 ◦C in the palaeotemperature estimate. The good agreement between observed ice distribution on Mt Ruapehu and ice geometries simulated using the 30- year (AD 1981–2010) average climate data sets (Fig. 3) provides confidence that these data sets provide a useful starting point from which to assess the local LGM climate anomaly in catchments on Mt Ruapehu. However, no glaciers exist on Tongariro massif today and there are no climate stations on the volcano; therefore, it is more difficult to assess how representative the modern climate grids are for this region.\nUnderestimation of the present-day precipitation rate on Tongariro massif provides one possible explanation for our finding that slightly greater temperature forcings are needed to match the LGM limits on Tongariro massif, relative to Mt Ruapehu. The precipitation–temperature relationships presented in Fig. 6a indicate that precipitation changes of ±25 % are balanced by temperature changes of ± ca. 0.6–0.8 ◦C, which is consistent with similar estimates for the South Island glaciers (Oerlemans, 1997; Anderson and Mackintosh, 2012). Thus, precipitation on Tongariro would need to be increased by 30–50 %, relative to Mt Ruapehu, in order to account for the ca. 1.0–1.3 ◦C temperature difference associated with the inferred LGM glacial limits between the two volcanoes. This magnitude is quite large and we consider it unlikely that the present-day spatial precipitation gradient is inaccurate to such a degree; however, this may still represent an important contributing factor. Potential past changes in local precipitation gradients, for example arising from atmospheric circulation changes (e.g. Lorrey et al., 2012), may also contribute. Improved constraint of present and past precipitation rates will reduce these uncertainties.\nThird, spatial heterogeneities in key glaciological parameters may account for some of the spatial differences in palaeotemperatures seen in this study. The sensitivity tests presented in Fig. 6b provide a first-order assessment of the uncertainty imparted by parameters in the energy balance model. Varying key parameters within acceptable bounds causes deviations in reconstructed temperatures of up to ±0.5 ◦C, which indicates that some of the inter-catchment variability in palaeotemperatures (e.g. WAH catchment) could be explained by spatial heterogeneities in model parameters, which are currently assumed uniform across the model domain.\nOur sensitivity analyses show that palaeotemperature estimates are most sensitive to albedo (Fig. 6), which is unknown for the pre-historic period. Surficial debris lowers the albedo of ice, but can act to enhance or reduce surface melt on glaciers depending on the thickness of the debris layer (Östrem, 1959), which in turn is dictated by sediment availability. Richardson and Brook (2010) mea-\nwww.clim-past.net/12/943/2016/ Clim. Past, 12, 943–960, 2016\nsured ice ablation rates of clean and tephra-covered snow on Summit Plateau at Mt Ruapehu and found that tephra thicknesses of up to 7 cm enhanced ablation rates, relative to that of clean snow. In temperate regions, empirical observations have shown that tephra deposited on glacier surfaces is quickly redistributed by surface runoff and thus has a net long-term effect of enhanced surface ablation following deposition (Kirkbride and Dugmore, 2003). Thus, the presence of thin (centimetre-scale) debris cover on some LGM glaciers in the central North Island may have enhanced ablation and would cause underestimation of palaeotemperatures for these catchments in our model that assumes clean glacier surfaces. This process may contribute to the inter-catchment and/or inter-volcano variability in our LGM palaeotemperature estimates.\nDespite these possible sources of uncertainty, the weight of evidence afforded by our multi-catchment approach allows us to say with reasonable confidence that LGM temperatures in the central North Island reached at least 5 ◦C colder than present. Meanwhile it is unlikely that temperatures were depressed by more than 7 ◦C relative to today. This is in good agreement with other quantitative LGM temperature reconstructions from New Zealand (e.g. Golledge et al., 2012; Newnham et al., 2013; Seltzer et al., 2015; Fig. 6), which supports our conclusion that climate represents the dominant signal recorded by the Quaternary moraine record on the central North Island volcanoes. In the next section we discuss our finding in the context of other palaeoclimate records."
+  }, {
+    "heading": "5.3 Last Glacial Maximum climate in New Zealand",
+    "text": "The glacier modelling experiments presented here suggest that stadial conditions in the central North Island during the LGM were characterised by temperatures 4 to 7 ◦C lower than present (Fig. 6), although most of the catchments studied require cooling of ca. 5.1–6.3 ◦C to achieve the mapped ice limits, when precipitation is unchanged from present. Quantitative estimates of regional changes in precipitation rate during the LGM remain poorly constrained, although evidence from climate modelling (Drost et al., 2007; Rojas et al., 2009), previous glacier modelling (Golledge et al., 2012), carbon isotopes in speleothems (Whittaker et al., 2011), and diatoms in maar deposits (Stephens et al., 2012) indicates that drier than present conditions prevailed across New Zealand at this time. Precipitation reductions of up to 25 % from present require additional decreases in temperature by up to 0.8 ◦C to achieve the LGM glacial geometries in the central North Island (Fig. 6). Such a change in precipitation is likely a maximum estimate given that climate model simulations predict changes in total annual precipitation of < 10 % (e.g. Drost et al., 2007).\nSteady-state equilibrium line altitudes of the simulated LGM glaciers fall between ca. 1400 and 1650 m a.s.l. (Table 3), which represent depressions of ca. 800–1100 m, relative to present. Despite methodological differences, our es-\ntimate using physically based modelling is in agreement with that of McArthur and Shepherd (1990), who manually reconstructed the LGM ELAs on Mt Ruapehu to be 1500–1600 m a.s.l. Eaves et al. (2016) estimated the ELA of the LGM glacier in the MPO catchment as ca. 1400– 1550 m a.s.l., using the accumulation area ratio (AAR) and maximum elevation of lateral moraine (MELM) methods, which agrees well with the model simulation presented here (ca. 1510 m a.s.l., Table 3). This good agreement between model and manual reconstruction of glacier ELAs echoes previous similar findings (e.g. Kaplan et al., 2010; Doughty et al., 2013), demonstrating the utility of simple ELA reconstructions for efficient extraction of palaeoclimate data from moraine records.\nLowering of the regional ELA to 1500 m a.s.l. at the LGM is insufficient to promote widespread glaciation in the mountain ranges elsewhere in the North Island, as few other peaks exceed this elevation. The only other existing evidence for LGM glaciation in the North Island comes from the Tararua Range in the southern North Island, where the local pELA was estimated to be ca. 1100 m a.s.l. (Brook et al., 2005, 2008). This pELA reconstruction is considerably lower than our reconstruction and those from elsewhere in New Zealand (Porter, 1975; McCarthy et al., 2008; Golledge et al., 2012), which may represent topo-climatic controls on mass balance of this former cirque glacier, such as wind-driven snow accumulation. The absence of extant glaciers in the Tararua Range precludes robust spatial comparison of ELA depressions to the results presented here. Quantitative palaeotemperature estimates from the North Island have been made using fossil pollen assemblages and groundwater noble gas palaeothermometry, which also indicate LGM temperature depressions of 4–7 ◦C below present (McGlone and Topping, 1977; Sandiford et al., 2003; Wilmshurst et al., 2007; Newnham et al., 2013; Seltzer et al., 2015), which is consistent with our glacier model results.\nSeveral glacier-based assessments of LGM temperature have previously been made for the South Island, New Zealand, using a variety of different glacier models. Simulations of the entire Southern Alps ice field, using a degreeday model coupled to the Parallel Ice Sheet Model, indicate that the LGM was characterised by temperatures 6–6.5 ◦C colder than present, coupled with a reduction in precipitation of up to ca. 25 % (Golledge et al., 2012). It is notable that the best-estimate palaeotemperature scenarios did not achieve a good fit between modelled ice extent and the geological evidence in all catchments (Golledge et al., 2012, their Fig. 10b), which may also reflect some of the uncertainties discussed in Sect. 5.2 above. Using a different glacier model with higher grid resolution and a different representation of modern climate, Rowan et al. (2013) and Putnam et al. (2013a) achieve a good model fit in one region where Golledge et al. (2012) did not (e.g. Rakaia), despite using a similar temperature forcing (1T =−6.25 to −6.5 ◦C). Using the University of Maine Ice Sheet Model, Putnam et al.\nClim. Past, 12, 943–960, 2016 www.clim-past.net/12/943/2016/\n(2013b) find that a cooling of 6.25± 0.5 ◦C (with no precipitation change) is required to generate an ice extent that matches well-dated moraines in the Lake Ohau catchment. When precipitation is reduced by 30 %, the required cooling increases to 6.9 ◦C. These studies have shown that, despite differences in boundary conditions and formulations for glacier flow, glacier model experiments consistently suggest peak stadial air temperatures during the LGM were 6–7 ◦C cooler in the Southern Alps, which is in good agreement with our estimates from the central North Island."
+  }, {
+    "heading": "6 Conclusions",
+    "text": "Simulations of nine glaciers in the central North Island, New Zealand, using a 2-D, coupled energy balance–ice flow model, suggest that local air temperatures were depressed by 4–7 ◦C relative to present during the Last Glacial Maximum. The spread of temperature estimates between catchments primarily reflects uncertainties in dating and model parameters; however, the weight of evidence afforded by our multi-catchment study provides a best estimate LGM temperature depression of 5.1–6.3 ◦C below present. A decrease in precipitation (as suggested by proxy evidence and climate models) of up to 25 % from present increases the magnitude of the required temperature changes by up to ca. 0.8 ◦C.\nAccounting for volcanically induced, post-glacial topographic change generally decreases the elevation of the glacier bed elevation, which increases the magnitude of cooling required to simulate the former ice limits. The imposed topographic changes do not result in altered glacial drainage patterns, although the difficulty in reconstructing pre-erosional topographies makes it hard to fully assess this possibility. The impact of topographic change on the palaeotemperature reconstructions is variable between catchments, with changes on the order of 0.1–0.5 ◦C, relative to the simulations with present-day land surface.\nOverall, our palaeoclimatic reconstructions are in good agreement with proximal temperature reconstructions from pollen (Newnham et al., 2013) and groundwater (Seltzer et al., 2015), as well as several similar model-based estimates from glacial records in the central Southern Alps (Golledge et al., 2012; Putnam et al., 2013b; Rowan et al., 2013). This growing body of evidence indicates that air temperatures across New Zealand were depressed by ca. 6 ◦C relative to present during the Last Glacial Maximum.\nAcknowledgements. S. R. Eaves was supported by the Victoria University Doctoral Scholarship, a VUW Faculty Strategic Research Grant, and the Antarctic Research Centre Endowed Development Fund.\nEdited by: A. Lorrey"
+  }],
+  "year": 2016,
+  "references": [{
+    "title": "Temperature change is the major driver of late-glacial and Holocene glacier fluctuations in New Zealand, Geology",
+    "authors": ["B. Anderson", "A. Mackintosh"],
+    "year": 2006
+  }, {
+    "title": "Controls on mass balance sensitivity of maritime glaciers in the Southern Alps, New Zealand: The role of debris cover",
+    "authors": ["B. Anderson", "A. Mackintosh"],
+    "venue": "J. Geophys. Res.-Earth,",
+    "year": 2011
+  }, {
+    "title": "Climate sensitivity of a high-precipitation glacier in New Zealand",
+    "authors": ["B. Anderson", "A. Mackintosh", "D. Stumm", "L. George", "T. Kerr", "A. Winter Billington", "S. Fitzsimons"],
+    "venue": "J. Glaciol.,",
+    "year": 2010
+  }, {
+    "title": "Modeled response of debris-covered and lake-calving glaciers to warming, Southern Alps, New Zealand, in preparation, 2016",
+    "authors": ["B.A. Anderson", "A.N. Mackintosh", "J. Oerlemans", "B. Mullan", "C. Zammit", "A. Sood"],
+    "year": 2016
+  }, {
+    "title": "Quaternary glaciers of New Zealand, in: Developments in Quaternary",
+    "authors": ["D.J.A. Barrell"],
+    "venue": "Elsevier, Amsterdam, the Netherlands,",
+    "year": 2011
+  }, {
+    "title": "A composite pollen-based stratotype for inter-regional evaluation of climatic events in New Zealand over the past 30 000 years (NZ-INTIMATE project)",
+    "authors": ["D.J.A. Barrell", "P.C. Almond", "M.J. Vandergoes", "D.J. Lowe", "R.M. Newnham"],
+    "venue": "Quaternary Sci. Rev.,",
+    "year": 2013
+  }, {
+    "title": "Persistence of full glacial conditions in the central Pacific until 15 000 years",
+    "authors": ["Blard", "P.-H", "J. Lavé", "R. Pik", "P. Wagnon", "D. Bourlès"],
+    "venue": "ago, Nature,",
+    "year": 2007
+  }, {
+    "title": "Valley cross-profile morphology and glaciation in Park Valley, Tararua Range",
+    "authors": ["M.S. Brook", "H.L. Purdie", "T.V. Crow"],
+    "venue": "New Zealand, J. Roy. Soc. New Zealand,",
+    "year": 2005
+  }, {
+    "title": "First cosmogenic 10Be constraints on LGM glaciation on New Zealand’s North Island: Park Valley, Tararua Range",
+    "authors": ["M.S. Brook", "J. Shulmeister", "T.V.H. Crow", "A. Zondervan"],
+    "venue": "J. Quaternary Sci.,",
+    "year": 2008
+  }, {
+    "title": "Cyclic processes and factors leading to phreatic eruption events: Insights from the 25 September 2007 eruption through Ruapehu Crater Lake, New Zealand",
+    "authors": ["B. Christenson", "A. Reyes", "R. Young", "A. Moebis", "S. Sherburn", "J. Cole-Baker", "K. Britten"],
+    "venue": "J. Volcanol. Geoth. Res.,",
+    "year": 2010
+  }, {
+    "title": "Radar imaging of glaciovolcanic stratigraphy, Mount Wrangell caldera, Alaska: interpretation model and results",
+    "authors": ["G.K. Clarke", "G.M. Cross", "C.S. Benson"],
+    "venue": "J. Geophys. Res.-Ea.,",
+    "year": 1989
+  }, {
+    "title": "Andesites of the Tongariro Volcanic Centre, North Island, New Zealand",
+    "authors": ["J.W. Cole"],
+    "venue": "J. Volcanol. Geoth. Res.,",
+    "year": 1978
+  }, {
+    "title": "A free, fully accessible 15-m DEM for New Zealand",
+    "authors": ["J. Columbus", "P. Sirguey", "R. Tenzer"],
+    "venue": "Survey Quarterly,",
+    "year": 2011
+  }, {
+    "title": "Lava-ice interaction on a large composite volcano: a case study from Ruapehu",
+    "authors": ["C. Conway", "D. Townsend", "G. Leonard", "C. Wilson", "A. Calvert", "J. Gamble"],
+    "venue": "New Zealand, B. Volcanol.,",
+    "year": 2015
+  }, {
+    "title": "A high-resolution 40Ar/39Ar lava chronology and edifice construction history for Ruapehu volcano, New Zealand",
+    "authors": ["C.E. Conway", "G.S. Leonard", "D.B. Townsend", "A. Calvert", "C.J.N. Wilson", "J. Gamble", "S.R. Eaves"],
+    "venue": "Journal of Volcanology and Geothermal Research, in review,",
+    "year": 2016
+  }, {
+    "title": "Vectorial algebra algorithms for calculating terrain parameters from DEMs and solar radiation modelling in mountainous terrain",
+    "authors": ["J.G. Corripio"],
+    "venue": "International Journal of Geographical Information Science,",
+    "year": 2003
+  }, {
+    "title": "A late quaternary stratigraphic framework for the northeastern Ruapehu and eastern Tongariro ring plains, New Zealand, New Zeal",
+    "authors": ["S.J. Cronin", "V.E. Neall"],
+    "venue": "J. Geol. Geop.,",
+    "year": 1997
+  }, {
+    "title": "The physics of glaciers, ButterworthHeinemann/Elsevier",
+    "authors": ["K. Cuffey", "W. Paterson"],
+    "venue": "Burlington, USA,",
+    "year": 2010
+  }, {
+    "title": "The volcanic history of Ruapehu during the past 2 millennia based on the record of Tufa",
+    "authors": ["S. Donoghue", "V. Neall", "A. Palmer", "R. Stewart"],
+    "venue": "Trig tephras, B. Volcanol.,",
+    "year": 1997
+  }, {
+    "title": "A simulation of New Zealand’s climate during the Last Glacial Maximum",
+    "authors": ["F. Drost", "J. Renwick", "B. Bhaskaran", "H. Oliver", "J. McGregor"],
+    "venue": "Quaternary Sci. Rev.,",
+    "year": 2007
+  }, {
+    "title": "The glacial history of Tongariro and Ruapehu volcanoes, New Zealand, PhD thesis, Victoria",
+    "authors": ["S.R. Eaves"],
+    "year": 2015
+  }, {
+    "title": "A test of the cosmogenic 3He production rate in the south west Pacific",
+    "authors": ["S.R. Eaves", "G. Winckler", "J.M. Schaefer", "M.J. Vandergoes", "B.V. Alloway", "A.N. Mackintosh", "D.B. Townsend", "M.T. Ryan", "X. Li"],
+    "venue": "J. Quaternary Sci.,",
+    "year": 2015
+  }, {
+    "title": "A cosmogenic 3He chronology of glacier fluctuations in North Island, New Zealand (39§) during the last glacial cycle",
+    "authors": ["S.R. Eaves", "A.N. Mackintosh", "G. Winckler", "J.M. Schaefer", "B.V. Alloway", "D.B. Townsend"],
+    "venue": "Quaternary Sci. Rev.,",
+    "year": 2016
+  }, {
+    "title": "40Ar/39Ar geochronology of magmatic activity, magma flux and hazards at Ruapehu volcano, Taupo Volcanic Zone, New Zealand",
+    "authors": ["J.A. Gamble", "R.C. Price", "I.E. Smith", "W.C. McIntosh", "N.W. Dunbar"],
+    "venue": "J. Volcanol. Geoth. Res.,",
+    "year": 2003
+  }, {
+    "title": "Last Glacial Maximum climate in New Zealand inferred from a modelled Southern Alps icefield",
+    "authors": ["N.R. Golledge", "A.N. Mackintosh", "B.M. Anderson", "K.M. Buckley", "A.M. Doughty", "D.J.A. Barrell", "G.H. Denton", "M.J. Vandergoes", "B.G. Andersen", "J.M. Schaefer"],
+    "venue": "Quaternary Sci. Rev.,",
+    "year": 2012
+  }, {
+    "title": "Ice– volcano interaction of the 1996 Gjálp subglacial eruption, Vatnajökull",
+    "authors": ["M.T. Gudmundsson", "F. Sigmundsson", "H. Björnsson"],
+    "venue": "Iceland, Nature,",
+    "year": 1997
+  }, {
+    "title": "A facies model for a quaternary andesitic composite volcano: Ruapehu",
+    "authors": ["W.R. Hackett", "B.F. Houghton"],
+    "venue": "New Zealand, B. Volcanol.,",
+    "year": 1989
+  }, {
+    "title": "Can the Last Glacial Maximum constrain climate sensitivity",
+    "authors": ["J.C. Hargreaves", "J.D. Annan", "M. Yoshimori", "A. Abe Ouchi"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2012
+  }, {
+    "title": "The potential impact of climate change on seasonal snow in New Zealand: part II – industry vulnerability and future snowmaking potential",
+    "authors": ["J. Hendrikx", "E. Hreinsson"],
+    "venue": "Theor. Appl. Climatol.,",
+    "year": 2012
+  }, {
+    "title": "Use of a weather buoy to derive improved heat and mass balance parameters forRuapehu",
+    "authors": ["T. Hirst", "B. Christenson", "J. Cole-Baker"],
+    "venue": "Crater Lake, J. Volcanol. Geoth. Res.,",
+    "year": 2012
+  }, {
+    "title": "Growth of the Tongariro volcanic complex: New evidence from K-Ar age determinations, New Zeal",
+    "authors": ["B.J. Hobden", "B.F. Houghton", "M.A. Lanphere", "I.A. Nairn"],
+    "venue": "J. Geol. Geop.,",
+    "year": 1996
+  }, {
+    "title": "Volcanic hazard assessment for Ruapehu composite volcano, Taupo volcanic zone",
+    "authors": ["B. Houghton", "J. Latter", "W. Hackett"],
+    "venue": "New Zealand, B. Volcanol.,",
+    "year": 1987
+  }, {
+    "title": "Theoretical glaciology: material science of ice and the mechanics of glaciers and ice sheets, Reidel",
+    "authors": ["K. Hutter"],
+    "venue": "Hingham, Massachusetts,",
+    "year": 1983
+  }, {
+    "title": "Integrated summer insolation calculations, NOAA/NCDC Paleoclimatology Program, Data Contribution Series",
+    "authors": ["P. Huybers", "A. Eisenman"],
+    "year": 2006
+  }, {
+    "title": "Glacier retreat in New Zealand during the Younger Dryas stadial",
+    "authors": ["M.R. Kaplan", "J.M. Schaefer", "G.H. Denton", "D.J.A. Barrell", "T.J.H. Chinn", "A.E. Putnam", "B.G. Andersen", "R.C. Finkel", "R. Schwartz", "A.M. Doughty"],
+    "venue": "Nature, 467,",
+    "year": 2010
+  }, {
+    "title": "Modeling topographic and climatic control of east-west asymmetry in Sierra Nevada glacier length during the Last Glacial Maximum",
+    "authors": ["M.A. Kessler", "R.S. Anderson", "G.M. Stock"],
+    "venue": "J. Geophys. Res.-Earth,",
+    "year": 2005
+  }, {
+    "title": "Survey of the glaciers on Mt. Ruapehu, Tongariro National Park - A baseline for detecting effects of climate change",
+    "authors": ["H. Keys"],
+    "venue": "Tech. Rep. Science and Research Internal Report No.24,",
+    "year": 1988
+  }, {
+    "title": "Timing and significance of mid-Holocene glacier advances in Northern and Central Iceland",
+    "authors": ["M.P. Kirkbride", "A.J. Dugmore"],
+    "venue": "J. Quaternary Sci.,",
+    "year": 2001
+  }, {
+    "title": "Glaciological response to distal tephra fallout from the 1947 eruption of Hekla, south Iceland",
+    "authors": ["M.P. Kirkbride", "A.J. Dugmore"],
+    "venue": "J. Glaciol.,",
+    "year": 2003
+  }, {
+    "title": "Model study of the spatial distribution of the energy and mass balance of Morteratschgletscher, Switzerland",
+    "authors": ["E. Klok", "J. Oerlemans"],
+    "venue": "J. Glaciol.,",
+    "year": 2002
+  }, {
+    "title": "Changes in the glaciers of Mt Ruapehu in 1955, New Zeal",
+    "authors": ["L. Krenek"],
+    "venue": "J. Geol. Geop.,",
+    "year": 1959
+  }, {
+    "title": "The mass balance of very small glaciers",
+    "authors": ["M. Kuhn"],
+    "venue": "Zeitschrift für Gletscherkunde und Glazialgeologie,",
+    "year": 1995
+  }, {
+    "title": "Glacier flow modelling: a comparison of the Shallow Ice Approximation and the full-Stokes solution, C",
+    "authors": ["E. Le Meur", "O. Gagliardini", "T. Zwinger", "J. Ruokolainen"],
+    "venue": "R. Phys.,",
+    "year": 2004
+  }, {
+    "title": "On estimating length fluctuations of glaciers caused by changes in climatic forcing",
+    "authors": ["G. Leysinger Vieli", "G. Gudmundsson"],
+    "venue": "J. Geophys. Res.-Earth,",
+    "year": 2003
+  }, {
+    "title": "Glacial and volcanic history of Icelandic table mountains from cosmogenic 3He exposure",
+    "authors": ["J.M. Licciardi", "M.D. Kurz", "J.M. Curtice"],
+    "venue": "ages, Quaternary Sci. Rev.,",
+    "year": 2007
+  }, {
+    "title": "A snow-transport model for complex terrain",
+    "authors": ["G.E. Liston", "M. Sturm"],
+    "venue": "J. Glaciol.,",
+    "year": 1998
+  }, {
+    "title": "Palaeocirculation across New Zealand during the last glacial maximum at 21 ka",
+    "authors": ["A.M. Lorrey", "M. Vandergoes", "P. Almond", "J. Renwick", "T. Stephens", "H. Bostock", "A. Mackintosh", "R.M. Newnham", "P.W. Williams", "D. Ackerley", "H. Neil", "A.M. Fowler"],
+    "venue": "Quaternary Sci. Rev.,",
+    "year": 2012
+  }, {
+    "title": "Holocene climatic changes in Iceland: evidence from modelling glacier length fluctuations at Sólheimajökull",
+    "authors": ["A.N. Mackintosh", "A.J. Dugmore", "A.L. Hubbard"],
+    "venue": "Quatern. Int.,",
+    "year": 2002
+  }, {
+    "title": "A contribution to the geology of the Mount Tongariro massif, North Island, New Zealand, New Zeal",
+    "authors": ["W.H. Mathews"],
+    "venue": "J. Geol. Geop.,",
+    "year": 1967
+  }, {
+    "title": "Late Quaternary glaciation of Mt Ruapehu, North Island, New Zealand",
+    "authors": ["J.L. McArthur", "M.J. Shepherd"],
+    "venue": "J. Roy. Soc. New Zeal.,",
+    "year": 1990
+  }, {
+    "title": "Mountain glacier chronology from Boulder Lake, New Zealand, indicates MIS 4 and MIS 2 ice advances of similar extent, Arct",
+    "authors": ["A. McCarthy", "A. Mackintosh", "U. Rieser", "D. Fink"],
+    "venue": "Antarct. Alp. Res.,",
+    "year": 2008
+  }, {
+    "title": "Was a dacite dome implicated in the 9 500 BP collapse of Mt Ruapehu? A palaeomagnetic investigation",
+    "authors": ["E. McClelland", "P.S. Erwin"],
+    "venue": "B. Volcanol.,",
+    "year": 2003
+  }, {
+    "title": "Aranuian (post-glacial) pollen diagrams from the Tongariro region, North Island, New Zealand, New Zeal",
+    "authors": ["M. McGlone", "W. Topping"],
+    "venue": "J. Bot.,",
+    "year": 1977
+  }, {
+    "title": "The influence of sub-glacial bed evolution on ice extent: A model-based evaluation of the Last Glacial Maximum Pukaki glacier, New Zealand",
+    "authors": ["K.A. McKinnon", "A.N. Mackintosh", "B.M. Anderson", "D.J.A. Barrell"],
+    "venue": "Quaternary Sci. Rev.,",
+    "year": 2012
+  }, {
+    "title": "Significance of snowblow in the generation of Loch Lomond Stadial (Younger Dryas) glaciers in the western Pennines, northern England, J",
+    "authors": ["W.A. Mitchell"],
+    "venue": "Quaternary Sci.,",
+    "year": 1996
+  }, {
+    "title": "Unravelling a complex volcanic history from fine-grained, intricate Holocene ash sequences at the Tongariro Volcanic Centre, New Zealand, Quatern",
+    "authors": ["A. Moebis", "S.J. Cronin", "V.E. Neall", "I.E. Smith"],
+    "year": 2011
+  }, {
+    "title": "Vegetation and climate of Auckland, New Zealand, since ca. 32 000 cal. yr ago: Support for an extended LGM",
+    "authors": ["R.M. Newnham", "D.J. Lowe", "T. Giles", "B.V. Alloway"],
+    "venue": "J. Quaternary Sci.,",
+    "year": 2007
+  }, {
+    "title": "The vegetation cover of New Zealand at the Last Glacial Maximum",
+    "authors": ["R.M. Newnham", "M. McGlone", "N. Moar", "J. Wilmshurst", "M. Vandergoes"],
+    "venue": "Quaternary Sci. Rev.,",
+    "year": 2013
+  }, {
+    "title": "A multivariate technique for estimating New Zealand temperature normals",
+    "authors": ["D.A. Norton"],
+    "venue": "Weather and Climate,",
+    "year": 1985
+  }, {
+    "title": "Climate sensitivity of glaciers in southern Norway: application of an energy-balance model to Nigardsbreen, Hellstugubreen and Alfotbreen",
+    "authors": ["J. Oerlemans"],
+    "venue": "J. Glaciol.,",
+    "year": 1992
+  }, {
+    "title": "Climate sensitivity of Franz Josef Glacier, New Zealand, as revealed by numerical modeling, Arctic",
+    "authors": ["J. Oerlemans"],
+    "venue": "Alpine Res.,",
+    "year": 1997
+  }, {
+    "title": "Latest pleistocene and holocene glacier fluctuations on Mount Baker, Washington",
+    "authors": ["G. Osborn", "B. Menounos", "C. Ryane", "J. Riedel", "J.J. Clague", "J. Koch", "D. Clark", "K. Scott", "P.T. Davis"],
+    "venue": "Quaternary Sci. Rev.,",
+    "year": 2012
+  }, {
+    "title": "Ice melting under a thin layer of moraine, and the existence of ice cores in moraine ridges",
+    "authors": ["G. Östrem"],
+    "venue": "Geogr. Ann.,",
+    "year": 1959
+  }, {
+    "title": "The Murimotu Formation - 9500 year old deposits of a debris avalanche and associated lahars, Mount Ruapehu, North Island, New Zealand, New Zeal",
+    "authors": ["B. Palmer", "V. Neall"],
+    "venue": "J. Geol. Geop.,",
+    "year": 1989
+  }, {
+    "title": "The Physics of Glaciers, Elsevier, Oxford, New York, USA and Tokyo, Japan",
+    "authors": ["W.S.B. Paterson"],
+    "year": 1994
+  }, {
+    "title": "Glaciers and Climate Change, Mount Ruapehu, New Zealand, Master’s thesis, Victoria University of Wellington",
+    "authors": ["T. Paulin"],
+    "venue": "New Zealand,",
+    "year": 2008
+  }, {
+    "title": "A 2-D numerical model of snow/ice energy balance and ice flow for paleoclimatic interpretation of glacial geomorphic features",
+    "authors": ["M.A. Plummer", "F.M. Phillips"],
+    "venue": "Quaternary Sci. Rev.,",
+    "year": 2003
+  }, {
+    "title": "Equilibrium-line altitudes of late Quaternary glaciers in the Southern Alps, New Zealand",
+    "authors": ["S.C. Porter"],
+    "venue": "Quaternary Res.,",
+    "year": 1975
+  }, {
+    "title": "The anatomy of an Andesite volcano: a time–stratigraphic study of andesite petrogenesis and crustal evolution at Ruapehu Volcano",
+    "authors": ["R.C. Price", "J.A. Gamble", "I.E. Smith", "R. Maas", "T. Waight", "R.B. Stewart", "J. Woodhead"],
+    "venue": "New Zealand, J. Petrol.,",
+    "year": 2012
+  }, {
+    "title": "Plateau icefields as contributing areas to valley glaciers and the potential impact on reconstructed ELAs: a case study from the Lyngen Alps",
+    "authors": ["B.R. Rea", "W.B. Whalley", "T.S. Dixon", "J.E. Gordon"],
+    "venue": "North Norway, Ann. Glaciol.,",
+    "year": 1999
+  }, {
+    "title": "Ablation of debris-covered ice: some effects of the 25 September 2007",
+    "authors": ["J.M. Richardson", "M.S. Brook"],
+    "venue": "Mt Ruapehu eruption, J. Roy. Soc. of New Zeal.,",
+    "year": 2010
+  }, {
+    "title": "Recent glacier variations on active ice capped volcanoes in the Southern Volcanic Zone (37–46 S)",
+    "authors": ["A. Rivera", "F. Bown"],
+    "venue": "Chilean Andes, J. S. Am. Earth Sci.,",
+    "year": 2013
+  }, {
+    "title": "Glacier responses to recent volcanic activity in Southern Chile, Environ",
+    "authors": ["A. Rivera", "F. Bown", "D. Carrión", "P. Zenteno"],
+    "venue": "Res. Lett.,",
+    "year": 2012
+  }, {
+    "title": "The Southern Westerlies during the last glacial maximum in PMIP2 simulations",
+    "authors": ["M. Rojas", "P. Moreno", "M. Kageyama", "M. Crucifix", "C. Hewitt", "A. Abe Ouchi", "R. Ohgaito", "E.C. Brady", "P. Hope"],
+    "venue": "Clim. Dynam.,",
+    "year": 2009
+  }, {
+    "title": "Drainage capture and discharge variations driven by glaciation in the Southern Alps",
+    "authors": ["A.V. Rowan", "M.A. Plummer", "S.H. Brocklehurst", "M.A. Jones", "D.M. Schultz"],
+    "venue": "New Zealand, Geology,",
+    "year": 2013
+  }, {
+    "title": "Late Quaternary glacier sensitivity to temperature and precipitation distribution in the Southern Alps of New Zealand",
+    "authors": ["A.V. Rowan", "S.H. Brocklehurst", "D.M. Schultz", "M.A. Plummer", "L.S. Anderson", "N.F. Glasser"],
+    "venue": "J. Geophys. Res.-Earth,",
+    "year": 2014
+  }, {
+    "title": "A 28 000–7600 cal yr BP pollen record of vegetation and climate change from Pukaki Crater, northern New Zealand, Palaeogeogr",
+    "authors": ["A. Sandiford", "R.M. Newnham", "B.V. Alloway", "J. Ogden"],
+    "venue": "Palaeoecol., 201,",
+    "year": 2003
+  }, {
+    "title": "Near-synchronous interhemispheric termination of the Last Glacial",
+    "authors": ["J.M. Schaefer", "G.H. Denton", "D.J.A. Barrell", "S. Ivy Ochs", "P.W. Kubik", "B.G. Andersen", "F.M. Phillips", "T.V. Lowell", "C. Schlüchter"],
+    "venue": "Maximum in mid-latitudes,",
+    "year": 2006
+  }, {
+    "title": "The Southern Glacial Maximum 65 000 years ago and its unfinished termination",
+    "authors": ["J.M. Schaefer", "A.E. Putnam", "G.H. Denton", "M.R. Kaplan", "S. Birkel", "A.M. Doughty", "S. Kelley", "D.J. Barrell", "R.C. Finkel", "G Winckler"],
+    "venue": "Quaternary Sci. Rev.,",
+    "year": 2015
+  }, {
+    "title": "Climate sensitivity estimated from temperature reconstructions of the Last",
+    "authors": ["A. Schmittner", "N.M. Urban", "J.D. Shakun", "N.M. Mahowald", "P.U. Clark", "P.J. Bartlein", "A.C. Mix", "A. Rosell Melé"],
+    "venue": "Glacial Maximum,",
+    "year": 2011
+  }, {
+    "title": "Mean annual temperature in New Zealand during the last glacial maximum derived from dissolved noble gases in groundwater",
+    "authors": ["A.M. Seltzer", "M. Stute", "U. Morgernstern", "M.K. Stewart", "J.M. Schaefer"],
+    "venue": "Earth Planet. Sci. Lett.,",
+    "year": 2015
+  }, {
+    "title": "The geochronology and petrogenesis of the Cenovoic",
+    "authors": ["J. J"],
+    "year": 2012
+  }, {
+    "title": "Evaluation of interpolated daily tempera",
+    "authors": ["A. Tait", "G. Macara"],
+    "venue": "Australian National University,",
+    "year": 1968
+  }, {
+    "title": "Thin plate",
+    "authors": ["R. Henderson", "R. Turner", "X. Zheng"],
+    "venue": "Climate,",
+    "year": 2014
+  }, {
+    "title": "Notes on the glaciation of Ruapehu",
+    "authors": ["G. Taylor"],
+    "year": 2006
+  }, {
+    "title": "Rhyolitic tephra marker beds",
+    "authors": ["Wellingtion", "New Zealand", "W.W. 1974. Topping", "B.P. Kohn"],
+    "year": 1974
+  }],
+  "id": "SP:cfccc8a9d72080060677ee3c10eef2f437c939f5",
+  "authors": [{
+    "name": "Shaun R. Eaves",
+    "affiliations": []
+  }, {
+    "name": "Andrew N. Mackintosh",
+    "affiliations": []
+  }, {
+    "name": "Brian M. Anderson",
+    "affiliations": []
+  }, {
+    "name": "Alice M. Doughty",
+    "affiliations": []
+  }, {
+    "name": "Dougal B. Townsend",
+    "affiliations": []
+  }, {
+    "name": "Chris E. Conway",
+    "affiliations": []
+  }, {
+    "name": "Gisela Winckler",
+    "affiliations": []
+  }, {
+    "name": "Joerg M. Schaefer",
+    "affiliations": []
+  }, {
+    "name": "Graham S. Leonard",
+    "affiliations": []
+  }, {
+    "name": "Andrew T. Calvert",
+    "affiliations": []
+  }],
+  "abstractText": "Quantitative palaeoclimate reconstructions provide data for evaluating the mechanisms of past, natural climate variability. Geometries of former mountain glaciers, constrained by moraine mapping, afford the opportunity to reconstruct palaeoclimate, due to the close relationship between ice extent and local climate. In this study, we present results from a series of experiments using a 2-D coupled energy balance–ice flow model that investigate the palaeoclimate significance of Last Glacial Maximum moraines within nine catchments in the central North Island, New Zealand. We find that the former ice limits can be simulated when present-day temperatures are reduced by between 4 and 7 C, if precipitation remains unchanged from present. The spread in the results between the nine catchments is likely to represent the combination of chronological and model uncertainties. The majority of catchments targeted require temperature decreases of 5.1 to 6.3 C to simulate the former glaciers, which represents our best estimate of the temperature anomaly in the central North Island, New Zealand, during the Last Glacial Maximum. A decrease in precipitation of up to 25 % from present, as suggested by proxy evidence and climate models, increases the magnitude of the required temperature changes by up to 0.8 C. Glacier model experiments using reconstructed topographies that exclude the volume of post-glacial (< 15 ka) volcanism generally increased the magnitude of cooling required to simulate the former ice limits by up to 0.5 C. Our palaeotemperature estimates expand the spatial coverage of proxy-based quantitative palaeoclimate reconstructions in New Zealand. Our results are also consistent with independent, proximal temperature reconstructions from fossil groundwater and pollen assemblages, as well as similar glacier modelling reconstructions from the central Southern Alps, which suggest air temperatures were ca. 6 C lower than present across New Zealand during the Last Glacial Maximum.",
+  "title": "The Last Glacial Maximum in the central North Island, New Zealand: palaeoclimate inferences from glacier modelling"
+}

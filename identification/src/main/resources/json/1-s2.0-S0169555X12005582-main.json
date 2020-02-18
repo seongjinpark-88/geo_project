@@ -1,0 +1,503 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nGeomorphology\nj ourna l homepage: www.e lsev ie r .com/ locate /geomorph\nAfter the lava flow: The importance of external soil sources for plant colonization of recent lava flows in the central Oregon Cascades, USA\nNatalia I. Deligne a,⁎, Katharine V. Cashman a,b, Joshua J. Roering a\na Department of Geological Sciences, 1272 University of Oregon, Eugene, OR 97403-1272, USA b Department of Earth Sciences, University of Bristol, Wills Memorial Building, Queen's Road, Clifton, Bristol, BS8 1RJ, UK\nAbbreviations: DBH, diameter at breast height; DHC, western red cedar forest; LiDAR, Light Detection and Ra ⁎ Corresponding author at: GNS Science, PO Box 30368, Tel.: +64 4 570 4129; fax: +64 4 570 4600. E-mail address: N.Deligne@gns.cri.nz (N.I. Deligne).\n0169-555X/$ – see front matter © 2012 Elsevier B.V. Al http://dx.doi.org/10.1016/j.geomorph.2012.12.009\na b s t r a c t a r t i c l e i n f o\nArticle history: Accepted 6 December 2012 Available online 13 December 2012\nKeywords: Lava flows Soil development Plant colonization External soil sources Holocene Oregon Cascades\nEffusive volcanic eruptions repave landscapes rapidly with lava flows, resetting broad areas of the underlying landscape and ecosystem. The unique physical properties of lava pose interesting challenges for ecologic recovery, as lava is dense, sterile, and generally inhospitable towards life. In this study we examine two sites of recent volcanism in the central Oregon Cascades, notable for the juxtaposition of barren exposed lava and mature forests on lava flows of the same or roughly the same age. We use a combination of LiDAR analyses, field observations, and soil characterization to examine soil and vegetation at these two sites, and find that the presence of an external sediment or soil source, particularly flood-borne deposits or syn- or posteruptive tephra, greatly facilitates plant establishment, growth, and survival. The nature of the external sources of sediment or soil dictates the geographic extent of forests on these young lava flows: flood-borne deposits cover localized regions near river channels, while tephra can cover large regions. In general, our results suggest that external sources of soil provide a substrate for plants to grow in along with key nutrients and sufficient moisture retention. We conclude that external sources of soil source are key for the initial recovery following an effusive volcanic disturbance, in particular in temperate climates. Thus, unrelated geomorphic processes, such as past glaciations that provide local sources of mobile sediments, or concurrent volcanic processes, such as tephra production, dictate the presence or absence of forests on young lava flows.\n© 2012 Elsevier B.V. All rights reserved."
+  }, {
+    "heading": "1. Introduction",
+    "text": "Effusive volcanic eruptions repave landscapes rapidly with lava flows, covering large regions with massive yet highly permeable rock that is inhospitable to life. These disturbances reset the underlying landscape and ecosystem. Moreover, ecosystem recovery is challenging, as fresh lava is sterile and generally quite hard and dense. In other words, fresh lava contains no biological macro- or microfauna or flora that enhance weathering, is challenging to mechanically weather, and has comparatively little surface area for weathering fronts. However, with time, soil, life, and water eventually reclaim the new surface. Traditional pedologic treatment of soil formation assumes that soil is formed in place from the physical and chemical breakdown of rock (e.g., Jenny, 1941) while many plant succession studies examine plant establishment and survival on new surfaces considering nutrient availability but with little consideration of the physical properties of the underlying substrate (e.g., Bazzaz, 1979; Huston and Smith, 1987). Here we will challenge both of these approaches by demonstrating that very young lava flows often host\nDouglas-fir–western hemlock– nging. Lower Hutt 5040, New Zealand.\nl rights reserved.\nsoil that is externally derived and that plant colonization is favored in areas with this externally derived soil.\nMost post-emplacement environmental studies of lava flows focus solely on soil development processes (e.g., Wells et al., 1985; Chadwick et al., 1999; Rasmussen et al., 2010). The majority of such studies focus on Hawaii because of the abundance of mapped and dated lava flows that traverse extensive elevation and climatic gradients, and therefore provide excellent chrono- and climatic sequences (e.g., Chadwick et al., 1999; Kurtz et al., 2001; Chadwick et al., 2003; Porder et al., 2007). In Hawaii soil development is positively correlated with age, and soil development rates increase with increased precipitation and temperature (Chadwick et al., 2003). External soil and nutrient sources appear to be important factors in soil formation: Asian loess accounts for a substantial fraction of Hawaiian soil (up to 25%; Kurtz et al., 2001; Porder et al., 2007) and is an important source of phosphorous (Chadwick et al., 1999), while marine aerosols provide a steady input of calcium (Chadwick et al., 1999); both phosphorous and calcium are key soil nutrients. At Craters of the Moon in Idaho, USA, loess and debris from nearby trees are a key components of soil (Vaughan and McDaniel, 2009; Vaughan et al., 2011). Although some studies discount external factors (e.g., Rasmussen et al., 2010), there is growing recognition among soil scientists that loess and other external soil and nutrient sources play an important role in soil development on lava flows (e.g., Wells et al., 1985; Chadwick\net al., 1999; Vaughan and McDaniel, 2009; Ferrier et al., 2011; Vaughan et al., 2011).\nAlthough lava is by far the most common substrate in most regions of active volcanism, there have been many more studies of plant colonization and species succession on explosive volcanic deposits (e.g., Hansen, 1942; Taylor, 1957; Clarkson, 1990; Halpern et al., 1990; Whittaker et al., 1992; del Moral and Wood, 1993; Grishin et al., 1996; Tsuyuzaki and Hase, 2005; Lindig-Cisnerosa et al., 2006; Marler and del Moral, 2011) than on lava flows (Roach, 1952; Drake, 1992; Drake and Mueller-Dombois, 1993; Kitayama et al., 1995; Aplet et al., 1998; Cutler et al., 2008). Of the latter, the vast majority are also concentrated in Hawaii using similar chronoand climatic sequences to those of soil development studies. Plant colonization investigations relate ecological metrics, such as species diversity, individual species density, and individual plant characteristics (e.g., diameter at breast height, DBH), to controlling variables such as substrate age, precipitation, and temperature. Precipitation appears to be the dominant control on plant community composition (Aplet et al., 1998) and seed availability is not a limiting factor for plant establishment on lava flows (Drake, 1992). It has also been recognized that lava flows covered by volcanic ash tend to have bigger trees than lava flows without ash cover (Drake and Mueller-Dombois, 1993; Kitayama et al., 1995). Studies of the processes and mechanisms that initiate vegetation colonization of lava flows in non-tropical environments are limited (Rejmánek et al., 1982; Bernhardt, 1986; Fridriksson, 1987; Bashan et al., 2002) and generally comprise of an inventory of plants present on a specific lava flow or flow field.\nNumerous studies have examined basaltic landscape weathering rates by analyzing groundwater and river discharge chemistry (e.g., Louvat and Allègre, 1997; Aiuppa et al., 2000; Dessert et al., 2003; Das et al., 2005), and by quantifying the degree of weathering in both basaltic clasts of known ages (e.g., Eggleton et al., 1987; Navarre-Sitchler and Brantley, 2007) and basaltic clasts artificially weathered in laboratory settings (e.g., Oelkers and Gislason, 2001; Gislason and Oelkers, 2003). As compiled by Navarre-Sitchler and Brantley (2007), inferred watershed-scale weathering rates of basaltic landscapes range from 4 to 152 ton km−2 yr−1, and natural weathering-front-advance rates based on cations range from 0.006 to 362 mm3 mm−2 kyr−1. Available surface area drives overall weathering rates as weathering fronts propagate inward (Navarre-Sitchler and Brantley, 2007). These studies investigate the overall rate of basaltic rock dissolution and weathering, processes that we will argue are not drivers for soil and plant development immediately following lava flow emplacement.\nWithin the Cascade Range, the setting of our study, ecologic and soil development studies of volcanic material generally concern explosive, not effusive, volcanic deposits. For example, considerable work has focused on plant succession of the explosive 1980Mount St Helens eruption (e.g., Halpern et al., 1990; del Moral and Wood, 1993; Dale et al., 2005). Other studies have investigated plant succession of and species assemblage on Holocene lahars (volcanic mudflows) and rock avalanches in Lassen Volcanic National Park (e.g., Heath, 1967; Kroh et al., 2000, 2008). At these reworked volcanic deposits, the nature of the substrate appears to be the key for dictating species establishment, with finer grained deposits (e.g., a 1915 Lassen lahar) demonstrating greater capacity for plant establishment and survival than blocky deposits (e.g., a Lassen 1650 AD rock avalanche).\nIn this study we identify and examine the factors contributing to soil development and plant establishment and survival on very young lava flows in the temperate climate of the central Oregon Cascades. We will argue that external sediment sources, not in situ weathering, form soil over millennial timescales, and that while plants can grow on bare lava, plant establishment and growth is greatly enhanced in places where external sources have deposited a soil-like substrate on the lava. We will show that disparate processes can deliver soil to lava flows, notably floods and/or debris flows, syn-\nand post- (eruptive) explosive volcanic activity, and aeolian processes. Importantly, the geomorphic and geologic context of the region can thus dictate the presence or absence of soil and forests on lava flows. In the central Oregon Cascades, glacial activity has generated fine-grained mobile sediment (glacial till), transportable via glacial meltwater and glacial lake breakout floods, and explosive (often co-current) volcanism can likewise generate fine-grained material (tephra). Elsewhere, we hypothesize that the type of available fine-grained sediments will depend on the area's geomorphic and geologic context. As soil development and vegetation cover are commonly used as a geologic mapping tool to determine relative ages, understanding factors that lead to soil development and plant colonization of lava flows at a particular place will improve geologic understanding of landscape evolution."
+  }, {
+    "heading": "2. Study areas",
+    "text": "We examined vegetation and soil development at two sites with young lava flows in the central Oregon Cascades (Fig. 1): the Collier Cone lava flow and the southern Sand Mountain Volcanic Field (SMVF). These sites were selected because of the availability of high resolution (1 m) research grade Light Detection and Ranging (LiDAR) data and the apparent difference in external sediment sources, namely water-transported glacial sediments (Collier), and syn- or post-lava flow emplacement tephra air fall (SMVF). Both are located within the High Cascades, a region that has been volcanically active since the Pliocene and features a high density of Quaternary mafic volcanic centers (Sherrod et al., 2002; Hildreth, 2007). The region was extensively glaciated during the Pleistocene (Sherrod et al., 2004), and presently the dominant wind direction is from the west and southwest. The selected sites consist of young post-glacial Holocene lava flows, and detailed geologic maps and geochemical data are available for both. Unfortunately, detailed US Department of Agriculture (USDA) Natural Resources Conservation Service (NRCS) soil maps are unavailable, as both sites are within the Willamette National Forest, although existing Willamette National Forest Soil Inventory Map identifies most of both sites as “recent volcanic lava flows” (USDA, 2010). We focus on the portion of the study areas below 1300 m, which generally corresponds to a lowland temperate forest typical in the Pacific Northwest primarily consisting of Pseudotsugamenziesii (Douglas-fir), Tsuga heterophylla (western hemlock), and Thuja plicata (western red cedar; Franklin and Dyrness, 1992; Kilsgaard, 1999); we refer to this forest community as the DHC forest. In addition to LiDAR analyses, we conducted field surveys and characterized soil at both sites."
+  }, {
+    "heading": "2.1. Collier Cone lava flow",
+    "text": "Collier Cone is located on the north flank of North Sister volcano in the central Oregon Cascades (Fig. 2). The Collier Cone eruption occurred in 1511 (1354–1569) cal yr B.P. (Sherrod et al., 2004) and produced a scoria cone (elevation 2150 m), a tephra blanket to the northeast, and a ~10 km2 lava flow comprising of four units (Schick, 1994; Deardorff and Cashman, 2012; Mckay, 2012; Fig. 2A). The entire eruption probably lasted less than one year, and the lava flows are blocky basaltic andesite to andesite in composition (Schick, 1994; Deardorff and Cashman, 2012). Flows emerged from the base of the scoria cone to travel westward, traversing the High Cascades. Lava flow Units 1 and 2 descended into the White Branch glacial trough; the flow toe of the furthest traveled Unit 1 (elevation 900 m) is 1250 m lower than the Collier Cone vent. Across most of the lava flow field, primary flow features are obvious and the lava appears fresh with little evidence of physical or chemical weathering.\nA peculiarity of the Collier Cone lava flow is that despite its young age and extreme permeability characteristic of young lava flows (e.g., Jefferson et al., 2006), a bedrock channel, the White\nBranch Creek, has incised into the lower part of the lava flow (Fig. 2A). The White Branch channel starts at a glacial lake at the terminus of the retreating Collier Glacier adjacent to Collier Cone. The channel follows the southern margin of the Collier Cone lava flow until an elevation of ~1500 m, where it migrates onto the flow. The upper portion of the channel is normally dry; the White Branch is presently fed by Glacier Creek and snowmelt. Apart from brief periods of high snowmelt and/or rainfall, no water flows on the surface of the lava flow. However, evidence of catastrophic glacial outburst floods from Collier Glacier in historic and prehistoric times (O'Connor et al., 2001) suggests that for brief episodes, the White Branch has carried a heavy sediment load. Two areas within the Collier Cone lava flow appear to be localized areas of sediment deposition, as primary lava flow features are absent and the areas are quite smooth in bare earth (last return) LiDAR derived imagery (Fig. 2B). The higher elevation site (~1250 m), which we informally refer to as the upper flat, is situated within lava flow Unit 2, while the lower elevation site (~1050 m), which we informally refer to as the lower flat, is situated within lava flow Unit 1. Whereas the lower flat is mapped in the Willamette National Forest Soil Inventory as “recent volcanic lava flows” (map unit 4), the upper flat coincides with an area identified as recent lava flows with shallow, coarse-textured gravelly cobbly stony soil (map unit 62; USDA, 2010)."
+  }, {
+    "heading": "2.2. Sand Mountain Volcanic Field",
+    "text": "The SandMountain Volcanic Field (SMVF) is located roughly 25 km northwest of Collier Cone between and west of Mount Jefferson and Mount Washington (Fig. 3). It is part of the upper McKenzie River watershed and borders Clear Lake, the source of the McKenzie River. The SMVF consists of a chain of cinder cones and associated lava flows and tephra blankets, and the field was emplaced ~3 ka (Sherrod et al., 2004; Deligne, 2012). The local topography directed lava flows westwards (downhill), while wind deposited tephra to the northeast (downwind; Mckay, 2012).\nWe examined three lava flows in the southern SMVF, which we informally refer to as the Cold Water Cove, Clear Lake South, and Clear Lake East lava flows (Fig. 3), listed from oldest to youngest based on field relations (Deligne, 2012). These lava flows have\ndistinct chemical compositions and are distinguishable from each other in hand sample on the basis of petrographic texture and the size and concentration of olivine and plagioclase crystals (Deligne, 2012). The Clear Lake South lava flow dams the McKenzie River to form Clear Lake, and the Clear Lake East lava flow enters Clear Lake on its eastern shore. Clear Lake is notable for its drowned Douglas-fir forest (Stearns, 1929; Benson, 1965); the outer rings of two drowned trees rooted at 40 and 4 m depth have been 14C dated as 3000±73 cal yr B.P. (this study; reported to 2σ) and 2856± 92 cal yr B.P. (Licciardi et al., 1999; here recalibrated and reported to 2σ), respectively. The spatial relationship of the lava flows and Clear Lake suggests that the tree rooted at 40 m depth was drowned shortly after the emplacement of the Clear Lake South lava flow, while the tree rooted at 4 m depth drowned later shortly after the Clear Lake East lava flow entered Clear Lake (Deligne, 2012). A further age constraint for the younger Clear Lake East lava flow is provided by a 14C date of a charred root found at the base of the flow, dated to 2990±300 uncorr. yr B.P. (Champion, 1980). The Cold Water Cove, Clear Lake South, and Clear Lake East lava flows have indistinguishable paleomagnetic declinations, suggesting that they were emplaced within at most a few decades of each other (Deligne, 2012). In all, age constraints (see Table 1) indicate that less than a few decades separate the Cold Water Cove (oldest) and Clear Lake East (youngest) lava flows of the southern SMVF.\nTheWillametteNational Forest Soil InventoryMapmapsmost of the Clear Lake East flow as lava (map unit 4), the exception being a strip within the lava flow mapped as shallow, coarse-textured gravelly cobbly stony soil (map unit 62). The Clear Lake South and Cold Water Cove lava flows are mapped as a mixture of map unit 62 and coarse-textured gravelly soil on smooth to somewhat uneven glaciated lava flows (map unit 66; USDA, 2010). We note, however, that these lava flows are post-glacial and therefore un-glaciated."
+  }, {
+    "heading": "3. Methodology",
+    "text": ""
+  }, {
+    "heading": "3.1. LiDAR analyses",
+    "text": "We use 1 m gridded research grade LiDAR data of the Collier Cone region and the southern SMVF to construct a high resolution canopy\nmap by taking the difference between unfiltered (i.e., first return) and filtered (i.e., bare earth) elevations. We map the canopy heights using six classes (bare earth, ≤5.0 m, 5.1–10.0 m, 10.1–20.0 m, 20.1–\n30.0 m, and >30.0 m). We examine tree density by quantifying open space (i.e., bare earth exposure). Here we assume that areas with dense tree cover will have low concentrations of pixels whose\nunfiltered LiDAR value is equal to their filtered LiDAR value. For both LiDAR datasets, we calculate the “bare earth exposure value” of each pixel by constructing a window extending 20 m in each cardinal direction (total window size 41×41 m) and tallying the number of data points within the window where the unfiltered LiDAR value is equal to the filtered LiDAR value. Areas with high bare earth exposure values have sparse vegetation and conversely areas with low bare\nearth exposure values have dense vegetation.We arbitrarily designated dense,moderate, low, and sparse vegetation density as pixelswith≤10%, 11–50%, 51–89%, and ≥90% bare earth exposure values, respectively.\nOn the Collier Cone lava flow, we use canopy height trends and bare earth exposure to characterize the forest adjacent to the lava flow along with the forest (or lack of) on different parts of the lava flow. Within the SMVF, we compare canopy height trends and bare\nearth exposure on the Cold Water Cove, Clear Lake South, and Clear Lake East lava flows."
+  }, {
+    "heading": "3.2. Fieldwork",
+    "text": "We conducted field campaigns on the Collier Cone lava flow and in the southern SMVF, mapping soil depth and characterizing soil by hand digging soil pits and describing and sampling soil horizons. We determined soil depth using an auger (maximum augerable clast size ~3 cm), and used a handheld GPS to locate auger hole and soil pit locations (location error generally b10 m). Within soil pits, we identified horizons on the basis of color and textural differences and named horizons according to layer depth, with ‘a’ referring to the litter layer, ‘b’ the horizon immediately underneath, and so on; sample names do not reflect whether the horizon is an O, A, B, or C horizon but rather stratigraphic position.\nWe noted tree species and general forest characteristics during fieldwork, although we did not undertake a systematic tree survey. We also cored and aged several Douglas-fir trees with ~75 cm DBH growing on the lower flat of the Collier Cone lava flow using standard dendrochronologic methods (Phipps, 1985; Grissino-Mayer, 2001)."
+  }, {
+    "heading": "3.2.1. Collier Cone lava flow",
+    "text": "We conducted a systematic survey of soil depth across both the upper and lower flats of the Collier Cone lava flow; away from these two areas there is scant or no soil cover on the lava flow — bare lava is\nDense (≤ 10% exposure)\nModerate (11 - 50% exposure)\nLow (51\nVegetation density:\nSparse\n100\n80\n60\n40\n20\n0 % V\neg et\nat io\nn de\nns ity\nc ov\ner ag\ne\nExposed lava flow Lower flat\nUpper flat Adjacent forest\nA) Collier Cone lava flow (< 1300 m)\nexposed. Where feasible, we augered every 50 to 100 m in a grid pattern. In places, it was unclear if the base of the soil (i.e., the top of the underlying lava flow) was reached, generally due to difficulties in augering through coarse sediment. At these sites, a ‘>’ precedes the depth measurement.\nWe next hand-dug two soil pits in the lowerflat. Soil pit NID11-07CC is situated within 20 m of the White Branch at the eastern end of the lower flat just below a notable break in slope. Time andmanpower constraints precluded digging to the basal contact with the underlying lava flow. We sampled each exposed soil horizon, field-sieving samples to obtain the b2 mm fraction where the horizon included coarser material. Soil pit NID11-08CC is located in the northwest part of the lower flat away from the White Branch in a slightly protected area; a lava flow ridge is visible immediately southwest of the pit. We were able to extend this second pit to the base of the soil column, and sampled representative soil horizons."
+  }, {
+    "heading": "3.2.2. Sand Mountain Volcanic Field",
+    "text": "At the SMVF, we hand-dug soil pits on each of the three studied lava flows; in every case we reached the base of the soil (i.e., the top of the lava flow) and sampled every horizon below the litter layer. In the southern SMVF, the Cold Water Cove lava flow is the oldest lava flow. As a result it has been covered by subsequent flows and is presently exposed in only four areas (Fig. 3). We dug soil pits on three of the Cold Water Cove lava flow exposures, and dug an additional three soil pits on the Clear Lake South lava flow, one at an\n- 89% exposure)\n(≥ 90% exposure)\nClear Lake East\n(no strip)\nClear Lake East strip\nClear Lake South\nCold Water Cove\nB) SMVF\n100\n80\n60\n40\n20\n0\nisolated exposure on the eastern side of Clear Lake and two south of Clear Lake; one of the two southern sites (NID11-15MK) is within a topographically protected area. We dug a final soil pit on the Clear Lake East lava flow in a peculiar area with considerable fine-grained surface cover (mapped as shallow, coarse-textured gravelly cobbly stony soil in the Willamette National Forest Soil Inventory Map (USDA, 2010)). Apart from this area there is no soil cover on the Clear Lake East lava flow."
+  }, {
+    "heading": "3.3. Estimate of sediment volume in the Collier Cone lava flow flats",
+    "text": "We constructed a 10 m grid depth model of soil on both the upper and lower flats on the Collier Cone lava flow using the natural neighbor\ninterpolation method in ArcGIS. We estimated soil volume by integrating the soil depth model and rounding down to the nearest 1000 m3. Input data consisted of (1) auger measurements and (2) soil “depths” of 0 cm spaced on a 10 m grid in areas of exposed lava both within and surrounding the flats. The natural neighbor method uses Voronoi polygons to assign a value at a grid point based on area-weighted contribution of the nearest data points (Sibson, 1981). We selected this method because it (1) effectively deals with data that are not uniformly distributed, (2) does not create artificial peaks or troughs, and (3) assigns grid values based on the nearest data without having to assign a data input radius. Given that a considerable fraction of the depth measurement data is a lower estimate of depth, the volume estimates provide a lower bound for the actual values.\nr flats of the Collier Cone lava flow, underlain by a soil depth model for both areas; the e for both flats. Measurements where it is unlikely that the base of the soil column was\ns are indicated along with the location of a DBH 2.4 m Douglas-fir tree.\nTable 2 (continued)\nSoil pit Location Name Depth Horizon Field notes\nNID11-14MK Cold Water Cove E0580116, N4914170 Error: ±7 m\nA 0 to 5 cm Oi Litter layer B* 5 to 40 cm C Brown tephra C >40 cm R Cold Water Cove lava flow\nNID11-15MK Clear Lake South E0579896, N4910760 Error: ±7 m\nA 0 to 5 cm Oi Litter layer B** 5 to 26 cm C Brown tephra with cobbles of lava C >26 cm R Clear Lake South lava flow"
+  }, {
+    "heading": "3.4. Soil characterization",
+    "text": "We prepared soil samples according to standard procedure (Burt, 2009). We determined soil color for both field moist and dried samples using a Munsell soil color chart, and determined soil texture using the hydrometer method (Burt, 2009). We pre-treated three samples with hydrogen peroxide to remove organic matter, however, due to concerns that the pre-treatment would fragment fragile soil particles, we did not pre-treat additional samples. We determined organic content with loss on ignition (LOI) using standard procedures (Dean, 1974; Heiri et al., 2001). LOI analyses were conducted both at the University of Oregon (Collier Cone samples; reported values are the average of three measurements) and Washington State University at Pullman (SMVF samples).\nWe determined sample chemistry using X-ray fluorescence (XRF); we selected this method as geochemical data for the Collier Cone lava flow and the SMVF were acquired using this technique. We compared soil sample chemistry to available geochemical data for underlying lava flows and two samples of bulk SMVF tephra."
+  }, {
+    "heading": "4. Results",
+    "text": ""
+  }, {
+    "heading": "4.1. LiDAR analyses",
+    "text": "The Collier Cone lava flow LiDAR canopymap and bare earth exposure analysis (Figs. 2B and 4A) reveal that the c. 1.5 ka lava flow has shorter trees and less overall vegetation (i.e., greater bare earth exposure) than its surroundings. These trends are observed in both DHC forest regions that are the subject of this study as well as in higher elevation montane forests (not shown; Deligne, 2012). Notably, ~95% of the adjacent DHC forest consists of dense or moderate vegetation cover relative to ~51% for the lava flow. The two flats provide notable exceptions to the general trend; here tree height and vegetation density are similar to the adjacent DHC forest (Fig. 4A).\nIn the southern SMVF the DHC forest density on the ca. 3 ka Cold Water Cove and Clear Lake South lava flows is similar to a typical DHC forest. While we did not analyze the adjacent forest due to widespread logging (visible in Fig. 3B; there has been no logging on the studied lava flows), the forest on these two lava flows is similar to the adjacent forest at the Collier Cone site, with ~97% (Cold Water Cove) and ~94% (Clear Lake South) dense and moderate vegetation cover (Figs. 3B and 4B). In contrast, trees on the Clear Lake East lava flows are notably shorter and there is considerably more bare earth exposure, despite an age difference of only a few decades between this and older southern SMVF lava flows (Table 1). Interestingly, a linear strip of increased vegetation density is observable in the center of the Clear Lake East lava flows (Fig. 3B); aerial photographs (not shown) outside the LiDAR coverage shows that this strip extends towards the vent area."
+  }, {
+    "heading": "4.2. Collier Cone lava flow",
+    "text": "Field observations confirm that the forest assemblage on and adjacent to theCollier Cone lavaflow is characteristic of a DHC forest. In general, trees in the upper flat have smaller DBHs than those in the lower flat. Regions of downed trees, likely related to past windstorms, were\nfound in places in the upper flat. In the lower flat, numerous trees (generally Douglas-fir) have DBH>1 m; the maximum measured DBH was a 2.4 m diameter Douglas-fir tree (see Fig. 5B). Dendrochronological results yield a maximum age close to 300 years for DBH~75 cm Douglas-fir trees. In the lower flat, western red cedar is common near the surface expression of the White Branch and rare elsewhere. In general, the upper flat is dryer and has less undergrowth than the lower flat. In both locations, theWhite Branch Creek has clear surface expression, with an active channel bed and well-defined banks. Although the creek was dry at the time of the field campaigns, it carries surface water during times of heavy rain and/or snowmelt.\nAuger soil depth measurements of the upper (Fig. 5A) and lower (Fig. 5B) flats reveal that a considerable amount of material covers the 1.5 ka lava flow, with maximum soil depths of 188 and 318 cm, respectively. Moreover, it is unlikely that the base of the soil (i.e., the lava flow surface) was reached in numerous sites (indicated with ‘>’ before depth measurement in Fig. 5); at these sites the large grain size (gravel or coarser) and unconsolidated nature of the material made it impossible to auger deeper. Sites near the surface expression of the White Branch were oftenmore gravelly than those further away.Minimumvolume estimates for the material covering the upper and lower flats based on the auger soil depthmeasurements are 56,000 and138,000 m3, respectively."
+  }, {
+    "heading": "4.2.1. Soil pit NID11-07CC",
+    "text": "Soil pit NID11-07CC (dimensions 102 cm×80 cm×50 cm) is located close to the White Branch at the eastern end of lower flat (Fig. 5B); field data and physical characteristics are summarized in Tables 2 and 3, respectively. Time andmanpower constraints precluded digging to the surface of the Collier Cone lava flow. In addition to the litter layer (Horizon A), we excavated four “soil” horizons. Horizons B and E are relatively fine-grained with identifiable soil structures and many or few roots, respectively. Interestingly, the top of horizon E (88 cm depth) is capped with a thin (b0.5 cm) light wood-like layer. In contrast, horizons C and D have few or no roots, respectively, and by volume are primarily cobbles and gravels with additional occasional boulders in horizon D. Horizon C is matrix-supported, while horizon D is clast-supported; both samples were field-sieved to sample the ≤2 mm soil fraction. The soil fraction of all the samples is in the sand textural class. LOI analyses indicate that every sampled layer has very low (b1.5%) carbon content."
+  }, {
+    "heading": "4.2.2. Soil pit NID11-08CC",
+    "text": "Soil pit NID11-08CC is located in the northwest portion of the lower flat away from the surface exposure of theWhite Branch (Fig. 5B); field data and physical characteristics are summarized in Tables 2 and 3, respectively. The pit extended to the top of the Collier lava flow at a depth of 212 cm. In addition to the litter layer (horizon A), eighteen “soil” horizonswere excavated and six representative horizonswere sampled. In contrast to soil pit NID11-07CC, soil pit NID11-08CC contained no horizons containing clasts with diameters exceeding 2 mm. Horizons alternate between coarse- and fine-grained layers (Fig. 6); textural analyses reveal that the coarse horizons are sand and the fine-grained horizons are silt loam (Table 3). A thin apparently buried litter layerwas excavated at depth of 107 cm. Pit configuration and time constraints precluded characterizing the lowest portion of the pit (horizon R), but qualitatively\nit resembles the rest of the pit with alternating layers of coarse and fine particles. LOI analyses indicate that every sampled layer has very low (b1.5%) carbon content."
+  }, {
+    "heading": "4.2.3. Collier Cone lava flow geochemistry",
+    "text": "Major element chemistry of samples from soil pits NID11-07CC and NID11-08CC (Table 4) is the same as typical basaltic andesite to andesite volcanic rocks. Trace element chemistry (Table 4) reveals trends in compatible and incompatible elements that are typical of volcanic rocks. Taking error into consideration, most major element concentrations are similar to those of the underlying Collier Cone lava flow (Fig. 7A); exceptions include manganese and phosphorous, whose concentrations are higher in the soil. A plot of Zr vs Nb (Fig. 7B), two incompatible trace elements (elements that stay in the melt rather than go into crystals) generally considered immobile in volcanic soils (e.g., Kurtz et al., 2000), show a similar trend between the soil samples and the underlying lava flow, although the values are different, with the Collier Cone lava flow having comparatively lower concentrations."
+  }, {
+    "heading": "4.3. Sand Mountain Volcanic Field",
+    "text": "Field observations confirm that the forest assemblage on and adjacent to the SMVF is characteristic of a DHC forest, although here western red cedar trees are uncommon. There are fewer large trees (DBH>1 m) on the SMVF than on the upper and lower flats of the Collier Cone flow. We hand-dug a total of seven soil pits on the three targeted lava flows (Fig. 3B)."
+  }, {
+    "heading": "4.3.1. Clear Lake East lava flow",
+    "text": "The Clear Lake East lava flow (youngest southern SMVF lava flow; older than 2856±92 cal yr B.P.) has no soil cover apart from the odd linear feature described in Section 3.2.2. This linear feature is underlain by Clear Lake East lava and has fine-grained material (“soil”) that has filled in low topographic points. The vegetation in the strip is also unusual; in addition to Douglas-fir, there are undifferentiated grasses that are encountered nowhere else in the SMVF.\nSoil pit NID11-12MK (169 cm depth) is at the site of the deepest auger measurement (not shown) within this strip; Clear Lake East lava is exposed less than 3 m from the soil pit. Below the litter layer, soil pit NID11-12MK reveals two tephra layers distinguishable by color (Table 3 and Fig. 8), the lower of which contains olivine loose crystals. Soil textural analysis shows that these tephra layers can be\n25 N .I.D eligne et al./ G eom orphology 202 (2013) 15 –32\nclassified as sand with an organic content of ~3% (upper tephra) and ~1% (lower tephra)."
+  }, {
+    "heading": "4.3.2. Clear Lake South lava flow",
+    "text": "The Clear Lake South lava flow (older than 3000±73 cal yr B.P.) hosts a relatively mature DHC forest. Soil covers much of the lava flow, although the flow surface has a rough topography and bare rock outcrops that are consistent with its young age. It appears that the soil has accumulated in local topographic lows. The three soil pits (NID11-10MK, NID11-13MK, NID11-15MK) reveal a single yellowish brown or brown tephra deposit of a sand or loamy sand textural class and an organic content of ~7% (Table 3)."
+  }, {
+    "heading": "4.3.3. Cold Water Cove lava flow",
+    "text": "The Cold Water Cove (oldest southern SMVF lava flow; ~3 ka) and Clear Lake South lava flows are very similar on the basis of forest maturity and assemblage, soil cover and external appearance but are distinguishable in hand sample and with geochemistry (Deligne, 2012). As with the Clear Lake South lava flow, soil on the Cold Water Cove lava flow infills local topographic lows. Two of the soil pits (NID11-09MK and NID11-11MK) contained two tephra layers of a sand textural class distinguishable by color, while one soil pit (NID11-14MK) contains only one tephra of a sand textural class. At all three sites, the top (or sole) tephra is similar in grain size and color to the tephra at the Clear Lake South sites; the lower tephra is darker and has a greater sand fraction. The organic content is ~5% for the top (or sole) tephra and ~2% for the lower tephra."
+  }, {
+    "heading": "4.3.4. SMVF soil geochemistry",
+    "text": "In hand sample and viewed through a binocular microscope, it is clear that the SMVF “soil” consists of tephra (Fig. 8). The major element chemistry (Table 4; Fig. 9) shows that the tephra is mafic and broadly similar to lava from the SMVF (Fig. 9; Table 5). However, the soil samples tend to have lower SiO2 contents than the SMVF lava, an observation that is consistent with those of other basaltic and basaltic andesite volcanic fields where the explosive component (tephra) is more mafic than the effusive (lava) component (e.g., Erlund et al., 2010). Moreover, while individuals SMVF lava flows have distinctive chemical compositions (Fig. 9; Table 5), the soil chemistry is considerably more scattered with regard to major and trace elements (Tables 4 and 5). Importantly, the soil chemistry does not overlap with that of the Clear Lake East (youngest) lava flow, but does broadly overlap with the Clear Lake South and Cold Water Cove lava flows.\nThe geochemistry of two bulk tephra samples from a b1 km3 mafic tephra deposit from Sand Mountain is broadly similar to both the soil samples and the older two lava flows but does not overlap with any group (Tables 4 and 5; Fig. 9)."
+  }, {
+    "heading": "5. Discussion",
+    "text": "Both the Collier Cone and SMVF lava flows host relatively mature DHC forests where soil covers lava flows (Figs. 2 and 3). However, field observations and geochemical analyses indicate that at neither site is the soil derived directly from in situ weathering of the lava flow. Rather, at both locations, external processes have deposited soil-like sediment onto the lava flows. Where this deposition has occurred, the flows host DHC forests that are similar to surrounding DHC forests hosted on late Pleistocene lava (Collier field site) and Pleistocene lava and till (SMVF field site). However, the source and mode of sediment deposition appears to be different for the two sites: at Collier Cone there is evidence that the sediment was transported onto the lava flow by water (probably as floods or even debris flows), while in the SMVF the soil consists of tephra deposited as a fall deposit from at least one explosive eruption at an SMVF vent after the underlying lava flow was emplaced. Although isolated trees grow on non-sediment mantled exposed lava at both sites, the lack of\na mature forest suggests that soil, i.e., an external sediment source, is critical for widespread plant establishment and survival.\nIn what follows, we present evidence for external sediment sources for the soil on the lava flow(s) at both sites, consider the chronology of sediment deposition and forest development in both settings, evaluate the suitability of this external soil for hosting DHC forests, and finally discuss other sites of effusive volcanism where external soil sources appear to be important for initial plant colonization and survival on lava flows."
+  }, {
+    "heading": "5.1. Floods and the Collier Cone lava flow",
+    "text": "Assuming (1) chemical weathering rates similar to those inferred in Hawaii (10 tons km−2 yr−1; Dessert et al., 2003) across the entire 10 km2 Collier Cone lava flow and (2) a lava flow density of 2700 kg m−3, in 1500 years ~56,000 m3 of lava would have chemically weathered. As Hawaiian weathering rates are likely greater than those in the Cascades due to increased precipitation and warmer temperatures, ~56,000 m3 is an upper estimate. Even in the unlikely instance that all the byproducts of weathering from the entire lava flow accumulated at the two flats, the combined volume of “soil” on the upper and lower flats (138,000 and 56,000 m3, respectively, for a total volume of 194,000 m3) is greater than the volume predicted with Hawaiian weathering rates. These same Hawaiian weathering rates predict a weathering advance rate of ~25 mm3 mm−2 kyr−1 (Navarre-Sitchler and Brantley, 2007), which correspond to a soil thickness of ~38 mm forming in the 1.5 ka since the Collier Cone lava flow was emplaced. This predicted soil depth is both (1) more than observed across most of the lava flow and (2) considerably less than that measured in the two flats. Given that exposed lava across the flow field appears fresh with no evidence of weathering, particularly at higher elevations, it is likely that negligible amount of the Collier Cone lava flow has been affected by weathering.\nThe physical characteristics of the soil further contradict the notion of in situ weathering, as most of the flow has no soil cover and in places where there is soil (the two flats), the A horizon is a relatively small part of the soil column, with no developed B or E horizons. Near the White Branch Creek and at the base of a notable break in slope on the eastern margin of the lower flat, most of the “soil” consists of gravels and some cobbles; away from the White Branch and slope break, the “soil” consists of well-sorted alternating layers of sand and silt loam (Fig. 6). This alternation of coarse- and fine-grained material is characteristic of flood deposits, while the gravel and cobbles could record debris flow activity, most likely from the same event that generated flooding. The soil chemistry is sufficiently different from that of the underlying lava to rule out a genetic relationship, although the chemistry indicates a volcanic soil source. As the site is within the glacially active Three Sisters volcanic area, a region with considerable amounts of fine-grained glacially ground volcanic material, there are abundant nearby sediment sources that could have provided sediment to the Collier Cone lava flow flats.\nThe White Branch Creek is clearly visible in the LiDAR imagery of the upper and lower flats (Fig. 5). At locations near the White Branch Creek, we did not reach the bottom of the deposit by augering in either flat. We find that coarser sediments (gravels and larger clasts) are located near the creek and finer (augerable) sediments are further away from the creek. Although the location of the White Branch may have changed as sediment was emplaced, the site where the White Branch enters the lower flat is topographically confined to a b200 m reach between two lava flow levees (Fig. 2A). If we assume that floods followed the White Branch, the input source location of sediment in the lower flat would have been relatively constant over time. Interestingly, there is a small island of exposed lava in the middle of the lower flat. The area shielded from the White Branch's entry point onto the flat by this local high point contains the thickest augerable\nA) Major and minor elements: P2O3 vs. SiO2\nCollier Cone lava flow and soil chemistry\ndeposits (Fig. 5B) and has no gravel or cobbles. This is in contrast to the relatively shallow auger depths recorded near the entry point. It seems likely that near the White Branch entry point onto the lower flat, the depth of the deposit is considerably thicker than reported but not measureable given the methods employed. Thus, we hypothesis that the low depth values in the “soil” thickness model in the northeastern part of the lower flat is an artifact of sampling methods and should be in fact considerably greater.\nThe alternating layers of coarse- (sand) and fine-grained (silt loam) sediment in soil pit NID11-08CC (Fig. 6) are indicative of flood deposits, and suggest that more than one flood event affected the area. If every layer of coarse material (sand) corresponds to a flooding event, there have been at least seven floods that affected the lower flat (and presumably the upper flat) in the last 1500 years. The apparent buried litter layer at the top of the C3 horizon in soil pit NID11-07CC (88 cm depth) and the A2 or C15 horizon in soil pit NID11-08CC (107 cm depth) would have required sufficient time to develop vegetation when the surface was ~1 m lower than it is today. However, none of the Douglas-fir trees that were cored on the lower flat show signs of disturbance thatwould be expected from large floods that carried a lot of sediment. This observation suggests that all the flooding events occurred prior to 300 years ago (the age of the oldest dated tree). Moreover, the presence of a DBH 2.4 m Douglas-fir in the lower flat suggests that conditions have permitted tree colonization\nand growth for several hundred years. Given the young age of the Collier Cone lava flow this indicates that a series of flood events occurred within a few hundred years of the eruption.\nThe most likely sediment source for the two flats are glacial outburst floods and/or debris flows originating on the west side of the Three Sisters volcanoes. The Three Sisters volcanoes collectively host 17 named glaciers, and are thought to have hosted more prior to the onset of glacial retreat in the last hundred years (O'Connor et al., 2001). These glaciers form lateral and terminal moraines, and their meltwater can provide a source of floodwater. A historic outburst flood in July 1942 in the upper portion of the White Branch creek was caused by breaching of the moraine-dammed lake at the terminus of Collier Glacier (Hopson, 1960). A second smaller outburst flood originating from the same place occurred between 1954 and 1956 (O'Connor et al., 2001). The 1942 event is estimated to have removed 120,000 m3 of moraine material within 300 m of the breach and generated a debris flow that incorporated sediment from along the channel (O'Connor et al., 2001). The 1942 event followed the margin of the Collier Cone lava flow; the lowest mapped deposit is at an elevation of 1500 m near the confluence with Glacier Creek where theWhite Branch channel jumps onto the Collier Cone lava flow.\nThe volume of material in the upper and lower flats, and their distance from possible outburst flood sources, imply that the floods and/ or debris flows that created the two flats were considerably larger than the 1942 event, although the source location may have been identical. Moreover, the observation that the soil on the alluvial plain appears to be sourced from basaltic andesite to andesite lava, while the larger clasts are often obsidian, suggests that the flood path went near Obsidian Cliffs, which is located near the terminus of the 1942 debris flow deposit. As there are no robust pre-historic climate records for the area, we are unable to determine what conditions produce these outburst floods. However, we hypothesize that sufficient warming had to occur to melt glaciers to provide the requisite water for flood generation. A possible source of such warming is the localized effect of the Collier Cone eruption itself, although the absence of quench features or hyaloclastite in the vent area indicative of direct lava–ice contact makes this notion unlikely.\nWe propose the following model for “soil” development on the lower flat Collier Cone lava flow, which includes the assumption that flooding events that affected the lower flat also affected the upper flat:\n1) 1.5 ka: the Collier Cone lava flowwas emplaced rapidly (Deardorff and Cashman, 2012). 2) Between 1.5 and 0.5 ka: a. Large meltwater-generated outburst floods from Collier Glacier\ntransported and deposited enough sediment to create the lower flat (10 km from, and 1100 m lower in elevation than, the current meltwater lake associated with Collier Glacier). b. Sufficient plant colonization occurred on the lower flat to form a litter layer. c. One or likely several more large outburst floods from the same source transported and deposited an additional 1 m of sediment on the lower flat. 3) Post-major flood activity: mature forests developed on the flats, with slow and isolated tree establishment and growth away from the flats.\nAs such, the Collier Cone lava flow showcases the role floods can play in restoring a landscape following an effusive volcanic eruption: they provide a way to transport “soil” onto a lava flow, providing a suitable substrate for plant establishment and survival."
+  }, {
+    "heading": "5.2. Importance of tephra as a soil source for the SMVF lava flows",
+    "text": "In contrast to the Collier Cone site, there is no surface water activity on the SMVF; instead water moves as groundwater through this\nhighly permeable region (Stearns, 1929; Jefferson et al., 2006). The southern SMVF lava flows were all emplaced within a few decades of each other ca. 3 ka, yet the stratigraphically older lava flows have soil and host mature DHC forests while the youngest lava flow is comparatively barren and has little vegetation apart from an odd vegetation strip extending from the vent area. In the SMVF “soil” is deposited as tephra fall deposits, thus providing an interesting case study of the role of eruption chronology on soil development and plant colonization of lava flows.\nA general model for mafic volcanic eruptions is that they begin with explosive activity, and that once the magma is degassed effusive activity dominates (e.g., Luhr and Simkin, 1993). Explosive activity covers the landscape with tephra. Where soil on lava flows consists of tephra, the tephra source is likely local. This is particularly true in the case of the SMVF, where lava flows are located upwind of major tephra sources. As such, the local eruption chronology could be key for the subsequent plant colonization. Importantly, in areas of repeat volcanism, both wind direction and the order of explosive and effusive activity may dictate where plant colonization occurs on lava flows, with colonization occurring predominately on earlier units that have been covered with tephra from subsequent activity."
+  }, {
+    "heading": "5.2.1. Soil on the Cold Water Cove and Clear Lake South lava flows",
+    "text": "Lava flows of the southern SMVF cover the area west of the vent system, while SMVF tephra blankets cover a wide region northeast of the vent system. The largest explosive unit of the SMVF is the Sand Mountain tephra, with an estimated volume of b1 km3 (Mckay, 2012). However, the two analyzed samples of bulk Sand Mountain tephra (1) show a considerable spread in chemistry and (2) are more similar to each other than to the tephra-based soils on the southern SMVF lava flows.\nThere is no obvious genetic relationship between the two lava flows examined and their overlying tephra deposits, although it is\nclear that these tephra deposits are not related to the youngest (and barren) Clear Lake East lava flow (Fig. 9). Two of the three Cold Water Cove soil pits contain two tephras that have similar major element chemistries but different trace element chemistries (Table 4). The upper (or sole) Cold Water Cove tephra is similar to Clear Lake South soil but appears sufficiently different in some of the major and trace element chemistry to indicate that it is a distinct deposit. Where there are two tephras, the lower one has half the organic content of the upper one. Interestingly, the upper tephra on the Cold Water Cove lava flow also has a lower organic content than the tephra on the Clear Lake South lava flow. This might suggest that the Clear Lake South “soil” is more mature than the Cold Water Cove “soil”, although the stratigraphic relation of the two lava flows and the blanketing nature of tephra ash fall require that any tephra covering the Clear Lake South lava flow also covered the Cold Water Cove lava flow.\nWe propose that either syn- or post-effusive explosive activity occurring prior to the emplacement of the Clear Lake East lava flow deposited tephra on the Cold Water Cove and Clear Lake South lava flow, providing the requisite soil base for robust plant colonization."
+  }, {
+    "heading": "5.2.2. Clear Lake East vegetation strip",
+    "text": "The origin of the linear strip of soil and vegetation in the middle of the Clear Lake East lava flow that strikes towards the vent area is unclear. Its chemistry indicates that it does not consist of tephra of the same composition as the Clear Lake East eruption; indeed, the composition alone suggests that it is more closely related to the older Cold Water Cove and Clear Lake South eruptions. However, field observations show that the soil is on top of, rather than surrounded by, the Clear Lake East lava flow. The linear nature of the strip resembles a fissure system, but in the field there is no evidence of a fissure system. While we can say that vegetation is present in this area where there is soil, and that the soil appears to consist of\nSMVF lava flow, tephra, and soil chemistry\ntwo tephra deposits filling local topographic lows, we have no satisfactory explanation for the origin of the tephra except that it is quite localized and appears to postdate the emplacement of the Clear Lake East lava flow, which is the youngest lava flow in the SMVF."
+  }, {
+    "heading": "5.3. Substrate suitability for tree growth",
+    "text": "With the exception of the fine (silt loam) sediments in the lower flat, most of the soils sampled on both the Collier Cone lava flow and the\nSMVF are texturally sand. It is remarkable that mature forests are able to flourish on such soils, as sandy soils (1) are generally nutrient poor from a plant perspective, because of low available surface area, and (2) drain rapidly. These two properties present considerable challenges for plant survival. Indeed, DHC forests are not generally found on sandy soils: in Linn county, Oregon, a survey of the area mapped by the USDA Natural Resources Conservation Service (i.e., the area outside the Willamette National Forest) reveals that DHC forests at a similar elevation as our field sites are found only on soils that consist of gravelly and cobbly silt, clay, and sandy loams (Table 6). This suggests that in the higher elevations of the lowland temperate forest zone, loams provide the best environment for DHC forests. However, our observation of DHC forests on sandy soils indicates DHC forests can establish on “unsuitable” soils. A possible explanation is that on very young surfaces, therewill be a lack of competition for light,which could promote growth of shade intolerant Douglas-fir (a key component of DHC forests). Thus, substrate alonemaynot be the sole factor to consider for plant establishment and growth; light availability and other substrate-independent properties may also be important factors."
+  }, {
+    "heading": "5.4. Role of external soil sources in other sites of effusive volcanism",
+    "text": "There are several other sites around the world that illustrate the importance of external soil sources for soil (and vegetation) development on lava flows. Here we will briefly discuss two sites that highlight the importance of (1) loess and (2) tephra as external soil sources."
+  }, {
+    "heading": "5.4.1. Loess as an external soil source",
+    "text": "Loess appears to be the primary source of soil on the early Holocene lava flows at Craters of the Moon, Idaho, where Vaughan et al. (2011) observed differences in soil development and plant colonization on lava flows with different surface morphologies. ʻAʻā lava flows lack soil and show little biologic activity. Vaughan et al. (2011) speculate that any input loess settles through the ʻaʻā clinkers, and predict that once the intra-clinkers space has been filled with loess, soil development will initiate. On smooth and dense pahoehoe flows, loess accumulates in crevices, which also serve to pond water. Larger plants grow in larger crevices, and the vegetation then shields the loess from further erosion. Thus, at Craters of the Moon a positive feedback exists between loess accumulation and biologic activity, with the underlying lava flow morphology providing the initial control for where loess will accumulate (Vaughan et al., 2011).\nLoess is also the primary component of soil in the late Cenozoic Cima Volcanic Field in the Mojave Desert, California, USA (Wells et al., 1985) and on the late Cenozoic Owyhee Basin lava flows, southeastern Oregon, USA. At the latter, over 2 m of loess has accumulated in places since the early Holocene Mount Mazama (Crater Lake) eruption (K. House, pers. comm.). In both of these desert environments there is little vegetation, although the cause is likely due to the environment and not soil suitability, as there is also little vegetation off the lava flows."
+  }, {
+    "heading": "5.4.2. Tephra as an external soil source",
+    "text": "A recent example of tephra as an important source of soil can be found at Volcan Jorullo, Mexico (18.97°N, 101.72°W), which erupted\ne southern Sand Mountain Volcanic Field (Deligne, 2012). ‘N’ indicates the number of\nbetween 1759 and 1774 AD (Gadow, 1930). Over the course the 25 year eruption, eight separate lava flow units were emplaced (Rowland et al., 2009); only the youngest two units erupted after the end of the explosive stage. As a result, the older units are covered with tephra from the eruption, while the youngest two are barren. The difference in vegetation is easily seen on Google Earth imagery: there is vegetation only on the older (tephra-covered) units. Thus, tephra appears to provide a fertile soil base on a lava flow that is only 250 years old; moreover plant colonization has occurred only where this soil is present."
+  }, {
+    "heading": "5.5. Importance of external soil source",
+    "text": "It is not immediately clear why an external soil source is so important for plant establishment and survival. We hypothesize that external soil sources provide a substrate for plant growth, as well as access to key nutrients and water. Although lava flows contain important plant nutrients, they are not readily available, as lava is dense, with low surface area to volume ratios, and is physically hard to break apart. We note that high fertility soils in volcanic regions (e.g., parts of South America, Philippines, Papua New Guinea) are commonly associated with regions of considerable tephra fall (Floyd et al., 1988; Dobermann and Oberthür, 1997; Sanchez et al., 2003; Wilson et al., 2011). We speculate that it is tephra, which is fine-grained and has a greater surface area to volume ratio, not lava, which produces fertile volcanic soils. However tephra is not the sole external source: flood deposits (this paper) and loess (e.g., Wells et al., 1985; Vaughan et al., 2011) can also provide plants with both a substrate to establish and extractable key nutrients.\nExternal soil sources may also provide a means to retain water. Young lava flows are among the most permeable surfaces on earth and while they are important groundwater reservoirs (e.g., Jefferson et al., 2006), there is little available surface or near surface water. Fine-grained external soil sources may be able to store sufficient water within their pore space for plants to survive in the absence of an adequate water supply in the upper portions of a lava flow. This notion is supported by agricultural experiments conducted in tephra from the Sunset Crater eruption, where it was found that when not too thick, tephra acts as a mulch and retains moisture (Ort et al., 2008). Indeed, the Native American population near Sunset Crater appears to have expanded significantly following the Sunset Crater eruption (sometime between 1040 and 1100 AD; Ort et al., 2002), suggesting an increase in agriculturally viable lands at this time (Ort et al., 2008). Thus, tephra, and likely other fine-grained sediments, play an important role in making lava flows a suitable environment for plant colonization.\nOnce plants have colonized external soil sources on lava flows, mechanical weathering by roots, or chemical weathering via biological acids, may break down lava. However, it is possible that biological time scales are too slow to counter the geologic forces that can remove lava flows from the active landscape by glacial or fluvial erosion or burial by subsequent lava flows. Both geologic erosion and burial impede the direct transfer of nutrients from the lava to the biosphere. As such, lava may be a relatively biologically inert substrate. For this reason, we suggest that fine-grained tephra from explosive volcanic\nactivity could be a more important driver for delivery of key elements from within the earth to the biosphere."
+  }, {
+    "heading": "6. Conclusions",
+    "text": "We have presented a detailed study of two sites of recent effusive volcanism in the central Oregon Cascades, USA; these sites are notable for the observed juxtaposition of exposed lava flows and mature forests on a single lava flow or on lava flows of similar ages. At the younger site, the 1.5 ka Collier Cone lava flow, floods and/or debris flows appear to have deposited a total of 194,000 m3 of sediment at two places on top of the lava flow. These two areas, informally referred to as upper and lower flats, host mature forests indistinguishable from those off the lava flow. At the older ~3 ka Sand Mountain Volcanic Field, lava flows with tephra cover host mature forests while areas without tephra have no soil cover and limited vegetation.\nBased on these two sites, we hypothesize that, precluding areas with extreme weathering rates (i.e., certain tropical environments), soil on young lava flows is predominately externally derived and not formed from the in situ physical and chemical breakdown of the underlying lava flow. External soil sources can be transported by water, delivered by syn- or post-eruptive explosive volcanic activity, or derived from aeolian sources; the nature and mode of transport of these external soil sources depends on the area's geomorphic and geologic context. These external soil sources provide a substrate for vegetation to colonize providing access to key nutrients and water.\nConsequently, recovery from a destructive lava flow disturbance is dictated by external factors, such as floods, other volcanic activity, or a regional source of loess. In the absence of external soil sources, we predict that recovery from the disturbance will be very slow. However, with an external soil source, rapid plant colonization can create mature forests quite quickly. As such, a lava flow may present one of the few environments where floods and explosive volcanic activity serve to restore the landscape by transforming it into a hospitable environment for life."
+  }, {
+    "heading": "Acknowledgments",
+    "text": "We thank Nick Deardorff for sharing his Collier Cone LiDAR (obtained with through a NCALM graduate student seed grant), mapping, and geochemical data, and Daniele Mckay for providing samples of Sand Mountain tephra. LiDAR data for the Sand Mountain Volcanic Field was obtained through the Oregon LiDAR Consortium in conjunction with Oregon's Department of Geology andMineral Industries and the Eugene Water and Electric Board. NID thanks Chad Everson and Brian Cochran from the Eugene Skin Divers and Brent Deyo, Win McLaughlin, Nick Tanushev, and Robin Tuohy for field assistance. Ariana Everson cored and dated trees and Brian Webb conducted preliminary soil sample studies as part of the University of Oregon Undergraduate Catalytic Outreach and Research Experience program (NSF DUE-0622620). NID thanks Scott Bridgham, Lorien Reynolds, Dan Gavin, Erin Herring, and Rick Conrey for sharing expertise and lab resources. This paper benefited from conversations with Becky Dorsey, Gordon Grant, Jay Nolan, Jim O'Connor, Fred Swanson, Kristin Sweeney and TomWilson andwas improved by comments by two anonymous reviewers and Adrian Harvey. NID acknowledges a Mazamas\nelevation. The extent indicates the area in Linn county that meets the selected criteria,\nGraduate Student Research Grant; Mazamas support does not imply endorsement of the results and conclusions presented in this paper."
+  }],
+  "year": 2013,
+  "references": [{
+    "title": "Mobility and fluxes of major, minor and trace metals during basalt weathering and groundwater transport at Mt. Etna volcano (Sicily)",
+    "authors": ["A. Aiuppa", "P. Allard", "W. D'Alessandro", "A. Michel", "F. Parello", "M. Treuil", "M. Valenza"],
+    "venue": "Geochimica et Cosmochimica Acta",
+    "year": 2000
+  }, {
+    "title": "Ecosystem development on Hawaiian lava flows: biomass and species composition",
+    "authors": ["G.H. Aplet", "R.F. Hughes", "P.M. Vitousek"],
+    "venue": "Journal of Vegetation Science",
+    "year": 1998
+  }, {
+    "title": "Primary colonization of volcanic rocks by plants in arid Baja California, Mexico",
+    "authors": ["Y. Bashan", "C.Y. Li", "V.K. Lebsky", "M. Moreno", "L.E. de-Bashan"],
+    "venue": "Plant Biology",
+    "year": 2002
+  }, {
+    "title": "The physiological ecology of plant succession",
+    "authors": ["F.A. Bazzaz"],
+    "venue": "Annual Review of Ecology and Systematics",
+    "year": 1979
+  }, {
+    "title": "The age of Clear Lake, Oregon",
+    "authors": ["G.T. Benson"],
+    "venue": "Ore Bin",
+    "year": 1965
+  }, {
+    "title": "Mosaic vegetation characteristics of the prehistoric lava fields of the Hekla area near Galtaleakur, Iceland",
+    "authors": ["K.G. Bernhardt"],
+    "venue": "Folia Geobotanica",
+    "year": 1986
+  }, {
+    "title": "Soil survey field and laboratory methods manual. Soil Survey Investigations Report 51, Version 1.0. USDA-NRCS, National Soil Survey",
+    "authors": ["R. Burt"],
+    "year": 2009
+  }, {
+    "title": "Changing sources of nutrients during four million years of ecosystem development",
+    "authors": ["O.A. Chadwick", "L.A. Derry", "P.M. Vitousek", "B.J. Huebert", "L.O. Hedin"],
+    "venue": "Nature 397,",
+    "year": 1999
+  }, {
+    "title": "The impact of climate on the biogeochemical functioning of volcanic soils",
+    "authors": ["O.A. Chadwick", "R.T. Gavenda", "E.F. Kelly", "K. Ziegler", "C.G. Olson", "W.C. Elliott", "D.M. Hendricks"],
+    "venue": "Chemical Geology",
+    "year": 2003
+  }, {
+    "title": "Holocene geomagnetic secular variation in the western United States",
+    "authors": ["D.E. Champion"],
+    "venue": "U.S. Geological Survey Open-File Report,",
+    "year": 1980
+  }, {
+    "title": "A review of vegetation development following recent (b450 years) volcanic disturbance in North Island, New Zealand",
+    "authors": ["B.D. Clarkson"],
+    "venue": "New Zealand Journal of Ecology",
+    "year": 1990
+  }, {
+    "title": "Spatial patterns of microsite colonisation on two young lava flows on Mount Hekla, Iceland",
+    "authors": ["N.A. Cutler", "L.R. Belyea", "A.J. Dugmore"],
+    "venue": "Journal of Vegetation Science",
+    "year": 2008
+  }, {
+    "title": "Ecological Responses to the 1980",
+    "authors": ["V.H. Dale", "F.J. Swanson", "C.M. Crisafulli"],
+    "venue": "Eruption of Mount St. Helens. Springer, United States of America",
+    "year": 2005
+  }, {
+    "title": "Chemical weathering in the Krishna Basin and Western Ghats of the Deccan Traps, India: rates of basalt weathering and their controls",
+    "authors": ["A. Das", "S. Krishnaswami", "M.M. Sarin", "K. Pande"],
+    "venue": "Geochimica et Cosmochimica Acta",
+    "year": 2005
+  }, {
+    "title": "Determination of carbonate and organic matter in calcareous sediments and sedimentary rocks by loss on ignition; comparison with other methods",
+    "authors": ["W.E. Dean"],
+    "venue": "Journal of Sedimentary Research",
+    "year": 1974
+  }, {
+    "title": "Emplacement conditions of the c.1,600 BP Collier Cone lava flow, Oregon: a LiDAR investigation",
+    "authors": ["N.D. Deardorff", "K.V. Cashman"],
+    "venue": "Bulletin of Volcanology",
+    "year": 2012
+  }, {
+    "title": "Early primary succession on the volcano Mount St. Helens",
+    "authors": ["R. del Moral", "D.M. Wood"],
+    "venue": "Journal of Vegetation Science",
+    "year": 1993
+  }, {
+    "title": "After the flow: Landscape response to the emplacement of Holocene lava flows, central Oregon Cascades, USA",
+    "authors": ["N.I. Deligne"],
+    "venue": "Ph.D. Thesis,",
+    "year": 2012
+  }, {
+    "title": "Basalt weathering laws and the impact of basalt weathering on the global carbon cycle",
+    "authors": ["C. Dessert", "B. Dupréa", "J. Gaillardet", "L.M. François", "C.J. Allègre"],
+    "venue": "Chemical Geology",
+    "year": 2003
+  }, {
+    "title": "Fuzzy mapping of soil fertility — a case study on irrigated riceland in the Philippines",
+    "authors": ["A. Dobermann", "T. Oberthür"],
+    "venue": "Geoderma",
+    "year": 1997
+  }, {
+    "title": "Seed dispersal of Metrosideros polymorpha (Myrtaceae): a pioneer tree of Hawaiian lava flows",
+    "authors": ["D.R. Drake"],
+    "venue": "American Journal of Botany",
+    "year": 1992
+  }, {
+    "title": "Population development of rain forest trees on a chronosequence of Hawaiian lava flows",
+    "authors": ["D.R. Drake", "D. Mueller-Dombois"],
+    "venue": "Ecology",
+    "year": 1993
+  }, {
+    "title": "Weathering of basalt: changes in rock chemistry and mineralogy",
+    "authors": ["R.A. Eggleton", "C. Foudoulis", "D. Varkevisser"],
+    "venue": "Clays and Clay Minerals",
+    "year": 1987
+  }, {
+    "title": "Compositional evolution of magma from Parícutin Volcano, Mexico: the tephra record",
+    "authors": ["E.J. Erlund", "K.V. Cashman", "P.J. Wallace", "L. Pioli", "M. Rosi", "E. Johnson", "H. Delgado Granados"],
+    "venue": "Journal of Volcanology and Geothermal Research",
+    "year": 2010
+  }, {
+    "title": "Estimating millennial‐scale rates of dust incorporation into eroding hillslope regolith using cosmogenic nuclides and immobile weathering tracers",
+    "authors": ["K.L. Ferrier", "J.W. Kirchner", "R.C. Finkel"],
+    "venue": "Journal of Geophysical Research",
+    "year": 2011
+  }, {
+    "title": "Soil fertility and sweet potato production on volcanic ash soils in the highlands of Papua New Guinea",
+    "authors": ["C.N. Floyd", "R.D.B. Lefroy", "E.J. D'Souza"],
+    "venue": "Field Crops Research",
+    "year": 1988
+  }, {
+    "title": "Natural Vegetation of Oregon and Washington",
+    "authors": ["J.F. Franklin", "C.T. Dyrness"],
+    "year": 1992
+  }, {
+    "title": "Colonization of a volcanic island, Surtsey, Iceland",
+    "authors": ["S. Fridriksson"],
+    "venue": "Arctic and Alpine Research",
+    "year": 1987
+  }, {
+    "title": "Jorullo: The History of the Volcano of Jorullo and the Reclamation of the Devastated District of Animals and Plants",
+    "authors": ["H. Gadow"],
+    "year": 1930
+  }, {
+    "title": "Mechanism, rates, and consequences of basaltic glass dissolution: II. An experimental study of the dissolution rates of basaltic glass as a function of pH and temperature",
+    "authors": ["S.R. Gislason", "E.H. Oelkers"],
+    "venue": "Geochimica et Cosmochimica Acta",
+    "year": 2003
+  }, {
+    "title": "Succession following the catastrophic eruption of Ksudash volcano (Kamchatka, 1907)",
+    "authors": ["S.Y. Grishin", "R. del Moral", "P.V. Krestov", "V.P. Verkhola"],
+    "venue": "Plant Ecology",
+    "year": 1996
+  }, {
+    "title": "Evaluating crossdating accuracy: a manual and tutorial for the computer program COFECHA",
+    "authors": ["H.D. Grissino-Mayer"],
+    "venue": "Tree-Ring Research",
+    "year": 2001
+  }, {
+    "title": "Plant succession in areas of scorched and blown-down forest after the 1980 eruption of Mount St. Helens, Washington",
+    "authors": ["C.B. Halpern", "P.M. Frenzen", "J.E. Means", "J.F. Franklin"],
+    "venue": "Journal of Vegetation Science",
+    "year": 1990
+  }, {
+    "title": "Post-Mount Mazama forest succession on the east slope of the central Cascades of Oregon",
+    "authors": ["H.P. Hansen"],
+    "venue": "American Midland Naturalist",
+    "year": 1942
+  }, {
+    "title": "Primary conifer succession",
+    "authors": ["J.P. Heath"],
+    "venue": "Lassen Volcanic National Park. Ecology",
+    "year": 1967
+  }, {
+    "title": "Loss on ignition as a method for estimating organic and carbonate content in sediments: reproducibility and comparability of results",
+    "authors": ["O. Heiri", "A.F. Lotter", "G. Lemcke"],
+    "venue": "Journal of Paleolimnology",
+    "year": 2001
+  }, {
+    "title": "Quaternary magmatism in the Cascades: geologic perspectives",
+    "authors": ["W. Hildreth"],
+    "venue": "U.S. Geological Survey Professional Paper,",
+    "year": 2007
+  }, {
+    "title": "Plant succession: life history and competition",
+    "authors": ["M. Huston", "T. Smith"],
+    "venue": "American Naturalist",
+    "year": 1987
+  }, {
+    "title": "Influence of volcanic history on groundwater patters on the west slope of the Oregon High Cascades",
+    "authors": ["A. Jefferson", "G. Grant", "T. Rose"],
+    "venue": "Water Resources Research",
+    "year": 2006
+  }, {
+    "title": "Factors of Soil Formation: A System of Quantitative Pedology",
+    "authors": ["H. Jenny"],
+    "year": 1941
+  }, {
+    "title": "OR land cover type descriptions: Oregon gap analysis 1998 land cover for Oregon",
+    "authors": ["C. Kilsgaard"],
+    "venue": "Oregon Natural Heritage Program,",
+    "year": 1999
+  }, {
+    "title": "Primary succession of Hawaiian montane rain forest on a chronosequence of eight lava flows",
+    "authors": ["K. Kitayama", "D. Mueller-Dombois", "P.M. Vitousek"],
+    "venue": "Journal of Vegetation Science",
+    "year": 1995
+  }, {
+    "title": "Colonization of a volcanic mudflow by an upper montane coniferous forest at Lassen Volcanic National Park, California",
+    "authors": ["G.C. Kroh", "J.D. White", "S.K. Heath", "J.E. Pinder III"],
+    "venue": "American Midland Naturalist",
+    "year": 2000
+  }, {
+    "title": "Conifer colonization of a 350-year old rock fall at Lassen Volcanic National Park in northern California",
+    "authors": ["G.C. Kroh", "K. McNew", "J.E. Pinder III"],
+    "venue": "Plant Ecology",
+    "year": 2008
+  }, {
+    "title": "Refractory element mobility in volcanic soils",
+    "authors": ["A.C. Kurtz", "L.A. Derry", "O.A. Chadwick", "M.J. Alfano"],
+    "venue": "Geology",
+    "year": 2000
+  }, {
+    "title": "Accretion of Asian dust to Hawaiian soils: isotopic, elemental, and mineral mass balances",
+    "authors": ["A.C. Kurtz", "L.A. Derry", "O.A. Chadwick"],
+    "venue": "Geochimica et Cosmochimica Acta",
+    "year": 2001
+  }, {
+    "title": "Calibration of cosmogenic 3He production rates from Holocene lava flows in Oregon, USA, and effects of the Earth's magnetic field",
+    "authors": ["J.M. Licciardi", "M.D. Kurz", "P.U. Clarka", "E.J. Brook"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 1999
+  }, {
+    "title": "Vegetation of tephra deposits 50 years after the end of the eruption of the Paricutín Volcano, Mexico",
+    "authors": ["R. Lindig-Cisnerosa", "S. Galindo-Vallejoa", "S. Lara-Cabrera"],
+    "venue": "Southwestern Naturalist",
+    "year": 2006
+  }, {
+    "title": "Present denudation rates on the island of Réunion determined by river geochemistry: basalt weathering and mass budget between chemical and mechanical erosions",
+    "authors": ["P. Louvat", "C.J. Allègre"],
+    "venue": "Geochimica et Cosmochimica Acta",
+    "year": 1997
+  }, {
+    "title": "Paricutín: The Volcano Born in aMexican Cornfield",
+    "authors": ["J.F. Luhr", "T. Simkin"],
+    "year": 1993
+  }, {
+    "title": "Primary succession along an elevation gradient 15 years after the eruption of Mount Pinatubo, Luzon, Philippines",
+    "authors": ["T.E. Marler", "R. del Moral"],
+    "venue": "Pacific Science",
+    "year": 2011
+  }, {
+    "title": "Recent mafic eruptions at Newberry Volcano and in the central Oregon Cascades: Physical volcanology and implications for hazards",
+    "authors": ["D. Mckay"],
+    "venue": "Ph.D. Thesis,",
+    "year": 2012
+  }, {
+    "title": "Basalt weathering across scales",
+    "authors": ["A. Navarre-Sitchler", "S. Brantley"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2007
+  }, {
+    "title": "Debris flows from failures of neoglacial— age moraine dams in the Three Sisters and Mount Jefferson Wilderness Areas, Oregon",
+    "authors": ["J.E. O'Connor", "J.H. Hardison III", "J.E. Costa"],
+    "venue": "U.S. Geological Survey Professional Paper,",
+    "year": 2001
+  }, {
+    "title": "The mechanism, rates and consequences of basaltic glass dissolution: I. An experimental study of the dissolution rates of basaltic glass as a function of aqueous Al, Si and oxalic acid concentration at 25 °C and pH=3 and 11",
+    "authors": ["E.H. Oelkers", "S.R. Gislason"],
+    "venue": "Geochimica et Cosmochimica Acta",
+    "year": 2001
+  }, {
+    "title": "A paleomagnetic dating study of Sunset Crater Volcano",
+    "authors": ["M.H. Ort", "M.D. Elson", "D.E. Champion"],
+    "venue": "Technical Report No. 2002-16. Desert Archaeology,",
+    "year": 2002
+  }, {
+    "title": "Effects of scoria-cone eruptions upon nearby human communities",
+    "authors": ["M.H. Ort", "M.D. Elson", "K.C. Anderson", "W.A. Duffield", "J.A. Hooten", "D.E. Champion", "G. Waring"],
+    "venue": "Geological Society of America Bulletin",
+    "year": 2008
+  }, {
+    "title": "Collecting, preparing, crossdating, and measuring tree increment cores. U.S",
+    "authors": ["R.L. Phipps"],
+    "venue": "Geological Survey Water-Resources Investigations Report,",
+    "year": 1985
+  }, {
+    "title": "Chemical weathering, mass loss, and dust inputs across a climate by time matrix in the Hawaiian Islands",
+    "authors": ["S. Porder", "G.E. Hilley", "O.A. Chadwick"],
+    "venue": "Earth and Planetary Science Letters",
+    "year": 2007
+  }, {
+    "title": "Basalt weathering and pedogenesis across an environmental gradient in the southern Cascade Range, California, USA",
+    "authors": ["C. Rasmussen", "R.A. Dahlgren", "R.J. Southard"],
+    "venue": "Geoderma",
+    "year": 2010
+  }, {
+    "title": "IntCal04 terrestrial radiocarbon age calibration, 26–0 ka BP",
+    "authors": ["N.I. Deligne"],
+    "venue": "Geomorphology",
+    "year": 2013
+  }, {
+    "title": "Progress of plant succession on the Parícutin Volcano: 25 years after activity ceased",
+    "authors": ["M. Rejmánek", "R. Haagerová", "J. Haager"],
+    "venue": "American Midland Naturalist",
+    "year": 1982
+  }, {
+    "title": "Phytosociology of the Nash Crater lava flows, Linn County, Oregon",
+    "authors": ["A.W. Roach"],
+    "venue": "Ecological Monographs",
+    "year": 1952
+  }, {
+    "title": "Pyroclastic deposits and lava flows from the 1759–1774 eruption of El Jorullo, México: aspects of ‘violent Strombolian’ activity and comparison with Parícutin",
+    "authors": ["S.K. Rowland", "Z. Jurado-Chichay", "G. Ernst", "G.P.L. Walker"],
+    "venue": "Studies in Volcanology: The Legacy of George Walker. Special Publications of IAVCEI,",
+    "year": 2009
+  }, {
+    "title": "Fertility capability soil classification: a tool to help assess soil quality in the tropics",
+    "authors": ["P.A. Sanchez", "C.A. Palm", "S.W. Buol"],
+    "venue": "Geoderma",
+    "year": 2003
+  }, {
+    "title": "Origin of the compositional variability of the lavas at Collier Cone, High Cascades, Oregon",
+    "authors": ["J.D. Schick"],
+    "venue": "M.S. thesis,",
+    "year": 1994
+  }, {
+    "title": "Hydrogeology of the upper Deschutes Basin, central Oregon—a young basin adjacent to the Cascade volcanic arc",
+    "authors": ["D.R. Sherrod", "M.W. Gannett", "K.E. Lite Jr."],
+    "venue": "Field Guide to Geologic Processes in Cascadia: Oregon Department of Geology and Mineral Industries Special Paper,",
+    "year": 2002
+  }, {
+    "title": "Geologic map of the Bend 30-×60-minute quadrangle, central Oregon. U.S. Geologic Survey Geologic Investigation Series, I-2683",
+    "authors": ["D.R. Sherrod", "E.M. Taylor", "M.L. Ferns", "W.E. Scott", "R.M. Conrey", "G.A. Smith"],
+    "year": 2004
+  }, {
+    "title": "A brief description of natural neighbor interpolation. Chapter 2 Interpolating Multivariate Data",
+    "authors": ["R. Sibson"],
+    "year": 1981
+  }, {
+    "title": "Geology and water resources of the Upper McKenzie Valley, Oregon. U.S. Geological Survey Water-Supply Paper, 597-D",
+    "authors": ["H.T. Stearns"],
+    "year": 1929
+  }, {
+    "title": "WWW Program and Documentation",
+    "authors": ["M. Stuiver", "P.J. Reimer", "R.W. Reimer"],
+    "venue": "CALIB",
+    "year": 2005
+  }, {
+    "title": "Plant succession on recent volcanoes in Papua",
+    "authors": ["B.W. Taylor"],
+    "venue": "Journal of Ecology",
+    "year": 1957
+  }, {
+    "title": "Plant community dynamics on the volcano Mount Koma, Northern Japan, after the 1996 eruption",
+    "authors": ["S. Tsuyuzaki", "A. Hase"],
+    "venue": "Folia Geobotanica",
+    "year": 2005
+  }, {
+    "title": "Organic soils on basaltic lava flows in a cool, arid environment",
+    "authors": ["K.L. Vaughan", "P.A. McDaniel"],
+    "venue": "Soil Science Society of America Journal",
+    "year": 2009
+  }, {
+    "title": "Episodic soil succession on basaltic lava fields in a cool, dry environment",
+    "authors": ["K.L. Vaughan", "P.A. McDaniel", "W.M. Phillips"],
+    "venue": "Soil Science Society of America Journal",
+    "year": 2011
+  }, {
+    "title": "Late Cenozoic landscape evolution on lava flow surfaces of the Cima volcanic field, Mojave Desert, California",
+    "authors": ["S.G. Wells", "J.C. Dohrenwend", "L.D. McFadden", "B.R. Turrin", "K.D. Mahrer"],
+    "venue": "Geological Society of America Bulletin",
+    "year": 1985
+  }, {
+    "title": "Ecological aspects of plant colonisation of the Krakatau Islands",
+    "authors": ["R.J. Whittaker", "M.B. Bush", "T. Partomihardjo", "N.M. Asquith", "K. Richards"],
+    "venue": "GeoJournal",
+    "year": 1992
+  }, {
+    "title": "Impacts on agriculture following the 1991 eruption of Vulcan Hudson, Patagonia: lessons for recovery",
+    "authors": ["T. Wilson", "J. Cole", "S. Cronin", "C. Stewart", "D. Johnston"],
+    "venue": "Natural Hazards",
+    "year": 2011
+  }],
+  "id": "SP:458d56ac8132a615ac851c1dcd93f9bdde2c79da",
+  "authors": [{
+    "name": "Natalia I. Deligne",
+    "affiliations": []
+  }, {
+    "name": "Katharine V. Cashman",
+    "affiliations": []
+  }, {
+    "name": "Joshua J. Roering",
+    "affiliations": []
+  }],
+  "title": "After the lava flow: The importance of external soil sources for plant colonization of recent lava flows in the central Oregon Cascades, USA"
+}

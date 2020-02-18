@@ -1,0 +1,307 @@
+{
+  "sections": [{
+    "text": "Contents lists available at ScienceDirect\nIcarus\njournal homepage: www.elsevier .com/ locate/ icarus\nDo ice caves exist on Mars?\nK.E. Williams a,*, Christopher P. McKay a, O.B. Toon b, James W. Head c\na NASA Ames Research Center, Division of Space Sciences and Astrobiology, Mail Stop 245-3, Moffett Field, CA 94035, USA b Dept. of Atmospheric and Oceanic Sciences & Laboratory for Atmospheric and Space Physics, LASP UCB 392, University of Colorado, Boulder, CO 80309-0392, USA c Dept. of Geological Sciences, Brown University, 324 Brook Street, Box 1846, Providence, RI 02906, USA\na r t i c l e i n f o\nArticle history: Received 2 December 2009 Revised 10 March 2010 Accepted 31 March 2010 Available online 11 April 2010\nKeywords: Mars, Surface Mars, Atmosphere Mars, Climate Ices\n0019-1035/$ - see front matter 2010 Elsevier Inc. A doi:10.1016/j.icarus.2010.03.039\n* Corresponding author. E-mail address: kaj.williams@gmail.com (K.E. Will\na b s t r a c t\nWe have developed a numerical model for assessing the lifetime of ice deposits in martian caves that are open to the atmosphere. Our model results and sensitivity tests indicate that cave ice would be stable over significant portions of the surface of Mars. Ice caves on Earth commonly occur in lava tubes, and Mars has been significantly resurfaced by volcanic activity during its history, including the two main volcanic provinces, the Tharsis and Elysium rises. These areas, known or suspected of having subsurface caves and related voids are among the most favorable regions for the occurrence of ice stability. The martian ice cave model predicts regions which, if caves occur, would potentially be areas of astrobiological importance as well as possible water sources for future human missions to Mars.\n2010 Elsevier Inc. All rights reserved."
+  }, {
+    "heading": "1. Introduction and background",
+    "text": "Terrestrial caves are ubiquitous and occur in every major type of rock (Boston et al., 2004). They can provide sources of shelter and water, and as such are important biological habitats. On Mars, caves may be especially important forms of shelter, given the harsh radiation environments at the surface (Boston et al., 1992, 2004; Leveille and Datta, 2010; Schulze-Makuch et al., 2005). In addition, low-latitude martian caves may be viable water sources (Boston et al., 2004). While caves are often defined as natural cavities in the regolith large enough to admit human entry, the term in this paper is more broadly defined as any air-filled natural cavity beneath the planetary surface that has a connection with the atmosphere.\nAside from several researchers suggesting that caves exist on Mars (Boston, 2004b; Carr et al., 1977; Wynne et al., 2008), there is now some direct evidence of martian caves as well (Cushing et al., 2007a,b). Frederick et al. (2000) and Leveille and Datta (2010) hypothesized that martian lava tubes may harbor ice. Most of the martian caves hypothesized have been related to lava processes. It is possible, however, that other subterranean cavities may exist on Mars. Some cave formation mechanisms that may occur on Mars include mass wasting (e.g. undercutting of scarps) and tectonic processes leading to subsurface cracking (Boston, 2004b). Another interesting potential source of caves on Mars may be related to dissolution of soluble rock, presumably occurring during an earlier era when Mars was hypothesized to have been much\nll rights reserved.\niams).\nwetter (Boston, 2004b). On Earth, such solution caves occur often in limestones and evaporites, but also in quartzites, granites and sandstones (Boston, 2004b). Hence it is possible that a variety of formation mechanisms on Mars may have created air-filled caves. The term ‘‘ice cave” is generally different than ‘‘glacier cave”; the latter term is generally reserved for caves within ice (Yonge, 2004). The term ‘‘ice cave” has been defined in Yonge (2004) as a cave with both seasonal and perennial ice deposits. Ice caves are, for the purposes of this study, broadly defined as caves containing perennial ice, and hence the term applies to caves containing ice deposits where typical annual net ice loss rates are low.\nThe ice source for ice caves include wind-blown snow, frozen ponded rainwater, atmospherically deposited frost (Hoarfrost) or some combination of these sources. For Earth, such water sources are commonplace. At first glance, present-day Mars appears devoid of such water sources at low-latitudes. Previous climates of Mars, however, have been hypothesized to be much wetter than present-day Mars (Mischna et al., 2003, among others). We discuss the presence of water ice on present-day Mars in greater detail later in this paper. In permafrost regions of Earth the freezing of moist sediments, characterized by intra-particle aggregations (lenses, needles, etc.) between soil grains, can potentially be another type of ice in caves (Yonge, 2004). We have limited our modeled ice to be relatively pure, with only very small amounts of dust mixed in (if any), and no dust layer on top of the ice.\nIce caves do not necessarily require that the external ambient air temperature be subfreezing for much of the year; instead many terrestrial ice caves exist at low-latitudes, and are able to contain ice year-round due to a favorable air circulation pattern between the cave and the outside air (Racovita and Onac, 2000). If the cave\ngeometry favors the preferential accumulation of cold air, while expelling much of the warm air, then the cave will function as a ‘‘cold trap”. Examples of such cold trap caves containing ice include pits or vertical shafts, though more complex geometries exist as well (Racovita and Onac, 2000; Yonge, 2004). Lava tubes often lack extensive fissures, and are therefore more likely to have limited air circulation of the type favoring the cold-trapping behavior (Yonge, 2004). Hence lava tubes serve well the requirements for the geometry that is being modeled in this paper. The cold-trapping behavior of a particular terrestrial ice cave, in this case a limestone cave, is shown in Fig. 1."
+  }, {
+    "heading": "2. Model description",
+    "text": "The cave modeled in our study is a subterranean room (square floor, dimensions 10 m 10 m) with a ceiling height of 8 m. There is a small opening (‘‘chimney”) in the ceiling permitting air exchange with the outside (Fig. 2). The chimney is located near the edge of the ceiling.\nThe cave wall temperature was computed via the standard 1-D heat conduction equation:\n@T @t ¼ k @ 2T @x2\nð1Þ\nHere T is temperature, t is time, x is distance and k is the thermal diffusivity k 0\nqCp , where k0 is the thermal conductivity, q is the wall\nmaterial density and Cp the specific heat capacity of the wall material.\nThe thermal conductivity of the walls was derived for each surface gridbox from the Ames thermal inertia map for Mars (which is currently used in the Ames Mars General Circulation Model) by using the following relation (which is an empirical fit to data from Figs. 3 and 4 of Moore et al. (1989)):\nq ¼ 11;187 TI 41;840 0:3895 ð2Þ\nwhere q is the ground density in kg/m3 and TI is the thermal inertia of the location, in standard Thermal Inertia Units (TIU; 1 TIU ¼ Jm2 K ffiffisp ). A fixed value of specific heat capacity was then used in order to then infer the thermal conductivity using the relation\nk0 ¼ TI 2\nqCp ð3Þ\nThis method of deriving the thermal conductivity based solely on thermal inertia is admittedly crude, so we also modeled two additional scenarios where both the ground and cave walls were composed of high thermal inertia (rock) and low thermal inertia (dust) material (explained below).\nThe cave ceiling thickness was assumed to be equal to or thicker than several seasonal skin depths; the thermal skin depth is given by:\nd ¼\nffiffiffiffiffiffiffiffiffiffiffiffi k0s pqCp s ð4Þ\nHere d is the depth, k0 is the thermal conductivity and s is the period of the thermal cycle. The ceiling thickness of several skin depths was chosen in order to permit the same temperatures found in the cave walls to be applicable to the ceiling and bottom as well. Depending on the thermal inertia of the surface material (which is less than 100 TIU for many types of soils) the ceiling would generally have to be at least 0.5 m thick in order to quell a seasonal thermal wave.\nThe ice deposit in the cave is assumed to be a 1 m2 plate composed of solid ice with a thickness of 3 cm. It is assumed that the position of the ice is such that no portion of the outside sky is visible through the chimney. For purposes of this study, the ice plate may be considered to be in the center of the cave floor.\nThe ice is modeled as a single layer, and a mass and energy conserving finite-volume approach is used to compute the mass and energy balance. The energy and mass balance in the ice sheet is computed via:\n@U @t ¼ k @T @z\nice bottom\nk @T @z\nice surface\nerT4 þ SH þ Fir L @M @t\nð5Þ\nwhere U is the (area normalized) energy of the ice layer, t is time, k @T\n@z is the heat flux conduction term from either the bottom of the ice plate or the ice plate surface, erT4 is the outgoing emitted IR flux by the ice plate, SH is the sensible heat flux, Fir is the IR flux radiated by the cave walls and ceiling and L @M\n@t is the latent heat due to mass gain or loss. These terms are explained in the sections below. No atmospheric heating (IR) term between the cave air and the ice plate was included because of the small air mass in the cave.\nIn order to compute both the latent heat and sensible heat terms, we begin by noting that the sensible heat ‘‘drag” coefficient Cdh and momentum drag coefficient Cdm may be defined (Savijarvi, 1995; Haberle et al., 1999):\nCdm ¼ Fm k\nlnðz=z0Þ\n2 ð6Þ\nCdh ¼ ðFhÞ1=2 k\nlnðz=z0Þ\nHere k is the Von Karman constant (commonly taken to be 0.4). The stability functions are defined by (Hourdin et al., 1995; Haberle et al., 1999):\nFm ¼ ð1 64RiÞ1=2 Fh ¼ ð1 16RiÞ1=2\n) Ri < 0 ð7Þ\nFm ¼ 1 1þ10 Riffiffiffiffiffiffiffi\n1þ5Ri p\nFh ¼ 1 1þ15 Riffiffiffiffiffiffiffi\n1þ5Ri p\n9>>= >>; Ri > 0\nWhich are defined with the Richardson number Ri ¼ gzDhTjuj2, where g is gravity, z is the instrument height, u is the wind speed, Dh Ta Ts and T ¼ TaþTs2 as suggested by Sutton et al. (1978) and Ta and Ts are the temperatures in the air and at the surface respectively.\nThe friction velocity u is then (Haberle et al., 1999):\nu ¼ ðCdmÞ1=2u ð8Þ\nThe sensible heating and latent heat terms were found by summing the free and forced loss terms. Using Eqs. (6)–(8), the forced sensible heat term is given by (Haberle et al., 1999):\nHforced ¼ qairCpair u CdhðTa TsÞ ð9Þ\nwhere qair is the density of the air and Cpair is the specific heat capacity of the air.\nThe free sensible heat loss term is (Holman, 2002):\nHfree ¼ 0:15ðTa TsÞkgasðGrPrÞ 1 3 ð10Þ\nwhere Gr and Pr are the Grashof and Prandtl numbers, respectively and kgas is the thermal conductivity for CO2 gas (Holman, 2002).\nThe latent heat term is determined by computing the ice sublimation/deposition terms. The ice sublimation term was computed by adding the free and forced convective mass loss terms together. There is some experimental evidence that such an approach is correct (Chittenden et al., 2008), at least for wind speeds of less than or equal to 10 m/s. The GCM surface wind speeds can often be 10 m/s, however as mentioned previously the ice plate in the cave was exposed to a considerably lower wind speed than the surface winds, due to the cave geometry studied affecting the cave wind circulation pattern.\nThe forced mass-loss term was computed by using Eqs. (6)–(8) as:\nmforced ¼ u Cdhqairðw wsatÞ ð11Þ\nwhere w and wsat are the mass mixing ratios of water in the air and at the ice surface, respectively.\nThe free convective mass-loss term is given by (Ingersoll, 1970; Hecht, 2002 and others):\nmfree ¼ 0:17ðe esatÞMw D kT Dqair qair g m2 1=3\nð12Þ\nwhere\nDqair qair ¼ 26esatð44P 26esatÞ\nand m is the kinematic viscosity of CO2 gas, esat the water saturation vapor pressure, R the gas constant and D = 32T3/2/P is the diffusion coefficient of H2O vapor in CO2 gas.\nThe Fir term is the infrared radiation emitted by the surrounding surfaces and absorbed by the ice plate, and is computed by assuming that the walls emit as a blackbody:\nFir ¼ erT4 ð13Þ\nThe emissivity of the walls are an unknown, so we used a value of 0.928, taken by averaging several values in Mira et al. (2007) corresponding to a mixture of 99% sand and 1% silt. Model sensitivity tests were conducted on the wall emissivity and are summarized in Table 1.\nCO2 ice condensation has been omitted in this study. At Mars pressures, which vary with altitude and season, the condensation of CO2 should occur in the range of 142–149 K. At such low temperatures the atmosphere is able to hold only very small amounts of water. Further, the addition of a CO2 ice cap on top of the water ice plate would probably inhibit water ice loss (and thereby lengthen ice lifetimes). Hence we view our age of ice estimates to be conservative. It is possible, with the addition of CO2 ice condensation, that the water ice lifetimes are longer.\nIn order to estimate the mean horizontal wind speed over the ice plate, it was necessary to estimate cave airflow. The airflow for the basic cave configuration was simulated using a LatticeBoltzmann Model with a modification for turbulence (see Appendix A) for a low-viscosity CO2 atmosphere. As can be seen in Fig. 2, the general geometry is that of a shear-driven cavity, but with a chimney restriction. Our airflow calculations show that, depending on the exact cave configuration, after approximately 9 min (our integration time interval) the average horizontal airspeed over the floor ice plate was usually between 0.1% and 10% of the surface wind speed. We therefore assume the horizontal airspeed over the ice plate to be 1% of the GCM-provided surface wind speed (as a wind ‘‘scaling factor” of 0.01). However, due to the strong dependence of the floor wind scaling factor on the particular cave geometry (including cave ceiling thickness, room dimensions, chimney geometry, chimney location in the cave ceiling and ice\nplate location), we have varied the wind scaling factor by a large value (up to 10 and 1/10 ) in our sensitivity tests. The airflow analysis is shown in Fig. 3.\nIn a manner similar to Eq. (5), the energy balance in the cave air is given by:\n@U @t ¼ k @T @z\ncavewalls\nþ k @T @z\nicesurface\nSH þ L @M @t\nice\n\"\nþ L @M @t\ncavewalls\n# ðSAcave SAiceplateÞ\nþ k @T @z\nicesurface\nSH þ L @M @t\nice\n\" # SAiceplate ð14Þ\nwhere the terms are defined in the same manner as Eq. (5), except that in this case U is the total cave air energy and SAcave is the sur-\nface area of the cave interior and SAiceplate is the surface area of the initial ice plate on the cave floor. Note that for the cave air, the latent heat and heat conduction terms are computed between the air and all of the surfaces within the cave (either ice or bare soil). If the walls of the cave are covered in a thin layer of frost, then the latent heat and heat conduction terms are computed between the frost-laden walls and the cave air. In this case the IR emission terms were excluded because there was only a small air mass in the cave (typically 11 kg for the entire cave) and in practice the cave walls (either icy or bare soil) were essentially the same temperature as the cave air.\nWe retain water vapor in the cave that has been lost from the surface of the ice (i.e. the relative-humidity of the cave is allowed to increase as a result of ice sublimation). Humidity changes as well when the cave is flushed with outside air. Note that high relative-humidity within the cave air serves to suppress ice mass loss, or to add mass to the ice via frost deposition. Accordingly the ice lifetimes may be longer if particular caves do not have a chimney ventilation system to be used for air exchanges.\nIn this study, growing ice is modeled as frost deposition. Frost deposition is an involved topic in itself, and has been studied extensively in engineering (Cheng and Cheng, 2001; Sherif et al., 1993, among others). Note that Eq. (11) is one of the equations used in our model for mass loss. It seems unlikely, however, that Eq. (11) would work well for mass (frost) deposition when the gradient is reversed. Hence in this paper we have adopted a different semi-empirical model for frost deposition (explained below). In our model the frost layer, which forms on top of the ice plate, is assumed to be of uniform thickness and growing in a direction perpendicular to the plate. The frost is also assumed to be of uniform density at a given instant, and to have constant convective heat and mass transfer coefficients. These assumptions are shared by other studies, including Cheng and Cheng (2001) and Sherif et al. (1993).\nIn our approach, the frost deposition for Mars is modeled by applying the work of Sherif et al. (1993), which was originally developed for terrestrial environments. Following Sherif et al. (1993), we begin by assuming that the energy transferred from the humid air stream can be written as being conducted through the frost or stored within the frost layer:\nhiðia ipÞ ¼ kf dTfs dSf þ w ð15Þ\nwhere hi is the enthalpy transfer coefficient, ia and ip are the enthalpies of moist air evaluated at air temperature and frost surface\ntemperature, kf the thermal conductivity of frost, Sf is frost thickness, Tfs the frost surface temperature and w the energy storage term. Similar to Sherif et al. (1993) we will hereafter neglect the storage term. The energy transfer rate Q in the frost layer is governed by the sensible and latent heat exchanged with the humid airstream:"
+  }, {
+    "heading": "Q ¼ ½hðTa TfsÞ LhvðWa WfsÞ Asfc ð16Þ",
+    "text": "Where L is the latent heat of sublimation of frost, h and hv are the convective heat and mass transfer coefficients, Asfc is the area of the frost surface, Wa and Wfs are the humidity ratios (kgvapor/kgdry air) evaluated at the air temperature and frost surface temperature, Ta and Tfs are air temperature and surface temperature respectively.\nThe mass balance is given by\nhvðWa WfsÞ ¼ @ðqf Sf Þ @t ¼ Sf dqf dt þ qf dSf dt\nð17Þ\nwhere qf and Sf is the density and thickness of the frost layer and t is time.\nIn this model we assume, as others have done, that the forced convective heat transfer coefficient h may be approximated over a flat horizontal plate as h ¼ 0:322Pr1=3Re1=2 k 0 air\nx ð18Þ\nHere k0 is the thermal conductivity of the air and x is the distance from the leading edge of the plate. The density of the frost layer has been found to depend on the temperatures of both the free airstream, the substrate temperature and the airstream humidity (Cheng and Cheng, 2001). In our model we use the empirical frost density function devised by Hayashi et al. (1977a,b) for Earth air. Hayashi et al. (1977a) devised a parameterization of the frost density qf based on the frost surface temperature Tfs: qf ¼ 650eð0:227TfsÞ ð19Þ\nHere the density expression is reformulated for units of Celsius and kg/m3. The Hayashi et al. parameterization is technically valid for an airstream temperature range of 248.15 < Ts < 273.15 (K), airstream velocities between 2 and 6 m/s, and an airstream humidity ratio of 0.0075 kgvapour/kgdry air. We have adapted the above expression for Mars temperatures by specifying the initial frost density for temperature below 248 K to be the lowest parameterized value within the original range, namely 2.229 kg/m3. To our knowledge, no similar frost densification studies have been done for water ice in a low-pressure CO2 atmosphere, so it is unknown whether the above frost density parameterization is completely accurate for a Mars environment, especially at low temperatures ( 150 K). We have, however, conducted model sensitivity tests of this lower density threshold value (2.229 kg/m3), and found that the model was not sensitive to this minimum frost density, even when varied by a factor of 10.\nThe above frost density expression is clearly unsuitable for a scenario where the frost surface melts and the meltwater refreezes at depth within the frost layer. However during our simulations for Mars caves the frost surface never reached the melting point.\nDifferentiating (19) with respect to time, substituting into (17) and expanding we get\nhvðWa WfsÞ ¼ qf dSf dTfs dTfs dt þ Sf 147:55eð0:227TfsÞ dTfs dt\nð20Þ\nThen substituting (15) into (20) one gets\ndT dt ¼ hvðWa WfsÞ\nqf kf hiðia ifsÞ þ Sf 147:55eð0:227TfsÞ ð21Þ By a similar process we find the following expression for timederivative of the frost thickness:\ndS dt ¼ hvðWa WfsÞ\nqf þ Sf 147:55eð0:227TfsÞ hiðia ifsÞ\nKf\nð22Þ\nHere ia and ifs are the enthalpies of the moist air evaluated at the air temperature and at the frost surface temperature, respectively. Eqs. (21) and (22) are integrated via a standard forward-Euler scheme to find frost thickness Sf and frost surface temperature Tfs.\nThe model permits frost to be deposited onto the cave walls and ceiling if those surfaces become sufficiently cold (e.g. colder than the modeled ice plate). If the walls gain frost, then the mass and energy exchange is computed between the wall frost and the cave atmosphere as well via Eq. (14).\nThe atmospheric model used to drive the ambient air temperature, wind, humidity and air pressure for the Mars ice cave model was the Ames Mars General Circulation Model (MGCM) version 2.1 (Haberle et al., 1999; Nelli et al., 2009). The MGCM data covered 35 60 gridboxes (each gridbox approximately 5 6 ). The area poleward of 87.5 was not included in our model due to GCM data restrictions. Omitting the extremely high-latitude region is of no concern for this study since those areas are presumed to be covered by residual ice caps, and since we are primarily interested in the lower latitudes. The martian surface layer portion of the output was used to drive the cave model. The Ames MGCM output does, on occasion, permit supersaturation in the boundary layer to occur, however during those times we elected to limit the GCM relative humidities to 100%.\nThe temporal output resolution of the MGCM data was 1.5 h (90 min), however, we used a substepping resolution of 9 min, primarily to capture cave air temperature changes. The output resolution of the cave model was 9 min. Every 9 min the model would compare air temperatures within and outside of the cave and determine whether air circulation was warranted between the cave and the outside air. If an exchange was required, the air exchange was done instantaneously.\nThe cave model was applied to the entire martian surface (each of the 35 60 gridboxes) for one martian year. For each gridpoint, the cave wall temperature was first ‘‘equilibrated” by running an abbreviated model for one Mars year, and then the actual model was run for that gridbox for one Mars year. The equilibration spinup was used primarily to determine the approximate cave wall temperature, since it was assumed that it could vary according to the ambient air temperature of the cave air. Once the gridpoint was equilibrated for one simulated year, the full model involving mass and energy balance of the ice, cave air walls, and possible wall ice was run for the gridpoint over an additional Mars year. If the net difference of total ice within the cave (i.e. frost on walls, if any + ice plate) was positive (or zero), indicating a balance or net gain, then we claim that the simulated ice deposit was stable at that location."
+  }, {
+    "heading": "3. Model results",
+    "text": "As stated previously, the model was run for all gridpoints on the surface of Mars, for a single Mars year (in addition to the 1-year ‘‘spinup” period which was used to initialize the cave wall temperature). The GCM run itself was considered to be already equilibrated. The net loss rates of the total ice from the cave after 1 year were computed. The model results are shown in Figs. 3– 10. If the amount of ice after 1 year was equal to or exceeded the initial amount, then the gridpoint was considered to be an area where stable cave ice could exist. The numerical experiments do not address the (small-scale) varying geology, and whether caves were possible in special geological environments (discussed below).\nAir exchanges between cave air and the outside air typically occur when the outside air temperature is coldest (just prior to sunrise). Fig. 4 shows the diurnal temperature variations of the exterior air, cave air and cave wall skin at an equatorial location. Air exchanges occur during the early morning, at which time the outside air is slightly colder than the cave air. During the daytime, the air in the cave, the cave walls, and the ice warm slightly due to the surrounding cave wall material. During most of the day atmospheric air cannot enter the cave because it is not dense enough, a phenomenon also observed by Wynne et al. (2008) for the non-ice caves of the Atacama desert on Earth.\nThe base-case results, shown in Fig. 5, indicate that there is a noticeable absence of stable cave ice in the polar regions. The lack of polar cave ice appears to be a seasonal effect. The caves are flushed with new air at night every day throughout the year at\nlower latitudes. However in the polar regions the air exchanges occur during winter when cold air can sink into the cave. At that time, the polar atmosphere is expected to have tiny quantities of water vapor present. Hence the caves in the polar regions are starved of humid air. The lack of humid air yields only low and sporadic deposition within polar caves. It is expected, however, that annual precipitation at high latitudes would potentially contribute ice in the form of snow. We do not, however, include wind-blown or other forms of precipitation in this particular model.\nOn the other hand, cave ice would be stable for large portions of the martian surface. In particular, the major volcanic province of Mars, the Tharsis rise (Carr, 1974; Carr and Head, 2009), is among the most favorable regions, with numerous localized very favorable areas in the specific volcanic terrains in which lava channels, tubes (Leveille and Datta, 2010), and skylights (Cushing et al., 2007a,b) have been observed (Fig. 11). Furthermore, the second largest volcanic province on Mars, the Elysium rise is also a favorable location (Fig. 5). Understanding ice cave formation in the lower latitudes is slightly more complicated than understanding the lack of ice cave formation at high latitude. Low-latitudes have relatively high mean annual outside air temperature (Fig. 6) and mean annual ground temperature (Fig. 7), which permit larger amounts of atmospheric water. Lower latitude caves also experience large diurnal temperature variations in the outside air, which lead to frequent nocturnal air exchanges providing a water source for the cave. While the large diurnal temperature variation at lower latitudes can drive moist cold air into the caves at night, there is a zonal asymmetry to cave ice stability. The asymmetry is influenced largely by longitudinal variations in thermal inertia. In the mid-latitudes and tropics, the Tharsis region tends to favor stable cave ice (Fig. 5). For a given (low) latitude the Tharsis region has approximately the same daytime high-temperatures as Margaritifer Terra (approximately 0 N by 30 W). However, the nighttime lows can be 30 K colder on Tharsis than at lower elevations. The effect appears to be mostly due to the lower thermal inertia in the Tharsis area (compared with the Margaritifer Terra region, for example). We stress, however, that the model was somewhat sensitive to values of thermal inertia used (explained below)."
+  }, {
+    "heading": "4. Model sensitivity tests",
+    "text": "Several model parameters were varied in an effort to determine model sensitivities. The frost deposition parameters, GCM water\namounts and temperatures, ice drag coefficient, the emissivity of the cave walls and the wind speed over the ice plate were varied within a small range and the results are summarized in Table 1. It is interesting to note that none of the sensitivity parameters had extremely large model effects. The largest model sensitivities were due to the GCM-supplied air temperatures and thermal inertia values.\nAs stated previously we also modeled scenarios where the ground was composed of uniformly high thermal inertia (e.g. rock) and low thermal inertia (e.g. dust) material. Following the values used in Putzig and Mellon (2007), high thermal inertia material was taken to be rock with a density of 2500 kg/m3, thermal inertia of 2506 TIU, Cp of 837 J/kg K and an inferred thermal conductivity of 3.0012 W/mK. The low thermal inertia case assumed a dust material with a density of 1375 kg/m3, thermal inertia of 56 TIU,\nCp of 837 J/kg K and an inferred thermal conductivity of 0.0027 W/mK. The results of these additional sensitivity tests are shown in Figs. 9 and 10.\nIt is also interesting to note from Fig. 10 that higher thermal conductivity of the cave walls appears to provide a natural negative feedback to overall cave ice deposition. The GCM temperatures were not changed for the runs of Figs. 9 and 10; only the wall thermal inertia (and hence thermal conductivity) was changed. The high thermal inertia serves to diminish the influence of cold cave air on the wall temperatures. Low thermal inertia of the cave walls permits the cold cave air to chill the walls, creating a cave environment more conducive to ice formation. Note that the cave walls are not responding to thermal energy propagating through the ground into the cave. Rather as shown in Fig. 4 the walls are responding to the temperature of the air entering the cave."
+  }, {
+    "heading": "5. Discussion and conclusion",
+    "text": "The base-case results (Fig. 5) and our model sensitivity tests indicate that cave ice would be stable for significant portions of Mars. From a geological standpoint, it is well-known from terrestrial studies that ice caves are common occurrences in lava tubes in various volcanic terrains and environments. Knutson (1972) described three major lava tube systems in Oregon: these extend from 2 to almost 14 km in length, are as deep as 40 m below the surface, have roof sections up to 25 m thick, and often have collapsed segments and skylights. Lava caves are common in volcanic terrains in the western part of North America (Knutson, 1969, 1970; Greeley, 1971; Greeley and Hyde, 1972); many ice cave segments are well-known and the mechanisms for ice development have been studied (e.g., Macdonald, 1993).\nMars has been significantly resurfaced by volcanic activity in the course of its lifetime (Carr, 1973). In addition to major areas of the planet resurfaced by volcanic flows in the Hesperian period (Greeley and Spudis, 1981; Carr and Head, 2009), the two major\nvolcanic provinces of Mars, the Tharsis and Elysium rises, are also characterized by numerous channels and collapsed lava tubes (Fig. 11). Our analysis thus shows that areas suspected of having subsurface caves and related voids on the basis of the geologic evidence, are also among the most favorable regions for the occurrence of ice stability in such caves (Fig. 5).\nIt should be noted that our frost deposition scheme is based on a formulation designed for a forced (wind-driven) situation with wind speeds somewhat higher than the winds in the cave. According to our airflow model we do have low-speed winds at all times in the cave, however our frost deposition scheme probably underestimates the deposition in the low-wind case since the Sherif et al. (1993) equations predict no frost deposition whatsoever in the zero-wind case. Hence we believe our frost deposition and cave ice stability estimates to be conservative; there may be additional areas where cave ice is stable on Mars.\nAn interesting way to interpret the inferred loss rates in Fig. 5 is to consider the lifetime of previously deposited ice. For example, given a loss rate of 0.029 kg/year, a cave containing a 1 m – thick ice plate on the cave floor would presumably last 34,000 years. Given this approach, there are substantial areas in the presentday martian tropics where cave ice deposits (while they slowly sublimate) would survive for long periods. Thicker ice deposits in caves, while not specifically modeled in this paper, may last much longer (e.g. 100,000 years).\nIf such ice deposits were to survive for timescales of 100,000 years, they could be remnants of an obliquity maximum (of up to 35 ) which is hypothesized to have occurred over this timescale (Laskar, 2004) and deposited ice at mid-latitudes that is currently thought to be preserved under a cover of sublimation lag (Head et al., 2006, 2010). Mischna et al. (2003) have found that under high obliquities (35 and higher) there could have been centimeters of ice seasonably deposited at low-latitudes and hundreds of meters to kilometers over longer time periods at mid-latitudes (Madeleine et al., 2009). Holt et al. (2008) and Plaut et al. (2009) have shown evidence from SHARAD radar data of large amounts of buried ice in the present-day mid-latitudes of Mars in many of the locations described by Head et al. (2006, 2010). In addition,\nHead and Marchant (2003) have documented the presence of huge tropical mountain glacier deposits (up to 170,000 km2) of Late Amazonian age and Forget et al. (2006) have shown how these are produced by precipitation from the flow of moist polar air up the western slopes of the Tharsis rise. It is certainly conceivable that, if such ice had been deposited as snow, that the snow could have been blown (or otherwise deposited) in caves or fissures, where the snow might have been preserved. In addition, if any snow melted under such climate regimes (Williams et al., 2009) then it is also conceivable that some meltwater may have infiltrated the soil or become runoff, becoming yet another water source for our hypothesized cave ice.\nIn this study we have neglected the possibility of dust layers on top of the cave ice deposits. The effects of an overlying dust layer on cave ice are unknown. Some work has been done previously on the effect of a dust top layer in snowpacks exposed to sunlight on Mars (Williams et al., 2008), however the effect of such a layer, when there is no sunlight, is unclear. It is possible that the effect would be minimal for the mass transfer between the ice surface and the atmosphere as long as the water vapor permeability is high.\nAdditional research is necessary in order to determine whether the frost deposition model of Sherif et al. (1993) is indeed an effective predictor of frost deposition in a low-pressure (and low-temperature) CO2 atmosphere. Nevertheless, given the lack of sensitivity in the model to the frost deposition scheme (the first two density parameters listed in Table 1), it is likely that the deposition model is adequate.\nThe results in this study suggest that there are extensive areas where ice may be preserved for long timescales in martian cave environments. The possibility that ice may be preserved in martian caves and/or karst terrain is of astrobiological importance, as well as of importance to any potential human exploration missions to Mars."
+  }, {
+    "heading": "Acknowledgments",
+    "text": "The authors would like to thank James Schaeffer for providing the MGCM data used in this study (AmesMGCM model run # 2009.003). K.E. Williams would like to thank Andrew Ingersoll for helpful discussions. This paper also benefited from the comments of two anonymous reviewers. J.W.H. gratefully acknowledges support from the NASA Mars Data Analysis Program (MDAP). Thanks are extended to James Dickson for data and image processing and presentation. K.E. Williams was funded by the NASA Postdoctoral Program."
+  }, {
+    "heading": "Appendix A. Lattice-Boltzmann Models",
+    "text": "The airflow pattern within the cave has been simulated in this study with a 2-D computational fluid dynamics (CFD) model known as a Lattice-Boltzmann Model (LBM). Such models have been previously applied to airflow situations with good success (Masselot and Chopard, 1998; Jimenez-Hornero et al., 2005). LBMs have several advantages over traditional finite-difference methods, not the least of which is that LBMs are much better suited to modeling complex geometries, in this case a cave with a chimney. LBMs are a modern variant of the lattice-gas automata (LGA) model of Frisch et al. (1986), where it was shown that lattice gases modeled with discrete elements were capable of simulating the Navier– Stokes equations. Building on successes of the LGA models, LBMs have become a popular choice for simulating the Navier–Stokes equations, especially in the incompressible limit (Yu, 2003; Hou et al., 1995, among others).\nUnlike the traditional methods of solving the Navier–Stokes equations, LBMs instead solve the kinetic equation particle velocity distribution function f(x, v, t) on a lattice, where x is the position vector, v is the particle velocity vector, and t is time. The macroscopic quantities of momentum density and mass density are recovered by evaluating moments of f. In general, the LBM is a Lagrangian solution on a lattice to the continuum kinetic equation\n@fa @t þ ea rfa ¼ Xa ðA1Þ\nwhere Xa is the so-called collision operator and ea the velocity vectors in directions a = 0, . . . , 8 for a square lattice.\nOur particular kinetic model used to simulate cave airflow in our model is a two-dimensional form of the Bhatnagar–Gross– Krook (BGK) collision model,\n@fa @t þ ea rfa ¼ 1 k fa f ð0Þa\nðA2Þ\nwhere a single relaxation time k is used to approximate the collision integral, and f ð0Þa denotes the equilibrium distribution function. Using the same notation as Yu (2003) for the two-dimensional nine-velocity (D2Q9) model, the particle (microscopic) velocities are computed via\ne0 ¼ 0 ea ¼ c cos ða 1Þ p 4 ; sin ða 1Þp 4\nfor a ¼ 1;3;5;7\nea ¼ ffiffiffi 2 p\nc cos ða 1Þp 4 ; sin ða 1Þp 4\nfor a ¼ 2;4;6;8 ðA3Þ\nwhere the lattice speed c ¼ dxdt ; dx is the lattice spacing and dt is the time interval. The equilibrium state is given by:\nf 0a ¼ qwa 1þ 3 c2 ea uþ 9 2c4 ðea uÞ2 3 2c2 u u\nðA4Þ\nwhere the vector u is the macroscopic velocity and the weights are given by\nwa ¼ 4=9 for a ¼ 0 wa ¼ 1=9 for a ¼ 1;3;5;7 wa ¼ 1=36 for a ¼ 2;4;6;8 ðA5Þ\nOn the lattice, density and momentum are computed via q ¼ X8 a¼0 fa ðA6Þ qu ¼ X8 a¼0 eafa ðA7Þ\nThe evolution of the particle distribution function f on a lattice and for direction a can be written as\nfaðxþ eadt; t þ dtÞ faðx; tÞ ¼ 1 s ðfaðx; tÞ f 0a ðx; tÞÞ ðA8Þ\nwhere s is a relaxation parameter. Following the work of Hou et al. (1994) we have modified the collision step to allow for higher Reynolds numbers ( 106) by adjusting the relaxation time according to local velocity gradients (i.e. by applying a Smagorinsky subgrid scale modification to s).\nThe model is then evaluated by the ‘‘collide and stream approach” by first executing a collision step for a given lattice point, followed by a streaming step (where f is propagated to neighboring lattice points). We have validated a somewhat simplified lid-driven cavity form of the above model (as have others) by comparing the velocity transects at the geometric center of the cavity with the numerical results of Ghia et al. (1982)."
+  }],
+  "year": 2010,
+  "references": [{
+    "title": "Extraterrestrial caves",
+    "authors": ["P.J. Boston"],
+    "venue": "Encyclopedia of Cave and Karst Science. Fitzroy-Dearborn Publishers,",
+    "year": 2004
+  }, {
+    "title": "On the possibility of chemosynthetic ecosystems in subsurface habitats on Mars",
+    "authors": ["P. Boston", "M. Ivanov", "C.P. McKay"],
+    "venue": "Icarus",
+    "year": 1992
+  }, {
+    "title": "Extraterrestrial subsurface technology test bed: Human use and scientific value of martian caves",
+    "authors": ["P.J. Boston", "R.D. Frederick", "S.M. Welch", "J. Werker", "T.R. Meyer", "B. Sprungman", "V. Hildreth-Werker", "S.L. Thompson"],
+    "venue": "Space Technology and Applications Internat. Forum-STAIF 2004: Conf. on Thermophys. in Microgravity; Commercial/Civil",
+    "year": 2004
+  }, {
+    "title": "Tectonism and volcanism of the Tharsis region of Mars",
+    "authors": ["M.H. Carr"],
+    "venue": "J. Geophys. Res",
+    "year": 1974
+  }, {
+    "title": "Geologic history of Mars",
+    "authors": ["M.H. Carr", "J.W. Head"],
+    "venue": "Earth Planet. Sci. Lett., in press",
+    "year": 2009
+  }, {
+    "title": "Some martian volcanic features as viewed from the Viking orbiters",
+    "authors": ["M. Carr", "R. Greeley", "K. Blasius", "J. Guest"],
+    "venue": "J. Geophys. Res",
+    "year": 1977
+  }, {
+    "title": "Predictions of frost growth on a cold plate in atmospheric air",
+    "authors": ["C. Cheng", "Y. Cheng"],
+    "venue": "Int. Commun. Heat Mass Trans",
+    "year": 2001
+  }, {
+    "title": "Experimental study of the effect of wind on the stability of water ice on Mars",
+    "authors": ["J. Chittenden", "V. Chevrier", "L. Roe", "K. Bryson", "R. Pilgrim", "D. Sears"],
+    "venue": "Icarus 196,",
+    "year": 2008
+  }, {
+    "title": "THEMIS observes possible cave skylights on Mars",
+    "authors": ["G.E. Cushing", "T.N. Titus", "J.J. Wynne", "P.R. Christensen"],
+    "venue": "Lunar Planet. Sci",
+    "year": 2007
+  }, {
+    "title": "Formation of glaciers on Mars by atmospheric precipitation at high obliquity",
+    "authors": ["F. Forget", "R.M. Haberle", "F. Montmessin", "B. Levrard", "J.W. Head"],
+    "year": 2006
+  }, {
+    "title": "Martian ice caves",
+    "authors": ["R.D. Frederick", "T.L. Billings", "R.D. McGown", "B.E. Walden"],
+    "venue": "Workshop on Concepts and Approaches for Mars Exploration,",
+    "year": 2000
+  }, {
+    "title": "Lattice-gas automata for the Navier– Stokes equation",
+    "authors": ["U. Frisch", "B. Hasslacher", "Y. Pomeau"],
+    "venue": "Phys. Rev. Lett",
+    "year": 1986
+  }, {
+    "title": "High-Re solutions for incompressible flow using the Navier–Stokes equations and a multigrid method",
+    "authors": ["U. Ghia", "K.N. Ghia", "C.T. Shin"],
+    "venue": "J. Comput. Phys",
+    "year": 1982
+  }, {
+    "title": "Geology of Selected Lava Tubes in the Bend area, Oregon",
+    "authors": ["R. Greeley"],
+    "venue": "Oregon State Department of Geology and Mineral Industries,",
+    "year": 1971
+  }, {
+    "title": "Lava tubes of the Cave Basalt Mount St. Helens, Washington",
+    "authors": ["R. Greeley", "R. Hyde"],
+    "venue": "Geol. Soc. Am. Bull",
+    "year": 1972
+  }, {
+    "title": "General circulation model simulations of the Mars Pathfinder atmospheric structure investigation/meteorology data",
+    "authors": ["R. Haberle", "M.M. Joshi", "J.R. Murphy", "J.R. Barnes", "J.T. Schofield", "G. Wilson", "M. LopezValverde", "J.L. Hollingsworth", "A.F.C. Bridger", "J. Schaeffer"],
+    "venue": "J. Geophys. Res",
+    "year": 1999
+  }, {
+    "title": "Study of frost formation based on a theoretical model of the frost layer",
+    "authors": ["Y. Hayashi", "K. Aoki", "H. Yuhara"],
+    "venue": "Heat Trans. – Japanese Res",
+    "year": 1977
+  }, {
+    "title": "Study of frost properties correlating with frost formation",
+    "authors": ["Y. Hayashi", "A. Aoki", "S. Adachi", "K. Hori"],
+    "venue": "type. J. Heat Trans. – Trans. ASME",
+    "year": 1977
+  }, {
+    "title": "Cold-based mountain glaciers on Mars",
+    "authors": ["J.W. Head", "D.R. Marchant"],
+    "venue": "Western Arsia Mons. Geology",
+    "year": 2003
+  }, {
+    "title": "Extensive valley glacier deposits in the northern mid-latitudes of Mars: Evidence for Late Amazonian obliquity-driven climate change",
+    "authors": ["J.W. Head", "D.R. Marchant", "M.C. Agnew", "C.I. Fassett", "M.A. Kreslavsky"],
+    "venue": "Earth Planet. Sci",
+    "year": 2006
+  }, {
+    "title": "Northern midlatitude glaciation in the Late Amazonian period of Mars: Criteria for the recognition of debris-covered glacier and valley glacier landsystem deposits",
+    "authors": ["J.W. Head", "D.R. Marchant", "J.L. Dickson", "A. Kress", "D.M. Baker"],
+    "venue": "Earth Planet. Sci. Lett., in press",
+    "year": 2010
+  }, {
+    "title": "Metastability of liquid water on Mars",
+    "authors": ["M. Hecht"],
+    "venue": "Icarus 156,",
+    "year": 2002
+  }, {
+    "title": "Heat Transfer, ninth ed",
+    "authors": ["J.P. Holman"],
+    "year": 2002
+  }, {
+    "title": "Radar sounding evidence for buried glaciers in the southern mid-latitudes of Mars",
+    "authors": ["J.W. Holt"],
+    "venue": "Science",
+    "year": 2008
+  }, {
+    "title": "A Lattice Boltzmann Subgrid Model for High Reynolds Number Flows. arXiv:/comp-gas/9401004v1",
+    "authors": ["S. Hou", "J. Sterling", "S. Chen", "G.D. Doolen"],
+    "year": 1994
+  }, {
+    "title": "Simulation of cavity flow by the Lattice Boltzmann Method",
+    "authors": ["S. Hou", "Q. Zou", "S. Chen", "G.D. Doolen", "C. Allen"],
+    "venue": "J. Comput",
+    "year": 1995
+  }, {
+    "title": "The sensitivity of the martian surface pressure and atmospheric mass budget to various parameters: A comparison between numerical simulations and Viking observation",
+    "authors": ["F. Hourdin", "F. Forget", "O. Talagrand"],
+    "venue": "J. Geophys. Res",
+    "year": 1995
+  }, {
+    "title": "Mars: Occurrence of liquid water",
+    "authors": ["A.P. Ingersoll"],
+    "venue": "Science",
+    "year": 1970
+  }, {
+    "title": "Numerical study of the natural airflow in greenhouses using a two-dimensional lattice model",
+    "authors": ["F. Jimenez-Hornero", "E. Gutierrez De Rave", "R. Hidalgo", "J. Giraldez"],
+    "venue": "Biosyst. Eng",
+    "year": 2005
+  }, {
+    "title": "Great lava cave systems of the west, Pt",
+    "authors": ["R.S. Knutson"],
+    "venue": "Oregon Speleogr. V",
+    "year": 1969
+  }, {
+    "title": "Great lava cave systems of the west, Pt",
+    "authors": ["R.S. Knutson"],
+    "venue": "Oregon Speleogr. VI (1),",
+    "year": 1970
+  }, {
+    "title": "Major lava cave systems in Oregon",
+    "authors": ["R.S. Knutson"],
+    "venue": "Proceedings of the International Symposium on Vulcanospeleology and Its Extraterrestrial Applications: A Special Session of the 29th Annual Convention of the National Speleological Society, White Salmon, Washington,",
+    "year": 1972
+  }, {
+    "title": "Long term evolution and chaotic diffusion of the insolation quantities of Mars",
+    "authors": ["J. Laskar"],
+    "venue": "Icarus 170,",
+    "year": 2004
+  }, {
+    "title": "Lava tubes and basaltic caves as astrobiological targets on Earth and Mars: A review",
+    "authors": ["R.J. Leveille", "S. Datta"],
+    "venue": "Planet. Space Sci",
+    "year": 2010
+  }, {
+    "title": "Mechanism for ice development in ice caves of Western North America",
+    "authors": ["W.D. Macdonald"],
+    "venue": "Can. Caver",
+    "year": 1993
+  }, {
+    "title": "Amazonian northern mid-latitude glaciation on Mars: A proposed climate",
+    "authors": ["J.B. Madeleine", "F. Forget", "J.W. Head", "B. Levrard", "F. Montmessin", "E. Millour"],
+    "venue": "scenario. Icarus",
+    "year": 2009
+  }, {
+    "title": "A Lattice Boltzmann Model for particle transport and deposition",
+    "authors": ["A. Masselot", "B. Chopard"],
+    "venue": "Europhys. Lett",
+    "year": 1998
+  }, {
+    "title": "Influence of soil water content on the thermal infrared emissivity of bare soils: Implication for land surface temperature determination",
+    "authors": ["M. Mira", "E. Valor", "R. Boluda", "V. Caselles", "C. Coll"],
+    "venue": "J. Geophys. Res",
+    "year": 2007
+  }, {
+    "title": "On the orbital forcing of martian water and CO2 cycles: A general circulation model study with simplified volatile schemes",
+    "authors": ["M.A. Mischna", "M. Richardson", "R.J. Wilson", "McCleese", "Daniel J"],
+    "venue": "J. Geophys. Res",
+    "year": 2003
+  }, {
+    "title": "Viking landing sites, remote-sensing observations, and physical-properties of martian surface materials",
+    "authors": ["J. Moore", "B. Jakosky"],
+    "venue": "Icarus",
+    "year": 1989
+  }, {
+    "title": "Characterization of the nighttime low-latitude water ice deposits in the NASA Ames Mars General",
+    "authors": ["S. Nelli", "J. Murphy", "W. Feldman", "J. Schaeffer"],
+    "year": 2009
+  }, {
+    "title": "Radar evidence for ice in lobate debris aprons in the mid-northern latitudes of Mars",
+    "authors": ["J.J. Plaut", "A. Safaeinili", "J.W. Holt", "R.J. Phillips", "J.W. Head", "R. Seu", "N.E. Putzig", "A. Frigeri"],
+    "venue": "Geophys. Res",
+    "year": 2009
+  }, {
+    "title": "Apparent thermal inertia and the surface heterogeneity of Mars",
+    "authors": ["N.E. Putzig", "M.T. Mellon"],
+    "venue": "Icarus 191,",
+    "year": 2007
+  }, {
+    "title": "Scarisoara Glacier Cave. Monographic Study. Carpatica, Cluj-Napoca (ISBN 973-98752-1-1)",
+    "authors": ["G. Racovita", "B.P. Onac"],
+    "year": 2000
+  }, {
+    "title": "Mars boundary layer modeling: Diurnal moisture cycle and soil properties at the Viking Lander 1 site",
+    "authors": ["H. Savijarvi"],
+    "venue": "Icarus 117,",
+    "year": 1995
+  }, {
+    "title": "Scenarios for the evolution of life on Mars",
+    "authors": ["D. Schulze-Makuch", "L. Irwin", "J. Lipps", "D. LeMone", "J. Dohm", "A. Fairen"],
+    "venue": "J. Geophys. Res",
+    "year": 2005
+  }, {
+    "title": "A semi-empirical transient method for modelling frost formation on a flat plate",
+    "authors": ["S.A. Sherif", "S.P. Raju", "M.M. Padki", "A.B. Chan"],
+    "venue": "Int. J. Refrig",
+    "year": 1993
+  }, {
+    "title": "Diurnal variations of the martian surface layer meteorological parameters during the first 45 sols at two Viking lander sites",
+    "authors": ["J.L. Sutton", "C.B. Leovy", "J.E. Tillman"],
+    "venue": "J. Atmosph. Sci",
+    "year": 1978
+  }, {
+    "title": "Stability of midlatitude snowpacks on Mars",
+    "authors": ["K.E. Williams", "O. Toon", "J. Heldmann", "C. Mckay", "M. Mellon"],
+    "venue": "Icarus 196,",
+    "year": 2008
+  }, {
+    "title": "Ancient melting of midlatitude snowpacks on Mars as a water source for gullies",
+    "authors": ["K.E. Williams", "O. Toon", "J. Heldmann", "M. Mellon"],
+    "venue": "Icarus",
+    "year": 2009
+  }, {
+    "title": "On developing thermal cave detection techniques for Earth, the Moon and Mars",
+    "authors": ["J. Wynne", "T. Titus", "G. Chongdiaz"],
+    "venue": "Earth Planet. Sci",
+    "year": 2008
+  }, {
+    "title": "Ice in caves",
+    "authors": ["C. Yonge"],
+    "venue": "Encyclopedia of Cave and Karst Science. Fitzroy-Dearborn Publishers,",
+    "year": 2004
+  }, {
+    "title": "Viscous flow computations with the method of Lattice Boltzmann equation",
+    "authors": ["D. Yu"],
+    "venue": "Prog. Aerosp. Sci",
+    "year": 2003
+  }],
+  "id": "SP:16761353a2906e27ef1eb6e0f5d42a3562ab2785",
+  "authors": [{
+    "name": "K.E. Williams",
+    "affiliations": []
+  }, {
+    "name": "Christopher P. McKay",
+    "affiliations": []
+  }, {
+    "name": "O.B. Toon",
+    "affiliations": []
+  }, {
+    "name": "James W. Head",
+    "affiliations": []
+  }],
+  "abstractText": "We have developed a numerical model for assessing the lifetime of ice deposits in martian caves that are open to the atmosphere. Our model results and sensitivity tests indicate that cave ice would be stable over significant portions of the surface of Mars. Ice caves on Earth commonly occur in lava tubes, and Mars has been significantly resurfaced by volcanic activity during its history, including the two main volcanic provinces, the Tharsis and Elysium rises. These areas, known or suspected of having subsurface caves and related voids are among the most favorable regions for the occurrence of ice stability. The martian ice cave model predicts regions which, if caves occur, would potentially be areas of astrobiological importance as well as possible water sources for future human missions to Mars. 2010 Elsevier Inc. All rights reserved.",
+  "title": "Do ice caves exist on Mars?"
+}

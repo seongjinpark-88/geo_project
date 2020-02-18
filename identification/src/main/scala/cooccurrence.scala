@@ -21,6 +21,7 @@ object CooccurrenceExample extends App {
 	val proc:Processor = new CoreNLPProcessor(withDiscourse = false)
 
 	// read the sentences
+	// val bufferedSource = io.Source.fromURL(getClass.getResource(args(0)))
 	val bufferedSource = io.Source.fromFile(args(0))
 
 	// create the counter
@@ -110,6 +111,7 @@ object CooccurrenceExample extends App {
 						// map site, location, and their distance
 						for (j <- 0 to siteList.length - 1) {
 							val siteTrim = siteList(j).trim
+//							printf("Site: %s, Location: %s, Distance: %d\n", siteTrim, location.toString, scala.math.abs(siteIndex(j) - i))
 							dists(siteTrim, location.toString) += scala.math.abs(siteIndex(j) - i)
 
 						}
@@ -166,16 +168,26 @@ object CooccurrenceExample extends App {
 				else {
 					disambiguate(uniqSites(i)) = uniqLocs(j)
 				}
+
+//				print(uniqSites(i))
+//				print("\t")
+//				print(uniqLocs(j))
+//				print("\t")
+//				print(dists(uniqSites(i), uniqLocs(j)).toList.min)
+//				println()
 			}
 		}
 	}
 
-	// File writer, append: true
 	val writer = new FileWriter(args(1), true)
 
 	for ((k, v) <- disambiguate){
 		val dist = dists(k, v).toList.min
+		// printf("%s\t%s\t%d\n", k, v, dist)
 		writer.write(s"${k}\t${v}\t${dist}\n")
 	}
 	writer.close()
 }
+
+
+

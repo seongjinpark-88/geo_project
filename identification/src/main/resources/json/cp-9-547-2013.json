@@ -1,0 +1,428 @@
+{
+  "sections": [{
+    "text": "Discussions\nOcean Science\nO pen A ccess\nO pen A ccess Ocean Science Discussions\nSolid Earth\nO pen A ccess\nO pen A ccess Solid Earth Discussions\nThe Cryosphere\nO pen A ccess\nO pen A ccess The Cryosphere Discussions\ntimescales. Also, both the Pacific Decadal Oscillation (PDO) and the Atlantic Multidecadal Oscillation (AM ) modulate intermittently the interdecadal OHC variability in the North Pacific and Mid Atlantic, respectively. The NAO, through its influence on North Atlantic surface heat fluxes and convection, also plays an important role on the OHC at multiple timescales, leading first to a cooling in the Labrador and Irminger seas, and later on to a North Atlantic warming, associated with a delayed impact on the AMO."
+  }, {
+    "heading": "1 Introduction",
+    "text": "A manifest proof of anthropogenic influence on climate is the recent warming of the world oceans (Levitus et al., 2001), its prominent features being reproduced by model only when anthropogenic GHG (greenhouse gas) forcing is considered (Levitus et al., 2001; Crowley et al., 2003; Gregory et al., 2004; Barnett et al., 2005; Delworth et al., 2005; Palmer et al., 2009; Gleckler et al., 2012). This positive trend in upper ocean temperature and heat content (OHC) is robust to all the observational datasets and processing methods (Lyman et al., 2010; Trenberth, 2010). In the 20th century, two other prominent factors besides the GHG rise are known to have had a noticeable contribution to the global OHC integral: anthropogenic, and to a lesser extent, volcanic aerosols have partly offset the ocean warming resulting from increasing GHG concentrations (Delworth et al., 2005; Booth et al.,\nPublished by Copernicus Publications on behalf of the European Geosciences Union.\n2012). Furthermore, the influence of volcanoes is particularly important to explain the observed decadal OHC changes (Domingues et al., 2008).\nSomewhat more debated are observational estimates reporting a flattening of the upper OHC trend since 2003, despite the steady increase in GHG concentrations and the subsequent radiative imbalance at the top of the atmosphere (Trenberth and Fasullo, 2010), which has been challenged by recent Argo data suggesting a continuous ocean warming during the same period (Schuckmann and Traon, 2011). Two possible causes have been proposed to explain the possible hiatus in the upper ocean warming. One of them is that it is due to an increase of the Earth’s outgoing radiation at the top of the atmosphere, partly associated with decadal El Niño variability (Katsman and van Oldenborgh, 2011). It can be also explained through an enhancement of heat transfer from the surface to deeper ocean levels (Meehl et al., 2011). The deeper ocean warming can be associated with a decrease in convection in the North Atlantic, which will diminish the vertical transfer of surface cold water, thus leading to an anomalous warming at depth and a cooling in the upper levels. However, it is not clear if the proposed mechanisms can quantitatively balance the global energy budget. Furthermore, other internal processes of atmospheric and ocean variability have been proposed to influence OHC. Levitus et al. (2005), for instance, suggest a reversal of polarity in the PDO (Pacific Decadal Oscillation) to explain the observed interdecadal OHC variability from 1956 to 2003. Also in the Pacific Ocean, Willis et al. (2004) report a potential influence of strong ENSO-related (El Niño Southern Oscillation) events on the global OHC budget at interannual timescales. However, these latter analyses are prior to the identification of important instrumentation problems in OHC estimates (Gouretski and Koltermann, 2007) resulting, among other features, in an overestimation of its interdecadal variability (Levitus et al., 2009). It remains unclear to what extent the previous results would change in the new corrected OHC climatologies (Domingues et al., 2008; Ishii and Kimoto, 2009; Levitus et al., 2009).\nThese assessments of natural and forced OHC variability are based on observations, representative only of the last 55 yr. A broader time perspective is therefore desirable, in particular for two reasons. First, the influence of internal modes of climate variability on the OHC can be assessed within a longer time period, thus allowing for a quantification of their associated global and local impacts at multidecadal to secular timescales. And second, further insight into the influence of external forcings can be achieved in an extended time interval that incorporates more volcanic eruptions and larger insolation changes, such as the transition from the Medieval Climate Anomaly (MCA) to the Little Ice Age (LIA). The aim of this study is therefore to improve our understanding of the processes and factors influencing OHC variability over the last millennium through the analysis of both control and forced millennial simulations with the ECHO-G model\n(coupled climate model ECHAMA4 (Roeckner et al., 1996) and ocean model HOPE-G (Wolff et al., 1997)). An equivalent analysis, focused on the Atlantic meridional overturning variability and making use of the same group of experiments, is performed in Ortega et al. (2012), hereafter referred to as OR12. In the current study a thorough comparison of the simulations with the available observations is carried out for the instrumental period (i.e. 1955–2010). In this way, the model performance is first assessed for the observational period before the impacts of the forcings and the influence of internal variability are evaluated from interdecadal to secular timescales. In the next section the model and the experiments are presented, as well as the observational OHC dataset. Section 3 aims at determining the realism of the simulations by comparing them against the available evidence of past OHC variability (both observations and proxy reconstructions). The fingerprint of the external forcing on the global OHC is then addressed in Sect. 4. Likewise, Sect. 5 deals with the contribution of different modes of climate variability to global and local OHC. To conclude, Sect. 6 summarises and discusses the major findings of this study."
+  }, {
+    "heading": "2 Simulations and instrumental data",
+    "text": ""
+  }, {
+    "heading": "2.1 Model description",
+    "text": "Experiments were performed using the ECHO-G model (Legutke and Voss, 1999), which consists of the spectral atmospheric model ECHAM4 (Roeckner et al., 1996) and the ocean model HOPE-G (Wolff et al., 1997). The atmospheric component is characterised by a T30 horizontal resolution (ca. 3.75◦ × 3.75◦), including 19 vertical levels. The horizontal resolution of the ocean model is about 2.8◦ × 2.8◦, with an improvement of the meridional resolution from the Tropics towards the Equator to provide a better representation of equatorial and tropical ocean currents. In the vertical, the ocean has 20 variably spaced levels, 14 of which are located in the upper 1000 m. The ocean component incorporates a dynamic-thermodynamic sea-ice module that uses atmospheric fluxes to estimate sea ice and snow cover changes (Legutke and Voss, 1999). Sea ice is computed as a prognostic variable that can therefore respond to changes in the climate system. Also, to avoid climate drift, the ocean component includes both heat and freshwater flux adjustments. Note that no salinity relaxation is applied in the climatological sea-ice regions to avoid distortion of the upper salinity changes related with sea-ice production. Further details on the methodology applied for these flux corrections can be found in OR12. Furthermore, due to the coarse model resolution, several sub-grid scale processes with a potential influence on the OHC cannot be resolved and must be therefore parameterised. In particular, horizontal mixing includes both the shear-dependent and harmonic contributions, with the first only important in the upper ocean and the regions\nClim. Past, 9, 547–565, 2013 www.clim-past.net/9/547/2013/\nwith very strong velocity shear. Elsewhere it remains more than one order of magnitude smaller than the harmonic diffusivity. Vertical mixing uses constant background diffusion and a Richardson-number dependent scheme similar to that proposed in Pacanowski and Philander (1981). Note that all parameterisations of diffusion conserve heat and salt. Also, the total coefficients for eddy diffusivity, which will pace the ocean heat uptake and downward transport, tend to be in good agreement with the low values estimated in the open ocean away from rough topography, but higher within the mixed layer as a result of wind stirring and unstable surface buoyancy forcing, especially in winter (Wolff et al., 1997). Finally, in cases of unstable stratification, convective adjustment must be applied. Each pair of vertically adjacent unstably stratified grid boxes is mixed, with heat and salt being conserved."
+  }, {
+    "heading": "2.2 Experimental setup",
+    "text": "For this study we use a set of simulations of opportunity, originally conceived to provide a first evaluation of last millennium climate variability with an AOGCM (atmosphere– ocean general circulation model) (González-Rouco et al., 2003b) and widely analysed ever since (González-Rouco et al., 2003a, 2006, 2009; von Storch et al., 2004; Zorita et al., 2003, 2005; Beltrami et al., 2006; Gouirand et al., 2007a,b; Stevens et al., 2007; Ortega et al., 2012; Fernández-Donado et al., 2012). The strategy for our analysis will therefore need to adapt to the particular experimental setup, consisting of a 1000-yr present climate control simulation (CTRL), two forced runs covering the period 1000 to 1990 AD (FOR1 and FOR2), and two future scenario simulations (A2 and B2) that extend FOR1 until 2100 AD and corresponds respectively to projections of high and moderate GHGs emissions (Nakicenovic et al., 2000). FOR1 and FOR2 are driven by identical natural and anthropogenic forcing factors, represented by the changes in total solar irradiance, the effect of volcanic aerosols on the solar constant, and the concentrations of three greenhouse gases (CO2, CH4 and N2O), all these estimates based on reconstructions from Crowley (2000). Time evolution of these three forcing factors is illustrated in Fig. 1. Note that both simulations finish 20 yr before present, thus limiting the comparison with observations. In the particular case of FOR1, a continuation to year 2000 AD was performed under the framework of the EU project SO&P (http://www.cru.uea.ac.uk/cru/projects/soap/). It will be used to analyse the particular effect of Pinatubo’s eruption, which is not represented in the future scenarios. Within the climate change scenarios, net solar irradiance is kept constant at the value of year 1990, and GHG concentrations vary according to the corresponding projections in the IPCC report on emissions scenarios (SRES; Nakicenovic et al., 2000). The representation of the volcanic forcing is rather simplified, with the effect of volcanic aerosols incorporated as global variations in the effective solar constant. Regarding the solar forcing,\nCO2 CH4\nVOL\nSOLAR\nA2"
+  }, {
+    "heading": "1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100",
+    "text": "Time (years)\n3000\n2000\n1000\n1367\n1365\n1363\n-10\n-20\n-30\n-40\n800\n600\n400 B2\nN2O[C O\n( pp\nm )]\n2 [N\nO (\npp b) ] 2\n[C H\n( pp\nb) ]\n4\nVo lc\nan ic\nF or\nci ng\n(W /m\n)2\nS ol\nar F\nor ci\nng (W\n/m ) 2\nFig. 1. Estimations of the forcing factors used to drive the forced ECHO-G simulations: solar irradiance (red line), greenhouse gas concentrations (green, grey and blue lines for CO2, N2O and CH4, respectively), and the radiative effect of volcanic aerosols (black lines). Dotted lines represent the forcing in the future climate scenario runs A2 (large emissions) and B2 (moderate emissions). Figure modified from González-Rouco et al. (2009).\nit should be mentioned that the reconstruction considered (Crowley, 2000) represents a change in total solar irradiance of 0.23 % from the Late Maunder Minimum to the present, comparatively larger than for new estimates employed in recent PMIP3 simulations which use a change below 0.1 % for the same transition (Schmidt et al., 2011; Fernández-Donado et al., 2012). The forced experiments considered herein use a version of the Bard et al. (2000) 10Be record spliced by Crowley (2000) to a reconstruction of TSI (Lean et al., 1995) based on the sunspot record of solar activity since 1610 AD. Note that changes in anthropogenic aerosols and the vegetation cover are not represented in the model, both being expected to attenuate the industrial warming trends (Bauer et al., 2003), and thereby the increase in OHC during the 20th and 21st centuries. Further details on the model, the forcings and the experiments can be consulted in Zorita et al. (2004), González-Rouco et al. (2009) and OR12.\nFOR1 and FOR2 only differ in their respective initial conditions. FOR1 is initiated from year 17 in CTRL and driven during 100 yr to the forcing conditions of year 1000 AD. The resulting starting conditions are anomalously warm when compared to other model simulations (Goosse et al., 2005; Osborn et al., 2006), making evident that the spin-down period was too short to allow the model to reach equilibrium in surface temperatures. Likewise, FOR2 is initialized similarly starting from year 1700 AD in FOR1. For this simulation the effect of the initial thermal imbalance is considerably reduced, showing also a better accordance with other AOGCMs in the evolution of the Northern Hemisphere throughout the last millennium (Ammann et al., 2007; Zorita et al., 2007; Fernández-Donado et al., 2012). Yet thermal imbalance is still important in the deeper ocean, as will become evident during the analysis. The implications of this drift will be discussed in Sect. 3.2.\nwww.clim-past.net/9/547/2013/ Clim. Past, 9, 547–565, 2013"
+  }, {
+    "heading": "2.3 Observational and paleoproxy data",
+    "text": "Observational estimates (OBS) of the ocean heat content are computed through gridded NODC-OCL (National Oceanographic Data Center’s Ocean Climate Laboratory) temperature fields from the surface to 700 m depth (Levitus et al., 2012), covering the period 1955–2010 with a horizontal resolution of 1◦ × 1◦. For the analysis of internal variability, several well-known climate indices, such as the NAO (North Atlantic Oscillation) and ENSO, will be employed. Observational series of all these indices were provided by the NOAA/OAR/ESRL PSD, Boulder, Colorado, USA (from http://www.esrl.noaa.gov/psd/data/climateindices/list/).\nTo our knowledge, there are no direct proxies for the OHC variability in the last millennium. However, records of past sea level (SL) can still provide a good benchmark to assess the realism of the initial trends in the simulations, since the thermosteric contribution to SL variability responds directly to changes in the OHC. For this task, a combination of SL observations since 1700 AD (from Jevrejeva et al., 2008) and local paleoclimate reconstructions spanning the last two thousand years (from Kemp et al., 2011) will be employed."
+  }, {
+    "heading": "3 Temporal evolution of ocean heat content and thermal expansion",
+    "text": "This section describes the major aspects of OHC temporal variability, as represented by the ECHO-G simulations during both the instrumental period and the last thousand years. In each case, simulated variability is compared with the available instrumental and proxy evidence."
+  }, {
+    "heading": "3.1 OHC variability in the instrumental period",
+    "text": "OHC estimates are calculated from global observations of upper ocean temperature. This computation requires reliable and globally distributed subsurface instrumental data, as well as the use of interpolation and regridding techniques. Since 1950, the spatial coverage of temperature measurements has improved as new data sources have become available (e.g. moored buoys, ARGO floats, bathythermograph measurements; Boyer et al., 2009). The integration of these data is subject to important uncertainties, since it is sensitive to the records considered and the different methodologies applied, such as the mapping and bias correction techniques (Gregory et al., 2004; Lyman et al., 2010). This has led to the publication of somewhat different OHC estimations by different groups and institutions (Domingues et al., 2008; Ishii and Kimoto, 2009; Levitus et al., 2009), which mainly differ in the representation of interannual OHC variability (Lyman et al., 2010).\nOur analysis will be therefore mainly focused on the longterm trends, and the representation of decadal OHC variability. As for the observational records, the simulated OHC anomalies are computed in the upper 700 m of the ocean (hereafter referred as OHC700). Also, for a better comparison among the basins and the global ocean, the corresponding anomalies are calculated as heat content changes by unit area (Fig. 2). To cover the whole observational period (1955–2010) with the forced simulations, the first 20 yr of the future scenario runs A2 and B2 are shown after 1990. Note that OHC700 oscillates within the range of CTRL variability (dashed horizontal lines in Fig. 2) from 1955 to 1990, and goes beyond these values afterwards. Since A2 and B2\nClim. Past, 9, 547–565, 2013 www.clim-past.net/9/547/2013/\nassume zero volcanic activity and keep solar irradiance constant from year 1990 AD, they both miss the natural external influences. Note that the influence of Pinatubo’s eruption (in 1991 AD) is reproduced in the extended decade in FOR1 (light blue line). The corresponding variations in the different radiative forcings are also shown to allow a direct comparison with the OHC700 changes (Fig. 2e). Globally, forced simulations are able to partly reproduce the lowfrequency OHC700 modulation in observations associated with the cooling effect of volcanoes. Note that the remarkable OHC reduction in OBS coinciding with Mt Agung’s eruption in 1963 is not reproduced by either FOR1 or FOR2. This is possibly due to an underestimation in the simulations of the associated volcanic forcing, as two more recent estimates (i.e. Gao et al., 2008; Crowley et al., 2008) suggest a larger magnitude for this eruption, being actually of comparable order to Pinatubo’s. These two new reconstructions have helped to highlight important uncertainties in volcanic activity concerning even the instrumental period (Schmidt et al., 2011). Also, both simulations and observations evidence that most decadal variability occurs in the Pacific and Indian oceans, while the Atlantic Ocean warms almost linearly. Discrepancies in decadal variability among FOR1, FOR2 and OBS (blue, green and black curves in Fig. 2) point to potential influences of natural climate variability in the Pacific and Indian basins, superimposed on the GHG-driven trend and the volcanic modulation. The global integral shows\nbetter agreement since local effects are partly canceled out. Coefficients of determination (R2) between the OHC700 and the total radiative forcing are compared separately before and after 1990 (Table 1). The OHC700 variance explained by the forcing, both for the simulations and observations, is found to increase dramatically from below 30 % for 1955–1990 to about 70 % in the subsequent 20 yr. This large increase in the variance explained is mainly related to the steep warming trend after year 1990.\nRegarding the trends (Table 2), all forced simulations overestimate the global OHC700 trends, especially from 1955 to 1990, the period with largest observed decadal OHC700 variability. This overestimation can be arguably attributed to the lack of sulphate aerosols in the forced simulations, which can partly offset the GHG warming up to 50 % (Delworth et al., 2005). By basins, trends are mostly overestimated in the Pacific (that dominates the warming due to its larger extension) and Indian oceans, but show a good agreement in the Atlantic (Fig. 2b–d and Table 2), probably indicating that internal variability in this basin conceals the offset due to the missing contributions from changes in anthropogenic aerosols and the vegetation cover.\nThe spatial distribution of recent trends is now explored to identify robust features on the response to the forcing, and also local modulations by internal modes of variability. In the period 1955–1990 (Fig. 3, left column), agreement between observations and simulations is limited, suggesting\nwww.clim-past.net/9/547/2013/ Clim. Past, 9, 547–565, 2013\nan important role of internal variability. From 1991 to 2010 (Fig. 3, middle column), common features can be highlighted both in the observed and simulated trends, with larger tendencies in the North Atlantic and western Pacific, and a rather uniform warming in the Indian basin. Both simulations also show a patch of ocean heat loss to the north of the Ross Sea, which relates to a local decrease in convection over the region that will be further discussed in Sect. 4.2. Note that observations now show opposite trends with respect to those from 1955 to 1990 in both the Atlantic and Pacific oceans. This change in trends could be compatible with shifts in the phases of the PDO and the AMO indices among both periods. These contributions of natural variability will be further analysed in Sect. 5. Other possible shifts in natural processes that can influence the observed OHC700 trends during the last 20 yr are the recent tendency to more negative NAO phases, a weakening of the SST gradients in the North Atlantic Current and the Irminger Basin (Flatau et al., 2003), and a decline in the strength of the North Atlantic subpolar gyre during the 1990s (Häkkinen and Rhines, 2004) and of the Atlantic meridional overturning circulation (AMOC) in the last decade (Send et al., 2011). Finally, during the last 90 yr of the scenario runs (Fig. 3, right column) a worldwide warming pattern emerges, with larger trends at high latitudes of the Northern Hemisphere. Yet a local OHC700 cooling south of\nGreenland is also seen, in line with a local decrease in deep convection that reduces vertical heat mixing and thus the replacement of dense cold waters at the surface with relatively lighter and warmer waters from deeper levels. This reduced convection is also compatible with the reported weakening of the AMOC cell in future scenario simulations (Schmittner et al., 2005).\nPrevious results suggest both a predominant influence of the forcing, most important from 1990, along with some impact of internal climate variability, able to produce important OHC700 changes at least at local scales. These results are however limited by the short time span of the observational period. The use of the millennial simulations will allow for a better understanding and quantification of these influences. In a first step, simulated OHC variability will be assessed for the last millennium."
+  }, {
+    "heading": "3.2 Ocean heat content throughout the last millennium",
+    "text": "The OHC variability throughout the last millennium is investigated by assessing its simulated variations in the context of the total radiative forcing used as well as the proxy evidence available. Ocean heat content, when integrated over deep ocean levels, is a good indicator of decadal changes in the radiation balance at the top of the atmosphere (Palmer et al., 2011). However, due to the slow diffusion processes\nClim. Past, 9, 547–565, 2013 www.clim-past.net/9/547/2013/\nthat govern its dynamics, the deep ocean requires several millennia to reach steady conditions. The high computational cost of running fully coupled AOGCMs limits the length of simulations, which often precludes these from achieving a desirable equilibrium state at large depths. The resulting instabilities can partially mask the oceanic response to the radiative forcing, and even distort the regional imprints of internal processes throughout the simulated period. Therefore, we start by analysing whether and to what extent these instabilities are present in the ECHO-G simulations considered herein.\nAll millennial ECHO-G simulations show important temperature trends at intermediate to bottom waters (Fig. 4). CTRL shows opposite long-lasting trends above and below 2000 m, with a strong initial imbalance (light blue line in top Fig. 4b) that gradually decreases (light green line in Fig. 4b) as the deep ocean slowly adjusts to current climate conditions. Temperature trends are even more prominent at 1000 m depth in FOR1, where the ocean starts anomalously warm, clearly suggesting that the 100 yr spin-down period considered was insufficient to adapt the ocean state in CTRL to the forcing conditions in year 1000 AD. By contrast, FOR2, with starting conditions taken from year 1700 AD in FOR1 when the thermal imbalance was considerably reduced, shows smaller temperature trends, in partic-\nular for the upper ocean. It is not clear, however, if the simulated trends in FOR2 can be entirely associated to the effect of radiative forcing, or if some remaining imbalance is still present.\nFigure 5a illustrates the simulated OHC700 for the last millennium. FOR1 and FOR2 show comparable variability since 1700 AD, but prior to this year FOR1 appears to be clearly influenced by the warm starting conditions. Neither FOR2 nor CTRL show remarkable trends attributable to an initial thermal imbalance. However, both simulations have important instabilities when the complete ocean depth is considered.\nA comparison with proxy data is now established (Fig. 5a). Given the lack of direct paleo records of past OHC variability, estimates of SL variability are used instead. The longest instrumental SL record is computed from tide gauge observations since 1700 AD (Jevrejeva et al., 2008). Caution is required for its interpretation as a global estimate since only three gauges were included before 1860, and these are biased to Northern Europe (i.e. Amsterdam, Liverpool and Stockholm). The record shows evidence that acceleration of sea level rise began about 200 yr ago, and was preceded by a century of comparatively flattened SL variations (brown line in Fig. 5a). A local reconstruction from salt-marsh sediments in North Carolina (Kemp et al., 2011), summarised in an idealised manner by the yellow filled curve in Fig. 5a, is in\nwww.clim-past.net/9/547/2013/ Clim. Past, 9, 547–565, 2013\nbroad agreement with estimates in Jevrejeva et al. (2008), and shows stable SL variability during the same period. However, it should also be noted that the exact timing at which acceleration of SLR starts in the reconstruction of Kemp11 can be sensitive to the method considered for subsidence adjustment (See Fig. 1 in Grinsted et al., 2011).\nGiven the large temperature trends in the deep ocean even in FOR2 (Fig. 4), which would introduce a drift in the simulated thermal expansion, and keeping in mind that none of the other contributions to sea level change, such as the melting of land glaciers or the polar ice caps, as represented in the ECHO-G model, SL estimates are directly compared with the simulated OHC700 (Fig. 5a). Despite the misrepresented processes, and the constraint to the upper 700 m, the simulated OHC and reconstructed SL changes show similar variations from 1500 AD onwards. Note in particular the similar onset for the recent upper ocean warming and the observed SLR two centuries ago. The largest discrepancies occur during the first five centuries of the millennium, where none of the forced simulations follow the steady increase of SL in the reconstruction of Kemp11. However, in both simulations, and in particular in FOR2, there is a great degree of coherence between the curves of OHC700 and the total radiative forcing (Fig. 5a, b), as it will become evident in Fig. 9. This good agreement is incompatible with the initial trend in SL reconstructions and also suggests that the initial thermal imbalance in FOR2 has a negligible impact when integrated at this particular depth. Therefore, from now on, analyses covering the last millennium will only be addressed with FOR2, and will be restricted to the upper 700 m of the ocean. FOR1, together with the scenario simulations, will be considered only for analyses centred on the observational period, when the thermal initial instabilities are mostly balanced, as suggested by the great accordance between both forced runs."
+  }, {
+    "heading": "4 Fingerprint of external forcing on ocean heat content",
+    "text": "OHC700 shows a good correspondence with variations in the net radiative forcing (Fig. 5a and b, respectively). The main aspects of this influence are now discussed."
+  }, {
+    "heading": "4.1 Quantifying recent forcing impacts",
+    "text": "The last 55 yr have witnessed relevant changes in the radiative forcing, mainly associated with an acceleration of both GHG and sulphate aerosols emission rates and the occurrence of three major volcanic eruptions (Mt. Agung in 1963; El Chichón in 1982 and Pinatubo in 1991) and five complete solar cycles. In response to these changes, the world ocean has experienced a remarkable warming trend, modulated to some extent at decadal timescales (Fig. 2). In this context, however, impact and attribution studies are constrained by the short time span of the observational records. Particular caution should be taken since physically unrelated quantities can coincidentally vary at comparable timescales. We now assess the relation between the external forcing and upper OHC both in the observations and the model. To ensure that no artificial relationship emerges in our regression analyses, a statistical significance test is employed that takes into account the serial autocorrelation to correct for the effective sample size (Bretherton et al., 1999).\nIn order to maximise the signal of the oceanic response, the analysis in the observational period is exclusively focused on the effect of the total radiative forcing. The period considered for the analysis is 1955–2000, to include the latest changes in solar and volcanic forcing used for the extended FOR1 run. Figure 6 shows the regression patterns between the total radiative forcing in this experiment (black line in lower panel of Fig. 2) and the observed and simulated OHC700 global fields. Coherence between both plots is limited and there is a general disagreement in the regions where the largest significant changes occur. This points to a probable different role of internal variability in this period for the two datasets. Also, this calculation can be affected by the absence of anthropogenic aerosols in the simulations, which may be crucial to explain recent decadal changes in North Atlantic climate (Booth et al., 2012). The validity of these results will be assessed in the next section by extending the analysis to the whole FOR2 run. This will allow for providing further insight into the role of each forcing factor."
+  }, {
+    "heading": "4.2 Influence of the forcing in the last thousand years",
+    "text": "Within the last millennium, the pattern of response to an increase in the total radiative forcing (Fig. 7a) corresponds to a generalised warming of the upper ocean, with larger values in the extratropics, and some local coolings in regions of deep convection, like the Labrador and Ross Seas. In this latter region both convection and the OHC700 respond differently to the radiative forcing than in the rest of the Southern Ocean\nClim. Past, 9, 547–565, 2013 www.clim-past.net/9/547/2013/\ndue to its particular stratification conditions. The Ross Sea is characterised by climatologically colder waters in the upper 700 m than in the levels underneath (not shown), so that a corresponding decrease in convection will reduce vertical heat mixing between both layers, thus producing the local cooling in OHC700. By contrast, the rest of the Southern Ocean, and in particular the regions where convection is not important, will tend to warm following the increase in the radiative forcing.\nConsidering the individual effect of different factors, only the GHGs exhibit a widespread impact. In particular, they have a significant effect in the Tropics (Fig. 7b) and the convection regions, being also associated with the largest regression coefficients. By contrast, the fingerprint of solar variability (Fig. 7c) is characterised by a mild response mainly localised at midlatitudes in the three major basins. In either case, both forcings factors are the only ones to exhibit the local cooling in the Ross Sea, which might therefore require a gradual adjustment of convection to the changes in the radiative forcing. Part of the good agreement between the regression patterns in Fig. 7b, c might rise from the fact that the\nrespective time series for the solar activity and the GHG concentrations are not independent, since both undergo a gradual increase during the industrial period (Supplement Tables 1 and 2). Indeed, when the long-term frequencies are filtered out, the regression coefficients for the solar irradiance become insignificant in regions like the tropical Atlantic and the Labrador Sea (Supplement Fig. 1), thus indicating that these are actually related to the GHG curve. Note also that during the preindustrial period the global influence of GHGs is substantially reduced, and solar irradiance only shows significant impacts on the southern extratropics and the Nordic seas (Supplement Fig. 2). Regression values with the effective solar constant (i.e. solar irradiance plus the radiative effect of volcanoes) are considerably lower (Fig. 7d), as it is also punctuated by the episodic influence of volcanic eruptions, which is clearly not linear. The impact of volcanoes is thus evaluated through a composite analysis focused separately on the top 10 and the subsequent 15 largest preindustrial eruptions to distinguish the strong from the moderate impacts. Composite maps are calculated by averaging the differences in OHC700 occurring between the 5 yr following and the 5 yr preceding the selected volcanic eruptions, and their significance is assessed by comparing with the 2.5\nwww.clim-past.net/9/547/2013/ Clim. Past, 9, 547–565, 2013\nand 97.5 percentiles of a Monte Carlo ensemble consisting of 1000 analogous differences in CTRL. As for the solar irradiance, the largest OHC700 changes take place in the extratropics (Fig. 7e–f). The pattern of cooling is similar in both composite analyses, with no remarkable spatial differences. As expected, larger negative anomalies are observed for the strongest eruptions (Fig. 7e). Also of note is the warming in the central equatorial Pacific for the strong volcanoes, thus in line with an influence of explosive volcanism on the occurrence of El Niño events (Emile-Geay et al., 2008).\nThe reasons for both the different latitudinal OHC700 response to the forcing and the larger sensitivity in the extratropics are now explored. Net heat into the ocean will result from the integration of all heat fluxes at the surface, and these can be controlled by changes in cloud coverage. Regression patterns in Fig. 8 illustrate how these variables are affected by the total radiative forcing. Interestingly, a general decrease in extratropic cloud coverage (Fig. 8a) follows the positive changes in the RF. This same pattern, but with opposite sign, characterises the changes in shortwave radiation (Fig. 8b), as it responds inversely to variations in cloud albedo, thus explaining the larger OHC700 values at midlatitudes in Fig. 7. Other important features to note are a remarkable increase of cloud coverage over the Ross Sea and the convection regions of the North Atlantic, which reduce the shortwave incoming radiation at the surface. In the Southern Ocean these latter changes are counterbalanced by opposite contributions of the other heat flux components (Fig. 8c–e). Also of note is a weak but widespread surface warming related to changes in long-wave radiation (Fig. 8c), and a notable ocean heating across the Gulf Stream and subpolar gyre responding to both latent and sensible heat flux changes (Fig. 8b, c).\nAdding up all the different influences (Fig. 8f), there is a worldwide net surface warming following the increases of the RF, with larger values in the regions of ocean deep convection of the Labrador and Ross Seas and also in the extratropics. In both deep water formation regions the radiativelyforced surface warming reduces convection activity through its effect on ocean stratification. As a result, the upper ocean experiences a net cooling, as was observed in Fig. 7a. In the rest of the ocean the warming is observed both at the surface and integrated in depth, the OHC700 increase being therefore related to the downward penetration of the net positive heat flux into the ocean. Note that this larger response at midlatitudes is partly linked to a local increase of solar radiation at the surface following a significant reduction in cloud coverage. This particular pattern is not observed for the other surface heat fluxes.\nWe now turn our attention to the temporal features associated with the influence of the different radiative forcings. A wavelet coherence (WTC) analysis (Torrence and Compo, 1998) is used to investigate the common spectral features between the OHC700 and the different forcings throughout the last millennium (Figs. 9 and 10). For all practical purposes, wavelet coherence can be regarded as a localised correlation coefficient but in time frequency space. All plots are generated with the software package provided in Grinsted et al. (2004), following their recommendations for the choice of the wavelet transform (i.e. Morlet function) and scale resolution (i.e. 10 scales per octave).\nClim. Past, 9, 547–565, 2013 www.clim-past.net/9/547/2013/\nLikewise, significance is assessed using a Monte Carlo approach based on an ensemble of 1000 surrogate dataset pairs with the same AR1 coefficients as the input time series. Note that wavelet coherence should be used and interpreted with caution. It is mostly an exploratory technique to test proposed linking mechanisms with a physical basis. Herein, WTC is used to explore the potential frequencies at which the forcing may have an impact on the OHC. Yet no definitive inferences on causality can be drawn. To help in the identification of robust linkages throughout time, phase-relationship is also computed at each time and frequency. The angle between the arrow and the x-axis indicates the phase between the forcing and OHC700. Thus, in-phase relationships are represented by eastward arrows in the wavelet coherence plots. At a particular frequency band, whenever phase remains stable the physical link proposed will remain plausible.\nThe total equivalent radiative forcing shows a high degree of coherence with OHC700 variability at all timescales (Fig. 9), with changes in the forcing always leading (since arrows tend to have a small northward component) the heat content variations. In the preindustrial period, most of the coherence comes from volcanoes, as highlighted by the good agreement between Figs. 9 and 10a. Note that coherence at interannual timescales is only present when the radiative forcing is punctuated by the effect of volcanism, as variations in solar irradiance and GHGs occur at longer scales. Moreover, the influence of volcanic aerosols is also relevant at lower frequencies. Strong volcanoes impact as a step down signal on the OHC700 curve (Fig. 10a, upper panel), as it has been already described in other forced simulations (Gleckler et al., 2006; Gregory et al., 2006; Gregory, 2010). This signal, integrated during periods of intense volcanism (e.g. 1150 to 1300 AD or 1550 to 1700 AD), can impact the OHC700 variability at multidecadal and even secular timescales. Likewise, solar variability (Fig. 10b) shows some intervals of common variance with the OHC700 at interdecadal timescales. Finally, regarding the slowly-varying GHGs, high coherence arises at secular timescales during the last few centuries of the millennium, and at higher frequencies after the onset of the industrial era (Fig. 10c).\nSo far, the analysis has been centred on the instantaneous OHC700 response to the external forcing factors. Correlations in Fig. 11 illustrate their influence at other lags. For the total radiative forcing, significant correlations are found for lead times from 50 to 0 yr, and maximum values when it leads the OHC700 changes by 1–2 yr. This maximum impact is associated with the short-lived influence of volcanoes (blue line). By contrast, the slowly varying solar and GHG forcings show maximum correlations for lead times of 20 and 70 yr, respectively. This delayed response points to a gradual accumulation of the energy going into the ocean, the lag timescale being set by the cumulative effect of two consecutive 11 yr cycles and the increasing GHGs, respectively. Indeed, a similar analysis for the period 1000–1700, when nei-\nther anthropogenic GHGs nor 11 yr solar cycles are included, shows leading times closer to zero (dotted lines in Fig. 11).\nIt has been shown that at higher frequencies, and in particular at interannual timescales, coherence with the radiative forcing is limited (Fig 9) and only the volcanic forcing can explain some OHC700 variability. Hence, this is the range of frequencies at which internal variability is bound to account for a larger fraction of OHC700 variability."
+  }, {
+    "heading": "5 OHC imprints of internal climate variability",
+    "text": ""
+  }, {
+    "heading": "5.1 Influence of internal variability over the last 55 yr",
+    "text": "Previous sections suggest a potential role of internal modes of variability to locally modulate the upper ocean warming trends in the observational period. Globally, the impact of internal climate variability on OHC700 appears to be largest at interannual to decadal timescales, especially during periods of low volcanic activity, when the effect of the radiative forcing is mainly observed at lower frequencies (interdecadal to secular; see Fig. 9). Other works (Willis et al., 2004; Levitus et al., 2005) also support the influence of different modes of climate variability on the OHC700. For example, there is particular evidence that ENSO-related variability has produced noticeable interannual OHC700 changes during the observational period (Willis et al., 2004). Thereby, other climate modes involving large-scale SST changes, such as the AMO or the PDO, can also potentially affect, locally or globally, the OHC700 budget. It is also known that predominant atmospheric patterns, such as the NAO, can locally alter the air–sea heat fluxes at the ocean surface and trigger deep\nwww.clim-past.net/9/547/2013/ Clim. Past, 9, 547–565, 2013\nconvection events (Pickart et al., 2003), thus also contributing to heat exchange with the deeper ocean.\nA first evaluation of the influence of modes of climate variability on the observed and simulated OHC700 is performed in the whole instrumental period (e.g. 1955–2010). For this analysis, the NAO and three well-known modes of SST variability are explored, namely, ENSO (represented by El Niño 3.4 index), PDO and AMO. In the forced simulations, the climate indices are calculated following similar definitions as for the observations. ENSO corresponds to El Niño 3.4 index, defined as the mean SST value from 5◦ S to 5◦ N and 170–120◦ W (Trenberth, 1997). The PDO index is derived as the leading PC of monthly SST anomalies in the North Pacific Ocean, poleward of 20◦ N (Mantua et al., 1997). Likewise, the AMO is defined as the regional average of Atlantic SST anomalies north of the Equator. Unlike in the AMO definition in Enfield et al. (2001), no previous detrending is applied to the SST data. Instead, to only preserve the signal of internal natural variability unrelated to the forcing, all the three previous indices are computed with SST anomalies calculated with respect to the global SST mean, thus filtering out the influence of the global warming signal (Zhang et al., 1997). Indeed, in this way the three indices remain uncorrelated with the total radiative forcing (Supplement Table 3). Finally, the NAO is calculated as the leading mode of SLP anomalies in the North Atlantic (Wallace and Gutzler, 1981). It is worth mentioning that ENSO and NAO variability have been already evaluated in another control simulation with the ECHO-G model (Min et al., 2005b) through a comparison with observations and other simulations. The overall model’s performance is good, although it presents some systematic errors like an overestimation of the NAO impact over the Pacific sector, and stronger than observed ENSO amplitudes, which tends to be also too frequent and regular. Regarding ENSO, the model resolves properly the Walker circulation, the associated rainfall over the tropical Pacific, and the anomalous warming from the central Pacific to the coast of South America. Likewise, the simulated NAO reproduces well the dipolar SLP structure over the North Atlantic, as well as the corresponding quadrupole in surface temperature, and the opposed precipitation pattern over the north and the south of Europe.\nThe impact of all indices on global OHC700 is assessed at two different frequency ranges: periods above and periods below 5 yr (Table 3). At the higher frequencies, which mostly account for interannual events, only ENSO has a significant impact on OHC700, with R2 values close to 0.15 both in OBS and FOR1 + A2, and slightly lower in the whole FOR2 simulation. This finding is in line with Willis et al. (2004) who identified the signal of intense ENSO events in the global OHC integral. At the lowest frequencies, observations show some covariability between the AMO and the total OHC700 (R2 = 0.20), although the R2 coefficient is not significant when the sample size is corrected to take into account the time series autocorrelation. In the simula-\ntions, only the NAO explains some meaningful part of the global OHC700 at low frequencies, although it could be just a consequence of a delayed NAO response to the forcing, which will be discussed later. To further compare the influence of each index in the simulations and observations, their corresponding regional OHC700 fingerprints are illustrated in the regression patterns of Fig. 12. The observed ENSO and PDO indices exhibit similar patterns, with the former showing stronger equatorial anomalies and the latter showing larger impact in the North Pacific. Generally, both patterns are associated with an eastern warming and a western cooling of the upper Pacific Ocean. This result is consistent with the hypothesis that the local shift in OHC700 trends from 1955–1990 to 1991–2010 (see Fig. 3) is due to a change in the polarity of the PDO at the end of the 1970s. By contrast, in the model the zonal dipole structure is only observed at the Equator for the ENSO index, and at the North Pacific for the PDO, suggesting that the model cannot capture the coupling between both modes (Newman et al., 2003). Some aspects of the ENSO teleconnection with surface temperature in the Southern Ocean (e.g. Liu et al., 2004) can be identified in the observations, but not in the simulations. In particular, observations show a significant warming north of the Amundsen Sea, with opposing changes in the Bellingshausen and Weddell Seas, although these latter remain insignificant. Regarding the AMO, it relates in the observations to positive OHC700 anomalies over the whole Atlantic, but shows no significant changes in FOR1 + A2. This probably indicates that, given the limited time period, no relevant changes of this index are taking place in the simulations. Finally, the most significant impact of the NAO is a cooling over the Labrador and Irminger Seas in the observations, partly reproduced in the simulations. This cooling is likely responding to changes in convection, which is also affected by the NAO over both regions (Dickson et al., 1996; Pickart et al., 2003). Besides, an OHC700 increase is simulated at midlatitudes, similar to the one already described in response to the radiative forcing (Fig. 7). Therefore, this imprint is more probably\nClim. Past, 9, 547–565, 2013 www.clim-past.net/9/547/2013/\nassociated with the recent changes in the forcing, which may be also having an impact on NAO variability. Indeed, the final tendency to negative NAO values in the observations can explain the remarkable warming of the North Atlantic since year 1990 (see Fig. 3). In the next subsection, the analysis is extended to the last thousand years, to better determine the spatial impacts associated with the previous modes and the predominant timescales of their influence."
+  }, {
+    "heading": "5.2 Modes of climate variability and OHC in the last millennium",
+    "text": "The regression patterns in Fig. 12 are now calculated for the complete FOR2 simulation (Fig. 13). The patterns corresponding to ENSO and the PDO are similar to those described during the observational period. The AMO is now related to a general warming in the North Atlantic, more in line with the OHC700 pattern described for the observations.\nIt also shows a local cooling in the Labrador Sea and some positive OHC700 anomalies in the North Pacific, near the region where the PDO occurs. Similar features are also observed in the pattern of the NAO (Fig. 13d). This suggests a link between the three modes in the model. Indeed, the AMO is known to be related to changes in the AMOC (Knight et al., 2005), the latter being driven by changes in the NAO in the forced simulations (Ortega et al., 2012). Also, the interrelationship between the NAO and the Arctic Oscillation (AO) may explain an atmospheric influence over the North Pacific, and thereby on the PDO. The lead-lag relationship at lowfrequencies between the previous indices in the model is explored in Fig. 14 for the whole FOR2 simulation. The NAO leads the AMO and PDO changes by 2 and 4 yr, respectively. Furthermore, the radiative forcing is found to have a leading role on the NAO, which lags the total RF changes by about 1 yr.\nwww.clim-past.net/9/547/2013/ Clim. Past, 9, 547–565, 2013\nThe influence of these modes in the OHC700 variations is now explored in a temporal and spectral perspective. For this, a wavelet coherence analysis is again employed (Fig. 15). In the previous analysis of the forcings, which have a worldwide impact on the OHC700, the coherence was established with respect to the global OHC700 integral. In this case, however, the different modes produce more localised influences, and thereby coherence is investigated regionally. Each index is compared with the OHC700 average in the region where its influence is originally taking place (dotted rectangles in Fig. 13). Note that OHC700 variability in these four regions (dark curves in top panels of Fig. 15) still presents a modulation by the external forcing at the very lowest frequencies (beyond centennial). Yet they also exhibit other predominant scales of variability at higher frequencies, which are potentially attributable to the local modes. For ENSO, both time series (i.e. El Niño 3.4 and the OHC700 average in the equatorial Pacific) show a high degree of coherence at interannual timescales, and also relatively good agreement from decadal to multidecadal timescales. Although in some particular periods (e.g. 1100–1300) coherence is damped above decadal timescales, overall ENSO explains most of OHC700 variability over the equatorial Pacific. Regarding the PDO and AMO, both indices show alternating periods of good and poor coherence with the local OHC700 at multidecadal timescales. The fact that the phase of the relationships (arrows in Fig. 15) remains stable throughout the whole simulation, with westward arrows in Fig. 15b accounting for a North Pacific cooling and eastward arrows in Fig. 15c rep-\nresenting a mid-latitude North Atlantic warming, both compatible with the corresponding OHC700 patterns in Fig. 13, suggests that the OHC may be responding during those time periods to the particular phases of the PDO and the AMO. The reasons for this discontinuous influence are not clear to us, although some impact of the radiative forcing cannot be excluded. Indeed, Fig. 7 showed that OHC700 in both regions, unlike in the equatorial latitudes, is particularly sensitive to changes in the radiative forcings. There is also the possibility that other modes of variability are masking part of the signal. Finally, the NAO shows a good degree of coherence with interannual and interdecadal OHC700 variability in the Labrador Sea, although subject again to some periods of intermittence. Interestingly, the phase of this relationship changes at different timescales. For periods up to 30 yr, the westward arrows indicate a direct association between the NAO and a cooling over the Labrador Sea, as expected given the leading role of the NAO on both North Atlantic convection and the AMOC discussed in OR12. At longer timescales some periods (e.g. 1300–1500) give evidence of the opposite relationship. As the NAO has been found to respond to variations in the total radiative forcing (Fig. 14), the Labrador warming observed at low frequencies could be actually attributed to a direct OHC700 response to this forcing."
+  }, {
+    "heading": "6 Conclusions and discussion",
+    "text": "The upper OHC response to the external forcing as well as the fingerprint of several modes of climate variability have been assessed in a suite of observations and model simulations covering the period 1000 to 2100 AD.\nClim. Past, 9, 547–565, 2013 www.clim-past.net/9/547/2013/\nIn the instrumental period, the model overestimates the warming trend and underestimates the decadal OHC700 variability. The misrepresentation in trends is explained to some extent by the lack of sulphate aerosols in the simulations, whose cooling effect is known to partially offset the GHGdriven warming (Delworth et al., 2005). Note that aerosols have also been proposed to be a main contributor to North Atlantic decadal variability over the last century (Booth et al., 2012). The spatial distribution and intensity of the upper OHC warming trends have changed from 1955–1990 to 1991–2010. These changes respond, respectively, to a sustained increase of the net radiative forcing (mostly associated with an acceleration of GHG emissions) and a shift in the values of the PDO and AMO indices.\nAll the long simulations are found to exhibit initial thermal instabilities, which in the case of FOR1 and FOR2 obey too short a spin-down period to bring the ocean to thermal equilibrium with the forcing conditions in year 1000 AD. To minimise the effect of the corresponding drift in temperature, the analysis only focuses on the OHC in the upper 700 m, where the CTRL run remains stable and FOR2 shows a good correspondence both with the net radiative forcing and two paleo records of global sea level change.\nThe spatial imprint of the radiative forcing has also been analysed. All the individual forcings show a similar impact, with larger effect at extratropical latitudes. This larger response at midlatitudes is partly explained by a local reduc-\ntion in cloud cover, thus allowing a larger fraction of solar radiation to reach the ocean surface. Other contributions to the net surface heat flux, such as the outgoing longwave radiation or the sensible and latent heat fluxes, do not reproduce this different latitudinal response. In the preindustrial era, a large part of the forced OHC700 variability is associated with volcanism, with some solar contribution at interdecadal timescales (periods from 10 to 100 yr). After 1850, low-frequency OHC700 variability is mainly responding to the increased GHG concentrations, and the influence of volcanic activity remains important at decadal and intradecadal timescales. Interestingly, the ocean shows a delayed response to all the radiative forcings, with the largest impacts occurring about 2, 20 and 70 yr after the changes in volcanic, solar and GHG forcing, respectively.\nFinally, the contributions from four large-scale modes of climate variability have been explored (i.e. ENSO, the PDO, the AMO and the NAO). As their influence on the OHC700 is larger at regional scales, their spectral features have been directly analysed in their respective centres of action. In these four regions the long-term OHC700 variations still exhibit some modulation by the external forcing. Yet at shorter timescales (annual to secular) the regions show periods of spectral coherence with their corresponding climate indices. The influence of ENSO is mainly localised in the equatorial Pacific, where it is found to dominate the local OHC700 variability from interannual to multidecadal timescales. Likewise, positive PDO and AMO indices relate, respectively, to a cooling in the North Pacific and warming at midlatitudes in the North Atlantic, both modes contributing discontinuously to OHC700 variability at multidecadal timescales. The NAO, in the model and observations, produces a cooling over the Labrador Sea, which in the simulations gives rise to a strengthening of the AMOC cell. This impact takes place from interannual to interdecadal timescales. Furthermore, the fact that natural modes of climate variability, such as ENSO, NAO or AMO, can impact the OHC700 globally or locally is important for the coming decades, since they can temporarily mitigate or intensify the ocean warming signal and they can modulate as well the regional sea level rise.\nTo assess the general relevance of these results, we now discuss the limitations of the ECHO-G model, and put it in the context of other AOGCMs. The major constraint relies on the use of flux adjustments (and more in particular heat flux corrections), since they can largely affect the ocean heat content and its regional patterns. However, a comparison of these terms with the actual fluxes at the surface (see Supplement\nTable 4 and Fig. 3) shows that in overall, and in particular in the centres of action of ENSO, the AMO and the NAO, the magnitude of heat adjustments remains considerably smaller, thus suggesting that their probable impact on ocean heat uptake is also small (Sausen et al., 1988). In contrast, freshwater adjustments remain comparably important, particularly across the Gulf Sream, thus evidencing that some ocean dynamics are misrepresented by the model, and thereby casting\nwww.clim-past.net/9/547/2013/ Clim. Past, 9, 547–565, 2013\ndoubt on the validity of our results for regions like the North Atlantic. In a recent study, (Pardaens et al., 2011) compared the spread in sea level projections (for which OHC relates directly with the thermosteric component) between two different ensembles within the QUMP (Quantifying Uncertainty in Model Projections) project, and found comparable results for the experiments with and without flux adjustments. That same study included a model intercomparison of SL in future projections, in which ECHO-G shows a great degree of coherence with the mean model ensemble, reproducing most of its different local features, like a SL dipole in the North Atlantic, a strong meridional gradient in the Southern Ocean with negative changes near 60◦ N and positive further north, and positive SL anomalies in the North Pacific, these latter two being coherent with the larger OHC700 changes in the extratropics found herein. In a different intercomparison study (Fernández-Donado et al., 2012), the simulations FOR1 and FOR2 show values for the equilibrium climate sensitivity, the transient climate response and the temperature change in the MCA-LIA transition well within the range of the other millennial simulations, most of them not using flux corrections. However, it is important to note that ECHO-G stands out to have the smallest heat uptake efficiency among all the CMIP3 and CMIP5 models (Kuhlbrodt and Gregory, 2012). In either case, it is not clear what this implies in terms of the reliability of the model, as the same analysis states that models tend to overestimate this value. Indeed, ocean stratification (which controls how fast heat is transported downward and thereby contributes to the heat uptake efficiency) is rather realistic in ECHO-G when compared to observations and the ensemble of CMIP-3 and CMIP-5 simulations. To conclude, the ECHO-G overall performance, despite the flux corrections, seems comparable to that in other AOGCMs. However, evaluating the validity of our results in other model simulations is an important subject for further work.\nSupplementary material related to this article is available online at: http://www.clim-past.net/9/547/2013/ cp-9-547-2013-supplement.zip.\nAcknowledgements. This work has been possible thanks to the funding by the MCINN projects CGL2005-06097 and CGL200806558-C02-C01/CLI, and the MARM project 200800050084028. The manuscript was significantly improved thanks to helpful and insightful comments of four anonymous reviewers. We are grateful to A. Grinsted and S. Jevrejeva for making the MatLab wavelet coherence package and their global sea level reconstructions available, and to A. Kemp for kindly sharing the data from North Carolina with us. We would also like to thank G. Sgubin for interesting discussions and to I. Fast for providing us with the extended FOR1 data.\nEdited by: H. Goosse\nThe publication of this article is financed by CNRS-INSU."
+  }],
+  "year": 2013,
+  "references": [{
+    "title": "Solar influence on climate during the past millennium: Results from transient simulations with the ncar climate system",
+    "authors": ["C. Ammann", "F. Joos", "D. Schimel", "B.L. Otto-Bliesner", "R.A. Tomas"],
+    "venue": "model, Proc. Natl. Acad. Sci.,",
+    "year": 2007
+  }, {
+    "title": "Solar irradiance during the last 1200 years based on cosmogenic nuclides",
+    "authors": ["E. Bard", "G. Raisbeck", "F. Yiou", "J. Jouzel"],
+    "venue": "Tellus B,",
+    "year": 2000
+  }, {
+    "title": "Penetration of Human-Induced",
+    "authors": ["T.P. Barnett", "D.W. Pierce", "K.M. AchutaRao", "P.J. Gleckler", "B.D. Santer", "J.M. Gregory", "W.M. Washington"],
+    "venue": "Warming into the World’s Oceans,",
+    "year": 2005
+  }, {
+    "title": "Assessing climate forcings of the earth system for the past millennium",
+    "authors": ["E. Bauer", "M. Claussen", "V. Brovkin", "A. Huenerbein"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2002
+  }, {
+    "title": "Subsurface temperatures during the last millennium: Model and observation",
+    "authors": ["H. Beltrami", "J.F. González-Rouco", "M.B. Stevens"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2006
+  }, {
+    "title": "Aerosols implicated as a prime driver of twentieth-century north atlantic climate variability",
+    "authors": ["B.B.B. Booth", "N.J. Dunstone", "P.R. Halloran", "T. Andrews", "N. Bellouin"],
+    "venue": "Nature, 1–6,",
+    "year": 2012
+  }, {
+    "title": "World ocean database",
+    "authors": ["T. Boyer", "J. Antonov", "O. Baranova", "H. Garcia", "D. Johnson", "R. Locarnini", "A. Mishonov", "T. O’Brien", "D. Seidov", "I. Smolyar", "M. Zweng"],
+    "venue": "NOAA Atlas NESDIS,",
+    "year": 2009
+  }, {
+    "title": "The effective number of spatial degrees of freedom of a timevarying field",
+    "authors": ["C. Bretherton", "M. Widmann", "V. Dymnikov", "J. Wallace", "I. Bladé"],
+    "venue": "J. Clim.,",
+    "year": 1990
+  }, {
+    "title": "Causes of climate change over the past",
+    "authors": ["T.J. Crowley"],
+    "venue": "years, Science,",
+    "year": 2000
+  }, {
+    "title": "Modeling ocean heat content changes during the last millennium",
+    "authors": ["T.J. Crowley", "S.K. Baum", "K.Y. Kim", "G.C. Hegerl", "W.T. Hyde"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2003
+  }, {
+    "title": "Volcanism and the little ice age",
+    "authors": ["T.J. Crowley", "G. Zielinski", "B. Vinther", "R. Udisti", "K. Kreutz", "J. Cole-Dai", "E. Castellano"],
+    "venue": "PAGES news,",
+    "year": 2008
+  }, {
+    "title": "The impact of aerosols on simulated ocean temperature and heat content in the 20th century",
+    "authors": ["T.L. Delworth", "V. Ramaswamy", "G. Stenchikov"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2005
+  }, {
+    "title": "Longterm coordinated changes in the convective activity of the North Atlantic",
+    "authors": ["R. Dickson", "J. Lazier", "J. Meincke", "P. Rhines", "J. Swift"],
+    "venue": "Prog. Oceanogr.,",
+    "year": 1996
+  }, {
+    "title": "Improved estimates of upper-ocean warming and multi-decadal",
+    "authors": ["C.M. Domingues", "J.A. Church", "N.J. White", "P.J. Gleckler", "S.E. Wijffels", "P.M. Barker", "J.R. Dunn"],
+    "venue": "sea-level rise,",
+    "year": 2008
+  }, {
+    "title": "Volcanoes and enso over the past millennium",
+    "authors": ["J. Emile-Geay", "R. Seager", "M.A. Cane", "E.R. Cook", "G.H. Haug"],
+    "venue": "J. Climate,",
+    "year": 2007
+  }, {
+    "title": "The Atlantic multidecadal oscillation and its relation to rainfall and river flows in the continental US",
+    "authors": ["D. Enfield", "A. Mestas-Nunez", "P.J. Trimble"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2001
+  }, {
+    "title": "The north atlantic oscillation, surface current velocities, and sst changes in the subpolar north atlantic",
+    "authors": ["M. Flatau", "L. Talley", "P. Niiler"],
+    "venue": "J. Climate,",
+    "year": 2003
+  }, {
+    "title": "Volcanic forcing of climate over the past 1500 years: An improved ice core-based index for climate models",
+    "authors": ["C. Gao", "A. Robock", "C. Ammann"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2008
+  }, {
+    "title": "Krakatoa lives: The effect of volcanic eruptions on ocean heat content and thermal expansion",
+    "authors": ["P. Gleckler", "K. AchutaRao", "J. Gregory", "B. Santer", "K. Taylor", "T. Wigley"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2006
+  }, {
+    "title": "Human-induced global ocean warming on multidecadal timescales",
+    "authors": ["P. Gleckler", "B. Santer", "C. Domingues", "D. Pierce", "T. Barnett", "J. Church", "K. Taylor", "K. AchutaRao", "T. Boyer", "M. Ishii"],
+    "venue": "Nature Clim. Change,",
+    "year": 2012
+  }, {
+    "title": "Deep soil temperature as proxy for surface air-temperature in a coupled model simulation of the last thousand years",
+    "authors": ["J.F. González-Rouco", "H. von Storch", "E. Zorita"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2003
+  }, {
+    "title": "Simulating the climate since 1000 AD with the AOGCM ECHO-G",
+    "authors": ["J.F. González-Rouco", "E. Zorita", "U. Cubasch", "H. von Storch", "I. Fisher-Bruns", "F. Valero", "J.P. Montavez", "U. Schlese", "S. Legutke"],
+    "venue": "ESA SP,",
+    "year": 2003
+  }, {
+    "title": "Simulation and inversion of borehole temperature profiles in surrogate climates: Spatial distribution and surface coupling",
+    "authors": ["F.J. González-Rouco", "H. Beltrami", "E. Zorita", "H. von Storch"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2005
+  }, {
+    "title": "Borehole climatology: a discussion based on contributions from climate modeling, Clim",
+    "authors": ["F.J. González-Rouco", "H. Beltrami", "E. Zorita", "M.B. Stevens"],
+    "venue": "Past,",
+    "year": 2009
+  }, {
+    "title": "Modelling the climate of the last millennium: What causes the differences between simulations",
+    "authors": ["H. Goosse", "T. Crowley", "E. Zorita", "C. Ammann", "H. Renssen", "E. Driesschaert"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2005
+  }, {
+    "title": "Teleconnections between ENSO and North Atlantic in an ECHO-g simulation of the 1000–1990",
+    "authors": ["I. Gouirand", "V. Moron", "E. Zorita"],
+    "venue": "period, Geophys. Res. Lett.,",
+    "year": 2006
+  }, {
+    "title": "How much is the ocean really warming",
+    "authors": ["V. Gouretski", "K. Koltermann"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2006
+  }, {
+    "title": "Long-term effect of volcanic forcing on ocean heat content, Geophys",
+    "authors": ["J. Gregory"],
+    "venue": "Res. Lett.,",
+    "year": 2010
+  }, {
+    "title": "Simulated and observed decadal variability in ocean heat content, Geophys",
+    "authors": ["J.M. Gregory", "H.T. Banks", "P.A. Stott", "J.A. Lowe", "M.D. Palmer"],
+    "venue": "Res. Lett.,",
+    "year": 2004
+  }, {
+    "title": "Simulated globalmean sea level changes over the last half-millennium",
+    "authors": ["J.M. Gregory", "J.A. Lowe", "S.F.B. Tett"],
+    "venue": "J. Clim.,",
+    "year": 2006
+  }, {
+    "title": "Application of the cross wavelet transform and wavelet coherence to geophysical time series",
+    "authors": ["A. Grinsted", "J. Moore", "S. Jevrejeva"],
+    "venue": "Nonlinear Prog. Geophys.,",
+    "year": 2004
+  }, {
+    "title": "Comment on the subsidence adjustment applied to the Kemp et al. proxy of north carolina relative sea level, P",
+    "authors": ["A. Grinsted", "S. Jevrejeva", "J.C. Moore"],
+    "venue": "Natl. A. Sci.,",
+    "year": 2011
+  }, {
+    "title": "Decline of subpolar North Atlantic circulation during the 1990’s",
+    "authors": ["S. Häkkinen", "P.B. Rhines"],
+    "venue": "Science, 304,",
+    "year": 2004
+  }, {
+    "title": "Reevaluation of historical ocean heat content variations with time-varying XBT and MBT depth bias corrections",
+    "authors": ["M. Ishii", "M. Kimoto"],
+    "venue": "J. Oceanogr.,",
+    "year": 2009
+  }, {
+    "title": "Recent global sea level acceleration started over 200 years",
+    "authors": ["S. Jevrejeva", "J. Moore", "A. Grinsted", "P. Woodworth"],
+    "venue": "ago, Geophys. Res. Lett.,",
+    "year": 2008
+  }, {
+    "title": "Tracing the upper ocean’s “missing heat",
+    "authors": ["C. Katsman", "G. van Oldenborgh"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2011
+  }, {
+    "title": "Climate related sea-level variations over the past two millennia",
+    "authors": ["A. Kemp", "B. Horton", "J. Donnelly", "M.E. Mann", "M. Vermeer", "S. Rahmstorf"],
+    "venue": "Proc. Natl. Acad. Sci.,",
+    "year": 1910
+  }, {
+    "title": "A signature of persistent natural thermohaline circulation cycles in observed climate",
+    "authors": ["J.R. Knight", "R.J. Allan", "C.K. Folland", "M. Vellinga", "M.E. Mann"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2005
+  }, {
+    "title": "Ocean heat uptake and its consequences for the magnitude of sea level rise and climate change, Geophys",
+    "authors": ["T. Kuhlbrodt", "J.M. Gregory"],
+    "venue": "Res. Lett.,",
+    "year": 2012
+  }, {
+    "title": "Reconstruction of solar irradiance since 1610: Implications for climate",
+    "authors": ["J. Lean", "J. Beer", "R. Bradley"],
+    "venue": "change, Geophys. Res. Lett.,",
+    "year": 1995
+  }, {
+    "title": "The Hamburg Atmosphere-Ocean Coupled Circulation Model ECHO-G",
+    "authors": ["S. Legutke", "R. Voss"],
+    "venue": "Tech. Rep. 18,",
+    "year": 1999
+  }, {
+    "title": "Anthropogenic Warming of Earth’s",
+    "authors": ["S. Levitus", "J.I. Antonov", "J. Wang", "T.L. Delworth", "K.W. Dixon", "A.J. Broccoli"],
+    "venue": "Climate System,",
+    "year": 2001
+  }, {
+    "title": "EOF analysis of upper ocean heat content, 1956–2003",
+    "authors": ["S. Levitus", "J. Antonov", "T. Boyer", "H.E. Garcia", "R.A. Locarnini"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2005
+  }, {
+    "title": "Global ocean heat content 1955–2008 in light of recently revealed instrumentation problems, Geophys",
+    "authors": ["S. Levitus", "J.I. Antonov", "T. Boyer", "R. Locarnini", "H. Garcia", "A. Mishonov"],
+    "venue": "Res. Lett.,",
+    "year": 2008
+  }, {
+    "title": "World ocean heat content and thermosteric sea level change",
+    "authors": ["S. Levitus", "J. Antonov", "T.P. Boyer", "O.K. Baranova", "H.E. Garcia", "R.A. Locarnini", "A. Mishonov", "J.R. Reagan", "D. Seidov", "E.S. Yarosh", "M.M. Zweng"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2000
+  }, {
+    "title": "Interpretation of recent antarctic sea ice variability",
+    "authors": ["J. Liu", "J. Curry", "D. Martinson"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2003
+  }, {
+    "title": "Robust warming of the global upper ocean",
+    "authors": ["J.M. Lyman", "S.A. Good", "V.V. Gouretski", "M. Ishii", "G.C. Johnson", "M.D. Palmer", "D.M. Smith", "J.K. Willis"],
+    "venue": "doi:10.1038/nature09043,",
+    "year": 2010
+  }, {
+    "title": "A pacific interdecadal climate oscillation with impacts on salmon production",
+    "authors": ["N. Mantua", "S. Hare", "Y. Zhang", "J. Wallace", "R. Francis"],
+    "venue": "Bull. Amer. Meteor. Soc.,",
+    "year": 1997
+  }, {
+    "title": "Model-based evidence of deep-ocean heat uptake during surfacetemperature hiatus periods",
+    "authors": ["G. Meehl", "J. Arblaster", "J. Fasullo", "A. Hu", "K.E. Trenberth"],
+    "venue": "Nature Clim. Change,",
+    "year": 2011
+  }, {
+    "title": "Internal variability in a 1000-yr control simulation with the coupled climate model ECHO-G -II. El Niño Sourthern Oscillation and North Atlantic Oscillation",
+    "authors": ["S. Min", "S. Legutke", "A. Hense", "W. Kwon"],
+    "venue": "Tellus A,",
+    "year": 2005
+  }, {
+    "title": "IPCC Special Report on Emissions Scenarios (SRES)",
+    "authors": ["S. van Rooijen", "N. Victor", "Z. Dadi"],
+    "year": 2000
+  }, {
+    "title": "ENSO-forced variability of the Pacific decadal oscillation",
+    "authors": ["M. Newman", "G. Compo", "M. Alexander"],
+    "venue": "J. Clim.,",
+    "year": 2003
+  }, {
+    "title": "Variability of the Atlantic meridional overturning circulation in the last millennium and two IPCC scenarios",
+    "authors": ["P. Ortega", "M. Montoya", "F. González-Rouco", "J. Mignot", "S. Legutke"],
+    "venue": "Clim Dyn.,",
+    "year": 2012
+  }, {
+    "title": "Simulated climate change during the last 1000 years: comparing the ECHO-G general circulation model with the MAGICC simple climate model",
+    "authors": ["T.J. Osborn", "S.C.B. Raper", "K.R. Briffa"],
+    "venue": "Clim Dyn.,",
+    "year": 2006
+  }, {
+    "title": "Parameterization of vertical mixing in numerical models of tropical oceans",
+    "authors": ["R. Pacanowski", "S. Philander"],
+    "venue": "J. Phys. Oceanogr.,",
+    "year": 1981
+  }, {
+    "title": "A new perspective on warming of the global oceans",
+    "authors": ["M.D. Palmer", "S.A. Good", "K. Haines", "N.A. Rayner", "P.A. Stott"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2009
+  }, {
+    "title": "Importance of the deep ocean for estimating decadal changes in earth’s radiation balance",
+    "authors": ["M.D. Palmer", "D.J. Mcneall", "N.J. Dunstone"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2011
+  }, {
+    "title": "Deep convection in the Irminger Sea forced by the Greenland tip jet",
+    "authors": ["R.S. Pickart", "M.A. Spall", "M.J. Ribergaard", "G.W.K. Moore", "R.F. Milliff"],
+    "year": 2003
+  }, {
+    "title": "Coupled oceanatmosphere models with flux correction",
+    "authors": ["R. Sausen", "K. Barthel", "K. Hasselmann"],
+    "venue": "Clim. Dyn.,",
+    "year": 1988
+  }, {
+    "title": "Model projections of the North Atlantic thermohaline circulation for the 21st century assessed by observations",
+    "authors": ["A. Schmittner", "M. Latif", "B. Schneider"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2005
+  }, {
+    "title": "How well can we derive global ocean indicators from argo data",
+    "authors": ["K.V. Schuckmann", "P.Y.L. Traon"],
+    "venue": "Ocean. Sci.,",
+    "year": 2011
+  }, {
+    "title": "Observation of decadal change in the atlantic meridional overturning circulation using 10 years of continuous transport",
+    "authors": ["U. Send", "M. Lankhorst", "T. Kanzow"],
+    "venue": "data, Geophys. Res. Lett.,",
+    "year": 2011
+  }, {
+    "title": "Effects of bottom boundary condition placement on subsurface heat storage: Implications for climate model simulations",
+    "authors": ["M.B. Stevens", "J.E. Smerdon", "J.F. González-Rouco", "M. Stieglitz", "H. Beltrami"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2006
+  }, {
+    "title": "A practical guide to wavelet analysis",
+    "authors": ["C. Torrence", "G. Compo"],
+    "venue": "Bulletin of the American Meteorological,",
+    "year": 1998
+  }, {
+    "title": "The definition of El Niño",
+    "authors": ["K. Trenberth"],
+    "venue": "Bull. Amer. Meteor. Soc.,",
+    "year": 1997
+  }, {
+    "title": "The ocean is warming",
+    "authors": ["K. Trenberth"],
+    "venue": "isn’t it?,",
+    "year": 2010
+  }, {
+    "title": "Teleconnections in the geopotential height field during the Northern Hemisphere winter",
+    "authors": ["J. Wallace", "D. Gutzler"],
+    "venue": "Monthly Weather Rev.,",
+    "year": 1981
+  }, {
+    "title": "Interannual variability in upper ocean heat content, temperature, and thermosteric expansion on global scales",
+    "authors": ["J. Willis", "D. Roemmich", "B. Cornuelle"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2003
+  }, {
+    "title": "The Hamburg Ocean Primitive Equation",
+    "authors": ["J.O. Wolff", "E. Maier-Reimer", "S. Legutke"],
+    "venue": "Clim. Past,",
+    "year": 1997
+  }, {
+    "title": "ENSO-like interdecadal variability: 1900–1993",
+    "authors": ["Y. Zhang", "J. Wallace", "D.S. Battisti"],
+    "venue": "J. Clim.,",
+    "year": 1997
+  }, {
+    "title": "Testing the Mann et al. (1999) approach to paleoclimate reconstructions in the context of a 1000-yr control simulation with the ECHO-G coupled climate",
+    "authors": ["E. Zorita", "J.F. González-Rouco", "S. Legutke"],
+    "venue": "model, J. Clim.,",
+    "year": 2003
+  }, {
+    "title": "Natural and anthropogenic modes of surface temperature variations in the last thousand years",
+    "authors": ["E. Zorita", "J.F. González-Rouco", "H. von Storch", "J.P. Montávez", "F. Valero"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2004
+  }, {
+    "title": "Comments on “Testing the fidelity of methods used in proxy-based reconstructions of past climate",
+    "authors": ["E. Zorita", "F. Gonzalez-Rouco", "H. von Storch"],
+    "venue": "J. Clim.,",
+    "year": 2007
+  }],
+  "id": "SP:d08393251255c100cdfebf679dfdf4a4b98f68f7",
+  "authors": [{
+    "name": "P. Ortega",
+    "affiliations": []
+  }, {
+    "name": "M. Montoya",
+    "affiliations": []
+  }],
+  "abstractText": "Studies addressing climate variability during the last millennium generally focus on variables with a direct influence on climate variability, like the fast thermal response to varying radiative forcing, or the large-scale changes in atmospheric dynamics (e.g. North Atlantic Oscillation). The ocean responds to these variations by slowly integrating in depth the upper heat flux changes, thus producing a delayed influence on ocean heat content (OHC) that can later impact low frequency SST (sea surface temperature) variability through reemergence processes. In this study, both the externally and internally driven variations of the OHC during the last millennium are investigated using a set of fully coupled simulations with the ECHO-G (coupled climate model ECHAMA4 and ocean model HOPE-G) atmosphere–ocean general circulation model (AOGCM). When compared to observations for the last 55 yr, the model tends to overestimate the global trends and underestimate the decadal OHC variability. Extending the analysis back to the last one thousand years, the main impact of the radiative forcing is an OHC increase at high latitudes, explained to some extent by a reduction in cloud cover and the subsequent increase of shortwave radiation at the surface. This OHC response is dominated by the effect of volcanism in the preindustrial era, and by the fast increase of GHGs during the last 150 yr. Likewise, salient impacts from internal climate variability are observed at regional scales. For instance, upper temperature in the equatorial Pacific is controlled by ENSO (El Niño Southern Oscillation) variability from interannual to multidecadal timescales. Also, both the Pacific Decadal Oscillation (PDO) and the Atlantic Multidecadal Oscillation (AM ) modulate intermittently the interdecadal OHC variability in the North Pacific and Mid Atlantic, respectively. The NAO, through its influence on North Atlantic surface heat fluxes and convection, also plays an important role on the OHC at multiple timescales, leading first to a cooling in the Labrador and Irminger seas, and later on to a North Atlantic warming, associated with a delayed impact on the AMO.",
+  "title": "Variability of the ocean heat content during the last millennium – an assessment with the ECHO-g Model"
+}

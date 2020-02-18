@@ -1,0 +1,564 @@
+{
+  "sections": [{
+    "text": "Climate engineering through artificial enhancement of natural forcings: Magnitudes and implied consequences\nCaspar M. Ammann,1 Warren M. Washington,1 Gerald A. Meehl,1 Lawrence Buja,1,2 and Haiyan Teng1\nReceived 23 July 2009; revised 12 May 2010; accepted 10 August 2010; published 19 November 2010.\n[1] Explosive volcanism and solar activity changes have modulated the Earth’s temperature over short and century time scales. Associated with these external forcings were systematic changes in circulation. Here, we explore the effect of similar but artificially induced forcings that mimic natural radiative perturbations in order to stabilize surface climate. Injection of sulfate aerosols into the stratosphere, not unlike the effects from large volcanic eruptions, and a direct reduction of insolation, similar to total solar irradiance changes, are tested in their effectiveness to offset global mean temperature rise resulting from a business‐as‐usual scenario, thereby reducing surface temperatures to conditions associated with committed warming of a year 2000 stabilization scenario. This study uses a coupled Atmosphere‐Ocean General Circulation Model to illustrate the character of resulting climate and circulation anomalies when both enhanced greenhouse (A2 scenario) and opposing geoengineering perturbations are considered. First we quantify the magnitude of the required perturbation and compare these artificial perturbations to the natural range of the respective forcing. Then, we test the effectiveness of the “correction” by looking at the regional climate response to the combined forcing. It is shown that widespread warming could be reduced, but overcompensation in the tropics is necessary because sea ice loss in high latitudes cannot be reversed effectively to overcome higher ocean heat content and enhanced zonal winter circulation as well as the continuous IR forcing. The magnitude of new, greenhouse gas‐countering anthropogenic forcing would have to be much larger than what natural forcing from volcanoes and solar irradiance variability commonly provide.\nCitation: Ammann, C. M., W. M. Washington, G. A. Meehl, L. Buja, and H. Teng (2010), Climate engineering through artificial enhancement of natural forcings: Magnitudes and implied consequences, J. Geophys. Res., 115, D22109, doi:10.1029/2009JD012878."
+  }, {
+    "heading": "1. Introduction",
+    "text": "[2] The Earth’s climate is changing, and the primary cause of the recent warming is attributable to the human induced increase in greenhouse gas concentrations in the atmosphere. Not only is the time evolution of temperature closely following the changes in radiative forcing [Tett et al., 1999; Ammann et al., 2003; Hegerl et al., 2003;Meehl et al., 2004; Hansen et al., 2007; Intergovernmental Panel on Climate Change (IPCC), 2007], but this temporal perspective must be seen in combination with an equally clear spatial (vertical) fingerprint where the warming of the land and ocean subsurface [Huang et al., 2000; Levitus et al., 2005], and lower atmosphere [Brohan et al., 2006] is replaced by a trend of opposite sign above the tropopause [Santer et al., 2006] and higher [Lastovicka et al., 2006]. Our dynamical understanding of the Earth System provides the necessary framework within which one can consider these independent lines of evidence. Despite observational uncertainty connected with each of the observed time series, it is clear that no climate system internal processes, i.e., natural variability, possess spatiotemporal aspects that can explain the combined trends; increases in greenhouse gas concentrations, however, can. The observational record is also strongly supported by modeling studies both in trend and magnitude. In fact, models, although not perfect, have, and continue to, help identify errors in observations [Santer et al., 2003, 2006; Allen and Sherwood, 2008; Thompson et al., 2008]. Thus, the change in large‐scale climate has now been formally detected and attributed to the anthropogenic modifications of the atmosphere [Santer et al., 2004; Hegerl et al., 2006; IPCC, 2007]. [3] Natural climate variability not only arises internally\nfrom the system, but there are also external components. It is generally thought (see Figure 1) that variations in explosive\n1Climate and Global Dynamics Division, National Center for Atmospheric Research, Boulder, Colorado, USA.\n2Climate Science and Applications Program, Research Applications Laboratory, National Center for Atmospheric Research, Boulder, Colorado, USA.\nCopyright 2010 by the American Geophysical Union. 0148‐0227/10/2009JD012878\nJOURNAL OF GEOPHYSICAL RESEARCH, VOL. 115, D22109, doi:10.1029/2009JD012878, 2010\nD22109 1 of 17\nvolcanism and solar irradiance changes were of particular importance over the past centuries and millennia [Lean et al., 1995; Briffa et al., 1998; Mann et al., 1998; Bertrand et al., 1999; Free and Robock, 1999; Crowley, 2000; Hegerl et al., 2003; Goosse et al., 2005b; Ammann et al., 2007; Hegerl et al., 2007]. During the 20th century these factors have had a somewhat mixed influence on the overall climatic trend. While during the first half of the century the combined solar and volcanic forcing was generally supporting warming (increasing solar irradiance with almost absent volcanism), the natural forcing over last decades was more neutral (a continuously high solar irradiance was combined with increased volcanism), but it is in this time that greenhouse gas forcing has been taking over as the dominant factor (Figure 1) [Tett et al., 1999; Ammann et al., 2003; Hegerl et al., 2003;Meehl et al., 2004; Ammann et al., 2007]. [4] Could natural climate forcings, if acting more in concert, play a role in moderating future climate change? The chances for this to happen naturally are small [Hyde and Crowley, 2000; Ammann and Naveau, 2010]. Given that continued anthropogenic warming is almost inescapable at this point, earlier ideas [see Dickinson, 1996] have been brought back into the discussion to maybe artificially “enhance” these natural forcings through geoengineering [Crutzen, 2006; Wigley, 2006]. In principle, a volcanic eruption can simply be regarded as a process of injecting large amounts of sulfur into the stratosphere where the formation of small sulfate aerosol particles leads to scattering of some sunlight back into space. Solar irradiance changes are similar in that they change the amount of sunlight reaching the Earth, albeit with different magnitudes across the spectrum. Provided sufficient resources, both general processes (injection of sulfur into the stratosphere,\n2 of 17\nor placing reflectors in space to reduce the amount of energy reaching Earth) could be mimicked by humans [Govindasamy and Caldeira, 2000; Angel, 2006; Crutzen, 2006; Wigley, 2006; Bala et al., 2008; Caldeira and Wood, 2008; Rasch et al., 2008b; Robock et al., 2008]. Although other ideas (for an overview see Lenton and Vaughan [2009]) have been discussed (e.g., enhancing low‐level cloud albedo [Latham et al., 2009] or increasing surface albedo [Akbari et al., 2009]), we will concentrate here only on the two geoengineering approaches that orient themselves most closely on the two natural external processes that dominated the pre‐industrial centuries. Using the comparison between the purely natural and the now artificially enhanced “natural” forcings offers an alternative way of contextualizing the ongoing and possible future magnitude of anthropogenic influence on the climate system (Figure 1). [5] Ignoring costs [Barrett, 2008] or technical feasibility, two questions would need to be considered: (1) Compared to the natural background, what magnitude of perturbation would be necessary (how much sulfur or how large of an irradiance reduction), and (2) what would be the associated climatic effect? The first question can be answered relatively easily with simple energy balance considerations [Govindasamy and Caldeira, 2000; Crutzen, 2006; Wigley, 2006] and forcing estimates can readily be compared with the current understanding of the natural record of these forcing factors back in time. The second requires a more careful analysis of dynamical climate feedbacks. It is clear from the instrumental record [Groisman, 1992; Robock and Mao, 1995; Robock, 2001; van Loon et al., 2007] as well as from paleo studies [Shindell et al., 2001; Adams et al., 2003; Shindell et al., 2004; Mann et al., 2005; Fischer et al., 2007] that the climatic response to external forcing does not simply result in a change in temperature. In fact, the spatial climate responses are quite complex and change with the seasonal cycle [Robock, 2000; Stenchikov et al., 2002; Fischer et al., 2007]. The problem, however, is that such “natural” forcings would come superposed on increasingly large greenhouse gas concentrations that were not present in the past. While experience from the past might offer certain expectations, the detailed response to the combined radiative forcings needs to be carefully assessed. [6] Further complicating any implementation are impacts on, and feedbacks from, the hydrologic cycle [Bala et al., 2008; Robock et al., 2008] and the biosphere [Govindasamy et al., 2002], where the full complexity of the coupled climate system and the biological sensitivity to various forms of light (direct versus diffuse) have to be considered. Equally, in order to assess the potential response in regions with very large feedback potential, such as the polar areas [Caldeira and Wood, 2008], only the most complete climate system models are likely capable of representing the necessary complexity of the physical system. [7] In this paper we apply a fully coupled Atmosphere‐ Ocean General Circulation Model (AOGCM) that provides the necessary complexity (although some limitations might still exist [see Shindell et al., 2003]) to evaluate the combined effects of anthropogenic greenhouse gas and anthropogenically enhanced “natural” forcings. Specifically, we quantify the increase in “natural” forcings of volcanic‐ (sulfate injection) and solar‐type (solar irradiance reduction) perturbations that would be necessary to offset the continued increase in greenhouse gas forcing of an SRES‐A2 scenario [IPCC, 2000] after the year 2020. This initial delay was included to accommodate both the scientific concern about ozone (the current level of halogens would initiate substantial ozone destruction if sulfate would be injected, though the chosen time delay might not be enough [Tilmes et al., 2008]) and also the time necessary over which political will would have to be established to launch the required (massive) magnitude of a geoengineering operation. As a target for our engineering operations we set a global mean surface temperature that is achieved in the 2000 stabilization scenario (frozen forcings in the year 2000). While not a particularly realistic scenario [e.g., Wigley, 2006, 2008], this perspective provides a novel comparison of the anthropogenic greenhouse forcing with natural forcing factors both with regards to magnitude (how the future forcing would compare to its “natural” history) as well as spatiotemporal impact (if the climate response still follows the expectations one can gain from the past or if the combination of various forcings would result in a different climate altogether). Therefore, such a comparison might be helpful for people to better contextualize the magnitude of the underlying greenhouse gas problem that is still difficult to grasp."
+  }, {
+    "heading": "2. Model and Forcing Data",
+    "text": "[8] We use the National Center for Atmospheric Research‐Community Climate System Model (CCSM) Version 3.0 [Collins et al., 2006a, and references therein]. The atmosphere uses a T85 spectral dynamical core resolving horizontal variations of nearly 150 km with 26 vertical layers topping out in the midstratosphere at about 35 km [Collins et al., 2006c; Hack et al., 2006a, 2006b; Hurrell et al., 2006]. Stratospheric (volcanic) aerosols are prescribed in their spatial and temporal evolution and their radiative effects are determined based on an assumed sulfuric acid particle with a fixed size distribution with an effective radius of 0.42 mm [Ammann et al., 2003]. This size represents the average posteruption volcanic particle [Stenchikov et al., 1998]. However, it has been suggested [Teller et al., 2002; Rasch et al., 2008a] that geoengineering particles should be designed or chosen in size and composition to be the most efficient scatterers (with less heating), what would require less mass while achieving the same forcing magnitude. Crutzen [2006] also pointed out that smaller particles would additionally offer an extended lifetime because of their reduced sedimentation rates. Alternative substances might also improve the mass‐to‐forcing balance and reduce the effort necessary to achieve a given reduction in incoming sunlight, and to minimize the almost inescapable heating in the aerosol layer [see, e.g., Blackstock et al., 2009]. For the sensitivity study presented here, we use the identical stratospheric aerosol specification that is used for natural volcanic eruptions in CCSM [Ammann et al., 2003]. For assessing the effects of different particles in the geoengineering context, see, e.g., Rasch et al. [2008a]. [9] The ocean component in CCSM‐3 is based on a rotated grid with roughly 1 degree horizontal resolution and 40 vertical levels [Bryan et al., 2006; Gent et al., 2006; Large and Danabasoglu, 2006]. The sea ice includes both\n3 of 17\ndynamical and thermodynamical treatment of ice [DeWeaver and Bitz, 2006; Holland et al., 2006], and the land surface is simulated with improved hydrology [Bonan and Levis, 2006; Dickinson et al., 2006]. The different component models communicate through a flux coupler [Collins et al., 2006a]. The model at this configuration exhibits a nominal climate sensitivity to a doubling of CO2 of 2.8 K [Kiehl et al., 2006], close to the middle of the range of models in IPCC AR4. [10] Schneider et al. [2009] evaluate the performance of the volcanic implementation in CCSM3 for both tropical and high‐latitude eruptions. They report overall realistic impact to the volcanic forcing in comparison with observations, with significant radiative (tendency to be on the large end) and dynamical circulation response. While general circulation changes dominate the immediate aftermath of an eruption (the time with aerosol present in the atmosphere), it was particularly the role of sea ice that was highlighted to sustain climatic perturbations [Schneider et al., 2009]. It is this combination of direct radiative and indirect dynamical response that we will build on here to determine the effect of geoengineering. [11] The simulations presented here build directly on existing ensemble experiments [Meehl et al., 2005, 2006] performed for the Fourth Assessment Report of the Intergovernmental Panel of Climate Change (IPCC AR4) [IPCC, 2007]. The A2 scenario exhibits nearly business‐as‐usual increases of greenhouse gas emissions with continuous increases throughout the 21st century reaching atmospheric concentrations of ∼850 ppm CO2 and an associated transient global mean temperature increase in the CCSM of roughly 4°C by the last 20 years of the 21st century. In contrast, the year 2000 stabilization experiment, often referred to as the “commitment” simulation, integrates the climate model forward with forcings frozen in the year 2000. CCSM‐ simulated temperatures showed a committed warming of ∼0.6°C over the 21st century as the coupled ocean lags the atmosphere [Meehl et al., 2006]. Current real world conditions substantially surpass these conditions and, in fact, even surpass the A2 emissions [Raupach et al., 2007]. But it is important to remember that all simulations simply follow what‐if scenarios. In this light, our geoengineering exercises are equally hypothetical sensitivity experiments and should not be mistaken for proposed pathways to keep climate stabilized at close to the observed level. [12] Our implementation of the geoengineering perturbations in the A2 simulation follows the same approach used for the natural volcanic forcing series in 20th century simulations [Ammann et al., 2003; Meehl et al., 2004] and long millennium simulations [Ammann et al., 2007]. This off‐line approach distinguishes between tropical and high‐ latitude injections (eruptions). The injected mass is converted from SO2 gas to 75% H2SO4 + 25% H2O using an e‐folding time of 1 month. The resulting sulfate aerosol, that is assumed to be zonally well mixed, is then transported poleward [Geller, 1983; Plumb, 1996] following a seasonally varying diffusion with enhanced meridional transport in the winter hemisphere. The wintertime polar vortex of the respective hemisphere is assumed to be a barrier that the aerosol can only overcome in the following spring, which is based on observations of volcanic sulfate deposition in spring to summer [Kreutz et al., 1999]. This simple scheme was designed for volcanic eruptions in the past and therefore neither take into account changes in transport due to induced climate changes, nor based on variations in the QBO [O’Sullivan and Dunkerton, 1997]. It also ignores the influence of varying injection heights. However, as discussed by Ammann et al. [2003], it provides reasonable estimates of the spatial evolution of the volcanic clouds compared to observations. (Note that we prefer to prescribe the aerosol evolution because the spectral configuration of CSM and CCSM exhibits a too efficient meridional mixing leading to unrealistic transport [Ammann et al., 2003]. We anticipate that the next generation based on a finite‐volume dynamical core will be better suited for an interactive application.) The spatial effects of this forcing are shown below. [13] We started continuous injections of sulfate aerosols in tropical latitudes after the year 2020 and then transported the aerosols using an off‐line model. Because of the coupled model feedbacks, it is not immediately clear what amount of sulfate aerosols to prescribe in order to reduce surface temperatures to a particular target, here the 2000 stabilization global mean temperature. Using an iterative approach, we identified the necessary aerosol mass. Given the large volume of sulfate, we concentrate on the period 2020–2050, and in particular evaluate the climate response over the last 10 years of this simulation. Similarly, we decreased top‐of‐ the‐atmosphere solar irradiance (the top of the atmosphere solar flux) in an iterative fashion. As a criterion to judge our success in correctly estimating the appropriate reduction, we chose the resulting surface mean temperature as it compared to the reference case. The magnitudes necessary to achieve a stabilization of surface climate equivalent to the commitment experiment are shown in section 3. The climate response is discussed in section 4."
+  }, {
+    "heading": "3. Climate Forcing",
+    "text": ""
+  }, {
+    "heading": "3.1. Range of Natural Forcing Over the",
+    "text": "Past 1000 Years [14] Earth’s volcanic activity is continuous and emissions to the atmosphere are part of the natural background. But only a small fraction of large events are explosive or intense enough to inject sulfur‐bearing gases directly into the stratosphere where the gas is oxidized and interacts with moisture to form small sulfate aerosol particles. Largely protected from the rapid turnover associated with tropospheric convection and scavenging by weather systems, stratospheric particles can get dispersed efficiently and an initially concentrated cloud of SO2 will quickly be converted and mixed into a large‐scale aerosol blanket that can affect global radiative fluxes. [15] The instrumental record of radiative perturbations from volcanic aerosols only goes back into the late 19th century [e.g., Sato et al., 1993; Stothers, 1996]. The polar ice sheets, however, offer a very long archive of past volcanic activity. Individual sulfate spikes can be identified in high‐resolution ice cores and the large events can quite easily be identified [Hammer, 1977; Legrand and Delmas, 1987; Zielinski et al., 1994; Robock and Free, 1995; Traufetter et al., 2004; Kurbatov et al., 2006; Gao et al., 2008]. In this process it is particularly important to identify eruptions that occurred in the tropics because their\n4 of 17\naerosols can be spread into both hemispheres and thus can affect a larger area of the globe. Two of the longest reconstructions of past volcanic activity that are based on multiple ice cores (and thus reduce potential sampling biases arising in single ice cores) are those of Crowley [2000] and Ammann et al. [2007]. These are the most widely used volcanic forcing records; other reconstructions exist [Robertson et al., 2001], most recently by Gao et al. [2008], but results would be qualitatively similar. [16] Figure 2 (left) shows a time history of volcanic forcing over the past 1000 years [Crowley, 2000; Ammann et al., 2007]. While the eruption process for these large events is episodic, there are periods of increased volcanic activity. Independent of which data set is chosen, the same periods of heightened volcanic activity can be identified (see smoothed series in Figure 2, left). [17] The instrumental record of direct solar irradiance measurements is short and, due to atmospheric transmission noise, restricted to the satellite period of the past three solar cycles. The variation of solar magnetic activity with its characteristic ∼11 year cycle is responsible for a change of less than 0.1% of the total solar flux received by the Earth [Fröhlich and Lean, 2004]. Models that combine the two key components of solar surface features – sunspot and the countering faculae – can reasonably reproduce the observed irradiance changes [Lean et al., 2002; Solanki and Krivova, 2004; Wang et al., 2005; Krivova et al., 2007]. [18] Progress in solar physics research has indicated in recent years that previously estimated century‐scale solar forcing trends were probably too large [Hall and Lockwood, 2004] and that the magnitude in solar irradiance change during extended sunspot minima, such as the Maunder Minimum 1645–1715, was likely smaller [Hall and Lockwood, 2004; Wang et al., 2005]. Climate model simulations also indicated that very large amplitudes of past solar changes were not necessary to explain the past climate record and a more moderate amplitude of low‐frequency solar irradiance variability appears sufficient, at least from a mean hemispheric temperature perspective [Hegerl et al., 2003; Ammann et al., 2007; Hegerl et al., 2007]. [19] Solar variability can roughly be separated into its dominant cycles of 11/22 years, 80–88 years (Gleissberg cycle) and the longer ∼207 year deVries or Suess cycle. Based on the observed sunspot record that starts in the early 17th century and the records of cosmogenic nuclei of 10Be and 14C one can reconstruct an overall history of solar variability. While there are various uncertainties in these records, the overall temporal structure of past solar variations seems to be quite well established [Vonmoos et al., 2006; Muscheler et al., 2007], and combined with the recent constraints on the amplitude of the longer‐term cycles, one can derive a reasonable solar forcing series. Figure 3 shows such an estimate (based on work by Wang et al. [2005]) back to 1600, including the Maunder Minimum (∼1645–1715) when sunspots were essentially absent on the solar surface. [20] Atmospheric greenhouse gas forcing can be calculated using very precise line‐by‐line radiative transfer codes that resolve the various absorption bands of atmospheric constituents [Collins et al., 2006b]. Atmospheric concentrations of CO2, the dominant greenhouse gas that is directly affected by human activities, are measured in the atmosphere since the International Geophysical Year in 1957–1958. The measurements show the strong annual cycle arising from the seasonal breathing of the planets vegetation but also a clear increasing trend due to our burning of fossil fuel. Longer records can be derived from polar ice cores where continuous series have been extended back more than 800,000 years [Jouzel et al., 2007]. The precision of these measurements has recently been increased as samples from the particularly pristine environment from\n5 of 17\nAntarctica have been analyzed. During the last millennia these concentrations changed only slightly, but after about 1750 start to reflect the increasing industrialization of the world. The record of these gases is quite precise (measurement uncertainty of CO2 is now on the order of 6 ppm). [21] These dominant natural forcing factors have been associated with climate over the pre‐industrial time [Mann et al., 1998; Crowley, 2000; Bertrand and Van Ypersele, 2002; Hegerl et al., 2004; Goosse et al., 2005a; Ammann et al., 2007]. Most recently, IPCC [IPCC, 2007] illustrated how the history of natural energy balance perturbations mimics quite closely the variations found in climate records. Natural forcings alone were not sufficient to explain the most recent rise in global or hemispheric temperatures, but only inclusion of anthropogenically induced greenhouse gas changes could push models to accomplish a good match with observations. By the end of the 20th century, radiative forcing was no longer dominated by natural processes but clearly by anthropogenic effects [Lean et al., 1995; Tett et al., 1999; Ammann et al., 2003, 2007; Hegerl et al., 2007]."
+  }, {
+    "heading": "3.2. Necessary Forcing After 2020",
+    "text": "[22] The IPCC A2 scenario considers a continued increase of atmospheric greenhouse gases throughout the 21st century and associated warming in climate models is substantial [IPCC, 2007]. Based on the past history of natural forcings, we now consider the question of what magnitude of mimicked natural forcing would be necessary to offset the relative change of these greenhouse gas increases compared to a equally fictitious base line taken from the 2000 stabilization scenario. [23] Figure 2 (right) and Figure 3 put the necessary future stratospheric sulfate (“volcanic”) and simple reduced irradiance (“solar”) forcing in perspective of the natural record. These forcing series were derived iteratively in coupled\nclimate model integrations. Because the climate state along the A2 scenario is quite different from the pre‐industrial background, and therefore the same reduction of solar radiation was not met with the same magnitude of response, initial estimates of the forcing needed to be updated, and the climate model had to be rerun. From these illustrations it becomes clear that realistic natural variations are not sufficient to counter the changes in greenhouse gas concentrations. Only repeated, closely spaced volcanic eruptions could rival the magnitude of greenhouse forcing. But it is important to keep in mind that the temporal structure of the forcings are very different: real volcanic eruptions cause large initial perturbations that then rapidly decay while greenhouse forcing is smooth and in the SRES‐A2 scenario roughly keep increasing monotonically [Archer and Brovkin, 2008]."
+  }, {
+    "heading": "4. Climate Response",
+    "text": "[24] The climate response to the combined “natural” and anthropogenic forcings as simulated in our geoengineering experiments needs to be discussed from different perspectives. First, a focus on the mean response at the largest spatial scales lends itself for broadly evaluating the effectiveness of the geoengineering approach to counter the anthropogenic greenhouse forcing of an A2 scenario. Note, as stated above, this is less intended to illustrate a realistic solution to the greenhouse problem but rather an indirect illustration of how large the underlying forcing from the accumulating trace gases in the atmosphere actually is. Then, motivated by “typical” climate response to natural external forcing in the historical record we analyze the coupled simulations specifically for the seasonally dependent response dynamics."
+  }, {
+    "heading": "4.1. Annual Mean Response",
+    "text": "[25] Given the right magnitude of stratospheric sulfate aerosols, or reduction of solar radiative flux, one can achieve a stable global mean climate, i.e., a surface temperature that in our case is provided by the 2000 stabilization scenario (Figure 4). This response is equivalent to results byWigley [2006] and others that employed an energy balance model to combine the various forcings. To “hit the target” in a dynamical coupled climate system model is somewhat more laborious because the internal variability masks the short‐term success or failure of a forcing combination. Using an iterative approach, we derived the required sulfate mass (Figure 2, right) and necessary solar irradiance change (Figure 3). Figure 4 summarizes the simulations discussed below. The geoengineering simulations are all branches off the official A2 scenario experiments (red line and range) with the additional radiative perturbations (either sulfate aerosol shown in Figure 4a or solar irradiance reduction shown in Figure 4b) to reduce global temperatures to the level of the IPCC “commitment” simulations (orange line and range) in which radiative forcing was frozen in year 2000. We discuss these results now in more detail. [26] A reduction of the global mean temperature from A2 to the 2000 stabilization level is, of course, achievable in both cases we considered. In the stratospheric sulfate case the simulation might have overcorrected the climate after about 10 years somewhat but then recovered subsequently to achieve about a 20 year period mean equivalent to the target case. The sulfate aerosol experiment was then not\n6 of 17\nfurther extended because of the very large amounts of continuous sulfate injections necessary that approached continuous peak Pinatubo levels (see Figure 2, right). Again, such injections are not considered realistic. Wigley [2006, 2008] points out that sulfate aerosol forcing much more likely could be considered as an aid in combination with strong mitigation action. [27] The reduced insolation simulation, however, was extended to the end of the 21st century with good global mean temperature reduction success. This simulation is compared as well with an exercise using a 0.3% step reduction, representing likely the largest possible natural variation of the last 500 years (current estimates of the multicentury background trend would roughly cut this estimated change by half [Wang et al., 2005], rendering even this largest natural change as conservative). While this latter simulation indicates an initial reduction of surface temperatures to the 2000 stabilization mean, the continued increase in greenhouse gas forcing from the A2 scenario overwhelms the solar reduction quickly and surface temperatures start to rise again. Only continued further reduction in solar irradiance (Figure 3) can hold the surface temperature close to the target (green line Figure 4b). [28] While the shortwave (solar) radiative flux to the surface is reduced in both approaches, the difference between a simple irradiance change and stratospheric sulfate induced perturbations is mostly found in the stratosphere itself, where sulfate aerosols reside over many months and get continuously replenished. These particles not only scatter sunlight but also absorb a not inconsequential fraction of near‐infrared and infrared radiation [Stenchikov et al., 1998] and thus warm up. This temperature change in the aerosol layer induces horizontal pressure gradients that affect the atmospheric circulation [Robock and Mao, 1992; Robock, 2001]. Figure 5 illustrates the mean temperature changes between the reference cases (Figures 5a and 5b) and the geoengineered climates (Figures 5c and 5d). [29] Strong surface warming with significant polar amplification is seen for the A2 scenario (Figure 5a). Much reduced warming is evident for the 2000 stabilization experiment (Figure 5b). The two geoengineering cases (Figures 5c and 5d) show very similar features to the stabilization case with clearly remaining, albeit weaker, polar amplification and much reduced low‐latitude warming than the full A2 scenario. Figures 5e and 5f show how the geoengineered world, designed for a global mean temperature match to the 2000 stabilization temperatures, appears overcooled in the tropics while the high latitudes are not corrected enough, particularly over the Arctic. A substantial fraction of this effect can be explained by the superposition of the A2 forcings with the geoengineering perturbations where the combined optical effects of tropospheric and stratospheric aerosol lead to substantial reduction in downward solar flux at the surface. Figure 6 shows the clear sky surface shortwave flux difference between a geoengineered A2 simulation (with combined forcing) and the 2000 stabilization conditions. The tropical cooling can be directly associated with the reduced incoming shortwave radiation which is caused by high anthropogenic tropospheric aerosol levels of the A2 scenarios combined with a large‐scale reduction of the surface flux (here from the experiment with sulfate injection in the stratosphere, but the simple irradiance reduction case would look comparable). The tropospheric aerosol forcing in the 2000 stabilization case is much weaker. [30] Interestingly, the eastern tropical Pacific in both\n“geoengineered worlds” is somewhat warmer than in the 2000 stabilization experiment (see Figures 5e and 5f), suggesting a coupled response in the mean state of the El Niño‐ Southern Oscillation system not unlike the one discussed recently by van Loon et al. [2007] and Meehl et al. [2008]\n7 of 17\nand suggested in earlier analyses of past climates [Adams et al., 2003; Mann et al., 2005]. This observation illustrates how large‐scale radiative forcing can generate a response in globally dominant circulation patterns, which in turn affect specific regions. The historical (and high‐resolution paleoclimatic) record appears to show a systematic response to radiative forcing, independent of the time scale of consideration, and therefore it is not surprising that geoengineering approaches that mimic natural forcings can also induce such changes."
+  }, {
+    "heading": "4.2. Seasonal Surface Temperature Response",
+    "text": "[31] Figure 7 shows typical volcanic induced cooling and its effect in both northern hemisphere winter and summer season (Figure 7, top) and compare these composited short‐ term patterns with the sustained anomalies in a stratospheric sulfate‐geoengineered world (Figure 7, bottom). The low‐ latitude response is not dissimilar between a volcanic event and with geoengineering. There is a hint for a stronger east‐ west contrast in the geoengineering case, though similar response with relative warming in the eastern tropical Pacific has actually been observed and been reconstructed after volcanic eruptions [Adams et al., 2003]. The sustained geoengineering forcing appears to strengthen that zonal signal somewhat (though the GCM might not be sensitive enough in this regard). At higher latitudes, a similar winter (DJF) warming structure is apparent, yet the magnitude in the geoengineered case is substantially larger. These posi-\n8 of 17\ntive anomalies, likely resulting from reduced sea ice and enhanced westerly flow (see below) together with the year‐ round enhanced downward flux of infrared radiation from enhanced greenhouse gas content, persist into the summer season where the largest cooling is found after natural volcanic episodes. The artificial stratospheric forcing was not sufficient to completely counteract the underlying anthropogenic warming.\n[32] The response to a top‐of‐atmosphere irradiance change (Figure 8) is more uniform and smoother because of the absence of stratospheric heating and thus less dynamical response. The winter conditions (Figure 8, left) still show a strong warming at high latitudes compared to the 2000 stabilization experiment. This is likely the effect of the reduced sea ice cover that is associated with the A2 scenario. Although the geoengineering approach can balance the global mean radiative fluxes, it cannot easily make up for the dramatic regional changes in the Arctic that have already occurred by the time the geoengineering “fix” is put in place. The imposed cooling at high latitudes is not large enough to rebuild the lost sea ice."
+  }, {
+    "heading": "4.3. Circulation Response",
+    "text": "[33] The various radiative perturbations with their typical effects on the horizontal and vertical temperature structure lead to pressure changes, which in turn generate systematic circulation changes. The effect on local temperatures is particularly large in the sulfate‐driven case. The difference between this simulation with the standard IPCC A2 and 2000 Stabilization scenarios is quite instructive (Figure 9). The strong greenhouse driven A2 simulation has a higher range of temperatures with a warmer mid and upper troposphere, and a much colder stratosphere. The geoengineering effects counteract these typical “anthropogenic” fingerprint [Santer et al., 2004] anomalies (Figure 9e). Comparing the engineered situation to the 2000 stabilization case (Figure 9d),\n9 of 17\nslightly warmer surface conditions indicate the minor undercorrection in the 2040s (while the 2030s were somewhat too cool). The effect of the stratospheric particles is also apparent in the aerosol layer above the tropopause (Figures 9d and 9e). Because of the high levels of sulfate particles in the lower stratosphere, the overall temperatures in the aerosol layer are up to 3 K higher than in the 2000 stabilization conditions, and even 5 K higher than under A2\n10 of 17\nconditions. Above the aerosol layer, however, the presence of aerosol cannot remove the substantial cooling in the high‐ greenhouse world (Figure 9d). [34] The changes in the temperature profile due to the injection of stratospheric aerosol on top of high greenhouse gas concentrations might quite likely have some other nontrivial consequences. The substantial heating above, but close to, the tropical tropopause “cold point” (see Figures 9d and 9e) would lead to enhanced cross‐tropopause flow of moisture. Not only is this moisture active as a greenhouse gas but it could also negatively influence ozone chemistry and therefore delay the recovery of the ozone concentrations [Tilmes et al., 2008], particularly as middle stratospheric temperatures, because of the high concentrations of CO2, are substantially lower in the geoengineering simulations than under the 2000 stabilization condition. Interactive coupled ocean‐atmosphere‐chemistry models are needed to quantify these factors. Here both aerosol and stratospheric ozone were prescribed without consideration of their interaction. [35] The distribution of vertical temperature anomalies induces significant changes in the zonal winds (Figure 10). The effect from the stratospheric aerosol is particularly visible at the level of the polar jets, very similar to the observed response after volcanic eruptions. The presence of stratospheric aerosol and the associated heating, leads to a horizontal temperature gradient enhancement between the midlatitudes and the polar areas, and thus inducing an enhanced zonal flow in the upper troposphere and lower stratosphere (Figures 10d and 10e). The reduction of solar energy reaching the surface, especially at low latitudes, however, reduces the available energy for convection and therefore leads to a reduction in the strength of the Hadley Cell. The tropical (easterly) trades are reduced, and so is the westerly outflow on the poleward side. The low‐latitude effect is particularly strong when comparing the sulfate geoengineering experiment against the target, the 2000 stabilization conditions (Figure 10d). Both effects, the increase in polar westerlies and the reduction of the Hadley Cell, are in good agreement with the systematic response to natural volcanic forcing on climate in the months to a couple years after an explosive eruption. [36] The changes in radiation, temperature and circulation naturally affect the distribution of moisture [Bala et al., 2008]. The lowering of downwelling shortwave radiation to the surface in the tropics through presence of stratospheric aerosol particles in addition to an also increased tropospheric aerosol load leads globally (though concentrated in the tropics and midlatitudes) to a 5% reduction in\n11 of 17\nthe global annual mean precipitation rate compared to the 2000 stabilization case (Figure 11, top left) despite essentially the same global mean surface temperature. In the tropics the reduction is particularly large over the oceans, although part of the difference results from a mean southward displacement of the ITCZ. A very similar pattern is found for the Northern Hemisphere summer season (Figure 11, top right). The precipitation anomalies over land are almost entirely insignificant [see also Caldeira and Wood, 2008], while over the ocean the regions with the meridional displacement of the primary convection are significant at the 95% confidence level. Over the global land areas an increase in soil moisture (Figure 11, bottom left) is primarily the result of reduced evaporation, although some precipitation increases in summer are a contributing factor in a few locations. [37] These results broadly agree with those of Bala et al. [2008], showing that the hydrologic cycle responds stronger to the combined forcings from A2 and the superposed geoengineering perturbation than just surface temperature, just as pointed out recently by Hegerl and Solomon [2009]. This is particularly apparent in the mean surface water flux that balances precipitation and evaporation, P‐E (Figure 11, bottom right). The cooler temperatures over the tropical regions and warmer conditions over high‐latitude regions cause the net water balance to be positive (reduced evaporation and export) in the tropics and negative at high latitudes (slightly higher evaporation than precipitation changes). The anomalies are significant over the oceans because the land surface balances P‐E effectively."
+  }, {
+    "heading": "5. Discussion",
+    "text": "[38] Results shown in sections 3 and 4 indicate that, theoretically, targeted artificial perturbations (“fixes”) can be designed to offset specific effects from human‐induced rapidly increasing greenhouse gas concentrations, such as those of an A2 scenario. Most of the mean changes in temperature, pressure and thus circulation and hydrologic cycle changes can be significantly reduced. [39] The success is, however, not uniform across the world. The presence of stratospheric aerosols can offset the large‐scale, average radiative effects by greenhouse gases, but this smooth aerosol blanket cannot be appropriately designed to effectively complement the spatially much more complex and evolving pattern of A2‐related tropospheric aerosols. Obviously, this is particularly apparent in high aerosol emission areas. Another example that was pointed out above involved issues for countering the temperature anomalies in high latitudes. An assessment of the situation highlights a structural problem that geoengineering has to\n12 of 17\ndeal with: While injection of aerosol can slow down, or even offset, global mean trends that would be imposed by an A2 scenario, this approach is nevertheless ineffective against some strong local patterns that have already occurred by the time the geoengineering perturbation is applied. [40] As case in point serves the difference in sea ice concentration in a geoengineered world compared to the 2000 stabilization target (Figure 12). Because large geoengineering action would only be applied at some point in the future – in the case here we initiated it after the year 2020, and reach full‐scale offsets only later in the 2020s – by that time the retreat of Arctic sea ice has already progressed significantly. Despite the “successful” global mean correction of surface temperature in the geoengineering case and the elimination of most large‐scale trends, the amount of ice lost during that interval cannot be readily undone. Sea ice does not just regrow over large areas when the mean local radiative forcing is restored. In fact, for more widespread growth to happen, climate would have to be substantially cooled below the target climate in high latitudes to overcome both the increased westerly advection as well as the ocean heat content changes. Sea ice, although forming in winter (Figure 12, left) and under restored radiative conditions (see Figure 6), remains substantially thinner and therefore preconditioned to summertime melting (Figure 12, right). This clearly indicates that the longer we wait to maintain a certain climate, the harder it will be to actually achieve that goal. Alternatively, one could modify the sulfate injection scheme and include enhanced sulfate injection at high latitudes. As described above, the geoengineering approach here applied the “tropical eruption” template with the benefit of optimal global average effect both due to effective impacts in the regions of the globe with positive radiative budget (tropics and subtropics) and the extended lifetime of the suspended aerosol particles. Injection at higher latitudes would require more mass due to the constant removal without the benefit of a “tropical reservoir.” It remains to be seen how much local enhancement of sulfate forcing would have to be applied to overcome the dynamical and heat content changes of the Arctic ocean‐atmosphere system. [41] Geoengineering action can slow down or halt most large‐scale climatic change trends that would otherwise be occurring in the underlying emission scenario. As we have shown, this would only be true with regard to surface mean climate. However, such corrections not only come at a price in terms of generating the radiative perturbations in the first place, but there are also further systematic climate anomalies that are associated with the combined response of the climate system. Geoengineering induced spatial structures in terms of climate response, one might call them side effects, raise questions at a very different, nonscientific and moral level [Kiehl, 2006; Schneider, 2008]. How much, for example, should farmers in the tropics, who have contributed little to the cumulative greenhouse gas problem, have to suffer even further in order for the globe as a whole to be prevented from warming? Not only would their productivity suffer from the sometimes large aerosol effects associated with regional emissions [Ramanathan et al., 2001; Stanhill and Cohen, 2001], but additional reduction in downward shortwave flux imposed by the geoengineering aerosols would further reduce the available energy including in seasons that had previously seen less perturbations. Particularly in areas where aerosol emissions from the surface are\n13 of 17\nhigh anyway, the superposition of stratospheric aerosols would make matters even worse [Chameides et al., 1999; Ramanathan et al., 2001]. [42] Assessing feasibility of geoengineering approaches is complex, scientifically, politically and socially [Crutzen, 2006; Schneider, 2008; Lenton and Vaughan, 2009]. Because of the continued emissions, atmospheric concentrations of greenhouse gases would, in our example, keep rising and thus require keeping the engineering “patch” in place at all times. The oceans would continue to absorb significant amounts of CO2 and hence acidification would continue [Hoegh‐Guldberg et al., 2007]. Even compared to atmospheric CO2 life time, oceanic acidification takes even longer to recover [e.g., see Archer and Brovkin, 2008]. All emission‐related pollution and resource use would be further increased by the injection of the “patch” into the lower stratosphere, though the direct effect of added acidity in rain through fallout of sulfate particles would likely be small compared to the other sources [Wigley, 2006; Kravitz et al., 2009]. Because the underlying problem might not appear apparent at all times, the incentive for the societies to actually do something about the underlying problem would be significantly smaller. All in all, such a scenario is not desirable [Robock, 2008]. At the same time, it is also not likely to occur in the way described here. Rather, if any geoengineering might be considered, it should always be seen in combination with mitigation [Wigley, 2006, 2008], and the geoengineering element would essentially represent a way to “buy time” [Crutzen, 2006], albeit with its own, specific “side effects.” [43] Finally, hopes that nature could simply take care of the problem itself are misguided. The magnitude of natural variations in radiative perturbations over the period of a decade or longer are simply too small to counter the sustained forcing from atmospheric greenhouse gases. A future “Maunder Minimum” with a significant reduction in solar output would barely register in the 21st century if the anthropogenic emissions continue to increase as they have over the last decades. Volcanic eruptions are capable of imposing a larger radiative forcing, but their effects are restricted to a couple years. Given the magnitude of anthropogenic forcing in an A2 scenario, natural factors will not offer an alternative to actual emission reductions, and only a global effort to reduce carbon emissions will bring the Earth’s climate on a sustainable track. If such reductions are put in place over the next decades, geoengineering could be avoided. This appears as the most desirable and sensible approach, particularly given the above listed “side effects” and the potential to unexpected other problems (maybe chemical “accidents” similar to the ozone hole) without permanently fixing the underlying issue [Kiehl, 2006]."
+  }, {
+    "heading": "6. Summary",
+    "text": "[44] Motivated by the knowledge about systematic climate response to natural forcings, we have analyzed the response of the climate system to two artificial enhancements of natural radiative forcing: stratospheric injections of sulfur‐ baring gases leading to sulfate aerosols similar to volcanic aerosol clouds, and the reduction in incoming solar radiation as could be achieved by placement of reflectors between the Sun and the Earth mimicking a reduction in solar activity. It\nhas been shown that reducing the solar energy that reaches the Earth’s surface can offset warming effects resulting from increases in greenhouse gases. Our goal was to estimate what geoengineering change would be necessary to “patch” the IPCC SRES‐A2 scenario climate to sufficiently cool global mean surface temperatures to follow the idealized year 2000 stabilization conditions. [45] Given the right magnitude of geoengineering, the mean surface temperature can be modified from an A2 trajectory toward a 2000 stabilization target climate. In tropical latitudes, the climate correction would generally overcompensate (i.e., cool too much), while in high latitudes the modification is not big enough to hit the regional 2000 stabilization target. Reasons for this spatial difference are associated with the structure of climate response to changes in the vertical heating (thus temperature) profile with resulting circulation changes favoring strengthening of the midlatitude westerlies. Particularly in wintertime, the increased westerly flow leads to systematic warming similar to “winter warming” after large tropical volcanic eruptions. This systematic spatial anomaly occurs superposed on an already altered sea ice distribution that has occurred by the time the geoengineering perturbations are put in place (after year 2020). Together with the large heat capacity of the ocean that can act as a strong negative feedback against sea ice formation, ocean and atmosphere act to resist the recovery of high‐latitude sea ice and snow. Therefore, the longer the climate is left on its warming trajectory, the harder it is to bring it back toward current or low‐concentration stabilization conditions. [46] The presented simulations were not intended to be realistic. The primary goal was to illustrate through the geoengineering perspective how large the greenhouse gas forcing really is if we should let the atmospheric concentrations continue to rise at a similar pace as over the recent decades. It was shown that human induced changes are so large that natural forcing would be far from sufficient to appreciatively reduce the trends. Only volcanic eruptions would have the potential to offset the radiative forcing from greenhouse gases, but their short lifetime of 1 to 2 years would merely provide a short‐term slowdown of an otherwise increasing problem. The chance for a naturally increased frequency of eruptions of sufficient size is very unlikely, even from a millennium perspective [Ammann and Naveau, 2010]. Any geoengineering approach, while maybe technically possible at some point, would simply be a patch but clearly not a solution. More realistic are combinations of geoengineering with strong mitigation efforts. Early action is required in order to be most effective. The most detrimental effects can only be limited if emissions of greenhouse gases are reduced and the current warming is slowed and eventually stopped. Recovery by natural or geoengineering means will have to overcome the strong negative feedbacks particularly arising from the hydrosphere and cryosphere and the very long time scales inherent in the global carbon cycle.\n[47] Acknowledgments. The National Center for Atmospheric Research is sponsored by the National Science Foundation and managed by the University Corporation for Atmospheric Research. The authors thank three anonymous reviewers for their valuable comments that have led to an improved manuscript.\n14 of 17"
+  }],
+  "year": 2010,
+  "references": [{
+    "title": "Proxy evidence for an El Niño‐like response to volcanic forcing",
+    "authors": ["J.B. Adams", "M.E. Mann", "C.M. Ammann"],
+    "venue": "Nature, 426(6964),",
+    "year": 2003
+  }, {
+    "title": "Global cooling: Increasing world‐wide urban albedos to offset",
+    "authors": ["H. Akbari", "S. Menon", "A. Rosenfeld"],
+    "year": 2009
+  }, {
+    "title": "Warming maximum in the tropical upper troposphere deduced from thermal winds",
+    "authors": ["R.J. Allen", "S.C. Sherwood"],
+    "venue": "Nat. Geosci.,",
+    "year": 2008
+  }, {
+    "title": "A statistical volcanic forcing‐scenario generator for climate simulations",
+    "authors": ["C.M. Ammann", "P. Naveau"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2010
+  }, {
+    "title": "A monthly and latitudinally varying volcanic forcing dataset in simulations of 20th century",
+    "authors": ["C.M. Ammann", "G.A. Meehl", "W.M. Washington", "C.S. Zender"],
+    "venue": "climate, Geophys. Res. Lett.,",
+    "year": 2003
+  }, {
+    "title": "Solar influence on climate during the past millennium: Results from transient simulations with the NCAR Climate System",
+    "authors": ["C.M. Ammann", "F. Joos", "D.S. Schimel", "B.L. Otto‐Bliesner", "R.A. Tomas"],
+    "venue": "Model, Proc. Natl. Acad. Sci. U. S. A.,",
+    "year": 2007
+  }, {
+    "title": "Feasibility of cooling the Earth with a cloud of small spacecraft near the inner Lagrange point (L1)",
+    "authors": ["R. Angel"],
+    "venue": "Proc. Natl. Acad. Sci. U. S. A.,",
+    "year": 2006
+  }, {
+    "title": "Impact of geoengineering schemes on the global hydrologic cycle",
+    "authors": ["G. Bala", "P.B. Duffy", "K.E. Taylor"],
+    "venue": "Proc. Natl. Acad. Sci. U. S. A.,",
+    "year": 2008
+  }, {
+    "title": "The incredible economics of geoengineering, Environ",
+    "authors": ["S. Barrett"],
+    "venue": "Resour. Econ.,",
+    "year": 2008
+  }, {
+    "title": "Volcanic and solar impacts on climate since 1700",
+    "authors": ["C. Bertrand", "J.P. van Ypersele", "A. Berger"],
+    "venue": "Clim. Dyn.,",
+    "year": 1999
+  }, {
+    "title": "Climate engineering responses to climate emergencies, report, 56 pp., Novim",
+    "authors": ["Blackstock", "J. J"],
+    "year": 2009
+  }, {
+    "title": "Evaluating aspects of the Community Land and Atmosphere Models (CLM3 and CAM3) using a dynamic global vegetation",
+    "authors": ["G.B. Bonan", "S. Levis"],
+    "venue": "model, J. Clim.,",
+    "year": 2006
+  }, {
+    "title": "Influence of volcanic eruptions on Northern Hemisphere summer temperature over the past 600 years, Nature",
+    "authors": ["K.R. Briffa", "P.D. Jones", "F.H. Schweingruber", "T.J. Osborn"],
+    "year": 1998
+  }, {
+    "title": "Uncertainty estimates in regional and global observed temperature changes: A new data set from 1850",
+    "authors": ["P. Brohan", "J.J. Kennedy", "I. Harris", "S.F.B. Tett", "P.D. Jones"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2006
+  }, {
+    "title": "Response of the North Atlantic thermohaline circulation and ventilation to increasing carbon dioxide in CCSM3",
+    "authors": ["Bryan", "F. O"],
+    "venue": "J. Clim.,",
+    "year": 2006
+  }, {
+    "title": "Global and Arctic climate engineering: Numerical model studies",
+    "authors": ["K. Caldeira", "L. Wood"],
+    "venue": "Philos. Trans. R. Soc. A,",
+    "year": 2008
+  }, {
+    "title": "Case study of the effects of atmospheric aerosol and regional haze on agriculture: An opportunity to enhance crop yields in China through emission controls",
+    "authors": ["Chameides", "W. L"],
+    "venue": "Proc. Natl. Acad. Sci. U. S. A.,",
+    "year": 1999
+  }, {
+    "title": "The Community Climate System Model Version 3 (CCSM3)",
+    "authors": ["Collins", "W. D"],
+    "venue": "J. Clim.,",
+    "year": 2006
+  }, {
+    "title": "Radiative forcing by well‐mixed greenhouse gases: Estimates from climate models in the Intergovernmental Panel on Climate Change (IPCC) Fourth Assessment Report (AR4)",
+    "authors": ["Collins", "W. D"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2006
+  }, {
+    "title": "The formulation and atmospheric simulation of the Community Atmosphere Model Version 3 (CAM3)",
+    "authors": ["Collins", "W. D"],
+    "venue": "J. Clim.,",
+    "year": 2006
+  }, {
+    "title": "Causes of climate change over the past 1000 years",
+    "authors": ["T.J. Crowley"],
+    "venue": "Science, 289(5477),",
+    "year": 2000
+  }, {
+    "title": "Albedo enhancement by stratospheric sulfur injections: A contribution to resolve a policy dilemma",
+    "authors": ["P.J. Crutzen"],
+    "venue": "Clim. Change,",
+    "year": 2006
+  }, {
+    "title": "Atmospheric circulation and its effect on Arctic sea ice in CCSM3 simulations at medium and high resolution",
+    "authors": ["E. DeWeaver", "C.M. Bitz"],
+    "venue": "J. Clim.,",
+    "year": 2006
+  }, {
+    "title": "Climate engineering—A review of aerosol approaches to changing the global energy balance, Clim",
+    "authors": ["R.E. Dickinson"],
+    "venue": "Change, 33(3),",
+    "year": 1996
+  }, {
+    "title": "The Community Land Model and its climate statistics as a component of the Community Climate System",
+    "authors": ["Dickinson", "R. E"],
+    "year": 2006
+  }, {
+    "title": "European climate response to tropical volcanic eruptions over the last half millennium",
+    "authors": ["E.M. Fischer", "J. Luterbacher", "E. Zorita", "S.F.B. Tett", "C. Casty", "H. Wanner"],
+    "venue": "Geophys. Res. Lett., 34,",
+    "year": 2007
+  }, {
+    "title": "Global warming in the context of the Little Ice Age",
+    "authors": ["M. Free"],
+    "venue": "Robock",
+    "year": 1999
+  }, {
+    "title": "Volcanic forcing of climate over the past 1500 years: An improved ice core‐based index for climate models",
+    "authors": ["C.C. Gao", "A. Robock", "C.M. Ammann"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2008
+  }, {
+    "title": "Dynamics of the middle atmosphere",
+    "authors": ["M.A. Geller"],
+    "venue": "Space Sci. Rev.,",
+    "year": 1983
+  }, {
+    "title": "Ocean chlorofluorocarbon and heat uptake during the twentieth century in the CCSM3",
+    "authors": ["Gent", "P. R"],
+    "venue": "J. Clim.,",
+    "year": 2006
+  }, {
+    "title": "Internal and forced climate variability during the last millennium: Amodel‐data comparison using ensemble simulations, Quat",
+    "authors": ["H. Goosse", "H. Renssen", "A. Timmermann", "R.S. Bradley"],
+    "venue": "Sci. Rev.,",
+    "year": 2005
+  }, {
+    "title": "Geoengineering Earth’s radiation balance to mitigate",
+    "authors": ["B. Govindasamy", "K. Caldeira"],
+    "year": 2000
+  }, {
+    "title": "Impact of geoengineering schemes on the terrestrial biosphere",
+    "authors": ["B. Govindasamy", "S. Thompson", "P.B. Duffy", "K. Caldeira"],
+    "venue": "Delire",
+    "year": 2002
+  }, {
+    "title": "Possible regional climate consequences of the Pinatubo Eruption—An empirical approach, Geophys",
+    "authors": ["P.Y. Groisman"],
+    "year": 1992
+  }, {
+    "title": "CCSM‐CAM3 climate simulation sensitivity to changes in horizontal resolution",
+    "authors": ["Hack", "J. J"],
+    "venue": "J. Clim.,",
+    "year": 2006
+  }, {
+    "title": "Simulation of the global hydrological cycle in the CCSM Community Atmosphere Model Version 3 (CAM3): Mean features",
+    "authors": ["Hack", "J. J"],
+    "venue": "J. Clim.,",
+    "year": 2006
+  }, {
+    "title": "The chromospheric activity and variability of cycling and flat activity solar‐analog stars, Astrophys",
+    "authors": ["J.C. Hall", "G.W. Lockwood"],
+    "venue": "J., 614,",
+    "year": 2004
+  }, {
+    "title": "Past volcanism revealed by Greenland",
+    "authors": ["C.U. Hammer"],
+    "venue": "Ice Sheet impurities,",
+    "year": 1977
+  }, {
+    "title": "Climate simulations for 1880–2003 with GISS modelE, Clim",
+    "authors": ["J Hansen"],
+    "venue": "Dyn., 29(7–8),",
+    "year": 2007
+  }, {
+    "title": "Detection of volcanic, solar and greenhouse gas signals in paleo‐reconstructions of Northern Hemispheric temperature, Geophys",
+    "authors": ["G.C. Hegerl", "T.J. Crowley", "S.K. Baum", "K.Y. Kim", "W.T. Hyde"],
+    "year": 2003
+  }, {
+    "title": "Detectability of anthropogenic changes in annual temperature and precipitation extremes",
+    "authors": ["G.C. Hegerl", "F.W. Zwiers", "P.A. Stott", "V.V. Kharin"],
+    "venue": "J. Clim.,",
+    "year": 2004
+  }, {
+    "title": "Climate change detection and attribution: Beyond mean temperature signals",
+    "authors": ["Hegerl", "G. C"],
+    "venue": "J. Clim.,",
+    "year": 2006
+  }, {
+    "title": "Detection of human influence on a new, validated 1500‐year temperature reconstruction",
+    "authors": ["Hegerl", "G. C"],
+    "venue": "J. Clim.,",
+    "year": 2007
+  }, {
+    "title": "Coral reefs under rapid climate change and ocean acidification, Science, 318(5857)",
+    "authors": ["O Hoegh‐Guldberg"],
+    "year": 2007
+  }, {
+    "title": "Influence of the sea ice thickness distribution on polar climate in CCSM3",
+    "authors": ["M.M. Holland", "C.M. Bitz", "E.C. Hunke", "W.H. Lipscomb", "J.L. Schramm"],
+    "venue": "J. Clim.,",
+    "year": 2006
+  }, {
+    "title": "Temperature trends ever the past five centuries reconstructed from borehole temperatures",
+    "authors": ["S.P. Huang", "H.N. Pollack", "P.Y. Shen"],
+    "venue": "Nature, 403(6771),",
+    "year": 2000
+  }, {
+    "title": "Probability of future climatically significant volcanic eruptions",
+    "authors": ["W.T. Hyde", "T.J. Crowley"],
+    "venue": "J. Clim.,",
+    "year": 2000
+  }, {
+    "title": "Orbital and millennial Antarctic climate variability over the past",
+    "authors": ["J Jouzel"],
+    "year": 2007
+  }, {
+    "title": "Geoengineering climate change: Treating the symptom over the cause",
+    "authors": ["J.T. Kiehl"],
+    "venue": "Clim. Change,",
+    "year": 2006
+  }, {
+    "title": "The Climate Sensitivity of the Community Climate System Model Version 3 (CCSM3)",
+    "authors": ["J.T. Kiehl", "C.A. Shields", "J.J. Hack", "W.D. Collins"],
+    "venue": "J. Clim.,",
+    "year": 2006
+  }, {
+    "title": "Seasonal variations of glaciochemical, isotopic and stratigraphic properties in Siple Dome (Antarctica) surface snow",
+    "authors": ["Kreutz", "K. J"],
+    "venue": "Ann. Glaciol.,",
+    "year": 1999
+  }, {
+    "title": "Reconstruction of solar total irradiance since 1700 from the surface magnetic flux",
+    "authors": ["N.A. Krivova", "L. Balmaceda", "S.K. Solanki"],
+    "venue": "Astron. Astrophys.,",
+    "year": 2007
+  }, {
+    "title": "A 12,000 year record of explosive volcanism in the Siple Dome Ice Core, West Antarctica",
+    "authors": ["A.V. Kurbatov", "G.A. Zielinski", "N.W. Dunbar", "P.A. Mayewski", "E.A. Meyerson", "S.B. Sneed", "K.C. Taylor"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2006
+  }, {
+    "title": "Attribution and impacts of upper‐ocean biases in CCSM3",
+    "authors": ["W.G. Large"],
+    "venue": "Danabasoglu",
+    "year": 2006
+  }, {
+    "title": "Long‐term trends and short‐ term variability in the upper, middle and lower atmosphere",
+    "authors": ["J. Lastovicka", "G. Beig"],
+    "venue": "J. Atmos. Sol. Terr. Phys.,",
+    "year": 2006
+  }, {
+    "title": "Global temperature stabilization via controlled albedo enhancement of low‐level maritime clouds",
+    "authors": ["J Latham"],
+    "venue": "Philos. Trans. R. Soc. A,",
+    "year": 2009
+  }, {
+    "title": "Reconstruction of solar irradiance since 1610: Implications for climate change, Geophys",
+    "authors": ["J.L. Lean", "J. Beer", "R. Bradley"],
+    "year": 1995
+  }, {
+    "title": "The effect of increasing solar activity on the Sun’s total and open magnetic flux during multiple cycles: Implications for solar forcing of climate",
+    "authors": ["J.L. Lean", "Y.M. Wang", "N.R. Sheeley"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2002
+  }, {
+    "title": "A 220‐year continuous record of volcanic",
+    "authors": ["M. Legrand", "R.J. Delmas"],
+    "year": 1987
+  }, {
+    "title": "The radiative forcing potential of different climate geoengineering",
+    "authors": ["T.M. Lenton", "N.E. Vaughan"],
+    "venue": "options, Atmos. Chem. Phys. Discuss.,",
+    "year": 2009
+  }, {
+    "title": "Warming of the world ocean, 1955–2003",
+    "authors": ["S. Levitus", "J. Antonov", "T. Boyer"],
+    "venue": "Geophys. Res. Lett., 32, L02604,",
+    "year": 2005
+  }, {
+    "title": "Global surface temperatures over the past two millennia",
+    "authors": ["M.E. Mann", "P.D. Jones"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2003
+  }, {
+    "title": "Volcanic and solar forcing in the tropical Pacific over the past",
+    "authors": ["M.E. Mann", "M.A. Cane", "S.E. Zebiak", "A. Clement"],
+    "year": 2005
+  }, {
+    "title": "Combinations of natural and anthropogenic forcings in twentieth‐century climate",
+    "authors": ["Meehl", "G. A"],
+    "venue": "J. Clim.,",
+    "year": 2004
+  }, {
+    "title": "How much more global warming and sea level rise",
+    "authors": ["Meehl", "G. A"],
+    "venue": "Science, 307,",
+    "year": 2005
+  }, {
+    "title": "Climate change projections for the twenty‐first century and climate change commitment in the CCSM3",
+    "authors": ["Meehl", "G. A"],
+    "venue": "J. Clim.,",
+    "year": 2006
+  }, {
+    "title": "A coupled air‐sea response mechanism to solar forcing in the Pacific region",
+    "authors": ["G.A. Meehl", "J.M. Arblaster", "G. Branstator", "H. van Loon"],
+    "venue": "J. Clim.,",
+    "year": 2008
+  }, {
+    "title": "Highly variable Northern Hemisphere temperatures reconstructed from low‐ and high‐resolution proxy",
+    "authors": ["A. Moberg", "D.M. Sonechkin", "K. Holmgren", "N.M. Datsenko", "W. Karlen"],
+    "year": 2005
+  }, {
+    "title": "Solar activity during the last 1000 yr inferred from radionuclide records, Quat",
+    "authors": ["R Muscheler"],
+    "venue": "Sci. Rev.,",
+    "year": 2007
+  }, {
+    "title": "The influence of the quasi‐biennial oscillation on global constituent distributions",
+    "authors": ["D. O’Sullivan"],
+    "venue": "Dunkerton",
+    "year": 1997
+  }, {
+    "title": "A “tropical pipe” model of stratospheric transport",
+    "authors": ["R.A. Plumb"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1996
+  }, {
+    "title": "Aerosols, climate, and the hydrological cycle",
+    "authors": ["V. Ramanathan", "P.J. Crutzen", "J.T. Kiehl", "D. Rosenfeld"],
+    "venue": "Science, 294(5549),",
+    "year": 2001
+  }, {
+    "title": "Exploring the geoengineering of climate using stratospheric sulfate aerosol: The role of particle size, Geophys",
+    "authors": ["P.J. Rasch", "P.J. Crutzen", "D.B. Coleman"],
+    "year": 2008
+  }, {
+    "title": "An overview of geoengineering of climate using stratospheric sulphate aerosol",
+    "authors": ["Rasch", "P. J"],
+    "venue": "Philos. Trans. R. Soc. A,",
+    "year": 2008
+  }, {
+    "title": "Global and regional drivers of accelerating CO2 emissions",
+    "authors": ["Raupach", "M. R"],
+    "venue": "Proc. Natl. Acad. Sci. U. S. A.,",
+    "year": 2007
+  }, {
+    "title": "Hypothesized climate forcing time series for the past 500 years",
+    "authors": ["A. Robertson", "J. Overpeck", "D. Rind", "E. Mosley‐Thompson", "G.A. Zielinski"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2001
+  }, {
+    "title": "Volcanic eruptions and climate",
+    "authors": ["A. Robock"],
+    "venue": "Rev. Geophys.,",
+    "year": 2000
+  }, {
+    "title": "Stratospheric forcing needed for dynamical seasonal prediction",
+    "authors": ["A. Robock"],
+    "venue": "Bull. Am. Meteorol. Soc.,",
+    "year": 2001
+  }, {
+    "title": "20 reasons why geoengineering may be a bad idea",
+    "authors": ["A. Robock"],
+    "venue": "Bull. Atom. Sci.,",
+    "year": 2008
+  }, {
+    "title": "Winter warming from large volcanic eruptions",
+    "authors": ["A. Robock", "J.P. Mao"],
+    "year": 1992
+  }, {
+    "title": "The volcanic signal in surface‐temperature observations",
+    "authors": ["A. Robock", "J.P. Mao"],
+    "venue": "J. Clim.,",
+    "year": 1995
+  }, {
+    "title": "Contributions of anthropogenic and natural forcing to recent tropopause height changes",
+    "authors": ["Santer", "B. D"],
+    "venue": "Science, 301(5632),",
+    "year": 2003
+  }, {
+    "title": "Identification of anthropogenic climate change using a second‐generation reanalysis",
+    "authors": ["Santer", "B. D"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2004
+  }, {
+    "title": "How well can the observed vertical temperature changes be reconciled with our understanding of the causes of these temperature changes?, in Temperature Trends in the Lower Atmosphere: Steps for Understanding and Reconciling Differences, edited",
+    "authors": ["B.D. Santer", "J.E. Penner", "P.W. Thorne"],
+    "venue": "U.S. Clim. Change Pro-",
+    "year": 2006
+  }, {
+    "title": "Stratospheric aerosol optical depth, 1850–1990",
+    "authors": ["M. Sato", "J. Hansen", "M.P. McCormick", "J. Pollack"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1993
+  }, {
+    "title": "Climate response to large, high‐latitude and low‐latitude volcanic eruptions in the Community Climate System",
+    "authors": ["D.P. Schneider", "C.M. Ammann", "B.L. Otto‐Bliesner", "D.S. Kaufman"],
+    "venue": "Model, J. Geophys. Res.,",
+    "year": 2009
+  }, {
+    "title": "Geoengineering: Could we or should we make it work",
+    "authors": ["S.H. Schneider"],
+    "venue": "Philos. Trans. R. Soc. A,",
+    "year": 2008
+  }, {
+    "title": "Northern Hemisphere winter climate response to greenhouse",
+    "authors": ["D.T. Shindell", "G.A. Schmidt", "R.L. Miller", "D. Rind"],
+    "year": 2001
+  }, {
+    "title": "Dynamic winter climate response to large tropical volcanic eruptions since 1600",
+    "authors": ["D.T. Shindell", "G.A. Schmidt", "M.E. Mann"],
+    "venue": "Faluvegi",
+    "year": 2004
+  }, {
+    "title": "Solar irradiance variations: From current measurements to long‐term estimates, Sol",
+    "authors": ["S.K. Solanki", "N.A. Krivova"],
+    "venue": "Phys., 224(1–2),",
+    "year": 2004
+  }, {
+    "title": "Global dimming: A review of the evidence for a widespread and significant reduction in global radiation with discussion of its probable causes and possible agricultural consequences, Agric",
+    "authors": ["G. Stanhill", "S. Cohen"],
+    "venue": "For. Meteorol.,",
+    "year": 2001
+  }, {
+    "title": "Radiative forcing from the 1991 Mount Pinatubo volcanic eruption",
+    "authors": ["G.L. Stenchikov", "I. Kirchner", "A. Robock", "H.‐F. Graf", "J.C. Antuña", "R.G. Grainger", "A. Lambert", "L. Thomason"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1998
+  }, {
+    "title": "Arctic Oscillation response to the 1991 Mount Pinatubo eruption: Effects of volcanic aerosols and ozone depletion",
+    "authors": ["G. Stenchikov", "A. Robock", "V. Ramaswamy", "M.D. Schwarzkopf", "K. Hamilton", "S. Ramachandran"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2002
+  }, {
+    "title": "Major optical depth perturbations to the stratosphere from volcanic eruptions: Pyrheliometric period, 1881–1960",
+    "authors": ["R.B. Stothers"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1996
+  }, {
+    "title": "Active climate stabilization: Practical physics‐based approaches to prevention of climate change, UCRL‐ JC‐148012, 8 pp",
+    "authors": ["E. Teller", "R. Hyde", "L. Wood"],
+    "year": 2002
+  }, {
+    "title": "Causes of twentieth‐century temperature change near the Earth’s",
+    "authors": ["S.F.B. Tett", "P.A. Stott", "M.R. Allen", "W.J. Ingram", "J.F.B. Mitchell"],
+    "year": 1999
+  }, {
+    "title": "A large discontinuity in the mid‐twentieth century in observed global‐ mean surface temperature, Nature",
+    "authors": ["D.W.J. Thompson", "J.J. Kennedy", "J.M. Wallace", "P.D. Jones"],
+    "year": 2008
+  }, {
+    "title": "The sensitivity of polar ozone depletion to proposed geoengineering",
+    "authors": ["S. Tilmes", "R. Mueller"],
+    "venue": "Salawitch",
+    "year": 2008
+  }, {
+    "title": "Spatio‐ temporal variability in volcanic sulphate deposition over the past 2kyr in snow pits and firn cores from Amundsenisen, Antarctica",
+    "authors": ["F. Traufetter", "H. Oerter", "H. Fischer", "R. Weller", "H. Miller"],
+    "venue": "J. Glaciol.,",
+    "year": 2004
+  }, {
+    "title": "Coupled air‐sea response to solar forcing in the Pacific during northern winter",
+    "authors": ["H. van Loon", "G.A. Meehl", "D.J. Shea"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2007
+  }, {
+    "title": "Large variations in Holocene solar activity: Constraints from 10Be in the Greenland Ice Core Project ice core",
+    "authors": ["M. Vonmoos", "J. Beer"],
+    "venue": "Muscheler",
+    "year": 2006
+  }, {
+    "title": "Modeling the Sun’s magnetic field and irradiance since 1713",
+    "authors": ["Wang", "Y.‐M", "J.L. Lean", "N. R"],
+    "venue": "Sheeley",
+    "year": 2005
+  }, {
+    "title": "A combined mitigation/geoengineering approach to climate stabilization, Science, 314(5798)",
+    "authors": ["T.M.L. Wigley"],
+    "year": 2006
+  }, {
+    "title": "Low‐intensity geoengineering should be seriously",
+    "authors": ["T.M.L. Wigley"],
+    "venue": "Atom. Sci. Web Ed., May 21. (Available at http://www.thebulletin.org/web‐edition/roundtables/has‐the‐time‐come‐ geoengineering)",
+    "year": 2008
+  }, {
+    "title": "Record of volcanism since 7000 B.C. from the GISP2 Greenland ice core and implications for the volcano‐climate",
+    "authors": ["Zielinski", "G. A"],
+    "venue": "system, Science,",
+    "year": 1994
+  }],
+  "id": "SP:3f9a858892db665896fca978080850c382fe0cc3",
+  "authors": [{
+    "name": "Caspar M. Ammann",
+    "affiliations": []
+  }, {
+    "name": "Warren M. Washington",
+    "affiliations": []
+  }, {
+    "name": "Gerald A. Meehl",
+    "affiliations": []
+  }, {
+    "name": "Lawrence Buja",
+    "affiliations": []
+  }, {
+    "name": "Haiyan Teng",
+    "affiliations": []
+  }],
+  "abstractText": "[1] Explosive volcanism and solar activity changes have modulated the Earth’s temperature over short and century time scales. Associated with these external forcings were systematic changes in circulation. Here, we explore the effect of similar but artificially induced forcings that mimic natural radiative perturbations in order to stabilize surface climate. Injection of sulfate aerosols into the stratosphere, not unlike the effects from large volcanic eruptions, and a direct reduction of insolation, similar to total solar irradiance changes, are tested in their effectiveness to offset global mean temperature rise resulting from a business‐as‐usual scenario, thereby reducing surface temperatures to conditions associated with committed warming of a year 2000 stabilization scenario. This study uses a coupled Atmosphere‐Ocean General Circulation Model to illustrate the character of resulting climate and circulation anomalies when both enhanced greenhouse (A2 scenario) and opposing geoengineering perturbations are considered. First we quantify the magnitude of the required perturbation and compare these artificial perturbations to the natural range of the respective forcing. Then, we test the effectiveness of the “correction” by looking at the regional climate response to the combined forcing. It is shown that widespread warming could be reduced, but overcompensation in the tropics is necessary because sea ice loss in high latitudes cannot be reversed effectively to overcome higher ocean heat content and enhanced zonal winter circulation as well as the continuous IR forcing. The magnitude of new, greenhouse gas‐countering anthropogenic forcing would have to be much larger than what natural forcing from volcanoes and solar irradiance variability commonly provide.",
+  "title": "Climate engineering through artificial enhancement of natural forcings: Magnitudes and implied consequences"
+}

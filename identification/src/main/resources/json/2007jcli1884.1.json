@@ -1,0 +1,269 @@
+{
+  "sections": [{
+    "text": "The authors then focus on the strongest eruption of the millennium (A.D. 1258), and show that it is likely to have favored the occurrence of a moderate-to-strong El Niño event in the midst of prevailing La Niña–like conditions induced by increased solar activity during the well-documented Medieval Climate Anomaly. Compiling paleoclimate data from a wide array of sources, a number of important hydroclimatic consequences for neighboring areas is documented. The authors propose, in particular, that the event briefly interrupted a solar-induced megadrought in the southwestern United States. Most of the time, however, volcanic eruptions are found to be too small to significantly affect ENSO statistics."
+  }, {
+    "heading": "1. Introduction",
+    "text": "One of the very largest volcanic eruptions in the entire Holocene occurred circa A.D. 1258 (Stothers 2000). Although both its timing and location are controversial (Oppenheimer 2003), tephra and sulfate aerosols are found ubiquitously in climate archives within a year of the event. Its impact on top-of-the-atmosphere incoming solar radiation was estimated by Crowley (2000) as a dimming of approximately 11.5 W m 2, about 6 times the estimated anthropogenic climate forcing since\n1750, the median of which is close to 1.85 W m 2 (Hansen et al. 2005). By some measures, it was the largest eruption of the past millennium. Thus, Crowley (2000) indicates that its ice core sulfate concentration reached 8 times that of Krakatau (1883) and two times that of Tambora (1815), which accounted for the “year without a summer” (Stommel and Stommel 1979; Stothers 1984). Given such prominence, it is surprising that its precise location has not yet been pinpointed, though its presence in ice cores of both poles points to a tropical origin: El Chichón (Mexico) and Quilotoa (Ecuador) are the preferred candidates (Palais et al. (1992);"
+  }, {
+    "heading": "R. Bay 2006, personal communication). Such a radiative perturbation must have had sizable climate impacts worldwide. Indeed, Stothers (2000) lists an impressive",
+    "text": "body of historical evidence for the eruption having ocCorresponding author address: Julien Emile-Geay, Georgia Institute of Technology, Earth and Atmospheric Sciences, Ford ES&T Rm. 2248, 311 Ferst Dr., Atlanta, GA 30332-0340. E-mail: julien@gatech.edu\nDOI: 10.1175/2007JCLI1884.1\n© 2008 American Meteorological Society\nJCLI1884\ncurred early in 1258 (probably January) and having caused massive rainfall anomalies, with adverse effects on agriculture, spreading famine and pestilence across Europe. Some of these consequences are consistent with what we know of the atmospheric response to recent tropical eruptions (Robock 2000), but it is difficult to characterize for two main reasons:\n1) The shape of the volcanic veil is highly dependent on the atmospheric velocity field at the time of the injection, which determines the dispersion of the sulfate aerosols and their effect on optical thickness worldwide: the atmospheric response is a function of its initial state, a fundamentally nonlinear problem. 2) The direct (radiative) and indirect (dynamical) effects of the eruption are often confounded by other sources of natural variability—in particular, the near-simultaneous occurrence of El Niño events (Robock 2000).\nThe last point is a sensitive issue. A temporal correlation between both phenomena was recognized early on, and a possible volcanic determinism of the El Niño– Southern Oscillation (ENSO) was even proposed (Handler 1984), albeit on the basis of the relatively short instrumental record. However, doubt was soon cast on this explanation once ENSO began to be understood and was shown to be predictable without invoking volcanic forcing (Cane et al. 1986). Furthermore, Handler’s statistical analysis was shown not to withstand a careful scrutiny (Nicholls 1990; Self et al. 1997).\nThe idea that this correlation was no accident was recently revived by Adams et al. (2003), who applied superposed epochal analysis to a proxy-based reconstruction of the Niño-3 index (Mann et al. 2000), and showed that the likelihood of an El Niño event following an eruption in the subsequent cold season was roughly double that based on chance alone. Since ENSO is known to drive and organize atmospheric flow across the globe (e.g., Horel and Wallace 1981; Ropelewski and Halpert 1987; Trenberth et al. 1998), it is of considerable importance to determine how it responds to natural climate forcing, as this is a necessary step to project its evolution under rising amounts of greenhouse gases (Cane 2005). The proposition that explosive volcanism could be influencing ENSO behavior therefore merits serious attention.\nIn support of the Adams et al. (2003) analysis, a dynamical explanation was recently proposed, invoking the so-called thermostat response of the tropical Pacific to uniform exogenous forcing (Mann et al. 2005; Clement et al. 1996). The composites of Adams et al. (2003)\nare dominated by large eruptions, and the ENSO model used in their study tended to consistently produce El Niño events thereafter, though it also generated its own in the absence of volcanic forcing. However, several outstanding questions remain unanswered: since Mann et al. (2005) looked mainly at ensemble means, little is known about how individual eruptions influence the statistics of the ENSO system. Their result also seems to contradict that of Chen et al. (2004) who showed that all major El Niño events since 1856 could be forecast up to 2 yr ahead with the sole knowledge of initial sea surface temperatures.1\nIn the present work, we wish to further explore the quantitative relationship between explosive volcanism and ENSO. Of particular interest is the derivation of a relationship between sulfate aerosol forcing and the likelihood of an El Niño in a given year. We construct such a diagram of ENSO regimes as a function of volcanic forcing, which shows that only eruptions larger than about the size of Mt. Pinatubo (1991) significantly load the dice, raising the likelihood of an El Niño event above the model’s level of internal variability. In particular, the model predicts a 75% probability for the occurrence of an El Niño in the year following the tremendous eruption of 1258. We then exploit the diversity of the proxy record and find multiple lines of evidence suggesting that a moderate-to-strong El Niño did happen in 1258/59. Consistent with the model’s prediction, we find that even a major eruption does not seem to bolster the intensity of the event out of the usual range, though it significantly raises the likelihood of its occurrence. This article is structured as follows: we start by describing and analyzing numerical experiments covering the past millennium, before focusing on the 1258 eruption in the model and the paleoclimate record (section 3). Discussion follows in section 4."
+  }, {
+    "heading": "2. Explosive volcanism and ENSO regimes",
+    "text": "a. Volcanic forcing over the past millennium\nVolcanic forcing is the best constrained of natural forcings over the past millennium (e.g., Crowley 2000; Jones and Mann 2004), and can be estimated from the amount of sulfate aerosols present in ice core records (Hammer 1980; Hammer et al. 1980; Robock and Free 1995; Cole-Dai et al. 2000) with tropical volcanoes identified by events having a bipolar signature (Langway et al. 1988, 1995).\nThe radiative impact at the top of the atmosphere F\n1 This result is supported by Luo et al. (2008) using a fully coupled general circulation model over the period 1982–2004.\ncan be estimated via the following formula (Pinto et al. 1989; Hyde and Crowley 2000):\nF F K MMK 2 3 , 1\nwherein M is the sulfate aerosol loading, MK that of the Krakatau (1883) eruption, estimated at about 50 Mt (Self and Rampino 1981; Stothers 1996), corresponding to a solar dimming of ( F)K 3.7 W m\n2 (Sato et al. 1993).\nCrowley (2000) estimated M from two continuous ice core sulfate measurements to produce a record of global explosive volcanism, subsequently restricted to tropical eruptions by only selecting those eruptions simultaneously present in records from both poles (Adams et al. 2003), before applying Eq. (1). A major caveat of this reconstruction is the absence of a formal error estimate in the forcing. In some cases, enough ice cores’ sulfate measurements are available throughout tropical and polar regions to allow for a meaningful error bar to be assessed (Gao et al. 2006). Error propagation analysis can then provide uncertainty in the radiative forcing itself, assuming Eq. (1) is free of errors. This is done in section 3a, for instance, where we estimate a 30% uncertainty. It is beyond the scope of this paper to extend this methodology to every eruption of the past 1000 yr. Two choices help us address this limitation: first, we generate a second forcing time series, scaled down by 30%, as input for a companion set of model experiments. Second, we only draw quantitative conclusions from the one eruption for which we have a forcing error estimate (1258 A.D.), effectively treating the others as a random sequence.\nb. Experimental setup\nWe use the model of Zebiak and Cane (1987), which has linear shallow-water dynamics for the global atmosphere (Zebiak 1982) and the tropical Pacific Ocean (Cane and Patton 1984), coupled by nonlinear thermodynamics, and displays self-sustained ENSO variability. The ocean model domain is restricted to (29°S–29°N, 124°E–80°W), which means that only tropical processes are considered. The model is linearized around a constant climatology (Rasmussen and Carpenter 1982).\nWe employ the same configuration as Clement et al. (1999) and Emile-Geay et al. (2007), in the model version written by T. Kagimoto at the International Research Institute for Climate Prediction. Radiative forcing anomalies are included as a source term of the (prognostic) equation for sea surface temperature (SST). Conversion is made from the top-of-the-atmosphere pertubation to a surface flux by multiplying by\n(1 0.62 C 0.0019 ), where C is the cloud fraction and is the noon solar altitude (Reed 1977). Consistent with the absence of radiative scheme in the model, we hold the cloud fraction constant, 50%. As in Mann et al. (2005), the solar forcing estimates are multiplied by a factor of /2, since the model only represents the tropics.\nSince Crowley (2000)’s record of volcanic forcing is a yearly one, all eruptions were arbitrarily assumed to occur in January of each year, and stay constant for 12 months. Modestly different results would ensue with an exponential decay and varying eruption dates. The veil’s spatial extent is uniform throughout the model domain, for simplicity. We also include the slowly varying solar irradiance component derived from cosmogenic isotopes (Bard et al. 2000), as in Mann et al. (2005).\nTo ensure meaningful results, we produced 200 independent realizations of the model’s response to radiative forcing, using random initial conditions. For the first 4 months of each experiment, the model was subjected to a steady wind forcing over the western Pacific area (5°S–5°N, 165°–195°E), whose amplitude was drawn from a normal distribution. Accordingly, the initial SST distribution between ensemble members was close to normally distributed (not shown). Model runs are then let free to evolve under the sole influence of the radiative forcing described above.\nc. Results\nIn Fig. 1 we show the 200-member ensemble mean response of the Niño-3 index, in order to isolate the effect of boundary conditions over the model’s strong internal variability.\nAs in Mann et al. (2005, their Fig. 3a), the notable result is the occurrence of El Niño events in the year following major tropical eruptions, such as, for instance, Tambora (1815), Krakatau (1883), and 1258. In other words, a strong volcanic cooling is seen to produce a warming in the eastern equatorial Pacific within a year, with noticeable effects up to 24 months after the eruption. The reason for this counterintuitive result lies in the thermostat mechanism (Clement et al. 1996): the strong upwelling, sharp thermocline, and surface divergence in the eastern equatorial Pacific make the SST harder to change by radiative forcing alone. In contrast, the deeper thermocline and small divergence in the western Pacific warm pool make it more sensitive to alterations of the surface energy balance. Given a uniform reduction in incoming surface radiation, the SST will therefore cool faster in the west, initially reducing the zonal SST gradient. This provokes a slackening of the trade winds, which promotes a further reduction of\nthe SST gradient, via the Bjerknes (1969) feedback: the upshot of those air–sea interactions is that a uniform solar dimming results in more El Niño–like conditions. Conversely, a uniform radiative increase produces La Niña–like conditions. In individual simulations, an El Niño event may or may not occur, but a higher ensemble-mean Niño-3 means that warm events are favored. In other words, it is the likely behavior of the system, though some eruptions—especially weaker ones—may not follow the rule. Overall, this procedure gives insight into the general tendency of the system, but should not be taken as a perfect predictor of events: they could have happened by pure chance, without volcanic interference.\nHow does this compare to the results of Adams et al. (2003)? Selecting five of their eruption lists (their Table 1) corresponding to the longest period they analyze (1659–1979), we applied their criterion of El Niño occurrence to our results (Niño-3 0.3°C for the October–March average following the eruption). The eruption lists are based on the Ice Core Volcanic Index (IVI; Zielinski 2000; Robock and Free 1995) or the Volcanic Explosivity Index (VEI; Simpkin and Siebert 1994). Because the latter may not be conservative enough, it was\namended by Adams et al. (2003) to exclude consecutive years (their VEI*).\nSince both chronologies used different data and criteria to describe explosive volcanism, they differed from each other and from that of Crowley (2000). Also, since the same eruption may be reported with a time lag of 1 or 2 yr between chronologies, we adjusted the list to those eruptions actually present in the forcing of the experiment. Such cases are denoted by “∩ Crowley,” and can differ substantially from the original lists.\nThe results are shown in Table 1, which displays the number of eruptions, the number of them immediately followed by an El Niño event, both in our analysis (middle columns) and theirs (rightmost columns). The agreement is quite remarkable for the largest eruptions, and deteriorates for weaker ones, as expected from theoretical grounds. Furthermore, restricting the list of large eruptions to those present in our forcing tends to raise the fraction of simulated events that go into an El Niño immediately after an eruption, and, perhaps coincidentally, yields numbers surprisingly close to those of Adams et al. (2003). However, there is an important difference: since our model tends to produce El Niño events more often than suggested by the Mann et al.\nFig 1 live 4/C\n(2000) reconstruction (a 32% versus 25% likelihood, i.e., one warm event every 3 yr as opposed to one in 4 yr), the marginal increase in ENSO likelihood, albeit sizable, is correspondingly less in our case. Note that the model’s ENSO frequency is very close to that quoted by Trenberth (1997) over the twentieth century (a 31% likelihood in any given year), though there is suggestion that the latter is anomalously high in the context of the past five centuries (Gergis and Fowler 2006).\nAlthough this is a useful diagnostic of the system’s behavior around key dates, it gives little information about the quantitative influence of volcanic forcing on ENSO statistics. The question we now ask is the following: how large an eruption is needed to significantly alter the likelihood of an El Niño event in any given year?\nd. A phase diagram for ENSO regimes\nWe consider a 200-member ensemble of simulations of the past millennium, as described before. Since these experiments idealize volcanic forcing as starting in January and persisting for a year, and since El Niño typically grows in April–June and peaks at the end of the calendar year, we look at the following quantity: for each year between 1000 and 1998 A.D. when the forcing was negative, consider the time window going from January to December of the following year. Our criterion for a given simulation to exhibit an El Niño is that Niño-3.4 exceed 0.5° for at least 6 consecutive months during the time window, consistent with the definition of the National Oceanic and Atmospheric Administration (NOAA) Climate Prediction Center. We then plot, for each year, the fraction of ensemble members that went into an El Niño versus the corresponding volcanic forcing.\nThe result is shown in Fig. 2. One can distinguish three regimes; for a volcanic dimming weaker than about 1 W m 2, the model is essentially unperturbed, and remains in a regime of free oscillations, where the likelihood of an El Niño event in any given year never exceeds 0.43. The likelihood is, on average, clustered around 0.29, close to the observed 0.31 (Trenberth 1997), which means than a warm event is to be expected every 3.5 yr or so. (Note that this diagram does not contain information about years of zero or positive radiative forcing, which would slightly increase the spacing between events.) For a dimming greater than 4 W m 2, however, all plotted points are above the limit value of 0.43, which is therefore a forced regime, to which all major eruptions of the millennium pertain. Between 0.8 and 4 W m 2, the model ENSO likelihood is sometimes above, sometimes below the threshold (i.e., a transition regime). Interestingly, both the Pinatubo ( 3.73 W m 2) and Krakatau ( 3.70 W m 2) eruptions find themselves at the boundary between the transition and forced regimes.\nSince the uncertainties on the forcing are probably very large (on the order of 30% at least), and since the model lacks an explicit representation of radiative processes, the exact value of these transition points is not to be taken literally. As an illustration, we ran the model with a volcanic forcing weaker by 30%, leaving solar forcing untouched. The same phase diagram is presented in Fig. 3, where it can be seen that the boundary between transition and forced regimes is now shifted to 3.3 W m 2. This difference stems largely from the paucity of large (|F | 2 W m 2) tropical eruptions in the ice core–based chronology of Crowley (2000), and the fact that in these 200 realizations of the experiment, the unforced probability of a warm event never reached above 40% (versus 42% in the previous"
+  }, {
+    "heading": "IVI M/L 25 10 40% 9 36%",
+    "text": "case). Nonetheless, the qualitative behavior is identical, and the quantitative result quite close.\nDo strong volcanic eruptions also produce noticeably stronger El Niño events? One way of seeing this is to consider the maximum value of Niño-3 in the same time window as before, presented in Fig. 4. To limit intraensemble fluctuations, we limit ourselves to the ensemble average of this statistic for each year (1000 data points).\nIt is clear that the average maximum size of ENSO events does increase sharply with volcanic forcing in the transition and forced regimes. However, the model physics constrain the index between about 2.5° and 3.5°C (versus 1.8° to 3.8°C in the Kaplan SST dataset; more infomationa available online at http://iridl.ldeo. columbia.edu/SOURCES/.Indices/.nino/.EXTENDED/ .NINO3/), and even the strongest eruption (1258) does not alter this absolute (intraensemble) maximum reached by the index. So while very strong eruptions make an event significantly more likely, its amplitude will not fall outside the model’s range of internal variability.\nHence, a simple way of understanding the effect of volcanic forcing is that for sufficiently high values, it adds to the likelihood of a warm event, which is normally nonzero because of the model’s self-sustained oscillatory behavior. Explosive volcanism does not trigger El Niño events per se, but rather loads the dice in favor of El Niño, also favoring higher amplitudes. Following eruptions associated with a cooling larger than 1 W m 2, ENSO likelihood increases by about 50% on average.\nThe most spectacular example of such behavior coincides with the largest eruption of the past millennium (1258 A.D.), upon which we shall now focus."
+  }, {
+    "heading": "3. A remarkable case: The 1258 eruption",
+    "text": "a. Forcing\nThe year 1258 (1259 in some chronologies) features an outstanding volcanic anomaly (Langway et al. 1988; Palais et al. 1992) that has been found\nFig 2 live 4/C\n• in nine Northern Hemisphere ice core time series from seven cores (NGT-B20, GISP2, A77, A84, Renland, NorthGRIP1, and Crete), three of which had sulfate signals used to estimate the stratospheric aerosol loading. (C. Gao 2006, personal communication). All are from Greenland except A77 and A84, sampled from the nearby Agassiz Ice Cap on Ellesmere Island, Canada. • in six Southern Hemisphere (Antartica) ice cores (SP2001c1, Plateau Remote, TalosDome, G15, B32, PS1), five of which have sulfate records. (C. Gao 2006, personal communication). • in Lake Malawi sediments (1°S, 34.5°E), as a thick ash layer of age within dating uncertainties ( 100 yr) of 1258 A.D. (T. C. Johnson 2006, personal communication).\nThis strongly suggests that the eruption occurred in the tropics, though data from tropical ice cores would be extremely valuable to establish this fact.\nThe mass sulfate injection is estimated to lie between 190 and 270 Mt (Budner and Cole-Dai 2003; Cole-Dai\nand Mosley-Thompson 1999). The radiative impact at the top of the atmosphere can be estimated via (1). The sulfate stratospheric loadings given above translate to perturbations of 8.9 to 11.4 W m 2, all extremely large, but with an error bar of about 30%. Results are qualitatively similar for all estimates within this range.\nBecause the eruption of interest was only recorded in both poles in 1259, this is the date where it is included in the model, but shifting the spike to 1258 only shifts the response a year earlier. Similar lags might be present for other eruptions.\nb. Results\nIt is clear from Fig. 1 that the 1258 eruption stands out in the context of the millennium, both in the forcing and the response, which is a 1.5°C warming in the ensemble mean Niño-3. This result is virtually identical to that of Mann et al. (2005) (their Fig. 1a), despite slight coding differences.\nIt is instructive to look at the distribution of Niño-3.4 values, for the full 1258 forcing and its more conserva-\nFig 3 live 4/C\ntive estimate, reduced by 30%. In Fig. 5 we present such distributions obtained by a kernel density estimation among the 200 ensemble members. While the model usually displays a unimodal distribution centered around 0.4°C and skews toward positive events (as does nature), the year 1259 stands out in both cases as a bimodal anomaly whose dominant peak is centered around 1.5°C.\nWhich fraction of ensemble members produced an El Niño event that year, and of which amplitude? We apply the Climate Prediction Center criterion of ENSO occurrence once more (Niño-3.4 0.5°C for at least 6 months), also considering the thresholds of 1° and 2°C. The results are shown in Table 2 (left column). Within the 200-member ensemble, and over that particular period, the model saw the development of a warm event in 75% of cases. This figure is almost 2.5 times larger than that based on chance alone (32%). The ratio further increases for stronger Niño-3.4 anomalies: their likelihood is bolstered by a factor of 3 for strong El\nNiños, and almost 6 for a very strong El Niños. This brings the results of section 2d into a new light, and illustrates how strong eruptions tend to raise both the likelihood and the intensity of El Niño events in the model.\nWould these numbers change significantly in the presence of a weaker forcing? Considering again the case where volcanic forcing was reduced by 30%, we find lower, but still significant increases of 2.1, 2.8, and 4.6, respectively, for the same likelihood ratios.\nThus, in the vast majority of cases, the model tended to produce a moderate-to-strong El Niño in response to the 1258/59 volcanic dimming of solar irradiation. This needs to be put in the longer context of medieval climate, which was also affected by variations in solar irradiance (Jones and Mann 2004). When reconstructions thereof were added to the volcanic forcing, as in Mann et al. (2005), we found that the early part of the millennium (1000–1300 A.D.), a period of anomalously high irradiance (possibly related to the so-called Medi-\nFig 4 live 4/C\neval Climate Anomaly), the model’s eastern equatorial Pacific was anomalously cold by a few tenths of a degree. The persistence of such La Niña–like conditions is consistent with evidence of epic megadroughts that struck the American West at the time (Cook et al. 2004), as well as modeling results (Schubert et al. 2004; Herweijer et al. 2006) and other proxy evidence for medieval hydroclimate worldwide (Graham 2004; Herweijer et al. 2007; Seager et al. 2007; Graham et al. 2007). We thus propose that the 1258 eruption produced a moderate-to-strong El Niño in the midst of prevailing La Niña–like conditions and now ask whether the paleoclimate record is consistent with such a proposition.\nc. Comparison to the proxy record\nSince the year 1258 predates any reliable instrumental or documentary evidence of an El Niño event, we must turn to more indirect geological sources (i.e., climate proxies). Though each of them is fraught by a number a of limitations, Mann and collaborators (Mann et al. 1998; Mann 2002) demonstrated than their combination can exploit the complementary strengths of these proxies to skillfully reconstruct climate events of the past. Such a multiproxy approach has recently been applied to devise a chronology of ENSO events back to 1525 A.D. (Gergis and Fowler 2005; Gergis 2006), in the spirit of earlier reconstructions by Quinn\n(1992) and Whetton and Rutherfurd (1994). Unfortunately, no such reconstruction extends back to 1258 A.D., and we must therefore turn to a semiquantitative analysis. The coast of the Americas is dotted with ENSO-sensitive sites (e.g., Ropelewski and Halpert"
+  }, {
+    "heading": "1987; Graham 2004; Trenberth et al. 1998) that can be used to monitor ENSO conditions via proxy records.",
+    "text": "In Fig. 6 we confront the model results (Fig. 6a) with\nFig 6 live 4/C\nproxy evidence from a variety of high-resolution climate records from such regions:"
+  }, {
+    "heading": "1) The North American Drought Atlas (Cook and",
+    "text": "Krusic 2004), which uses a 2000-yr long tree-ring chronology to estimate the Palmer drought severity index (PDSI; Palmer 1965) over the American West (25°–47.5°N, 122°–100°W). PDSI can be viewed as a proxy for soil moisture with built-in persistence. Tree-ring records from this region have been shown to be extremely sensitive to droughts, which were tied to tropical Pacific SST patterns (Cole et al. 2002; Seager et al. 2005; Herweijer et al. 2007): specifically, a negative value of PDSI is indicative of drought conditions in the American West, and by inference of La Niña–like conditions. The decade beginning in 1250 was exceedingly dry, with some of the driest years on record (e.g., 1253 and 1254) over the region. Year 1258 itself reaches an extremely negative value for the PDSI, which then undergoes its biggest upward jump of the millennium ( 4.52 units), bringing the drought conditions back to almost normal for 1259. This jump is presented in Fig. 6b, which features the year-to-year change in the index. Based on the aforementioned relationship between tropical Pacific SSTs and droughts in the American West, its most likely cause is a strong or very strong El Niño. 2) A record of tree-ring width from El Asiento, Chile, which is the most ENSO-sensitive tree-based record of the past 1000 yr over South America (Luckman and Villalba 2001; our Fig. 6c). The standardized width is a proxy for fractional expected growth, which is dominated by water supply. Typically, wetter years yield thicker rings, and those tend to occur more frequently during El Niño events. While the 1258/59 jump ( 0.48 units) is not the largest in the record in absolute terms (the return to near-normal conditions after the severe drought of 1304, not shown, is of 0.89 units), it is also consistent with a moderate-to-strong El Niño. 3) Titanium (Ti) content (in percent) in the Cariaco basin sediments core at ODP site 1002 (10°N, 65°W) as in (Haug et al. 2001). This record (Fig. 6d) is best interpreted as a proxy for rainfall over northern South America, which El Niño tends to reduce by pushing the Atlantic ITCZ farther north (Enfield and Mayer 1997), thereby decreasing the riverine flux of titanium into the core. Hence, an El Niño event should manifest itself as a dip in Ti concentration. For this study, the core was analyzed at 50 m resolution over the thirteenth century, providing unprecedented detail on ITCZ dynamics during this\ntime window. Despite the uncertainties of the age model published in Haug et al. (2001), which are of several years to decades, notable Ti minima are observed synchronously with upward jumps in PDSI ca 1220, 1259, 1289, and 1299, consistent with the occurrence of El Niños at those times.\nWhile none of these records single handedly establishes the occurrence of an El Niño event in 1258/59, their conjunction is strongly suggestive thereof. Furthermore, we show in Fig. 7 the number of fine-grain lithics in a sediment core taken off the Peruvian coast, taken as a proxy for ENSO-induced rainfall (Rein et al. 2004). A spike is indeed present around 1258 (within dating uncertainties), shortly before the end of the period of low ENSO activity that prevailed from about 800–1250 A.D. This is broadly consistent with the Medieval Climate Anomaly.\nWe conclude that there was indeed an El Niño event in 1258/59, though perhaps not exceptional in amplitude."
+  }, {
+    "heading": "4. Discussion",
+    "text": "Thus, the evidence supports the notion that the Americas did record signals consistent with a moderate-to-strong El Niño in 1258/59, which came on the heels of a major, prolonged La Niña–like anomaly of the Medieval Climate Anomaly (Rein et al. 2004). This can be explained by the thermostat response of the tropical Pacific to the massive volcanic sulfate aerosol loading reconstructed for that time, in the midst of a period of strong solar irradiance, which has been found to significantly organize the model ENSO activity on centennial-to-millennial time scales (Emile-Geay et al. 2007). Regardless of solar forcing, we find that the model ENSO is only noticeably influenced by volcanic eruptions with a radiative forcing greater, in absolute value, than 3.3 to 4 W m 2 (roughly the magnitude of the Krakatau and Pinatubo eruptions).\nHowever, our quantitative conclusions must be tempered by the incompleteness of the model physics and uncertainties in both the forcing and dataset considered for validation.\nUncertainties in the forcing, though largely unreported, are sizable: on the order of 30%, as seen in section 2a, perhaps more for certain eruptions. We highly welcome research efforts aiming at better documenting, and reducing, this uncertainty.\nThe simplicity of the model is what allowed us to study the coupled system over the entire length of the millennium, yet it creates caveats that are inherent to its formulation (Clement et al. 1999). While the chain of\nphysical reasoning linking volcanic and solar forcing to equatorial SSTs (the thermostat mechanism) is certainly correct as far as it goes, the climate system is complex and processes not considered in this argument, such as cloud feedbacks and thermocline ventilation, might be important. The model has a very idealized representation of tropospheric radiative processes, and no representation of stratospheric processes at all. While it has had some success in explaining some observations of radiatively forced climate change (Cane et al. 1997; Clement et al. 1999; Mann et al. 2005; EmileGeay et al. 2007), a more comprehensive atmosphere model would be desirable.\nTargeted experiments in a coupled general circulation model (CGCM) featuring a realistic ENSO cycle and idealized volcanic forcing for 1258 would shed light on this issue. However, it is not clear that the current generation of CGCMs is up to the task, with a simulated ENSO generally exhibiting an excessive 2-yr phase locking, too little skewness in the Niño-3 statistics, and numerous biases in the tropical climatology (Latif et al. 2001). The consequence is that there is still no agreement in the ENSO response to greenhouse forcing in CGCMs for ENSO (Collins 2005), which does not bode well for a similar test with volcanic forcing.\nNonetheless, substantial progress has recently been achieved in simulating ENSO over various time scales (Cane et al. 2006; Guilyardi 2006). Some CGCMs do exhibit a thermostat-like behavior (e.g., Schneider and Zhu 1998), proving that it is not merely an artifact of the simplicity of the Cane–Zebiak model. Recently, Stenchikov et al. (2007) conducted experiments with the state-of-the-art CGCM of the Geophysical Fluid Dynamics Laboratory (GFDL) Climate Model, version 2.1 (CM2.1; Delworth and Coauthors 2006) forced by radiative effects of volcanic aerosols calculated using observed aerosol parameters for the Mt. Pinatubo eruption, as well as 3 and 5 times such an impact. They found that the thermostat mechanism is at work in their model, leading to an El Niño–like response to a Pinatubo-type eruption, though such effect is fairly weak. Thus, while it is encouraging to see a convergence between the qualitative behavior the Cane–Zebiak model and fully coupled CGCMs, there are still quantitative discrepancies that hamper the establishment of a precise threshold in the ENSO response to volcanic forcing.\nOther problems stem from the proxy records themselves: since they are imperfect by nature, only the convergence of independent indicators can give confidence in a result. A more direct measure of tropical Pacific\nFig 7 live 4/C\nSSTs would be desirable, but is unavailable at this time. One could also turn to more remote ENSO proxies, but it then becomes difficult to disentangle the direct, local effects of the volcanic veil and the more indirect ENSO teleconnections (Santer et al. 2001). There is no obvious way to separate these, since the geographical distribution of the sulfate stratospheric cloud is unknown, and the El Niño episodes need not have been exceptional in amplitude. Also, one cannot rule out that the influence of the assumed radiative perturbation on land surface temperature may have been large, and overwhelmed a more distal ENSO signal.\nMore fundamentally, and regardless of the accuracy of the records, the problem becomes one of detection and attribution of causes: even if it turns out that an El Niño did happen during the year following a given eruption, is it sensible to claim that it was triggered by volcanic forcing alone? Of course, there could have been an El Niño anyhow (a 1 in 3 chance, roughly). The main contribution of this work is to have drawn a quantitative phase diagram (section 2d), which outlined by how much volcanic forcing can load the dice of ENSO likelihood in any given year. In our case it made it 75% likely in 1259–60, and overall, about 80% more likely for an El Niño event to occur after a large eruption than based on chance alone (32%).\nHowever, as the prediction made in this diagram is probabilistic in essence, a definitive test of its veracity can only come from a long record of ENSO occurrences. So far, the work of Adams et al. (2003) supports a correlation between explosive tropical volcanism and ENSO, but the test will become more stringent as the number of high-resolution proxy records becomes more widely available throughout the millennium and beyond, and allow a full chronology of ENSO events over the past 1000 yr to be developed.\nOne might see an apparent paradox in our results. If volcanoes can cause El Niños, it would seem that ENSO could not be predicted unless one could predict volcanic eruptions. Yet all current prediction schemes, many of which have demonstrated considerable skill (e.g., Goddard et al. 2001), use only climate information, only including the effects of volcanic forcing insofar as they affect the initial conditions in sea surface temperatures. However, in common with Adams et al. (2003) and Mann et al. (2005), we have shown that only outsized volcanic eruptions are highly likely to generate an El Niño; more modest eruptions create only a slight bias toward warm events (see Fig. 2). Hence, there is no inconsistency between the existence of a robust statistical relationship between large volcanic eruptions on ENSO, and the work of Chen et al. (2004) who showed that all major El Niño events since 1856 could be fore-\ncast up to 2 yr ahead with the sole knowledge of initial SSTs. Both results are consistent with the proposition that the forced regime only begins for eruptions larger than Pinatubo and Krakatau, which are absent from the hindcast period (1856–2004).\nAcknowledgments. We acknowledge the following Grants: NOAA NA030AR4320179 P07, NOAA NA030AR4320179 20A, NSF ATM 0347009, and NSF ATM 0501878. JEG was also supported by the Boris Bakhmeteff Fellowship in Fluid Mechanics. JEG would like to thank G. Correa and L. Rosen for technical assistance; and is indebted to C. Gao, E. Hendy, R. Stothers, M. E. Mann, R. Bay, J. Cole-Dai, T. Johnson, T. de Putter, W. Qian, J. Li, M. Evans, R. Villalba, A. Schilla, N. Dunbar, M. Lachniet, and G. Stenchikov for very helpful discussions and advice."
+  }],
+  "year": 2008,
+  "references": [{
+    "title": "Proxy evidence",
+    "authors": ["J. Adams", "M. Mann", "C. Ammann"],
+    "year": 2003
+  }, {
+    "title": "Atmospheric teleconnections from the equa",
+    "authors": ["J. Bjerknes"],
+    "year": 1969
+  }, {
+    "title": "The evolution of El Niño, past and future",
+    "authors": ["M.A. Cane"],
+    "year": 2005
+  }, {
+    "title": "A numerical model for low",
+    "authors": ["R.J. Patton"],
+    "year": 1984
+  }, {
+    "title": "Multiyear La Niña events and persistent drought in the contiguous United States",
+    "authors": ["J.E. Cole", "J.T. Overpeck", "E.R. Cook"],
+    "year": 2002
+  }, {
+    "title": "El Niño- or La Niña-like climate change",
+    "authors": ["M. Collins"],
+    "venue": "Climate Dyn.,",
+    "year": 2005
+  }, {
+    "title": "Krusic, 2004: North American Summer PDSI reconstructions. IGBP PAGES/World Data Center for Paleoclimatology, Data Contribution Series 2004-045",
+    "authors": ["E. Cook"],
+    "year": 2004
+  }, {
+    "title": "Long-term aridity changes in the western",
+    "authors": ["C. Woodhouse", "C. Eakin", "D. Meko", "D. Stahle"],
+    "venue": "United States. Science,",
+    "year": 2004
+  }, {
+    "title": "Causes of climate change over the past 1000 years",
+    "authors": ["T.J. Crowley"],
+    "venue": "Science,",
+    "year": 2000
+  }, {
+    "title": "GFDL’s CM2 global coupled climate models. Part I: Formulation and simulation characteristics",
+    "authors": ["T. Delworth"],
+    "venue": "Coauthors,",
+    "year": 2006
+  }, {
+    "title": "Tropical Atlantic sea surface temperature variability and its relation to El NiñoSouthern Oscillation",
+    "authors": ["D.B. Enfield", "D.A. Mayer"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1997
+  }, {
+    "title": "The 1452 or 1453 A.D. Kuwae eruption signal derived from multiple ice core records: Greatest volcanic sulfate event of the past 700 years",
+    "authors": ["C. Gao"],
+    "venue": "Coauthors,",
+    "year": 2006
+  }, {
+    "title": "Reconstructing El Niño-Southern Oscillation (ENSO); evidence from tree ring, coral, ice core and documentary palaeoarchives, A.D. 1525–2002",
+    "authors": ["J. Gergis"],
+    "venue": "Ph.D. thesis, School of Biological, Earth and Environmental Sciences,",
+    "year": 2006
+  }, {
+    "title": "Classification of synchronous oceanic and atmospheric El Niño-Southern Oscillation (ENSO) events for palaeoclimate reconstruction",
+    "authors": ["A. Fowler"],
+    "venue": "Int. J. Climatol.,",
+    "year": 2005
+  }, {
+    "title": "Current approaches to seasonal to interannual climate predictions",
+    "authors": ["L. Goddard", "S. Mason", "S. Zebiak", "C. Ropelewski", "R. Basher", "M. Cane"],
+    "venue": "Int. J. Climatol.,",
+    "year": 2001
+  }, {
+    "title": "Late-Holocene teleconnections between tropical Pacific climatic variability and precipitation in the western USA: Evidence from proxy",
+    "authors": ["N.E. Graham"],
+    "venue": "records. Holocene,",
+    "year": 2004
+  }, {
+    "title": "El Niño mean state seasonal cycle interactions in a multi-model ensemble",
+    "authors": ["E. Guilyardi"],
+    "venue": "Climate Dyn.,",
+    "year": 2006
+  }, {
+    "title": "Acidity of polar ice cores in relation to absolute dating, past volcanism, and radio-echoes",
+    "authors": ["C.U. Hammer"],
+    "venue": "J. Glaciol.,",
+    "year": 1980
+  }, {
+    "title": "Dansgaard, 1980: Greenland ice sheet evidence of postglacial volcanism and its climatic impact",
+    "authors": ["H.B. Clausen"],
+    "venue": "Nature, 288,",
+    "year": 1980
+  }, {
+    "title": "Possible association of stratospheric aerosols",
+    "authors": ["P. Handler"],
+    "year": 1984
+  }, {
+    "title": "Climate over past millennia",
+    "authors": ["P. Jones", "M. Mann"],
+    "year": 2004
+  }, {
+    "title": "CLIMATE RECONSTRUCTION: The value",
+    "authors": ["E. M"],
+    "venue": "model. J. Climate,",
+    "year": 2002
+  }, {
+    "title": "Ice core and palaeoclimatic evidence",
+    "authors": ["C. Oppenheimer"],
+    "year": 2003
+  }, {
+    "title": "Self-limiting physical and chemical effects in volcanic eruption",
+    "authors": ["J.P. Pinto", "O.B. Toon", "R.P. Turco"],
+    "venue": "clouds. J. Geophys. Res.,",
+    "year": 1989
+  }, {
+    "title": "Large-scale ENSO event, the El Niño and other important regional features",
+    "authors": ["W.H. Quinn"],
+    "venue": "Registro delfenómeno El Niño y de Eventos ENSO en América del Sur,",
+    "year": 1992
+  }, {
+    "title": "Variations in tropical sea surface temperature and surface wind fields associated with the Southern Oscillation/El Niño",
+    "authors": ["E. Rasmussen", "T. Carpenter"],
+    "venue": "Mon. Wea. Rev.,",
+    "year": 1982
+  }, {
+    "title": "On estimating insolation over the ocean",
+    "authors": ["R. Reed"],
+    "venue": "J. Phys. Oceanogr.,",
+    "year": 1977
+  }, {
+    "title": "Sirocko, 2004: A major Holocene ENSO anomaly during the Medieval period",
+    "authors": ["B. Rein", "A. Lückge"],
+    "venue": "Geophys. Res. Lett., 31,",
+    "year": 2004
+  }, {
+    "title": "Volcanic eruptions and climate",
+    "authors": ["A. Robock"],
+    "venue": "Rev. Geophys.,",
+    "year": 2000
+  }, {
+    "title": "Free, 1995: Ice cores as an index of global volcanism from 1850 to the present",
+    "authors": ["M. P"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1995
+  }, {
+    "title": "Global and regional scale precipitation patterns associated with the El Niño/Southern Oscillation",
+    "authors": ["C. Ropelewski", "M. Halpert"],
+    "venue": "Mon. Wea. Rev.,",
+    "year": 1987
+  }, {
+    "title": "Accounting for the effects of volcanoes and ENSO in comparisons of modeled and observed temperature trends",
+    "authors": ["B. Santer"],
+    "venue": "Coauthors,",
+    "year": 2001
+  }, {
+    "title": "Stratospheric aerosol optical depths, 1850–1990",
+    "authors": ["M. Sato", "J. Hansen", "M. McCormick", "J. Pollack"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1993
+  }, {
+    "title": "Sensitivity of the simulated annual cycle of sea surface temperature in the equatorial Pacific to sunlight penetration",
+    "authors": ["E.K. Schneider", "Z. Zhu"],
+    "venue": "J. Climate,",
+    "year": 1998
+  }, {
+    "title": "Modeling of tropical forcing of persistent droughts and pluvials over western North America: 1856–2000",
+    "authors": ["R. Seager", "Y. Kushnir", "C. Herweijer", "N. Naik", "J. Velez"],
+    "venue": "J. Climate,",
+    "year": 2005
+  }, {
+    "title": "Blueprints for Medieval hydroclimate",
+    "authors": ["N. Graham", "C. Herweijer", "A. Gordon", "Y. Kushnir", "E. Cook"],
+    "venue": "Quat. Sci. Rev.,",
+    "year": 2007
+  }, {
+    "title": "Volcanic aerosol perturbations and strong El Niño events: No general correlation",
+    "authors": ["J. Zhao", "M.G. Katz"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 1997
+  }, {
+    "title": "Volcanoes of the World. 2nd ed",
+    "authors": ["T. Simpkin", "L. Siebert"],
+    "year": 1994
+  }, {
+    "title": "Volcanic climate impacts and ENSO interactions",
+    "authors": ["G. Stenchikov", "T. Delworth", "A. Wittenberg"],
+    "venue": "Eos, Trans. Amer. Geophys. Union,",
+    "year": 2007
+  }, {
+    "title": "The year without a summer",
+    "authors": ["H. Stommel", "E. Stommel"],
+    "venue": "Sci. Amer.,",
+    "year": 1979
+  }, {
+    "title": "The great Tambora eruption in 1815 and its aftermath",
+    "authors": ["R. Stothers"],
+    "year": 1984
+  }, {
+    "title": "The definition of El Niño",
+    "authors": ["K.E. Trenberth"],
+    "venue": "Bull. Amer. Meteor. Soc.,",
+    "year": 1997
+  }, {
+    "title": "Progress during TOGA in understanding and modeling global teleconnections associated with tropical sea surface temperatures",
+    "authors": ["G.W. Branstator", "D. Karoly", "A. Kumar", "N.-C. Lau", "C. Ropelewski"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1998
+  }, {
+    "title": "A simple atmospheric model of relevance for El Niño",
+    "authors": ["S.E. Zebiak"],
+    "venue": "J. Atmos. Sci.,",
+    "year": 1982
+  }, {
+    "title": "A model El Niño–Southern Oscillation",
+    "authors": ["M.A. Cane"],
+    "venue": "Mon. Wea. Rev.,",
+    "year": 1987
+  }, {
+    "title": "Use of paleo-records in determining variability within the volcanism-climate system",
+    "authors": ["G.A. Zielinski"],
+    "venue": "Quat. Sci. Rev.,",
+    "year": 2000
+  }],
+  "id": "SP:5e83e1206fcbcb2ff1113709f4ecd6183b9d0f3f",
+  "authors": [{
+    "name": "JULIEN EMILE-GEAY",
+    "affiliations": []
+  }, {
+    "name": "RICHARD SEAGER",
+    "affiliations": []
+  }, {
+    "name": "MARK A. CANE",
+    "affiliations": []
+  }, {
+    "name": "EDWARD R. COOK",
+    "affiliations": []
+  }, {
+    "name": "GERALD H. HAUG",
+    "affiliations": []
+  }],
+  "abstractText": "The controversial claim that El Niño events might be partially caused by radiative forcing due to volcanic aerosols is reassessed. Building on the work of Mann et al., estimates of volcanic forcing over the past millennium and a climate model of intermediate complexity are used to draw a diagram of El Niño likelihood as a function of the intensity of volcanic forcing. It is shown that in the context of this model, only eruptions larger than that of Mt. Pinatubo (1991, peak dimming of about 3.7 W m ) can shift the likelihood and amplitude of an El Niño event above the level of the model’s internal variability. Explosive volcanism cannot be said to trigger El Niño events per se, but it is found to raise their likelihood by 50% on average, also favoring higher amplitudes. This reconciles, on one hand, the demonstration by Adams et al. of a statistical relationship between explosive volcanism and El Niño and, on the other hand, the ability to predict El Niño events of the last 148 yr without knowledge of volcanic forcing. The authors then focus on the strongest eruption of the millennium (A.D. 1258), and show that it is likely to have favored the occurrence of a moderate-to-strong El Niño event in the midst of prevailing La Niña–like conditions induced by increased solar activity during the well-documented Medieval Climate Anomaly. Compiling paleoclimate data from a wide array of sources, a number of important hydroclimatic consequences for neighboring areas is documented. The authors propose, in particular, that the event briefly interrupted a solar-induced megadrought in the southwestern United States. Most of the time, however, volcanic eruptions are found to be too small to significantly affect ENSO statistics.",
+  "title": "Volcanoes and ENSO over the Past Millennium"
+}

@@ -1,0 +1,609 @@
+{
+  "sections": [{
+    "text": "Plain Language Summary Growth of topography through magmatic processes, including volcanic eruptions and shallow intrusions, is largely outside the realm of traditional tectonic geomorphology. However, terrains in which magmatic processes occur persistently for ones to tens of millions of years occupy about 10% of the Earth’s land surface area. In these terrains, landscape form will reflect a competition between erosion and magmatic landscape construction, modulated but not necessarily controlled by tectonics. We compile an extensive database of magmatic landforms to quantify the variability in magmatic landform shape for different styles of magmatism, both eruptive and intrusive. By considering the rate at which magmatic landforms of a given volume are produced and the dependence of typical erosion processes on landform geometry, our results provide a quantitative basis for understanding the potential for magmatism to shape landscapes, influence erosion patterns, and be preserved in the geologic record."
+  }, {
+    "heading": "1. Introduction",
+    "text": "The physical form of landscapes reflects mass transfer processes at the Earth’s surface that change topographic elevations via uplift and subsidence relative to the geoid, and erosion or deposition of surface rocks (England & Molnar, 1990). Uplift and subsidence mechanisms are diverse, including tectonic processes and bulk isostatic or flexural adjustment of the crust in response to loads. Subsequent lateral gravitational potential energy gradients then drive physical erosion that reduces surface topographic relief. For terrestrial landscapes on Earth, tectonic uplift is usually considered to be the primary large-scale process driving landscape evolution.\nHowever, in active or recently active volcanic environments, which occupy roughly 10% of the global land surface (Figure 1; Wilkinson et al., 2009), tectonics may not be the dominant driver of increases in relief (e.g., Perkins, Ward, et al., 2016). Instead, emplacement of magma within the crust as intrusions or on the Earth’s surface through volcanic eruptions may be primarily responsible for the changes in surface relief\n• Analysis of a typical erosion law applied to conical topography implies erodibility regimes defined by landform height and planform area • Magnitude-frequency dependence of magmatic construction suggests distinct process regimes of landscape evolution in volcanic terrains\nSupporting Information: • Supporting Information S1 • Table S1 • Table S2 • Table S3 • Table S4\nCorrespondence to: L. Karlstrom, leif@uoregon.edu\nCitation: Karlstrom, L., Richardson, P. W., O’Hara, D. J., & Ebmeier, S. K. (2018). Magmatic landscape construction. Journal of Geophysical Research: Earth Surface, 123, 1710–1730. https://doi.org/10.1029/2017JF004369\nReceived 18 MAY 2017 Accepted 30 MAY 2018 Accepted article online 19 JUN 2018 Published online 8 AUG 2018\n©2018. American Geophysical Union. All Rights Reserved.\nKARLSTROM ET AL. 1710\nand occur on temporal and spatial scales that can deviate significantly from tectonic forcing (e.g., Hildreth, 2007; Lee et al., 2015). This type of topographic change is driven by deep mass influx from the mantle and consists of vertical surface motions relative to the geoid (rather than exhumation of bedrock; England & Molnar, 1990). Most often, magmatism results in the net increase of land elevation. Subsidence due to evacuating subsurface magma reservoirs can also occur, such as during caldera collapse. Volcanic activity also strongly affects geomorphic processes responsible for erosion (e.g., Gran et al., 2011; Montgomery et al., 1999), sets substrate erodibility by creating new surface deposits (e.g., Jefferson et al., 2010), and drives changes to Earth’s climate on a range of timescales (e.g., Self, 2006).\nVolcanic impacts on surface evolution can be highly variable. For example, Mount Mazama, a volcanic center in the Oregon Cascades arc, USA, has a ∼400-kyr history of episodic magmatic landform construction including a central stratovolcano that reached an elevation of ∼3,700 m, with surrounding petrologically related monogenetic edifices and lava flows deposited over a ∼1,000-km2 region of tectonic extension and faulting (Bacon & Lanphere, 2006). At 7.7 ka, the explosive Crater Lake caldera-forming eruption destroyed the Mazama edifice, blanketing∼106 km2 of western North America with volcanic sediment (Sarna-Wojcicki et al., 1983). Subsequently, postcaldera volcanism and resurgent doming has partially refilled some of the subsided caldera floor towards the regional surface. Thus the “uplift” history of Mount Mazama is strongly nonmonotonic. The current landscape integrates post-Crater Lake geomorphic and volcanic activity with topography that records prior interactions between magmatic uplift, erosion by rivers and glaciers, and regional tectonics (Bacon & Lanphere, 2006; Robinson et al., 2017). Although Mount Mazama is not representative of all volcanic centers, it is typical of most arcs, ocean islands, continental rifts, hot spots, and large igneous provinces in the sense that magmatism is a primary driver of landscape evolution.\nHere we document the range of surface topography changes that are caused by extrusive and intrusive magmatism, and then explore the role of landform shape on erodibility across magmatic styles. This focus differs from studies of volcanic landforms focused on volcanic processes (e.g., Kereszturi & Németh, 2012; Thouret, 1999), specific geomorphic impacts of volcanism (e.g., Waythomas, 2015), or the use of isolated magmatic landforms as strain markers for tectonic processes (e.g., Holm, 2001). Instead, we examine the generic distribution of magmatic landform shapes and how these shapes influence erosion. We focus on landforms created by individual events where possible. Impacts of volcanism on surface erodibility, while certainly important and variable between types of magmatic activity, are not considered here.\nIn the example of Mount Mazama and at most long-lived volcanic centers, magmatic construction is highly episodic, with large volume events occurring much less frequently than small volume events. Eruption sequences generally follow a power-law distribution of volumes (Pyle, 2000; commonly called a magnitude-frequency distribution, where “Magnitude” is usually defined by eruption mass; Newhall & Self, 1982). Wide-ranging magmatic construction suggests variable large-scale geomorphic response of landscapes to magmatic activity. Depending on the relative rates of production for magmatic landforms compared to erosion, we expect distinct regimes of landscape evolution.\nConstruction of magmatic landforms is strongly influenced by preexisting topography (e.g., Dietterich & Cashman, 2014). Because the most frequent magmatic activity generally generates the smallest volume\nKARLSTROM ET AL. 1711\nlandforms, landscapes can transition between construction-dominated and erosion-dominated regimes if the rate and style of magmatism or erosion varies. Feedbacks between eruption style and frequency, landform erodibility, climate, and erosion should result in a complex interplay between dominant construction and erosion at any given location. In some settings, erosion and redistribution of surface topography may additionally affect the stress state of the crust to drive variations in the frequency, magnitude, and style of volcanic eruptions. This has been suggested for glacier unloading and erosion (Jellinek et al., 2004; Sternai et al., 2016).\nAs we will demonstrate, magmatic landforms occur in the range of spatial scales where fluvial incision influences bedrock erosion (∼>105 m2). However, erosion from landsliding, soil creep, and debris flows occurs in magmatic environments as well. In general, erosion processes are often parameterized in terms of the influence of upstream drainage area Ad and local surface slope S (Kirkby, 1971). We will model erosion E as\nE = kAmd S n, (1)\nwhere k is a rock erodibility parameter, and the exponents m and n are semiempirical constants. Equation (1) when specified to fluvial erosion is the so-called stream power law (e.g., Howard & Kerby, 1983), and extensive work has characterized the empirical parameters (e.g., Whipple et al., 2000). The exponent m characterizes fluvial drainage basin shape, and is often found to be slightly larger than 0.5; n is often assumed to be near unity (Harel et al., 2016). Other erosion processes may be modeled with different exponents m and n. For example, purely slope-dependent soil creep would imply m = 0. We use equation (1) as an index for erosion, recognizing that a combination of processes operating at a range of scales often occur. Furthermore, by applying equation (1) at the scale of each volcanic landform, we estimate maximum values of erosion potential.\nIn the following, we first categorize magmatic landforms according to emplacement process, then compile planform areas A and landform heights h (total relief ). Three classes of magmatic activity are reviewed and examined in sequence: surface changes due to intrusions, surface changes from volcanic edifices built around vents, and surface changes from volcanic eruption deposits that travel away from the vent. These classes encompass most landforms associated with subaerial volcanism, with notable exceptions being volcanic topography derived from interactions of ascending magma with ground water, such as phreatic craters (maars) and rootless cones (e.g., Hamilton et al., 2010). We also neglect subglacial volcanic landforms such as tuyas, which form when lava erupts under ice (e.g., Komatsu et al., 2007). After presenting landform data, assembled from published databases and the literature, we then present a modeling framework with which to evaluate the influence of magmatic topography on erosion through specialization of equation (1) to magmatic landform geometries. We end by discussing the role of emplacement rate and landform shape on erosion at a landscape scale."
+  }, {
+    "heading": "2. Surface Relief Changes From Intrusions",
+    "text": "Most magma delivered to the crust from the mantle ends up as intrusions rather than eruptions on the Earth’s surface (White et al., 2006). Although the surface expression of intrusions (especially those at great depth) is often subtle and hard to distinguish (Finnegan & Pritchard, 2009; Magee et al., 2017; Perkins, Finnegan, et al., 2016), crustal thickening from magma addition likely contributes a significant fraction of the background uplift in volcanic provinces (e.g., Karlstrom, Lee, & Manga, 2014). Surface relief changes from intrusions may or may not be accompanied by eruptive activity, and thus can be considered a distinct type of landform.\nThe displacement of the Earth’s surface by active intrusions can be measured directly using precise geodetic techniques such as repeat leveling, GPS networks, or satellite-based Interferometric Synthetic Aperture Radar (InSAR). Constraints on intrusion geometry can also come from field studies of frozen and exhumed systems (e.g., Miller et al., 2009), or geophysical survey methods including seismic reflection (e.g., Magee et al., 2016), resistivity or magnetotellurics (e.g., Hill et al., 2009). Estimations of uplift from such data are challenging and require assumptions about the relationships between intrusion dimensions, depth of emplacement, and resulting changes in elevation at the surface. Frozen intrusions suffer the additional uncertainty of whether the preserved structure resulted from a single event or accumulated via multiple injections over extended time. Because of this complexity, we briefly review models of uplift from magmatic intrusions before presenting data."
+  }, {
+    "heading": "2.1. Models for Intrusions",
+    "text": "Total uplift associated with an individual episode of intrusion depends primarily on its depth, the change in intrusion volume and geometry, as well as the rheological properties of the surrounding crust\nKARLSTROM ET AL. 1712\n(Segall, 2010). Estimates of maximum uplift magnitude in response to intrusions come either from solving an elasticity or coupled fluid-solid mechanics problem numerically, or by studying limiting cases that admit analytic solutions.\nAnalytic solutions exist for displacements caused by pressurization of rectangular, spherical, ellipsoidal, and “penny-shaped” sources in a homogeneous elastic half space (Fialko et al., 2001; Okada, 1985; Yang et al., 1988). Two simplified limits result from intrusions whose lateral dimension R (assuming axisymmetric intrusion geometry) is larger or smaller than their depth below the surface d. For R∕d > ∼ 1, shallow intrusions are often approximated as sills for which deformation is vertical elastic flexure of overlying rocks (Pollard & Johnson, 1973). For R∕d ≪ 1, the so-called Mogi model (Mogi, 1958) of a pressurized point source intrusion in an elastic half space applies.\nThese two limits provide useful intuition for interpreting observations of uplift by magmatic intrusions. Supporting information section S3.1 and Figure S1 demonstrate that flexural models imply maximum uplift of meters to hundreds of meters, whereas “Mogi-type” models predict maximum uplift in the range of∼1 m (see also Galland & Scheibert, 2013). The range of observed active magmatic deformation magnitudes are well explained by these models. However, significantly larger relief intrusion-derived magmatic landforms imply a more protracted uplift history and likely require repeated intrusions to produce observed landform shapes."
+  }, {
+    "heading": "2.2. Landforms Generated by Intrusions",
+    "text": "We compile two different types of intrusion observations to constrain surface topography changes from subsurface magmatic activity: Active deformation that can be related directly to single intrusion events (InSAR data), and geologic observations of localized surface uplift that may represent multiple intrusions over a range of timescales (laccoliths and magmatic forced folds).\nThe first type of observation uses satellite-based InSAR methods to measure volcanic and magmatic displacements on the scale of millimeters to centimeters with a repeat interval of days to weeks (Biggs et al., 2014; Biggs & Pritchard, 2017; Pinel et al., 2014). Unlike ground-based instrumentation, which can be installed at only a limited number of points, InSAR allows measurements with a spatial resolution of tens of meters over swath widths of up to hundreds of kilometers. This means that InSAR measurements capture the shape and areal extent of active uplift, as well as displacement rates. We estimate uplift surface area from displacement signal radii provided in papers (or from figures where necessary), assuming that the displacement fields are circular or elliptical (supporting information). We include all signals attributed at least in part to magmatic intrusion (some may include a hydrothermal contribution) but do not include the complex deformation patterns associated with dike intrusion and fissure eruptions (e.g., Sigmundsson et al., 2015). Uncertainties in our estimated areas depend on instrument detection threshold (and therefore instrumental parameters such as radar wavelength) as well as reporting choices made by the authors of individual studies (e.g., satellite-line-of-sight rather than true vertical displacement).\nThe areas of InSAR deformation associated with magma reservoirs vary over 4 orders of magnitude from <1 to >3,000 km2, with a mean value of 113 km2. Meter-scale or larger total uplift occurs for both gradual inflation (e.g., >1.5 m since 2007 at Laguna del Maule, Chile; Le Mével et al., 2015) and episodic intrusion (e.g., ∼5 m at Sierra Negra, Galapagos; Jónsson, 2009). Episodes of uplift may be to some extent reversed by subsequent subsidence, such as that caused by the removal of magma during eruptions (e.g., Sigmundsson et al., 2010), the escape of gases, or the slow cooling and contraction of intrusions (e.g. Caricchi et al., 2014). As we cannot currently predict which intrusions will eventually contribute to eruption (and corresponding coeruptive subsidence), we do not attempt to identify which episodes of uplift will be permanent. Relating uplift to reservoir volume, shape and magma properties is further complicated by bubble-rich magma, which dramatically increases magma compressibility and deceases the surface deformation associated with intrusion of a particular volume (Rivalta & Segall, 2008). Likewise, inelastic response of host rocks complicate inverting the surface signal (Newman et al., 2001). Both effects may be time dependent (Segall, 2016). Thus, uplift patterns detected by InSAR provide a snapshot of pressure changes over days to years in part of a magmatic system and are not uniquely related to total reservoir volume, intrusion thickness, or material properties. InSAR measurements have also demonstrated that in some circumstances, magma can rise through the upper crust, or be removed during eruption, without measurable deformation (Ebmeier et al., 2013; Moran et al., 2006). In general, elastic models of maximum uplift such as described in the supporting information are consistent with uplift from episodes of intrusion measured by InSAR (Figures 2 and 3b and 4b blue bars).\nKARLSTROM ET AL. 1713\nEstimation of intrusion depth achieved through modeling of InSAR data (Figure 2c, with black curve our power law fit) constrains the range of intrusion depths that may have a surface influence generally.\nIn contrast to the event-based InSAR measurements, exhumed intrusive landforms such as laccoliths, where shallow sills flex overlying rocks upward (e.g., Jackson & Pollard, 1988), provide geologic constraints on total possible uplift associated with older magmatic intrusions. We use the surface area of laccolith exposure to describe their areal extent, and the maximum thickness of the intrusion as a proxy for total surface uplift\nKARLSTROM ET AL. 1714\nduring its development. The global compilation by Corry (1988) provides a sense of the range of landforms seen and the associated uncertainties in geometries. Corry (1988) suggests these intrusions have thicknesses and topographic relief reaching several km (Figure 4b, yellow bars) over planform areas ranging between <1–1,000 km2 (Figure 3b yellow bars). Erosional exhumation is common with this data, and we assume that laccolith thickness is approximately the total relief. However, the database of Corry (1988) also includes thickness data from geophysical surveys, and landforms reflecting protracted intrusive processes that cannot be consistently corrected for surface uplift solely caused by flexural laccolith intrusion. The data point with h = 9,500 m from this data set, for example, comes from the deeply exhumed Kiglapait layered mafic intrusion on Labrador and thickness is estimated based on a gravity survey (Stephenson & Thomas, 1979) that may not relate in a simple way to surface uplift. We retain these data for completeness—without redoing the literature survey of Corry (1988) we cannot justify using some points and not others—but suspect that h is an upper bound for surface uplift associated with laccoliths.\nLaccolith heights in general are larger by an order of magnitude than estimates based on flexural models (section S3.1), likely requiring repeated intrusions and plastic flow to generate the observed landforms. Field studies are consistent with this assessment, suggesting in some cases repeated injections and inflation over many thousands of years (Gilbert, 1877; Horsman et al., 2005, 2009; Jackson & Pollard, 1988). Numerical modeling of exposed laccoliths estimates construction rates of ∼1 m/year (Saint-Blanquat et al., 2006). These rates are generally consistent with large uplift rates observed from InSAR (Figure 2a) and rapid coeruptive intrusions observed via satellite (Castro et al., 2016), although the total uplift magnitude of InSAR-observed deformation is smaller.\nMagmatic forced folds, which involve dome-like uplift but also characteristic faulting patterns initiated by intrusions (e.g., van Wyk de Vries et al., 2014), provide additional geologic constraints. Although they form\nKARLSTROM ET AL. 1715\na continuum with laccoliths (Corry, 1988, describes fault-bounded “punched” laccoliths and layered “Christmas tree” laccoliths), differences in force balance (e.g., contribution of body forces), and material response (faulting) results in a diversity of surface expressions that partially justify different nomenclature. We use shallow intrusion data from the forced fold data set of Magee et al. (2017), including strata-concordant sills, saucer-shaped sills, and hybrid sill-laccoliths. Large mafic sills from this database were not included, because surface deformation (i.e., fold amplitude) was not explicitly apparent. Magmatic forced folds exhibit thicknesses from tens to hundreds of meters, and planform areas of ∼0.01–500 km2 (Figures 3b and 4b, red bars)."
+  }, {
+    "heading": "2.3. Subsidence From Calderas",
+    "text": "The presence of calderas is direct evidence for the existence of large quantities of melt at shallow depths (at least transiently) as the reservoirs that feed large explosive eruptions. Their dimensions are often used as a proxy for magma chamber horizontal cross-sectional area (Karlstrom et al., 2012), and thus, we classify them as intrusion-related magmatic topography. Mafic calderas are not uncommon (Geyer & Marti, 2008), but most calderas are associated with large volume eruptions that generally have more silicic compositions. We consider calderas as representing a different class of landscape perturbation than laccoliths and small shallow intrusions, which are not always associated with eruption. Larger volumes of magma generate larger planform area calderas, compiled in Figure 3c from the Collapse Caldera Database (Geyer & Marti, 2008) global data set. The Collapse Caldera Database idealizes caldera planform areas as ellipses.\nAs discussed in section 1 for the case of Mount Mazama (Bacon & Lanphere, 2006), calderas are often accompanied by a protracted prior history of volcanism and surface elevation increase that may extend hundreds of kyr, as well as postcaldera resurgent doming and volcanism. So, while the caldera topographic change is instantaneous compared to these timescales and uniformly negative over the caldera area, the integrated magmatic history usually involves extensive magmatic construction. Subsidence magnitudes are in the range of hundreds to thousands of meters (Geyer & Marti, 2008). However, resulting topographic lows are often filled with eruptive deposits and often exhibit posteruption resurgence domes or eruptive behavior. We therefore do not include calderas in our landform height compilation but do include the range of subsidence height values in our data synthesis for completeness. Resurgent domes often involve significant topographic gain (hundreds to thousands of meters total height at ∼1-cm/year rates, e.g., Phillips et al., 2007), and they are a distinct type of magmatic landform genetically related to caldera-forming systems."
+  }, {
+    "heading": "3. Surface Relief Changes From Volcanic Eruptions",
+    "text": "Eruptions occur on short timescales (minutes to tens of years), evacuating subsurface magma reservoirs and increasing the elevation of the land surface through deposition of lava (in the case of effusive eruptions) or tephra and pyroclastic density current emplacement (in the case of explosive eruptions). Eruptions sourced shallowly in the crust to some extent redistribute geomorphic potential for erosion from magma chambers, because subsurface chambers deflate (or implode) syneruptively. However, deep chambers may not generate surface relief at all if magma intrusion involves mass exchange within the crust, and the presence of bubbles complicates the relationship between surface deformation and volume change by making shallowly stored magma highly compressible (Rivalta & Segall, 2008). There is a great diversity in eruption style, volume, and frequency, attributable in large part to variable magma compositions and ascent rates (Gonnermann & Manga, 2013). Products of even relatively small volume effusive and explosive eruptions are known to travel great distances and so can have an extended region of influence. Episodes of repeated eruptions are also known to construct magmatic landscapes that are kilometers thick, in the case of large igneous provinces (e.g., Reidel et al., 2013) or ocean islands (Clague & Sherrod, 2014)."
+  }, {
+    "heading": "3.1. Effusive Eruptions",
+    "text": "Effusive eruptions span the entire range of magma compositions. Mafic lava flows are the most frequently occurring effusive eruptions and are also the largest; mafic lava flows in flood basalt provinces are known to travel hundreds of kilometers (Reidel et al., 2013). Controls on subaerial lava flow thickness include rheology, the style of flow emplacement, eruption volume, and substrate characteristics. Pahoehoe flows are emplaced as inflating sheets that often maintain approximately constant thickness throughout their length (individual lobes are rarely thicker than ∼10 m), while a’a’ flows are more irregular (Griffiths, 2000).\nLava flow emplacement is strongly affected by preexisting topography (Dietterich & Cashman, 2014), exploiting preexisting river channels (e.g., Branca, 2003) with dramatic short-term (Crow et al., 2008) and long-term\nKARLSTROM ET AL. 1716\n(Deligne et al., 2013) hydrologic impacts. Dominantly basaltic landscapes such as Kilauea, Hawaii, USA, are relatively smooth on scales greater than tens of meters, punctuated by eruptive cones, tumuli (surface flow breakouts), pressure ridges, lava channels, and lava tubes. These roughness features are formed during flow emplacement and cooling. Lava flows form massive deposits that armor the surface and are often exposed in negative relief as surrounding higher elevation landforms erode more quickly (e.g., King et al., 2007). Lava flows are also well known to dam or redirect preexisting rivers (Crow et al., 2008; Ely et al., 2012), contributing to fluvial drainage network reorganization.\nA global compilation of lava flow areas does not exist, so we compile lava flow data from the primary literature (supporting information). We include both single flows and flow episodes (multiple flows with minimal time gaps and often similar compositions). Such grouping reflects ambiguity in flow mapping as well as lack of vertical exposure. The distribution of flow areas in Figure 3a reflects the variability in effusive eruptions, spanning small flows associated with silicic eruptions and minor mafic episodes to flood basalts. The distribution of flow thicknesses in Figure 4a is bimodal, reflecting the grouping of single flows and flow episodes. For our purposes, this distribution serves to illustrate the range of landform construction that is “short lived” compared to timescales for erosion."
+  }, {
+    "heading": "3.2. Explosive Eruptions",
+    "text": "Explosive eruptions are generally more widely dispersed than their effusive counterparts, depositing fragmented magma as energetic pyroclastic density currents that can simultaneously erode the substrate and deposit material (e.g., Dufek, 2016) and ash clouds that travel through the atmosphere hundreds to thousands of kilometers depending on the height of the eruption plume before deposition (e.g., Jensen et al., 2014). As with effusive eruptions, the vast majority of explosive eruptions are small volume and thus represent minor perturbations to surrounding landscapes. However, the largest explosive eruptions create continental-scale deposits. Thickness of the deposits can reach hundreds of meters near the vent (Wilson, 1991), generally thinning dramatically as a function of distance to approximately millimeter-range thicknesses. Explosive eruptions typically last hours to days (Wilson & Hildreth, 1997).\nExplosive eruption deposits are sometimes hot enough to weld together, forming tuffs that armor the landscape and continue to flow (e.g., rheomorphic explosive deposits flow after deposition; Andrews & Branney, 2010). Explosive deposits also may include a large volume of unconsolidated tephra. These deposits enhance erosion rates both proximally to the vent and downstream (at least transiently) and hence may have a large erosional footprint (Montgomery et al., 1999). Explosive eruptions in glaciated landscapes often mobilize lahars that represent a significant erosive agent (Waythomas, 2015) and may induce sediment damming and outburst floods (Waythomas, 2001). The largest explosive eruptions are also known to perturb climate globally due to large volumes of magmatic volatiles erupted (dominantly SO2 and CO2, Self, 2006).\nIn light of such large impacts on erosion rates and the dramatic thickness variations of deposits, it is perhaps not surprising that a global distribution of explosive eruption areas is difficult to assemble. A preliminary planform area compilation comes from the global volume database on large explosive eruptions (LaMEVE; Brown et al., 2014, Figure 3d). We use primary data compiled by Mahoney et al. (2016), which include the maximum area and thickness in the near-vent region of each eruption. Because these data do not include eruptions smaller than those for which the eruption catalog is demonstrably statistically incomplete, we supplement LaMEVE with a compilation from the primary literature (supporting information) that includes eruptions from Hawaii, Iceland, Mount St. Helens, and New Zealand. This compilation is certainly incomplete, especially for smaller volume eruptions. Explosive eruptions span a much larger range of areas than other individual volcanic events considered here, affecting >2 orders of magnitude larger areas than other phenomena (Figure 3d). Explosive deposit thicknesses are generally small compared to other volcanic events (Figure 4c)."
+  }, {
+    "heading": "4. Surface Changes From Volcanic Edifices",
+    "text": "Although localized, volcanic edifices are often the highest relief landforms in volcanic provinces and thus have widespread geomorphic influence. Edifices form at the spatial loci of eruptions—near-vent buildups of eruptive deposits and intrusions that may be short (on the order of years for monogenetic eruptions) or long (hundreds of kyr for polygenetic stratovolcanoes and shield volcanoes) lived. Polygenetic edifices are often constructed of both effusive and explosive deposits—a testament to the diversity of volcanic processes that can occur at a single location. Intrusions generally comprise a significant component of volcanic edifice\nKARLSTROM ET AL. 1717\nvolume at stratovolcanoes (Annen et al., 2001) as well as basaltic centers (Walker, 1986). Intrusions are also known to promote edifice slope instability and mass wasting (van Wyk de Vries et al., 2014).\nThe spatial distribution of edifices is complex, but in a given magmatic province, it is not uncommon to find hundreds or even thousands of these landforms (e.g., Hildreth, 2007) that span the full range of magmatic styles. Long-lived volcanic edifices in arcs tend to parallel the convergent plate boundary and mirror the large-scale spatial distribution of mantle wedge melt. Arc polygenetic stratovolcanoes are present globally with irregular spacing at intervals of ∼30–60 km (de Bremond d’Ars et al., 1995). It is not known what governs the spacing of such volcanic centers, but deep spatial variability in magma supply as well as stress interactions within the crustal magma transport system (Karlstrom et al., 2009) or from surface loading due to the edifices themselves (Pinel & Jaupart, 2000) are viable candidates. Clustering of monogenetic edifices through time at some volcanic centers suggests control by crustal and surface loads (Karlstrom, Wright, & Bacon, 2014), although spatial patterns of monogenetic vents in other regions are indistinguishable from a random distribution (Connor & Hill, 1995).\nVolcanic edifice morphologies are highly variable (de Silva & Lindsay, 2015; Kereszturi & Németh, 2012). They tend to be easily recognizable landforms, as is evidenced by the large number of edifices discussed in the literature (our compilations contain nearly 10 times more edifices compared to other magmatic landforms). However, they lack a self-consistent shape, as protracted or spatially distributed eruption and erosion histories make determination of edifice boundaries difficult (Bohnenstiehl et al., 2012; Euillades et al., 2013; Grosse et al., 2014). This is problematic for defining the area and relief metrics of interest and further complicated by limited-resolution digital elevation models and background topography that may be a complex distribution of prior magmatic landforms.\nWe focus on two classes of landform that represent end-members in the spectrum of volcanic edifices. The database of Grosse et al. (2014) documents the range of polygenetic stratovolcano edifice sizes that are observed globally. It focuses on large-scale (>2 km basal width) composite and complex (grouped edifice) Holocene volcanoes from the Global Volcanism Program database, using a slope-based algorithm (Euillades et al., 2013) to automatically extract edifices from digital elevation model data. Planform area and topographic relief probability density functions (PDFs) from this database are smooth and unimodal, with areas in the range of 1–1,000 km2 and heights of hundreds to thousands of meters (Figures 3e and 4d).\nCinder cone fields are common in volcanic provinces (particularly those featuring dominantly mafic compositions), and represent a short-duration, often monogenetic, end member of volcanic edifice construction (e.g., Luhr & Simkin, 1993; Wood, 1980). No available global compilation of cinder cone shapes exists, so we compile data from the literature. Our compilation spans a variety of volcanic settings, including arcs, rifts, and continental and oceanic hot spots. We include data from the Trans-Mexican Volcanic Field (Pérez-López et al., 2011); the Cima Volcanic Field (Dohrenwend et al., 1986); Mauna Kea, Mt. Etna, Nunivak Island, and the San Francisco Volcanic Field (Settle, 1979); Lunar Crater Volcanic Field (Scott & Trask, 1971); Guatamala and El Salvador (Bemis et al., 2011); the Tepic rift (Mexico), Ethiopian rift, and Canary Islands (Tibaldi, 1995); Medicine Lake, Newberry Volcano, and the Springerville Volcanic Field (McGuire et al., 2014). We compile published data from the authors when available and otherwise digitize geometric data from figures using the WebPlotDigitizer tool (http://arohatgi.info/WebPlotDigitizer/). Cinder cones are generally simply shaped landforms: Quasi-conical structures often topped by conspicuous craters composed of (often poorly consolidated) explosive deposits, spatter, and intrusions associated with feeder dikes (e.g., Tadini et al., 2014) that often give rise to multiple aligned cones when they breach the Earth’s surface. Cinder cones are associated with smaller volume volcanic eruptions and are ubiquitous features of volcanic landscapes. Cinder cone areas range between 0.01–10 km2 (Figure 3f ) with heights of tens to hundreds of meters (Figure 4e)."
+  }, {
+    "heading": "5. Geometric Controls on Erodibility of Volcanic Landforms",
+    "text": "Differential elevations at the Earth’s surface drive erosion according to processes that depend on precipitation, temperature, surface slope, contributing drainage area, and surface erodibility. In low-relief landscapes, drainage areas less than ∼103 –104 m2 imply erosion dominantly from soil creep (e.g., Gilbert, 1909). Landsliding, earthflows, and channelization via debris flows generally occur at steeper slopes (Stock & Dietrich, 2003). For drainage areas of ∼105 m2 and above, fluvial channels can dominate erosion rate (Montgomery, 2001). High elevations with low temperatures experience erosion by ice (Egholm et al., 2009) and wind.\nKARLSTROM ET AL. 1718\nWith some exceptions, volcanic landforms develop planform areas that overlap with the fluvial range of drainage areas (and glacial range at high elevations). Of course, planform area need not scale with drainage area, and a number of erosion mechanisms depend more on thresholds for slope and time-dependent weathering than drainage area (e.g., Montgomery & Dietrich, 1994). Without imposing biases associated with a particular erosion mechanism, the erosion potential of volcanic landforms as a function of their drainage area and slope can to a large extent be assessed by comparing the planform area of the landform with its height for different classes of magmatism.\nFigure 5 plots all of the planform area and height data compiled in sections 2–4. There are two populations of landforms, one in which heights scale systematically with their planform areas as expected if landform heights are limited by a critical slope (e.g., an angle of repose), and one in which heights remain small but areas span a large range. Although most magmatic landforms are not unconsolidated piles of granular material for which the angle of repose is well-defined, the blue curve (for a reference 30∘ sloped cone) roughly bounds landform shape. Eruption deposits (lava flows and explosive deposits) are generally much larger in their planform area than height, although for lava flows we again see two populations—single events and flow sequences that construct much higher topography—present in the data set.\nInterpretations of planform area compared to landform height can be taken further if an erosion law is assumed and landform geometry defined. For volcanic landforms, the appropriate parameterization of equation (1) that would define the role of slope, drainage area, or the exponents m and n is not well known. Erosion that depends primarily on local slope thresholds as for debris flows (Stock & Dietrich, 2003) or rock avalanches would imply m ≈ 0. However, examples of erosion controlled by upslope drainage area on volcanic landforms are also plentiful (Ferrier et al., 2013; Jefferson et al., 2014; Seidl et al., 1994; Waythomas, 2015).\nControls on the spatial structure of drainages in magmatic provinces may differ from other tectonic environments. For example, channel network geometry that determines Hack’s Law scaling in basaltic landscapes may be fundamentally controlled by the distribution of lava flows (Ely et al., 2012; Seidl et al., 1994; Sweeney & Roering, 2017) rather than self-organizing fluvial erosion. Slope-drainage area relations inherent to volcanic topography can be assessed based on the constructional process of interest. For example, lava flows as approximated by axisymmetric viscous gravity currents on a flat substrate exhibit surface slope that varies with planform area as S ∼ A−1∕6 (Huppert, 1982; this does not account for some important effects such as the apparent yield stress of flowing magma; Wilson & Head, 1983). And volcanic edifice growth is often idealized as a self-similar “phreatic surface” resulting from Darcy flow of magma onto the land surface (Baratoux et al., 2009). To further complicate matters, dominant erosional processes probably evolve in time, as permeability reduction (Jefferson et al., 2010), chemical weathering (Murphy et al., 2016), and compaction (e.g., Hildreth, 1983) potentially change the hydraulic properties of the landform.\nKARLSTROM ET AL. 1719\nGiven the large range of planform areas and thicknesses in Figure 5, it is an interesting exercise to ask how an erosion law such as equation (1) varies with landform geometry alone. In the spirit of other simple geometric modeling in volcanology (e.g., DePaolo & Stolper, 1996), we make the assumption that all magmatic landforms are similar to cones with planform area A and height h. As discussed above, this is a poor assumption for some classes of magmatic landforms. Indeed, knowledge of constructional processes provides the template for evaluating erosion. However, all magmatic landforms have a locus of construction—for example, a vent or feeder system—from which topography systematically varies laterally. Although construction is commonly not axisymmetric around a locus (e.g., eruptions onto a slope or into a background wind field), this geometric constraint alone has important implications for erosion.\nFor cone-shaped landforms, the average slope is S = h √ 𝜋\nA and a scale for maximum channel length is the hypotenuse of the cone L = √\nA∕𝜋 + h2. In practice we expect L to overestimate channel length somewhat as unchannelized steepland regions will exist above the channel head. Assuming that stream drainage area Ad (different from A) scales with maximum channel length on the landform, we have Ad = kdLp, where kd is an empirical constant (Hack, 1957).\nAn estimate for the erosion rate of a conical volcanic landform from equation (1) then becomes\nE = c [A 𝜋 + h2 ]b∕2 ( h√ A )n , (2)\nwhere b = pm, and c = 𝜋n∕2kkmd .\nFor solely slope-dependent erosion b ≈ 0 and equation (2) becomes E = 𝜋n∕2k(h∕ √\nA)n, which increases as landforms get taller and decreases as landforms get more areally extensive. Rapid magmatic uplift in this case might additionally trigger slope-dependent thresholds that would further enhance erosion. For fluvial erosion operating according to the stream power law, it is commonly assumed that m ∼ 0.5, n ∼ 1 in equation (1) (Lague, 2014; Whipple & Tucker, 1999), with p ∼ 1.6–1.9 (Whipple & Tucker, 1999). Ferrier et al. (2013) found m ∼ 0.59 for channels cutting into basaltic lava flows on the island of Kauai. However, other parameter values have also been found. For example, Crosby and Whipple (2006) found m> 1 for a catchment in New Zealand containing many waterfalls (assumed to be knickpoints propagating upstream), while Seidl et al. (1994) found b ∼1.1–2.1 for channels incising basaltic lava flows on the Hawaiian islands. The slope exponent n is commonly assumed to be unity, although it has been observed to vary on Earth (e.g., Harel et al., 2016).\nThe dependence of erosion rate on height for a conical landform with a constant planform area A can be determined by differentiating equation (2),\n𝜕E 𝜕h = c h(A + 𝜋h2)\n( h√\nA\n)n ( h2 + A\n𝜋\n)b∕2 ( An + 𝜋h2(b + n) ) . (3)\nThis equation suggests that erosion rate goes up as h increases, regardless of b and n.\nThe dependence of erosion rate on planform area is more complicated, due to the presence of A in the numerator of Ad and denominator of S when equation (1) is parameterized for conical landforms. We find that\n𝜕E 𝜕A = − c h n 2𝜋b∕2A1+n∕2 ( A + 𝜋h2 )b∕2−1 ( A(n − b) + n𝜋h2 ) . (4)\nIf b> n, 𝜕E∕𝜕A is positive for A < 𝜋nh2∕(b − n) and negative for larger A, defining parameter regions in which either drainage area and slope terms in equation (2) dominate as planform area increases. If b ≤ n, 𝜕E∕𝜕A is uniformly negative so that erosion rate always decreases with increasing planform area, although 𝜕E∕𝜕A exhibits an inflection around the same point as for b> n.\nBoth regimes are illustrated in Figure 6, plotting contours of constant erosion rate (with constant c = 6.5 × 10−4 taken to equal the stream power erodibility constant found by fitting channel profiles from a basaltic landscape; Seidl et al., 1994) as a function of A and h. The two panels separate the effects of varying exponents b and n. Gray shading reflects the range of volcanic landforms from our database (Figure 5). Red curves are for the conventional choices of m = 0.5, n = 1, and p = 1.6 (Perron et al., 2008; Whipple & Tucker, 1999). These choices result in uniformly decreasing erosion rate of landforms with increasing planform areas. However, little drainage network scaling data specific to volcanic landforms has been assembled. And detailed assessment\nKARLSTROM ET AL. 1720\nof geometric form likely must account for mechanics of landform construction, which is outside the scope of this work.\nVolcanic landforms are not generally observed above the curve A = 𝜋nh2∕(b − n) (a 30∘ angle of repose falls below this line, Figure 6). This likely reflects the greater gravitational potential energy costs of adding height versus area during construction of small landforms. Stratovolcanoes, laccoliths, and cinder cones all uniformly approach this limit, consistent both with their localized emplacement and a prolonged history dominated by construction versus erosion.\nObservation of a second population of landforms in Figure 5, volcanic deposits with large planform areas A and small thickness h, suggests that slope and drainage area exponents in equation (2) satisfy b ≤ n (such as do the “conventional” values of p = 1.6,m∕n = 0.5) so that erosion rate decreases with increasing planform area in equation (4). This reduction in relief as area grows increases the preservation potential of areally extensive magmatism: if landscape erosion rate is constant, large magmatic landforms would be preferentially preserved relative to small ones. Although erodibility and climate certainly do vary in time and space, the observed distributions of magmatic landforms are reinforced by basic geometric dependencies of typical erosion laws."
+  }, {
+    "heading": "6. Discussion",
+    "text": "The landform data presented in sections 2–4 are expressed as empirical PDFs of landform area and height (Figures 3, 4), representing a range of volcanic processes. Summarized by the box plots in Figure 7, we see a remarkable range in both planform area (>10 orders of magnitude) and landform thickness (>6 orders of magnitude) that exhibits systematic variation between styles of magmatic construction. Landform PDFs also describe the likelihood for occurrence of a given landform height as a function of area affected by intrusions, volcanic edifices built around vents, and volcanic eruption deposits that travel away from the vent. Each of these processes itself is highly episodic. Although they all represent the later stages of magma transfer from the mantle, there are different physical controls on the occurrence of each class of volcanism that may vary with tectonic setting (Wilkinson et al., 2009). It is not the goal of this work to assess these physical controls; however, the distributions themselves provide a tool for comparing classes of magmatic events.\nIt is important to note that our compilation is hardly comprehensive and may contain some systematic biases. For example, small volume landforms are often super imposed on a background slope, whose influence on areas and topographic relief are not assessed here. In any given long-lived volcanic province, thousands of vents and individual eruptions are generally produced per million years (Hildreth, 2007), dwarfing the present data set. Burial and incomplete preservation limit the completeness to which the dynamic evolution\nKARLSTROM ET AL. 1721\nof volcanism may be characterized by surface landforms alone. We have attempted to assemble a representative compilation that spans the range of observed areas and landform heights, with enough samples to define the structure of the underlying distributions. With such distributions we can begin to ask process-oriented questions.\nFor example, the PDF for laccoliths exhibits a larger mean area than that of lava flows. Both of these features dominantly represent the mafic end of magma compositions, and a quantitative comparison of the PDFs is a crude proxy for the degree to which magma is stored in the shallow crust versus erupted. The ratio of median laccolith planform area to median lava flow area is 6.6, the ratio of median laccolith thickness to median lava flow thickness is 20, and the ratio of median laccolith volume (area times thickness) to median lava flow volume is 91.3. This range is consistent with global intrusion/extrusion ratio estimates of ∼2–100 based on petrology, stratigraphic mapping, and geophysical techniques (White et al., 2006).\nLikewise, we may seek to interpret the systematic differences in area and inferred uplift between intrusions measured with InSAR and geologic measurements of exposed laccoliths or forced folds. Our use of laccolith surfaces exposed by erosion to describe area likely underestimates the true planform area of past uplift, as there is no geological record of the flexural deformation of overlying rocks. This is reflected in Figure 3b, where the distribution of laccolith areas is smaller than surface deformation observed from InSAR. Another possible reason for the smaller average uplift areas inferred from laccolith measurements is that such shallow processes represent a small subset of the full InSAR data set, which includes larger volume changes at greater depths; for example, the growth of midcrustal magma bodies in the Central Andes (e.g., Pritchard & Simons, 2004; Ruch et al., 2008)."
+  }, {
+    "heading": "6.1. Competition Between Emplacement Rate and Erosion Rate",
+    "text": "As discussed in section 1, magmatic landform construction is inextricably linked to the episodic nature of magmatism because of the relationship between eruption frequency and volume of magmatic mass emplaced. Explosive eruptions are the only class of magmatism for which this relationship has been investigated deeply, so we will use these events as an example. The size and significance of an explosive eruption is typically quantified using the mass erupted, which is used to define eruption Magnitude M (Mason et al., 2004; Newhall & Self, 1982; Pyle, 2000) as\nM = log10 (mass erupted in kg) − 7. (5)\nSequences of eruptions typically exhibit a power law relationship between frequency of occurrence and magnitude from equation (5), and global magnitude-frequency relations have been assessed by a number of workers from the LaMEVE explosive eruption database used here. Recent maximum likelihood estimates for the return period of eruptions greater than M = 4 from the last 100 kyr (Rougier et al., 2018) show roughly a 10-fold increase in eruption recurrence rate for every 10-fold decrease in erupted mass (decrease by 1 of eruption magnitude). Eruptions at all magnitudes are likely underrepresented in the global catalog, arising from incomplete reporting, erosion, and burial by more recent eruptions (Brown et al., 2014). And for very large\nKARLSTROM ET AL. 1722\neruptions, the small number of recorded events makes recurrence rates more uncertain. Rougier et al. (2018) estimate the return period of M = 8 eruptions at 17 kyr with 95% confidence limits of +48 and −5.2 kyr, a decrease from prior calculations (Mason et al., 2004; Sheldrake & Caricchi, 2017).\nConsidering global lithologic maps of volcanic rock outcrops, Wilkinson et al. (2009) estimate that one third of the long-term decrease in the area of volcanic rocks at the Earth’s surface on Myr timescales or longer is due to erosion, while two thirds is due to burial by younger deposits. We hypothesized in section 5 that the erosion rate of magmatic landforms is set by their geometry (Figure 6). How does this scale to the landscape (or global) scale? Does the preservation of magmatic events depend on their style and magnitude/frequency relationship?\nThere are several challenges that must be overcome to test these ideas. First, the recurrence rate of extrusive magmatism varies with its style (Marzocchi & Zaccarelli, 2006). And there are few constraints on magnitude-frequency relations for intrusive magmatism, although mechanical considerations based on observed plutonic body sizes (Karlstrom et al., 2017) suggest phenomenological differences in the emplacement and growth rates of intrusions of different sizes. These are complications we cannot address with the current data set. A second obstacle is the lack of data on erodibility and more generally the functional form of erosion laws appropriate for volcanic landforms. We expect that the erodibility constant c in equation (2) will depend on style of magmatism as well as time since deposition (Jefferson et al., 2010) and precipitation (Ferrier et al., 2013).\nStill, since both planform area and height should influence magmatic landform erosion (section 5), we can make progress towards connecting construction to erosion by examining the influence of geometry on predicted erosion rates from equation (2). We normalize erosion rate by the empirical constant c that contains substrate erodibility k from equation (1) as well as the Hack’s law constant kd , removing the effects of climate and erodibility. In the spirit of simplicity, we choose conventional exponents b = 0.8 and n = 1 for the stream power fluvial erosion law as in Figure 6.\nThis normalized erosion rate is plotted in Figure 8 against landform mass 𝜌Ah∕3 (assuming a constant density of deposits 𝜌 = 2,700 kg/m3 with cone-like geometry), and the corresponding magnitude from equation (5). We fit the return periods calculated by Rougier et al. (2018) to a power law, from which we estimate the return period in years of explosive eruptions Tp as a function of magnitude\nlog 10(Tp) = (1.03 ± 0.05)M − (4.07 ± 0.30). (6)\nThis relation is used to produce the bottom blue axis, an estimate of the recurrence rates (and hence landscape construction rates) for one class of magmatism (explosive eruptions). Of course, the assumption of constant landform density is not uniformly valid, and magnitude-frequency relations derived for explosive eruptions may not extend to all styles of magmatism. For example, large-volume stratovolcanoes integrate multiple events over hundreds of kyr (Hildreth, 2007) whereas eruption deposits of similar mass from a large volume explosive eruption may represent a single eruptive episode. InSAR observations of uplift are excluded from this analysis, since the relationship between the volume of the uplifted area and the volume of the causal intrusion is complex.\nFigure 8 compares two geometrical representations of construction and erosion—deposit mass and erodibility—that motivate a mechanistic interpretation of A and h for different magmatic styles. Is such information sufficient to infer process regimes of volcanic landscape evolution? We argue that geometry, along with some consideration of magmatic style, can explain some first-order trends in the data set.\nFor example, the correlation between volume and erodibility exhibited by stratovolcanoes, cinder cones, and intrusions in Figure 8 is consistent with localized construction. Such landforms become more erodible as they grow in height and area (equations (3) and (4). The largest volume landforms reflect repeated construction events over extended time. However, departure from this geometrical trend for large volume single events (lava flows and explosive deposits) is evidence of something more complex (Figure 8).\nLarge eruptions (both effusive and explosive) deposit over continental scales, flattening topography. Very large explosive eruptions (>500-km3 erupted volumes, termed “super eruptions”) have not occurred in the historical record but have been documented to fill in landscapes, redirecting rivers and reorganizing drainage patterns (Manville, 2002; Wilson, 1991). Large effusive flood basalt eruptions also cover massive areas, although some landscapes remember preexisting drainage patterns long after flood basalt eruptions.\nKARLSTROM ET AL. 1723\nThis is the case for the ∼16 Ma Columbia River Basalts, USA (Reidel et al., 1989). Single eruptive events also affect global and local climate transiently and hence affect precipitation patterns (Self, 2006). On longer timescales, weathering of these landforms has been argued to influence the pCO2 forcing of global climate (e.g., Dessert et al., 2001). Figure 8 suggests that long-term erosional response is influenced by landform geometry: Effusive and explosive eruptive landforms get flatter as they get bigger even if landform heights increase slightly with volume, so overall slopes go down. As demonstrated by Figure 6, whether this translates into increased or decreased erodibility depends on the exponents b and n as well as the rate of landform height increase with area. The preservation of large eruptive deposits (particularly lava flows) suggests that the shape of these landforms promotes longevity by decreasing erodibility.\nThat smaller volume magmatic landforms exhibit a smaller range of normalized erosion rates than their larger counterparts (by a factor of more than 1,000) might be explained solely by different constructional processes. Edifice construction (which includes both extrusive deposits and intrusions) as well as purely intrusive landforms tend to be tightly organized around a spatial locus due to cooling-induced rheological lockup and/or low emplacement rates. Thus, erodibility of small landforms will be dominated by height changes. Because lava flows and explosive deposits tend to spread out, larger volume landforms exhibit both area- and slopedominated erosion up to the point (roughly A ∼ 102 –103 km2) where gravity limits landform height and average slopes fall below the angle of repose. Emplacement rate compared to erosion rate also may play a role. Smaller volume and more frequently occurring landforms of a single class (e.g., cinder cones and stratovolcanoes) exhibit lower geometric potential for erosion (Figure 8). This regime is commonly found on ocean islands, in monogenetic cones fields, and in arcs. Minimal surface erosion occurs during typical constructional phases that might last hundreds to thousands of kyr (Clague & Sherrod, 2014). Conversely, if small magmatic events occur in relative isolation, any lasting landscape impact must come from changes in erodibility rather than geometry as explored here.\nThe regime in which erosional processes operate on timescales similar to magmatic recurrence times is the most complicated, as surface dissection by rivers can compete with topographic infilling and smoothing by magmatism (Karlstrom & Perron, 2012). However, landscapes within this regime are not uncommon. For example, in the last few million years, the central Oregon Cascades, USA, have experienced numerous eruptions from Cascades volcanoes (dominantly Newberry Volcano). This has resulted in erosion rate variations and channel lateral migration of the Deschutes, Tumalo and Crooked rivers (Jensen et al., 2009; O’Connor et al.,\nKARLSTROM ET AL. 1724\n2003) as eruptions episodically fill in portions of the eroding landscape. More work characterizing the topographic signatures of such interactions, which likely contribute to the observed distributions of magmatic landform shape (Figures 3, 4), is needed."
+  }, {
+    "heading": "7. Conclusions and Future Directions",
+    "text": "Magmatism is largely outside the realm of traditional tectonic geomorphology, but the same tools that have been influential in connecting tectonics to climate should be applicable to volcanic settings. Magmatic provinces involve land surface uplift, the growth of topography through eruption, and uniquely magmatic changes to erodibility of landscapes that are comparable or larger than tectonic or climatic drivers (areas of ∼104 –108 km2, rates of ∼10−7 to 10−1 m/year, e.g., Braun, 2010; Wilkinson et al., 2009), over a large fraction of Earth’s land surface area (Figure 1). In these terrains, landscape form could evolve towards a state in which erosion is balanced by magmatic landscape construction, modulated but not necessarily controlled by tectonics.\nOur compilation of planform area and change in relief due to magmatic processes—intrusions, calderas, volcanic edifices, and eruption deposits—demonstrates that magmatic landform distributions are widely varying. Although this data set is among the most comprehensive of its kind, it is hardly complete. We expect future work will better define magmatic landform distributions and how they vary according to climatic regime and age.\nAside from expanding the observational data set, we see three critical components to future progress on this topic. First, work defining the processes involved in construction of and interactions between magmatic landforms will provide a basis for predicting land surface shape in the constructional regime. This includes studies of single events, such as the influence of topography on lava flow (Dietterich et al., 2015) and pyroclastic density current routing (Andrews & Manga, 2011), as well as prolonged construction associated with some laccolith inflation (Michaut, 2011), and edifice growth through time (Annen et al., 2001). We expect that distributions of magmatic landforms may vary with tectonic setting and mantle melt regime, because the style of volcanism does this to some extent (e.g., Hughes & Mahood, 2011).\nSecond, better quantification of magmatic landform erodibility, including the interaction between surface water and groundwater, is critical for predicting erosion of these landscapes. Explosive eruptions deposit variably consolidated sediment, some of which is easily eroded and contributes to enhanced erosion in downstream catchments. This large sediment load may generate river avulsions and delta formation downstream (Major et al., 2016). Explosive eruptions such as the 1980 event at Mount St. Helens (Major et al., 2000) and the 1991 Pinatubo eruption (Montgomery et al., 1999; ∼0.5 and ∼5 km3 erupted volume, respectively) resulted in enhanced erosion rates, which have continued for many years after the eruption. This has degraded the deposits, although channelization does tend to preserve isolated portions. The ∼50 km3 eruption of Crater Lake discussed in section 1, on the other hand, is still very well preserved in the near-vent region after ∼7 kyr (Robinson et al., 2017). High infiltration rates, increases in the requisite energy needed to move sediment, and reduction in regional surface slope after the Mazama edifice was blown apart may have contributed to reduced fluvial erosion. Pre-eruptive topography in general may play an important role in the geomorphic response following explosive eruptions.\nEffusive eruptions generally decrease erodibility, commonly armoring the land surface with dense, massive material with high infiltration capacity. In basaltic landscapes such as the high Cascades in Oregon and Washington, USA, fluvial erosion induced by overland flow only occurs when subsurface permeability is reduced, which generally takes hundreds of kyr (Jefferson et al., 2010). This transition can be much faster if external sources of sediment or water (e.g., glacially derived fine-grained sediments and outburst floods) are present (Deligne et al., 2013; Sweeney & Roering, 2017) and is modulated by the efficiency of chemical weathering (e.g., Murphy et al., 2016). Landscape evolution in layered stratigraphy (such as produced by volcanism) impacts landscape preservation potential, drainage network geometry and channel profiles (e.g., Duvall et al., 2004; Forte et al., 2016) on longer timescales.\nVariations in volcanic landscape evolution are likely coupled to the temporal evolution of deeper magmatism as well. For example, reservoirs feeding large-volume explosive eruptions may require 105 –106 years to assemble, as repeated emplacement of shallow intrusions (with associated small-volume eruptions) is likely required to thermally “prime” the crust before the building of large subsurface magma chambers is\nKARLSTROM ET AL. 1725\nmechanically viable (Karlstrom et al., 2017). Rare instances of repeated large-volume eruptions like this, such as has occurred on the Snake River Plain, USA, led to regional drainage patterns controlled by the progression of crustal-scale magmatic evolution (Wegmann et al., 2007). We hypothesize that general controls on the magnitude, frequency, and style of magmatism observed in long-lived volcanic provinces are tightly coupled to evolving surface topographic form.\nFinally, we expect that work refining the preservation potential of volcanic eruption deposits is possible using the approach outlined here. This is of fundamental importance for assessing volcanic hazards, and empirically characterizing the volcanic eruption cycle. We hypothesize that there are predictable limits to the completeness of the eruption record in a given volcanic province that depend on regional climate. Mechanistic consideration of competing erosion and volcanism should also help establish (or disprove) climate-volcanism connections over longer timescales (e.g., Huybers & Langmuir, 2009; Jellinek et al., 2004; Yanites & Kesler, 2015), where establishing a robust empirical link is challenging (Watt et al., 2013). Connecting climate to volcanism faces similar challenges as inferring paleo-climate from sedimentary sequences, since the record of eruptions used to establish rates of magmatism through time are subject to surface erosion and burial (preservation) that varies in time and space. Indeed, the more episodic nature of volcanism compared to sedimentation means that preservation biases (Sadler, 1981) could be even more pronounced."
+  }],
+  "year": 2018,
+  "references": [{
+    "title": "Effects of topography on pyroclastic density current runout and formation of coignimbrites",
+    "authors": ["B.J. Andrews", "M. Manga"],
+    "year": 2011
+  }, {
+    "title": "The long-term growth of volcanic edifices: numerical modelling of the role of dyke intrusion",
+    "authors": ["C. 1099–1102. Annen", "J.F. Lenat", "A. Provost"],
+    "year": 2001
+  }, {
+    "title": "The growth and erosion of cinder cones in Guatemala",
+    "authors": ["K. Bemis", "J. Walker", "A. Borgia", "B. Turrin", "M. Neri", "Swisher", "C. III"],
+    "venue": "shield volcanoes. Journal of Volcanology and Geothermal Research,",
+    "year": 2011
+  }, {
+    "title": "Global link between deformation and volcanic eruption",
+    "authors": ["J. Biggs", "S. Ebmeier", "W. Aspinall", "Z. Lu", "M. Pritchard", "R. Sparks", "T. Mather"],
+    "venue": "El Salvador: Models and statistics. Journal of Volcanology and Geothermal Research,",
+    "year": 2014
+  }, {
+    "title": "Global volcano monitoring: What does it mean when volcanoes",
+    "authors": ["J. Biggs", "M.E. Pritchard"],
+    "venue": "deform? Elements,",
+    "year": 2017
+  }, {
+    "title": "The influence of cooling, crystallisation and re-melting on the interpretation",
+    "authors": ["L. Caricchi", "J. Biggs", "C. Annen", "S. Ebmeier"],
+    "year": 2014
+  }, {
+    "title": "geodetic signals in volcanic systems",
+    "authors": ["J.M. Castro", "B. Cordonnier", "C.I. Schipper", "H. Tuffen", "T.S. Baumann", "Y. Feisel"],
+    "venue": "Earth and Planetary Science Letters,",
+    "year": 2016
+  }, {
+    "title": "Laccoliths: Mechanisms of emplacement and growth",
+    "authors": ["E. C"],
+    "venue": "Mountain region, Nevada. Journal of Geophysical Research,",
+    "year": 1988
+  }, {
+    "title": "History of Quaternary volcanism and lava dams",
+    "authors": ["R. Crow", "K.E. Karlstrom", "W. McIntosh", "L. Peters", "N. Dunbar"],
+    "venue": "Island, New Zealand. Geomorphology,",
+    "year": 2008
+  }, {
+    "title": "Primary volcanic landforms (2nd ed.)",
+    "authors": ["S. de Silva", "J.M. Lindsay"],
+    "year": 2015
+  }, {
+    "title": "Models of Hawaiian volcano growth and plume structure: Implications of results from the Hawaii",
+    "authors": ["E.M. Stolper"],
+    "year": 1996
+  }, {
+    "title": "recent lava flows in the central Oregon Cascades, USA",
+    "authors": ["C. Dessert", "B. Dupŕe", "L.M. Francois", "J. Schott", "J. Gaillardet", "G. Chakrapani", "S. Bajpai"],
+    "year": 2001
+  }, {
+    "title": "Channel networks within lava flows: Formation, evolution, and implications for flow behavior",
+    "authors": ["K.V. Cashman"],
+    "year": 2014
+  }, {
+    "title": "Diverting lava flows in the lab",
+    "authors": ["H.R. Dietterich", "K.V. Cashman", "A.C. Rust", "E. Lev"],
+    "venue": "Journal of Geophysical Research: Earth Surface,",
+    "year": 2015
+  }, {
+    "title": "Glacial effects limiting mountain height",
+    "authors": ["D.L. Egholm", "S.B. Nielsen", "V.K. Pedersen", "J.E. Lesemann"],
+    "venue": "volcanoes. Journal of Geophysical Research: Solid Earth,",
+    "year": 2009
+  }, {
+    "title": "Surface uplift, uplift of rocks, and exhumation of rocks",
+    "authors": ["P.C. England", "P. Molnar"],
+    "venue": "river give a dam?Geological Society of America Bulletin,",
+    "year": 1990
+  }, {
+    "title": "Climatic control of bedrock river incision",
+    "authors": ["K. L", "K.L. Huppert", "J.T. Perron"],
+    "venue": "DEMs. Computers & Geosciences,",
+    "year": 2013
+  }, {
+    "title": "Magnitude and duration of surface uplift above the Socorro magma body. Geology",
+    "authors": ["N.J. Finnegan", "M.E. Pritchard"],
+    "venue": "tions to volcano geodesy. Geophysical Journal International,",
+    "year": 2009
+  }, {
+    "title": "emplacement and geodesy",
+    "authors": ["A. Geyer", "J. Marti"],
+    "venue": "Journal of Volcanology and Geothermal Research,",
+    "year": 2008
+  }, {
+    "title": "The convexity of hilltops",
+    "authors": ["G.K. Office. Gilbert"],
+    "venue": "Rocky Mountain Region,",
+    "year": 1909
+  }, {
+    "title": "The dynamics of lava flows",
+    "authors": ["R.W. Griffiths"],
+    "venue": "Annual Review of Fluid Mechanics,",
+    "year": 2000
+  }, {
+    "title": "Studies of longitudinal stream profiles in Virginia and Maryland",
+    "authors": ["J.T. 16. Hack"],
+    "venue": "Volcanology,",
+    "year": 1957
+  }, {
+    "title": "The new global lithological map database GLiM: A representation of rock properties at the Earth surface",
+    "authors": ["J. Hartmann", "N. Moosdorf"],
+    "venue": "Geochemistry, Geophysics, Geosystems,",
+    "year": 2012
+  }, {
+    "title": "The compositionally zoned eruption of 1912 in the Valley of Ten-Thousand Smokes, Katmai National Park, Alaska",
+    "authors": ["W. Hildreth"],
+    "venue": "Journal of Volcanology and Geothermal Research,",
+    "year": 1983
+  }, {
+    "title": "Quaternary magmatism in the Cascades—Geologic perspectives (Professional Paper 1744)",
+    "authors": ["W. Hildreth"],
+    "venue": "Menlo Park, CA: US Geological Survey",
+    "year": 2007
+  }, {
+    "title": "Distribution of melt beneath Mount St Helens and Mount Adams inferred from magnetotelluric data",
+    "authors": ["G.J. Hill", "T.G. Caldwell", "W. Heise", "D.G. Chertkoff", "H.M. Bibby", "Burgess", "M. K"],
+    "venue": "Nature Geoscience,",
+    "year": 2009
+  }, {
+    "title": "Cenozoic paleogeography of the central Mogollon Rim-southern Colorado Plateau region, Arizona, revealed by Tertiary gravel deposits, Oligocene to Pleistocene lava flows, and incised streams",
+    "authors": ["R.F. Holm"],
+    "venue": "Geological Society of America Bulletin,",
+    "year": 2001
+  }, {
+    "title": "Emplacement and assembly of shallow intrusions from multiple magma pulses, Henry Mountains, Utah",
+    "authors": ["E. Horsman", "S. Morgan", "M. de Saint-Blanquat", "G. Habert", "A. Nugent", "R.A. Hunter", "B. Tikoff"],
+    "venue": "Earth and Environmental Science Transactions of the Royal Society of Edinburgh,",
+    "year": 2009
+  }, {
+    "title": "Emplacement-related fabric and multiple sheets in the Maiden Creek sill, Henry Mountains, Utah, USA",
+    "authors": ["E. Horsman", "B. Tikoff", "S. Morgan"],
+    "venue": "Journal of Structural Geology,",
+    "year": 2005
+  }, {
+    "title": "Channel changes in badlands",
+    "authors": ["A.D. Howard", "G. Kerby"],
+    "venue": "Geological Society of America Bulletin,",
+    "year": 1983
+  }, {
+    "title": "Silicic calderas in arc settings: Characteristics, distributing, and tectonic controls",
+    "authors": ["G.R. Hughes", "G.A. Mahood"],
+    "venue": "Geological Society of America Bulletin,",
+    "year": 2011
+  }, {
+    "title": "The propagation of two-dimensional and axisymmetric viscous gravity currents over a rigid horizontal surface",
+    "authors": ["H.E. Huppert"],
+    "venue": "Journal of Fluid Mechanics,",
+    "year": 1982
+  }, {
+    "title": "Feedback between glaciation, volcanism, and atmospheric CO2",
+    "authors": ["P. Huybers", "C. Langmuir"],
+    "venue": "Earth and Planetary Science Letters,",
+    "year": 2009
+  }, {
+    "title": "The laccolith-stock controversy: New results from the southern Henry Mountains, Utah",
+    "authors": ["M.D. Jackson", "D.D. Pollard"],
+    "venue": "Geological Society of America Bulletin,",
+    "year": 1988
+  }, {
+    "title": "Coevolution of hydrology and topography on a basalt landscape in the Oregon Cascade range, USA",
+    "authors": ["A. Jefferson", "G.E. Grant", "S.L. Lewis", "S.T. Lancaster"],
+    "venue": "Earth Surface Processes and Landforms,",
+    "year": 2010
+  }, {
+    "title": "Controls on the hydrological and topographic evolution of shield volcanoes and volcanic ocean islands",
+    "authors": ["A.J. Jefferson", "K.L. Ferrier", "J.T. Perron", "R. Ramalho"],
+    "year": 2014
+  }, {
+    "title": "Did melting glaciers cause volcanic eruptions in eastern California? Probing the mechanics of dike formation",
+    "authors": ["A.M. Jellinek", "M. Manga", "M.O. Saar"],
+    "venue": "Journal of Geophysical Research,",
+    "year": 2004
+  }, {
+    "title": "Transatlantic distribution of the Alaskan",
+    "authors": ["B.J.L. Jensen", "S. Pyne-O’Donnell", "G. Plunkett", "D.G. Froese", "P.D.M. Hughes", "M Sigl"],
+    "venue": "White River Ash. Geology,",
+    "year": 2014
+  }, {
+    "title": "A field guide to Newberry Volcano, Oregon",
+    "authors": ["R.A. Jensen", "J.M. Donnelly-Nolan", "D. McKay"],
+    "venue": "Geological Society of America Field Guides,",
+    "year": 2009
+  }, {
+    "title": "Stress interaction between magma accumulation and trapdoor faulting on Sierra Negra volcano",
+    "authors": ["S. Jónsson"],
+    "venue": "Galápagos. Tectonophysics,",
+    "year": 2009
+  }, {
+    "title": "Organization of volcanic plumbing through magmatic lensing by magma chambers and volcanic edifices",
+    "authors": ["L. Karlstrom", "J. Dufek", "M. Manga"],
+    "venue": "Journal of Geophysical Research,",
+    "year": 2009
+  }, {
+    "title": "The role of magmatically driven lithospheric thickening on arc front migration",
+    "authors": ["L. Karlstrom", "Lee", "C.-T. A", "M. Manga"],
+    "venue": "Geochemistry, Geophysics, Geosystems,",
+    "year": 2014
+  }, {
+    "title": "A reverse energy cascade for crustal magma transport",
+    "authors": ["L. Karlstrom", "S.R. Paterson", "A.M. Jellinek"],
+    "venue": "Nature Geoscience,",
+    "year": 2017
+  }, {
+    "title": "Coupling between magmatic landscape construction and fluvial erosion on ocean islands, Hawaiian Volcanoes: From Source to Surface (pp. 52)",
+    "authors": ["L. Karlstrom", "J.T. Perron"],
+    "venue": "AGU Chapman Conference",
+    "year": 2012
+  }, {
+    "title": "Caldera size modulated by the yield stress within a crystal-rich magma reservoir",
+    "authors": ["L. Karlstrom", "M.L. Rudolph", "M. Manga"],
+    "venue": "Nature Geoscience,",
+    "year": 2012
+  }, {
+    "title": "The effect of pressurized magma chamber growth on melt migration and pre-caldera vent locations through time at Mount Mazama, Crater Lake, Oregon",
+    "authors": ["L. Karlstrom", "H.M. Wright", "C.R. Bacon"],
+    "venue": "Earth and Planetary Science Letters,",
+    "year": 2014
+  }, {
+    "title": "Monogenetic basaltic volcanoes: Genetic classification, growth, geomorphology and degradation",
+    "authors": ["G. Kereszturi", "K. Németh"],
+    "year": 2012
+  }, {
+    "title": "Stratigraphy, paleomagnetism, and anisotropy of magnetic susceptibility of the Miocene Stanislaus Group, central Sierra Nevada and Sweetwater Mountains",
+    "authors": ["N.M. King", "J.W. Hillhouse", "S. Gromme", "B.P. Hausback", "C.J. Pluhar"],
+    "venue": "California and Nevada. Geosphere,",
+    "year": 2007
+  }, {
+    "title": "Hillslope process-response models based on the continuity equation",
+    "authors": ["M.J. Kirkby"],
+    "venue": "Institute of British Geographers, Special Publication,",
+    "year": 1971
+  }, {
+    "title": "Geomorphology of subglacial volcanoes in the Azas Plateau, the Tuva Republic",
+    "authors": ["G. Komatsu", "S.G. Arzhannikov", "A.V. Arzhannikova", "K. Ershov"],
+    "venue": "Russia. Geomorphology,",
+    "year": 2007
+  }, {
+    "title": "The stream power river incision model: Evidence, theory and beyond",
+    "authors": ["D. Lague"],
+    "venue": "Earth Surface Processes and Landforms,",
+    "year": 2014
+  }, {
+    "title": "Evolution of unrest at Laguna del Maule volcanic field (Chile) from InSAR and GPS measurements",
+    "authors": ["H. Le Mével", "K.L. Feigl", "L. Córdova", "C. DeMets", "P. Lundgren"],
+    "venue": "Geophysical Research Letters,",
+    "year": 2015
+  }, {
+    "title": "The rise and fall of continental arcs: Interplays between magmatism, uplift, weathering, and climate",
+    "authors": ["Lee", "C.-T. A", "S. Thurner", "S. Paterson", "W. Cao"],
+    "venue": "Earth and Planetary Science Letters,",
+    "year": 2015
+  }, {
+    "title": "Paricutín: The volcano born in a cornfield",
+    "authors": ["J.F. Luhr", "T. Simkin"],
+    "year": 1993
+  }, {
+    "title": "Structure and dynamics of surface uplift induced by incremental sill emplacement",
+    "authors": ["C. Magee", "I.D. Bastow", "B. van Wyk de Vries", "C.A.L. de Vries", "C.A.L. Jackson", "R Hetherington"],
+    "year": 2017
+  }, {
+    "title": "Lateral magma flow in mafic sill complexes",
+    "authors": ["C. Magee", "J.D. Muirhead", "A. Karvelas", "S.P. Holford", "C.A. Jackson", "Bastow", "I. D"],
+    "venue": "Geosphere,",
+    "year": 2016
+  }, {
+    "title": "Increased rates of large-magnitude explosive eruptions in Japan in the late Neogene and Quaternary",
+    "authors": ["S.H. Mahoney", "R.S.J. Sparks", "L.M. Wallace", "L. Engwell", "E.M. Scourse", "Baranrd", "N. H"],
+    "year": 2016
+  }, {
+    "title": "Extraordinary sediment delivery and rapid geomorphic response following the 2008-2009 eruption Chautén Volcano, Chile",
+    "authors": ["J.J. Major", "D. Bertin", "T.C. Pierson", "A. Amigo", "A. Iroumé", "H. Ulloa", "J. Castro"],
+    "venue": "Water Resources Research,",
+    "year": 2016
+  }, {
+    "title": "Sediment yield following severe volcanic disturbance - a two-decade perspective from Mount St",
+    "authors": ["J.J. Major", "T.C. Pierson", "R.L. Dinehart", "J.E. Costa"],
+    "venue": "Helens. Geology,",
+    "year": 2000
+  }, {
+    "title": "Sedimentary and geomorphic responses to ignimbrite emplacement: Readjustment of the Waikato River after the AD 181 Taupo eruption, New Zealand",
+    "authors": ["V. Manville"],
+    "venue": "The Journal of Geology,",
+    "year": 2002
+  }, {
+    "title": "A quantitative model for the time-size distribution of eruptions",
+    "authors": ["W. Marzocchi", "L. Zaccarelli"],
+    "venue": "Journal of Geophysical Research,",
+    "year": 2006
+  }, {
+    "title": "The size and frequency of the largest explosive eruptions on Earth",
+    "authors": ["B.G. Mason", "D.M. Pyle", "C. Oppenheimer"],
+    "venue": "Bulletin of Volcanology,",
+    "year": 2004
+  }, {
+    "title": "Development of topographic asymmetry: Insights from dated cinder cones in the western United States",
+    "authors": ["L.A. McGuire", "J.D. Pelletier", "J.J. Roering"],
+    "venue": "Journal of Geophysical Research: Earth Surface,",
+    "year": 2014
+  }, {
+    "title": "Dynamics of magmatic intrusions in the upper crust: Theory and applications to laccoliths on Earth and the Moon",
+    "authors": ["C. Michaut"],
+    "venue": "Journal of Geophysical Research,",
+    "year": 2011
+  }, {
+    "title": "Plutonism at different crustal levels: Insights",
+    "authors": ["R.B. Miller", "S.R. Patterson", "J.P. Matzel"],
+    "year": 2009
+  }, {
+    "title": "Relations between the eruptions of various volcanoes and the deformations of the ground surfaces around them",
+    "authors": ["K. Mogi"],
+    "venue": "Bulletin of the Earthquake Research Institute,",
+    "year": 1958
+  }, {
+    "title": "Slope distributions, threshold hillslopes, and steady-state topography",
+    "authors": ["D.R. Montgomery"],
+    "venue": "American Journal of Science,",
+    "year": 2001
+  }, {
+    "title": "Landscape dissection and drainage area-slope thresholds",
+    "authors": ["D.R. Montgomery", "W.E. Dietrich"],
+    "year": 1994
+  }, {
+    "title": "Channel-bed mobility response to extreme sediment loading at Mount Pinatubo",
+    "authors": ["D.R. Montgomery", "M.S. Panfil", "S.K. Hayes"],
+    "year": 1999
+  }, {
+    "title": "On the absence of InSAR-detected volcano deformation spanning the 1995–1996 and 1999 eruptions of Shishaldin Volcano, Alaska",
+    "authors": ["S. Moran", "O. Kwoun", "T. Masterlark", "Z. Lu"],
+    "venue": "Journal of Volcanology and Geothermal Research,",
+    "year": 2006
+  }, {
+    "title": "Chemical weathering as a mechanism for the climatic control of bedrock river incision",
+    "authors": ["B.P. Murphy", "J.P.L. Johnson", "N.M. Gasparini", "L.S. Sklar"],
+    "year": 2016
+  }, {
+    "title": "The volcanic explosivity index (VEI): An estimate of explosive magnitude for historical volcanism",
+    "authors": ["C.G. Newhall", "S. Self"],
+    "venue": "Journal of Geophysical Research,",
+    "year": 1982
+  }, {
+    "title": "Geodetic and seismic constraints on recent activity at Long Valley Caldera, California: Evidence for viscoelastic rheology",
+    "authors": ["A.V. Newman", "T.H. Dixon", "G.I. Ofoegbu", "J.E. Dixon"],
+    "venue": "Journal of Volcanology and Geothermal Research,",
+    "year": 2001
+  }, {
+    "title": "Overview of the geology, hydrology, geomorphology, and sediment budget of the Deschutes River basin, Oregon",
+    "authors": ["J.E. O’Connor", "G.E. Grant", "T.L. Haluska"],
+    "venue": "Oregon (pp. 7–29),",
+    "year": 2003
+  }, {
+    "title": "Surface deformation due to shear and tensile faults in a half-space",
+    "authors": ["Y. Okada"],
+    "venue": "Bulletin of the Seismological Society of America,",
+    "year": 1985
+  }, {
+    "title": "Scaling laws of the size-distribution of monogenetic volcanoes within the Michoacán-Guanajuato volcanic field (Mexico)",
+    "authors": ["R. Pérez-López", "D. Legrand", "V.H.G. no Monroy", "M.A. Rodríguez-Pascua", "J.L. Giner-Robles"],
+    "venue": "Journal of Volcanology and Geothermal Research,",
+    "year": 2011
+  }, {
+    "title": "Topographic constraints on magma accumulation below the actively uplifting Uturuncu and Lazufre volcanic centers in the Central Andes",
+    "authors": ["J.P. Perkins", "N.J. Finnegan", "S.T. Henderson", "T.M. Rittenour"],
+    "year": 2016
+  }, {
+    "title": "Surface uplift in the Central Andes driven by growth of the Altiplano",
+    "authors": ["J.P. Perkins", "K.M. Ward", "S.L. de Silva", "G. Zandt", "S.L. Beck", "N.J. Finnegan"],
+    "venue": "Puna Magma Body. Nature Communications,",
+    "year": 2016
+  }, {
+    "title": "Spectral signatures of characteristic spatial scales and nonfractal structures in landscapes",
+    "authors": ["J.T. Perron", "J.W. Kirchner", "W.E. Dietrich"],
+    "venue": "Journal of Geophysical Research,",
+    "year": 2008
+  }, {
+    "title": "The effect of edifice load on magma ascent beneath a volcano",
+    "authors": ["V. Pinel", "C. Jaupart"],
+    "venue": "Philosophical Transaction of the Royal Society of London A,",
+    "year": 2000
+  }, {
+    "title": "Volcanology: Lessons learned from synthetic aperture radar imagery",
+    "authors": ["V. Pinel", "M.P. Poland", "A. Hooper"],
+    "venue": "Journal of Volcanology and Geothermal Research,",
+    "year": 2014
+  }, {
+    "title": "Mechanics of growth of some laccothic intrusions in the Henry Mountains",
+    "authors": ["D.D. Pollard", "A.M. Johnson"],
+    "venue": "Utah. Tectonophysics,",
+    "year": 1973
+  }, {
+    "title": "An InSAR-based survey of volcanic deformation in the central Andes",
+    "authors": ["M. Pritchard", "M. Simons"],
+    "venue": "Geochemistry, Geophysics, Geosystems,",
+    "year": 2004
+  }, {
+    "title": "The sizes of volcanic eruptions",
+    "authors": ["D.M. Pyle"],
+    "venue": "Encyclopedia of Volcanoes (pp. 263–269)",
+    "year": 2000
+  }, {
+    "title": "The Columbia River Flood Basalt Province: Stratigraphy, areal extent, volume, and physical volcanology",
+    "authors": ["S.P. Reidel", "V.E. Camp", "T.L. Tolan", "B.S. Martin"],
+    "venue": "Geological Society of America Special Papers,",
+    "year": 2013
+  }, {
+    "title": "The Grande Ronde Basalt, Columbia River Basalt Group; stratigraphic descriptions and correlations in Washington, Oregon, and Idaho",
+    "authors": ["S.P. Reidel", "T.L. Tolan", "P.R. Hooper", "M.H. Beeson", "K.R. Fecht", "R.D. Bentlyey", "J.L. Anderson"],
+    "venue": "Geological Society of America Special Paper,",
+    "year": 1989
+  }, {
+    "title": "Magma compressibility and the missing source for some dike intrusions",
+    "authors": ["E. Rivalta", "P. Segall"],
+    "venue": "Geophysical Research Letters,",
+    "year": 2008
+  }, {
+    "title": "Surface morphology of caldera-forming eruption deposits revealed by lidar mapping of Crater Lake National Park, Oregon - implications for deposition and surface modification",
+    "authors": ["J.E. Robinson", "C.R. Bacon", "J.J. Major", "H.M. Wright", "J.W. Vallance"],
+    "venue": "Journal of Volcanology and Geothermal Research,",
+    "year": 2017
+  }, {
+    "title": "The global magnitude-frequency relationship for large explosive volcanic eruptions",
+    "authors": ["J. Rougier", "R.S.J. Sparks", "K.V. Cashman", "S.K. Brown"],
+    "venue": "Earth and Planetary Science Letters,",
+    "year": 2018
+  }, {
+    "title": "Caldera-scale inflation of the Lazufre volcanic area, South America: Evidence from InSAR",
+    "authors": ["J. Ruch", "J. Anderssohn", "T. Walter", "M. Motagh"],
+    "venue": "Journal of Volcanology and Geothermal Research,",
+    "year": 2008
+  }, {
+    "title": "Sediment accumulation rates and the completeness of stratigraphic sections",
+    "authors": ["P.M. Sadler"],
+    "venue": "The Journal of Geology,",
+    "year": 1981
+  }, {
+    "title": "Mechanisms and duration of non-tectonically assisted magma emplacement in the upper crust: The Black Mesa pluton, Henry Mountains",
+    "authors": ["M. Saint-Blanquat", "G. Habert", "E. Horsman", "S.S. Morgan", "B. Tikoff", "P. Launeau", "G. Gleizes"],
+    "venue": "Utah. Tectonophysics,",
+    "year": 2006
+  }, {
+    "title": "Holocene volcanism in the coterminus United States and the role of silicic volcanic ash layers in correlation of latest-Pleistocene and Holocene deposits",
+    "authors": ["A.M. Sarna-Wojcicki", "D.E. Champion", "J.O. Davis"],
+    "venue": "Late-Quaternary environments of the United States (Vol",
+    "year": 1983
+  }, {
+    "title": "Geology of the Lunar Crater volcanic field, Nye County, Nevada. U.S. Geological Survey Professional Paper, 599(I)",
+    "authors": ["D.H. Scott", "N.J. Trask"],
+    "year": 1971
+  }, {
+    "title": "Earthquake and volcano deformation",
+    "authors": ["P. Segall"],
+    "venue": "New Jersey: Princeton",
+    "year": 2010
+  }, {
+    "title": "Repressurization following eruption from a magma chamber with a viscoelastic aureole",
+    "authors": ["P. Segall"],
+    "venue": "Journal of Geophysical Research: Solid Earth,",
+    "year": 2016
+  }, {
+    "title": "Longitudinal profile development into bedrock: An analysis of Hawaiian channels",
+    "authors": ["M.A. Seidl", "W.E. Dietrich", "J.W. Kirchner"],
+    "venue": "The Journal of Geology,",
+    "year": 1994
+  }, {
+    "title": "The effects and consequences of very large explosive volcanic eruptions",
+    "authors": ["S. Self"],
+    "venue": "Philosophical Transactions of the Royal Society of London. Series A, Mathematical and Physical Sciences,",
+    "year": 2006
+  }, {
+    "title": "The structure and emplacement of cinder cone fields",
+    "authors": ["M. Settle"],
+    "venue": "American Journal of Science,",
+    "year": 1979
+  }, {
+    "title": "Regional variability in the frequency and magnitude of large explosive volcanic eruptions",
+    "authors": ["T. Sheldrake", "L. Caricchi"],
+    "venue": "Geology,",
+    "year": 2017
+  }, {
+    "title": "Segmented lateral dyke growth in a rifting event at Bardarbunga volcanic system, Iceland",
+    "authors": ["F. Sigmundsson", "A. Hooper", "S. Hreinsdóttir", "K.S. Vogfjörd", "B.G. Ófeigsson", "Heimisson", "E. R"],
+    "year": 2015
+  }, {
+    "title": "Three-dimensional gravity analysis of the Kiglapait layered intrusion, Labrador",
+    "authors": ["R. Stephenson", "M.D. Thomas"],
+    "venue": "Canadian Journal of Earth Sciences,",
+    "year": 1979
+  }, {
+    "title": "Deglaciation and glacial erosion: a joint control on magma productivity by continental unloading",
+    "authors": ["P. Sternai", "L. Caricchi", "S. Castelltort", "J.D. Champagnac"],
+    "venue": "Geophysical Research Letters,",
+    "year": 2016
+  }, {
+    "title": "Valley incision by debris flows: Evidence of a topographic signature",
+    "authors": ["J. Stock", "W.E. Dietrich"],
+    "venue": "Water Resources Research,",
+    "year": 2003
+  }, {
+    "title": "Rapid fluvial incision of a late Holocene lava flow: Insights from LiDAR, alluvial stratigraphy, and numerical modeling",
+    "authors": ["K.E. Sweeney", "J.J. Roering"],
+    "venue": "Geological Society of America Bulletin,",
+    "year": 2017
+  }, {
+    "title": "Spatial distribution and structural analysis of vents",
+    "authors": ["A. 1029/2017JF004369 Tadini", "F.L. Bonali", "C. Corazzato", "J.A. Cortes", "A. Tibaldi", "G.A. Valentine"],
+    "year": 2014
+  }, {
+    "title": "Volcanic geomorphology—An overview",
+    "authors": ["B. van Wyk de Vries", "A. Márquez", "R. Herrera", "J.L.G. Bruna", "P. Llanes", "A. Delcamp"],
+    "venue": "Lunar Crater Volcanic Field (Nevada, USA). Bulletin of Volcanology,",
+    "year": 1999
+  }, {
+    "title": "Koolau dyke complex, Oahu: intensity and origin of a sheeting-dyke complex high in a Hawaiian volcanic edifice",
+    "authors": ["L.G. P"],
+    "venue": "bulging and uplift of volcanoes. Bulletin of Volcanology,",
+    "year": 1986
+  }, {
+    "title": "The volcanic response to deglaciation: Evidence from glaciated arcs and a reassessment",
+    "authors": ["S.F.L. Watt", "D.M. Pyle", "T.A. Mather"],
+    "year": 2013
+  }, {
+    "title": "Geomorphic consequences of volcanic eruptions in Alaska: A review",
+    "authors": ["K.W. Wegmann", "B.D. Zurek", "C.A. Regalla", "D. Bilardello", "J.L. Wollenberg", "Kopczynski", "S. E"],
+    "venue": "Spurr volcanic complex, Alaska. Geomorphology,",
+    "year": 2015
+  }, {
+    "title": "River incision into bedrock: Mechanics and relative efficacy of plucking, abrasion",
+    "authors": ["K.X. 272–281. Whipple", "G.S. Hancock", "R.S. Anderson"],
+    "year": 2000
+  }, {
+    "title": "Global geologic maps are tectonic speedometers—Rates",
+    "authors": ["B.H. Wilkinson", "B.J. McElroy", "S.E. Kesler", "S.E. Peters", "E.D. Rothman"],
+    "venue": "Geosystems,",
+    "year": 2009
+  }, {
+    "title": "rock cycling from area-age frequencies",
+    "authors": ["A. C"],
+    "venue": "Geological Society of America Bulletin,",
+    "year": 1980
+  }, {
+    "title": "Deformation from inflation of a dipping finite prolate spheroid in an elastic half-space",
+    "authors": ["Yang", "X.-M", "P.M. Davis", "J.H. Dieterich"],
+    "year": 1988
+  }],
+  "id": "SP:56da51a16395abdf29078f68e2cf943f4f53ef15",
+  "authors": [{
+    "name": "Leif Karlstrom",
+    "affiliations": []
+  }, {
+    "name": "Paul W. Richardson",
+    "affiliations": []
+  }, {
+    "name": "Daniel O’Hara",
+    "affiliations": []
+  }, {
+    "name": "Susanna K. Ebmeier",
+    "affiliations": []
+  }],
+  "abstractText": "Magmatism is an important driver of landscape adjustment over ∼10% of Earth’s land surface, producing 103to 106-km2 terrains that often persistently resurface with magma for 1–10 s of Myr. Construction of topography by magmatic intrusions and eruptions approaches or exceeds tectonic uplift rates in these settings, defining regimes of landscape evolution by the degree to which such magmatic construction outpaces erosion. We compile data that span the complete range of magmatism, from laccoliths, forced folds, and InSAR-detected active intrusions, to explosive and effusive eruption deposits, cinder cones, stratovolcanoes, and calderas. Distributions of magmatic landforms represent topographic perturbations that span >10 orders of magnitude in planform areas and >6 orders of magnitude in relief, varying strongly with the style of magmatism. We show that, independent of erodibility or climate considerations, observed magmatic landform geometry implies a wide range of potential for erosion, due to trade-offs between slope and drainage area in common erosion laws. Because the occurrence rate of magmatic events varies systematically with the volume of material emplaced, only a restricted class of magmatic processes is likely to directly compete with erosion to shape topography. Outside of this range, magmatism either is insignificant on landscape scales or overwhelms preexisting topography and acts to reset the landscape. The landform data compiled here provide a basis for disentangling competing processes that build and erode topography in volcanic provinces, reconstructing timing and volumes of volcanism in the geologic record, and assessing mechanical connections between climate and magmatism. Plain Language Summary Growth of topography through magmatic processes, including volcanic eruptions and shallow intrusions, is largely outside the realm of traditional tectonic geomorphology. However, terrains in which magmatic processes occur persistently for ones to tens of millions of years occupy about 10% of the Earth’s land surface area. In these terrains, landscape form will reflect a competition between erosion and magmatic landscape construction, modulated but not necessarily controlled by tectonics. We compile an extensive database of magmatic landforms to quantify the variability in magmatic landform shape for different styles of magmatism, both eruptive and intrusive. By considering the rate at which magmatic landforms of a given volume are produced and the dependence of typical erosion processes on landform geometry, our results provide a quantitative basis for understanding the potential for magmatism to shape landscapes, influence erosion patterns, and be preserved in the geologic record.",
+  "title": "Magmatic Landscape Construction"
+}

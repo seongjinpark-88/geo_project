@@ -1,0 +1,417 @@
+{
+  "sections": [{
+    "text": "2 ) distribution is simulated with the global transport model Goddard Earth Observing System (GEOS)-Chem. The simulated time series of sulfate aerosol optical depth (AOD) above 10 km captures every eruptive volcanic sulfate perturbation with a similar magnitude to that measured by Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observation (CALIPSO). The 8 year average contribution of eruptive SO4 2 to total SO4 2 loading above 10 km is ~10% over most areas of the Northern Hemisphere, with a maxima of 30% in the tropics where the anthropogenic emissions are relatively smaller. The persistently degassing volcanic SO4\n2 in the tropics barely reaches above 10 km, but in the lower atmosphere it is regionally dominant (60%+ in terms ofmass) over Hawaii and other oceanic areas northeast of Australia. Although the 7 year average (2005–2011) of eruptive volcanic sulfate forcing of 0.10Wm 2 in this study is comparable to that in the 2013 IPCC report ( 0.09Wm 2), significant discrepancies exist for each year. Our simulations also imply that the radiative forcing per unit AOD for volcanic eruptions can vary from 40 to 80Wm 2, much higher than the 25Wm 2 implied in the IPCC calculations. In terms of sulfate forcing efficiency with respect to SO2 emission, eruptive volcanic sulfate is 5 times larger than anthropogenic sulfate. The sulfate forcing efficiency from degassing volcanic sources is close to that of anthropogenic sources. This study highlights the importance of characterizing both volcanic emission amount and injection altitude aswell as the key role of satellite observations inmaintaining accurate volcanic emissions inventories."
+  }, {
+    "heading": "1. Introduction",
+    "text": "Large volcanic eruptions are not only known as significant hazards to aviation and health but also important contributors to the climate’s natural variability [Carn et al., 2009; Miller and Casadevall, 2000; Hansell and Oppenheimer, 2004; Robock, 2000; Schmidt et al., 2011, 2012]. In the troposphere, sulfur compounds accelerate the oxidation of metals, and volcanic sulfate aerosol has been implicated in some aviation incidents [Fisher et al., 2011; Miller and Casadevall, 2000]. In the stratosphere, volcanic sulfate aerosol can remain for months and even years, depending on the SO2 injection altitude, total mass loading, latitudes, and dispersion pattern [Krotkov et al., 2010; Wang et al., 2013]. Graf et al. [1997] concluded that volcanic sulfur emissions are at least as important as anthropogenic sulfur emissions with regard to the global sulfur cycle and their contribution to the radiative forcing of climate. Major explosive volcanic eruptions have been the subject of intensive investigation for several decades [Robock, 2000]. Recently, estimating the atmospheric and climatic effects from moderate eruptive volcanoes and persistently degassing volcanoes is becoming a greater interest to the geosciences community [Chin and Jacob, 1996; Graf et al., 1997, 1998; Stevenson et al., 2003; Mather et al., 2003; Textor et al., 2004; Gasso, 2008; Yuan et al., 2011; Oppenheimer et al., 2011].\nGE ET AL. OMI-BASED VOLCANIC EMISSION AND FORCING 3446\nSupporting Information: • Supporting Information S1\nCorrespondence to: J. Wang, jwang7@unl.edu\nCitation: Ge, C., J. Wang, S. Carn, K. Yang, P. Ginoux, and N. Krotkov (2016), Satellite-based global volcanic SO2 emissions and sulfate direct radiative forcing during 2005–2012, J. Geophys. Res. Atmos., 121, 3446–3464, doi:10.1002/2015JD023134.\nReceived 21 JAN 2015 Accepted 9 MAR 2016 Accepted article online 14 MAR 2016 Published online 4 APR 2016\n©2016. American Geophysical Union. All Rights Reserved.\nPrevious evaluations with satellite, airborne, and ground-based observations [Wang et al., 2013; Haywood et al., 2010; Webster et al., 2012] found significant uncertainties in global climate models for simulating volcanic SO2 and sulfate cloud dispersal. The key uncertainty arises from the specification of the time-variant volcanic emissions amount and injection altitude. In particular, the lack of observation-based characterization of SO2 injection altitude has led to various discrepancies in the quantification of volcanic sulfate aerosols’ climatic effect [Wang et al., 2013; Devenish et al., 2012; Robock, 2000]. The volcanic sulfate aerosols usually inject to higher altitudes compared with anthropogenic sulfate aerosols, so they are expected to be more efficient at exerting a global forcing (in terms forcing per unit emission). Persistently degassing volcanic emissions also could have long-term effects on the atmospheric composition and climate, especially at the regional scale. Hence, quantifications of volcanic emissions and the radiative effects of both eruptive and persistently degassing volcanoes are desirable toward an improved understanding of climate variability [Graf et al., 1997; Robock, 2000].\nThe aim of this work is to model volcanic SO4 2 distribution and contribution and quantify the corresponding radiative forcing for 2005–2012. A new satellite-based volcanic SO2 emission data set is introduced in this study. It includes both global volcanic eruptions and eight persistently degassing volcanoes in the tropical region. To characterize its range of uncertainty, we compare the new volcanic inventory and the volcanic sulfate forcing with some previous studies. In section 2, we describe the configuration of Goddard Earth Observing System (GEOS)-Chem CTM (chemical transport model), the method for the aerosol radiative forcing calculations, and the CALIPSO (Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observation) satellite observation data used for model evaluation. In section 3, the new volcanic SO2 emissions are presented and compared with the available volcanic emission database, which is compiled for Aerosol Comparisons between Observations and Models or AeroCom. The simulation results for volcanic sulfate aerosol optical depth (AOD) and SO4\n2 vertical distribution are presented and compared with satellite data in section 4. The simulation results for sulfate aerosol forcing and forcing efficiency are given in section 5. Finally, a summary and discussion are provided in section 6."
+  }, {
+    "heading": "2. Methodology",
+    "text": ""
+  }, {
+    "heading": "2.1. GEOS-Chem Model and Radiative Forcing Calculations",
+    "text": "A global 3-D CTM (chemical transport model), GEOS-Chem [Bey et al., 2001a], is used to simulate the transport, deposition, oxidation, and other related chemistry processes of volcanic SO2. Themodel is driven by assimilated meteorological data from the GEOS-5 (Goddard Earth Observing System) at the NASA Global Modeling and Assimilation Office. In this study, GEOS-Chem version 9-01-03 (http://GEOS-Chem.org) is used at 2° × 2.5° resolution with GEOS-5 47-level 3-hourly meteorological fields. Anthropogenic emissions of CO, NOx, and SO2 in GEOS-Chem are used as default in the Emission Database for Global Atmospheric Research (EDGAR) 3.2-FT2000 global inventories (available for 1995–2000) [Olivier et al., 2005]. Global ammonia emissions are from the Global Emissions Inventory Activity for the 1990s [Bouwman et al., 1997]. A direct estimate of the emissions of many chemical species at global scale is not available for the very recent years, and emission is supposed to change along with economic development [Bey et al., 2001b]. So based on the year that the available emission inventory is estimated for, the emission for subsequent years is scaled according to the economic data, such as population, urbanization, and gross domestic product [van Donkelaar et al., 2008; Bey et al., 2001b; Park et al., 2004]. For example, NOx emissions for some countries are scaled proportionally to changes in total CO2 emissions that are obtained from the Carbon Dioxide Information Analysis Center.\nRegional emission estimates are used in GEOS-Chem [Benkovitz, et al., 1996], particularly for the U.S. (National Emissions Inventory), Canada (the Criteria Air Contaminants), Mexico (Big Bend Regional Aerosol and Visibility Observational Study Emissions Inventory), Europe (European Monitoring and Evaluation Programme-European anthropogenic emissions), and East Asia [Streets et al., 2006]. GEOS-Chem includes detailed HOx-NOx-VOCozone-BrOx tropospheric chemistry as originally described by Bey et al. [2001a]. GEOS-Chem includes all major sink terms for SO2 in the atmosphere, including oxidation by the hydroxyl radical (OH) in the gas phase and by ozone (O3) and hydrogen peroxide (H2O2) in the aqueous phase [Chin and Jacob, 1996; Alexander et al., 2009; Fisher et al., 2011; Wang et al., 2008a, 2008b].\nThe model configuration in this study is similar toWang et al. [2013]. To understand the volcanic contribution to global atmospheric sulfate loading and forcing, we performed three simulations in this study for different emission\nGE ET AL. OMI-BASED VOLCANIC EMISSION AND FORCING 3447\nscenarios, respectively, referred to as (a) baseline simulation with anthropogenic and both eruptive and persistently degassing volcanic emissions, (b) sensitivity-1 (S1) simulation with both eruptive and persistently degassing volcanic emissions, and (c) sensitivity-2 (S2) simulation with persistently degassing volcanic emissions only.\nOur radiative forcing calculation followsWang et al. [2008b, 2013] but with several improvements to increase computational efficiency and also produce a high degree of accuracy [Gu et al., 2011]. Particularly, new parameterizations for ice crystal effective size and single-scattering properties are included to represent more realistic radiative effects associated with cirrus clouds [Liou et al., 2008]. The calculation is based on the delta-four-stream approximation for atmospheric radiative transfer [Liou et al., 1988; Fu et al., 1997]. The cloud fraction overlap scheme is adopted from Gu et al. [2011], and cloud single-scattering properties are from Fu and Liou [1993]. The radiative transfer model, monthly mean surface reflectance data [Koelemeijer et al., 2003], and the simulated 3-D aerosol sulfate mass are employed for the forcing calculations [Fu and Liou, 1992; Wang et al., 2004; Gu et al., 2011]. The GEOS-Chem simulated volcanic sulfate mass is converted to AOD followingWang et al. [2008b] in which the hygroscopic effect on sulfate particle size and refractive index is considered. The difference between upwelling solar irradiances calculated in the presence and absence of sulfate aerosols is sulfate direct radiative forcing. In each grid cell, the forcing calculation is conducted every 6 h consistent with temporal resolution of the input cloud properties."
+  }, {
+    "heading": "2.2. CALIPSO Satellite Observation Data",
+    "text": "To evaluate themodel simulation of volcanic aerosols in the vertical direction, we comparemodel results with data from the Cloud-Aerosol Lidar withOrthogonal Polarization (CALIOP) instrument (http://www-calipso.larc.nasa.gov/) [Winker et al., 2010] aboard CALIPSO satellite launched in 2006. CALIOP is a two-wavelength (532 and 1064nm), polarization-sensitive (at 532 nm) lidar that measures atmospheric backscatter with a single-shot vertical and horizontal resolution of 30mand 333m, respectively. To fulfill feature finding and layer classification requirements, the current CALIPSO level 2 version 3 algorithm yields an aerosol profile product at a horizontal resolution of 5 km and vertical resolution of 60m under 20 km altitude [Vaughan et al., 2009]. In this study, the quality control flag in the CALIPSO level 2 product is used to ensure high-quality CALIPSO retrievals of aerosol layers for comparing volcanic sulfate aerosols from the GEOS-Chem simulations."
+  }, {
+    "heading": "3. New Database of Volcanic Emission Amount and Injection Altitude",
+    "text": ""
+  }, {
+    "heading": "3.1. OMI-Based Volcanic SO2 Emissions in This Study",
+    "text": "The new volcanic emission inventory for SO2 in this study is estimated by using the SO2 data retrieved from Ozone Monitoring Instrument (OMI) [Yang et al., 2010] and the U.S. Geological Survey Weekly Volcanic Activity Report and Bulletin of the Global Volcanism Network issued through the Smithsonian Institution Global Volcanism Program (GVP) (http://volcano.si.edu/) [e.g., Global Volcanism Program, 2005a, 2005b, 2006, 2007, 2008a, 2008b, 2009a, 2009b, 2011a, 2011b]. This OMI-based SO2 emissions inventory forms part of a larger, long-term volcanic SO2 emissions database derived from multiple satellite instruments since 1978 [Carn, 2015; Carn et al., 2015a], which is described in detail by Carn et al. [2015b]. Because the emissions data are less complete prior to the OMI mission [Carn et al., 2003, 2015b] and due to modeling limitations, our simulation focuses on the 8 year period from 2005 to 2012.\nTwo steps were taken to construct the OMI-based volcanic emissions inventory for 2005–2012. First, a database on the time and location of volcanic eruptions reported during 2005–2012 was created by compiling the information available from the GVPWeekly Report and Bulletin, and wherever possible, the corresponding values of volcanic plume height (and sometimes SO2 amount if available) were also included. Second, the total SO2 amount for each reported volcanic eruption (as listed in the database created in step 1) was estimated by using the SO2 data retrieved using the operational OMI SO2 algorithm [Yang et al., 2007] and, for larger eruptions, an offline iterative spectral fitting technique [Yang et al., 2010]. By combining the OMI SO2 measurements with additional information from other satellite instruments where available (see Carn et al. [2015b] for further details), the best estimate of total SO2 loading was derived. We briefly discuss the implementation of this inventory in GEOS-Chem as well as the limitation and uncertainties for this inventory below.\nIn the GEOS-Chem simulation, persistently degassing emissions are injected at the altitude of the volcanic crater, while eruptive emissions are divided evenly to each layer in the top third of the volcanic plume, as described in Chin et al. [2000]. Following other OMI volcanic case studies [Carn et al., 2008, 2013; Bani et al., 2009, 2012;\nGE ET AL. OMI-BASED VOLCANIC EMISSION AND FORCING 3448\nMcCormick et al., 2012; Hayer et al., 2010], emissions for persistently degassing volcanoes used in this work are given as daily SO2 mass loadings. For the volcanic eruptions, only total SO2 amount for each volcano event is available instead of time-variant emissions. We put the total SO2 amount on the first day of each eruption in the simulation. Various past studies have been conducted to convert mass loading of SO2 to the emission rate of SO2 [Campion, 2014; Campion et al., 2015; Carn et al., 2013; Hörmann et al., 2014; Lopez et al., 2013;McCormick et al., 2012, 2013, 2014; Merucci et al., 2011; Theys et al., 2013]. Although daily emission rates and injection altitudes are ideally recommended, such daily observations can be difficult to obtain because of the limitation in OMI-based SO2 retrievals (affected frequently by row anomalies and cloud contamination; see Yang et al. [2010] and detailed discussion below). Therefore, the new inventory might be best used for global models that focus on the impact of volcanic eruptions on climate and chemistry on monthly-to-yearly scales. Nevertheless, a sensitivity experiment is conducted in section 4 to estimate the uncertainty induced by the lack of temporal variation in the emissions data; this sensitivity experiment is for the Sierra Negra eruption, where the OMI SO2 data appear ideal to derive day-to-day emission.\nSince late 2004, OMI has provided high-quality volcanic SO2measurements with near-continuous daily global coverage, good spatial resolution (13 × 24 km2 at nadir) [Carn et al., 2008, 2013, 2015b;McCormick et al., 2013]. Its increased sensitivity to SO2 over previous satellite observations (from increased spectral and spatial resolution) permit the use of more sophisticated retrieval algorithms; for discussion of this technique and its application for volcanic SO2 emission estimate, we refer the reader to Carn et al. [2013], Yang et al. [2007, 2009a, 2009b, 2010], and Carn et al. [2015b]. These papers provide the details of volcanic emission estimation schemes that consider the wind direction, wind speed, and lifetime of SO2 in the atmosphere (in addition to the OMI SO2 data). There are several possible SO2 dispersion and loss routes involved during volcanic activity, such as gas phase and aqueous phase oxidation to sulfate aerosol, wet/dry deposition, wind advection at different altitudes, and scavenging by ash. This means that estimating SO2 emissions from satellite-retrieved SO2 column amounts can be challenging, albeit lots of efforts were made [Campion, 2014; Campion et al., 2015; Hörmann et al., 2014; Lopez et al., 2013; McCormick et al., 2012, 2013, 2014; Merucci et al., 2011; Theys et al., 2013]. Case studies have demonstrated OMI’s excellent performance for eruptions of Manam volcano, Papua New Guinea [Carn et al., 2009], Sierra Negra volcano, Galápagos Islands [Thomas et al., 2009].\nLong-term OMI surveys of tropospheric SO2 persistently degassing emissions have been published for Ecuador and southern Colombia [Carn et al., 2008], Vanuatu [Bani et al., 2012], and Papua New Guinea [McCormick et al., 2012], with new case studies presented in Carn et al. [2013] and McCormick et al. [2013]. Multiyear time series of OMI-measured SO2 burdens over the regions were produced, and these show generally strong correlations with independent observations of volcanic activity [Carn et al., 2008; Bani et al., 2009, 2012; McCormick et al., 2012; Hayer et al., 2010].\nLimitations in retrieval accuracy for volcanic SO2 are expected for several reasons. The retrieval techniques assume an approximate linear relationship between SO2 column and the residuals at a set of wavelengths, so nonlinear SO2 absorption effects bring some issues [Yang et al., 2007]. Carn et al. [2013] discussed some sources of error in the derived SO2 mass. For example, the overestimation of daily emissions may occur when a daily image also contains SO2 emitted from a previous day. Also, it is difficult to distinguish the SO2 mass from each volcano when the image represents the combined emissions from several active volcanoes. The cloud-related SO2 retrieval errors depend chiefly on the relative vertical separation between the SO2 and the cloud. When SO2 is located below or at the same altitude as a subpixel cloud, larger cloud fractions reduce SO2 measurement sensitivity. When SO2 is located above clouds, SO2 retrieval errors diminish slightly with increasing cloud fraction, owing to enhancedmeasurement sensitivity to SO2 above highly reflective surfaces [Carn et al., 2013]. McCormick et al. [2013, and references therein] summarized key sources of potential interference into OMI retrievals including cloud cover, high plume ash content, row anomaly, and high total ozone column; they also showed that these sources of error can sometimes reduce themass of SO2 available for OMI detection, while conversely, minimal removal and dispersion could lead to overestimation. Further study by McCormick et al. [2014] compared the OMI-based estimate with the ground-based estimate of volcanic SO2 for a specific event (Tungurahua volcano, Ecuador). They showed that day-to-day variability of SO2 emission is larger than the postemission processing of SO2 in atmosphere, and hence, they suggested that the long-term observation data sets from satellite-based instruments like OMI can be useful in providing\nGE ET AL. OMI-BASED VOLCANIC EMISSION AND FORCING 3449\ngood first-order constraints on the variability of volcanic emissions in otherwise poorly monitored regions. However, this suggestion is based on their studies for 2months of eruptions up to the midtroposphere (5–7 km altitude) and needs to be further evaluated with other cases in future studies.\nIt is noted that even with advanced algorithms such as the hyperspectral fitting algorithm by Yang et al. [2010] for SO2 retrievals, retrieval uncertainties from OMI can be large and uncertainties in the conversion of OMI SO2 amount to the volcanic emissions can be larger, mostly because a satellite provides a nearinstantaneous measurement of SO2 loading. The uncertainty of the SO2 loading of a volcanic plume estimated from satellite remote sensing is usually less than 20% and often likely ~10% for the cases of significant volcanic eruptions (loading exceed 100 kt). This uncertainty estimate is based on the intercomparison of satellite retrieval from different instruments we have performed retrievals from, including the OMI/Global Ozone Monitoring Experiment 2/Ozone Mapping and Profiler Suite observations for the same events using our advanced SO2 algorithm; the results from these different satellites usually agree to within 20% [Yang et al., 2010; Carn et al., 2015a, 2015b]. This shows that differences in satellite pixel sizes and view geometries do not change the total amount of SO2 by more than 20%. We point out that the uncertainty in the estimate of total loading is inherently less than the individual uncertainty associated with each pixel (which is estimated to be no more than 20% for VCD> 2 Dobson units and height above 3 km). The total loading is the summation of pixel values, which tend to reduce the uncertainty as the summation can cancel out some random errors of individual measurements [Yang et al., 2010]. For a large explosive eruption, the highest loading (of SO2 summed over all pixels affected by volcanic SO2) observed by the satellite is usually considered to be the lower bound of the emission. Converting loading to emission incurs additional errors from the parameters used in the conversion (as discussed above), including wind speed and direction, SO2 oxidation rate and time from the time when it is emitted to the time when it is observed by OMI, and the limitation in OMI’s spatial and temporal availability. Overall, various past studies suggest that the underestimation of emission estimates can be up to 50% [Theys et al., 2013] and often likely no more than 25% that varies with each case [Carn et al., 2013; Yang et al., 2007, 2009a, 2009b, 2010; Telling et al., 2015; Carn et al., 2015b].\nThe injection altitude data from GVP are accumulated from a global network of contributors and through analysis in the literature as well as observations, e.g., from radar, satellites, and pilot reports. The GVP reports current worldwide eruptions dating back to 1968, and further details of each event have been added to the website over time. Figure 1f is a histogram of volcanic SO2 plume injection altitudes of 3000+ volcanic eruptions between 2005 and 2012 collected from GVP. We find that ~4% of volcanic plumes are injected above 10 km, ~88% are injected above 2 km, and 49% are injected above 4 km. Given that their injection altitude is usually higher than industrial SO2 emissions, resulting in a longer lifetime of sulfate aerosol, the volcanic sulfate aerosols are more likely to exert bigger forcing than the anthropogenic counterpart.\nGraf et al. [1997] pointed out that most of the volcanic emissions are located in the Northern Hemisphere and only 18% active volcanoes are concentrated in the Southern Hemisphere. Consistent with Graf et al.’s study, we found only 24% of reported volcanic events occurred in the Southern Hemisphere based on groundbased observations of 3000+ volcanic eruptions between 2005 and 2012. In contrast to the anthropogenic emissions that have regional maxima in the eastern United States, Europe, and increasingly, China, the volcanic sources are mostly located at the edges of crustal plates and oceanic areas (Figures 1e and 2). Figures 1a and 1c respectively represent OMI SO2 mass loading and GVP SO2 injection altitude for volcanic eruptions during 2005–2012. In total, OMI observed nearly 50 eruptive events. There are three major volcanic eruptions in 2005, 2006, and 2011 that emitted ~2000 kt SO2 with injection altitudes varied from 2 km to 15 km. Because the geographical locations are highly variable, the evolution and transport of SO2 plumes, as well as the radiative effect of the resultant sulfate aerosol, can be quite different. In this context, this study focuses on the average volcanic effects over multiple years. The case study for each individual eruption is not emphasized here and indeed was investigated by several previous studies [Wang et al., 2013; Bourassa et al., 2012, 2013; Vernier et al., 2011, 2013a, 2013b; Fromm et al., 2013, 2014; Robock, 2000; Forster et al., 2007; Timmreck, 2012].\nData for eight persistently degassing volcanoes in the tropics are also estimated, representing the largest degassing volcanic SO2 sources detected by OMI during 2005–2012 (Figure 2). Although OMI also detects SO2 emissions from many weaker volcanic SO2 sources (and the work to include these sources in the emissions database is ongoing), we focus here on the strongest sources likely to dominate regional volcanic aerosol forcing. Like erupting volcanoes, most persistently degassing volcanoes are also situated at continental\nGE ET AL. OMI-BASED VOLCANIC EMISSION AND FORCING 3450\nGE ET AL. OMI-BASED VOLCANIC EMISSION AND FORCING 3451\nmargins or in oceanic (intraplate) regions. The range of persistently degassing volcanic emission altitudes in this study is from 800m to 5500m. Anatahan emitted relatively large daily amounts (~40 kt) of SO2 for several days in 2005, when the volcano was effectively in a state of continuous eruption. For a more detailed description of the Anatahan behavior, please refer to McCormick et al. [2015] in which they integrated 10 years of satellite data sets and activity histories for Anatahan. For the other persistently degassing volcanoes, the daily SO2 amounts are less than ~40 kt. However, because of their persistence, their environmental influence on regional scales and in the troposphere could be important. The OMI SO2 data presented in this paper are part of a long-term multisatellite volcanic SO2 database [Carn, 2015a; Carn et al., 2015b] that is available from ftp://measures.gsfc.nasa.gov/data/s4pa/SO2/MSVOLSO2L4.1/MSVOLSO2L4_v01-00-2014m1002.txt."
+  }, {
+    "heading": "3.2. Comparison With AeroCom Volcanic SO2 Inventory",
+    "text": "An existing andwidely used volcanic SO2 flux inventory has complied as part of the AeroCom internationalmodel intercomparison [Diehl, 2009; Diehl et al., 2012] (http://aerocom.met.no/download/emissions/AEROCOM_HC/). It includes both eruptive and persistently degassing volcanic SO2 emissions from 1 January 1979 to 31 December 2009 for nearly all historic eruptions. Currently, AeroCom volcanic emission data from 1979 to 2009 are implemented into GEOS-Chem [Fisher et al., 2011]. An updated version of the AeroCom database, which includes the year 2010, was endorsed for usage within Hemispheric Transport of Air Pollution phase 2 experiments and can be accessed at http://aerocom.met.no/download/emissions/HTAP/, and the document is available at http://iek8wikis.iek.fz-juelich.de/HTAPWiki/WP2.2/. This study only compares with the earlier version of AeroCom data.\nAeroCom’s estimates of volcanic SO2 emission and injection height are primarily based on volcanic explosivity index (VEI) complied by Global Volcanism Program, with some supplementary information from Total Ozone Mapping Spectrometer and OMI’s SO2 data. The estimates differ from the new inventory here in two aspects: (a) SO2 heights are taken from reported plume heights available in the GVP’s database, while in AeroCom, SO2 plume heights are estimated primarily based on VEI, which is not a good indicator of plume height [Robock, 2000], and (b) the OMI SO2 loadings used in our database are retrieved from iterative spectral fitting algorithm [Yang et al., 2010] for large (>~250 kt) explosive eruptions and from the linear fit algorithm [Yang et al., 2007] for the smaller eruptions observed by OMI. Both algorithms are shown to be more accurate than older version of OMI SO2 data used by AeroCom.\nFigures 1b and 1d show volcanic emissions from AeroCom database. In total, AeroCom data include 1166 volcanic events worldwide during 2005–2012 and nearly for each day when there are no big eruptions; the global (and total) emissions are often reported in the range of 13–18 kt for presumably small eruptive volcanoes (Figures 1b and S1b in the supporting information). Since using OMI data to verify the emission from these very small eruptive emissions (with high injection height ~10 km) is challenging, these emissions are not included in our new database (Figures 1a and S1a). The basis of Aerocom’s assumptions of background volcanic activity for these many small daily eruptions is unclear in the literature. Further study is needed to evaluate AeroCom’s estimates of SO2 amount and injection height for those small and very eruptive emissions because these emissions, while small for each eruption, are frequent and are often injected above 10 km in AeroCom’s database, especially during from the second half of 2008 to the first half of 2010. During the whole study period (2005–2012), these day-to-day small emissions accumulate to about 80% of AeroCom’s total emission (Figure S1c), and because of this, the total emission from eruptive volcanoes in AeroCom is a factor of 4 larger than ours (as shown in the cumulative curve of SO2 emission for the whole database, Figure S1c). Indeed, if we remove those estimates (<10 kt) from Aerocom and replot the cumulative curve of SO2 emission (Figure S1d), we found general agreement between Aerocom’s and our estimate of total SO2 emission frommedium to large eruptions (10 kt or larger). But the significant difference exists in the estimate of emission from each individual large eruption (100 kt and above, Figure S1d).\nThere are two big eruptions (with SO2 emission greater than 700 kt) in the AeroCom database, namely, Kasatochi in August 2008 and Sarychev Peak in June 2009. However, AeroCom data have no data for Sierra Negra eruption in October 2005, and the SO2 emission amount by AeroCom is less for Nyamuragira by ~1800 kt in November of 2006. Further differences can be found between the AeroCom data set and the data set in this study (Figures 1a and 1c), both in terms of SO2 loading and injection altitude. For example, the SO2 emission amount by AeroCom is lower for some smaller eruptions such as Soufriere Hills in May 2006 and\nGE ET AL. OMI-BASED VOLCANIC EMISSION AND FORCING 3452\nour use of directly reported values. As discussed in Robock [2000], the VEI contains limited and inaccurate information on the volcanic SO2 injection height and amount, and the “stratospheric injection” is indeed the least reliable criteria (out of 11) in assigning a VEI.\nFor persistently degassing volcanoes, the temporal variation of SO2 emissions is depicted in OMI data. Some peak values can be seen in Figure 2 for Anatahan (early 2005), Kilauea (2008), and Ambrym (2005 and post2010). The variations of SO2 emissions are closely related to the changing activity of each volcano and are also consistent with some previous studies [McCormick et al., 2012, 2013; Bani et al., 2009; Carn et al., 2013]. Generally, the AeroCom persistently degassing volcano inventory presents the emissions as constant values. Because of this assumption, the AeroCom (black lines in Figure 2) persistently degassing SO2 emissions are maintained at constant levels, with the exception of some higher values for Anatahan in 2005. In addition, AeroCom SO2 data for Ambrym show some temporal variability.\nTo compare the OMI volcanic SO2 emission budgets with AeroCom data, we show monthly and global total volcanic SO2 emissions in Figure 3. While the eruptive volcanic emissions from the two emission data sets exhibit similar temporal variations, there is a major difference in the magnitude of volcanic SO2 production, mainly because AeroCom in each day includes a total of (a) ~10 kt emission from those presumably small eruptive volcanoes around the globe (Figure S1) whose individual eruption is difficult to be detected by OMI and (b) 51–54 kt for persistently degassing volcanoes as a background volcano emission level. So as shown in Figure 3a, AeroCom’s monthly total eruptive and persistently degassing volcanic emissions of SO2 are above 500 kt and 1500 kt, respectively, year round. Figure 3b is for persistently degassing volcanic emissions. The AeroCom global total emission (blue dot line), total emission from tropical region (blue dash line), and eight volcanoes over tropical region matching our OMI database (blue solid line) are shown in Figure 3 as well. OMI persistently degassing volcanic emissions reflect reasonable variations of volcanoes activities (Figure 3b), while no distinct fluctuation can be seen from most of the AeroCom data. During the year 2005, due to the higher persistently degassing emission from Anatahan and Ambrym (shown in Figure 2), the maximum of OMI degassing SO2 is above 600 kt, while AeroCom data are mostly below 300 kt.\nIn terms of annual mean SO2 amount during 2005 to 2009, the estimates from AeroCom volcanic emission inventory are 8180 kt and 18,520 kt for eruptive volcanic SO2 and for persistently degassing volcanic SO2, respectively, and the eight persistently degassing SO2 amounts in tropical region is 2110 kt (Table 1). Our OMI-based new inventory shows an annual mean of 1870 kt and 1900 kt SO2 for eruptive and eight persistently degassing volcanic SO2. Our OMI SO2 database only includes eight volcanic persistently degassing sources over the tropical region and nearly 50 volcanic events, so OMI data should be considered as the lower limit for the global volcanic emissions because it lacks the sensitivity to those very small eruptions.\nGE ET AL. OMI-BASED VOLCANIC EMISSION AND FORCING 3453\n4. Volcanic Sulfate Aerosol Optical Depth and Vertical Distribution of SO42\nThe temporal evolution of zonally averaged sulfate AOD simulated by GEOSChem is compared with CALIPSO AOD data, all above 10 km (Figure 4). The simulation captures the high eruptions such as Kasatochi in August 2008, Sarychev Peak in June 2009, and Nabro in June 2011. The simulation\nand CALIPSO data consistently show that the lifetime of eruptive volcanic sulfate often can last for a couple of months. Generally, the model sees a lower AOD, especially over tropical region. CALIPSO AOD is mostly above 10 3 over tropical region, while the simulated AOD is mostly above 10 4. The lack of some small volcanoes in OMI volcano emissions is the main reason for the underestimation of simulation. In addition, the highly reflective band of clouds is consistently dominant over tropics, and it is well known that CALIPSO product has some limitations in detecting layers of scattering particles and in distinguishing clouds from aerosols [Sassen et al., 2009]. Consequently, CALIPSO-measured AOD may have cloud contamination that can result in an overestimation of AOD observation over tropic region [Huang et al., 2012]. The AOD difference between simulation and CALIOP is presented in Figure 4c. Generally, GEOS-Chem-simulated AOD is smaller than CALIOP\nTable 1. Annual and Global Total Volcanic SO2 Emissions (kt/yr) Year Eruptive Persistently Degassing\nAeroComa 2005–2009 8180 18,520 (Tropb: 2110) OMI 2005–2009 1870 (Tropb: 1900) OMI 2005–2012 1670 (Tropb: 1850)\na1979–2009, http://aerocom.met.no/download/emissions/AEROCOM_HC/. And an updated version of the AeroCom database (including the year of 2010) can be accessed at http://aerocom.met.no/download/emissions/ HTAP/.\nbTrop: tropical. Subset of eight persistently degassing volcanoes over tropical area as presented in our OMI data.\nGE ET AL. OMI-BASED VOLCANIC EMISSION AND FORCING 3454\nAOD. Themonthly eruptive volcano sulfate aerosol optical depth (SAOD) can be up to 0.05, and the persistently degassing volcanic SAOD are consistently around 0.0005 (Figure 5). Kravitz et al. [2010, 2011] conducted simulations by using a general circulation model, and they showed a range of 0.003–0.04 zonally and monthly AOD anomalies for Kasatochi volcano and 0.005–0.04 for Sarychev volcano. A similar magnitude of AOD from our simulation is presented in Figure 5. The contributions of eruptive sulfate AOD and persistently degassing sulfate AOD to total sulfate AOD are shown in Figures 5c and 5d. Total sulfate AOD includes both anthropogenic and volcanoes sulfate AOD (Figure 5f). The highest value is located in the middle latitudes of the Northern Hemisphere every summer, and it reflects persistent anthropogenic SO2 sources over some polluted middlelatitude countries such as China and a higher formation rate of SO4\n2 from SO2 in northern summer [Carmichael et al., 2002; Ge et al., 2011]. For the big volcanic eruptions listed in Table 2, the monthly ratios of eruptive SAOD/total SAOD are larger than 40%. The higher eruptive SAOD/total SAOD ratio lasts longer than 2months for Kasatochi in August 2008 and Nabro in June 2011. Persistently degassing volcanoes generally contribute about 5% to the total SAOD. The maximum ratio of persistently degassing SAOD/total SAOD can reach to 25% (Figure 5d). For example, the degassing volcanoes of Anatahan and Ambrym are quite active during the early months of 2005, and Nyiragongo had higher emission in the middle of 2012.\nThe vertical profile and transport of volcanic sulfate aerosol is an interesting topic. Direct injection of SO2 into the stratosphere from explosive eruptions was observed for some volcanoes [Vernier et al., 2013a]. Some studies [Bourassa et al., 2012, 2013; Fromm et al., 2013, 2014] also pointed that SO2 injected into the upper troposphere could be lifted into the stratosphere by deep convection and the large-scale Asian summer monsoon circulation. Hence, characterizing the vertical distribution of SO4\n2 aerosol is a fundamental step toward understanding the radiative forcing effect. The 8 year average climatology of SO4\n2 at different altitude levels from different sources is shown in Figure 6. The top row is the total SO4\n2 mass, and themiddle row and bottom row are ratios in percentage of eruptive volcanic and the persistently degassing volcanic SO4 2 to the total SO4 2 mass loading. Because the anthropogenic SO4\n2 contribution is large, most of the total SO4\n2 mass resides below 5 km and decreases significantly with altitude above 5 km. The contribution of eruptive volcanic SO4\n2 is mainly above 10 km, with a maximum ratio of ~30% in the tropic region where the anthropogenic emissions are relatively low. During the 8 years studied, only two volcanoes (Kasatochi and Sarychev Peak) are located at high latitude around 50° north where the anthropogenic emissions are relatively higher. It is found that in 8 year average, eruptive volcanic SO4\n2 on average contribute ~10% in the most area of Northern Hemisphere above 10 km. For persistently degassing volcanic SO4\n2 , because the emissions are released around the vent elevation with a maximum of 5500m in this study, the SO4 2 is barely evident above 10 km; however, below 5 km and locally, it dominates the sulfate loading over Hawaii and in oceanic areas northeast of Australia, representing nearly 60% of the total SO4 2 mass.\nThe vertical profile of 8 year zonal mean SO4 2 from volcanic eruptions is shown in Figure 7a. Generally, most of the sulfate aerosol mass resides in the Northern Hemisphere troposphere. The high value of sulfate aerosol mass can be seen around 800hPa and lower altitude; this is contributed by eruptive events with lower injection altitude (Figures 1a and 1c) including two larger ones (Sierra Negra andNyamuragira, Table 2). The ratio of eruptive sulfate to total sulfate (Figure 7c) is more than 20% between 800hPa and 200hPa over equatorial regions, increasing to 30% around the tropopause. There are three eruptions over the tropical area in October 2005,\nTable 2. Locations, Emissions, and 30 Days Average SO4 2 Radiative Forcing of Volcanoesa Volcano Latitude Longitude Main Eruption Total SO2 (kt) Altitude (km) Forcing (Wm 2)\nSierra Negra 0.83 91.17 2005/10/23 1928 2.0–15.0 0.48 Nyamuragira 1.41 29.20 2006/11/27 1960 3.0–6.1\n(4.6) 0.22\nKasatochi 52.18 175.51 2008/8/7 1500 9.1–13.7 (11.8)\n0.70\nSarychev Peak 48.09 153.20 2009/6/11 900 9.7–13.7 (11.7)\n0.46\nNabro 13.37 41.70 2011/6/13 2000 6.1–13.7 (12.3)\n1.03\naThe injection altitude in bracket is the averaged value used in the simulation.\nGE ET AL. OMI-BASED VOLCANIC EMISSION AND FORCING 3455\nNovember 2006, and June 2011with total SO2 amount around 6000 kt (Table 2). There are only two high-latitude eruptions in the Northern Hemisphere, and the total SO2 amount is around 2400 kt (Table 2). Since the concentration of anthropogenic sulfate aerosol is quite small around the tropical area compared with middle to high latitudes (Figure 6), bigger ratios of eruptive sulfate to total sulfate take place over the tropical area. In contrast, the ratio of sulfate derived from persistently degassing volcanic emissions to total sulfate is only around 7% in the upper troposphere and lower stratosphere and can be 10% over some equatorial regions.\nSeveral studies [e.g., Hegerl et al., 2006] have pointed out that the uncertainty is large in both emissions amount and altitude of the volcanoes. To estimate the uncertainty range caused by the lack of daily varied emissions and injection altitudes, we use Sierra Negra as an example here. OMI-retrieved daily SO2 emissions and injection altitude for Sierra Negra during 23–29 October 2005 are listed in Table S1. We did a control run with day-to-day varied emission and injection height ranging from 2 to 15km (as in Table S1) and the sensitivity run with other three simulations in which we put the total SO2 amount for the first day of the eruption and vary the injection altitudes from the lowest (2 km), averaged (as 6 kmovermultiple days based on Table S1) to the highest value (15 km) in GEOS-Chem respectively. Figure S3 shows 30day average SO4\n2 AOD after Sierra Negra volcano eruption from the four simulations. The global averaged AOD value is also listed for each panel. Along with the increased injection altitude (from 2km to 15km) the averaged AOD increased from 0.003 to 0.010. The simulation with averaged injection altitude is close to the control run from the aspects of both global distribution and globally averaged\nGE ET AL. OMI-BASED VOLCANIC EMISSION AND FORCING 3456\nAOD (Figures S3a–S3c). The simulation with the lowest altitude (2 km) shows that the sulfate aerosol is more localized, and the simulationwith highest altitude (15 km) shows that sulfate aerosol impacted amuchwider area. In global averages, the simulation with average altitude overestimates the monthly AOD by 12.5% (Figure S3a versus Figure S3c) and monthly forcing by ~5% (Figure S5a versus Figure S5c) compared with the control run. Figure S4 shows the vertical profile of zonal and 30days mean SO4\n2 AOD from the four simulations. The simulation with lowest and highest injection altitude failed to reproduce themain feature of the vertical profile compared with the control run. The simulation with the averaged injection altitude captures the main structure between surface and 600hPa while missing the high value of AOD above 300hPa (Figures S4a and S4c). Overall, the results here suggest that for long-term climate studies that concern global and monthly average of aerosol forcing, using averaged injection height and setting all the emissions in the first day of the volcanic eruption is appropriate unless the time-variant injection height and emission are available with high accuracy. However, for those model studies concerning the altitude-dependent atmospheric chemistry and transport in regional and day-to-day scales, the time-variant injection height and emission of volcanic SO2 is highly needed."
+  }, {
+    "heading": "5. Sulfate Aerosol Forcing and Forcing Efficiency",
+    "text": "Volcanic sulfate forcing is highly episodic but can have strong and rapid impacts on climate [Robock, et al., 2000; Wang et al., 2013]. The temporal evolution of global mean sulfate forcing contributed by specific sources is\nGE ET AL. OMI-BASED VOLCANIC EMISSION AND FORCING 3457\nshown in Figure 8a, based on GEOS-Chem simulations. In global andmonthly averages, the range of anthropogenic sulfate forcing is 0.82 to 1.32Wm 2. The anthropogenic sulfate forcing displays a clear seasonal pattern with a summer peak, and it starts to increase in early spring and gradually decrease after summer. Most anthropogenic sulfate is from the Northern Hemisphere, especially East Asia (Figure 6). Generally, the water vapor content is elevated in summer over the Northern Hemisphere which results in a higher formation rate of SO4\n2 from SO2 [Carmichael et al., 2002; Ge et al., 2011]. The largest monthly mean eruptive volcanic sulfate forcing in recent years is 0.83Wm 2 in June 2011 when Nabro erupted, and it doubled the anthropogenic sulfate forcing during that month. The annual average of persistently degassing sulfate forcing is around 0.02Wm 2, and this might be a slight underestimation because only the largest eight tropical persistently degassing volcanoes are considered in this study. Figure 8c shows the annual sulfate forcing calculated in this study along with the most recent Intergovernmental Panel on Climate Change (IPCC) estimations. Table All 1.2 in IPCC, 2013 lists annual mean radiative forcing due to different sources (e.g., trace gasses, aerosols, black carbon, and volcano) during 1750–2011. Note that IPCC’s [2013] radiative forcing (RF) estimates are calculated with the formula RF = AOD*( 25.0) Wm 2. The IPCC global mean volcanic sulfate AOD for recent years (1950–2011) is from surface and satellite observations [Sato et al., 1993; Schmidt et al., 2011]. And in the formula, 25Wm 2/AOD is considered as the average forcing efficiency of volcanic sulfate aerosols. Although the 7 year average (2005–2011) of global volcanic sulfate forcing ( 0.09Wm 2) from this study is found to be slightly smaller than that reported by the IPCC ( 0.10Wm 2), the discrepancy could be seen for each year (Figure 8c). It should be noted that we did simulation for 8 years (2005–2012), while IPCC [2013] only includes 7 years (2005–2011) forcing data. The discrepancy between the two forcing estimations could\nGE ET AL. OMI-BASED VOLCANIC EMISSION AND FORCING 3458\nThe radiative forcing and emission information for each volcano with SO2 emission larger than 700 kt during 2005–2012 are listed in Table 2. Three large eruptions producing emissions of ~2000 kt SO2 are Sierra Negra in October 2005, Nyamuragira in November 2006, and Nabro in June 2011. These three volcanoes are all in tropical region and hence have a larger impact over subtropical area rather than high-latitude area. Of these eruptions, Nyamuragira has the lowest sulfate forcing of 0.22Wm 2 due to a relatively low SO2 injection altitude (Table 2). Nabro in June 2011 has the largest forcing of 1.03Wm 2 among all recent eruptions. There are two high-latitude volcanoes with significant SO2 emissions and injection altitude: Kasatochi in August 2008 and Sarychev Peak in June 2009. The SO2 emissions from these volcanoes are 900 kt to 1500 kt, and the SO2 injection altitudes are ~12 km, which is close to tropopause of middle- to high-latitude region. Furthermore, these two eruptions took place in the boreal summer season, increasing their forcing ( 0.46 to 0.70Wm 2, Table 2) due to prolonged interactions with solar radiation. Several past studies also reported these volcanoes with similar results of this study. For example, Geist et al. [2008] reported an injection altitude of 2–15 km for the volcano of Sierre Negra. Kravitz et al. [2010, 2011] conducted a series of simulations to test the climate response to the eruptions of Kasatochi volcano and Sarychev volcano. Along with the study of Haywood et al. [2010], they reported 1.5 Tg SO2 emission and 10–16 km injection altitude for Kasatochi and 1.2 Tg SO2 and 11–16 km altitude for Sarychev.\nBased on the above facts, conclusions could be drawn that the volcano radiative forcing depends on location (high latitude or low latitude), season (summer or winter), deposition or lifting mechanisms and chemical mechanisms, and the favorable conditions for large volcanic forcing, which are high SO2 emissions, high injection altitude, and high solar radiation season. There are also some papers that gave further verification of this conclusion. For example, Kravitz and Robock [2011] tested the climate effects of high-latitude volcanic eruptions with regard to the eruption time of the year. They found that high SO2 emissions amount and high solar radiation season are the main characteristics that produce large volcanic forcing. Sulfate aerosol in the stratosphere has a much longer lifetime than in the troposphere, so injection altitude could lead to large differences in sulfate forcing [Wang et al., 2013]. Wang et al. [2013] found that every 2 km decrease of SO2 injection altitude in the GEOS-Chem simulations for Kasatochi eruption resulted in a ~25% decrease in volcanic\nGE ET AL. OMI-BASED VOLCANIC EMISSION AND FORCING 3459\nGrímsvötn in May 2011, were omitted in those studies. The Nyamuragira eruption (Table 2) has high total SO2 emissions (1960 kt) and a relatively low injection altitude (4.6 km), so the local pollution impact near the surface could be large. The information of Grímsvötn could be seen in Table S2, and it has 300 kt SO2 emissions and relatively high injection altitude (11.0 km). The radiative forcing attributable to these two volcanoes are 0.22Wm 2 (Nyamuragira) and 0.15Wm 2 (Grímsvötn), respectively. The global, annual mean sulfate forcing efficiency with respect to SO2 emission is calculated for three categories (Figure 9). The forcing efficiency is defined as forcing per unit of SO2 emission (Wm\n2/tg(SO2)). The annual sulfate forcing efficiency due to volcanic eruptions is much larger than that due to persistently degassing volcanoes, and generally, the sulfate forcing efficiency from anthropogenic SO2 sources is close to that from persistently degassing volcanoes. For the 8 years average, the forcing efficiency of eruptive volcanic sulfate (0.53Wm 2/tg(SO2)) is nearly 5 times larger than that of the anthropogenic sulfate (0.11Wm\n2/tg(SO2)), and for the eight persistently degassing volcanoes their forcing efficiency (0.11Wm 2/tg(SO2)) is close to that for anthropogenic sulfate. This indicates that the injection altitude is an important factor determining the volcanic sulfate forcing efficiency."
+  }, {
+    "heading": "6. Summary and Discussion",
+    "text": "A new volcanic SO2 emission inventory for 2005–2012 is produced in this study based on the integration of satellite-based (OMI) SO2 amount and GVP-based database of volcanic SO2 plume altitude. After comparing with the AeroCom inventory, the new inventory is used in the GEOS-Chem CTM to simulate the distribution and contribution of volcano SO4 2 . Also, the corresponding SO4 2 radiative forcing is estimated.We summarize our results as follows:\n1. The new volcanic SO2 emission inventory includes contributions not only from global volcanic eruptions but also from eight persistently degassing volcanoes. The new inventory represents the largest volcanic SO2 sources detected by OMI in 2005–2012. Emissions from Nyamuragira in November 2006 and Grímsvötn in May 2011 that were excluded from the IPCC 5 inventory are now included. Both volcanic SO2 emission amount and injection altitude are included in the new inventory, and the new emission database is available upon request.\n2. A good agreement is found for the temporal evolution of zonal AOD above 10 km between CALIPSO retrievals and GEOS-Chem simulation with the new volcanic SO2 emission inventory. The 8 year average contribution of eruptive SO4 2 to total SO4 2 loading is ~10% over most areas of Northern Hemisphere\nabove 10 km and can be up to 30% in the tropics where the anthropogenic emissions are relatively lower. Eight years averagely, tropical persistently degassing volcanic SO4\n2 is a regionally dominant type of aerosols, contributing 60%+ in terms of mass in the lower atmosphere over Hawaii and in oceanic regions northeast of Australia. 3. While 7 year average (2005–2011) of volcanic sulfate forcing of 0.09Wm 2 is similar to the counterpart ( 0.10Wm 2) in the latest report by IPCC [2013], our estimates revealed a much larger interannual variability than that in IPCC report, likely because IPCC used a constant forcing efficiency per unit sulfate AOD. Furthermore, this study found the eruptive volcano forcing efficiency ranges from 40 to 80Wm 2/AOD that are much larger than the constant value ( 25Wm 2/AOD) used by IPCC.\n4. The global and monthly mean sulfate forcing efficiency to SO2 emission was calculated for three emission categories. The forcing efficiency for eruptive volcanic sulfate is nearly 5 times that of the anthropogenic\nGE ET AL. OMI-BASED VOLCANIC EMISSION AND FORCING 3460\nsulfate. In contrast, the forcing efficiency for eight tropical persistently degassing volcanic sulfates, on average, is close to the anthropogenic sulfate forcing efficiency. This study further confirms that the SO2 injection altitude is a key factor determining volcanic sulfate forcing efficiency and should be a key parameter in the emission inventory. Satellite remote sensing techniques that can routinely measure the vertical profile of SO2 therefore are urgently needed."
+  }],
+  "year": 2016,
+  "references": [{
+    "title": "Transitionmetal-catalyzed oxidation of atmospheric sulfur: Global implications for the sulfur budget",
+    "authors": ["B. Alexander", "R.J. Park", "D.J. Jacob", "S. Gong"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2009
+  }, {
+    "title": "Global modeling of tropospheric chemistry with assimilated meteorology: Model description and evaluation",
+    "authors": ["I. Bey", "D.J. Jacob", "R.M. Yantosca", "J.A. Logan", "B. Field", "A.M. Fiore", "Q. Li", "H. Liu", "L.J. Mickley", "M. Schultz"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2001
+  }, {
+    "title": "Yantosca (2001b), Asian chemical outflow to the Pacific in spring: Origins, pathways, and budgets",
+    "authors": ["I. Bey", "D. Jacob", "J. Logan"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2001
+  }, {
+    "title": "Response to comments on“ Large volcanic aerosol load in the stratosphere linked to Asian monsoon transport",
+    "authors": ["A.E. Bourassa", "A. Robock", "W.J. Randel", "T. Deshler", "L.A. Rieger", "N.D. Lloyd", "E. Llewellyn", "D. A"],
+    "venue": "Degenstein",
+    "year": 2013
+  }, {
+    "title": "A global high-resolution emission inventory for ammonia",
+    "authors": ["A. Bouwman", "D. Lee", "A. Asman", "F. Dentener", "K. Van der Hoek", "J. Olivier"],
+    "venue": "Global Biogeochem. Cycles,",
+    "year": 1997
+  }, {
+    "title": "New lava lake at Nyamuragira volcano revealed by combined ASTER and OMI SO2 measurements, Geophys",
+    "authors": ["R. Campion"],
+    "venue": "Res. Lett.,",
+    "year": 2014
+  }, {
+    "title": "Image-based correction of the light dilution effect for SO2 camera measurements",
+    "authors": ["R. Campion", "H. Delgado-Granados", "T. Mori"],
+    "venue": "J. Volcanol. Geotherm. Res.,",
+    "year": 2015
+  }, {
+    "title": "The MICS-Asia study: Model intercomparison of long-range transport and sulfur deposition in East Asia",
+    "authors": ["Carmichael", "G. R"],
+    "venue": "Atmos. Environ.,",
+    "year": 2002
+  }, {
+    "title": "Volcanic eruption detection by the Total Ozone Mapping Spectrometer (TOMS) instruments: A 22-year record of sulphur dioxide and ash emissions, in Volcanic Degassing",
+    "authors": ["S. Carn", "A.J. Krueger", "G. Bluth", "S. Schaefer", "N. Krotkov", "I. Watson", "S. Datta"],
+    "venue": "Spec. Publ.,",
+    "year": 2003
+  }, {
+    "title": "Measuring global volcanic degassing with the Ozone Monitoring Instrument (OMI), in Remote Sensing of Volcanoes and Volcanic Processes: Integrating Observation and Modelling",
+    "authors": ["S. Carn", "N. Krotkov", "K. Yang", "A. Krueger"],
+    "venue": "Spec. Publ.,",
+    "year": 2013
+  }, {
+    "title": "Multi-Satellite Volcanic Sulfur Dioxide",
+    "authors": ["S.A. Carn"],
+    "year": 2015
+  }, {
+    "title": "Daily monitoring of Ecuadorian volcanic degassing from space",
+    "authors": ["S.A. Carn", "A.J. Krueger", "S. Arellano", "N.A. Krotkov", "K. Yang"],
+    "venue": "J. Volcanol. Geotherm. Res.,",
+    "year": 2008
+  }, {
+    "title": "Extending the long-term record of volcanic SO2 emissions with the Ozone Mapping and Profiler Suite (OMPS) nadir mapper",
+    "authors": ["S.A. Carn", "K. Yang", "A.J. Prata", "N.A. Krotkov"],
+    "venue": "Geophys. Res. Lett.,",
+    "year": 2015
+  }, {
+    "title": "2015b), Multi-decadal satellite measurements of global volcanic degassing",
+    "authors": ["S.A. Carn", "L. Clarisse", "A.J. Prata"],
+    "venue": "J. Volcanol. Geotherm. Res.,",
+    "year": 2015
+  }, {
+    "title": "Anthropogenic and natural contributions to tropospheric sulfate: A global model analysis",
+    "authors": ["M. Chin", "D.J. Jacob"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1996
+  }, {
+    "title": "Atmospheric sulfur cycle simulated in the global model GOCART: Model description and global properties",
+    "authors": ["M. Chin", "R.B. Rood", "S.-J. Lin", "J.-F. Muller", "A.M. Thompson"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2000
+  }, {
+    "title": "A study of the arrival over the United Kingdom in April 2010 of the Eyjafjallajökull ash cloud using ground-based lidar and numerical simulations, Atmos",
+    "authors": ["B. Devenish", "D. Thomson", "F. Marenco", "S. Leadbetter", "H. Ricketts", "H. Dacre"],
+    "year": 2012
+  }, {
+    "title": "A global inventory of volcanic SO2 emissions for hindcast scenarios. [Available at http://aerocom.met.no/download/ emissions/AEROCOM_HC",
+    "authors": ["T. Diehl"],
+    "venue": "Last accessed on",
+    "year": 2009
+  }, {
+    "title": "Anthropogenic, biomass burning, and volcanic emissions of black carbon, organic carbon, and SO2 from 1980 to 2010 for hindcast model experiments, Atmos",
+    "authors": ["T. Diehl", "A. Heil", "M. Chin", "X. Pan", "D. Streets", "M. Schultz", "S. Kinne"],
+    "venue": "Chem. Phys. Discuss.,",
+    "year": 2012
+  }, {
+    "title": "Comment on “Large volcanic aerosol load in the stratosphere linked to Asian monsoon",
+    "authors": ["M. Fromm", "G. Nedoluha"],
+    "venue": "Charvat",
+    "year": 2013
+  }, {
+    "title": "Parameterization of the radiative properties of cirrus clouds",
+    "authors": ["Q. Fu", "K.N. Liou"],
+    "venue": "6-mm band, J. Geophys. Res.,",
+    "year": 1993
+  }, {
+    "title": "Simulated seasonal variations in wet acid depositions over East Asia",
+    "authors": ["C. 2007JD009106. Ge", "M. Zhang", "L. Zhu", "X. Han", "J. Wang"],
+    "venue": "J. Air Waste Manage",
+    "year": 2011
+  }, {
+    "title": "Smithsonian Institution and US Geological Survey, Washington, D",
+    "authors": ["G. Mayberry"],
+    "venue": "C. Global Volcanism Program (2005b), Report on Sierra Negra (Ecuador), in Bulletin of the Global Volcanism Network,",
+    "year": 2005
+  }, {
+    "title": "Sennert, Smithsonian Institution and US Geological Survey, Washington, D",
+    "authors": ["K. S"],
+    "venue": "C. Global Volcanism Program",
+    "year": 2007
+  }, {
+    "title": "doi:10.5479/si.GVP.BGVN200701-223020. Global Volcanism Program (2008a), Report on Kasatochi (United States), inWeekly",
+    "authors": ["R. Wunderman", "Smithsonian Institution", "D.C. Washington"],
+    "venue": "Volcanic Activity Report,",
+    "year": 2008
+  }, {
+    "title": "Sennert, Smithsonian Institution and US Geological Survey, Washington, D",
+    "authors": ["K. S"],
+    "venue": "C. Global Volcanism Program (2008b), Report on Kasatochi (United States), in Bulletin of the Global Volcanism Network,",
+    "year": 2008
+  }, {
+    "title": "Sennert, Smithsonian Institution and US Geological Survey, Washington, D",
+    "authors": ["K. S"],
+    "venue": "C. Global Volcanism Program (2009b), Report on Sarychev Peak (Russia), in Bulletin of the Global Volcanism Network,",
+    "year": 2009
+  }, {
+    "title": "doi:10.5479/si.GVP.BGVN200906-290240. Global Volcanism Program (2011a), Report on Nabro (Eritrea)",
+    "authors": ["R. Wunderman", "Smithsonian Institution", "D.C. Washington"],
+    "venue": "inWeekly Volcanic Activity Report,",
+    "year": 2011
+  }, {
+    "title": "Volcanic sulfur emissions: Estimates of source strength and its contribution to the global",
+    "authors": ["Smithsonian Institution", "D.C. Washington", "J. Feichter", "B.R. Langmann"],
+    "year": 1997
+  }, {
+    "title": "Cirrus cloud simulations using WRF with improved radiation parameterization and increased",
+    "authors": ["Y. Gu", "K. Liou", "S. Ou"],
+    "venue": "Fovell",
+    "year": 2011
+  }, {
+    "title": "Variation in OMI SO2 measurements between extrusive and non-extrusive periods",
+    "authors": ["C.S.L. Hayer", "G. Wadge", "M. Edmonds"],
+    "year": 2010
+  }, {
+    "title": "Observations of the eruption of the Sarychev volcano and simulations using the HadGEM2 climate",
+    "authors": ["Soufrière Hills Volcano", "Montserrat", "AGU Fall Meeting", "San Francisco", "Calif", "Abstract V53B-2253. Haywood", "J. A"],
+    "year": 2010
+  }, {
+    "title": "Evaluations of cirrus contamination and screening in ground aerosol observations using collocated lidar",
+    "authors": [],
+    "venue": "EGU General Assembly Conference Abstracts,",
+    "year": 2012
+  }, {
+    "title": "A database of spectral surface reflectivity in the range 335–772",
+    "authors": ["R.B.A. Koelemeijer", "J.F. de Haan", "P. Stammes"],
+    "year": 2003
+  }, {
+    "title": "Negligible climatic effects from the 2008 Okmok and Kasatochi volcanic eruptions",
+    "authors": ["A. Robock", "A. Bourassa"],
+    "venue": "J. Geophys",
+    "year": 2010
+  }, {
+    "title": "Simulation and observations",
+    "authors": ["Res", "D00L", "A. Robock", "A. Bourassa", "T. Deshler", "D. Wu", "I. Mattis", "F. Finger", "A. Hoffmann", "C. Ritter", "L. Bitar"],
+    "year": 2011
+  }, {
+    "title": "On the correlation between ice water content and ice crystal size and its application",
+    "authors": ["K. N", "Y. Gu", "Y. Que", "G. Mac Farquhar"],
+    "venue": "J. Atmos. Sci.,",
+    "year": 1988
+  }, {
+    "title": "Tropospheric volcanic aerosol, in Volcanism and the Earth’s Atmosphere",
+    "authors": ["T.A. Mather", "D.M. Pyle", "C. Oppenheimer"],
+    "venue": "Geophys. Monogr. Ser.,",
+    "year": 2003
+  }, {
+    "title": "First synoptic analysis of volcanic degassing in Papua New Guinea, Geochem",
+    "authors": ["B. McCormick", "M. Edmonds", "T. Mather", "S. Carn"],
+    "venue": "Geophys. Geosyst.,",
+    "year": 2012
+  }, {
+    "title": "Volcano monitoring applications of the Ozone Monitoring Instrument, in Remote Sensing of Volcanoes and Volcanic Processes: Integrating Observation and Modelling",
+    "authors": ["B. McCormick", "M. Edmonds", "T. Mather", "R. Campion", "C. Hayer", "H. Thomas", "S. Carn"],
+    "venue": "Spec. Publ.,",
+    "year": 2013
+  }, {
+    "title": "A comparison of satellite and ground-based measurements of SO2 emissions from Tungurahua volcano, Ecuador",
+    "authors": ["B. McCormick", "M. Herzog", "J. Yiang", "M. Edmonds", "T. Mather", "S. Carn", "S. Hidalgo", "B. Langmann"],
+    "venue": "J. Geophys. Res. Atmos.,",
+    "year": 2014
+  }, {
+    "title": "Ten years of satellite observations reveal highly variable sulphur dioxide emissions at Anatahan Volcano, Mariana Islands",
+    "authors": ["B. McCormick", "C. Popp", "B. Andrews", "E. Cottrell"],
+    "venue": "J. Geophys. Res. Atmos.,",
+    "year": 2015
+  }, {
+    "title": "Reconstruction of SO2 flux emission chronology from space-based measurements",
+    "authors": ["L. Merucci", "M. Burton", "S. Corradini", "G.G. Salerno"],
+    "venue": "J. Volcanol. Geotherm. Res.,",
+    "year": 2011
+  }, {
+    "title": "Volcanic ash hazards to aviation, in Encyclopedia of Volcanoes, edited by H",
+    "authors": ["T.P. Miller", "T.J. Casadevall"],
+    "year": 2000
+  }, {
+    "title": "Recent trends in global greenhouse gas emissions: Regional trends 1970-917 2000 and spatial distribution of key sources",
+    "authors": ["J.G.J. Olivier", "J.A. Van Aardenne", "F.J. Dentener", "V. Pagliar", "L.N. Ganzeveld", "J.A.H.W. Peters"],
+    "venue": "Environ. Sci.,",
+    "year": 2005
+  }, {
+    "title": "Sulfur degassing from volcanoes: Source conditions, surveillance, plume chemistry and Earth system impacts",
+    "authors": ["C. Oppenheimer", "B. Scaillet", "R.S. Martin"],
+    "venue": "Rev. Mineral. Geochem.,",
+    "year": 2011
+  }, {
+    "title": "Natural and transboundary pollution influences on sulfate-nitrate-ammonium aerosols in the United States: Implications for policy",
+    "authors": ["R.J. Park", "D.J. Jacob", "R.M.B.D. Field"],
+    "venue": "Yantosca, andM. Chin",
+    "year": 2004
+  }, {
+    "title": "Volcanic eruptions and climate",
+    "authors": ["A. Robock"],
+    "venue": "Rev. Geophys.,",
+    "year": 2000
+  }, {
+    "title": "Volcanic contribution to decadal changes in tropospheric temperature",
+    "authors": ["Santer", "B. D"],
+    "venue": "Nat. Geosci.,",
+    "year": 2014
+  }, {
+    "title": "Cirrus clouds and deep convection in the tropics: Insights from CALIPSO and CloudSat",
+    "authors": ["K. Sassen", "Z. Wang", "D. Liu"],
+    "venue": "J. Geophys. Res., 114,",
+    "year": 2009
+  }, {
+    "title": "Stratospheric aerosol optical depths, 1850–1990",
+    "authors": ["M. Sato", "J.E. Hansen", "M.P. McCormick", "J.B. Pollack"],
+    "venue": "J. Geophys. Res.,",
+    "year": 1993
+  }, {
+    "title": "Excess mortality in Europe following a future Laki-style Icelandic eruption",
+    "authors": ["A. Schmidt", "B. Ostro", "K.S. Carslaw", "M. Wilson", "T. Thordarson", "G.W. Mann", "A.J. Simmons"],
+    "venue": "Proc. Natl. Acad. Sci. U.S.A.,",
+    "year": 2011
+  }, {
+    "title": "Importance of tropospheric volcanic aerosol for indirect radiative forcing of climate",
+    "authors": ["A. Schmidt", "K. Carslaw", "G. Mann", "A. Rap", "K. Pringle", "D. Spracklen", "M. Wilson", "P. Forster"],
+    "venue": "Atmos. Chem. Phys.,",
+    "year": 2012
+  }, {
+    "title": "The persistently variable “background” stratospheric aerosol layer and global climate",
+    "authors": ["S. Solomon", "J. Daniel", "R. Neely", "J.-P. Vernier", "E. Dutton", "L. Thomason"],
+    "venue": "change, Science,",
+    "year": 2011
+  }, {
+    "title": "The tropospheric sulphur cycle and the role of volcanic",
+    "authors": ["D.S. Stevenson", "C.E. Johnson", "W.J. Collins", "R. G"],
+    "venue": "Derwent",
+    "year": 2003
+  }, {
+    "title": "A multi-sensor satellite assessment of SO2 emissions from the 2012–13 eruption of Plosky Tolbachik volcano, Kamchatka",
+    "authors": ["J.W. Telling", "V.J.B. Flower", "S.A. Carn"],
+    "venue": "J. Volcanol. Geotherm. Res.,",
+    "year": 2015
+  }, {
+    "title": "Emissions from volcanoes, in Emissions of Atmospheric Trace Compounds",
+    "authors": ["C. Textor", "H.-F. Graf", "C. Timmreck"],
+    "venue": "Robock",
+    "year": 2004
+  }, {
+    "title": "Volcanic SO2 fluxes derived from satellite data: A survey using OMI, GOME-2, IASI and MODIS",
+    "authors": ["N Theys"],
+    "venue": "Atmos. Chem. Phys.,",
+    "year": 2013
+  }, {
+    "title": "A multi-sensor comparison of sulphur dioxide emissions from the 2005 eruption of Sierra Negra volcano, Galápagos Islands",
+    "authors": ["H.E. Thomas", "I.M. Watson", "C. Kearney", "S.A. Carn", "S.J. Murray"],
+    "venue": "Remote Sens. Environ.,",
+    "year": 2009
+  }, {
+    "title": "Modeling the climatic effects of large explosive volcanic eruptions",
+    "authors": ["C. Timmreck"],
+    "venue": "WIREs Clim. Change,",
+    "year": 2012
+  }, {
+    "title": "Analysis of aircraft and satellite measurements from the Intercontinental Chemical Transport Experiment (INTEX-B) to quantify long-range transport of East Asian sulfur to Canada, Atmos",
+    "authors": ["A van Donkelaar"],
+    "venue": "Chem. Phys.,",
+    "year": 2008
+  }, {
+    "title": "Major influence of tropical volcanic eruptions on the stratospheric aerosol layer during the last decade, Geophys",
+    "authors": ["Vernier", "J. P"],
+    "venue": "Res. Lett., 38,",
+    "year": 2011
+  }, {
+    "title": "Bedka (2013a), Comment on “Large volcanic aerosol load in the stratosphere linked to Asian monsoon transport",
+    "authors": ["J.P. Vernier", "L.W. Thomason", "T.D. Fairlie", "P. Minnis", "R. Palikonda", "K. M"],
+    "year": 2013
+  }, {
+    "title": "An advanced system to monitor the 3D structure of diffuse volcanic ash clouds",
+    "authors": ["Vernier", "J. P"],
+    "venue": "J. Appl. Meteorol. Climatol.,",
+    "year": 2013
+  }, {
+    "title": "GOES 8 aerosol optical thickness assimilation in a mesoscale model: Online integration of aerosol radiative effects",
+    "authors": ["J. Wang", "U. Nair", "S.A. Christopher"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2004
+  }, {
+    "title": "Global distribution of solid and aqueous sulfate aerosols: Effect of the hysteresis of particle phase transitions",
+    "authors": ["J. Wang", "A. Hoffmann", "R. Park", "D. Jacob", "S. Martin"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2008
+  }, {
+    "title": "Sensitivity of sulfate direct climate forcing to the hysteresis of particle phase transitions",
+    "authors": ["J. Wang", "D.J. Jacob", "S.T. Martin"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2008
+  }, {
+    "title": "Operational prediction of ash concentrations in the distal volcanic cloud from the 2010 Eyjafjallajökull eruption",
+    "authors": ["Webster", "H. N"],
+    "venue": "J. Geophys. Res., 117,",
+    "year": 2012
+  }, {
+    "title": "The CALIPSO mission: A global 3D view of aerosols and clouds",
+    "authors": ["Winker", "D. M"],
+    "venue": "Bull. Am. Meteorol. Soc.,",
+    "year": 2010
+  }, {
+    "title": "Retrieval of large volcanic SO2 columns from the Aura Ozone Monitoring Instrument: Comparison and limitations",
+    "authors": ["K. Yang", "N.A. Krotkov", "A.J. Krueger", "S.A. Carn", "P.K. Bhartia", "P.F. Levelt"],
+    "venue": "J. Geophys. Res.,",
+    "year": 2007
+  }, {
+    "title": "Improving retrieval of volcanic sulfur dioxide from backscattered UV satellite",
+    "authors": ["K. Yang", "N.A. Krotkov", "A.J. Krueger", "S.A. Carn", "P.K. Bhartia", "P.F. Levelt"],
+    "venue": "observations, Geophys. Res. Lett,",
+    "year": 2009
+  }, {
+    "title": "Estimating the altitude of volcanic sulfur dioxide plumes from spaceborne hyperspectral UV measurements",
+    "authors": ["K. Yang", "X. Liu", "N.A. Krotkov", "A.J. Krueger", "S.A. Carn"],
+    "venue": "Geophys. Res. Lett., 36,",
+    "year": 2009
+  }, {
+    "title": "Direct retrieval of sulfur dioxide amount and altitude from spaceborne hyperspectral UV measurements: Theory and application",
+    "authors": ["K. Yang", "X. Liu", "P.K. Bhartia", "N.A. Krotkov", "S.A. Carn", "E.J. Hughes", "A.J. Krueger", "R.J.D. Spurr", "S.G. Trahan"],
+    "venue": "J. Geophys. Res., 115,",
+    "year": 2010
+  }, {
+    "title": "Microphysical, macrophysical and radiative signatures of volcanic aerosols in trade wind cumulus observed by the A-Train",
+    "authors": ["T. Yuan", "L.A. Remer", "H. Yu"],
+    "venue": "Atmos. Chem. Phys.,",
+    "year": 2011
+  }],
+  "id": "SP:0d8a58d702e8675bcca0ddb21800e84219d0ec4e",
+  "authors": [{
+    "name": "Cui Ge",
+    "affiliations": []
+  }, {
+    "name": "Jun Wang",
+    "affiliations": []
+  }, {
+    "name": "Simon Carn",
+    "affiliations": []
+  }, {
+    "name": "Kai Yang",
+    "affiliations": []
+  }, {
+    "name": "Paul Ginoux",
+    "affiliations": []
+  }, {
+    "name": "Nickolay Krotkov",
+    "affiliations": []
+  }],
+  "abstractText": "An 8 year volcanic SO2 emission inventory for 2005–2012 is obtained based on satellite measurements of SO2 from OMI (Ozone Monitoring Instrument) and ancillary information from the Global Volcanism Program. It includes contributions from global volcanic eruptions and from eight persistently degassing volcanoes in the tropics. It shows significant differences in the estimate of SO2 amount and injection height for medium to large volcanic eruptions as compared to the counterparts in the existing volcanic SO2 database. Emissions from Nyamuragira (DR Congo) in November 2006 and Grímsvötn (Iceland) in May 2011 that were not included in the Intergovernmental Panel on Climate Change 5 (IPCC) inventory are included here. Using the updated emissions, the volcanic sulfate (SO4 2 ) distribution is simulated with the global transport model Goddard Earth Observing System (GEOS)-Chem. The simulated time series of sulfate aerosol optical depth (AOD) above 10 km captures every eruptive volcanic sulfate perturbation with a similar magnitude to that measured by Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observation (CALIPSO). The 8 year average contribution of eruptive SO4 2 to total SO4 2 loading above 10 km is ~10% over most areas of the Northern Hemisphere, with a maxima of 30% in the tropics where the anthropogenic emissions are relatively smaller. The persistently degassing volcanic SO4 2 in the tropics barely reaches above 10 km, but in the lower atmosphere it is regionally dominant (60%+ in terms ofmass) over Hawaii and other oceanic areas northeast of Australia. Although the 7 year average (2005–2011) of eruptive volcanic sulfate forcing of 0.10Wm 2 in this study is comparable to that in the 2013 IPCC report ( 0.09Wm ), significant discrepancies exist for each year. Our simulations also imply that the radiative forcing per unit AOD for volcanic eruptions can vary from 40 to 80Wm , much higher than the 25Wm 2 implied in the IPCC calculations. In terms of sulfate forcing efficiency with respect to SO2 emission, eruptive volcanic sulfate is 5 times larger than anthropogenic sulfate. The sulfate forcing efficiency from degassing volcanic sources is close to that of anthropogenic sources. This study highlights the importance of characterizing both volcanic emission amount and injection altitude aswell as the key role of satellite observations inmaintaining accurate volcanic emissions inventories.",
+  "title": "Satellite-based global volcanic SO2 emissions and sulfate direct radiative forcing during 2005–2012"
+}
