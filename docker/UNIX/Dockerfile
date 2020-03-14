@@ -6,7 +6,7 @@ FROM openjdk:${OPENJDK_TAG}
 MAINTAINER Seongjin Park
 
 ARG SBT_VERSION=1.2.8
-ENV HOME=/home/seongjinpark/research/CLU/research/geo_project/identification
+ENV HOME=/home/seongjinpark/research/git_repo/geo_project/identification
 
 # Install sbt
 RUN \
@@ -43,7 +43,7 @@ RUN apt-get update -qq\
 
 RUN pip3 install --upgrade pip
 RUN pip3 install plotly pynlpl graphviz
-RUN pip3 install -U spacy scikit-learn numpy joblib matplotlib geopy folium certifi
+RUN pip3 install -U spacy scikit-learn numpy joblib matplotlib geopy folium certifi json
 
 
 WORKDIR ${HOME}
