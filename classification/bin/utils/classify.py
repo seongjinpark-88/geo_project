@@ -15,10 +15,77 @@ from sklearn.utils.extmath import safe_sparse_dot
 
 import pickle
 
+import sys
+import os
+import glob
+import json
+
 from joblib import dump, load
 
 
 NDArray = Union[np.ndarray, spmatrix]
+
+def extract_texts(data_path):
+    texts = []
+    for file in glob.glob(os.path.join(data_path, '*.json')):
+        print(file)
+        with open(os.path.join(data_path, file), "r") as f:
+            data = json.load(f)
+
+        try:
+            data = data["metadata"]
+            if "title" in data.keys():
+                # print("Title exists")
+                title = data["title"]
+            
+            # print(title)
+            
+            contents = ""
+            
+            if "abstractText" in data.keys():
+                # print("Abstract exists")
+                abstract = data["abstractText"]
+                contents = contents + "Abstract: " + abstract
+                # print(contents)
+
+            else:
+                if "sections" in data.keys():
+                    # print("Introduction exists")
+                    abstract = data["sections"]
+                    for items in abstract:
+                        if "heading" in items.keys():
+                            if re.findall(r"introduction", items["heading"], re.I):
+                                text = items["text"]
+                                words = text.split()
+
+                                if len(words) > 200:
+                                    introduction = " ".join(words[:200])
+                                else:
+                                    introduction = text 
+
+                                contents = contents + "Introduction: " + introduction
+                                # print(contents)
+
+            if "sections" in data.keys():
+                sections = data["sections"]
+                for sec in sections:
+                    if "heading" in sec.keys():
+                        if re.findall(r"conclus", str(sec["heading"]), re.I):
+                            # print("Conclusion/discussion exists")
+                            text = sec["text"]
+                            text = text.replace("\n", "")
+                            head = sec["heading"]
+                            contents = contents + " " + head + ": " + text
+                            # print(contents)
+
+            result = title + "\t" + contents
+            # print(result)
+            texts.append(result)
+
+        except:
+            pass 
+
+    return texts
 
 
 def read_data(data_path: str) -> Iterator[Tuple[Text, Text]]:
@@ -44,10 +111,10 @@ def read_data(data_path: str) -> Iterator[Tuple[Text, Text]]:
 
 def read_test_data(data_path: str) -> Iterator[Tuple[Text]]:
     #open file
-    f = open(data_path, "r")
-    data = f.readlines()
-    f.close()
-
+    # f = open(data_path, "r")
+    # data = f.readlines()
+    # f.close()
+    data = extract_texts(data_path)
     # iteration
     # result = []
     
