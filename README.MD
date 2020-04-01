@@ -18,10 +18,10 @@
 	```bash
 	bash ./run_summary.sh $1 $2 $3 $4 $5 $6 $7
 	```
-	- e.g., `bash run_summary.sh identification/site_disambiguation.txt classification/data/test_data.txt test_data.txt test_prediction_result.txt test_time_result.json test_site_result.json test_norm_result.json`
+	- e.g., `bash run_summary.sh identification/site_disambiguation.txt classification/sample_jsons test_data.txt test_prediction_result.txt test_time_result.json test_site_result.json test_norm_result.json`
 	- input variables: 
 		1. result of run_location.sh (e.g., site_disambiguation.txt) ($1)
-		2. text file OR directory contains multiple text files (e.g., classification/data/test_data.txt) ($2)
+		2. directory contains multiple json files (e.g., classification/sample_jsons) ($2)
 		3. name of following variables:
 			* output file name for concatenation (e.g., test_data.txt) ($3)
 			* output file name for classification (e.g., test_prediction_result.txt) ($4)
