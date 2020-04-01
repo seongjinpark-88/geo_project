@@ -1,4 +1,5 @@
 identification/src/main/resource/json/
+**/__pycache__/*
 bibjson
 .DS_Store
 **/.idea
@@ -8,9 +9,14 @@ visualization/maps/
 **/test_prediction_result.txt
 **/test_site_result.json
 **/test_time_result.json
+**/sample_site_result.json
+**/sample_time_result.json
+**/sample_prediction_result.txt
+**/test_norm_result.json
 **/ascii_abstracts_v3.txt
 **/processed_data_pd.txt
 **/processed_data_v2.txt
+**/sample_data.txt
 **/result.txt
 **/top100_weight_NBSVM.txt
 **/weight_result.txt
