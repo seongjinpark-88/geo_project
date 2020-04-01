@@ -28,7 +28,7 @@ NDArray = Union[np.ndarray, spmatrix]
 def extract_texts(data_path):
     texts = []
     for file in glob.glob(os.path.join(data_path, '*.json')):
-        print(file)
+        # print(file)
         with open(os.path.join(data_path, file), "r") as f:
             data = json.load(f)
 
@@ -78,10 +78,10 @@ def extract_texts(data_path):
                             contents = contents + " " + head + ": " + text
                             # print(contents)
 
-            result = title + "\t" + contents
+            result = title + "  " + contents
             # print(result)
             texts.append(result)
-
+            # print(result)
         except:
             pass 
 
@@ -120,6 +120,7 @@ def read_test_data(data_path: str) -> Iterator[Tuple[Text]]:
     
     for line in data:    
         text = line.rstrip()
+
         yield text
         # result.append(text)
 
