@@ -5,8 +5,9 @@ bibjson
 .bash_history
 **/.idea
 **/target/
-geo_location_norm/geonames-index/
-visualization/maps/
+geo_location_norm/geonames-index/*
+visualization/maps/*
+visualization/old_maps/*
 **/test_prediction_result.txt
 **/test_site_result.json
 **/test_time_result.json
