@@ -16,42 +16,37 @@
 4. Site/time normalization & classification
 	- Check the current directory. You need to be at `geo_project/` to run `run_summary.sh`
 	```bash
-	bash ./run_summary.sh $1 $2 $3 $4 $5 $6 $7
+	bash ./run_summary.sh $1 $2
 	```
-	- e.g., `bash run_summary.sh identification/site_disambiguation.txt classification/sample_jsons test_data.txt test_prediction_result.txt test_time_result.json test_site_result.json test_norm_result.json`
+	- e.g., `bash run_summary.sh identification/site_identification.txt classification/sample_json`
 	- input variables: 
 		1. result of run_location.sh (e.g., site_disambiguation.txt) ($1)
 		2. directory contains multiple json files (e.g., classification/sample_jsons) ($2)
-		3. name of following variables:
-			* output file name for concatenation (e.g., test_data.txt) ($3)
-			* output file name for classification (e.g., test_prediction_result.txt) ($4)
-			* output file name for time identification (e.g., test_time_result.json) ($5)
-			* output file name for site identification (e.g., test_site_result.json) ($6)
-			* output file name for site normalization (e.g., test_norm_result.json) ($7)
-
+		3. the names of output files are defined in run_summary.sh:
+			* output file of classification: test_prediction_result.txt
+			* output file of time identification:  test_time_result.json
+			* output file of site identification: test_site_result.json
+			* output file of site normalization: test_norm_result.json
+	- output files are stored under `outputs/` as well as each directories
 	- Running order inside:
-		1. concatenation
-			* input: text file OR directory contains multiple text files
-			* execute: run_summary.sh
-			* output: classification/data/$3
-		2. classification
+		1. classification
 			* input: one input file (texts in different lines) 
 			* execute file: classification/bin/classification_ensemble_v2.py
-			* output: time_recognition/data/$4 ("label'tab'text" in each line)
-		3. time identification
-			* input: time_recognition/data/$4
+			* output: time_recognition/data/test_prediction_result.txt ("label'tab'text" in each line)
+		2. time identification
+			* input: time_recognition/data/test_prediction_result.txt
 			* execute file: time_recognition/bin/find_era.py
-			* output: identification/src/main/resources/$5
-		4. site identification
-			* input: identification/src/main/resources/$5 (time result), $1 (site disambiguation), time_identification/data/$4 (classification result)
+			* output: identification/src/main/resources/test_time_result.json
+		3. site identification
+			* input: identification/src/main/resources/test_time_result.json, $1 (site disambiguation), time_identification/data/test_prediction_result.txt
 			* execute file: identification/src/main/scala/geoscience.scala
-			* output: geo_location_norm/src/main/resources/$6
-		5. site normalization
-			* input: interlim_result.json
+			* output: geo_location_norm/src/main/resources/test_site_result.json
+		4. site normalization
+			* input: geo_location_norm/src/main/resources/test_site_result.json
 			* execute file: geo_location_norm/src/main/scala/Location.scala
-			* output: visualization/data/$7
+			* output: visualization/data/test_norm_result.json
 			* 'geonames-index' directory should be located at geo_location_norm (geo_location_norm/geonames-index)
-		6. Visualization
-			* input: visualization/data/$7
+		5. Visualization
+			* input: visualization/data/test_norm_result.json
 			* execute file: visualization/bin/visualization_top{1|3}.py 
-			* output: {Cenozoic|Phanerozoic|Precambrian|Proterozoic}.html
+			* output: visualization/maps/top{1|3}/{Cenozoic|Phanerozoic|Precambrian|Proterozoic}.html
