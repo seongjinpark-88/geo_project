@@ -8,6 +8,8 @@ bibjson
 geo_location_norm/geonames-index/*
 visualization/maps/*
 visualization/old_maps/*
+visualization/data/*.json
+visualization/data/*.txt
 **/test_prediction_result.txt
 **/test_site_result.json
 **/test_time_result.json
