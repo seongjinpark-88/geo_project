@@ -28,21 +28,22 @@ NDArray = Union[np.ndarray, spmatrix]
 def extract_texts(data_path):
     texts = []
     for file in glob.glob(os.path.join(data_path, '*.json')):
-        print(file)
+        # print(file)
         with open(os.path.join(data_path, file), "r") as f:
             data = json.load(f)
 
-        from pprint import pprint
-        pprint(data)
-        exit()
+        # from pprint import pprint
+        # pprint(data)
+        # exit()
 
         try:
-            data = data["metadata"]
+            # data = data["metadata"]
             if "title" in data.keys():
                 # print("Title exists")
                 title = data["title"]
             
             # print(title)
+            # exit()
             
             contents = ""
             
@@ -85,7 +86,7 @@ def extract_texts(data_path):
             result = title + "  " + contents
             # print(result)
             texts.append(result)
-            print(result)
+            # print(result)
 
         except:
             pass 

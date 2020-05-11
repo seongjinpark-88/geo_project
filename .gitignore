@@ -1,6 +1,9 @@
 identification/src/main/resources/json/*
+.python_history
 .cache/*
 **/__pycache__/*
+*/bin/utils/__pycache__/*
+classification/bin/utils/__pycache__/*
 bibjson
 .DS_Store
 .bash_history

@@ -6,7 +6,7 @@ from sklearn.metrics import f1_score, accuracy_score
 from sklearn.model_selection import KFold, train_test_split, cross_val_score
 from sklearn.ensemble import VotingClassifier
 from sklearn.metrics import classification_report, f1_score
-from utils import classify
+from utils import classify_old as classify
 from sklearn.pipeline import Pipeline
 import matplotlib.pyplot as plt
 

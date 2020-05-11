@@ -43,35 +43,41 @@ echo "0. Check file"
 echo "========================"
 
 
-mkdir -p $current_dir/temp
-mkdir -p $current_dir/outputs
+# mkdir -p $current_dir/temp
+# mkdir -p $current_dir/outputs
 
-for file in $current_dir/$2/*.json; do
-	# echo "$file"
-	if grep -q volcanism "$file"; then
-		if grep -q climate "$file"; then
-			cp $file $current_dir/temp/
-		fi
-	elif grep -q magmatism "$file"; then
-		if grep -q climate "$file"; then
-			cp $file $current_dir/temp/
-		fi
-	fi
-done 
+# for file in $current_dir/$2/*.json; do
+# 	# echo "$file"
+# 	if grep -q volcanism "$file"; then
+# 		if grep -q climate "$file"; then
+# 			cp $file $current_dir/temp/
+# 		fi
+# 	elif grep -q magmatism "$file"; then
+# 		if grep -q climate "$file"; then
+# 			cp $file $current_dir/temp/
+# 		fi
+# 	fi
+# done 
 
-echo "There are"
-ls $current_dir/temp | wc -l 
-echo "files containing (volcanism|magmatism) and climate"
+# echo "There are"
+# ls $current_dir/temp | wc -l 
+# echo "files containing (volcanism|magmatism) and climate"
 
-echo "========================"
-echo "1. Classification"
-echo "========================"
+# echo "========================"
+# echo "1. Classification"
+# echo "========================"
 
-cd $classification_dir/bin
-echo $PWD
+# cd $classification_dir/bin
+# echo $PWD
 
-python3 ./classification_ensemble_v2.py $current_dir/temp $time_identification/data/$classification_output
-cp $time_identification/data/$classification_output $current_dir/outputs/
+# echo "There are"
+# ls $current_dir/$2 | wc -l 
+# echo "files in the dir"
+
+
+# # python3 ./classification_ensemble_v2.py $current_dir/temp $time_identification/data/$classification_output
+# python3 ./classification_ensemble_v2.py $current_dir/$2 $time_identification/data/$classification_output
+# cp $time_identification/data/$classification_output $current_dir/outputs/
 
 echo "========================"
 echo "2. Time identification"
