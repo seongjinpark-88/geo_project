@@ -1,19 +1,13 @@
-identification/src/main/resources/json/*
+# overall
 .python_history
 .cache/*
 **/__pycache__/*
 */bin/utils/__pycache__/*
-classification/bin/utils/__pycache__/*
 bibjson
 .DS_Store
 .bash_history
 **/.idea
 **/target/
-geo_location_norm/geonames-index/*
-visualization/maps/*
-visualization/old_maps/*
-visualization/data/*.json
-visualization/data/*.txt
 **/test_prediction_result.txt
 **/test_site_result.json
 **/test_time_result.json
@@ -35,6 +29,30 @@ visualization/data/*.txt
 **/top100_weight_4class.txt
 **/top100_weight.txt
 **/*.zip
+
+# Ignored: classification
+classification/bin/classification_ensemble_v*.py 
+classification/bin/exclude_train.py 
+classification/bin/models
+classification/bin/utils/__pycache__/*
 classification/sample_jsons/
 classification/sample_science/
 output*/
+
+# Ignored: identification
+identification/src/main/resources/json/*
+identification/src/main/resources/text/*
+identification/src/main/scala/cooccurrence.scala
+identification/src/main/scala/getlocation.scala
+identification/src/main/scala/timenorm.scala
+
+
+# Ignored: site normalization
+geo_location_norm/geonames-index/*
+geo_location_norm/src/main/scala/LoLa.scala
+
+visualization/maps/*
+visualization/old_maps/*
+visualization/data/*.json
+visualization/data/*.txt
+

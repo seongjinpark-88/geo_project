@@ -29,6 +29,8 @@ geolocator = Nominatim()
 with open(sys.argv[1], "r") as json_data:
 	data = json.load(json_data, strict = False)
 
+# print(data)
+
 result = defaultdict(dict)
 num_sup = 0
 num_neg = 0
@@ -80,7 +82,13 @@ for k in data.keys():
 					result[time][location]["NEGATE"] += 1
 				else:
 					result[time][location]["SUPPORT"] += 1
-			
+
+print("num sup: ", num_sup)
+print("num sup_loc: ", num_sup_loc)
+print("num_neg: ", num_neg)
+print("num_neg_loc: ", num_neg_loc)
+
+
 print("===================")
 print("START creating MAPS")
 print("===================")
@@ -118,7 +126,7 @@ for time in result.keys():
 						fill = True,
 						fill_color = 'green'
 						).add_to(m)
-	filename = "../maps/top3/" + time + ".html"
+	filename = "../maps/" + time + ".html"
 	m.save(filename)
 
 print("===================")

@@ -6,7 +6,7 @@ from sklearn.metrics import f1_score, accuracy_score
 from sklearn.model_selection import KFold, train_test_split, cross_val_score
 from sklearn.ensemble import VotingClassifier
 from sklearn.metrics import classification_report, f1_score
-from utils import classify_old as classify
+from utils import classify
 from sklearn.pipeline import Pipeline
 import matplotlib.pyplot as plt
 
@@ -80,6 +80,7 @@ def test():
     # train_texts, devel_texts, train_labels, devel_labels = train_test_split(text, label, test_size = 0.1, random_state = 20)
 
     devel_texts = classify.read_test_data(sys.argv[1])
+
     to_features_svm = classify.TextToFeatures(load("models/svm_features.pickle"))
     to_features_nbsvm = classify.TextToFeatures(load("models/nbsvm_features.pickle"))
     to_labels = classify.TextToLabels(load("models/labels.pickle"))

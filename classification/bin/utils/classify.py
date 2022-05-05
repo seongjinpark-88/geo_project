@@ -1,96 +1,40 @@
-from typing import Iterator, Iterable, Tuple, Text, Union
+from typing import Iterator, Iterable, Tuple, Text, Union, List
 
 import numpy as np
 import re
 
 from scipy.sparse import issparse, spmatrix, csr_matrix
 
+import pandas as pd
+
+from tensorflow.keras.models import Sequential, load_model
+from tensorflow.keras.layers import Dense, Dropout
+from tensorflow.keras import models, regularizers, layers, optimizers, losses, metrics
+from tensorflow.keras.callbacks import ModelCheckpoint
+from tensorflow.keras.utils import to_categorical
+import tensorflow as tf 
+from tensorflow import keras
+
+
 from sklearn.preprocessing import LabelEncoder, normalize, binarize, LabelBinarizer
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.calibration import CalibratedClassifierCV
 from sklearn.linear_model import LogisticRegression
 from sklearn.svm import LinearSVC
+from sklearn.ensemble import RandomForestClassifier
 from sklearn.utils import check_array, check_X_y
 from sklearn.utils.extmath import safe_sparse_dot
+from sklearn.neural_network import MLPClassifier
+
+from torch.utils.data import Dataset
+import torch
 
 import pickle
-
-import sys
-import os
-import glob
-import json
 
 from joblib import dump, load
 
 
 NDArray = Union[np.ndarray, spmatrix]
-
-def extract_texts(data_path):
-    texts = []
-    for file in glob.glob(os.path.join(data_path, '*.json')):
-        print(file)
-        with open(os.path.join(data_path, file), "r") as f:
-            data = json.load(f)
-
-        from pprint import pprint
-        pprint(data)
-        exit()
-
-        try:
-            data = data["metadata"]
-            if "title" in data.keys():
-                # print("Title exists")
-                title = data["title"]
-            
-            # print(title)
-            
-            contents = ""
-            
-            if "abstractText" in data.keys():
-                # print("Abstract exists")
-                abstract = data["abstractText"]
-                contents = contents + "Abstract: " + abstract
-                # print(contents)
-
-            else:
-                if "sections" in data.keys():
-                    # print("Introduction exists")
-                    abstract = data["sections"]
-                    for items in abstract:
-                        if "heading" in items.keys():
-                            if re.findall(r"introduction", items["heading"], re.I):
-                                text = items["text"]
-                                words = text.split()
-
-                                if len(words) > 200:
-                                    introduction = " ".join(words[:200])
-                                else:
-                                    introduction = text 
-
-                                contents = contents + "Introduction: " + introduction
-                                # print(contents)
-
-            if "sections" in data.keys():
-                sections = data["sections"]
-                for sec in sections:
-                    if "heading" in sec.keys():
-                        if re.findall(r"conclus", str(sec["heading"]), re.I):
-                            # print("Conclusion/discussion exists")
-                            text = sec["text"]
-                            text = text.replace("\n", "")
-                            head = sec["heading"]
-                            contents = contents + " " + head + ": " + text
-                            # print(contents)
-
-            result = title + "  " + contents
-            # print(result)
-            texts.append(result)
-            print(result)
-
-        except:
-            pass 
-
-    return texts
 
 
 def read_data(data_path: str) -> Iterator[Tuple[Text, Text]]:
@@ -101,7 +45,6 @@ def read_data(data_path: str) -> Iterator[Tuple[Text, Text]]:
 
     # create an array to save the result. 
     result = []
-
 
     for line in data:
         # split and store label/text
@@ -114,22 +57,65 @@ def read_data(data_path: str) -> Iterator[Tuple[Text, Text]]:
 
     return iter(result)
 
+def read_data_list(data_path: str) -> Iterator[Tuple[Text, Text]]:
+    # open file
+    f = open(data_path, "r")
+    data = f.readlines()
+    f.close()
+
+    # create an array to save the result. 
+    labels = []
+    texts = []
+
+    for line in data:
+        # split and store label/text
+        label, text = line.rstrip().split("\t")
+        
+        # create tuple and append it to the result array
+        labels.append(label2int(label))
+        texts.append(text)
+        
+    return labels, texts
+
 def read_test_data(data_path: str) -> Iterator[Tuple[Text]]:
     #open file
-    # f = open(data_path, "r")
-    # data = f.readlines()
-    # f.close()
-    data = extract_texts(data_path)
+    f = open(data_path, "r")
+    data = f.readlines()
+    f.close()
+
     # iteration
-    # result = []
+    result = []
     
     for line in data:    
         text = line.rstrip()
+        # yield text
+        result.append(text)
 
-        yield text
-        # result.append(text)
+    return result
 
-    # return result
+def label2int(label):
+    if label == "__label__UNRELATED":
+        class_int = 3
+    elif label == "__label__SUPPORT":
+        class_int = 0
+    elif label == "__label__NEGATE":
+        class_int = 1
+    elif label == "__label__NEGATE,SUPPORT":
+        class_int = 2
+    return class_int
+
+class TextDataset(Dataset):
+    def __init__(self, texts, labels):
+        self.texts = texts
+        self.labels = labels
+
+    def __len__(self):
+        return len(self.labels)
+
+    def __getitem__(self, idx):
+        item = {key: torch.tensor(val[idx]) for key, val in self.texts.items()}
+        item['labels'] = torch.tensor(self.labels[idx])
+        return item
 
 class TextToFeatures:
     def __init__(self, texts: Iterable[Text], binary = False):
@@ -185,6 +171,10 @@ class TextToFeatures:
     def save(self, feature_path):
         dump(self.vectorizer, open(feature_path, "wb"))
 
+    def load(self, feature_path):
+        self.vectorizer = pickle.load(open(feature_path, "rb"))
+
+
 
 
 class TextToLabels:
@@ -239,6 +229,100 @@ class TextToLabels:
         dump(self.le, open(label_path, "wb"))        
 
 
+class DNN_Classifier:
+    def __init__(self):
+        """Initializes a DNN classifier
+        """
+
+        self.dnn = Sequential()
+
+    def train(self, features:NDArray, labels:NDArray) -> None:
+        """
+        Trains DNN using the given training examples
+        :param features: a feature matrix
+        :param labels: label vector
+        """
+
+        num_feat = np.shape(features)[1]
+        one_hot_label = to_categorical(labels)
+        print(np.shape(one_hot_label))
+        num_label = np.shape(one_hot_label)[1]
+        self.dnn.add(Dense(256, kernel_regularizer=regularizers.l1(0.001), activation='relu', input_shape=(num_feat,)))
+        self.dnn.add(Dropout(0.5))
+        self.dnn.add(Dense(256, kernel_regularizer=regularizers.l1(0.001), activation='relu'))
+        self.dnn.add(Dropout(0.5))
+        self.dnn.add(Dense(num_label, activation='softmax'))
+        self.dnn.summary()
+
+        model_checkpoint_callback = ModelCheckpoint(
+            filepath="models/kerasDNN.hdf5", 
+            monitor="val_loss",
+            mode="min",
+            save_best_only=True
+            )
+
+        # use adam optimizer
+        adam = keras.optimizers.Adam(lr = 0.0001)
+
+        # compile the model
+        self.dnn.compile(optimizer = adam, loss = "categorical_crossentropy", metrics = ['accuracy'])
+        self.history = self.dnn.fit(features, one_hot_label, validation_split=0.2, epochs=400, batch_size=64, 
+            callbacks=[model_checkpoint_callback])
+
+    def predict(self, features: NDArray) -> NDArray:
+        prediction = self.dnn.predict(features)
+        return np.argmax(prediction, axis = -1)
+
+    def save_model(self):
+        model_name = "models/kerasDNN.hdf5"
+        self.dnn.save(model_name)
+    def load_model(self):
+        self.dnn = load_model("models/kerasDNN.hdf5")
+
+class DNNScikitClassifier:
+    def __init__(self):
+        """Initalizes a logistic regression classifier.
+        """
+
+        # call a model which uses
+        # L2 Penalization with 2.0 strength
+        self.classifier = MLPClassifier(random_state=1, early_stopping=True)
+
+    def load_model(self):
+        self.classifier = load("models/scikitDNN.joblib")
+
+    def train(self, features: NDArray, labels: NDArray) -> None:
+        """Trains the classifier using the given training examples.
+
+        :param features: A feature matrix, where each row represents a text.
+        Such matrices will typically be generated via TextToFeatures.
+        :param labels: A label vector, where each entry represents a label.
+        Such vectors will typically be generated via TextToLabels.
+        """
+
+        # train the model with given features and labels
+
+        self.classifier.fit(features, labels)
+
+    def predict(self, features: NDArray) -> NDArray:
+        """Makes predictions for each of the given examples.
+
+        :param features: A feature matrix, where each row represents a text.
+        Such matrices will typically be generated via TextToFeatures.
+        :return: A prediction vector, where each entry represents a label.
+        """
+
+        # make prediction with given feature matrix and
+        # return a prediction vector
+        return self.classifier.predict(features)
+
+    def save_model(self) -> None:
+        # save the model
+        # model name should be written without the extension
+        model_name = "scikitDNN.joblib"
+        dump(self.classifier, open(model_name, "wb"))
+
+
 
 class Classifier:
     def __init__(self):
@@ -283,7 +367,7 @@ class Classifier:
     def save_model(self) -> None:
         # save the model
         # model name should be written without the extension
-        model_name = "linearSVM.joblib"
+        model_name = "models/linearSVM.joblib"
         dump(self.classifier, open(model_name, "wb"))
 
 class NBSVM:
@@ -395,8 +479,54 @@ class NBSVM:
     def save_model(self, ratio_name):
         names = ("n", "ns", "s", "unr")
         np.save(ratio_name, self.ratios)
-        dump(self.labelbin, open("nbsvm_label.pickle", "wb"))        
+        dump(self.labelbin, open("models/nbsvm_label.pickle", "wb"))        
         for i in range(self.n_effective_classes):
-            model_name = "nbsvm_" + names[i] + ".joblib"
+            model_name = "models/nbsvm_" + names[i] + ".joblib"
             dump(self.svms[i], open(model_name, "wb"))    
 
+class RF:
+    def __init__(self):
+        """Initalizes a logistic regression classifier.
+        """
+
+        # call a model which uses
+        # L2 Penalization with 2.0 strength
+        self.classifier = RandomForestClassifier()
+
+    def load_model(self):
+        self.classifier = load("models/RandomForest.joblib")
+
+    def train(self, features: NDArray, labels: NDArray) -> None:
+        """Trains the classifier using the given training examples.
+
+        :param features: A feature matrix, where each row represents a text.
+        Such matrices will typically be generated via TextToFeatures.
+        :param labels: A label vector, where each entry represents a label.
+        Such vectors will typically be generated via TextToLabels.
+        """
+
+        # train the model with given features and labels
+
+        self.classifier.fit(features, labels)
+
+    def predict(self, features: NDArray) -> NDArray:
+        """Makes predictions for each of the given examples.
+
+        :param features: A feature matrix, where each row represents a text.
+        Such matrices will typically be generated via TextToFeatures.
+        :return: A prediction vector, where each entry represents a label.
+        """
+
+        # make prediction with given feature matrix and
+        # return a prediction vector
+        return self.classifier.predict(features)
+
+    def feature_importance(self, features: NDArray, index: List) -> NDArray:
+        feature_imp = pd.Series(self.classifier.feature_importances_, index).sort_values(ascending=False)
+        return feature_imp.head(10)
+
+    def save_model(self) -> None:
+        # save the model
+        # model name should be written without the extension
+        model_name = "RandomForest.joblib"
+        dump(self.classifier, open(model_name, "wb"))

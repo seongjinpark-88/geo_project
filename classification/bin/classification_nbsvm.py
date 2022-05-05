@@ -5,7 +5,7 @@ from sklearn.metrics import f1_score, accuracy_score
 from sklearn.model_selection import KFold, train_test_split
 from sklearn.metrics import classification_report, f1_score
 from utils import classify
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 def sortListWithIndex(list_of_numbers):
     '''
@@ -23,7 +23,7 @@ def run_kfold():
 
     data = np.asarray(data)
 
-    kf = KFold(n_splits=10, shuffle = False, random_state = 77)
+    kf = KFold(n_splits=10, shuffle = True, random_state = 77)
 
     kf.get_n_splits(data)
 
@@ -56,7 +56,7 @@ def run_kfold():
 
         # create the feature extractor and label encoder
         to_features = classify.TextToFeatures(train_texts)
-        to_labels = classify.TextToLabels(train_labels)
+        to_labels = classify.TextToLabels(["__label__UNRELATED", "__label__SUPPORT", "__label__NEGATE", "__label__NEGATE,SUPPORT"])
 
         # train the classifier on the training data
         classifier = classify.NBSVM()
@@ -84,7 +84,7 @@ def run_kfold():
         os.remove("train.txt")
         os.remove("test.txt")
         i += 1
-
+    print(to_labels(["__label__UNRELATED", "__label__SUPPORT", "__label__NEGATE", "__label__NEGATE,SUPPORT"]))
     print("\n\n================\n\n")
     print("FINAL REPORT")
     print(classification_report(devel_data, prediction, labels=None, target_names=None, sample_weight=None, digits=3))

@@ -5,28 +5,7 @@ import sys
 import re
 import json
 
-# with open("../data/geology_era_specific.csv", "r") as f:
-# 	data = f.readlines()
-
-# # times = ["Tertiary", "Maastrichtian", "Danian", "Guadalupian", "Triassic", "Cenomanian", "Cretaceous", "Paleogene", "Palaeocene", "Pliocene", "Pleistocene", "Holocene", "Zanclean", "Cambrian", "Paleozoic", "Palaeozoic", "Ordovician", "Neogene", "Phanerozoic", "Silurian", "Devonian", "Carboniferous", "Permian", "Neoproterozoic", "Mesozoic", "Quaternary", "Precambrian", "Jurassic"]
-
-# time_dict = {}
-
-# for i in range(1, len(data)):
-# 	line = data[i].rstrip()
-
-# 	era, start, end = line.split(",")
-
-# 	time_dict[era] = {}
-
-# 	time_dict[era]['START'] = int(start)
-# 	time_dict[era]['END'] = int(end)
-
-current_year = 2020
-
-
-# for k in time_dict.keys():
-# 	print("%s\t%d\t%d" % (k, current_year - time_dict[k]['START'], current_year - time_dict[k]['END']))
+current_year = 2022
 
 # prediction data
 with open(sys.argv[1], "r") as input_file:
@@ -85,14 +64,8 @@ for line in input_data:
 	else:
 		counts[file_title]["label"] = [label]
 
-# from pprint import pprint
-# print(total_time)
-# print(sum(list(time_freq.values())))
-# pprint(time_freq)
-# counts["time"] = time_freq
-
 json_dict = json.dumps(counts, indent=4)
+
 # output json
-f = open(sys.argv[2], 'w')
-print(json_dict, file = f)
-f.close()
+with open(sys.argv[2], "w") as f:
+	print(json_dict, file = f)
